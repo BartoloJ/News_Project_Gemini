@@ -582,6 +582,62 @@ footer {
   text-align: center;
 }
 
+/* ---------- Header Controls ---------- */
+.header-controls {
+  margin-top: 0.75rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.odds-toggle-label,
+.ai-model-select-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--muted);
+  cursor: pointer;
+  user-select: none;
+  background: color-mix(in srgb, var(--border) 35%, transparent);
+  padding: 0.35rem 0.85rem;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  transition: all 0.2s ease;
+}
+
+.odds-toggle-label:hover,
+.ai-model-select-label:hover {
+  border-color: var(--accent);
+  color: var(--text);
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+}
+
+.ai-select-icon {
+  font-size: 0.9rem;
+}
+
+.ai-model-select {
+  background: transparent;
+  border: none;
+  color: var(--text);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+  padding: 0 0.15rem;
+  font-family: inherit;
+  border-radius: 4px;
+}
+
+.ai-model-select option {
+  background: var(--bg);
+  color: var(--text);
+}
+
 /* ---------- Headlines Ask Gemini Buttons ---------- */
 .headline-list li {
   display: flex;

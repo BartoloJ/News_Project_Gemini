@@ -127,14 +127,15 @@ function renderSourceBody(source) {
   const staleNote = !source.ok && source.updatedAt
     ? `<p class="empty">Saved copy from ${relativeTime(new Date(source.updatedAt).getTime())} — couldn't refresh just now.</p>`
     : '';
+  const modelName = getAiModelName();
   return staleNote + '<ul class="headline-list">' + items.map((it) => {
     const titleAttr = escapeAttr(it.title);
     const sourceAttr = escapeAttr(source.name);
     const linkAttr = escapeAttr(it.link);
     return `<li class="headline-item">
       <a href="${it.link}" target="_blank" rel="noopener noreferrer" class="headline-link">${escapeHtml(it.title)}</a>
-      <button class="ask-gemini-btn" data-title="${titleAttr}" data-source="${sourceAttr}" data-link="${linkAttr}" title="Ask Gemini about this headline">
-        <span class="sparkle-icon">✨</span> Ask Gemini
+      <button class="ask-gemini-btn" data-title="${titleAttr}" data-source="${sourceAttr}" data-link="${linkAttr}" title="Ask ${modelName} about this headline">
+        <span class="sparkle-icon">✨</span> Ask ${modelName}
       </button>
     </li>`;
   }).join('') + '</ul>';
@@ -717,10 +718,44 @@ async function loadGolfLeaderboards() {
   });
 }
 
-// ---------- Ask Gemini Handlers (Copy Prompt + Toast + Open Gemini) ----------
+// ---------- Ask AI Handlers (Copy Prompt + Toast + Open Gemini/ChatGPT) ----------
+
+const AI_MODEL_PREF_KEY = 'user_ai_model_pref';
+
+function getAiModelPref() {
+  const saved = localStorage.getItem(AI_MODEL_PREF_KEY);
+  return (saved === 'chatgpt') ? 'chatgpt' : 'gemini';
+}
+
+function getAiModelName() {
+  return getAiModelPref() === 'chatgpt' ? 'ChatGPT' : 'Gemini';
+}
+
+function updateHeadlineButtonLabels() {
+  const modelName = getAiModelName();
+  const buttons = document.querySelectorAll('.ask-gemini-btn');
+  buttons.forEach(btn => {
+    btn.title = `Ask ${modelName} about this headline`;
+    btn.innerHTML = `<span class="sparkle-icon">✨</span> Ask ${modelName}`;
+  });
+}
+
+function initAiModelSelect() {
+  const selectEl = document.getElementById('ai-model-select');
+  if (!selectEl) return;
+
+  const currentPref = getAiModelPref();
+  selectEl.value = currentPref;
+
+  selectEl.addEventListener('change', (e) => {
+    const val = e.target.value;
+    localStorage.setItem(AI_MODEL_PREF_KEY, val);
+    updateHeadlineButtonLabels();
+  });
+}
 
 let toastTimeout = null;
-function showToast(msg = 'Headline copied! Paste into Gemini.') {
+function showToast(msg = 'Headline copied!') {
   const toast = document.getElementById('toast');
   const msgEl = document.getElementById('toast-message');
   if (!toast) return;
@@ -737,7 +772,7 @@ function showToast(msg = 'Headline copied! Paste into Gemini.') {
       toast.classList.add('hidden');
       toast.classList.remove('toast-hiding');
     }, 300);
-  }, 2500);
+  }, 3000);
 }
 
 function fallbackCopyText(text) {
@@ -756,8 +791,9 @@ function fallbackCopyText(text) {
   document.body.removeChild(textarea);
 }
 
-function handleAskGeminiClick(title) {
+function handleAskAiClick(title) {
   if (!title) return;
+  const model = getAiModelPref();
   const promptText = `Please summarize and provide context for this headline: "${title}"`;
 
   // 1. Copy Prompt to Clipboard
@@ -770,11 +806,35 @@ function handleAskGeminiClick(title) {
   }
 
   // 2. Show Toast Feedback
-  showToast('Headline copied! Paste into Gemini.');
+  if (model === 'chatgpt') {
+    showToast('Copied! Paste into ChatGPT.');
+  } else {
+    showToast("Copied! Tap 'Open in App' at the top of Safari if it opens in browser.");
+  }
 
-  // 3. Open Gemini in a new tab after 500ms delay
+  // 3. Open corresponding app scheme / URL in new window/tab after 500ms delay
   setTimeout(() => {
-    window.open('https://gemini.google.com', '_blank', 'noopener,noreferrer');
+    const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+    if (model === 'chatgpt') {
+      if (isMobile) {
+        window.location.href = 'chatgpt://';
+        setTimeout(() => {
+          window.open('https://chatgpt.com', '_blank', 'noopener,noreferrer');
+        }, 800);
+      } else {
+        window.open('https://chatgpt.com', '_blank', 'noopener,noreferrer');
+      }
+    } else {
+      // Gemini
+      if (isMobile) {
+        window.location.href = 'googleapp://';
+        setTimeout(() => {
+          window.open('https://gemini.google.com', '_blank', 'noopener,noreferrer');
+        }, 800);
+      } else {
+        window.open('https://gemini.google.com', '_blank', 'noopener,noreferrer');
+      }
+    }
   }, 500);
 }
 
@@ -788,7 +848,7 @@ function initAskGeminiHandlers() {
       e.preventDefault();
       e.stopPropagation();
       const title = btn.getAttribute('data-title');
-      handleAskGeminiClick(title);
+      handleAskAiClick(title);
     }
   });
 }
@@ -825,6 +885,7 @@ function setLastUpdated() {
 }
 
 initOddsToggle();
+initAiModelSelect();
 initAskGeminiHandlers();
 setLastUpdated();
 loadHeadlines();
