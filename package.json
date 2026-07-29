@@ -1,0 +1,14 @@
+{
+  "name": "daily-wrap",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "node scripts/fetch-headlines.js",
+    "start": "node server.js",
+    "lint": "echo 'No linting required'"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

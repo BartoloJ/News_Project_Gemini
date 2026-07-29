@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Wrap — Headlines &amp; Scores</title>
+<link rel="stylesheet" href="style.css?v=6">
+</head>
+<body>
+<header class="site-header">
+  <h1>Daily Wrap</h1>
+  <p class="tagline">Today's headlines, golf leaderboards, yesterday's scores, and what's on today and tomorrow — all on one page.</p>
+  <p class="updated" id="last-updated"></p>
+</header>
+
+<main>
+  <details id="headlines" class="panel" open>
+    <summary><h2>Today's Headlines</h2></summary>
+    <div class="panel-body">
+      <p class="section-sub" id="headlines-sub"></p>
+      <div id="headlines-list" class="source-groups"><p class="loading">Loading headlines…</p></div>
+    </div>
+  </details>
+
+  <details id="golf-tournaments" class="panel" open>
+    <summary><h2>Golf Leaderboards &amp; Tournaments</h2></summary>
+    <div class="panel-body">
+      <p class="section-sub" id="golf-date">Live PGA TOUR, LPGA Tour, and LIV Golf standings and tournament details</p>
+      <div id="golf-list" class="golf-groups"><p class="loading">Loading golf leaderboards…</p></div>
+    </div>
+  </details>
+
+  <details id="yesterday-scores" class="panel" open>
+    <summary><h2>Yesterday's Scores</h2></summary>
+    <div class="panel-body">
+      <p class="section-sub" id="yesterday-date"></p>
+      <div id="yesterday-scores-list" class="league-groups"><p class="loading">Loading scores…</p></div>
+    </div>
+  </details>
+
+  <details id="today-games" class="panel" open>
+    <summary><h2>Today's Games</h2></summary>
+    <div class="panel-body">
+      <p class="section-sub" id="today-date"></p>
+      <div id="today-games-list" class="league-groups"><p class="loading">Loading schedule…</p></div>
+    </div>
+  </details>
+
+  <details id="tomorrow-games" class="panel">
+    <summary><h2>Tomorrow's Games</h2></summary>
+    <div class="panel-body">
+      <p class="section-sub" id="tomorrow-date"></p>
+      <div id="tomorrow-games-list" class="league-groups"><p class="loading">Loading schedule…</p></div>
+    </div>
+  </details>
+</main>
+
+<footer>
+  <p>Headlines via BBC, NPR, AP News, Reuters, and WSJ RSS, refreshed every 30 minutes by a scheduled job. Scores, golf leaderboards &amp; schedules via ESPN's public scoreboard API. Team, fighter, and golfer names link to their ESPN.com page for full stats, roster, and schedule. Game times shown in your device's local timezone.</p>
+</footer>
+
+<script src="app.js?v=12"></script>
+</body>
+</html>
