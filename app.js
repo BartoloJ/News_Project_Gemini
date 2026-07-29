@@ -683,17 +683,24 @@ function renderYesterdayGame(ev, league) {
   const sportsPrompt = buildSportsPrompt(ev, league);
 
   return `<li class="game-row ${excitement.isTopMatchup ? 'is-top-matchup' : 'is-standard-matchup'}" data-top-matchup="${excitement.isTopMatchup}">
-    <div class="game-main">
-      <div class="game-teams">
-        <div class="team-row"><span class="team-name">${league.name} · ${nameHtml(away)}</span><span class="team-score">${away.score}</span></div>
-        <div class="team-row"><span class="team-name">${nameHtml(home)}</span><span class="team-score">${home.score}</span></div>
-      </div>
+    <div class="game-top-meta">
+      <span class="game-league-name">${league.name}</span>
       <div class="game-status-wrapper">
         ${topBadge}
         <span class="game-status">${ev.statusDetail || 'Final'}</span>
         <button class="ask-gemini-btn sports-ask-ai-btn" data-prompt="${escapeAttr(sportsPrompt)}" title="Ask ${modelName} about this matchup">
           <span class="sparkle-icon">✨</span> Ask ${modelName}
         </button>
+      </div>
+    </div>
+    <div class="game-teams-grid">
+      <div class="team-row">
+        <span class="team-name">${nameHtml(away)}</span>
+        <span class="team-score">${away.score}</span>
+      </div>
+      <div class="team-row">
+        <span class="team-name">${nameHtml(home)}</span>
+        <span class="team-score">${home.score}</span>
       </div>
     </div>
     ${renderOddsBar(ev)}
@@ -720,17 +727,24 @@ function renderScheduledGame(ev, league) {
   const sportsPrompt = buildSportsPrompt(ev, league);
 
   return `<li class="game-row ${excitement.isTopMatchup ? 'is-top-matchup' : 'is-standard-matchup'}" data-top-matchup="${excitement.isTopMatchup}">
-    <div class="game-main">
-      <div class="game-teams">
-        <div class="team-row"><span class="team-name">${league.name} · ${nameHtml(away)}</span>${showScores ? `<span class="team-score">${away.score}</span>` : ''}</div>
-        <div class="team-row"><span class="team-name">${nameHtml(home)}</span>${showScores ? `<span class="team-score">${showScores ? home.score : ''}</span>` : ''}</div>
-      </div>
+    <div class="game-top-meta">
+      <span class="game-league-name">${league.name}</span>
       <div class="game-status-wrapper">
         ${topBadge}
         ${statusHtml}
         <button class="ask-gemini-btn sports-ask-ai-btn" data-prompt="${escapeAttr(sportsPrompt)}" title="Ask ${modelName} about this matchup">
           <span class="sparkle-icon">✨</span> Ask ${modelName}
         </button>
+      </div>
+    </div>
+    <div class="game-teams-grid">
+      <div class="team-row">
+        <span class="team-name">${nameHtml(away)}</span>
+        ${showScores ? `<span class="team-score">${away.score}</span>` : ''}
+      </div>
+      <div class="team-row">
+        <span class="team-name">${nameHtml(home)}</span>
+        ${showScores ? `<span class="team-score">${home.score}</span>` : ''}
       </div>
     </div>
     ${renderOddsBar(ev)}
