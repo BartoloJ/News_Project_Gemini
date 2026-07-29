@@ -15,10 +15,6 @@
       <input type="checkbox" id="toggle-odds" checked>
       <span>🎲 Gambling Odds</span>
     </label>
-    <button id="open-settings-btn" class="settings-btn" title="Configure Gemini API Key">
-      <span>⚙️ Settings</span>
-      <span id="api-key-status-badge" class="key-status-badge"></span>
-    </button>
   </div>
   <p class="updated" id="last-updated"></p>
 </header>
@@ -69,85 +65,12 @@
   <p>Headlines via BBC, NPR, AP News, Reuters, and WSJ RSS, refreshed every 30 minutes by a scheduled job. Scores, golf leaderboards &amp; schedules via ESPN's public scoreboard API. Team, fighter, and golfer names link to their ESPN.com page for full stats, roster, and schedule. Game times shown in your device's local timezone.</p>
 </footer>
 
-<!-- Settings / API Key Modal -->
-<div id="settings-modal" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
-  <div class="modal-card">
-    <div class="modal-header">
-      <h3 id="modal-title">⚙️ Settings</h3>
-      <button id="close-settings-btn" class="modal-close-btn" aria-label="Close Settings">&times;</button>
-    </div>
-    <div class="modal-body">
-      <div id="modal-notice-banner" class="notice-banner hidden"></div>
-      <div class="setting-group">
-        <label for="gemini-key-input" class="setting-label">
-          <strong>Google Gemini API Key</strong>
-          <span id="modal-key-status" class="status-pill">No Key Set</span>
-        </label>
-        <p class="setting-desc">
-          Bring your own Gemini API key to enable "Ask Gemini" Q&amp;A and AI summaries for news headlines.
-        </p>
-        <div class="input-with-toggle">
-          <input type="password" id="gemini-key-input" placeholder="Paste your Gemini API key (AIzaSy...)" autocomplete="off" spellcheck="false" />
-          <button type="button" id="toggle-key-visibility" class="toggle-vis-btn" title="Show/Hide Key">👁️</button>
-        </div>
-        <p class="setting-help">
-          Don't have a key? Get a free one in seconds at 
-          <a href="https://aistudio.google.com/app/apikey" target="_blank" rel="noopener noreferrer" class="external-link">Google AI Studio ↗</a>.
-          Your key is saved locally in your browser (<code>localStorage</code>) and never sent to any external server except directly to Google AI APIs.
-        </p>
-      </div>
-    </div>
-    <div class="modal-footer">
-      <button type="button" id="clear-key-btn" class="btn btn-secondary">Clear Key</button>
-      <button type="button" id="save-key-btn" class="btn btn-primary">Save Key</button>
-    </div>
-  </div>
+<!-- Toast Notification -->
+<div id="toast" class="toast hidden" role="status" aria-live="polite">
+  <span class="toast-icon">✨</span>
+  <span id="toast-message">Headline copied! Paste into Gemini.</span>
 </div>
 
-<!-- Ask Gemini Drawer / Side Panel -->
-<div id="chat-backdrop" class="chat-backdrop hidden"></div>
-<aside id="chat-panel" class="chat-panel hidden" aria-label="Ask Gemini Chat Interface">
-  <div class="chat-header">
-    <div class="chat-title-group">
-      <span class="chat-logo">✨</span>
-      <div>
-        <h3>Ask Gemini</h3>
-        <span class="chat-subtitle">AI Assistant for Headlines</span>
-      </div>
-    </div>
-    <button id="close-chat-btn" class="chat-close-btn" aria-label="Close Chat">&times;</button>
-  </div>
-
-  <div id="chat-context-card" class="chat-context-card">
-    <div class="context-meta">
-      <span id="chat-source-badge" class="source-badge">Source</span>
-      <span class="context-label">Current Headline</span>
-    </div>
-    <h4 id="chat-headline-title" class="context-title">Headline Title</h4>
-    <a id="chat-headline-link" class="context-link" href="#" target="_blank" rel="noopener noreferrer">Read Original Article ↗</a>
-  </div>
-
-  <div id="chat-messages" class="chat-messages">
-    <!-- Messages & prompt chips populated via JavaScript -->
-  </div>
-
-  <div class="chat-footer">
-    <div class="chat-input-wrapper">
-      <textarea id="chat-input" placeholder="Ask anything about this headline..." rows="1"></textarea>
-      <button id="chat-send-btn" class="chat-send-btn" title="Send Message" aria-label="Send Message" disabled>
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-          <line x1="22" y1="2" x2="11" y2="13"></line>
-          <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
-        </svg>
-      </button>
-    </div>
-    <div class="chat-footer-meta">
-      <span id="chat-key-info">Key: <code>localStorage.getItem('user_gemini_api_key')</code></span>
-      <button type="button" id="chat-change-key-btn" class="text-link-btn">⚙️ Change API Key</button>
-    </div>
-  </div>
-</aside>
-
-<script src="app.js?v=13"></script>
+<script src="app.js?v=14"></script>
 </body>
 </html>
