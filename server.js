@@ -1,5 +1,6 @@
 import express from 'express';
 import path from 'path';
+import fs from 'fs';
 import { fileURLToPath } from 'url';
 import { exec } from 'child_process';
 
@@ -33,7 +34,12 @@ app.post('/api/refresh-headlines', (req, res) => {
       console.error(`Error refreshing headlines: ${error.message}`);
       return res.status(500).json({ error: 'Failed to refresh headlines' });
     }
-    res.json({ message: 'Headlines refreshed successfully', output: stdout });
+    try {
+      const content = fs.readFileSync(path.join(__dirname, 'headlines.json'), 'utf8');
+      res.json(JSON.parse(content));
+    } catch {
+      res.json({ message: 'Headlines refreshed successfully', output: stdout });
+    }
   });
 });
 

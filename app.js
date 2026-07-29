@@ -121,13 +121,29 @@ async function loadHeadlines() {
 
   let data;
   try {
-    // no-store: this file is regenerated every ~30 min by a GitHub Actions
-    // workflow, and we want the current copy, not one the browser cached.
     const res = await fetch('headlines.json', { cache: 'no-store' });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const contentType = res.headers.get('content-type') || '';
+    if (!res.ok || contentType.includes('text/html')) {
+      throw new Error(`Invalid response for headlines.json: status ${res.status}, type ${contentType}`);
+    }
     data = await res.json();
   } catch (err) {
-    console.warn('Failed to load headlines.json:', err);
+    console.warn('headlines.json not directly available, attempting refresh API:', err);
+    try {
+      const refreshRes = await fetch('/api/refresh-headlines', { method: 'POST' });
+      if (refreshRes.ok) {
+        data = await refreshRes.json();
+        if (data.message && !data.sources) {
+          const res2 = await fetch('headlines.json', { cache: 'no-store' });
+          data = await res2.json();
+        }
+      }
+    } catch (refreshErr) {
+      console.warn('Failed to refresh headlines via API:', refreshErr);
+    }
+  }
+
+  if (!data || !data.sources || data.sources.length === 0) {
     container.innerHTML = '<p class="error">Couldn\'t load headlines right now. Try refreshing the page.</p>';
     return;
   }
