@@ -196,11 +196,12 @@ function extractParticipant(c, league) {
   const isAthlete = !!c.athlete && !c.team;
   const entity = c.team || c.athlete;
   const name = entity?.displayName || entity?.shortDisplayName || entity?.name || 'TBD';
+  const shortName = entity?.abbreviation || entity?.shortDisplayName || entity?.name || name;
   const link = entity?.id
     ? `https://www.espn.com/${league.siteSport}/${isAthlete ? 'player' : 'team'}/_/id/${entity.id}`
     : null;
   const rank = c.curatedRank?.current && c.curatedRank.current <= 25 ? c.curatedRank.current : null;
-  return { name, score: c.score, link, rank };
+  return { name, shortName, score: c.score, link, rank };
 }
 
 function formatML(val) {
@@ -595,6 +596,9 @@ function renderOddsBar(ev) {
   const o = ev.odds;
   if (!o) return '';
 
+  const awayShort = ev.away?.shortName || ev.away?.name || 'Away';
+  const homeShort = ev.home?.shortName || ev.home?.name || 'Home';
+
   let html = `<div class="game-odds-container">`;
 
   if (ev.state === 'in') {
@@ -608,18 +612,18 @@ function renderOddsBar(ev) {
       const awayML = formatML(o.liveAwayML);
       const homeML = formatML(o.liveHomeML);
       const drawML = o.liveDrawML ? ` · Draw ${formatML(o.liveDrawML)}` : '';
-      html += `<span class="odds-chip live-ml-chip">Live ML: <b>${ev.away?.name || 'Away'}: ${awayML}</b> · <b>${ev.home?.name || 'Home'}: ${homeML}</b>${drawML}</span>`;
+      html += `<span class="odds-chip live-ml-chip">Live ML: <b>${awayShort} ${awayML}</b> / <b>${homeShort} ${homeML}</b>${drawML}</span>`;
     } else if (isOff) {
       html += `<span class="odds-chip muted-chip">Live Odds: Board Locked</span>`;
     }
 
     if (o.winProb !== null && o.winProb !== undefined) {
-      html += `<span class="odds-chip win-prob-chip">Win Prob: <b>${ev.home?.name || 'Home'} ${o.winProb}%</b></span>`;
+      html += `<span class="odds-chip win-prob-chip">Win Prob: <b>${homeShort} ${o.winProb}%</b></span>`;
     }
 
     const openMLStr = (o.openAwayML && o.openHomeML) 
-      ? `Open ML: ${formatML(o.openAwayML)} / ${formatML(o.openHomeML)}`
-      : ((o.closeAwayML && o.closeHomeML) ? `Line ML: ${formatML(o.closeAwayML)} / ${formatML(o.closeHomeML)}` : '');
+      ? `Open ML: ${awayShort} ${formatML(o.openAwayML)} / ${homeShort} ${formatML(o.openHomeML)}`
+      : ((o.closeAwayML && o.closeHomeML) ? `Line ML: ${awayShort} ${formatML(o.closeAwayML)} / ${homeShort} ${formatML(o.closeHomeML)}` : '');
     const lineStr = o.details ? `Line: ${o.details}` : '';
     const ouStr = o.overUnder ? `${o.overUnder}` : '';
     const preParts = [lineStr, openMLStr, ouStr].filter(Boolean).join(' · ');
@@ -650,7 +654,7 @@ function renderOddsBar(ev) {
       const awayMLVal = formatML(o.closeAwayML);
       const homeMLVal = formatML(o.closeHomeML);
       const drawMLVal = o.closeDrawML ? ` / Draw ${formatML(o.closeDrawML)}` : '';
-      html += `<span class="odds-chip ml-chip">ML: <b>${ev.away?.name || 'Away'} ${awayMLVal}</b> / <b>${ev.home?.name || 'Home'} ${homeMLVal}</b>${drawMLVal}</span>`;
+      html += `<span class="odds-chip ml-chip">ML: <b>${awayShort} ${awayMLVal}</b> / <b>${homeShort} ${homeMLVal}</b>${drawMLVal}</span>`;
     }
 
     if (o.awaySpread && o.homeSpread) {
