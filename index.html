@@ -15,6 +15,10 @@
       <input type="checkbox" id="toggle-odds" checked>
       <span>🎲 Gambling Odds</span>
     </label>
+    <label class="must-watch-toggle-label" title="Filter sports to show only close, high-excitement, or top-tier matchups">
+      <input type="checkbox" id="toggle-must-watch">
+      <span>🔥 Must-Watch Only</span>
+    </label>
     <label class="ai-model-select-label" title="Select preferred AI model for headline analysis">
       <span class="ai-select-icon">✨</span>
       <span>AI Model:</span>
@@ -43,6 +47,16 @@
       <div id="golf-list" class="golf-groups"><p class="loading">Loading golf leaderboards…</p></div>
     </div>
   </details>
+
+  <div class="sports-header-bar">
+    <div class="sports-header-info">
+      <span class="sports-section-icon">🏆</span>
+      <h2 class="sports-section-title">Sports Scores &amp; Schedules</h2>
+    </div>
+    <button type="button" id="must-watch-btn" class="must-watch-btn" aria-pressed="false" title="Show only close, high-excitement, or top-tier matchups">
+      <span class="flame-icon">🔥</span> Must-Watch Only
+    </button>
+  </div>
 
   <details id="yesterday-scores" class="panel" open>
     <summary><h2>Yesterday's Scores</h2></summary>

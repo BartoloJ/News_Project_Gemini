@@ -199,7 +199,8 @@ function extractParticipant(c, league) {
   const link = entity?.id
     ? `https://www.espn.com/${league.siteSport}/${isAthlete ? 'player' : 'team'}/_/id/${entity.id}`
     : null;
-  return { name, score: c.score, link };
+  const rank = c.curatedRank?.current && c.curatedRank.current <= 25 ? c.curatedRank.current : null;
+  return { name, score: c.score, link, rank };
 }
 
 function formatML(val) {
@@ -332,6 +333,226 @@ function groupBy(list, keyFn) {
   return map;
 }
 
+function extractMoneylineValues(odds) {
+  let homeML = null;
+  let awayML = null;
+
+  if (odds?.closeHomeML !== null && odds?.closeHomeML !== undefined &&
+      odds?.closeAwayML !== null && odds?.closeAwayML !== undefined) {
+    const h = parseInt(odds.closeHomeML, 10);
+    const a = parseInt(odds.closeAwayML, 10);
+    if (!isNaN(h) && !isNaN(a)) {
+      homeML = h;
+      awayML = a;
+    }
+  }
+
+  if ((homeML === null || awayML === null) && odds?.details) {
+    // Extract moneyline patterns like CHC -111 / STL -109 or LAD -115, SD +105
+    const mlMatches = odds.details.match(/[-+]?\d{3,4}/g);
+    if (mlMatches && mlMatches.length >= 2) {
+      const h = parseInt(mlMatches[0], 10);
+      const a = parseInt(mlMatches[1], 10);
+      if (!isNaN(h) && !isNaN(a)) {
+        homeML = h;
+        awayML = a;
+      }
+    }
+  }
+
+  return { homeML, awayML };
+}
+
+function calcMLDifference(homeML, awayML) {
+  if (homeML === null || awayML === null || isNaN(homeML) || isNaN(awayML)) return null;
+  if (homeML <= 0 && awayML <= 0) {
+    return Math.abs(homeML - awayML);
+  }
+  if (homeML >= 0 && awayML >= 0) {
+    return Math.abs(homeML - awayML);
+  }
+  const d1 = Math.abs(Math.abs(homeML) - 100);
+  const d2 = Math.abs(Math.abs(awayML) - 100);
+  return d1 + d2;
+}
+
+function calculateExcitement(ev, league) {
+  let score = 30; // base score
+  let reasons = [];
+
+  const home = ev?.home;
+  const away = ev?.away;
+  const odds = ev?.odds;
+
+  // Identify sport
+  const isMLB = ['mlb', 'baseball'].some(s => league?.path?.includes(s) || league?.siteSport === 'baseball');
+
+  // Determine game status accurately:
+  // state can be 'pre' (unstarted), 'in' (live), or 'post' (completed)
+  const isPreGame = ev?.state === 'pre' || (!ev?.completed && ev?.state !== 'in');
+  const isLive = ev?.state === 'in' && !ev?.completed;
+  const isCompleted = ev?.completed || ev?.state === 'post';
+
+  // 1. Check Rankings / Top Teams (Applies to all games)
+  const homeRank = home?.rank;
+  const awayRank = away?.rank;
+  if (homeRank && awayRank) {
+    score += 35;
+    reasons.push(`Ranked matchup (#${awayRank} vs #${homeRank})`);
+  } else if (homeRank || awayRank) {
+    score += 18;
+    reasons.push(`Top 25 team (#${homeRank || awayRank})`);
+  }
+
+  // 2. Check Line / Spread / Moneyline (Crucial for Pre-game and Live evaluation)
+  if (odds) {
+    // A. Spread check (Skip if MLB because run lines are almost always -1.5/+1.5)
+    if (!isMLB && odds.details) {
+      let spreadVal = null;
+      const detailsUpper = odds.details.toUpperCase();
+      if (detailsUpper.includes('EVEN') || detailsUpper.includes('PK') || detailsUpper.includes('PICK')) {
+        spreadVal = 0;
+      } else {
+        const match = odds.details.match(/[-+]?\d+(\.\d+)?/);
+        if (match) {
+          spreadVal = Math.abs(parseFloat(match[0]));
+        }
+      }
+
+      if (spreadVal !== null && !isNaN(spreadVal)) {
+        if (spreadVal <= 1.5) {
+          score += 38;
+          reasons.push(`Ultra-tight spread (${odds.details})`);
+        } else if (spreadVal <= 3.5) {
+          score += 30;
+          reasons.push(`Tight spread (${odds.details})`);
+        } else if (spreadVal <= 6.5) {
+          score += 15;
+          reasons.push(`Close line (${odds.details})`);
+        } else if (spreadVal >= 14) {
+          score -= 20; // Blowout line
+        }
+      }
+    }
+
+    // B. Moneyline Close Check (Parses direct ML fields or strings like CHC -111 / STL -109)
+    const { homeML, awayML } = extractMoneylineValues(odds);
+    const mlDiff = calcMLDifference(homeML, awayML);
+
+    if (mlDiff !== null) {
+      if (mlDiff <= 30) {
+        score += 38;
+        const hStr = homeML > 0 ? `+${homeML}` : `${homeML}`;
+        const aStr = awayML > 0 ? `+${awayML}` : `${awayML}`;
+        reasons.push(`Tight moneyline (${aStr} / ${hStr})`);
+      } else if (mlDiff <= 60) {
+        score += 25;
+        if (!reasons.some(r => r.includes('spread'))) {
+          const hStr = homeML > 0 ? `+${homeML}` : `${homeML}`;
+          const aStr = awayML > 0 ? `+${awayML}` : `${awayML}`;
+          reasons.push(`Close moneyline (${aStr} / ${hStr})`);
+        }
+      } else if (mlDiff >= 150) {
+        score -= 15;
+      }
+    }
+
+    // C. Win probability
+    if (odds.winProb !== null && odds.winProb !== undefined) {
+      const probDiff = Math.abs(odds.winProb - 50);
+      if (probDiff <= 8) { // 42% - 58%
+        score += 22;
+        reasons.push(`50/50 win probability (${odds.winProb}%)`);
+      }
+    }
+  }
+
+  // 3. Score Differential Logic: Strictly for LIVE or COMPLETED games.
+  // Pre-game / unstarted games completely skip score differential checks so 0-0 ties are ignored!
+  if (!isPreGame && (isLive || isCompleted)) {
+    if (home && away && home.score !== undefined && away.score !== undefined && home.score !== '' && away.score !== '') {
+      const s1 = parseInt(home.score, 10);
+      const s2 = parseInt(away.score, 10);
+      if (!isNaN(s1) && !isNaN(s2)) {
+        const diff = Math.abs(s1 - s2);
+        const isLowScoreSport = ['mlb', 'nhl', 'soccer', 'epl', 'usa.1', 'esp.1'].some(s => league?.path?.includes(s));
+
+        if (isLive) {
+          // LIVE IN-PROGRESS GAME LOGIC
+          if (isLowScoreSport) {
+            if (diff === 0) {
+              score += 35;
+              reasons.push('Live tied game');
+            } else if (diff === 1) {
+              score += 30;
+              reasons.push('Live 1-goal/run game');
+            } else if (diff >= 4) {
+              score -= 20; // Live blowout
+            }
+          } else { // Football, Basketball
+            if (diff <= 3) {
+              score += 35;
+              reasons.push(`Live tight game (${diff} pt diff)`);
+            } else if (diff <= 7) {
+              score += 25;
+              reasons.push(`Live close game (${diff} pt diff)`);
+            } else if (diff >= 20) {
+              score -= 20; // Live blowout
+            }
+          }
+        } else if (isCompleted) {
+          // COMPLETED GAME LOGIC
+          if (isLowScoreSport) {
+            if (diff === 0) {
+              score += 35;
+              reasons.push('Tied game');
+            } else if (diff === 1) {
+              score += 30;
+              reasons.push('1-goal/run game');
+            } else if (diff >= 5) {
+              score -= 20;
+            }
+          } else {
+            if (diff <= 3) {
+              score += 35;
+              reasons.push(`Tight final (${diff} pt diff)`);
+            } else if (diff <= 7) {
+              score += 25;
+              reasons.push(`Close final (${diff} pt diff)`);
+            } else if (diff >= 22) {
+              score -= 20;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  // Live state bonus
+  if (isLive) {
+    score += 12;
+  }
+
+  const isTopMatchup = score >= 55 || reasons.some(r => 
+    r.includes('Ultra-tight') || 
+    r.includes('Tight spread') || 
+    r.includes('Tight moneyline') || 
+    r.includes('Close moneyline') || 
+    r.includes('Ranked') || 
+    r.includes('Live 1-goal') || 
+    r.includes('Live tight') || 
+    r.includes('Live tied') ||
+    r.includes('1-goal') ||
+    r.includes('Tight final')
+  );
+
+  return {
+    score,
+    isTopMatchup,
+    reason: reasons.join(' · ') || 'Popular matchup'
+  };
+}
+
 function renderLeagueGroups(container, leagueResults, renderGame, emptyLabel) {
   if (leagueResults.every((r) => r.events === null)) {
     container.innerHTML = '<p class="error">Couldn\'t load sports data right now. Try refreshing the page.</p>';
@@ -348,9 +569,9 @@ function renderLeagueGroups(container, leagueResults, renderGame, emptyLabel) {
     let groupHtml = `<summary><h3>${groupName}</h3></summary><div class="league-group-body"><ul class="game-list">`;
     for (const { league, events } of leagues) {
       if (events === null) {
-        groupHtml += `<li class="game-row muted-row"><div class="game-main"><span class="team-name">${league.name}</span><span class="game-status">Couldn't load</span></div></li>`;
+        groupHtml += `<li class="game-row muted-row is-standard-matchup"><div class="game-main"><span class="team-name">${league.name}</span><span class="game-status">Couldn't load</span></div></li>`;
       } else if (events.length === 0) {
-        groupHtml += `<li class="game-row muted-row"><div class="game-main"><span class="team-name">${league.name}</span><span class="game-status">${emptyLabel}</span></div></li>`;
+        groupHtml += `<li class="game-row muted-row is-standard-matchup"><div class="game-main"><span class="team-name">${league.name}</span><span class="game-status">${emptyLabel}</span></div></li>`;
       } else {
         groupHtml += events.map((ev) => renderGame(ev, league)).join('');
       }
@@ -359,12 +580,15 @@ function renderLeagueGroups(container, leagueResults, renderGame, emptyLabel) {
     groupEl.innerHTML = groupHtml;
     container.appendChild(groupEl);
   }
+  updateMustWatchGroupVisibility();
 }
 
 function nameHtml(participant) {
-  return participant.link
+  const rankPrefix = participant?.rank ? `<span class="team-rank">#${participant.rank}</span>` : '';
+  const nameStr = participant.link
     ? `<a href="${participant.link}" target="_blank" rel="noopener noreferrer">${participant.name}</a>`
     : participant.name;
+  return `${rankPrefix}${nameStr}`;
 }
 
 function renderOddsBar(ev) {
@@ -447,13 +671,26 @@ function renderOddsBar(ev) {
 function renderYesterdayGame(ev, league) {
   if (!ev.completed) return '';
   const away = ev.away, home = ev.home;
-  return `<li class="game-row">
+  const excitement = calculateExcitement(ev, league);
+  const topBadge = excitement.isTopMatchup 
+    ? `<span class="top-matchup-badge" title="${escapeAttr(excitement.reason)}">🔥 Top Matchup</span>` 
+    : '';
+  const modelName = getAiModelName();
+  const sportsPrompt = buildSportsPrompt(ev, league);
+
+  return `<li class="game-row ${excitement.isTopMatchup ? 'is-top-matchup' : 'is-standard-matchup'}" data-top-matchup="${excitement.isTopMatchup}">
     <div class="game-main">
       <div class="game-teams">
         <div class="team-row"><span class="team-name">${league.name} · ${nameHtml(away)}</span><span class="team-score">${away.score}</span></div>
         <div class="team-row"><span class="team-name">${nameHtml(home)}</span><span class="team-score">${home.score}</span></div>
       </div>
-      <span class="game-status">${ev.statusDetail || 'Final'}</span>
+      <div class="game-status-wrapper">
+        ${topBadge}
+        <span class="game-status">${ev.statusDetail || 'Final'}</span>
+        <button class="ask-gemini-btn sports-ask-ai-btn" data-prompt="${escapeAttr(sportsPrompt)}" title="Ask ${modelName} about this matchup">
+          <span class="sparkle-icon">✨</span> Ask ${modelName}
+        </button>
+      </div>
     </div>
     ${renderOddsBar(ev)}
   </li>`;
@@ -471,13 +708,26 @@ function renderScheduledGame(ev, league) {
     statusHtml = `<span class="game-status">${time}</span>`;
   }
   const showScores = ev.state !== 'pre';
-  return `<li class="game-row">
+  const excitement = calculateExcitement(ev, league);
+  const topBadge = excitement.isTopMatchup 
+    ? `<span class="top-matchup-badge" title="${escapeAttr(excitement.reason)}">🔥 Top Matchup</span>` 
+    : '';
+  const modelName = getAiModelName();
+  const sportsPrompt = buildSportsPrompt(ev, league);
+
+  return `<li class="game-row ${excitement.isTopMatchup ? 'is-top-matchup' : 'is-standard-matchup'}" data-top-matchup="${excitement.isTopMatchup}">
     <div class="game-main">
       <div class="game-teams">
         <div class="team-row"><span class="team-name">${league.name} · ${nameHtml(away)}</span>${showScores ? `<span class="team-score">${away.score}</span>` : ''}</div>
         <div class="team-row"><span class="team-name">${nameHtml(home)}</span>${showScores ? `<span class="team-score">${showScores ? home.score : ''}</span>` : ''}</div>
       </div>
-      ${statusHtml}
+      <div class="game-status-wrapper">
+        ${topBadge}
+        ${statusHtml}
+        <button class="ask-gemini-btn sports-ask-ai-btn" data-prompt="${escapeAttr(sportsPrompt)}" title="Ask ${modelName} about this matchup">
+          <span class="sparkle-icon">✨</span> Ask ${modelName}
+        </button>
+      </div>
     </div>
     ${renderOddsBar(ev)}
   </li>`;
@@ -720,6 +970,66 @@ async function loadGolfLeaderboards() {
 
 // ---------- Ask AI Handlers (Copy Prompt + Toast + Open Gemini/ChatGPT) ----------
 
+function buildSportsPrompt(ev, league) {
+  const sportName = league?.name || 'Sports';
+  const awayName = ev?.away?.name || 'Away Team';
+  const homeName = ev?.home?.name || 'Home Team';
+
+  // Game Time or Status
+  let timeOrStatus = '';
+  if (ev?.state === 'in') {
+    const aScore = ev?.away?.score !== undefined ? ev.away.score : '';
+    const hScore = ev?.home?.score !== undefined ? ev.home.score : '';
+    const scoreStr = (aScore !== '' && hScore !== '') ? ` ${aScore}-${hScore}` : '';
+    timeOrStatus = `(Live${scoreStr}, ${ev.statusDetail || 'In Progress'})`;
+  } else if (ev?.completed || ev?.state === 'post') {
+    const aScore = ev?.away?.score !== undefined ? ev.away.score : '';
+    const hScore = ev?.home?.score !== undefined ? ev.home.score : '';
+    const scoreStr = (aScore !== '' && hScore !== '') ? ` ${aScore}-${hScore}` : '';
+    timeOrStatus = `(Final${scoreStr})`;
+  } else if (ev?.date) {
+    const timeStr = new Date(ev.date).toLocaleTimeString(undefined, { hour: 'numeric', minute: '2-digit' });
+    timeOrStatus = `at ${timeStr}`;
+  }
+
+  // Odds Construction
+  const odds = ev?.odds;
+  const oddsParts = [];
+
+  if (odds) {
+    // 1. Moneyline
+    let mlStr = '';
+    const { homeML, awayML } = extractMoneylineValues(odds);
+    if (homeML !== null && awayML !== null) {
+      const hStr = homeML > 0 ? `+${homeML}` : `${homeML}`;
+      const aStr = awayML > 0 ? `+${awayML}` : `${awayML}`;
+      mlStr = `Odds: ${awayName} ${aStr} / ${homeName} ${hStr}`;
+    } else if (odds.details) {
+      mlStr = `Odds: ${odds.details}`;
+    }
+
+    if (mlStr) oddsParts.push(mlStr);
+
+    // 2. Spread
+    if (odds.awaySpread && odds.homeSpread) {
+      oddsParts.push(`Spread: ${odds.awaySpread} / ${odds.homeSpread}`);
+    } else if (odds.details && !mlStr.includes(odds.details)) {
+      oddsParts.push(`Line: ${odds.details}`);
+    }
+
+    // 3. Over/Under
+    if (odds.overUnder) {
+      const ouVal = String(odds.overUnder).trim();
+      const ouFormatted = /^o\/?u/i.test(ouVal) ? ouVal : `O/U: ${ouVal}`;
+      oddsParts.push(ouFormatted);
+    }
+  }
+
+  const oddsText = oddsParts.length > 0 ? ` ${oddsParts.join(', ')}.` : '';
+
+  return `Give me a concise breakdown and key story lines for this matchup: ${sportName} · ${awayName} vs ${homeName} ${timeOrStatus}.${oddsText} Why is this line set where it is, and what are the main factors to watch?`;
+}
+
 const AI_MODEL_PREF_KEY = 'user_ai_model_pref';
 
 function getAiModelPref() {
@@ -735,7 +1045,9 @@ function updateHeadlineButtonLabels() {
   const modelName = getAiModelName();
   const buttons = document.querySelectorAll('.ask-gemini-btn');
   buttons.forEach(btn => {
-    btn.title = `Ask ${modelName} about this headline`;
+    btn.title = btn.hasAttribute('data-prompt')
+      ? `Ask ${modelName} about this matchup`
+      : `Ask ${modelName} about this headline`;
     btn.innerHTML = `<span class="sparkle-icon">✨</span> Ask ${modelName}`;
   });
 }
@@ -791,10 +1103,12 @@ function fallbackCopyText(text) {
   document.body.removeChild(textarea);
 }
 
-function handleAskAiClick(title) {
-  if (!title) return;
+function handleAskAiClick(input, isPrompt = false) {
+  if (!input) return;
   const model = getAiModelPref();
-  const promptText = `Please summarize and provide context for this headline: "${title}"`;
+  const promptText = isPrompt
+    ? input
+    : `Please summarize and provide context for this headline: "${input}"`;
 
   // 1. Copy Prompt to Clipboard
   if (navigator.clipboard && navigator.clipboard.writeText) {
@@ -839,18 +1153,92 @@ function handleAskAiClick(title) {
 }
 
 function initAskGeminiHandlers() {
-  const headlinesList = document.getElementById('headlines-list');
-  if (!headlinesList) return;
-
-  headlinesList.addEventListener('click', (e) => {
+  document.body.addEventListener('click', (e) => {
     const btn = e.target.closest('.ask-gemini-btn');
     if (btn) {
       e.preventDefault();
       e.stopPropagation();
-      const title = btn.getAttribute('data-title');
-      handleAskAiClick(title);
+      const promptAttr = btn.getAttribute('data-prompt');
+      const titleAttr = btn.getAttribute('data-title');
+
+      if (promptAttr) {
+        handleAskAiClick(promptAttr, true);
+      } else if (titleAttr) {
+        handleAskAiClick(titleAttr, false);
+      }
     }
   });
+}
+
+// ---------- Must-Watch Filter Toggle ----------
+
+const MUST_WATCH_PREF_KEY = 'user_must_watch_pref';
+
+function getMustWatchPref() {
+  return localStorage.getItem(MUST_WATCH_PREF_KEY) === 'true';
+}
+
+function setMustWatchPref(active) {
+  localStorage.setItem(MUST_WATCH_PREF_KEY, active ? 'true' : 'false');
+  applyMustWatchState(active);
+}
+
+function applyMustWatchState(active) {
+  if (active) {
+    document.body.classList.add('must-watch-active');
+  } else {
+    document.body.classList.remove('must-watch-active');
+  }
+
+  const checkbox = document.getElementById('toggle-must-watch');
+  if (checkbox) checkbox.checked = active;
+
+  const btn = document.getElementById('must-watch-btn');
+  if (btn) {
+    btn.setAttribute('aria-pressed', active ? 'true' : 'false');
+    if (active) btn.classList.add('active');
+    else btn.classList.remove('active');
+  }
+
+  updateMustWatchGroupVisibility();
+}
+
+function updateMustWatchGroupVisibility() {
+  const isMustWatchActive = document.body.classList.contains('must-watch-active');
+  const leagueGroups = document.querySelectorAll('.league-group');
+
+  leagueGroups.forEach(group => {
+    if (!isMustWatchActive) {
+      group.classList.remove('group-filtered-out');
+      return;
+    }
+    const topGames = group.querySelectorAll('.game-row.is-top-matchup');
+    if (topGames.length === 0) {
+      group.classList.add('group-filtered-out');
+    } else {
+      group.classList.remove('group-filtered-out');
+    }
+  });
+}
+
+function initMustWatchToggle() {
+  const currentPref = getMustWatchPref();
+  applyMustWatchState(currentPref);
+
+  const checkbox = document.getElementById('toggle-must-watch');
+  if (checkbox) {
+    checkbox.addEventListener('change', (e) => {
+      setMustWatchPref(e.target.checked);
+    });
+  }
+
+  const btn = document.getElementById('must-watch-btn');
+  if (btn) {
+    btn.addEventListener('click', () => {
+      const active = document.body.classList.contains('must-watch-active');
+      setMustWatchPref(!active);
+    });
+  }
 }
 
 // ---------- Init ----------
@@ -885,6 +1273,7 @@ function setLastUpdated() {
 }
 
 initOddsToggle();
+initMustWatchToggle();
 initAiModelSelect();
 initAskGeminiHandlers();
 setLastUpdated();

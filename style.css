@@ -593,6 +593,7 @@ footer {
 }
 
 .odds-toggle-label,
+.must-watch-toggle-label,
 .ai-model-select-label {
   display: inline-flex;
   align-items: center;
@@ -610,10 +611,16 @@ footer {
 }
 
 .odds-toggle-label:hover,
+.must-watch-toggle-label:hover,
 .ai-model-select-label:hover {
   border-color: var(--accent);
   color: var(--text);
   background: color-mix(in srgb, var(--accent) 8%, transparent);
+}
+
+.must-watch-toggle-label input:checked + span {
+  color: #ff5252;
+  font-weight: 600;
 }
 
 .ai-select-icon {
@@ -692,6 +699,12 @@ footer {
   transform: scale(0.97);
 }
 
+.sports-ask-ai-btn {
+  padding: 0.18rem 0.55rem;
+  font-size: 0.72rem;
+  margin-top: 0.15rem;
+}
+
 .sparkle-icon {
   font-size: 0.85rem;
   filter: drop-shadow(0 0 2px rgba(142, 68, 173, 0.4));
@@ -728,6 +741,124 @@ footer {
 
 .toast-icon {
   font-size: 1rem;
+}
+
+/* ---------- Sports Header Bar & Must-Watch Filter ---------- */
+.sports-header-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+  padding: 0.6rem 0.85rem;
+  background: color-mix(in srgb, var(--border) 20%, transparent);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  flex-wrap: wrap;
+}
+
+.sports-header-info {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.sports-section-icon {
+  font-size: 1.15rem;
+}
+
+.sports-section-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin: 0;
+  color: var(--text);
+  letter-spacing: -0.01em;
+}
+
+.must-watch-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.85rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  border-radius: 20px;
+  border: 1px solid color-mix(in srgb, #ff5252 40%, var(--border));
+  background: color-mix(in srgb, #ff5252 10%, transparent);
+  color: var(--text);
+  cursor: pointer;
+  user-select: none;
+  transition: all 0.2s ease;
+}
+
+.must-watch-btn:hover {
+  background: color-mix(in srgb, #ff5252 20%, transparent);
+  border-color: #ff5252;
+  transform: translateY(-1px);
+}
+
+.must-watch-btn.active,
+.must-watch-btn[aria-pressed="true"] {
+  background: #ff5252;
+  color: #ffffff;
+  border-color: #ff5252;
+  box-shadow: 0 2px 10px rgba(255, 82, 82, 0.35);
+}
+
+.must-watch-btn.active .flame-icon,
+.must-watch-btn[aria-pressed="true"] .flame-icon {
+  animation: pulse-flame 1.5s infinite ease-in-out;
+}
+
+@keyframes pulse-flame {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.25); }
+}
+
+/* ---------- Top Matchup Badges & Status Layout ---------- */
+.game-status-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 0.25rem;
+  flex-shrink: 0;
+}
+
+.top-matchup-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: #ff5252;
+  background: color-mix(in srgb, #ff5252 14%, transparent);
+  border: 1px solid color-mix(in srgb, #ff5252 45%, transparent);
+  padding: 0.12rem 0.5rem;
+  border-radius: 12px;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  box-shadow: 0 1px 4px color-mix(in srgb, #ff5252 20%, transparent);
+}
+
+.team-rank {
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin-right: 0.2rem;
+  padding: 0.05rem 0.3rem;
+  border-radius: 4px;
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+}
+
+/* ---------- Must-Watch Filter Active State ---------- */
+body.must-watch-active .game-row.is-standard-matchup {
+  display: none !important;
+}
+
+body.must-watch-active .league-group.group-filtered-out {
+  display: none !important;
 }
 
 .hidden {
