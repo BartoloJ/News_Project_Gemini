@@ -216,15 +216,168 @@ main {
   gap: 0.5rem;
 }
 
+.header-controls {
+  margin-top: 0.6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.odds-toggle-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--muted);
+  cursor: pointer;
+  user-select: none;
+  background: color-mix(in srgb, var(--border) 45%, transparent);
+  padding: 0.35rem 0.85rem;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  transition: all 0.2s ease;
+}
+
+.odds-toggle-label:hover {
+  border-color: var(--accent);
+  color: var(--text);
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+}
+
+.odds-toggle-label input {
+  cursor: pointer;
+  accent-color: var(--accent);
+}
+
+body.hide-odds .game-odds-container {
+  display: none !important;
+}
+
 .game-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  padding: 0.65rem 0.85rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  font-size: 0.95rem;
+}
+
+.game-main {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  padding: 0.55rem 0.75rem;
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  font-size: 0.95rem;
+  width: 100%;
+}
+
+.game-odds-container {
+  padding-top: 0.4rem;
+  border-top: 1px dashed color-mix(in srgb, var(--border) 80%, transparent);
+  width: 100%;
+}
+
+.odds-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 0.55rem;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.odds-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  color: var(--accent);
+}
+
+.odds-badge.live-badge {
+  background: color-mix(in srgb, var(--live) 15%, transparent);
+  color: var(--live);
+  animation: pulse-live 2s infinite ease-in-out;
+}
+
+.odds-badge.post-badge {
+  background: color-mix(in srgb, var(--border) 80%, transparent);
+  color: var(--muted);
+  border: 1px solid color-mix(in srgb, var(--border) 90%, transparent);
+}
+
+@keyframes pulse-live {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.65; }
+}
+
+.odds-provider-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.odds-provider-link:hover {
+  text-decoration: underline;
+}
+
+.odds-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.12rem 0.45rem;
+  border-radius: 4px;
+  background: color-mix(in srgb, var(--border) 60%, transparent);
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+.odds-chip b {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.odds-chip.highlight-chip {
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  border: 1px solid color-mix(in srgb, var(--accent) 25%, transparent);
+}
+
+.odds-chip.highlight-chip b {
+  color: var(--accent);
+}
+
+.odds-chip.live-ml-chip {
+  background: color-mix(in srgb, var(--live) 12%, transparent);
+  border: 1px solid color-mix(in srgb, var(--live) 30%, transparent);
+  color: var(--text);
+}
+
+.odds-chip.live-ml-chip b {
+  color: var(--live);
+}
+
+.odds-chip.win-prob-chip {
+  background: color-mix(in srgb, var(--win) 15%, transparent);
+  border: 1px solid color-mix(in srgb, var(--win) 30%, transparent);
+  color: var(--win);
+}
+
+.odds-chip.win-prob-chip b {
+  color: var(--win);
+}
+
+.odds-chip.pre-compare-chip {
+  font-size: 0.75rem;
+  opacity: 0.85;
+}
+
+.odds-chip.muted-chip {
+  opacity: 0.75;
 }
 
 .game-row.muted-row {

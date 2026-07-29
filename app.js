@@ -174,7 +174,79 @@ function extractParticipant(c, league) {
   return { name, score: c.score, link };
 }
 
-function normalizeEvent(ev, league) {
+function formatML(val) {
+  if (!val || val === 'OFF') return val;
+  const num = parseInt(val, 10);
+  if (!isNaN(num) && num > 0) return `+${num}`;
+  return `${val}`;
+}
+
+function parseOdds(comp, eventSummary = null) {
+  const oddsArr = comp?.odds || [];
+  const primaryOdds = oddsArr[0] || eventSummary?.pickcenter?.[0] || null;
+  if (!primaryOdds && !eventSummary?.winprobability) return null;
+
+  const providerName = primaryOdds?.provider?.displayName || 'DraftKings';
+  let providerLink = primaryOdds?.link?.href || null;
+  if (!providerLink && Array.isArray(primaryOdds?.links)) {
+    const gameLink = primaryOdds.links.find(l => l.rel?.includes('game') || l.rel?.includes('main') || l.rel?.includes('desktop'));
+    if (gameLink) providerLink = gameLink.href;
+  }
+
+  const details = primaryOdds?.details || '';
+  const overUnder = primaryOdds?.overUnder ? `O/U ${primaryOdds.overUnder}` : '';
+  const spread = primaryOdds?.spread ? (primaryOdds.spread > 0 ? `+${primaryOdds.spread}` : `${primaryOdds.spread}`) : '';
+
+  const ml = primaryOdds?.moneyline || {};
+  const openHomeML = ml.home?.open?.odds;
+  const openAwayML = ml.away?.open?.odds;
+
+  const homeTeamOddsML = primaryOdds?.homeTeamOdds?.moneyLine !== undefined ? String(primaryOdds.homeTeamOdds.moneyLine) : null;
+  const awayTeamOddsML = primaryOdds?.awayTeamOdds?.moneyLine !== undefined ? String(primaryOdds.awayTeamOdds.moneyLine) : null;
+
+  const closeHomeML = ml.home?.close?.odds || ml.home?.open?.odds || homeTeamOddsML;
+  const closeAwayML = ml.away?.close?.odds || ml.away?.open?.odds || awayTeamOddsML;
+  const closeDrawML = ml.draw?.close?.odds || ml.draw?.open?.odds;
+
+  const liveHomeML = ml.home?.live?.odds;
+  const liveAwayML = ml.away?.live?.odds;
+  const liveDrawML = ml.draw?.live?.odds;
+
+  const ps = primaryOdds?.pointSpread || {};
+  const homeSpreadLine = ps.home?.close?.line || ps.home?.open?.line;
+  const homeSpreadOdds = ps.home?.close?.odds || ps.home?.open?.odds;
+  const awaySpreadLine = ps.away?.close?.line || ps.away?.open?.line;
+  const awaySpreadOdds = ps.away?.close?.odds || ps.away?.open?.odds;
+
+  let winProb = null;
+  if (eventSummary?.winprobability && eventSummary.winprobability.length > 0) {
+    const lastWp = eventSummary.winprobability[eventSummary.winprobability.length - 1];
+    if (typeof lastWp.homeWinPercentage === 'number') {
+      winProb = Math.round(lastWp.homeWinPercentage * 100);
+    }
+  }
+
+  return {
+    providerName,
+    providerLink,
+    details,
+    overUnder,
+    spread,
+    openHomeML,
+    openAwayML,
+    closeHomeML,
+    closeAwayML,
+    closeDrawML,
+    liveHomeML,
+    liveAwayML,
+    liveDrawML,
+    homeSpread: homeSpreadLine ? `${homeSpreadLine}${homeSpreadOdds ? ` (${formatML(homeSpreadOdds)})` : ''}` : '',
+    awaySpread: awaySpreadLine ? `${awaySpreadLine}${awaySpreadOdds ? ` (${formatML(awaySpreadOdds)})` : ''}` : '',
+    winProb,
+  };
+}
+
+function normalizeEvent(ev, league, eventSummary = null) {
   const comp = ev.competitions?.[0];
   const statusType = comp?.status?.type || {};
   const competitors = comp?.competitors || [];
@@ -187,6 +259,7 @@ function normalizeEvent(ev, league) {
     statusDetail: statusType.shortDetail || statusType.detail || '',
     home: home ? extractParticipant(home, league) : null,
     away: away ? extractParticipant(away, league) : null,
+    odds: parseOdds(comp, eventSummary),
   };
 }
 
@@ -194,7 +267,27 @@ async function fetchScoreboard(league, date) {
   const url = `https://site.api.espn.com/apis/site/v2/sports/${league.path}/scoreboard?dates=${toYYYYMMDD(date)}`;
   try {
     const data = await fetchWithFallback(url);
-    return (data.events || []).map((ev) => normalizeEvent(ev, league));
+    const rawEvents = data.events || [];
+    
+    // Fetch summary for live games ('in'), completed games ('post'), or events lacking direct odds
+    const normalized = await Promise.all(
+      rawEvents.map(async (ev) => {
+        const comp = ev.competitions?.[0];
+        const state = comp?.status?.type?.state;
+        let summary = null;
+        if (state === 'in' || state === 'post' || !comp?.odds?.length) {
+          try {
+            summary = await fetchWithFallback(
+              `https://site.api.espn.com/apis/site/v2/sports/${league.path}/summary?event=${ev.id}`
+            );
+          } catch {
+            // Fall back to scoreboard-level data if summary fetch fails
+          }
+        }
+        return normalizeEvent(ev, league, summary);
+      })
+    );
+    return normalized;
   } catch (err) {
     console.warn(`Scoreboard fetch failed for ${league.name}:`, err);
     return null; // signals a failed fetch, distinct from "no games"
@@ -227,9 +320,9 @@ function renderLeagueGroups(container, leagueResults, renderGame, emptyLabel) {
     let groupHtml = `<summary><h3>${groupName}</h3></summary><div class="league-group-body"><ul class="game-list">`;
     for (const { league, events } of leagues) {
       if (events === null) {
-        groupHtml += `<li class="game-row muted-row"><span class="team-name">${league.name}</span><span class="game-status">Couldn't load</span></li>`;
+        groupHtml += `<li class="game-row muted-row"><div class="game-main"><span class="team-name">${league.name}</span><span class="game-status">Couldn't load</span></div></li>`;
       } else if (events.length === 0) {
-        groupHtml += `<li class="game-row muted-row"><span class="team-name">${league.name}</span><span class="game-status">${emptyLabel}</span></li>`;
+        groupHtml += `<li class="game-row muted-row"><div class="game-main"><span class="team-name">${league.name}</span><span class="game-status">${emptyLabel}</span></div></li>`;
       } else {
         groupHtml += events.map((ev) => renderGame(ev, league)).join('');
       }
@@ -246,15 +339,95 @@ function nameHtml(participant) {
     : participant.name;
 }
 
+function renderOddsBar(ev) {
+  const o = ev.odds;
+  if (!o) return '';
+
+  let html = `<div class="game-odds-container">`;
+
+  if (ev.state === 'in') {
+    const isOff = o.liveHomeML === 'OFF' || o.liveAwayML === 'OFF';
+    const hasLiveML = o.liveHomeML && o.liveAwayML && !isOff;
+
+    html += `<div class="odds-bar live-odds-bar">`;
+    html += `<span class="odds-badge live-badge">● LIVE ODDS</span>`;
+
+    if (hasLiveML) {
+      const awayML = formatML(o.liveAwayML);
+      const homeML = formatML(o.liveHomeML);
+      const drawML = o.liveDrawML ? ` · Draw ${formatML(o.liveDrawML)}` : '';
+      html += `<span class="odds-chip live-ml-chip">Live ML: <b>${ev.away?.name || 'Away'}: ${awayML}</b> · <b>${ev.home?.name || 'Home'}: ${homeML}</b>${drawML}</span>`;
+    } else if (isOff) {
+      html += `<span class="odds-chip muted-chip">Live Odds: Board Locked</span>`;
+    }
+
+    if (o.winProb !== null && o.winProb !== undefined) {
+      html += `<span class="odds-chip win-prob-chip">Win Prob: <b>${ev.home?.name || 'Home'} ${o.winProb}%</b></span>`;
+    }
+
+    const openMLStr = (o.openAwayML && o.openHomeML) 
+      ? `Open ML: ${formatML(o.openAwayML)} / ${formatML(o.openHomeML)}`
+      : ((o.closeAwayML && o.closeHomeML) ? `Line ML: ${formatML(o.closeAwayML)} / ${formatML(o.closeHomeML)}` : '');
+    const lineStr = o.details ? `Line: ${o.details}` : '';
+    const ouStr = o.overUnder ? `${o.overUnder}` : '';
+    const preParts = [lineStr, openMLStr, ouStr].filter(Boolean).join(' · ');
+
+    if (preParts) {
+      html += `<span class="odds-chip pre-compare-chip">Pre-Game: ${preParts}</span>`;
+    }
+
+    html += `</div>`;
+  } else {
+    const isPost = ev.state === 'post';
+    html += `<div class="odds-bar ${isPost ? 'post-odds-bar' : 'pre-odds-bar'}">`;
+    
+    if (isPost) {
+      html += `<span class="odds-badge post-badge">Pregame Line</span>`;
+    } else if (o.providerName) {
+      const providerContent = o.providerLink
+        ? `<a href="${o.providerLink}" target="_blank" rel="noopener noreferrer" class="odds-provider-link">${o.providerName} ↗</a>`
+        : o.providerName;
+      html += `<span class="odds-badge provider-badge">${providerContent}</span>`;
+    }
+
+    if (o.details) {
+      html += `<span class="odds-chip highlight-chip">Line: <b>${o.details}</b></span>`;
+    }
+
+    if (o.closeAwayML && o.closeHomeML) {
+      const awayMLVal = formatML(o.closeAwayML);
+      const homeMLVal = formatML(o.closeHomeML);
+      const drawMLVal = o.closeDrawML ? ` / Draw ${formatML(o.closeDrawML)}` : '';
+      html += `<span class="odds-chip ml-chip">ML: <b>${ev.away?.name || 'Away'} ${awayMLVal}</b> / <b>${ev.home?.name || 'Home'} ${homeMLVal}</b>${drawMLVal}</span>`;
+    }
+
+    if (o.awaySpread && o.homeSpread) {
+      html += `<span class="odds-chip spread-chip">Spread: <b>${o.awaySpread}</b> / <b>${o.homeSpread}</b></span>`;
+    }
+
+    if (o.overUnder) {
+      html += `<span class="odds-chip ou-chip"><b>${o.overUnder}</b></span>`;
+    }
+
+    html += `</div>`;
+  }
+
+  html += `</div>`;
+  return html;
+}
+
 function renderYesterdayGame(ev, league) {
   if (!ev.completed) return '';
   const away = ev.away, home = ev.home;
   return `<li class="game-row">
-    <div class="game-teams">
-      <div class="team-row"><span class="team-name">${league.name} · ${nameHtml(away)}</span><span class="team-score">${away.score}</span></div>
-      <div class="team-row"><span class="team-name">${nameHtml(home)}</span><span class="team-score">${home.score}</span></div>
+    <div class="game-main">
+      <div class="game-teams">
+        <div class="team-row"><span class="team-name">${league.name} · ${nameHtml(away)}</span><span class="team-score">${away.score}</span></div>
+        <div class="team-row"><span class="team-name">${nameHtml(home)}</span><span class="team-score">${home.score}</span></div>
+      </div>
+      <span class="game-status">${ev.statusDetail || 'Final'}</span>
     </div>
-    <span class="game-status">${ev.statusDetail || 'Final'}</span>
+    ${renderOddsBar(ev)}
   </li>`;
 }
 
@@ -271,11 +444,14 @@ function renderScheduledGame(ev, league) {
   }
   const showScores = ev.state !== 'pre';
   return `<li class="game-row">
-    <div class="game-teams">
-      <div class="team-row"><span class="team-name">${league.name} · ${nameHtml(away)}</span>${showScores ? `<span class="team-score">${away.score}</span>` : ''}</div>
-      <div class="team-row"><span class="team-name">${nameHtml(home)}</span>${showScores ? `<span class="team-score">${home.score}</span>` : ''}</div>
+    <div class="game-main">
+      <div class="game-teams">
+        <div class="team-row"><span class="team-name">${league.name} · ${nameHtml(away)}</span>${showScores ? `<span class="team-score">${away.score}</span>` : ''}</div>
+        <div class="team-row"><span class="team-name">${nameHtml(home)}</span>${showScores ? `<span class="team-score">${showScores ? home.score : ''}</span>` : ''}</div>
+      </div>
+      ${statusHtml}
     </div>
-    ${statusHtml}
+    ${renderOddsBar(ev)}
   </li>`;
 }
 
@@ -516,11 +692,36 @@ async function loadGolfLeaderboards() {
 
 // ---------- Init ----------
 
+function initOddsToggle() {
+  const toggleBtn = document.getElementById('toggle-odds');
+  if (!toggleBtn) return;
+
+  const savedSetting = localStorage.getItem('showOdds');
+  if (savedSetting === 'false') {
+    toggleBtn.checked = false;
+    document.body.classList.add('hide-odds');
+  } else {
+    toggleBtn.checked = true;
+    document.body.classList.remove('hide-odds');
+  }
+
+  toggleBtn.addEventListener('change', (e) => {
+    if (e.target.checked) {
+      document.body.classList.remove('hide-odds');
+      localStorage.setItem('showOdds', 'true');
+    } else {
+      document.body.classList.add('hide-odds');
+      localStorage.setItem('showOdds', 'false');
+    }
+  });
+}
+
 function setLastUpdated() {
   document.getElementById('last-updated').textContent =
     `Last checked ${today.toLocaleString(undefined, { hour: 'numeric', minute: '2-digit', month: 'short', day: 'numeric' })}`;
 }
 
+initOddsToggle();
 setLastUpdated();
 loadHeadlines();
 loadGolfLeaderboards();
