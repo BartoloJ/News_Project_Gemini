@@ -102,15 +102,42 @@ function relativeTime(ts) {
   return `${days} day${days === 1 ? '' : 's'} ago`;
 }
 
+function escapeAttr(str) {
+  if (!str) return '';
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+}
+
+function escapeHtml(str) {
+  if (!str) return '';
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
 function renderSourceBody(source) {
   const items = source.items || [];
   if (items.length === 0) return '<p class="empty">Couldn\'t load.</p>';
   const staleNote = !source.ok && source.updatedAt
     ? `<p class="empty">Saved copy from ${relativeTime(new Date(source.updatedAt).getTime())} — couldn't refresh just now.</p>`
     : '';
-  return staleNote + '<ul class="headline-list">' + items.map((it) =>
-    `<li><a href="${it.link}" target="_blank" rel="noopener noreferrer">${it.title}</a></li>`
-  ).join('') + '</ul>';
+  return staleNote + '<ul class="headline-list">' + items.map((it) => {
+    const titleAttr = escapeAttr(it.title);
+    const sourceAttr = escapeAttr(source.name);
+    const linkAttr = escapeAttr(it.link);
+    return `<li class="headline-item">
+      <a href="${it.link}" target="_blank" rel="noopener noreferrer" class="headline-link">${escapeHtml(it.title)}</a>
+      <button class="ask-gemini-btn" data-title="${titleAttr}" data-source="${sourceAttr}" data-link="${linkAttr}" title="Ask Gemini about this headline">
+        <span class="sparkle-icon">✨</span> Ask Gemini
+      </button>
+    </li>`;
+  }).join('') + '</ul>';
 }
 
 async function loadHeadlines() {
@@ -690,6 +717,446 @@ async function loadGolfLeaderboards() {
   });
 }
 
+// ---------- Gemini BYOK & Ask Gemini Chat ----------
+
+const GEMINI_KEY_STORAGE = 'user_gemini_api_key';
+let pendingHeadline = null; // Stored if user clicks Ask Gemini before setting key
+let activeHeadline = null;  // Currently open headline context
+let chatHistory = [];       // Array of { role: 'user'|'model', parts: [{ text }] }
+let isGeneratingResponse = false;
+
+function getGeminiApiKey() {
+  return (localStorage.getItem(GEMINI_KEY_STORAGE) || '').trim();
+}
+
+function updateKeyBadge() {
+  const key = getGeminiApiKey();
+  const badge = document.getElementById('api-key-status-badge');
+  const modalPill = document.getElementById('modal-key-status');
+  const footerInfo = document.getElementById('chat-key-info');
+
+  if (badge) {
+    if (key) {
+      badge.classList.add('has-key');
+      badge.title = 'Gemini API Key Configured ✓';
+    } else {
+      badge.classList.remove('has-key');
+      badge.title = 'No Gemini API Key Configured';
+    }
+  }
+
+  if (modalPill) {
+    if (key) {
+      modalPill.textContent = 'Key Configured ✓';
+      modalPill.classList.add('active');
+    } else {
+      modalPill.textContent = 'No Key Set';
+      modalPill.classList.remove('active');
+    }
+  }
+
+  if (footerInfo) {
+    if (key) {
+      const masked = key.length > 10 ? `${key.slice(0, 6)}...${key.slice(-4)}` : 'Set ✓';
+      footerInfo.innerHTML = `Key: <code>${masked}</code>`;
+    } else {
+      footerInfo.innerHTML = `Key: <code>None Set</code>`;
+    }
+  }
+}
+
+function openSettingsModal(noticeMsg = '') {
+  const modal = document.getElementById('settings-modal');
+  const banner = document.getElementById('modal-notice-banner');
+  const input = document.getElementById('gemini-key-input');
+
+  if (banner) {
+    if (noticeMsg) {
+      banner.textContent = noticeMsg;
+      banner.classList.remove('hidden');
+    } else {
+      banner.textContent = '';
+      banner.classList.add('hidden');
+    }
+  }
+
+  if (input) {
+    input.value = getGeminiApiKey();
+  }
+
+  if (modal) {
+    modal.classList.remove('hidden');
+    if (input) setTimeout(() => input.focus(), 100);
+  }
+}
+
+function closeSettingsModal() {
+  const modal = document.getElementById('settings-modal');
+  if (modal) modal.classList.add('hidden');
+}
+
+function initSettingsHandlers() {
+  const openBtn = document.getElementById('open-settings-btn');
+  const closeBtn = document.getElementById('close-settings-btn');
+  const saveBtn = document.getElementById('save-key-btn');
+  const clearBtn = document.getElementById('clear-key-btn');
+  const toggleVisBtn = document.getElementById('toggle-key-visibility');
+  const keyInput = document.getElementById('gemini-key-input');
+  const modal = document.getElementById('settings-modal');
+
+  if (openBtn) openBtn.addEventListener('click', () => openSettingsModal());
+  if (closeBtn) closeBtn.addEventListener('click', closeSettingsModal);
+
+  if (modal) {
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) closeSettingsModal();
+    });
+  }
+
+  if (toggleVisBtn && keyInput) {
+    toggleVisBtn.addEventListener('click', () => {
+      if (keyInput.type === 'password') {
+        keyInput.type = 'text';
+        toggleVisBtn.textContent = '🔒';
+      } else {
+        keyInput.type = 'password';
+        toggleVisBtn.textContent = '👁️';
+      }
+    });
+  }
+
+  if (saveBtn && keyInput) {
+    saveBtn.addEventListener('click', () => {
+      const val = keyInput.value.trim();
+      if (!val) {
+        alert('Please enter a valid Gemini API Key.');
+        return;
+      }
+      localStorage.setItem(GEMINI_KEY_STORAGE, val);
+      updateKeyBadge();
+      closeSettingsModal();
+
+      if (pendingHeadline) {
+        const headline = pendingHeadline;
+        pendingHeadline = null;
+        openChatForHeadline(headline);
+      }
+    });
+  }
+
+  if (clearBtn && keyInput) {
+    clearBtn.addEventListener('click', () => {
+      localStorage.removeItem(GEMINI_KEY_STORAGE);
+      if (keyInput) keyInput.value = '';
+      updateKeyBadge();
+      alert('Gemini API Key removed from browser storage.');
+    });
+  }
+
+  updateKeyBadge();
+}
+
+function formatMarkdown(text) {
+  if (!text) return '';
+  let html = escapeHtml(text);
+  // Bold **text**
+  html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+  // Inline code `text`
+  html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
+  // Formatted list processing
+  const lines = html.split('\n');
+  let inList = false;
+  let formattedLines = [];
+
+  for (let line of lines) {
+    const trimmed = line.trim();
+    if (trimmed.startsWith('- ') || trimmed.startsWith('* ')) {
+      if (!inList) {
+        inList = true;
+        formattedLines.push('<ul>');
+      }
+      formattedLines.push(`<li>${trimmed.substring(2)}</li>`);
+    } else {
+      if (inList) {
+        inList = false;
+        formattedLines.push('</ul>');
+      }
+      formattedLines.push(line);
+    }
+  }
+  if (inList) formattedLines.push('</ul>');
+
+  let result = formattedLines.join('\n');
+  result = result.replace(/<\/ul>\n/g, '</ul>');
+  result = result.replace(/<\/li>\n/g, '</li>');
+  result = result.replace(/\n/g, '<br>');
+  return result;
+}
+
+function openChatForHeadline(headline) {
+  const key = getGeminiApiKey();
+  if (!key) {
+    pendingHeadline = headline;
+    openSettingsModal('🔑 Please enter your free Gemini API Key to start chatting with Gemini about headlines.');
+    return;
+  }
+
+  activeHeadline = headline;
+  chatHistory = [];
+
+  const sourceBadge = document.getElementById('chat-source-badge');
+  const headlineTitle = document.getElementById('chat-headline-title');
+  const headlineLink = document.getElementById('chat-headline-link');
+
+  if (sourceBadge) sourceBadge.textContent = headline.source || 'News';
+  if (headlineTitle) headlineTitle.textContent = headline.title || '';
+  if (headlineLink) {
+    headlineLink.href = headline.link || '#';
+    headlineLink.textContent = `Read Original Article on ${headline.source} ↗`;
+  }
+
+  const messagesContainer = document.getElementById('chat-messages');
+  if (messagesContainer) {
+    messagesContainer.innerHTML = `
+      <div class="chat-welcome">
+        <p><strong>✨ Ask Gemini about this headline:</strong></p>
+        <p><em>"${escapeHtml(headline.title)}"</em> (${escapeHtml(headline.source)})</p>
+        <p>Get a quick summary, background context, key takeaways, or ask any question!</p>
+      </div>
+
+      <div class="prompt-chips-wrapper">
+        <div class="prompt-chips-title">Suggested Prompts</div>
+        <div class="prompt-chips">
+          <button type="button" class="prompt-chip" data-prompt="Summarize this headline and why it matters in 2-3 bullet points.">💡 Summarize this article</button>
+          <button type="button" class="prompt-chip" data-prompt="What is the background context and history behind this news?">❓ What's the background?</button>
+          <button type="button" class="prompt-chip" data-prompt="What are the 3 main key takeaways from this headline?">📌 3 Key takeaways</button>
+          <button type="button" class="prompt-chip" data-prompt="What are the potential implications or next steps regarding this event?">🔮 Future implications</button>
+        </div>
+      </div>
+    `;
+
+    const chips = messagesContainer.querySelectorAll('.prompt-chip');
+    chips.forEach(chip => {
+      chip.addEventListener('click', () => {
+        const promptText = chip.getAttribute('data-prompt');
+        if (promptText) sendChatMessage(promptText);
+      });
+    });
+  }
+
+  const panel = document.getElementById('chat-panel');
+  const backdrop = document.getElementById('chat-backdrop');
+  if (panel) {
+    panel.classList.remove('hidden');
+    setTimeout(() => panel.classList.add('open'), 10);
+  }
+  if (backdrop) {
+    backdrop.classList.remove('hidden');
+    setTimeout(() => backdrop.classList.add('open'), 10);
+  }
+
+  updateKeyBadge();
+}
+
+function closeChat() {
+  const panel = document.getElementById('chat-panel');
+  const backdrop = document.getElementById('chat-backdrop');
+
+  if (panel) panel.classList.remove('open');
+  if (backdrop) backdrop.classList.remove('open');
+
+  setTimeout(() => {
+    if (panel) panel.classList.add('hidden');
+    if (backdrop) backdrop.classList.add('hidden');
+  }, 300);
+}
+
+async function sendChatMessage(userText) {
+  if (!userText || !userText.trim() || isGeneratingResponse || !activeHeadline) return;
+
+  const text = userText.trim();
+  const apiKey = getGeminiApiKey();
+
+  if (!apiKey) {
+    openSettingsModal('Please enter a valid Gemini API Key to continue.');
+    return;
+  }
+
+  isGeneratingResponse = true;
+
+  const messagesContainer = document.getElementById('chat-messages');
+  const inputEl = document.getElementById('chat-input');
+  const sendBtn = document.getElementById('chat-send-btn');
+
+  // Hide suggestion chips after first question
+  const chipsWrapper = messagesContainer.querySelector('.prompt-chips-wrapper');
+  if (chipsWrapper) chipsWrapper.style.display = 'none';
+
+  // Append user bubble
+  const userBubble = document.createElement('div');
+  userBubble.className = 'message-bubble user-message';
+  userBubble.textContent = text;
+  messagesContainer.appendChild(userBubble);
+
+  messagesContainer.scrollTop = messagesContainer.scrollHeight;
+
+  if (inputEl) inputEl.value = '';
+  if (sendBtn) sendBtn.disabled = true;
+
+  // Append typing indicator
+  const typingEl = document.createElement('div');
+  typingEl.className = 'typing-indicator';
+  typingEl.id = 'chat-typing-indicator';
+  typingEl.innerHTML = `<span>Gemini is thinking</span><div class="typing-dots"><span></span><span></span><span></span></div>`;
+  messagesContainer.appendChild(typingEl);
+  messagesContainer.scrollTop = messagesContainer.scrollHeight;
+
+  chatHistory.push({
+    role: 'user',
+    parts: [{ text: text }]
+  });
+
+  const systemInstructionText = `You are an expert news analyst and concise AI assistant for Daily Wrap. You are answering questions about the following news headline:\n\nHeadline: "${activeHeadline.title}"\nSource: ${activeHeadline.source}\nLink: ${activeHeadline.link}\n\nProvide clear, accurate, objective, and well-structured answers using bold text and bullet points where appropriate. Keep answers digestible and engaging.`;
+
+  const payload = {
+    systemInstruction: {
+      parts: [{ text: systemInstructionText }]
+    },
+    contents: chatHistory
+  };
+
+  try {
+    let responseText = null;
+    let apiError = null;
+
+    const modelsToTry = ['gemini-2.5-flash', 'gemini-3.6-flash', 'gemini-1.5-flash'];
+    for (const modelName of modelsToTry) {
+      try {
+        const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent?key=${apiKey}`;
+        const res = await fetch(apiUrl, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload)
+        });
+
+        const data = await res.json();
+
+        if (res.ok && data.candidates && data.candidates[0]?.content?.parts?.[0]?.text) {
+          responseText = data.candidates[0].content.parts[0].text;
+          break;
+        } else if (data.error) {
+          apiError = data.error.message || `HTTP ${res.status}`;
+          if (res.status === 400 || res.status === 403) {
+            break;
+          }
+        }
+      } catch (err) {
+        apiError = err.message || 'Network error';
+      }
+    }
+
+    const currentTyping = document.getElementById('chat-typing-indicator');
+    if (currentTyping) currentTyping.remove();
+
+    if (responseText) {
+      chatHistory.push({
+        role: 'model',
+        parts: [{ text: responseText }]
+      });
+
+      const modelBubble = document.createElement('div');
+      modelBubble.className = 'message-bubble gemini-message';
+      modelBubble.innerHTML = formatMarkdown(responseText);
+      messagesContainer.appendChild(modelBubble);
+    } else {
+      const errorBubble = document.createElement('div');
+      errorBubble.className = 'message-bubble gemini-message error-message';
+      errorBubble.innerHTML = `
+        <p>⚠️ <strong>Unable to connect to Gemini API</strong></p>
+        <p>${escapeHtml(apiError || 'Please check your API key and network connection.')}</p>
+        <button type="button" class="btn btn-secondary btn-sm rekey-btn" style="margin-top:0.4rem; font-size:0.75rem; padding:0.25rem 0.6rem;">Update API Key ⚙️</button>
+      `;
+      messagesContainer.appendChild(errorBubble);
+
+      const rekeyBtn = errorBubble.querySelector('.rekey-btn');
+      if (rekeyBtn) {
+        rekeyBtn.addEventListener('click', () => {
+          openSettingsModal('Please check or update your Gemini API Key below:');
+        });
+      }
+    }
+  } catch (err) {
+    const currentTyping = document.getElementById('chat-typing-indicator');
+    if (currentTyping) currentTyping.remove();
+
+    const errorBubble = document.createElement('div');
+    errorBubble.className = 'message-bubble gemini-message error-message';
+    errorBubble.innerHTML = `<p>⚠️ Connection error: ${escapeHtml(err.message)}</p>`;
+    messagesContainer.appendChild(errorBubble);
+  } finally {
+    isGeneratingResponse = false;
+    messagesContainer.scrollTop = messagesContainer.scrollHeight;
+    if (inputEl) inputEl.focus();
+  }
+}
+
+function initChatHandlers() {
+  const closeChatBtn = document.getElementById('close-chat-btn');
+  const chatBackdrop = document.getElementById('chat-backdrop');
+  const chatSendBtn = document.getElementById('chat-send-btn');
+  const chatInput = document.getElementById('chat-input');
+  const chatChangeKeyBtn = document.getElementById('chat-change-key-btn');
+  const headlinesList = document.getElementById('headlines-list');
+
+  if (closeChatBtn) closeChatBtn.addEventListener('click', closeChat);
+  if (chatBackdrop) chatBackdrop.addEventListener('click', closeChat);
+  if (chatChangeKeyBtn) {
+    chatChangeKeyBtn.addEventListener('click', () => {
+      openSettingsModal();
+    });
+  }
+
+  if (headlinesList) {
+    headlinesList.addEventListener('click', (e) => {
+      const btn = e.target.closest('.ask-gemini-btn');
+      if (btn) {
+        e.preventDefault();
+        e.stopPropagation();
+        const title = btn.getAttribute('data-title');
+        const source = btn.getAttribute('data-source');
+        const link = btn.getAttribute('data-link');
+
+        openChatForHeadline({ title, source, link });
+      }
+    });
+  }
+
+  if (chatInput) {
+    chatInput.addEventListener('input', () => {
+      if (chatSendBtn) {
+        chatSendBtn.disabled = !chatInput.value.trim() || isGeneratingResponse;
+      }
+    });
+
+    chatInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        if (chatInput.value.trim() && !isGeneratingResponse) {
+          sendChatMessage(chatInput.value.trim());
+        }
+      }
+    });
+  }
+
+  if (chatSendBtn && chatInput) {
+    chatSendBtn.addEventListener('click', () => {
+      if (chatInput.value.trim() && !isGeneratingResponse) {
+        sendChatMessage(chatInput.value.trim());
+      }
+    });
+  }
+}
+
 // ---------- Init ----------
 
 function initOddsToggle() {
@@ -722,9 +1189,12 @@ function setLastUpdated() {
 }
 
 initOddsToggle();
+initSettingsHandlers();
+initChatHandlers();
 setLastUpdated();
 loadHeadlines();
 loadGolfLeaderboards();
 loadYesterdayScores();
 loadTodayGames();
 loadTomorrowGames();
+
