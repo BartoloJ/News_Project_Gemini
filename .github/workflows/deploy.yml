@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: ["claude/daily-headlines-sports-site-v1q3fq"]
+    branches: ["main", "master", "claude/daily-headlines-sports-site-v1q3fq"]
   # A push made with a workflow's default GITHUB_TOKEN (like the commit
   # update-headlines.yml makes) does not trigger other workflows' `push`
   # triggers — GitHub's built-in loop prevention. Without this, a fresh

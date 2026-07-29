@@ -17,8 +17,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: claude/daily-headlines-sports-site-v1q3fq
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -33,4 +31,4 @@ jobs:
           fi
           git add headlines.json
           git commit -m "Update headlines.json"
-          git push origin HEAD:claude/daily-headlines-sports-site-v1q3fq
+          git push
