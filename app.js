@@ -749,25 +749,194 @@ function renderOddsBar(ev) {
   return html;
 }
 
-function renderYesterdayGame(ev, league) {
+// ---------- Pinned Matches Engine ----------
+
+const PINNED_MATCHES_KEY = 'pinned_sports_matches_v1';
+const loadedGamesRegistry = new Map(); // key -> { ev, league, dateTag }
+
+function getGameKey(ev, league) {
+  const lId = league?.id || league?.name || 'league';
+  const eId = ev?.id || `${ev?.away?.name || ''}_vs_${ev?.home?.name || ''}`;
+  return `${lId}_${eId}`;
+}
+
+function getPinnedMatchesMap() {
+  try {
+    const raw = localStorage.getItem(PINNED_MATCHES_KEY);
+    return raw ? JSON.parse(raw) : {};
+  } catch {
+    return {};
+  }
+}
+
+function savePinnedMatchesMap(map) {
+  try {
+    localStorage.setItem(PINNED_MATCHES_KEY, JSON.stringify(map));
+  } catch (err) {
+    console.warn('Failed to save pinned matches:', err);
+  }
+}
+
+function isMatchPinned(gameKey) {
+  const map = getPinnedMatchesMap();
+  return Boolean(map[gameKey]);
+}
+
+function togglePinMatch(gameKey) {
+  const map = getPinnedMatchesMap();
+  const isCurrentlyPinned = Boolean(map[gameKey]);
+
+  if (isCurrentlyPinned) {
+    delete map[gameKey];
+    savePinnedMatchesMap(map);
+    showToast('Match unpinned');
+  } else {
+    const regItem = loadedGamesRegistry.get(gameKey);
+    if (regItem) {
+      map[gameKey] = {
+        gameKey,
+        ev: regItem.ev,
+        league: regItem.league,
+        dateTag: regItem.dateTag,
+        pinnedAt: Date.now()
+      };
+      savePinnedMatchesMap(map);
+      showToast('Match pinned to top!');
+    } else {
+      showToast('Could not pin match');
+      return;
+    }
+  }
+
+  updateAllPinButtons();
+  updatePinnedMatchesUI();
+}
+
+function updateAllPinButtons() {
+  const map = getPinnedMatchesMap();
+  const buttons = document.querySelectorAll('.pin-match-btn');
+  buttons.forEach((btn) => {
+    const key = btn.getAttribute('data-game-key');
+    if (!key) return;
+    const pinned = Boolean(map[key]);
+    if (pinned) {
+      btn.classList.add('is-pinned');
+      btn.setAttribute('title', 'Unpin match');
+      btn.innerHTML = `<span class="pin-icon">📌</span> <span class="pin-text">Pinned</span>`;
+    } else {
+      btn.classList.remove('is-pinned');
+      btn.setAttribute('title', 'Pin match to top of screen');
+      btn.innerHTML = `<span class="pin-icon">📌</span> <span class="pin-text">Pin</span>`;
+    }
+  });
+}
+
+function registerLoadedGames(events, league, dateTag) {
+  if (!events || !Array.isArray(events)) return;
+  const pinnedMap = getPinnedMatchesMap();
+  let updatedPinnedMap = false;
+
+  events.forEach((ev) => {
+    const key = getGameKey(ev, league);
+    loadedGamesRegistry.set(key, { ev, league, dateTag });
+
+    if (pinnedMap[key]) {
+      pinnedMap[key].ev = ev;
+      pinnedMap[key].league = league;
+      pinnedMap[key].dateTag = dateTag;
+      updatedPinnedMap = true;
+    }
+  });
+
+  if (updatedPinnedMap) {
+    savePinnedMatchesMap(pinnedMap);
+  }
+}
+
+function updatePinnedMatchesUI() {
+  const container = document.getElementById('pinned-scores-list');
+  const panel = document.getElementById('pinned-scores');
+  const countEl = document.getElementById('pinned-count');
+  if (!container || !panel) return;
+
+  const map = getPinnedMatchesMap();
+  const keys = Object.keys(map);
+
+  if (keys.length === 0) {
+    panel.classList.add('hidden');
+    container.innerHTML = '';
+    if (countEl) countEl.textContent = '0';
+    return;
+  }
+
+  panel.classList.remove('hidden');
+  if (countEl) countEl.textContent = String(keys.length);
+
+  let html = `<ul class="game-list">`;
+  const items = Object.values(map);
+
+  items.forEach((item) => {
+    const fresh = loadedGamesRegistry.get(item.gameKey);
+    const ev = fresh?.ev || item.ev;
+    const league = fresh?.league || item.league;
+    const dateTag = fresh?.dateTag || item.dateTag || '';
+
+    if (ev.completed) {
+      html += renderYesterdayGame(ev, league, dateTag);
+    } else {
+      html += renderScheduledGame(ev, league, dateTag);
+    }
+  });
+
+  html += `</ul>`;
+  container.innerHTML = html;
+  updateMustWatchGroupVisibility();
+}
+
+function initPinMatchHandlers() {
+  document.body.addEventListener('click', (e) => {
+    const btn = e.target.closest('.pin-match-btn');
+    if (btn) {
+      e.preventDefault();
+      e.stopPropagation();
+      const key = btn.getAttribute('data-game-key');
+      if (key) {
+        togglePinMatch(key);
+      }
+    }
+  });
+}
+
+function renderYesterdayGame(ev, league, dateTag = '') {
   if (!ev.completed) return '';
   const away = ev.away, home = ev.home;
   const excitement = calculateExcitement(ev, league);
   const topBadge = excitement.isTopMatchup 
     ? `<span class="top-matchup-badge" title="${escapeAttr(excitement.reason)}">🔥 Top Matchup</span>` 
     : '';
+  const gameKey = getGameKey(ev, league);
+  const isPinned = isMatchPinned(gameKey);
+  const pinBtn = `<button type="button" class="pin-match-btn ${isPinned ? 'is-pinned' : ''}" data-game-key="${escapeAttr(gameKey)}" title="${isPinned ? 'Unpin match' : 'Pin match to top'}">
+    <span class="pin-icon">📌</span> <span class="pin-text">${isPinned ? 'Pinned' : 'Pin'}</span>
+  </button>`;
   const modelName = getAiModelName();
   const sportsPrompt = buildSportsPrompt(ev, league);
+  const dateTagHtml = dateTag ? `<span class="game-date-tag">${dateTag}</span>` : '';
 
   return `<li class="game-row ${excitement.isTopMatchup ? 'is-top-matchup' : 'is-standard-matchup'}" data-top-matchup="${excitement.isTopMatchup}">
     <div class="game-top-meta">
-      <span class="game-league-name">${league.name}</span>
+      <span class="game-league-name">${league.name}${dateTagHtml ? ' · ' + dateTagHtml : ''}</span>
       <div class="game-status-wrapper">
-        ${topBadge}
-        <span class="game-status">${ev.statusDetail || 'Final'}</span>
-        <button class="ask-gemini-btn sports-ask-ai-btn" data-prompt="${escapeAttr(sportsPrompt)}" title="Ask ${modelName} about this matchup">
-          <span class="sparkle-icon">✨</span> Ask ${modelName}
-        </button>
+        <div class="game-status-row">
+          ${topBadge}
+          <span class="game-status">${ev.statusDetail || 'Final'}</span>
+        </div>
+        <div class="game-actions-row">
+          ${pinBtn}
+          <button class="ask-gemini-btn sports-ask-ai-btn" data-prompt="${escapeAttr(sportsPrompt)}" title="Ask ${modelName} about this matchup">
+            <span class="sparkle-icon">✨</span> Ask ${modelName}
+          </button>
+        </div>
       </div>
     </div>
     <div class="game-teams-grid">
@@ -784,7 +953,7 @@ function renderYesterdayGame(ev, league) {
   </li>`;
 }
 
-function renderScheduledGame(ev, league) {
+function renderScheduledGame(ev, league, dateTag = '') {
   const away = ev.away, home = ev.home;
   const time = new Date(ev.date).toLocaleTimeString(undefined, { hour: 'numeric', minute: '2-digit' });
   let statusHtml;
@@ -800,18 +969,29 @@ function renderScheduledGame(ev, league) {
   const topBadge = excitement.isTopMatchup 
     ? `<span class="top-matchup-badge" title="${escapeAttr(excitement.reason)}">🔥 Top Matchup</span>` 
     : '';
+  const gameKey = getGameKey(ev, league);
+  const isPinned = isMatchPinned(gameKey);
+  const pinBtn = `<button type="button" class="pin-match-btn ${isPinned ? 'is-pinned' : ''}" data-game-key="${escapeAttr(gameKey)}" title="${isPinned ? 'Unpin match' : 'Pin match to top'}">
+    <span class="pin-icon">📌</span> <span class="pin-text">${isPinned ? 'Pinned' : 'Pin'}</span>
+  </button>`;
   const modelName = getAiModelName();
   const sportsPrompt = buildSportsPrompt(ev, league);
+  const dateTagHtml = dateTag ? `<span class="game-date-tag">${dateTag}</span>` : '';
 
   return `<li class="game-row ${excitement.isTopMatchup ? 'is-top-matchup' : 'is-standard-matchup'}" data-top-matchup="${excitement.isTopMatchup}">
     <div class="game-top-meta">
-      <span class="game-league-name">${league.name}</span>
+      <span class="game-league-name">${league.name}${dateTagHtml ? ' · ' + dateTagHtml : ''}</span>
       <div class="game-status-wrapper">
-        ${topBadge}
-        ${statusHtml}
-        <button class="ask-gemini-btn sports-ask-ai-btn" data-prompt="${escapeAttr(sportsPrompt)}" title="Ask ${modelName} about this matchup">
-          <span class="sparkle-icon">✨</span> Ask ${modelName}
-        </button>
+        <div class="game-status-row">
+          ${topBadge}
+          ${statusHtml}
+        </div>
+        <div class="game-actions-row">
+          ${pinBtn}
+          <button class="ask-gemini-btn sports-ask-ai-btn" data-prompt="${escapeAttr(sportsPrompt)}" title="Ask ${modelName} about this matchup">
+            <span class="sparkle-icon">✨</span> Ask ${modelName}
+          </button>
+        </div>
       </div>
     </div>
     <div class="game-teams-grid">
@@ -834,27 +1014,31 @@ async function loadYesterdayScores() {
   const results = await Promise.all(LEAGUES.map(async (league) => {
     const events = await fetchScoreboard(league, yesterday);
     const completed = events ? events.filter((e) => e.completed) : null;
+    registerLoadedGames(completed, league, 'Yesterday');
     return { league, events: completed };
   }));
   renderLeagueGroups(container, results, renderYesterdayGame, 'No games');
+  updatePinnedMatchesUI();
 }
 
-async function loadGamesFor(dateLabelId, listId, date) {
+async function loadGamesFor(dateLabelId, listId, date, dateTag) {
   document.getElementById(dateLabelId).textContent = longDate(date);
   const container = document.getElementById(listId);
   const results = await Promise.all(LEAGUES.map(async (league) => {
     const events = await fetchScoreboard(league, date);
+    registerLoadedGames(events, league, dateTag);
     return { league, events };
   }));
   renderLeagueGroups(container, results, renderScheduledGame, 'No games scheduled');
+  updatePinnedMatchesUI();
 }
 
 async function loadTodayGames() {
-  await loadGamesFor('today-date', 'today-games-list', today);
+  await loadGamesFor('today-date', 'today-games-list', today, 'Today');
 }
 
 async function loadTomorrowGames() {
-  await loadGamesFor('tomorrow-date', 'tomorrow-games-list', tomorrow);
+  await loadGamesFor('tomorrow-date', 'tomorrow-games-list', tomorrow, 'Tomorrow');
 }
 
 // ---------- Golf Leaderboards ----------
@@ -1694,6 +1878,7 @@ function initPullToRefresh() {
 
 initOddsToggle();
 initMustWatchToggle();
+initPinMatchHandlers();
 initAiModelSelect();
 initAskGeminiHandlers();
 initLinkSafetyHandler();

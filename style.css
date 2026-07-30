@@ -1130,6 +1130,80 @@ footer {
   flex-shrink: 0;
 }
 
+.game-status-row {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.35rem;
+}
+
+.game-actions-row {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.35rem;
+  margin-top: 0.15rem;
+}
+
+.pinned-panel {
+  border: 1px solid color-mix(in srgb, #f59e0b 45%, var(--border));
+  background: color-mix(in srgb, #f59e0b 3%, var(--panel-bg));
+  box-shadow: 0 4px 18px color-mix(in srgb, #f59e0b 12%, transparent);
+}
+
+.pin-match-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.18rem 0.55rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: color-mix(in srgb, var(--border) 40%, transparent);
+  color: var(--muted);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+  user-select: none;
+  font-family: inherit;
+}
+
+.pin-match-btn:hover {
+  background: color-mix(in srgb, #f59e0b 18%, transparent);
+  border-color: #f59e0b;
+  color: var(--text);
+  transform: translateY(-1px);
+}
+
+.pin-match-btn.is-pinned {
+  background: color-mix(in srgb, #f59e0b 22%, transparent);
+  border-color: #f59e0b;
+  color: var(--text);
+  font-weight: 700;
+  box-shadow: 0 1px 6px color-mix(in srgb, #f59e0b 25%, transparent);
+}
+
+.pin-match-btn .pin-icon {
+  font-size: 0.75rem;
+  transition: transform 0.2s ease;
+}
+
+.pin-match-btn.is-pinned .pin-icon {
+  transform: scale(1.15) rotate(-10deg);
+}
+
+.game-date-tag {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  padding: 0.05rem 0.4rem;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
 .top-matchup-badge {
   display: inline-flex;
   align-items: center;
