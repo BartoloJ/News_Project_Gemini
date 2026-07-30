@@ -121,6 +121,44 @@ function escapeHtml(str) {
     .replace(/"/g, '&quot;');
 }
 
+// URL Sanitizer helper to ensure links start with https://, filter out custom app URI schemes,
+// and validate URLs before rendering or navigating.
+function sanitizeUrl(url) {
+  if (!url || typeof url !== 'string') return null;
+  let trimmed = url.trim();
+  if (!trimmed) return null;
+
+  // Filter out custom app URI schemes (e.g. sportscenter://, chatgpt://, googleapp://)
+  if (/^[a-z0-9+-.]+:\/\//i.test(trimmed)) {
+    if (trimmed.startsWith('sportscenter://')) {
+      trimmed = trimmed.replace(/^sportscenter:\/\//i, 'https://www.espn.com/');
+    } else if (!/^https?:\/\//i.test(trimmed)) {
+      return null;
+    }
+  }
+
+  // Handle protocol-relative URLs or relative paths
+  if (trimmed.startsWith('//')) {
+    trimmed = 'https:' + trimmed;
+  } else if (!/^https?:\/\//i.test(trimmed)) {
+    if (trimmed.startsWith('/')) {
+      trimmed = 'https://www.espn.com' + trimmed;
+    } else {
+      trimmed = 'https://' + trimmed;
+    }
+  }
+
+  try {
+    const parsed = new URL(trimmed);
+    if (parsed.protocol === 'http:' || parsed.protocol === 'https:') {
+      return parsed.href;
+    }
+  } catch {
+    return null;
+  }
+  return null;
+}
+
 function renderSourceBody(source) {
   const items = source.items || [];
   if (items.length === 0) return '<p class="empty">Couldn\'t load.</p>';
@@ -131,9 +169,15 @@ function renderSourceBody(source) {
   return staleNote + '<ul class="headline-list">' + items.map((it) => {
     const titleAttr = escapeAttr(it.title);
     const sourceAttr = escapeAttr(source.name);
-    const linkAttr = escapeAttr(it.link);
+    const safeLink = sanitizeUrl(it.link);
+    const linkAttr = safeLink ? escapeAttr(safeLink) : '';
+
+    const linkHtml = safeLink
+      ? `<a href="${safeLink}" target="_blank" rel="noopener noreferrer" class="headline-link">${escapeHtml(it.title)}</a>`
+      : `<span class="headline-link headline-link-text">${escapeHtml(it.title)}</span>`;
+
     return `<li class="headline-item">
-      <a href="${it.link}" target="_blank" rel="noopener noreferrer" class="headline-link">${escapeHtml(it.title)}</a>
+      ${linkHtml}
       <button class="ask-gemini-btn" data-title="${titleAttr}" data-source="${sourceAttr}" data-link="${linkAttr}" title="Ask ${modelName} about this headline">
         <span class="sparkle-icon">✨</span> Ask ${modelName}
       </button>
@@ -197,9 +241,10 @@ function extractParticipant(c, league) {
   const entity = c.team || c.athlete;
   const name = entity?.displayName || entity?.shortDisplayName || entity?.name || 'TBD';
   const shortName = entity?.abbreviation || entity?.shortDisplayName || entity?.name || name;
-  const link = entity?.id
+  const rawLink = entity?.id
     ? `https://www.espn.com/${league.siteSport}/${isAthlete ? 'player' : 'team'}/_/id/${entity.id}`
-    : null;
+    : (entity?.links?.[0]?.href || null);
+  const link = sanitizeUrl(rawLink);
   const rank = c.curatedRank?.current && c.curatedRank.current <= 25 ? c.curatedRank.current : null;
   return { name, shortName, score: c.score, link, rank };
 }
@@ -222,6 +267,7 @@ function parseOdds(comp, eventSummary = null) {
     const gameLink = primaryOdds.links.find(l => l.rel?.includes('game') || l.rel?.includes('main') || l.rel?.includes('desktop'));
     if (gameLink) providerLink = gameLink.href;
   }
+  providerLink = sanitizeUrl(providerLink);
 
   const details = primaryOdds?.details || '';
   const overUnder = primaryOdds?.overUnder ? `O/U ${primaryOdds.overUnder}` : '';
@@ -586,8 +632,9 @@ function renderLeagueGroups(container, leagueResults, renderGame, emptyLabel) {
 
 function nameHtml(participant) {
   const rankPrefix = participant?.rank ? `<span class="team-rank">#${participant.rank}</span>` : '';
-  const nameStr = participant.link
-    ? `<a href="${participant.link}" target="_blank" rel="noopener noreferrer">${participant.name}</a>`
+  const safeLink = sanitizeUrl(participant?.link);
+  const nameStr = safeLink
+    ? `<a href="${safeLink}" target="_blank" rel="noopener noreferrer">${participant.name}</a>`
     : participant.name;
   return `${rankPrefix}${nameStr}`;
 }
@@ -640,8 +687,9 @@ function renderOddsBar(ev) {
     if (isPost) {
       html += `<span class="odds-badge post-badge">Pregame Line</span>`;
     } else if (o.providerName) {
-      const providerContent = o.providerLink
-        ? `<a href="${o.providerLink}" target="_blank" rel="noopener noreferrer" class="odds-provider-link">${o.providerName} ↗</a>`
+      const safeProviderLink = sanitizeUrl(o.providerLink);
+      const providerContent = safeProviderLink
+        ? `<a href="${safeProviderLink}" target="_blank" rel="noopener noreferrer" class="odds-provider-link">${o.providerName} ↗</a>`
         : o.providerName;
       html += `<span class="odds-badge provider-badge">${providerContent}</span>`;
     }
@@ -982,16 +1030,18 @@ async function loadGolfLeaderboards() {
         const athlete = c.athlete || {};
         const name = athlete.displayName || athlete.fullName || 'Golfer';
         const athleteId = athlete.id || c.id;
-        const link = athleteId
+        const rawLink = athleteId
           ? `https://www.espn.com/golf/player/_/id/${athleteId}`
-          : null;
+          : (athlete.links?.[0]?.href || null);
+        const link = sanitizeUrl(rawLink);
 
         const playerHtml = link
           ? `<a href="${link}" target="_blank" rel="noopener noreferrer">${name}</a>`
           : name;
 
-        const flagImg = athlete.flag?.href
-          ? `<img class="golf-flag" src="${athlete.flag.href}" alt="${athlete.flag.alt || ''}" title="${athlete.flag.alt || ''}">`
+        const flagUrl = sanitizeUrl(athlete.flag?.href);
+        const flagImg = flagUrl
+          ? `<img class="golf-flag" src="${flagUrl}" alt="${athlete.flag.alt || ''}" title="${athlete.flag.alt || ''}">`
           : '';
 
         const score = c.score || 'E';
@@ -1204,35 +1254,17 @@ function handleAskAiClick(input, isPrompt = false) {
 
   // 2. Show Toast Feedback
   if (model === 'chatgpt') {
-    showToast('Copied! Paste into ChatGPT.');
+    showToast('Copied! Opening ChatGPT…');
   } else {
-    showToast("Copied! Tap 'Open in App' at the top of Safari if it opens in browser.");
+    showToast('Copied! Opening Gemini…');
   }
 
-  // 3. Open corresponding app scheme / URL in new window/tab after 500ms delay
+  // 3. Open corresponding standard web URL in new window/tab (explicit https://, no custom URI schemes)
+  const targetUrl = model === 'chatgpt' ? 'https://chatgpt.com' : 'https://gemini.google.com';
+
   setTimeout(() => {
-    const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
-    if (model === 'chatgpt') {
-      if (isMobile) {
-        window.location.href = 'chatgpt://';
-        setTimeout(() => {
-          window.open('https://chatgpt.com', '_blank', 'noopener,noreferrer');
-        }, 800);
-      } else {
-        window.open('https://chatgpt.com', '_blank', 'noopener,noreferrer');
-      }
-    } else {
-      // Gemini
-      if (isMobile) {
-        window.location.href = 'googleapp://';
-        setTimeout(() => {
-          window.open('https://gemini.google.com', '_blank', 'noopener,noreferrer');
-        }, 800);
-      } else {
-        window.open('https://gemini.google.com', '_blank', 'noopener,noreferrer');
-      }
-    }
-  }, 500);
+    window.open(targetUrl, '_blank', 'noopener,noreferrer');
+  }, 400);
 }
 
 function initAskGeminiHandlers() {
@@ -1249,6 +1281,29 @@ function initAskGeminiHandlers() {
       } else if (titleAttr) {
         handleAskAiClick(titleAttr, false);
       }
+    }
+  });
+}
+
+function initLinkSafetyHandler() {
+  document.body.addEventListener('click', (e) => {
+    const anchor = e.target.closest('a');
+    if (!anchor) return;
+
+    const href = anchor.getAttribute('href');
+    if (!href || href.trim() === '' || href.trim() === '#') {
+      e.preventDefault();
+      return;
+    }
+
+    const safeUrl = sanitizeUrl(href);
+    if (!safeUrl) {
+      e.preventDefault();
+      return;
+    }
+
+    if (anchor.getAttribute('href') !== safeUrl) {
+      anchor.setAttribute('href', safeUrl);
     }
   });
 }
@@ -1359,6 +1414,7 @@ initOddsToggle();
 initMustWatchToggle();
 initAiModelSelect();
 initAskGeminiHandlers();
+initLinkSafetyHandler();
 setLastUpdated();
 loadHeadlines();
 loadGolfLeaderboards();
