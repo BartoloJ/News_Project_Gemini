@@ -757,8 +757,13 @@ const loadedGamesRegistry = new Map(); // key -> { ev, league, dateTag }
 
 function getGameKey(ev, league) {
   const lId = league?.id || league?.name || 'league';
-  const eId = ev?.id || `${ev?.away?.name || ''}_vs_${ev?.home?.name || ''}_${ev?.date || ''}`;
-  return `${lId}_${eId}`;
+  if (ev?.id) {
+    return `${lId}_${ev.id}`;
+  }
+  const awayName = ev?.away?.name || 'away';
+  const homeName = ev?.home?.name || 'home';
+  const dateStr = ev?.date ? new Date(ev.date).toISOString().slice(0, 10) : 'nodate';
+  return `${lId}_${awayName}_vs_${homeName}_${dateStr}`;
 }
 
 function getPinnedMatchesMap() {
@@ -778,24 +783,54 @@ function savePinnedMatchesMap(map) {
   }
 }
 
-function isMatchPinned(gameKey) {
+function isMatchPinned(gameKey, ev = null) {
   const map = getPinnedMatchesMap();
-  return Boolean(map[gameKey]);
+  if (map[gameKey]) return true;
+  if (ev) {
+    for (const pItem of Object.values(map)) {
+      if (
+        (ev.id && pItem.ev?.id && String(ev.id) === String(pItem.ev.id)) ||
+        (pItem.ev?.home?.name === ev.home?.name && pItem.ev?.away?.name === ev.away?.name && pItem.ev?.date === ev.date)
+      ) {
+        return true;
+      }
+    }
+  }
+  return false;
 }
 
 function togglePinMatch(gameKey) {
   const map = getPinnedMatchesMap();
-  const isCurrentlyPinned = Boolean(map[gameKey]);
+  let keyToDelete = null;
 
-  if (isCurrentlyPinned) {
-    delete map[gameKey];
+  if (map[gameKey]) {
+    keyToDelete = gameKey;
+  } else {
+    // Check if map contains an item matching this gameKey's event
+    const regItem = loadedGamesRegistry.get(gameKey);
+    const ev = regItem?.ev;
+    for (const [k, pItem] of Object.entries(map)) {
+      if (
+        k === gameKey ||
+        (ev?.id && pItem.ev?.id && String(ev.id) === String(pItem.ev.id)) ||
+        (ev && pItem.ev?.home?.name === ev.home?.name && pItem.ev?.away?.name === ev.away?.name && pItem.ev?.date === ev.date)
+      ) {
+        keyToDelete = k;
+        break;
+      }
+    }
+  }
+
+  if (keyToDelete) {
+    delete map[keyToDelete];
     savePinnedMatchesMap(map);
     showToast('Match unpinned');
   } else {
     const regItem = loadedGamesRegistry.get(gameKey);
     if (regItem) {
-      map[gameKey] = {
-        gameKey,
+      const canonicalKey = getGameKey(regItem.ev, regItem.league);
+      map[canonicalKey] = {
+        gameKey: canonicalKey,
         ev: regItem.ev,
         league: regItem.league,
         dateTag: regItem.dateTag,
@@ -819,7 +854,8 @@ function updateAllPinButtons() {
   buttons.forEach((btn) => {
     const key = btn.getAttribute('data-game-key');
     if (!key) return;
-    const pinned = Boolean(map[key]);
+    const regItem = loadedGamesRegistry.get(key);
+    const pinned = isMatchPinned(key, regItem?.ev);
     if (pinned) {
       btn.classList.add('is-pinned');
       btn.setAttribute('title', 'Unpin match');
@@ -838,13 +874,40 @@ function registerLoadedGames(events, league, dateTag) {
   let updatedPinnedMap = false;
 
   events.forEach((ev) => {
-    const key = getGameKey(ev, league);
-    loadedGamesRegistry.set(key, { ev, league, dateTag });
+    const canonicalKey = getGameKey(ev, league);
+    loadedGamesRegistry.set(canonicalKey, { ev, league, dateTag });
 
-    if (pinnedMap[key]) {
-      pinnedMap[key].ev = ev;
-      pinnedMap[key].league = league;
-      pinnedMap[key].dateTag = dateTag;
+    // Look for any existing item in pinnedMap matching this game (including legacy keys)
+    let matchingOldKey = null;
+    for (const [pKey, pItem] of Object.entries(pinnedMap)) {
+      if (pKey === canonicalKey) {
+        matchingOldKey = pKey;
+        break;
+      }
+      if (
+        (ev.id && pItem.ev?.id && String(ev.id) === String(pItem.ev.id)) ||
+        (pItem.league?.name === league.name &&
+         pItem.ev?.home?.name === ev.home?.name &&
+         pItem.ev?.away?.name === ev.away?.name &&
+         pItem.ev?.date === ev.date)
+      ) {
+        matchingOldKey = pKey;
+        break;
+      }
+    }
+
+    if (matchingOldKey) {
+      const existingItem = pinnedMap[matchingOldKey];
+      if (matchingOldKey !== canonicalKey) {
+        delete pinnedMap[matchingOldKey];
+      }
+      pinnedMap[canonicalKey] = {
+        gameKey: canonicalKey,
+        ev: ev,
+        league: league,
+        dateTag: dateTag,
+        pinnedAt: existingItem?.pinnedAt || Date.now()
+      };
       updatedPinnedMap = true;
     }
   });
@@ -906,6 +969,18 @@ function initPinMatchHandlers() {
       }
     }
   });
+
+  const clearBtn = document.getElementById('clear-all-pins-btn');
+  if (clearBtn) {
+    clearBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      savePinnedMatchesMap({});
+      showToast('All pinned matches cleared');
+      updateAllPinButtons();
+      updatePinnedMatchesUI();
+    });
+  }
 }
 
 function renderYesterdayGame(ev, league, dateTag = '') {
@@ -916,7 +991,7 @@ function renderYesterdayGame(ev, league, dateTag = '') {
     ? `<span class="top-matchup-badge" title="${escapeAttr(excitement.reason)}">🔥 Top Matchup</span>` 
     : '';
   const gameKey = getGameKey(ev, league);
-  const isPinned = isMatchPinned(gameKey);
+  const isPinned = isMatchPinned(gameKey, ev);
   const pinBtn = `<button type="button" class="pin-match-btn ${isPinned ? 'is-pinned' : ''}" data-game-key="${escapeAttr(gameKey)}" title="${isPinned ? 'Unpin match' : 'Pin match to top'}">
     <span class="pin-icon">📌</span> <span class="pin-text">${isPinned ? 'Pinned' : 'Pin'}</span>
   </button>`;
@@ -971,7 +1046,7 @@ function renderScheduledGame(ev, league, dateTag = '') {
     ? `<span class="top-matchup-badge" title="${escapeAttr(excitement.reason)}">🔥 Top Matchup</span>` 
     : '';
   const gameKey = getGameKey(ev, league);
-  const isPinned = isMatchPinned(gameKey);
+  const isPinned = isMatchPinned(gameKey, ev);
   const pinBtn = `<button type="button" class="pin-match-btn ${isPinned ? 'is-pinned' : ''}" data-game-key="${escapeAttr(gameKey)}" title="${isPinned ? 'Unpin match' : 'Pin match to top'}">
     <span class="pin-icon">📌</span> <span class="pin-text">${isPinned ? 'Pinned' : 'Pin'}</span>
   </button>`;

@@ -79,7 +79,12 @@
   </div>
 
   <details id="pinned-scores" class="panel pinned-panel hidden" open>
-    <summary><h2>📌 Pinned Matches (<span id="pinned-count">0</span>)</h2></summary>
+    <summary>
+      <div class="pinned-header-wrapper">
+        <h2>📌 Pinned Matches (<span id="pinned-count">0</span>)</h2>
+        <button type="button" id="clear-all-pins-btn" class="clear-pins-btn" title="Clear all pinned matches">Clear All</button>
+      </div>
+    </summary>
     <div class="panel-body">
       <p class="section-sub">Matches you've pinned to track live scores &amp; odds at the top of your feed on page refresh.</p>
       <div id="pinned-scores-list" class="league-groups"></div>
