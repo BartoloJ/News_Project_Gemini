@@ -41,7 +41,24 @@ app.use((req, res, next) => {
 // Serve static files from root
 app.use(express.static(__dirname));
 
-// Route to get cached headlines (strictly server-controlled 15-min interval)
+// Route to get cached headlines (automatically refreshes server-side if >15 minutes old)
+function isHeadlinesStale() {
+  const filePath = path.join(__dirname, 'headlines.json');
+  if (!fs.existsSync(filePath)) return true;
+  try {
+    const raw = fs.readFileSync(filePath, 'utf8');
+    const data = JSON.parse(raw);
+    const time = data.fetchedAt || data.lastChecked || data.lastUpdated || data.generatedAt;
+    if (!time) return true;
+    const ageMs = Date.now() - new Date(time).getTime();
+    return ageMs > 15 * 60 * 1000; // > 15 minutes
+  } catch {
+    return true;
+  }
+}
+
+let ongoingFetch = null;
+
 async function handleHeadlinesRoute(req, res) {
   res.setHeader('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
   res.setHeader('Pragma', 'no-cache');
@@ -49,11 +66,21 @@ async function handleHeadlinesRoute(req, res) {
 
   try {
     const filePath = path.join(__dirname, 'headlines.json');
-    if (!fs.existsSync(filePath)) {
-      await runFetchHeadlines();
+    if (isHeadlinesStale()) {
+      if (!ongoingFetch) {
+        ongoingFetch = runFetchHeadlines().finally(() => { ongoingFetch = null; });
+      }
+      if (!fs.existsSync(filePath)) {
+        await ongoingFetch;
+      }
     }
-    const content = fs.readFileSync(filePath, 'utf8');
-    res.json(JSON.parse(content));
+
+    if (fs.existsSync(filePath)) {
+      const content = fs.readFileSync(filePath, 'utf8');
+      res.json(JSON.parse(content));
+    } else {
+      res.status(500).json({ error: 'Headlines not yet available' });
+    }
   } catch (err) {
     res.status(500).json({ error: 'Failed to read headlines' });
   }
