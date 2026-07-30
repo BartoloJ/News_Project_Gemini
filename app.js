@@ -570,9 +570,9 @@ function renderLeagueGroups(container, leagueResults, renderGame, emptyLabel) {
     let groupHtml = `<summary><h3>${groupName}</h3></summary><div class="league-group-body"><ul class="game-list">`;
     for (const { league, events } of leagues) {
       if (events === null) {
-        groupHtml += `<li class="game-row muted-row is-standard-matchup"><div class="game-main"><span class="team-name">${league.name}</span><span class="game-status">Couldn't load</span></div></li>`;
+        groupHtml += `<li class="game-row muted-row is-standard-matchup"><div class="game-top-meta"><span class="team-name">${league.name}</span><span class="game-status">&ndash; Couldn't load</span></div></li>`;
       } else if (events.length === 0) {
-        groupHtml += `<li class="game-row muted-row is-standard-matchup"><div class="game-main"><span class="team-name">${league.name}</span><span class="game-status">${emptyLabel}</span></div></li>`;
+        groupHtml += `<li class="game-row muted-row is-standard-matchup"><div class="game-top-meta"><span class="team-name">${league.name}</span><span class="game-status">&ndash; ${emptyLabel}</span></div></li>`;
       } else {
         groupHtml += events.map((ev) => renderGame(ev, league)).join('');
       }
