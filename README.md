@@ -28,7 +28,7 @@ Team and fighter names display official team logos/icons and link directly to of
 
 - **Frontend**: Lightweight, zero-framework JavaScript app (`app.js`, `style.css`, `index.html`) optimized for fast loading and mobile/desktop layout flexibility. Includes PWA / iOS home screen app icons (`icon.svg`, `apple-touch-icon.png`).
 - **Server**: Express Node server (`server.js`) serving static assets and dynamic API routes (`/api/headlines`, `/api/refresh-headlines`).
-- **Headlines Engine**: `scripts/fetch-headlines.js` fetches RSS feeds (direct RSS for BBC/NPR/WSJ and Google News RSS search for AP News/Reuters) and outputs `headlines.json`. The server dynamically verifies staleness (>20 mins) and refreshes on-demand or via scheduled background timer.
+- **Headlines Engine**: `scripts/fetch-headlines.js` fetches RSS feeds (direct RSS for BBC/NPR/WSJ and Google News RSS search for AP News/Reuters) and outputs `headlines.json`. The server dynamically verifies staleness (>15 mins) and refreshes on-demand or via scheduled background timer.
 - **Scores & Schedules**: ESPN public scoreboard & leaderboard APIs fetched dynamically client-side with automatic fallback handling.
 - **Automation**: GitHub Actions workflows (`.github/workflows/update-headlines.yml` and `deploy.yml`) handle automated headline updates and GitHub Pages deployments.
 

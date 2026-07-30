@@ -228,36 +228,6 @@ async function loadHeadlines() {
     }
   }
 
-  // 3. If data loaded but generatedAt is older than 20 minutes, trigger background refresh
-  if (data && data.generatedAt) {
-    const ageMs = Date.now() - new Date(data.generatedAt).getTime();
-    if (ageMs > 20 * 60 * 1000) {
-      try {
-        const refreshRes = await fetch(`/api/refresh-headlines?force=true&t=${Date.now()}`, { method: 'POST' });
-        if (refreshRes.ok) {
-          const freshData = await refreshRes.json();
-          if (freshData && freshData.sources) {
-            data = freshData;
-          }
-        }
-      } catch (refreshErr) {
-        console.warn('Auto-refresh trigger failed:', refreshErr);
-      }
-    }
-  }
-
-  // 4. Final attempt via refresh API if still no data
-  if (!data || !data.sources || data.sources.length === 0) {
-    try {
-      const refreshRes = await fetch(`/api/refresh-headlines?force=true&t=${Date.now()}`, { method: 'POST' });
-      if (refreshRes.ok) {
-        data = await refreshRes.json();
-      }
-    } catch (refreshErr) {
-      console.warn('Failed final refresh API fallback:', refreshErr);
-    }
-  }
-
   if (!data || !data.sources || data.sources.length === 0) {
     container.innerHTML = '<p class="error">Couldn\'t load headlines right now. Try refreshing the page.</p>';
     return;
@@ -1631,14 +1601,7 @@ async function refreshAllData(options = {}) {
   showToast('Refreshing headlines & scores…');
 
   try {
-    // 1. Force refresh headlines on server side
-    try {
-      await fetch(`/api/refresh-headlines?force=true&t=${Date.now()}`, { method: 'POST' });
-    } catch (err) {
-      console.warn('Force refresh headlines failed:', err);
-    }
-
-    // 2. Reload headlines, golf, scores
+    // Reload headlines, golf, scores from server cache & live APIs
     updateDates();
     await Promise.allSettled([
       loadHeadlines(),
