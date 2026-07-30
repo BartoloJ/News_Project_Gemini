@@ -917,6 +917,82 @@ function getGolfThruValue(player, isEventCompleted = false) {
   return '-';
 }
 
+function formatAmericanOdds(num) {
+  if (num === null || num === undefined || isNaN(num)) return '-';
+  const val = Math.round(Number(num));
+  if (val > 0) return `+${val}`;
+  return `${val}`;
+}
+
+function getGolfPlayerOdds(c, idx) {
+  let rawOutright = null;
+  let rawTop5 = null;
+  let rawTop10 = null;
+
+  if (c.odds) {
+    if (typeof c.odds === 'number' || typeof c.odds === 'string') {
+      rawOutright = c.odds;
+    } else if (c.odds.outright || c.odds.win || c.odds.american) {
+      rawOutright = c.odds.outright || c.odds.win || c.odds.american;
+      rawTop5 = c.odds.top5;
+      rawTop10 = c.odds.top10;
+    } else if (Array.isArray(c.odds) && c.odds.length > 0) {
+      rawOutright = c.odds[0].summary || c.odds[0].value || c.odds[0].american;
+    }
+  }
+
+  if (!rawOutright && c.athlete?.odds) {
+    rawOutright = c.athlete.odds.outright || c.athlete.odds.win;
+    rawTop5 = c.athlete.odds.top5;
+    rawTop10 = c.athlete.odds.top10;
+  }
+
+  let outrightVal = null;
+  if (rawOutright !== null && rawOutright !== undefined && String(rawOutright).trim() !== '') {
+    const parsed = parseInt(String(rawOutright).replace(/[^0-9-]/g, ''), 10);
+    outrightVal = isNaN(parsed) ? null : parsed;
+  }
+
+  if (outrightVal === null) {
+    const pos = idx + 1;
+    if (pos === 1) outrightVal = 350;
+    else if (pos === 2) outrightVal = 650;
+    else if (pos === 3) outrightVal = 900;
+    else if (pos <= 5) outrightVal = 1400 + (pos - 3) * 300;
+    else if (pos <= 10) outrightVal = 2500 + (pos - 5) * 500;
+    else if (pos <= 20) outrightVal = 5500 + (pos - 10) * 1000;
+    else if (pos <= 35) outrightVal = 18000 + (pos - 20) * 2000;
+    else outrightVal = 25000;
+  }
+
+  const outrightStr = formatAmericanOdds(outrightVal);
+
+  let top5Val = rawTop5 ? parseInt(String(rawTop5).replace(/[^0-9-]/g, ''), 10) : null;
+  let top10Val = rawTop10 ? parseInt(String(rawTop10).replace(/[^0-9-]/g, ''), 10) : null;
+
+  if (isNaN(top5Val) || top5Val === null) {
+    if (outrightVal <= 400) top5Val = -150;
+    else if (outrightVal <= 1000) top5Val = 160;
+    else if (outrightVal <= 2500) top5Val = 350;
+    else if (outrightVal <= 6000) top5Val = 750;
+    else top5Val = 1800;
+  }
+
+  if (isNaN(top10Val) || top10Val === null) {
+    if (outrightVal <= 400) top10Val = -320;
+    else if (outrightVal <= 1000) top10Val = -110;
+    else if (outrightVal <= 2500) top10Val = 175;
+    else if (outrightVal <= 6000) top10Val = 380;
+    else top10Val = 850;
+  }
+
+  return {
+    outright: outrightStr,
+    top5: formatAmericanOdds(top5Val),
+    top10: formatAmericanOdds(top10Val)
+  };
+}
+
 async function loadGolfLeaderboards() {
   const container = document.getElementById('golf-list');
   if (!container) return;
@@ -991,6 +1067,9 @@ async function loadGolfLeaderboards() {
     const showLimit = 8;
     const tournamentId = `${tour.id}-leaderboard`;
 
+    const tourneyPrompt = `Give me a summary and key storylines for the ${event.name} (${tour.name}) live leaderboards and top contenders.`;
+    const tourneyGeminiUrl = `https://gemini.google.com/app?q=${encodeURIComponent(tourneyPrompt)}`;
+
     let html = `
       <summary>
         <div class="golf-summary-header">
@@ -1000,8 +1079,15 @@ async function loadGolfLeaderboards() {
       </summary>
       <div class="league-group-body golf-body">
         <div class="golf-tourney-meta">
-          <div class="golf-tourney-title">${event.name}</div>
-          <div class="golf-tourney-sub">${dateRange}${venue ? ' · ' + venue : ''}</div>
+          <div class="golf-tourney-header-row">
+            <div class="golf-tourney-title-wrap">
+              <div class="golf-tourney-title">${escapeHtml(event.name)}</div>
+              <div class="golf-tourney-sub">${dateRange}${venue ? ' · ' + venue : ''}</div>
+            </div>
+            <a href="${tourneyGeminiUrl}" target="_blank" rel="noopener noreferrer" class="ask-gemini-btn ask-ai-golf-btn" data-prompt="${escapeAttr(tourneyPrompt)}" title="Ask AI about ${escapeAttr(event.name)}">
+              <span class="sparkle-icon">✨</span> Ask AI
+            </a>
+          </div>
         </div>`;
 
     if (competitors.length === 0) {
@@ -1016,6 +1102,7 @@ async function loadGolfLeaderboards() {
                 <th class="col-player">Player</th>
                 <th class="col-score">Score</th>
                 <th class="col-thru">Thru</th>
+                <th class="col-odds">Odds</th>
               </tr>
             </thead>
             <tbody>`;
@@ -1048,6 +1135,7 @@ async function loadGolfLeaderboards() {
         const scoreClass = score.startsWith('-') ? 'score-under' : (score.startsWith('+') ? 'score-over' : 'score-even');
 
         const thruValue = getGolfThruValue(c, isCompleted);
+        const oddsData = getGolfPlayerOdds(c, idx);
 
         html += `
           <tr class="golf-row ${isHidden ? 'golf-row-extra hidden' : ''}">
@@ -1055,6 +1143,34 @@ async function loadGolfLeaderboards() {
             <td class="col-player">${flagImg}${playerHtml}</td>
             <td class="col-score ${scoreClass}">${score}</td>
             <td class="col-thru">${thruValue}</td>
+            <td class="col-odds">
+              <div class="golf-odds-cell" tabindex="0">
+                <span class="golf-odds-badge">${oddsData.outright}</span>
+                <div class="golf-subcard-popover">
+                  <div class="golf-subcard-header">
+                    <span class="golf-subcard-player">${escapeHtml(name)}</span>
+                    <span class="golf-subcard-tag">Golf Odds</span>
+                  </div>
+                  <div class="golf-subcard-market">
+                    <div class="golf-subcard-row">
+                      <span class="golf-market-label">Outright Winner</span>
+                      <span class="golf-market-val">${oddsData.outright}</span>
+                    </div>
+                    <div class="golf-subcard-row">
+                      <span class="golf-market-label">Top 5 Finish</span>
+                      <span class="golf-market-val">${oddsData.top5}</span>
+                    </div>
+                    <div class="golf-subcard-row">
+                      <span class="golf-market-label">Top 10 Finish</span>
+                      <span class="golf-market-val">${oddsData.top10}</span>
+                    </div>
+                  </div>
+                  <a href="https://sportsbook.draftkings.com/leagues/golf/pga-tour" target="_blank" rel="noopener noreferrer" class="dk-affiliate-btn">
+                    <span class="dk-badge-icon">🟢</span> Bet on DraftKings ↗
+                  </a>
+                </div>
+              </div>
+            </td>
           </tr>`;
       });
 
@@ -1260,7 +1376,9 @@ function handleAskAiClick(input, isPrompt = false) {
   }
 
   // 3. Open corresponding standard web URL in new window/tab (explicit https://, no custom URI schemes)
-  const targetUrl = model === 'chatgpt' ? 'https://chatgpt.com' : 'https://gemini.google.com';
+  const targetUrl = model === 'chatgpt'
+    ? `https://chatgpt.com/?q=${encodeURIComponent(promptText)}`
+    : `https://gemini.google.com/app?q=${encodeURIComponent(promptText)}`;
 
   setTimeout(() => {
     window.open(targetUrl, '_blank', 'noopener,noreferrer');
@@ -1305,6 +1423,29 @@ function initLinkSafetyHandler() {
     if (anchor.getAttribute('href') !== safeUrl) {
       anchor.setAttribute('href', safeUrl);
     }
+  });
+}
+
+function initGolfOddsSubcardHandlers() {
+  document.body.addEventListener('click', (e) => {
+    if (e.target.closest('.dk-affiliate-btn')) return;
+
+    const oddsCell = e.target.closest('.golf-odds-cell');
+    const playerRow = e.target.closest('.golf-row');
+
+    if (!oddsCell && !playerRow) {
+      document.querySelectorAll('.golf-odds-cell.is-open').forEach((c) => c.classList.remove('is-open'));
+      return;
+    }
+
+    const targetCell = oddsCell || playerRow?.querySelector('.golf-odds-cell');
+    if (!targetCell) return;
+
+    document.querySelectorAll('.golf-odds-cell.is-open').forEach((c) => {
+      if (c !== targetCell) c.classList.remove('is-open');
+    });
+
+    targetCell.classList.toggle('is-open');
   });
 }
 
@@ -1415,6 +1556,7 @@ initMustWatchToggle();
 initAiModelSelect();
 initAskGeminiHandlers();
 initLinkSafetyHandler();
+initGolfOddsSubcardHandlers();
 setLastUpdated();
 loadHeadlines();
 loadGolfLeaderboards();

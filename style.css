@@ -508,6 +508,19 @@ body.hide-odds .game-odds-container {
   border-bottom: 1px solid var(--border);
 }
 
+.golf-tourney-header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.golf-tourney-title-wrap {
+  flex: 1;
+  min-width: 0;
+}
+
 .golf-tourney-title {
   font-size: 1.05rem;
   font-weight: 600;
@@ -520,15 +533,168 @@ body.hide-odds .game-odds-container {
   margin-top: 0.15rem;
 }
 
+.ask-ai-golf-btn {
+  flex-shrink: 0;
+  text-decoration: none;
+}
+
 .golf-table-wrap {
   overflow-x: auto;
+  overflow-y: visible;
   margin-top: 0.65rem;
+  padding-bottom: 0.25rem;
 }
 
 .golf-table {
   width: 100%;
   border-collapse: collapse;
   font-size: 0.9rem;
+}
+
+.col-odds {
+  width: 90px;
+  text-align: right;
+  position: relative;
+}
+
+.golf-table th.col-odds {
+  text-align: right;
+}
+
+.golf-odds-cell {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.golf-odds-badge {
+  display: inline-block;
+  padding: 0.2rem 0.45rem;
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  color: var(--accent);
+  font-weight: 600;
+  font-size: 0.8rem;
+  border-radius: 4px;
+  font-variant-numeric: tabular-nums;
+  border: 1px solid color-mix(in srgb, var(--accent) 25%, transparent);
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+
+.golf-row:hover .golf-odds-badge,
+.golf-odds-cell:hover .golf-odds-badge,
+.golf-odds-cell.is-open .golf-odds-badge {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+
+.golf-subcard-popover {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 4px);
+  z-index: 150;
+  width: 210px;
+  background: var(--panel-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.25), 0 6px 12px -4px rgba(0, 0, 0, 0.15);
+  padding: 0.65rem 0.75rem;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-4px);
+  transition: opacity 0.18s ease, transform 0.18s ease, visibility 0.18s ease;
+  pointer-events: none;
+  text-align: left;
+}
+
+.golf-row:hover .golf-subcard-popover,
+.golf-odds-cell:hover .golf-subcard-popover,
+.golf-odds-cell:focus .golf-subcard-popover,
+.golf-odds-cell.is-open .golf-subcard-popover {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.golf-subcard-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 0.4rem;
+  margin-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.golf-subcard-player {
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 130px;
+}
+
+.golf-subcard-tag {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.golf-subcard-market {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-bottom: 0.6rem;
+}
+
+.golf-subcard-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.8rem;
+}
+
+.golf-market-label {
+  color: var(--muted);
+}
+
+.golf-market-val {
+  font-weight: 600;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+}
+
+.dk-affiliate-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  width: 100%;
+  padding: 0.35rem 0.5rem;
+  background: #111827;
+  color: #10b981;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 6px;
+  border: 1px solid #1f2937;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.dk-affiliate-btn:hover {
+  background: #000000;
+  color: #34d399;
+  border-color: #374151;
+}
+
+.body.hide-odds .col-odds,
+body.hide-odds .col-odds {
+  display: none !important;
 }
 
 .golf-table th {
