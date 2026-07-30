@@ -21,14 +21,14 @@ jobs:
         with:
           node-version: '22'
       - run: node scripts/fetch-headlines.js
-      - name: Commit and push if changed
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- headlines.json; then
-            echo "No changes to headlines.json"
-            exit 0
+          git add headlines.json data/headlines.json 2>/dev/null || git add headlines.json
+          if git diff --cached --quiet; then
+            echo "No changes to headlines"
+          else
+            git commit -m "Update headlines [last checked: $(date -u +'%Y-%m-%dT%H:%M:%SZ')]"
+            git push
           fi
-          git add headlines.json
-          git commit -m "Update headlines.json"
-          git push

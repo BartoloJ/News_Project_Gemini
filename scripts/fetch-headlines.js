@@ -120,9 +120,29 @@ async function main() {
     }
   }
 
-  const output = { generatedAt: new Date().toISOString(), sources };
+  const now = new Date().toISOString();
+  const output = {
+    fetchedAt: now,
+    lastChecked: now,
+    lastUpdated: now,
+    generatedAt: now,
+    sources
+  };
+
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2) + '\n');
   console.log(`Wrote ${OUTPUT_PATH}`);
+
+  const DATA_DIR = path.join(__dirname, '..', 'data');
+  if (!fs.existsSync(DATA_DIR)) {
+    try { fs.mkdirSync(DATA_DIR, { recursive: true }); } catch {}
+  }
+  const DATA_PATH = path.join(DATA_DIR, 'headlines.json');
+  try {
+    fs.writeFileSync(DATA_PATH, JSON.stringify(output, null, 2) + '\n');
+    console.log(`Wrote ${DATA_PATH}`);
+  } catch (err) {
+    console.warn(`Could not write to ${DATA_PATH}:`, err.message);
+  }
 }
 
 main().catch((err) => {

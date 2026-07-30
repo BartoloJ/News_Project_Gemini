@@ -233,10 +233,11 @@ async function loadHeadlines() {
     return;
   }
 
-  if (data.generatedAt) {
-    const genDate = new Date(data.generatedAt);
+  const checkTime = data.fetchedAt || data.lastChecked || data.lastUpdated || data.generatedAt;
+  if (checkTime) {
+    const genDate = new Date(checkTime);
     if (!isNaN(genDate.getTime())) {
-      sub.textContent = `${longDate(today)} · Updated ${relativeTime(genDate.getTime())}`;
+      sub.textContent = `${longDate(today)} · Last checked ${relativeTime(genDate.getTime())}`;
     }
   }
 
