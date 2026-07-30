@@ -287,8 +287,13 @@ function extractParticipant(c, league) {
     ? `https://www.espn.com/${league.siteSport}/${isAthlete ? 'player' : 'team'}/_/id/${entity.id}`
     : (entity?.links?.[0]?.href || null);
   const link = sanitizeUrl(rawLink);
+
+  let rawLogo = entity?.logo || entity?.logos?.[0]?.href || (typeof entity?.logos?.[0] === 'string' ? entity.logos[0] : null) || c.athlete?.headshot?.href || c.athlete?.flag?.href || null;
+  if (typeof rawLogo === 'object' && rawLogo?.href) rawLogo = rawLogo.href;
+  const logo = sanitizeUrl(rawLogo);
+
   const rank = c.curatedRank?.current && c.curatedRank.current <= 25 ? c.curatedRank.current : null;
-  return { name, shortName, score: c.score, link, rank };
+  return { name, shortName, score: c.score, link, rank, logo };
 }
 
 function formatML(val) {
@@ -675,10 +680,13 @@ function renderLeagueGroups(container, leagueResults, renderGame, emptyLabel) {
 function nameHtml(participant) {
   const rankPrefix = participant?.rank ? `<span class="team-rank">#${participant.rank}</span>` : '';
   const safeLink = sanitizeUrl(participant?.link);
+  const logoHtml = participant?.logo
+    ? `<img src="${participant.logo}" alt="" class="team-logo" loading="lazy" onerror="this.style.display='none'" />`
+    : '';
   const nameStr = safeLink
-    ? `<a href="${safeLink}" target="_blank" rel="noopener noreferrer">${participant.name}</a>`
-    : participant.name;
-  return `${rankPrefix}${nameStr}`;
+    ? `<a href="${safeLink}" target="_blank" rel="noopener noreferrer">${escapeHtml(participant.name)}</a>`
+    : escapeHtml(participant.name);
+  return `${logoHtml}${rankPrefix}${nameStr}`;
 }
 
 function renderOddsBar(ev) {

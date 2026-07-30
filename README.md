@@ -21,7 +21,7 @@ Sports are grouped logically with smart auto-collapsing for quiet days:
 - **Combat Sports**: UFC, Boxing
 - **Golf**: PGA Tour, LPGA Tour, DP World Tour (leaderboards with odds & DraftKings links)
 
-Team and fighter names link directly to official ESPN pages for full rosters, stats, and detailed box scores.
+Team and fighter names display official team logos/icons and link directly to official ESPN pages for full rosters, stats, and detailed box scores.
 
 ## Architecture & How It Works
 
