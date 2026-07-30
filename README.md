@@ -1,81 +1,54 @@
 # Daily Wrap
 
-A one-page site showing:
+A modern, responsive dashboard providing a quick daily overview of world news, live sports, and tournament leaderboards:
 
-- Today's top headlines, grouped by source (BBC, NPR, AP News, Reuters,
-  WSJ), each collapsible independently — so one source with a big feed
-  (looking at you, Reuters) doesn't crowd out the others
-- Yesterday's sports results
-- Today's scheduled games and local start times
-- Tomorrow's scheduled games (collapsed by default, to keep the page from
-  getting crowded)
+- **Top Headlines**: Grouped by source (BBC, NPR, AP News, Reuters, WSJ), collapsible independently so large feeds don't crowd out others. Includes an **"Ask AI"** button on headlines for instant deep-dive analysis in Gemini or ChatGPT.
+- **Golf Leaderboards**: Live tournament leaderboards (PGA Tour, LPGA Tour, DP World Tour) with score, thru status, outright winner odds, interactive Top 5 / Top 10 odds popovers with DraftKings links, and "Ask AI" tournament story summaries.
+- **Yesterday's Sports Results**: Final scores for yesterday's games across all major leagues.
+- **Today's Scheduled Games**: Live & upcoming games with local start times and channel broadcasts.
+- **Tomorrow's Scheduled Games**: Next day match schedule (auto-collapsed by default).
+- **Must-Watch Filter**: Toggle to highlight top-tier matchups across leagues.
+- **Customizable AI Assistant**: AI model selector in header (Gemini / ChatGPT) with configurable prompt templates.
 
-Sports are grouped by category — Football, Basketball, Baseball, Hockey,
-Soccer, Combat Sports — covering NFL, NCAA football, NBA, WNBA, NCAA men's
-basketball, MLB, NHL, the Premier League, Champions League, Europa League,
-La Liga, Serie A, Bundesliga, Ligue 1, MLS, UFC, and boxing. Every category
-is always shown, but one with no games/fights that day auto-collapses to a
-single-line header instead of taking up space; categories with action stay
-expanded. Each of the four main sections can also be collapsed/expanded by
-clicking its header.
+## Supported Sports & Leagues
 
-Team and fighter names show their full name (e.g. "New York Yankees", not
-just "Yankees") and link out to that team's/fighter's real ESPN.com page for
-full stats, roster, and schedule — rather than this site trying to build
-and keep a second copy of that in sync.
+Sports are grouped logically with smart auto-collapsing for quiet days:
+- **Football**: NFL, NCAA Football
+- **Basketball**: NBA, WNBA, NCAA Men's Basketball
+- **Baseball**: MLB
+- **Hockey**: NHL
+- **Soccer**: Premier League, Champions League, Europa League, La Liga, Serie A, Bundesliga, Ligue 1, MLS
+- **Combat Sports**: UFC, Boxing
+- **Golf**: PGA Tour, LPGA Tour, DP World Tour (leaderboards with odds & DraftKings links)
 
-Golf, tennis, and motorsports are intentionally not included: those are
-multi-day leaderboard/tournament formats (ranked fields, no single "final
-score" pair), fundamentally different from the daily match schedule this
-site is built around, and would need their own leaderboard-style UI to do
-properly.
+Team and fighter names link directly to official ESPN pages for full rosters, stats, and detailed box scores.
 
-## How it works
+## Architecture & How It Works
 
-This is a static site (`index.html` / `style.css` / `app.js`) with no build
-step and no API keys.
+- **Frontend**: Lightweight, zero-framework JavaScript app (`app.js`, `style.css`, `index.html`) optimized for fast loading and mobile/desktop layout flexibility. Includes PWA / iOS home screen app icons (`icon.svg`, `apple-touch-icon.png`).
+- **Server**: Express Node server (`server.js`) serving static assets and dynamic API routes (`/api/headlines`, `/api/refresh-headlines`).
+- **Headlines Engine**: `scripts/fetch-headlines.js` fetches RSS feeds (direct RSS for BBC/NPR/WSJ and Google News RSS search for AP News/Reuters) and outputs `headlines.json`. The server dynamically verifies staleness (>20 mins) and refreshes on-demand or via scheduled background timer.
+- **Scores & Schedules**: ESPN public scoreboard & leaderboard APIs fetched dynamically client-side with automatic fallback handling.
+- **Automation**: GitHub Actions workflows (`.github/workflows/update-headlines.yml` and `deploy.yml`) handle automated headline updates and GitHub Pages deployments.
 
-- **Headlines** come from `headlines.json`, a file regenerated every 30
-  minutes by a scheduled GitHub Actions workflow
-  (`.github/workflows/update-headlines.yml`, running
-  `scripts/fetch-headlines.js`). That script fetches BBC, NPR, and WSJ RSS
-  directly, and AP News/Reuters via a Google News site-search (both retired
-  their own public RSS years ago), then commits the result back to the repo.
-  Fetching happens **server-side, in the Actions runner**, not in the
-  visitor's browser — earlier this ran client-side through free CORS
-  proxies (browsers block direct cross-origin RSS reads), but all of them
-  turned out to be unreliable in practice (403s, dead DNS, 5xx errors,
-  timeouts), so headline fetching moved server-side where CORS doesn't
-  apply and proxies aren't needed at all. The tradeoff: headlines are up to
-  ~30 minutes stale rather than fetched live on every page load. If a feed
-  fails on a given run, the workflow keeps the previous successful data for
-  that source instead of publishing an empty section.
-- **Scores and schedules** still come from ESPN's public (unofficial,
-  unauthenticated) scoreboard API, fetched directly from the browser each
-  time the page loads, since it already allows cross-origin requests. A CORS
-  proxy fallback (`api.allorigins.win`, `api.codetabs.com`) remains in
-  `app.js` for the rare direct failure.
+## Running Locally
 
-If a section fails to load, it shows an inline error instead of breaking the
-rest of the page.
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Start the development server:
+   ```bash
+   npm start
+   ```
+   Or run the headline fetch script manually:
+   ```bash
+   node scripts/fetch-headlines.js
+   ```
+3. Open `http://localhost:3000` in your browser.
 
-## Running locally
+## Deployment
 
-Just serve the folder, e.g.:
+- **Cloud Run / Container / Express**: Standard Node.js entry point (`npm start` -> `node server.js`).
+- **GitHub Pages**: Workflows in `.github/workflows/` automatically publish the static build and maintain updated headlines on a 30-minute schedule.
 
-```
-python3 -m http.server 8000
-```
-
-then open `http://localhost:8000`.
-
-## Deploying
-
-A GitHub Actions workflow (`.github/workflows/deploy.yml`) publishes the site
-to GitHub Pages on every push to this repo's default branch. To enable it:
-in the repo's **Settings → Pages**, set **Source** to "GitHub Actions".
-
-A second workflow (`.github/workflows/update-headlines.yml`) runs every 30
-minutes (and on manual dispatch), regenerates `headlines.json`, and commits
-it back to the branch if it changed — which in turn triggers the deploy
-workflow above, so the published site picks up the new headlines.
