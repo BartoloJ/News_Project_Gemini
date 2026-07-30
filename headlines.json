@@ -1,23 +1,35 @@
 {
-  "generatedAt": "2026-07-30T14:41:12.817Z",
+  "generatedAt": "2026-07-30T16:24:53.631Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
+          "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 30 Jul 2026 16:04:53 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Man impaled by a hiking pole treks 10 miles down mountain",
+          "link": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 30 Jul 2026 15:47:09 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
           "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 30 Jul 2026 13:38:50 GMT",
+          "pubDate": "Thu, 30 Jul 2026 15:35:50 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Thousands evacuated in Crete as Europe battles wildfires",
-          "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 30 Jul 2026 12:46:16 GMT",
+          "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 30 Jul 2026 15:20:19 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Pesticide-sprayed tomatoes suspected to have killed 15 elephants in Kenya",
+          "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
           "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 30 Jul 2026 12:14:00 GMT",
           "source": "BBC News"
@@ -39,26 +51,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 30 Jul 2026 10:34:07 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
-          "link": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 30 Jul 2026 09:34:00 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 30 Jul 2026 09:21:55 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-30T14:41:11.743Z"
+      "updatedAt": "2026-07-30T16:24:36.443Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The economy slowed a bit -- but Americans continued to spend",
+          "link": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation",
+          "pubDate": "Thu, 30 Jul 2026 10:47:23 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Alien Terrorist Removal Court to hold its first-ever hearing after 30 years",
           "link": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot",
@@ -100,16 +106,10 @@
           "link": "https://www.npr.org/2026/07/30/nx-s1-5891889/trump-asylum-program-changes-charts",
           "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Here's how 'parasite' went from a laughing matter to a serious biological threat",
-          "link": "https://www.npr.org/2026/07/30/nx-s1-5909222/parasite-cyclospora-outbreak-odyssey-nolan",
-          "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-30T14:41:11.796Z"
+      "updatedAt": "2026-07-30T16:24:36.549Z"
     },
     {
       "name": "AP News",
@@ -163,7 +163,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-07-30T14:41:12.296Z"
     },
     {
@@ -218,7 +218,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-07-30T14:41:12.711Z"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-30T14:41:12.817Z"
+      "updatedAt": "2026-07-30T16:24:53.631Z"
     }
   ]
 }
