@@ -807,6 +807,68 @@ function formatGolfDates(startStr, endStr) {
   }
 }
 
+let loggedGolfSample = false;
+
+function getGolfThruValue(player, isEventCompleted = false) {
+  if (!player) return '-';
+
+  // Check explicit status string for CUT / WD / OFFICIAL
+  const statusStr = typeof player.status === 'string'
+    ? player.status
+    : (player.status?.type?.name || player.status?.name || player.status?.type?.shortDetail || '');
+
+  if (statusStr.includes('CUT') || player.status === 'CUT') return 'CUT';
+  if (statusStr.includes('WD') || player.status === 'WD') return 'WD';
+  if (isEventCompleted || player.status?.type?.completed === true || statusStr.includes('OFFICIAL') || statusStr.includes('FINAL')) {
+    return 'F';
+  }
+
+  // Find hole-by-hole breakdown array from ESPN linescores payload
+  const activeRound = Array.isArray(player.linescores)
+    ? (player.linescores.slice().reverse().find(r => Array.isArray(r.linescores) && r.linescores.length > 0) || player.linescores[0])
+    : null;
+
+  const holeList = activeRound?.linescores;
+
+  if (Array.isArray(holeList)) {
+    const holesCompleted = holeList.length;
+    if (holesCompleted === 0) {
+      // Not teed off yet
+      const teeTime = player.teeTime ?? player.status?.teeTime;
+      if (teeTime) {
+        try {
+          const d = new Date(teeTime);
+          if (!isNaN(d.getTime())) {
+            return d.toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' });
+          }
+        } catch {}
+        if (typeof teeTime === 'string' && teeTime.trim()) return teeTime.trim();
+      }
+      return '-';
+    }
+    if (holesCompleted === 18) {
+      return 'F';
+    }
+    if (holesCompleted >= 1 && holesCompleted <= 17) {
+      return `Thru ${holesCompleted}`;
+    }
+  }
+
+  // Fallback checks if linescores hole array is absent
+  const firstLs = player.linescores?.[0];
+  if (firstLs) {
+    if (firstLs.value === 18 || firstLs.thru === 18) return 'F';
+    if (typeof firstLs.thru === 'number' && firstLs.thru > 0 && firstLs.thru < 18) {
+      return `Thru ${firstLs.thru}`;
+    }
+    if (typeof firstLs.holesPlayed === 'number' && firstLs.holesPlayed > 0 && firstLs.holesPlayed < 18) {
+      return `Thru ${firstLs.holesPlayed}`;
+    }
+  }
+
+  return '-';
+}
+
 async function loadGolfLeaderboards() {
   const container = document.getElementById('golf-list');
   if (!container) return;
@@ -911,6 +973,10 @@ async function loadGolfLeaderboards() {
             <tbody>`;
 
       competitors.forEach((c, idx) => {
+        if (!loggedGolfSample) {
+          console.log('Golfer payload:', c);
+          loggedGolfSample = true;
+        }
         const isHidden = idx >= showLimit;
         const pos = c.status?.position?.displayName || c.order || (idx + 1);
         const athlete = c.athlete || {};
@@ -931,15 +997,14 @@ async function loadGolfLeaderboards() {
         const score = c.score || 'E';
         const scoreClass = score.startsWith('-') ? 'score-under' : (score.startsWith('+') ? 'score-over' : 'score-even');
 
-        let thru = c.status?.type?.shortDetail || c.status?.detail || '';
-        if (c.status?.period && !thru) thru = `R${c.status.period}`;
+        const thruValue = getGolfThruValue(c, isCompleted);
 
         html += `
           <tr class="golf-row ${isHidden ? 'golf-row-extra hidden' : ''}">
             <td class="col-pos">${pos}</td>
             <td class="col-player">${flagImg}${playerHtml}</td>
             <td class="col-score ${scoreClass}">${score}</td>
-            <td class="col-thru">${thru}</td>
+            <td class="col-thru">${thruValue}</td>
           </tr>`;
       });
 
