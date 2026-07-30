@@ -355,6 +355,7 @@ function normalizeEvent(ev, league, eventSummary = null) {
   const home = competitors.find((c) => c.homeAway === 'home') || competitors[0];
   const away = competitors.find((c) => c.homeAway === 'away') || competitors[1];
   return {
+    id: ev.id,
     date: ev.date,
     state: statusType.state, // 'pre' | 'in' | 'post'
     completed: !!statusType.completed,
@@ -756,7 +757,7 @@ const loadedGamesRegistry = new Map(); // key -> { ev, league, dateTag }
 
 function getGameKey(ev, league) {
   const lId = league?.id || league?.name || 'league';
-  const eId = ev?.id || `${ev?.away?.name || ''}_vs_${ev?.home?.name || ''}`;
+  const eId = ev?.id || `${ev?.away?.name || ''}_vs_${ev?.home?.name || ''}_${ev?.date || ''}`;
   return `${lId}_${eId}`;
 }
 
