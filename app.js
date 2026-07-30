@@ -191,33 +191,75 @@ async function loadHeadlines() {
   sub.textContent = longDate(today);
   container.innerHTML = '<p class="loading">Loading headlines…</p>';
 
-  let data;
+  const timestamp = Date.now();
+  let data = null;
+
+  // 1. Try server API /api/headlines first
   try {
-    const res = await fetch('headlines.json', { cache: 'no-store' });
-    const contentType = res.headers.get('content-type') || '';
-    if (!res.ok || contentType.includes('text/html')) {
-      throw new Error(`Invalid response for headlines.json: status ${res.status}, type ${contentType}`);
+    const apiRes = await fetch(`/api/headlines?t=${timestamp}`, { cache: 'no-store' });
+    if (apiRes.ok) {
+      const contentType = apiRes.headers.get('content-type') || '';
+      if (contentType.includes('application/json')) {
+        data = await apiRes.json();
+      }
     }
-    data = await res.json();
   } catch (err) {
-    console.warn('headlines.json not directly available, attempting refresh API:', err);
+    console.warn('API endpoint unavailable, trying headlines.json directly:', err);
+  }
+
+  // 2. Fallback to headlines.json with cache-busting timestamp
+  if (!data || !data.sources) {
     try {
-      const refreshRes = await fetch('/api/refresh-headlines', { method: 'POST' });
+      const res = await fetch(`headlines.json?t=${timestamp}`, { cache: 'no-store' });
+      const contentType = res.headers.get('content-type') || '';
+      if (res.ok && contentType.includes('application/json')) {
+        data = await res.json();
+      }
+    } catch (err) {
+      console.warn('Failed to fetch headlines.json:', err);
+    }
+  }
+
+  // 3. If data loaded but generatedAt is older than 20 minutes, trigger background refresh
+  if (data && data.generatedAt) {
+    const ageMs = Date.now() - new Date(data.generatedAt).getTime();
+    if (ageMs > 20 * 60 * 1000) {
+      try {
+        const refreshRes = await fetch(`/api/refresh-headlines?force=true&t=${Date.now()}`, { method: 'POST' });
+        if (refreshRes.ok) {
+          const freshData = await refreshRes.json();
+          if (freshData && freshData.sources) {
+            data = freshData;
+          }
+        }
+      } catch (refreshErr) {
+        console.warn('Auto-refresh trigger failed:', refreshErr);
+      }
+    }
+  }
+
+  // 4. Final attempt via refresh API if still no data
+  if (!data || !data.sources || data.sources.length === 0) {
+    try {
+      const refreshRes = await fetch(`/api/refresh-headlines?force=true&t=${Date.now()}`, { method: 'POST' });
       if (refreshRes.ok) {
         data = await refreshRes.json();
-        if (data.message && !data.sources) {
-          const res2 = await fetch('headlines.json', { cache: 'no-store' });
-          data = await res2.json();
-        }
       }
     } catch (refreshErr) {
-      console.warn('Failed to refresh headlines via API:', refreshErr);
+      console.warn('Failed final refresh API fallback:', refreshErr);
     }
   }
 
   if (!data || !data.sources || data.sources.length === 0) {
     container.innerHTML = '<p class="error">Couldn\'t load headlines right now. Try refreshing the page.</p>';
     return;
+  }
+
+  if (data.generatedAt) {
+    const genDate = new Date(data.generatedAt);
+    if (!isNaN(genDate.getTime())) {
+      sub.textContent = `${longDate(today)} · Updated ${relativeTime(genDate.getTime())}`;
+    }
   }
 
   container.innerHTML = '';
