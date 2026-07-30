@@ -43,11 +43,19 @@ const LEAGUES = [
   // it only ever produced errors. No verified correct path to swap in.
 ];
 
-const today = new Date();
-const yesterday = new Date(today);
+let today = new Date();
+let yesterday = new Date(today);
 yesterday.setDate(today.getDate() - 1);
-const tomorrow = new Date(today);
+let tomorrow = new Date(today);
 tomorrow.setDate(today.getDate() + 1);
+
+function updateDates() {
+  today = new Date();
+  yesterday = new Date(today);
+  yesterday.setDate(today.getDate() - 1);
+  tomorrow = new Date(today);
+  tomorrow.setDate(today.getDate() + 1);
+}
 
 function pad(n) { return String(n).padStart(2, '0'); }
 function toYYYYMMDD(d) { return `${d.getFullYear()}${pad(d.getMonth() + 1)}${pad(d.getDate())}`; }
@@ -1601,12 +1609,133 @@ function setLastUpdated() {
     `Last checked ${today.toLocaleString(undefined, { hour: 'numeric', minute: '2-digit', month: 'short', day: 'numeric' })}`;
 }
 
+let isRefreshing = false;
+
+async function refreshAllData(options = {}) {
+  if (isRefreshing) return;
+  isRefreshing = true;
+
+  const btn = document.getElementById('btn-refresh');
+  if (btn) btn.classList.add('is-refreshing');
+
+  const pullIndicator = document.getElementById('pull-refresh-indicator');
+  if (pullIndicator) {
+    pullIndicator.classList.add('visible');
+    pullIndicator.style.transform = 'translateX(-50%) translateY(75px)';
+    const textEl = pullIndicator.querySelector('.pull-refresh-text');
+    if (textEl) textEl.textContent = 'Refreshing...';
+    const iconEl = pullIndicator.querySelector('.pull-refresh-icon');
+    if (iconEl) iconEl.classList.add('spinning');
+  }
+
+  showToast('Refreshing headlines & scores…');
+
+  try {
+    // 1. Force refresh headlines on server side
+    try {
+      await fetch(`/api/refresh-headlines?force=true&t=${Date.now()}`, { method: 'POST' });
+    } catch (err) {
+      console.warn('Force refresh headlines failed:', err);
+    }
+
+    // 2. Reload headlines, golf, scores
+    updateDates();
+    await Promise.allSettled([
+      loadHeadlines(),
+      loadGolfLeaderboards(),
+      loadYesterdayScores(),
+      loadTodayGames(),
+      loadTomorrowGames()
+    ]);
+
+    setLastUpdated();
+    showToast('Updated successfully!');
+  } catch (e) {
+    console.error('Refresh failed', e);
+    showToast('Failed to refresh data.');
+  } finally {
+    isRefreshing = false;
+    if (btn) btn.classList.remove('is-refreshing');
+    if (pullIndicator) {
+      pullIndicator.style.transform = 'translateX(-50%) translateY(0px)';
+      pullIndicator.classList.remove('visible');
+      const iconEl = pullIndicator.querySelector('.pull-refresh-icon');
+      if (iconEl) iconEl.classList.remove('spinning');
+    }
+  }
+}
+
+function initRefreshButton() {
+  const btn = document.getElementById('btn-refresh');
+  if (btn) {
+    btn.addEventListener('click', () => {
+      refreshAllData({ force: true });
+    });
+  }
+}
+
+function initPullToRefresh() {
+  let startY = 0;
+  let currentY = 0;
+  let isPulling = false;
+  const indicator = document.getElementById('pull-refresh-indicator');
+  if (!indicator) return;
+
+  const icon = indicator.querySelector('.pull-refresh-icon');
+  const text = indicator.querySelector('.pull-refresh-text');
+
+  window.addEventListener('touchstart', (e) => {
+    if (window.scrollY <= 0 && e.touches.length === 1) {
+      startY = e.touches[0].screenY;
+      isPulling = true;
+    }
+  }, { passive: true });
+
+  window.addEventListener('touchmove', (e) => {
+    if (!isPulling || isRefreshing) return;
+    currentY = e.touches[0].screenY;
+    const diff = currentY - startY;
+
+    if (diff > 0 && window.scrollY <= 0) {
+      const distance = Math.min(diff * 0.45, 90);
+      indicator.classList.add('visible');
+      indicator.style.transform = `translateX(-50%) translateY(${distance}px)`;
+
+      if (distance >= 50) {
+        if (text) text.textContent = 'Release to refresh';
+        if (icon) icon.style.transform = `rotate(${Math.min(diff * 2, 180)}deg)`;
+      } else {
+        if (text) text.textContent = 'Pull to refresh';
+        if (icon) icon.style.transform = 'rotate(0deg)';
+      }
+    }
+  }, { passive: true });
+
+  window.addEventListener('touchend', () => {
+    if (!isPulling) return;
+    isPulling = false;
+
+    const diff = currentY - startY;
+    currentY = 0;
+    startY = 0;
+
+    if (diff * 0.45 >= 50 && window.scrollY <= 0 && !isRefreshing) {
+      refreshAllData({ force: true });
+    } else if (!isRefreshing) {
+      indicator.style.transform = 'translateX(-50%) translateY(0px)';
+      indicator.classList.remove('visible');
+    }
+  }, { passive: true });
+}
+
 initOddsToggle();
 initMustWatchToggle();
 initAiModelSelect();
 initAskGeminiHandlers();
 initLinkSafetyHandler();
 initGolfOddsSubcardHandlers();
+initRefreshButton();
+initPullToRefresh();
 setLastUpdated();
 loadHeadlines();
 loadGolfLeaderboards();

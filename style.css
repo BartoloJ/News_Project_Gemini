@@ -826,6 +826,76 @@ footer {
   flex-wrap: wrap;
 }
 
+.refresh-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text);
+  cursor: pointer;
+  user-select: none;
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  padding: 0.35rem 0.85rem;
+  border-radius: 20px;
+  border: 1px solid color-mix(in srgb, var(--accent) 45%, var(--border));
+  transition: all 0.2s ease;
+  font-family: inherit;
+}
+
+.refresh-btn:hover {
+  background: color-mix(in srgb, var(--accent) 24%, transparent);
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+
+.refresh-btn:active {
+  transform: scale(0.97);
+}
+
+.refresh-btn.is-refreshing .refresh-icon,
+.refresh-icon.spinning {
+  display: inline-block;
+  animation: spin-refresh 0.8s linear infinite;
+}
+
+@keyframes spin-refresh {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* Pull to refresh indicator for mobile / iOS Standalone */
+.pull-refresh-indicator {
+  position: fixed;
+  top: -60px;
+  left: 50%;
+  transform: translateX(-50%) translateY(0);
+  z-index: 10000;
+  background: var(--panel-bg);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 0.5rem 1.1rem;
+  border-radius: 25px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.2);
+  transition: transform 0.15s ease-out, opacity 0.2s ease;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.pull-refresh-indicator.visible {
+  opacity: 1;
+}
+
+.pull-refresh-icon {
+  display: inline-block;
+  transition: transform 0.15s ease;
+}
+
 .odds-toggle-label,
 .must-watch-toggle-label,
 .ai-model-select-label {

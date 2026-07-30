@@ -17,10 +17,20 @@
 <meta name="apple-mobile-web-app-title" content="Daily Wrap">
 </head>
 <body>
+<!-- Pull-to-Refresh Indicator for iOS & Mobile Web Apps -->
+<div id="pull-refresh-indicator" class="pull-refresh-indicator">
+  <span class="pull-refresh-icon">🔄</span>
+  <span class="pull-refresh-text">Pull to refresh</span>
+</div>
+
 <header class="site-header">
   <h1>Daily Wrap</h1>
   <p class="tagline">Headlines, golf leaderboards, scores, live match odds &amp; pre-game line odds — all on one page.</p>
   <div class="header-controls">
+    <button id="btn-refresh" class="refresh-btn" title="Refresh news, leaderboards, and sports scores" aria-label="Refresh page data">
+      <span class="refresh-icon">🔄</span>
+      <span class="refresh-text">Refresh</span>
+    </button>
     <label class="odds-toggle-label" title="Toggle line odds and live gambling odds for games">
       <input type="checkbox" id="toggle-odds" checked>
       <span>🎲 Gambling Odds</span>

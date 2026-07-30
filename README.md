@@ -9,6 +9,7 @@ A modern, responsive dashboard providing a quick daily overview of world news, l
 - **Tomorrow's Scheduled Games**: Next day match schedule (auto-collapsed by default).
 - **Must-Watch Filter**: Toggle to highlight top-tier matchups across leagues.
 - **Customizable AI Assistant**: AI model selector in header (Gemini / ChatGPT) with configurable prompt templates.
+- **iOS & Mobile Web App Refresh**: Native-like **Pull-to-Refresh** touch gesture and explicit **Refresh** button in the header bar designed for standalone PWA mode.
 
 ## Supported Sports & Leagues
 
