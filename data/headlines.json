@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-31T14:50:16.408Z",
-  "lastChecked": "2026-07-31T14:50:16.408Z",
-  "lastUpdated": "2026-07-31T14:50:16.408Z",
-  "generatedAt": "2026-07-31T14:50:16.408Z",
+  "fetchedAt": "2026-07-31T15:00:34.521Z",
+  "lastChecked": "2026-07-31T15:00:34.521Z",
+  "lastUpdated": "2026-07-31T15:00:34.521Z",
+  "generatedAt": "2026-07-31T15:00:34.521Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T14:50:14.954Z"
+      "updatedAt": "2026-07-31T15:00:18.344Z"
     },
     {
       "name": "NPR",
@@ -87,12 +87,6 @@
           "source": "NPR"
         },
         {
-          "title": "Democrats show divisions on Israel amid competitive midterm elections",
-          "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
-          "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "450K borrowers say they were ripped off. Their student loans are being erased",
           "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
           "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
@@ -109,10 +103,16 @@
           "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
           "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
           "source": "NPR"
+        },
+        {
+          "title": "Democrats show divisions on Israel amid competitive midterm elections",
+          "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
+          "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
+          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T14:50:15.262Z"
+      "updatedAt": "2026-07-31T15:00:18.433Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-07-31T14:50:15.746Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-07-31T14:50:16.169Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T14:50:16.408Z"
+      "updatedAt": "2026-07-31T15:00:34.521Z"
     }
   ]
 }
