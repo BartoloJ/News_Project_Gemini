@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-31T09:25:13.872Z",
-  "lastChecked": "2026-07-31T09:25:13.872Z",
-  "lastUpdated": "2026-07-31T09:25:13.872Z",
-  "generatedAt": "2026-07-31T09:25:13.872Z",
+  "fetchedAt": "2026-07-31T09:31:45.938Z",
+  "lastChecked": "2026-07-31T09:31:45.938Z",
+  "lastUpdated": "2026-07-31T09:31:45.938Z",
+  "generatedAt": "2026-07-31T09:31:45.938Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T09:25:12.460Z"
+      "updatedAt": "2026-07-31T09:31:44.519Z"
     },
     {
       "name": "NPR",
@@ -69,14 +69,8 @@
           "source": "NPR"
         },
         {
-          "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
-          "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
-          "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
-          "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
+          "title": "450k borrowers say they were ripped off. Their student loans are being erased",
+          "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
           "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -87,8 +81,14 @@
           "source": "NPR"
         },
         {
-          "title": "450k borrowers say they were ripped off. Their student loans are being erased",
-          "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
+          "title": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
+          "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
+          "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
+          "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
           "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T09:25:12.583Z"
+      "updatedAt": "2026-07-31T09:31:44.802Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T09:25:13.053Z"
+      "updatedAt": "2026-07-31T09:31:45.220Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Meta India head named in police case over Facebook videos targeting Modi - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRFM0cDFlekR2dzJFUkpaQjh4RFNHMDRWTERIQWNLUjlEcVNyN3NNalAyU2J5MDh0cUF6dExnRGVhZGUzbjBJSlp3SlJoTkFxdXl0TGUxR0xKRW1faFRLYTVvRExUdTlJNkx3Mk44ZXZNYnZGVVdFZms3aHYzenNSVlZ4YThHWUloMnVNNm9rZVY4MFBQQzJqbXVKN2FBOFlOUjNUZmRUZUVsWXBtT1NNeFZUcGdNd0NQT2dnRTNiY3h3eVNT?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 09:13:27 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Spain, Morocco halt deadly rush on Spanish enclave after 49,000 cross in a day - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1ZzcUQ2cjlBUVYyaXhhaTJHRWQwWkE5UzU4ZUhuaUdmSkpmLURVdmNRS0xjd09pYzJ6MEIzNW1TaDZaMDJ1U09yX1dFS1pZR0szaFhvRVc2ZHk2MFZqLUExRURpY09PdEFUOTZTcWQ5Z29OUXBrQTNnUjNXRjF3V1RoWVZIUTJ6NDJ0Q19ENUQyNnoxREZjYTJrbjFUbmZPMFkyUFlBb1RyaXlLSHdRVWsyY0trYjVZ?oc=5",
@@ -185,9 +191,21 @@
           "source": "Reuters"
         },
         {
+          "title": "Even at the beach, it's hard for Russians to escape the war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaG9DdmkyblM5dWdPOTVXUU1vYjU5Y1VBYlRLbUdwb091YzFSVDEwaUVEcEFvSjI4dkEtVnBqRldNVjlTRm5DQ3NRRW9lbVBCWE1seXJhcHRkWnNYaFlOUXJNZm4tZjBjaUFYdENpSmc2ekNiZmkySzhKZEdMOWVrOEJfWnRFaWRD?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 08:17:38 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Spain estimates 49,000 migrants crossed into Ceuta over past 24 hours - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDFPZmVJSDRyd3hnVTQtSFdoZUk4UXZNYTY1TXg2YnB6T1pEdGZSb2pwc2wtdXI4RlE5TkRNeTdDSHh2M1ZuN0thQUtITUM1ZWh3YXRSQkpFdnJWMTZXYVlmZHl2dUdDbVk3OTFlbTJRZnNiYkplQjlHWDlncFQ2OTJyN2xYZnZSemdEMWZLYkY5b2t6XzZCMVBmN2tKLWxxSWpmUzRjaEpIUTJSdzRrdFJOVE9xWUtG?oc=5",
           "pubDate": "Fri, 31 Jul 2026 08:04:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China coast guard patrols waters east of Taiwan, angering Taipei - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnVIVXRsT0JucGZNVEh0amdoTGpST2UzSkljV3E5TWhobm9Od0hxVmdmb055dGtwTEJuNF90eFRxM1RZelVKazUyRHhxbHJYWS1XTmctYmktM2xZOWVGRElfSG16ZzExZFlqVmVwSE5nLXVFaW5RcFFrT3A1VnUzSk95bjBYR3hOV1U2MWY3UV96cjNFQXV5RlNOdHhOOFdnUXc0?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 06:23:00 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYlRhMHNabE8xMzV3UU43STJFYWNVb1dBQndUdl8zbVpRMFRFUkgyTFBUNVBhWVZ0eEt2cnlKTWppVER2TjV0VWhzVmpLWlh4Z28tUjVvLTV1Yk9ja1pKLW9JakhiOHM5N21ORnMtVEhYWHA3aHNNb1R1ZUpiUkx3d1gtLThfRkp3V1RHUjBhcWxjU3ZJX3c1RS13MFJpMllINW9KNVB6SlpTN1ozb2lXdEluV2ExcTkwLWNNN1p5Umhpa1RRcGc?oc=5",
           "pubDate": "Fri, 31 Jul 2026 06:16:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "ADNOC buys tankers as Red Sea, Hormuz crisis reshape oil trade - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjRybjFlbFozUUlRelN2dFVjQ0cyaEk4VEw2RzRYNTZ5MGlBOGNZcDE0bXNWNUJ4UnEtYmhzX2xoU0tHd1hfWXpNTHBmOVljRnpTekIwSUszck8wWGJDQkxoWWZyelg4YmJjQVFzZXJSaVRlM2d0NFYwQkpnYXlXNTYzT2hUUUN5dHJkcU4wVTFZeEZjWE11UkZQaVBrX3kwQ3RraHAyVW9PcG5uYWNr?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 06:14:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Former AC Milan and Italy defender Baresi dead at 66 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOGc5dGYxM1ZfWW80UmJVRmRmVlliMHVxekpRdWpQeFZTM0JiQVpNd0RsU0EyejlWT3hid3BwaWdHcXduX1hmMlUybjFGZG93bmxMR0NDZVpnS1hrRnVHMlQ4OHIyWGk1cUJEdWNfc2lTd0pERkhWUnBReEo5dUZfUDNOejl3ZTQwbFRqWDJjSEVYaUUwM2R1T2gyOA?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 06:12:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Shell to sell Cyprus unit for up to $720 million as it focuses on LNG - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmZ3M3RPTDJEdGlrSmpJZ3pmcF80OXVaMU5wQjVNM2c0YnhQRklRTkNrdURHTjBMRGNyeGEyNkN3SEFiSjJtRzRPcVFyR1pieVY2M19JOGlIekVnMUhnUWdLaXNsbTlxRGM2T1psQWRKVlNyYU13bkpySFFiekFMRFQ4U24xQmc?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 06:10:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T09:25:13.584Z"
+      "updatedAt": "2026-07-31T09:31:45.714Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T09:25:13.872Z"
+      "updatedAt": "2026-07-31T09:31:45.938Z"
     }
   ]
 }
