@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-31T23:40:39.582Z",
-  "lastChecked": "2026-07-31T23:40:39.582Z",
-  "lastUpdated": "2026-07-31T23:40:39.582Z",
-  "generatedAt": "2026-07-31T23:40:39.582Z",
+  "fetchedAt": "2026-07-31T23:50:22.208Z",
+  "lastChecked": "2026-07-31T23:50:22.208Z",
+  "lastUpdated": "2026-07-31T23:50:22.208Z",
+  "generatedAt": "2026-07-31T23:50:22.208Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T23:40:38.924Z"
+      "updatedAt": "2026-07-31T23:50:20.789Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T23:40:39.007Z"
+      "updatedAt": "2026-07-31T23:50:21.114Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T23:40:39.449Z"
+      "updatedAt": "2026-07-31T23:50:21.599Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "EXCLUSIVE: Bessent's 'to do' list: buy $5-10 billion worth of Japanese yen, Reuters photo shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY3JMOWh6OTFSeHRod0U3ZURXMVBZc202SWhscFNKVGY1WGRGMFhJNEhGaHk1NnUyaTlmU2FVMFRVUE9Xbzk5WW5sZTBOaVczYXNfam5fS0pnb3BwS2VmcEFfZGgwZnZHbFRDdjFFTkYtajVzMXJiUzJVdjhaV0tOWm1aZk9PWlg0aTdyX1NzUzlJMUZLU3FFQUZEUWc1bHQ0bWNqRkI4cXh2WktLa0VlanJUbFJuS3ZrMWVBNEtnWE52NzRFTzBHcEZ3?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 23:02:28 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzRCdVNpdm4wZldHbEt1WTduUnNQTnh6N2didEJVLTQ5RjBYSGtQemRacGtrRFdjOUt0Ukh0X0lyLS03cDA2YVRWd3piM3V6N1VZZkprcU52QzBJWW10XzRvTnZQUnBwTURxbkJabXduaV82Q0wyd2xWQW5DNERZM2poRlAtM2xmV0tNSGt4LWc0RkVhSTRSQktmeWRfMjlrR0pGQW93Nm9OUnoteEU4b3RQSWxNN2NZaEwxbHdSYUVQdw?oc=5",
           "pubDate": "Fri, 31 Jul 2026 21:40:36 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Apple set to lose nearly $500 billion in value after weak forecast - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZi0ya0lkQWtBRjNSR0o0YkFvMnVrZUx6N3EzRHBnTEtva0gtc2RwajIxM0ZXY2hLN2h1eUl3THBILVBrbTNrNHRDVmpLUmxBWWtQeUNuTURRa2xMZXktdG55Ymd3YzZmR296U3lTLVFSZjQ3eS01QzFwZExkVDN5Mk9PWjROR3hDZlRja0YxNGM2Tm5MUE9CRjNYWUtuR19RQUxPc0FoZEdaVGsyQUtiQmdqQmFGUmhqV0l0SXZqUzRoRHhzckpv?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 21:39:31 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T23:40:39.462Z"
+      "updatedAt": "2026-07-31T23:50:22.007Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T23:40:39.582Z"
+      "updatedAt": "2026-07-31T23:50:22.208Z"
     }
   ]
 }
