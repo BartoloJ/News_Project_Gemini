@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-07-31T08:50:21.086Z",
-  "lastChecked": "2026-07-31T08:50:21.086Z",
-  "lastUpdated": "2026-07-31T08:50:21.086Z",
-  "generatedAt": "2026-07-31T08:50:21.086Z",
+  "fetchedAt": "2026-07-31T09:00:26.269Z",
+  "lastChecked": "2026-07-31T09:00:26.269Z",
+  "lastUpdated": "2026-07-31T09:00:26.269Z",
+  "generatedAt": "2026-07-31T09:00:26.269Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "AC Milan and Italy great Baresi dies aged 66",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 31 Jul 2026 08:47:33 GMT",
+          "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 31 Jul 2026 08:50:12 GMT",
           "source": "BBC News"
         },
         {
-          "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 31 Jul 2026 08:29:54 GMT",
+          "title": "AC Milan and Italy great Baresi dies aged 66",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 31 Jul 2026 08:47:33 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T08:50:19.985Z"
+      "updatedAt": "2026-07-31T09:00:25.314Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/07/31/nx-s1-5901900/morning-news-brief",
+          "pubDate": "Fri, 31 Jul 2026 04:49:30 -0400",
+          "source": "NPR"
+        },
         {
           "title": "At least 18 die after breach of border between Morocco and Spanish exclave of Ceuta",
           "link": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/07/30/g-s1-136079/single-adult-solo-choice",
           "pubDate": "Thu, 30 Jul 2026 13:47:44 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "European soccer leaders to boycott  the World Cup in an unprecedented step",
-          "link": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
-          "pubDate": "Thu, 30 Jul 2026 13:38:38 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T08:50:20.072Z"
+      "updatedAt": "2026-07-31T09:00:25.340Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,12 @@
           "title": "Quake survivors in southwestern Japan sleep in cars in sweltering heat as death toll rises to 34 - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUpKQU1iMmN1QTRnUjNmTGd6cEU1V01LR3NieTh3YzEwREpqdkZUc0d2ZzJDbGNWXzhZUkNuVlhyYllDcXkxR0h2SzBwNXAzdS1GZGFTd1JIUTVQSFNVTlJ5U0JPbUVoTnRINmszTmZXTUwxaEtLREhpcW02UlZ1RVpJODNzNlpiajZkTmZZNW9yZVlGZERKbGtMRnRCR0U?oc=5",
           "pubDate": "Fri, 31 Jul 2026 08:31:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "What to know about the Spanish enclave of Ceuta as migrant arrivals from Morocco spike - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDZ0cTJsQlVfb1NSX2NwYWRaemctTlhPRjZBT2F3NWtvQXNyTGYyTVFhaTNDUjF4S3pvT1d4T0dRZXpLYVRFdGc4eEEyT0hOS3RPUVBtQnpQLUpPSlhvTlVXMlNkcmlveVJWRHk0aU96bUtGcGZSLU9mZFF1aUxwRGpPVXFFVkZzczVpU2VtbW5lTTJPcUxUblhlbWNrU3BJYnc?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 07:51:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQzJ5R2NIOEkxaUZRQTJuaWxiTnh3VGJTRTMtcFFIX2ZRWnVITklaNGpSNFNTT29Kd0NUTU5jU3VQV0VyYTVtV3MwRl9WTE9kLVRzRkhscEtFUHdsZEV3Y3dqZDlFcm5GRmtBTGZSWXUzTU95VFB1cGVQTFp3MUJRbVB4Njd1ajJPRjJGS1M1OEphTHBwbGpKdHJNRjE1dGc?oc=5",
           "pubDate": "Fri, 31 Jul 2026 01:33:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Some robotaxis approved to operate without steering wheels and losing the brake pedal could be next - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcW5yMkRPMXRLa3lOWXZuX2wwbGxoYm5GcHlLS2c4dlJEN2RqUjQ4QWF1cHp1MG9PTnhLY0pzUlBsdFRlOE9fb2xCV3hHVkZhbXMzOGYzaWxpZmNWbHNPSUF4b181emFyUm1uZDJNOURPZmxfWkdEM2R5MlNpdWJzSmp6eXdJWHE5cVBZWF9JbGc2c3lHTndHSTV3?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 01:17:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T08:50:20.516Z"
+      "updatedAt": "2026-07-31T09:00:25.772Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T08:50:20.889Z"
+      "updatedAt": "2026-07-31T09:00:26.176Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T08:50:21.086Z"
+      "updatedAt": "2026-07-31T09:00:26.269Z"
     }
   ]
 }
