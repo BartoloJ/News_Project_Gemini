@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-07-31T17:00:19.480Z",
-  "lastChecked": "2026-07-31T17:00:19.480Z",
-  "lastUpdated": "2026-07-31T17:00:19.480Z",
-  "generatedAt": "2026-07-31T17:00:19.480Z",
+  "fetchedAt": "2026-07-31T17:25:35.436Z",
+  "lastChecked": "2026-07-31T17:25:35.436Z",
+  "lastUpdated": "2026-07-31T17:25:35.436Z",
+  "generatedAt": "2026-07-31T17:25:35.436Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 31 Jul 2026 17:03:47 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
           "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
@@ -38,12 +44,6 @@
           "source": "BBC News"
         },
         {
-          "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
-          "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 31 Jul 2026 14:20:18 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
           "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 31 Jul 2026 10:32:17 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T17:00:18.346Z"
+      "updatedAt": "2026-07-31T17:25:19.838Z"
     },
     {
       "name": "NPR",
@@ -87,14 +87,14 @@
           "source": "NPR"
         },
         {
-          "title": "450K borrowers say they were ripped off. Their student loans are being erased",
-          "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
+          "title": "Democrats show divisions on Israel amid competitive midterm elections",
+          "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
           "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Democrats show divisions on Israel amid competitive midterm elections",
-          "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
+          "title": "450K borrowers say they were ripped off. Their student loans are being erased",
+          "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
           "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T17:00:18.452Z"
+      "updatedAt": "2026-07-31T17:25:20.060Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-07-31T17:00:18.909Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-07-31T17:00:19.371Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T17:00:19.479Z"
+      "updatedAt": "2026-07-31T17:25:35.436Z"
     }
   ]
 }
