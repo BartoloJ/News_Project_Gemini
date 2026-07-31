@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-07-31T09:31:45.938Z",
-  "lastChecked": "2026-07-31T09:31:45.938Z",
-  "lastUpdated": "2026-07-31T09:31:45.938Z",
-  "generatedAt": "2026-07-31T09:31:45.938Z",
+  "fetchedAt": "2026-07-31T09:50:21.299Z",
+  "lastChecked": "2026-07-31T09:50:21.299Z",
+  "lastUpdated": "2026-07-31T09:50:21.299Z",
+  "generatedAt": "2026-07-31T09:50:21.299Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "AC Milan and Italy great Baresi dies aged 66",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 31 Jul 2026 09:44:48 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Anthropic's Claude AI escapes to hack into three organisations",
           "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
           "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 31 Jul 2026 08:50:12 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "AC Milan and Italy great Baresi dies aged 66",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 31 Jul 2026 08:47:33 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T09:31:44.519Z"
+      "updatedAt": "2026-07-31T09:50:20.110Z"
     },
     {
       "name": "NPR",
@@ -69,8 +69,8 @@
           "source": "NPR"
         },
         {
-          "title": "450k borrowers say they were ripped off. Their student loans are being erased",
-          "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
+          "title": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
+          "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
           "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -81,14 +81,14 @@
           "source": "NPR"
         },
         {
-          "title": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
-          "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
+          "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
+          "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
           "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
-          "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
+          "title": "450k borrowers say they were ripped off. Their student loans are being erased",
+          "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
           "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T09:31:44.802Z"
+      "updatedAt": "2026-07-31T09:50:20.177Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T09:31:45.220Z"
+      "updatedAt": "2026-07-31T09:50:20.628Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T09:31:45.714Z"
+      "updatedAt": "2026-07-31T09:50:21.077Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-07-31T09:31:45.938Z"
+      "updatedAt": "2026-07-31T09:50:21.299Z"
     }
   ]
 }
