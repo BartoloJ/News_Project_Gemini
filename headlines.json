@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-01T03:00:17.453Z",
-  "lastChecked": "2026-08-01T03:00:17.453Z",
-  "lastUpdated": "2026-08-01T03:00:17.453Z",
-  "generatedAt": "2026-08-01T03:00:17.453Z",
+  "fetchedAt": "2026-08-01T03:25:16.120Z",
+  "lastChecked": "2026-08-01T03:25:16.120Z",
+  "lastUpdated": "2026-08-01T03:25:16.120Z",
+  "generatedAt": "2026-08-01T03:25:16.120Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T03:00:16.231Z"
+      "updatedAt": "2026-08-01T03:25:13.866Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T03:00:16.314Z"
+      "updatedAt": "2026-08-01T03:25:15.000Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "SEC, Big Ten add long-missing support to college sports bill and revive its chances in the Senate - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMTlMV09QUXN5bG9WcDh0c1g5ay1ZWFV5b0FjV2JYT3dCSG9UaFRDUDFmc21KLXZZMF9HN0ZRRGxabG9EY0VuVlY4YXBabXEzTXppcUdmWkZrMENTYXJCWVFValF1bUF1S3hJRjZGSVlFMjQyS191blBaV3M5T1ZLOUhfcWp5VFRhSTZiQ2p1MFFfYXYxd2ZaREVzdFlXLXc?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 02:16:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Infantino abandons plans to sell World Cup profits to private equity following massive pushback - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEpDcHVOTlpQTHlKczVBamNkUWFHcUtOT2VlS1pSVlZ2VWg1QTZfLXFJZDA4VEl1eDB6c3FGbU5USlNZbjFDMXlaX0xRZHlSbmpmckh4WjF5RTZrWEFEOHh6SDVmSC0zWW9RQ2Zxd2hLajhkV1lVaTgwb3F1aC1tNWhxdUgxYlU1bVRyQnphemhPck95Mkh1bjR3?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 01:47:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Giants suspend pay to injured outfielder Harrison Bader following scooter accident - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXdBY3FWU1AtSkMxcjBmUm1ZYWt3Um5rVjdsX0RCYWZTUGdBM05Fc0E2LUlRSFdNTlF3VXRFX1hvNFp0NVdxTElqcFBON1dqV2ZqTGhnR29JaWx3bWEwRFNhcHoxaDNKWmRURnkxUUk0MjFGWEVLZVg4bFVZeEx6Wk91Yy1CbS1F?oc=5",
@@ -142,12 +154,6 @@
           "source": "AP News"
         },
         {
-          "title": "Infantino abandons plans to sell World Cup profits to private equity following massive pushback - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEpDcHVOTlpQTHlKczVBamNkUWFHcUtOT2VlS1pSVlZ2VWg1QTZfLXFJZDA4VEl1eDB6c3FGbU5USlNZbjFDMXlaX0xRZHlSbmpmckh4WjF5RTZrWEFEOHh6SDVmSC0zWW9RQ2Zxd2hLajhkV1lVaTgwb3F1aC1tNWhxdUgxYlU1bVRyQnphemhPck95Mkh1bjR3?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 23:55:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Puerto Rico authorizes $2 billion coastal luxury development that activists oppose - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzJ4NnpQSGQtRFBOcnRQeDV4VXhZT3VOZXBzQWNyWktXMml1ekwtVC11Mlp3M3RfYmJTcWo5ZzdlTDBfa3AtZTNVUkJGeUotLXdGUHBlN0l4MklucmRjaTdVWGlXaVJwTXMtODBVMlY1WFVPczVDXzN1OEloWExHY1RiOEdVRkNpNWtIOGtnWEpYd0RfMlJ3dUNoblEzcG5MN2c?oc=5",
           "pubDate": "Fri, 31 Jul 2026 23:20:00 GMT",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ05NSTFnWmRQVy1kdjdGaUlSZThIZ2FTVlpXNTlWOUFJRTJHOTlYNWd6MmVvSDNNYkNNU0NjTUlCOTJwN2dvaU9NQktjMXlvdTM4U05ZQ1pRajEzMVYzS0JUTUduSlA2LUUxTzkwMDFmQmpQU2tFbzVPNlV2QUhvdnNGMHBHeHFTM1kyTmFuX2lra0JTQUI4V1p6Q3Y4b0pNMS1aQ01VNUhaYlZzeHRQQmMwS09lV1lmUlNkSFhHTQ?oc=5",
           "pubDate": "Fri, 31 Jul 2026 23:18:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 22:52:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T03:00:16.782Z"
+      "updatedAt": "2026-08-01T03:25:15.453Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T03:00:17.257Z"
+      "updatedAt": "2026-08-01T03:25:15.889Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T03:00:17.453Z"
+      "updatedAt": "2026-08-01T03:25:16.120Z"
     }
   ]
 }
