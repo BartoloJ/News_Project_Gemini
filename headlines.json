@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-01T18:00:19.442Z",
-  "lastChecked": "2026-08-01T18:00:19.442Z",
-  "lastUpdated": "2026-08-01T18:00:19.442Z",
-  "generatedAt": "2026-08-01T18:00:19.442Z",
+  "fetchedAt": "2026-08-01T18:25:20.438Z",
+  "lastChecked": "2026-08-01T18:25:20.438Z",
+  "lastUpdated": "2026-08-01T18:25:20.438Z",
+  "generatedAt": "2026-08-01T18:25:20.438Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Italy putting nearly all major cities on highest heat alert",
+          "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 01 Aug 2026 17:51:46 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
           "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 01 Aug 2026 13:35:39 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
-          "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 01 Aug 2026 12:04:46 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T18:00:18.125Z"
+      "updatedAt": "2026-08-01T18:25:18.961Z"
     },
     {
       "name": "NPR",
@@ -105,14 +105,14 @@
           "source": "NPR"
         },
         {
-          "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
-          "link": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
+          "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
+          "link": "https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members",
           "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T18:00:18.472Z"
+      "updatedAt": "2026-08-01T18:25:19.213Z"
     },
     {
       "name": "AP News",
@@ -154,28 +154,40 @@
           "source": "AP News"
         },
         {
-          "title": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMy1Tb2ZpdTlKMEJmT3JZb0hYWlp1Y1g3R2dwYmZTWEgtRVFsNWhEcUZ3bmx0M09qTWtvSi0wU05pZVdNYzRsa2tITGN0cF9qaWYycl9zWUNrN3pQRjlFVF9PcjFRTUxDam0yOGRMR1pFQTNYWFA5ZFVIeFJvWUxzYTRJMkM4WkhtYXRQd2R3TTlEU2pKZDNUdm5LREp5ZEZXS3FxRkd4b3F1ODYwYlRNZy10VlQ?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 13:42:00 GMT",
+          "title": "Hundreds of thousands line Amsterdam canals for the annual Pride boat parade - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnQ4TDNhMkhhUXVZRHM2TkI3ZXFiblVFeld5VHVsTm91aTVYWFZkQ3FOQWFOcFBleHlFM1ZIWHRtZWpJNmRBOFlPdUxHVDh6TGxNNGNEMTl4d2ZSZllDUEJzRTRwMk95QjlMRVFQRzljYVRpZ0l5QVJhR0pIRXZBdEctZzRZUXNxSnlMUVFsYVJPQVVoNlIwRENVa3FBOEFTMzdmWXFXYnU?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 15:56:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Hundreds of thousands line Amsterdam canals for the annual Pride boat parade - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnQ4TDNhMkhhUXVZRHM2TkI3ZXFiblVFeld5VHVsTm91aTVYWFZkQ3FOQWFOcFBleHlFM1ZIWHRtZWpJNmRBOFlPdUxHVDh6TGxNNGNEMTl4d2ZSZllDUEJzRTRwMk95QjlMRVFQRzljYVRpZ0l5QVJhR0pIRXZBdEctZzRZUXNxSnlMUVFsYVJPQVVoNlIwRENVa3FBOEFTMzdmWXFXYnU?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 13:15:00 GMT",
+          "title": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMy1Tb2ZpdTlKMEJmT3JZb0hYWlp1Y1g3R2dwYmZTWEgtRVFsNWhEcUZ3bmx0M09qTWtvSi0wU05pZVdNYzRsa2tITGN0cF9qaWYycl9zWUNrN3pQRjlFVF9PcjFRTUxDam0yOGRMR1pFQTNYWFA5ZFVIeFJvWUxzYTRJMkM4WkhtYXRQd2R3TTlEU2pKZDNUdm5LREp5ZEZXS3FxRkd4b3F1ODYwYlRNZy10VlQ?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 15:37:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T18:00:18.918Z"
+      "updatedAt": "2026-08-01T18:25:19.781Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXRXNWJWSDNJWk9BVFdoMVlpX0lCVURrSmtnQXRVUVE1TjJqVG1sNXU2QkZZUjZ3cHhVWk1pajNteWtJRmllQjBVSFMybFlyQ00tVjBLQ3ktS2dRVjdLRkRNa3lIU1pZcWNYVjlOb0VhNDRaYkhIa2Ewd09pOTE4ZVUydjNkNzVhd2JETW44Sy1EUjBmbnFUWlRlZVg2eVpONlFzNTg1Nk14NWtJaFJNbm9NM3RrLW5VU19nXzZhazg?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 17:38:17 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Spain installs floating barrier in Ceuta after deadly migrant rush - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0J1S2JCeWV3d0FxbXk5WEtkeXpHOGdQdGtPSFNQV3MzRkN5RGxZS0lINHFHb3BKN3BCLVNSQU13OExKOEhNRzNaVlBxV01Fck1hTDVMQUN2TmxqYVZxOHI2UDdaSVlNT21BSUxPSzVjcWFzbGxKSVdPWThRM056OGVyRE1JdHpXYnJpLUFiQWh4OTNQLXhhbk5NVGtJaW9ocnpUaVc4QnRLTnRXdU9oQmRpTWlGOVEweUszY1ZDbk5ISzA?oc=5",
           "pubDate": "Sat, 01 Aug 2026 17:21:58 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUR4aERLVE00azhSZHJQbWZZUktuVmNhYkFKb1lTWUhEcS1CS3dIbEdJREpybnlaRk01elZwWi1EMlNLV290anVpWTltNDNON1p0em1LLXBraWlSTzhMOVAydVM0NFhSR1dZNE8wRzJvaC16dGlPUkVoM25ZRjZvejNTMzRZZWZNMEE4UnRJN2JWTDc2VTdYblhiNnlYQVhnUmVxQktVSlJ2VWgtZVJfWFBuUQ?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 17:20:08 GMT",
           "source": "Reuters"
         },
         {
@@ -197,12 +209,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXRXNWJWSDNJWk9BVFdoMVlpX0lCVURrSmtnQXRVUVE1TjJqVG1sNXU2QkZZUjZ3cHhVWk1pajNteWtJRmllQjBVSFMybFlyQ00tVjBLQ3ktS2dRVjdLRkRNa3lIU1pZcWNYVjlOb0VhNDRaYkhIa2Ewd09pOTE4ZVUydjNkNzVhd2JETW44Sy1EUjBmbnFUWlRlZVg2eVpONlFzNTg1Nk14NWtJaFJNbm9NM3RrLW5VU19nXzZhazg?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 15:45:39 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Wildfires rage in Greece as firefighters continue battle in France and Spain - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaENSUzhSWi1xMmhoSVFXRFZLTUM2V2Rydm5sOUp0aW1WYkxkV1pWdDFCTVpkbkF0WVFpSUlZbFZuQ2FwYXVvOVR1X1I0NWlWTjFUaFdlU2tyd1RXNm1rcWF5OWV1SzNHYVpvRGtlWFQ2NWxCYUk1R2c1UWVaU3k0SENqbDMxS1B3eUZoOE9pSGhxNGZScDBFY2NLUjVoNzhxNm1BYzFoUm5EbVE0dXQyUGJoQkd1YkRTdjNqXw?oc=5",
           "pubDate": "Sat, 01 Aug 2026 15:35:14 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZWI0dFYtSFNFTTE1VUtUT2d0X0E3b1BiS2NqNC1OSVJTd0RxWWRzelo3OFY3dzc4TTJLYWh1cVhZcGJxNXpRUkRRNHFJSi1pQ1JVZWs1OGhrRVJ1VXhPRjVreXhyZ1J2STRDck93cnFvd0oxMm04ZGV0UWR5ZWtQY3Z4ckdabU1sRmhpNnZ6OEhNS1RybXR1cWxwaU9uQ1RQVXBuVThfWVlWeG9DdXhkMFRTUnBkRmEyVWNFWmxfME10RGk3ZFlqVXZjbw?oc=5",
           "pubDate": "Sat, 01 Aug 2026 14:03:47 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Rosatom says its civilian vessel sank in Black Sea after Ukrainian drone attack, all crew survived - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHRSSERGYnJKSWphUV9LNVBnVEE2RHpZS2d3eTVTMDNGR2dDTlRhSlBfNHYwb2ZoSHl3d3QtX0xVV1NiSHMwZVExN1hOTTA0eTBnYUZoeE5LV2R2T0tuRFV6VXJtNkxIV0tfRXRwTXluMkZ0UW81R1hCQ0JrcHFSVVhUbThXWURObTJHaFhMRmdETHhTN29Ca3ZHTjdkaWVBRldJVy1oNFNlekk5SmRQSGtVTFR6TmJuVklEWHlBdw?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 11:40:54 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T18:00:19.295Z"
+      "updatedAt": "2026-08-01T18:25:20.233Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T18:00:19.442Z"
+      "updatedAt": "2026-08-01T18:25:20.438Z"
     }
   ]
 }
