@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-01T10:50:14.883Z",
-  "lastChecked": "2026-08-01T10:50:14.883Z",
-  "lastUpdated": "2026-08-01T10:50:14.883Z",
-  "generatedAt": "2026-08-01T10:50:14.883Z",
+  "fetchedAt": "2026-08-01T10:57:04.101Z",
+  "lastChecked": "2026-08-01T10:57:04.101Z",
+  "lastUpdated": "2026-08-01T10:57:04.101Z",
+  "generatedAt": "2026-08-01T10:57:04.101Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T10:50:13.744Z"
+      "updatedAt": "2026-08-01T10:57:02.789Z"
     },
     {
       "name": "NPR",
@@ -87,6 +87,12 @@
           "source": "NPR"
         },
         {
+          "title": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
+          "link": "https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral",
+          "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
           "link": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
           "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
           "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
-          "link": "https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral",
-          "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T10:50:13.840Z"
+      "updatedAt": "2026-08-01T10:57:02.873Z"
     },
     {
       "name": "AP News",
@@ -136,9 +136,21 @@
           "source": "AP News"
         },
         {
+          "title": "Sophie Cunningham says she’s not concerned about being a distraction for the Fever - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWdYaEZOVkwyNjZObXZkSEYtNGcwbE41RXRzQkFsV042bFFNMElSRGUxbF91UWM4SDcyRHJQcjNDVW83Nk0yREgtZUM5OXVER3NVU2dtME5UUlk5cDI3cmQ1Rll6S0w0ZHExR1dFTjJOSGJNWGRRSlJSTUYwdUtsMDlta3g1V3I2Tld1N29qd1N3V25wLWh5X194cHU?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 04:56:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Migrants cross into Spain’s Ceuta territory from Morocco, in photos - AP News",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlo3SVBubjNqaVBQZWgxdzQxYk9QUFJzV29iZWMtTlBvR2RTZlRBaE1uM3ZUTkI2SzhVX3MzVHpoalZYWjFkNGlYUUVtUk1vcWo0WmJESjdsR3Z0TWpVWnRlNDFZeHdOUENmRjFjUUVSVWppTVRnZlJIWlBMRlBUMl9ZMW84WnAzbzl1RFliWXl2X3V1VjF2Yl82MFpleU9FclRTTFFmdWtPdUdXWl9vQjVkWVNVS1c5?oc=5",
           "pubDate": "Sat, 01 Aug 2026 03:05:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "What to know about the Spanish territory of Ceuta as migrant arrivals from Morocco spike - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDZ0cTJsQlVfb1NSX2NwYWRaemctTlhPRjZBT2F3NWtvQXNyTGYyTVFhaTNDUjF4S3pvT1d4T0dRZXpLYVRFdGc4eEEyT0hOS3RPUVBtQnpQLUpPSlhvTlVXMlNkcmlveVJWRHk0aU96bUtGcGZSLU9mZFF1aUxwRGpPVXFFVkZzczVpU2VtbW5lTTJPcUxUblhlbWNrU3BJYnc?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 03:03:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXVVaG1zc0QyQ3JfMFoxWjVfUEx2cTRpTDRxTzZIQ0pjcFdvLVJwQWdJQ2hVQnBLOVRsZDNKOGp0X3FuRW1tOWVJb3NLRGJtdkQzY0toazlHbzFDaVZFZl8xT1Z6UnlBbzZMYlVWUVR2Sy1VMXBWb1NWMGFTMnlFblJzdm55MHpmSXBrYkZsU0prM0lHcVZHZzFn?oc=5",
           "pubDate": "Sat, 01 Aug 2026 00:21:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Authorities release early ransom note in Nancy Guthrie case, hoping someone recognizes it - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0xwZmNyWmRDRDhJVHYtc3diZEVDRUJ3SDNpYVJUaHJnX1lGZEJRSnkzZl9BQ0c0M1dpQk5NYUVYdjhPQ3R4QTV2UUExb2NCd00tSTFuQ1hES2FXeGVYTmd6azhUWm4zeF8ybjBvRHRKcWZaVTFkXzVfYUFRNjBBOTdYa1R3eWV4NGZyZWZsUzhEdmVWLTRIdjNIUDZWSTBKR3pTRlVZWTFxUQ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 23:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Puerto Rico authorizes $2 billion coastal luxury development that activists oppose - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzJ4NnpQSGQtRFBOcnRQeDV4VXhZT3VOZXBzQWNyWktXMml1ekwtVC11Mlp3M3RfYmJTcWo5ZzdlTDBfa3AtZTNVUkJGeUotLXdGUHBlN0l4MklucmRjaTdVWGlXaVJwTXMtODBVMlY1WFVPczVDXzN1OEloWExHY1RiOEdVRkNpNWtIOGtnWEpYd0RfMlJ3dUNoblEzcG5MN2c?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 23:20:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T10:50:14.327Z"
+      "updatedAt": "2026-08-01T10:57:03.315Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T10:50:14.767Z"
+      "updatedAt": "2026-08-01T10:57:03.763Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T10:50:14.883Z"
+      "updatedAt": "2026-08-01T10:57:04.101Z"
     }
   ]
 }
