@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-01T13:25:21.935Z",
-  "lastChecked": "2026-08-01T13:25:21.935Z",
-  "lastUpdated": "2026-08-01T13:25:21.935Z",
-  "generatedAt": "2026-08-01T13:25:21.935Z",
+  "fetchedAt": "2026-08-01T13:50:16.666Z",
+  "lastChecked": "2026-08-01T13:50:16.666Z",
+  "lastUpdated": "2026-08-01T13:50:16.666Z",
+  "generatedAt": "2026-08-01T13:50:16.666Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+          "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 01 Aug 2026 13:35:39 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
           "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
           "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 01 Aug 2026 12:04:46 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-          "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 01 Aug 2026 11:52:29 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T13:25:20.705Z"
+      "updatedAt": "2026-08-01T13:50:15.317Z"
     },
     {
       "name": "NPR",
@@ -105,22 +105,34 @@
           "source": "NPR"
         },
         {
-          "title": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
-          "link": "https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral",
+          "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
+          "link": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
           "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T13:25:20.915Z"
+      "updatedAt": "2026-08-01T13:50:15.452Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "UEFA declares no confidence in Infantino and vows accountability for failed World Cup equity plan - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ29OWVVpM1NLQVJBSk9XYTI5a3ZwYUpob2JRMFg0b2J4ME9TcjBwMHU4R2lBZ1lEWklJRnVqcTJRWUt5UF9LZkl3MzgwOVlqWnNUYmU3YmltRERyZVpIbDEyMW1pMzI1bEkyTHFBM3ZPRVJNUlRkM1paWVFya1BDYnN4d3Y0Zw?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 13:15:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67 - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnlUUmF3WUJfaG9nWXdGdGVqakY5UFB2T1BQQmFHQzRCRjd0TXFBSDdlQzdVVG5jQU1xRm8wMXR1bWhFZThuWVhiMHo4ZXJVdU9YTHUwb3VyWXBLX0R6dXFWLWtDanFDVzBES05tX200V1h0Z2FSOEt0TWtCalg4OXAtRGNwRkt6NjgzcEpDY1M2SDg?oc=5",
           "pubDate": "Sat, 01 Aug 2026 12:45:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Hundreds of thousands line Amsterdam canals for the annual Pride boat parade - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnQ4TDNhMkhhUXVZRHM2TkI3ZXFiblVFeld5VHVsTm91aTVYWFZkQ3FOQWFOcFBleHlFM1ZIWHRtZWpJNmRBOFlPdUxHVDh6TGxNNGNEMTl4d2ZSZllDUEJzRTRwMk95QjlMRVFQRzljYVRpZ0l5QVJhR0pIRXZBdEctZzRZUXNxSnlMUVFsYVJPQVVoNlIwRENVa3FBOEFTMzdmWXFXYnU?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 12:10:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXVVaG1zc0QyQ3JfMFoxWjVfUEx2cTRpTDRxTzZIQ0pjcFdvLVJwQWdJQ2hVQnBLOVRsZDNKOGp0X3FuRW1tOWVJb3NLRGJtdkQzY0toazlHbzFDaVZFZl8xT1Z6UnlBbzZMYlVWUVR2Sy1VMXBWb1NWMGFTMnlFblJzdm55MHpmSXBrYkZsU0prM0lHcVZHZzFn?oc=5",
           "pubDate": "Sat, 01 Aug 2026 10:53:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMy1Tb2ZpdTlKMEJmT3JZb0hYWlp1Y1g3R2dwYmZTWEgtRVFsNWhEcUZ3bmx0M09qTWtvSi0wU05pZVdNYzRsa2tITGN0cF9qaWYycl9zWUNrN3pQRjlFVF9PcjFRTUxDam0yOGRMR1pFQTNYWFA5ZFVIeFJvWUxzYTRJMkM4WkhtYXRQd2R3TTlEU2pKZDNUdm5LREp5ZEZXS3FxRkd4b3F1ODYwYlRNZy10VlQ?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 10:50:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "UEFA says it’s lost confidence in FIFA’s Infantino after failed private equity plan - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ29OWVVpM1NLQVJBSk9XYTI5a3ZwYUpob2JRMFg0b2J4ME9TcjBwMHU4R2lBZ1lEWklJRnVqcTJRWUt5UF9LZkl3MzgwOVlqWnNUYmU3YmltRERyZVpIbDEyMW1pMzI1bEkyTHFBM3ZPRVJNUlRkM1paWVFya1BDYnN4d3Y0Zw?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 10:17:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T13:25:21.371Z"
+      "updatedAt": "2026-08-01T13:50:15.977Z"
     },
     {
       "name": "Reuters",
@@ -181,7 +181,7 @@
         {
           "title": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUR4aERLVE00azhSZHJQbWZZUktuVmNhYkFKb1lTWUhEcS1CS3dIbEdJREpybnlaRk01elZwWi1EMlNLV290anVpWTltNDNON1p0em1LLXBraWlSTzhMOVAydVM0NFhSR1dZNE8wRzJvaC16dGlPUkVoM25ZRjZvejNTMzRZZWZNMEE4UnRJN2JWTDc2VTdYblhiNnlYQVhnUmVxQktVSlJ2VWgtZVJfWFBuUQ?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 12:54:09 GMT",
+          "pubDate": "Sat, 01 Aug 2026 12:55:43 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T13:25:21.766Z"
+      "updatedAt": "2026-08-01T13:50:16.392Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T13:25:21.935Z"
+      "updatedAt": "2026-08-01T13:50:16.666Z"
     }
   ]
 }
