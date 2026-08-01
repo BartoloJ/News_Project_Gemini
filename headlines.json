@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-01T03:25:16.120Z",
-  "lastChecked": "2026-08-01T03:25:16.120Z",
-  "lastUpdated": "2026-08-01T03:25:16.120Z",
-  "generatedAt": "2026-08-01T03:25:16.120Z",
+  "fetchedAt": "2026-08-01T03:50:15.618Z",
+  "lastChecked": "2026-08-01T03:50:15.618Z",
+  "lastUpdated": "2026-08-01T03:50:15.618Z",
+  "generatedAt": "2026-08-01T03:50:15.618Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T03:25:13.866Z"
+      "updatedAt": "2026-08-01T03:50:14.851Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T03:25:15.000Z"
+      "updatedAt": "2026-08-01T03:50:15.059Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "What to know about the Spanish territory of Ceuta as migrant arrivals from Morocco spike - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDZ0cTJsQlVfb1NSX2NwYWRaemctTlhPRjZBT2F3NWtvQXNyTGYyTVFhaTNDUjF4S3pvT1d4T0dRZXpLYVRFdGc4eEEyT0hOS3RPUVBtQnpQLUpPSlhvTlVXMlNkcmlveVJWRHk0aU96bUtGcGZSLU9mZFF1aUxwRGpPVXFFVkZzczVpU2VtbW5lTTJPcUxUblhlbWNrU3BJYnc?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 03:03:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Sophie Cunningham says she’s not concerned about being a distraction for the Fever - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWdYaEZOVkwyNjZObXZkSEYtNGcwbE41RXRzQkFsV042bFFNMElSRGUxbF91UWM4SDcyRHJQcjNDVW83Nk0yREgtZUM5OXVER3NVU2dtME5UUlk5cDI3cmQ1Rll6S0w0ZHExR1dFTjJOSGJNWGRRSlJSTUYwdUtsMDlta3g1V3I2Tld1N29qd1N3V25wLWh5X194cHU?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 02:55:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "SEC, Big Ten add long-missing support to college sports bill and revive its chances in the Senate - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMTlMV09QUXN5bG9WcDh0c1g5ay1ZWFV5b0FjV2JYT3dCSG9UaFRDUDFmc21KLXZZMF9HN0ZRRGxabG9EY0VuVlY4YXBabXEzTXppcUdmWkZrMENTYXJCWVFValF1bUF1S3hJRjZGSVlFMjQyS191blBaV3M5T1ZLOUhfcWp5VFRhSTZiQ2p1MFFfYXYxd2ZaREVzdFlXLXc?oc=5",
@@ -130,12 +142,6 @@
           "source": "AP News"
         },
         {
-          "title": "Giants suspend pay to injured outfielder Harrison Bader following scooter accident - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXdBY3FWU1AtSkMxcjBmUm1ZYWt3Um5rVjdsX0RCYWZTUGdBM05Fc0E2LUlRSFdNTlF3VXRFX1hvNFp0NVdxTElqcFBON1dqV2ZqTGhnR29JaWx3bWEwRFNhcHoxaDNKWmRURnkxUUk0MjFGWEVLZVg4bFVZeEx6Wk91Yy1CbS1F?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 01:00:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Infantino abandoned his World Cup equity plan after seismic FIFA backlash. Here's what to know - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXVVaG1zc0QyQ3JfMFoxWjVfUEx2cTRpTDRxTzZIQ0pjcFdvLVJwQWdJQ2hVQnBLOVRsZDNKOGp0X3FuRW1tOWVJb3NLRGJtdkQzY0toazlHbzFDaVZFZl8xT1Z6UnlBbzZMYlVWUVR2Sy1VMXBWb1NWMGFTMnlFblJzdm55MHpmSXBrYkZsU0prM0lHcVZHZzFn?oc=5",
           "pubDate": "Sat, 01 Aug 2026 00:21:00 GMT",
@@ -144,12 +150,6 @@
         {
           "title": "Authorities release early ransom note in Nancy Guthrie case, hoping someone recognizes it - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0xwZmNyWmRDRDhJVHYtc3diZEVDRUJ3SDNpYVJUaHJnX1lGZEJRSnkzZl9BQ0c0M1dpQk5NYUVYdjhPQ3R4QTV2UUExb2NCd00tSTFuQ1hES2FXeGVYTmd6azhUWm4zeF8ybjBvRHRKcWZaVTFkXzVfYUFRNjBBOTdYa1R3eWV4NGZyZWZsUzhEdmVWLTRIdjNIUDZWSTBKR3pTRlVZWTFxUQ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 23:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "WPBL looking for longevity as players take the field amid rising popularity for women's sports - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVM4SEZSLXFGU0stMy00OWJEblVnLUJ4Vm12TDMxcU9wVGtJT3NLeDVKd2lnUmNZMEFTZk5SaVg0QXQ5M0RKdUNhMU9IeTQtak41bXp2d0NtVUtQeEFuX3ZuRURKMUczeXpsUzBRNVFYdmNDal9zUXRhazhKN3F1Zmt1b01SUQ?oc=5",
           "pubDate": "Fri, 31 Jul 2026 23:57:00 GMT",
           "source": "AP News"
         },
@@ -167,15 +167,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T03:25:15.453Z"
+      "updatedAt": "2026-08-01T03:50:15.512Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Treasury selloff signals need to bolster Fed's inflation credibility, Musalem tells FT - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdm1UZEtzb3Zzem5MeU1jTGFIV2pKUzJSbjlhcWNrT1RNM3B1aWZBcDRsX3ZkbHBaQXBiTkVZY2pmeERNUmw2c2NVeldxR2VBT2dzeGJUZTVwalRIaWJOZUt3R0tuc29yeUt0R1k4bEJaUW1MTWtiT0szQl9mdml4X1VnRzROSUR6eG55dXZVVTZSbHRnaklpVWZFMExWdUV2ODl6MGFJM3NyVG1WaGd6UHRPdnVJYmFuNFRwMExqOXpGdjFReW9GdGhzRQ?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 02:12:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US Treasury intervenes to support yen after Japan steps in, FT reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0lVZ3FOWEp0MkVGaWc4UkprSmVwZlZMSzBQRlBuQ3UzOEVuN09za080MDFQTHFfOVFGU1hsOUF3THBnbGc0Tk4zdi1sR0xBdHhJV3FiOTNmaEZkbWNWQ0VMRjROZXJUQ1VwX1BrS3NvdWRDYThPSWVhdnhZUmxHWHNsVEFRYTZFXy1CeTJVdW13SVpqcl9wdTBoRjdINnV6R0tEcTI3Qnpjc3RpLWxQOVVB?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 01:35:13 GMT",
+          "pubDate": "Sat, 01 Aug 2026 00:28:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
           "pubDate": "Fri, 31 Jul 2026 22:39:05 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump says US has not agreed to Ukraine building Patriot missiles - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXNqSU9WRVUwMm1rWkFyY0ZVdXpoQ3RudWlwQmI5aGh1VmJITWJuWkpjc3NJQ2VfQU1PZlFwZkhfYTZvYWNxZ1NvM1FseWMxU1J2SDZkN2N3SW5HYmJUTWozTlpwWTBNYmEzQ1Y0N1lPYUotUllyTW5PZ0xQUmo0b3NSNzdsV1QzNzJGNk1ZWVhIam9FNXpUMUVSOGxVaGVCWGJmR0VnV2x3bUZ1Nzh2OHY2TkRyd0dCdGlpYWRhVWhNcVU?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 22:35:51 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T03:25:15.889Z"
+      "updatedAt": "2026-08-01T03:50:15.521Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T03:25:16.120Z"
+      "updatedAt": "2026-08-01T03:50:15.618Z"
     }
   ]
 }
