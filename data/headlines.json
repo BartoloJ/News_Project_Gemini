@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-01T14:25:19.441Z",
-  "lastChecked": "2026-08-01T14:25:19.441Z",
-  "lastUpdated": "2026-08-01T14:25:19.441Z",
-  "generatedAt": "2026-08-01T14:25:19.441Z",
+  "fetchedAt": "2026-08-01T14:43:50.634Z",
+  "lastChecked": "2026-08-01T14:43:50.634Z",
+  "lastUpdated": "2026-08-01T14:43:50.634Z",
+  "generatedAt": "2026-08-01T14:43:50.634Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T14:25:18.133Z"
+      "updatedAt": "2026-08-01T14:43:49.408Z"
     },
     {
       "name": "NPR",
@@ -105,18 +105,30 @@
           "source": "NPR"
         },
         {
-          "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
-          "link": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
+          "title": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
+          "link": "https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral",
           "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T14:25:18.396Z"
+      "updatedAt": "2026-08-01T14:43:49.592Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnlUUmF3WUJfaG9nWXdGdGVqakY5UFB2T1BQQmFHQzRCRjd0TXFBSDdlQzdVVG5jQU1xRm8wMXR1bWhFZThuWVhiMHo4ZXJVdU9YTHUwb3VyWXBLX0R6dXFWLWtDanFDVzBES05tX200V1h0Z2FSOEt0TWtCalg4OXAtRGNwRkt6NjgzcEpDY1M2SDg?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 14:21:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMy1Tb2ZpdTlKMEJmT3JZb0hYWlp1Y1g3R2dwYmZTWEgtRVFsNWhEcUZ3bmx0M09qTWtvSi0wU05pZVdNYzRsa2tITGN0cF9qaWYycl9zWUNrN3pQRjlFVF9PcjFRTUxDam0yOGRMR1pFQTNYWFA5ZFVIeFJvWUxzYTRJMkM4WkhtYXRQd2R3TTlEU2pKZDNUdm5LREp5ZEZXS3FxRkd4b3F1ODYwYlRNZy10VlQ?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 13:42:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "UEFA declares no confidence in Infantino and vows accountability for failed World Cup equity plan - AP News",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ29OWVVpM1NLQVJBSk9XYTI5a3ZwYUpob2JRMFg0b2J4ME9TcjBwMHU4R2lBZ1lEWklJRnVqcTJRWUt5UF9LZkl3MzgwOVlqWnNUYmU3YmltRERyZVpIbDEyMW1pMzI1bEkyTHFBM3ZPRVJNUlRkM1paWVFya1BDYnN4d3Y0Zw?oc=5",
@@ -127,12 +139,6 @@
           "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
           "pubDate": "Sat, 01 Aug 2026 13:03:50 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnlUUmF3WUJfaG9nWXdGdGVqakY5UFB2T1BQQmFHQzRCRjd0TXFBSDdlQzdVVG5jQU1xRm8wMXR1bWhFZThuWVhiMHo4ZXJVdU9YTHUwb3VyWXBLX0R6dXFWLWtDanFDVzBES05tX200V1h0Z2FSOEt0TWtCalg4OXAtRGNwRkt6NjgzcEpDY1M2SDg?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 12:45:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,71 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMkZBc2EyUTBGNGVvb05KazlBQVpWNWNrcFktRGdNN0F3SkpfdlRVTzhLLV9EM1hWQkdqaS1Wd2Jsc0wzWWkwbV9jcVppcTZ0WHIzQlBpcmVqZV93QTVhaHlHMUh1NjA0clR6VVBjTlhLdTdBZ0hOWEtTcUV4NHZ5aG9fTjk1eEpwamc?oc=5",
           "pubDate": "Sat, 01 Aug 2026 11:12:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump stands to profit off US policy announcements by selling fast access to his social media posts - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnE2clhGSzhVY192V0ZoZGVCWGhJU1lWZ2tEeklTcC03dTJaU1lXMWU4LW1YbXNQcjg2QS1fQnFZd1hnM0dfbkdCSUx1Um9YcUV5bjB2bzZjMG02T2ZCQk1BR0M1U2FVZWN1NUtOZDZoclZYaHdNQ19iR1BvMG9xN0lsSjZjZWxLb2dSc1VBSDRPSzA0cGtvTGtiZGFMTmpYcjRPb09vb1NLVkxUTE9fby1VOVJ0Um9QdzMzTA?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 11:06:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T14:25:18.842Z"
+      "updatedAt": "2026-08-01T14:43:50.060Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Wildfires rage in Greece as firefighters continue battle in France and Spain - reuters.com",
+          "title": "Wildfires rage in Greece as firefighters continue battle in France and Spain - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaENSUzhSWi1xMmhoSVFXRFZLTUM2V2Rydm5sOUp0aW1WYkxkV1pWdDFCTVpkbkF0WVFpSUlZbFZuQ2FwYXVvOVR1X1I0NWlWTjFUaFdlU2tyd1RXNm1rcWF5OWV1SzNHYVpvRGtlWFQ2NWxCYUk1R2c1UWVaU3k0SENqbDMxS1B3eUZoOE9pSGhxNGZScDBFY2NLUjVoNzhxNm1BYzFoUm5EbVE0dXQyUGJoQkd1YkRTdjNqXw?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 13:15:45 GMT",
+          "pubDate": "Sat, 01 Aug 2026 14:31:32 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack - reuters.com",
+          "title": "Israeli strikes kill two in Gaza, destroy medicine storage warehouses - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQejJOMUdaM3o5dDFVSU04YTE1RzhOVjhyTzdxR2tqalUtSk1uUFlxOTJFLTN1TGgtMWRqdUktaGdCQUw3dDE1MG1hZjljOUdkYUk4RWhEZnByVHJyN2JPeFVOUG9Danp4ZUZTNmVUeDJtaXVjYUNhbk5wb1lpMGN6ZnZIVEhrelIzS0RjaEdXT3czX1Vrekh6VTRTQzUtNE8zM0pPVGY4eHA4eFdSWm8xR3pIRnNtcXdZSUQw?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 14:28:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Thousands in Amsterdam for boisterous WorldPride in shadow of Berlin attack - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUR4aERLVE00azhSZHJQbWZZUktuVmNhYkFKb1lTWUhEcS1CS3dIbEdJREpybnlaRk01elZwWi1EMlNLV290anVpWTltNDNON1p0em1LLXBraWlSTzhMOVAydVM0NFhSR1dZNE8wRzJvaC16dGlPUkVoM25ZRjZvejNTMzRZZWZNMEE4UnRJN2JWTDc2VTdYblhiNnlYQVhnUmVxQktVSlJ2VWgtZVJfWFBuUQ?oc=5",
           "pubDate": "Sat, 01 Aug 2026 12:55:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Spain installs floating barrier in Ceuta after calm night following border rush - reuters.com",
+          "title": "Spain installs floating barrier in Ceuta after calm night following border rush - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0J1S2JCeWV3d0FxbXk5WEtkeXpHOGdQdGtPSFNQV3MzRkN5RGxZS0lINHFHb3BKN3BCLVNSQU13OExKOEhNRzNaVlBxV01Fck1hTDVMQUN2TmxqYVZxOHI2UDdaSVlNT21BSUxPSzVjcWFzbGxKSVdPWThRM056OGVyRE1JdHpXYnJpLUFiQWh4OTNQLXhhbk5NVGtJaW9ocnpUaVc4QnRLTnRXdU9oQmRpTWlGOVEweUszY1ZDbk5ISzA?oc=5",
           "pubDate": "Sat, 01 Aug 2026 12:46:50 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Crimean families queue for hot meals as Ukraine hits power supply - reuters.com",
+          "title": "Crimean families queue for hot meals as Ukraine hits power supply - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT21kcTdmN0NtcWRQR19oc3FOMkhEQnRKajhBdU1ncTFlNGlmSEwzZjhCczhpWi1ldlhZZkNqZTdCeS1sX01haE5WMGgyMDUwd21jeTY5bEZSUXZfZEtvSFliZ0hGRTAzaG9lazVlQXAzVTRCWHZHQnFDV0tob2MyaWpRdE5reHV4bkg5dHBTaWJqa01yTGJRUnh3MDB3R3dKQlE?oc=5",
           "pubDate": "Sat, 01 Aug 2026 12:26:10 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Famed climber Nirmal Purja, nine others, die in avalanche in Pakistan, hiking company says - reuters.com",
+          "title": "Famed climber Nirmal Purja, nine others, die in avalanche in Pakistan, hiking company says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmYyc0pXSkJpNHNLOHFIUVU0clpoNFlfUVFua3EwU2dHUF9MTjBzUFl0M0VJUXNWUVBDeThvMTVPNlNjMDBQTWl1bXdoMTVFNGt5aVdYbmJyaG9TUVlCVWFTTHUzWTJSelM3czY1VFdvZW5iUXVUdXlELXlTVUJvQkdTVUVnN3d6Q044d3pmZFBnYVE3X1M3TlRqZjNTMFNqNWNKSWpWUnR3Nngyd2ozcmRoaUNZSEM5ZV82T1JEU25SUQ?oc=5",
           "pubDate": "Sat, 01 Aug 2026 12:09:42 GMT",
           "source": "Reuters"
         },
         {
-          "title": "UEFA says it has lost confidence in Infantino as FIFA faces calls for transparency - reuters.com",
+          "title": "UEFA says it has lost confidence in Infantino as FIFA faces calls for transparency - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXRXNWJWSDNJWk9BVFdoMVlpX0lCVURrSmtnQXRVUVE1TjJqVG1sNXU2QkZZUjZ3cHhVWk1pajNteWtJRmllQjBVSFMybFlyQ00tVjBLQ3ktS2dRVjdLRkRNa3lIU1pZcWNYVjlOb0VhNDRaYkhIa2Ewd09pOTE4ZVUydjNkNzVhd2JETW44Sy1EUjBmbnFUWlRlZVg2eVpONlFzNTg1Nk14NWtJaFJNbm9NM3RrLW5VU19nXzZhazg?oc=5",
           "pubDate": "Sat, 01 Aug 2026 11:44:04 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Rosatom says its civilian vessel sank in Black Sea after Ukrainian drone attack, all crew survived - reuters.com",
+          "title": "Rosatom says its civilian vessel sank in Black Sea after Ukrainian drone attack, all crew survived - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHRSSERGYnJKSWphUV9LNVBnVEE2RHpZS2d3eTVTMDNGR2dDTlRhSlBfNHYwb2ZoSHl3d3QtX0xVV1NiSHMwZVExN1hOTTA0eTBnYUZoeE5LV2R2T0tuRFV6VXJtNkxIV0tfRXRwTXluMkZ0UW81R1hCQ0JrcHFSVVhUbThXWURObTJHaFhMRmdETHhTN29Ca3ZHTjdkaWVBRldJVy1oNFNlekk5SmRQSGtVTFR6TmJuVklEWHlBdw?oc=5",
           "pubDate": "Sat, 01 Aug 2026 11:40:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "BYD's sales rise for third month, buoyed by exports - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjVCMXdTNjJCMk5JZTM5WE9kWE9kd3daYnp4NEdWY3N2dlZlTnhnSl9TSWRmelhBLVBSUzRMR2lPbWdoQVpzamcxWGNMUWZ2Ul9RalFkNUhhQXhJUTFGemFfRnRXOTd3ekdoNUk4SEpxdWx5Mkx5T2E3dmd2UnFscWp6RmFtSWZvSXp0SldFUHBjNXdVdHp1SEZpS3c5MEJUYld1WGx0WGpJSkZ2ZTYyTg?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 11:06:11 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T14:25:19.292Z"
+      "updatedAt": "2026-08-01T14:43:50.521Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T14:25:19.441Z"
+      "updatedAt": "2026-08-01T14:43:50.634Z"
     }
   ]
 }
