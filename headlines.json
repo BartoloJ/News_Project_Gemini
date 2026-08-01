@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-01T11:50:15.896Z",
-  "lastChecked": "2026-08-01T11:50:15.896Z",
-  "lastUpdated": "2026-08-01T11:50:15.896Z",
-  "generatedAt": "2026-08-01T11:50:15.896Z",
+  "fetchedAt": "2026-08-01T11:58:31.066Z",
+  "lastChecked": "2026-08-01T11:58:31.066Z",
+  "lastUpdated": "2026-08-01T11:58:31.066Z",
+  "generatedAt": "2026-08-01T11:58:31.066Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+          "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 01 Aug 2026 11:52:29 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
           "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
           "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 01 Aug 2026 09:51:05 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
-          "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 01 Aug 2026 08:24:09 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T11:50:15.118Z"
+      "updatedAt": "2026-08-01T11:58:29.869Z"
     },
     {
       "name": "NPR",
@@ -112,62 +112,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T11:50:15.194Z"
+      "updatedAt": "2026-08-01T11:58:30.124Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67 - AP News",
+          "title": "Trump stands to profit off US policy announcements by selling fast access to his social media posts - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnE2clhGSzhVY192V0ZoZGVCWGhJU1lWZ2tEeklTcC03dTJaU1lXMWU4LW1YbXNQcjg2QS1fQnFZd1hnM0dfbkdCSUx1Um9YcUV5bjB2bzZjMG02T2ZCQk1BR0M1U2FVZWN1NUtOZDZoclZYaHdNQ19iR1BvMG9xN0lsSjZjZWxLb2dSc1VBSDRPSzA0cGtvTGtiZGFMTmpYcjRPb09vb1NLVkxUTE9fby1VOVJ0Um9QdzMzTA?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 11:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67 - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnlUUmF3WUJfaG9nWXdGdGVqakY5UFB2T1BQQmFHQzRCRjd0TXFBSDdlQzdVVG5jQU1xRm8wMXR1bWhFZThuWVhiMHo4ZXJVdU9YTHUwb3VyWXBLX0R6dXFWLWtDanFDVzBES05tX200V1h0Z2FSOEt0TWtCalg4OXAtRGNwRkt6NjgzcEpDY1M2SDg?oc=5",
           "pubDate": "Sat, 01 Aug 2026 10:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9 - AP News",
+          "title": "UEFA says it’s lost confidence in FIFA’s Infantino after failed private equity plan - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ29OWVVpM1NLQVJBSk9XYTI5a3ZwYUpob2JRMFg0b2J4ME9TcjBwMHU4R2lBZ1lEWklJRnVqcTJRWUt5UF9LZkl3MzgwOVlqWnNUYmU3YmltRERyZVpIbDEyMW1pMzI1bEkyTHFBM3ZPRVJNUlRkM1paWVFya1BDYnN4d3Y0Zw?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 10:17:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9 - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMy1Tb2ZpdTlKMEJmT3JZb0hYWlp1Y1g3R2dwYmZTWEgtRVFsNWhEcUZ3bmx0M09qTWtvSi0wU05pZVdNYzRsa2tITGN0cF9qaWYycl9zWUNrN3pQRjlFVF9PcjFRTUxDam0yOGRMR1pFQTNYWFA5ZFVIeFJvWUxzYTRJMkM4WkhtYXRQd2R3TTlEU2pKZDNUdm5LREp5ZEZXS3FxRkd4b3F1ODYwYlRNZy10VlQ?oc=5",
           "pubDate": "Sat, 01 Aug 2026 09:10:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Hungary braces for a full shutdown of the Paks nuclear plant as the Danube River hits record lows - AP News",
+          "title": "Hungary braces for a full shutdown of the Paks nuclear plant as the Danube River hits record lows - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWtqLVNjSzJRUXMtTHZSQkQ4UXJtd2VkdlpHTHNXaDhhV3h4TkR2MTkwX0FpcldoYUtwVThOQXYxV0VmZERSOHk2bm04MkV2U2YyejJDMWQ1Y2dyQzZEcFRNYTNjQ1phRlU2M2lXMkNPWXY5TXYtdEFDaWNmUldFOVV0Vi0wWHFsZkZrcl9xS1F0VEJnd2NnNEY2UTRKNHZ2SEtrRk9ScUdpS0VGc3h1VA?oc=5",
           "pubDate": "Sat, 01 Aug 2026 07:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Infantino abandons plans to sell World Cup profits to private equity following massive pushback - AP News",
+          "title": "Infantino abandons plans to sell World Cup profits to private equity following massive pushback - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEpDcHVOTlpQTHlKczVBamNkUWFHcUtOT2VlS1pSVlZ2VWg1QTZfLXFJZDA4VEl1eDB6c3FGbU5USlNZbjFDMXlaX0xRZHlSbmpmckh4WjF5RTZrWEFEOHh6SDVmSC0zWW9RQ2Zxd2hLajhkV1lVaTgwb3F1aC1tNWhxdUgxYlU1bVRyQnphemhPck95Mkh1bjR3?oc=5",
           "pubDate": "Sat, 01 Aug 2026 07:37:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Quake survivors in southwestern Japan sleep in cars in sweltering heat as death toll rises to 34 - AP News",
+          "title": "Quake survivors in southwestern Japan sleep in cars in sweltering heat as death toll rises to 34 - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUpKQU1iMmN1QTRnUjNmTGd6cEU1V01LR3NieTh3YzEwREpqdkZUc0d2ZzJDbGNWXzhZUkNuVlhyYllDcXkxR0h2SzBwNXAzdS1GZGFTd1JIUTVQSFNVTlJ5U0JPbUVoTnRINmszTmZXTUwxaEtLREhpcW02UlZ1RVpJODNzNlpiajZkTmZZNW9yZVlGZERKbGtMRnRCR0U?oc=5",
           "pubDate": "Sat, 01 Aug 2026 07:32:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Sophie Cunningham says she’s not concerned about being a distraction for the Fever - AP News",
+          "title": "Sophie Cunningham says she’s not concerned about being a distraction for the Fever - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWdYaEZOVkwyNjZObXZkSEYtNGcwbE41RXRzQkFsV042bFFNMElSRGUxbF91UWM4SDcyRHJQcjNDVW83Nk0yREgtZUM5OXVER3NVU2dtME5UUlk5cDI3cmQ1Rll6S0w0ZHExR1dFTjJOSGJNWGRRSlJSTUYwdUtsMDlta3g1V3I2Tld1N29qd1N3V25wLWh5X194cHU?oc=5",
           "pubDate": "Sat, 01 Aug 2026 04:56:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Migrants cross into Spain’s Ceuta territory from Morocco, in photos - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlo3SVBubjNqaVBQZWgxdzQxYk9QUFJzV29iZWMtTlBvR2RTZlRBaE1uM3ZUTkI2SzhVX3MzVHpoalZYWjFkNGlYUUVtUk1vcWo0WmJESjdsR3Z0TWpVWnRlNDFZeHdOUENmRjFjUUVSVWppTVRnZlJIWlBMRlBUMl9ZMW84WnAzbzl1RFliWXl2X3V1VjF2Yl82MFpleU9FclRTTFFmdWtPdUdXWl9vQjVkWVNVS1c5?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 03:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Pakistani rescuers recover 3 bodies of 10 climbers missing on Broad Peak after avalanche - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnFLSTBFRVdZS3BrQTM5LXl1Mk5mNi10MEZYR1lURDJMZ1laM0FqS1FYbklaTngyYnVWUTlUX2QtU3RHTjVWQ2llUGotNmNhUGZxWmk3NHY0S0xWVi1iR3JRRDNnSk8xSENTNUdQY21HM2VaclQ4akJQTEphbklLWHlHMk5teDUtaHRoaU1DbnZTRUpVUXgtV3A5T2NrYUhDT0JxVHAwZUt5YUM5Yi1Z?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 02:27:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T11:50:15.246Z"
+      "updatedAt": "2026-08-01T11:58:30.595Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T11:50:15.640Z"
+      "updatedAt": "2026-08-01T11:58:30.979Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T11:50:15.896Z"
+      "updatedAt": "2026-08-01T11:58:31.066Z"
     }
   ]
 }
