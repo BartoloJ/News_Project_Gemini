@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-01T11:00:24.761Z",
-  "lastChecked": "2026-08-01T11:00:24.761Z",
-  "lastUpdated": "2026-08-01T11:00:24.761Z",
-  "generatedAt": "2026-08-01T11:00:24.761Z",
+  "fetchedAt": "2026-08-01T11:25:22.819Z",
+  "lastChecked": "2026-08-01T11:25:22.819Z",
+  "lastUpdated": "2026-08-01T11:25:22.819Z",
+  "generatedAt": "2026-08-01T11:25:22.819Z",
   "sources": [
     {
       "name": "BBC News",
@@ -20,7 +20,7 @@
           "source": "BBC News"
         },
         {
-          "title": "Uefa has 'lost confidence' in Fifa leadership",
+          "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
           "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 01 Aug 2026 09:51:05 GMT",
           "source": "BBC News"
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T11:00:23.396Z"
+      "updatedAt": "2026-08-01T11:25:21.771Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "They call it 'a dream fulfilled' -- new homes designed for (and by) slum residents",
+          "link": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
+          "pubDate": "Sat, 01 Aug 2026 07:14:58 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
+          "link": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
+          "pubDate": "Sat, 01 Aug 2026 07:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Lebanese who fled the Israeli invasion visit to see what's left",
           "link": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
@@ -97,26 +109,20 @@
           "link": "https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members",
           "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
-          "link": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
-          "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
-          "link": "https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral",
-          "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T11:00:23.649Z"
+      "updatedAt": "2026-08-01T11:25:21.838Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMy1Tb2ZpdTlKMEJmT3JZb0hYWlp1Y1g3R2dwYmZTWEgtRVFsNWhEcUZ3bmx0M09qTWtvSi0wU05pZVdNYzRsa2tITGN0cF9qaWYycl9zWUNrN3pQRjlFVF9PcjFRTUxDam0yOGRMR1pFQTNYWFA5ZFVIeFJvWUxzYTRJMkM4WkhtYXRQd2R3TTlEU2pKZDNUdm5LREp5ZEZXS3FxRkd4b3F1ODYwYlRNZy10VlQ?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 09:10:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Death toll in Spain-Morocco border crisis in Ceuta reaches 67 - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnlUUmF3WUJfaG9nWXdGdGVqakY5UFB2T1BQQmFHQzRCRjd0TXFBSDdlQzdVVG5jQU1xRm8wMXR1bWhFZThuWVhiMHo4ZXJVdU9YTHUwb3VyWXBLX0R6dXFWLWtDanFDVzBES05tX200V1h0Z2FSOEt0TWtCalg4OXAtRGNwRkt6NjgzcEpDY1M2SDg?oc=5",
@@ -148,12 +154,6 @@
           "source": "AP News"
         },
         {
-          "title": "What to know about the Spanish territory of Ceuta as migrant arrivals from Morocco spike - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDZ0cTJsQlVfb1NSX2NwYWRaemctTlhPRjZBT2F3NWtvQXNyTGYyTVFhaTNDUjF4S3pvT1d4T0dRZXpLYVRFdGc4eEEyT0hOS3RPUVBtQnpQLUpPSlhvTlVXMlNkcmlveVJWRHk0aU96bUtGcGZSLU9mZFF1aUxwRGpPVXFFVkZzczVpU2VtbW5lTTJPcUxUblhlbWNrU3BJYnc?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 03:03:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Pakistani rescuers recover 3 bodies of 10 climbers missing on Broad Peak after avalanche - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnFLSTBFRVdZS3BrQTM5LXl1Mk5mNi10MEZYR1lURDJMZ1laM0FqS1FYbklaTngyYnVWUTlUX2QtU3RHTjVWQ2llUGotNmNhUGZxWmk3NHY0S0xWVi1iR3JRRDNnSk8xSENTNUdQY21HM2VaclQ4akJQTEphbklLWHlHMk5teDUtaHRoaU1DbnZTRUpVUXgtV3A5T2NrYUhDT0JxVHAwZUt5YUM5Yi1Z?oc=5",
           "pubDate": "Sat, 01 Aug 2026 02:27:00 GMT",
@@ -167,15 +167,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T11:00:24.159Z"
+      "updatedAt": "2026-08-01T11:25:22.271Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Thousands expected in Amsterdam for boisterous WorldPride in shadow of Berlin attack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUR4aERLVE00azhSZHJQbWZZUktuVmNhYkFKb1lTWUhEcS1CS3dIbEdJREpybnlaRk01elZwWi1EMlNLV290anVpWTltNDNON1p0em1LLXBraWlSTzhMOVAydVM0NFhSR1dZNE8wRzJvaC16dGlPUkVoM25ZRjZvejNTMzRZZWZNMEE4UnRJN2JWTDc2VTdYblhiNnlYQVhnUmVxQktVSlJ2VWgtZVJfWFBuUQ?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 10:39:24 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWlqNFRRdmhvdnJCYjdZNU5ZQWRFczZoSnJrbHhmWjc4OEplN3VOSE00RlBwc3J4MDRhbUdiNm80a09weGVQRUxqZHhfRzMtT2d2UkpjazBWaXduSk1MUG5pdUNIZFpTUzgyR09WQnJMYkctNEJtcFlCQWVTb2gwaEd0ZHJpNDhaQzQ0UzZYUTJJZkFiTWJsU1RMMVdRTktiZVZtRWN0cE1wUFpvWUdKbTQ0X295WHBBTW9CakYyRUU0VTh1YlM5b3YzMGwzOGtTZzNR?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 10:03:45 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Hungary's Paks nuclear plant could be powered down this weekend, PM says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWpyZFpUY19WRVp3aFN1ZURWa3hNTU55WnltbHBodng0WlhUekcyX1BEcWJZc0sxOGdTaXdrUDBVaG9uV192bXFveWVWUjdLeUhVeEFZWi1RekN4eEZkV1gzb3ZPdV80MGV4a1dWVXRyRFFiS1N4VHBZZWgzQ2NmVkNRVHhEM0E1SGhGcXBib0hCZU1nT3ppWnhFbk1xMXRMMFBGUjl3SmVjNEFXU1kxX3pkX0g5cWFFUjBablUwWQ?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 09:30:09 GMT",
+          "pubDate": "Sat, 01 Aug 2026 09:53:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Treasury intervenes to support yen after Japan steps in, FT reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0lVZ3FOWEp0MkVGaWc4UkprSmVwZlZMSzBQRlBuQ3UzOEVuN09za080MDFQTHFfOVFGU1hsOUF3THBnbGc0Tk4zdi1sR0xBdHhJV3FiOTNmaEZkbWNWQ0VMRjROZXJUQ1VwX1BrS3NvdWRDYThPSWVhdnhZUmxHWHNsVEFRYTZFXy1CeTJVdW13SVpqcl9wdTBoRjdINnV6R0tEcTI3Qnpjc3RpLWxQOVVB?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 09:20:40 GMT",
           "source": "Reuters"
         },
         {
@@ -193,19 +211,7 @@
         {
           "title": "UKMTO reports two tanker incidents off Oman - Reuters",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnUzTS16X1VtV0ZDQ3FkZENqY1RCbTZrN05WcFpTSFNYT2FEVG5PdTZCaklocGFNWmdpYkhVQWVnZVcyeGhSeTBhVjdVeDFRM3doNHdrX29BWXJpN0lTVFFjTms0SkpZbmNhaXpTSl9IYU13U2YweFNiOGFOby1UX1lZUnBaZEhNUFVYeFpMcy1yaGc?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 06:50:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Thousands expected in Amsterdam for boisterous WorldPride in shadow of Berlin attack - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUR4aERLVE00azhSZHJQbWZZUktuVmNhYkFKb1lTWUhEcS1CS3dIbEdJREpybnlaRk01elZwWi1EMlNLV290anVpWTltNDNON1p0em1LLXBraWlSTzhMOVAydVM0NFhSR1dZNE8wRzJvaC16dGlPUkVoM25ZRjZvejNTMzRZZWZNMEE4UnRJN2JWTDc2VTdYblhiNnlYQVhnUmVxQktVSlJ2VWgtZVJfWFBuUQ?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 06:03:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indian central bank's capital-flow measures draw nearly $41 billion - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOemJ1LWx6NGo3UE10S0dnNWpvUk1CanRyWDl3d05CNUx2Nk5ubE9YMVZXOFF2cWpZRXhfcVVScXNFb21YRXZXNVowUURnQ180bUdGQ19qdC1MR3VUN3AxcS1WYUZ6cVRFUDVKNmNfa2Z0cUZxeHlPVjRZd0RLcFlSS3NyZTdzNnV4S0ZuaWpwYnNHeWFmUkQ4bzJLOVlkeFpsbEFubmR5THUxNE1BS3BmSDF4SQ?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 04:59:00 GMT",
+          "pubDate": "Sat, 01 Aug 2026 03:29:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzlLSWZRazMxRDYzOEoyR2s4TUd2czgtdkt3ejMydU5tOWRWZU5VanB3WDF1SmpWNGt1M0pJcGJqUGNTU2o4a0hrX2Ftdmp2MnJPeXdVVkh0a0tLbVhscWhHZ1JQczZHT3pvZmZNUjViekVqYnIwWHNPaVNKYjZvTmhET05TUUxuR3FKbkZmcjRLWnRYMWRVeXF0cXg3NXluUDVEOE5GTQ?oc=5",
           "pubDate": "Sat, 01 Aug 2026 03:15:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Treasury selloff signals need to bolster Fed's inflation credibility, Musalem tells FT - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdm1UZEtzb3Zzem5MeU1jTGFIV2pKUzJSbjlhcWNrT1RNM3B1aWZBcDRsX3ZkbHBaQXBiTkVZY2pmeERNUmw2c2NVeldxR2VBT2dzeGJUZTVwalRIaWJOZUt3R0tuc29yeUt0R1k4bEJaUW1MTWtiT0szQl9mdml4X1VnRzROSUR6eG55dXZVVTZSbHRnaklpVWZFMExWdUV2ODl6MGFJM3NyVG1WaGd6UHRPdnVJYmFuNFRwMExqOXpGdjFReW9GdGhzRQ?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 02:12:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T11:00:24.553Z"
+      "updatedAt": "2026-08-01T11:25:22.685Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T11:00:24.761Z"
+      "updatedAt": "2026-08-01T11:25:22.819Z"
     }
   ]
 }
