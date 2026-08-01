@@ -1,16 +1,28 @@
 {
-  "fetchedAt": "2026-08-01T20:25:13.301Z",
-  "lastChecked": "2026-08-01T20:25:13.301Z",
-  "lastUpdated": "2026-08-01T20:25:13.301Z",
-  "generatedAt": "2026-08-01T20:25:13.301Z",
+  "fetchedAt": "2026-08-01T20:42:11.180Z",
+  "lastChecked": "2026-08-01T20:42:11.180Z",
+  "lastUpdated": "2026-08-01T20:42:11.180Z",
+  "generatedAt": "2026-08-01T20:42:11.180Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Three killed in Moscow restaurant bombing",
+          "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
           "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 01 Aug 2026 20:20:44 GMT",
+          "pubDate": "Sat, 01 Aug 2026 20:39:16 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Tourist plane crashes in Peru, killing 13",
+          "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 01 Aug 2026 20:36:49 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Crowds line Amsterdam's canals for Pride boat parade",
+          "link": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 01 Aug 2026 19:39:48 GMT",
           "source": "BBC News"
         },
         {
@@ -42,26 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 01 Aug 2026 15:46:08 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-          "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 01 Aug 2026 15:25:30 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-          "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 01 Aug 2026 15:00:07 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T20:25:11.588Z"
+      "updatedAt": "2026-08-01T20:42:10.185Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+          "link": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+          "pubDate": "Sat, 01 Aug 2026 16:27:32 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
           "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco",
           "pubDate": "Sat, 01 Aug 2026 05:36:05 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
-          "link": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
-          "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T20:25:12.164Z"
+      "updatedAt": "2026-08-01T20:42:10.233Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T20:25:12.636Z"
+      "updatedAt": "2026-08-01T20:42:10.734Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Restaurant explosion in central Moscow kills three, injures 15, police say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkhRMDdsSlFaempsUmw0WmZQV0VzNTg5MnQ2TE9pbEs0WUg1ZDVYQWlfVWdXSjRwdUM4YThmMnB3aUs2cUVDZ0s0MnNlSDNHMDJDZU5iWmE0eFdpTmRlMlcwV05HNkI4b0d5SVJhS080bl9CZlNPUkpoSWZjRjRNZUw5alNtaFVQdERIT2p5MDlSTTFCWms4?oc=5",
           "pubDate": "Sat, 01 Aug 2026 19:51:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Spain installs floating barrier in Ceuta after deadly migrant rush - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0J1S2JCeWV3d0FxbXk5WEtkeXpHOGdQdGtPSFNQV3MzRkN5RGxZS0lINHFHb3BKN3BCLVNSQU13OExKOEhNRzNaVlBxV01Fck1hTDVMQUN2TmxqYVZxOHI2UDdaSVlNT21BSUxPSzVjcWFzbGxKSVdPWThRM056OGVyRE1JdHpXYnJpLUFiQWh4OTNQLXhhbk5NVGtJaW9ocnpUaVc4QnRLTnRXdU9oQmRpTWlGOVEweUszY1ZDbk5ISzA?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 19:39:51 GMT",
           "source": "Reuters"
         },
         {
@@ -209,12 +215,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Spain installs floating barrier in Ceuta after deadly migrant rush - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0J1S2JCeWV3d0FxbXk5WEtkeXpHOGdQdGtPSFNQV3MzRkN5RGxZS0lINHFHb3BKN3BCLVNSQU13OExKOEhNRzNaVlBxV01Fck1hTDVMQUN2TmxqYVZxOHI2UDdaSVlNT21BSUxPSzVjcWFzbGxKSVdPWThRM056OGVyRE1JdHpXYnJpLUFiQWh4OTNQLXhhbk5NVGtJaW9ocnpUaVc4QnRLTnRXdU9oQmRpTWlGOVEweUszY1ZDbk5ISzA?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 17:21:58 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzdtaDJZaWxwWXdCU2ZFdGktck10WUNJNndTOHhfelE2Z2FxcnlveklNOEJtVlBoVnAta0FKQmY0dHlNM1kyTjItSDRkcGV1dDVLeUwxZ1VrNktPQ2JGbW1MemNMSm5CNmxDZ0pfbklES0lGQ0RDN2pUN1RtVzl0OVZqcnpfaVRqd3ZhTDhBVFIzbXBJNzg5M0huSlJGMDdWcE1fQlZyV1h5WHZkaWhRQVhFeHpqZw?oc=5",
           "pubDate": "Sat, 01 Aug 2026 16:21:14 GMT",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T20:25:13.080Z"
+      "updatedAt": "2026-08-01T20:42:11.145Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T20:25:13.301Z"
+      "updatedAt": "2026-08-01T20:42:11.180Z"
     }
   ]
 }
