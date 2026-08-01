@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-01T02:00:24.213Z",
-  "lastChecked": "2026-08-01T02:00:24.213Z",
-  "lastUpdated": "2026-08-01T02:00:24.213Z",
-  "generatedAt": "2026-08-01T02:00:24.213Z",
+  "fetchedAt": "2026-08-01T02:25:19.437Z",
+  "lastChecked": "2026-08-01T02:25:19.437Z",
+  "lastUpdated": "2026-08-01T02:25:19.437Z",
+  "generatedAt": "2026-08-01T02:25:19.437Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+          "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 01 Aug 2026 02:21:29 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Body of US climber the latest recovered after Pakistan avalanche",
           "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 31 Jul 2026 14:26:07 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-          "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 31 Jul 2026 10:32:17 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T02:00:23.071Z"
+      "updatedAt": "2026-08-01T02:25:18.064Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
+          "link": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino",
+          "pubDate": "Fri, 31 Jul 2026 22:08:51 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
           "link": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
           "pubDate": "Fri, 31 Jul 2026 07:30:26 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
-          "link": "https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz",
-          "pubDate": "Fri, 31 Jul 2026 05:01:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T02:00:23.261Z"
+      "updatedAt": "2026-08-01T02:25:18.282Z"
     },
     {
       "name": "AP News",
@@ -124,6 +124,12 @@
           "source": "AP News"
         },
         {
+          "title": "Giants suspend pay to injured outfielder Harrison Bader following scooter accident - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXdBY3FWU1AtSkMxcjBmUm1ZYWt3Um5rVjdsX0RCYWZTUGdBM05Fc0E2LUlRSFdNTlF3VXRFX1hvNFp0NVdxTElqcFBON1dqV2ZqTGhnR29JaWx3bWEwRFNhcHoxaDNKWmRURnkxUUk0MjFGWEVLZVg4bFVZeEx6Wk91Yy1CbS1F?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 01:00:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Infantino abandoned his World Cup equity plan after seismic FIFA backlash. Here's what to know - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXVVaG1zc0QyQ3JfMFoxWjVfUEx2cTRpTDRxTzZIQ0pjcFdvLVJwQWdJQ2hVQnBLOVRsZDNKOGp0X3FuRW1tOWVJb3NLRGJtdkQzY0toazlHbzFDaVZFZl8xT1Z6UnlBbzZMYlVWUVR2Sy1VMXBWb1NWMGFTMnlFblJzdm55MHpmSXBrYkZsU0prM0lHcVZHZzFn?oc=5",
           "pubDate": "Sat, 01 Aug 2026 00:21:00 GMT",
@@ -132,6 +138,12 @@
         {
           "title": "Authorities release early ransom note in Nancy Guthrie case, hoping someone recognizes it - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0xwZmNyWmRDRDhJVHYtc3diZEVDRUJ3SDNpYVJUaHJnX1lGZEJRSnkzZl9BQ0c0M1dpQk5NYUVYdjhPQ3R4QTV2UUExb2NCd00tSTFuQ1hES2FXeGVYTmd6azhUWm4zeF8ybjBvRHRKcWZaVTFkXzVfYUFRNjBBOTdYa1R3eWV4NGZyZWZsUzhEdmVWLTRIdjNIUDZWSTBKR3pTRlVZWTFxUQ?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 23:57:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "WPBL looking for longevity as players take the field amid rising popularity for women's sports - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVM4SEZSLXFGU0stMy00OWJEblVnLUJ4Vm12TDMxcU9wVGtJT3NLeDVKd2lnUmNZMEFTZk5SaVg0QXQ5M0RKdUNhMU9IeTQtak41bXp2d0NtVUtQeEFuX3ZuRURKMUczeXpsUzBRNVFYdmNDal9zUXRhazhKN3F1Zmt1b01SUQ?oc=5",
           "pubDate": "Fri, 31 Jul 2026 23:57:00 GMT",
           "source": "AP News"
         },
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ05NSTFnWmRQVy1kdjdGaUlSZThIZ2FTVlpXNTlWOUFJRTJHOTlYNWd6MmVvSDNNYkNNU0NjTUlCOTJwN2dvaU9NQktjMXlvdTM4U05ZQ1pRajEzMVYzS0JUTUduSlA2LUUxTzkwMDFmQmpQU2tFbzVPNlV2QUhvdnNGMHBHeHFTM1kyTmFuX2lra0JTQUI4V1p6Q3Y4b0pNMS1aQ01VNUhaYlZzeHRQQmMwS09lV1lmUlNkSFhHTQ?oc=5",
           "pubDate": "Fri, 31 Jul 2026 23:18:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1JrclNxT3JPWkxwamV1Q1FDUHdwVGtZNHRSSUNxZXF2Yzk1YkotZXpWczliM1RDdWUwb2pUN2x2NlVfcXpiRExubklNU3NPNTdsei1TV3NnM0VNZi14Skx2ZXNTNkFOc3I3SER2SlJ6VC1oZWRrV3RTMFl3bm9Hbmp0akFBRWlPb242bXh3dkRWbVlfSHpEWQ?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 22:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Justice Department moves to drop case against ex-Olympian charged with damaging Reflecting Pool - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3FFR1RadzVYZW44TWxxMzcwWi1FTElMbHQwdy1sdDRYRWhxeWZnOWZMRWpEaEdodDdWTUJWaHlzd21sWmc1U2FUcjg2bjhKR1NMMUIzM19mRnEySmJ5NGpLZ0ppVzJMYUpDWkhCWm5GWEhqdU92Q2psUFVNQUFxVl9IZTFfdjB6YXA1S0RjZ2owRndsdURBM0Y3cnRPaVNrcTJUX2xB?oc=5",
-          "pubDate": "Fri, 31 Jul 2026 22:21:19 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T02:00:23.694Z"
+      "updatedAt": "2026-08-01T02:25:18.749Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T02:00:24.131Z"
+      "updatedAt": "2026-08-01T02:25:19.190Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-01T02:00:24.213Z"
+      "updatedAt": "2026-08-01T02:25:19.436Z"
     }
   ]
 }
