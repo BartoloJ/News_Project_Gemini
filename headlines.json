@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-02T12:00:20.358Z",
-  "lastChecked": "2026-08-02T12:00:20.358Z",
-  "lastUpdated": "2026-08-02T12:00:20.358Z",
-  "generatedAt": "2026-08-02T12:00:20.358Z",
+  "fetchedAt": "2026-08-02T12:14:19.821Z",
+  "lastChecked": "2026-08-02T12:14:19.821Z",
+  "lastUpdated": "2026-08-02T12:14:19.821Z",
+  "generatedAt": "2026-08-02T12:14:19.821Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T12:00:19.267Z"
+      "updatedAt": "2026-08-02T12:14:18.471Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
+          "link": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
+          "pubDate": "Sun, 02 Aug 2026 08:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Why is the rate of premature births so high in this community?",
           "link": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
           "pubDate": "Sat, 01 Aug 2026 18:23:39 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-          "link": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-          "pubDate": "Sat, 01 Aug 2026 16:27:32 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T12:00:19.311Z"
+      "updatedAt": "2026-08-02T12:14:18.718Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T12:00:19.793Z"
+      "updatedAt": "2026-08-02T12:14:19.183Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T12:00:20.240Z"
+      "updatedAt": "2026-08-02T12:14:19.617Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T12:00:20.358Z"
+      "updatedAt": "2026-08-02T12:14:19.821Z"
     }
   ]
 }
