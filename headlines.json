@@ -1,22 +1,28 @@
 {
-  "fetchedAt": "2026-08-02T10:25:15.250Z",
-  "lastChecked": "2026-08-02T10:25:15.250Z",
-  "lastUpdated": "2026-08-02T10:25:15.250Z",
-  "generatedAt": "2026-08-02T10:25:15.250Z",
+  "fetchedAt": "2026-08-02T10:50:27.760Z",
+  "lastChecked": "2026-08-02T10:50:27.760Z",
+  "lastUpdated": "2026-08-02T10:50:27.760Z",
+  "generatedAt": "2026-08-02T10:50:27.760Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-          "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 02 Aug 2026 10:11:26 GMT",
+          "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+          "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 10:46:47 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-          "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 02 Aug 2026 10:02:19 GMT",
+          "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+          "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 10:32:28 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+          "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 10:11:26 GMT",
           "source": "BBC News"
         },
         {
@@ -38,12 +44,6 @@
           "source": "BBC News"
         },
         {
-          "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-          "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 02 Aug 2026 00:55:16 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Tourist plane crashes in Peru, killing 13",
           "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 02 Aug 2026 00:29:55 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T10:25:14.024Z"
+      "updatedAt": "2026-08-02T10:50:12.727Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T10:25:14.096Z"
+      "updatedAt": "2026-08-02T10:50:12.815Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-02T10:25:14.523Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-02T10:25:14.919Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T10:25:15.250Z"
+      "updatedAt": "2026-08-02T10:50:27.760Z"
     }
   ]
 }
