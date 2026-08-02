@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-02T17:00:27.947Z",
-  "lastChecked": "2026-08-02T17:00:27.947Z",
-  "lastUpdated": "2026-08-02T17:00:27.947Z",
-  "generatedAt": "2026-08-02T17:00:27.947Z",
+  "fetchedAt": "2026-08-02T17:14:20.993Z",
+  "lastChecked": "2026-08-02T17:14:20.993Z",
+  "lastUpdated": "2026-08-02T17:14:20.993Z",
+  "generatedAt": "2026-08-02T17:14:20.993Z",
   "sources": [
     {
       "name": "BBC News",
@@ -38,7 +38,7 @@
           "source": "BBC News"
         },
         {
-          "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+          "title": "Five dead and 41 missing after Indonesia ferry catches fire",
           "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 02 Aug 2026 11:49:40 GMT",
           "source": "BBC News"
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T17:00:26.683Z"
+      "updatedAt": "2026-08-02T17:14:20.074Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T17:00:26.883Z"
+      "updatedAt": "2026-08-02T17:14:20.125Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Donald Trump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 16:53:02 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "2 killed when firefighting helicopters collide near Athens as Europe’s wildfire emergency rages - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVVmOGN3UkdYdHBLWVhmMlFheVFwZkplU2xkekoybWZtRi0tbXFRMHBwVHpBTUlwU1RfdFVBTUhuSEVVYnQ0TFVLYXFTWlFNbDZ6Q3JhQUwtMTk0R25HRlZ4OVNKOWtwN2FzYW5Ia2NKdWFsd1U2OFdXVWFyb290dGFUT2VDREhreE5CbUxUQWlmRi1KaWlNdGVuRF80NThpckZ2c2VsSlVRTzU0aUFUVTI4RQ?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 16:38:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Israel says it has serious concerns with Hamas disarmament deal - AP News",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUU5CY216dkdHTXZGZUZYUmt6WXRhZWlSMTVmc2xydFZwb3ZCQ2Vfbk0wRzI1aWxNRHpkUTgyUks3aHNGZ2dkS2RvSWhGbXFoNERoZGs0a1FOSVUwUi1YTVlLVXBTek5YRzcxb0FMQlIxdjRQeFIyNlA5Szh1MFhnVHhUZ1RFUk1Gdi1yUFRUcS1HSmhzLTFESGh3N1BRVG9EVTBqLWFJdUxwTXN0UUlpN2R0QQ?oc=5",
@@ -127,12 +139,6 @@
           "title": "Ohio GOP Rep. Miller says 'I'm not dropping out,' defends himself against claims of domestic abuse - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLXZOMkdIZmx2RlB1bmpTMzV0enV1UVVmdVViTURLSENNYjMwVTFmN1RWQlZHRm44OFh5MGpPLUliY1lLWGktVmlXTVREZTI4THNnRkgydHVIVFExQ3ppamJrTTV5WmZWdkhVZVdiOExWanFFV1JGcjBqNmZCazhqR3RMMFRGWXV5UFhiUHFRelBSeEhuOHR3MU5R?oc=5",
           "pubDate": "Sun, 02 Aug 2026 15:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "2 firefighting helicopters collide midair near Athens as Europe’s wildfire emergency rages - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVVmOGN3UkdYdHBLWVhmMlFheVFwZkplU2xkekoybWZtRi0tbXFRMHBwVHpBTUlwU1RfdFVBTUhuSEVVYnQ0TFVLYXFTWlFNbDZ6Q3JhQUwtMTk0R25HRlZ4OVNKOWtwN2FzYW5Ia2NKdWFsd1U2OFdXVWFyb290dGFUT2VDREhreE5CbUxUQWlmRi1KaWlNdGVuRF80NThpckZ2c2VsSlVRTzU0aUFUVTI4RQ?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 15:43:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,20 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVU5HWmxndk5IaGVQT2tkRnZncDhoejZsSjdDVGQ3V0FCbWhzN1hBd1NHWWFISmYtY3Y5SmVLU0tHNDA5cWZRR09SeWFvY21lLUZoZ0xFXzBZY1dVd2dqM3UyRVFvNUpJYllxaWZZN25fRVh1al9GNWQ1SnBLSm1DcDhuSTh6SU0?oc=5",
           "pubDate": "Sun, 02 Aug 2026 15:09:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Ukrainian drones kill 5 in Russia and set fire to Wildberries warehouse - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWdtblg2S1BkaGRZcFZVZ2d1TndRREJ6Uzd0N1BkUG5qVFFWU2ptSDNSc1NXdHBYTVBydUtSNlhfdVI5bGZLRGNvQ2JKVFFEQ09mTTZLcFJuWlVfRG5LOGNDWFZrSXEyVlJZaXVwejBkSXZKN1U5ZXpQbmlRbjRzb3JIX2JHQUc2V1pvMlphX3dFTkx6YjRSR3ctOVJXUG5aNEhNejRSOHIta1FN?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 14:49:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T17:00:27.321Z"
+      "updatedAt": "2026-08-02T17:14:20.517Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Italian-led EU force boards sanctioned tanker from Russia's 'shadow fleet' in Mediterranean - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONW5zbU8yMjdVdGc1Z0pTSGFZVUZRTDJPR2lQM3NNU2p0Ym5OcW5xSkgwbnZ5ZmNsUWRaWHgwckZSRFFPMHNWQWtkVS1wcHIwX19uUEdER3Ewd3BLS25NdnFEb29WNHd3dzVPaHJZRVBwamp6MWltM29hbXNNYTVTc2FCUmZpaWF4b0dsNUJzYnRYMHhfRWR4emdRaFBkd0tHX0ViZlZoMXBDN3FEWS1rV21kaXpqdWlHXzkxaU50SGlfaGdvZEI4LQ?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 16:06:14 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Two dead in firefighting helicopter crash in Greece, Fire Service says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSGhDR0RqTHVKV24tazZCX3BDVFFjNmFSQm1UTy1jX2czb2FaTE5EcXlqRF8yRFpBREJmN0l2MmYwWkFzaWZmWlNtSTNUUURCLUNrdUhFdi03a2lGeHFFY3RncWIzVGtOR1UySG5yWGJKWWFWSUFHOE9qTVhFaWdEaGtBclJuNVVkMEdtckZIdTdFUEhLT0NKS2JsRlpQQQ?oc=5",
@@ -209,12 +215,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Italian-led EU force boards sanctioned tanker from Russia's 'shadow fleet' in Mediterranean - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONW5zbU8yMjdVdGc1Z0pTSGFZVUZRTDJPR2lQM3NNU2p0Ym5OcW5xSkgwbnZ5ZmNsUWRaWHgwckZSRFFPMHNWQWtkVS1wcHIwX19uUEdER3Ewd3BLS25NdnFEb29WNHd3dzVPaHJZRVBwamp6MWltM29hbXNNYTVTc2FCUmZpaWF4b0dsNUJzYnRYMHhfRWR4emdRaFBkd0tHX0ViZlZoMXBDN3FEWS1rV21kaXpqdWlHXzkxaU50SGlfaGdvZEI4LQ?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 13:53:25 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalBXdlNoQ05vVlFLOElTc3BweEhPcWhyd2x4UjBiUmROdDVKN0tvZGlSWnFveF8tNG1zZVBjbVM3VGhYc2hTNGVlZzJrUzcyeEZaY0h5Zllrd25MNUl2ZkI0bGpnaEZubUlYTmNXSUl4RjVpZ2pmckVta1J1NWVQTWlsRVV6aG5JM3BVb2RlMWJncnVqblEyV0R3YmFSNWl3Q1FESl9zVEx0T3ZydjZCX0F0REdZdF9yTUVqZmRwd2lnR3NZRHc?oc=5",
           "pubDate": "Sun, 02 Aug 2026 13:07:16 GMT",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T17:00:27.718Z"
+      "updatedAt": "2026-08-02T17:14:20.902Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T17:00:27.947Z"
+      "updatedAt": "2026-08-02T17:14:20.992Z"
     }
   ]
 }
