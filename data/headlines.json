@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-08-02T10:00:18.604Z",
-  "lastChecked": "2026-08-02T10:00:18.604Z",
-  "lastUpdated": "2026-08-02T10:00:18.604Z",
-  "generatedAt": "2026-08-02T10:00:18.604Z",
+  "fetchedAt": "2026-08-02T10:25:15.250Z",
+  "lastChecked": "2026-08-02T10:25:15.250Z",
+  "lastUpdated": "2026-08-02T10:25:15.250Z",
+  "generatedAt": "2026-08-02T10:25:15.250Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+          "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 10:11:26 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+          "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 02 Aug 2026 10:02:19 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
           "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
@@ -26,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-          "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 02 Aug 2026 05:26:39 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
           "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 02 Aug 2026 00:55:16 GMT",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 01 Aug 2026 23:56:19 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-          "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 01 Aug 2026 23:03:35 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T10:00:17.258Z"
+      "updatedAt": "2026-08-02T10:25:14.024Z"
     },
     {
       "name": "NPR",
@@ -112,17 +112,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T10:00:17.414Z"
+      "updatedAt": "2026-08-02T10:25:14.096Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "Donald Trump - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 09:52:54 GMT",
-          "source": "AP News"
-        },
         {
           "title": "All 10 climbers swept away in avalanche in Pakistan are confirmed dead - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUliYnNTNW9Pdm9nd3MwRWpIYmxNX3JBTGg5VUpEQlpvWnRnWnRhSEQwcWhZMmRkU3A4TndHNC14b3lZbGhpeTR5cVEzTlpPeHR1TFo4RUNBaWVmTDJvTXNyVFdhN3RydkhFaFl3RFg3ZUJCNzMzeGExbmN1SnF2UTk2VzRjaWQteVlpZXNnNG1FamMxejRSWEpYci0wUnpubXVzNDE1TTVEMW1pcUpJTw?oc=5",
@@ -164,14 +158,32 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmpxLWw0WF91MFowZkpGc2JmRXdPMHM2cHRyd0V5S1NRZHlDQXhRYzVJYnhlUEhwblVVVUNlNm1vMW9FN3V1MFR6WWsxVUZlbkRMUDZHTl9pQlYzbW41d24ySWRQeUlPSDR5M2hPWXRYTVUtZDBPSVkxX3pWYVdpejVsbjh1TWNaOVdoS0ZPcS1QcmJLWm9EMHlFSV8xNEJMRkJoZ1Q3QmFSRC1H?oc=5",
           "pubDate": "Sun, 02 Aug 2026 02:31:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "‘Sopranos’ actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjdHZzA2RVEzM205b2pGVndobXEtQmotZ3NDS1Q3WGxPQTFxbHpPdXRRMTFGejJpaHZfVkdZVEFNNDY2NDVSQWFyRWx1LW5lNzgxXzdoeHdiWU0xZ3Q0aVFFbTBMZUVLMVpjbTNacDNsaUFFV0hqbUtKaklkaFVUVFZndzRxMXMz?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 02:07:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T10:00:17.911Z"
+      "updatedAt": "2026-08-02T10:25:14.523Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalBXdlNoQ05vVlFLOElTc3BweEhPcWhyd2x4UjBiUmROdDVKN0tvZGlSWnFveF8tNG1zZVBjbVM3VGhYc2hTNGVlZzJrUzcyeEZaY0h5Zllrd25MNUl2ZkI0bGpnaEZubUlYTmNXSUl4RjVpZ2pmckVta1J1NWVQTWlsRVV6aG5JM3BVb2RlMWJncnVqblEyV0R3YmFSNWl3Q1FESl9zVEx0T3ZydjZCX0F0REdZdF9yTUVqZmRwd2lnR3NZRHc?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 09:46:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 09:17:54 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Magnitude 5.9 earthquake hits east coast of North Island in New Zealand, GFZ says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWdaQkJhWGNkUHZsUkZqQXAyLWJ1MGs1XzJCTlVuUFVrald2bzBLdnU4TnNHVjFIYXNmOTJJNVVrVFR2QmVDZjJJU0x2b0NiOF9iLVViQjk2VkViT0lmZ0Fpd1R4T1NiLTdWQ1JKemFTNmhaM2lxQ0FaV2NvdW1RbHJYMkZQZElYN29kcWNxd09rUzRVRHMxS05SbzVFal9TNUgzS1hka2xLcmFMbUFHNVc3eWppcUJBTElvbjRsNHpfU2VGcEJLczNn?oc=5",
@@ -185,15 +197,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 08:17:29 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "OPEC+ set for September quota increase followed by pause, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw?oc=5",
           "pubDate": "Sun, 02 Aug 2026 08:12:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Holcim to sell majority stake in Philippines unit to China's Huaxin for $527 million - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVVGZmt6VDlQODNUNGdYbUhqdmtGdUNDU0gycTNuU1RaWXFEUFNXNEswbTN4LW1zNnJKdkYwTWtYTy1NZTY0UFRmRlZzNkpyZmxKQnpzMXJ4NWd4N24weXA5YlRxdV9IZU1RVDFDTFJGLU5lZE9xSWNEdkJEYi0yNG1rZ19rU0tncC1wQ2ljN19IdVI1RVBJeTFzZXhBNEg1NGJRLVFZMDRjUS1aNVZ4bzRhSEY5aHpH?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 07:24:09 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRm5DNHdPUDhzLXBHNEhFTVFnTVQyN3RGNXVvSWFpWVVTZEE2X0V6cTNmQi1iV2RxWTZqdnJGR1RSZ0pZNnk1UEV1Y1AtM19pYXJWUzBwM09ucEU5OElmVnV4OW4wWXdNNWh4QVpTelZZbTdVVjZyYjdXNEpZRzJDckV6cGJoNUxoQU5JU2NfVnZ3MWNsVDFVcGZiZ25WVnFEdmVFZUV5enNDdlF3Q1hzTDl3RVpwZw?oc=5",
           "pubDate": "Sun, 02 Aug 2026 06:03:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Landslide death toll rises in China's Gansu Province as heavy rains continue - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU211TUJlRDhVUV9BaEFiVG9wY18xdnJ0U1NBZDgtRFZsVTVDN0puSnkyRnk0Mi11Q0RrcV9NalNyY2RxUDNNNjkwM3FnNlVNTkZMcVBVeGF3RHBHNXFqclEtME9JSWxpRHJjRXNMRUgtVlpfYl9lUzlfZ1RsRm1SRXdjMGJsSy1lYzVEWjBFbVNhRHVjenMzWkRfYUUwV3BvRmdSdXBsVnVnaGhxSFV1YXRULWplREx5YVVJcEFFQVZBUEd6?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 04:12:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 01:12:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T10:00:18.320Z"
+      "updatedAt": "2026-08-02T10:25:14.919Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T10:00:18.603Z"
+      "updatedAt": "2026-08-02T10:25:15.250Z"
     }
   ]
 }
