@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-02T09:30:39.407Z",
-  "lastChecked": "2026-08-02T09:30:39.407Z",
-  "lastUpdated": "2026-08-02T09:30:39.407Z",
-  "generatedAt": "2026-08-02T09:30:39.407Z",
+  "fetchedAt": "2026-08-02T09:50:17.997Z",
+  "lastChecked": "2026-08-02T09:50:17.997Z",
+  "lastUpdated": "2026-08-02T09:50:17.997Z",
+  "generatedAt": "2026-08-02T09:50:17.997Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T09:30:38.511Z"
+      "updatedAt": "2026-08-02T09:50:17.063Z"
     },
     {
       "name": "NPR",
@@ -112,17 +112,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T09:30:38.550Z"
+      "updatedAt": "2026-08-02T09:50:17.093Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "Donald Trump - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 09:24:47 GMT",
-          "source": "AP News"
-        },
         {
           "title": "All 10 climbers swept away in avalanche in Pakistan are confirmed dead - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUliYnNTNW9Pdm9nd3MwRWpIYmxNX3JBTGg5VUpEQlpvWnRnWnRhSEQwcWhZMmRkU3A4TndHNC14b3lZbGhpeTR5cVEzTlpPeHR1TFo4RUNBaWVmTDJvTXNyVFdhN3RydkhFaFl3RFg3ZUJCNzMzeGExbmN1SnF2UTk2VzRjaWQteVlpZXNnNG1FamMxejRSWEpYci0wUnpubXVzNDE1TTVEMW1pcUpJTw?oc=5",
@@ -164,14 +158,32 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjdHZzA2RVEzM205b2pGVndobXEtQmotZ3NDS1Q3WGxPQTFxbHpPdXRRMTFGejJpaHZfVkdZVEFNNDY2NDVSQWFyRWx1LW5lNzgxXzdoeHdiWU0xZ3Q0aVFFbTBMZUVLMVpjbTNacDNsaUFFV0hqbUtKaklkaFVUVFZndzRxMXMz?oc=5",
           "pubDate": "Sun, 02 Aug 2026 02:07:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Plane carrying European tourists crashes in Peru, killing 13 people on Nazca Lines viewing flight - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLWZkRTh0SXlFdnZSX2hqRGRvNzI4cXIzOEg2MFIyWGpMVWs4cVNhYkJPbjBHZHR0aUpZSzVXWnVuQmtkaDFueGwxUldON0YwWElNNnFlWDFGR0Q3NmVDRENQMEdzN1VYcjJfLTJySUkwZWZZUWlIbFhMOEFzTlF5Y05B?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 01:54:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T09:30:38.962Z"
+      "updatedAt": "2026-08-02T09:50:17.500Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Magnitude 5.9 earthquake hits east coast of North Island in New Zealand, GFZ says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWdaQkJhWGNkUHZsUkZqQXAyLWJ1MGs1XzJCTlVuUFVrald2bzBLdnU4TnNHVjFIYXNmOTJJNVVrVFR2QmVDZjJJU0x2b0NiOF9iLVViQjk2VkViT0lmZ0Fpd1R4T1NiLTdWQ1JKemFTNmhaM2lxQ0FaV2NvdW1RbHJYMkZQZElYN29kcWNxd09rUzRVRHMxS05SbzVFal9TNUgzS1hka2xLcmFMbUFHNVc3eWppcUJBTElvbjRsNHpfU2VGcEJLczNn?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 08:51:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 08:17:29 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "OPEC+ set for September quota increase followed by pause, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw?oc=5",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5",
           "pubDate": "Sun, 02 Aug 2026 01:12:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Three dead in Idaho shopping center shooting - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUlHQUFzUk1GbXRXbmxaSzJVZVVFbXpIZ1lvSzhCbHcyZnlCREt6UmtPYi0zaUhya0hSMENVckhaUUxUTDNQMTM4YVhHWmU1dU9mMXJGRE00a0JMOUltaFNDOHJPemk5eXpyZ0tuVHE3MjM0R1hDM3NYWUoxTThHVGxvN3AxcVVpeVZocUk0TQ?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 00:50:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Israeli strikes kill at least four in Gaza despite Trump announcing breakthrough - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzFyTXBvZ1pGeVZXTUlTRWM3VGxjTjd5dXk4Y1RwZUYtaE9adFlFRGNkcU1tNmR6M2lCckhIN2cwMG54RUNiNzNib3RQVWxLd1FqWlY5eVZObDc4b3NCdGlLZi10a214V25teXViTkpCZXBXeDRfazBSOUNJVkZTM1RLcWt5SzUwaURiUUJMcDlOZFJFTkg5NXZXV0ZuakxZanh2YUNVMko3R1pJS3RsUFBsQjNpOXlLcHQwbHJtZ1FZWk9VdDRz?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 23:50:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T09:30:39.340Z"
+      "updatedAt": "2026-08-02T09:50:17.915Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T09:30:39.407Z"
+      "updatedAt": "2026-08-02T09:50:17.997Z"
     }
   ]
 }
