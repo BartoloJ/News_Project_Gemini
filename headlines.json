@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-02T13:25:18.682Z",
-  "lastChecked": "2026-08-02T13:25:18.682Z",
-  "lastUpdated": "2026-08-02T13:25:18.682Z",
-  "generatedAt": "2026-08-02T13:25:18.682Z",
+  "fetchedAt": "2026-08-02T13:50:17.566Z",
+  "lastChecked": "2026-08-02T13:50:17.566Z",
+  "lastUpdated": "2026-08-02T13:50:17.566Z",
+  "generatedAt": "2026-08-02T13:50:17.566Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T13:25:17.277Z"
+      "updatedAt": "2026-08-02T13:50:16.428Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
+          "link": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
+          "pubDate": "Sun, 02 Aug 2026 09:35:43 -0400",
+          "source": "NPR"
+        },
         {
           "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
           "link": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
@@ -103,71 +109,65 @@
           "link": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit",
           "pubDate": "Sat, 01 Aug 2026 18:32:44 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
-          "link": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
-          "pubDate": "Sat, 01 Aug 2026 18:23:39 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T13:25:17.476Z"
+      "updatedAt": "2026-08-02T13:50:16.513Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - apnews.com",
+          "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV82Z0xEX2JldWNxWXNmMFQtakZrbndjeWNKaEgwRDQ2Z2pNRzJHQllnRkVVcjh4SzgtTmJPWTV4VEV0Z3YzdFctekpqck92RGpYLU1kMUtIN29IOEpwZVNBMTlFRDQtVktmWWYtbG9LZ0NwZER2QzJwYjByTWduVUtaR1lNVG5GVDVMRXd0dEJPdG9QYnk3VU5ORWtsYjRONkE?oc=5",
           "pubDate": "Sun, 02 Aug 2026 12:19:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Moscow mayor calls a deadly bomb attack on a restaurant a ‘terrorist act’ - apnews.com",
+          "title": "Moscow mayor calls a deadly bomb attack on a restaurant a ‘terrorist act’ - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVBacmRlT19aRlY0RWdSNVdRd25YMklxdENfSk9XTkVSMzhEeElNUUtKMm84cXVuSnpmT3RGc08zYTdBVENVb2FuOTRUZEpUdGJaSEIzR1pySlotZ18wbldZSVlKUy1nN3VDNE80dFBqd01mc3kyMDJiVWpES3VtVXVYeVJpdVhFNDgtQUNWRmlONHJyZThMczlB?oc=5",
           "pubDate": "Sun, 02 Aug 2026 11:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "French wildfire near Bordeaux contained as 1,500 firefighters battle separate blaze in Provence - apnews.com",
+          "title": "French wildfire near Bordeaux contained as 1,500 firefighters battle separate blaze in Provence - AP News",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVVmOGN3UkdYdHBLWVhmMlFheVFwZkplU2xkekoybWZtRi0tbXFRMHBwVHpBTUlwU1RfdFVBTUhuSEVVYnQ0TFVLYXFTWlFNbDZ6Q3JhQUwtMTk0R25HRlZ4OVNKOWtwN2FzYW5Ia2NKdWFsd1U2OFdXVWFyb290dGFUT2VDREhreE5CbUxUQWlmRi1KaWlNdGVuRF80NThpckZ2c2VsSlVRTzU0aUFUVTI4RQ?oc=5",
           "pubDate": "Sun, 02 Aug 2026 10:25:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "All 10 climbers swept away in avalanche in Pakistan are confirmed dead - apnews.com",
+          "title": "All 10 climbers swept away in avalanche in Pakistan are confirmed dead - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUliYnNTNW9Pdm9nd3MwRWpIYmxNX3JBTGg5VUpEQlpvWnRnWnRhSEQwcWhZMmRkU3A4TndHNC14b3lZbGhpeTR5cVEzTlpPeHR1TFo4RUNBaWVmTDJvTXNyVFdhN3RydkhFaFl3RFg3ZUJCNzMzeGExbmN1SnF2UTk2VzRjaWQteVlpZXNnNG1FamMxejRSWEpYci0wUnpubXVzNDE1TTVEMW1pcUpJTw?oc=5",
           "pubDate": "Sun, 02 Aug 2026 06:55:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured, city spokesman says - apnews.com",
+          "title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured, city spokesman says - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYW9uN0pxS05KdmgwSlBrYXdBTjBJTDY2N05QS2FSbUIycnRaR3ZnYTdBVTU5OUxpWnpGZnJUS0tVUWR0dFJIbGNKZGVYZEdxS3RfZjk1bHVnc3h3TTRHN2g1TUFMRU8yZHk3NnE0elkzZXFtUEwxRWNuZjktOTdmcGpCbUxYQW9vM05nZUZ3?oc=5",
           "pubDate": "Sun, 02 Aug 2026 04:29:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "A woman with apparent heat stroke found dead while taking shelter in a car in quake-hit Japan - apnews.com",
+          "title": "A woman with apparent heat stroke found dead while taking shelter in a car in quake-hit Japan - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2RidE56LW16bEJ1dV9JTXBPc3dCazAtc3lxM3NQZ0d3ZlhfdE5IZ2hiU0JsU1o0NjJxTnRoWHNGVzZFaW45di1yWDBxNm9Ld1VFVEhXeC1qRzFNaHY3SmJRbTRjMnEyMWpmUHBQMGtzTTlma0NDamFOYTdzNUFzVERqVGtOZkhkZnhNV2cwZmNkQlRLb3Z2TkJIT1laUF90dlE?oc=5",
           "pubDate": "Sun, 02 Aug 2026 03:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Women’s Professional Baseball League makes a rainy debut in front of enthusiastic crowd - apnews.com",
+          "title": "Women’s Professional Baseball League makes a rainy debut in front of enthusiastic crowd - AP News",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVDI2cFRlS3JPN1JHY2pHaHVFQTZIMWhVMHJhMmdkV3p1V1l0QlM5aVRPcDBELVVqRFpGNDJZdllLNGlTYnRPLU5BcE0tUWhaN3hIcTBuNlJZYjBlNUJ3VnFzN1E1SmtvUlVFNlNULWpoTFQwWlFMaFNUS3Y3bTJQWjhHMWJNdw?oc=5",
           "pubDate": "Sun, 02 Aug 2026 03:49:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes - apnews.com",
+          "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUxMdnNIZ1MzaWNwNXBYV19IbUpVbUo2LTBiR3BiS05fVE1fOUczeVM1MVk3TEJWbjA5cmVZZmlNZ2ZLdnp6NlNLRlBmanlpTnhVbFZPc0RicnVJRjFBUS1uNU1kMldjb2F3ZnN3QTRkZGVLNW8wSklmVjZIcG52dks0TE5kXzlmdkF1d01SUW9TemFEQ09DSGlZdkxON1k?oc=5",
           "pubDate": "Sun, 02 Aug 2026 03:43:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T13:25:17.971Z"
+      "updatedAt": "2026-08-02T13:50:16.964Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T13:25:18.357Z"
+      "updatedAt": "2026-08-02T13:50:17.341Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T13:25:18.682Z"
+      "updatedAt": "2026-08-02T13:50:17.566Z"
     }
   ]
 }
