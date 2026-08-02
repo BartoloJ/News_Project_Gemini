@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-02T05:00:21.419Z",
-  "lastChecked": "2026-08-02T05:00:21.419Z",
-  "lastUpdated": "2026-08-02T05:00:21.419Z",
-  "generatedAt": "2026-08-02T05:00:21.419Z",
+  "fetchedAt": "2026-08-02T05:25:16.839Z",
+  "lastChecked": "2026-08-02T05:25:16.839Z",
+  "lastUpdated": "2026-08-02T05:25:16.839Z",
+  "generatedAt": "2026-08-02T05:25:16.839Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T05:00:20.031Z"
+      "updatedAt": "2026-08-02T05:25:15.655Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T05:00:20.403Z"
+      "updatedAt": "2026-08-02T05:25:15.713Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured, city spokesman says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYW9uN0pxS05KdmgwSlBrYXdBTjBJTDY2N05QS2FSbUIycnRaR3ZnYTdBVTU5OUxpWnpGZnJUS0tVUWR0dFJIbGNKZGVYZEdxS3RfZjk1bHVnc3h3TTRHN2g1TUFMRU8yZHk3NnE0elkzZXFtUEwxRWNuZjktOTdmcGpCbUxYQW9vM05nZUZ3?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 04:29:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUxMdnNIZ1MzaWNwNXBYV19IbUpVbUo2LTBiR3BiS05fVE1fOUczeVM1MVk3TEJWbjA5cmVZZmlNZ2ZLdnp6NlNLRlBmanlpTnhVbFZPc0RicnVJRjFBUS1uNU1kMldjb2F3ZnN3QTRkZGVLNW8wSklmVjZIcG52dks0TE5kXzlmdkF1d01SUW9TemFEQ09DSGlZdkxON1k?oc=5",
@@ -138,7 +144,7 @@
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 02:32:02 GMT",
+          "pubDate": "Sun, 02 Aug 2026 02:50:43 GMT",
           "source": "AP News"
         },
         {
@@ -154,12 +160,6 @@
           "source": "AP News"
         },
         {
-          "title": "Multiple people dead after shooting at fast food restaurant in southern Idaho - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYW9uN0pxS05KdmgwSlBrYXdBTjBJTDY2N05QS2FSbUIycnRaR3ZnYTdBVTU5OUxpWnpGZnJUS0tVUWR0dFJIbGNKZGVYZEdxS3RfZjk1bHVnc3h3TTRHN2g1TUFMRU8yZHk3NnE0elkzZXFtUEwxRWNuZjktOTdmcGpCbUxYQW9vM05nZUZ3?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 02:01:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Plane carrying European tourists crashes in Peru, killing 13 people on Nazca Lines viewing flight - AP News",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLWZkRTh0SXlFdnZSX2hqRGRvNzI4cXIzOEg2MFIyWGpMVWs4cVNhYkJPbjBHZHR0aUpZSzVXWnVuQmtkaDFueGwxUldON0YwWElNNnFlWDFGR0Q3NmVDRENQMEdzN1VYcjJfLTJySUkwZWZZUWlIbFhMOEFzTlF5Y05B?oc=5",
           "pubDate": "Sun, 02 Aug 2026 01:54:00 GMT",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T05:00:20.834Z"
+      "updatedAt": "2026-08-02T05:25:16.183Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5",
           "pubDate": "Sun, 02 Aug 2026 01:12:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Three dead in Idaho shopping center shooting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUlHQUFzUk1GbXRXbmxaSzJVZVVFbXpIZ1lvSzhCbHcyZnlCREt6UmtPYi0zaUhya0hSMENVckhaUUxUTDNQMTM4YVhHWmU1dU9mMXJGRE00a0JMOUltaFNDOHJPemk5eXpyZ0tuVHE3MjM0R1hDM3NYWUoxTThHVGxvN3AxcVVpeVZocUk0TQ?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 00:50:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5",
           "pubDate": "Sat, 01 Aug 2026 22:33:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXRXNWJWSDNJWk9BVFdoMVlpX0lCVURrSmtnQXRVUVE1TjJqVG1sNXU2QkZZUjZ3cHhVWk1pajNteWtJRmllQjBVSFMybFlyQ00tVjBLQ3ktS2dRVjdLRkRNa3lIU1pZcWNYVjlOb0VhNDRaYkhIa2Ewd09pOTE4ZVUydjNkNzVhd2JETW44Sy1EUjBmbnFUWlRlZVg2eVpONlFzNTg1Nk14NWtJaFJNbm9NM3RrLW5VU19nXzZhazg?oc=5",
-          "pubDate": "Sat, 01 Aug 2026 22:13:39 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T05:00:21.238Z"
+      "updatedAt": "2026-08-02T05:25:16.599Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-02T05:00:21.419Z"
+      "updatedAt": "2026-08-02T05:25:16.839Z"
     }
   ]
 }
