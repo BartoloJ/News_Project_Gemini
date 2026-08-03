@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-03T13:25:17.301Z",
-  "lastChecked": "2026-08-03T13:25:17.301Z",
-  "lastUpdated": "2026-08-03T13:25:17.301Z",
-  "generatedAt": "2026-08-03T13:25:17.301Z",
+  "fetchedAt": "2026-08-03T13:50:20.077Z",
+  "lastChecked": "2026-08-03T13:50:20.077Z",
+  "lastUpdated": "2026-08-03T13:50:20.077Z",
+  "generatedAt": "2026-08-03T13:50:20.077Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T13:25:16.250Z"
+      "updatedAt": "2026-08-03T13:50:18.641Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T13:25:16.318Z"
+      "updatedAt": "2026-08-03T13:50:18.872Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,18 @@
           "title": "Trump claims Iran talks will start Monday, and other developments in the Middle East - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
           "pubDate": "Mon, 03 Aug 2026 13:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US faces new pressure to build weapons without China’s rare earth magnets - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXlhalFIVUFKQVFKRnBZMlpzMkpXSkd2dFVtUGFjQzRET3MtV2hybUZXaTAxdm1OU05Md1pNaUpoY3B2LU9iUzFjeWhQTXpqb0JibFRmYTZRRVAtX3AtT2x1M2tSSmx2emM1a1lzS0F1WWZjeUR1N0tQNzJvaVFEQ3lKbmx6M3NfeGZPY1d5cjJDR2RpalFMcUVFWjFoMzhzakdabzlYZ2t5UQ?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Unknown number of people are missing after an Indonesian ferry fire killed 5 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT1pmNldsV21oUlBKbmhQUnlFY2oyZ0pKenlQYWFNb3BUMXBiR2VaSlJrZy1ienJIS3B5UnBWb1R3SzU5NnoyZy01bVJ1cy1hWG5PWTc4OFdJckQzR01keUF1SHRBbXB5dzJyb1c0S21Ha3BQcUFnbXFDMlF0ZkpUbk1QZWtmczM0aDBVZWwxdm9BYkYyeEc5aFB3a2xCeGtzcC1vSTNHeWpqdw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:33:00 GMT",
           "source": "AP News"
         },
         {
@@ -136,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "Wall Street gains, oil prices tumble after Trump says he'll order forces to ease up on Iran attacks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTMweFRadm51ZDBCVG5fZlAzdEFVZGZpZ2dVcVdsb0dfRHI4M3VzTWI4YllxTDBQUzJNUDQwLXFjZnVMMG43aW0zbnJ1ZmxyODhmdk1zeXhIVmdxc2F4OUlPNWZ6MFFZRTlKNnduenlqcjJDQ3JNWHpuZFBpejZmTXVva3ZwTWg1cnduR2hhMTJQYmVVZ3JacklNYw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:20:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Washington state fires destroy hundreds of structures and force Spokane-area residents to evacuate - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHppbDIxTzQ0MWQ0SU0wa2lxeUo3VGtHN0cxTTh5NUlzNDZYRUhvWmFKNGdxWlJydmZLZDR5Z1M2S24yaDlBeFg3c21Lb2UzWjc4YmtXR0JGdzZBS3pnY0RvVExPUmlRY014NWJObTFOaTROYUlRTzF2Y0VvOXdWa2phNWJHYnJlcWVnZ0o2TW1WOFdNeVdRUy15d2w?oc=5",
           "pubDate": "Mon, 03 Aug 2026 12:18:00 GMT",
@@ -146,83 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYlJsZEp0Y2RPcDVDaVlJdjg3eGtNU1JYa1JwQlZQUzd1WldoX0Y1Q20zVnFfWTM3UF9RS2FNVUdvZVRhRUZvNFEyYm9fUW5PakVNUkxqS1pZZ1ZycDlQekxKMWdsZE5xUmRTcWx5SlpTaFBEZEdiV0xhNGVBNEJEc3ltNk0?oc=5",
           "pubDate": "Mon, 03 Aug 2026 11:23:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Greek wildfires halted after deadly helicopter crash; French evacuees returning home - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVJ3YktkdzVuTjE5NnBtRXhReVlTNDdxZUpfOHZGTmhfVjRtd0pka2J4Nk5kR3FwNHFTWGc1aVIzX0ZteWF5dGRfdW1fdl9BVF9uRmctOGxnd1QxbzlicEpzaWlwYXVrRWFzLWFTM3VhT1AzV3llelkyUEhCWnRhblRCRHkwdW45aFA4SjZNdEkweExfNU4wMzcxWUFjcnNENm5lV2d2UFZKdFdmZ1NuNnZn?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 11:22:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US faces new pressure to build weapons without China’s rare earth magnets - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXlhalFIVUFKQVFKRnBZMlpzMkpXSkd2dFVtUGFjQzRET3MtV2hybUZXaTAxdm1OU05Md1pNaUpoY3B2LU9iUzFjeWhQTXpqb0JibFRmYTZRRVAtX3AtT2x1M2tSSmx2emM1a1lzS0F1WWZjeUR1N0tQNzJvaVFEQ3lKbmx6M3NfeGZPY1d5cjJDR2RpalFMcUVFWjFoMzhzakdabzlYZ2t5UQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 11:09:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Nauru, the world’s third-smallest country, changes its name to Naoero - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3EwWHM3cGFqcWZLY2JxbGNKU29hc2tNRWFiaTFNaHVHbUhIOXpjcmFHa3hmUlNlVDk1Yms4bC1UUk9GemtFLWR0LXpsUXFLcVB3UFJRTDFNRjNCQ2pYa3NabGx2aVVnVDM5ZDZpQ0JYQzltUUJuU0drdzJyTDJVaVNLRU00WlhZcXdfTHhadXRzWDNlckw1RFVRTVI1OEcw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 10:56:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T13:25:16.749Z"
+      "updatedAt": "2026-08-03T13:50:19.407Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Visa to buy fraud intelligence provider BioCatch for $2.4 billion - reuters.com",
+          "title": "Romania blasts rocks to reroute Danube water to reactor, Hungary gets reprieve - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0NCWUZNek9CZlFRVXdwMjJmd2R4cVhscGFpeS1ubmFhSWF0ZnkwU1VXc3Z6N1hCcDVWclZjSzVBUXNEWlJwNWpuUFhVSXh2YzJCc3RIeHlET2FKMjBadXp3NldkQXoyR0ZzWXUxTlE2QUJvMTBTQjNpVW15SzJWMEZNR09iQXhEZnFoa3VidVd6ckJfTDViSlZPbUg3bWZQUHplR0d6cGRpZWlmdlpCWVRmek5tbjZvUUpXM3Faak9MVDlOcUFJYQ?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:27:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Visa beefs up cybersecurity offerings with $2.4 billion BioCatch deal - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVFQdnYtT25JcU9yZC1KUVlDaTN6djh5UjRtdDV0bFM2N2lXZWFfZXBoSFN5LXpuSFJDZkcxMWZUdzhyYzFfUFhtSS15OGxmR2N6X25zOEtkNjVMdWw3d3loUG1YNXVyMW9waHBELVNMMWdZMHNnNFJmZmFMaE9ZWDdKeWtrZGNPamRScm5SV2Q0UFBsaDFuUk1JX2hnSndseUVhV2VESW1zZDlVNnhjSVBn?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 12:50:12 GMT",
+          "pubDate": "Mon, 03 Aug 2026 13:11:18 GMT",
           "source": "Reuters"
         },
         {
-          "title": "SpaceX's first results put Musk's AI spending under Wall Street microscope - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2tWMmRRZ3hJZjRfNjNjS1NjMEo4M0JHV3BObDg5UV9sZ09obWdiczN3MHR5Zmh3U1ZjUzZQbGJHSmJoajZkMzM5Y3dPLW1hQ2VNdm5FamY0TkFoVlRJUzRyTDU1ZGRacl9xSmJmdG9hN0hGYkRDZFVUeU9NeGk1ZnN2T3RKbDZFRTBiSG5UaHktQUM0RUprZ1VSV3U5WkFjajlVU2tMZ0VtaEttSzdhYjJncENPRlp4ZFpTa3gtcW9haVZ1WnNB?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 12:10:19 GMT",
+          "title": "Russia says Ukrainian drone attack on holiday-makers killed 6, including 3 children - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTc3YWtLb1FlNGE3dDlBMnFwajJ2T0tHaExndUEwa1dubGQwMnRiUnBpdHc1aDdKREh2VUpHSF9YaDVDRVprdmdLOGRWcXlaRlAzaWZOSHdWdXh5aDQ5R2JzVFptMzhHaXR6UzV0Qm5zdzhYQVNaR2RxME1VX2xCOXBFcS1feGVyWnp5ZFRVajFXOWJxVnBzbUFHcEJoenZ5em00RUc3M0hMZF92T0k1eVVBWnYyRmxpWXZVY3ZERDVzZmdF?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:06:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3RUUGplUHRFOElCUjBiQUNPYWgyNDM5MTlLT3ZyVEN2dDBnRk5JOGIyWkkzYWpQdjNGQ253WlZCbk9OeHNWZmo4djllSmRGQVRZbXA4eEQ0TldYMnJFOV95ZzRvODJJb2xySTA5eFNiMFJGc0VnX29MSmRBODZ0QjNuaHpxTVUxcXJXa2FXaFFvdkQtRmdnS0FnTlRWZVhTTGY4QzVrbVV5TkVic0o1UGJaVnhpa1J0SDdv?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 12:05:43 GMT",
+          "title": "Wall St set for higher open on Mideast deal hopes; healthcare in focus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:56:04 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Ukraine's top negotiator Umerov to head foreign intelligence service - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMk55Zmo5LUQ5c1VsbzNKVDFjamtuWGM2aWN1VGZnaTVHQnltQ1JCWGVUMlVfa3Bqa09tTzl4cmtmMmUtc3pEM0dsM0xoMDNDSm9hVld5X2hza0NyMk9iTGwySnJ6Y0pQakRaS0cxRm9TdVlWeFVaQzFkMUhIc3NrZW54X21fOHVDRG5VTlhaQW1YdWRRVG5qZzFyRjVCNGdxZUpSZ0JYWEhZQmFiRThrX1d2aw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 12:01:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "England set to follow Wales in withdrawing support for Infantino re-election - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHoyYXVud3NrcC03c0FNa1BBbEZFT0dsaHphTDBmQ3ZBRDRsNm00UjJja3NKTWdRS1hwLUYtOEc5QS03Z281Z01JQTNMU1RmanNQSE9iaXNLa3lVSFdpenhkLTR3ZkhFZlQ3Z2RtZU12ZU9jSFFweW1lclZuMi1SN2k5T001RWI5V3Q1QWxQTWdRdkFwYy16bm5xc2RkLVZzc2cwdF92UFNZeVR5eWlHcXlzNTlMdTBheDIxUVVjN1E0Z0tQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 11:54:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "AstraZeneca investors balk at $400 billion Bristol Myers tie-up reports - reuters.com",
+          "title": "AstraZeneca investors balk at $400 billion Bristol Myers tie-up reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzhDZ2Y1UkxQTnZCTjg1NHdXUGZBb2Q3d3ppcnZEbWFEY1JJRWZLU0RHd1N3eDRDOVRIUXMycjdyWDNzR2pDY1ZPYXg0cFlUUWNZRWJadkt1Sld3VzZCVjN6YW1zaE1aTUt0U2x6S3p2bTRQd3dMMXc0cDhUcjJERlhyRF80YTF5My1qRmVGSU5kM3Z6bTdUcTJlS2R4TjkwM3RvdXk4eXdkYVhILWdqTS1GZlZtZ0dTZHZUMVZ5Mkk4QnI1U0lyQm1acVBfaHc?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 11:49:54 GMT",
+          "pubDate": "Mon, 03 Aug 2026 12:53:30 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump brothers-backed American Bitcoin swings to second-quarter loss - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2FRenp3THJrTG9ocEs2MWY2dThPTmw5anpuNXpWa1dETFZXWjhieTFuMzZQQXJPY0VXb2c5dHpjRGdXam1TMURJOV9IcjNPWlFhc2JubHhMMFdWMnR0bmgzSUpxVkVXSnc1OGFXZFMxQTdUZTAxT0duRW1fYXJmdjdPY29MUzl4eDJoN1ppeUxFaUI5X0N1QTJ1NHlPTTdXT1pNSVRkMDliTDY5RGJF?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 11:47:43 GMT",
+          "title": "US shakes up currency markets with talk of unusual yen-buying via selling euros - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWhwczdTVFV2eTBMeUpacllrZ0VhMWhPa1FrX0p0VFN4N1pNeU9QN3BiWVNJdVR1MDZybUYxUjh2aDB2Rmw4NDdJcXFPM3M3cXU2TnJ1OEh1S2oyTF9QLURJc1NPM3g0Z09MczFneVBYWUwxWnNPRGF2U1YzM3BLeEdFRDAyN3lHNU5zY2wzdWl3TFF6Ump1RXI3V2x0aXB2M2RpM0luaHBWN1pVSXJ3VmRaS3NEWkhWUkFqSHhYWXJOemNicnBjcg?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:44:56 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Chinese state traders make large US soybean purchases - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdlRFUlRNYmhiWm43dF9CNm11VVM2a3VNeVBMeE16bFRMM0NXWmctM3hTZEQ5T2lOV2UzX2I0Vk04N2xtUGFpWGM2WXNVVDJBdkxvaWNfN1c4aktsaXp1bzAyOGZoalVESks4M3QyeTl2Q2Z0VlYxTzJQWHctMWFHaUowejYtbmNhSURVR3IzWWJzT0NZZkZXdW9oamVWdjZNRGVnM2VzSVAyZnh0NU50M1hsVQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 11:41:49 GMT",
+          "title": "Reform UK proposes military-led operation to stop asylum seekers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2tLQnhCUXRGMDk1T1g3THZjNXVTbFBsUFIzSVc2U19xUl9UM3haNWRQbERvWElBVHA4Y2h0NHJ4c0dzYzhHUjZ4aFBoaS1UX29Cc3JPeHZBRkplNTJaU3JvamtqNDFqTnZEYTluVjNGUk5mZFVhekpBTHMxcUltLUxOSU1rUl9Za1dOcXkyejQwNzhYemRxSE1keDVpRlNiWEo3WjZBNF9TZw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:37:47 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukraine's top negotiator Umerov to head foreign intelligence service - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMk55Zmo5LUQ5c1VsbzNKVDFjamtuWGM2aWN1VGZnaTVHQnltQ1JCWGVUMlVfa3Bqa09tTzl4cmtmMmUtc3pEM0dsM0xoMDNDSm9hVld5X2hza0NyMk9iTGwySnJ6Y0pQakRaS0cxRm9TdVlWeFVaQzFkMUhIc3NrZW54X21fOHVDRG5VTlhaQW1YdWRRVG5qZzFyRjVCNGdxZUpSZ0JYWEhZQmFiRThrX1d2aw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:28:41 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T13:25:17.175Z"
+      "updatedAt": "2026-08-03T13:50:19.845Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T13:25:17.301Z"
+      "updatedAt": "2026-08-03T13:50:20.077Z"
     }
   ]
 }
