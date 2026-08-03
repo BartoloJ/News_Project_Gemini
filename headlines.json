@@ -1,16 +1,22 @@
 {
-  "fetchedAt": "2026-08-03T14:00:24.805Z",
-  "lastChecked": "2026-08-03T14:00:24.805Z",
-  "lastUpdated": "2026-08-03T14:00:24.805Z",
-  "generatedAt": "2026-08-03T14:00:24.805Z",
+  "fetchedAt": "2026-08-03T14:23:07.006Z",
+  "lastChecked": "2026-08-03T14:23:07.006Z",
+  "lastUpdated": "2026-08-03T14:23:07.006Z",
+  "generatedAt": "2026-08-03T14:23:07.006Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Iran denies Trump's claim that new talks will begin on Monday",
+          "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+          "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 03 Aug 2026 14:20:56 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
           "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 03 Aug 2026 12:44:09 GMT",
+          "pubDate": "Mon, 03 Aug 2026 14:18:30 GMT",
           "source": "BBC News"
         },
         {
@@ -38,12 +44,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-          "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 03 Aug 2026 10:58:48 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Sudan army drone strike on court session kills 35, rights group says",
           "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 03 Aug 2026 10:29:24 GMT",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T14:00:24.035Z"
+      "updatedAt": "2026-08-03T14:23:05.624Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "U.S. men's national team coach Mauricio Pochettino will stay through 2030 World Cup",
+          "link": "https://www.npr.org/2026/08/03/nx-s1-5917999/us-soccer-mauricio-pochettino-coach-2030",
+          "pubDate": "Mon, 03 Aug 2026 10:05:24 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
           "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
@@ -93,12 +99,6 @@
           "source": "NPR"
         },
         {
-          "title": "Bedbugs, bad Wi-Fi: Federal workers say forced summer relocations have been chaos",
-          "link": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard",
-          "pubDate": "Mon, 03 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "She protested ICE raids. Then agents showed up at her door",
           "link": "https://www.npr.org/2026/08/03/nx-s1-5886263/ice-dhs-immigration-enforcement-conspiracy-arrests",
           "pubDate": "Mon, 03 Aug 2026 05:00:00 -0400",
@@ -112,15 +112,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T14:00:24.126Z"
+      "updatedAt": "2026-08-03T14:23:05.776Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Russian Embassy in Rome blames Ukraine for deadly Italian restaurant bombing in Moscow - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTQ0d1JKQzRTU1NONWhCT1N5VzV4Rms1dkR5bVhiT2kwRWpiUVI4Q0lnanJtcXFPRWNBY2IxSDNpRm4xSDJ0MmtXbkd3X1hUQ3VyZmJaT2tvWEJZdE52SW1PeHp1QTdRMml2aDhWVUhsQnFfeElVVFdGcGltSmU3Y0V5QU93anpRTHVtYkk3QTZpbEZQYzNhYjFZYmIwTjR5X3c5a2l2WUZyOGxGa2c?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:21:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Myanmar's detained former leader Aung San Suu Kyi has rare meeting with International Red Cross - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlctT0dBVG9VVlhKZ284bjkxZlJVUFJDMFg0eGdHNkp2X1pQa2pPV0VZN3JZWFlRQ25zWHVCTkIzampNaWRqYjZ4VFdiQjk2WGZaS0didzJnaGc4M2JYV0dYdFU5dy1pTUZnRmFwcmpsb01iRzRBUFRQcUlKZWFhdzV1M1JfdV8yNlA1UzBiRUNVRUR5dVlqQUJ0QmNpS2pxMGVFVw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:20:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Trump claims Iran talks will start Monday, and other developments in the Middle East - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
           "pubDate": "Mon, 03 Aug 2026 13:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "AP Decision Notes: What to expect in the Kansas state primary - AP News",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4NmNXbkRxWjVfOVgtTDhPUzZTQVVsQTlBWVFfZlVzUjFlWlllYmlqUFY5TmlIY3Y5Ri1yVWV2N0l1MkI5THdodVFVSmFqd0prSTBfYThJbTNLZU5zampzXzRWa1RycmY1cEh5cU9QOXh4bmVSNmZIYWc3MmtPMWc?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:54:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,32 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkpfVU0zTnBZSEZnbmNLUUxSMzVoSzVTMk1xZVRyS1FaU1hHbXBlVlpIWHJsQ1owSndGU3hKS3Znc3RVUjFiS3VnUl9vWU54Y05JT1dWb19GeG50NkttOVZld1hNUndETHJOdzhBSnhsY3FtQml3dXRRWmZxbTVSOE0teE1wMldFVmtuS3F3RXdDM1JMU29DcA?oc=5",
           "pubDate": "Mon, 03 Aug 2026 12:28:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Wall Street gains, oil prices tumble after Trump says he'll order forces to ease up on Iran attacks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTMweFRadm51ZDBCVG5fZlAzdEFVZGZpZ2dVcVdsb0dfRHI4M3VzTWI4YllxTDBQUzJNUDQwLXFjZnVMMG43aW0zbnJ1ZmxyODhmdk1zeXhIVmdxc2F4OUlPNWZ6MFFZRTlKNnduenlqcjJDQ3JNWHpuZFBpejZmTXVva3ZwTWg1cnduR2hhMTJQYmVVZ3JacklNYw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 12:20:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Washington state fires destroy hundreds of structures and force Spokane-area residents to evacuate - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHppbDIxTzQ0MWQ0SU0wa2lxeUo3VGtHN0cxTTh5NUlzNDZYRUhvWmFKNGdxWlJydmZLZDR5Z1M2S24yaDlBeFg3c21Lb2UzWjc4YmtXR0JGdzZBS3pnY0RvVExPUmlRY014NWJObTFOaTROYUlRTzF2Y0VvOXdWa2phNWJHYnJlcWVnZ0o2TW1WOFdNeVdRUy15d2w?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 12:18:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ghana parliament backs tough cocoa farm protections, with up to 20 years in prison - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYlJsZEp0Y2RPcDVDaVlJdjg3eGtNU1JYa1JwQlZQUzd1WldoX0Y1Q20zVnFfWTM3UF9RS2FNVUdvZVRhRUZvNFEyYm9fUW5PakVNUkxqS1pZZ1ZycDlQekxKMWdsZE5xUmRTcWx5SlpTaFBEZEdiV0xhNGVBNEJEc3ltNk0?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 11:23:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T14:00:24.536Z"
+      "updatedAt": "2026-08-03T14:23:06.283Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "WestJet flight attendants to end strike after reaching tentative wage deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjd6NTB1UFpVNHR2aDgtMWpCR1RINVpBbjJpR0h1WWRoSm85dzlaTTFLRXV2am5YT182WmY0WE40Z2dGaEdsdGZ4YXEyeGZTanY2em9OMkNpN1B4dmZOZC1pY05OLThKM3FsZlNpMy1hejV0SUx3eEZpVnQ0eW1NVnAtRjhMWWNSVjFudk5tOFluanZmQks2UTRpTmd2STM1NXJwMmdJOGx3MURuckE0ZTFGLURvaFphRUN3Zg?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:47:49 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Wall St opens higher on Mideast deal hopes - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
@@ -191,9 +197,21 @@
           "source": "Reuters"
         },
         {
+          "title": "US signs deal to boost output of parts for Patriot, THAAD interceptor systems - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVpSLU9DNzZlb3plSWpueFdNUFN3ZmxuZkQxN1RhRTlaZlBteHFVVEVXN0p4NnBOY2paYTNwNGlxaGdfWGRCRjVXazlOLVUtUVZnNlB4eFB1RFBKQjBtXzQtbEN6djVNZGs5dWJBTXYtVmxSVEtfU1I1WFdJWmU4dEQ2eU8xX1Z5MVNCV1pjdkJ6dVRaVnNwbm9HbmVSaFFqd3k1aGdmbW44NEUyRENTZmtMZk9iVGxpRklr?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:08:49 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Russia says Ukrainian drone attack on holiday-makers killed 6, including 3 children - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTc3YWtLb1FlNGE3dDlBMnFwajJ2T0tHaExndUEwa1dubGQwMnRiUnBpdHc1aDdKREh2VUpHSF9YaDVDRVprdmdLOGRWcXlaRlAzaWZOSHdWdXh5aDQ5R2JzVFptMzhHaXR6UzV0Qm5zdzhYQVNaR2RxME1VX2xCOXBFcS1feGVyWnp5ZFRVajFXOWJxVnBzbUFHcEJoenZ5em00RUc3M0hMZF92T0k1eVVBWnYyRmxpWXZVY3ZERDVzZmdF?oc=5",
           "pubDate": "Mon, 03 Aug 2026 13:06:33 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "KKR to take medical equipment maker Integer Holdings private in $5.7 billion deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkRNRzM5c1JYM21vTFJXYTFVVG9XTHZhX0lVRC16OGNsM3pPQVJLbE9OLXVBVW0yUzhsUloyMkNCTU4zZEwwX1R3Q2IxOThxb0VuWEQ0dHlyaGhQSjZwaUZBOTc4NTZQSHpwTm83RFFkTXRLNk9rV1NFX0tSbC1NNXdfSUhIMXlDc3RYOFNVWVZTVXo1Zjc3aHo1dkhKbjNjQmFHTHo0eks2WmJJTHBYSg?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:58:29 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzhDZ2Y1UkxQTnZCTjg1NHdXUGZBb2Q3d3ppcnZEbWFEY1JJRWZLU0RHd1N3eDRDOVRIUXMycjdyWDNzR2pDY1ZPYXg0cFlUUWNZRWJadkt1Sld3VzZCVjN6YW1zaE1aTUt0U2x6S3p2bTRQd3dMMXc0cDhUcjJERlhyRF80YTF5My1qRmVGSU5kM3Z6bTdUcTJlS2R4TjkwM3RvdXk4eXdkYVhILWdqTS1GZlZtZ0dTZHZUMVZ5Mkk4QnI1U0lyQm1acVBfaHc?oc=5",
           "pubDate": "Mon, 03 Aug 2026 12:53:30 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US shakes up currency markets with talk of unusual yen-buying via selling euros - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWhwczdTVFV2eTBMeUpacllrZ0VhMWhPa1FrX0p0VFN4N1pNeU9QN3BiWVNJdVR1MDZybUYxUjh2aDB2Rmw4NDdJcXFPM3M3cXU2TnJ1OEh1S2oyTF9QLURJc1NPM3g0Z09MczFneVBYWUwxWnNPRGF2U1YzM3BLeEdFRDAyN3lHNU5zY2wzdWl3TFF6Ump1RXI3V2x0aXB2M2RpM0luaHBWN1pVSXJ3VmRaS3NEWkhWUkFqSHhYWXJOemNicnBjcg?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 12:44:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Reform UK proposes military-led operation to stop asylum seekers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2tLQnhCUXRGMDk1T1g3THZjNXVTbFBsUFIzSVc2U19xUl9UM3haNWRQbERvWElBVHA4Y2h0NHJ4c0dzYzhHUjZ4aFBoaS1UX29Cc3JPeHZBRkplNTJaU3JvamtqNDFqTnZEYTluVjNGUk5mZFVhekpBTHMxcUltLUxOSU1rUl9Za1dOcXkyejQwNzhYemRxSE1keDVpRlNiWEo3WjZBNF9TZw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 12:37:47 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukraine's top negotiator Umerov to head foreign intelligence service - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMk55Zmo5LUQ5c1VsbzNKVDFjamtuWGM2aWN1VGZnaTVHQnltQ1JCWGVUMlVfa3Bqa09tTzl4cmtmMmUtc3pEM0dsM0xoMDNDSm9hVld5X2hza0NyMk9iTGwySnJ6Y0pQakRaS0cxRm9TdVlWeFVaQzFkMUhIc3NrZW54X21fOHVDRG5VTlhaQW1YdWRRVG5qZzFyRjVCNGdxZUpSZ0JYWEhZQmFiRThrX1d2aw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 12:28:41 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T14:00:24.551Z"
+      "updatedAt": "2026-08-03T14:23:06.739Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T14:00:24.805Z"
+      "updatedAt": "2026-08-03T14:23:07.006Z"
     }
   ]
 }
