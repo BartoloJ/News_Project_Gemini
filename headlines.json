@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-08-03T19:25:15.212Z",
-  "lastChecked": "2026-08-03T19:25:15.212Z",
-  "lastUpdated": "2026-08-03T19:25:15.212Z",
-  "generatedAt": "2026-08-03T19:25:15.212Z",
+  "fetchedAt": "2026-08-03T19:50:30.936Z",
+  "lastChecked": "2026-08-03T19:50:30.936Z",
+  "lastUpdated": "2026-08-03T19:50:30.936Z",
+  "generatedAt": "2026-08-03T19:50:30.936Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-          "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 03 Aug 2026 18:04:30 GMT",
+          "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 03 Aug 2026 19:42:55 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 03 Aug 2026 17:41:27 GMT",
+          "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+          "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 03 Aug 2026 18:04:30 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T19:25:13.746Z"
+      "updatedAt": "2026-08-03T19:50:14.541Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
+          "link": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
+          "pubDate": "Mon, 03 Aug 2026 15:33:05 -0400",
+          "source": "NPR"
+        },
         {
           "title": "With U.S. doors shutting, Cubans turn to Brazil for asylum",
           "link": "https://www.npr.org/2026/08/03/nx-s1-5910714/brazil-cuba-migration",
@@ -72,6 +78,12 @@
           "title": "Photos: Wildfires in Spokane lead to thousands of evacuations",
           "link": "https://www.npr.org/sections/the-picture-show/2026/08/03/g-s1-137003/photos-wildfires-in-spokane-lead-to-thousands-of-evacuations",
           "pubDate": "Mon, 03 Aug 2026 14:45:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Two people in Michigan have died after becoming ill with cyclosporiasis",
+          "link": "https://www.npr.org/2026/08/03/g-s1-137048/michigan-cyclosporiasis-deaths-cyclospora-outbreak",
+          "pubDate": "Mon, 03 Aug 2026 13:46:16 -0400",
           "source": "NPR"
         },
         {
@@ -97,22 +109,10 @@
           "link": "https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation",
           "pubDate": "Mon, 03 Aug 2026 07:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "For those with criminal records, AI is breaking down barriers to employment",
-          "link": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
-          "pubDate": "Mon, 03 Aug 2026 05:42:28 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
-          "link": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
-          "pubDate": "Mon, 03 Aug 2026 05:42:04 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T19:25:13.947Z"
+      "updatedAt": "2026-08-03T19:50:14.743Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-03T19:25:14.466Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-03T19:25:14.903Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T19:25:15.212Z"
+      "updatedAt": "2026-08-03T19:50:30.936Z"
     }
   ]
 }
