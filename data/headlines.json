@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-03T13:00:25.716Z",
-  "lastChecked": "2026-08-03T13:00:25.716Z",
-  "lastUpdated": "2026-08-03T13:00:25.716Z",
-  "generatedAt": "2026-08-03T13:00:25.716Z",
+  "fetchedAt": "2026-08-03T13:25:17.301Z",
+  "lastChecked": "2026-08-03T13:25:17.301Z",
+  "lastUpdated": "2026-08-03T13:25:17.301Z",
+  "generatedAt": "2026-08-03T13:25:17.301Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T13:00:24.334Z"
+      "updatedAt": "2026-08-03T13:25:16.250Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,41 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T13:00:24.696Z"
+      "updatedAt": "2026-08-03T13:25:16.318Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Trump claims Iran talks will start Monday, and other developments in the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 13:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russia blasts southern Ukrainian city with glide bombs while Ukrainian drones reportedly kill 9 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalh4VDFWWlhRM2N4ZkphWlhzeXNXTGRfMUdubEVJaGdlWE5HUHJpNXNoNnlBRk15akZUQm5rS3oxN1VZUDlRSUpIR1JWMnVIOEpfRlBoekMyWVcxUHVFN2NjZnRhVElIajFKX3FxSkZRREE2QkhnWnF5YmpPTE9WZHRKRE51VTAyOV84TGRZUXBSZVgxbFdCTl83VUw3NXlGYWNfMjlzNERyTTVqS2lXc01B?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:30:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US dollar weakens sharply against the Japanese yen after market interventions - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkpfVU0zTnBZSEZnbmNLUUxSMzVoSzVTMk1xZVRyS1FaU1hHbXBlVlpIWHJsQ1owSndGU3hKS3Znc3RVUjFiS3VnUl9vWU54Y05JT1dWb19GeG50NkttOVZld1hNUndETHJOdzhBSnhsY3FtQml3dXRRWmZxbTVSOE0teE1wMldFVmtuS3F3RXdDM1JMU29DcA?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:28:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Washington state fires destroy hundreds of structures and force Spokane-area residents to evacuate - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHppbDIxTzQ0MWQ0SU0wa2lxeUo3VGtHN0cxTTh5NUlzNDZYRUhvWmFKNGdxWlJydmZLZDR5Z1M2S24yaDlBeFg3c21Lb2UzWjc4YmtXR0JGdzZBS3pnY0RvVExPUmlRY014NWJObTFOaTROYUlRTzF2Y0VvOXdWa2phNWJHYnJlcWVnZ0o2TW1WOFdNeVdRUy15d2w?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ghana parliament backs tough cocoa farm protections, with up to 20 years in prison - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYlJsZEp0Y2RPcDVDaVlJdjg3eGtNU1JYa1JwQlZQUzd1WldoX0Y1Q20zVnFfWTM3UF9RS2FNVUdvZVRhRUZvNFEyYm9fUW5PakVNUkxqS1pZZ1ZycDlQekxKMWdsZE5xUmRTcWx5SlpTaFBEZEdiV0xhNGVBNEJEc3ltNk0?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 11:23:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Greek wildfires halted after deadly helicopter crash; French evacuees returning home - AP News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVJ3YktkdzVuTjE5NnBtRXhReVlTNDdxZUpfOHZGTmhfVjRtd0pka2J4Nk5kR3FwNHFTWGc1aVIzX0ZteWF5dGRfdW1fdl9BVF9uRmctOGxnd1QxbzlicEpzaWlwYXVrRWFzLWFTM3VhT1AzV3llelkyUEhCWnRhblRCRHkwdW45aFA4SjZNdEkweExfNU4wMzcxWUFjcnNENm5lV2d2UFZKdFdmZ1NuNnZn?oc=5",
@@ -134,95 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3EwWHM3cGFqcWZLY2JxbGNKU29hc2tNRWFiaTFNaHVHbUhIOXpjcmFHa3hmUlNlVDk1Yms4bC1UUk9GemtFLWR0LXpsUXFLcVB3UFJRTDFNRjNCQ2pYa3NabGx2aVVnVDM5ZDZpQ0JYQzltUUJuU0drdzJyTDJVaVNLRU00WlhZcXdfTHhadXRzWDNlckw1RFVRTVI1OEcw?oc=5",
           "pubDate": "Mon, 03 Aug 2026 10:56:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Prime minister visits quake-hit southern Japan as cleanup begins in intense heat - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWdCVmdMVFRCSlFoaHJudV9wMjI5bXFsWWJzR1VvNkRYeldLcFNWLVlLT2dGN0g4RkZpdl80WllJTnBNSHJPT3dBTEYyVXBSV3g5VUpfSFR1UGNudEpwYkVpZzZkZ25GSEFBZmVDWjJzVllCMnpQaDNTSjRndGVTOE9Pdk15TnUtYS1aR3JNNjNLNXBSZ0lzNndqN1RTcU9q?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 10:54:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump overhaul could gut Head Start preschool standards, leaving states to set the rules - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbmxVUW5lUHpOU2phY1dxTXM0QzNZb1BNMTZubnJLU1FlX2ZTVkd3eU9fWFRnbUFHUmQ1NzRhSG13ZnZON3psUERIT2pDdlB2VmpxbE9LMVJlRG1MQmc0WjE2Q2oycnBlYldyNl9oYUZfYkdPQkMxX3AwbGhoclBrUGdhVGNRM1U4R0ZLUXNiVQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 10:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Record low Danube levels push some countries in Eastern Europe to the brink of energy emergency - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVh3V1FLVExDcEN6Sm80UnlINWYxYlAtSUZtYWtRZDJ2R0RqTnl4RFp4MWp3Z1J0VHZ1M25UUGk3LTZlV1o2Q3F0bHg0VGg0QVpzS1hPVjJFLTVpZXhobjZRdVhldnBpajlLOGM1ZUcwZldWT2RqUTdqSVlHSnBZa2dhYVU2RFVXUGc5YWxzMG9FOG5wME5zRlNDdHEwM3Bsb2JoR0hYZTk0cGsyUUJpMA?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 10:29:37 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ariana Grande withdraws from a London musical and will take a break from the public eye - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHBGS0ZoVmlWV3l5ZEkzZFV5cHIwWmxtZlVNMHBlUWxJaG9UaTlTSHhXeEpCTlljdG1GSGd6bjE1aFA2X1EtUTREd3dxX2czajhyOTdnZ3RsMWtvTkY2SURJZFRYZE9QZHJkQlVPUGxkSjNseXdFV1lZWG5wQkQzeklhVEx3dnJ1X0phSktyRC1MYzdEN1FzRmdETzVNZ2FCbWJPOFYtSQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 10:17:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Singapore bans 2 Massive Attack members after pro-Palestine display at concert - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTlVPZnQzVFJCVFQxUlljTllEZnRpWGNRRXM1SURodW5pTUtRWVpuVjNLWkRqZms5cE5GUzNJLWwwM0lNRkdPSmFxeGo0UDZ3TVpWX2RMOENYZHJPY0xpUUo4WmRza3BleFdJSDlLRnNUNEYyeDVuRU41VFZPZUQyWWdRVEFDdXNVWGx1bWtFQnJpYUtPWFRn?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 10:16:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T13:00:25.170Z"
+      "updatedAt": "2026-08-03T13:25:16.749Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Ukraine's top negotiator Umerov to head foreign intelligence service - Reuters",
+          "title": "Visa to buy fraud intelligence provider BioCatch for $2.4 billion - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVFQdnYtT25JcU9yZC1KUVlDaTN6djh5UjRtdDV0bFM2N2lXZWFfZXBoSFN5LXpuSFJDZkcxMWZUdzhyYzFfUFhtSS15OGxmR2N6X25zOEtkNjVMdWw3d3loUG1YNXVyMW9waHBELVNMMWdZMHNnNFJmZmFMaE9ZWDdKeWtrZGNPamRScm5SV2Q0UFBsaDFuUk1JX2hnSndseUVhV2VESW1zZDlVNnhjSVBn?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:50:12 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "SpaceX's first results put Musk's AI spending under Wall Street microscope - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2tWMmRRZ3hJZjRfNjNjS1NjMEo4M0JHV3BObDg5UV9sZ09obWdiczN3MHR5Zmh3U1ZjUzZQbGJHSmJoajZkMzM5Y3dPLW1hQ2VNdm5FamY0TkFoVlRJUzRyTDU1ZGRacl9xSmJmdG9hN0hGYkRDZFVUeU9NeGk1ZnN2T3RKbDZFRTBiSG5UaHktQUM0RUprZ1VSV3U5WkFjajlVU2tMZ0VtaEttSzdhYjJncENPRlp4ZFpTa3gtcW9haVZ1WnNB?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:10:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3RUUGplUHRFOElCUjBiQUNPYWgyNDM5MTlLT3ZyVEN2dDBnRk5JOGIyWkkzYWpQdjNGQ253WlZCbk9OeHNWZmo4djllSmRGQVRZbXA4eEQ0TldYMnJFOV95ZzRvODJJb2xySTA5eFNiMFJGc0VnX29MSmRBODZ0QjNuaHpxTVUxcXJXa2FXaFFvdkQtRmdnS0FnTlRWZVhTTGY4QzVrbVV5TkVic0o1UGJaVnhpa1J0SDdv?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 12:05:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukraine's top negotiator Umerov to head foreign intelligence service - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMk55Zmo5LUQ5c1VsbzNKVDFjamtuWGM2aWN1VGZnaTVHQnltQ1JCWGVUMlVfa3Bqa09tTzl4cmtmMmUtc3pEM0dsM0xoMDNDSm9hVld5X2hza0NyMk9iTGwySnJ6Y0pQakRaS0cxRm9TdVlWeFVaQzFkMUhIc3NrZW54X21fOHVDRG5VTlhaQW1YdWRRVG5qZzFyRjVCNGdxZUpSZ0JYWEhZQmFiRThrX1d2aw?oc=5",
           "pubDate": "Mon, 03 Aug 2026 12:01:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "England set to follow Wales in withdrawing support for Infantino re-election - Reuters",
+          "title": "England set to follow Wales in withdrawing support for Infantino re-election - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHoyYXVud3NrcC03c0FNa1BBbEZFT0dsaHphTDBmQ3ZBRDRsNm00UjJja3NKTWdRS1hwLUYtOEc5QS03Z281Z01JQTNMU1RmanNQSE9iaXNLa3lVSFdpenhkLTR3ZkhFZlQ3Z2RtZU12ZU9jSFFweW1lclZuMi1SN2k5T001RWI5V3Q1QWxQTWdRdkFwYy16bm5xc2RkLVZzc2cwdF92UFNZeVR5eWlHcXlzNTlMdTBheDIxUVVjN1E0Z0tQ?oc=5",
           "pubDate": "Mon, 03 Aug 2026 11:54:54 GMT",
           "source": "Reuters"
         },
         {
-          "title": "AstraZeneca investors balk at $400 billion Bristol Myers tie-up reports - Reuters",
+          "title": "AstraZeneca investors balk at $400 billion Bristol Myers tie-up reports - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzhDZ2Y1UkxQTnZCTjg1NHdXUGZBb2Q3d3ppcnZEbWFEY1JJRWZLU0RHd1N3eDRDOVRIUXMycjdyWDNzR2pDY1ZPYXg0cFlUUWNZRWJadkt1Sld3VzZCVjN6YW1zaE1aTUt0U2x6S3p2bTRQd3dMMXc0cDhUcjJERlhyRF80YTF5My1qRmVGSU5kM3Z6bTdUcTJlS2R4TjkwM3RvdXk4eXdkYVhILWdqTS1GZlZtZ0dTZHZUMVZ5Mkk4QnI1U0lyQm1acVBfaHc?oc=5",
           "pubDate": "Mon, 03 Aug 2026 11:49:54 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Chinese state traders make large US soybean purchases - Reuters",
+          "title": "Trump brothers-backed American Bitcoin swings to second-quarter loss - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2FRenp3THJrTG9ocEs2MWY2dThPTmw5anpuNXpWa1dETFZXWjhieTFuMzZQQXJPY0VXb2c5dHpjRGdXam1TMURJOV9IcjNPWlFhc2JubHhMMFdWMnR0bmgzSUpxVkVXSnc1OGFXZFMxQTdUZTAxT0duRW1fYXJmdjdPY29MUzl4eDJoN1ppeUxFaUI5X0N1QTJ1NHlPTTdXT1pNSVRkMDliTDY5RGJF?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 11:47:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Chinese state traders make large US soybean purchases - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdlRFUlRNYmhiWm43dF9CNm11VVM2a3VNeVBMeE16bFRMM0NXWmctM3hTZEQ5T2lOV2UzX2I0Vk04N2xtUGFpWGM2WXNVVDJBdkxvaWNfN1c4aktsaXp1bzAyOGZoalVESks4M3QyeTl2Q2Z0VlYxTzJQWHctMWFHaUowejYtbmNhSURVR3IzWWJzT0NZZkZXdW9oamVWdjZNRGVnM2VzSVAyZnh0NU50M1hsVQ?oc=5",
           "pubDate": "Mon, 03 Aug 2026 11:41:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "WestJet flight attendants to end strike after reaching tentative wage deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjd6NTB1UFpVNHR2aDgtMWpCR1RINVpBbjJpR0h1WWRoSm85dzlaTTFLRXV2am5YT182WmY0WE40Z2dGaEdsdGZ4YXEyeGZTanY2em9OMkNpN1B4dmZOZC1pY05OLThKM3FsZlNpMy1hejV0SUx3eEZpVnQ0eW1NVnAtRjhMWWNSVjFudk5tOFluanZmQks2UTRpTmd2STM1NXJwMmdJOGx3MURuckE0ZTFGLURvaFphRUN3Zg?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 11:36:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India's Nifty and Sensex diverge following launch of new auction mechanism - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazBsLXlLazNKQ0tJV3JleVhBcV9JZktMbkR1WVB1allUaGcyZjUzdk5HeGRpNmx2REJ0ZEV0c0JOMGo5UkVoTEpEWGNpN1BNd0s0a2lMdGd5RkFuWFFNM0RDcEdEdGRpUGZVclU1QmtTRkR6YWNjclJkdmU0anNrejQ4RkpLeWFPVEtmSVJVcS0xcVZNNHc1UjZWMDQ0ZU5LRnRkSTNVdV83QQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 11:29:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Planemakers and repair shops take steps to conserve aircraft windows in tight market - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdjVKeUJKRkpmY1NzM05YMlFTVFFuelQ1WllGS09EVkMzeVpRRE94ZFhkeEVoZzFWdmQwVzJ1OXRNZEhhbFlZdTM2WGkzM0hOZU1UbW9XTi1ZQVQ5NWVucUlyQnVoTjRXVk44MWhHZnVQODlfZURTS2huM2wwYXpYQWZ5eVdXTFlpbWVrWUhrekwxa2FlVExQMHF5X3RadVdqcjJNRUJ3c2lEcUxtSWFTUnRnTS1UWW5IZU9oNlpQU1BBX0RfNEhKaTE2bEpFc1ZPb2Vz?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 11:01:25 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russia says four people killed at holiday resort, including a child, in Ukrainian drone attack - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTc3YWtLb1FlNGE3dDlBMnFwajJ2T0tHaExndUEwa1dubGQwMnRiUnBpdHc1aDdKREh2VUpHSF9YaDVDRVprdmdLOGRWcXlaRlAzaWZOSHdWdXh5aDQ5R2JzVFptMzhHaXR6UzV0Qm5zdzhYQVNaR2RxME1VX2xCOXBFcS1feGVyWnp5ZFRVajFXOWJxVnBzbUFHcEJoenZ5em00RUc3M0hMZF92T0k1eVVBWnYyRmxpWXZVY3ZERDVzZmdF?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 10:48:23 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T13:00:25.591Z"
+      "updatedAt": "2026-08-03T13:25:17.175Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T13:00:25.716Z"
+      "updatedAt": "2026-08-03T13:25:17.301Z"
     }
   ]
 }
