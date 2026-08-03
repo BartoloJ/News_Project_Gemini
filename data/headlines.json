@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-03T20:00:21.335Z",
-  "lastChecked": "2026-08-03T20:00:21.335Z",
-  "lastUpdated": "2026-08-03T20:00:21.335Z",
-  "generatedAt": "2026-08-03T20:00:21.335Z",
+  "fetchedAt": "2026-08-03T20:21:55.990Z",
+  "lastChecked": "2026-08-03T20:21:55.990Z",
+  "lastUpdated": "2026-08-03T20:21:55.990Z",
+  "generatedAt": "2026-08-03T20:21:55.990Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
+          "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 03 Aug 2026 20:05:46 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
           "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 03 Aug 2026 14:20:56 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
-          "link": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 03 Aug 2026 12:20:11 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T20:00:20.358Z"
+      "updatedAt": "2026-08-03T20:21:54.522Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T20:00:20.399Z"
+      "updatedAt": "2026-08-03T20:21:54.746Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "MLB trade deadline: Red Sox add Adley Rutschman, Phillies land Luis Arraez - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWlMTVJVdzNlMGdWa04wZG9YdzFNcnZCOUtiSTV4ZG5kczFTYXUzLVp4SzNUUlJ4SDJmZTh3ZUphbTBUaWpFZExaeENKcmhuNzRUbG1oU1BtVWU1SnJaS2RJYkI2RWUxZ0owODBBb1dURHQ3YldVYU1uV01MM1hnWEQ0ektlRUxveUtQSlAtYw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 20:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump optimistic Iran talks will reopen strait, and other developments in the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 20:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "New talks are 'last chance' for Iran to forge a deal and avoid escalation of US strikes, Trump says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQektERUZodzkzOXlDY2NnVEhHRzF4eElSdXV3VG1Gd2Ria3FNbUdLS3VKUFhiRzhpTHVwT3k2WXJxanZRNVNQRjJEQjBsSGl5cGV5TVViTXhDMUY5WDZPRnduaE96cFQxMVgwc1FVQl9KMThMOFRlVl9VM04yOE42cVI0eGo3YUhzWGFWeUk4bw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 19:58:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "GOP holdouts say they will back Blanche's attorney general nomination after striking deal over fund - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaU5UYjZEbzc0bzZZQmlHZ2ZVNk9IYTVPcG02TVVRdV8xLUxjQ200X25WZ0otTlQ3VDFlMGRpVnhZT0E5aFF1RVZ1NXlIMlprOWNvWXBKeExJSFhZSjViY21XYWg2RUVSMGFIaGljaE11YmxzSGprVmRTNzI1MWZzUWNRZk10c3o0X3hWZ3B6UjYtaUxSQl9zQg?oc=5",
@@ -124,21 +142,9 @@
           "source": "AP News"
         },
         {
-          "title": "Trump claims Iran talks will start Monday, and other developments in the Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 19:28:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "As Blanche’s path to confirmation is cleared, Trump’s tax audit immunity remains in place - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRC1iVW5sZ1FrOW9DOXlJVTV0Y2tyLTVzaVd6WE1RY2ZsazA2X1FHejllSHNVN2ZXR3J6clRXUlhMMm1MSTRmUW5PbVpSVFBISktNX2YtTjNnbnA0UGp4VlhwUy1jdkE4TTRYMmg0Qmh2R2UxUDkzMWoyYXF0MEt4cnlRY282cVFCcXFJZUZValA4RU5nWEZFbnd1a2UtUQ?oc=5",
           "pubDate": "Mon, 03 Aug 2026 19:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "New talks are 'last chance' for Iran to forge a deal and avoid escalation of US strikes, Trump says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQektERUZodzkzOXlDY2NnVEhHRzF4eElSdXV3VG1Gd2Ria3FNbUdLS3VKUFhiRzhpTHVwT3k2WXJxanZRNVNQRjJEQjBsSGl5cGV5TVViTXhDMUY5WDZPRnduaE96cFQxMVgwc1FVQl9KMThMOFRlVl9VM04yOE42cVI0eGo3YUhzWGFWeUk4bw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 19:05:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbTlMT3pHaGFaRzdjMHdrZ1RWOVhwY1FPSi1TSm5pNEFuaHlLVldYYXF3VHY3WTR2MHNCMW12SVd4dXRSZy13NEkyR3BVc2QwcV9SZnR4Z1hxX05jUGNOYkJnUXp1V2hYbVhZcG4zUUhJVWl2SS1ibTVtdlQ4cjdvcHZSMC1OQS00WldrVmd0RDdWMEN6MlFnT1BOaw?oc=5",
           "pubDate": "Mon, 03 Aug 2026 18:36:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "MLB trade deadline: Phillies add Luis Arraez as table-setter for Harper and Schwarber - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWlMTVJVdzNlMGdWa04wZG9YdzFNcnZCOUtiSTV4ZG5kczFTYXUzLVp4SzNUUlJ4SDJmZTh3ZUphbTBUaWpFZExaeENKcmhuNzRUbG1oU1BtVWU1SnJaS2RJYkI2RWUxZ0owODBBb1dURHQ3YldVYU1uV01MM1hnWEQ0ektlRUxveUtQSlAtYw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 18:28:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T20:00:20.828Z"
+      "updatedAt": "2026-08-03T20:21:55.185Z"
     },
     {
       "name": "Reuters",
@@ -182,6 +182,12 @@
           "title": "WestJet resumes operations after tentative deal ends cabin crew strike - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjd6NTB1UFpVNHR2aDgtMWpCR1RINVpBbjJpR0h1WWRoSm85dzlaTTFLRXV2am5YT182WmY0WE40Z2dGaEdsdGZ4YXEyeGZTanY2em9OMkNpN1B4dmZOZC1pY05OLThKM3FsZlNpMy1hejV0SUx3eEZpVnQ0eW1NVnAtRjhMWWNSVjFudk5tOFluanZmQks2UTRpTmd2STM1NXJwMmdJOGx3MURuckE0ZTFGLURvaFphRUN3Zg?oc=5",
           "pubDate": "Mon, 03 Aug 2026 19:32:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Greek crews fight wildfire northwest of Athens for fourth day - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGIyNjVnT0dMdTN2aXQ3V0x4WmtGdlRYbmtZZW0wcDFtTEJsaWRzTXVjZTdwcjRjU2phNFduMEdINlZpaTNfZmZBU3lnNVI0QW1vendwdGdEVjFJd2k0cklkQ3g0NV9tWU1lbThLTXRiNVZqSnVOdWV6YWNQUm9TRndKME9jXy00b2QzSzFTbl9idlpPVURiSThxbUlfSkFWdExNZDdZd0xfbU1QOUw1WmZnQmxTTzFyamc?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 19:20:55 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ29aaHJiZXgxck9tZnJCXzMxdTA4ZlIyb2NhSEtLVUNhQm9Idmh4Vm04SXk0S0xjMEFjTWstYmZDLW9MTm9Zb2NNVUhBQzlYNjMxeUIyV2JtRldialNrY2VtX2VBNU45cDlkelBMajgtUXROWXUzWllWT1cxVnZ5c0NyQldZS25icW9YX25kTGtKVUxpVXlFbkx6OFh6WmNoQ0w4cTNQd3JIQ3JHMy1xOW43OGhadDFwc05kUklGcw?oc=5",
           "pubDate": "Mon, 03 Aug 2026 18:34:26 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump says Iran faces 'decapitation' if it doesn't strike deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 18:33:56 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T20:00:21.244Z"
+      "updatedAt": "2026-08-03T20:21:55.929Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T20:00:21.335Z"
+      "updatedAt": "2026-08-03T20:21:55.990Z"
     }
   ]
 }
