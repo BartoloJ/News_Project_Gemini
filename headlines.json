@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-03T20:21:55.990Z",
-  "lastChecked": "2026-08-03T20:21:55.990Z",
-  "lastUpdated": "2026-08-03T20:21:55.990Z",
-  "generatedAt": "2026-08-03T20:21:55.990Z",
+  "fetchedAt": "2026-08-03T20:25:14.162Z",
+  "lastChecked": "2026-08-03T20:25:14.162Z",
+  "lastUpdated": "2026-08-03T20:25:14.162Z",
+  "generatedAt": "2026-08-03T20:25:14.162Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T20:21:54.522Z"
+      "updatedAt": "2026-08-03T20:25:12.741Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T20:21:54.746Z"
+      "updatedAt": "2026-08-03T20:25:12.900Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T20:21:55.185Z"
+      "updatedAt": "2026-08-03T20:25:13.364Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Philippines' Eala wins first WTA title, Fritz claims Washington crown - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmtWVWU3am81Nld3VnVMR0I2c010SVMxWHllcTMweUJDcGFDWVIxMHVGSnBWNUg1X3pwb3BUZnFRUDBmZEx4UDlkVmxEVGF1QUtfVW1qSXRUSWhaWnFvbnpHMkM1MmpydlhTRGhrWklyekVhMFdlQkR1WHE4YXNsWEhzMWxXMmFEUVQxcm4tc2JfdjY5S1BGMFZldWptMEYyUnhVVjctMWZCc0pmQmphR1dWSHZxMVNlRGd6bEVB?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 20:15:16 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Meta, Anthropic invited to meet with Trump officials about AI safety testing - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObm5abmxuWVVCMWR2ZDdDaTFWSnJ5SEYxZnc5MFg0Qko5RkJWMGZpTndzclotOVAza0ZYRHJoTmpUZk1yclB4MnZxUFlYanVwbnlGd3JaNk5sZ2YxbjliM3EyVk55bUtEZU9mQWNRR214WTlQRVdTRXAwbVdGRzdYdE1CY0hrOXlIWjRlV0V0VGg2d05qLUJzT05iQ0oyaS13UFM4azRFMXF2T2ZOUEhPT2hJblN1bUozNlc1SkNn?oc=5",
           "pubDate": "Mon, 03 Aug 2026 18:36:18 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Broadcom loses court bid to suspend EU antitrust request for US legal papers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ29aaHJiZXgxck9tZnJCXzMxdTA4ZlIyb2NhSEtLVUNhQm9Idmh4Vm04SXk0S0xjMEFjTWstYmZDLW9MTm9Zb2NNVUhBQzlYNjMxeUIyV2JtRldialNrY2VtX2VBNU45cDlkelBMajgtUXROWXUzWllWT1cxVnZ5c0NyQldZS25icW9YX25kTGtKVUxpVXlFbkx6OFh6WmNoQ0w4cTNQd3JIQ3JHMy1xOW43OGhadDFwc05kUklGcw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 18:34:26 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T20:21:55.929Z"
+      "updatedAt": "2026-08-03T20:25:13.885Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T20:21:55.990Z"
+      "updatedAt": "2026-08-03T20:25:14.162Z"
     }
   ]
 }
