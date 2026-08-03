@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-03T16:25:19.028Z",
-  "lastChecked": "2026-08-03T16:25:19.028Z",
-  "lastUpdated": "2026-08-03T16:25:19.028Z",
-  "generatedAt": "2026-08-03T16:25:19.028Z",
+  "fetchedAt": "2026-08-03T16:50:16.842Z",
+  "lastChecked": "2026-08-03T16:50:16.842Z",
+  "lastUpdated": "2026-08-03T16:50:16.842Z",
+  "generatedAt": "2026-08-03T16:50:16.842Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+          "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 03 Aug 2026 16:27:43 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
           "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Russian anti-war politician says he has fled the country",
           "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 03 Aug 2026 15:41:08 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-          "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 03 Aug 2026 14:38:48 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T16:25:17.770Z"
+      "updatedAt": "2026-08-03T16:50:15.634Z"
     },
     {
       "name": "NPR",
@@ -112,27 +112,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T16:25:17.875Z"
+      "updatedAt": "2026-08-03T16:50:15.708Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "GOP holdouts say they will back Blanche's attorney general nomination after striking deal over fund - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaU5UYjZEbzc0bzZZQmlHZ2ZVNk9IYTVPcG02TVVRdV8xLUxjQ200X25WZ0otTlQ3VDFlMGRpVnhZT0E5aFF1RVZ1NXlIMlprOWNvWXBKeExJSFhZSjViY21XYWg2RUVSMGFIaGljaE11YmxzSGprVmRTNzI1MWZzUWNRZk10c3o0X3hWZ3B6UjYtaUxSQl9zQg?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 16:04:00 GMT",
+          "title": "Iran déjà vu: Trump once again threatens massive escalation against Tehran only to walk back - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQektERUZodzkzOXlDY2NnVEhHRzF4eElSdXV3VG1Gd2Ria3FNbUdLS3VKUFhiRzhpTHVwT3k2WXJxanZRNVNQRjJEQjBsSGl5cGV5TVViTXhDMUY5WDZPRnduaE96cFQxMVgwc1FVQl9KMThMOFRlVl9VM04yOE42cVI0eGo3YUhzWGFWeUk4bw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 16:30:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iran déjà vu: Trump once again threatens massive escalation against Tehran only to walk back - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQektERUZodzkzOXlDY2NnVEhHRzF4eElSdXV3VG1Gd2Ria3FNbUdLS3VKUFhiRzhpTHVwT3k2WXJxanZRNVNQRjJEQjBsSGl5cGV5TVViTXhDMUY5WDZPRnduaE96cFQxMVgwc1FVQl9KMThMOFRlVl9VM04yOE42cVI0eGo3YUhzWGFWeUk4bw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 16:03:00 GMT",
+          "title": "GOP holdouts say they will back Blanche's attorney general nomination after striking deal over fund - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaU5UYjZEbzc0bzZZQmlHZ2ZVNk9IYTVPcG02TVVRdV8xLUxjQ200X25WZ0otTlQ3VDFlMGRpVnhZT0E5aFF1RVZ1NXlIMlprOWNvWXBKeExJSFhZSjViY21XYWg2RUVSMGFIaGljaE11YmxzSGprVmRTNzI1MWZzUWNRZk10c3o0X3hWZ3B6UjYtaUxSQl9zQg?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 16:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump overhaul could gut Head Start preschool standards, leaving states to set the rules - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbmxVUW5lUHpOU2phY1dxTXM0QzNZb1BNMTZubnJLU1FlX2ZTVkd3eU9fWFRnbUFHUmQ1NzRhSG13ZnZON3psUERIT2pDdlB2VmpxbE9LMVJlRG1MQmc0WjE2Q2oycnBlYldyNl9oYUZfYkdPQkMxX3AwbGhoclBrUGdhVGNRM1U4R0ZLUXNiVQ?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 16:14:00 GMT",
           "source": "AP News"
         },
         {
           "title": "European soccer body UEFA warns FIFA of legal action over Infantino's failed World Cup sell-off plan - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1lMdTNycFBsQVJid1UxY0RFd0xEcVRKdW5MM2NSRGlLUTVraUVtU2xuMzk5MGFUVXhzd19XUXJwajdiNTIxX3lGSGF6UlhLODdwbjhzc1d6c09DbWZzMjJyYmo4ZXBSQ1lRWEtSeHFBRjF2UDM4NzY4OFhGX3ZXS1h4YnFXU29WdS1jTE12RW1YVmNtZUliT0E0WQ?oc=5",
           "pubDate": "Mon, 03 Aug 2026 15:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Maryland lawmakers considering steps toward partisan redistricting for 2028 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObDdGWXJXRmVJUkEwQUtvZDFTNGRIc1U5VmhFMjN5M1BmaG5wZTZvTk9lX0lOTXpONGZkQzJteVp5Q0xFWkxkaWhuZXZUbk5QRndRblI2QVh1RkF6b1JDTTkyckhSUDJhYm9ieHRVaEswV3djeUJMaEtVZDA5MHV2TGh3LThLLXpMOXhHV0NXeTV3NWhMdTdvNzNrN25vTzA?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 15:51:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,77 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVJ3YktkdzVuTjE5NnBtRXhReVlTNDdxZUpfOHZGTmhfVjRtd0pka2J4Nk5kR3FwNHFTWGc1aVIzX0ZteWF5dGRfdW1fdl9BVF9uRmctOGxnd1QxbzlicEpzaWlwYXVrRWFzLWFTM3VhT1AzV3llelkyUEhCWnRhblRCRHkwdW45aFA4SjZNdEkweExfNU4wMzcxWUFjcnNENm5lV2d2UFZKdFdmZ1NuNnZn?oc=5",
           "pubDate": "Mon, 03 Aug 2026 15:22:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump claims Iran talks will start Monday, and other developments in the Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 15:16:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ beats ‘Avengers: Endgame’ box office record - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc3paN3BtQWIzWUdMTVEyWWVBbm0yenpOdUEzVmsxVTRtRWUwZk1VTVpJTnJjRWNwejd6a09vRE5pZ0RGVGJNVmx1aVI1RU1zZEU2bmFpQ2g1Ul80YVFDX3pzcDBPc2VHTEhPS1ZoOUUtSVJJX3pqYklYZlgzZU9QYmgtN291VlZVQnFpQnRwX0c?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 15:14:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T16:25:18.334Z"
+      "updatedAt": "2026-08-03T16:50:16.182Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "AstraZeneca investors balk at prospect of $400 billion Bristol Myers pharma deal - Reuters",
+          "title": "AstraZeneca investors balk at prospect of $400 billion Bristol Myers pharma deal - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzhDZ2Y1UkxQTnZCTjg1NHdXUGZBb2Q3d3ppcnZEbWFEY1JJRWZLU0RHd1N3eDRDOVRIUXMycjdyWDNzR2pDY1ZPYXg0cFlUUWNZRWJadkt1Sld3VzZCVjN6YW1zaE1aTUt0U2x6S3p2bTRQd3dMMXc0cDhUcjJERlhyRF80YTF5My1qRmVGSU5kM3Z6bTdUcTJlS2R4TjkwM3RvdXk4eXdkYVhILWdqTS1GZlZtZ0dTZHZUMVZ5Mkk4QnI1U0lyQm1acVBfaHc?oc=5",
           "pubDate": "Mon, 03 Aug 2026 16:12:58 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US signs deal to boost Patriot and THAAD missile parts production - Reuters",
+          "title": "Michigan reports two deaths in ongoing cyclosporiasis outbreak - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW9icDFxQ3hEUUY5eV9ubnhsUURuNnpiX0RKbW1BUWRkRGp5ZWVXdnEzdklrMUdtODByVC02T0NxZG9YRGlWYklzNkN3X21kRTNDZlo0Um50Q2hDY0JreUFHcXUwZHh4TFZMVjVheVB0N2lPd0c5RzZNQ05relhmNnhlaUx6NU5MNXQxS0pJY0lOc1hsOHlYbGJYVTZHRy1xRmFOLXlMU1BWUEZ4SmNiOXNmNkFyNlVmZnR1bXVqWlZ4WFdnTzBDZEpBOA?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 16:10:58 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3RUUGplUHRFOElCUjBiQUNPYWgyNDM5MTlLT3ZyVEN2dDBnRk5JOGIyWkkzYWpQdjNGQ253WlZCbk9OeHNWZmo4djllSmRGQVRZbXA4eEQ0TldYMnJFOV95ZzRvODJJb2xySTA5eFNiMFJGc0VnX29MSmRBODZ0QjNuaHpxTVUxcXJXa2FXaFFvdkQtRmdnS0FnTlRWZVhTTGY4QzVrbVV5TkVic0o1UGJaVnhpa1J0SDdv?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 16:08:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Serbia, Sweden follow Wales in withdrawing support for Infantino re-election - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQm1tTGRXdDNDdFJ6UjEtVU9hOGpEY0RPZG1feFlLU09pdnF3OTZjNnYzZ0RoX1oxUC1MdHNjRnR4S0J6R3BMamFVeU9aUFFpZkpYTGZzWEo1RnJjZ0dNbXNnWlF6c2F4TnpKaDNncXh3djF5OURvaU9Qc2lZX3I2NFd4RGJ5NmRGcmswTGpnNmpmdExTS1hBQ0V3Y2ZVT1pkWnF4YXJ3SG01SHFKWGR1QlVzWU5KTkk?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 16:01:55 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UBS fined $125 million by US regulators for money laundering violations - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2NEeHdNTkNSVkRlY2RoazlTc1F6U2tjOEd0TkpIZVY4cmZjRS1mMGdYVnRTcXQ4UmFxNENaem5tUGhKcjNDU3Y3RG1NOGEtdU9NQzlIdXhKLVBRVjBXZE9wTGVFQ1dUbmU3MHJ1c1VjbjZVTlZJUGlLaWM5Ym5vYk1feXlzLUE2Vk0tQ01KV2Y2Qk1vMkx2bkFxVHFscXhtSkpXcFJZak9pOXBydjlQbVJsZw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 15:44:53 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "WestJet resumes operations after tentative deal ends cabin crew strike - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjd6NTB1UFpVNHR2aDgtMWpCR1RINVpBbjJpR0h1WWRoSm85dzlaTTFLRXV2am5YT182WmY0WE40Z2dGaEdsdGZ4YXEyeGZTanY2em9OMkNpN1B4dmZOZC1pY05OLThKM3FsZlNpMy1hejV0SUx3eEZpVnQ0eW1NVnAtRjhMWWNSVjFudk5tOFluanZmQks2UTRpTmd2STM1NXJwMmdJOGx3MURuckE0ZTFGLURvaFphRUN3Zg?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 15:43:12 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US signs deal to boost Patriot and THAAD missile parts production - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVpSLU9DNzZlb3plSWpueFdNUFN3ZmxuZkQxN1RhRTlaZlBteHFVVEVXN0p4NnBOY2paYTNwNGlxaGdfWGRCRjVXazlOLVUtUVZnNlB4eFB1RFBKQjBtXzQtbEN6djVNZGs5dWJBTXYtVmxSVEtfU1I1WFdJWmU4dEQ2eU8xX1Z5MVNCV1pjdkJ6dVRaVnNwbm9HbmVSaFFqd3k1aGdmbW44NEUyRENTZmtMZk9iVGxpRklr?oc=5",
           "pubDate": "Mon, 03 Aug 2026 15:35:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Visa beefs up cybersecurity offerings with $2.4 billion BioCatch deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVFQdnYtT25JcU9yZC1KUVlDaTN6djh5UjRtdDV0bFM2N2lXZWFfZXBoSFN5LXpuSFJDZkcxMWZUdzhyYzFfUFhtSS15OGxmR2N6X25zOEtkNjVMdWw3d3loUG1YNXVyMW9waHBELVNMMWdZMHNnNFJmZmFMaE9ZWDdKeWtrZGNPamRScm5SV2Q0UFBsaDFuUk1JX2hnSndseUVhV2VESW1zZDlVNnhjSVBn?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 15:23:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Romania blasts rocks to reroute cooling Danube water to nuclear reactor - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0NCWUZNek9CZlFRVXdwMjJmd2R4cVhscGFpeS1ubmFhSWF0ZnkwU1VXc3Z6N1hCcDVWclZjSzVBUXNEWlJwNWpuUFhVSXh2YzJCc3RIeHlET2FKMjBadXp3NldkQXoyR0ZzWXUxTlE2QUJvMTBTQjNpVW15SzJWMEZNR09iQXhEZnFoa3VidVd6ckJfTDViSlZPbUg3bWZQUHplR0d6cGRpZWlmdlpCWVRmek5tbjZvUUpXM3Faak9MVDlOcUFJYQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 15:13:08 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Greek crews fight wildfire northwest of Athens for fourth day - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGIyNjVnT0dMdTN2aXQ3V0x4WmtGdlRYbmtZZW0wcDFtTEJsaWRzTXVjZTdwcjRjU2phNFduMEdINlZpaTNfZmZBU3lnNVI0QW1vendwdGdEVjFJd2k0cklkQ3g0NV9tWU1lbThLTXRiNVZqSnVOdWV6YWNQUm9TRndKME9jXy00b2QzSzFTbl9idlpPVURiSThxbUlfSkFWdExNZDdZd0xfbU1QOUw1WmZnQmxTTzFyamc?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 15:09:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Chinese state traders make large US soybean purchases - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdlRFUlRNYmhiWm43dF9CNm11VVM2a3VNeVBMeE16bFRMM0NXWmctM3hTZEQ5T2lOV2UzX2I0Vk04N2xtUGFpWGM2WXNVVDJBdkxvaWNfN1c4aktsaXp1bzAyOGZoalVESks4M3QyeTl2Q2Z0VlYxTzJQWHctMWFHaUowejYtbmNhSURVR3IzWWJzT0NZZkZXdW9oamVWdjZNRGVnM2VzSVAyZnh0NU50M1hsVQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 14:55:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "WestJet flight attendants to end strike after reaching tentative wage deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjd6NTB1UFpVNHR2aDgtMWpCR1RINVpBbjJpR0h1WWRoSm85dzlaTTFLRXV2am5YT182WmY0WE40Z2dGaEdsdGZ4YXEyeGZTanY2em9OMkNpN1B4dmZOZC1pY05OLThKM3FsZlNpMy1hejV0SUx3eEZpVnQ0eW1NVnAtRjhMWWNSVjFudk5tOFluanZmQks2UTRpTmd2STM1NXJwMmdJOGx3MURuckE0ZTFGLURvaFphRUN3Zg?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 14:26:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump demands lower gas prices from oil companies, chides Chevron CEO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlhBWjU3Vnk4RkhNa1N0cExPUjhxenRiTGVQbVVzakwxRWdhMU9ieVZvSm5fZU4yYkJaREVJR3ltYUhXZW1JYkx6c1lJS1ZYVkM4WVZZSGQza3ZQMDVTYVg5ZktqbGh6RjhWN2wzRTNZUDg0U0JEU2R3N3U2NkVmYjNlOFhHTHFUYmd1QzFGRlg1V2lzWnhabkVVLUt3YmVQS0dGeUwtUnVKb2xMZjQzOGZvY0NKQQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 14:26:09 GMT",
+          "title": "KKR to take medical-equipment maker Integer Holdings private in $5.7 billion deal - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkRNRzM5c1JYM21vTFJXYTFVVG9XTHZhX0lVRC16OGNsM3pPQVJLbE9OLXVBVW0yUzhsUloyMkNCTU4zZEwwX1R3Q2IxOThxb0VuWEQ0dHlyaGhQSjZwaUZBOTc4NTZQSHpwTm83RFFkTXRLNk9rV1NFX0tSbC1NNXdfSUhIMXlDc3RYOFNVWVZTVXo1Zjc3aHo1dkhKbjNjQmFHTHo0eks2WmJJTHBYSg?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 15:33:10 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T16:25:18.773Z"
+      "updatedAt": "2026-08-03T16:50:16.560Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T16:25:19.027Z"
+      "updatedAt": "2026-08-03T16:50:16.842Z"
     }
   ]
 }
