@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-03T08:00:18.484Z",
-  "lastChecked": "2026-08-03T08:00:18.484Z",
-  "lastUpdated": "2026-08-03T08:00:18.484Z",
-  "generatedAt": "2026-08-03T08:00:18.484Z",
+  "fetchedAt": "2026-08-03T08:22:47.428Z",
+  "lastChecked": "2026-08-03T08:22:47.428Z",
+  "lastUpdated": "2026-08-03T08:22:47.428Z",
+  "generatedAt": "2026-08-03T08:22:47.428Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump suggests new talks with Iran to begin on Monday",
+          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 03 Aug 2026 08:03:15 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
           "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
@@ -20,6 +26,24 @@
           "source": "BBC News"
         },
         {
+          "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+          "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 03 Aug 2026 06:53:09 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
+          "link": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 03 Aug 2026 05:31:55 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Outside the Moscow restaurant where bomb killed three",
+          "link": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 03 Aug 2026 03:53:05 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
           "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 03 Aug 2026 03:32:21 GMT",
@@ -30,34 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 03 Aug 2026 01:43:16 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Massive Attack respond after Singapore ban over Palestine display",
-          "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 03 Aug 2026 01:31:05 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-          "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 03 Aug 2026 01:03:31 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump suggests new talks with Iran to begin on Monday",
-          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 03 Aug 2026 00:11:18 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "'What was my fault?': How India's exam paper leak ended young lives",
-          "link": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 02 Aug 2026 23:35:54 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T08:00:17.234Z"
+      "updatedAt": "2026-08-03T08:22:46.192Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T08:00:17.399Z"
+      "updatedAt": "2026-08-03T08:22:46.280Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,13 @@
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 07:46:21 GMT",
+          "pubDate": "Mon, 03 Aug 2026 08:20:21 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US dollar weakens sharply against the Japanese yen after market interventions - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkpfVU0zTnBZSEZnbmNLUUxSMzVoSzVTMk1xZVRyS1FaU1hHbXBlVlpIWHJsQ1owSndGU3hKS3Znc3RVUjFiS3VnUl9vWU54Y05JT1dWb19GeG50NkttOVZld1hNUndETHJOdzhBSnhsY3FtQml3dXRRWmZxbTVSOE0teE1wMldFVmtuS3F3RXdDM1JMU29DcA?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 08:08:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "At colleges, the AI boom means everyone wants to dabble in computer science - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2M5Y2o5U09FZ0ZJRWdUbmM3U3hrZHdncUJLcDI2TG91WXo1MzI2V052SVZScW5oYlg2d1h5M1pKUWhtUHpGVnRzX2pKMzRKaXBXX3ZKVnRYanU0YXJOeEgyMjB1QzlFYVBoMENXUUNUQmdfZjFHYXU0Vk9jYUZHSE9iQUt6cldjNGotV0E3WHJ4c2dGZ0pTWkVmWkQyYVAtckE?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 05:13:52 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "More pregnant women are dying in Congo as they avoid hospitals over Ebola - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdTBDVVNZcGVsYWlVc2VLalJKVE9MUVlCMlRLblVBWVo5ZEVsQmNzRC04bU92NXFWQnp2X2x2MWt6N2FONU9qbEhqRjJsaHIzc0NTMnVkWGh5VGxxREhjakh1ZWQ2c080RjVzTkg3TWRRVGE2eWJwT3h0bktSQVdkelQyUERNU3p0THI2SXFsaGZveC04T2ZKdEktbnRYV1htNnVHSWxIT1MzMld3dTg4?oc=5",
           "pubDate": "Mon, 03 Aug 2026 05:13:00 GMT",
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaU5UYjZEbzc0bzZZQmlHZ2ZVNk9IYTVPcG02TVVRdV8xLUxjQ200X25WZ0otTlQ3VDFlMGRpVnhZT0E5aFF1RVZ1NXlIMlprOWNvWXBKeExJSFhZSjViY21XYWg2RUVSMGFIaGljaE11YmxzSGprVmRTNzI1MWZzUWNRZk10c3o0X3hWZ3B6UjYtaUxSQl9zQg?oc=5",
           "pubDate": "Mon, 03 Aug 2026 04:58:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Myanmar’s detained former leader Aung San Suu Kyi has rare meeting with Red Cross - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlctT0dBVG9VVlhKZ284bjkxZlJVUFJDMFg0eGdHNkp2X1pQa2pPV0VZN3JZWFlRQ25zWHVCTkIzampNaWRqYjZ4VFdiQjk2WGZaS0didzJnaGc4M2JYV0dYdFU5dy1pTUZnRmFwcmpsb01iRzRBUFRQcUlKZWFhdzV1M1JfdV8yNlA1UzBiRUNVRUR5dVlqQUJ0QmNpS2pxMGVFVw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 04:58:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Maryland lawmakers to consider steps toward partisan redistricting for 2028 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObDdGWXJXRmVJUkEwQUtvZDFTNGRIc1U5VmhFMjN5M1BmaG5wZTZvTk9lX0lOTXpONGZkQzJteVp5Q0xFWkxkaWhuZXZUbk5QRndRblI2QVh1RkF6b1JDTTkyckhSUDJhYm9ieHRVaEswV3djeUJMaEtVZDA5MHV2TGh3LThLLXpMOXhHV0NXeTV3NWhMdTdvNzNrN25vTzA?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 04:27:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T08:00:17.817Z"
+      "updatedAt": "2026-08-03T08:22:46.749Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "India central bank to stay on hold even as peers pivot to rate hikes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1ZnaU9wamdlVW9ldFhnaFBfSUhSN3VsempmMkc0SDQ3M2pGOElvdGFrU3BXNDgtb1dtN21mNXhaWnZMZERRSHNadWhfMENwb0NLc2kxRzNyWTduWENzYUlJamZaaFNVQU1IeGVaR0lHU185bTJodVVQdW9CUTlwYXRqY004c25JeWdWamd1UENkYTF0M01KaFNaZUlNNGQ5VlIta2g2QQ?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 07:40:08 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Shell agrees to sell European onshore renewables unit to TotalEnergies - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdHBuR2ZmM29uWDZCSnBpbXl0RjlCVUgxRFkwV2VRZUhVQS01N1ZRUW1hdVlOdW9VTWZsQ0ZuTjItYUhmT3E0TFVBbFk4MElUOWg0TUxlOHBLNjAxRlRzMVFXZWl5bDJVLUdaX0ZMVTdEUEZaUTk5TF91MUcxNHFQZW8xQ1NhdllMSHZodkV2U2ZrOHcwQXJ6dGFWT3VZMGxwblM5M3FXb212NVdRRDJVM0VmTElYakwtOG82MQ?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaS01TXBGZ0t1dGxjdmhzS2dVUVRDQWdRMkJVV1JZVG5WSjJKeEc0dnhKZkdmcGxBcENRVTNMSDVJZmhycTlCaExVWm5qaUVIZWo1eEZ3Q1p2QVZhMVRLamRhLU91d0JTWTVlQlRXaHhqYzZiTnU1UlpNLU5JX0NLR21rOTlSZDgwemtmNldONGlpTC1SZjliZmhJQ0RsU0tlbjZLMFQtOC1YcUw5UXVtQnBpdXhtS1k3Y2VrQWU3TnB0aktybDFUcGpyTks4NTBH?oc=5",
           "pubDate": "Mon, 03 Aug 2026 05:32:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Big investors think it might be time to buy in South Korea - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkx6Tk1FMlZlOUVsdGp6Vlo3SmxOSnVXU05BdFVDNUZ2QXZDREpBYy1HSVdPTWtLMmpicnVCNE5Od2gzR2tvbEtneXAyM3o0U1FKREpnNDJHNFp1MDc4bURkMEg5aEhqV0I0ZzF6UGJUNkFPR0RhUGJWeEdwM2UtS3pxcktqQnhZazRvMXVBSXhSemk4ZDltRENIUmdNX0pTVV96VGpBQ0REVzQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 05:20:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T08:00:18.204Z"
+      "updatedAt": "2026-08-03T08:22:47.114Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T08:00:18.484Z"
+      "updatedAt": "2026-08-03T08:22:47.428Z"
     }
   ]
 }
