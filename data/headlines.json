@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-03T21:00:26.171Z",
-  "lastChecked": "2026-08-03T21:00:26.171Z",
-  "lastUpdated": "2026-08-03T21:00:26.171Z",
-  "generatedAt": "2026-08-03T21:00:26.171Z",
+  "fetchedAt": "2026-08-03T21:25:15.799Z",
+  "lastChecked": "2026-08-03T21:25:15.799Z",
+  "lastUpdated": "2026-08-03T21:25:15.799Z",
+  "generatedAt": "2026-08-03T21:25:15.799Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T21:00:24.545Z"
+      "updatedAt": "2026-08-03T21:25:14.641Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
+          "link": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
+          "pubDate": "Mon, 03 Aug 2026 17:17:49 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
           "link": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
@@ -103,20 +109,44 @@
           "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
           "pubDate": "Mon, 03 Aug 2026 07:57:06 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "What would it take to get peptides on the shelf?",
-          "link": "https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation",
-          "pubDate": "Mon, 03 Aug 2026 07:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T21:00:24.786Z"
+      "updatedAt": "2026-08-03T21:25:14.803Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Michigan reports the first 2 US deaths related to a diarrhea-causing parasite - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbTlMT3pHaGFaRzdjMHdrZ1RWOVhwY1FPSi1TSm5pNEFuaHlLVldYYXF3VHY3WTR2MHNCMW12SVd4dXRSZy13NEkyR3BVc2QwcV9SZnR4Z1hxX05jUGNOYkJnUXp1V2hYbVhZcG4zUUhJVWl2SS1ibTVtdlQ4cjdvcHZSMC1OQS00WldrVmd0RDdWMEN6MlFnT1BOaw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 21:09:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "25 states sue over Trump’s new tariffs, calling them ‘pretext’ to replace his old ones - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV1dVOXhnRXI2M3NoSHgwTFZTUnFzZDdfdEM1ZkpnQXQ2cS1ycXJtNkFkQkN4R3hRVUdjWnpKWTZ5cUF3TFRQT3FGaGx6YkhNejZpem9hcTdlVzhPRFdhSUVJbFRSWEFsaGtQQUxKTGVuQ0E1cFYxZElnSlJZRnhiRnl6ay10Nk1GWXFDYmtKeGtWaEFEREpFclhPYU9wdw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 20:57:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US stocks rally near a record as falling oil prices ease Wall Street’s worries about inflation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTMweFRadm51ZDBCVG5fZlAzdEFVZGZpZ2dVcVdsb0dfRHI4M3VzTWI4YllxTDBQUzJNUDQwLXFjZnVMMG43aW0zbnJ1ZmxyODhmdk1zeXhIVmdxc2F4OUlPNWZ6MFFZRTlKNnduenlqcjJDQ3JNWHpuZFBpejZmTXVva3ZwTWg1cnduR2hhMTJQYmVVZ3JacklNYw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 20:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Supreme Court won’t halt $656M judgment against the PLO and Palestinian Authority - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQTNFck1qRmVpNFJZUDBCcll3ZUZicVBTbWZ0Skt1RFJXdGJQWUVOUXhnZEhUYWhQTzRLTlhJaHpzcFIwQ01QbmRSZ05YMHh6eldLQlBjeUtfeEwxd2xaUzJyb1M4ZmJiV25rcUQ4c3ozNkNjcmVweEM0QnM4MGxhWGZ6bFQwckdVemhDUV9qT1ZvOUs0eFpfUl8taHY?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 20:42:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Tropical shark caught off Massachusetts could be sign of warming waters - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdUktSnpneXJHSjNvTXdETlBoS09NeURIUXBfYWVoN1VOMUtCMllPZXJFd3Z2UzVZODNkSno1cjdTVVBmT2x4bVZRSTAwY09Ic0FXQzl3OUR0QnhDV2drVWVmSElwa3cwZXpJYlFURVJRNzZzUHpXSnNxVk9YbkdMSm5ucFV0ZlFnWEN3bTZ5OWVkRTBKbm5YNTI1Y3ZTdXBHYXhNaQ?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 20:20:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump optimistic Iran talks will reopen strait, and other developments in the Middle East - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
@@ -134,48 +164,36 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXRqaG5OT1JIRlYyV2Z2dVdPTTNwYnBINWR6UlVMcmM2MHk4Q3pGU3hCT0w3MUxUU0M0ZGRadFFrbDl3R0lvNWZlVW9BeGVUVThXUFRCdFQ5QmJhSnRNdUl5MlBaVXBRRG1VQThPaUVYdU4zVlhjX09PM1FnczJjTVVvbVVmRHhOVkItT2lTUjBnaGpoV1lvczV0bnlFUUVVekhya2RJSnh4bE9Pc2c?oc=5",
           "pubDate": "Mon, 03 Aug 2026 19:57:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "GOP holdouts say they will back Blanche's attorney general nomination after striking deal over fund - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaU5UYjZEbzc0bzZZQmlHZ2ZVNk9IYTVPcG02TVVRdV8xLUxjQ200X25WZ0otTlQ3VDFlMGRpVnhZT0E5aFF1RVZ1NXlIMlprOWNvWXBKeExJSFhZSjViY21XYWg2RUVSMGFIaGljaE11YmxzSGprVmRTNzI1MWZzUWNRZk10c3o0X3hWZ3B6UjYtaUxSQl9zQg?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 19:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "States sue to block feds from sharing personal data of millions who receive social service benefits - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNElhbnE4blFiWDEyWTlRN3ZFbjhzM3V6YzRWeUd4QzFWaEo5d3Y3bnBIT3J5S1o1UGxpQ0h1dGRXVnB2S2VranltSElwTzk2Z3dwUmNUZmg5emw4dDJCUXlPdlM1ZEJIRmxhRE5GQ0FpTmtvb3FaNXBWYTkyb1NjMHhYQm1SQUJkOEdoekhjSm5FbDFZX0JvXzk5QURtRWZtRFZXYQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 19:20:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "As Blanche’s path to confirmation is cleared, Trump’s tax audit immunity remains in place - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRC1iVW5sZ1FrOW9DOXlJVTV0Y2tyLTVzaVd6WE1RY2ZsazA2X1FHejllSHNVN2ZXR3J6clRXUlhMMm1MSTRmUW5PbVpSVFBISktNX2YtTjNnbnA0UGp4VlhwUy1jdkE4TTRYMmg0Qmh2R2UxUDkzMWoyYXF0MEt4cnlRY282cVFCcXFJZUZValA4RU5nWEZFbnd1a2UtUQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 19:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump bank accounts were closed due to concerns over possible money laundering, Capital One says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYkdYQXJGb2tPNk1US2l6MzkydGhMS3R3Q0s5QWVZNlQ1bmZneGN2LTRjcVhhemVaMWwwZTh5MWhMVzhnTGdyTzhaVVNKTmVYUi1kdU1PeUhmY0ZQelZoNE8tcjE2LVlaQXhvRXRMeENIdlZpSkdNelBTY1FlSWJ0MW5PcTdMWUpUaUhGOTJISHVxV1ItRU9tZlZSanJjQU1HS29GajYxaw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 18:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Cubans sleep on seaside boardwalk to seek relief from crippling blackouts and summer heat - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUVoQTd5cC1fak9NdXRZdnVMTDhzanIxWGpUZFlUbGZWbkdCcmRrTFdjcExmOHNlYjNIZXF4Z25ObzVNMXhyTjlySjVBNWFsd09KZldjWG1KTTBaY0lNaUQyX2NxSG0yNTdWbk1lamxMalliM0FlbFJuRXhlOW5hZXRKVFRQYTNqaU1KeTdPMTNnOHRZTzA1a2ZB?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 18:20:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T21:00:25.439Z"
+      "updatedAt": "2026-08-03T21:25:15.182Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "States, groups sue over Trump policy of sharing benefits data with immigration authorities - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeE1vb282TkZIYTFGNVp2WUI0eGxJVWtCVHZLeHFtVk1SMi00TW5zYkEtNUY2aW5vWDJnS0l6NGFKNDM4SXNMQUxCcnl6YklPSTV6RFZrT2J4b3FROFFTbm4tTzFuTFdNMkVuR3l1dDN2V0lmdzA2eUZqZFJSdTZSaC14NTRTRzIzTl9jN0VsUWZGSjRfZldtaEstYjRyV2N5bTBYZHJDRDJMbjdPQ2o3dVROeENNZUlISmo0aTJZbjMzY1NWX2RyVzFicDQ?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 21:06:49 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Democratic US states sue to challenge Trump's latest tariffs - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzdtbnRyNlNqdjVKN2l0dllQSjdlQjM0QWVIbFhiM3NnT1JVR0tSLWY5ajZpTVhsQzdwWUJKcVp5VE5hcFdQZU85TU9yVnJjc1ozM1FJMkY1RmcyZHdYM2hkV21rQlNLSGZLNy1uLUFjNm1NcFVtZUZubjYtNkQyZmpEMEMycXhtZXMzQ0tLMmFhZmdwN2gw?oc=5",
           "pubDate": "Mon, 03 Aug 2026 20:53:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 20:26:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump blasts Jeanine Pirro, says she 'choked' in dropping reflecting pool case - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnlOQ24wLWR5VXJNU0h2M3ZTRzV6Zng1eFVHT1ZjVzdOTHIzTmtrMkxxWDBzQlFNRk1ya0NNbHFzSlMwSFlBVWJqWGo1ZUU0NFhxdGdFbUIzVW85UmRRUEpiTHdsZzVqWF9TZFB4MDVkYmFiaVdDbGEwV0FzeXN5bUlkUmgtZzR2a212OTBBSTVKWTdWRU54R1l1clBGQU5qYkdpa2lEUU5vYmdCZkFGMU5PLVhCWnFnWGYyWnZBUFBRSGc?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 20:17:12 GMT",
           "source": "Reuters"
         },
         {
@@ -191,38 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Trump says Iran faces 'decapitation' if it doesn't strike deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 19:49:01 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Meta, Anthropic invited to meet with Trump officials about AI safety testing - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
           "pubDate": "Mon, 03 Aug 2026 19:47:05 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "WestJet resumes operations after tentative deal ends cabin crew strike - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjd6NTB1UFpVNHR2aDgtMWpCR1RINVpBbjJpR0h1WWRoSm85dzlaTTFLRXV2am5YT182WmY0WE40Z2dGaEdsdGZ4YXEyeGZTanY2em9OMkNpN1B4dmZOZC1pY05OLThKM3FsZlNpMy1hejV0SUx3eEZpVnQ0eW1NVnAtRjhMWWNSVjFudk5tOFluanZmQks2UTRpTmd2STM1NXJwMmdJOGx3MURuckE0ZTFGLURvaFphRUN3Zg?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 19:42:33 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump blasts Jeanine Pirro, says she 'choked' in dropping reflecting pool case - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnlOQ24wLWR5VXJNU0h2M3ZTRzV6Zng1eFVHT1ZjVzdOTHIzTmtrMkxxWDBzQlFNRk1ya0NNbHFzSlMwSFlBVWJqWGo1ZUU0NFhxdGdFbUIzVW85UmRRUEpiTHdsZzVqWF9TZFB4MDVkYmFiaVdDbGEwV0FzeXN5bUlkUmgtZzR2a212OTBBSTVKWTdWRU54R1l1clBGQU5qYkdpa2lEUU5vYmdCZkFGMU5PLVhCWnFnWGYyWnZBUFBRSGc?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 19:35:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "California's highest court rules for Gilead in 'duty to innovate' case - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTUzYlUxRmJnSldmWTQ1T1JWUGxlNUtGalRMZkJkT3J3OFZONENFSEJ4U0NkakhFWFZFS0oyNmgzVFpyZzdpbnJZVE1jNkJfekJGSGt5bzdSay1JWFlzanpfRUR3VGR4MjhZTGJOekJKVW5LUjRXbG9PZnAxWE1CcUl5a3ZsanZhVnpSOWFjWFlZdzlWQ2NOQ1dBX0tjZ2JI?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 19:34:03 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Greek crews fight wildfire northwest of Athens for fourth day - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGIyNjVnT0dMdTN2aXQ3V0x4WmtGdlRYbmtZZW0wcDFtTEJsaWRzTXVjZTdwcjRjU2phNFduMEdINlZpaTNfZmZBU3lnNVI0QW1vendwdGdEVjFJd2k0cklkQ3g0NV9tWU1lbThLTXRiNVZqSnVOdWV6YWNQUm9TRndKME9jXy00b2QzSzFTbl9idlpPVURiSThxbUlfSkFWdExNZDdZd0xfbU1QOUw1WmZnQmxTTzFyamc?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 19:20:55 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T21:00:25.922Z"
+      "updatedAt": "2026-08-03T21:25:15.618Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T21:00:26.171Z"
+      "updatedAt": "2026-08-03T21:25:15.799Z"
     }
   ]
 }
