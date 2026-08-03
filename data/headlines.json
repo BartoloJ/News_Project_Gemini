@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-03T03:25:18.337Z",
-  "lastChecked": "2026-08-03T03:25:18.337Z",
-  "lastUpdated": "2026-08-03T03:25:18.337Z",
-  "generatedAt": "2026-08-03T03:25:18.337Z",
+  "fetchedAt": "2026-08-03T03:50:15.471Z",
+  "lastChecked": "2026-08-03T03:50:15.471Z",
+  "lastUpdated": "2026-08-03T03:50:15.471Z",
+  "generatedAt": "2026-08-03T03:50:15.471Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T03:25:17.189Z"
+      "updatedAt": "2026-08-03T03:50:14.321Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T03:25:17.316Z"
+      "updatedAt": "2026-08-03T03:50:14.577Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Kay Granger, first Republican woman from Texas to serve in the House, has died at age 83 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbldmSFRRT0ZPMThZaEVtaUkzbml4Ymx3Q1NHWG9jYk5jSllENUkxTUZWMURTMnJnZFFZYlB4RHlBckplWmRfTTE0dTRFU2ZpVVB2b1cwTlZaUjBSbjVhNG1vNG9kLVB3ZUE5a2FERWFNMUh4bTJ6TU1scWU5U211VUFkWkJlb0FuckIxcS1pYnFlbDg?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 02:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0lKdjVraF9jNC00MkFVWW9laUIzY3dhUGtXZE5sT1J2dzVCUFo0dS1EZ1ZOZTVlWHhBaXRYeFZDb1ZTeXdCM3lyQi1xWm9wd3JxWVVsNU5ycWI1Ynd1WUM0WVJQVllad1VudGJwRGRlcWZrT2JENC1vRVVWSTNQMUt4cklGUG91dzgySTVRcVlGbU9XUGZiaXE4M1I?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 02:42:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV82Z0xEX2JldWNxWXNmMFQtakZrbndjeWNKaEgwRDQ2Z2pNRzJHQllnRkVVcjh4SzgtTmJPWTV4VEV0Z3YzdFctekpqck92RGpYLU1kMUtIN29IOEpwZVNBMTlFRDQtVktmWWYtbG9LZ0NwZER2QzJwYjByTWduVUtaR1lNVG5GVDVMRXd0dEJPdG9QYnk3VU5ORWtsYjRONkE?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 02:07:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Skubal to Dodgers, García to Yankees as MLB teams make additions before trade deadline - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFlvWmZ2M1ljRHlONWdkeVcwd1JiQWhHSmtIUFktb2ZrTmVWVGVOdWNfRFF0RVMyUWFYXzFrV3VlYVNVOTFadWRsRVozSUkwbXZTRWJnaWRYcWoxdUhQa3VyMGVUMU1JWmhOUmhTTGxWRlJ2TTR1N1hkblprZjVoekxnMEFwdlN2dVpfN0c5UVVaQWp2MjlpWjg3ZlVoQkdDcFRubg?oc=5",
           "pubDate": "Mon, 03 Aug 2026 02:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US dollar weakens sharply against the Japanese yen after officials intervene in markets - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkpfVU0zTnBZSEZnbmNLUUxSMzVoSzVTMk1xZVRyS1FaU1hHbXBlVlpIWHJsQ1owSndGU3hKS3Znc3RVUjFiS3VnUl9vWU54Y05JT1dWb19GeG50NkttOVZld1hNUndETHJOdzhBSnhsY3FtQml3dXRRWmZxbTVSOE0teE1wMldFVmtuS3F3RXdDM1JMU29DcA?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 01:50:00 GMT",
           "source": "AP News"
         },
         {
@@ -130,48 +154,30 @@
           "source": "AP News"
         },
         {
-          "title": "Eastern Washington fires have burned 600 structures and forced the evacuation of 60,000 people - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDZXcXlCclB1VmpxU0VWUl9uTmtBZDNLWjNCUm5GXzAzOHoxY2k4eUVtRWtfZ3BKMzVTRHpwclBzZ0JFbHNfZm10MVA1bUttWmVYVnNOb3NHNGU0VGJJQW9lMW9kTGxXUXdKblVYVUJpRU5nb3VTNkM4SDZ1RnpObFdtQ1RMeVA5cThHOXIyNjF1S0JsYWZUeTBRSVRGNzlTV2E1amVNQzlMMms?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 00:42:00 GMT",
+          "title": "August’s total solar eclipse will sweep over Spain, Iceland and Greenland - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMjEzV3E0aFlLOFBzZTY5enhOTW1rRE5YNEtOZlF5V0ktV3JISzdPeldDcU04cnVsbHpsZ3Uyc1dXaFpwZ0hPWVpkaGJ4bllJTjZ6Z2poczFGTkVKRTBNWHlFeFJLSDJuVjR4SEhSd2VlWE5qOVRZS01rbncxREp4VTR5ZUNDYnJLRlFRZ1c5UHVqQQ?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 01:04:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "AI-assisted staging draws boos at the Richard Wagner festival in Germany - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY3ozYU5WMW5HQTZ6cTJUaWk1dWxtRmVmQXhFOTBxa25rWUpZYVZPTHBsaXRwcFE5d3hCX2NtLU42cWk5Nm9LVHhhaDN4VWFKSWl5cHBNQUI5MFQ5U2JKUHh4cVF3Zk1MeTRrMndfenkyZmJqQ2RyTWsxYkRGTXJJUk54UndCak5BQXVVdmZtdDRsbWhpaENHS1lsWQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 00:12:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmxQdEZiSXlLeERWT1Mya3c4bm5OWWtvOGxyNjJ5LUFGYjBHeTZlVjA3SkdfNUNyQzhNTE5Rc0tDcXRLUW9Zdkd6aWFBcElaMEl1b3FIbkxpWkYyQTJZUzBlYXg3RDlOYWNUd1cwV0ROUGppZlkzcG5uY1RZWnBZX29SNlI0a1RwbzY0YzZSX0lJSHpONWpmZUJHLTMyVmRfZFhVMUpUNXJKZw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 00:09:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The Tigers face a difficult challenge after trading ace Tarik Skubal to the Dodgers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeDJ4ek9BcGlveXdnZW1JRjREMHlJYmZRd0xyMno4ck9RVXE1ZG9iYUpJQS1EYzZkYUstMko5RTlhMldoQzMyYXY1QWYwZS00QlZtM2I5NnpWQ1ZFeDUyMkw1ajd2Mm51ZnZBQzFlNXJBbFVLek81MXpjMTR3NVNXTGxFV0FfUQ?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 23:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Oil prices drop after Trump orders US forces to hold off on new strikes against Iran - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEZkWTg3a001MVcwRG1xUHMyZEswTmlEdWZTSjhHc0ZoTDhjcHJjeG9RajROSHJRQzV1RHQyMTJtTFo0czE3NDRnUzJlcjZZblZtRzZZRWlFODlUZEhoeU1ETzJiTlEwWGQ5RU5XS1pTV2Fib2FnWXJNRHhkRmx4MDlwUGkzTHVxcFc4VzJB?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 23:02:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZy05LW5ObUpORjFnYnd6WWR0UmJrOVVXR19TU1JqcFBxdUtwMGRGZm5DX2hNZ3h0dWhRWk5Rd3M1cGY5WnpneE85T1JDOEdtYnZUMWl0b1AwN0JseTRCQTNmVlllQzN1djg3RzIyWENCdGx2SzdZSXJLNHJJeXFPVHVwc292NnlCbDJTdDhHQ3ZURE0zaEJvdHR2dkxyRVk1a1FoTmtoZw?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 22:59:00 GMT",
+          "title": "Miles, Williams help WNBA-best Lynx hold off Fever 108-100 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQnhLUlN5b1lHT2tYaGRwcVhyalpiRlJqdjJINjlrbHFxM2JFZ204RVctTHdYNVQzVm5iTFFyeUMwYmZ2bzZ3RXQ2VUNuenNwNU1scFhhWk83U0xSblIyZmxJY2ctWnZoRXBTUnRmY1dpUWhrZVVoQzFySzZiQUF1M2VB?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 00:44:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T03:25:17.756Z"
+      "updatedAt": "2026-08-03T03:50:15.012Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "About 60,000 ordered to evacuate from fires in Spokane, Washington - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmVvUU9GWHZNQ2xfZzVHYzdwelBpNHdwbHVCNWhWX1E0Y0JJV2ZHblByTjhqMUt5S2NsSDhfcEtLdk5xdzVuOGczb1RiVW5kSjNJQ05QY0ZZNEd3QWdGZlZKWDJOOFMtRmhSOXU0dnJhVDJqaWlXZWVKeHB1YklvamlZWUh6RGlkb3ladDFzOUtWazR0d3NRTzktS2ZEYWlBbTN4M1lHWHdldw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 02:46:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "India central bank to stay on hold even as peers pivot to rate hikes - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1ZnaU9wamdlVW9ldFhnaFBfSUhSN3VsempmMkc0SDQ3M2pGOElvdGFrU3BXNDgtb1dtN21mNXhaWnZMZERRSHNadWhfMENwb0NLc2kxRzNyWTduWENzYUlJamZaaFNVQU1IeGVaR0lHU185bTJodVVQdW9CUTlwYXRqY004c25JeWdWamd1UENkYTF0M01KaFNaZUlNNGQ5VlIta2g2QQ?oc=5",
@@ -203,7 +209,7 @@
           "source": "Reuters"
         },
         {
-          "title": "Yen leaps after intervention, leaving the dollar bruised - Reuters",
+          "title": "Yen climbs as traders watch for further intervention - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaXpfRUdtOGNadXREWXpDZmVoUmQtVlJCdS12NzV3S253d2NLMmpVTVJBeXNhdmk0T2hMaThCdUNnaXMxcEZrR1JtOEtxLUFsaEpfNFlnY1Y0LTJISkFqN3RnRkZCRWxzaHllRGxZLV83ZTlIX1RtQ2RkQTVoQlk0Rnc5bzFCTUluNnI4QTY1b1YwaDlMNTg1amJwT05MVUFyQUFVZ25JMU1UekVSYWVuWjVMV2Z4ZmZZaGJaeXVMdEE?oc=5",
           "pubDate": "Mon, 03 Aug 2026 00:37:00 GMT",
           "source": "Reuters"
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE?oc=5",
           "pubDate": "Mon, 03 Aug 2026 00:11:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "China's Chery to invest $75 mln in Korea's KG Mobility, eyes overseas markets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMHcyblFseVdpWUdPVVdaYy01XzhlWFBObENialpfdWZoeW5hemhtODBRd0ZkbG9QeDVqR2RBYzZDV3NQcGRoWVgxY3dXa1d4UlFoRDEwR0lkSVl6QTRrZmFaU2ZpazIxdUQ4TWtmQzJKVHg3Q2FPd0VIMk1NaTBFdUV5VE9kQ3hlRVo1RGx3aHp2ZHhKY1RkcDdtcUc0SmVaVUM2T2sxVjVDdlJQdmNTTUpwam9CenQ3SjZIVWd5RUFmbGJiMUxuekl2UHpnUQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 00:02:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T03:25:18.183Z"
+      "updatedAt": "2026-08-03T03:50:15.406Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T03:25:18.337Z"
+      "updatedAt": "2026-08-03T03:50:15.471Z"
     }
   ]
 }
