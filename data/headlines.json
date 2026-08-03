@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-03T19:00:20.081Z",
-  "lastChecked": "2026-08-03T19:00:20.081Z",
-  "lastUpdated": "2026-08-03T19:00:20.081Z",
-  "generatedAt": "2026-08-03T19:00:20.081Z",
+  "fetchedAt": "2026-08-03T19:25:15.212Z",
+  "lastChecked": "2026-08-03T19:25:15.212Z",
+  "lastUpdated": "2026-08-03T19:25:15.212Z",
+  "generatedAt": "2026-08-03T19:25:15.212Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T19:00:18.900Z"
+      "updatedAt": "2026-08-03T19:25:13.746Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "With U.S. doors shutting, Cubans turn to Brazil for asylum",
+          "link": "https://www.npr.org/2026/08/03/nx-s1-5910714/brazil-cuba-migration",
+          "pubDate": "Mon, 03 Aug 2026 15:05:41 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Photos: Wildfires in Spokane lead to thousands of evacuations",
           "link": "https://www.npr.org/sections/the-picture-show/2026/08/03/g-s1-137003/photos-wildfires-in-spokane-lead-to-thousands-of-evacuations",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
           "pubDate": "Mon, 03 Aug 2026 05:42:04 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Over 4 million people are no longer receiving food aid amid sweeping changes to SNAP",
-          "link": "https://www.npr.org/2026/08/03/nx-s1-5906797/snap-food-stamp-federal-changes-what-to-know",
-          "pubDate": "Mon, 03 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T19:00:18.980Z"
+      "updatedAt": "2026-08-03T19:25:13.947Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,7 @@
         {
           "title": "New talks are 'last chance' for Iran to forge a deal and avoid escalation of US strikes, Trump says - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQektERUZodzkzOXlDY2NnVEhHRzF4eElSdXV3VG1Gd2Ria3FNbUdLS3VKUFhiRzhpTHVwT3k2WXJxanZRNVNQRjJEQjBsSGl5cGV5TVViTXhDMUY5WDZPRnduaE96cFQxMVgwc1FVQl9KMThMOFRlVl9VM04yOE42cVI0eGo3YUhzWGFWeUk4bw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 18:53:00 GMT",
+          "pubDate": "Mon, 03 Aug 2026 19:05:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,15 +167,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T19:00:19.439Z"
+      "updatedAt": "2026-08-03T19:25:14.466Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Meta, Anthropic invited to meet with Trump officials about AI safety testing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 19:03:19 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "AstraZeneca investors balk at prospect of $400 billion Bristol Myers pharma deal - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzhDZ2Y1UkxQTnZCTjg1NHdXUGZBb2Q3d3ppcnZEbWFEY1JJRWZLU0RHd1N3eDRDOVRIUXMycjdyWDNzR2pDY1ZPYXg0cFlUUWNZRWJadkt1Sld3VzZCVjN6YW1zaE1aTUt0U2x6S3p2bTRQd3dMMXc0cDhUcjJERlhyRF80YTF5My1qRmVGSU5kM3Z6bTdUcTJlS2R4TjkwM3RvdXk4eXdkYVhILWdqTS1GZlZtZ0dTZHZUMVZ5Mkk4QnI1U0lyQm1acVBfaHc?oc=5",
           "pubDate": "Mon, 03 Aug 2026 18:43:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Michigan reports first US deaths in cyclosporiasis outbreak - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW9icDFxQ3hEUUY5eV9ubnhsUURuNnpiX0RKbW1BUWRkRGp5ZWVXdnEzdklrMUdtODByVC02T0NxZG9YRGlWYklzNkN3X21kRTNDZlo0Um50Q2hDY0JreUFHcXUwZHh4TFZMVjVheVB0N2lPd0c5RzZNQ05relhmNnhlaUx6NU5MNXQxS0pJY0lOc1hsOHlYbGJYVTZHRy1xRmFOLXlMU1BWUEZ4SmNiOXNmNkFyNlVmZnR1bXVqWlZ4WFdnTzBDZEpBOA?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 18:42:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall Street rallies to kick off August on Iran talks optimism - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 18:37:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Broadcom loses court bid to suspend EU antitrust request for US legal papers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ29aaHJiZXgxck9tZnJCXzMxdTA4ZlIyb2NhSEtLVUNhQm9Idmh4Vm04SXk0S0xjMEFjTWstYmZDLW9MTm9Zb2NNVUhBQzlYNjMxeUIyV2JtRldialNrY2VtX2VBNU45cDlkelBMajgtUXROWXUzWllWT1cxVnZ5c0NyQldZS25icW9YX25kTGtKVUxpVXlFbkx6OFh6WmNoQ0w4cTNQd3JIQ3JHMy1xOW43OGhadDFwc05kUklGcw?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 18:34:26 GMT",
           "source": "Reuters"
         },
         {
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNC1XNmpUMjU2RUMyZE04eEY4VFp0eU5YUUZ0bDdLTExPR3BPT3ExOFpmSmVaOHdzQjVmNllkalBHMVlVVHB4LWZGWFM5S3hkeElyMXhWN05aczJKMjI1SUdQakt1dmFjYXVTZTkteVRmTXVQVDFjeTNNQWY0T0lQVFB3TC1EMEFHcGx2NDVHSjJva0t3ZzhsTC1pWThVUFBNejNLYUNGX0pfR0lsZFBFQllldWdfeDNDTi1zWHpZTTJsRDFKRHhwcQ?oc=5",
           "pubDate": "Mon, 03 Aug 2026 18:02:11 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Russia says Ukrainian drone attack on holiday-makers killed seven, including 3 children - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTc3YWtLb1FlNGE3dDlBMnFwajJ2T0tHaExndUEwa1dubGQwMnRiUnBpdHc1aDdKREh2VUpHSF9YaDVDRVprdmdLOGRWcXlaRlAzaWZOSHdWdXh5aDQ5R2JzVFptMzhHaXR6UzV0Qm5zdzhYQVNaR2RxME1VX2xCOXBFcS1feGVyWnp5ZFRVajFXOWJxVnBzbUFHcEJoenZ5em00RUc3M0hMZF92T0k1eVVBWnYyRmxpWXZVY3ZERDVzZmdF?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 17:57:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Greek crews fight wildfire northwest of Athens for fourth day - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGIyNjVnT0dMdTN2aXQ3V0x4WmtGdlRYbmtZZW0wcDFtTEJsaWRzTXVjZTdwcjRjU2phNFduMEdINlZpaTNfZmZBU3lnNVI0QW1vendwdGdEVjFJd2k0cklkQ3g0NV9tWU1lbThLTXRiNVZqSnVOdWV6YWNQUm9TRndKME9jXy00b2QzSzFTbl9idlpPVURiSThxbUlfSkFWdExNZDdZd0xfbU1QOUw1WmZnQmxTTzFyamc?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 17:26:48 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukraine’s ambassador to U.S. Stefanishyna dismissed by presidential decree - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGREQll2Zjl2S1hoUmZUZFd0YzBvNDJGbm1KaWZOZFluRFJrM0ZFdTNZNHBKQi1nNVAyWEdZcnR5LUZ6NmxyakMzQVZVMGlMT1FfRjVMejk2VWNkZmhiNUg4WWxmYUZoVFNIdXNUWFd3Y1JrSGRkUVl3c1czWC0tQmxOTHBxb3lmcHFTRU13dldZX1JXMDNTczRtamVhLXhjY3YxcnlhZVZFOV9temp3?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 17:11:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Chinese state traders make large US soybean purchases - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdlRFUlRNYmhiWm43dF9CNm11VVM2a3VNeVBMeE16bFRMM0NXWmctM3hTZEQ5T2lOV2UzX2I0Vk04N2xtUGFpWGM2WXNVVDJBdkxvaWNfN1c4aktsaXp1bzAyOGZoalVESks4M3QyeTl2Q2Z0VlYxTzJQWHctMWFHaUowejYtbmNhSURVR3IzWWJzT0NZZkZXdW9oamVWdjZNRGVnM2VzSVAyZnh0NU50M1hsVQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 16:53:56 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T19:00:19.844Z"
+      "updatedAt": "2026-08-03T19:25:14.903Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T19:00:20.081Z"
+      "updatedAt": "2026-08-03T19:25:15.212Z"
     }
   ]
 }
