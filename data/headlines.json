@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-03T01:25:13.393Z",
-  "lastChecked": "2026-08-03T01:25:13.393Z",
-  "lastUpdated": "2026-08-03T01:25:13.393Z",
-  "generatedAt": "2026-08-03T01:25:13.393Z",
+  "fetchedAt": "2026-08-03T01:50:15.424Z",
+  "lastChecked": "2026-08-03T01:50:15.424Z",
+  "lastUpdated": "2026-08-03T01:50:15.424Z",
+  "generatedAt": "2026-08-03T01:50:15.424Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T01:25:12.033Z"
+      "updatedAt": "2026-08-03T01:50:14.261Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T01:25:12.373Z"
+      "updatedAt": "2026-08-03T01:50:14.366Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Eastern Washington fires have burned 600 structures and forced the evacuation of 60,000 people - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDZXcXlCclB1VmpxU0VWUl9uTmtBZDNLWjNCUm5GXzAzOHoxY2k4eUVtRWtfZ3BKMzVTRHpwclBzZ0JFbHNfZm10MVA1bUttWmVYVnNOb3NHNGU0VGJJQW9lMW9kTGxXUXdKblVYVUJpRU5nb3VTNkM4SDZ1RnpObFdtQ1RMeVA5cThHOXIyNjF1S0JsYWZUeTBRSVRGNzlTV2E1amVNQzlMMms?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 00:42:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Skubal to Dodgers, García to Yankees as MLB teams add pitching at trade deadline - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFlvWmZ2M1ljRHlONWdkeVcwd1JiQWhHSmtIUFktb2ZrTmVWVGVOdWNfRFF0RVMyUWFYXzFrV3VlYVNVOTFadWRsRVozSUkwbXZTRWJnaWRYcWoxdUhQa3VyMGVUMU1JWmhOUmhTTGxWRlJ2TTR1N1hkblprZjVoekxnMEFwdlN2dVpfN0c5UVVaQWp2MjlpWjg3ZlVoQkdDcFRubg?oc=5",
@@ -130,9 +136,21 @@
           "source": "AP News"
         },
         {
+          "title": "The Tigers face a difficult challenge after trading ace Tarik Skubal to the Dodgers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeDJ4ek9BcGlveXdnZW1JRjREMHlJYmZRd0xyMno4ck9RVXE1ZG9iYUpJQS1EYzZkYUstMko5RTlhMldoQzMyYXY1QWYwZS00QlZtM2I5NnpWQ1ZFeDUyMkw1ajd2Mm51ZnZBQzFlNXJBbFVLek81MXpjMTR3NVNXTGxFV0FfUQ?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 23:53:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Oil prices drop after Trump orders US forces to hold off on new strikes against Iran - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEZkWTg3a001MVcwRG1xUHMyZEswTmlEdWZTSjhHc0ZoTDhjcHJjeG9RajROSHJRQzV1RHQyMTJtTFo0czE3NDRnUzJlcjZZblZtRzZZRWlFODlUZEhoeU1ETzJiTlEwWGQ5RU5XS1pTV2Fib2FnWXJNRHhkRmx4MDlwUGkzTHVxcFc4VzJB?oc=5",
           "pubDate": "Sun, 02 Aug 2026 23:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZy05LW5ObUpORjFnYnd6WWR0UmJrOVVXR19TU1JqcFBxdUtwMGRGZm5DX2hNZ3h0dWhRWk5Rd3M1cGY5WnpneE85T1JDOEdtYnZUMWl0b1AwN0JseTRCQTNmVlllQzN1djg3RzIyWENCdGx2SzdZSXJLNHJJeXFPVHVwc292NnlCbDJTdDhHQ3ZURE0zaEJvdHR2dkxyRVk1a1FoTmtoZw?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 22:59:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,42 +164,18 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEtNZW9oWnRaVXZNYmhxaFNrSERYaDdIaVBCdEsxalJBd1V0d3l5MWl2a2k4azI4Y1cyNHAzeHdBNEdiZmdRREc1b2x5b2ZQb0N0R1lNQ05fRWpCaHlTUWU3RGRQLTc3SXJ5SUN3Z2J6MnJYZFRUVjhfMHJnckc2VktnN2lTaGN1SGNuYk9HaENlcmJTRkF0ekp1MTA3b0tO?oc=5",
           "pubDate": "Sun, 02 Aug 2026 22:28:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Sen. Bernie Moreno says former son-in-law Max Miller should not serve in the House - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLXZOMkdIZmx2RlB1bmpTMzV0enV1UVVmdVViTURLSENNYjMwVTFmN1RWQlZHRm44OFh5MGpPLUliY1lLWGktVmlXTVREZTI4THNnRkgydHVIVFExQ3ppamJrTTV5WmZWdkhVZVdiOExWanFFV1JGcjBqNmZCazhqR3RMMFRGWXV5UFhiUHFRelBSeEhuOHR3MU5R?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 22:04:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDZXcXlCclB1VmpxU0VWUl9uTmtBZDNLWjNCUm5GXzAzOHoxY2k4eUVtRWtfZ3BKMzVTRHpwclBzZ0JFbHNfZm10MVA1bUttWmVYVnNOb3NHNGU0VGJJQW9lMW9kTGxXUXdKblVYVUJpRU5nb3VTNkM4SDZ1RnpObFdtQ1RMeVA5cThHOXIyNjF1S0JsYWZUeTBRSVRGNzlTV2E1amVNQzlMMms?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 21:11:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV82Z0xEX2JldWNxWXNmMFQtakZrbndjeWNKaEgwRDQ2Z2pNRzJHQllnRkVVcjh4SzgtTmJPWTV4VEV0Z3YzdFctekpqck92RGpYLU1kMUtIN29IOEpwZVNBMTlFRDQtVktmWWYtbG9LZ0NwZER2QzJwYjByTWduVUtaR1lNVG5GVDVMRXd0dEJPdG9QYnk3VU5ORWtsYjRONkE?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 21:06:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T01:25:12.798Z"
+      "updatedAt": "2026-08-03T01:50:14.845Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "AstraZeneca held talks with Bristol Myers Squibb on $400 billion megadeal, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWTM3b3YyclowY0NiOHZsQ0VWaElaZm5IVmZpRGN6TG9DemlkNDR5LTNYb0VtRm8zS0tENWtDekRSZHlFN3FnUmd2SHhhUVFmcE82dnQwNTByU0dwck1keWQwWnRXYkt2ajd4UEhuVXZaXzZmb3RWUnlwUkhYNXNHTld6Nzl2WVpvdjVwbFZFeGw1MUhRczBNemZZQVhCV0xCeWtScl9LNFd0VVByZXBwTWdZYVBzbmNwOWlXem1MRFUyZTZyRmdWbVdaS04?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 23:58:01 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Japan confirms joint yen intervention with US, signals readiness for more action - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWxCY2xleXI0czB5WEhyRThFYVhWT0pYcFE1TzY5NnZSbVBvc0Vsc05hM2hwd0sySWFGT213d2hFSkhqRlJ5LXg4djlZXzRBZmZ1Y2c2VHhnUHlmUlpwTlFqbDI5U25KT0NPajF2eWsya0k1UXVVOHZyZEdrZGZTQXRycGt4R0oySUc2TVk3T01XemExNEJOMDJ2MkU0a0dtMTFkNDRIYTlwaWRGR2hB?oc=5",
-          "pubDate": "Sun, 02 Aug 2026 23:54:48 GMT",
+          "title": "Oil tumbles as Trump cancels attack on Iran to reach nuclear deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 00:11:00 GMT",
           "source": "Reuters"
         },
         {
@@ -219,10 +213,16 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMFVwMHhFYnhwdk5waGpTSGRjeEdxRU5Uc2VRbHRybFRueTVqYWpiQURURkotTDBmQUVXMWdtcXpteWZvQndtQ2taWmxvTC1SYzVkNU9yU2hyMnYwbFVJUmtlblFxUENYQjlwVUFHT1RQbWRWeVZCT2doLWxiX28xbGJqdTFzMG1wcHQzdGtMcHpKTlhySXV2TlRTejZMQzk5TGt6OA?oc=5",
           "pubDate": "Sun, 02 Aug 2026 21:14:10 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "Japan confirms joint yen intervention with US, signals readiness for more action - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWxCY2xleXI0czB5WEhyRThFYVhWT0pYcFE1TzY5NnZSbVBvc0Vsc05hM2hwd0sySWFGT213d2hFSkhqRlJ5LXg4djlZXzRBZmZ1Y2c2VHhnUHlmUlpwTlFqbDI5U25KT0NPajF2eWsya0k1UXVVOHZyZEdrZGZTQXRycGt4R0oySUc2TVk3T01XemExNEJOMDJ2MkU0a0dtMTFkNDRIYTlwaWRGR2hB?oc=5",
+          "pubDate": "Sun, 02 Aug 2026 21:01:00 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T01:25:13.174Z"
+      "updatedAt": "2026-08-03T01:50:15.235Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T01:25:13.393Z"
+      "updatedAt": "2026-08-03T01:50:15.424Z"
     }
   ]
 }
