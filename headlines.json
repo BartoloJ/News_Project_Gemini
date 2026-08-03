@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-03T07:00:23.688Z",
-  "lastChecked": "2026-08-03T07:00:23.688Z",
-  "lastUpdated": "2026-08-03T07:00:23.688Z",
-  "generatedAt": "2026-08-03T07:00:23.688Z",
+  "fetchedAt": "2026-08-03T07:25:14.842Z",
+  "lastChecked": "2026-08-03T07:25:14.842Z",
+  "lastUpdated": "2026-08-03T07:25:14.842Z",
+  "generatedAt": "2026-08-03T07:25:14.842Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T07:00:22.276Z"
+      "updatedAt": "2026-08-03T07:25:13.380Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Israel says it has serious concerns with Hamas disarmament deal",
+          "link": "https://www.npr.org/2026/08/03/g-s1-136877/israel-serious-concerns-hamas-disarmament-deal-trump",
+          "pubDate": "Mon, 03 Aug 2026 03:03:52 -0400",
+          "source": "NPR"
+        },
         {
           "title": "South Korea ditches 'denuclearization-first' strategy. What will Pyongyang do next?",
           "link": "https://www.npr.org/2026/08/03/nx-s1-5917877/south-korea-north-korea-nuclear-peace-analysis",
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
           "pubDate": "Sun, 02 Aug 2026 09:35:43 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
-          "link": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
-          "pubDate": "Sun, 02 Aug 2026 08:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T07:00:22.655Z"
+      "updatedAt": "2026-08-03T07:25:13.721Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 07:14:51 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Estonia's Seto people bolster their centuries-old culture and language with a kingdom for a day - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZTd0RnlzRTc1X0VJLWtpaGNBQ3ZNemNBMVNfaFJuTi1OTTliRU1FYk5JMUdoWDk0ZWNqS2Y5MTNJS0dpR3BvemRYSlZ1U2ZuMC1DRENBSXVGa1ZUUWYzdXU5TXdVSm5tTGpDTENBZTYzSEQ4Si1xZlBQZGJGbEZ6VDVWdzBNQm0tUlMzRw?oc=5",
@@ -142,12 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "Skubal to Dodgers, García to Yankees as MLB teams make additions before trade deadline - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFlvWmZ2M1ljRHlONWdkeVcwd1JiQWhHSmtIUFktb2ZrTmVWVGVOdWNfRFF0RVMyUWFYXzFrV3VlYVNVOTFadWRsRVozSUkwbXZTRWJnaWRYcWoxdUhQa3VyMGVUMU1JWmhOUmhTTGxWRlJ2TTR1N1hkblprZjVoekxnMEFwdlN2dVpfN0c5UVVaQWp2MjlpWjg3ZlVoQkdDcFRubg?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 03:51:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0lKdjVraF9jNC00MkFVWW9laUIzY3dhUGtXZE5sT1J2dzVCUFo0dS1EZ1ZOZTVlWHhBaXRYeFZDb1ZTeXdCM3lyQi1xWm9wd3JxWVVsNU5ycWI1Ynd1WUM0WVJQVllad1VudGJwRGRlcWZrT2JENC1vRVVWSTNQMUt4cklGUG91dzgySTVRcVlGbU9XUGZiaXE4M1I?oc=5",
           "pubDate": "Mon, 03 Aug 2026 03:42:00 GMT",
@@ -167,15 +167,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T07:00:23.060Z"
+      "updatedAt": "2026-08-03T07:25:14.129Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Big investors think it might be time to buy in South Korea - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkx6Tk1FMlZlOUVsdGp6Vlo3SmxOSnVXU05BdFVDNUZ2QXZDREpBYy1HSVdPTWtLMmpicnVCNE5Od2gzR2tvbEtneXAyM3o0U1FKREpnNDJHNFp1MDc4bURkMEg5aEhqV0I0ZzF6UGJUNkFPR0RhUGJWeEdwM2UtS3pxcktqQnhZazRvMXVBSXhSemk4ZDltRENIUmdNX0pTVV96VGpBQ0REVzQ?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 05:20:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Morning Bid: Yen's to-do list gets harder from here - Reuters",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ISEcxclNhcmdLanZqM21CaVRBT0JZNXFYUTFPYmY2V3BZV3JIdlFXdFRyV3RXY09JbHk1S2d2ZHdiRFFWN2FHSDhPcGU3Z01zbnA1TGR4STJJcV9lYkFxaXpZUG5qMnU1ZzAyY2t6WFRpTks4Z1BwaTJ0Y1hLajA?oc=5",
           "pubDate": "Mon, 03 Aug 2026 04:48:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Greek shipper Gas Log says LNG tanker stable after Strait of Hormuz incident - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdzVYY1M4dFBJX28xcS02bnNFNE14aVdhc2lhS19ibExWM3JjZFN6NnRmaVpicVRNajNsRzlqZTFUaGdvZWxyTHVtOUw0TTM1WjRhaTFjY3JOYktzWFNoZVRjdkRrVWFpYVIyZklHSDhzM2c0c3hYM0M1WVpVWVJORjBreDJ0end3WlVyMHZFaWZfN3RRVU11SGNnZlpnSzNmZ1Q0RHdMdUg5WjhEbTB6S3hzSVl6TUljOV9wUUxxdF9ZNnM?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 04:25:00 GMT",
           "source": "Reuters"
         },
         {
@@ -185,7 +197,7 @@
           "source": "Reuters"
         },
         {
-          "title": "Myanmar's Aung San Suu Kyi meets Red Cross official, government says - Reuters",
+          "title": "Myanmar says detained former leader Aung San Suu Kyi met Red Cross official - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjJySG5fWC1faXFlRjYzYndjVkNQMVhTQ1BHalhDVklUZ3d5TzY2R29lUzFaSTNCaGNWNzVDd0JTY3c2MDZTWm9tbmJFWGtpSl9ldDN4NkVuOV9NaURPNWxKODdJZDZmQ0RqbDNzaUMtc3RwUTJ2UW5RR0ZKdzItbjVuWEVIRjZROFgtbnh6SFkyTElUVG9DdTdiclNzdU5hZWEzS05GRFh6bHJnYy03d2NSenhmZWV3Uy1fR19B?oc=5",
           "pubDate": "Mon, 03 Aug 2026 04:11:00 GMT",
           "source": "Reuters"
@@ -197,32 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Malaysia's Sarawak grapples with rising crocodile encounters - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbXJNUDZTLUZvbTJFQkZRRXNwZmZoUkZnTzhGWnl2bUhhMzVGajd4QlBjRVAzcEViZjNHRXJ3cTlsY3RoWHRkTDNDX0NMaVZFWlZBYWdRTHdvU0ZuTnFheGNfUERPamVIUmJoOWFHOVIxUHJDYVJzTDJtbXRYeDEtN3JUMTNvQkZxZENoUVF0YkozbEJZczM0dUMtbi02YUV4RnFzNDdVZXZYS2lycHA1UEdZYTZOV0E?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 04:02:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Alibaba unveils its most capable AI model to date, not far behind Moonshot's in size - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5",
           "pubDate": "Mon, 03 Aug 2026 03:58:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Cuba plunges into darkness as electric grid collapses - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMTdFbGhVSWlfdzZ3aWduVjdUeTFvMnBFVFhaMjg4SkhrMXJlcnFtWTlWTTdnRjNLMzRCNHg4Tm9OTlpkM2c3QlFGR2RuejZnNlM5R182b09EbXQ4dG5RaEJjSHNDRjhtOS1aY05DZlAtQWlMZVBHdE1yY0xFb29yazdJeW03ZXVGcXZSQ2FLOFlremVCcGZ0ckZobkFqRG9fZGc?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 03:19:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "About 60,000 ordered to evacuate from fires in Spokane, Washington - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmVvUU9GWHZNQ2xfZzVHYzdwelBpNHdwbHVCNWhWX1E0Y0JJV2ZHblByTjhqMUt5S2NsSDhfcEtLdk5xdzVuOGczb1RiVW5kSjNJQ05QY0ZZNEd3QWdGZlZKWDJOOFMtRmhSOXU0dnJhVDJqaWlXZWVKeHB1YklvamlZWUh6RGlkb3ladDFzOUtWazR0d3NRTzktS2ZEYWlBbTN4M1lHWHdldw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 02:46:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indian stocks rise on Brent dip, shock-free earnings season - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMmpzT2p3MGlZN3V1QkI3c1I0X0dqVTk4Z3BsMjNqcWljM1BGZ19FbThiNHUyR3FXTjE5SE5IZGJnUHR3UHloUUZNZkdtS3phVGRRUTVQdTR3WW9FSHM5Q3VQY2czUFhEZE5JLW5UN0pkNWh3LS1tXzlvRzhfUWdJMjZ5blQtUENIR2NwaktkcVJiX0dHQ3hLS3FnVUlIdw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 02:39:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T07:00:23.424Z"
+      "updatedAt": "2026-08-03T07:25:14.560Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T07:00:23.688Z"
+      "updatedAt": "2026-08-03T07:25:14.842Z"
     }
   ]
 }
