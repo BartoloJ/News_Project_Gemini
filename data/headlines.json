@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-03T22:25:14.076Z",
-  "lastChecked": "2026-08-03T22:25:14.076Z",
-  "lastUpdated": "2026-08-03T22:25:14.076Z",
-  "generatedAt": "2026-08-03T22:25:14.076Z",
+  "fetchedAt": "2026-08-03T22:39:03.863Z",
+  "lastChecked": "2026-08-03T22:39:03.863Z",
+  "lastUpdated": "2026-08-03T22:39:03.863Z",
+  "generatedAt": "2026-08-03T22:39:03.863Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T22:25:12.727Z"
+      "updatedAt": "2026-08-03T22:39:02.507Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T22:25:12.960Z"
+      "updatedAt": "2026-08-03T22:39:02.837Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T22:25:13.430Z"
+      "updatedAt": "2026-08-03T22:39:03.316Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Michigan reports first US deaths in cyclosporiasis outbreak - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW9icDFxQ3hEUUY5eV9ubnhsUURuNnpiX0RKbW1BUWRkRGp5ZWVXdnEzdklrMUdtODByVC02T0NxZG9YRGlWYklzNkN3X21kRTNDZlo0Um50Q2hDY0JreUFHcXUwZHh4TFZMVjVheVB0N2lPd0c5RzZNQ05relhmNnhlaUx6NU5MNXQxS0pJY0lOc1hsOHlYbGJYVTZHRy1xRmFOLXlMU1BWUEZ4SmNiOXNmNkFyNlVmZnR1bXVqWlZ4WFdnTzBDZEpBOA?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 22:02:48 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
@@ -182,6 +188,12 @@
           "title": "EU can give Morocco more border support, von der Leyen tells Spain after Ceuta spat - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNC1XNmpUMjU2RUMyZE04eEY4VFp0eU5YUUZ0bDdLTExPR3BPT3ExOFpmSmVaOHdzQjVmNllkalBHMVlVVHB4LWZGWFM5S3hkeElyMXhWN05aczJKMjI1SUdQakt1dmFjYXVTZTkteVRmTXVQVDFjeTNNQWY0T0lQVFB3TC1EMEFHcGx2NDVHSjJva0t3ZzhsTC1pWThVUFBNejNLYUNGX0pfR0lsZFBFQllldWdfeDNDTi1zWHpZTTJsRDFKRHhwcQ?oc=5",
           "pubDate": "Mon, 03 Aug 2026 21:38:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3RUUGplUHRFOElCUjBiQUNPYWgyNDM5MTlLT3ZyVEN2dDBnRk5JOGIyWkkzYWpQdjNGQ253WlZCbk9OeHNWZmo4djllSmRGQVRZbXA4eEQ0TldYMnJFOV95ZzRvODJJb2xySTA5eFNiMFJGc0VnX29MSmRBODZ0QjNuaHpxTVUxcXJXa2FXaFFvdkQtRmdnS0FnTlRWZVhTTGY4QzVrbVV5TkVic0o1UGJaVnhpa1J0SDdv?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 21:37:30 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "US Supreme Court won't halt $655 million judgment against Palestinians over attacks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRnJXbFlTcnd5ekloOUVSVFItaUU1d1lSR2wxOXp0V2VHdUd5aHl0Z1QzVTE4cjZ0M2JlOU81d05NaHkzeTlTdEZNRkVMaFoxcVRmMDg4aEgwMTZVTUlxTjZDcTVRLU5aM0hYZmdtbk8zbWlaY3d5ZUFsa3NfaE9EelNhWDJuYWVUSnFZSG1FMXhpblRXRWFTWjdZdkVEUTZHakt5dmlaTkZpYU9qYVo0a1c1eTRfaXZyMzAtSjZ1Z3ZsVVRE?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 21:13:03 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "States, groups sue over Trump policy of sharing benefits data with immigration authorities - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeE1vb282TkZIYTFGNVp2WUI0eGxJVWtCVHZLeHFtVk1SMi00TW5zYkEtNUY2aW5vWDJnS0l6NGFKNDM4SXNMQUxCcnl6YklPSTV6RFZrT2J4b3FROFFTbm4tTzFuTFdNMkVuR3l1dDN2V0lmdzA2eUZqZFJSdTZSaC14NTRTRzIzTl9jN0VsUWZGSjRfZldtaEstYjRyV2N5bTBYZHJDRDJMbjdPQ2o3dVROeENNZUlISmo0aTJZbjMzY1NWX2RyVzFicDQ?oc=5",
           "pubDate": "Mon, 03 Aug 2026 21:06:49 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US Supreme Court won't halt $655 million judgment against Palestinians over attacks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRnJXbFlTcnd5ekloOUVSVFItaUU1d1lSR2wxOXp0V2VHdUd5aHl0Z1QzVTE4cjZ0M2JlOU81d05NaHkzeTlTdEZNRkVMaFoxcVRmMDg4aEgwMTZVTUlxTjZDcTVRLU5aM0hYZmdtbk8zbWlaY3d5ZUFsa3NfaE9EelNhWDJuYWVUSnFZSG1FMXhpblRXRWFTWjdZdkVEUTZHakt5dmlaTkZpYU9qYVo0a1c1eTRfaXZyMzAtSjZ1Z3ZsVVRE?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 21:02:48 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Palantir lifts annual revenue forecast as data analytics spending booms - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOVFaV25Sb2NUb2hTWnA5bTRPcnlJdmZmSnFLNXlJcXFpQ1FPdHV5WTBPRklnNkExQ2p5QTU5aEZiQk43NzdTdTY0cDk2eWxwcjYta3NINzI5eVJTb0JMcjN2OTF3TEY4T2g3U1VucmNKWU9YSE5FRWxYNTAxbjJBR0xfSU5ONkg4QjQybFFlN3ZxU3d1ZDNjX3VXVmxoaGdqLVNqNGRxYXZaZWEwUTljSHZlOFZSOEc3WmFpX3pNRTA4OUk?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 20:54:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Democratic US states sue to challenge Trump's latest tariffs - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzdtbnRyNlNqdjVKN2l0dllQSjdlQjM0QWVIbFhiM3NnT1JVR0tSLWY5ajZpTVhsQzdwWUJKcVp5VE5hcFdQZU85TU9yVnJjc1ozM1FJMkY1RmcyZHdYM2hkV21rQlNLSGZLNy1uLUFjNm1NcFVtZUZubjYtNkQyZmpEMEMycXhtZXMzQ0tLMmFhZmdwN2gw?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 20:53:08 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T22:25:13.861Z"
+      "updatedAt": "2026-08-03T22:39:03.729Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T22:25:14.076Z"
+      "updatedAt": "2026-08-03T22:39:03.863Z"
     }
   ]
 }
