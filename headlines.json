@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-03T06:50:15.355Z",
-  "lastChecked": "2026-08-03T06:50:15.355Z",
-  "lastUpdated": "2026-08-03T06:50:15.355Z",
-  "generatedAt": "2026-08-03T06:50:15.355Z",
+  "fetchedAt": "2026-08-03T07:00:23.688Z",
+  "lastChecked": "2026-08-03T07:00:23.688Z",
+  "lastUpdated": "2026-08-03T07:00:23.688Z",
+  "generatedAt": "2026-08-03T07:00:23.688Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T06:50:14.378Z"
+      "updatedAt": "2026-08-03T07:00:22.276Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "South Korea ditches 'denuclearization-first' strategy. What will Pyongyang do next?",
+          "link": "https://www.npr.org/2026/08/03/nx-s1-5917877/south-korea-north-korea-nuclear-peace-analysis",
+          "pubDate": "Mon, 03 Aug 2026 02:49:13 -0400",
+          "source": "NPR"
+        },
         {
           "title": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
           "link": "https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
           "pubDate": "Sun, 02 Aug 2026 08:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Why is the rate of premature births so high in this community?",
-          "link": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
-          "pubDate": "Sun, 02 Aug 2026 07:03:47 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T06:50:14.422Z"
+      "updatedAt": "2026-08-03T07:00:22.655Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T06:50:14.881Z"
+      "updatedAt": "2026-08-03T07:00:23.060Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T06:50:15.270Z"
+      "updatedAt": "2026-08-03T07:00:23.424Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T06:50:15.355Z"
+      "updatedAt": "2026-08-03T07:00:23.688Z"
     }
   ]
 }
