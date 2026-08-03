@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-03T15:00:19.221Z",
-  "lastChecked": "2026-08-03T15:00:19.221Z",
-  "lastUpdated": "2026-08-03T15:00:19.221Z",
-  "generatedAt": "2026-08-03T15:00:19.221Z",
+  "fetchedAt": "2026-08-03T15:25:31.080Z",
+  "lastChecked": "2026-08-03T15:25:31.080Z",
+  "lastUpdated": "2026-08-03T15:25:31.080Z",
+  "generatedAt": "2026-08-03T15:25:31.080Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+          "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 03 Aug 2026 14:38:48 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
           "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 03 Aug 2026 10:29:24 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-          "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 03 Aug 2026 08:40:22 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T15:00:17.825Z"
+      "updatedAt": "2026-08-03T15:25:15.714Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T15:00:17.977Z"
+      "updatedAt": "2026-08-03T15:25:15.901Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-03T15:00:18.442Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-03T15:00:18.909Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-03T15:00:19.221Z"
+      "updatedAt": "2026-08-03T15:25:31.080Z"
     }
   ]
 }
