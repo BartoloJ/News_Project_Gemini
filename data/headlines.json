@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-04T01:50:16.334Z",
-  "lastChecked": "2026-08-04T01:50:16.334Z",
-  "lastUpdated": "2026-08-04T01:50:16.334Z",
-  "generatedAt": "2026-08-04T01:50:16.334Z",
+  "fetchedAt": "2026-08-04T01:52:22.089Z",
+  "lastChecked": "2026-08-04T01:52:22.089Z",
+  "lastUpdated": "2026-08-04T01:52:22.089Z",
+  "generatedAt": "2026-08-04T01:52:22.089Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T01:50:15.107Z"
+      "updatedAt": "2026-08-04T01:52:21.148Z"
     },
     {
       "name": "NPR",
@@ -112,17 +112,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T01:50:15.189Z"
+      "updatedAt": "2026-08-04T01:52:21.183Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "Donald Trump - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 01:10:18 GMT",
-          "source": "AP News"
-        },
         {
           "title": "Washington state fires destroy hundreds of buildings and force Spokane-area residents to evacuate - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHppbDIxTzQ0MWQ0SU0wa2lxeUo3VGtHN0cxTTh5NUlzNDZYRUhvWmFKNGdxWlJydmZLZDR5Z1M2S24yaDlBeFg3c21Lb2UzWjc4YmtXR0JGdzZBS3pnY0RvVExPUmlRY014NWJObTFOaTROYUlRTzF2Y0VvOXdWa2phNWJHYnJlcWVnZ0o2TW1WOFdNeVdRUy15d2w?oc=5",
@@ -139,6 +133,12 @@
           "title": "Red Sox get All-Star catcher Adley Rutschman from AL East rival Orioles - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0NKTE9qN1N6WUcxZHJ6SmZrTGlOdG1jUXc0MmJJa2RSdkpkT2F3V0Z0enFIcDBQTlVtdVlCa2haeEQ1X3haWk1xZG9mQ21GN3F2d0dXcDZCdEhadkF1MGdGTlA4VWoyMEZNRDRYNVBwclowUm1IN0htbnBudGYzV0pGS0tWc1poeW5hVDJsY3ZxaUpOZk93NkszWlRRQQ?oc=5",
           "pubDate": "Tue, 04 Aug 2026 00:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Donald Trump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 00:15:03 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T01:50:15.691Z"
+      "updatedAt": "2026-08-04T01:52:21.602Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T01:50:16.183Z"
+      "updatedAt": "2026-08-04T01:52:21.993Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T01:50:16.334Z"
+      "updatedAt": "2026-08-04T01:52:22.089Z"
     }
   ]
 }
