@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-04T01:25:16.527Z",
-  "lastChecked": "2026-08-04T01:25:16.527Z",
-  "lastUpdated": "2026-08-04T01:25:16.527Z",
-  "generatedAt": "2026-08-04T01:25:16.527Z",
+  "fetchedAt": "2026-08-04T01:50:16.334Z",
+  "lastChecked": "2026-08-04T01:50:16.334Z",
+  "lastUpdated": "2026-08-04T01:50:16.334Z",
+  "generatedAt": "2026-08-04T01:50:16.334Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T01:25:15.552Z"
+      "updatedAt": "2026-08-04T01:50:15.107Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T01:25:15.589Z"
+      "updatedAt": "2026-08-04T01:50:15.189Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Donald Trump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 01:10:18 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Washington state fires destroy hundreds of buildings and force Spokane-area residents to evacuate - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHppbDIxTzQ0MWQ0SU0wa2lxeUo3VGtHN0cxTTh5NUlzNDZYRUhvWmFKNGdxWlJydmZLZDR5Z1M2S24yaDlBeFg3c21Lb2UzWjc4YmtXR0JGdzZBS3pnY0RvVExPUmlRY014NWJObTFOaTROYUlRTzF2Y0VvOXdWa2phNWJHYnJlcWVnZ0o2TW1WOFdNeVdRUy15d2w?oc=5",
@@ -133,12 +139,6 @@
           "title": "Red Sox get All-Star catcher Adley Rutschman from AL East rival Orioles - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0NKTE9qN1N6WUcxZHJ6SmZrTGlOdG1jUXc0MmJJa2RSdkpkT2F3V0Z0enFIcDBQTlVtdVlCa2haeEQ1X3haWk1xZG9mQ21GN3F2d0dXcDZCdEhadkF1MGdGTlA4VWoyMEZNRDRYNVBwclowUm1IN0htbnBudGYzV0pGS0tWc1poeW5hVDJsY3ZxaUpOZk93NkszWlRRQQ?oc=5",
           "pubDate": "Tue, 04 Aug 2026 00:26:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Former ’60 Minutes’ correspondents Pelley, Alfonsi go from newsroom to classroom - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlRyOEVwNGFvcGxGOW10TFBlSnJBeGU0aTFwc0NySDU1Mk5oSTdDTWZNZ05Jb2RLd2ZxQnQzU0VybHc2UFg3V3R4RHVDNHVmanJid2tSdUctRVBlcF92SVFnUVMwR0xjV3pBLUg3WUdrN0xJc3YzWlhvN21EZnBQcHJtbFh4cjYwQzVzTllvb3JQelk?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 00:04:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T01:25:16.028Z"
+      "updatedAt": "2026-08-04T01:50:15.691Z"
     },
     {
       "name": "Reuters",
@@ -197,9 +197,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Singapore's Grab lifts 2026 revenue forecast on solid delivery, ride-hailing demand - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzdyejhvLTZLYTBmMXprc0NITWxWWHBvS3JmbnVxSmx2T0ZUUlhwZW1XQVF6d3Ffb0oyRi1Ra1N1YTd6VXh6MHRNR3ZOOUkxSWZpcmxMZVJBMDNlR0RrQVhEREJ4cWZZQVNFMndoMkxJekszUk0tRTdqU0MzYVhpUEV2TmxoSzZwbVhoeUpuY2NGSzdvbFBwU0JOOHcyS3kyOXN2QmRFZVM3QQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 22:41:43 GMT",
+          "title": "TikTok settling three teen social media lawsuits ahead of trial - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGg5Q2I4bXpIX1BXMHVNRldYNWtjbzdtRWxkeFlOQnFVUm9MV0d4Ri1FTDZRMnIwR2tvNzNoODJaQy1LSDNINlloczJCM3BXZnQyOHZlbFZSbUpINEVxX05mbVE4WmNtckdvVmFmN09vMF9GYWRaQWlVazVYVDdKeHNuUDQ1ODJ5SE1xQmhWTXR2X3o3SkRtaUJ5QTdyb0ZHdGJJNlJMRmU?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 22:40:27 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T01:25:16.444Z"
+      "updatedAt": "2026-08-04T01:50:16.183Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T01:25:16.527Z"
+      "updatedAt": "2026-08-04T01:50:16.334Z"
     }
   ]
 }
