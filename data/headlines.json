@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-04T17:00:27.016Z",
-  "lastChecked": "2026-08-04T17:00:27.016Z",
-  "lastUpdated": "2026-08-04T17:00:27.016Z",
-  "generatedAt": "2026-08-04T17:00:27.016Z",
+  "fetchedAt": "2026-08-04T17:25:14.457Z",
+  "lastChecked": "2026-08-04T17:25:14.457Z",
+  "lastUpdated": "2026-08-04T17:25:14.457Z",
+  "generatedAt": "2026-08-04T17:25:14.457Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 04 Aug 2026 17:06:17 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Watch: Evacuations as Guatemala volcano erupts",
           "link": "https://www.bbc.co.uk/news/videos/c9q91dnljpeo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
           "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 04 Aug 2026 16:33:39 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-          "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 04 Aug 2026 16:29:29 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T17:00:25.769Z"
+      "updatedAt": "2026-08-04T17:25:13.849Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T17:00:26.070Z"
+      "updatedAt": "2026-08-04T17:25:13.941Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Man from El Salvador dies in immigration jail in New Jersey, ICE says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHpPUDY0Sy1FNUF6RDg1cG5tOG01UzdULTRoaHpjZC1XZzN2RUxBV1dxOWtqeFlJLWZtMEUyNkNYTlc2eXZrWWtvaGt2bm1pUHRxdG91dHR6SloyVzBtcWlJQWJYMVRLQ3lFWUhkMEtZTnJab2FwN1ZtdGhXZ2hhZmUwaWRGTlZhbDZMMnJWTUFVT1BYZHFoRHJxTzN6R3pLYzZKeFJ3?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 16:40:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump administration will close 5 smaller US consulates in Africa, Asia and the Western Hemisphere - AP News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc2E4ZXpVUmpPaUhsOGFLVml5M2tQRmJXN2NXckpVTjlYeUhmTC1odnYtOGQybjRvNjBKOTZnM2k2dVVYYzdZZFlrSXZ4RVlqUVh2OUpkSUtKNzBVYVBkYVNKbVdyRmVKaEdzUm9RVFBVU280bUJLRTByWW5ZWkxpUHZaTk91QkdIS1hFSmhIcDVZdENzVzJtT2hYamN2amhQeWdKeFlFc3I4cVF2LWZ6dnRR?oc=5",
@@ -142,12 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "Firefighters scramble to contain fires outside Athens before winds and high temperatures return - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUzVRb3NORnl2Y0JsUVZGbm1HNktoLUdQSUNzTjdzUEZLT2NfMGQzaWZkRW51cGU3Sm5iWGdpNWFURmJoWFFjbVlsRmlsWnhWdlA1MWdmMXgwRktDa3BYRjcyTk1mLVlSS21leFIxVkgyX1dXYUhzX0l6VlY5STlZem1wNHVidHliYldBQmNMZVdIdC0teXZGVTNrVE4?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 14:18:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Musk likely to face tough questions during SpaceX’s first earnings call as a public company - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWExWNGc3WlZRU0Frc0ZwX1Zyb01Hd3NPOFowX1M3UEtGWmpmSzNSX3VHMEpIVy1PNkVXZWRZUU9oQ3V3Qk03MFdSZ2JQV05mZVd1OW9hOHdkcVlCeEZiVFBBSmhYa1I4MUJETllZdS1aV3hFMXQxekdEV0VjcUpaYzYwM2tvRkgwdXMzdlFzV05BY01iNWZmQg?oc=5",
           "pubDate": "Tue, 04 Aug 2026 14:16:00 GMT",
@@ -167,62 +167,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T17:00:26.532Z"
+      "updatedAt": "2026-08-04T17:25:14.389Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US weighs polysilicon price floor, tariffs to counter China in solar and chips - Reuters",
+          "title": "Options market braces for $225 billion swing in SpaceX's value as earnings loom - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZC1YMWVjM1o2YkdjUXFWbUl2OTg1cXBvRkN3VHRmcmN1Mk0wemtyRGw5ZDJaQzEzaXBPVHUtZkJxM1Q5Q3VxV1l3WUVmS1NjLXYwVDhJRWFBeWQxU2JZb181R25zSmFIT1RvMWNvVG5EaW1ZanFtbFRVei1jaUcyZHhRcTRkTnNITVdsbUxCZlE5eWVod0xsZHhZZ1dyNS1RN25HdlNxMTNCUF9xRzA1SkdaVlR5UUphT185OU9aaFQ?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 17:16:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US will do 'whatever it takes' to support Japan after yen intervention, Bessent says - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLW5ZcUFHeUZRaEhwNjZqZGJoQXh4T3BXYXpZTzJhYmMtdFdlUjFnOEMta2JOaUlRNzBlSmFUQmlNY0RTdEtQaURxVkJ6VVRDeWE2TkdoTldVM2RWQmNMcl9aMDZ1RDQ0d215VWQ1VjVUS2hwTGtuWVhtenZRTHd1RE5xU295NGhLaHZ4ZXJhR1dKNGxLR1R3MWVKNjVsVXJwdGJad1cxcFM1aHVBRVF5QndreWM4OFM0cE9zUld2VnJtZw?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 16:58:46 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US weighs polysilicon price floor, tariffs to counter China in solar and chips - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHMyc0hjQmFKeG1UQ240cmpVNmxXMFV2QUlvOTQ3MGhsaDJzRFAtS0E2QmJxWk4xNDFCTThDZlNqeGhfYjFsc2lqV1dOa2lNUmxHWHdDRUlnSFE3UExGN1hQbnZSc0Ytd3ljRnNIVFM0RTYwZTAybjg2blg3QmkwdHFicjc3LVlua2VEUW94ODdBeXlmc0NEeFA5c1FQcWtCLTJmb3RmaW1uS0ZqYk11UnpCWFRiQQ?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 16:21:49 GMT",
+          "pubDate": "Tue, 04 Aug 2026 16:58:25 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Turkey calls on Russia, Ukraine to ensure Black Sea safety after drone attack - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWxZWjEzUHh2dXNYYUxyS2RjbUhHTXh1RHpVTjZwUUpScFlZbnFUVDkwUlR3bXJMU3otWDY4Q2cyTml6dXV2YVJIZkdiN0lnZUV0T19VN1QwRUY4ZmU5bjNhUHJfU2tWeEw4RVFoTUN4R2lGaW1WSXpzUWxaVmZWSF9kRGhLcE9GU1lxaHp4N0xnNFp0MG9lMkZEeTd4TTEyTTBySlEzYVJFM0RSdjFTRHJZbnFmdFBISndla004RHVTQQ?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 16:21:43 GMT",
+          "title": "EXCLUSIVE: US consumer watchdog supervisor warned staff of 'unpleasant' fallout if they go too hard on firms - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZncyV3dqN3FGTDMxZkhlY25DM0J3d050V1BGbXV6YXlPUEpkZ1I2clNpRElpM1lvdk1uTGwtY2dycFRfYVNpWTRvQ0JaVVhYVHRfWHFlbjFzMkpsTzlHMHlXY1lFOGNBMkpYc2RwZ29lSUM4b3lscW5ncGpxbXdORVV1RDZhUllELUI3Vlc5RmpDMWxqOUVfVk5KRkFRemJGQkp1Nmc3WktaUDdkVDVFak9LRTdoYmJUZlpMWA?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 16:39:13 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Pfizer beats earnings estimates, targets $2.5 billion in additional cost cuts - Reuters",
+          "title": "EU ministers seek tougher migration response after Ceuta influx - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUFqeFNGMy1BTG8zemhjYUxxeWVuaGZZdjBQM3k1cW0xRzk3Tm1JckFLVDh5MDBBbkF6a2stVGY1cGRQZklvc0lCaWljbUFHOGV3bDhhbGlESU9mS2tCUEJjLUg5SklnLVpmYVk3WTFvV09BendxYUc4XzJLYmJuc0FGOFg2cjNmeGNvTi1iQUtLenBQbkU5YmZVd3V6TkxlaHc3RQ?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 16:37:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "New Jersey sues Amazon alleging poor pay and conditions for drivers​ - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRVVLbUk4WV9mTWQ0V1F4a1d0aEhWVUx6T0RNNWJLQmdOS1pDTzBLOXF5Q2xxTGFjcFg0TXpSQVVxYUNSdkZ0eFlTV3JENXdtcUdGQ2hMcVJwdTZLU01DaE9nLWhpaDZHUm5IanZQR3VKYmI1cl9LQmtQbWFvNTYyOVFlcEZleVZ0M0dvX2RiVTBrYWppRVlYTUFB?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 16:31:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Pfizer beats earnings estimates, targets $2.5 billion in additional cost cuts - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM3lmMk85dldqOW03S0ZkeHhNdGRJelJuSVh5cHI4ZWo1d2tpclRZdEhicVBVZ0pwMnlrTElVWmdxQjYtMjhvY2FWXzBLdGszVWt2OUtBZ1dMU3l5cUdOcFFJcUhTWUoteTFzVUc4Q2wzZFRaUENia19ocGVuSnRYa0prUWU2VDhxc3NrMXVyZ0VSeTFERDFBMkVuNk00RkVZaXAxSW1SRTVEdjBDbGFveDhVUm9HQUZ0d3NWQXUycHFJZmpFNFNJTlRUcnVWMmhzY041SmVIb2FZeWY5UWRhSA?oc=5",
           "pubDate": "Tue, 04 Aug 2026 16:21:13 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say - Reuters",
+          "title": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5",
           "pubDate": "Tue, 04 Aug 2026 16:16:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "S&P 500, Dow hit record highs on strong AI-linked earnings, Mideast deal hopes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 16:08:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukraine accuses Russia of war crime after video shows drone attacking vegetable seller in Kherson - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0dKYnNEVVFrdlNXS1JkMXNlcVlYekZlTTFXZ21IVU5wLUpvRTRoZFVNUUtvcUZOWHlZZG84Z0huU3ltdlVrVFpMZ3dMV1dSano3bmlRM3Bnam5Qa0Vmd2ZsOGpxQWstTkNBV19DLXo1OWVsMDlzOUtwT3pYNm8wdW41VUhOOXBqQV90TjBsUDdnRVlJVEhGNnB3MExacFdES19PdGYyQkp3dmNhcGxnQy1LUFFJZ0U5YnB4UHFuV2RIQmtrQXc?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 16:04:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUxSNUIwOXpQcmNEWkp3ckJYUUVuaExoTVlHbWNEaUp2YVVfX2Z6NHRyWkJZOHAycXZZTlduWkIweHpmd25mblFaYU9EZnRXS2FqYkNsSDBJa2FjZThqZ2c2eWp5OVNKcEhvUmxVT3ZseXZyRnpFT2JjR05INGJWdkIxWGxITUdOXzRyUnNtSWp2MVhOR0tkTjU3THctbjlHVVJTQVZxX01tdFpPX2lrcFFSX0dwNkR3eVA0Z2Jn?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 15:59:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Shein targets $30 billion to $40 billion Hong Kong IPO valuation this month, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb3NieXJtWmw4S21GUWJYMHAycnA0RmZaeWJKMnVCT19OUDdGQkNLZnVwRDQ0Ukc2cDZCV0FBczAzQlBsbnFUVFhqV2dSb3I2VVpnT0ZFMXRnbGpvSEdNMWxtS1BVeHJuNUV0X1JkX1F6UGpWQW9fQkptZzRiY3hkWWRIMXNUTHFGa3hQQ3VxVk53djFFUEJxdzR1V2NHZXVTODZvRDlnekQzUU56WmlsZUxMdTZiSHQtWE1yTmcxOHhtdw?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 15:51:36 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T17:00:26.951Z"
+      "updatedAt": "2026-08-04T17:25:14.400Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T17:00:27.016Z"
+      "updatedAt": "2026-08-04T17:25:14.457Z"
     }
   ]
 }
