@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-04T06:00:28.019Z",
-  "lastChecked": "2026-08-04T06:00:28.019Z",
-  "lastUpdated": "2026-08-04T06:00:28.019Z",
-  "generatedAt": "2026-08-04T06:00:28.019Z",
+  "fetchedAt": "2026-08-04T06:25:19.074Z",
+  "lastChecked": "2026-08-04T06:25:19.074Z",
+  "lastUpdated": "2026-08-04T06:25:19.074Z",
+  "generatedAt": "2026-08-04T06:25:19.074Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T06:00:26.780Z"
+      "updatedAt": "2026-08-04T06:25:17.559Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T06:00:26.886Z"
+      "updatedAt": "2026-08-04T06:25:17.801Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Spanish Prime Minister Sanchez fends off blistering criticism within the EU over Ceuta crisis - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSEx1aXZ5LU0zTzFzTUhzR1pmRElsWlVyN2EwV0R1MG1kSW5kTWY1N0RTaTRpcEJlUi1zTm4zTnJWYV80RHMxTm1EUXlNQTZKaV9jazFLUE15WENEQm1NVGJOWkIyNnc0SHBteUVTYWZIZlpDM3V4WThmYmVyUUlCckxBajJNX3VWeW1NQlhUUDBRXzRkWFlsMQ?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 05:04:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Cubs restock staff at deadline, acquire pitcher Clay Holmes and outfielder Tyrone Taylor from Mets - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdmRDMURYM0RYV1JCR0oxMkxpak1sb29hajFJUjVHTHloOWFMbUE1MFpnYUNydU1HaWVST3VweHFaZHhiWnFmMlJGLTNRc1FheDg4bklnX2h6T2Y4WDF1X3cyclczLWRjZXR4MFJ1Y3d3VGVBUmQtNkxiSzJPaG55OGRoaEJ5a3haM3pTUHlhT05SdlNJVlhSRA?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 04:15:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Man from El Salvador dies in immigration jail in New Jersey, ICE says - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHpPUDY0Sy1FNUF6RDg1cG5tOG01UzdULTRoaHpjZC1XZzN2RUxBV1dxOWtqeFlJLWZtMEUyNkNYTlc2eXZrWWtvaGt2bm1pUHRxdG91dHR6SloyVzBtcWlJQWJYMVRLQ3lFWUhkMEtZTnJab2FwN1ZtdGhXZ2hhZmUwaWRGTlZhbDZMMnJWTUFVT1BYZHFoRHJxTzN6R3pLYzZKeFJ3?oc=5",
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
           "pubDate": "Tue, 04 Aug 2026 02:57:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "El-Sayed and Stevens close Michigan Senate primary offering different visions for Democrats - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkdXNjVtRDJnWExmWEZEN1ZUWG10OXJUZXlma1l3SXlLelNvSEhqc0VTVWlwZHUzQUlxdUM5b3pSaU9CdUhfUUIwcThINko0MjJzbXBGV1NPa0ljU2xPUUVNVFYtOTZyZDQ3ZHZuY1g5TGZFZXhuc09UZVZZaWxocUYxZmhqLVdRUlVTOVZHNWhzQ2pkR2ptay0wNW5zUmpB?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 02:16:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Judge rules New York can’t ban federal agents from wearing face coverings - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUtYRkhVR1hFd21tNFRzVFNyZUcwWmpJNEpwb3EwTW93TnllX2l2d21mREhnTW9GMXgzcEQ2ZGQyTktKNU5jbXlEaGUzTWdSYmxpeXVNUVprZXhoaURpUVF2OWpjT1hWa0oteTVoZUFnVnlnVW11b0QwVEhaQmtSNDN5M1ZqVTBfNEZLM1FONk9sb1JtX1E4eVVB?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 01:57:44 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T06:00:27.351Z"
+      "updatedAt": "2026-08-04T06:25:18.255Z"
     },
     {
       "name": "Reuters",
@@ -185,9 +185,15 @@
           "source": "Reuters"
         },
         {
-          "title": "India's Nifty 50 opens lower as new closing mechanism-led surge unwinds - Reuters",
+          "title": "India's Nifty 50 falls as new closing mechanism-led surge unwinds - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkczSk9HZlhtQlVJTFBrN1RZVFBheWlNNThaNnpGRXJvSk1aTFJGalRSOExZelRGTC1GZkRNaks5eDlvQVhJa1NIMEN0WjdCWWM5Q25UQVAyLTRvaUlNNk1xeDZnSHJwUU44alZldVptZHZ1ODJHYnpBbmJ2SVQ5VEROWDQ1YzZhWmxFREE3aFV3VXd6S1ljRGlWWklqRUwzVUgtcHpnaGlEMWZZbklIZFM4YWVoUnM?oc=5",
           "pubDate": "Tue, 04 Aug 2026 02:47:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Japan casts military buildup as path to economic prosperity - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUJQVVd6S3NYc2pFV2IyYW90UXl5bjJBb3JwcWFDclNEY1VMbzNYZ1V0cjhvd0lBZVFGMlJ0bzYzNl83TVY1Z0U5M1JsXzA3THlBN2xhUjJkOWpadVhCenRTX0QxME5xSnExeWFpRFF0WVd3ZzNxZ1BJeEQzVGctNlBRUEs3ZHllVVBJNWk4TzlNQmFqY3pHV0JEZll1S1RWUDNjRFlFeXRoWHpB?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 02:22:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FbUhCcDNQSE1IQ3dnM055RTJNZ0N1WHYtTUswbUtjZmRTS3FwbEtKZkd5Ti1WT0JndWtUSEJJTktud19OQzRELW93em1SMFdjcnphTVBMQ1BPMzBJLTdEYmxMbnJ2bFB4NVN4ZVlKYjIyZUlFZGx3RUljSQ?oc=5",
           "pubDate": "Tue, 04 Aug 2026 00:38:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 23:26:37 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T06:00:27.766Z"
+      "updatedAt": "2026-08-04T06:25:18.631Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T06:00:28.019Z"
+      "updatedAt": "2026-08-04T06:25:19.074Z"
     }
   ]
 }
