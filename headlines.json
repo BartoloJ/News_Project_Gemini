@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-04T19:50:21.626Z",
-  "lastChecked": "2026-08-04T19:50:21.626Z",
-  "lastUpdated": "2026-08-04T19:50:21.626Z",
-  "generatedAt": "2026-08-04T19:50:21.626Z",
+  "fetchedAt": "2026-08-04T20:00:26.626Z",
+  "lastChecked": "2026-08-04T20:00:26.626Z",
+  "lastUpdated": "2026-08-04T20:00:26.626Z",
+  "generatedAt": "2026-08-04T20:00:26.626Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T19:50:20.294Z"
+      "updatedAt": "2026-08-04T20:00:25.240Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T19:50:20.507Z"
+      "updatedAt": "2026-08-04T20:00:25.628Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlgtZDJKWkRiTWNwOFRhUzM2WGhhTlR4clFocEt4TGNEV0VLb0gtbDEzQmlYZkt3OFNyckJpQ1JPUzQyRUdFVDFjbWdyaXQwNGV5dUYzeXFocWF3UnNqTkpUVnhrX3RudkJ0R3lYVXR1MmwxazZ1ZzF5SDdlQWNsWVVlZVZYVzJJNUJxQnFjYS0tQ1VyaWR2QkJZQTRYSDVG?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 19:40:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "How ICE and a data center turned a small Pittsburgh suburb into a civic battleground - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeVpPOFZzWTN2MTdPUEhUWDBkY2hqaDlyTXRuaUtwaHFjd01RaDEtVG9DcWVPUC1nM2NUWVJnRVNfS0pGWnQ1bU5QM21Od0M3QW1ueWJNaW5fU3ZrWGkyS2hLVkFla055SGZEV1BsVHN3MnIydFZpWG1oNFFMZkxLMzBPOEZTc3cwQ1ZwU2E1Y3dfYVlfcU9wS3ZxekdnUGZyYW1yNlJWMDE?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 18:46:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "In-N-Out worker killed in shooting at newly opened Idaho restaurant traveled to open stores - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2J5eWEwWktqLUh2S0h5OE1SNHJGNnhKVTdCM3U1Zjh0OWtOQ2ZXZkx6ajMxd0JtckJRNWd1WE8weXZPNHRXa0JHQlgxTkdZNG44eGREeFdvOVBFMVMzRUtXLTJsaU8waHVqc1l1NlZLMXNDdEFuV0ZuWnMteUlwQ254OHUxek42cF82aVNXWnJtUWR4WGZF?oc=5",
@@ -127,12 +139,6 @@
           "title": "Virginia Democrats pick nominees in 2 US House seats they hope to flip in midterms - AP News",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3lyMDZNUlh3T1UtT0ItQlZib1huVTNGLVRWUE5GVkFLdTF5cVZnUDE1a0diOGlhNXBHenEyUTYwTkwzcmJGXzR1aWQwVDRKQlF5N1ktR3lVS2tpV3ZTZUpDejlLUUxTQlEzMEh6YnBOZlhDNDJNT3BGbVZrNHZkVmNHTlQ4X0NLNF9ySk1XaUJLckJNQVRLUFZoTm94MF80UVRNNnNhQmdmeFRPM2dEQzQ1VTlzMjRNNnhJY1F3QjktcmlsQmVXQWhn?oc=5",
           "pubDate": "Tue, 04 Aug 2026 18:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlgtZDJKWkRiTWNwOFRhUzM2WGhhTlR4clFocEt4TGNEV0VLb0gtbDEzQmlYZkt3OFNyckJpQ1JPUzQyRUdFVDFjbWdyaXQwNGV5dUYzeXFocWF3UnNqTkpUVnhrX3RudkJ0R3lYVXR1MmwxazZ1ZzF5SDdlQWNsWVVlZVZYVzJJNUJxQnFjYS0tQ1VyaWR2QkJZQTRYSDVG?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 18:18:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,71 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMm5rN2k1VkFhLUdQaWhKSklHdElzMU9XZmhlT1M5eVBkVG1HSXB6WUc4V3hHOEQwTWFKTjlPSVA2YTRrcFEzWlFSc1BRVTJRdUVEMEozbXJTYkM1MVRYbUNYSU8zWkI2bnhPbTNQZUJXN2ZtSFduYzBMWmg2UVNuV1ZRVDA3bF9CUWp5YkNlQnIwMm8tVHc?oc=5",
           "pubDate": "Tue, 04 Aug 2026 17:52:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Southern California Edison equipment blamed for 2025 Eaton fire in Los Angeles - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN3h4Vl9WOUkyc1dzMFZ0OVVvRFJrU2NHTmVUQ1JfMTVTa2U0NWVjYVZLUlJSOXNsOVRuNlJxY0Fya2VaWFZNeWpoQVNva1NiZXB0ZHR4ZFRHVi04TFFsdl9VVmU4VW9DLTNZLWJoUnZqMkRUcWszdk1BMmZMNEcwSnN1SGlCSTlHd1MyaVZDOUlXUE5ickg5RkE0NTlJclRIWHMyUg?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 17:31:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T19:50:21.019Z"
+      "updatedAt": "2026-08-04T20:00:26.091Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Battle lines drawn within FIFA as key figures break ranks with Infantino - reuters.com",
+          "title": "Novo outlook hike falls flat as high Wegovy pill hopes unmet - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdXlQZTlFQVdGcUJLekdBcDJSVHlDeXcwTjdJWFZNWTFSZ083NV90WXFVNkdhVXlRN2JKbHF0c000Y1AxX0VPMDBqeURUaHpfUFcxd2ZFQ1VoQTNBWDVHVkhBZHpWY1oxbnRIU2ZwS3ZONHhmZUF4SVdrNTVkdkdGak1FcFZsdkRwZWlEX0ZOTjRDN3RpOVBZR1hLTEdxSzlRM3lmZ01KYkFOM2c?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 19:18:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Battle lines drawn within FIFA as key figures break ranks with Infantino - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNak9GVU5MVGJmUGp6bG1OLW1ELV9TN05IWkRwQ2hZcUpWczJUS0NHMkwycy02X3FSeThFX053blppMDRMR2xmQ0pGNF9QeHY2YjlqOFlFQ1VIZk5oUjRFQ0V5YkxMLW9TQlJXNlVrQzhDWl9mUTZuN3RjNFcxZnU3SU9BM3dLZ2JSSDJ1eEs4bTJlYkpNOUF5WmxNM2ZkNUUzLTl2WUZOQ1hIWlM1WS13N0xZSXhYb2xYRG01NEZHUlpPcHU5REpOM1ln?oc=5",
           "pubDate": "Tue, 04 Aug 2026 19:14:17 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: US weighs polysilicon price floor, tariffs to counter China in solar and chips - reuters.com",
+          "title": "EXCLUSIVE: US weighs polysilicon price floor, tariffs to counter China in solar and chips - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHMyc0hjQmFKeG1UQ240cmpVNmxXMFV2QUlvOTQ3MGhsaDJzRFAtS0E2QmJxWk4xNDFCTThDZlNqeGhfYjFsc2lqV1dOa2lNUmxHWHdDRUlnSFE3UExGN1hQbnZSc0Ytd3ljRnNIVFM0RTYwZTAybjg2blg3QmkwdHFicjc3LVlua2VEUW94ODdBeXlmc0NEeFA5c1FQcWtCLTJmb3RmaW1uS0ZqYk11UnpCWFRiQQ?oc=5",
           "pubDate": "Tue, 04 Aug 2026 19:09:14 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Projectile sinks Indian ship near Yemeni waters but all seafarers safe, Indian minister says - reuters.com",
+          "title": "Projectile sinks Indian ship near Yemeni waters but all seafarers safe, Indian minister says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmtBb0gtUVhaWUFKQ2tlakdWSDhOREJnbHM3dVN6ZGRkbEF1Mnp0VXVFYzY0TXRZRDduZDVibW0yaVpkaDg0TjNpY1VCWFlrQnRQam0xN2ZWWG1vZWpZSUlzTU5CWG9rSVM5dDlGQXRFZzVFXzZCcXVsd2ZUUmJaTi0tUDhiSVp3T1M0bGdRcGZuWmgtV01NLW5OTVFCZlQ2VWdEX2dzRUptUFhxSlVXMEI4T1A3UQ?oc=5",
           "pubDate": "Tue, 04 Aug 2026 19:02:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "AI-linked earnings, Mideast deal hopes send Dow, S&P 500 to record highs - reuters.com",
+          "title": "AI-linked earnings, Mideast deal hopes send Dow, S&P 500 to record highs - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5",
           "pubDate": "Tue, 04 Aug 2026 18:57:58 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Arson suspect arrested as wildfires rage around Spokane, Washington - reuters.com",
+          "title": "Arson suspect arrested as wildfires rage around Spokane, Washington - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaW9FeUtRVXBkaFZ6TVRocHA0Z2UzclVnMWJqT1Axb1pqVEdPbTFnRWc1N2R4SW42ckFUd3I0SENOOC1tWFl3VTliVjQ3ZG1XTDdfNVRFZGp3M1JLc3VmbkJBYUwyeUZrQzRXTEZzTENYMGtwR0xRbTlPdXNRcnZkM1F1aDlYNExTaDU5a0lqVW9LcGVnNUdjN0R3ZWY2a19OLXJ2b2tLM1pVWTlL?oc=5",
           "pubDate": "Tue, 04 Aug 2026 18:51:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Chipotle pulls jalapenos from some restaurants amid salmonella probe - reuters.com",
+          "title": "Chipotle pulls jalapenos from some restaurants amid salmonella probe - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2RhdG9zUUlsMjlDaklJdXFRc0s4aGJXLVBrakhjUE14MkVYYy15SmgxNUxTMjRmOEJyQmtRZm9lTzFNMkkwNTV3V19NeFIxaDdwWTRTS29TN2lEZHNVQUxxX1A2c0ZaazRURmxtLUNtcTFZZmloVlZMclE0NDNOYUJzQ0I5ejFmaDBaTkhONHBuaXRMeFJjRzRqdkM1Y1dNeEdiQm1yNmRZTTRWRHdZTTBvMnRBcHFm?oc=5",
           "pubDate": "Tue, 04 Aug 2026 18:51:10 GMT",
           "source": "Reuters"
         },
         {
-          "title": "AI offers 'lifeline' for emerging economies, World Bank says - reuters.com",
+          "title": "AI offers 'lifeline' for emerging economies, World Bank says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVZGc1lSSGxvaXVoX2pBRG5rN1hTcU40dS1TQXl0ZU4yYUNDVFU2ODdCakpRai1hbFJwUVVkQVo0MVdENEg0YUQ4c25uZERIRUJqMHlBbVUwYXVfX3c0ZlpmdmVhVjRWUVFTbE93YnlzLV8zVW1FU3hhbFQ4Sy1OVkNXcHZsQzdIRXpVYmplcXdwOFJQS19XZk5TdVIxNlU?oc=5",
           "pubDate": "Tue, 04 Aug 2026 18:43:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: White House set to extend Jones Act waiver as Trump hunts for cheaper gasoline - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTdhU2NMYVVDcFJtV0pXczNXR3NpODBkVjFOMjI2OXJ5NUJsMEd4RVpHUHhsdF9WTl9VRUY1MExPNzdTa3dLYVZ3MDMxeDc5dkFreVJQZ3hEaXRQVTN4WDJvRlc5clJYazBWUnVSYkItaUZ6QjdvVmFZU3B5YWZ5RnlTMXQ5UU5xdTFPdTBGUWdlSkhyRTEwNE5VUHpadGV2b2l2ZjB4NmhCcVFFcUFTa2ZUc2hZZFpHZ1QyRQ?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 18:25:32 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T19:50:21.408Z"
+      "updatedAt": "2026-08-04T20:00:26.536Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T19:50:21.626Z"
+      "updatedAt": "2026-08-04T20:00:26.626Z"
     }
   ]
 }
