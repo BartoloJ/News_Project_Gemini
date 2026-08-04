@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-04T08:25:22.684Z",
-  "lastChecked": "2026-08-04T08:25:22.684Z",
-  "lastUpdated": "2026-08-04T08:25:22.684Z",
-  "generatedAt": "2026-08-04T08:25:22.684Z",
+  "fetchedAt": "2026-08-04T08:50:22.744Z",
+  "lastChecked": "2026-08-04T08:50:22.744Z",
+  "lastUpdated": "2026-08-04T08:50:22.744Z",
+  "generatedAt": "2026-08-04T08:50:22.744Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US states sue to block Trump tariffs impacting dozens of countries",
+          "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 04 Aug 2026 08:31:38 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
           "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
           "link": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 04 Aug 2026 07:13:40 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "US states sue to block Trump tariffs impacting dozens of countries",
-          "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 04 Aug 2026 07:11:35 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T08:25:21.368Z"
+      "updatedAt": "2026-08-04T08:50:21.130Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,15 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T08:25:21.564Z"
+      "updatedAt": "2026-08-04T08:50:21.332Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 08:22:22 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Donald Trump - AP News",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 08:18:19 GMT",
+          "pubDate": "Tue, 04 Aug 2026 08:42:55 GMT",
           "source": "AP News"
         },
         {
@@ -160,6 +154,12 @@
           "source": "AP News"
         },
         {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 03:32:53 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Ariana Grande withdraws from London musical and will take a break from the public eye - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHBGS0ZoVmlWV3l5ZEkzZFV5cHIwWmxtZlVNMHBlUWxJaG9UaTlTSHhXeEpCTlljdG1GSGd6bjE1aFA2X1EtUTREd3dxX2czajhyOTdnZ3RsMWtvTkY2SURJZFRYZE9QZHJkQlVPUGxkSjNseXdFV1lZWG5wQkQzeklhVEx3dnJ1X0phSktyRC1MYzdEN1FzRmdETzVNZ2FCbWJPOFYtSQ?oc=5",
           "pubDate": "Tue, 04 Aug 2026 03:26:00 GMT",
@@ -167,62 +167,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T08:25:21.991Z"
+      "updatedAt": "2026-08-04T08:50:21.953Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "BP's second-quarter profit more than doubles to top $5 billion on oil surge - Reuters",
+          "title": "Ukraine strikes three warehouses across Russia, killing five, local officials say - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSXNqV053eGo1Y3UtWjV1S0VuZGFOdU1KWlJRb2pDZkFlTl9ETEhta21XNjIxaDMwRDU5S1c0bTBLemdLdkVEN1FZa19jVU5ZWkRHRDd6aVBhZFNYYnRXU3pkbnN3UWlaYnNyMG12Tm9jMF9ZdkczOFQ0OTNXOHEzWTlQZ0NCRkJWUXhhYXdrSGhBdGV1anpWWXdxS053WEwydjAxSVNYanI4SjBUX0xzcEFET2VFMnE0U2Y3NERmbXFLX3h4VklR?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 06:58:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "BP's second-quarter profit more than doubles to top $5 billion on oil surge - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdU9hYzNQV1Ezbmd5OXB4Z1d4QTR0QU80Z0MteS03b002RE5yd2hPb2l5Z0NqLWJ4Y21PSTN0Z29UNVBBVEVyRDRGc0VNUnoySWNlcWU4cUlVXy1iNWd0MVA3V3pXLXN1ZHlyQWcyNzRfcmNxYnJKWFBQTWZ1anZtajRzcFRSd3BIQWJhOVlfQXZUaVU2Y1RlTUhqcHBQZ1ItTjhJeEg0NA?oc=5",
           "pubDate": "Tue, 04 Aug 2026 06:09:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Japan, US likely to intervene again if yen resumes slide, ex-BOJ official says - Reuters",
+          "title": "Japan, US likely to intervene again if yen resumes slide, ex-BOJ official says - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOFBlRFQwNmdFVnlRVnRVRmRVaXhKOXFyd01MSzZjR1BQMndDSk95b0phRGl5ZWZwVEprcUdZSlltYy1ZSnpvRXBIdFVHVE5FQnl4b2dXNHZlX21FZmVJMmFqUEdhakh4bS1VczFTTFVQZWk3Nldka0xOZkFrMlJLN0ljMDFTYzEtYWVuOEc5dWpOQ1JyWk84eWctZktVUUhQazNubEh4Mkx5aUFqaGlBUFFOT2VmMzBKM2FLQkF4NVVOZUg1d1FZ?oc=5",
           "pubDate": "Tue, 04 Aug 2026 05:59:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case - Reuters",
+          "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUxSNUIwOXpQcmNEWkp3ckJYUUVuaExoTVlHbWNEaUp2YVVfX2Z6NHRyWkJZOHAycXZZTlduWkIweHpmd25mblFaYU9EZnRXS2FqYkNsSDBJa2FjZThqZ2c2eWp5OVNKcEhvUmxVT3ZseXZyRnpFT2JjR05INGJWdkIxWGxITUdOXzRyUnNtSWp2MVhOR0tkTjU3THctbjlHVVJTQVZxX01tdFpPX2lrcFFSX0dwNkR3eVA0Z2Jn?oc=5",
           "pubDate": "Tue, 04 Aug 2026 05:57:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Toyota lifts annual forecast and announces stock buyback, but shares fall - Reuters",
+          "title": "Aramco posts 44% rise in net profit as Iran war drives up oil prices - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 05:32:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Toyota lifts annual forecast and announces stock buyback, but shares fall - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSy1kNU1lRXkxX25PQUFPbTQtT2FCaXp3VHNJb0N6czVieVFvZmY1U1lta3NzVEdwRUEzQmd6b2h0dmtOTTVyZmNTTDhiVU1od3dCWFN6U2JRMFRZeTE2cnBwTHpGekxMNzhGRk1CMnZSRllsdG5UZmpmXzRoNTVKeDlQUlBwMWFlUG9KbzJGOGkzZGtUajh4V1R2WmhMdXdiVVNiZlFiLTZHbHhlUExSS05QdnU2RFRUUTRuQ3ZsM2M1M0RSdkxFajVMWU4ycDVGanc?oc=5",
           "pubDate": "Tue, 04 Aug 2026 05:08:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Europe's wildfire season exposes climate insurance gap - Reuters",
+          "title": "Europe's wildfire season exposes climate insurance gap - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHpKT0VIUTdYblVFSVNjMTNXdFR2TmMxRlN4ck1UTFJPUEJqbGV6RjhtVzlrMDRtcWU2YTRqZjZaMW02M0hLMlYzZElacmV2VmliOUNfOUx1TUZ4UUQwNnk3VWdIczBGQkxCRC1UZDBLdzV5MmcwczE3Z19zbzEtSjRIcXlQVnN5b2RVVm1fVEdUWHFXVVAzblRCY3d1dk1KRWg1a3RaSkNDUQ?oc=5",
           "pubDate": "Tue, 04 Aug 2026 05:05:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "As Europe migration debate rages, Bologna businessman's death highlights human cost - Reuters",
+          "title": "As Europe migration debate rages, Bologna businessman's death highlights human cost - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWkFnVDBvZGt1WV94d2c3bzl6dDJQUmhPSU03Y3ctekw0eEVROHV0MnFCUEd0aWRnTlpGNEVudkI3alFpZXhBejlqLUNHTGlJcUw2YlRHVHJKaFdQdmFtaG5QQW8wNnhKM1Z3YmgtV0FHOHROSVdYeHR5S1MxY1lWeGpUb3VDWXFkSWN1V3kwZ0J5ck52cG5DSzM5TlJ5b09LT19aTkp6bnFNeWlWT3poQk9xUnA0X2U5WGUyVXI3TDQ5RHBlUUE?oc=5",
           "pubDate": "Tue, 04 Aug 2026 05:02:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Rio Tinto signals no rush to revive Glencore deal as standstill ends - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQnNVUVlkZnZoNU5sbVJNSEVjRl82ZzctbzVzenVkTDlhU3dPV29WOXhYMWd2S1ctRlhyQ05YdGVtUjZrZUNyUjJyNklfMml6WlMxa2dodWFVMHRCZWdLLXhYc1NWbjVNdE1kblZFSWZWT2NabUtQZkJMbXl3UUVaRWhYMTVubUYtbjdIUTM0Zm1pZjR3UUNpUU1iMEQ1Ukwzek5rT3N5RFVVV2JKR0NkVWZRZ2s5ZlpmbGc?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 04:53:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Yen clings to gains but bond pressure builds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EalpPNjU1ZC1kSWl1ZzU4T3djdVQ0U2VxWXBab18tWllXbjRMaHRuQXZrMG05VWF3cDdjNGlnbEhIbmxpY0htYWFGS2M4cjl4Y0prdnNsWkExNjZ5MzBtOHNRa1RyZFpyb2Zad3hFTjc3Z1RZTWg5bDJEN09Db0U?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 04:33:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T08:25:22.412Z"
+      "updatedAt": "2026-08-04T08:50:22.379Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T08:25:22.684Z"
+      "updatedAt": "2026-08-04T08:50:22.744Z"
     }
   ]
 }
