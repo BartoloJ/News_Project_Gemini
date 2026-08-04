@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-04T20:25:17.931Z",
-  "lastChecked": "2026-08-04T20:25:17.931Z",
-  "lastUpdated": "2026-08-04T20:25:17.931Z",
-  "generatedAt": "2026-08-04T20:25:17.931Z",
+  "fetchedAt": "2026-08-04T20:50:16.236Z",
+  "lastChecked": "2026-08-04T20:50:16.236Z",
+  "lastUpdated": "2026-08-04T20:50:16.236Z",
+  "generatedAt": "2026-08-04T20:50:16.236Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T20:25:16.538Z"
+      "updatedAt": "2026-08-04T20:50:14.700Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Oregon's wildfire season is pushing ranchers to evacuate their cattle",
+          "link": "https://www.npr.org/2026/08/04/nx-s1-5919329/ranchers-evacuate-cattle",
+          "pubDate": "Tue, 04 Aug 2026 16:16:43 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "One Maine community's fight to save a birthing center",
+          "link": "https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight",
+          "pubDate": "Tue, 04 Aug 2026 16:16:26 -0400",
+          "source": "NPR"
+        },
         {
           "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
           "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
@@ -97,30 +109,48 @@
           "link": "https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda",
           "pubDate": "Tue, 04 Aug 2026 07:05:10 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Authorities arrest an arson suspect in connection with wildfires in Spokane",
-          "link": "https://www.npr.org/2026/08/04/g-s1-137274/suspect-arrested-wildfires-spokane",
-          "pubDate": "Tue, 04 Aug 2026 06:56:56 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "The sneaky economics of healthwashing",
-          "link": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
-          "pubDate": "Tue, 04 Aug 2026 06:30:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T20:25:16.850Z"
+      "updatedAt": "2026-08-04T20:50:14.895Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Man charged with setting Spokane's largest wildfire was questioned about 2 other blazes last year - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjlrYTFEWU1Td0psdzA1WmlzRUpyelV2aEtibTIyY3FidC14QkxNckU3ZmI1VUFmMVFpOExQOFMyQjBXZTlEdUhLTWFqQnd0UUh5ZE16eEZKOThCSFdzQ2RDMTVkbFRKeUN4elR3bHJJQUl6S1l2Um5uSEpRclhIMkZabHRmbjJwTTJLS25QRVNiQjVpSDJPcm9PM3VPeEZZN0J0MUUxTlY?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 20:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Chipotle pulls jalapeños from some restaurants as health officials investigate salmonella outbreak - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUN5R1hXRGxndjVsR1hxOFRZV2J3RHhaMng1LVZlbVFMb1Y2eUtfUDFCYnZ5ZThaTXhLQm12SEVCdlFtVlVQdEQ5LUd0MU9MWFNzdm1vRTRFdHN4SHhFZEgySkttQjVhYVEtQllad0E3WmlxUXc0b0t1UEFoR3pIcmFCblhmYmJSQk45aVJwN1MxRXR3UUdwWkpKLXI5bjIwMDlVTWw3b24zaktYQkg4cw?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 20:19:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Virginia Democrats pick nominees in 2 US House seats they hope to flip in midterms - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3lyMDZNUlh3T1UtT0ItQlZib1huVTNGLVRWUE5GVkFLdTF5cVZnUDE1a0diOGlhNXBHenEyUTYwTkwzcmJGXzR1aWQwVDRKQlF5N1ktR3lVS2tpV3ZTZUpDejlLUUxTQlEzMEh6YnBOZlhDNDJNT3BGbVZrNHZkVmNHTlQ4X0NLNF9ySk1XaUJLckJNQVRLUFZoTm94MF80UVRNNnNhQmdmeFRPM2dEQzQ1VTlzMjRNNnhJY1F3QjktcmlsQmVXQWhn?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 20:07:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Salvadoran man complained of access to medication before death at NJ immigration jail, family says - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHpPUDY0Sy1FNUF6RDg1cG5tOG01UzdULTRoaHpjZC1XZzN2RUxBV1dxOWtqeFlJLWZtMEUyNkNYTlc2eXZrWWtvaGt2bm1pUHRxdG91dHR6SloyVzBtcWlJQWJYMVRLQ3lFWUhkMEtZTnJab2FwN1ZtdGhXZ2hhZmUwaWRGTlZhbDZMMnJWTUFVT1BYZHFoRHJxTzN6R3pLYzZKeFJ3?oc=5",
           "pubDate": "Tue, 04 Aug 2026 20:05:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "House Ethics Committee opens investigation into domestic abuse allegations against Rep. Max Miller - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXp2OTVsQUNja0thVFFhbXRnMEJnZUVJYlNHaDc4bE1xallJYnRMX1NrNHpVcmVVYnBCb2twNk1oUGV5RGZ5UTZoV2hlVFNYYXJxcFBMSndhSmRQTzBzRDZBay1zS1NaWnNxZFI1OTZrS1l6NFBHUzZnbUhmbjVwNExWbC1zRlBTSXVOTnd3RXJUbkw2ZkNrWnM5M3lpUFJL?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 19:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Millions join Arbaeen pilgrimage in Iraq amid fears of US-Iran escalation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRFVVY2tLNUY2S2NLMTQ5N3dWVlVLQkFabklvYVl5V0xZRkk5Q05xY3pIUUkzWWFncm9rbjFEbEloMTZiWGtxOVpCSmdab3JIOXNNVXlQZXF1RnczR090SnNLcXZpRTZvdWFsdjA3bmNTd2cxeGFibjNseTFMY2Rtdl8tMA?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 19:51:00 GMT",
           "source": "AP News"
         },
         {
@@ -130,44 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Chipotle pulls jalapeños from some restaurants as health officials investigate salmonella outbreak - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUN5R1hXRGxndjVsR1hxOFRZV2J3RHhaMng1LVZlbVFMb1Y2eUtfUDFCYnZ5ZThaTXhLQm12SEVCdlFtVlVQdEQ5LUd0MU9MWFNzdm1vRTRFdHN4SHhFZEgySkttQjVhYVEtQllad0E3WmlxUXc0b0t1UEFoR3pIcmFCblhmYmJSQk45aVJwN1MxRXR3UUdwWkpKLXI5bjIwMDlVTWw3b24zaktYQkg4cw?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 19:24:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Wisconsin judge rules that paper absentee ballots violate rights of certain disabled people - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRDV2TC04emg4dXRITnZRTDdjWTZraE9MZl84UlFqazgzREZCbEp3ejBfVmtLUzhOZFpUcnFtUElfcG5kUFliOG9yVjBXOXdHZjQtd01FMDR4UVBWS3g2NGhDaXp2YUs3aVQyRlNIY3VfU0pqaDZXeHlFT0Uxa01INWxsYkg5MkRxNkc0MnRyWkt4WDNTZ0NCczZiSVVWNWxsdGNnaFJGQmU?oc=5",
           "pubDate": "Tue, 04 Aug 2026 19:12:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "US stocks rush toward records, and Dow soars 1,000 as profits keep piling up and oil prices ease - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTV9wOHRxaHZsa1ZVU3B5ZUYzRnhVT1ptZVFCcFBzOFM1SkZzQ1o3ZGlIM2FHZWphMllYbHRrS0lNWUU5ZzhUOUFfcWEtZlZjSXRNZFIwbXZ2VmI0Q1hIZVhVYXFEMlFIeTdwUXF3bVNKWXNDUFZqNFg3VlNJMmhtc2JwS0d4aGgxYlFPcllrUVg5SlFOU2o2UzdlRE5ka09lOGc?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 18:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "In-N-Out worker killed in shooting at newly opened Idaho restaurant traveled to open stores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2J5eWEwWktqLUh2S0h5OE1SNHJGNnhKVTdCM3U1Zjh0OWtOQ2ZXZkx6ajMxd0JtckJRNWd1WE8weXZPNHRXa0JHQlgxTkdZNG44eGREeFdvOVBFMVMzRUtXLTJsaU8waHVqc1l1NlZLMXNDdEFuV0ZuWnMteUlwQ254OHUxek42cF82aVNXWnJtUWR4WGZF?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 18:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Virginia Democrats pick nominees in 2 US House seats they hope to flip in midterms - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3lyMDZNUlh3T1UtT0ItQlZib1huVTNGLVRWUE5GVkFLdTF5cVZnUDE1a0diOGlhNXBHenEyUTYwTkwzcmJGXzR1aWQwVDRKQlF5N1ktR3lVS2tpV3ZTZUpDejlLUUxTQlEzMEh6YnBOZlhDNDJNT3BGbVZrNHZkVmNHTlQ4X0NLNF9ySk1XaUJLckJNQVRLUFZoTm94MF80UVRNNnNhQmdmeFRPM2dEQzQ1VTlzMjRNNnhJY1F3QjktcmlsQmVXQWhn?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 18:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump’s arch could harm the integrity of many of Washington’s historical sites, report says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZm9yZ2pPZ3J4cEZtYXNWdDlJSzYxdjk4V0hNdTFOajhTOFUwQWFtTHhiekk0d0h5UjNOaWZhWE8yNFI5R2pfTU5WNnhlYWNRX2FwYjM4cVBMcDlKVE45NkR2LTdsOUJDYXVFMkdBYUFMRHpXOHdWNHlwQklRMVVjWUtRNDFuU2tmNjRhWDVTX0I4RnBXbW00dW9UTVNOdw?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 18:23:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T20:25:17.273Z"
+      "updatedAt": "2026-08-04T20:50:15.442Z"
     },
     {
       "name": "Reuters",
@@ -179,9 +179,21 @@
           "source": "Reuters"
         },
         {
+          "title": "OpenAI pays $3.2 million in US probe over hiring foreign workers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJOQ1NUYjZjQ2RhS091TnNpc0pDdXNyazQxOURLaDUybjNiUEV6OHJfR2FKcC1UaUNoZnVnRDJNUDB1QVdlUzFOSDBPcGRQRWRDUWdMWmZCRHE4bmZQNXlWZ0otMmVQNXBBTTN0UTczZmZ3LVpFVWJUWlVuVGJyOG13WmdNZm1pbW9sZzZPTk10NWc5TjRhNXk4SEdZQV9oX1hPczM3RQ?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 19:24:09 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Novo outlook hike falls flat as high Wegovy pill hopes unmet - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdXlQZTlFQVdGcUJLekdBcDJSVHlDeXcwTjdJWFZNWTFSZ083NV90WXFVNkdhVXlRN2JKbHF0c000Y1AxX0VPMDBqeURUaHpfUFcxd2ZFQ1VoQTNBWDVHVkhBZHpWY1oxbnRIU2ZwS3ZONHhmZUF4SVdrNTVkdkdGak1FcFZsdkRwZWlEX0ZOTjRDN3RpOVBZR1hLTEdxSzlRM3lmZ01KYkFOM2c?oc=5",
           "pubDate": "Tue, 04 Aug 2026 19:18:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EPA cannot block billions in climate grants, US appeals court rules - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXVZM0xxUG92N2JHRnBleUJLOU5fcHBZeWo2Tk5Bb2NXXy1sVXBGaDh2cDZGNlJFWTBDTVkySzNiUUcyM3VFc0l2QnByRDFHNjgzbkRDaVBVTi1nR1kxQUh3RERaZjhKWmdFdFdRSkRmd2tiMm4tcnE5SnR3b1ZYVTZTWXN0NVpzUmFic2NvOGZBMmx3d1d4TUFZVmZpMzJrRnM5MkljaTdUckN3eG04NlNmNW9LUQ?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 19:15:48 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Guatemala's Fuego volcano intensifies, prompts preventive evacuations - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa1JSZThSQXJtM2VFb3RwSGp4dTY2ampYVVBlUk1LR3hGMTRiRHQtYjhRS1BHVnZ6TU12M1A5SVBTUkZfSm1feW1ROXpIUXdKR0kwUFNQNlN1UlpXTTB4cTM1QmN2V2dlUnp2dUw5N1RsbzdIdFV1MS1kR01IVWdHQVFLXzhtdFAyY3BxOWh2NVJVblVuV2F4aUY3Q2trYldNTjQxYnE1MjhQbFVWc0NJMHAtd1o1N1N3dERkcnhwWU96dw?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 19:08:32 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Projectile sinks Indian ship near Yemeni waters but all seafarers safe, Indian minister says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmtBb0gtUVhaWUFKQ2tlakdWSDhOREJnbHM3dVN6ZGRkbEF1Mnp0VXVFYzY0TXRZRDduZDVibW0yaVpkaDg0TjNpY1VCWFlrQnRQam0xN2ZWWG1vZWpZSUlzTU5CWG9rSVM5dDlGQXRFZzVFXzZCcXVsd2ZUUmJaTi0tUDhiSVp3T1M0bGdRcGZuWmgtV01NLW5OTVFCZlQ2VWdEX2dzRUptUFhxSlVXMEI4T1A3UQ?oc=5",
           "pubDate": "Tue, 04 Aug 2026 19:02:35 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Arson suspect arrested as wildfires rage around Spokane, Washington - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaW9FeUtRVXBkaFZ6TVRocHA0Z2UzclVnMWJqT1Axb1pqVEdPbTFnRWc1N2R4SW42ckFUd3I0SENOOC1tWFl3VTliVjQ3ZG1XTDdfNVRFZGp3M1JLc3VmbkJBYUwyeUZrQzRXTEZzTENYMGtwR0xRbTlPdXNRcnZkM1F1aDlYNExTaDU5a0lqVW9LcGVnNUdjN0R3ZWY2a19OLXJ2b2tLM1pVWTlL?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 18:51:33 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chipotle pulls jalapenos from some restaurants amid salmonella probe - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2RhdG9zUUlsMjlDaklJdXFRc0s4aGJXLVBrakhjUE14MkVYYy15SmgxNUxTMjRmOEJyQmtRZm9lTzFNMkkwNTV3V19NeFIxaDdwWTRTS29TN2lEZHNVQUxxX1A2c0ZaazRURmxtLUNtcTFZZmloVlZMclE0NDNOYUJzQ0I5ejFmaDBaTkhONHBuaXRMeFJjRzRqdkM1Y1dNeEdiQm1yNmRZTTRWRHdZTTBvMnRBcHFm?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 18:51:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US jury says Medtronic owes $88 million in first case to go to trial over Covidien's hernia mesh - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdlpBTzE5RXpYUnZYMkZlQXRPdkFYZHlLaVE4cDg3OXNhYmMzbmJmSlQyZG1Wdkg0UGQ3TFZ6S2NWc2lGYjl2V09qVU56ektmdnAxTGp6S01SUnM4VS1SNURPcndCUXdES05ENWt4eWxITkFtQTNWOFVfLTQ1WFVsbkZKTFFDdVlGZzVKOGFNNTB3ejFtWG5sOU5QVTJZOWYtMHVNc1h0WFhPcXQ0RTVmNUk4THB3aFRJcUV0YjgtWQ?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 18:48:28 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T20:25:17.688Z"
+      "updatedAt": "2026-08-04T20:50:15.895Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T20:25:17.931Z"
+      "updatedAt": "2026-08-04T20:50:16.236Z"
     }
   ]
 }
