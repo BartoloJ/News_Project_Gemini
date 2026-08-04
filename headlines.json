@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-04T07:00:21.656Z",
-  "lastChecked": "2026-08-04T07:00:21.656Z",
-  "lastUpdated": "2026-08-04T07:00:21.656Z",
-  "generatedAt": "2026-08-04T07:00:21.656Z",
+  "fetchedAt": "2026-08-04T07:25:14.393Z",
+  "lastChecked": "2026-08-04T07:25:14.393Z",
+  "lastUpdated": "2026-08-04T07:25:14.393Z",
+  "generatedAt": "2026-08-04T07:25:14.393Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US states sue to block Trump tariffs impacting dozens of countries",
+          "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 04 Aug 2026 07:11:35 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "France wildfires reveal hundreds of WW2 shells in village",
           "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
           "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 04 Aug 2026 03:37:14 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "US states sue to block Trump tariffs impacting dozens of countries",
-          "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 04 Aug 2026 02:53:00 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T07:00:20.432Z"
+      "updatedAt": "2026-08-04T07:25:13.116Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Nauru, the world's 3rd-smallest country, changes its name to Naoero",
+          "link": "https://www.npr.org/2026/08/04/g-s1-137261/nauru-name-change",
+          "pubDate": "Tue, 04 Aug 2026 02:59:01 -0400",
+          "source": "NPR"
+        },
         {
           "title": "These are some of the last pristine ocean ecosystems. Now, they're losing protections",
           "link": "https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed",
@@ -103,20 +109,32 @@
           "link": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
           "pubDate": "Mon, 03 Aug 2026 10:28:44 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "U.S. men's national team coach Mauricio Pochettino will stay through 2030 World Cup",
-          "link": "https://www.npr.org/2026/08/03/nx-s1-5917999/us-soccer-mauricio-pochettino-coach-2030",
-          "pubDate": "Mon, 03 Aug 2026 10:05:24 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T07:00:20.698Z"
+      "updatedAt": "2026-08-04T07:25:13.213Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 07:19:40 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "World News: Top & Breaking World News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 06:55:05 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "How India’s Gen Z movement of ‘Cockroaches’ dented Modi’s political image - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHZqY1FmWndwQXBEMkNMaHIxbGV5c1Y0VU5Vb0pzQl9vdW1Vcy0wRDllQ3o0UWU2UjA3XzJGZ3g3ck55YXpwWU1Gdng5SFFETGV1QlZTM3JQNGx1RzQ4T2VpaElMeGFHeGdhYnpBajdaVGRYTTZYeFIxMUt0ampxTm81WnZVR1NwU2lHb3hIeUVyV043NzNWRGhxVUpxZXc0a3c?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 05:07:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Spanish Prime Minister Sanchez fends off blistering criticism within the EU over Ceuta crisis - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSEx1aXZ5LU0zTzFzTUhzR1pmRElsWlVyN2EwV0R1MG1kSW5kTWY1N0RTaTRpcEJlUi1zTm4zTnJWYV80RHMxTm1EUXlNQTZKaV9jazFLUE15WENEQm1NVGJOWkIyNnc0SHBteUVTYWZIZlpDM3V4WThmYmVyUUlCckxBajJNX3VWeW1NQlhUUDBRXzRkWFlsMQ?oc=5",
@@ -146,36 +164,42 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVJ3YktkdzVuTjE5NnBtRXhReVlTNDdxZUpfOHZGTmhfVjRtd0pka2J4Nk5kR3FwNHFTWGc1aVIzX0ZteWF5dGRfdW1fdl9BVF9uRmctOGxnd1QxbzlicEpzaWlwYXVrRWFzLWFTM3VhT1AzV3llelkyUEhCWnRhblRCRHkwdW45aFA4SjZNdEkweExfNU4wMzcxWUFjcnNENm5lV2d2UFZKdFdmZ1NuNnZn?oc=5",
           "pubDate": "Tue, 04 Aug 2026 03:14:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "US dollar weakens sharply against the Japanese yen after market interventions - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkpfVU0zTnBZSEZnbmNLUUxSMzVoSzVTMk1xZVRyS1FaU1hHbXBlVlpIWHJsQ1owSndGU3hKS3Znc3RVUjFiS3VnUl9vWU54Y05JT1dWb19GeG50NkttOVZld1hNUndETHJOdzhBSnhsY3FtQml3dXRRWmZxbTVSOE0teE1wMldFVmtuS3F3RXdDM1JMU29DcA?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 03:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Myanmar's detained former leader Aung San Suu Kyi has rare meeting with International Red Cross - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlctT0dBVG9VVlhKZ284bjkxZlJVUFJDMFg0eGdHNkp2X1pQa2pPV0VZN3JZWFlRQ25zWHVCTkIzampNaWRqYjZ4VFdiQjk2WGZaS0didzJnaGc4M2JYV0dYdFU5dy1pTUZnRmFwcmpsb01iRzRBUFRQcUlKZWFhdzV1M1JfdV8yNlA1UzBiRUNVRUR5dVlqQUJ0QmNpS2pxMGVFVw?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 03:04:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump optimistic Iran talks will reopen strait, and other developments in the Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 02:57:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T07:00:21.135Z"
+      "updatedAt": "2026-08-04T07:25:13.679Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "BP's second-quarter profit more than doubles from a year ago - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdU9hYzNQV1Ezbmd5OXB4Z1d4QTR0QU80Z0MteS03b002RE5yd2hPb2l5Z0NqLWJ4Y21PSTN0Z29UNVBBVEVyRDRGc0VNUnoySWNlcWU4cUlVXy1iNWd0MVA3V3pXLXN1ZHlyQWcyNzRfcmNxYnJKWFBQTWZ1anZtajRzcFRSd3BIQWJhOVlfQXZUaVU2Y1RlTUhqcHBQZ1ItTjhJeEg0NA?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 06:09:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUxSNUIwOXpQcmNEWkp3ckJYUUVuaExoTVlHbWNEaUp2YVVfX2Z6NHRyWkJZOHAycXZZTlduWkIweHpmd25mblFaYU9EZnRXS2FqYkNsSDBJa2FjZThqZ2c2eWp5OVNKcEhvUmxVT3ZseXZyRnpFT2JjR05INGJWdkIxWGxITUdOXzRyUnNtSWp2MVhOR0tkTjU3THctbjlHVVJTQVZxX01tdFpPX2lrcFFSX0dwNkR3eVA0Z2Jn?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 05:57:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Toyota lifts annual forecast despite Q1 profit drop on weak China sales - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSy1kNU1lRXkxX25PQUFPbTQtT2FCaXp3VHNJb0N6czVieVFvZmY1U1lta3NzVEdwRUEzQmd6b2h0dmtOTTVyZmNTTDhiVU1od3dCWFN6U2JRMFRZeTE2cnBwTHpGekxMNzhGRk1CMnZSRllsdG5UZmpmXzRoNTVKeDlQUlBwMWFlUG9KbzJGOGkzZGtUajh4V1R2WmhMdXdiVVNiZlFiLTZHbHhlUExSS05QdnU2RFRUUTRuQ3ZsM2M1M0RSdkxFajVMWU4ycDVGanc?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 05:08:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Europe's wildfire season exposes climate insurance gap - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHpKT0VIUTdYblVFSVNjMTNXdFR2TmMxRlN4ck1UTFJPUEJqbGV6RjhtVzlrMDRtcWU2YTRqZjZaMW02M0hLMlYzZElacmV2VmliOUNfOUx1TUZ4UUQwNnk3VWdIczBGQkxCRC1UZDBLdzV5MmcwczE3Z19zbzEtSjRIcXlQVnN5b2RVVm1fVEdUWHFXVVAzblRCY3d1dk1KRWg1a3RaSkNDUQ?oc=5",
           "pubDate": "Tue, 04 Aug 2026 05:05:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Morning Bid: Yen clings to gains but bond pressure builds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EalpPNjU1ZC1kSWl1ZzU4T3djdVQ0U2VxWXBab18tWllXbjRMaHRuQXZrMG05VWF3cDdjNGlnbEhIbmxpY0htYWFGS2M4cjl4Y0prdnNsWkExNjZ5MzBtOHNRa1RyZFpyb2Zad3hFTjc3Z1RZTWg5bDJEN09Db0U?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 04:33:00 GMT",
           "source": "Reuters"
         },
         {
@@ -191,38 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Antarctic cold snap sweeps New Zealand's South Island, shuts roads and schools - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0hHR0dCUUNVOV9ULUo2cWZuVDBYUjFkU0ZZSXlUTUx2QUVwY1JmZ0c1Uk1sMU42RXhUYjNsSFZLZGZ3LXhSUTJZWlQ0V3FwcjkxbjdRNjlsNUtuaDNHVS1RdzNHVk0yT3dTRzVkWElvOEVhY3NMMFc1VTBNT0xEZHlXMHdSeVNFTGVfOFJIa3hoVlFjOXVMak9mX2VLWkZicmZ6MDZXTmN1TlJYNDBhbDJoX19mZDNOVkFsVmlnejVIbGdxMnJWQQ?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 04:08:36 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "India's LIC slips to lowest in nearly 4 months on discounted stake sale - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTVfVzQyS3EwMGc3N1N2T0NVd0xMT1JPWV91S3lJQnFRQl9QVVdXTG53R3ZiZGFhOXRJN1B3SWU3T2lOZDRwTEh0ZUZyeE5ULW1oajAxTUtCMnlpYnFVcERib1ZvaDFiTmk4aTRuTHhlNHlSZkpJM3VISVpUS1RUX1h0WkdaY05aWGNwS0Nfdl9sX25KVm1fY0phOFUxTXBlcy0zdVpZX2NLblJ5dDJQNU40MnhFTVZwUGNDbA?oc=5",
           "pubDate": "Tue, 04 Aug 2026 03:54:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Status of US-Iran talks uncertain as ship struck in Hormuz - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 03:41:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "SK Hynix and South Korean union hold talks over bonus pay - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcktXNFloOEJSdDVuVF9GNjBZcnZZV3kxSnprNnQ2M0Rjai1xVnhFUHdEN25TUUh3NVRDeWtVTi1PLThTb0tZUEZJWnFMbU1JYzlPT0VETEUyWmVnbU9vOVhReGE2ZEZRRmxrakxWQnljc1ZySkUzblc1WF9oY1JYWDczTzdfZWhPbndDMXNFXzJKdXNRLUh2TFh5UjltaHg3MVlpWGhoRlJoM0RYZmJUQkR3?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 03:14:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India's Nifty 50 falls as new closing mechanism-led surge unwinds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkczSk9HZlhtQlVJTFBrN1RZVFBheWlNNThaNnpGRXJvSk1aTFJGalRSOExZelRGTC1GZkRNaks5eDlvQVhJa1NIMEN0WjdCWWM5Q25UQVAyLTRvaUlNNk1xeDZnSHJwUU44alZldVptZHZ1ODJHYnpBbmJ2SVQ5VEROWDQ1YzZhWmxFREE3aFV3VXd6S1ljRGlWWklqRUwzVUgtcHpnaGlEMWZZbklIZFM4YWVoUnM?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 02:47:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T07:00:21.484Z"
+      "updatedAt": "2026-08-04T07:25:14.117Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T07:00:21.656Z"
+      "updatedAt": "2026-08-04T07:25:14.393Z"
     }
   ]
 }
