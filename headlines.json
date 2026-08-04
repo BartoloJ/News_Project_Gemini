@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-04T04:25:29.758Z",
-  "lastChecked": "2026-08-04T04:25:29.758Z",
-  "lastUpdated": "2026-08-04T04:25:29.758Z",
-  "generatedAt": "2026-08-04T04:25:29.758Z",
+  "fetchedAt": "2026-08-04T04:50:19.720Z",
+  "lastChecked": "2026-08-04T04:50:19.720Z",
+  "lastUpdated": "2026-08-04T04:50:19.720Z",
+  "generatedAt": "2026-08-04T04:50:19.720Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "France wildfires reveal hundreds of WW2 shells in village",
+          "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 04 Aug 2026 04:22:12 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
           "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 03 Aug 2026 23:25:14 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Tokenomics: Why making AI pay is tricky",
-          "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 03 Aug 2026 23:21:10 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T04:25:12.316Z"
+      "updatedAt": "2026-08-04T04:50:18.589Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T04:25:12.652Z"
+      "updatedAt": "2026-08-04T04:50:18.695Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Ariana Grande withdraws from London musical and will take a break from the public eye - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHBGS0ZoVmlWV3l5ZEkzZFV5cHIwWmxtZlVNMHBlUWxJaG9UaTlTSHhXeEpCTlljdG1GSGd6bjE1aFA2X1EtUTREd3dxX2czajhyOTdnZ3RsMWtvTkY2SURJZFRYZE9QZHJkQlVPUGxkSjNseXdFV1lZWG5wQkQzeklhVEx3dnJ1X0phSktyRC1MYzdEN1FzRmdETzVNZ2FCbWJPOFYtSQ?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 03:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Europe's hot, dry summer takes its toll with fires in France and Greece, and drought in the UK - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVJ3YktkdzVuTjE5NnBtRXhReVlTNDdxZUpfOHZGTmhfVjRtd0pka2J4Nk5kR3FwNHFTWGc1aVIzX0ZteWF5dGRfdW1fdl9BVF9uRmctOGxnd1QxbzlicEpzaWlwYXVrRWFzLWFTM3VhT1AzV3llelkyUEhCWnRhblRCRHkwdW45aFA4SjZNdEkweExfNU4wMzcxWUFjcnNENm5lV2d2UFZKdFdmZ1NuNnZn?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 03:14:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "US dollar weakens sharply against the Japanese yen after market interventions - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkpfVU0zTnBZSEZnbmNLUUxSMzVoSzVTMk1xZVRyS1FaU1hHbXBlVlpIWHJsQ1owSndGU3hKS3Znc3RVUjFiS3VnUl9vWU54Y05JT1dWb19GeG50NkttOVZld1hNUndETHJOdzhBSnhsY3FtQml3dXRRWmZxbTVSOE0teE1wMldFVmtuS3F3RXdDM1JMU29DcA?oc=5",
@@ -152,30 +164,42 @@
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
           "pubDate": "Tue, 04 Aug 2026 01:10:18 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Washington state fires destroy hundreds of buildings and force Spokane-area residents to evacuate - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHppbDIxTzQ0MWQ0SU0wa2lxeUo3VGtHN0cxTTh5NUlzNDZYRUhvWmFKNGdxWlJydmZLZDR5Z1M2S24yaDlBeFg3c21Lb2UzWjc4YmtXR0JGdzZBS3pnY0RvVExPUmlRY014NWJObTFOaTROYUlRTzF2Y0VvOXdWa2phNWJHYnJlcWVnZ0o2TW1WOFdNeVdRUy15d2w?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 00:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Padres acquire Robbie Ray from Giants, Casey Mize from Tigers for another playoff push - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU2otQUlidHJaRUdjU2RfZTM0QmdCWHdPX25YZ2xvRFRFeThFd0tDUHpFOFNpMXpLZ2VuOVlkWGNCVkt1OVROWWZHQW5qTFJPNDNldXFIMzNhaWxFM0gtT3M3Rk5PWHZKNlNTckI2MTZtajJ2bk9kamZMbWhkeEdkbnhWWWZ6bjVrRkZuQ3JUdURReExa?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 00:33:00 GMT",
-          "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-04T04:00:18.151Z"
+      "ok": true,
+      "updatedAt": "2026-08-04T04:50:19.084Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Status of US-Iran talks uncertain as ship struck in Hormuz - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 03:41:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "SK Hynix and South Korean union hold talks over bonus pay - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcktXNFloOEJSdDVuVF9GNjBZcnZZV3kxSnprNnQ2M0Rjai1xVnhFUHdEN25TUUh3NVRDeWtVTi1PLThTb0tZUEZJWnFMbU1JYzlPT0VETEUyWmVnbU9vOVhReGE2ZEZRRmxrakxWQnljc1ZySkUzblc1WF9oY1JYWDczTzdfZWhPbndDMXNFXzJKdXNRLUh2TFh5UjltaHg3MVlpWGhoRlJoM0RYZmJUQkR3?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 03:14:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "India's Nifty 50 opens lower as new closing mechanism-led surge unwinds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkczSk9HZlhtQlVJTFBrN1RZVFBheWlNNThaNnpGRXJvSk1aTFJGalRSOExZelRGTC1GZkRNaks5eDlvQVhJa1NIMEN0WjdCWWM5Q25UQVAyLTRvaUlNNk1xeDZnSHJwUU44alZldVptZHZ1ODJHYnpBbmJ2SVQ5VEROWDQ1YzZhWmxFREE3aFV3VXd6S1ljRGlWWklqRUwzVUgtcHpnaGlEMWZZbklIZFM4YWVoUnM?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 02:47:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Telegram says app restored on Apple's App Store - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLXJ0WHFzeUZIZXVYWllwdlFkVEhQNUoyWDNtY3puc1o0QWg0OXp0N05VNDBGY1k3OEVKVEtsN09hU0hYYmFWLXJpaG9jcjFpa1R1cG5UbENvUjZ3dVk5SXNGdHBLV2N5M1JUMlhXakttbUZXQTIwd0ZNY2YxMFJiX1VHLTU2MTdqQ3NnRTBvSEpmMWFxdFZ1YUc2MWU1ckhpR0NFc3lmWQ?oc=5",
           "pubDate": "Tue, 04 Aug 2026 02:06:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold holds ground with Middle East turmoil, US jobs data in focus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzFHZFRoSEVvd0hvWk5nQl9nYVZPdGJSSTRMcWdPMFc5MS1NYnVtNFdvOEpwQVJHbmZtMWJYTzRmcnJCNkt1bmpBb0ZfTUsycW5SZXFDTWdiU0JrOUl1ek9lVC1qZWVMYjJ5bVQwTy11MkNpVDF6RW8xMm9GY0d1YnB0RDJ5REhSZjZ5QXAzOE15QzVWNk5SRERBUjJOM1oxc1VXdHNR?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 01:05:00 GMT",
           "source": "Reuters"
         },
         {
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
           "pubDate": "Mon, 03 Aug 2026 23:26:37 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 23:22:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Romania blasts rocks to reroute cooling Danube water to nuclear reactor - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0NCWUZNek9CZlFRVXdwMjJmd2R4cVhscGFpeS1ubmFhSWF0ZnkwU1VXc3Z6N1hCcDVWclZjSzVBUXNEWlJwNWpuUFhVSXh2YzJCc3RIeHlET2FKMjBadXp3NldkQXoyR0ZzWXUxTlE2QUJvMTBTQjNpVW15SzJWMEZNR09iQXhEZnFoa3VidVd6ckJfTDViSlZPbUg3bWZQUHplR0d6cGRpZWlmdlpCWVRmek5tbjZvUUpXM3Faak9MVDlOcUFJYQ?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 23:19:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Electronic Arts misses quarterly bookings estimates ahead of Saudi-backed buyout - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYXJDUHhObXJuaFNuU2x1alV1OHJYb0xURWFmSlBlQzdlMndSZWhGcHJ4RTQ2X25Bd3F3dnBrRjZjcENmLU1RZWcxMGlfLXdsbXpPTm82dGxCNTRQbjM5T3J2czFZUVI2NTNmcVcwY2w0ckJLR190b01hLVNYN0hwWWNtRDl3aENPRVVqMTdsdUFVelhBRTdSeWRuQ0IxTkFuZGtNUGN5WjdnQ0NFVnc0NEF4MTNCcUYyZlNHWkJuMA?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 23:18:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Palantir lifts annual revenue forecast on steady demand for AI-powered data analytics - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOVFaV25Sb2NUb2hTWnA5bTRPcnlJdmZmSnFLNXlJcXFpQ1FPdHV5WTBPRklnNkExQ2p5QTU5aEZiQk43NzdTdTY0cDk2eWxwcjYta3NINzI5eVJTb0JMcjN2OTF3TEY4T2g3U1VucmNKWU9YSE5FRWxYNTAxbjJBR0xfSU5ONkg4QjQybFFlN3ZxU3d1ZDNjX3VXVmxoaGdqLVNqNGRxYXZaZWEwUTljSHZlOFZSOEc3WmFpX3pNRTA4OUk?oc=5",
-          "pubDate": "Mon, 03 Aug 2026 23:07:01 GMT",
-          "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-04T04:00:18.577Z"
+      "ok": true,
+      "updatedAt": "2026-08-04T04:50:19.513Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-04T04:25:29.758Z"
+      "updatedAt": "2026-08-04T04:50:19.720Z"
     }
   ]
 }
