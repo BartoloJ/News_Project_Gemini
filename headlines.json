@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-08-05T09:25:15.423Z",
-  "lastChecked": "2026-08-05T09:25:15.423Z",
-  "lastUpdated": "2026-08-05T09:25:15.423Z",
-  "generatedAt": "2026-08-05T09:25:15.423Z",
+  "fetchedAt": "2026-08-05T09:50:14.843Z",
+  "lastChecked": "2026-08-05T09:50:14.843Z",
+  "lastUpdated": "2026-08-05T09:50:14.843Z",
+  "generatedAt": "2026-08-05T09:50:14.843Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Afghan boxer appears in court in connection with death of Scottish woman",
-          "link": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 05 Aug 2026 09:22:52 GMT",
+          "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+          "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 05 Aug 2026 09:39:50 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-          "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 05 Aug 2026 08:29:40 GMT",
+          "title": "Afghan boxer appears in court in connection with death of Scottish woman",
+          "link": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 05 Aug 2026 09:22:52 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T09:25:14.231Z"
+      "updatedAt": "2026-08-05T09:50:13.541Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T09:25:14.275Z"
+      "updatedAt": "2026-08-05T09:50:13.650Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T09:25:14.735Z"
+      "updatedAt": "2026-08-05T09:50:14.111Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Taiwan launches major war games to test command flexibility - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDZTVDVpUk5LTEl1NmJueDZtSkNwUlllcm1rZmFNUnY4Ml9hb1MzUHRaQ1Z4N1pFUXhyQjJ1YmRaa3hNLThUMEFNOGVkS0RZbmxzZ3pWUDdlM2pSTnN1RGdpZGRvQjNwbzFEVnVRXy03WWNkVjRwV2sta0gyQnhIWWNXN2tHYUNETTdUSDFtTFAwbU5zQ0w0WDFXZktxaENEdmFtWWZiUQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 08:29:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "AMD falls as investors seek bigger AI payoff - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUxPTFhLdHFva2dJZXRNX0YwX2wyeERqR1paUWV2VVljaWZ6dFBDZVFONHdEWmVPaVNXeUR4MjJxdUlRb2ZfVmFTbWlETHdyTlY0NklfOEhrZW5TeThlLV9CRnNZcHU1bmtpU2lRUGExeFZfRnhnQXNsaE00X3FMdFpTLVpTQy1WRi1WdXNYOA?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 08:27:42 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "AI demand pushes Foxconn's monthly revenue to record in July - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOHBXRjF4cDljZWZ6Y3Y4SWI1SXVEOHhfeV9Fd3U3ald6d0d4MFFucG1HODRCdHZkNE5xbkdELVJhV2VLd3dYV2dxY2FIUXpoelZkdXFSYlRyTjAtdHRjSzE5bTJfaTJveHpuWm8tUWNTV1pacGduRDBPak56dW1vYXAzZDBsTzVGeEktdjltb0xwNDg0bFd4cGxsaklQNVdycnRNNjJTVkdWY3RlcnJLbTFn?oc=5",
@@ -197,32 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "Europe's established tech firms emerge as unexpected AI winners - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWRDdmdzOFBqRzVVSGppcGNESFF1WGZlQVVaQnRfaEd6NS1xLVRXUHFGSGt2dzNVR1FkRUgySTBfV0FUSHZ6RzcyYjFzdXB1aTRVTFdBbkU1c3ZyX1luWkZsTFdIOGtiTUNzVFpVZVVkRzBUQVZVZlBQbEQ1X3ZQZ0h0Y3ljVDlFRHRFeUt4S0dERW5RLVhVR0tSX2lNSkNJVXRCaktnQ0oxQmZJbmhVZWpGQTNCLUNEYmc?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 06:03:00 GMT",
+          "title": "Honda raises full-year forecasts, posts first profit rise in six quarters - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHFzUmdmRmRFZHFiZnRObUw1a2lQNGxuOVRYc0tWdWs0RndOeUlKSE5rVjB6ZWFCb2FsTXVjVXhTUkk4cnZXN0t1alhaMGpJNzJ6NnkteFNENXFJY0FDLTNuNFQ1SkNmTmdOY0s4bFVDN3E4c2tLT2FsbmxlMWtNWHFmV21hblJpb2l3NjlEWnpPbDdOQ2pGU2hGbmpHSHNCa2g0YnYzbTRDVW12NmhRQUhDbU5keXVoeVlpdHcxTVo?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 06:41:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "New UK PM Burnham takes to social media to challenge populist parties' dominance - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWJqN2x1VXdfbzN5TmtQLVYyeDBYMWhob25Rd1hvTDhQR2d0TEtPQ1Y2alVZbGVsRGJhSzRtX0pvQzhFMzJDSUhNZnVIdE10Qm9Jd1Y5Z05QdEE5UTRYb3l2bG9TQm95YnJqZmJCRDdmdm9kaFV4MkpycVFISEd0cGk2bl90NHpqckVDWXRfUkpxRkZNVnd1ZU5hVkFsY1Y5U0xtOXpxUGNPVXpRb3hkUVIwS01CSTlGZFE?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 06:03:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Serbia to open refinery to other firms to secure fuel supplies - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEI3YzQtSDZzWlRVeUYzNVBBY2kzdTFKOHNjejVIWHFKaFpROEVRWjBvWlpXUkoyOXNoajhTZjVSWG5WbkpPdXNlbGdGbk1Zck9VTmxmcE9KYTFIbFo4a21hU09EQXBpVE5aYkJ0RUR5cy1ybTRNTGNkUE9SWUZUWVByS3VQUGpWVkUxWWpPNURQdTBaeTZLT0N3X2t1TmdYaEZHbGtVQ0w?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 05:42:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Mexican influencer Cesar Gastelum shot to death during livestream - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTRMVHpXRkpKRUNEY3MzR3Z5SV9YcDk0UVJyNmxWcGR2ZzBWYjBtRjRMN0o4YVdTRm40bWNTNHR3UnJDamE1V0c0Z01WUFRyUHRoRlNvWi1vQXRJMkdpaUs0Vkh0M0MtcTlWcW1rdWIxY2ZDazk5OHZLalJIS1N5b0lqS1V6UVBUbXdFQXJtWkJCYTlLMTk1ZzRWNWRfZVF2U0pJcDRxbGU1RTFHSURCTTJSbw?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 05:31:00 GMT",
+          "title": "Afghan boxer accused of killing British woman in Athens to appear in court - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbnV0UlMxUy0zOVdDY1UwUi1YV0Zlc1hoaWhIQk5MbFRNVXRkRjJtMHk2WWN0Q0ZSbnpOQzBieWFpRXkwMDRObENPUEJVc3RWSkZxYnVhelFPQmJrRFdvekY4MVIxWVJIbTFYSUYtdUdWV3B0VWdPeEZTQU1DRnVQSS13WWVwQWZBVWtWeUNvQWNmT0d6WTRTZUNOREVsZDNzQ1Y5eHNQdWRKX2F0WF9sR0V0eDZxVHpY?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 06:11:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T09:25:15.166Z"
+      "updatedAt": "2026-08-05T09:50:14.585Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T09:25:15.422Z"
+      "updatedAt": "2026-08-05T09:50:14.843Z"
     }
   ]
 }
