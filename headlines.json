@@ -1,16 +1,22 @@
 {
-  "fetchedAt": "2026-08-05T12:25:16.038Z",
-  "lastChecked": "2026-08-05T12:25:16.038Z",
-  "lastUpdated": "2026-08-05T12:25:16.038Z",
-  "generatedAt": "2026-08-05T12:25:16.038Z",
+  "fetchedAt": "2026-08-05T12:50:24.431Z",
+  "lastChecked": "2026-08-05T12:50:24.431Z",
+  "lastUpdated": "2026-08-05T12:50:24.431Z",
+  "generatedAt": "2026-08-05T12:50:24.431Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Waste workers help find binned €1m lottery ticket in Italy",
+          "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
           "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 05 Aug 2026 11:43:09 GMT",
+          "pubDate": "Wed, 05 Aug 2026 12:33:43 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+          "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 05 Aug 2026 12:26:26 GMT",
           "source": "BBC News"
         },
         {
@@ -23,12 +29,6 @@
           "title": "Pakistan restricts international media reporting",
           "link": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 05 Aug 2026 11:19:42 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-          "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 05 Aug 2026 11:19:37 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T12:25:15.122Z"
+      "updatedAt": "2026-08-05T12:50:23.369Z"
     },
     {
       "name": "NPR",
@@ -112,66 +112,96 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T12:25:15.169Z"
+      "updatedAt": "2026-08-05T12:50:23.550Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday - apnews.com",
+          "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
           "pubDate": "Wed, 05 Aug 2026 11:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "House Democrats add 12 solidly Trump districts to their midterm election target list - apnews.com",
+          "title": "House Democrats add 12 solidly Trump districts to their midterm election target list - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZUFJcEI4VHlJOHZ0NTJHN2JvU2FkYXlIQXFNcmhmaDBJblh1OTU0SmdTcWhQaml4OWFMcXFPWGJmQkcta2NTeWtUdUlUcERIRm9NWnUzZ2o2QjRfUjVxSWVqOC0zQ1M0VEZzMnh5RTdVVTVMRVBkd3lybHBIYWtxdlFiRlRUR1pOb1Qwb3RuMnNiOWlzUlZ5RnN4VVVwYTg?oc=5",
           "pubDate": "Wed, 05 Aug 2026 11:23:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Stevens and El-Sayed are in a close race for Michigan’s Democratic Senate nomination - apnews.com",
+          "title": "Record heat wave impacts people and animals in Japan and Korean Peninsula - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUxPLVJpM0ozaVYzaUhhVU9MRTZWVnVMMGFzN05EQUpHMlNrWWYyLXRId3NzN3o4VVhyejlOUVRVajE3elgzUXlsZUJocm5SSjZkQUxfVF9yQ3ZiY25PM0hMZDJ2aDl5MjlZLVhfLTMyTVEta0l1NTFXZTlnbmJYY0tuOHl2SFlPTjFGbElrbjNjekVGWFdV?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 09:56:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Stevens and El-Sayed are in a close race for Michigan’s Democratic Senate nomination - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcVBtQW1SWUtxVzJWZTV3VWFpUTF2azcwZWZrdGRmVHN0dE9jeHJlVHZfYWpKV2lQN0tIelhNdnN4a0UxRzRBb2lSa2xOR1J1eWE0VHIxMWdoRTVKSHg3anloa1gwU0pHQWd1Z3hfX3lGa1pjWk1xdzd4LWFNMXB6WDI5UGdvanpzNmVWbC15cG9KMHp2LUVhR2lIeVVINDQ3dGN0blVTZkVhZw?oc=5",
           "pubDate": "Wed, 05 Aug 2026 09:52:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "This organ will play one composition until 2640. It's redefining how slowly music can be played - apnews.com",
+          "title": "This organ will play one composition until 2640. It's redefining how slowly music can be played - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3ZsMXhFNUNUQkpXbjVGeERmX0dDX3NNWjFRRjNYSGl3SHNHZWsxdTFPMU44WHZaQUFkczEteFNxaC1MaUV6aFRKc3BOV2YwT2tMUXBnblZkOHhhdkRONGU0aVJvVi15azVsLTJocXlkZHkwM2tPV3ZfcVJqWjRkWnpWZFliSlRkd2FlRmh2MWNzc0t4RExMZUtGam5kQTc3N1g5VlRVajBNaEE?oc=5",
           "pubDate": "Wed, 05 Aug 2026 08:28:33 GMT",
           "source": "AP News"
         },
         {
-          "title": "A man carrying ammo was monitoring security at Trump golf course near Los Angeles, authorities say - apnews.com",
+          "title": "A man carrying ammo was monitoring security at Trump golf course near Los Angeles, authorities say - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHFqYUgxWGVsdm9mYWJYVFJxZFNBbDY5MEFmTjVDdEkyeGxMRmx2a0p5UGItaFY1eDRtQTU1VjZZRHdFYlVDdVNWSkZWRlktX2hJNTNxcndDSEQ3OVZLNEZEV3BpSHM5a1JMLXU4bTA3SGVsZmJRMWQyUUVoT2ZPSm9CRUM1UzNvcG1yTmttazRBM1E3Qzk4VkdGeFAyMlNhRHNFbzVGcDRrV1k?oc=5",
           "pubDate": "Wed, 05 Aug 2026 07:12:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Touted prospect George Lombard Jr. homers for the Yankees in a big major league debut - apnews.com",
+          "title": "Touted prospect George Lombard Jr. homers for the Yankees in a big major league debut - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmE0bFd6LUFiQWZkZlpVRFdMUDd0ZjdEWl9vS2o1ekhjWGRYSHp1ajZjYkxUdEtYTEtYa19YNXRfYXEwRk5keTFNODZCSU83clRxc3BtNzFNdGJMUWl4d3dLWjBrS2RLZUZCQVhVRXRDSGp0WDRWeUg3T2g2cEV4QVVoX2ljTkIy?oc=5",
           "pubDate": "Wed, 05 Aug 2026 05:47:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Takeaways from Tuesday's elections: Democrats' division on display in Michigan Senate race - apnews.com",
+          "title": "Takeaways from Tuesday's elections: Democrats' division on display in Michigan Senate race - AP News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVhzbjFSb011WlRldWhpNWU5UkJvTEM2UUpwRG11UTQ5VUZzd3VVRWFxd1dUUFBiUTc1X09zWUI3NEhLZlcxbVp5Y3ZfWHNJQUtPS0VHSWRVUFdHRTVUUDdaNkgtaFpGZGNhaTdrNVNQMlRlRVphTVc1Q283bHVzQU5iRGlLQ0dVTFJ1MWdEQlQ3RDdzWExfbnFCanlNblpHU2I1cy10R1ZNeTkyWkM5bVpOSDRLQmJZNWc?oc=5",
           "pubDate": "Wed, 05 Aug 2026 05:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "3 killed in Idaho In-N-Out shooting included a man known for helping others get sober - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2J5eWEwWktqLUh2S0h5OE1SNHJGNnhKVTdCM3U1Zjh0OWtOQ2ZXZkx6ajMxd0JtckJRNWd1WE8weXZPNHRXa0JHQlgxTkdZNG44eGREeFdvOVBFMVMzRUtXLTJsaU8waHVqc1l1NlZLMXNDdEFuV0ZuWnMteUlwQ254OHUxek42cF82aVNXWnJtUWR4WGZF?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 04:57:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T12:25:15.588Z"
+      "updatedAt": "2026-08-05T12:50:24.007Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Eli Lilly raises annual revenue forecast as GLP-1 drugs fuel growth - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQUM2ak5mV1hSTDU0UzlDQVoxVERuOTNXT1p5OTJmbkdjaWFlVHBnLTVORDZkQmdBY0hFYlZCZzJsaV9lZTl5QXBFMUFLNDBkYmxoRi1CUXZncTVOZnE3NXFzb1dGdG93d2Q3MHpQelNsLV9jbzREblJEMmtOSTZBbTkwaGxzc3ItV0RPNGJHNk04Ti1kaEQ0UG04ekxRNk94SHBuUFprcl9kY2Y3dmxuTjh5RHBaQWdlR1Y4T0hTTjRZY1QwMnhjaXJzQTJNZjl1WlpPUFFmcVBCTkNBc253?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 12:01:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Turkey unveils draft law to re-integrate PKK militants, achieve peace - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ3FLd2hiSjRfR2lzRkd1OWRqUEJYMmx3bE1ySTF1Y3ozNUJRX0o2bkt4UUNOR1l3Q2RnWWFsSExpN1lDeTZFeEZwRUptSVE4UkJEejJGQnNMR3p0WVhYZm5hZ0h3aG5uX2VsWWptcEVJZjdxVlBNRmpFXzU0dDlxWm1JOXVuYURBVWpZY0ZfYXd6MXdDbVNDalRWMDJjZDNkOWNRZ0JhNEtGWUVmNWc?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 11:54:22 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Infantino holds crisis meeting in Morocco as FIFA stake sale fallout continues - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmJPenJsYUFVUXJVNXRDN205US1NQnlqbFJ6aW1Pb3RNNlE0MHY0V2prVnZTVVlIQ2ExM3Q1WHp5bEpqa01UVHlHRDdZRXJlSTlTa3Z5R2hFdENLaUtRYnpMZEVhYWFfZE53X3V0eE9YMmM3QlBWamlvb0piMFU5U29Yb0ZVZ01acXhlZGE1Rzl4by15ZWdCUnUzTE0yc3lkWmdTZk9tUnJQUnRzUGdzVFJlT3lKQjlnZVd3Sm5vVQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 11:47:03 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "S&P 500, Dow futures inch up as Mideast hopes offset SpaceX, AMD drag - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 11:32:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China targets US firms and drone exports after FCC, Xinjiang actions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0xzQm1HdUpWMUNGMFVwa2pXTVhkTlV1T3hWbTQ3bVRReU1kcnlsTjNRRkZmcmI0WmlQYkFOdmRPeGJoa1lBT3htNW51OXhZcDVUM0FOQVFTSnRNYWF0bGVfc202cF9DSnFkRjhCdjhyXzR3YlNCMzYxbFVtNEFwN0JFTFJ0bHpiY3NCNnVLcHlTY2VzdzNDOC1icXVQcXdYc2NwY3ZuNXBFUWVZb1duM0xMY2V2bVNaRmc?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 11:08:58 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "AMD falls as investors seek bigger AI payoff - Reuters",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUxPTFhLdHFva2dJZXRNX0YwX2wyeERqR1paUWV2VVljaWZ6dFBDZVFONHdEWmVPaVNXeUR4MjJxdUlRb2ZfVmFTbWlETHdyTlY0NklfOEhrZW5TeThlLV9CRnNZcHU1bmtpU2lRUGExeFZfRnhnQXNsaE00X3FMdFpTLVpTQy1WRi1WdXNYOA?oc=5",
@@ -189,40 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHdNWGdrRS1lcGRnWXBjeDN3Q0F3NmZFbjVtLU56X2RIY1VaUHdzZFcyQm9oT0locXRFaTNFSEtCODROV0VNVzQtTEh2MWRjc0hqSlBCRm5zTVhEQUplbVFhUldkQU95NFBpUnJUV2RjYjB1SmZsVmZCQUpBYWQ3TzJyaXVVdlZMT1JnZFJhaGFZX0dnYUVkOUoxZWM1VklFY2hWb0Q1ekVLcGhLYXo0QnlraDJWNFE?oc=5",
           "pubDate": "Wed, 05 Aug 2026 10:45:29 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWpCMFNYSzRIWWQzeExhSXl5RFdsYUNSSGZkcnlwblpJMjg3Nno4c0Y0UlNabThLdy1EbzdySG1pNTdUcVBxRWJHX2RxT251Vnk2aGhoYkM2dW8xdHpCVV8wamt5WW93NnJ6LWpHdkRhVWNPRzZlUmZFV3paQ29YSG5MRndac0V6ZlZwOVNpcDhWT1RROHl6NzBRTVlCVHhOdWxIcG9iT2l4ekdhbWxtRGlvbXIwVG1FOEx3bnpXekI?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 10:36:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "SpaceX slides as AI spending worries overshadow early returns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWU1MzhJUmZkZWYwa0ItM3ZsMHh3bnVZS3JiYllKRF83UWpmM0d6M2txVnY3eDdNVXdweUd0dFZDcmxZQWE0MlBTYlFzYTg0dFJWODl6Z0hfcWo0QXZwNkN6Z3pXZGJKMlY3SGZQcmZzWmhxbmxvNDdISHR6V29ST2hUVW1FUGUxR2ZOVVM5OUR0THhTcmJ6UXRhTld1WXFjNkdXYkM2REs2V1BnZC11VlR0WS1pUFU4?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 10:29:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Disney and TikTok strike short-form video-sharing deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXl3dzBUMWFzY3VBNUl4U3NoODJFcFBIVkFCWHc1WHkwUmNRRE5PeUFjY2N4VWxBYXBJeXRPTXNmUEVEOXFmQmpsY1dQeUF3QUNTVmFOMTBXWWltYmsxd1BfVWQxUnpNNUJ5VlpISEN6aVlkbnlBLWsxdGdET0pZQV9EMDZqTldXSDF2SHEzYU4zODR1bVNoWTM3Sjc5MG9GTWRyU05zakE4VGxMamc?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 10:18:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chinese-made Zbtlink routers have backdoor, researchers say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNm1MQlgxU1g2TnA3cEtYc2hIclBLZjcxdWF4aEwwYi1CaUtiYWx3SjJQZTM4Szl3Z0R6OGg1T1lVWEJTTXowc19KeF85UWcwUWY0THoxcjB0Tng5bzlqNk5FdkRiX3MxSlpoSjd5TksxTkw1V1ZsTVhJZ29RNG9XZ3hMOEVGeEd0bTN0dk12N2EzZXN6NWx5SWU0MHlkdHdXSThQWmVNSEs3RFRxTXF1X0hsZw?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 10:05:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China targets US firms and drone exports after FCC, Xinjiang actions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0xzQm1HdUpWMUNGMFVwa2pXTVhkTlV1T3hWbTQ3bVRReU1kcnlsTjNRRkZmcmI0WmlQYkFOdmRPeGJoa1lBT3htNW51OXhZcDVUM0FOQVFTSnRNYWF0bGVfc202cF9DSnFkRjhCdjhyXzR3YlNCMzYxbFVtNEFwN0JFTFJ0bHpiY3NCNnVLcHlTY2VzdzNDOC1icXVQcXdYc2NwY3ZuNXBFUWVZb1duM0xMY2V2bVNaRmc?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 09:53:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T12:25:15.989Z"
+      "updatedAt": "2026-08-05T12:50:24.388Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T12:25:16.038Z"
+      "updatedAt": "2026-08-05T12:50:24.431Z"
     }
   ]
 }
