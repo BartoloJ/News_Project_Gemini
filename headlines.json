@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-05T12:00:00.027Z",
-  "lastChecked": "2026-08-05T12:00:00.027Z",
-  "lastUpdated": "2026-08-05T12:00:00.027Z",
-  "generatedAt": "2026-08-05T12:00:00.027Z",
+  "fetchedAt": "2026-08-05T12:00:27.669Z",
+  "lastChecked": "2026-08-05T12:00:27.669Z",
+  "lastUpdated": "2026-08-05T12:00:27.669Z",
+  "generatedAt": "2026-08-05T12:00:27.669Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T11:59:58.558Z"
+      "updatedAt": "2026-08-05T12:00:26.424Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech",
+          "link": "https://www.npr.org/2026/08/05/g-s1-137429/up-first-newsletter-us-missiles-iran-war-michigan-primaries-moderna-flu-shot-black-lung",
+          "pubDate": "Wed, 05 Aug 2026 07:54:57 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
           "link": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
           "pubDate": "Tue, 04 Aug 2026 20:30:48 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
-          "link": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
-          "pubDate": "Tue, 04 Aug 2026 18:02:03 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T11:59:58.804Z"
+      "updatedAt": "2026-08-05T12:00:26.714Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T11:59:59.239Z"
+      "updatedAt": "2026-08-05T12:00:27.086Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T11:59:59.648Z"
+      "updatedAt": "2026-08-05T12:00:27.538Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T12:00:00.027Z"
+      "updatedAt": "2026-08-05T12:00:27.669Z"
     }
   ]
 }
