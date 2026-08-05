@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-05T17:00:20.876Z",
-  "lastChecked": "2026-08-05T17:00:20.876Z",
-  "lastUpdated": "2026-08-05T17:00:20.876Z",
-  "generatedAt": "2026-08-05T17:00:20.876Z",
+  "fetchedAt": "2026-08-05T17:25:13.926Z",
+  "lastChecked": "2026-08-05T17:25:13.926Z",
+  "lastUpdated": "2026-08-05T17:25:13.926Z",
+  "generatedAt": "2026-08-05T17:25:13.926Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T17:00:19.487Z"
+      "updatedAt": "2026-08-05T17:25:12.539Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
+          "link": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers",
+          "pubDate": "Wed, 05 Aug 2026 13:14:46 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
           "link": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
@@ -93,7 +99,7 @@
           "source": "NPR"
         },
         {
-          "title": "Progressives see biggest win yet in Michigan while Trump flexes power over GOP",
+          "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
           "link": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
           "pubDate": "Wed, 05 Aug 2026 06:08:28 -0400",
           "source": "NPR"
@@ -103,24 +109,30 @@
           "link": "https://www.npr.org/2026/08/05/nx-s1-5919626/smoking-fda-nicotine-cigarettes-tobacco",
           "pubDate": "Wed, 05 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "House Ethics Committee opens investigation into Ohio Republican Max Miller",
-          "link": "https://www.npr.org/2026/08/05/nx-s1-5918342/house-ethics-committee-opens-investigation-into-ohio-republican-max-miller",
-          "pubDate": "Wed, 05 Aug 2026 04:45:42 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T17:00:19.673Z"
+      "updatedAt": "2026-08-05T17:25:12.599Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Michigan Primary Results 2026: Senate, House and Governor - AP News",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5eTdZMjVBNkZFTmFOWWRXeWIyX093LU15X1c1SEt6MG5CU1ZobWM0d1ozTk0tMUgzT3ZEY3IyX3dRd0c0UEJSYm9pVWNEY2FIWk9ZZng5QzJYQmpnQWE1Y1czUHR6ckxITEJkMjJmZllYR1AtLW1F?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 16:56:20 GMT",
+          "title": "Michigan U.S. Senate Primary Election Live Results 2026 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZlo2TEIzbk95cldwdmxxbEg5N19zM2dvVWFuY2lnaGI2ZU9nR0xOZ1hDUlFlcHUxbVFpUWpzcWJmN19YLVBtbUJIOFJla3hCbmpjRTRBMzVvOFhWbGhJaFpUUnJUdTVhbjRoZzc4ZngwbGFTOWhPbVhiMXc0eC1jYnU0Wms?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 17:20:52 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump says deal to reopen the Strait of Hormuz could come this week - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 17:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Abdul El-Sayed wins Michigan Senate primary in major victory for Democrats’ progressive wing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 17:03:00 GMT",
           "source": "AP News"
         },
         {
@@ -130,9 +142,15 @@
           "source": "AP News"
         },
         {
-          "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 16:00:00 GMT",
+          "title": "Russian drone factory director badly injured in car explosion - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaXJoY204ZmVSTl9SS3ZLS2luVnFtTmh1REZPZElkbmVxR0tvcjIycnFVYlA4UDE2UE55ZnpPbjhvQnZzTjBMd1JzRnhmRy1KdHBfU2VUaWc4MW5iLTBOTjd2UndhNDVzWnJObHppQUVkMmJ0eDVyTmMyRVh2dXplSUdCeUZXbGVWVDRFbmhIQ1RJMG1jWWsybUNKUE5obk5PMHRNQWR4STJtS0JUXzdMLWYzcFNRNlhl?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 16:24:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "AP Exclusive: Trump's immigration crackdown has detained more than 50 military spouses and parents - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnozbmNJWkxCLUZVcG1RTzhucVVaeHFYMndzTTZKcWhsUUZ3cDcwaFRrN0JpRDFGaTZLYUc1UnNieTZDNDI1bjZQMk5MNUZ6SW9qUWw1Wk5hbVBfbENzM1ZrZkk1U1ZEMU05MjFkTjJMaERSTlItX19lX2FCUVhfSVhmMHdpYzB5Qk4yTVRnUE5McDc0eXRFWVZmWHB6Z0laMWdWWXFoZmZXamZ3aDBBVGhCdw?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 15:40:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,36 +160,30 @@
           "source": "AP News"
         },
         {
-          "title": "North Carolina congressman Edwards quits reelection bid after committee recommends his censure - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3pWY0RILUFpWnZIX2pGb3FJNWxiUDdHNjNXM1Vwdm8taUFEV1FOOWQ0LWxjcUNiN0s3eUhmdU5ncEg5NjA5aWs4VC1Na2I5RF9vOElGUUZzWEtNSlM5bEozR2tXVXdycUFGbnozNlFWVEdFVlZkMnhqOWRNaU1tcGJXa19SQWxCTjB1clN0S2JYTmowR1FLUDJyYmp6Z0ZuVVoydnJTNTkyeS1xZ3lxbU1aMkk1MzV6?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 14:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russian barrage in Ukraine’s capital region kills 17 as air defenses fall short - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0p3ci13M2E4ZHdienF4dUc4Ni1rZDlJZUhrTVJMNlA1NmNaOTNqMUpXaG16cGlCekJCdlBReFgtQmR4ZlJMdThKSTZIcGZwR0pXS0QzcmV5eGE5MG0tRmFWNEt2cnpzaW82YU81akZRR3pXZHF6amg2c1RzUEZKWGNDRWNKdS1lOGRYNW9wdkpZVTltVW1IZkhtSkpqU21sY2pKMVNkMU9XY0ZVbVE?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 14:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russian drone factory director badly injured in car explosion - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaXJoY204ZmVSTl9SS3ZLS2luVnFtTmh1REZPZElkbmVxR0tvcjIycnFVYlA4UDE2UE55ZnpPbjhvQnZzTjBMd1JzRnhmRy1KdHBfU2VUaWc4MW5iLTBOTjd2UndhNDVzWnJObHppQUVkMmJ0eDVyTmMyRVh2dXplSUdCeUZXbGVWVDRFbmhIQ1RJMG1jWWsybUNKUE5obk5PMHRNQWR4STJtS0JUXzdMLWYzcFNRNlhl?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 14:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Abdul El-Sayed wins Michigan Senate primary in major victory for Democrats’ progressive wing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 13:59:00 GMT",
+          "title": "This organ will play one composition until 2640. It's redefining how slowly music can be played - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3ZsMXhFNUNUQkpXbjVGeERmX0dDX3NNWjFRRjNYSGl3SHNHZWsxdTFPMU44WHZaQUFkczEteFNxaC1MaUV6aFRKc3BOV2YwT2tMUXBnblZkOHhhdkRONGU0aVJvVi15azVsLTJocXlkZHkwM2tPV3ZfcVJqWjRkWnpWZFliSlRkd2FlRmh2MWNzc0t4RExMZUtGam5kQTc3N1g5VlRVajBNaEE?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 15:34:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T17:00:20.188Z"
+      "updatedAt": "2026-08-05T17:25:13.053Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Progressive El-Sayed wins Michigan primary in jolt to Democrats - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0p3Y0RnWFBLOTZuVEltR3Y5emZqWWRFU040dmhxSXBzUXpHcWNFMFBIanNoZV9GUTA2RU02QVN5aEdwT2JvR3loQmUtU2hYaU9hV1RPWE5PREJqUEJOQjU2NE5jaG9odk5RMnl5OEZLZlpBdlotZXdXRmF1UTc5eDZncURyNUg3ajJiemRZelMwLXI2WkJBZXFwR1JyRE5kNF9Ba19iWV9seERkeEpDZ3ozWnRGVEtLQ2VJ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 16:59:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "S&P 500, Dow at record highs on Mideast deal hopes; SpaceX, AMD drag - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 16:17:11 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Google shakes up AI leadership as DeepMind chief shifts role - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHV5Q1dFcHFPLTJhTmkyTG05amxnbm1QQkRGYnpCZ0tON1FJVnJ2d0pBQVZENUlJYm01cXBoWFhvVENnbklRLVZoNndsMVpiWGNhNnJ6cEt6VFdKUGdRQ0xPem5kaHo3Y24tTlFqWGFtZGZjS25UbFl5UUMxTWtsWkVRLWQzOTZWbTViWXJXbFdIYUU0STdDcTliOEJCUEFrR0x0cQ?oc=5",
@@ -191,38 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "Iran and Oman reach understanding on coordinates of route through Hormuz, Iran ministry says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXZPbkhCTjRpQkNteVlfOVVkTkR4eGpFUFJTZmZySE5WQW1MakpaR1NUVEtXM0VucEpRbml6dUk1R2lsbE5vN3V5M0dHTHZad2JXUEsyUTlvVXFQU0hpNnE5Z3h4d0NMSE9OcXNocHRJQ1Q0eXV6M0phX05BeDFJblF1eDBpRGY2YzNGVHBCT21ISmRUSXhQc2V4dW9SeklwUkY5dmpsTWdzQWNHY2ZLX3NTNXNOeVhOejFRWUN2bURYYS1vOW9URmJR?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 15:55:14 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "EXCLUSIVE: JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1NwcnBhX3JkLWQ4NWJtbE9kUUctUWZnR1RhQ3FXQnZGX25fck5vZFo0YW5aV080SlVDdU0tYnFpeTViVV9QTEZXTFhlc2gtdENsczA2ejdjYUlPLVdVYTZ5cUk3R29WUEM3c0VMbGNlbndfMHcyWmowS0lCeTVkZEVVWF9ERGNFQ2tfQzVJenpfY2tjbGRzS1FySXNNU3FBcWk3RmxuamFtRW44?oc=5",
           "pubDate": "Wed, 05 Aug 2026 15:53:56 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Shopify shares soar as forecast shows AI is boosting business, not disrupting - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS3oxM2ZIMHFhQmM0WU5DTjhDblM3aXF0OUFNRzZKX1lHdDd5UXhtUnNiSGFJWGNmRVQ0dTRDVS1UWURqcGNjcThlSEJkS01Sb3YtMU5HV25KT1Z2WGFrMFItVmFvZE84Y2FIanNNREVkakZidGpTMzdOeHhScDkzVUxoQS1wcnZFUU5MRHN6MmtxRHhvZGYtRElfRHRON2ptaml1eEZSRQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 15:24:06 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Air India names former Ethiopian Airlines chief as CEO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQU1yeU5uSVJvaDl3VVZZcWJvR010dFZ1MWwwNzNLYmxvT2lVb1p6MGVPcWhMZ0dtUkJ5NV9DY2N5bG14dFJmSzh2cktQTHlILWxzdmdtOVh2S1AtS1JrYTlsYkJBWnV5VWVONkg5cDRUT2l3QjhlQTFiM1JtODVTRlhlZzg5OVBla0Rfb1Rtc1ZTRFhPOTVWUnNB?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 15:12:03 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Meta apologises to India for restricting PM Modi's post - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHJzenZ1QmN4dGlzWWY4WkNwelJYeWJTUFJ1YjBDOUFiU0ZrVEpEN1pKWmlCYUlVSjM0WmdZRkRkWUl4dDEyNVBvd0U1ZTBGUXpmMG5qYjZHVlF5cHJQUGtWR1I5SnBjV3VaLS1FUGFKQUxSVDdWT1RTYm02RkZOOUNGWjF5M0R1VER5Q05TMmNNVXZkVFY2VlZJTQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 15:11:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Israeli military strikes southern Lebanon after evacuation warning to village - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUNJWWdZUW9teWxlNDE2eWVZWTFmd0JQdmwwYUNvSEpES1BhMjBJNF9LczlwUTZkaTZjMm5MNFhEUFN1RnpZclZHamljVnlGcW5GdkFMclYyUjQ4dEpHRWwtNjJLdjNoNWx5YlU3Q1FIUmhoV1hxMktXNnZXanZLLW9YS1JjRGp6ZkNMbTNGOVlETVRSUGREMnZ5dDVhUjYyWlB1RzBwenhtUDg3dDdIYVpoTXBlN2dFWTkyVnJn?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 15:11:32 GMT",
+          "title": "Lilly's Mounjaro, Zepbound sales surge, widening lead over Novo Nordisk - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQUM2ak5mV1hSTDU0UzlDQVoxVERuOTNXT1p5OTJmbkdjaWFlVHBnLTVORDZkQmdBY0hFYlZCZzJsaV9lZTl5QXBFMUFLNDBkYmxoRi1CUXZncTVOZnE3NXFzb1dGdG93d2Q3MHpQelNsLV9jbzREblJEMmtOSTZBbTkwaGxzc3ItV0RPNGJHNk04Ti1kaEQ0UG04ekxRNk94SHBuUFprcl9kY2Y3dmxuTjh5RHBaQWdlR1Y4T0hTTjRZY1QwMnhjaXJzQTJNZjl1WlpPUFFmcVBCTkNBc253?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 15:51:38 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T17:00:20.693Z"
+      "updatedAt": "2026-08-05T17:25:13.525Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T17:00:20.876Z"
+      "updatedAt": "2026-08-05T17:25:13.926Z"
     }
   ]
 }
