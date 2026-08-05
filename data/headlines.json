@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-05T20:50:24.537Z",
-  "lastChecked": "2026-08-05T20:50:24.537Z",
-  "lastUpdated": "2026-08-05T20:50:24.537Z",
-  "generatedAt": "2026-08-05T20:50:24.537Z",
+  "fetchedAt": "2026-08-05T21:00:24.392Z",
+  "lastChecked": "2026-08-05T21:00:24.392Z",
+  "lastUpdated": "2026-08-05T21:00:24.392Z",
+  "generatedAt": "2026-08-05T21:00:24.392Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T20:50:23.145Z"
+      "updatedAt": "2026-08-05T21:00:22.907Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
+          "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
+          "pubDate": "Wed, 05 Aug 2026 16:43:29 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
           "link": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
@@ -103,30 +109,36 @@
           "link": "https://www.npr.org/2026/08/05/g-s1-137429/up-first-newsletter-us-missiles-iran-war-michigan-primaries-moderna-flu-shot-black-lung",
           "pubDate": "Wed, 05 Aug 2026 07:54:57 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "A Russian barrage in Ukraine's capital kills 17 as air defenses fall short",
-          "link": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
-          "pubDate": "Wed, 05 Aug 2026 06:15:44 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T20:50:23.317Z"
+      "updatedAt": "2026-08-05T21:00:23.266Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Michigan U.S. Senate Primary Election Live Results 2026 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZlo2TEIzbk95cldwdmxxbEg5N19zM2dvVWFuY2lnaGI2ZU9nR0xOZ1hDUlFlcHUxbVFpUWpzcWJmN19YLVBtbUJIOFJla3hCbmpjRTRBMzVvOFhWbGhJaFpUUnJUdTVhbjRoZzc4ZngwbGFTOWhPbVhiMXc0eC1jYnU0Wms?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 20:48:02 GMT",
+          "title": "Michigan Primary Results 2026: Senate, House and Governor - AP News",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5eTdZMjVBNkZFTmFOWWRXeWIyX093LU15X1c1SEt6MG5CU1ZobWM0d1ozTk0tMUgzT3ZEY3IyX3dRd0c0UEJSYm9pVWNEY2FIWk9ZZng5QzJYQmpnQWE1Y1czUHR6ckxITEJkMjJmZllYR1AtLW1F?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 20:58:09 GMT",
           "source": "AP News"
         },
         {
-          "title": "Michigan Primary Results 2026: Senate, House and Governor - AP News",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5eTdZMjVBNkZFTmFOWWRXeWIyX093LU15X1c1SEt6MG5CU1ZobWM0d1ozTk0tMUgzT3ZEY3IyX3dRd0c0UEJSYm9pVWNEY2FIWk9ZZng5QzJYQmpnQWE1Y1czUHR6ckxITEJkMjJmZllYR1AtLW1F?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 20:48:01 GMT",
+          "title": "Michigan U.S. Senate Primary Election Live Results 2026 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZlo2TEIzbk95cldwdmxxbEg5N19zM2dvVWFuY2lnaGI2ZU9nR0xOZ1hDUlFlcHUxbVFpUWpzcWJmN19YLVBtbUJIOFJla3hCbmpjRTRBMzVvOFhWbGhJaFpUUnJUdTVhbjRoZzc4ZngwbGFTOWhPbVhiMXc0eC1jYnU0Wms?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 20:56:03 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "How Abdul El-Sayed went from political oblivion to progressive breakthrough in Michigan Senate race - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 20:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Takeaways from Tuesday's elections: El-Sayed pulls off narrow victory over Democratic establishment - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVhzbjFSb011WlRldWhpNWU5UkJvTEM2UUpwRG11UTQ5VUZzd3VVRWFxd1dUUFBiUTc1X09zWUI3NEhLZlcxbVp5Y3ZfWHNJQUtPS0VHSWRVUFdHRTVUUDdaNkgtaFpGZGNhaTdrNVNQMlRlRVphTVc1Q283bHVzQU5iRGlLQ0dVTFJ1MWdEQlQ3RDdzWExfbnFCanlNblpHU2I1cy10R1ZNeTkyWkM5bVpOSDRLQmJZNWc?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 19:53:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,26 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Abdul El-Sayed wins Michigan Senate primary in major victory for Democrats’ progressive wing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 19:13:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "FAA is investigating why a plane was allowed to take off as President Trump's helicopter approached - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONE5raWVJWkRoTjlxeFdDMU5BYnAzUUNJQndWendKTkpSNDYtT181VzFYZVZlV3g4Zl9hZGtMYzhjbHRPc0lWdUIxY0RjSWdrZEQ5SDB0a3JqWW5EaEpKR2dUYWd1c3hTV3JOWk4wVWJ4WFd0MXFOcXNfaklrZlVvdkoxTlVZN085dGpPLVVfRlB6WjlOX3R6bzA4VVlpcXFxd3RqVg?oc=5",
           "pubDate": "Wed, 05 Aug 2026 18:32:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Russian barrage in Ukraine’s capital region kills 17 as air defenses fall short - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0p3ci13M2E4ZHdienF4dUc4Ni1rZDlJZUhrTVJMNlA1NmNaOTNqMUpXaG16cGlCekJCdlBReFgtQmR4ZlJMdThKSTZIcGZwR0pXS0QzcmV5eGE5MG0tRmFWNEt2cnpzaW82YU81akZRR3pXZHF6amg2c1RzUEZKWGNDRWNKdS1lOGRYNW9wdkpZVTltVW1IZkhtSkpqU21sY2pKMVNkMU9XY0ZVbVE?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 18:15:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T20:50:23.795Z"
+      "updatedAt": "2026-08-05T21:00:23.760Z"
     },
     {
       "name": "Reuters",
@@ -188,12 +188,6 @@
           "title": "Infantino holds crisis meeting in Morocco as FIFA stake sale fallout continues - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmJPenJsYUFVUXJVNXRDN205US1NQnlqbFJ6aW1Pb3RNNlE0MHY0V2prVnZTVVlIQ2ExM3Q1WHp5bEpqa01UVHlHRDdZRXJlSTlTa3Z5R2hFdENLaUtRYnpMZEVhYWFfZE53X3V0eE9YMmM3QlBWamlvb0piMFU5U29Yb0ZVZ01acXhlZGE1Rzl4by15ZWdCUnUzTE0yc3lkWmdTZk9tUnJQUnRzUGdzVFJlT3lKQjlnZVd3Sm5vVQ?oc=5",
           "pubDate": "Wed, 05 Aug 2026 20:09:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFpfZEh3NVhNLURNVl9ETWp2ak5nZEx4d0JYQ19WZ3Z6bTl3V2wyUzVLQmFnTkJrZTZtVXd1cnp2dkdXUmh0d1FXUmhfbGQ1a3dKY1ZzQ0pXQTdUcS02X1llNkdFbzFLN0k2YXk2X2JEUTVCV1RBeGdUaFA2VGFzSW9LYlRDQm5senFDSzFVRkxHaXdSazRBWUlTT1pjY00yU1Qw?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 20:04:49 GMT",
           "source": "Reuters"
         },
         {
@@ -219,10 +213,16 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUNJWWdZUW9teWxlNDE2eWVZWTFmd0JQdmwwYUNvSEpES1BhMjBJNF9LczlwUTZkaTZjMm5MNFhEUFN1RnpZclZHamljVnlGcW5GdkFMclYyUjQ4dEpHRWwtNjJLdjNoNWx5YlU3Q1FIUmhoV1hxMktXNnZXanZLLW9YS1JjRGp6ZkNMbTNGOVlETVRSUGREMnZ5dDVhUjYyWlB1RzBwenhtUDg3dDdIYVpoTXBlN2dFWTkyVnJn?oc=5",
           "pubDate": "Wed, 05 Aug 2026 19:17:01 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "Major Wall Street firms targeted in attempted cyberattacks, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORTh0MGxWX1RCZWdvU0lqaUZVczZzdDJaYlNDVlM5aURvZlVLWUpXaTJPZjRvOXpjQ2c2eUwwbDkzaTZBc3dRaHhyYkViSGdMV25VdWpvWVB6OXphVlZmOXl1OFRXV0pQZ2VxRkZtX1psOTN4UnRQeV9nNllHUzdadnB2Z3M4bTR1NG9HQW1pTVlYNzJBcXJZU0JYcmhEZVNIcWF2RmF6b1pucFFxWFpKWmtMbm10QXd4Vy1CT2V4dWI5NmUycW1fUw?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 19:03:35 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T20:50:24.207Z"
+      "updatedAt": "2026-08-05T21:00:24.183Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T20:50:24.537Z"
+      "updatedAt": "2026-08-05T21:00:24.392Z"
     }
   ]
 }
