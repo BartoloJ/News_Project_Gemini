@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-05T04:00:24.884Z",
-  "lastChecked": "2026-08-05T04:00:24.884Z",
-  "lastUpdated": "2026-08-05T04:00:24.884Z",
-  "generatedAt": "2026-08-05T04:00:24.884Z",
+  "fetchedAt": "2026-08-05T04:25:18.742Z",
+  "lastChecked": "2026-08-05T04:25:18.742Z",
+  "lastUpdated": "2026-08-05T04:25:18.742Z",
+  "generatedAt": "2026-08-05T04:25:18.742Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T04:00:23.666Z"
+      "updatedAt": "2026-08-05T04:25:17.364Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
+          "link": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
+          "pubDate": "Wed, 05 Aug 2026 00:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
           "link": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
@@ -103,30 +109,24 @@
           "link": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
           "pubDate": "Tue, 04 Aug 2026 13:43:06 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Europe's heat wave fuels drought, wildfires and fears about energy supplies",
-          "link": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
-          "pubDate": "Tue, 04 Aug 2026 12:37:38 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T04:00:23.769Z"
+      "updatedAt": "2026-08-05T04:25:17.482Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Guatemala is on alert and evacuates hundreds of villagers after eruption of the Fuego volcano - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9mMWV4WFZuV1plYmgtZU1SZUtuY2xCaExLZWVYbTZjcFpLMDhLUExRaVNBbWlKSFBZajZPRTFLU3VFaUYwcmZUdTFGQkRpaEptMkFfbnZuSGY5bHJ5QnI2aWNGbTROWlMxcEV1Sm5oMjZoREJwcEctSW56OFFvVkJQcjM2a28zYk4wdHVIbF9teUloRG9xdzVuX3ZsVnQxYlBFVFNn?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 03:21:00 GMT",
+          "title": "Missouri US Rep. Wesley Bell wins a Democratic primary rematch against former Rep. Cori Bush - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMi1OWHNpNHVPZTdCOWduU0RkQWxhNmpkY1l4SFRaOXNNZ3dGbU5TTU1WNFlTOGd2Rjk2M2FVd2I0YWtoZjJDVzdtZlBtVExCclJ0Z19vZXVtSmRacXRWTmNoZTE4MWhwWW5jbzc2TWZHRjlZUWFRNDd0YUo5S3JwV1V3MWRibnU4aGhsSXhtZjBwcVJa?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 03:52:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Rep. Bell wins Democratic primary in Missouri; voters reject high standard for citizen initiatives - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMi1OWHNpNHVPZTdCOWduU0RkQWxhNmpkY1l4SFRaOXNNZ3dGbU5TTU1WNFlTOGd2Rjk2M2FVd2I0YWtoZjJDVzdtZlBtVExCclJ0Z19vZXVtSmRacXRWTmNoZTE4MWhwWW5jbzc2TWZHRjlZUWFRNDd0YUo5S3JwV1V3MWRibnU4aGhsSXhtZjBwcVJa?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 02:20:00 GMT",
+          "title": "Guatemala is on alert and evacuates hundreds of villagers after eruption of the Fuego volcano - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9mMWV4WFZuV1plYmgtZU1SZUtuY2xCaExLZWVYbTZjcFpLMDhLUExRaVNBbWlKSFBZajZPRTFLU3VFaUYwcmZUdTFGQkRpaEptMkFfbnZuSGY5bHJ5QnI2aWNGbTROWlMxcEV1Sm5oMjZoREJwcEctSW56OFFvVkJQcjM2a28zYk4wdHVIbF9teUloRG9xdzVuX3ZsVnQxYlBFVFNn?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 03:21:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,12 +142,6 @@
           "source": "AP News"
         },
         {
-          "title": "George Lombard Jr. homers in memorable big league debut as Yankees blank Cardinals 2-0 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUGhHNFZBMHBUeV9zQk81aEotOHFuekhfbFRWUnRRNEk2MERnREl4QVp1TnkzUDFzQUNCSnZzQUtJYlVYaUZpa3pZOHVqbVJZdFY4RmlZTkt4ZG5HY2FPYXBzRUJSc01qSDBieVNKY19jdXNva3BGZDloQVlqSWZQZGprckMwbnlyTDg2VzVWNFA2Q29MZ1E?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 01:56:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "House Ethics Committee opens investigation into domestic abuse allegations against Rep. Max Miller - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXp2OTVsQUNja0thVFFhbXRnMEJnZUVJYlNHaDc4bE1xallJYnRMX1NrNHpVcmVVYnBCb2twNk1oUGV5RGZ5UTZoV2hlVFNYYXJxcFBMSndhSmRQTzBzRDZBay1zS1NaWnNxZFI1OTZrS1l6NFBHUzZnbUhmbjVwNExWbC1zRlBTSXVOTnd3RXJUbkw2ZkNrWnM5M3lpUFJL?oc=5",
           "pubDate": "Wed, 05 Aug 2026 01:38:00 GMT",
@@ -160,6 +154,12 @@
           "source": "AP News"
         },
         {
+          "title": "3 killed in Idaho In-N-Out shooting included a man known for helping others get sober - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2J5eWEwWktqLUh2S0h5OE1SNHJGNnhKVTdCM3U1Zjh0OWtOQ2ZXZkx6ajMxd0JtckJRNWd1WE8weXZPNHRXa0JHQlgxTkdZNG44eGREeFdvOVBFMVMzRUtXLTJsaU8waHVqc1l1NlZLMXNDdEFuV0ZuWnMteUlwQ254OHUxek42cF82aVNXWnJtUWR4WGZF?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 01:31:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "How the Taliban's Education Ban for Girls Changed One Family - AP News",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ySHI2Nm44Z25Fc2RIRGhBZTZkVXp0TWNlbG9QSkZXRUczdzZ0c3BCQ3ZkRU5hOWxNdVlZWnVlYkNMRXFwUExQRWRxMkkzcFlsQndDT3VoZ1Z4TDRQemFTakNQandoRThn?oc=5",
           "pubDate": "Wed, 05 Aug 2026 01:22:30 GMT",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T04:00:24.206Z"
+      "updatedAt": "2026-08-05T04:25:17.939Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Taiwan launches major war games to test command flexibility - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDZTVDVpUk5LTEl1NmJueDZtSkNwUlllcm1rZmFNUnY4Ml9hb1MzUHRaQ1Z4N1pFUXhyQjJ1YmRaa3hNLThUMEFNOGVkS0RZbmxzZ3pWUDdlM2pSTnN1RGdpZGRvQjNwbzFEVnVRXy03WWNkVjRwV2sta0gyQnhIWWNXN2tHYUNETTdUSDFtTFAwbU5zQ0w0WDFXZktxaENEdmFtWWZiUQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 03:02:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Indian shares likely to open higher ahead of RBI rate decision - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVdvczY0a3k0cFBWYWNRLXVWTUZudDE4Z1I3TG5lSWxLQUx4aHkyMkcxY01aYlk5V2hVMUo0cVRUOG40b2JXYW5kWjFBdXRiYTJFWmt4enA3TTZEYzNLR0tyblpsZzFrVk9SZTd2c3VaZjFCcGppYThwaDE2NTVZRm5fMkVhS180VllpSEhObG9tVWxHM3Y2RXFhb2F3elkxa21nWktHYw?oc=5",
@@ -209,12 +215,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 00:56:00 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "SpaceX's mobile ambitions jolt US telecom market, analysts debate threat - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzdtUXFDTFJmekk3eHU1U3hzV0MyM21yTUdIS2tIZ1N2WkRSQW9Vcm5vaHFONlYxaExidlotWWZVbk1QQi1OaHFDc0xPdE1vMjRzY3d6QnhjbUVMV05pUEtNYVlnUXNSaG9kYzBPZk9xMTlvUlNlVEJ3ajM3M05nT255V09GOXA2S2pmQ191aDZVU1Zoa3RaQ3ZfbnhiT3FwLVV6aWxUb1Jvc2NwWjhucVIwMUhGS2tQOGtKQ3ZHZURFUVZ5M2xEXw?oc=5",
           "pubDate": "Wed, 05 Aug 2026 00:49:00 GMT",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T04:00:24.668Z"
+      "updatedAt": "2026-08-05T04:25:18.394Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T04:00:24.884Z"
+      "updatedAt": "2026-08-05T04:25:18.742Z"
     }
   ]
 }
