@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-05T01:00:23.424Z",
-  "lastChecked": "2026-08-05T01:00:23.424Z",
-  "lastUpdated": "2026-08-05T01:00:23.424Z",
-  "generatedAt": "2026-08-05T01:00:23.424Z",
+  "fetchedAt": "2026-08-05T01:06:14.884Z",
+  "lastChecked": "2026-08-05T01:06:14.884Z",
+  "lastUpdated": "2026-08-05T01:06:14.884Z",
+  "generatedAt": "2026-08-05T01:06:14.884Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 05 Aug 2026 01:05:21 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
           "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 04 Aug 2026 22:09:50 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-          "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 04 Aug 2026 21:45:20 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T01:00:22.275Z"
+      "updatedAt": "2026-08-05T01:06:13.419Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T01:00:22.401Z"
+      "updatedAt": "2026-08-05T01:06:13.597Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T01:00:22.837Z"
+      "updatedAt": "2026-08-05T01:06:14.123Z"
     },
     {
       "name": "Reuters",
@@ -182,12 +182,6 @@
           "title": "AMD's AI-powered revenue forecast fails to wow investors - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVI0Wnk2b3Jpb0tucDcyRzl0Y05zX2RwWTZWRU5CYVhyc3BLSjc5NVJDSlZFSGZNZ1F4S1FTei1saXVaaGFaTzFsUTkyUFFOelE5bEY3eTlyMURpYXlBbmNPUk1IOTJVaVlLcjVwWk82Qlhic3lfNndTa2N1ZnNHMXBLOFFTOVRFdXcwYWF0SWQ2a0hVcUNDeDA1U0hmRXdoMXJOVUpVeW1rbmU5dXhZOVFBaHBhRXlMa2pscWRn?oc=5",
           "pubDate": "Tue, 04 Aug 2026 23:45:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Lucid to delay affordable EV launch amid 'operational reset' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDg5cmt6UmF4MFNfQ01MekV2MVNyRXhlWXpkZklGbFJmekpGWjdzRUY3eklQRjVxZnJiNFd1X2pfNnpmNzhWa1drLW5aUDBRZ0QzNTVqTW5oRlFWNW5qbWlzcVBUNkY1Q0hXUldid3cyZmlsUVE0dWhVUkhfU21ocXZsUjh5YUdzTDdoUFpZTUtKczZzQXIzRmpyRE82a3hIYkhoU0ZNU1lXVmF1YzhtQ2JKWXpER01MQUxsWXF3?oc=5",
-          "pubDate": "Tue, 04 Aug 2026 23:38:24 GMT",
           "source": "Reuters"
         },
         {
@@ -219,10 +213,16 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ?oc=5",
           "pubDate": "Tue, 04 Aug 2026 23:03:04 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 23:02:38 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T01:00:23.248Z"
+      "updatedAt": "2026-08-05T01:06:14.575Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T01:00:23.424Z"
+      "updatedAt": "2026-08-05T01:06:14.883Z"
     }
   ]
 }
