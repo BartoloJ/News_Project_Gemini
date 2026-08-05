@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-05T11:00:19.326Z",
-  "lastChecked": "2026-08-05T11:00:19.326Z",
-  "lastUpdated": "2026-08-05T11:00:19.326Z",
-  "generatedAt": "2026-08-05T11:00:19.326Z",
+  "fetchedAt": "2026-08-05T11:25:17.199Z",
+  "lastChecked": "2026-08-05T11:25:17.199Z",
+  "lastUpdated": "2026-08-05T11:25:17.199Z",
+  "generatedAt": "2026-08-05T11:25:17.199Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,13 @@
         {
           "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
           "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 05 Aug 2026 10:49:41 GMT",
+          "pubDate": "Wed, 05 Aug 2026 11:19:37 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Mexican influencer shot dead during livestream",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 05 Aug 2026 11:00:47 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 05 Aug 2026 00:19:04 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Mysterious elephant deaths in Kenya raise questions around pesticides",
-          "link": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 04 Aug 2026 23:13:04 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T11:00:17.961Z"
+      "updatedAt": "2026-08-05T11:25:16.113Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T11:00:18.152Z"
+      "updatedAt": "2026-08-05T11:25:16.184Z"
     },
     {
       "name": "AP News",
@@ -127,6 +127,18 @@
           "title": "Suspect in Greek suitcase murder of Scottish aid worker appears in court - AP News",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzBKQkZDSXRQcDBXa0dmTEg3cVpuOUswNk4yMm5BTVk2QkZoNXJzZVkxSXRKSzdJT0tlR2J5bHhSb01iUVNFTmVZOWFsTmtqQ0UwWk1qaV9QeVhPazFKbUxOYzd5RVFaSTg5cnpteV84SmZ4dTcwdS1vR0Jkb05tVWhucHlqY0FaWnRGR3E5aUtMUGtPRGtQd2MzQ19CVHhwWjJSdEduVzBQMkx2YVU4RWVISQ?oc=5",
           "pubDate": "Wed, 05 Aug 2026 09:27:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump says deal to reopen Strait of Hormuz could come as early as Wednesday - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 08:03:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A man carrying ammo was monitoring security at Trump golf course near Los Angeles, authorities say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHFqYUgxWGVsdm9mYWJYVFJxZFNBbDY5MEFmTjVDdEkyeGxMRmx2a0p5UGItaFY1eDRtQTU1VjZZRHdFYlVDdVNWSkZWRlktX2hJNTNxcndDSEQ3OVZLNEZEV3BpSHM5a1JMLXU4bTA3SGVsZmJRMWQyUUVoT2ZPSm9CRUM1UzNvcG1yTmttazRBM1E3Qzk4VkdGeFAyMlNhRHNFbzVGcDRrV1k?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 07:12:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,44 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTlFTVkJVNkVFanp6SEVZelFQaGpBR3JhTW9UTHcteFZQQjI5a184WEl2bkZMQjlsZUtQZzhtZGlDNmRtbXJNSzdUWktOOTkyZGVVWVRUSmpZYkNjRHhab29RbF8xdEpCTGJXaHh3X2ptYm5UYmxvNHJWMnZxdzI3TUFxVFFXNkh2WGNmNzRwdUhTRFpTSEFiRg?oc=5",
           "pubDate": "Wed, 05 Aug 2026 04:09:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Missouri US Rep. Wesley Bell wins a Democratic primary rematch against former Rep. Cori Bush - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMi1OWHNpNHVPZTdCOWduU0RkQWxhNmpkY1l4SFRaOXNNZ3dGbU5TTU1WNFlTOGd2Rjk2M2FVd2I0YWtoZjJDVzdtZlBtVExCclJ0Z19vZXVtSmRacXRWTmNoZTE4MWhwWW5jbzc2TWZHRjlZUWFRNDd0YUo5S3JwV1V3MWRibnU4aGhsSXhtZjBwcVJa?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 03:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Capybaras keep their chill while crashing Brazilian legislature - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVhXTjNaaVZSZVc0dlg2RWV5OGZqTGlNaGFpMGRPazYySHRCZWVvZGdKeVFUZUx0dUpRV1RLVTV3SGFSNExLLXZsblVjQzBHYUl0RTJEdmFYT1pYY1NNemdnR0RNeWUzb3hvMG83OW5VWHkxa0xBXzVYd0hmV2kxVFowTmxQZk1SdDA5QVVZM05jcHJzSXc?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 03:17:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T11:00:18.677Z"
+      "updatedAt": "2026-08-05T11:25:16.611Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "SpaceX slides as AI spending worries overshadow early returns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWU1MzhJUmZkZWYwa0ItM3ZsMHh3bnVZS3JiYllKRF83UWpmM0d6M2txVnY3eDdNVXdweUd0dFZDcmxZQWE0MlBTYlFzYTg0dFJWODl6Z0hfcWo0QXZwNkN6Z3pXZGJKMlY3SGZQcmZzWmhxbmxvNDdISHR6V29ST2hUVW1FUGUxR2ZOVVM5OUR0THhTcmJ6UXRhTld1WXFjNkdXYkM2REs2V1BnZC11VlR0WS1pUFU4?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 10:20:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Disney and TikTok strike short-form video-sharing deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXl3dzBUMWFzY3VBNUl4U3NoODJFcFBIVkFCWHc1WHkwUmNRRE5PeUFjY2N4VWxBYXBJeXRPTXNmUEVEOXFmQmpsY1dQeUF3QUNTVmFOMTBXWWltYmsxd1BfVWQxUnpNNUJ5VlpISEN6aVlkbnlBLWsxdGdET0pZQV9EMDZqTldXSDF2SHEzYU4zODR1bVNoWTM3Sjc5MG9GTWRyU05zakE4VGxMamc?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 10:15:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWpCMFNYSzRIWWQzeExhSXl5RFdsYUNSSGZkcnlwblpJMjg3Nno4c0Y0UlNabThLdy1EbzdySG1pNTdUcVBxRWJHX2RxT251Vnk2aGhoYkM2dW8xdHpCVV8wamt5WW93NnJ6LWpHdkRhVWNPRzZlUmZFV3paQ29YSG5MRndac0V6ZlZwOVNpcDhWT1RROHl6NzBRTVlCVHhOdWxIcG9iT2l4ekdhbWxtRGlvbXIwVG1FOEx3bnpXekI?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 10:11:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China targets US firms and drone exports after FCC, Xinjiang actions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0xzQm1HdUpWMUNGMFVwa2pXTVhkTlV1T3hWbTQ3bVRReU1kcnlsTjNRRkZmcmI0WmlQYkFOdmRPeGJoa1lBT3htNW51OXhZcDVUM0FOQVFTSnRNYWF0bGVfc202cF9DSnFkRjhCdjhyXzR3YlNCMzYxbFVtNEFwN0JFTFJ0bHpiY3NCNnVLcHlTY2VzdzNDOC1icXVQcXdYc2NwY3ZuNXBFUWVZb1duM0xMY2V2bVNaRmc?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 09:53:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "S&P 500, Dow futures inch up as MidEast hopes offset SpaceX, AMD drag - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
+          "pubDate": "Wed, 05 Aug 2026 09:52:48 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "EU to use €1.4 billion from interest on frozen Russian assets to help Ukraine - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVVh5T1hYRGM0UTBiVEM5TDJYNE90amJFN1Zad2JCTEJ1Q0duVzlJTnMtYTBLZzl0UXNKMkwwdUVYdU90TE5OM3RUYnM0eHVmZDI0bExyQVJpMklyMDRMampTdTJOZlcyYVlCWjNZUzZyWVVXNFYwUFJSQ1I4UVJEUk1TSlVPSmNmazYyNnV4eWg2TVNkM2NzOFUzZ0FDT2xxM1UtNWNVU0VGaWhrY0UtaEg3NEs?oc=5",
@@ -189,40 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOHBXRjF4cDljZWZ6Y3Y4SWI1SXVEOHhfeV9Fd3U3ald6d0d4MFFucG1HODRCdHZkNE5xbkdELVJhV2VLd3dYV2dxY2FIUXpoelZkdXFSYlRyTjAtdHRjSzE5bTJfaTJveHpuWm8tUWNTV1pacGduRDBPak56dW1vYXAzZDBsTzVGeEktdjltb0xwNDg0bFd4cGxsaklQNVdycnRNNjJTVkdWY3RlcnJLbTFn?oc=5",
           "pubDate": "Wed, 05 Aug 2026 08:17:02 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Strong El Niño could push 49 million more people into acute hunger, UN agency says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVVdqM2poSDRKNEw2RUdkTHVZYkJyVVpSWDczQjdUTHNlREc1OHYwRWlqVk02Y21XeGlLQnF6Y0Rhd0FGakxfajFTbW42UVBnWFFWOU1jeFNIX3EwaHJ5Nno0R3hCRktmdmpHSFdIanNEX1Bra19KQ3NoX0VXRmZEZGZqWG1PNzVzd1g2Mm9VMFF1Z1cxeHg5VE0tN1FZSVBHMmpENTRzY25ZSVh0Z1E0LWo5V2N1SW1YQnBzRDRCbE9xUXpkMFEzM2lReGRaYUtSSzV3?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 08:03:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Infantino holds crisis meeting in Morocco as FIFA stake sale fallout continues - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmJPenJsYUFVUXJVNXRDN205US1NQnlqbFJ6aW1Pb3RNNlE0MHY0V2prVnZTVVlIQ2ExM3Q1WHp5bEpqa01UVHlHRDdZRXJlSTlTa3Z5R2hFdENLaUtRYnpMZEVhYWFfZE53X3V0eE9YMmM3QlBWamlvb0piMFU5U29Yb0ZVZ01acXhlZGE1Rzl4by15ZWdCUnUzTE0yc3lkWmdTZk9tUnJQUnRzUGdzVFJlT3lKQjlnZVd3Sm5vVQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 07:51:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Yemen's Houthis say they attacked Saudi oil tanker in Red Sea - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEQwU2pxeTRYSXhNQWtrT3hmNFhmOUx6eVUzUUt4aVBtOEpub01Fa3U5S0ZOYXRmU2oyb0t4WEpRRXZ3VmwxWksyYkNRcF9GbFJvbEpkMGxWWVY5alo2NS1LdDFzMWVPdmYtV082T3JOaVpoYW5NTFNncUxHZndSdnUzMXdWWHNXQWQ3NXZXMy02MDloQ3dWTHJhWHBfS2pNVnZoUXBEcVZKQm1HZXl5Ug?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 07:27:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "UK PM Burnham considering inquiry into Epstein, minister says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSk1wS05nLVFPNFUxTzluOVVmQTFvSFVUd0loT01jWDVCYTZIdmxFMW1lVllHOVRPQTBlX1NNNmREY2tVeUc3dnNpektJZnQ4NjM0SmtybnBST09TX3Z0aE9abnVrdkNyWW1VUlo0d1p5RE45RkZNZ1VQaEY1c0YzWTk0V0R6a3F5RGtwX09DZmpqMUpxNnFOZEF3eXdLMU5XeWFxejVfWjY?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 06:42:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Honda raises full-year forecasts, posts first profit rise in six quarters - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHFzUmdmRmRFZHFiZnRObUw1a2lQNGxuOVRYc0tWdWs0RndOeUlKSE5rVjB6ZWFCb2FsTXVjVXhTUkk4cnZXN0t1alhaMGpJNzJ6NnkteFNENXFJY0FDLTNuNFQ1SkNmTmdOY0s4bFVDN3E4c2tLT2FsbmxlMWtNWHFmV21hblJpb2l3NjlEWnpPbDdOQ2pGU2hGbmpHSHNCa2g0YnYzbTRDVW12NmhRQUhDbU5keXVoeVlpdHcxTVo?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 06:41:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T11:00:19.122Z"
+      "updatedAt": "2026-08-05T11:25:16.989Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-05T11:00:19.326Z"
+      "updatedAt": "2026-08-05T11:25:17.199Z"
     }
   ]
 }
