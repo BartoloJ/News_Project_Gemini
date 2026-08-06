@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-06T05:25:13.652Z",
-  "lastChecked": "2026-08-06T05:25:13.652Z",
-  "lastUpdated": "2026-08-06T05:25:13.652Z",
-  "generatedAt": "2026-08-06T05:25:13.652Z",
+  "fetchedAt": "2026-08-06T05:50:14.085Z",
+  "lastChecked": "2026-08-06T05:50:14.085Z",
+  "lastUpdated": "2026-08-06T05:50:14.085Z",
+  "generatedAt": "2026-08-06T05:50:14.085Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T05:25:12.280Z"
+      "updatedAt": "2026-08-06T05:50:12.900Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Drone with explosives found at German airport, official sees 'new quality' of threat",
+          "link": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport",
+          "pubDate": "Thu, 06 Aug 2026 01:23:08 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
           "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture",
           "pubDate": "Wed, 05 Aug 2026 11:26:43 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
-          "link": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
-          "pubDate": "Wed, 05 Aug 2026 09:54:31 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T05:25:12.572Z"
+      "updatedAt": "2026-08-06T05:50:13.077Z"
     },
     {
       "name": "AP News",
@@ -120,13 +120,25 @@
         {
           "title": "Michigan Primary Results 2026: Senate, House and Governor - AP News",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5eTdZMjVBNkZFTmFOWWRXeWIyX093LU15X1c1SEt6MG5CU1ZobWM0d1ozTk0tMUgzT3ZEY3IyX3dRd0c0UEJSYm9pVWNEY2FIWk9ZZng5QzJYQmpnQWE1Y1czUHR6ckxITEJkMjJmZllYR1AtLW1F?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 05:15:58 GMT",
+          "pubDate": "Thu, 06 Aug 2026 05:49:19 GMT",
           "source": "AP News"
         },
         {
           "title": "Missouri Primary Results 2026: House - AP News",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwSE1heVN0eHdFTlQ2WTEwS1pidVZVMU1hMmJHalpMQzd2X1NJMFl2UkdwOS1NNzRRREpnVHBSWmp5WWQwWXZRM05sVEZ5Rkd1c05hRUZ2d0dRQzBzNDFPMGwwaTQzZVJ3eDc2bnFEOTNNWmlnSEpr?oc=5",
           "pubDate": "Thu, 06 Aug 2026 04:50:04 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Kansas Primary Results 2026: Senate, House and Governor - AP News",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlNU9UXzg1R3MyWXI0UFVURE0wTUhzVElYT3Zfc0ZPSktIc3N6OHJnX3gxaG9iV3FRWFdqM0t4QlNic01zSTBPSEdrQTc1UWRhd2NESTlScjJYRVZDNmhCYk1yRXpQVEdwLUQ0dXNubEdHam5W?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 04:02:57 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Drone with explosives found at German airport, official sees ‘new quality’ of threat - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTm92MmlFQ2hMRDlGRmM1cHk3ZlVIR1locXM5cjFvTEpVR3EtNnM2el82eEtkQWlQbXVDM3JhNkh3Nl90eERjbGF4Q2ZoVjU0eGxvc2dDeGxrd0JLX05oN2ZDMF9kNGJkRFJuWGVSdldCRTBieEV5MVJseTRqYW9OVHZZUkpNQmt5V19ZVElfYUVDTjN4OGlwbjhPUHVGSFFyenc?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 03:21:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,36 +164,18 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTN0TDMxMDZncFBJckVJUnp3THVQOHJjbm1CVWxnd3NMc25TLTZXZFJadDZTLWJhcWdDUEFUcGtQeC14VUM2SkZjdUdyYzV6cF8wVkYweUhCcFMyWVdneXhoeWEydS0zNGxXR3JWZVBPcExnTEVXTmxydGhKUEdwLTZUakliNmxwcWVQZ0dZOFAzLWJ4?oc=5",
           "pubDate": "Thu, 06 Aug 2026 01:52:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Firefighters get a handle on Spokane wildfires as tens of thousands remain evacuated - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSEVDRzljTDRYNUR5U2dwV3Y0d1NMbC1ObjJkMUVYZkhFelR5RFRuMEZXM2w4SXMtME9pYlE0ekwxN0U1ZFZqU2JyNkVVTXluaGEwVlcwTmZBWjRfN3duSDRDaF9lWFNvZEl4dXBkYzc2YnZVSjhPd2NCaXJPYk16dGhWdl92QnVwSHlBZkFlcjA5eUxRcmpfNzdHeGtWMEtQalE?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 01:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Kansas Primary Results 2026: Senate, House and Governor - AP News",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlNU9UXzg1R3MyWXI0UFVURE0wTUhzVElYT3Zfc0ZPSktIc3N6OHJnX3gxaG9iV3FRWFdqM0t4QlNic01zSTBPSEdrQTc1UWRhd2NESTlScjJYRVZDNmhCYk1yRXpQVEdwLUQ0dXNubEdHam5W?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 01:04:40 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T05:25:13.009Z"
+      "updatedAt": "2026-08-06T05:50:13.470Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Gold touches seven-week peak on Strait of Hormuz reopening hopes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWd6ZjFIZXZHQ2JsNi1UdXBvS1JIUm0xYWtjaDQ1UXVOczhzTzZLNEY0ZTRtb1l5N2lrY09ERHFySlMyakJJNndhRUx5M0FabFZ5TllJZWZPU05na2VqMkRVckJ2VndLdUlFUGd1NklHQlN6V1VJUzRxS09jUmtVVWhMTGRuVlN3YzctZjhBWVI2UUZkQkJqZ0NvdF9uQ1I0RGtCNVNORThqQQ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 03:50:01 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "New Zealand PM Luxon open to referendum on electoral system - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3lHWkpyc1pDU1AwOFBEbHJhMk0ycjYxNzlDYWQta2h6SnJmRWYtZjl3dE1mRnNtQ1lOSHFBR0RpU09BYTdxa0w0Q1lFVTM1ZzljLVRDS0JiVDlkQmdlQW5VNV9CMlNqeW9zeFBlMU5CY1RNZWF1bVBka3ViZ2MtdEYtYWhUS1I0dUJLZnBkeXJ4bENKNzY2R2RKOHRPSzk3eWNQS2dGR3ZXaG9v?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 03:09:26 GMT",
+          "title": "Trump reiterates his positive portrayal of Iran talks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYkljYWk5RVFGOXRJR0hycTRVWW1CTGZ6aFFlcU1MLTlJTUVMWFVvMDVmRm1qTzZyZ1RWaE92S1AzeE1QZHdTZFd0aFkwQ05oVDllUmlScmNtM2xPcUlJalE3Nk1Sbm10cGNjcEZOblcwbTdWTVNYVEFObVNIZzhJV20yUkVVTkFQQ2hlNGxobi1KVzZvQzk5Tm9IVQ?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 03:02:17 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +197,32 @@
           "source": "Reuters"
         },
         {
+          "title": "Indonesia’s salt fields bloom under drought from El Niño’s baking heat - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcG9ad25hdnhqaXQ4dVB0dG13SlFLT2VtZUZ2N1hWTW1yQldrOEp1Wm85MUlac1ZyMF9fcklKOENaYTBZeDZRTDRjQ3BHZTdsWU8xck5sYWZJUjVRYWR6OGtUVWtjbEFsRjlUeFlvX2QwTzVId2pWTGhHa0FDR1dBR01oYlFQNFBvendERVdIcThXTUxMVkFZeHBueG4yR21ZbTBzYkpMX0U3LXlCUXRHTFNWbkUwTFNYTjRN?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 01:01:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "New Zealand PM Luxon open to referendum on electoral system - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3lHWkpyc1pDU1AwOFBEbHJhMk0ycjYxNzlDYWQta2h6SnJmRWYtZjl3dE1mRnNtQ1lOSHFBR0RpU09BYTdxa0w0Q1lFVTM1ZzljLVRDS0JiVDlkQmdlQW5VNV9CMlNqeW9zeFBlMU5CY1RNZWF1bVBka3ViZ2MtdEYtYWhUS1I0dUJLZnBkeXJ4bENKNzY2R2RKOHRPSzk3eWNQS2dGR3ZXaG9v?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 00:57:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold touches seven-week peak on Strait of Hormuz reopening hopes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWd6ZjFIZXZHQ2JsNi1UdXBvS1JIUm0xYWtjaDQ1UXVOczhzTzZLNEY0ZTRtb1l5N2lrY09ERHFySlMyakJJNndhRUx5M0FabFZ5TllJZWZPU05na2VqMkRVckJ2VndLdUlFUGd1NklHQlN6V1VJUzRxS09jUmtVVWhMTGRuVlN3YzctZjhBWVI2UUZkQkJqZ0NvdF9uQ1I0RGtCNVNORThqQQ?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 00:51:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "New Mexico sues US government for access to Epstein files - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVG9ib19KSGJURU1OMzJXSVBTdnZrNThocTdMc09VSzViQ2RLR2lMWUM1SXEwZ1NGZTFGTXhFZ0E5UHQ0a2xnZHVYLWVxVU5FbzBnOXRsOGlYVzFhMkc4cTY1Z0tJSVFHSllLYjJnYVhQV2h1cWxIRE1mUFNfTzhsUUUxVXFwTndOSUdubzExanREV1JMa3RWaFd0Z2xMY2sxRjNmTmhB?oc=5",
           "pubDate": "Wed, 05 Aug 2026 23:14:14 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 23:07:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Mexican jalapenos tied to Salmonella outbreak in 27 US states - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSHRrVG01QTZrRnhhNTExRXZOdlNZZ1gwNlRwWFV5cXI1LVdDZkdrbncySkxoUlUwOEVkVFdZUFNWTnRteDJ4c0I4NjUyVVFsYUNKeU1NS3lXM3VEU3FFLWZDY1BrT2hDM1JwMEpRZlM4amVVTkF5b0czMmFQRXFUYWRJSnItSExMTWZsX2IzaHA2UnIyZ01nTFk3MDFiTFlnaHA2ckhvT3hXcExfd1FZMjJGekdxVWdYY1MyVENZa184UFhhXzJPR19JcWJYblJD?oc=5",
-          "pubDate": "Wed, 05 Aug 2026 23:02:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T05:25:13.395Z"
+      "updatedAt": "2026-08-06T05:50:13.860Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T05:25:13.652Z"
+      "updatedAt": "2026-08-06T05:50:14.085Z"
     }
   ]
 }
