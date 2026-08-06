@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-06T14:55:41.417Z",
-  "lastChecked": "2026-08-06T14:55:41.417Z",
-  "lastUpdated": "2026-08-06T14:55:41.417Z",
-  "generatedAt": "2026-08-06T14:55:41.417Z",
+  "fetchedAt": "2026-08-06T15:00:40.932Z",
+  "lastChecked": "2026-08-06T15:00:40.932Z",
+  "lastUpdated": "2026-08-06T15:00:40.932Z",
+  "generatedAt": "2026-08-06T15:00:40.932Z",
   "sources": [
     {
       "name": "BBC News",
@@ -11,6 +11,12 @@
           "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
           "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 06 Aug 2026 14:51:47 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
+          "link": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 06 Aug 2026 14:49:52 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 06 Aug 2026 12:25:05 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Ukraine hits two oil refineries deep in Russian territory",
-          "link": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 06 Aug 2026 12:18:48 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T14:55:40.097Z"
+      "updatedAt": "2026-08-06T15:00:23.247Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T14:55:40.363Z"
+      "updatedAt": "2026-08-06T15:00:23.430Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-06T14:55:40.808Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-06T14:55:41.208Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T14:55:41.417Z"
+      "updatedAt": "2026-08-06T15:00:40.932Z"
     }
   ]
 }
