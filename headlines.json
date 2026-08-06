@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-06T10:00:26.593Z",
-  "lastChecked": "2026-08-06T10:00:26.593Z",
-  "lastUpdated": "2026-08-06T10:00:26.593Z",
-  "generatedAt": "2026-08-06T10:00:26.593Z",
+  "fetchedAt": "2026-08-06T10:25:19.699Z",
+  "lastChecked": "2026-08-06T10:25:19.699Z",
+  "lastUpdated": "2026-08-06T10:25:19.699Z",
+  "generatedAt": "2026-08-06T10:25:19.699Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T10:00:25.332Z"
+      "updatedAt": "2026-08-06T10:25:18.190Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "How deep-rooted medical bias creates deadly consequences for addiction patients",
+          "link": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths",
+          "pubDate": "Thu, 06 Aug 2026 05:52:45 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Celebrity culture is one thing. For TMZ, Congress is the new 'reality show'",
           "link": "https://www.npr.org/2026/08/06/nx-s1-5922731/tmz-congress",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/05/nx-s1-5922451/150-million-contract-to-represent-migrant-children-awarded-to-trump-texas-law-firm",
           "pubDate": "Wed, 05 Aug 2026 16:23:02 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
-          "link": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
-          "pubDate": "Wed, 05 Aug 2026 16:00:24 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T10:00:25.547Z"
+      "updatedAt": "2026-08-06T10:25:18.507Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,12 @@
           "title": "Michigan Primary Results 2026: Senate, House and Governor - AP News",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5eTdZMjVBNkZFTmFOWWRXeWIyX093LU15X1c1SEt6MG5CU1ZobWM0d1ozTk0tMUgzT3ZEY3IyX3dRd0c0UEJSYm9pVWNEY2FIWk9ZZng5QzJYQmpnQWE1Y1czUHR6ckxITEJkMjJmZllYR1AtLW1F?oc=5",
           "pubDate": "Thu, 06 Aug 2026 08:50:33 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Nigerian president hails 'largest ever' single-day rescue as 308 abductees freed in country's north - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVzN3ZkZhVU9vUEFqLS1vbTVvMTEwMWhHM2owRHRkckZlbk9BaXRvWWt0RGw4b2pYVkp0cXdORmJIMEN2ZTBBR0NqUVRmcUlpc2VCRHFRNUdRci03cE9fUUlFVWtLRldZc1ZFNlM2REdSTVRLeFpmZG1NcXJkWUdUU2hyZnU1dWpyYXh1U3BzNW5CVVhraVkyMA?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 08:38:00 GMT",
           "source": "AP News"
         },
         {
@@ -138,7 +144,13 @@
         {
           "title": "Missouri Primary Results 2026: House - AP News",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwSE1heVN0eHdFTlQ2WTEwS1pidVZVMU1hMmJHalpMQzd2X1NJMFl2UkdwOS1NNzRRREpnVHBSWmp5WWQwWXZRM05sVEZ5Rkd1c05hRUZ2d0dRQzBzNDFPMGwwaTQzZVJ3eDc2bnFEOTNNWmlnSEpr?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 04:50:04 GMT",
+          "pubDate": "Thu, 06 Aug 2026 07:46:38 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "New images of the sun show its surface in the finest detail yet - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDJjRnY5akxQcmV2bnVVNHFkLTFCX1poTjNmZDVOU0JocUhrUHIyMlJsZjliaWtqZjJiYmN6c2p0X2JZV2ZoNzQtZlRhOUowSTk1b284a25meGVId2hBWlRLUktFVk0zUXlFUHhQWXVfTzc3ZXB3djBSN2tORW51NVcxNnIyU0ZTaGk1ZEhEOWx5YkV3NkstSXhFb0k3LXdqWG5HZGRxZW9ldnZPd202Zk9vaGFUclU?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 07:35:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTnQ4Mjd2THFTVFBoem5ZSXNaVVNnb1VGM19ERUw3OXY5SEl6MXZic0tVd3JaV1FEdS1SMzc4VS1iZXJVQlRla3BuRzFpQWpGc2JWYTJxRGtzWkE0bGtjRlJRMklGNUJfWlVacGo2dGdRUWV1VXlxblFhV1FBZ3lkUHplb1FZbU5WSHJLeEpVTjEybzFOYXdvbWdjX1I?oc=5",
           "pubDate": "Thu, 06 Aug 2026 04:01:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Drone with explosives found at German airport, official sees ‘new quality’ of threat - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTm92MmlFQ2hMRDlGRmM1cHk3ZlVIR1locXM5cjFvTEpVR3EtNnM2el82eEtkQWlQbXVDM3JhNkh3Nl90eERjbGF4Q2ZoVjU0eGxvc2dDeGxrd0JLX05oN2ZDMF9kNGJkRFJuWGVSdldCRTBieEV5MVJseTRqYW9OVHZZUkpNQmt5V19ZVElfYUVDTjN4OGlwbjhPUHVGSFFyenc?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 03:21:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ousted Bangladeshi leader Sheikh Hasina says she will return from exile in December - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTN0TDMxMDZncFBJckVJUnp3THVQOHJjbm1CVWxnd3NMc25TLTZXZFJadDZTLWJhcWdDUEFUcGtQeC14VUM2SkZjdUdyYzV6cF8wVkYweUhCcFMyWVdneXhoeWEydS0zNGxXR3JWZVBPcExnTEVXTmxydGhKUEdwLTZUakliNmxwcWVQZ0dZOFAzLWJ4?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 02:59:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T10:00:26.027Z"
+      "updatedAt": "2026-08-06T10:25:19.014Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Google’s $15 billion India data centre project battles water, wildlife concerns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOGJ0bjViY3QwQ0xySVgtVHMtRjNiM3JvVTNOc3hNQWFkNzFFMmdoRjU0LUdYRlZvWmZtTzJ0RUJEN20ycmZqWklGNWVJSWdETGt3d1hLeGtzbzlYMFNUMkZDc29sdTEyMXE0WmUwQ2lxM1lSWUhQeVhQYlZ2dnlZR2RBVWJ2bkdiU3JFVVRQZHlDc0FpYW9EX0VIQkEwSTVyMUdkSlRvWkRDa3BUbURwWWlpUjJJdWlUWmNpT0tNeGRwSVhJejcwMXRYOA?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 09:26:19 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "EXCLUSIVE: Congo bans exports of copper, cobalt concentrates, official order says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5",
@@ -179,27 +185,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Russian strikes kill six in Ukraine's Balakliia, Sumy, officials say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmhCZDZqOXo0djFjSU9LMTFqNkdBT05UcmFabWpWcW9HWmJqbTQ5VGtTWVVmejlsTUFZaEo1M1Q1OUtwc1BlMEh3bjNOdEtPSzV1blAwa1hRRkRIOXE2ODhPT0VVd0RybmVzQTNUZldLUUlwV3JTUnVLMUJfQXBxSHdPaWhheVc4czNHZm52RzBPWHlmSDdyZVM4eTJpYnJLR00zUkJTazBma0djVFAyWA?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 08:31:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "In Taiwan drill, armoured carrier takes president to command centre - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbDV2MzIwS0NJWE13dDJXNW9GR2x5R3BySnZzZUZvU3NkdzVfazlzQWdhX2pDaDNLSG9keXUtaTVTanlXbEhuX0p4LUZQQjUxclhaVHliQ1drblBYZWhxWHBGVnJmZzBYREpKU2Z1bTlTNTlROUhCYVBtTlg4MEFvWmJZZllFWlVwQUFmYTNCcGxtLTJURFJ6ajNZaE5EeEtOTGFGWk9SWi1vZlVo?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 08:19:43 GMT",
+          "title": "Gold hovers near seven-week high on easing rate hike concerns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWd6ZjFIZXZHQ2JsNi1UdXBvS1JIUm0xYWtjaDQ1UXVOczhzTzZLNEY0ZTRtb1l5N2lrY09ERHFySlMyakJJNndhRUx5M0FabFZ5TllJZWZPU05na2VqMkRVckJ2VndLdUlFUGd1NklHQlN6V1VJUzRxS09jUmtVVWhMTGRuVlN3YzctZjhBWVI2UUZkQkJqZ0NvdF9uQ1I0RGtCNVNORThqQQ?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 09:00:38 GMT",
           "source": "Reuters"
         },
         {
           "title": "Armenian church leader to go on trial in widening confrontation with government - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObmhRWlJxakZNbGtrUllUdXJlRk5icUlDa0U2cHVCVVowekNoUUdGMlRUU0ZZNXE1NnlabTNkTG9KSmxkQ091aVdoa0g4Q21leERPQW1BZVdWdzBoNUlEdTZGNDBlU3VsSVpxZ1d6RlBBd05fa012LXNBQzFmZWQwWTRyOW9ma3pvNE9HN1RScjJXUHo3OXZ1WmpkbWNBMDZJR2tZYnowVm1QNjRobGt0cm1B?oc=5",
           "pubDate": "Thu, 06 Aug 2026 08:11:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Google’s $15 billion India data centre project battles water, wildlife concerns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOGJ0bjViY3QwQ0xySVgtVHMtRjNiM3JvVTNOc3hNQWFkNzFFMmdoRjU0LUdYRlZvWmZtTzJ0RUJEN20ycmZqWklGNWVJSWdETGt3d1hLeGtzbzlYMFNUMkZDc29sdTEyMXE0WmUwQ2lxM1lSWUhQeVhQYlZ2dnlZR2RBVWJ2bkdiU3JFVVRQZHlDc0FpYW9EX0VIQkEwSTVyMUdkSlRvWkRDa3BUbURwWWlpUjJJdWlUWmNpT0tNeGRwSVhJejcwMXRYOA?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 07:58:24 GMT",
           "source": "Reuters"
         },
         {
@@ -215,14 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "Medicover to sell India hospital business to KKR for €1.2 billion - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTS1pbXZCNE8yR2V4LVRRbUNqS2hLbHVuS1c3dGdmaFlIRUpkbTA0MEx2dm1vRnZmN2NselFQbExUSGhVTGpQSVotT0RsdGxLN0NsTlRkX0hLQWRNSXpXTVVxdXYyR255UW42eE83dVd4QnJiblRwZngybTFMbXlFV3ZQN0M3VVlzU2p0bFkyQmxKRzBiX1h5YXZKR01GOWYxRlA4NjhnMEdyWnFGQ3c?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 06:00:59 GMT",
+          "title": "ByteDance founder tells staff to avoid AI distillation, The Paper reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ042eTRfNkJSQ3J2M2JLampONk5fRVo1N0dlSnhjeEtFMURhRFRfb3VncnhPYl91MHViUldYYzB1WUtZbUI0VjFWMGRRN0R6WTNvZGpmcmkxMFVKMUR5WDgyOU5mRkYwZEhnbHIzbGJKS0RmOVZmYmM2MmZibE9LeTVpemp5NnNMSWU5Zk9ZRVFtemgzcmhuTzR6eDFhS2NuNVlnVGlGbnNuMm5sZ2J3WGlHSQ?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 07:20:15 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oil traders double down on Iran deal bet as odds worsen - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYTlrUTg0TjljZzBlaVJyRkJnS21MLU9TblltYU1oUm1NLVRqX1NnVEZvM2ZCTlMwXzBtUWk5cE1pSE5ZTnFYeGVtZjNZcnBlaU1iRHdfYlVzN3pyd0VYM3ZXRTJzcHhUYlNMT1ZmRU15eHhqZi1FNkpKa04waEk2YXA2X2QtUVBKcmZtMjRkWDd6anFaQzBJeXlhUXZmZTZxYUxYcU4wUjFNUnliUDk4YWVRb2FCZTFmV1FHQnFWck8wd0k?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 06:17:16 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T10:00:26.406Z"
+      "updatedAt": "2026-08-06T10:25:19.456Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T10:00:26.593Z"
+      "updatedAt": "2026-08-06T10:25:19.699Z"
     }
   ]
 }
