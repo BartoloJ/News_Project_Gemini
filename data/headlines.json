@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-06T23:25:15.174Z",
-  "lastChecked": "2026-08-06T23:25:15.174Z",
-  "lastUpdated": "2026-08-06T23:25:15.174Z",
-  "generatedAt": "2026-08-06T23:25:15.174Z",
+  "fetchedAt": "2026-08-06T23:50:17.804Z",
+  "lastChecked": "2026-08-06T23:50:17.804Z",
+  "lastUpdated": "2026-08-06T23:50:17.804Z",
+  "generatedAt": "2026-08-06T23:50:17.804Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Meta fined $567m in largest child safety ruling against social media giant",
+          "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 06 Aug 2026 23:34:17 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
           "link": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 06 Aug 2026 18:37:12 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Artificial Intelligence used to design brand new viruses",
-          "link": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 06 Aug 2026 18:01:52 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T23:25:13.983Z"
+      "updatedAt": "2026-08-06T23:50:16.605Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T23:25:14.117Z"
+      "updatedAt": "2026-08-06T23:50:16.764Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,24 @@
           "title": "Senate committee votes to hold Fauci in contempt for refusing to answer COVID questions - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0dtOWZGUmVJbHhldC1KMkpOUENBYlV4Q0pxN0x4VFVkbkt4MlhJTjJZQUt3WnUyLWpDZ3FpWG5ydTl3TXZYOFczdTNZQW5GOWd4V3ZVM3dHRVRjOS00R0s4aVJBbTNsYWc3UFpSdk5LYm5IckZuUWRMVUs0ejRJOGdMUmxzTGt1a0xjc2FkNWpWRnkyOHNWbA?oc=5",
           "pubDate": "Thu, 06 Aug 2026 22:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Union representing IRS workers asks judge to block Trump tax audit immunity deal - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUJlMVNMWWhJRTVvczlhSDVtVU80dExDaXdNN0trREZ5aTMzbDg0MlRXTmRZOHlVWTdhc0QyeWZaX3dsYjR3RFZOWDI0MGRqRWRwbUgwa0RCa0I4X2k1WkxidXA3OTFrbk9XV1pHc1QwSGx3QmM4SE1oQmRvNFNKX1l1RUl6NWlRaFdpWERmWVM4c0tiVXdwZzlZQQ?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 22:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump administration moves forward with Head Start overhaul, proposing to eliminate regulations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNfNGY3UG5UMUhyR2c3eDJhU0hjdE1XckpNVEFjclNUQzRxN0NTLTRtUmF1TkE4TG9vak9ELTR3elpHVjhLWTFvdkFwNGV2czVQNDNXZFdHMVBFV1RMZUdzQlJWMkM4el96SWh2T2xQRzBRR05idXN4Q09jLUc2QkU1WGF5NjJ5cFo1Z1h2T25BWXZr?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 21:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 21:18:31 GMT",
           "source": "AP News"
         },
         {
@@ -136,38 +154,20 @@
           "source": "AP News"
         },
         {
+          "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 20:38:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "As AI ‘therapists’ dish out advice, California lawmakers try to set some limits - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2JOVzdRZ2h6eU9yaERJa2txVXQ1bkFLSTA3N2lQajJZbkFxLVg2Y2JOaUFJeDJlSV9tZng4S0dVeTQyb2dGMVI3RXgtOGFYV29VcC1pT0JBcE5TczJrTWNXcHpxbFJjejk2djRRVG5XdTlieExQX1BIclRlUzA0TXF5MWNXUzdtaFFMYjlBRTVhSDVIWFV6RFduYjJlV2RoaF82OTdaVUwtTzNsckE?oc=5",
           "pubDate": "Thu, 06 Aug 2026 20:29:59 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Jalapeños linked to a US salmonella outbreak are tracked to a Mexican farm and a distributor - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbTlsOEZXSzZGSk5ET1J0RGlTZzVJYm1jOVZ2MUJHa2kxc2xDRmZ5SjJyQl9HQTF4eERuVWYxX3h3Yy1NVEdIRnptZEFENVV2Z1AwX0NPNEJPVzR1RTQ3LTQ1UktKMEFXSm1LUGxLcm1ZdlctNm9KeFplZ0E2NGUtQktpVlg2MjIxNWJqU2YxcXh2d05XdmMzbHVxYw?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 20:04:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump administration’s latest buyback of offshore wind leases brings total to nearly $4 billion - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3R1ek1NVGttOHhoeDFOU0d2LWpWbFdxSnBYRHAxSnFYZk5hV1NXdWdiMXFzMURWUXR4ZzA1UFhfRUxiRHVfdVJyY1V1X2tmczJ6Mi15SEEtUnhPMERJRUJQNmV0MlVQVS16TFpHdUxSN3M3ZTBISURzZW5iMVhrUjlzUU9fUXZoLWlOd1NGY3Y1RkZlOUdvbWlQSlJnVEZqTzVTVS04WWdTbVhN?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 19:42:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Youngest Black professor at Cambridge resigns as university investigates allegations of plagiarism - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYndMeHRTVXF3VjdzUnoyWHFQRXZNMGZvQW5weGFiRnN4X1dCcjgtTkFlNnhzemZrWUhCTk82bzJyZ1g1WmVENjdIS0lKcFFKM0JJUmo4bTBZXzJwajllU1Qzc2ZCVVZadHM0TDczOXg3cVR5MGVtNm9FRHFjNVBwM1VueXRCckZ4Ry16WGJONzNNb3VZd0pZZG1tcWxfaU94OHlFTnlvYWpDbDBSWE05a0t3?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 19:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Beloved longtime Giants broadcaster Mike Krukow to retire at the end of the season - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0U1SGxZLXVEaTBZY0tWQ3JzZG1YTTkxS21CZUVma1pDZHIxU1pqdGo2dlcwSkp0ejNHMFJicksxWVZjQjFiVm9IX2p3bjExQThmLTdNNTNkdjh1MENldGdWSjRUV3l4dWV4M2FuUGVhb0VLMzV2U3RMOHlqTlBRZmdWVm1QNkhOb0oyajZ6SWdlRi1hR0t1OWEyekJTaThCaXRz?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 19:24:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T23:25:14.588Z"
+      "updatedAt": "2026-08-06T23:50:17.241Z"
     },
     {
       "name": "Reuters",
@@ -203,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "AMD deepens AI inference bet with Taalas deal as chip race heats up - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUF0eTJUTHJzZWdiSWNVbjA5VGhldm83MG9sZnd2d2ZGRzRISEFDVFUtU3JDSGtTaWJpS0xvM0lhT2FKUnJEUmZIeTdkcElDN0UyMXN6bW5KRlNadEpEVTg5OFloSFBYM0IxclhVNG04eS1GZURWaVRFR21rYmhWWFp0U1JfcnFqTWZ6aEJrcE1tSXpobjNLQ2ZmdG9jd0lxc0JzZnZUN3Q0Wjc0Y1E?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 21:29:08 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "China launches cybersecurity review into Palo Alto Networks products - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmk2ZlcxakRJeFpWc29SY1pVZkw3RkFTbzlDVEJEX2NXUWV2b2VKMnBWd2p1ZFNqQVFobGdSV0dWMmFRZG9iMTVlbGxncXNDQ095WHVTeDJQelRtRF9BZTVJU1JJSkRkbmxEbWlac1pWUnljandfOUtqLXhZSGFJTm05SVBHRmRoeE4yU2JCR1NRSVZQdmZJOENjcWpKZXhaSlpHRDRldHpySWhNZHFwYmxiTl8xWklsZkZpMkVR?oc=5",
           "pubDate": "Thu, 06 Aug 2026 21:13:38 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTlRYmdoeTUxMG1LOVYzNFFoYXR5SFcxUzh3emtVbE5kWk1NdkY0SzExRFMwci1uSGdYMDFndkpKNVg1Y3hwWHF6eHNjdFRDOVZ0MGZ0dVdpRHZhT0VQUW9FYVdOQWRoY3ZVYmM3WS1JQ1VwbGZ5cE5KdWxEWjdpRG1paEphTDZOcmtBcTlWeE1icVZ5dmNRVkhSdW12T2R3dFJ4eEUzaHNhQQ?oc=5",
           "pubDate": "Thu, 06 Aug 2026 21:13:05 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump says he thinks war with Iran will end 'pretty soon' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1cxUm9wLUhEVGJsRnRJd0xDWmh6LUk2bThTQ0RSWFJDRFZ1OFNKWU5ab2t5ZGJIdjVnSkliUTI0N3dhNnBpSEJGSmRWWl80Z3NNT0lnUEItRGVxT2dsRU1fS3A0MVUzblJsOWx4bGlLY0JNa3FDT2lpY1hhNkMycnl2UWlFbEUxUFRKWGJDQ0k4eG5EZlRXTk1IajFlYkZjRk5PWW84WFR2MnVBeFE?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 21:11:54 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T23:25:14.984Z"
+      "updatedAt": "2026-08-06T23:50:17.676Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T23:25:15.174Z"
+      "updatedAt": "2026-08-06T23:50:17.804Z"
     }
   ]
 }
