@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-06T07:00:28.314Z",
-  "lastChecked": "2026-08-06T07:00:28.314Z",
-  "lastUpdated": "2026-08-06T07:00:28.314Z",
-  "generatedAt": "2026-08-06T07:00:28.314Z",
+  "fetchedAt": "2026-08-06T07:25:15.890Z",
+  "lastChecked": "2026-08-06T07:25:15.890Z",
+  "lastUpdated": "2026-08-06T07:25:15.890Z",
+  "generatedAt": "2026-08-06T07:25:15.890Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T07:00:26.878Z"
+      "updatedAt": "2026-08-06T07:25:14.818Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress",
+          "link": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
+          "pubDate": "Thu, 06 Aug 2026 03:16:22 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Drone with explosives found at German airport, official sees 'new quality' of threat",
           "link": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport",
@@ -103,26 +109,14 @@
           "link": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
           "pubDate": "Wed, 05 Aug 2026 12:06:06 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Under China's new 'unity' law, Tibetans fight to preserve language and culture",
-          "link": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture",
-          "pubDate": "Wed, 05 Aug 2026 11:26:43 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T07:00:27.213Z"
+      "updatedAt": "2026-08-06T07:25:14.998Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "Michigan U.S. Senate Primary Election Live Results 2026 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZlo2TEIzbk95cldwdmxxbEg5N19zM2dvVWFuY2lnaGI2ZU9nR0xOZ1hDUlFlcHUxbVFpUWpzcWJmN19YLVBtbUJIOFJla3hCbmpjRTRBMzVvOFhWbGhJaFpUUnJUdTVhbjRoZzc4ZngwbGFTOWhPbVhiMXc0eC1jYnU0Wms?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 06:56:34 GMT",
-          "source": "AP News"
-        },
         {
           "title": "Michigan Primary Results 2026: Senate, House and Governor - AP News",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5eTdZMjVBNkZFTmFOWWRXeWIyX093LU15X1c1SEt6MG5CU1ZobWM0d1ozTk0tMUgzT3ZEY3IyX3dRd0c0UEJSYm9pVWNEY2FIWk9ZZng5QzJYQmpnQWE1Y1czUHR6ckxITEJkMjJmZllYR1AtLW1F?oc=5",
@@ -130,9 +124,21 @@
           "source": "AP News"
         },
         {
+          "title": "South Korean police raid local Starbucks headquarters over controversial marketing campaign - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPREtBajVqcy1MR25DVTJILWFVOXFFSUw4eThVaHRTSXdmQ2N6enpXR1ZpcmNrYUxpeVBNMFBGd2R0YkFjcXktdndfRGJGSWRUYnZKcm5BTklTejFjSlNmYkNja1lLYlNyTHdaVzY0Uk1fZjRzQ1VjakUzazhUbURtMU1mRWw5a2gtd0F2cDNydWlEMTV2WThDS2ZpWQ?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 05:52:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Missouri Primary Results 2026: House - AP News",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwSE1heVN0eHdFTlQ2WTEwS1pidVZVMU1hMmJHalpMQzd2X1NJMFl2UkdwOS1NNzRRREpnVHBSWmp5WWQwWXZRM05sVEZ5Rkd1c05hRUZ2d0dRQzBzNDFPMGwwaTQzZVJ3eDc2bnFEOTNNWmlnSEpr?oc=5",
           "pubDate": "Thu, 06 Aug 2026 04:50:04 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "France is banning unsolicited telemarketing calls starting next week - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTkVZd1JFZExYNHlPd1o5Tnctb2FZTm5vMUlHM21EMXhKOTY1c3RSWWxwZHBpWE1iQjFLd2JoN0RwaVRUckJvTl9LLThnN005VW13QXVTUjZFUjJwc19ldnFfLS03U2Q5eC1hekJQdGtzeWF0aEN4dGxtRklLUEdieGZyYUJnQ0tMLWxZUXI4OS1PZG1EYmZBT1FsdnY?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 04:38:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,24 +164,18 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObVV3SFN1dkFyanRJZzJ5S0dZVXd1Vi16Qy1FZVNoRXdfTlAxdjloRW9OdTNQdm1xemtEVXdPZE9BdHJsUmVZZzI5Ym1aRndTOGpvbF9GMjF4QXlLdVpTamVpdGRiYUVlUkgwQWdzdFNHU0FGbU1vbF9Wb09lVzFJUWY2dC05Nk0wUGx5Tm5tYXg3aHB0bkMyTTFVOFU1X25qekE?oc=5",
           "pubDate": "Thu, 06 Aug 2026 02:52:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "How Abdul El-Sayed went from political oblivion to progressive breakthrough in Michigan Senate race - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 02:39:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T07:00:27.690Z"
+      "updatedAt": "2026-08-06T07:25:15.423Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Asia shares fall on tech pullback, oil stable as Iran talks stay in focus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE5UZ1dJanFrQ1hFUUNWWmM2N2cxckRKUFYtOHNLUHhtVkdpLXpmNXZjeVMzd2dycVUxSmVlNU54aE1DLVFnMmY0VnVsZk1IT1puQVQydHlUS19RNkVhRXlfbU1fdlhIZ0tORnBOWHl4a2dUZFUyZFpoUzZuZDFkUFZucw?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 05:54:24 GMT",
+          "title": "OpenAI asks US judge to dismiss Apple's trade secrets case - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSmhWTlh0eU9takRMMExHYjRRTmNmMm9EcFVlUXJfdzg4Qnc3MWdmWWJXYUJOaDcwWFlTRmFWZGhTd2NKRzlnY2V1RFdmWENIWFNSV2Z5ZVV5U1JOaEZGdlV3MGdZSjFIclhjbTdtRkt6c2ZyWHMxQkR4UEFRV1M4bmgwd0FDZ2JaeWJhM0pCWlRWUTAyVzZTbElOSDk?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 06:11:00 GMT",
           "source": "Reuters"
         },
         {
@@ -185,9 +185,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Indian shares muted as weekly expiry sets stage for Sensex swings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbXVDUWUzWmlqS09tY3VqRWhJVE8wQUYzUUxHaVNhQWp5NUJIQWFIc19hNXR3TXZjM3dTaFdIeGJkWUtlT05RbDJJdmR3YmduNl9XY3phU0VPNVl3M2xFbXNUM1lUREJZQ0pOWkpJSmp5NkVOTUREdi1IREtPMzhYQlB2a1hVN2t1SDBWb0gwUFBONjZkMElmcTRmODE4YzY2cktyc2xfcWU?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 05:16:53 GMT",
+          "title": "In Taiwan drill, armoured carrier takes president to command centre - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbDV2MzIwS0NJWE13dDJXNW9GR2x5R3BySnZzZUZvU3NkdzVfazlzQWdhX2pDaDNLSG9keXUtaTVTanlXbEhuX0p4LUZQQjUxclhaVHliQ1drblBYZWhxWHBGVnJmZzBYREpKU2Z1bTlTNTlROUhCYVBtTlg4MEFvWmJZZllFWlVwQUFmYTNCcGxtLTJURFJ6ajNZaE5EeEtOTGFGWk9SWi1vZlVo?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 04:09:00 GMT",
           "source": "Reuters"
         },
         {
@@ -203,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Indian shares muted as weekly expiry sets stage for Sensex swings - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbXVDUWUzWmlqS09tY3VqRWhJVE8wQUYzUUxHaVNhQWp5NUJIQWFIc19hNXR3TXZjM3dTaFdIeGJkWUtlT05RbDJJdmR3YmduNl9XY3phU0VPNVl3M2xFbXNUM1lUREJZQ0pOWkpJSmp5NkVOTUREdi1IREtPMzhYQlB2a1hVN2t1SDBWb0gwUFBONjZkMElmcTRmODE4YzY2cktyc2xfcWU?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 02:43:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US FDA approves first mRNA flu shot from Moderna - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkZQalpnY19jQUQySC1iT2VOTDVZV2JRZTdjS1Zxa1pkdi1HUnl1ZnQ3UkVNN2RYcXhSZDRZSnBNVFpMakIyVlV2bS1RNFp4ZzY1QmxjRXlkSEoxMUZBLTliYUF3VUsyOWNzSVczdk42N05LLTdjem1rczlnOVlqQ0dON3lWTE9iZHotcDQtZ2paa0pWaHVGZmxrNmpKd3BqWThXblNPNzE2QnFiS2QtQ3d2ZnNqdw?oc=5",
           "pubDate": "Thu, 06 Aug 2026 02:20:00 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2VsMnRGWG5QTmNmeVNLM21MZHV1dkdiRnBOWnNrZUdicjNhZTB3M3JjLTdJVGk0VTc4VjhEUkxtdUpGZ0J5bV9BMklYVWhSb1lMQkFlWk1JRm5SY3BmcU1tUkhUbWNaRGZDUHhNcW42RU1QZ0Y0ODdxWXZSa1l4OWxfSVlhMEx1ODdCZUI5UlJRUUpmMEJ4Z3lFOERXVWFXRGRjV3h1MjRlQQ?oc=5",
           "pubDate": "Thu, 06 Aug 2026 02:01:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Oil prices slip as Iran cites progress with Oman on Hormuz agreement - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmw0WV9PeEJVU0pBczd6UzhWSjdUMlQ2aDhwUGxDbWdvc3hMakw5d3h3Q2wxMXNRakctZjRlTW8wNi1PNnU2eDY0anYxakZYSkZBSVN6SUhJOEF4aW1HSTVnUWREc3k2dFBvUEl0azM4TXFoV1I1S1pJRVlVUm1SakpIeVFqM0wxS2gtMDFvc3ktZ05QYjc3VXRtSHdsNk9hLWUwb3VxTzBFcVhBeUx3Zm82Zw?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 01:07:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T07:00:28.110Z"
+      "updatedAt": "2026-08-06T07:25:15.820Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T07:00:28.314Z"
+      "updatedAt": "2026-08-06T07:25:15.890Z"
     }
   ]
 }
