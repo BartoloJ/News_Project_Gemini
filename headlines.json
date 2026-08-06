@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-06T20:05:28.477Z",
-  "lastChecked": "2026-08-06T20:05:28.477Z",
-  "lastUpdated": "2026-08-06T20:05:28.477Z",
-  "generatedAt": "2026-08-06T20:05:28.477Z",
+  "fetchedAt": "2026-08-06T21:55:23.211Z",
+  "lastChecked": "2026-08-06T21:55:23.211Z",
+  "lastUpdated": "2026-08-06T21:55:23.211Z",
+  "generatedAt": "2026-08-06T21:55:23.211Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T20:05:27.945Z"
+      "updatedAt": "2026-08-06T21:55:21.970Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
+          "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
+          "pubDate": "Thu, 06 Aug 2026 16:58:56 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Sticky or slippery? Snails can change their slime to meet the moment",
           "link": "https://www.npr.org/2026/08/06/nx-s1-5920383/snail-slime-mucus-inspire-new-materials",
@@ -103,20 +109,38 @@
           "link": "https://www.npr.org/2026/08/06/g-s1-137460/hiv-aids-cambodia",
           "pubDate": "Thu, 06 Aug 2026 09:13:28 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "El-Sayed wins Michigan's primary. And, Fauci faces contempt of Congress vote",
-          "link": "https://www.npr.org/2026/08/06/g-s1-137574/up-first-newsletter-anthony-fauci-erica-schwartz-abdul-el-sayed-las-vegas-economy-stewart-rhodes",
-          "pubDate": "Thu, 06 Aug 2026 07:30:59 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T20:05:27.983Z"
+      "updatedAt": "2026-08-06T21:55:22.096Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Unusually intense haboob dust storms strike Phoenix twice this week - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQXBGaFF2UlBZN0IzVm9vMktQM0FoZWp3aWZIdjZoRWhYQ2lUVWMzTW5vZURoYmJIaUxNZjM3aUVrWnF6VG9KNHJkRmhXUHNyUWl0VzVFNy1yVldDUjhKY01ibGJQbnlCcDFKN1NhaUY0dFZKQUlPbkV5SU9tdXZpUU14MXc0dGhJRERJZDZB?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 20:34:43 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "South Korean satellite captures before and after views of SpaceX rocket’s moon crash - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdzg4eE4yNFVQekQwYWNEdE10OUN6aGRxU1JqRzFUSUYwS0pCc3VFUkpOQ0tMa1RDNUtsMTRmQ2lqaGY2dG55Sl9uLWE2VWtsSUxQOEdQQnFKV2gya21JNkdYUW84a3czT1loYkZzbDdzQkROM1diNlE4YlBFZzlTSUlGVU1tbGpxY2dZMw?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 19:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump administration’s latest buyback of offshore wind leases brings total to nearly $4 billion - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3R1ek1NVGttOHhoeDFOU0d2LWpWbFdxSnBYRHAxSnFYZk5hV1NXdWdiMXFzMURWUXR4ZzA1UFhfRUxiRHVfdVJyY1V1X2tmczJ6Mi15SEEtUnhPMERJRUJQNmV0MlVQVS16TFpHdUxSN3M3ZTBISURzZW5iMVhrUjlzUU9fUXZoLWlOd1NGY3Y1RkZlOUdvbWlQSlJnVEZqTzVTVS04WWdTbVhN?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 19:42:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Explosion in Damascus suburb kills at least 2 people, wounds several others - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM183NEJqa1NUSFAzcWMxQlNJenF2RWoxelVmNjdrNVQ3YVVoZzBxQUxMemFCQzUzOFB3OUl2SzJjRTJqYXZKc3BzZlBZdmdjMTJtUGkwQVMwYWsycmxEQV9XYTVHa3h0UU5zTlRia3RnMy1NZTB3LUVGU2tYQzNpaGtfNk1YbDNFbWJoRV9qWXhtOU05LXN1eDFITTB4QUpw?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 19:06:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Ukraine strikes more oil facilities deep inside Russia, Zelenskyy says - AP News",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSExCQ3NUNmxhRWVjcHVLcUp5RVZLbnBWR3pWY2RFcy1BdjdMTUVwVVFGc2xISEN4dXpxeWloSDFXQ1hFQ2x4VFlsYk52QVlKV3NZLWZJNmliSElKRk5YU2FUVnBZbmlBSjFhQ3BNdmVEbm5QX0lqd2JJbVVBZm9ZYXR1N09ibWdPNEk0dlZ3WmhGU2Jiejd0NUJkXzdmLTI1UWRCdlgzdU40MzJ5eXdLN1ctRQ?oc=5",
@@ -124,105 +148,81 @@
           "source": "AP News"
         },
         {
-          "title": "What to know as Germany investigates an explosive drone at a key cargo airport - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQanhPVHhsellCRWlxZVlwOUdqejVSTXlHeE52c0JXZEZMdmJJUldZcnN6TnJqeThZSDdtTDhQQWM1cFdpbzdfdkJQMUw3R1FCY2VPSldwd1VxWm5CdjZnekhxaEtHRk8yN0x4Mkdhb1Fob2F6d1NBamdJS2tZRFRGRDVaUURZSm5hY0xuVl9mYlllblBqR2VWOE84QWhneW50dVZ4Mktnd19jTnp5NWVNUWtyMXI?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 17:56:00 GMT",
+          "title": "Europe heat wave puts all major Italian cities on red alert as Austria sets heat record - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHZINGNSQ2k0bUN6ZzVUWHA4eUVsazdEeEJIbnlGM1dsTGpRUS1Xb2tlM3lPZEhXdnNOblR6N3RQN1h5czZoVzdTRDdxelRXaWJzcjlyRXEtTXJoWmJWN0VtYkpYYXJyTjByak05QnJCOEVQbDRPR1VERERLXzNENmxBMVZYZ1JPVzgxZTRIVno4dUhlSVRLc01SME9yMUJGZ0VkNDNISkxPV2Z2dU5J?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 18:20:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "As AI ‘therapists’ dish out advice, California lawmakers try to set some limits - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2JOVzdRZ2h6eU9yaERJa2txVXQ1bkFLSTA3N2lQajJZbkFxLVg2Y2JOaUFJeDJlSV9tZng4S0dVeTQyb2dGMVI3RXgtOGFYV29VcC1pT0JBcE5TczJrTWNXcHpxbFJjejk2djRRVG5XdTlieExQX1BIclRlUzA0TXF5MWNXUzdtaFFMYjlBRTVhSDVIWFV6RFduYjJlV2RoaF82OTdaVUwtTzNsckE?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 17:56:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Senate committee votes to hold Fauci in contempt for refusing to answer COVID questions - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0dtOWZGUmVJbHhldC1KMkpOUENBYlV4Q0pxN0x4VFVkbkt4MlhJTjJZQUt3WnUyLWpDZ3FpWG5ydTl3TXZYOFczdTNZQW5GOWd4V3ZVM3dHRVRjOS00R0s4aVJBbTNsYWc3UFpSdk5LYm5IckZuUWRMVUs0ejRJOGdMUmxzTGt1a0xjc2FkNWpWRnkyOHNWbA?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 17:12:00 GMT",
+          "title": "Iran war renews concerns about the lasting toll of traumatic brain injuries to US troops - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcThHa3E4S2QtZFp5ZEJqRHdlVGhyM2N0UTI5YUhUeUFqbEhQVjcxOXM4NkdTUzFRalVybkYweDRINGIyZHJWM0VWZjhrSXpldHpIQ25PWE5LSnlRRWEyNTNsTGlnamtHdUVyZHpxMlpWTXY4RkxyUVdJU1ZSdXJvWVE2dV9NNHo0cjUySldVU1N4dmx2Q0JDemZuQUdFVVhxdWc?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 18:14:00 GMT",
           "source": "AP News"
         },
         {
           "title": "A new Tennessee congressional map that splits Memphis is making its debut in the state's primary - AP News",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2NLMnQzcGxQSFJCaEtBWlF5RnBlZjVhNzBLcUtYX2ZVSUc5b1BYSW1RbDJ3d2gyN1VORXljTElqdjg1ZmhxVFF4a19CQmNjQlJIekRnNGhZLUg2cm82czdLZEpLWHpYVGh6Rk1kc1Ytb0xyYXZSVENpYWRSc3pUV2JMWC15N0xyamEwTjROUDFYSlZWdVA3RUNXb25pWndHMXlGc2JnTzB4VGQyWk5CTk9saGhZd3l2?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 17:08:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 17:06:24 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump administration will buy back company's offshore wind leases off 3 states in a $1.2B deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3R1ek1NVGttOHhoeDFOU0d2LWpWbFdxSnBYRHAxSnFYZk5hV1NXdWdiMXFzMURWUXR4ZzA1UFhfRUxiRHVfdVJyY1V1X2tmczJ6Mi15SEEtUnhPMERJRUJQNmV0MlVQVS16TFpHdUxSN3M3ZTBISURzZW5iMVhrUjlzUU9fUXZoLWlOd1NGY3Y1RkZlOUdvbWlQSlJnVEZqTzVTVS04WWdTbVhN?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 16:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "New kind of flu shot is on the way as the FDA approves Moderna’s mRNA-based vaccine - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEVGbmk2cXVaNnJJMGFoaXlDSHhMOG1iM1JKamY0ODVHQXpLcmhzMlpTbk9FalBpSTJBVDkyYnR2NXBkTkswa2NQZVRWNTdud01WY2Q0ZG9qSWtmMlRIMUxlbkdBLUlXa3hPTEdDdldjaFFYM2gxSnJPVDVZNXpXbHlWeWY2UkZjNkJUY0RiR25taXJ6Q0dpb3hzeHFxdw?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 16:25:00 GMT",
+          "pubDate": "Thu, 06 Aug 2026 18:08:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T20:05:28.415Z"
+      "updatedAt": "2026-08-06T21:55:22.535Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Gold pares gains to trade steady as oil rises on Iran proposal to bar 'hostile' vessels in Hormuz - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWd6ZjFIZXZHQ2JsNi1UdXBvS1JIUm0xYWtjaDQ1UXVOczhzTzZLNEY0ZTRtb1l5N2lrY09ERHFySlMyakJJNndhRUx5M0FabFZ5TllJZWZPU05na2VqMkRVckJ2VndLdUlFUGd1NklHQlN6V1VJUzRxS09jUmtVVWhMTGRuVlN3YzctZjhBWVI2UUZkQkJqZ0NvdF9uQ1I0RGtCNVNORThqQQ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 19:30:42 GMT",
+          "title": "Trump signs orders targeting birthright citizenship - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQlBIVEJ3RmxwWHB3RElBYnBYVGdvRjZUUjYzbmJ6UW5wU0E3SlQtV1g3Uk5zQzFlelZMUWo5UExUelBUMnZQY0pibWx1OHBLN1FtTDBJY1Q3WUFXMmNScndrNUtleC1ucVEtdDdMUy1oR2RTeVpaN09heGUtLUk0UFNfT25Lb0swemZNVjQtbHRoLWh3anVQOTF2WGU?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 20:55:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Republican US Senator Rand Paul to ask Justice Department to prosecute Fauci - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaWluM1Jma0cyZUI1dkNEMVN4S3lyZlBXLThjcWgxRmt0amFlZnJBNmVpSFN2cHpONmRJMnQ5QkQxNFJJZEt3NGMwTzhGZlotaDZzWG9fLWwwQzV0RS1PR196SXNNdFNfenBTdmcwa3pxSkxxV0lOMHFKbUtuU2UxOXlNdWlrZEpleEtSM1pxM29EZDhjbnIxVVZnNm5OX1RxRlZvZ3N3?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 19:24:10 GMT",
+          "title": "Trump signs executive orders targeting birthright citizenship - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNVB4QmxvbWdrTlgxbk1fZUwxUDdkcnlPNkNGSGc2M1JhWmJLLUxrQWV0SnVOckgxUUVobERJVk84VGpuRmNQVFdmVEdFR2I2NjRNY09YeU5ac0F1c0Y2cGljWmtkVzhsWTlES3A0T1V3WjVPd1hpTTVIWlJWcFBVSFV2Ymlwb3IydkVRMVRTcVlHcmItdi0zSGpIc0t6ZjdiTGh0WnRn?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 20:35:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "SpaceX rebounds from post-earnings slide as investors eye lockup expiry - Reuters",
+          "title": "SpaceX stock climbs as shares available for trading more than double - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1BTeWk4aVNJQ3g5UWdVUDRkektLS1kzSWtfUXk2TmdVU3Uxa3dlOThDYW1JV01Zd3FDWUVBbF9PSnBWamhWRV9pQnJOZjhQYkpoTXBBTndHZVF2Z09fTnBXRm9iMGRGNDdaZjl1bFRJOGlkM0pyWndMU01vYTBXVGZjM0toalJ4UVhHalNsVlFRd201ci1QNW1kTXM?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 19:22:59 GMT",
+          "pubDate": "Thu, 06 Aug 2026 20:32:55 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Furious pace of AI investment on some Fed officials' radar now - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVJ6UjE0RWczVm91NXNnb2E0aC1mRnpRRExGbG83cnNsWDdQbmt4cHVlMkh6ZWZLaUZUM1pkWGh0TVcydW9IZEpCZFJOSG1MWktFcHM5Y19yV3JqMEJXaDhCZGRwNXpJakRzMXlJUURvMXlkdEI4cS0tMmhLeHFkT1JQWUtuQnFjYjhTVHRpcmJVTmF5Sm5CR3I1SHhZRWxaMmhVNGdUVG1UcklWZkVqNA?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 19:13:26 GMT",
+          "title": "Alphabet looks to raise up to $25 billion from latest bond sale, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUk1NnFMWVUwZEJJTmpvWExsa0hoNWhpbUJXMlpFWUpoY2xtNDk4VGFBTEZORlRQSWVCd3ZsYXBtSTh1ZlJDX2E0OWtFMk5nWW5WV0VNUkJ5REpad2VMMTNrZVBqbERDYWg2QUs2N1hFcHRKRkloQ090VG9lQ3lrLTYyb3otQ243ZzhrQ1pRckZqUmpTMTJoMjVGc1IzQUJpd3BZemd2RHVZRF9WcVg1c2lDdWdia1dU?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 20:30:58 GMT",
           "source": "Reuters"
         },
         {
           "title": "EXCLUSIVE: Hackers targeted US private equity, other firms including Blackstone, CME, data shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLXB2WnlhMXFNbXF6eFd2MklvWUxsZTR3NVBQN0pLZ2c2ZlZ5WkdvamdqQnU3U0pPZW9XbUFwQ1lXeFRueGpGcm1mUTNabXl6MTh1dVNSYVd3cjRxWkp3dUcyU1c5cmhDZ1NNRmJSTUFLZUZvallyWk5ucUJLU2NXcFB5Z19oUWJPVG1oWUI5UUFyMkVMOFVUYjAzSHY5ZnFIeFlEZE1IY1pWbTdFaVVpVzZZdVBLRTdlRHc?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 18:50:10 GMT",
+          "pubDate": "Thu, 06 Aug 2026 20:19:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "S&P 500 little changed as investors eye Mideast talks - Reuters",
+          "title": "Bomb planted on minibus kills two near Damascus, Syria says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFkyalJWQ2txUksxbXpvMFRkWUJYSkVlNjBGTXVjRnFJOF9ONkJ2ZWUyUG9uMmxWSENpMFpoSUlZdzRwNVJZWU1wY0tHSmxCNy04S2xBQjRvYWtEeVNPb3hpQ0tIY2ZiR3BqRURVazhJSG9uZFBfc1EwTzVGZWs1cHpUUzlYU3hkZ3hJLWVmcGZaSl9ONFdlbzhPajNiYWo3RkQ4T1BqWVY0c2twZlFINFBmZDdOMXJ2cjZMSEhQOGFXMmh5cEEwaXR3?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 20:05:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump’s tech ties come under bipartisan fire after AI agents go rogue - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXVRelpoYlFMckQtbW8wV3NQbTBrT0w4RV9XcXBSRm9LR1BhUXNTZkc3LXV5RXJkUUNJdkJCR0lQakRrZWY2MUhVeWJMNWVKUk96cEVVNWY3Q1Q0cFNMWFQ3clo3TkNDMW9GTE5HMUdDdk9FLW1yWjd6U3ZmTHh3SEpSNjBGYmZlZ1U3OXcyT1hMeThhalcxTVk3SnhFOERaOE9hZjVzbTQxa0QzZlpzdGdDYkRrX2pBOVE?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 20:02:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Dow, S&P slip as investors eye Mideast talks, earnings - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2poa2tBUFVOZFo0R0Q4T2lKVF9aWk5CWGd1Y1A0aXlTOFE1c1JBNlF3bk9qLVlnSUFmMTZoT05MVExKZk9oQzVhUmg4SnBLZ29vLUFDMU1Qb1lOZmd5ZVZHRGVuaTJHWWJyUjFRV19pU3U4NmItdkd0d2JaNWVUSmJZcFBSVEtPVDQyd1RySlA0Q2VCT3RZSzlsSUFPY2FsLUtNMWlubFpQbkZiVmt6TjBZdmRZeXlPMFBZ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 18:47:21 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Top German prosecutor leads drone probe in suspected attack on national security - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNEhmeUswMFNNblJYd3RnQ3N2OEhVTDRmQnRDSE5QY2pfY2c5LUROUG5hM0szRk5WZ245ZmRoa2psRFNvVGVuTzdjaERvUkh2eGJCZVhwcU9RbEFrUG04ZEViSERrSGZtb21ZUzgybnY0RWpFQVdyZDVqQjZvU1NCQ0VjMU4tZFRLYm5mclJ1Z2VVLW1BVUFtRHNfSGNoU29BRmFmTVllcVFnbnFfYW1lWkt0OGROazVfRWFfZ3AxS1l2VFNJbGRJ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 18:37:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Republican US senators propose to repeal California emissions rules - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmUtaFlCbkxIRVBqTk0tQ3dFVC1fdWtSTXhnM0hweFE3TlE5LXQwX1huWU81NzlES1lPQ2tzSEJETk1RcjhpNTRBSkgxSDdBMDNDVmNhNDREVk1PSkZ5WVBJdXdMUFh3LVk5V1NXU1B5MlFZM2FvaG9JRm41VFNULVpUZGt2d2N3Y1RpdTgtVW5xVWZ0aUdRXy1TSTBNYWp1OHRYTnZ3MWZkc2pMLVloVkFfdjQ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 18:35:15 GMT",
+          "pubDate": "Thu, 06 Aug 2026 20:01:38 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T20:05:28.423Z"
+      "updatedAt": "2026-08-06T21:55:23.008Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-06T20:05:28.476Z"
+      "updatedAt": "2026-08-06T21:55:23.211Z"
     }
   ]
 }
