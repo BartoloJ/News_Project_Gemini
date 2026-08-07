@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-07T05:00:20.148Z",
-  "lastChecked": "2026-08-07T05:00:20.148Z",
-  "lastUpdated": "2026-08-07T05:00:20.148Z",
-  "generatedAt": "2026-08-07T05:00:20.148Z",
+  "fetchedAt": "2026-08-07T05:11:08.360Z",
+  "lastChecked": "2026-08-07T05:11:08.360Z",
+  "lastUpdated": "2026-08-07T05:11:08.360Z",
+  "generatedAt": "2026-08-07T05:11:08.360Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Why was Taiwan’s president evacuated in the middle of the night?",
+          "link": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 07 Aug 2026 04:52:19 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
           "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 07 Aug 2026 00:34:14 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Sudan's invisible children - born in war with no legal identity",
-          "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 00:26:52 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T05:00:18.909Z"
+      "updatedAt": "2026-08-07T05:11:07.161Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T05:00:19.094Z"
+      "updatedAt": "2026-08-07T05:11:07.328Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T05:00:19.578Z"
+      "updatedAt": "2026-08-07T05:11:07.766Z"
     },
     {
       "name": "Reuters",
@@ -176,12 +176,6 @@
           "title": "Oil rises on concerns over Strait of Hormuz reopening plans - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
           "pubDate": "Fri, 07 Aug 2026 03:41:34 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Two dead, including gunman, at school shooting in Thailand, officials say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT05uSV9KT3VqLUIteGZ3aHpRRkF4QURLSGlFMDdtLUVqbVlyenVCbE9hQ0pQWmVFVnA1MFA5UU4zYXpaMTJPeFBkQy03Qk1fTnNMa25WX1R6N2VhYng3cmdpTHQyNkRiZTEwYjk5TThFdk9yRm9kaGtOMFU1ZnZsRktQdkdsRnFEQm5nM2NuSGkyQ3lDMEFlMjZ1LVZuc3RKUnpkMW5oeUM?oc=5",
-          "pubDate": "Fri, 07 Aug 2026 03:29:00 GMT",
           "source": "Reuters"
         },
         {
@@ -219,10 +213,16 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ25adU40RDVWeVlvNTZDdmNqdHZpOERIODV6XzhBRmY3bFdPYmlYN2liNTloRWRkaEVNaDRpSXRXdEh5RVN2SFZGSTZRdXFsaGRyNENpMkRnTDBNdm5EX0trbWJQS3FFcmNMMzZabGRCb2VaZW5LYVExdVp2Zy1uWkFQTU54cC0xbTZKaU1FbDBKVW5TeGdFUDVZLXVjbGd3eW5JNl9mYlNodw?oc=5",
           "pubDate": "Thu, 06 Aug 2026 23:51:00 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "Former Mexican governor arrested for allegedly destroying evidence tied to 43 missing students - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRUNSR0xscjllRGJMV3cwTzlDZXVXU2JvaHBYeXJjbVF1ZmN4N2ItNW1DRnVIUjNNeUV3MHJFTk9fSURkZF9waUJDVjNRRHRmUE9fLVc3cmZKcmRxZkR3TXBGSWhkZkJXcndaX3JTZXg3LWJpZkR5dFctU1lZbV9HdElDalpuX1d6UmhiZWpnT09XcTd4eFc0THBLbWFGcFFyTEl1NGpvNi1wWmNHTDliNldteE0ycmZDYjMtTEY0TGVTWm9tSGRNTg?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 23:06:56 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T05:00:20.001Z"
+      "updatedAt": "2026-08-07T05:11:08.157Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T05:00:20.148Z"
+      "updatedAt": "2026-08-07T05:11:08.360Z"
     }
   ]
 }
