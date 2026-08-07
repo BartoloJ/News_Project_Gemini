@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-07T01:00:23.872Z",
-  "lastChecked": "2026-08-07T01:00:23.872Z",
-  "lastUpdated": "2026-08-07T01:00:23.872Z",
-  "generatedAt": "2026-08-07T01:00:23.872Z",
+  "fetchedAt": "2026-08-07T01:25:18.188Z",
+  "lastChecked": "2026-08-07T01:25:18.188Z",
+  "lastUpdated": "2026-08-07T01:25:18.188Z",
+  "generatedAt": "2026-08-07T01:25:18.188Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump imposes 15% tariff on key chip material to counter China",
+          "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 07 Aug 2026 01:03:35 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Meta fined $567m in largest child safety ruling against social media giant",
           "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
@@ -20,19 +26,13 @@
           "source": "BBC News"
         },
         {
-          "title": "Trump imposes 15% tariff on key chip material to counter China",
-          "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 00:44:12 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Sudan's invisible children - born in war with no legal identity",
           "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 07 Aug 2026 00:26:52 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Some of Doge's $110bn saving reports are wrong or lack evidence, US watchdog finds",
+          "title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
           "link": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 06 Aug 2026 23:55:35 GMT",
           "source": "BBC News"
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T01:00:22.529Z"
+      "updatedAt": "2026-08-07T01:25:15.896Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T01:00:22.696Z"
+      "updatedAt": "2026-08-07T01:25:16.011Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Trump administration moves forward with Head Start overhaul, proposing to eliminate regulations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNfNGY3UG5UMUhyR2c3eDJhU0hjdE1XckpNVEFjclNUQzRxN0NTLTRtUmF1TkE4TG9vak9ELTR3elpHVjhLWTFvdkFwNGV2czVQNDNXZFdHMVBFV1RMZUdzQlJWMkM4el96SWh2T2xQRzBRR05idXN4Q09jLUc2QkU1WGF5NjJ5cFo1Z1h2T25BWXZr?oc=5",
+          "pubDate": "Fri, 07 Aug 2026 01:14:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "UEFA maintains World Cup boycott threat after Gianni Infantino’s crisis meeting - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2dZRzk2MlVWMDJsRHU0ZTRJT2ZJNEU4WGx4dTdoa2x3YXNwN1QxQXRKRXBzNG4zUDhuMGVyVFhRSy1GM2ViZ3RralowZXVxNjFHTFJnRkwxc2dqZVoxRVB1c3Z3eHR2aDJwZU5zSjR6WVl2WWxpSS01RW9uQVpWNFpDVkE0emJGcF9VVlJEQ1g?oc=5",
           "pubDate": "Thu, 06 Aug 2026 23:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Possible Strait of Hormuz deal, a large attack in Yemen and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd1R4TEFIQVkxS1I2SDdWVUZfalVNQXk2VnNDc1FHUnNYU0xRY3ExT0JiLUp6cDl2N2ZYLUl3UHFlbFUzY2F0MU9iVW9ZRTBTYTIxUWd1RXh0dnY4ZTJPT1Q3cTNFNi1ja2lTVnNsZmZPd09SMFFFMjBUNVJPZWxLVlR6OG9fYk1Cc3Byc3JUY3lTYlhqV2xjRl9RVkFDRnU4Vmx2WkV6R19fcjlHYVZWOQ?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 23:31:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,36 +154,30 @@
           "source": "AP News"
         },
         {
+          "title": "Judge approves $106 million settlement over deadly 2019 Hard Rock Hotel collapse in New Orleans - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV1djSEtkTXF5RVZhSUxiem50QXBlVWphbHRfU1dGTF9XQ0twZmI3bEowR0Z6dGotU0hoRXYtZjJDYmc0M1VmRHp0WHFZUFJhOFdqcDFXT3JiR1VaZUx0aTA4WHlLLUs4czcyQVlaRTMxUW5jU0hILVJad0IyeXRjQWY5MTNOTTdQU0kzOGR4Qlc1cm9KWlBYVDJpYw?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 22:33:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Senate committee votes to hold Fauci in contempt for refusing to answer COVID questions - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0dtOWZGUmVJbHhldC1KMkpOUENBYlV4Q0pxN0x4VFVkbkt4MlhJTjJZQUt3WnUyLWpDZ3FpWG5ydTl3TXZYOFczdTNZQW5GOWd4V3ZVM3dHRVRjOS00R0s4aVJBbTNsYWc3UFpSdk5LYm5IckZuUWRMVUs0ejRJOGdMUmxzTGt1a0xjc2FkNWpWRnkyOHNWbA?oc=5",
           "pubDate": "Thu, 06 Aug 2026 22:14:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Union representing IRS workers asks judge to block Trump tax audit immunity deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUJlMVNMWWhJRTVvczlhSDVtVU80dExDaXdNN0trREZ5aTMzbDg0MlRXTmRZOHlVWTdhc0QyeWZaX3dsYjR3RFZOWDI0MGRqRWRwbUgwa0RCa0I4X2k1WkxidXA3OTFrbk9XV1pHc1QwSGx3QmM4SE1oQmRvNFNKX1l1RUl6NWlRaFdpWERmWVM4c0tiVXdwZzlZQQ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 22:12:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump administration moves forward with Head Start overhaul, proposing to eliminate regulations - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNfNGY3UG5UMUhyR2c3eDJhU0hjdE1XckpNVEFjclNUQzRxN0NTLTRtUmF1TkE4TG9vak9ELTR3elpHVjhLWTFvdkFwNGV2czVQNDNXZFdHMVBFV1RMZUdzQlJWMkM4el96SWh2T2xQRzBRR05idXN4Q09jLUc2QkU1WGF5NjJ5cFo1Z1h2T25BWXZr?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 21:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 21:48:45 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T01:00:23.135Z"
+      "updatedAt": "2026-08-07T01:25:16.524Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "New Mexico court orders Meta to pay $567 mln for teen mental health fund - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ25adU40RDVWeVlvNTZDdmNqdHZpOERIODV6XzhBRmY3bFdPYmlYN2liNTloRWRkaEVNaDRpSXRXdEh5RVN2SFZGSTZRdXFsaGRyNENpMkRnTDBNdm5EX0trbWJQS3FFcmNMMzZabGRCb2VaZW5LYVExdVp2Zy1uWkFQTU54cC0xbTZKaU1FbDBKVW5TeGdFUDVZLXVjbGd3eW5JNl9mYlNodw?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 23:58:21 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump administration considers order on autism and vaccines, source says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWU5ZcjdqelFRY3JrODJieE1idFNoME03WktxY2JMNko2SWFOSEJ2ckxDN2c3ZnlaTFc1VTl2c3dYRllaRVBGUnBGRHl0a2R1MmpWNklUM2NoaGduSTV3b01hTC0xUE05MFBfbXVXSEp2SHhGV3NfMER4cnRoaXBNMEQ2dGRXUnp0WGp6eTJ3QzY5VjVLcDBCWTJvTVVhdlZoQTIzSGJIbjBjanN6d3ZqaXhOTGtzcThoamEtcTM3RWRNZFNFWnE4?oc=5",
@@ -188,12 +194,6 @@
           "title": "Republican US Senator Rand Paul asks Justice Department to prosecute Fauci after contempt vote - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaWluM1Jma0cyZUI1dkNEMVN4S3lyZlBXLThjcWgxRmt0amFlZnJBNmVpSFN2cHpONmRJMnQ5QkQxNFJJZEt3NGMwTzhGZlotaDZzWG9fLWwwQzV0RS1PR196SXNNdFNfenBTdmcwa3pxSkxxV0lOMHFKbUtuU2UxOXlNdWlrZEpleEtSM1pxM29EZDhjbnIxVVZnNm5OX1RxRlZvZ3N3?oc=5",
           "pubDate": "Thu, 06 Aug 2026 22:18:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Turkey, Saudi Arabia, Pakistan to sign joint defence agreement in Saudi Arabia on Friday, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWlCbG9KRkh2aHRNSjBWS25TWEM3V3Y5aDlfbFcwNGZIaldpZ25rNlpGUGVtcDFRQ0JUWnZ5NnhwSGJSZjBSRm5idU9iNFNUcEMxcFJDb0FrcjBUU2JvemN0OWYxazdOS3hzMHBxVVJvOVlsQ1RQcEIyT0R0NXFxSU01SDJJdm1hZklPSEYxSEQxS0t6WFpMemlDdWpFcXh5bW0wMUM3ODBBSjVPVHNJTk5rQ2ViSHdTWWlQeWQ0YjR4MjJNVTdXNDBqcw?oc=5",
-          "pubDate": "Thu, 06 Aug 2026 22:03:43 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T01:00:23.564Z"
+      "updatedAt": "2026-08-07T01:25:16.957Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-07T01:00:23.872Z"
+      "updatedAt": "2026-08-07T01:25:18.188Z"
     }
   ]
 }
