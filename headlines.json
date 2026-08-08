@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-08T21:25:14.587Z",
-  "lastChecked": "2026-08-08T21:25:14.587Z",
-  "lastUpdated": "2026-08-08T21:25:14.587Z",
-  "generatedAt": "2026-08-08T21:25:14.587Z",
+  "fetchedAt": "2026-08-08T21:50:14.901Z",
+  "lastChecked": "2026-08-08T21:50:14.901Z",
+  "lastUpdated": "2026-08-08T21:50:14.901Z",
+  "generatedAt": "2026-08-08T21:50:14.901Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T21:25:13.433Z"
+      "updatedAt": "2026-08-08T21:50:13.469Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T21:25:13.498Z"
+      "updatedAt": "2026-08-08T21:50:13.818Z"
     },
     {
       "name": "AP News",
@@ -127,6 +127,12 @@
           "title": "ICE says it expects to equip every field officer with body cameras by the end of August - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWHdaOFBncl8wQnFHNWVtbzFDSWNmMERyMHNETERIRzBWZm1pU3lKRTAtMHc1dkhjY05QRUpEOG1pWm9ibHZRUm5nS3NaUGd4OFFVOFN6dHhUNm95dFZzdFFrLWsxYk4xamh3b3RCNGxGSlYzYUpacWNvaktMTk50dUtkOFF1RmtkR2E2LW5kTWduLXU3N0otaTlLYklybmRH?oc=5",
           "pubDate": "Sat, 08 Aug 2026 20:15:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Turkey says defense pact with Saudi Arabia and Pakistan is not aimed at Iran or any other country - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUpUOU9hYmtTNTVWYWo5dHRzR1owQjZ6dGdndWlyWmF0cUowcVZjbUkzUE94QTFZeDVQUHBLME83VFhxT2JHcElDZTZmS1BrbUFBaE9pazVPQVhGOEx5OWlrTGMydjFlTll6ZXhZb1hJNkFiN0RBUW1oSXFabXFlbXQ0S1FvZksyT1AzV00zR3pEdHRQcjBWc2R3VGNwd3ZlZUNBcGFHNU5uWjBnME5sSQ?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 20:07:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,30 +154,36 @@
           "source": "AP News"
         },
         {
+          "title": "A drone likely from Ukraine explodes in Bulgaria near a gas pipeline - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHdjMXFHeUM1REdDNnZONnZ6WU1DM190YkFIYlUxUEt5ckJWdVNQZU1ramthb01ZSFAyYUpoNzgxN1BYZFU3ams5WmZrRVU5OUlVcGlCbVNPLXNQRkc1Vk1Cay1yYnd3ak9rM3F4RTg5UzNwZE5wa2tqVnJMNC1ncFh5aFZzTVNXRzB1VkRVUWFYUDZUdVpKczlzaVZpUXpGbFVPX01xclI?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 18:28:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Wall Street week ahead: inflation, retail sales updates - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWVlqNWRqOFllWTBtYUcwU0FBcmRSVUx4Yl9MQWx1dmxvb0sxb3VMU1RQSDlyZEI0MzdfRF9fZF9qZkZZcWNsZGV1M0ZlaDI5ZWVVbHZjbXdCYWJGVy0zNm14WmZweVBna0MtTjY5Z1dPd2szN2hZMW5PQTN5bVU2NkNRUGRiMEZ0Y1RNWFR2d2g?oc=5",
           "pubDate": "Sat, 08 Aug 2026 17:50:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Volodymyr Zelenskyy - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xb1ltODYxdGFUVGUzdHFuOXJoaGZQLXE4LS03ZTl3bTJkZXluNlRVTmtZaWFDQWhkX09IM2VYVURYcVVIcjJGM0p4UUhyVjdxSWViaA?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 17:21:06 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Leaking grounded oil tanker off Oman sinks further, satellite images show - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNVhySnNVYW1DT0lnMDJwU3hKWDlHUWt6Tm1SUXhzTTdTZEplS1M5NWk5S2E5UFpNZndWSTIxTjRtNVBkM3lld3M5NHIxV2stdjBLRU5Wd2JFZUJ5WkJJNmxmRFZIYkZZbXJwWXExM0VONTRlODh4ZGNpZVpNODRQM09XdHBKUG40VVE?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 17:10:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T21:25:13.944Z"
+      "updatedAt": "2026-08-08T21:50:14.237Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 21:15:33 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Thousands told to evacuate in British Columbia's wine region as wildfire grows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUg1Y1BqdGNyMk45Z19zcUlaNXlrQWc5MDRMc1cydHgzSjhBeERvNDc5TXZ4NVBSOVFyd1gybkM5Um11Z1lGcXdxQ1pZUFptLVdtd0ZZWXhsa1lfem13aUNkVnIyNDlSckhSSk12b1VNMkc2U0VoVlJzQzlXVlp1T0VVRi1LUVVQQ3lYWVNTMjVaWVE0SU5EeENDRUVVVXNQWjlVZkx6eXZpZ2JjemhoTW8zdlhkdmNnd0ZabTEweWNibkFpcFBmUGh1Y2k?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 21:06:04 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US Senate advances landmark crypto bill before heading on August recess - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB?oc=5",
@@ -182,12 +194,6 @@
           "title": "British Columbia declares provincial state of emergency as wildfires grow - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQczlJZmFSMlhEZDBYS2E3ejJZR1VxWkdEYjZQTm00NGVvemhMSjV1SUZTdkdIZTA4cFFLSXg5cHlsOGZPSjNlVjhSaXNDX09uZzYtaFN0TS1WZndRLVlIRktrdGtMVUszMWZIYklQYTJsbkZaLVN3ZXB1SGlTb05DY0RHa1VXUkFPMGN3STBSeVNHRl9Uc1RZVzZCaHdhbWJrQ29MQ0NsMkpOV0lfeGw0QWRERmFRbGNsQ0VkdnJxcDFfUQ?oc=5",
           "pubDate": "Sat, 08 Aug 2026 20:21:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Thousands told to evacuate in British Columbia's wine region as wildfire grows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUg1Y1BqdGNyMk45Z19zcUlaNXlrQWc5MDRMc1cydHgzSjhBeERvNDc5TXZ4NVBSOVFyd1gybkM5Um11Z1lGcXdxQ1pZUFptLVdtd0ZZWXhsa1lfem13aUNkVnIyNDlSckhSSk12b1VNMkc2U0VoVlJzQzlXVlp1T0VVRi1LUVVQQ3lYWVNTMjVaWVE0SU5EeENDRUVVVXNQWjlVZkx6eXZpZ2JjemhoTW8zdlhkdmNnd0ZabTEweWNibkFpcFBmUGh1Y2k?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 20:01:07 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWl2bmN2bWhrTDhCMERQMHA0cFZaVHpSZFVpZGszY3c2RTNWNi1aNHNyR2ZydXh4ODVtVFN0YzZSa3dCQ3N2OWViYUxRV05ic3ZCSnNEYUVHQkpBWENpRkEzUzVQb015N2NESS1ablUtR1NNR2lnVUVmMmlENUNESDJsdGF0MWhnZW5mQ0FFNzBRd0k0YlI4NzhOUGVUbkt3cng2WDZxMVBRempHVWxrTFdaY2VhZ0lIRkVMOXRGUXgyeEVqUk5uUGwyOA?oc=5",
           "pubDate": "Sat, 08 Aug 2026 16:58:20 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 16:45:44 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T21:25:14.411Z"
+      "updatedAt": "2026-08-08T21:50:14.692Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T21:25:14.587Z"
+      "updatedAt": "2026-08-08T21:50:14.901Z"
     }
   ]
 }
