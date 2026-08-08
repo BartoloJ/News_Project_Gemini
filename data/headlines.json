@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-08T13:10:09.978Z",
-  "lastChecked": "2026-08-08T13:10:09.978Z",
-  "lastUpdated": "2026-08-08T13:10:09.978Z",
-  "generatedAt": "2026-08-08T13:10:09.978Z",
+  "fetchedAt": "2026-08-08T13:25:16.032Z",
+  "lastChecked": "2026-08-08T13:25:16.032Z",
+  "lastUpdated": "2026-08-08T13:25:16.032Z",
+  "generatedAt": "2026-08-08T13:25:16.032Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+          "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 08 Aug 2026 13:23:16 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "NBA forward Clarke's death due to effects of drugs",
           "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
           "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 08 Aug 2026 12:01:42 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "US Senate narrowly confirms Todd Blanche as attorney general",
-          "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 08 Aug 2026 10:19:46 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T13:10:08.561Z"
+      "updatedAt": "2026-08-08T13:25:14.660Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T13:10:08.664Z"
+      "updatedAt": "2026-08-08T13:25:14.831Z"
     },
     {
       "name": "AP News",
@@ -133,12 +133,6 @@
           "title": "Russian attacks kill 4 in Kyiv and surrounding region as air defenses fall short - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
           "pubDate": "Sat, 08 Aug 2026 11:11:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Climate change - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PcnJYZVhLUXZTYVBjZGN6MTJMaWRCSXFaZXFXZEVMckp0VEMySmF5ajJENTNPaXBxRHpxXzV5Vlh1aVc1a21GYkVNdU41QQ?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 10:37:48 GMT",
           "source": "AP News"
         },
         {
@@ -164,18 +158,42 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2xvZUJwYnNoTkpuRXVMM056cXZBRzFadUIySTRTRFBENlBOa2plYkQ5M0pBZkFOVGdnMk1ieV9qT2hMYlotSk9LQng3UktZTy1nQmJ3b04zVFZPd1FWMkFvbW9TaW5SV29RcVRmVEV6LVFUTzlSd193RDJLN1B6Z2U3b2hvRldZNWU3YkgtM1FMMnp1WWdqTTB0WQ?oc=5",
           "pubDate": "Sat, 08 Aug 2026 07:26:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Volodymyr Zelenskyy - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xb1ltODYxdGFUVGUzdHFuOXJoaGZQLXE4LS03ZTl3bTJkZXluNlRVTmtZaWFDQWhkX09IM2VYVURYcVVIcjJGM0p4UUhyVjdxSWViaA?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 07:12:36 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T13:10:09.147Z"
+      "updatedAt": "2026-08-08T13:25:15.316Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 13:08:46 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Senate Republicans narrowly confirm Todd Blanche as attorney general - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUFFdU40bEtQWlBwM3l5U3ZPSEFTM3B3NnFVU3RQOS1hRGFpaWhuclhCSVpyQmpQd2NzbklIVEhqS3YzcDZya0kyeGh3QTZXQ1d2VGxWemZVcE9helFzN3ZJaE1SWVhfYklQVUtNNEk2OXEtbE9tX0FhUm5JZ0xVZzZQSmozc3V1SjhPa2FNYXQ3dnA1a21HWmdtbjd0Wjg1MnBDTThobU44MjZhMy1v?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 12:35:40 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Democrats plan Trump investigations over impeachment if they win House, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWl2bmN2bWhrTDhCMERQMHA0cFZaVHpSZFVpZGszY3c2RTNWNi1aNHNyR2ZydXh4ODVtVFN0YzZSa3dCQ3N2OWViYUxRV05ic3ZCSnNEYUVHQkpBWENpRkEzUzVQb015N2NESS1ablUtR1NNR2lnVUVmMmlENUNESDJsdGF0MWhnZW5mQ0FFNzBRd0k0YlI4NzhOUGVUbkt3cng2WDZxMVBRempHVWxrTFdaY2VhZ0lIRkVMOXRGUXgyeEVqUk5uUGwyOA?oc=5",
           "pubDate": "Sat, 08 Aug 2026 12:12:59 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajV4Uk9FTWd2WFJTWWVSZS1pdkl4OGFERFdzeExaYy1udkYxWGdXYWxRdHUwd2kwLVRtRTdhRkdVdUZuNXZ3U09EQUR3OXUwUzVtZmZZeWZkWmlkTThUTDBYNVBjbE9IWVBQZnhhcHBfcFVnZTc0NG1uMk54dElXNkhzQUFZR3VkRW5QZkthVjdfdTJOaXR6YWxiZmtfdzJROGg3bWFuOVhuV2ZkTDNLNkg4d18?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 11:46:57 GMT",
           "source": "Reuters"
         },
         {
@@ -191,12 +209,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Senate Republicans narrowly confirm Todd Blanche as attorney general - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUFFdU40bEtQWlBwM3l5U3ZPSEFTM3B3NnFVU3RQOS1hRGFpaWhuclhCSVpyQmpQd2NzbklIVEhqS3YzcDZya0kyeGh3QTZXQ1d2VGxWemZVcE9helFzN3ZJaE1SWVhfYklQVUtNNEk2OXEtbE9tX0FhUm5JZ0xVZzZQSmozc3V1SjhPa2FNYXQ3dnA1a21HWmdtbjd0Wjg1MnBDTThobU44MjZhMy1v?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 09:18:31 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Scientists turn to sharks to improve hurricane predictions - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQjdCOC1VRVU5M29fVnE5QUxZYTVYM2V1ZUdMSlJqSW5rbW5LTTZwWkU3OTF0b1k0MmwwdVVndDBpcVcwUWQxTkNyYUVnOXYtcHlaVUY1bVpHYWpPSjRfWThJaU0tTnVKejhFcVNXYjF1S242cEROdmh0dXNwVG5sZl9Jd1VES1lKU0FGbDNMM205SWFkcFdOS2YtREhTanA2OEFsOFE1WGRpWm9jaVE?oc=5",
           "pubDate": "Sat, 08 Aug 2026 09:11:38 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWRVbHNkMjA4cmYxWXRuOEh0bjk4YlNZODFMYXphZEJNZlhRYmhtX3JUTWplenMzemoxYU01LXoydTNfX3p5N29nSkNkSnYyMENNbXJ2RU9FeU1Ed2s1b3lXdWNPYjNwWXg0S3Fodm9TVGRyODBQX2Z4dVQ2bTRpTmh6cDJhQTh3ZWNtTlRYdkU3UEJKeTFqcmhEY0VQNl8zUDkxTW51YXM0OG1jUHpDb2Ewa1ZXdHRqRWFYeWF3?oc=5",
           "pubDate": "Sat, 08 Aug 2026 09:02:26 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Bodies spotted at site where five climbers went missing last year - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaG9oc3YzV2dOeEItN0E5YktTV3ZKZHFlQjVkR3Y1U2JmeEZZOUNRSFR3czZ6RWNxMklOcG9BZzhFUWMyRFpmTDhZamlYMmxWbGVRY000RE1MNEc3Z0w5c1kxRE5wcmdtV21jcUF1WUxLNVItemEyV05UYU9idnpvZ1hwS1NrOVdWTEdGSFpMUmo0cXNqekItTWR0b1BmQlk5aTlkaEVGTVJjbEF0VjYxd1VLOS1QV3RL?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 04:43:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0J4a1l5M0xKRnRfV3I3SVhteEVqM2NOTVdiWnNYMi1zMlZ2WmtydHpDZmZvenRoMWRVeVBmSmotNldBa3U1bGRtcUhqZHdaam1oUDRCYmVoUVlTZkRrbEhuXzJzUTYtVU9GcUFzdXdjNm54S1o2ZlJfTm90bnJWYnBqRVR2TUQ2bWRsWVVlUlRSbWVhWWpYemp1S0c0a3ZSenZzZmdWODVYd1VINDhtSjlOZHpZSDVJbzFUVEVMVFh6YWs?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 04:33:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T13:10:09.605Z"
+      "updatedAt": "2026-08-08T13:25:15.742Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T13:10:09.978Z"
+      "updatedAt": "2026-08-08T13:25:16.032Z"
     }
   ]
 }
