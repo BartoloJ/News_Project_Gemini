@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-08T21:00:21.905Z",
-  "lastChecked": "2026-08-08T21:00:21.905Z",
-  "lastUpdated": "2026-08-08T21:00:21.905Z",
-  "generatedAt": "2026-08-08T21:00:21.905Z",
+  "fetchedAt": "2026-08-08T21:22:19.245Z",
+  "lastChecked": "2026-08-08T21:22:19.245Z",
+  "lastUpdated": "2026-08-08T21:22:19.245Z",
+  "generatedAt": "2026-08-08T21:22:19.245Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+          "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 08 Aug 2026 21:06:48 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Paris tells e-scooter riders to wear safety gear or face fines",
           "link": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
           "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 08 Aug 2026 19:00:22 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-          "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 08 Aug 2026 18:13:49 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T21:00:20.499Z"
+      "updatedAt": "2026-08-08T21:22:18.088Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T21:00:20.755Z"
+      "updatedAt": "2026-08-08T21:22:18.159Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Wildfires force 20,000 to flee as British Columbia declares state of emergency - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWFHcGZLTElaS2tjME10OWxDWE9aM3ZHeXpMVzJIUVhLeVMzY0Y1LWxZODh1SmRrdDJvRHVHR09TOEV3STlXNVc1YnRtbFdSYWdpR0E5alVOMDB5QWdBdmw1U3VzZkVQYU5oalA4cU9NNk5CZ0EtZ3dlRDV4R0xkRWNGR1MzTDVVVTd3UWpTcW50QkdjZkFhY0hVbGRmZWtVSmZycjAzcTBHRmdMYTYyT2pB?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 20:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "ICE says it expects to equip every field officer with body cameras by the end of August - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWHdaOFBncl8wQnFHNWVtbzFDSWNmMERyMHNETERIRzBWZm1pU3lKRTAtMHc1dkhjY05QRUpEOG1pWm9ibHZRUm5nS3NaUGd4OFFVOFN6dHhUNm95dFZzdFFrLWsxYk4xamh3b3RCNGxGSlYzYUpacWNvaktMTk50dUtkOFF1RmtkR2E2LW5kTWduLXU3N0otaTlLYklybmRH?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 20:15:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news - AP News",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHBEUUlsdUlIcC1vM0pPSm9IUk9fdnRseE15OXFhN3FRTHRqa0dEcmR4aXVjMmJMLVEyMzNsWDlnaFFLRkRKRkQyb24tTC1MNjBGMVcwa2cyeXczemdMY3AtX2x4TENBWmc4S0Nqbm5COEd6NmVhNEN4MjVPajdrd3UyQ0FsRXoxU0JTdm1BTTBCRjVzcmZ3WTJVNVZ1Y3JFV3owRzBGQXNIVXBiSUVKZ2FJZUpxeUdJZzNFaWhR?oc=5",
@@ -127,12 +139,6 @@
           "title": "Jorge Messi, Lionel Messi’s father and longtime agent, dies at 68 - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFNFX1NIa2tfR0ZnVXRwRm5PV2pYY0FkSmNiVzFhQzhuOUdDdnNsZHQ1dkZUcFk5RnVDazUweEhyYnJaalU4bnp4RmtKQWZXX2tXRi1oYVlzRmpNUlJJcVRTUThuSXZHaHd5Q19qVTJyWHF2Y1Q1bVpPMU1HZnpZcGlXZF9MaDViYXFwRzQ5azR3TDR2ZUE0RmZYQQ?oc=5",
           "pubDate": "Sat, 08 Aug 2026 19:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "ICE takes issue with AP reporting on policy to release body-worn camera footage - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWHdaOFBncl8wQnFHNWVtbzFDSWNmMERyMHNETERIRzBWZm1pU3lKRTAtMHc1dkhjY05QRUpEOG1pWm9ibHZRUm5nS3NaUGd4OFFVOFN6dHhUNm95dFZzdFFrLWsxYk4xamh3b3RCNGxGSlYzYUpacWNvaktMTk50dUtkOFF1RmtkR2E2LW5kTWduLXU3N0otaTlLYklybmRH?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 19:17:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3phUHJkbktCRHUybzdwUHhMLXRGNnN5U3FLeW14RkhjZnZvLTZvX3VyMUtIZkhFQWltOHdNa1g2QjVLcnRyRVl5RDhTSGphUVZSZElFYnlZTThKTE12YVZOM2NMWVVuakU1TVVmOTg3cDBMMHducnpOUVppTktqMW1vMEpNWmt6MW1CUkVjZEdzV1VXd3pnUw?oc=5",
           "pubDate": "Sat, 08 Aug 2026 17:06:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Volodymyr Zelenskyy - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xb1ltODYxdGFUVGUzdHFuOXJoaGZQLXE4LS03ZTl3bTJkZXluNlRVTmtZaWFDQWhkX09IM2VYVURYcVVIcjJGM0p4UUhyVjdxSWViaA?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 16:52:59 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T21:00:21.290Z"
+      "updatedAt": "2026-08-08T21:22:18.572Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T21:00:21.684Z"
+      "updatedAt": "2026-08-08T21:22:18.968Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T21:00:21.905Z"
+      "updatedAt": "2026-08-08T21:22:19.245Z"
     }
   ]
 }
