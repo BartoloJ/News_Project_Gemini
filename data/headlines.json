@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-08T03:00:20.044Z",
-  "lastChecked": "2026-08-08T03:00:20.044Z",
-  "lastUpdated": "2026-08-08T03:00:20.044Z",
-  "generatedAt": "2026-08-08T03:00:20.044Z",
+  "fetchedAt": "2026-08-08T03:25:27.863Z",
+  "lastChecked": "2026-08-08T03:25:27.863Z",
+  "lastUpdated": "2026-08-08T03:25:27.863Z",
+  "generatedAt": "2026-08-08T03:25:27.863Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T03:00:18.720Z"
+      "updatedAt": "2026-08-08T03:25:12.760Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Women in Maine may choose the victor in this year's Senate race",
+          "link": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
+          "pubDate": "Fri, 07 Aug 2026 16:24:38 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump renews push to fire Fed Governor Lisa Cook",
           "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
           "pubDate": "Fri, 07 Aug 2026 09:10:10 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
-          "link": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
-          "pubDate": "Fri, 07 Aug 2026 07:36:33 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T03:00:18.887Z"
+      "updatedAt": "2026-08-08T03:25:13.069Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-08T03:00:19.378Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-08T03:00:19.774Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T03:00:20.044Z"
+      "updatedAt": "2026-08-08T03:25:27.863Z"
     }
   ]
 }
