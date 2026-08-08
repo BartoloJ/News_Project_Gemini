@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-08T14:25:31.194Z",
-  "lastChecked": "2026-08-08T14:25:31.194Z",
-  "lastUpdated": "2026-08-08T14:25:31.194Z",
-  "generatedAt": "2026-08-08T14:25:31.194Z",
+  "fetchedAt": "2026-08-08T14:50:20.715Z",
+  "lastChecked": "2026-08-08T14:50:20.715Z",
+  "lastUpdated": "2026-08-08T14:50:20.715Z",
+  "generatedAt": "2026-08-08T14:50:20.715Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+          "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 08 Aug 2026 14:25:19 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
           "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 08 Aug 2026 00:02:49 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "The phone book that led us to Assad's spy chief in hiding",
-          "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 23:23:12 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T14:25:30.147Z"
+      "updatedAt": "2026-08-08T14:50:19.445Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T14:25:30.212Z"
+      "updatedAt": "2026-08-08T14:50:19.536Z"
     },
     {
       "name": "AP News",
@@ -167,21 +167,45 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T14:25:30.593Z"
+      "updatedAt": "2026-08-08T14:50:19.996Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Berkshire lowers cash stake as buybacks accelerate, reports higher profit - Reuters",
+          "title": "Berkshire accelerates buybacks, lowers cash stake as profit tops forecasts - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUQxTUtKTW8xWnBNdHRMdWlZajlZNGhOUlBNeXk3WFJpTjdWYXBqTWNoeVZ6a1RGWG1ZSVVBMU1JdUVDNHJ6N2JxZFVQYl9tOFBEOU91cVJITTdHZ2FJak43MTk3Z0xqMm9hOElreTJ1SjJHRXU0YVROdk92cDNjX25yTTk1aWU0Sm1BdV9ZWDBGTXAtNS13X2NXY3J1eThDN0NOUmNhazI5NkV0ZGc1YlplUXFnM2VQNWZGaGM0MjI4V0k?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 13:10:59 GMT",
+          "pubDate": "Sat, 08 Aug 2026 14:05:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Senate Republicans narrowly confirm Todd Blanche as attorney general - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUFFdU40bEtQWlBwM3l5U3ZPSEFTM3B3NnFVU3RQOS1hRGFpaWhuclhCSVpyQmpQd2NzbklIVEhqS3YzcDZya0kyeGh3QTZXQ1d2VGxWemZVcE9helFzN3ZJaE1SWVhfYklQVUtNNEk2OXEtbE9tX0FhUm5JZ0xVZzZQSmozc3V1SjhPa2FNYXQ3dnA1a21HWmdtbjd0Wjg1MnBDTThobU44MjZhMy1v?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 13:39:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Leaders of Serbia and Ukraine pledge closer economic ties - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN0xra2Zmeno4WmZOSFBtZkVLb190MUVYOUpNNmJMLUp2MWRRMk9wNmhOdTMwQUY5c19RemM5dnVSb0NlZ1NhYmdoZ2FjY2J0Y09RTjRuYmJEMkNzWjNTNzlqemhhM0UxS2R2VnUzZmRoMkZLc0hpdVNkTGxSbmc0UkZ3UUMwYjVRRnVrNEs2cHdZZ1FPaVk0SE0tNA?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 13:21:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "India warned Diageo that its whisky's 'matured in American oak casks' claim was misleading - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa056N3Z4aDVvLU1wcVBZR2FaZ29wRk55NDVjNTdDMmhCTXotNEZ1eXFCZ2J5LUpJUDZ2RUF6dmtUa2s4c1lkQzY3MWVsX1llUk1LREZ4d212cmxhSU5iTHo3cjRvWXBudm5fdkMxX1F5SGs5bjRqbW9Yci11RlFCYXJoM2NqeHNnTm56SFRtejVyZGxicU9RNlMtNHpQT2tTU180UXBqQ0VraFNKSDU0Vk9RYVQ2Rk5ZU09GS29n?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 13:20:13 GMT",
           "source": "Reuters"
         },
         {
           "title": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
           "pubDate": "Sat, 08 Aug 2026 13:08:46 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "'Mom, don't call me': Inside Thailand's deadly school shooting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjdvZmtIbUhPd2hSMjBTbGJkbExLVFZGQlY3dzhSUXNfdS1fSzF1Uk5HRWUtcEhKUE1wNk82T0Q3S2k2T2dMdXl6ZFJQaHFWUkpzM2hMei1reHI1LUVneEk3Y2dMdE9iSzJhMVY5MUNCcVJhS0w4aXlyal9YZ0s1a3kwV0JHcnVCYUdmY1dwamprYnJFSTJPUUpPMk1vaDFxaEFrZVMzLUh5X1RKRS1uUw?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 12:48:13 GMT",
           "source": "Reuters"
         },
         {
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5",
           "pubDate": "Sat, 08 Aug 2026 12:35:45 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Senate Republicans narrowly confirm Todd Blanche as attorney general - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUFFdU40bEtQWlBwM3l5U3ZPSEFTM3B3NnFVU3RQOS1hRGFpaWhuclhCSVpyQmpQd2NzbklIVEhqS3YzcDZya0kyeGh3QTZXQ1d2VGxWemZVcE9helFzN3ZJaE1SWVhfYklQVUtNNEk2OXEtbE9tX0FhUm5JZ0xVZzZQSmozc3V1SjhPa2FNYXQ3dnA1a21HWmdtbjd0Wjg1MnBDTThobU44MjZhMy1v?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 12:35:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Democrats plan Trump investigations over impeachment if they win House, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWl2bmN2bWhrTDhCMERQMHA0cFZaVHpSZFVpZGszY3c2RTNWNi1aNHNyR2ZydXh4ODVtVFN0YzZSa3dCQ3N2OWViYUxRV05ic3ZCSnNEYUVHQkpBWENpRkEzUzVQb015N2NESS1ablUtR1NNR2lnVUVmMmlENUNESDJsdGF0MWhnZW5mQ0FFNzBRd0k0YlI4NzhOUGVUbkt3cng2WDZxMVBRempHVWxrTFdaY2VhZ0lIRkVMOXRGUXgyeEVqUk5uUGwyOA?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 12:12:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bulgaria's Radev says drone exploded in Bulgaria's airspace - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLTJIOVhtd1lJa0ptSGkzVHF4SVNjT0xLVWVJZmdqVXhGQTJNWGF2UklzYldoUmJHNVQ1QnRsbUJLM3k4OUs0aG5mbk43czBEOUE2bDAyakI4a25YWFo0YjdObVRyVGJGeWFaUGZ1eDBhSkVaOUN3NXNDX09pVmFtbmZlSC1ZWWt0eDFVVDNVVWtEbmx3czcwV3E4c0k?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 12:07:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajV4Uk9FTWd2WFJTWWVSZS1pdkl4OGFERFdzeExaYy1udkYxWGdXYWxRdHUwd2kwLVRtRTdhRkdVdUZuNXZ3U09EQUR3OXUwUzVtZmZZeWZkWmlkTThUTDBYNVBjbE9IWVBQZnhhcHBfcFVnZTc0NG1uMk54dElXNkhzQUFZR3VkRW5QZkthVjdfdTJOaXR6YWxiZmtfdzJROGg3bWFuOVhuV2ZkTDNLNkg4d18?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 11:46:57 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T14:25:31.003Z"
+      "updatedAt": "2026-08-08T14:50:20.441Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T14:25:31.194Z"
+      "updatedAt": "2026-08-08T14:50:20.715Z"
     }
   ]
 }
