@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-08T12:25:13.272Z",
-  "lastChecked": "2026-08-08T12:25:13.272Z",
-  "lastUpdated": "2026-08-08T12:25:13.272Z",
-  "generatedAt": "2026-08-08T12:25:13.272Z",
+  "fetchedAt": "2026-08-08T12:50:15.739Z",
+  "lastChecked": "2026-08-08T12:50:15.739Z",
+  "lastUpdated": "2026-08-08T12:50:15.739Z",
+  "generatedAt": "2026-08-08T12:50:15.739Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "NBA forward Clarke's death due to effects of drugs",
+          "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 08 Aug 2026 12:05:04 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
           "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 07 Aug 2026 23:23:12 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-          "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 07 Aug 2026 22:13:55 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T12:25:11.904Z"
+      "updatedAt": "2026-08-08T12:50:14.585Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T12:25:12.154Z"
+      "updatedAt": "2026-08-08T12:50:14.693Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Climate change - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PcnJYZVhLUXZTYVBjZGN6MTJMaWRCSXFaZXFXZEVMckp0VEMySmF5ajJENTNPaXBxRHpxXzV5Vlh1aVc1a21GYkVNdU41QQ?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 09:50:37 GMT",
+          "title": "Russian attacks kill 4 in Kyiv and surrounding region as air defenses fall short - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 11:11:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Russian attacks kill 4 in Kyiv and surrounding region as air defenses fall short - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 08:33:00 GMT",
+          "title": "Senators head for the exits without meeting Trump’s demands for voting bill - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnBUaHk5U09VaXptbloyWkxjR2VQNGdjUTByX243TFBwSURBTmdyc1VuVXJRY1U2cm5EdTlZT1pSV3JZZU5DOFVDaTJwNXo1RUs5LUNYYkdydWdRZlpDZmgyNTZYcnVJSk41akdpc3N2QmhKU3I1bmxmNmo5YzdLUkZBdUVqTFZ2NWRDdUxpa1RMY0NX?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 09:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Todd Blanche narrowly confirmed as Trump’s attorney general in overnight vote - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVVFqcS02ZHV5ZjlaeVFZdTlteEs3VjRqcVhQN3hxZHRQYjFjNUhKenE5MnVQR1J3R1d0cTA2NXJGTHZfcjU0RXM0T0dvSHFUUWItbktmV3JLMVFPaURkMzh5RUhCQmRyY3JUb3NNWGJqSlZvYXhBdzFfeU5hY3d6YVRMRkg5SWt4ZVJSVUpJZWxuYi0tZ2ExbXd5SGdmQzVWWnRvOE5JUm9HOXk4LUVV?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 09:16:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,26 +154,20 @@
           "source": "AP News"
         },
         {
+          "title": "Volodymyr Zelenskyy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xb1ltODYxdGFUVGUzdHFuOXJoaGZQLXE4LS03ZTl3bTJkZXluNlRVTmtZaWFDQWhkX09IM2VYVURYcVVIcjJGM0p4UUhyVjdxSWViaA?oc=5",
+          "pubDate": "Sat, 08 Aug 2026 06:15:25 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Eastern China braces for Typhoon Dolphin, shutting schools and tourist activities - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTm0za0swNG1VbTNRVnl3M0wxMkJTUnA1RXh1aXhIZDhkZmltX0dObFFlUnRhQUVvRXVZVkNJOEQ5aThzaVhlalNoazVna2F2OVNlbUJyZG1FazhMWTJXeHJ0djcwdFkxUDhuNjZfMzZpaGJTcEJCNndMaEd0ai00aTh3T3hDRml5Yi1pRlZrNkoxUHg3?oc=5",
           "pubDate": "Sat, 08 Aug 2026 05:45:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Volodymyr Zelenskyy - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xb1ltODYxdGFUVGUzdHFuOXJoaGZQLXE4LS03ZTl3bTJkZXluNlRVTmtZaWFDQWhkX09IM2VYVURYcVVIcjJGM0p4UUhyVjdxSWViaA?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 05:35:41 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Alyssa Thomas gets an emotional farewell as the Sun retire her No. 25 jersey - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkp6d2NyNnpSV1JPdlU2cENiWnQwdHlhWlZnRWw0SHpTU19Ock9fNjMtVU5FMnQzWjVJNDZjdVFqRHZTRGhCM2xnQnlLTGJRbGxLcnNCQU5lRFNzYzRBS0NwdXYybTNhNkZvV1ZQSFZ0M3k2YzlHN0Zoa1Z4ZV9nWWN2bWlNXzZKdDVWdA?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 02:16:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T12:25:12.618Z"
+      "updatedAt": "2026-08-08T12:50:15.138Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T12:25:13.030Z"
+      "updatedAt": "2026-08-08T12:50:15.633Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-08T12:25:13.272Z"
+      "updatedAt": "2026-08-08T12:50:15.739Z"
     }
   ]
 }
