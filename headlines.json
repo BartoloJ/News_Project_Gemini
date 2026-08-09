@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-09T09:54:39.873Z",
-  "lastChecked": "2026-08-09T09:54:39.873Z",
-  "lastUpdated": "2026-08-09T09:54:39.873Z",
-  "generatedAt": "2026-08-09T09:54:39.873Z",
+  "fetchedAt": "2026-08-09T10:00:19.277Z",
+  "lastChecked": "2026-08-09T10:00:19.277Z",
+  "lastUpdated": "2026-08-09T10:00:19.277Z",
+  "generatedAt": "2026-08-09T10:00:19.277Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Suspected crime boss Daniel Kinahan to be returned to Ireland in high-security operation",
+          "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 09 Aug 2026 08:50:14 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
           "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
@@ -44,20 +50,14 @@
           "source": "BBC News"
         },
         {
-          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-          "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 08 Aug 2026 19:18:57 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-          "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 08 Aug 2026 19:00:22 GMT",
+          "title": "Fifa criticises campaign to oust president Infantino",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 08 Aug 2026 22:06:44 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T09:54:24.390Z"
+      "updatedAt": "2026-08-09T10:00:17.963Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T09:54:24.622Z"
+      "updatedAt": "2026-08-09T10:00:18.281Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,7 @@
         {
           "title": "Donald Trump - AP News",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 09:45:55 GMT",
+          "pubDate": "Sun, 09 Aug 2026 09:52:26 GMT",
           "source": "AP News"
         },
         {
@@ -166,8 +166,8 @@
           "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-09T09:50:15.105Z"
+      "ok": true,
+      "updatedAt": "2026-08-09T10:00:18.717Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Talks with US won't happen while interim deal is breached, Iranian minister says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRllnWjhRYk9ZMlhGdzE1NGtIRlpuOXJ0Z0ZuVFJsTVlzUUdlN1Juai1YUGE5WHVnajEtejY4ekktRi1FNUlBLWdzdDRFS0dFNUJ4elhjalNudmVsVkpoYTgybnBNVXB6UXBwTEtlUGtwWHVLM091SzFkMTdKOUFrZ2w1WmpkcFoxQkJVUFlvSC1GMzhlYkM5TWRaVnJHMmhXLXhXSXJnd2FxVkJIOHpNeUE2bkFvSVY1YWMtQ2lNWWNHY2Jma0I1cHA2Q0Y?oc=5",
           "pubDate": "Sun, 09 Aug 2026 08:36:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Three killed in Ukrainian drone attack on Belgorod, Russian authorities say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOENwSFprNnAxMlVVRDZJclVmY0VZR1VpN2I0SnhjY2d2cGwzc2QtUHRSWk9jdEg1eW84WnFadDJHaWhIWEU3R3hPNHlsSXJCdk04R3NNbGlYTTU5RzQ1QlhER1lDLWh6Z2czZU9jWkFIdkdkdzdZLW5tcHQwTE1qZ0ctSl96OWdWbFB6WlN2UXhTbnRtYlpvNUFBY0FMWDBJN2xKanJUUU1GU1Y3N0ZSd0k4TnM2QUJW?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 08:21:18 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem8tQ281dWR1RWV5ZVFHX1BEQWZnNU1RaW1uZm40S0VjZzZEbGxVVHVLZkJDZjBkRzM4bUNrNVIwR0RSbDM1MFo1UVdYUV8yLXZKc1QyZEZxcFlHOGgtZzcxYk0zNzZiWlc3TExjMlU4cGhYS0tzT09feE93US1TMEh0eXlGMk12VHNRQUdkcDdmM2ZDRGhBcExEazVUOVBaTlNXc2ZZbmd4SDBxcW1kU1pFSHJZT0dqU1E?oc=5",
           "pubDate": "Sun, 09 Aug 2026 05:44:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Typhoon Dolphin set to hit China's east coast, triggering flood warnings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXZOaG5zYjRBVnRvRWkzcnlTVldKWFA4MHZHSEp3VF9NSnhWVW5fX1FNTlhmdUhYOEZfWWV1S2cyUXQtSWxCbGktRnhheHo3M3A0VHpYUGx5NHhFdXkwSUhLR25jajJoNlhkZF83UFkxSlN4eVFyd05tdjNpMUNIUVNBN0x3cjFJUWpfQ3AtbkRqbE9FTWk3MHZhWDMtRG5TekI4Nm8xcjJmZDdDVmdOYXBreU5WR1RwXzBnTnZYYTNLQQ?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 04:57:00 GMT",
-          "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-09T09:50:15.113Z"
+      "ok": true,
+      "updatedAt": "2026-08-09T10:00:19.061Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T09:54:39.873Z"
+      "updatedAt": "2026-08-09T10:00:19.277Z"
     }
   ]
 }
