@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-09T14:00:17.537Z",
-  "lastChecked": "2026-08-09T14:00:17.537Z",
-  "lastUpdated": "2026-08-09T14:00:17.537Z",
-  "generatedAt": "2026-08-09T14:00:17.537Z",
+  "fetchedAt": "2026-08-09T14:25:14.944Z",
+  "lastChecked": "2026-08-09T14:25:14.944Z",
+  "lastUpdated": "2026-08-09T14:25:14.944Z",
+  "generatedAt": "2026-08-09T14:25:14.944Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+          "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 09 Aug 2026 14:18:10 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
           "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Ancient Roman shipwreck discovered off Sicily coast",
           "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 09 Aug 2026 12:27:26 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-          "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 09 Aug 2026 12:12:10 GMT",
           "source": "BBC News"
         },
         {
@@ -50,14 +50,14 @@
           "source": "BBC News"
         },
         {
-          "title": "Rotting food from vast LA warehouse fire creates weeks-long unbearable stench",
+          "title": "An unbearable rotting stench is plaguing an LA neighbourhood",
           "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 09 Aug 2026 00:15:28 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T14:00:16.278Z"
+      "updatedAt": "2026-08-09T14:25:13.714Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T14:00:16.476Z"
+      "updatedAt": "2026-08-09T14:25:13.815Z"
     },
     {
       "name": "AP News",
@@ -148,12 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "Wildfires force 20,000 to flee as British Columbia declares state of emergency - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWFHcGZLTElaS2tjME10OWxDWE9aM3ZHeXpMVzJIUVhLeVMzY0Y1LWxZODh1SmRrdDJvRHVHR09TOEV3STlXNVc1YnRtbFdSYWdpR0E5alVOMDB5QWdBdmw1U3VzZkVQYU5oalA4cU9NNk5CZ0EtZ3dlRDV4R0xkRWNGR1MzTDVVVTd3UWpTcW50QkdjZkFhY0hVbGRmZWtVSmZycjAzcTBHRmdMYTYyT2pB?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 03:10:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "A Tibetan cooperative keeps a centuries-old weaving tradition alive - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ0NRY3JadVZiTlNXWWVSWHRnRk5GUmYzMW1HVlhsWTJBdE9PUUZtX1ZFX0xILWRLVDllaXI3RHJKTjNWODNTMUZtUFgwRkttRHJSNmhFQUZUUGtWcTJ4Rm1KdnJZNWNiaWZlT3BBTDhUd0VRUHNYdDBkMkh5d1RKanlFdk5XZjN1UE5QSE1BLWFhaVhvNHhwczN4MXRkaFU?oc=5",
           "pubDate": "Sun, 09 Aug 2026 02:23:00 GMT",
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS05uS1RyLUd6dmFHSkt1bUxJUzA2RnVrZlhwZDFJQmVrQ19wRmd2RFNJRWQ5RGVoZDRGeXlIWi1laXQySGUxaERfQkszMGdOVElVdmFfRDYzNWdrU2ppQU1DS2VULWtsUnNMTTZXMVAzV1VTdnMzaG5VLW1kMUlScndvenRpaVhGQUxVSFdmb1VqR2thZm15LVZoMlBSYTc0THFQV3RRLXJXaXdhb0V0UFhR?oc=5",
           "pubDate": "Sun, 09 Aug 2026 02:00:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Pilots of helicopter that crashed while fighting wildfire in Utah are dead, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeWR4UU03c2Q4b0ZHWlNtcHRWSlgydk1xZjdMeXNqX0o2dF9sUXpjSzhEdk9vVE56TW1TTjhzQ2FrMzZvWkFiMGF2WGdFZms0ZmtJaXJNZzBKWDJQZ2QxYWcwdl9qZFRWa0lHNG5VdUJVM0RPa2hEWVRzd1o0R3FXSDZMUDg2andYSW5Ca3dnYU9UeE1PZ2l5eVhDSmdNMWh6bEdQZA?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 01:59:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T14:00:16.872Z"
+      "updatedAt": "2026-08-09T14:25:14.241Z"
     },
     {
       "name": "Reuters",
@@ -185,9 +185,21 @@
           "source": "Reuters"
         },
         {
+          "title": "Netanyahu says Israel won't pull out of Gaza before Hamas disarms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 13:09:15 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Ukraine's Zelenskiy says up to 50,000 North Korean troops to be deployed in Russia - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmFXOGFFSU15XzVjYmpRc1VOMF9NWlZWbDJULXIxaldkeGd1RHVtQzFiOTF6T1Zmcmt0T2FZOW5LdzQwc2lZSW4yai1tQVR0UlVGY0Q3eTF4N1AyWFJJS1l2SXZyb1FqQ1FWX1NoSWE3aE9XT0V1aDdiTHBmZkxjbWxCNTFwVk5hekVDcWthT1A4U3haS2ZBcTZ0UVNqZExSQmVIeXV2ZGJQTHpkTjMxVlVqalB5UUVYVHk0bFQzZTQ4aVdK?oc=5",
           "pubDate": "Sun, 09 Aug 2026 12:47:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Pope Leo renews call for Ukraine war to end - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmI1RUZtWkNMSDM0NUxiWUEycWxxa0RmOWZNd0IzdW93UzRmRll6TTVDVzdBdERjMzlOeUlqNWRPT0xSbDhUTjZWSUVsRG1MTGpQVnpQMERDNEI3YjRmWDNGaWtlbWdZdjBSamdqaXRHT0N0NHMxUlZNNEVHemZfSEgyRm0?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 12:43:47 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTd6TExsQVUzWU1OTlNGdzREQVBSY2R5STlrTVBra3ZPOWozaERiVC1zd3FDMmJJOTEwS2pIemlUcUNZZ2l5Y1JGMjljUHlqTWJ4RC1fRjFRNEtuc1JCd1BFOEM5VzRwRnAyc3N0ejEtOGlhT2Y5VHNPWXd1a2puYXNxTS1fQjJpSzFrTlpYUDd5UFlCRFloQWhQZDdNM1FqZEFOYXNpYmEtTmdpUFFockU0TnhKSVpfNmd5SmRJZmp3UQ?oc=5",
           "pubDate": "Sun, 09 Aug 2026 12:22:49 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 12:16:34 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjZyV0hiRlRDWVM4Q055T3FDV1BXeWNZUGVyRVNOS2ZCamVwUXBnbmRZOGw0Vm5IMS12VEwwd25NdlFxNE5MNEVZc1kyclJLVVNjZjZFb1F4dmRPeWNOeFhqblVwRU9NNzItR0gtOWs0X0R3dWNuckVQcGVILXM4OHJUdWM0U2pBQ1ZqWjY2Z3RnX1V1bjMzblBrOGlxOXRPY0hBVDQxVzBMRVhkMWY0bVB4WDJ1WHdwUVV1dUY0V2lvZU9J?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 12:08:09 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T14:00:17.285Z"
+      "updatedAt": "2026-08-09T14:25:14.653Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T14:00:17.537Z"
+      "updatedAt": "2026-08-09T14:25:14.944Z"
     }
   ]
 }
