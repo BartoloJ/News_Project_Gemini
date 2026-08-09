@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-09T16:50:18.008Z",
-  "lastChecked": "2026-08-09T16:50:18.008Z",
-  "lastUpdated": "2026-08-09T16:50:18.008Z",
-  "generatedAt": "2026-08-09T16:50:18.008Z",
+  "fetchedAt": "2026-08-09T16:53:56.091Z",
+  "lastChecked": "2026-08-09T16:53:56.091Z",
+  "lastUpdated": "2026-08-09T16:53:56.091Z",
+  "generatedAt": "2026-08-09T16:53:56.091Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T16:50:16.639Z"
+      "updatedAt": "2026-08-09T16:53:54.182Z"
     },
     {
       "name": "NPR",
@@ -112,17 +112,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T16:50:16.947Z"
+      "updatedAt": "2026-08-09T16:53:54.253Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 15:34:41 GMT",
-          "source": "AP News"
-        },
         {
           "title": "Shanghai cancels at least 1,300 flights as Typhoon Dolphin hits China’s eastern coast - AP News",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdGtvcElBNThyOFktNjcySXRiVGJNaXBiMnZCNnFmQi1QaTc5MVRLck95ZjMtdGtvT0hUdms2dGV1WXJOekpxYm1sZkd1cmR4dzlkMDNJUGRWZzlMT0F1UENhRG5zQXZNc0NuUDlVMWFFTUpacnZNREItSTVaLUhBeQ?oc=5",
@@ -148,6 +142,12 @@
           "source": "AP News"
         },
         {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 13:14:09 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "No Ebola cases found on quarantined river boat, Congo authorities say - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkdnNzFkUkJ2VGx1cE1kSGoteEtCd2dFR25Dc2hEYVdfdDNna2ZnQ0x3MmtOaVJlTTZBMk5fWXl6NmZEUzVoeHhySUZvOXlzWGRPZEVqVDNPbjZmbVVlVHBmcWF1Q1R4cFRCNGEtWlFxV1BMRmhQTVNVX0N5UERaS3NDUzQ0M0lkYjJqdzJlQ2ttUDJIVlhDR2tjdm9USDQ?oc=5",
           "pubDate": "Sun, 09 Aug 2026 12:00:00 GMT",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T16:50:17.408Z"
+      "updatedAt": "2026-08-09T16:53:55.529Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T16:50:17.872Z"
+      "updatedAt": "2026-08-09T16:53:55.951Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T16:50:18.008Z"
+      "updatedAt": "2026-08-09T16:53:56.091Z"
     }
   ]
 }
