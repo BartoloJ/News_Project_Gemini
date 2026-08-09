@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-09T07:32:28.760Z",
-  "lastChecked": "2026-08-09T07:32:28.760Z",
-  "lastUpdated": "2026-08-09T07:32:28.760Z",
-  "generatedAt": "2026-08-09T07:32:28.760Z",
+  "fetchedAt": "2026-08-09T07:50:16.951Z",
+  "lastChecked": "2026-08-09T07:50:16.951Z",
+  "lastUpdated": "2026-08-09T07:50:16.951Z",
+  "generatedAt": "2026-08-09T07:50:16.951Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T07:32:27.499Z"
+      "updatedAt": "2026-08-09T07:50:15.544Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T07:32:27.791Z"
+      "updatedAt": "2026-08-09T07:50:15.853Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Donald Trump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 07:47:19 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Shanghai cancels 1,300 flights as China prepares for Typhoon Dolphin - AP News",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdGtvcElBNThyOFktNjcySXRiVGJNaXBiMnZCNnFmQi1QaTc5MVRLck95ZjMtdGtvT0hUdms2dGV1WXJOekpxYm1sZkd1cmR4dzlkMDNJUGRWZzlMT0F1UENhRG5zQXZNc0NuUDlVMWFFTUpacnZNREItSTVaLUhBeQ?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSnVqV251dkc4c0w3RnYxMS04ZUQ4WlJhdWtJZmphVlVuUF91RExjTHBlbEdQNnYzNzQyUzNsMGdJRDF4Q2tQekJOS3dDMFgtR3FnY2hBQjhVZFk0RmJ1VU56emNZUE5xVGpnV2dtTWl2eGlqOGJ1Zl9sTHN6UlNSWmpGZU1fRUpwNWxuR2VMRFJfUVQzdlZSb3JTT2E?oc=5",
           "pubDate": "Sat, 08 Aug 2026 23:43:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Whitney Houston's new No. 1s album, first-ever Barbie, Clive Davis and more: A Q&A with Pat Houston - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYnFxLWl1TmJSY0t6R25JNHBBSjNOWEpjOERRUWhfSGVwRXdhWnBVMVFKczhFd1poVWFDWW5PTHczWUFZajRraVVQOFcyMC1sOGJ6WVBWdmJDTlloLWlzSzMxWWFPbEZJeUlFNTVPMVhZaGEwTzBidEpXd3FDal9Xb1ppME1DMEdFVGxBS3JNUU1raWN1VkNsUThUWE5Fdw?oc=5",
-          "pubDate": "Sat, 08 Aug 2026 22:00:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T07:32:28.186Z"
+      "updatedAt": "2026-08-09T07:50:16.315Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T07:32:28.558Z"
+      "updatedAt": "2026-08-09T07:50:16.697Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T07:32:28.760Z"
+      "updatedAt": "2026-08-09T07:50:16.951Z"
     }
   ]
 }
