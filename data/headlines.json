@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-09T09:50:15.173Z",
-  "lastChecked": "2026-08-09T09:50:15.173Z",
-  "lastUpdated": "2026-08-09T09:50:15.173Z",
-  "generatedAt": "2026-08-09T09:50:15.173Z",
+  "fetchedAt": "2026-08-09T09:54:39.873Z",
+  "lastChecked": "2026-08-09T09:54:39.873Z",
+  "lastUpdated": "2026-08-09T09:54:39.873Z",
+  "generatedAt": "2026-08-09T09:54:39.873Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T09:50:14.608Z"
+      "updatedAt": "2026-08-09T09:54:24.390Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+          "link": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
+          "pubDate": "Sun, 09 Aug 2026 05:44:02 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Solar eclipse to occur next week. Here is what to know",
           "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
           "pubDate": "Sat, 08 Aug 2026 06:30:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
-          "link": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
-          "pubDate": "Sat, 08 Aug 2026 06:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T09:50:14.652Z"
+      "updatedAt": "2026-08-09T09:54:24.622Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-09T09:50:15.105Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-09T09:50:15.113Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T09:50:15.173Z"
+      "updatedAt": "2026-08-09T09:54:39.873Z"
     }
   ]
 }
