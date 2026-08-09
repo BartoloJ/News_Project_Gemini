@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-09T16:12:55.360Z",
-  "lastChecked": "2026-08-09T16:12:55.360Z",
-  "lastUpdated": "2026-08-09T16:12:55.360Z",
-  "generatedAt": "2026-08-09T16:12:55.360Z",
+  "fetchedAt": "2026-08-09T16:25:15.160Z",
+  "lastChecked": "2026-08-09T16:25:15.160Z",
+  "lastUpdated": "2026-08-09T16:25:15.160Z",
+  "generatedAt": "2026-08-09T16:25:15.160Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Drones spotted over German base days after Leipzig bomb incident",
+          "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 09 Aug 2026 16:18:10 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
           "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 09 Aug 2026 04:32:06 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-          "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 09 Aug 2026 03:00:44 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T16:12:54.078Z"
+      "updatedAt": "2026-08-09T16:25:13.761Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T16:12:54.322Z"
+      "updatedAt": "2026-08-09T16:25:14.000Z"
     },
     {
       "name": "AP News",
@@ -124,15 +124,15 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 14:45:15 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Syria agrees deal with Russia over future use of 2 key Mediterranean bases - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0xUOUZscjJubmJIbnBRTHVjbUV4emlhWXo1MjZNdVpWRFIxOFFYeVlENUR6ZDkxbkMxVkRCcGVXTWJ6dkM2OGRSMHlUZGx5bFl4aHV6dHJONmtPenpsZDZkb0NOY0NUWjhWRGFsZVV6VkM0dy1SSEJPRDBSN2Vod3dNM3B3eW9QYmdlYXFZSUJuOWFKWnA3dkd2ZmU0OGZoR3h1SGVjaEkzdw?oc=5",
           "pubDate": "Sun, 09 Aug 2026 14:09:15 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 13:53:14 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T16:12:54.765Z"
+      "updatedAt": "2026-08-09T16:25:14.466Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T16:12:55.207Z"
+      "updatedAt": "2026-08-09T16:25:14.926Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T16:12:55.360Z"
+      "updatedAt": "2026-08-09T16:25:15.160Z"
     }
   ]
 }
