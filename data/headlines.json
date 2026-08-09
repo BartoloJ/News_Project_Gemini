@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-09T09:09:49.139Z",
-  "lastChecked": "2026-08-09T09:09:49.139Z",
-  "lastUpdated": "2026-08-09T09:09:49.139Z",
-  "generatedAt": "2026-08-09T09:09:49.139Z",
+  "fetchedAt": "2026-08-09T09:25:15.160Z",
+  "lastChecked": "2026-08-09T09:25:15.160Z",
+  "lastUpdated": "2026-08-09T09:25:15.160Z",
+  "generatedAt": "2026-08-09T09:25:15.160Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T09:09:48.018Z"
+      "updatedAt": "2026-08-09T09:25:13.789Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T09:09:48.213Z"
+      "updatedAt": "2026-08-09T09:25:14.030Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,13 @@
         {
           "title": "Donald Trump - AP News",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 09:04:38 GMT",
+          "pubDate": "Sun, 09 Aug 2026 09:22:47 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Middle East News | Latest News From The Middle East Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05b1dqSlZ2X2tIcTFyZ0NfdEQzaGpTQzBhWUV5Rk5tZkowNU95RWd5ZkJqQWRINDFkSGhCM19BazF6VndzclpBNHhB?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 09:20:56 GMT",
           "source": "AP News"
         },
         {
@@ -136,12 +142,6 @@
           "source": "AP News"
         },
         {
-          "title": "As the world rediscovers ‘The Odyssey,’ disabled actors in Greece explore the pain of war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTnE3eUU2V1pueXY5QUl3ZmNVX0lfLWpIYkNEQU9WNnlLVXNJWE0yRzZtSk5kR1J3VEEydWZkcUlpMHRac2l3cnJHeFhWUEVlZ25nZXZSYXk0WDVwWE1ScWZXTXpIdVEzblVPcWYwdU9saGg3WUhMXzlYbldoZmNZdkNKVGh0Xzk4aWx0WlVodjNfNkN4OGt5T2ZkdnpxZDZGTVZ5T2tlZXpUNnhFUUVn?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 04:08:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Shanghai cancels 1,300 flights as China prepares for Typhoon Dolphin - AP News",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdGtvcElBNThyOFktNjcySXRiVGJNaXBiMnZCNnFmQi1QaTc5MVRLck95ZjMtdGtvT0hUdms2dGV1WXJOekpxYm1sZkd1cmR4dzlkMDNJUGRWZzlMT0F1UENhRG5zQXZNc0NuUDlVMWFFTUpacnZNREItSTVaLUhBeQ?oc=5",
           "pubDate": "Sun, 09 Aug 2026 03:49:00 GMT",
@@ -154,24 +154,30 @@
           "source": "AP News"
         },
         {
-          "title": "Pentagon pushes defense companies to boost weapons production after concerns of depleted stocks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS05uS1RyLUd6dmFHSkt1bUxJUzA2RnVrZlhwZDFJQmVrQ19wRmd2RFNJRWQ5RGVoZDRGeXlIWi1laXQySGUxaERfQkszMGdOVElVdmFfRDYzNWdrU2ppQU1DS2VULWtsUnNMTTZXMVAzV1VTdnMzaG5VLW1kMUlScndvenRpaVhGQUxVSFdmb1VqR2thZm15LVZoMlBSYTc0THFQV3RRLXJXaXdhb0V0UFhR?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 02:00:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Pilots of helicopter that crashed while fighting wildfire in Utah are dead, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeWR4UU03c2Q4b0ZHWlNtcHRWSlgydk1xZjdMeXNqX0o2dF9sUXpjSzhEdk9vVE56TW1TTjhzQ2FrMzZvWkFiMGF2WGdFZms0ZmtJaXJNZzBKWDJQZ2QxYWcwdl9qZFRWa0lHNG5VdUJVM0RPa2hEWVRzd1o0R3FXSDZMUDg2andYSW5Ca3dnYU9UeE1PZ2l5eVhDSmdNMWh6bEdQZA?oc=5",
           "pubDate": "Sun, 09 Aug 2026 01:59:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "FIFA defends Infantino against allegations tied to his time at UEFA - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRHZWdENHOFlLNEdUbFU0T3dGWklNRG1qOXdLaHZUN0x5MzNkSExOd3M4cFNEZFhQMENUTHhRQXlsQVBIdks2WkN0aG4tMkE3SVFXVFdrcmdkVjU3WGNTYTBROGFtNGk0SnhrSUlqWFROZllIa1Jqc3hrZjZ5aktVU0I4SUZkcVlKejlqclZqcXhoenc?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 01:36:34 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T09:09:48.631Z"
+      "updatedAt": "2026-08-09T09:25:14.476Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Talks with US won't happen while interim deal is breached, Iranian minister says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRllnWjhRYk9ZMlhGdzE1NGtIRlpuOXJ0Z0ZuVFJsTVlzUUdlN1Juai1YUGE5WHVnajEtejY4ekktRi1FNUlBLWdzdDRFS0dFNUJ4elhjalNudmVsVkpoYTgybnBNVXB6UXBwTEtlUGtwWHVLM091SzFkMTdKOUFrZ2w1WmpkcFoxQkJVUFlvSC1GMzhlYkM5TWRaVnJHMmhXLXhXSXJnd2FxVkJIOHpNeUE2bkFvSVY1YWMtQ2lNWWNHY2Jma0I1cHA2Q0Y?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 08:36:57 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Typhoon Dolphin set to hit China's east coast, triggering flood warnings - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXZOaG5zYjRBVnRvRWkzcnlTVldKWFA4MHZHSEp3VF9NSnhWVW5fX1FNTlhmdUhYOEZfWWV1S2cyUXQtSWxCbGktRnhheHo3M3A0VHpYUGx5NHhFdXkwSUhLR25jajJoNlhkZF83UFkxSlN4eVFyd05tdjNpMUNIUVNBN0x3cjFJUWpfQ3AtbkRqbE9FTWk3MHZhWDMtRG5TekI4Nm8xcjJmZDdDVmdOYXBreU5WR1RwXzBnTnZYYTNLQQ?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem8tQ281dWR1RWV5ZVFHX1BEQWZnNU1RaW1uZm40S0VjZzZEbGxVVHVLZkJDZjBkRzM4bUNrNVIwR0RSbDM1MFo1UVdYUV8yLXZKc1QyZEZxcFlHOGgtZzcxYk0zNzZiWlc3TExjMlU4cGhYS0tzT09feE93US1TMEh0eXlGMk12VHNRQUdkcDdmM2ZDRGhBcExEazVUOVBaTlNXc2ZZbmd4SDBxcW1kU1pFSHJZT0dqU1E?oc=5",
           "pubDate": "Sun, 09 Aug 2026 05:44:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Indonesia closes all access to Mount Bromo as wildfire expands - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0Q5N0tzekVmWnI5R18zRGhBUWxITXNyNkg4eU45Vkc4UlVZS29LR1NsYmY2MXJPcFRXbUdrNTZGV0RVZmh1SFlBWHc2YUN1T2NIWl9KZnl2bS13WExvZC1oblMzbGRqczN1MjhGYUZoNVd1YTRWYk90SmZ4VGxTM1ZNdlAwSUxtOUdEXzJrTklmWXQ2RGlhUUxWLW1lbkNtNExJTDE3RnVtOF9IdHhzZEJtQQ?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 02:30:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T09:09:49.023Z"
+      "updatedAt": "2026-08-09T09:25:14.859Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T09:09:49.139Z"
+      "updatedAt": "2026-08-09T09:25:15.160Z"
     }
   ]
 }
