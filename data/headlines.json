@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-09T18:00:19.333Z",
-  "lastChecked": "2026-08-09T18:00:19.333Z",
-  "lastUpdated": "2026-08-09T18:00:19.333Z",
-  "generatedAt": "2026-08-09T18:00:19.333Z",
+  "fetchedAt": "2026-08-09T18:25:14.822Z",
+  "lastChecked": "2026-08-09T18:25:14.822Z",
+  "lastUpdated": "2026-08-09T18:25:14.822Z",
+  "generatedAt": "2026-08-09T18:25:14.822Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+          "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 09 Aug 2026 18:03:55 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
           "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
@@ -38,12 +44,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-          "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 09 Aug 2026 13:08:21 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Ancient Roman shipwreck discovered off Sicily coast",
           "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 09 Aug 2026 12:27:26 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T18:00:18.030Z"
+      "updatedAt": "2026-08-09T18:25:13.635Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T18:00:18.227Z"
+      "updatedAt": "2026-08-09T18:25:13.756Z"
     },
     {
       "name": "AP News",
@@ -136,12 +136,6 @@
           "source": "AP News"
         },
         {
-          "title": "Cyprus natural gas to supply Europe by first half of 2028, minister says, as EU seeks new sources - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0xBMHlUTzZVelZLcmxkM0k2cTB6eUgxSG9wVW5veW1xN3BzX0NaNzc4SGEycjBrQTNHVWlFVDZtWmZZQWRlTnB1cGNNLU1uXzdVb1ZmdC1RYzhLdFh3dk5vNWFTRklQSHhTbnpQMncxVlNYVURhaHBNMDRXQVdmTVFiLXBWUXowZDhoX0NWNHplWUNRbC1iTUttNzNRYzRLcUdrZTJ0bw?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 15:51:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Boat capsizes in New York Harbor, woman and 5-month-old baby die - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVZYOXIzQjktcGoxYlBqbS01YkNxejVwd0JtWTNDMWJNLWtsczRyZWVkYloyTExOU3pvcFJWUkVZLTl6NXEwUi1JZUdGbEYzZGg4NTExTHlhZG5FVm5KRExKdmlfajdWdDJEZ0hfai1kZlhpamZmVjR4SHRaNGJmTUc4NW42SGZObUY1d0E3QXZDQXpmN0dYX1kwbC1VeXJqNXc?oc=5",
           "pubDate": "Sun, 09 Aug 2026 15:47:00 GMT",
@@ -154,20 +148,26 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 15:34:41 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Russia, Ukraine exchange overnight strikes that leave 7 dead, many injured - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUUwZGVYSU5sMHpMazg3MEo2YkJ0RlJEOGloN2UxcXVNSENMSWYwdFM2aFdTa3g1ZjdER3FxS3ZDS3c1cWZoSy1nVUFWODlOM2g4VzRmN2VvYWZxaGJ3aHdvX2VSdTJlN3RyOVhsQW5NTllELTI5U1d0VmxwYWlsRWNVNnlQWk01eGtMQ09mYV9JLVFETDJncU4xaUpab0Vrc2lGVw?oc=5",
           "pubDate": "Sun, 09 Aug 2026 15:18:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Shanghai cancels at least 1,300 flights as Typhoon Dolphin hits China’s eastern coast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdGtvcElBNThyOFktNjcySXRiVGJNaXBiMnZCNnFmQi1QaTc5MVRLck95ZjMtdGtvT0hUdms2dGV1WXJOekpxYm1sZkd1cmR4dzlkMDNJUGRWZzlMT0F1UENhRG5zQXZNc0NuUDlVMWFFTUpacnZNREItSTVaLUhBeQ?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 15:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 14:45:15 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T18:00:18.660Z"
+      "updatedAt": "2026-08-09T18:25:14.202Z"
     },
     {
       "name": "Reuters",
@@ -188,6 +188,12 @@
           "title": "Netanyahu says Israel won't pull out of Gaza before Hamas disarms - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
           "pubDate": "Sun, 09 Aug 2026 16:05:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGs5LVJQSnlqLXhUVEdVN1h2OTdZaXlLVzVnaW9xVk50VGdvM004MWpQNXIyLUVxMjV1aGhoSXhVcmhlMmZqNVltVUhyblg2MmtIbjBpZldLSmRLLWxCX0xvVGhmVFJKbk81S1NQQnM0TTYzM0tTLUotcC1DQ1JGVGx6dG8xVktZOHJydHNnODNvXzhKWDhXVENkX2RWRnJBM1Aw?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 15:28:24 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTHltYW1BZ2tteEtoRWZwSUVpMy1vMVZTTF9HUzJYcUxZeGN0TGdPTzJ6dzB4clFRTWNDRkR1ZUVRT1BmbnNiZm9tQkZRdFZHSmVydXdDOHVnZERHVElJZm0zSk1HdG51LVZCRjVpakpfWDZiWXh0X0lmN0dQangwM01QNU5DY1BmNmdCR3FOX0FYQjdCNF9teE5zc0tTOXA3WWQyYUswOS1oYzVKUzdnNFdGdU5KREFyUnlyWVZSZld6c1NPa3Q4?oc=5",
           "pubDate": "Sun, 09 Aug 2026 13:09:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Ukraine's Zelenskiy says up to 50,000 North Korean troops to be deployed in Russia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmFXOGFFSU15XzVjYmpRc1VOMF9NWlZWbDJULXIxaldkeGd1RHVtQzFiOTF6T1Zmcmt0T2FZOW5LdzQwc2lZSW4yai1tQVR0UlVGY0Q3eTF4N1AyWFJJS1l2SXZyb1FqQ1FWX1NoSWE3aE9XT0V1aDdiTHBmZkxjbWxCNTFwVk5hekVDcWthT1A4U3haS2ZBcTZ0UVNqZExSQmVIeXV2ZGJQTHpkTjMxVlVqalB5UUVYVHk0bFQzZTQ4aVdK?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 12:47:44 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T18:00:19.075Z"
+      "updatedAt": "2026-08-09T18:25:14.609Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-09T18:00:19.333Z"
+      "updatedAt": "2026-08-09T18:25:14.822Z"
     }
   ]
 }
