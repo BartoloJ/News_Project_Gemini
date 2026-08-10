@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-10T07:17:25.261Z",
-  "lastChecked": "2026-08-10T07:17:25.261Z",
-  "lastUpdated": "2026-08-10T07:17:25.261Z",
-  "generatedAt": "2026-08-10T07:17:25.261Z",
+  "fetchedAt": "2026-08-10T07:25:13.077Z",
+  "lastChecked": "2026-08-10T07:25:13.077Z",
+  "lastUpdated": "2026-08-10T07:25:13.077Z",
+  "generatedAt": "2026-08-10T07:25:13.077Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T07:17:24.336Z"
+      "updatedAt": "2026-08-10T07:25:11.761Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T07:17:24.415Z"
+      "updatedAt": "2026-08-10T07:25:12.011Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Donald Trump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 07:18:06 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Chinese users of AI companions bereft after government tightens regulations - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEQxanVDVmhMMGZEaUdxeXdFV3g2QThxUWpsQ0lPNjgyNnNOeVVpdU1Od2FOc3gxS29vV0MwaDRCMGdjR0VlWkJTWk5PLTR3X2pvVEhOOVF3NWFTMFcwQ19abjU3RkE0M1lCYldGTHZkTXFEclZyaVpRLTh2bDhzLUR0LUZ1T3AyU1V3RExWYXM0emxiWV96ckxWOFdZdmppNndDd05SQQ?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbkxYOXZ3LS0wYjlLbko5S3BsRkVnZERxVlBHbGxBRW9Oa19fNkhIRFR4RTdER1hrakdITzZfdFYtM3JRSUtYZFphVExsZE5iMTNid3A1ZmFsbDJseGZkNm05bVYyNVZiOUdXTEVKVFdnUjdhYUY1dWtOTjhJREFyRFZ0amVYUkhwMzlMT2lIajQzYl9PMU1acFdOa1dEb3VJ?oc=5",
           "pubDate": "Mon, 10 Aug 2026 03:40:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Wildfires burn across western US and Canada as residents are evacuated - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjJ5UUtGSnBqYXN1Zjh2aG5TM3RlaVMwbWNHeWk4ZDBwcW5XVVdzY3RjSWsyYzljWmhGYmlGXzZ3Xy1vRDFtRUM0RnIwTzRkQTVmNzBBSjBTYzJQeGE5emhKODdhT2t2aUFqZ0lKcDFCSlVkWnM5bGpUTWlpeGtqbkQ1UlBteEZhUmxXYVFhV1o?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 02:47:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T07:17:24.816Z"
+      "updatedAt": "2026-08-10T07:25:12.482Z"
     },
     {
       "name": "Reuters",
@@ -175,13 +175,19 @@
         {
           "title": "J.P. Morgan lifts 2026-end target for S&P 500 to 8,000 on AI, earnings strength - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1QwcG1rS0tYLXJ3R0JXc0IzMDhhNm9XMW9SX3RiMW1abW9VZEQ4OHRGd2FzSWFsNVNCUXFUQkhUdEFTXzVJQWwwR1JUX2t0UWpnNkxmVlZmSTVSTU9PUS1qTk9mOERWclA0UzNGNVAxNm45RGdiNmd6bWZFX2lnbnVWUFR1SHB5WGZEOURwV09iYU9KdkpHTlBTeUtCR2MteWI5TWFTQmNJSnRSSUE?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 06:20:00 GMT",
+          "pubDate": "Mon, 10 Aug 2026 06:21:44 GMT",
           "source": "Reuters"
         },
         {
           "title": "China is balancing Asia's crude oil demand by itself - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0lBeUJuUi1Nek03cm1rOF9xMFhxS2RNa1NUNkxqQk9UT1dYOENkMHduLUx3ei12d3VQZmxLSlV6cFd3cDZXc05JcnJ3YnRXRjl2b3VMb2M0T1R3OUpVUnhfVWNxY1d0akVsQ1U0V1hkOEE1eUZWN2FySzNXcHRmLXJpNlR2SWlRekRYbkVld1VqNDI5S0RFdWFVUHBJQXF2bl9FMDZJUmotVzlfZlBidUhVTWpRTVMzYWZlTQ?oc=5",
           "pubDate": "Mon, 10 Aug 2026 05:35:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gunman fires inside Thai government office as country reels from school shooting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWG9raTBHTG1vQW4zcmlxaGctSVFqLS05NjNxUGo5SjJHaE0zVUhGdlJfdnhYNzlYWnRqRmFMekpPOHFGdWVBRXZaUWxZRDNuRDBVYktYc1NlYmd4T1l5cUxKaWFKT3lVRGFFV1NSZjZtdHF3Wk5jbzRCNDR4bFRLRlpYUnEyZ1JIU1NyYW5sTkxpYnc2TjRYZW15X2ZLX2N3djFMOVRqcktWN1I4Y1oxUExwNHJPRGplSlhNaUM5cWZ5dzdNTV9JUkV0bw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 05:27:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0Q2VXp6QlQ0VW13LVhHdzI5SkZFZTZHSlhialczaXc3VmRZczBHQTVZYVlYa21jMjJNOGZsSU53V3dwZ0JlaXh0cncxRnZ3NFRzQTVyZzJyenNpWm1TQjMzQmRCeXcxV2VlZGt0ZDQwQ0otbkFWSFBxTExlTVVSSEZOcU9ubW9qRmlOaTczcDFUZWVhMkJoX1ZNMXZZWEZiYVk3MWp1THZZQmNxVWFtWFdib2RCbExEdWUtUw?oc=5",
           "pubDate": "Mon, 10 Aug 2026 03:15:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Rupee anchored by central bank hand, traders watchful of oil ructions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemZSaHlNTUFDLUNEeE02ZnFaTkxPQlhCSk13VFJtWFpURVBRR2pfVVltSzVlQVRwbjJLcVZSZ19ncGFoc21Ybk5xN1VVUHQyTERVaENnbXE1V2ZJNFVoWGlQY3IyY3BGMUZzVEcyZktnb1RuZkhDT2FQRHVrd1BuZnU4anpKdS0yTHdkRjVSVTZVSmhtUlZqYzRvdjRiejRBeHlDUGFBMlpibXc?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 02:55:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T07:17:25.197Z"
+      "updatedAt": "2026-08-10T07:25:12.879Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T07:17:25.261Z"
+      "updatedAt": "2026-08-10T07:25:13.077Z"
     }
   ]
 }
