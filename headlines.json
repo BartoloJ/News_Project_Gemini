@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-10T15:38:36.261Z",
-  "lastChecked": "2026-08-10T15:38:36.261Z",
-  "lastUpdated": "2026-08-10T15:38:36.261Z",
-  "generatedAt": "2026-08-10T15:38:36.261Z",
+  "fetchedAt": "2026-08-10T15:50:15.991Z",
+  "lastChecked": "2026-08-10T15:50:15.991Z",
+  "lastUpdated": "2026-08-10T15:50:15.991Z",
+  "generatedAt": "2026-08-10T15:50:15.991Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T15:38:35.003Z"
+      "updatedAt": "2026-08-10T15:50:14.755Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T15:38:35.107Z"
+      "updatedAt": "2026-08-10T15:50:14.816Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T15:38:35.617Z"
+      "updatedAt": "2026-08-10T15:50:15.289Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Lilly's weight-loss pill gets UK regulator's nod - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZUUEFXaGh3M2FrQlNiMVNBek9tTElJR3VITmx0MXljVGNnZnZBUmk3WFZzZzluWnBnUVZrNVh2ZzZwc3ZfNnNEcjNLUUxMbVhOT3JGS1VVUEJ6NUdoMXc0TDd1NTQ2OGZNWjlPWS0yTllEWm1ZWUhYQ1RReU95ek1oVFRTRWJBZjQ5c0l4bERleVNfZjhkQ0ZUeXRyOFBxNHJ3OFRhRU1TNXc?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 15:21:04 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Oman says grounded tanker oil spill covers 400 square km - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3dqbHVnc1RTLW5XOVYycjU1dExQZEUxRy1ORVBiWEtWLWFLQ3VoVGtTaFk5U3hQcThZRGdobnlSczZwYkJDOWR2OGtXbWhVMmdqTFV0U0xhVWtNMXQ1Z25GVnNtME0xWjJIV3RtNnpUUHFtOGFOSEtlblpZN3F0RUp3MzRreDRXVXRCaFlVczlOTmRSczlCQTBvODF4bnM0ZUJPeS1qNC1ZSzhwZXNEV0RoRDV2a0swVVFYTHNUU1dvcEFaT0xzY1VxTQ?oc=5",
@@ -197,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "India's Vodafone Idea narrows quarterly loss on bigger per-user revenue - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUV1a3dWVDdSQ0ZJTzRvQWlQNFZOZFpYZWdRNDZNbnVKd01BWkF6YjdBeFp4MlJ3REhpNS14Tmg0TDlFSEpPMUdKU2ticC1oZnYxclRWV2o1dUZuTVZYRWhtdUpTbDFndVBaTU1NX1dlYzBPc2E3bnVtZll3aHczVGtxX1l2M3ZCTmg3VkdPODlHbXRsSkpndXhaOTRDUm5ySDRqc192aVZQMDNheTV5aEQ5RS1iZw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 14:26:12 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "July US container imports hit fourth-highest on record, Descartes says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFp5eTRqbmJxRHF0bkxpcUZmQ1NEX1NrVVlRdFltLTY4V3dROGhnT01PUTZxZzVkN3R3bDcyRHdWNVIzclktOVdub0pWLW5raUJ5WWxNU3JLb3hQVll0YkVWV2pQc0dSaTJGaFJoMXJnSVFsUVVGYkZjWDFqck0wRkc5OWhfaGxPOWp5S0Z4ZzBMRnZwNGRqN0lDYk1MdjU3end0cEhsaVVqRGkyZ0V1UmkxWlYxNFVRTlJZSElSWHI5alV4eHc?oc=5",
           "pubDate": "Mon, 10 Aug 2026 14:24:27 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDdMbHg5dEV5Z2x3bW1Ua2pDc0Z4bXhTX0pCWkhfc01fY1pBWGtNLVZRQ3BOcXJHS2FvSlRyWWxlZDUyd09aQ3FNSHRjUDBTQnMzci1BY1MyYnRtekRZN1dfNEwwdktkMGRUVkx6Sk5HWmd3RFoyS05UYm15aGQ5VENNWGFkcDlqbmxpQzkxLTYwelZtQTE0YlRSTndRNkQwZGpHSnJqdTQ0YlpYc3ZhczRfb0o2UQ?oc=5",
           "pubDate": "Mon, 10 Aug 2026 14:20:40 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Bristol Myers to build $2.3 billion manufacturing site in Houston - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQWpzV09IWVJGNWNUYXV3cURuN291SVoyLWIwYnBvZGt4aE1YbUgwNG5WX3JFTEc3VURCZE5UNTc3RHJjM0QzY1hPQjZBMDJyU0pxNE9XczEtRlJTQjlsQXFtR0VVS29vWjBUMVVlbHktZEcyM0FseGQ0cDh1WVB1WktsUi05TWd5TFJvMFZsNko0eVNQMXNnVjN6cFVaV0tnTFk4TWNFWjZOLTlQcEM4?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 14:19:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Lilly's weight-loss pill gets UK regulator's nod - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZUUEFXaGh3M2FrQlNiMVNBek9tTElJR3VITmx0MXljVGNnZnZBUmk3WFZzZzluWnBnUVZrNVh2ZzZwc3ZfNnNEcjNLUUxMbVhOT3JGS1VVUEJ6NUdoMXc0TDd1NTQ2OGZNWjlPWS0yTllEWm1ZWUhYQ1RReU95ek1oVFRTRWJBZjQ5c0l4bERleVNfZjhkQ0ZUeXRyOFBxNHJ3OFRhRU1TNXc?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 14:18:17 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T15:38:36.050Z"
+      "updatedAt": "2026-08-10T15:50:15.762Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T15:38:36.261Z"
+      "updatedAt": "2026-08-10T15:50:15.991Z"
     }
   ]
 }
