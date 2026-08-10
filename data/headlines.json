@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-10T10:00:21.649Z",
-  "lastChecked": "2026-08-10T10:00:21.649Z",
-  "lastUpdated": "2026-08-10T10:00:21.649Z",
-  "generatedAt": "2026-08-10T10:00:21.649Z",
+  "fetchedAt": "2026-08-10T10:12:22.611Z",
+  "lastChecked": "2026-08-10T10:12:22.611Z",
+  "lastUpdated": "2026-08-10T10:12:22.611Z",
+  "generatedAt": "2026-08-10T10:12:22.611Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 10:03:58 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Former Thai MP allegedly kills official and confesses on YouTube",
           "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
@@ -20,15 +26,15 @@
           "source": "BBC News"
         },
         {
-          "title": "At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 08:50:02 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "China evacuates one million from homes as massive storm arrives",
           "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 10 Aug 2026 07:23:54 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+          "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 05:16:40 GMT",
           "source": "BBC News"
         },
         {
@@ -48,41 +54,17 @@
           "link": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 09 Aug 2026 21:26:56 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-          "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 09 Aug 2026 21:25:04 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T10:00:20.412Z"
+      "updatedAt": "2026-08-10T10:12:21.378Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
-          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
           "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "In a competitive Maine Senate race, women voters could be the deciders",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
-          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
           "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -93,8 +75,26 @@
           "source": "NPR"
         },
         {
+          "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
+          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "In a competitive Maine Senate race, women voters could be the deciders",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
+          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Who really needs testosterone?",
           "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
+          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
           "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,21 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T10:00:20.668Z"
+      "updatedAt": "2026-08-10T10:12:21.550Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "UEFA, CONCACAF and AFC accuse FIFA of 'deception' and 'breach of trust' over World Cup plans - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXJCME51SU1HS2NsdmdyWDYxeXRWaFF3QVBfTDdGWGNJejZYdEtJZTUzaTZlSjA5WHZxSzc5RXF2blhlcWctVzZia2NtRDVsQlRFSFIxTUVsSmNORzItVk15WDdfd0dYTzFaQWJqcUpIRS00Z0JDOFk4YXNESjRfcldvZTVNNFZKcEVYNzhVaUQ2NDl5SE5IelVrRjJGLUdGb1JBSg?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 09:06:00 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 09:58:29 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 08:58:45 GMT",
+          "title": "UEFA, CONCACAF and AFC accuse FIFA of 'deception' and 'breach of trust' over World Cup plans - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXJCME51SU1HS2NsdmdyWDYxeXRWaFF3QVBfTDdGWGNJejZYdEtJZTUzaTZlSjA5WHZxSzc5RXF2blhlcWctVzZia2NtRDVsQlRFSFIxTUVsSmNORzItVk15WDdfd0dYTzFaQWJqcUpIRS00Z0JDOFk4YXNESjRfcldvZTVNNFZKcEVYNzhVaUQ2NDl5SE5IelVrRjJGLUdGb1JBSg?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 09:06:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T10:00:21.087Z"
+      "updatedAt": "2026-08-10T10:12:22.112Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T10:00:21.458Z"
+      "updatedAt": "2026-08-10T10:12:22.554Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T10:00:21.649Z"
+      "updatedAt": "2026-08-10T10:12:22.611Z"
     }
   ]
 }
