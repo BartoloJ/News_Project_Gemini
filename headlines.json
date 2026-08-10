@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-10T09:25:18.378Z",
-  "lastChecked": "2026-08-10T09:25:18.378Z",
-  "lastUpdated": "2026-08-10T09:25:18.378Z",
-  "generatedAt": "2026-08-10T09:25:18.378Z",
+  "fetchedAt": "2026-08-10T09:50:22.923Z",
+  "lastChecked": "2026-08-10T09:50:22.923Z",
+  "lastUpdated": "2026-08-10T09:50:22.923Z",
+  "generatedAt": "2026-08-10T09:50:22.923Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
+          "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 09:33:25 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say",
           "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
@@ -44,12 +50,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-          "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 09 Aug 2026 20:58:18 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
           "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 09 Aug 2026 19:57:28 GMT",
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T09:25:17.243Z"
+      "updatedAt": "2026-08-10T09:50:21.976Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
+          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
+          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
           "link": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
@@ -69,8 +81,8 @@
           "source": "NPR"
         },
         {
-          "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
+          "title": "Who really needs testosterone?",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
           "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -83,18 +95,6 @@
         {
           "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
           "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
-          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Who really needs testosterone?",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
           "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T09:25:17.457Z"
+      "updatedAt": "2026-08-10T09:50:22.059Z"
     },
     {
       "name": "AP News",
@@ -167,62 +167,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T09:25:17.915Z"
+      "updatedAt": "2026-08-10T09:50:22.505Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Nigerians' cost of living pain deepens as election looms - reuters.com",
+          "title": "Iran says no reason to fear Pakistan-Turkey-Saudi security pact - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0ZKNWFNbV9WOEFpMnZYa3NkbzBGWUNiVnVsMlJtT1IzRDliNHJIM0g0eUZ0N2lNcWxSSEd5QVV4QW1pZFRCSTQ5WndIdGtVRTFMcmYxUVVVZzVQazFQRy1vNG5Vd1hhbG9ObG14SnJnbl94VDJLZnJ6dmN4ZUJKTXRiTFBrTkdkN0FyWkFua3FhR3B6aHN5Z05ETmpNUkxLTlViUm4xdGtINktfUDk2UmRUOGtqdw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 09:21:03 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UK's Revolut gets French bank licence in European expansion drive - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLW0ydllRVHUyVU1yOVZwTlNpQkhXWmFXVTJ5S2w4Mm81Vjc0bzBCUEhyUktKWFlrZ0lEZnpvc2lKYktjRzkwVERnaEw0aEVvSzR0UW9nR2J4NGxWSU90QTBadjAzekhXRzBzLXNjOG55YTVqWEdpRlNPX25sUDJNQUdSZ01GNGI5NFZMX0Nn?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 09:19:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nigerians' cost of living pain deepens as election looms - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUEzSDdKQmM1cmFtSUpxRGRqTVdWelRGT2NHVUNDZV9JaExndU1UNXdocmxpMXVRRVNUYmtLSlhpdXlTLU9xZEphcEo1eUM2a09Zbk9LYlZwQmltM1l2MkVzWFU3Y3J2WDdJdGx0YmROcjM3MTJRUzJndi1QZ2ppdDRuUmJCTHFOMFJTQl9JOTdvVlgxb3B5WWVseUhOWm8?oc=5",
           "pubDate": "Mon, 10 Aug 2026 08:23:03 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran says no reason to fear Pakistan-Turkey-Saudi security pact - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0ZKNWFNbV9WOEFpMnZYa3NkbzBGWUNiVnVsMlJtT1IzRDliNHJIM0g0eUZ0N2lNcWxSSEd5QVV4QW1pZFRCSTQ5WndIdGtVRTFMcmYxUVVVZzVQazFQRy1vNG5Vd1hhbG9ObG14SnJnbl94VDJLZnJ6dmN4ZUJKTXRiTFBrTkdkN0FyWkFua3FhR3B6aHN5Z05ETmpNUkxLTlViUm4xdGtINktfUDk2UmRUOGtqdw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 07:59:43 GMT",
+          "title": "South Korea, US to conduct military drills amid evolving North Korea threats - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGVUcUxFVnozbGQzbUFJeTV2am9vY3lPQ0N5VU9NS1d0bUVTbU9qcGFGZEMwX0REUTBWa0h1WlBGdm5wY3pweERFRWNqUGZUb0NRNDBHRm5NaTZRdFY1VUt3ZFE0TkFtVnFOZ0o2a3lNSXhTSHZTblgyeGVkTEFqcTgxcDJid3lkbE1OMXhLSDQydnUwSUlCeGtOMXp0UjNtc1BHd2J5ejdCS0Izd1hvVjlJc3lRYXFWQVkyS1JwX05CWm5LVEE?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 08:08:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Revolut gets French bank license - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLW0ydllRVHUyVU1yOVZwTlNpQkhXWmFXVTJ5S2w4Mm81Vjc0bzBCUEhyUktKWFlrZ0lEZnpvc2lKYktjRzkwVERnaEw0aEVvSzR0UW9nR2J4NGxWSU90QTBadjAzekhXRzBzLXNjOG55YTVqWEdpRlNPX25sUDJNQUdSZ01GNGI5NFZMX0Nn?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 07:41:07 GMT",
+          "title": "Mohsen Rezaei appointed as secretary of Iran's top security body - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX01YNGdkRGZ6S1FUOFNoaHVnTGRjSFJISXI1QTVqVDFfMzI0bTBhZFhrcDJRNTkzcmh0YmpjN1RMQzZqak5GSldnMXVMMnpkTTRoMWZQQ01tLUFhLUpzT1NPWDNSQzZGZmZHVnR3ZXZGbThMNHpVdFZkSjZOd21EUE96TWI0czAyUkVGR0dJZFlsZDVaNEkxbWVvNmlyb19nZTlEOEVoa1VaMzI3MDNGWA?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 08:01:01 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Thousands of youth march on legislature in India to protest alleged job exams wrongdoing - reuters.com",
+          "title": "Thousands of youth march on legislature in India to protest alleged job exams wrongdoing - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSlV6ekdTcVZKdmNXeUJqZVZDRDRBbGRhbFBnQ2JNYU9SOF92d1ZIWWg0cFoxbjNlZ05TMUN2Zmg1UjViUHhEVm1DRTNUTWp2UE55czVOdmxydHFRQXNFc3YxZU10VTN1SmdITkdqa2c2MTR0RXpidnNBaEZKQjJNMEdlOHV4VXptbGdTem8yRDk0YVAwZllQdndWTWpVVUhlRDVjT3J4aXBSVG5WWVY1YU9tbVhwWkllMGUwNVpUcnNoX0tfZGZkak4xd3BDeXpG?oc=5",
           "pubDate": "Mon, 10 Aug 2026 07:28:23 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Ukraine kills 12 in drone strikes on Russian city of Nizhnekamsk, mayor says - reuters.com",
+          "title": "Ukraine kills 12 in drone strikes on Russian city of Nizhnekamsk, mayor says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWEzU2g0WHZKaTFWSUtaNmZ2cHY1dWlHM1MwYmxLQzZuODlIQnZXUnduMTZXZl9GcnhWbGJGaDBBZWhaUVRjdWhkZWJ2bFNWLXZJRlU1RkFuVGdBRkZBdGJLR1JoY19QT3ZnUFJ0U0FJUmh4enlCZjVfdVRELTBmVEMwSm4xVkVsZlFZWnlNVXZiNzFHalpVZnJFZVhTMUx6UXktTjh0MzRhb3YzXzFZU3U4a1hRNGp6NlBsanZoN1hjdw?oc=5",
           "pubDate": "Mon, 10 Aug 2026 06:57:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "J.P. Morgan lifts 2026-end target for S&P 500 to 8,000 on AI, earnings strength - reuters.com",
+          "title": "J.P. Morgan lifts 2026-end target for S&P 500 to 8,000 on AI, earnings strength - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1QwcG1rS0tYLXJ3R0JXc0IzMDhhNm9XMW9SX3RiMW1abW9VZEQ4OHRGd2FzSWFsNVNCUXFUQkhUdEFTXzVJQWwwR1JUX2t0UWpnNkxmVlZmSTVSTU9PUS1qTk9mOERWclA0UzNGNVAxNm45RGdiNmd6bWZFX2lnbnVWUFR1SHB5WGZEOURwV09iYU9KdkpHTlBTeUtCR2MteWI5TWFTQmNJSnRSSUE?oc=5",
           "pubDate": "Mon, 10 Aug 2026 06:21:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Europe’s extreme heat could wipe out EU growth in 2026, Triodos bank says - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPczMzd050cV81UVNrTTMwVlVvdHl0T2xBWVg5dEc2UUN2bVRfN0pjMUZvY1c2ZFNTSHg2ZXlXNnNtMjBRX2NDMjFVNDU4TkF4LThfSVpJVXV4dGU0RmZVWmdNVUdjOGxGSmpyNFhzZzVhWXNEcGpPQkNnUHhZUmZSSVFJaFdTNC1QSVNOZnNnZ3pabUN6TmZocWdzVnJRRjJxUGxEWUtXMld1VG1JeEt1czFTOA?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 06:20:01 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "South Korea's Lee wants military airbase relocated by mid-2028 for chip cluster - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdnZjclJ4ZTNzOU1TQllqMUJkMTRUWDVXakRfV21XQWpXWGg1OVlzYUhDV2RPSTlwQnhrVVhCZm5ZMWVVZmNPMUlPN2FVZ0RtOVBOTHNWRzZmRXRJYUh5bU00UW0yYjY2SC1jcEE2ekIxbHpyNTM1YzQ3TTdOaExTN3o0cnM2WTRsNExXVFVSN0wtclpxVDctZWl6Uk9FM2RMREIwbGV0Z3NhRW9Xa0VENUhFdGo4SV9sdHV2QXctSTJnVERCM2I1LQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 06:13:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T09:25:18.328Z"
+      "updatedAt": "2026-08-10T09:50:22.877Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T09:25:18.378Z"
+      "updatedAt": "2026-08-10T09:50:22.923Z"
     }
   ]
 }
