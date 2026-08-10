@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-10T17:50:17.424Z",
-  "lastChecked": "2026-08-10T17:50:17.424Z",
-  "lastUpdated": "2026-08-10T17:50:17.424Z",
-  "generatedAt": "2026-08-10T17:50:17.424Z",
+  "fetchedAt": "2026-08-10T18:00:22.860Z",
+  "lastChecked": "2026-08-10T18:00:22.860Z",
+  "lastUpdated": "2026-08-10T18:00:22.860Z",
+  "generatedAt": "2026-08-10T18:00:22.860Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+          "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 17:50:29 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
           "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 10 Aug 2026 12:23:21 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "World's oceans hit record-high July temperatures",
-          "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 10:24:46 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T17:50:16.204Z"
+      "updatedAt": "2026-08-10T18:00:21.524Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T17:50:16.309Z"
+      "updatedAt": "2026-08-10T18:00:21.777Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T17:50:16.735Z"
+      "updatedAt": "2026-08-10T18:00:22.236Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "US court rules Meta, other tech companies must face thousands of lawsuits over social media addiction - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNanM3a2JVejlVN1lRcUE2Q2xxMXprZ1lPY25kdWtYNk41RHBnenZsWWk0R3h0dWFpSS1Wck5QNUdSNTFmd19fbHRIMjh0UnpCRUNNdUFnRHQ4dnRCcll1SkRwSURPOW5CN2FIZ2JHbTdFcC15RVpyOXJhTlNnODBjWXl5QTRZUzNjZklPMklfUWZXX1NMbGdfd2VkeFZ1LWFKclpWY0dmY2JQcDk4bm9janE1WTVrUHBBUE81Nw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 17:22:27 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Mohsen Rezaei appointed as secretary of Iran's top security body - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX01YNGdkRGZ6S1FUOFNoaHVnTGRjSFJISXI1QTVqVDFfMzI0bTBhZFhrcDJRNTkzcmh0YmpjN1RMQzZqak5GSldnMXVMMnpkTTRoMWZQQ01tLUFhLUpzT1NPWDNSQzZGZmZHVnR3ZXZGbThMNHpVdFZkSjZOd21EUE96TWI0czAyUkVGR0dJZFlsZDVaNEkxbWVvNmlyb19nZTlEOEVoa1VaMzI3MDNGWA?oc=5",
@@ -197,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "BSE to replace Wipro in India's benchmark Nifty 50 index - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeGhIN19pS1ZwOUhZbGZZcVV1LW5DaGxLcHEtdHpGVk9qVGdqaEx5NG9Xbm5XWkN4M0c3NmRJS2xkVUhsTmppMlZSeFVtV3pPbnVTdU8xNVZxSC1sUTVHSnhQdE9LQzhOLXhCOHdWTXVhcjJUNE96V2hqeGMya2pQblNIQTEtUEhUSllQUWRuYThadnFqNTBuVUdham9PQQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 16:50:20 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Berkshire shares rise to highest since Abel replaced Buffett after stock buybacks, strong earnings - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPakVwYWtLMTU4bEszMVIyVVdKQ2IzVU1jOG5nV1NDWDlBVG9GbzhSaVhlQjRMeVVzbDhfMFFvbVhVSXlYVG1wd2RQUHZUZ2pTT1VQODRvMlFPX05vc09sUDBlaTYwZmxwcjFjeWJLby1KWjB5S1RQTTgzVDRfUE1wdW56V2gwMW5JSUgtZlZYdVRTcXVkcVhTTnY5MnFQUFhseWFlUktRZ1dwSVVVV190a3EwMlI4TzlnWUNkc29RQ3V6TTdYcllrR2x2UQ?oc=5",
           "pubDate": "Mon, 10 Aug 2026 16:42:41 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3dqbHVnc1RTLW5XOVYycjU1dExQZEUxRy1ORVBiWEtWLWFLQ3VoVGtTaFk5U3hQcThZRGdobnlSczZwYkJDOWR2OGtXbWhVMmdqTFV0U0xhVWtNMXQ1Z25GVnNtME0xWjJIV3RtNnpUUHFtOGFOSEtlblpZN3F0RUp3MzRreDRXVXRCaFlVczlOTmRSczlCQTBvODF4bnM0ZUJPeS1qNC1ZSzhwZXNEV0RoRDV2a0swVVFYTHNUU1dvcEFaT0xzY1VxTQ?oc=5",
           "pubDate": "Mon, 10 Aug 2026 16:31:44 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wall St muted as markets monitor Hormuz situation; data awaited - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 16:30:36 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Octogenarian is first killed in British Columbia wildfire - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHJhQURYWHdTZVU1bDVoYXFvRTVSaXNBc1BORDc5TktmYU8wcDNBbUxmbGljR0FUQ3YzYzBfVUVWemZKNGdTVWtXTkRXNmFjZzdUY2R5cF9QY2tFeWlFa3Z2ZVRtNG80aVlrcXBHel9lZ2h4bTFJaF9hTnlDUWFlMVVUWWZPT3o0Y21fQ1ZfOEpkR0IzNks1VEFqSkt4TnR1RXF6bHJ4SE4tUXF6bzRBVA?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 16:23:23 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T17:50:17.153Z"
+      "updatedAt": "2026-08-10T18:00:22.645Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T17:50:17.424Z"
+      "updatedAt": "2026-08-10T18:00:22.860Z"
     }
   ]
 }
