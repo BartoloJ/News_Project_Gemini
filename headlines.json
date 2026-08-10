@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-10T04:00:23.479Z",
-  "lastChecked": "2026-08-10T04:00:23.479Z",
-  "lastUpdated": "2026-08-10T04:00:23.479Z",
-  "generatedAt": "2026-08-10T04:00:23.479Z",
+  "fetchedAt": "2026-08-10T04:17:33.811Z",
+  "lastChecked": "2026-08-10T04:17:33.811Z",
+  "lastUpdated": "2026-08-10T04:17:33.811Z",
+  "generatedAt": "2026-08-10T04:17:33.811Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T04:00:19.812Z"
+      "updatedAt": "2026-08-10T04:17:32.452Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho",
+          "pubDate": "Mon, 10 Aug 2026 00:01:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Crews battle wildfires in western U.S. and Canada",
           "link": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/09/g-s1-137636/paintings-religious-renaissance-old-masters-marc-padeu-african-cameroon-artist",
           "pubDate": "Sun, 09 Aug 2026 07:58:02 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-          "link": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
-          "pubDate": "Sun, 09 Aug 2026 05:44:02 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T04:00:20.105Z"
+      "updatedAt": "2026-08-10T04:17:32.561Z"
     },
     {
       "name": "AP News",
@@ -160,14 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Braves ace Chris Sale ejected by umpire Dan Merzel before start of game against Yankees - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGV5NmZMS2ZxeW1OQ094Z1ZyelBXV1VmODQxRzYtR0hJMnhicktWb29JYmVSenVJMERsYU1FU3lmYU52R012TTZDNmlHOFNuZlVRLW4wYlllQ0NTMGdkbnF6VVd6SHBveTl1Q1U5WFB6cHFTMmxEdFRHdm5KQXdlMUZMY00tR2FoYzNTbVBIUjFlU3lOOEIxcDRB?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 21:09:00 GMT",
+          "title": "- AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMFZKMG1kVWw1OUVHVS1nTzYxM3RmdGxCTDRuU21lemRMSUR1TGNlb29xZmNGU3A5MjNRMWFsNWd0WlJZZDZMS05mQldpVUhFcHFzSlM1MnBCZFVSOHo1MzdNUTJKQnVZeEE5UzktOWdkNTNzSkJsdzJJT3A4N3Q2ZE05bGN0TnJtUjZUOVpkZFB2RTA0SUJGdGswdzZ0b0Vjc0tBSXZlSQ?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 21:28:16 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T04:00:20.590Z"
+      "updatedAt": "2026-08-10T04:17:33.044Z"
     },
     {
       "name": "Reuters",
@@ -188,6 +188,12 @@
           "title": "Gold drifts lower from seven-week peak, US inflation data looms - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEF0Uk1tb1JuQWhENTdaLVRfN2ZtbExLM3RoUFVJZ0IzNkhCYlZuc3R2dTY5ZHJxWVJBZVpQbHBES0NybEFsRVkxUFRmT0lVSVMxeUFxOEJKb2ZMWUFDSDh5WHh6S2NscTc1dE5uUFJTalpGLUltVllCX085a2lUbndIeDRVU0NvUmVINTRjU1BnZm9oREFxbUFPeVhTSllrc1h2d29vN0E?oc=5",
           "pubDate": "Mon, 10 Aug 2026 02:22:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Taiwan simulates repelling Chinese assault, to slow mobile internet in annual war games - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ0V2YVUtVDBTRWNFMk85UERyby1qRkNveUZvWnNIZjFaUk05Q0xKWlJUWDNLT3htQWo4R09jeHZHbDFFV2gxWWtxcTdrMnk2aHpkbHVtVDBMWTNqX3dJcHRBcEh2eWg1YTJoWEpSYmxaNldMaFFleWpwVVRTRUpwN210dzdPd1hQdW5SZW5pV2VYc3gzamdvMllmRERsSFctYkZiZFJrZktwYWNscFZsdFRvOGpBeVhESlBPRXlqVXJiSTFIYnduLWw3amZ0c293UWJ0Vy1VZjNGTWs?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 02:18:53 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNek44dncteUw3MnFHODd1S0hKZ2lSOWZLNEdZV1FEaXFZNnR2S25jcndpQmtiR2VheHRmaUtTSEdrQVZPU3dQbXBYUHEzdG5BZ0Q2ZU9PbGltZHFLREhuVHM5Q05jbDhYU29FWEJ6X2c4N25vbW4yZDhPUEZQX3dOMFp4TFRZNjFaYjRMX285dWFfeWFxY3RXS2RaQ0VZRzVJeXlaeDlvdk1oN0FYQzdxakt5dEs?oc=5",
           "pubDate": "Mon, 10 Aug 2026 01:30:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "China is balancing Asia's crude oil demand by itself - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0lBeUJuUi1Nek03cm1rOF9xMFhxS2RNa1NUNkxqQk9UT1dYOENkMHduLUx3ei12d3VQZmxLSlV6cFd3cDZXc05JcnJ3YnRXRjl2b3VMb2M0T1R3OUpVUnhfVWNxY1d0akVsQ1U0V1hkOEE1eUZWN2FySzNXcHRmLXJpNlR2SWlRekRYbkVld1VqNDI5S0RFdWFVUHBJQXF2bl9FMDZJUmotVzlfZlBidUhVTWpRTVMzYWZlTQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 01:16:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T04:00:20.963Z"
+      "updatedAt": "2026-08-10T04:17:33.482Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T04:00:23.479Z"
+      "updatedAt": "2026-08-10T04:17:33.811Z"
     }
   ]
 }
