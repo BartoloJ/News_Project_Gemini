@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-10T01:00:20.635Z",
-  "lastChecked": "2026-08-10T01:00:20.635Z",
-  "lastUpdated": "2026-08-10T01:00:20.635Z",
-  "generatedAt": "2026-08-10T01:00:20.635Z",
+  "fetchedAt": "2026-08-10T01:25:16.649Z",
+  "lastChecked": "2026-08-10T01:25:16.649Z",
+  "lastUpdated": "2026-08-10T01:25:16.649Z",
+  "generatedAt": "2026-08-10T01:25:16.649Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T01:00:19.309Z"
+      "updatedAt": "2026-08-10T01:25:10.818Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T01:00:19.625Z"
+      "updatedAt": "2026-08-10T01:25:11.043Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T01:00:20.120Z"
+      "updatedAt": "2026-08-10T01:25:11.513Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Asia stocks edge higher, oil up amid Gulf confusion - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 00:25:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Alleged Irish crime boss Kinahan charged with directing criminal organisation - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzl5TEZoallFdF9oRFpZcHRETGZPXzRmYnNwRGU5eXBweFRkTFVEU0lSb2VDLVg0dFBueFhEeWc5YVlCdUJtckVvcXdVWndxMDRSdmREeGc3YzBkQUZLU2dmX2EwRVc3cmdXamhYRUhoTExqeklKZDhoaU9RM0NKNl90RkEwRGc1R1JMZ1BxWFU3VVBoZjBtaVl3U1J5YnZ1MTJv?oc=5",
           "pubDate": "Sun, 09 Aug 2026 23:24:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Taylor Farms recalls salsa and guacamole over salmonella risk - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWFJnNGUzeUlCdlUzOGNzdVY5M3k3SU9YdmRFUUFDdlYtb3V2LUo5VUlOMEVaZHhELVotZGVFWWxmNUZ6SGp2SU4tMGotS2xXV3JMdzZZRm5DaXNNeGxSMHBnWUZOX196WndVUE8wV3BRQ1Q1R2FmNHMycFc4ZTJiejRfZU9IcXY3LTdpTmNzSmZ6UnBPdDNMNDZJZTcyb19pNVpVOHd1SGM5Qks2UFFHbm1JYlpiYVZTenFSa3MtUXdIYzFVbGJ4a1pDeVVLSVpJMV9NY3BiZ3pHRnZfVE1R?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 23:22:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Treasury Wine announces $395 million charge tied to US supply chain revamp - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdlpBZ1BKWkw3LXpMcVRXcWJhLTU5cjNVakhzSnEzQ2p6VmUzOThjbnl0RXNhdnA5UzNYZG9VTmRfaHJ2TzJ1bldxVTZQY1Zic2RYdGtYbEhNaTRQT09GWHMyX1NnZUZxOFlaaWZhbWFPVmNMMFczeWZGZWZlVEVPM3BUYUJlYkk1SVNvaDNrMWVIekY3R1NSeDF1TnJBNUNoTHlWNWZ2SEdFWkNQVU5uS1F4TzBqdGpwQ3pwdVhLQng3MUYzNDJXcEZ3?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 23:19:03 GMT",
           "source": "Reuters"
         },
         {
@@ -185,9 +203,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Oil rises as uncertainty continues over reopening of Strait - Reuters",
+          "title": "Oil rises on uncertainty over reopening of Hormuz - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXpSdTFpV0NCUnZ4ZmZ3bXhmR3QxR1VVbGthTXNFSmZDNU03WWxGTDQ2eE9SeVZPYVE1aHl3NWZuS3FxcW1WSnBBb3J1SXJLY1F6RnFkTy1wdVZHaXdMZkhpclJjM09BU0k1RmMyaFNHQmtnZzA5elZZbUpHVUFEZHFNbnJaek93UlM4cUZJTlU5ZzRUckVJVXdTVVd3amluLWRDb1ljZkY?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 22:17:48 GMT",
+          "pubDate": "Sun, 09 Aug 2026 22:17:00 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWhzbGhpYTNuV1JTcU8wSEotZ01CQ3lJb1pteWZiUzRpVVdmdmhUYldVSlV5cXNnR0pKQTFZVmFZeG1VUjZJWkN5Tm5Vak9FTmZFd1RncERPZnJBQmQwdllYaktkQ1VKeWQ5Qi1WaUdSdVlwbGRGaFM0NUJrNmt4MExPczhrVHdSZTVBQlJ4OUN5WVpvSi1XMDE0N0hub292RmlkOUJ1eG9xbkh2U0RXdEpraUF5VU01bXY2NFVqUVFYdjRLT0JWaVN3a0FjY0E?oc=5",
           "pubDate": "Sun, 09 Aug 2026 21:26:39 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Nelson, Hall of Fame coach and five-time NBA champion as a player, dies at 86 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcHhLbHVkXzBvREhTUndsR0xUSktyTGFyR1VVMzNpSXFHT0NMZUJpNEZHbVZrNTIxcEUxNGNsam1kQkhGWGZ5czdqYWNDenRILTFpTUhSYVhtSmJLY3RBUmdQUlAxcGszbjFoN0R3SFpqUHhyTXM1NklWV0stMi1IWXRNdHdMaHZBSG5xanVMMzNSMFZpNUsyZjRwZ0ZZOG9wMFNRTnJn?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 21:18:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russia says it captures two villages in eastern Ukraine, Kyiv reports frontline battles - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVmNqamFpdkZOTWFJNWc4VEJVQWhmR2ZxNEFEcTBJN0U0eGZ6Z2FLbXRmU3h6V29HNWIzR0w3V1Y3R3Z5ZzB4NG1KMDhISkRzejJHT01lbGd0cDVFeUtlR01KUk5adnY0cWZicHpvSHZadk9FZFl4TC00UGQtaDRFLWVQLW96N0xqaDhwenhLeU9zVXlaX1FvcnZpUjhnNUpkOHF5amdsWHIwY3dPVFY4XzRrT1M0aGlJRXBESTd4c01Hdw?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 21:01:23 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Six die in Ukrainian drone attack on Belgorod, Russian authorities say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOENwSFprNnAxMlVVRDZJclVmY0VZR1VpN2I0SnhjY2d2cGwzc2QtUHRSWk9jdEg1eW84WnFadDJHaWhIWEU3R3hPNHlsSXJCdk04R3NNbGlYTTU5RzQ1QlhER1lDLWh6Z2czZU9jWkFIdkdkdzdZLW5tcHQwTE1qZ0ctSl96OWdWbFB6WlN2UXhTbnRtYlpvNUFBY0FMWDBJN2xKanJUUU1GU1Y3N0ZSd0k4TnM2QUJW?oc=5",
-          "pubDate": "Sun, 09 Aug 2026 20:38:51 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T01:00:20.565Z"
+      "updatedAt": "2026-08-10T01:25:11.890Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T01:00:20.635Z"
+      "updatedAt": "2026-08-10T01:25:16.649Z"
     }
   ]
 }
