@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-10T11:00:21.444Z",
-  "lastChecked": "2026-08-10T11:00:21.444Z",
-  "lastUpdated": "2026-08-10T11:00:21.444Z",
-  "generatedAt": "2026-08-10T11:00:21.444Z",
+  "fetchedAt": "2026-08-10T11:20:34.741Z",
+  "lastChecked": "2026-08-10T11:20:34.741Z",
+  "lastUpdated": "2026-08-10T11:20:34.741Z",
+  "generatedAt": "2026-08-10T11:20:34.741Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T11:00:20.110Z"
+      "updatedAt": "2026-08-10T11:20:33.821Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
+          "pubDate": "Mon, 10 Aug 2026 07:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
           "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
@@ -103,30 +109,24 @@
           "link": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia",
           "pubDate": "Mon, 10 Aug 2026 04:58:22 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5921277/morning-news-brief",
-          "pubDate": "Mon, 10 Aug 2026 04:41:46 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T11:00:20.332Z"
+      "updatedAt": "2026-08-10T11:20:33.869Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 10:58:06 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "World shares are mixed after Wall Street gains, while oil prices bounce higher - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUE4QXJjenhzdy1DTVEtby1VRDU5TnoyczNRWGM0SFVEWDVVelIwQ08xRVRyaVpVbWpuR2dKMzZaZG9vU0tqLUJWaVM2OFd5U2FkTUhfQ3hrczVIcVVVeldhNGRfajlrLUFrZWRpOVM2bFZSekxmT2NISmxqSDVmR1kyZkZ5VjZoT2liZFJmSm1sZw?oc=5",
           "pubDate": "Mon, 10 Aug 2026 10:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "UEFA, CONCACAF and AFC accuse FIFA of 'deception' and 'breach of trust' over World Cup plans - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXJCME51SU1HS2NsdmdyWDYxeXRWaFF3QVBfTDdGWGNJejZYdEtJZTUzaTZlSjA5WHZxSzc5RXF2blhlcWctVzZia2NtRDVsQlRFSFIxTUVsSmNORzItVk15WDdfd0dYTzFaQWJqcUpIRS00Z0JDOFk4YXNESjRfcldvZTVNNFZKcEVYNzhVaUQ2NDl5SE5IelVrRjJGLUdGb1JBSg?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 09:06:00 GMT",
           "source": "AP News"
         },
         {
@@ -154,24 +154,36 @@
           "source": "AP News"
         },
         {
-          "title": "Chinese users of AI companions bereft after government tightens regulations - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEQxanVDVmhMMGZEaUdxeXdFV3g2QThxUWpsQ0lPNjgyNnNOeVVpdU1Od2FOc3gxS29vV0MwaDRCMGdjR0VlWkJTWk5PLTR3X2pvVEhOOVF3NWFTMFcwQ19abjU3RkE0M1lCYldGTHZkTXFEclZyaVpRLTh2bDhzLUR0LUZ1T3AyU1V3RExWYXM0emxiWV96ckxWOFdZdmppNndDd05SQQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 06:49:09 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "New Zealanders abroad urged to enroll for the election as new law locks out last-minute voters - AP News",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmVmVDlwQ2JCZWdHV3EwWWNPMGFLd3drQWJuUmtEQkh4OFBKMXZiWHFTTW10ZVR3TVNjTnNLQnpqYXB5eGQtbU1CWmJ1QnFCUDdRQlk3ZFdKaEVlb0Z5WTVkRW5BVG1oMXNBaW9mZU81dVFtNlY4WG1uS243QVhqczlicDFtNlBfV0NYTmZNM1VmMTZkUlRqaEhWR0VHSDNYNnY5cFh4TGhkbUlIYUxUbXotdWRpSDlE?oc=5",
           "pubDate": "Mon, 10 Aug 2026 05:33:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Chinese users of AI companions bereft after government tightens regulations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEQxanVDVmhMMGZEaUdxeXdFV3g2QThxUWpsQ0lPNjgyNnNOeVVpdU1Od2FOc3gxS29vV0MwaDRCMGdjR0VlWkJTWk5PLTR3X2pvVEhOOVF3NWFTMFcwQ19abjU3RkE0M1lCYldGTHZkTXFEclZyaVpRLTh2bDhzLUR0LUZ1T3AyU1V3RExWYXM0emxiWV96ckxWOFdZdmppNndDd05SQQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 05:13:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T11:00:20.790Z"
+      "updatedAt": "2026-08-10T11:20:34.293Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "China is balancing Asia's crude oil demand by itself - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0lBeUJuUi1Nek03cm1rOF9xMFhxS2RNa1NUNkxqQk9UT1dYOENkMHduLUx3ei12d3VQZmxLSlV6cFd3cDZXc05JcnJ3YnRXRjl2b3VMb2M0T1R3OUpVUnhfVWNxY1d0akVsQ1U0V1hkOEE1eUZWN2FySzNXcHRmLXJpNlR2SWlRekRYbkVld1VqNDI5S0RFdWFVUHBJQXF2bl9FMDZJUmotVzlfZlBidUhVTWpRTVMzYWZlTQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 10:41:23 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup stake sale - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3k1MmQ0NXQ1SXJLbTdKbVM4blFGTDh1MUNPZHB0M0dzcGhSYUZ2YkljeTZNM05tYlhJczdGaEs5anljMDc1SlkxWEphZVdWTVViV1A3dGFtXzdyUkxZNzI3VWpXZ3VfMkV3QXIzUFlMdFZfcnJIM1ZFWnFtSmFkZWVxV3Nld18zZVRJLUd4MHRxWDc0eTA1U1RyOWlaNC12X01rWWxmOXJKNVBZcS1TUw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 10:29:27 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
@@ -179,15 +191,15 @@
           "source": "Reuters"
         },
         {
-          "title": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup stake sale - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3k1MmQ0NXQ1SXJLbTdKbVM4blFGTDh1MUNPZHB0M0dzcGhSYUZ2YkljeTZNM05tYlhJczdGaEs5anljMDc1SlkxWEphZVdWTVViV1A3dGFtXzdyUkxZNzI3VWpXZ3VfMkV3QXIzUFlMdFZfcnJIM1ZFWnFtSmFkZWVxV3Nld18zZVRJLUd4MHRxWDc0eTA1U1RyOWlaNC12X01rWWxmOXJKNVBZcS1TUw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 10:08:57 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Iran says no reason to fear Pakistan-Turkey-Saudi security pact - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0ZKNWFNbV9WOEFpMnZYa3NkbzBGWUNiVnVsMlJtT1IzRDliNHJIM0g0eUZ0N2lNcWxSSEd5QVV4QW1pZFRCSTQ5WndIdGtVRTFMcmYxUVVVZzVQazFQRy1vNG5Vd1hhbG9ObG14SnJnbl94VDJLZnJ6dmN4ZUJKTXRiTFBrTkdkN0FyWkFua3FhR3B6aHN5Z05ETmpNUkxLTlViUm4xdGtINktfUDk2UmRUOGtqdw?oc=5",
           "pubDate": "Mon, 10 Aug 2026 09:21:03 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Drought scorches Italy's rice belt as water supplies hit record lows​ - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSlhjRFdtT2VidEZ4bmNDVlk5TFNYZDZfZ3NQdzc3NDUzV2EyU2RQbTM1eW9xZUJoazhkOWxfVzVRaXV2UW52QS01dnNVQnFTU095TmdMRmI4LWFWU2VFU2tuazc1WmE4Zy1qUlBzdlNVN1NXTzNUTXo1VFNwNExtYmNRci1XdDR6Q0lQY2pzME9rd2JqbEVuSDRjS1UxcTVOeEkyZ2xsUFNIbmxHMEVySE1ub3BRQ3NYWWVRN1NB?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 09:20:55 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkpEM1BlSlZXSUZmWnBXOU0tcGVCb3kyRWpQV0gtR3VVR3JraTVKdjYzemxKeS0wYVFYRmplNDlxaUVEU1JsVTJfTVQxZ3Ricy1Wa3dwTUxYWjRrYnRoX0NzQnoyX1F3aEIxVnJWbk9VQkhGNHZFQjktUGxXU0NHd2QtQjZEY3F2YkFFNnNxbTQ1YV9BLVhianAxLUw?oc=5",
           "pubDate": "Mon, 10 Aug 2026 09:11:03 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "July US container imports hit fourth-highest on record, Descartes says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFp5eTRqbmJxRHF0bkxpcUZmQ1NEX1NrVVlRdFltLTY4V3dROGhnT01PUTZxZzVkN3R3bDcyRHdWNVIzclktOVdub0pWLW5raUJ5WWxNU3JLb3hQVll0YkVWV2pQc0dSaTJGaFJoMXJnSVFsUVVGYkZjWDFqck0wRkc5OWhfaGxPOWp5S0Z4ZzBMRnZwNGRqN0lDYk1MdjU3end0cEhsaVVqRGkyZ0V1UmkxWlYxNFVRTlJZSElSWHI5alV4eHc?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 09:05:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India's Hindustan Copper plans to sell copper concentrate sourced from Chile to Hindalco, Adani, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmRfV0VXckxmcjdacF9hM3hyUXZkS0VIaTctN3Qwc3U1N3Z6RnVzX1FLTDNVcThvYjBjUHNibHlQZVpPSmw5RUgtVzlnaUNrRzFCWF9raWZxRlJ2YnRNWk1KX0NWbjBaNmY5aFNCTl9iRGdRUkwwNnQwYnV2dWN2cjZ2d1hxZEd4YVFHZlNZMjlBUVRjSWV2aS1PZkxkWENMaTNidFpMZERzeUpJcFVDZWRnb0xvUW1WZzdOSl9SaUw0UQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 08:40:41 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T11:00:21.243Z"
+      "updatedAt": "2026-08-10T11:20:34.712Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T11:00:21.444Z"
+      "updatedAt": "2026-08-10T11:20:34.741Z"
     }
   ]
 }
