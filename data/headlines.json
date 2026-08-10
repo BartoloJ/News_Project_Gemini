@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-10T11:20:34.741Z",
-  "lastChecked": "2026-08-10T11:20:34.741Z",
-  "lastUpdated": "2026-08-10T11:20:34.741Z",
-  "generatedAt": "2026-08-10T11:20:34.741Z",
+  "fetchedAt": "2026-08-10T11:25:13.024Z",
+  "lastChecked": "2026-08-10T11:25:13.024Z",
+  "lastUpdated": "2026-08-10T11:25:13.024Z",
+  "generatedAt": "2026-08-10T11:25:13.024Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T11:20:33.821Z"
+      "updatedAt": "2026-08-10T11:25:11.731Z"
     },
     {
       "name": "NPR",
@@ -69,20 +69,14 @@
           "source": "NPR"
         },
         {
-          "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
           "link": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
+          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
           "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -93,14 +87,20 @@
           "source": "NPR"
         },
         {
-          "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
+          "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
           "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
           "title": "Who really needs testosterone?",
           "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
+          "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
           "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T11:20:33.869Z"
+      "updatedAt": "2026-08-10T11:25:11.856Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Iran won’t reopen Strait of Hormuz without US concessions and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 10:58:24 GMT",
+          "source": "AP News"
+        },
         {
           "title": "World shares are mixed after Wall Street gains, while oil prices bounce higher - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUE4QXJjenhzdy1DTVEtby1VRDU5TnoyczNRWGM0SFVEWDVVelIwQ08xRVRyaVpVbWpuR2dKMzZaZG9vU0tqLUJWaVM2OFd5U2FkTUhfQ3hrczVIcVVVeldhNGRfajlrLUFrZWRpOVM2bFZSekxmT2NISmxqSDVmR1kyZkZ5VjZoT2liZFJmSm1sZw?oc=5",
@@ -127,6 +133,12 @@
           "title": "UEFA, CONCACAF and AFC accuse FIFA of 'deception' and 'breach of trust' over World Cup plans - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXJCME51SU1HS2NsdmdyWDYxeXRWaFF3QVBfTDdGWGNJejZYdEtJZTUzaTZlSjA5WHZxSzc5RXF2blhlcWctVzZia2NtRDVsQlRFSFIxTUVsSmNORzItVk15WDdfd0dYTzFaQWJqcUpIRS00Z0JDOFk4YXNESjRfcldvZTVNNFZKcEVYNzhVaUQ2NDl5SE5IelVrRjJGLUdGb1JBSg?oc=5",
           "pubDate": "Mon, 10 Aug 2026 09:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Flood death toll in India’s Assam reaches 100 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOajhKU0d4aHZlaGs2YnYxVTJmcks5TmNRb1A1Wm9hem1obkFMallDMm9wcVEtX0EwaU5tcXNNTFlrTUhVWTBnQkRGS1hlYUNmeWV3Y2I2LXZrUmlHTWhMaGlPSHEwSEJwRHBaZTlhdVZnaWg3VUIxVXp6ZXVaRzZiMC04QWlET243eVVRZ2ZUamswZk05alJtZTZYNGxOM1BVZWszMGFUWQ?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 08:31:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,77 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDJ4QUJwdmtvMmFkNUFCdHJvdEZEWmR5MWlNYnliVlU0R1FsRm5kVzM0bHozaDNmVFdCVGlzejFqbmF2eDQ5SVFPdUwxLU52R0VwVUh5WWRhRHVxVkpMSHl2aTFhazZqMjZtc0ZjbHFjS2FTV1FnVWhMdVdKQXgyS0VBRDlBekczZWl0RGN2OWJJeEN3TzQ4Z1dHTFB3anFMc3RPR1Q4VzcybW1LZVhvb0J3?oc=5",
           "pubDate": "Mon, 10 Aug 2026 07:14:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "New Zealanders abroad urged to enroll for the election as new law locks out last-minute voters - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmVmVDlwQ2JCZWdHV3EwWWNPMGFLd3drQWJuUmtEQkh4OFBKMXZiWHFTTW10ZVR3TVNjTnNLQnpqYXB5eGQtbU1CWmJ1QnFCUDdRQlk3ZFdKaEVlb0Z5WTVkRW5BVG1oMXNBaW9mZU81dVFtNlY4WG1uS243QVhqczlicDFtNlBfV0NYTmZNM1VmMTZkUlRqaEhWR0VHSDNYNnY5cFh4TGhkbUlIYUxUbXotdWRpSDlE?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 05:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Chinese users of AI companions bereft after government tightens regulations - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEQxanVDVmhMMGZEaUdxeXdFV3g2QThxUWpsQ0lPNjgyNnNOeVVpdU1Od2FOc3gxS29vV0MwaDRCMGdjR0VlWkJTWk5PLTR3X2pvVEhOOVF3NWFTMFcwQ19abjU3RkE0M1lCYldGTHZkTXFEclZyaVpRLTh2bDhzLUR0LUZ1T3AyU1V3RExWYXM0emxiWV96ckxWOFdZdmppNndDd05SQQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 05:13:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T11:20:34.293Z"
+      "updatedAt": "2026-08-10T11:25:12.385Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "China is balancing Asia's crude oil demand by itself - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0lBeUJuUi1Nek03cm1rOF9xMFhxS2RNa1NUNkxqQk9UT1dYOENkMHduLUx3ei12d3VQZmxLSlV6cFd3cDZXc05JcnJ3YnRXRjl2b3VMb2M0T1R3OUpVUnhfVWNxY1d0akVsQ1U0V1hkOEE1eUZWN2FySzNXcHRmLXJpNlR2SWlRekRYbkVld1VqNDI5S0RFdWFVUHBJQXF2bl9FMDZJUmotVzlfZlBidUhVTWpRTVMzYWZlTQ?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 10:41:23 GMT",
+          "title": "Retail investors sold SpaceX shares for first time on Friday - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTGpaWVF2U0MtYkg1LWp3SHI4QmFQMkdONFhaNFE4MU40QlJuMEVVcEg3cmRLcUJOUjI3Y1RKa1B2UHFWaW5oazNNdzEyUFdCTWpoZVFjRWt0Q05MQWJEbFhOeFBqNXVlYlZkRTFpNHVOa2tqb2ZwdEN5anpaXzNQbVFvbk1jdXZNMk5ocVNXaks1ZkYycGU1ckN2LUEtbndEd1BNZ0ZFMFFoVmtaTl9tdW5B?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 10:59:59 GMT",
           "source": "Reuters"
         },
         {
-          "title": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup stake sale - Reuters",
+          "title": "Final vote delayed in parts of Pakistan-administered Kashmir over security fears - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTndXb0JjaW0yVEQ3VG82UzVHSC1pU21NbzlqakY3Z1dZUkpGLXFxMmdEMTIyZTBaY0QtUFpFM0VjTi12M01JdDJqNkZPdWxFY1FhMGdUSmNrc3NiV1JEYV9ROEk4NHNacXdqY1lBWDE1Sy02NElsX0JnMHY1clJSazF5S3QwS3F3SU5jbnNNdnRGNkNGb3JFVUpNeEoyTW1iT2ZFWGU5X0EtRzVtV1BabS1sbmJzRWxaUlN5NzJkenJ4M1VyTHhDcw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 10:30:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup stake sale - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3k1MmQ0NXQ1SXJLbTdKbVM4blFGTDh1MUNPZHB0M0dzcGhSYUZ2YkljeTZNM05tYlhJczdGaEs5anljMDc1SlkxWEphZVdWTVViV1A3dGFtXzdyUkxZNzI3VWpXZ3VfMkV3QXIzUFlMdFZfcnJIM1ZFWnFtSmFkZWVxV3Nld18zZVRJLUd4MHRxWDc0eTA1U1RyOWlaNC12X01rWWxmOXJKNVBZcS1TUw?oc=5",
           "pubDate": "Mon, 10 Aug 2026 10:29:27 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
+          "title": "Meta launches new AI model as Zuckerberg champions open-weight push - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
           "pubDate": "Mon, 10 Aug 2026 10:14:28 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran says no reason to fear Pakistan-Turkey-Saudi security pact - Reuters",
+          "title": "Iran says no reason to fear Pakistan-Turkey-Saudi security pact - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0ZKNWFNbV9WOEFpMnZYa3NkbzBGWUNiVnVsMlJtT1IzRDliNHJIM0g0eUZ0N2lNcWxSSEd5QVV4QW1pZFRCSTQ5WndIdGtVRTFMcmYxUVVVZzVQazFQRy1vNG5Vd1hhbG9ObG14SnJnbl94VDJLZnJ6dmN4ZUJKTXRiTFBrTkdkN0FyWkFua3FhR3B6aHN5Z05ETmpNUkxLTlViUm4xdGtINktfUDk2UmRUOGtqdw?oc=5",
           "pubDate": "Mon, 10 Aug 2026 09:21:03 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Drought scorches Italy's rice belt as water supplies hit record lows​ - Reuters",
+          "title": "Drought scorches Italy's rice belt as water supplies hit record lows​ - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSlhjRFdtT2VidEZ4bmNDVlk5TFNYZDZfZ3NQdzc3NDUzV2EyU2RQbTM1eW9xZUJoazhkOWxfVzVRaXV2UW52QS01dnNVQnFTU095TmdMRmI4LWFWU2VFU2tuazc1WmE4Zy1qUlBzdlNVN1NXTzNUTXo1VFNwNExtYmNRci1XdDR6Q0lQY2pzME9rd2JqbEVuSDRjS1UxcTVOeEkyZ2xsUFNIbmxHMEVySE1ub3BRQ3NYWWVRN1NB?oc=5",
           "pubDate": "Mon, 10 Aug 2026 09:20:55 GMT",
           "source": "Reuters"
         },
         {
-          "title": "South Korea to establish fund for semiconductor materials, parts and equipment, official says - Reuters",
+          "title": "South Korea to establish fund for semiconductor materials, parts and equipment, official says - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcVRHZVRKcW90cHJRVDZLcEU4NTlTSVZhSy0yOTU2ZVI2SFdBQ0tNNUFSQXZ1LWRvWkRjT1pkdndpbkxFVFJZbDlaOFBDdVNIRDlCR2RkRC11VFV3UElNLWZBYVlTNTFXZWtIQ1RYZnV0UXp4YXNqbHRGSXpGYWloVjktTzBWM0owd2VQZUkzSmJ2SlY3bmVlZnVvN1BUQlZaVTUxRzJmblVRV0NuRlZZRUNrY1VQeklJV0JFUUdiYjBIYWozekFnRDNBOGFhVTUy?oc=5",
           "pubDate": "Mon, 10 Aug 2026 09:20:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "UK's Revolut gets French bank licence in European expansion drive - Reuters",
+          "title": "UK's Revolut gets French bank licence in European expansion drive - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLW0ydllRVHUyVU1yOVZwTlNpQkhXWmFXVTJ5S2w4Mm81Vjc0bzBCUEhyUktKWFlrZ0lEZnpvc2lKYktjRzkwVERnaEw0aEVvSzR0UW9nR2J4NGxWSU90QTBadjAzekhXRzBzLXNjOG55YTVqWEdpRlNPX25sUDJNQUdSZ01GNGI5NFZMX0Nn?oc=5",
           "pubDate": "Mon, 10 Aug 2026 09:19:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "FOMO fuels Wall Street's breakout rally as traders pile in - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkpEM1BlSlZXSUZmWnBXOU0tcGVCb3kyRWpQV0gtR3VVR3JraTVKdjYzemxKeS0wYVFYRmplNDlxaUVEU1JsVTJfTVQxZ3Ricy1Wa3dwTUxYWjRrYnRoX0NzQnoyX1F3aEIxVnJWbk9VQkhGNHZFQjktUGxXU0NHd2QtQjZEY3F2YkFFNnNxbTQ1YV9BLVhianAxLUw?oc=5",
-          "pubDate": "Mon, 10 Aug 2026 09:11:03 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T11:20:34.712Z"
+      "updatedAt": "2026-08-10T11:25:12.773Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-10T11:20:34.741Z"
+      "updatedAt": "2026-08-10T11:25:13.024Z"
     }
   ]
 }
