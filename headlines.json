@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-11T01:25:18.241Z",
-  "lastChecked": "2026-08-11T01:25:18.241Z",
-  "lastUpdated": "2026-08-11T01:25:18.241Z",
-  "generatedAt": "2026-08-11T01:25:18.241Z",
+  "fetchedAt": "2026-08-11T01:50:30.846Z",
+  "lastChecked": "2026-08-11T01:50:30.846Z",
+  "lastUpdated": "2026-08-11T01:50:30.846Z",
+  "generatedAt": "2026-08-11T01:50:30.846Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T01:25:16.830Z"
+      "updatedAt": "2026-08-11T01:50:18.953Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Alabama heads into a second primary election after redistricting",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
+          "pubDate": "Mon, 10 Aug 2026 18:43:05 -0400",
+          "source": "NPR"
+        },
         {
           "title": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
           "link": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
           "pubDate": "Mon, 10 Aug 2026 07:42:58 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "People with disabilities say Medicaid income limits can stifle career advancement",
-          "link": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
-          "pubDate": "Mon, 10 Aug 2026 07:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T01:25:17.196Z"
+      "updatedAt": "2026-08-11T01:50:19.170Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-11T01:25:17.662Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-11T01:25:18.136Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T01:25:18.241Z"
+      "updatedAt": "2026-08-11T01:50:30.846Z"
     }
   ]
 }
