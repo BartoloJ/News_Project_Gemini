@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-11T14:50:16.779Z",
-  "lastChecked": "2026-08-11T14:50:16.779Z",
-  "lastUpdated": "2026-08-11T14:50:16.779Z",
-  "generatedAt": "2026-08-11T14:50:16.779Z",
+  "fetchedAt": "2026-08-11T14:52:10.008Z",
+  "lastChecked": "2026-08-11T14:52:10.008Z",
+  "lastUpdated": "2026-08-11T14:52:10.008Z",
+  "generatedAt": "2026-08-11T14:52:10.008Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+          "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 11 Aug 2026 14:50:10 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
           "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "At least 169 killed in Colombia's largest  earthquake in years",
           "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 11 Aug 2026 13:21:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-          "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 10:43:07 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T14:50:15.602Z"
+      "updatedAt": "2026-08-11T14:52:08.544Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T14:50:15.689Z"
+      "updatedAt": "2026-08-11T14:52:08.669Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T14:50:16.151Z"
+      "updatedAt": "2026-08-11T14:52:09.376Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Hungary parliament elects former supreme court head Andras Baka as president - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3dlWVJ6OFQ1cWYtQWRtdk5Mbk4waXkzWVhLNEFrNkZWbXpMc3NXazZSZ2xiUVZPN2NZbnpNNjRtOVp1TFJqX0hhV2xJNkNVRUhrQktLalJ0aGlURVR0Y1Z0NGhSUVh2eTNrSzF3c0VvSjNRZkUzamxzSlc5NnVpU2h3Q01SOGpJOTdzbVhoeXJHcnpUWGZ0QnZsaVhwdWtsWlpqaUxMcEQyTVBLTWJJYTFxTUZjZw?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 14:34:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Jury in Luigi Mangione's insurance CEO murder trial to be anonymous - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2hEc2dXbWpSTGZIdWkyVlhKbjhub2FkYU9ZSlpoZXlZYlBBUHdlRFR0OFNEN0Q3VUdfVGd5OFZxNEVNbldLMmgyaDZfZjBXMU9tZndFeVViNzlmb2R6Wm9pMG1rRGQ1SnRUNTNYd2pOTFVHVi0yREk2OHZ1eHZGYXVGc3FEUEtjdE03MWdGZnF6OGNycGpNeXJvcldOUWYtSmdjbU5GWXJxQWx4aFlB?oc=5",
           "pubDate": "Tue, 11 Aug 2026 14:31:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia frees ailing ex-US Marine Robert Gilman from detention - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXpnZnBhTlBSWUJfd2FMRWtYLUVtT09XU2RzYjV3OThoZWoyYzlneEhJWjBfVDVkb1dEYjhtd3FzLXliaVpGbWRjSXZhVDNrNVhOOEtzVGdQYlBwXzNaS1Jab2xzQTA3V25abXFwVGY3NkdBeE9kRTA5V1hia0t0TGpZUVJvanJ3QWpqdU9wdWxtN2gxenA4QmEzRjRwZ28?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 14:27:59 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
           "pubDate": "Tue, 11 Aug 2026 13:36:31 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Three killed in attacks on ships in Red Sea, Gulf, sources say - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 13:32:08 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Air taxi firm Joby acquires defense tech company for $500 million - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR19tSGNrX0pFRjZvY0RpV0JCMWtnRGlDN2IzTHYyY0xFTDM3d0ZRSXh0UXB0bmFjclJKUmozbllfOTFnRW5yUF9kWTIwSEFuSy1DcDJ1eE5vdEhhUm92a0JxQlNYVXFCU2RLVGEwQ1BwM2dUSHQ2bG52Z0x0cDJMY3lfS2pHMlVNZ1Z0QXV4SnRRRks2dW1TSFBrcWUwdHI2a2twZWlCUktTbl9ZcW5ib2hqdFdKdk0wSlh6dllUX1c?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 13:30:37 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T14:50:16.588Z"
+      "updatedAt": "2026-08-11T14:52:09.798Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T14:50:16.779Z"
+      "updatedAt": "2026-08-11T14:52:10.008Z"
     }
   ]
 }
