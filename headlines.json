@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-11T08:25:15.061Z",
-  "lastChecked": "2026-08-11T08:25:15.061Z",
-  "lastUpdated": "2026-08-11T08:25:15.061Z",
-  "generatedAt": "2026-08-11T08:25:15.061Z",
+  "fetchedAt": "2026-08-11T08:46:16.629Z",
+  "lastChecked": "2026-08-11T08:46:16.629Z",
+  "lastUpdated": "2026-08-11T08:46:16.629Z",
+  "generatedAt": "2026-08-11T08:46:16.629Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+          "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 11 Aug 2026 08:44:52 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "At least 132 killed in Colombia's largest  earthquake in years",
           "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-          "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 22:31:42 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "The lonely Chinese men being conned by fake brides",
           "link": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 10 Aug 2026 22:02:21 GMT",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T08:25:13.794Z"
+      "updatedAt": "2026-08-11T08:46:15.569Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief",
+          "pubDate": "Tue, 11 Aug 2026 04:32:41 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
           "link": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
           "pubDate": "Mon, 10 Aug 2026 13:38:12 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
-          "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
-          "pubDate": "Mon, 10 Aug 2026 12:08:06 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T08:25:13.994Z"
+      "updatedAt": "2026-08-11T08:46:15.669Z"
     },
     {
       "name": "AP News",
@@ -148,9 +148,9 @@
           "source": "AP News"
         },
         {
-          "title": "Colombia searches for its missing after a powerful earthquake kills more than 100 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnk3enhDLU5PRHZPNVlfdkVRb0t5ZjFPYmExTFlGcmIzVnh3eDNWQ3loVVF6MEg4ejNZOE92YkxKc0lpNE5pcXRQYnhPRXFWV05QUnpmNE0tMXZkVVU3YndadUxkampNUWx0Q3JqdjY3aC1Wa0pYT0dwVzgyT2JpVDMwVnAteFdDT2NXTXFOLTUwR0x6X01z?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 04:24:00 GMT",
+          "title": "Republicans pick nominee for Alabama US House district they redrew after Supreme Court ruling - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXhleFZSWTRBTmYwMklpbGJvVmxPUzJIa2t0QXZpbk9DNXg4c0hhSUM0eVRxVVlMYnc3RkNsbEZySHBLeGdScXpDZ0NOSmtkTHBjSFBrM3ZwRFl2MVloSGlqLUlEMmZMRWZ6Qm5IcXRqR2EyZnJYcFZzVVNpWndwODZpUXpVQlpOSnJPLWlIM1NTNFZnaC0wN1FUcTMtNmZyZnJTd21vMko?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 04:08:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T08:25:14.460Z"
+      "updatedAt": "2026-08-11T08:46:16.052Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,24 @@
           "title": "Gold eases from over two-month peak, inflation reports in focus - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3pfajk5NldmMDliSlhNU3ZYd1J6UGt3cWM4ZHBzTkxnYTVGbnVWU0ZOVFFqLUk2eFYyQnhxdUxiUFp5Y0lXTnpEOGIwMHBveTR5bzBvZmxjWTA4TmR6OUt0U1ZSd2V0dDhkMlg4TkpFdlFCSEtJN3BXYXJQMFZLZDgyZjR6UTRXeU5fRFZ1MHM1WXpCMEtTOF9CNmptQTJmNzBQN1JyMA?oc=5",
           "pubDate": "Tue, 11 Aug 2026 07:32:53 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oil rises as Iran and US trade demands for reopening Strait of Hormuz - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pWdFZzeWRnNk5zclJaZzJnUnhXVnZnNHdFcFRtTlo3T00wd1RVdHF6QmNZRVJBSGNIMm50YW1ob0x4dENzeGFpTDlSNUdvbkZZNXBBLVc0WVFjVVRMUEl3NldGcFNtTXYybWJLVklxYlZnbUkzRVpyeU55b3FFZlhlRmVueEdTTHNGcnVVS05zUnZyWkJ5VkhIcmFwS01KYVNXaHVyeE1yZEhtd3Z4alAwUQ?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 07:27:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Johannesburg's water crisis angers voters, drives rich off-grid - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1VHR2VtTmE3REJQVUxOb3lFYUtNWllhM0ZQRXpWYnFyeEJ4YjgyUU52LWxKWkF3NlFTdFQwTk5WS1c4bnI1VUdhUDR2c1FsdkRwcGNrdWRBdF9lOXRwRWxwMWd6YXBtLVNrX01iTlhrZHlOandDSGpmMVdyVDFnRkJ4NGU5bVM5TnpIcEtBYWsyVGliU2ZSNlRpTmVTNGR5eFJGSVF5MmpNOXo0QU5N?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 07:09:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukrainian prisoners recount torture, sexual abuse while in Russian detention - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUFhpTlF5YmdLUXZvRWxMUWZOMVZlNEw2Tk5EMG9YRDRPemllZ1JFRktfUzZHOWcwelFnNVdCT1ktbGhJV3c3OVNqSUNIZ19QMFlTaTRnSnZwaEc0SVVLdkFaSS1QRFE1bVVWT3dBeGQtc2JnaFZMRW1nUTdMLWdxUE9LWmNjLWNwam5tR25BR0MyaU1Xa0RCRzVJOHJkWjJxUGNkZWpTQUZKWUdlSXpNOWVtMmZGSXBzbmpfM2x3?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 06:33:53 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Australia and Vietnam deepen strategic partnership - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX254N3gzaG5FbE5BNG9vT0wyblJ0cUQ0ZDl2RVIxSURmM3ljRGFqbzdqOFgtMktIcmJQYTlad2QxZENQQkw1UWI3ZDFxdnJmMHJzZE1QQW1iQ3ZJT2ZCUzVwTEFqNERJbEk2R3YxcEllZG9fVnVCbEM1MWxhS1F2T1hKVkJ0X0JzM3dJZnF4VWdOMEs3cUVyS3l3anY4djZqNUZR?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 05:49:43 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Morning Bid: Middle East deadlock - Reuters",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xS3puc0RUSWFqdTB4ZjNKY3Z0UHNsNklsc1ZsajlRQTBNRFd4aUNCRlZuaVVrNEJmNUtvemtNZFZ1djNfbXJwcU00UHdJSG9pU1Z5Q0dxWmFHSHdOeEN2TnVEQ1FjRVBxQ1FSVThRZEs3dUpxLXlvYzFHeENRblE?oc=5",
           "pubDate": "Tue, 11 Aug 2026 05:46:29 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Gulf shipping traffic via Strait of Hormuz falls to six vessels - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3lVMjZBYTN2WlJSTnRXUVlyRmd5dXYxNnV0ekRtTUg4VEF5cC0yM3NoV1lNNEhoTF9wandNSUNLMEFyeHNnU0w4Z2NuOXhKUzdCMlAtdms2SGxpV0t0WGNlcl9MaTdYSTZVMlh5bGVBM0ZnNUVCcVhKWWF2VU1sdTVadEV6M2s0X0tWWF9wWWhlV3h2dlBSaUFHM2VMNTdy?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 05:00:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Australia's central bank warns further hike 'quite possible' after holding rates steady - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbV9rMjBHQ3l6X0c2RjR6Y1k4OXdWcmZiTzhlX2Z6TUxXOGN6dWIxZTZiUlZYRVlYYjB4WThwWTJ2UDRDNVowclA1NXRHYWRtVmYxVmRMWm82UEdaTk92YVdTZEo1dF9pdHhoWnV1emI4YThhR3ptMndIT0RWb1FySVpuQ0VwUlNaS2xDS3U0T21hSnh6TDYtU1ExTDdPYkp3Wm05UzJ0UnB4MjhWaTBQcWhLSQ?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 04:59:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T08:25:14.861Z"
+      "updatedAt": "2026-08-11T08:46:16.426Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T08:25:15.061Z"
+      "updatedAt": "2026-08-11T08:46:16.629Z"
     }
   ]
 }
