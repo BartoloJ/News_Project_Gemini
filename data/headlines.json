@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-11T03:25:12.891Z",
-  "lastChecked": "2026-08-11T03:25:12.891Z",
-  "lastUpdated": "2026-08-11T03:25:12.891Z",
-  "generatedAt": "2026-08-11T03:25:12.891Z",
+  "fetchedAt": "2026-08-11T03:50:17.368Z",
+  "lastChecked": "2026-08-11T03:50:17.368Z",
+  "lastUpdated": "2026-08-11T03:50:17.368Z",
+  "generatedAt": "2026-08-11T03:50:17.368Z",
   "sources": [
     {
       "name": "BBC News",
@@ -23,6 +23,12 @@
           "title": "Young girl finds whale stranded on Australian beach",
           "link": "https://www.bbc.co.uk/news/videos/c1w148g9e5vo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 11 Aug 2026 01:31:10 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
+          "link": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 10 Aug 2026 22:40:23 GMT",
           "source": "BBC News"
         },
         {
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 10 Aug 2026 20:55:34 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-          "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 10 Aug 2026 19:17:11 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T03:25:11.497Z"
+      "updatedAt": "2026-08-11T03:50:15.763Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+          "link": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
+          "pubDate": "Mon, 10 Aug 2026 23:39:40 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Alabama heads into a second primary election after redistricting",
           "link": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
@@ -103,20 +109,26 @@
           "link": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
           "pubDate": "Mon, 10 Aug 2026 08:39:05 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
-          "link": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
-          "pubDate": "Mon, 10 Aug 2026 07:42:58 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T03:25:11.694Z"
+      "updatedAt": "2026-08-11T03:50:16.074Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Trump scoffs at Iran’s demand for war reparations and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 03:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "UEFA, CONCACAF and AFC accuse FIFA of 'deception' and 'breach of trust' over World Cup plans - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXJCME51SU1HS2NsdmdyWDYxeXRWaFF3QVBfTDdGWGNJejZYdEtJZTUzaTZlSjA5WHZxSzc5RXF2blhlcWctVzZia2NtRDVsQlRFSFIxTUVsSmNORzItVk15WDdfd0dYTzFaQWJqcUpIRS00Z0JDOFk4YXNESjRfcldvZTVNNFZKcEVYNzhVaUQ2NDl5SE5IelVrRjJGLUdGb1JBSg?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 02:38:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeC1FV2UwSUJ1TGdfbjNOa1B6WWJ1R1N4TFBycWJsc016ZDQwSUdzblo1SXU5a2x4cWsySkw1eV90clVKbS1Iekc0RzVTaDNzWGdvamJiT0s0NVprWUdEbmN5WUFsMHM2MlVVbTZTRnNnMFZWQlA1Rk9EM1VDLVNqbGMyZXMtRlZPZGc3Wnd3V1E?oc=5",
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWlhwTk85MEdiQ3UzOWRkSFpQYTh3a29HT2I2U1dmMVRoY0dVczZWenAxblplYXBrTVdMOThNcVMtUFlwWVVobUV6SlVCT01fUVVUQ3ZlS1FWUXNYQks0LTk3VS1UZDF6aklFTFZTUl9vRHVzMFQzOTd4YlJibmZadnp1MHpyNTdLVWs4UTVUVzNWWlpOYTNLZ043MTRVRm1qMlR1aF9FMEhMbUU?oc=5",
           "pubDate": "Tue, 11 Aug 2026 01:09:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Ben Jones, good ol’ boy ‘Dukes of Hazzard’ actor and 2-term US House member, dies at 84 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNODgzWG9yZlFfS2MxVHYwa3RqbVZWbzgzOVF3OTdLYlNSU2pPcGIzdmNZQUpVVGhPbXNseWo3aVRxUG1abnNrcnk2b0dhQTRaVXdSY0VSUU1RZzItNWJNdEdOcDBQNmFISE9WcDFKbGlKbThIY09pU3FlQjBsZUZIUEM1NVZLNlkxSVppa2VXMXV2aVcyQWpJ?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 01:03:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump media company announces a massive loss and new turnaround effort - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLXI4SnJwNkxsZzBrUnhWazdlaUhXa1FSNlNXN3paYWJZdWNlRF9zeDVwUFltYUd2blV3OEtLM2Q4R3RsM3BsYUx3Wlk4RTM2eFYwSFNYcnNhc2xiRXl2U3g5cU5XM1VsOEhmSVNrendIQWhHY3l4S3YtNkFQNkROdnBrSXNDOTIyc183cU1TZG1FS2VqN0trZjctNA?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 00:52:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T03:25:12.101Z"
+      "updatedAt": "2026-08-11T03:50:16.657Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T03:25:12.530Z"
+      "updatedAt": "2026-08-11T03:50:17.058Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-11T03:25:12.890Z"
+      "updatedAt": "2026-08-11T03:50:17.368Z"
     }
   ]
 }
