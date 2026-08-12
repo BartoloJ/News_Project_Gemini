@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-12T05:00:19.751Z",
-  "lastChecked": "2026-08-12T05:00:19.751Z",
-  "lastUpdated": "2026-08-12T05:00:19.751Z",
-  "generatedAt": "2026-08-12T05:00:19.751Z",
+  "fetchedAt": "2026-08-12T05:25:12.333Z",
+  "lastChecked": "2026-08-12T05:25:12.333Z",
+  "lastUpdated": "2026-08-12T05:25:12.333Z",
+  "generatedAt": "2026-08-12T05:25:12.333Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T05:00:18.589Z"
+      "updatedAt": "2026-08-12T05:25:11.031Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Earthquake response strains Colombia's new government and rescuers",
+          "link": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates",
+          "pubDate": "Wed, 12 Aug 2026 01:13:06 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Progressive Peggy Flanagan wins Democratic Senate primary in Minnesota",
           "link": "https://www.npr.org/2026/08/11/nx-s1-5927473/2026-minnesota-senate-primary-election-peggy-flanagan",
@@ -103,30 +109,36 @@
           "link": "https://www.npr.org/2026/08/11/nx-s1-5928121/vaccine-schedule-trump-executive-order-parents-confusion",
           "pubDate": "Tue, 11 Aug 2026 16:20:25 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
-          "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
-          "pubDate": "Tue, 11 Aug 2026 07:11:14 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T05:00:18.686Z"
+      "updatedAt": "2026-08-12T05:25:11.271Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Minnesota primary is latest Democratic proxy fight for Senate and a test for Trump-backed hopefuls - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzNENElkRmF2N0xQRTJpTl9qTVpLQm4xV18zbldhdkRlUDh1Y21iZlgyS2NSMjJZOXlQOERyUzJMVTI2YUhXbVhkU3RPa3o1WVRJbzJoOWFUQnd1eldBVDZlV1JxT1ExZ2tyWnhnZ1ZmcTducDNudHNCVFNOalRoRnFVeVFqTmpDbXF6MjV2QTdlazhYZU1WbG1HUTVqOFZLUVh4M2NxbkF1TkJwZ1hmZG44eTJIYTQ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 02:22:00 GMT",
+          "title": "A democratic socialist is locked in a tight race with a moderate in the Wisconsin governor primary - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnJPS3JyQjJyTXo5SVVsdGljX1dTb1N6YTltOHlGQm1fNHNxMzhvMVRXUWVvcVVpYzhsaDd2Q1RKRndtbXNDUkJaMC14Q3ZFWXZSQVhMc1NQUEF2bzNoWmU3bmxxaG5HZzFDajB3OW9VaHNNX0N4S0t1emhrZFpxbzhBdEtpY1MzTE5YT3BkRTlYLWYxaWl5VHhVd3h0TFl6WUZn?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 04:44:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Early takeaways: Some seasoned candidates and a famous name advance in Tuesday's primaries - apnews.com",
+          "title": "Tuesday’s takeaways: No clear direction for Wisconsin Democrats - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRjFDMUI5eVYzTk9VRHJSRTYyQ1hvU3dpQXU3OVVGdW0wX0dWbkJWWldpRUVMeHdrdEVhOWRKQ2hneDgyYnB3eEtJbkhWRWhEbXZkRHprai1vRTlFSkcxSXg2VEI4TVJkMnIwbmJpazZVN3JXUkd3dzdteE9PQnRidnlWQnlsZWRxUFlPMnlCOFFpSkFPWW1vNlJDc3NBSFNuSk5SQnVYajVrZ2tnejJnMUdrOWRlWTA?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 02:18:00 GMT",
+          "pubDate": "Wed, 12 Aug 2026 03:57:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Sen. Darline Graham, US Rep. Ralph Norman advance to GOP runoff for US Senate in South Carolina - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDFiYmhSaEZBcUFlZjdQYlJkWGVzT2NSaENRSmVlZU05ZGtLYk5MR2VWc0dFRU10eE1JOTFDQkRPbDJPVFBUQnZLLVNCeW14Y3BmOHVRSlRVclBWOEZnWUlXY0VhVkJYeDJqcUxkemRXUGhHdHdEV05HVExVamNGRXV5Qlh2SW9VZlhDUm9MT0xSOGg1R0hPQm1fV01hWm9wd0ZWOGJabw?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 02:42:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Minnesota primary is latest Democratic proxy fight for Senate and a test for Trump-backed hopefuls - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzNENElkRmF2N0xQRTJpTl9qTVpLQm4xV18zbldhdkRlUDh1Y21iZlgyS2NSMjJZOXlQOERyUzJMVTI2YUhXbVhkU3RPa3o1WVRJbzJoOWFUQnd1eldBVDZlV1JxT1ExZ2tyWnhnZ1ZmcTducDNudHNCVFNOalRoRnFVeVFqTmpDbXF6MjV2QTdlazhYZU1WbG1HUTVqOFZLUVh4M2NxbkF1TkJwZ1hmZG44eTJIYTQ?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 02:22:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,12 +154,6 @@
           "source": "AP News"
         },
         {
-          "title": "Sen. Darline Graham, US Rep. Ralph Norman advance to GOP runoff for US Senate in South Carolina - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDFiYmhSaEZBcUFlZjdQYlJkWGVzT2NSaENRSmVlZU05ZGtLYk5MR2VWc0dFRU10eE1JOTFDQkRPbDJPVFBUQnZLLVNCeW14Y3BmOHVRSlRVclBWOEZnWUlXY0VhVkJYeDJqcUxkemRXUGhHdHdEV05HVExVamNGRXV5Qlh2SW9VZlhDUm9MT0xSOGg1R0hPQm1fV01hWm9wd0ZWOGJabw?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 02:00:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
           "pubDate": "Wed, 12 Aug 2026 01:53:00 GMT",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVU9xYkdlUnF6bFpfaVp5S0QyaE03MXNFN3ZOWUlLNUtjZUpmSDRpemxHdE9YTWRtRnpqMlhnc2RoVlAxRDdhX2lNdlgwYnZxMERIRGZNNEhHX1Yza2oyRnlTRU5zZWZWNV9lcm1leFNzbElWV3ZlQUlHUE14cGhfQ0daNzhINy1n?oc=5",
           "pubDate": "Wed, 12 Aug 2026 01:46:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Severe weather knocks out power in Illinois, Indiana and Ohio as ‘ring of fire’ strikes Midwest - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGRDbGhWcVhLSmJRcXdOSDhuc2ZIR1hrX05MeEFDRkZ3dHZGcGp5bU1NVk1EWmV5Z3RwTk1DdVdUU2tuVVhIMUVPaTdpQk1ZaDFodEV5Tkl3dE9lWloteVhTdXFGWEc2YjBkZ0tYWldCZUpNQkdBMndYNFRPbGlEc0lwekRjWk9CQ3gtazdBYXhyUVlnQ3cwbUNxYkN2dGU1?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 01:32:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T05:00:19.065Z"
+      "updatedAt": "2026-08-12T05:25:11.707Z"
     },
     {
       "name": "Reuters",
@@ -175,7 +175,7 @@
         {
           "title": "Australia sets 'world-leading' minimum pay and insurance rules for gig delivery workers - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTAyd3pqTU1uQVFBYy0zTEM5YzBGdUdLYTBudHBKNm1WTVVWWlIwTnVQTThXTjBYSW1LMjgwX2NwdUE1blZVTVBOdW5La2NzamtEdnhKT3lUTW5RQUpkNGxTdTRhVFFpYVdua3E2cU5EeWFWSXZZZXZhZktPSHRUTFNtYmR6YWVFRnJieFcxZFd5VVYxTlVPekJ1SzJ0ZkZhT0RuRmhNSWRZRjlXMVNidVBHelpad0RxRl85VHpxN3pzODNvY2FDVVhIb3JNUXhFU1E?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 03:20:00 GMT",
+          "pubDate": "Wed, 12 Aug 2026 03:42:14 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T05:00:19.436Z"
+      "updatedAt": "2026-08-12T05:25:12.085Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T05:00:19.751Z"
+      "updatedAt": "2026-08-12T05:25:12.333Z"
     }
   ]
 }
