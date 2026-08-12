@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-12T06:25:18.124Z",
-  "lastChecked": "2026-08-12T06:25:18.124Z",
-  "lastUpdated": "2026-08-12T06:25:18.124Z",
-  "generatedAt": "2026-08-12T06:25:18.124Z",
+  "fetchedAt": "2026-08-12T06:50:16.222Z",
+  "lastChecked": "2026-08-12T06:50:16.222Z",
+  "lastUpdated": "2026-08-12T06:50:16.222Z",
+  "generatedAt": "2026-08-12T06:50:16.222Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Boat sinks in Zimbabwe's Lake Kariba with 95 people on board",
+          "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 06:21:42 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
           "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
@@ -44,12 +50,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Russia releases former US Marine reported in poor health",
-          "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 23:33:45 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "These seaside apartments were a ghost city - then police say scammers moved in",
           "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 11 Aug 2026 23:31:18 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T06:25:17.130Z"
+      "updatedAt": "2026-08-12T06:50:14.735Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T06:25:17.259Z"
+      "updatedAt": "2026-08-12T06:50:15.150Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T06:25:17.672Z"
+      "updatedAt": "2026-08-12T06:50:15.605Z"
     },
     {
       "name": "Reuters",
@@ -182,6 +182,12 @@
           "title": "Ukraine halts strikes on tankers using Russian port at US request, FT says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkZkYzMtVVN3NE53N0Zpbk8xV3hlVjJFLUU0c1p2S291LW03Y05IRG11ZFA4QVZQZUJFSHFiT1hNaFgzTkdkbHc4Ri1HbEx3MzVyQkpYMHo3dGY0aURzam5zX1piSzhQZGFYUzczWUVEVTYzZDdVRGQ2OEp3aTVoZUE5dlBsODN3NWxBdWJyVXJkajdmc3BJZDlmWkszUl9hU0dmcEpCZm1ER0twSkE?oc=5",
           "pubDate": "Wed, 12 Aug 2026 04:52:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Indian shares subdued as higher crude prices weigh - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzU1RG9ES2Uycy1MN0ZfZzR5V2lwd0NuaGZ2QVJsRVMxMmp0YkFQNElpUXd1cTU1RUtLWkU5Y0dmNnhsSU5jbWVYaFpfYTA2bHhrYVN1ODZKc1FtMkFFM0liNXc5U0lodzU3TEE0dDNGV3plOHdkTUE3MGxVdmxGSHZhVDhvdEhIQ001LU5uN3ZxS3dxUWNNWWRkd3hMdjVBQ2tzZl9xVDM?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 04:41:50 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "US military operations killed 153 civilians in 2025, official says, citing Pentagon assessment - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMEtUb1g4Rnk4OS05dUNyRjZlMFFkRnAxYjhhMUhWcWI4bC1GdmJEOTZmd3BQalppUXQ4VDdDZThuMnFmcVI2SDNtdE95N1pId1ZlTGVUQVc0TzJZQWVtc1paZzNKV012d3dXNUlRcEtPWmplNDJUaVhRX2pnWUVZN19xRkYwN3R6NjFuSVJ0RUxpUHdPTHU1d3M0VTRHQnA5aW56aXMzLVgyRG9FRFZ3X1hHRmhxdTltTkp5YnlrYm16ZEI3YWUteGtBaVQ?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 03:34:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Oil, gold prices rise as geopolitical tensions mount before CPI - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
           "pubDate": "Wed, 12 Aug 2026 02:19:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US appeals court voids formula used to avert surprise medical bills - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVMyWk1teEExNlY4dmRxUkNIbTJBVG85VEx5aUdSTGpKTncxTnRuc2U0VkpJUHRGUXdjWlEzVXNqSHZpU0RUX2hMOVZIMGE4TnAyTG5tZ1A3aGhYVmYwY2NSaHRfeEhsX052dUJGc0lCZTVyOTRPc09yTHN2MER0YWcxWnZ3dzhBYUFWam1xV1NUaC1DX1IwelhmLXpCdkRsSXNweW1vRDYxSW5BRXd0WXBzRkhYQzAw?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 01:45:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Typhoon Dolphin's remnants brings torrential rain to Beijing - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXA4N3otU1Q0YUNmTExjeTloMHpfRFZQWVFHbkJUdUMyVTE4T255YkpkamZPb0lKUmpGNEpXMnJmYWlyVzk1MHlzNldLSzhqY0t0UkV1V0FEbl9KZGZYeXJmSi1JVEhSYlJYSy1GX0RvNmNNWWcxUmJDUmtORkJ6TXRBUkZtUjR3Wi1CLUxxdEoxUnRoUnpvaG92cWZmZ1FPd2hoblhpZjFNTWNOLV9ZdFRsUQ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 01:28:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T06:25:18.061Z"
+      "updatedAt": "2026-08-12T06:50:15.985Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T06:25:18.124Z"
+      "updatedAt": "2026-08-12T06:50:16.222Z"
     }
   ]
 }
