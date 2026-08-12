@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-12T01:57:13.464Z",
-  "lastChecked": "2026-08-12T01:57:13.464Z",
-  "lastUpdated": "2026-08-12T01:57:13.464Z",
-  "generatedAt": "2026-08-12T01:57:13.464Z",
+  "fetchedAt": "2026-08-12T02:00:23.286Z",
+  "lastChecked": "2026-08-12T02:00:23.286Z",
+  "lastUpdated": "2026-08-12T02:00:23.286Z",
+  "generatedAt": "2026-08-12T02:00:23.286Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T01:57:12.198Z"
+      "updatedAt": "2026-08-12T02:00:21.900Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T01:57:12.449Z"
+      "updatedAt": "2026-08-12T02:00:21.996Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 01:53:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "North Korea launches another missile toward sea ahead of US-South Korean military drills - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnZFb3lBeVlieUQySkUtb2dJUXFpZzJkYlVCTkFNaDVwVVY4Mll0QnVDVTc3SU0yRFZNdjlUdF9QWkY1TzNsb3FIRUJnbDJSSjFlc3FCUERFeGZyT2U1dzRlN05xRTRlbkpPUENyd0FmZWpxYkUyTWZHaHJzMHR1OXNUdUgwVEY2cDhNaG1SZ0tOMERBRGowUDN1MzBXUm5qYU12QTVsMFE0RlhXV0E?oc=5",
@@ -142,21 +148,9 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 22:46:01 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Minnesota primary is latest Democratic proxy fight for Senate and a test for Trump-backed hopefuls - AP News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzNENElkRmF2N0xQRTJpTl9qTVpLQm4xV18zbldhdkRlUDh1Y21iZlgyS2NSMjJZOXlQOERyUzJMVTI2YUhXbVhkU3RPa3o1WVRJbzJoOWFUQnd1eldBVDZlV1JxT1ExZ2tyWnhnZ1ZmcTducDNudHNCVFNOalRoRnFVeVFqTmpDbXF6MjV2QTdlazhYZU1WbG1HUTVqOFZLUVh4M2NxbkF1TkJwZ1hmZG44eTJIYTQ?oc=5",
           "pubDate": "Tue, 11 Aug 2026 22:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Former US Marine held in Russia for more than 4 years on disputed charges has been released - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGY2X3hsV2ZqU20tcG9taFJfTDVrZHFqTU9wLXhEMlhvbTd0Und6QWE4VloxVkk2WjBEVDFpTTlHTmN2SkhndmtYTjRzMXZETDQ4UjhWYzNiZDFHUEVhdW1HRzNmRmtBMzQ1ZkctQ3Q2aGdORmpRM2YybGtPS1RuQlhxSzRLOGlibDIyREFVWWRfdGlXZl9HMzNtSkhBSjdy?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 22:31:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSVB6d0I3VVdGRDdtN0l3T1hleUI4bFgyZ2RkSXJPQnUxVkMwVVVFRnJiZUFuUTBhbDJFcHZ5V0hmcU5FLUJ5aDAyWUQtOHd3SGtuSURxZkdTcjUyVHBJWWVLSlh0cFNXSC1WdUxyaW1BOG04X195em9BcTNEMVB3aUM0UVdDeEVld3pDUFdZUkExOFZ5R0g0NHp3?oc=5",
           "pubDate": "Tue, 11 Aug 2026 22:31:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "AP Exclusive: ICE plans to give officers gloves that can deliver painful electric shocks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQakRaNUk3TFc0MlhFNWd6VV83NnprMDBkTkYzaEgyUXB2YVZybFBPSlByNkFkb2tJV1dTM0pHanF0OGgtWHBGcXpQanJETi1wUlU5Wnd0SU00VmhFT2IwMFRCaDhBZkFSVUgyVERBOVlxcGJnRTItZHNpbVJ1b3FFMjRHTEo1ZnpWQllvTmdn?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 22:17:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T01:57:12.877Z"
+      "updatedAt": "2026-08-12T02:00:22.482Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T01:57:13.274Z"
+      "updatedAt": "2026-08-12T02:00:22.921Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T01:57:13.464Z"
+      "updatedAt": "2026-08-12T02:00:23.286Z"
     }
   ]
 }
