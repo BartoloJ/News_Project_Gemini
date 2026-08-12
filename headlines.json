@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-12T11:25:15.046Z",
-  "lastChecked": "2026-08-12T11:25:15.046Z",
-  "lastUpdated": "2026-08-12T11:25:15.046Z",
-  "generatedAt": "2026-08-12T11:25:15.046Z",
+  "fetchedAt": "2026-08-12T11:29:27.853Z",
+  "lastChecked": "2026-08-12T11:29:27.853Z",
+  "lastUpdated": "2026-08-12T11:29:27.853Z",
+  "generatedAt": "2026-08-12T11:29:27.853Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T11:25:13.266Z"
+      "updatedAt": "2026-08-12T11:29:26.540Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
+          "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
+          "pubDate": "Wed, 12 Aug 2026 07:25:11 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
           "link": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
@@ -81,14 +87,14 @@
           "source": "NPR"
         },
         {
-          "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
-          "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+          "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
+          "link": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
           "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
-          "link": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
+          "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
+          "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
           "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
           "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief",
-          "pubDate": "Wed, 12 Aug 2026 04:47:50 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T11:25:13.814Z"
+      "updatedAt": "2026-08-12T11:29:26.842Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T11:25:14.309Z"
+      "updatedAt": "2026-08-12T11:29:27.278Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T11:25:14.753Z"
+      "updatedAt": "2026-08-12T11:29:27.719Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T11:25:15.046Z"
+      "updatedAt": "2026-08-12T11:29:27.853Z"
     }
   ]
 }
