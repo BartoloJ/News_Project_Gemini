@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-12T13:25:15.312Z",
-  "lastChecked": "2026-08-12T13:25:15.312Z",
-  "lastUpdated": "2026-08-12T13:25:15.312Z",
-  "generatedAt": "2026-08-12T13:25:15.312Z",
+  "fetchedAt": "2026-08-12T13:46:07.359Z",
+  "lastChecked": "2026-08-12T13:46:07.359Z",
+  "lastUpdated": "2026-08-12T13:46:07.359Z",
+  "generatedAt": "2026-08-12T13:46:07.359Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,13 @@
         {
           "title": "US inflation eases as food costs cool",
           "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 12 Aug 2026 13:13:21 GMT",
+          "pubDate": "Wed, 12 Aug 2026 13:40:51 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
+          "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 13:35:12 GMT",
           "source": "BBC News"
         },
         {
@@ -29,12 +35,6 @@
           "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
           "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 12 Aug 2026 12:01:34 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
-          "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 12 Aug 2026 11:32:17 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T13:25:13.883Z"
+      "updatedAt": "2026-08-12T13:46:05.947Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
+          "link": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
+          "pubDate": "Wed, 12 Aug 2026 09:38:58 -0400",
+          "source": "NPR"
+        },
         {
           "title": "His wedding guests gave $6k to fund a health startup. Now it's won a $3 million prize",
           "link": "https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi",
@@ -99,12 +105,6 @@
           "source": "NPR"
         },
         {
-          "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
-          "link": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
-          "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
           "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
           "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T13:25:14.313Z"
+      "updatedAt": "2026-08-12T13:46:06.279Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Ukraine’s Zelenskyy says a nighttime blitz damages Russia’s Black Sea naval stronghold - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbS1PZ202OFpxcUktZG9xalEwRG56WGQwZ0JUODVjbEFjRU0xaHhoaDMwUkYxS05OUzlFN01hdnc4R0xGMUtoMkVKTUk0OHF6S3AyRFRkWXREOGMzNlFVZl9Calh1SlJBNDdLRUpRWWg1VDZJdS1zdGhsaUtjU0FOTk0zTE82X2JhcGRkZGFUQktXYm1tM0E?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 11:41:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "David Crowley wins Democratic primary for Wisconsin governor over progressive Francesca Hong - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnJPS3JyQjJyTXo5SVVsdGljX1dTb1N6YTltOHlGQm1fNHNxMzhvMVRXUWVvcVVpYzhsaDd2Q1RKRndtbXNDUkJaMC14Q3ZFWXZSQVhMc1NQUEF2bzNoWmU3bmxxaG5HZzFDajB3OW9VaHNNX0N4S0t1emhrZFpxbzhBdEtpY1MzTE5YT3BkRTlYLWYxaWl5VHhVd3h0TFl6WUZn?oc=5",
@@ -158,71 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa3lBb3V0ZktZWnAwNUx3S3pEaG4zUjE5ZHZ2b256N0lwOENNRjdLVlMxS0ZlcWVHRUJCQkF6aVZLeS1HVnZ6RTBmTVBMWUFqS19UaWJTdHM2X041Z2V2UlFqcVVrSWZ2ZGZhLXBrTDFydmhCenAtazZpbkhBVS1sZXQxZw?oc=5",
           "pubDate": "Wed, 12 Aug 2026 08:24:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Tropical Storm Chan-hom weakens and departs Japan after causing power outages and injuries - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHB4WExBdkI0LWFRQ05ZNmZnTzZrcV8yQmgtTVlJY1VFbE9zZ1Vub2g2R1pCQmNMSThyU2o1dV9UZC04S3dGVVgwVDFjUXlrbWN5TmdTTDlxMXNad1p3R1ZIa1p0blVvT25KNVpiaUFUclpJNU9aVUJ3SU45WEI0dHpsZ1pzTmtULUE3MkRBcmlpZnpiV0JWSXF3?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 06:56:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T13:25:14.719Z"
+      "updatedAt": "2026-08-12T13:46:06.789Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Etna ash prompts extended closure of Catania airport, disrupting peak-season travel - reuters.com",
+          "title": "US consumer prices increase as expected in July - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVo4RlREbjZCeDFybnNPaTFlMDl0SnhGblQ3ZjE4NzA2WlVKU0diWDJqN1lPWXFvVk13eDY5TVhKYXROYXVJb2tLRzM0YVFaNXEzRWxLNWI0blFUSHZqbVN6aVRrMWFPR3Foa0hJd1FLZTluRVAtWlp0d3k1U1doeUhRVlRoRFltSzRneHcyYw?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 13:19:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Etna ash prompts extended closure of Catania airport, disrupting peak-season travel - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT3hzejBmeUs5TzgtMXdxangwQWNSV1ZKb1VEamN1QTE0ajVKU0l0ME5DZm0xUWNnT3VxRGxpWWJIZVVtaDZHRFFTR3dDSDdYT3BnYUloTmwwYzRWc1FsSzRnbllxZ3BGWmFvMDQ2UUpUaXJIWUZieDVWWkViYUhSX0hZeHY4ZnBONnNFanYzSUlPMF9GQzB5dmc1OElzV0c0OW14TDV1Zmc0R2ZublpKb2J2cm5UQVlLcC1yODNzc1FBekQwOGEtNFRjMTRjcGRzdlE?oc=5",
           "pubDate": "Wed, 12 Aug 2026 13:17:14 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US must return to interim deal, no ceasefire extension talks, senior Iranian source says - reuters.com",
+          "title": "Gulf oil spill fast becoming worst in years, agencies warn - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 13:15:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St set to open higher after inflation data, earnings boost - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 13:10:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US must return to interim deal, no ceasefire extension talks, senior Iranian source says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf?oc=5",
           "pubDate": "Wed, 12 Aug 2026 13:06:17 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Nebius beats estimates as customers race to secure AI computing power - reuters.com",
+          "title": "Nebius beats estimates as customers race to secure AI computing power - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUJZTnBKRUxhdFR1VGRmaGQxOUlHTHEwcjdaekRVbjh1LXpZd0NIS1haVElfejU4a19QWjB4SlZxRDlNdVNzSDUweVRfc292M052MHNJdTNNT1ZoRHpOTXNUWVJLb3R5cVdfLUhjb0FsOHR3NFY1b2ZyVUxUZEl6VjhDVFI2ZG9PT1c0SGhmQ0hvMjRXS2doRTF3aG9BdjhraGVqMGExcUxqN3R1Zzlj?oc=5",
           "pubDate": "Wed, 12 Aug 2026 13:00:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US consumer prices increase as expected in July - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVo4RlREbjZCeDFybnNPaTFlMDl0SnhGblQ3ZjE4NzA2WlVKU0diWDJqN1lPWXFvVk13eDY5TVhKYXROYXVJb2tLRzM0YVFaNXEzRWxLNWI0blFUSHZqbVN6aVRrMWFPR3Foa0hJd1FLZTluRVAtWlp0d3k1U1doeUhRVlRoRFltSzRneHcyYw?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 12:48:57 GMT",
+          "title": "F-16 aircraft crashes in training flight in Turkey, defence ministry says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXdCZ01PTGIxTWJuWmVlM3l6d3lROVl1Znl3Y195dGJfQzFSTHlOenZXX2dYR0dSZkJhQzg1VkJaQUlBT01uZkhjUHJhUDVrNDJsMzJHbFJmZExCSTl3cVhJMk9jN2pVSGtxQThkODBvZ21maVVFd0pMWjFkQU5qT1FzZlhBTWZBTWFWa3laZVJXbW9UcVppU0pHbEM2SVpmNmhvYUd1b29HWF9L?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 12:38:22 GMT",
           "source": "Reuters"
         },
         {
-          "title": "India says border peace critical to ties with China amid reports of military tensions - reuters.com",
+          "title": "India says border peace critical to ties with China amid reports of military tensions - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWNGWmx4dVY4QjloM1pZVERMNkxjZFVyc2Zmd1JYWnoySVhyTHpJZHg0YlFsVmZMUnFVd1BXelFwdExFM3QxWENXVFF1YlhwNDFqaVNudzN2OWtPczRBbTRPQ21zUEM1M0w2enMtNWJSc2pwOTI5Wm9FbXZlaFhQbHB1STFBRlBRSVZuTnNEUWJDWGdkSUtWLXZwYXRkRU1KRWlXS2NneGE4SkNXWXpkeXJhQzNPUXZlVDNoakRRMExqOGY3Rnc?oc=5",
           "pubDate": "Wed, 12 Aug 2026 12:18:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "CoreWeave, Super Micro climb on signs of sustained AI buildout - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1NWQ1duSk1Sa2xQVHlVZjFyUUVmUDJleTJkOG9vM05LUjk4aWtsaUZoUTY2eWdWY2ZKcGNjaVd5Z0lULTFMNlBEeDhTWl84Q05vb0kzMjB6RjVtRkNTYmIyRkFOLWhDLWdHU2loU2ZTY0o5TURxTUFpb0hWejN6NG9VNE5RTTFTMmJzTVBYa3Q4RjhCRXpjek9LOTdnV01RRHc?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 11:59:42 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Putin says Russia will start seizing EU vessels if bloc goes after Russian ships - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakNBZk1WeHVZd2NFMWx4QS04YWNWZDd2OTdUeGtEbGI1WHNBR3FFd3huTllRR1BUTEdJMjhBRS1JeEpoSWdUNUhsOWtpa1NRV2ZJOFZ6RXJYVmU2QkNuNEFzcUQtMXZvS0V2SDViQnRUZXFHLXd0c0UwVUFRLVRxTVc1MmhXbmtPQjc0dm40ektkVXpMdXpUVUUyRVJDYnJ6d015Ulp2M0I3Mk1sOWdYTU5Sdw?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 11:48:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US stock futures gain ahead of July inflation data - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 11:15:08 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T13:25:15.115Z"
+      "updatedAt": "2026-08-12T13:46:07.190Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T13:25:15.312Z"
+      "updatedAt": "2026-08-12T13:46:07.358Z"
     }
   ]
 }
