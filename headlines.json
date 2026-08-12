@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-12T13:50:15.852Z",
-  "lastChecked": "2026-08-12T13:50:15.852Z",
-  "lastUpdated": "2026-08-12T13:50:15.852Z",
-  "generatedAt": "2026-08-12T13:50:15.852Z",
+  "fetchedAt": "2026-08-12T14:00:20.250Z",
+  "lastChecked": "2026-08-12T14:00:20.250Z",
+  "lastUpdated": "2026-08-12T14:00:20.250Z",
+  "generatedAt": "2026-08-12T14:00:20.250Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
+          "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 13:55:56 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "US inflation eases as food costs cool",
           "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
-          "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 12 Aug 2026 12:01:34 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
           "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 12 Aug 2026 11:28:05 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T13:50:14.637Z"
+      "updatedAt": "2026-08-12T14:00:18.675Z"
     },
     {
       "name": "NPR",
@@ -112,62 +112,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T13:50:14.696Z"
+      "updatedAt": "2026-08-12T14:00:18.897Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Ukraine’s Zelenskyy says a nighttime blitz damages Russia’s Black Sea naval stronghold - apnews.com",
+          "title": "Ukraine’s Zelenskyy says a nighttime blitz damages Russia’s Black Sea naval stronghold - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbS1PZ202OFpxcUktZG9xalEwRG56WGQwZ0JUODVjbEFjRU0xaHhoaDMwUkYxS05OUzlFN01hdnc4R0xGMUtoMkVKTUk0OHF6S3AyRFRkWXREOGMzNlFVZl9Calh1SlJBNDdLRUpRWWg1VDZJdS1zdGhsaUtjU0FOTk0zTE82X2JhcGRkZGFUQktXYm1tM0E?oc=5",
           "pubDate": "Wed, 12 Aug 2026 11:41:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "David Crowley wins Democratic primary for Wisconsin governor over progressive Francesca Hong - apnews.com",
+          "title": "David Crowley wins Democratic primary for Wisconsin governor over progressive Francesca Hong - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnJPS3JyQjJyTXo5SVVsdGljX1dTb1N6YTltOHlGQm1fNHNxMzhvMVRXUWVvcVVpYzhsaDd2Q1RKRndtbXNDUkJaMC14Q3ZFWXZSQVhMc1NQUEF2bzNoWmU3bmxxaG5HZzFDajB3OW9VaHNNX0N4S0t1emhrZFpxbzhBdEtpY1MzTE5YT3BkRTlYLWYxaWl5VHhVd3h0TFl6WUZn?oc=5",
           "pubDate": "Wed, 12 Aug 2026 11:39:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Spain prepares for rare solar eclipse against backdrop of heat and wildfires - apnews.com",
+          "title": "Spain prepares for rare solar eclipse against backdrop of heat and wildfires - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWxPSks4anlXZ3AwVXZ4YlRoMzYxRHFuc2dpTllDUTJrbHUwSU5LNzRyRnlzVmNDaWFtb1FZcFRVeVJJeHRBU1NDUVhnV21ycjM2cnNKbHIzN0JITzI0RVFBUmFoMTFCTHROVk91NWc2bngxRG5vZmc3RVVCeHdLcS11Y2I5dlhhUEM5Wm44cnRwR29OWjhjRnJhT1RZTFU?oc=5",
           "pubDate": "Wed, 12 Aug 2026 11:26:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "North Korea launches another missile toward sea ahead of US-South Korean military drills - apnews.com",
+          "title": "North Korea launches another missile toward sea ahead of US-South Korean military drills - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnZFb3lBeVlieUQySkUtb2dJUXFpZzJkYlVCTkFNaDVwVVY4Mll0QnVDVTc3SU0yRFZNdjlUdF9QWkY1TzNsb3FIRUJnbDJSSjFlc3FCUERFeGZyT2U1dzRlN05xRTRlbkpPUENyd0FmZWpxYkUyTWZHaHJzMHR1OXNUdUgwVEY2cDhNaG1SZ0tOMERBRGowUDN1MzBXUm5qYU12QTVsMFE0RlhXV0E?oc=5",
           "pubDate": "Wed, 12 Aug 2026 10:34:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Tuesday’s takeaways: No clear direction for Wisconsin Democrats - apnews.com",
+          "title": "Tuesday’s takeaways: No clear direction for Wisconsin Democrats - AP News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRjFDMUI5eVYzTk9VRHJSRTYyQ1hvU3dpQXU3OVVGdW0wX0dWbkJWWldpRUVMeHdrdEVhOWRKQ2hneDgyYnB3eEtJbkhWRWhEbXZkRHprai1vRTlFSkcxSXg2VEI4TVJkMnIwbmJpazZVN3JXUkd3dzdteE9PQnRidnlWQnlsZWRxUFlPMnlCOFFpSkFPWW1vNlJDc3NBSFNuSk5SQnVYajVrZ2tnejJnMUdrOWRlWTA?oc=5",
           "pubDate": "Wed, 12 Aug 2026 09:51:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump says Secret Service and the military wanted him off Air Force One in Turkey due to threat - apnews.com",
+          "title": "Trump says Secret Service and the military wanted him off Air Force One in Turkey due to threat - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVV1RWxfQzVfNS1IeF9sWDl4UGFjTWR0ZUlWTDZJR2t4ekRRRENZdmNZMmZCMGtGM2VEOWpFX21jQXRkZ0NoUkROZWdWUndfZ09uNy1odFpDellLYXFnaFJiSlVxeFQ1T1lBTGJha1pqbWd6LU9JVWotNVE5MTVQeGpxX1Zqa0t1MkdxZ3NOOFRzdnVsT1d6TkFYSGREVkRm?oc=5",
           "pubDate": "Wed, 12 Aug 2026 08:52:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - apnews.com",
+          "title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
           "pubDate": "Wed, 12 Aug 2026 08:46:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Luxon survives another leadership vote months before New Zealand’s election - apnews.com",
+          "title": "Luxon survives another leadership vote months before New Zealand’s election - AP News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa3lBb3V0ZktZWnAwNUx3S3pEaG4zUjE5ZHZ2b256N0lwOENNRjdLVlMxS0ZlcWVHRUJCQkF6aVZLeS1HVnZ6RTBmTVBMWUFqS19UaWJTdHM2X041Z2V2UlFqcVVrSWZ2ZGZhLXBrTDFydmhCenAtazZpbkhBVS1sZXQxZw?oc=5",
           "pubDate": "Wed, 12 Aug 2026 08:24:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T13:50:15.133Z"
+      "updatedAt": "2026-08-12T14:00:19.410Z"
     },
     {
       "name": "Reuters",
@@ -209,20 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Half of Afghan women rarely leave home as Taliban restrictions deepen, UN agency says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcFBWU21ObEJKalpYblVvM2luZWFfbmZOUUM0QkJCSE5WWmdxOWh4Szl6cG9VTXYtTlRjblJHMFJmNjNVYUVzSklhWHlhMDNNeUpYS1dSTFNVUkY0YlYwS01PYVcyWmNsMEcwR3dpYlMteHNoY0N5dGFJZzZrY3F6TWE2SjMyWXBrdnJ6TXFDWlZRTHEzaWFSRGJaSDdCenFjZ0hsRGRnV19nZHE1cURvZ29SU3c2VUYtX1JlTVVSWUc4TEZUNk96TmQyYm92dw?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 13:00:29 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Nebius beats estimates as customers race to secure AI computing power - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUJZTnBKRUxhdFR1VGRmaGQxOUlHTHEwcjdaekRVbjh1LXpZd0NIS1haVElfejU4a19QWjB4SlZxRDlNdVNzSDUweVRfc292M052MHNJdTNNT1ZoRHpOTXNUWVJLb3R5cVdfLUhjb0FsOHR3NFY1b2ZyVUxUZEl6VjhDVFI2ZG9PT1c0SGhmQ0hvMjRXS2doRTF3aG9BdjhraGVqMGExcUxqN3R1Zzlj?oc=5",
           "pubDate": "Wed, 12 Aug 2026 13:00:09 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "India says border peace critical to ties with China amid reports of military tensions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWNGWmx4dVY4QjloM1pZVERMNkxjZFVyc2Zmd1JYWnoySVhyTHpJZHg0YlFsVmZMUnFVd1BXelFwdExFM3QxWENXVFF1YlhwNDFqaVNudzN2OWtPczRBbTRPQ21zUEM1M0w2enMtNWJSc2pwOTI5Wm9FbXZlaFhQbHB1STFBRlBRSVZuTnNEUWJDWGdkSUtWLXZwYXRkRU1KRWlXS2NneGE4SkNXWXpkeXJhQzNPUXZlVDNoakRRMExqOGY3Rnc?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 12:55:42 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T13:50:15.613Z"
+      "updatedAt": "2026-08-12T14:00:19.887Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T13:50:15.852Z"
+      "updatedAt": "2026-08-12T14:00:20.250Z"
     }
   ]
 }
