@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-12T13:00:25.344Z",
-  "lastChecked": "2026-08-12T13:00:25.344Z",
-  "lastUpdated": "2026-08-12T13:00:25.344Z",
-  "generatedAt": "2026-08-12T13:00:25.344Z",
+  "fetchedAt": "2026-08-12T13:25:15.312Z",
+  "lastChecked": "2026-08-12T13:25:15.312Z",
+  "lastUpdated": "2026-08-12T13:25:15.312Z",
+  "generatedAt": "2026-08-12T13:25:15.312Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US inflation eases as food costs cool",
+          "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 13:13:21 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Israeli settlers besieging Palestinian families in West Bank village",
           "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 12 Aug 2026 08:50:52 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-          "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 12 Aug 2026 07:44:44 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T13:00:24.295Z"
+      "updatedAt": "2026-08-12T13:25:13.883Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "His wedding guests gave $6k to fund a health startup. Now it's won a $3 million prize",
+          "link": "https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi",
+          "pubDate": "Wed, 12 Aug 2026 09:00:19 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Zhu Rongji, who drove China's 1990s economic reforms, has died at 97",
           "link": "https://www.npr.org/2026/08/12/1196705508/zhu-rongji-china-former-premier-dead",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
           "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "How a road could change West Africa's urban future",
-          "link": "https://www.npr.org/2026/08/12/nx-s1-5901327/west-africa-trade-growth-economy-nigeria-ghana-lagos",
-          "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T13:00:24.382Z"
+      "updatedAt": "2026-08-12T13:25:14.313Z"
     },
     {
       "name": "AP News",
@@ -127,6 +127,12 @@
           "title": "Spain prepares for rare solar eclipse against backdrop of heat and wildfires - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWxPSks4anlXZ3AwVXZ4YlRoMzYxRHFuc2dpTllDUTJrbHUwSU5LNzRyRnlzVmNDaWFtb1FZcFRVeVJJeHRBU1NDUVhnV21ycjM2cnNKbHIzN0JITzI0RVFBUmFoMTFCTHROVk91NWc2bngxRG5vZmc3RVVCeHdLcS11Y2I5dlhhUEM5Wm44cnRwR29OWjhjRnJhT1RZTFU?oc=5",
           "pubDate": "Wed, 12 Aug 2026 11:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "North Korea launches another missile toward sea ahead of US-South Korean military drills - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnZFb3lBeVlieUQySkUtb2dJUXFpZzJkYlVCTkFNaDVwVVY4Mll0QnVDVTc3SU0yRFZNdjlUdF9QWkY1TzNsb3FIRUJnbDJSSjFlc3FCUERFeGZyT2U1dzRlN05xRTRlbkpPUENyd0FmZWpxYkUyTWZHaHJzMHR1OXNUdUgwVEY2cDhNaG1SZ0tOMERBRGowUDN1MzBXUm5qYU12QTVsMFE0RlhXV0E?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 10:34:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,81 +154,75 @@
           "source": "AP News"
         },
         {
+          "title": "Luxon survives another leadership vote months before New Zealand’s election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa3lBb3V0ZktZWnAwNUx3S3pEaG4zUjE5ZHZ2b256N0lwOENNRjdLVlMxS0ZlcWVHRUJCQkF6aVZLeS1HVnZ6RTBmTVBMWUFqS19UaWJTdHM2X041Z2V2UlFqcVVrSWZ2ZGZhLXBrTDFydmhCenAtazZpbkhBVS1sZXQxZw?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 08:24:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Tropical Storm Chan-hom weakens and departs Japan after causing power outages and injuries - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHB4WExBdkI0LWFRQ05ZNmZnTzZrcV8yQmgtTVlJY1VFbE9zZ1Vub2g2R1pCQmNMSThyU2o1dV9UZC04S3dGVVgwVDFjUXlrbWN5TmdTTDlxMXNad1p3R1ZIa1p0blVvT25KNVpiaUFUclpJNU9aVUJ3SU45WEI0dHpsZ1pzTmtULUE3MkRBcmlpZnpiV0JWSXF3?oc=5",
           "pubDate": "Wed, 12 Aug 2026 06:56:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Luxon survives another leadership vote months before New Zealand’s election - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa3lBb3V0ZktZWnAwNUx3S3pEaG4zUjE5ZHZ2b256N0lwOENNRjdLVlMxS0ZlcWVHRUJCQkF6aVZLeS1HVnZ6RTBmTVBMWUFqS19UaWJTdHM2X041Z2V2UlFqcVVrSWZ2ZGZhLXBrTDFydmhCenAtazZpbkhBVS1sZXQxZw?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 05:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Progressive Democrats get another win in Minnesota US Senate primary - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzNENElkRmF2N0xQRTJpTl9qTVpLQm4xV18zbldhdkRlUDh1Y21iZlgyS2NSMjJZOXlQOERyUzJMVTI2YUhXbVhkU3RPa3o1WVRJbzJoOWFUQnd1eldBVDZlV1JxT1ExZ2tyWnhnZ1ZmcTducDNudHNCVFNOalRoRnFVeVFqTmpDbXF6MjV2QTdlazhYZU1WbG1HUTVqOFZLUVh4M2NxbkF1TkJwZ1hmZG44eTJIYTQ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 05:05:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T13:00:24.798Z"
+      "updatedAt": "2026-08-12T13:25:14.719Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "India says border peace critical to ties with China amid reports of military tensions - Reuters",
+          "title": "Etna ash prompts extended closure of Catania airport, disrupting peak-season travel - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT3hzejBmeUs5TzgtMXdxangwQWNSV1ZKb1VEamN1QTE0ajVKU0l0ME5DZm0xUWNnT3VxRGxpWWJIZVVtaDZHRFFTR3dDSDdYT3BnYUloTmwwYzRWc1FsSzRnbllxZ3BGWmFvMDQ2UUpUaXJIWUZieDVWWkViYUhSX0hZeHY4ZnBONnNFanYzSUlPMF9GQzB5dmc1OElzV0c0OW14TDV1Zmc0R2ZublpKb2J2cm5UQVlLcC1yODNzc1FBekQwOGEtNFRjMTRjcGRzdlE?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 13:17:14 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US must return to interim deal, no ceasefire extension talks, senior Iranian source says - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 13:06:17 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nebius beats estimates as customers race to secure AI computing power - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUJZTnBKRUxhdFR1VGRmaGQxOUlHTHEwcjdaekRVbjh1LXpZd0NIS1haVElfejU4a19QWjB4SlZxRDlNdVNzSDUweVRfc292M052MHNJdTNNT1ZoRHpOTXNUWVJLb3R5cVdfLUhjb0FsOHR3NFY1b2ZyVUxUZEl6VjhDVFI2ZG9PT1c0SGhmQ0hvMjRXS2doRTF3aG9BdjhraGVqMGExcUxqN3R1Zzlj?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 13:00:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US consumer prices increase as expected in July - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVo4RlREbjZCeDFybnNPaTFlMDl0SnhGblQ3ZjE4NzA2WlVKU0diWDJqN1lPWXFvVk13eDY5TVhKYXROYXVJb2tLRzM0YVFaNXEzRWxLNWI0blFUSHZqbVN6aVRrMWFPR3Foa0hJd1FLZTluRVAtWlp0d3k1U1doeUhRVlRoRFltSzRneHcyYw?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 12:48:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "India says border peace critical to ties with China amid reports of military tensions - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWNGWmx4dVY4QjloM1pZVERMNkxjZFVyc2Zmd1JYWnoySVhyTHpJZHg0YlFsVmZMUnFVd1BXelFwdExFM3QxWENXVFF1YlhwNDFqaVNudzN2OWtPczRBbTRPQ21zUEM1M0w2enMtNWJSc2pwOTI5Wm9FbXZlaFhQbHB1STFBRlBRSVZuTnNEUWJDWGdkSUtWLXZwYXRkRU1KRWlXS2NneGE4SkNXWXpkeXJhQzNPUXZlVDNoakRRMExqOGY3Rnc?oc=5",
           "pubDate": "Wed, 12 Aug 2026 12:18:49 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Putin says Russia will start seizing EU vessels if bloc goes after Russian ships - Reuters",
+          "title": "CoreWeave, Super Micro climb on signs of sustained AI buildout - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1NWQ1duSk1Sa2xQVHlVZjFyUUVmUDJleTJkOG9vM05LUjk4aWtsaUZoUTY2eWdWY2ZKcGNjaVd5Z0lULTFMNlBEeDhTWl84Q05vb0kzMjB6RjVtRkNTYmIyRkFOLWhDLWdHU2loU2ZTY0o5TURxTUFpb0hWejN6NG9VNE5RTTFTMmJzTVBYa3Q4RjhCRXpjek9LOTdnV01RRHc?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 11:59:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Putin says Russia will start seizing EU vessels if bloc goes after Russian ships - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakNBZk1WeHVZd2NFMWx4QS04YWNWZDd2OTdUeGtEbGI1WHNBR3FFd3huTllRR1BUTEdJMjhBRS1JeEpoSWdUNUhsOWtpa1NRV2ZJOFZ6RXJYVmU2QkNuNEFzcUQtMXZvS0V2SDViQnRUZXFHLXd0c0UwVUFRLVRxTVc1MmhXbmtPQjc0dm40ektkVXpMdXpUVUUyRVJDYnJ6d015Ulp2M0I3Mk1sOWdYTU5Sdw?oc=5",
           "pubDate": "Wed, 12 Aug 2026 11:48:17 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran, US not discussing ceasefire extension, senior Iranian official says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 11:35:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US stock futures gain ahead of July inflation data - Reuters",
+          "title": "US stock futures gain ahead of July inflation data - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
           "pubDate": "Wed, 12 Aug 2026 11:15:08 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Turkey's PKK peace law brings hope to mothers, anguish to veterans - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX0Y1TmcwM2ozOWtKN2ExbVRLNmN4NEk4eC1WeE8wY3FnRUQ3cUdsOEFlaHRwNEVHU0RBdGNLeTBfMmhEb3cxcVFjWTVFX2FlUDBGUjZldzE5aHJEMU5iLTJCY3phT1RHcGc4Wl9iQ0o0c21LaFlJbHZ1WFRGNnFmQU1Bc2FOeGN2VlNzN1p3X09NMEZiNnBvVHhNVWpTOFYxWXZWbWZMU3JOcUg5ZnlnN1VqVkpscUk1?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 11:04:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Tencent Q2 revenue climbs 11% on AI-driven ad gains, but profit falls short - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPME1fZ1hpS0p2TGRTeXFQblA3YTR1ZVlydUQ4RmI2Zk9GbmNXMm1JaWQ4ZldBVHliTVN1ZWtHX0pCSlZzMW9id3BpcnY2a1VFQzhqYUlIRmJHakk0NWkxMWloY19xU3dTVkhCVzVGbGJYY05kNFQtTFBad1lsNmdGMlA3d2hGNVRqSldrdFNoc09xMExZZi1STm92YWQxa3VqRUMtQm1SX19zb3dUS0xUdkxYWUlhaG5fdEQ1NVBqdWo3a3hDeElvUER3RkxqNWtBS0E?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 10:48:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Inflation obscures all - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNU53ZGZ0LUNyaVFVVmUyRkt0R2h3b0ZYUjNIbFhaclRkaHpfcnh4Wi1UbWpXWUFUMlpxZmFWbWJWWVhRMXdtbTNHaUl1b3BCSGJCaDBFUE9jTms0YlkxQXN4TGJMUHNJTVFBb3o3LTR0cklOQlBKMjEzWEctS3FzRWlld0x4cGRLNVhOaXlPZXdkVy13dGJn?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 10:48:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Meta, 29 states head to court in biggest test yet of youth social media litigation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcktRQXY0ZDg2dVhKTUZxSUJMZjRfWmdPUXBoaUxaQ0c5V2cxWUpXcVd5a2k5eVczSktyWXlmTDRaVlR3bGxiN19FNno0WXpmeEdyUjVjNm55VnNsb2oyRTl5Zld5d09aMTl5dG4xV0VzTk1wSFJXb0paVXVIZlRZQ195ZUpFbndiU2lNTnZwVlhORzNCaU5zbTJLMUtjTlFJR3B0aG1pcUh6YjVoNXVVQjMwNTVqR2JX?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 10:43:10 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T13:00:25.179Z"
+      "updatedAt": "2026-08-12T13:25:15.115Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T13:00:25.344Z"
+      "updatedAt": "2026-08-12T13:25:15.312Z"
     }
   ]
 }
