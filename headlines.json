@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-12T12:00:23.854Z",
-  "lastChecked": "2026-08-12T12:00:23.854Z",
-  "lastUpdated": "2026-08-12T12:00:23.854Z",
-  "generatedAt": "2026-08-12T12:00:23.854Z",
+  "fetchedAt": "2026-08-12T12:12:12.154Z",
+  "lastChecked": "2026-08-12T12:12:12.154Z",
+  "lastUpdated": "2026-08-12T12:12:12.154Z",
+  "generatedAt": "2026-08-12T12:12:12.154Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "At least 15 die as boat sinks in Zimbabwe's Lake Kariba",
+          "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 12:01:34 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
           "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
           "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 12 Aug 2026 07:44:44 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "At least 15 die as boat sinks in Zimbabwe's Lake Kariba",
-          "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 12 Aug 2026 07:16:44 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T12:00:23.155Z"
+      "updatedAt": "2026-08-12T12:12:10.947Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T12:00:23.329Z"
+      "updatedAt": "2026-08-12T12:12:11.061Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,12 @@
           "title": "David Crowley wins Democratic primary for Wisconsin governor over progressive Francesca Hong - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnJPS3JyQjJyTXo5SVVsdGljX1dTb1N6YTltOHlGQm1fNHNxMzhvMVRXUWVvcVVpYzhsaDd2Q1RKRndtbXNDUkJaMC14Q3ZFWXZSQVhMc1NQUEF2bzNoWmU3bmxxaG5HZzFDajB3OW9VaHNNX0N4S0t1emhrZFpxbzhBdEtpY1MzTE5YT3BkRTlYLWYxaWl5VHhVd3h0TFl6WUZn?oc=5",
           "pubDate": "Wed, 12 Aug 2026 11:39:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Spain prepares for rare solar eclipse against backdrop of heat and wildfires - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWxPSks4anlXZ3AwVXZ4YlRoMzYxRHFuc2dpTllDUTJrbHUwSU5LNzRyRnlzVmNDaWFtb1FZcFRVeVJJeHRBU1NDUVhnV21ycjM2cnNKbHIzN0JITzI0RVFBUmFoMTFCTHROVk91NWc2bngxRG5vZmc3RVVCeHdLcS11Y2I5dlhhUEM5Wm44cnRwR29OWjhjRnJhT1RZTFU?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 11:26:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,12 +145,6 @@
           "title": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
           "pubDate": "Wed, 12 Aug 2026 08:46:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Spain prepares for rare solar eclipse against backdrop of heat and wildfires - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWxPSks4anlXZ3AwVXZ4YlRoMzYxRHFuc2dpTllDUTJrbHUwSU5LNzRyRnlzVmNDaWFtb1FZcFRVeVJJeHRBU1NDUVhnV21ycjM2cnNKbHIzN0JITzI0RVFBUmFoMTFCTHROVk91NWc2bngxRG5vZmc3RVVCeHdLcS11Y2I5dlhhUEM5Wm44cnRwR29OWjhjRnJhT1RZTFU?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 08:04:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T12:00:23.768Z"
+      "updatedAt": "2026-08-12T12:12:11.451Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "US stock futures gain ahead of July inflation data - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 11:15:08 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Meta, 29 states head to court in biggest test yet of youth social media litigation - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcktRQXY0ZDg2dVhKTUZxSUJMZjRfWmdPUXBoaUxaQ0c5V2cxWUpXcVd5a2k5eVczSktyWXlmTDRaVlR3bGxiN19FNno0WXpmeEdyUjVjNm55VnNsb2oyRTl5Zld5d09aMTl5dG4xV0VzTk1wSFJXb0paVXVIZlRZQ195ZUpFbndiU2lNTnZwVlhORzNCaU5zbTJLMUtjTlFJR3B0aG1pcUh6YjVoNXVVQjMwNTVqR2JX?oc=5",
@@ -203,12 +209,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Wall St futures tick up heading into July inflation data - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 10:24:13 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "PODCAST: Banking on CoreWeave - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaE1vNXBNamI2ek1BUXE3U2s1VUl0djJybDViWU4zOHU1MVZqRVZJZ2M1blJkakwxOWd3V2d5VkFfMGZDc3NENW1oUW5PM0IyR0NWT2pKbTh4NW5hREREZjdFREQxYWtUZlJKaFdXZjN4ZmJPSnVVQV9ITkFCM2RWR1NyVDI1Rm03VVE?oc=5",
           "pubDate": "Wed, 12 Aug 2026 10:08:46 GMT",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T12:00:23.776Z"
+      "updatedAt": "2026-08-12T12:12:11.835Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T12:00:23.854Z"
+      "updatedAt": "2026-08-12T12:12:12.154Z"
     }
   ]
 }
