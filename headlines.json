@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-12T20:43:39.993Z",
-  "lastChecked": "2026-08-12T20:43:39.993Z",
-  "lastUpdated": "2026-08-12T20:43:39.993Z",
-  "generatedAt": "2026-08-12T20:43:39.993Z",
+  "fetchedAt": "2026-08-12T20:50:14.405Z",
+  "lastChecked": "2026-08-12T20:50:14.405Z",
+  "lastUpdated": "2026-08-12T20:50:14.405Z",
+  "generatedAt": "2026-08-12T20:50:14.405Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T20:43:38.647Z"
+      "updatedAt": "2026-08-12T20:50:12.835Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T20:43:38.807Z"
+      "updatedAt": "2026-08-12T20:50:13.156Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T20:43:39.312Z"
+      "updatedAt": "2026-08-12T20:50:13.642Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 20:42:39 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Iger, Kushner purchasing Lakers for record $12.5 billion - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSjlKRTdkcko0SzVWdF9ZY0NIemN4MnFUMVR3S0tVVUFLd3dIM0p4YzRGVmx3WlhhWDJSZkpjTHMyQmVRd3FOTjFsaGQ1Q1hIMGx3dVNTVUlTT2N5WERlVk9oTnV3X2lVb0NVbVZ3WE51MVU1RmthdzYwOTJ6LWdfdGNfUTEyN0FMV3M1LUFya1lHZXhSVlFDX1VGR21vT1llN0d3VnNRSEo3dlZ5V1E?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPekpVSVNlRFdOb29oR01CdnY0MTE5YkQ5c0RnMkxvbE80dURXYWdYUm5FakRQSWxrNXNGck13QU5SaUNJOHlsNnk1dDlfdkFpNURnRmI0U3puTnhIemp4djFmQ0VSNGhOaU9kbWNUdTg2MVo2RktOanNpQ0NTV3RpVWVQTTU2SDhycnF6blNOVUZkTmZQaDVZRkx0eldCcTM0X2xjUFpXSmtWTnhMNURvTWVJbldDY3ZfZkMyMDFXajlHRVZKa3hNWXRB?oc=5",
           "pubDate": "Wed, 12 Aug 2026 19:22:24 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Four things we learned from primaries in Wisconsin, Minnesota and South Carolina - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3ZpXzlKUWRCVEtZejV4Z0djVHFkaDcwV2VLeU1zSUNSLTZ2S012RGFxVmYyeHhUMzNZMFFVb1k5NGFwMkNmMG1iRXBfNUV2T1cwUTd5cnlmRDhmUUgzUG1PNzhNZ3RqdFlVZk9pdVVua1VUTXJQcG1wNmRSOUc2RjlySHlEQjZWWWRQbXl0UEJDMDV1LWtyTGlnbmRzVmdkTzloNnVTTkZUaFNLRHlPWEtB?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 18:52:32 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T20:43:39.741Z"
+      "updatedAt": "2026-08-12T20:50:14.166Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T20:43:39.992Z"
+      "updatedAt": "2026-08-12T20:50:14.405Z"
     }
   ]
 }
