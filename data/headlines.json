@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-08-12T03:00:27.414Z",
-  "lastChecked": "2026-08-12T03:00:27.414Z",
-  "lastUpdated": "2026-08-12T03:00:27.414Z",
-  "generatedAt": "2026-08-12T03:00:27.414Z",
+  "fetchedAt": "2026-08-12T03:25:17.501Z",
+  "lastChecked": "2026-08-12T03:25:17.501Z",
+  "lastUpdated": "2026-08-12T03:25:17.501Z",
+  "generatedAt": "2026-08-12T03:25:17.501Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Bondi Beach shooting hero's assault charges dropped by police",
+          "link": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 02:59:51 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "New Zealand PM survives second leadership challenge ahead of election",
+          "link": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 12 Aug 2026 02:51:02 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump says he switched planes after Nato summit because of possible threat",
           "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/clye8332d63o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 11 Aug 2026 23:11:32 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
-          "link": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 21:34:55 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-          "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 11 Aug 2026 21:14:56 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T03:00:26.390Z"
+      "updatedAt": "2026-08-12T03:25:16.172Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T03:00:26.473Z"
+      "updatedAt": "2026-08-12T03:25:16.328Z"
     },
     {
       "name": "AP News",
@@ -142,6 +142,12 @@
           "source": "AP News"
         },
         {
+          "title": "High school football player in Arkansas practices with a venomous snake in his helmet - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVU9xYkdlUnF6bFpfaVp5S0QyaE03MXNFN3ZOWUlLNUtjZUpmSDRpemxHdE9YTWRtRnpqMlhnc2RoVlAxRDdhX2lNdlgwYnZxMERIRGZNNEhHX1Yza2oyRnlTRU5zZWZWNV9lcm1leFNzbElWV3ZlQUlHUE14cGhfQ0daNzhINy1n?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 01:46:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Severe weather knocks out power in Illinois, Indiana and Ohio as ‘ring of fire’ strikes Midwest - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGRDbGhWcVhLSmJRcXdOSDhuc2ZIR1hrX05MeEFDRkZ3dHZGcGp5bU1NVk1EWmV5Z3RwTk1DdVdUU2tuVVhIMUVPaTdpQk1ZaDFodEV5Tkl3dE9lWloteVhTdXFGWEc2YjBkZ0tYWldCZUpNQkdBMndYNFRPbGlEc0lwekRjWk9CQ3gtazdBYXhyUVlnQ3cwbUNxYkN2dGU1?oc=5",
           "pubDate": "Wed, 12 Aug 2026 01:32:00 GMT",
@@ -158,24 +164,36 @@
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa3lBb3V0ZktZWnAwNUx3S3pEaG4zUjE5ZHZ2b256N0lwOENNRjdLVlMxS0ZlcWVHRUJCQkF6aVZLeS1HVnZ6RTBmTVBMWUFqS19UaWJTdHM2X041Z2V2UlFqcVVrSWZ2ZGZhLXBrTDFydmhCenAtazZpbkhBVS1sZXQxZw?oc=5",
           "pubDate": "Wed, 12 Aug 2026 01:12:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "North Korea launches another missile toward sea ahead of US-South Korean military drills - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnZFb3lBeVlieUQySkUtb2dJUXFpZzJkYlVCTkFNaDVwVVY4Mll0QnVDVTc3SU0yRFZNdjlUdF9QWkY1TzNsb3FIRUJnbDJSSjFlc3FCUERFeGZyT2U1dzRlN05xRTRlbkpPUENyd0FmZWpxYkUyTWZHaHJzMHR1OXNUdUgwVEY2cDhNaG1SZ0tOMERBRGowUDN1MzBXUm5qYU12QTVsMFE0RlhXV0E?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 23:57:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T03:00:26.913Z"
+      "updatedAt": "2026-08-12T03:25:16.829Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Oil, gold prices rise as geopolitical tensions mount before CPI - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 02:23:54 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Dollar drifts as markets await US inflation data for Fed clues - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
           "pubDate": "Wed, 12 Aug 2026 01:45:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Typhoon Dolphin's remnants brings torrential rain to Beijing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXA4N3otU1Q0YUNmTExjeTloMHpfRFZQWVFHbkJUdUMyVTE4T255YkpkamZPb0lKUmpGNEpXMnJmYWlyVzk1MHlzNldLSzhqY0t0UkV1V0FEbl9KZGZYeXJmSi1JVEhSYlJYSy1GX0RvNmNNWWcxUmJDUmtORkJ6TXRBUkZtUjR3Wi1CLUxxdEoxUnRoUnpvaG92cWZmZ1FPd2hoblhpZjFNTWNOLV9ZdFRsUQ?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 01:39:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says his plane faced 'greater risk' in flight change - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnFid0QtMU1uWmc0NjVieldJWFFnU1gzMXp6RlA0UldwUkEtaElnOUZMTmtCQlFWUlFRbFlsWndGREllOU8zWjBqZWpYanF4dGdWRWdkQy1ucGd6aGx5YlNrUXZ6TzhkZ2h5alU2VzYxMThmbHdVNjdjTWJSVjhYR2RMRHpXREZ3clRKM2JmM1AxenBFaVMza0p1TXZ0dFFoRGNLR1MtcVRNdUJOY3o0UnFsdnpFc1U?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 01:20:00 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVJvWFV5SDAtNEhEZmZINXZ6TGs5ZXd3bkh1NEJCNi03OWFMYzJtY2psZWowOEtsMHNHazdOMUdybnc3S01vUjdVX1duN3E2bUxvZXFPZDNVR29Obm9jR1JIU2xWR1ZhWGh5WnI5ZWxabVA5dXphWk1OTVc2UEV1UjZpMmpZWHg5dVpEaVFkUjd6dV9HaUxTQldpMA?oc=5",
           "pubDate": "Tue, 11 Aug 2026 23:21:47 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 23:17:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnc2ZXQxTHpZQU1SNDdJczNXWUdBamNIaGxDXzY2dXlGUEFBMDQyM29WaERCSWdiRVB6Mm1tX0psSzhDUkh3Z25xamdDd0JfQ0JWMi1MZ3ZMcEZjMmpNSmo5TWVTVEdsa1RlSk82Z3BXVWJFSWxDdUhrMm4xczhWVEZzNlY4Rm91eFFtQjNsU3k0ckxKRmY2c1FGOV9XS0M3NFJ1THNRMF9hOThzZENsMDVLV3lDb1BfMk9pMg?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 23:08:42 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Colombia quake death toll tops 250 as rescuers race to find survivors - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUjUzQUFrRWRhZ25VTFFGTXBKQmhmSEUzVndvRzZPdEVPY1FrQnRhTkFiTGtOQW0yYU42R1N5VjRfNXI4cUM5emNSVUxvNFJYYkFWcklRdzZRTjRPeGREV3FsU2diTXFIaEFsX1FPUUNWaV84amNqcl9vVEcxY040RmRIMExfNjdUZHN6Vm5BRkhSVFphN0tCdnJGb3pnUGt4SU8wV1A4cXRqaFRjTWhIaGxnM19ldjlMMWs3R1NJeXQ?oc=5",
-          "pubDate": "Tue, 11 Aug 2026 23:08:09 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T03:00:27.332Z"
+      "updatedAt": "2026-08-12T03:25:17.247Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T03:00:27.414Z"
+      "updatedAt": "2026-08-12T03:25:17.500Z"
     }
   ]
 }
