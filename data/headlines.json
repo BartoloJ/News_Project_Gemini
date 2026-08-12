@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-12T18:25:16.945Z",
-  "lastChecked": "2026-08-12T18:25:16.945Z",
-  "lastUpdated": "2026-08-12T18:25:16.945Z",
-  "generatedAt": "2026-08-12T18:25:16.945Z",
+  "fetchedAt": "2026-08-12T18:50:18.368Z",
+  "lastChecked": "2026-08-12T18:50:18.368Z",
+  "lastUpdated": "2026-08-12T18:50:18.368Z",
+  "generatedAt": "2026-08-12T18:50:18.368Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T18:25:15.591Z"
+      "updatedAt": "2026-08-12T18:50:17.016Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Has the U.S. lost its dominance to China?",
+          "link": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china",
+          "pubDate": "Wed, 12 Aug 2026 14:24:48 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Inflation eases in July as gasoline and grocery prices fall",
           "link": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit",
           "pubDate": "Wed, 12 Aug 2026 05:02:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
-          "link": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
-          "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T18:25:15.894Z"
+      "updatedAt": "2026-08-12T18:50:17.261Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "David Crowley's razor-thin primary win sets up Wisconsin governor's race against Trump's pick - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUtYRlN0bXF1Zi1TYTJMNGJOaXRDWGhabnU5aVlmSUZOb3J3Y09XXzZiSUtuSTBsYW1OVFNjT0RhTk9VenVpdDQ3SEhySnBXZ2c3M3h2YVpOakt0ZVc2bi04Q3l3VDFMNERaT3B1ZlFiXzU5UDg0WDdaVEN2eUM3ZWhHcW8tVWJnckgyaUctUUdUbDBRaDZkRUNXLVlUT1hjUDRVRnNBUXJGZlJITi1tQw?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 18:08:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Millions crowd Spanish cities to see country’s first total solar eclipse in over a century - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWxPSks4anlXZ3AwVXZ4YlRoMzYxRHFuc2dpTllDUTJrbHUwSU5LNzRyRnlzVmNDaWFtb1FZcFRVeVJJeHRBU1NDUVhnV21ycjM2cnNKbHIzN0JITzI0RVFBUmFoMTFCTHROVk91NWc2bngxRG5vZmc3RVVCeHdLcS11Y2I5dlhhUEM5Wm44cnRwR29OWjhjRnJhT1RZTFU?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHYxUHlxc192T2VoRU5xR0VHQ3duY2RVbVlHajRCeEJISWtsT20yaF9STXowbi1IdkhIcmxnNFdnaWx2akdwME5kN3lwMVVqbFZnbHBia1dtUjNfVXVvSFdzSTZBeTFxMnpNMTBXdFAzVFJCMEhLQlMyYUw5NjMxeGR2Y0IwelVJUXBBcA?oc=5",
           "pubDate": "Wed, 12 Aug 2026 15:37:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Inflation slows but prices remain elevated as Iran war and spending on AI push up prices - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1p4OTRrUDJrbTJJTmk5Uk05TFV3a2JDOXhXa0pXQm1EdWE4ZnE3WU1pQ1hEdG80RFd6bzQ2QkN2X2NjZnA4U19zZzBmMm1aaG1oUmg4LTZZY2NsSV9SeFpJamZZYVRXQXlXZ0VDT0tIRVo4M3B4WW1VZFltbnVLTkRiU01BN2szVncteXcxQUJFX01jTFdfTUR1MjMydGZjN1d3Wmp2QQ?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 15:27:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T18:25:16.331Z"
+      "updatedAt": "2026-08-12T18:50:17.794Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Millions of people in Iceland and Spain set for 'event of the century' eclipse - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQam1WYlU5UFMwcERrMF9yUXhWOTBVZ0FBSW95SEdFS0FFSzhCV2RvTkJlY2owa1dxbGs5UHFLWG5zQkF3b2FYcmdHcGRISGNQejl5bjFfaEVvLUZzbldZbF9HWC1CaEV2UXA4ZnpIR0dqUFZhRk1vWGE0bGtQby10M25Gb3BKdEF1UjlUVFR6SzN6WjM2NU9wN05xd2U5T0Ztd2ZZWjVOcTRSeERE?oc=5",
           "pubDate": "Wed, 12 Aug 2026 18:07:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iranian photojournalist faces 15 years in prison over images, reporting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZkZMS1VuU2djMmpESEVFMlhMZm1lWjEzWlRCVDlwRXRaeVRGMXpxWi1RSFdYT2lCOVZkVGkyYmFxSWp5TnpOUmNNSnR1bDdVUHN6Y2w1cXBORTk1dk45ZzROUHRlVWNicG9zZlZxUWtiMjZhbDZUci1FTVRSdUFpSFYxdHVhOVVVWnJmX3RvbndjandLaUN6cnBPS0k4YzUzdW41M0FVMy1ucHFwYlozRGxCbGRIaE9ZQm5FZDl6TXpQUWQt?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 17:56:19 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObm51WFhRd2F0bzV5VHZ0WUFsaS0xaVNkWWZiaWtscnE2VXZNUXJ2WWVubE1CV1J1cnpFTDhPWTF5dktfN2RoRXpVOGtqRUctZGd6YzI3MWJyNkQ3bUNFR3pNc2RuSmdiNW90Y2E3dEhEbXFVamNMZTFkMkF6am5xaklyVzAzS291dFpNUmJKaXB4NFBlM1ZYNkM1QjFzdlRqdTZwMVJ6UEtyNEZPd3c?oc=5",
           "pubDate": "Wed, 12 Aug 2026 17:02:08 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US consumer inflation mild in July, economy still not out of the woods - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVo4RlREbjZCeDFybnNPaTFlMDl0SnhGblQ3ZjE4NzA2WlVKU0diWDJqN1lPWXFvVk13eDY5TVhKYXROYXVJb2tLRzM0YVFaNXEzRWxLNWI0blFUSHZqbVN6aVRrMWFPR3Foa0hJd1FLZTluRVAtWlp0d3k1U1doeUhRVlRoRFltSzRneHcyYw?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 16:47:37 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T18:25:16.755Z"
+      "updatedAt": "2026-08-12T18:50:18.238Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-12T18:25:16.945Z"
+      "updatedAt": "2026-08-12T18:50:18.368Z"
     }
   ]
 }
