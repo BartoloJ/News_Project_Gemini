@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-13T06:25:18.005Z",
-  "lastChecked": "2026-08-13T06:25:18.005Z",
-  "lastUpdated": "2026-08-13T06:25:18.005Z",
-  "generatedAt": "2026-08-13T06:25:18.005Z",
+  "fetchedAt": "2026-08-13T06:50:24.344Z",
+  "lastChecked": "2026-08-13T06:50:24.344Z",
+  "lastUpdated": "2026-08-13T06:50:24.344Z",
+  "generatedAt": "2026-08-13T06:50:24.344Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Twitch users can block Amazon from using content for AI",
+          "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 13 Aug 2026 06:44:53 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Japan protests against Putin visit to disputed islands",
           "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Twitch users can now block Amazon from using their content to train AI",
-          "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 02:46:04 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Australian army whistleblower released on parole after more than two years in jail",
           "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 13 Aug 2026 02:23:39 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T06:25:16.721Z"
+      "updatedAt": "2026-08-13T06:50:23.355Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T06:25:16.914Z"
+      "updatedAt": "2026-08-13T06:50:23.386Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T06:25:17.465Z"
+      "updatedAt": "2026-08-13T06:50:23.870Z"
     },
     {
       "name": "Reuters",
@@ -182,6 +182,12 @@
           "title": "Starlink starts taking orders for satellite internet service in Vietnam - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTmh1X3JiNW0tbXhuMDR5bERrMThackFmanFHbWZBR2lpUWt4bkd1TGJGSjRENDR1OTlGVHE2LUdSOGtMYXdETDZpVUtFaF9JZzRwTmZnVlVJSzZweURFbjl5SWVWSnF4aDJVZkItNjdGSy1lYzNLUkw1N3ZyUEZSelZYR2NhTnI1a2hEcGt2T3lGNWhCQ1hzdGEzZTBSVXlzRV9rQVFERS1LWEZrYnhXM1BENWV3R0ZSMTBN?oc=5",
           "pubDate": "Thu, 13 Aug 2026 04:27:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold pauses after tame US inflation fuels rally to over two-month peak - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWRyNnFQd2twNlNReDRyTy1GMGJWTktnY1RhMWY2SXZXRTluaDQ5TW8tdi11YTJ1VEppaUVwWTdyZkNUMGZMQXdIdG1Bdm9uQnNFOUNMY0UyREk2NU45UzF0SDlXcjNrWmswYldOZ3dKUzg2YUZaTjJZYm5lNldFTlFXcmJnVl94VGdfRnlEbElyRG1SZE9ERG5NRVNicUdJOXhNNDdLbTNEbzVTOFNpSWI0OUM4dw?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 03:59:43 GMT",
           "source": "Reuters"
         },
         {
@@ -203,9 +209,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Taiwan says it was targeted last month in AI-driven hacking campaign - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3R3WnUyejNHdDNNLTI5ZWlqc01BSlNvdzdJRnczZ3JTQkF1c3pxaWdOVTZBSlpKNjFfdE1DUFdQcS1OQklQTkpHNE4yQTNHZWo3VVZveXg0ZjdnSnN3QklJQW9VNnVYQzZUZXFubkt6V1RjaXMxQjVXOXZEcU1QV2ktdE5heGNrMzlXb1ZlVlRIY1RvZnFnMC1QOFRkeGFBRUZodXRhRkR2OXRrbG1oMk5Baw?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 02:49:20 GMT",
+          "title": "Four Indian stocks to be added, three removed from key global index in MSCI's August rejig - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONTFWTFJwY1ZVako1SFlqamo5S0V5RHp5SGZ2SnJXbUZkSVczeXM2Z0psbDB1NHZBcXY1UjRWV2p5SUZzdGE2NVNzM3d0ZEUyZUE5aDNIZG4ycjVKSFBiSTdMb2JwUk1SNHhUTE51bXhZLXlwNXZnLVVOTEZKMUt1eTM2M0ZHM25OVlpQbzE4NWstamN0bHZxOTdwdVB3NTYyMTI3VHlaRVUzd1ozTjNTcXU0NkNIeGh6T1E2ZW5SZll0Z1E?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 03:00:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONXVMYU92V04yWnc3ekdtSExYLXlXUFNKcW4wZE9XV2VlSmpMRElsUXJKMUZGRFRKbkZLNWpLNWRfelk0SWhhWUNXaHQzeW81djZMWHE1SUZva0xOT2lsWWdPU0VkdjBScjRlYzBVUVNpVlY0YlpUNXF6dnk3RFpjelZCQnEtTEJySWh1QW5ORjdsbjY2WFdXT0xqYkZhR3dtWkpKMXR0S1VlTEsyWFhwNHpTMk5fb2JPLXc?oc=5",
           "pubDate": "Thu, 13 Aug 2026 02:42:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Oil eases as weaker demand outlook counters Mideast supply concerns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 01:08:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T06:25:17.876Z"
+      "updatedAt": "2026-08-13T06:50:24.282Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T06:25:18.005Z"
+      "updatedAt": "2026-08-13T06:50:24.344Z"
     }
   ]
 }
