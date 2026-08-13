@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-13T10:25:12.628Z",
-  "lastChecked": "2026-08-13T10:25:12.628Z",
-  "lastUpdated": "2026-08-13T10:25:12.628Z",
-  "generatedAt": "2026-08-13T10:25:12.628Z",
+  "fetchedAt": "2026-08-13T10:43:17.764Z",
+  "lastChecked": "2026-08-13T10:43:17.764Z",
+  "lastUpdated": "2026-08-13T10:43:17.764Z",
+  "generatedAt": "2026-08-13T10:43:17.764Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+          "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 13 Aug 2026 10:39:02 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
           "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Twitch faces backlash over Amazon using content to train AI",
-          "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 07:32:07 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Indian actor's video with endangered gibbon sparks investigation",
           "link": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 13 Aug 2026 07:05:35 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T10:25:11.657Z"
+      "updatedAt": "2026-08-13T10:43:17.074Z"
     },
     {
       "name": "NPR",
@@ -69,14 +69,14 @@
           "source": "NPR"
         },
         {
-          "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
-          "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
+          "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
+          "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
           "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
-          "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
+          "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
+          "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
           "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,21 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T10:25:11.718Z"
+      "updatedAt": "2026-08-13T10:43:17.261Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Nigel Farage faces off against Count Binface in special election that's been denounced as a stunt - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHJJVEZPSWl3bm1JQ2NRUTFSUWdKUS01QVJRUF90MTJCQWhtS3hhTEpTUW1SMEV6cXFySDJxOFRJN0UySHNabUN4cE40aTZqVk0wdVlqalNHc1Q1ck9Jd3lfdXd0dS14ME5walJWdlNidDJhREw3QzRESTFFRVhkaFVFeWtVdHp4SWtkM1hpS25oaGFkV1d0dXFENUZjWnZUenVXODBSeEhYLWdp?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 09:45:00 GMT",
+          "title": "Iran war - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 09:52:42 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iran war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 09:20:15 GMT",
+          "title": "Nigel Farage faces off against Count Binface in special election that's been denounced as a stunt - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHJJVEZPSWl3bm1JQ2NRUTFSUWdKUS01QVJRUF90MTJCQWhtS3hhTEpTUW1SMEV6cXFySDJxOFRJN0UySHNabUN4cE40aTZqVk0wdVlqalNHc1Q1ck9Jd3lfdXd0dS14ME5walJWdlNidDJhREw3QzRESTFFRVhkaFVFeWtVdHp4SWtkM1hpS25oaGFkV1d0dXFENUZjWnZUenVXODBSeEhYLWdp?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 09:45:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,62 +167,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T10:25:12.136Z"
+      "updatedAt": "2026-08-13T10:43:17.690Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Romanian Nuclearelectrica starts shutting down sole working nuclear reactor - Reuters",
+          "title": "Oil slips on weaker demand outlook and higher US stocks amid supply disruptions - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 09:42:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Dollar stalls after benign US inflation curbs Fed rate hike bets - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDIyRHVUbzNzMFctT0VkQXpIZWt2V09QNEtwc2VhYVlmZWRyM1NCd0NWSUZEUEFQb2VzWVFqOEdtZmpYNEc3dDFna1dQSktGZU1ONGQySmNlYVcyVHN5c05iT2V5REVnMFA0cnFKNVI3enRtTXpGaUsxdGlSZ2xFbFo5VEVwWkV5eXNvMVA2Rmx5YzhxeVd1TkQ2YkpISXc3OUV5cHpaR2dxNHNOVXltdjBfSVo?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 09:15:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Turkey, Pakistan, Saudi Arabia will form political, military mechanisms to coordinate under defence pact, Ankara says - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUWs3VXl5XzJEaGdzbG5aSE9QTXI5MHRWeE9pMXI5VlIwZkowSU5vbGZVS194RjNYTE5TckdnOXVsRGxMVlFKZmRfVDlhSnk2VW8tSVFNcE9oNE9BVUhDaG0wVzVlTVRtUzdWNHdfSkFqR3BlZ3dkbXp4LTFtYUc5amw1bkJ4V2NxbEl3MUpBaWJRSEFJM1N2OWpiZE11bXFOZ005Z3FkUDFJeGpqZXNfdVI2Nm9DcDc3amFiNkZNOWZ3NnVwUE9OdklwTjkycXc?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 09:14:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Maersk raises outlook for second time this year after second-quarter profit surge - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQW5qM2VYQ3RlX1Q5SWhodmtJeXJpTkI3YzNiMFBQc3l5VUlQOTctcGctMHIxaU1hdE03MmdodV9ub1V1YjQzSGlLcTN2MzEyY2dxSnlDSTc1U0JiY1BIcDNZNjk1MmFVVzFIRURheEVUVEwzeDR4S2trQ1B0eUJmWF9mb1F6cl9Kc3V3OWpOMWY4enZMbGd3ZFNjdUpYZHc0aXY0dXRuZkU0a3JHOHVsY3JVdmJGdXNL?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 07:31:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Romanian Nuclearelectrica starts shutting down sole working nuclear reactor - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGhXbFM5QXFmajRHRDJaUnRpRHhRSjVoWlpKQWdPangwX2g4cTB4SzNsN2lpOTZxN1Q3ejZQWFpzekxwcTdGWVZoTWFuOGFWam1oVmNUX2RzVHU1MjEtQzh2ZHRoam9JVi1rT01kN2dQcnJUbzRLNHNqQkVXR0VERk1VdW5QX0JKWEw5dEJoM2E4bjhUUGZsckdnbHdoVXROMm5yTkRWZEVvaGxsR0xRQzFwVXNjLVBfMlNGMkZ5V1JQV2kwM2c?oc=5",
           "pubDate": "Thu, 13 Aug 2026 07:25:03 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Ukrainian drone strikes push up Russian trucking costs, stoking inflation - Reuters",
+          "title": "Ukrainian drone strikes push up Russian trucking costs, stoking inflation - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOUNfM3NLVGpXZm1ZYTR1dERnZlhTU1dEUThhTXNfekJoN2FrSkI4azZXN0hid1QtQ1ItX1EyeElMR05XdHFsQnVTQlp6Uk41b3VIRXVrZklSYjlvc0lwZzdIS0pSM3pFUFhaVXh2Nld2alFTUW1qakxycHEzM01kVV9PWkV2R2xCT2t0SVNyNGNBU1lJa0NRb2NsamgzbHNsX0pWeFhmRXR5S0RGRnNiUXZPZHhOQnhG?oc=5",
           "pubDate": "Thu, 13 Aug 2026 07:11:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Shein eyes Hong Kong market debut on August 28, source says - Reuters",
+          "title": "Shein eyes Hong Kong market debut on August 28, source says - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaDNENFpLUnhteVB5a3N5QWtBd3pNVEk0UnI1R19feDR0MG9qeXd6VzZBaWNHX0xjcjlPdHJTZ0wxMTdqdnNBY2FtWlI1Umt5XzY1VThfS2dfUVA1eDhTekZmNFJPSmZlUTd5d1czelZielE3WWdCNEtYV2QxalozRGM4S2ZWTTRKWjBZX2dBTGNlSElocFlVNlBFclpPRmFQeEhmMFVDUFJYN3l0UnlVbw?oc=5",
           "pubDate": "Thu, 13 Aug 2026 06:26:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion - Reuters",
+          "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lqOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
           "pubDate": "Thu, 13 Aug 2026 06:15:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "UK economy gains from Gulf ceasefire, World Cup and sunshine - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0RZZ3ItUUhNRlRnSENCV1QxOU5NSURGX2JydVhZQ2p1TTQ0Tjc0QTZZNGRieTRmYlNzSUlRT0JBeGZwV1lTa2poN0NXZWxuT0NPcXVhLXRqZXNvcVhyVDVFN3B3WnF0ZnZTd2RSeWwxeXIxaDFFcC12ZnZFSU9tSnZCMDQ1WERtU1lHcnl4S2pWZWVFNERBU2hR?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 06:13:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukraine's farmers despair as Russia's Black Sea blockade traps their harvest - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmVrUGExX1RHQ2IzZ0toSUJaU255RTBvd2NmOUpfTFpNS1l6R19jLTBlYnF1SHhJdEZNd2FlelNidVcxcUtoZWF5b0NzVGFCd3JVR2JfUElfanBDUnRkZXp5XzluX2poNE8xYkZ2Mmt2VGFSUzJNa1VlejhVWHlYWW5WN3R5WjNEeGc1bTJOWnRYWmxTLUJYdDh1MTBnTGlYdzN3d25uRVBBNWdISjY5QkVpbw?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 06:06:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Maersk Q2 profit surges past forecasts, raises outlook for second time this year - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQW5qM2VYQ3RlX1Q5SWhodmtJeXJpTkI3YzNiMFBQc3l5VUlQOTctcGctMHIxaU1hdE03MmdodV9ub1V1YjQzSGlLcTN2MzEyY2dxSnlDSTc1U0JiY1BIcDNZNjk1MmFVVzFIRURheEVUVEwzeDR4S2trQ1B0eUJmWF9mb1F6cl9Kc3V3OWpOMWY4enZMbGd3ZFNjdUpYZHc0aXY0dXRuZkU0a3JHOHVsY3JVdmJGdXNL?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 06:05:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Reform UK's Farage faces off against Count Binface in election - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdk4walQtOHRpY0R0NXVRZFF0OVY0aUR6X1FLMEVKTktzOVk3MWhIalBWNERpLXpqOWwzWkNEdE5lLVJxRVJybzI3S0VWZFdKZERfQ05CN1B3VXpqaUkzc2s3Zmw0cXVoNHJHTjVORWp1SWhNeUVQUTNQWmlPTjRmZWt3M1hJTFBfOXVodlBiN3dtbHRRVE9rQzJWaExHRThlcXp6UjFn?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 06:04:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T10:25:12.490Z"
+      "updatedAt": "2026-08-13T10:43:17.699Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T10:25:12.628Z"
+      "updatedAt": "2026-08-13T10:43:17.764Z"
     }
   ]
 }
