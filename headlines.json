@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-13T00:25:18.806Z",
-  "lastChecked": "2026-08-13T00:25:18.806Z",
-  "lastUpdated": "2026-08-13T00:25:18.806Z",
-  "generatedAt": "2026-08-13T00:25:18.806Z",
+  "fetchedAt": "2026-08-13T00:50:18.199Z",
+  "lastChecked": "2026-08-13T00:50:18.199Z",
+  "lastUpdated": "2026-08-13T00:50:18.199Z",
+  "generatedAt": "2026-08-13T00:50:18.199Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T00:25:17.468Z"
+      "updatedAt": "2026-08-13T00:50:16.774Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T00:25:17.683Z"
+      "updatedAt": "2026-08-13T00:50:17.021Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Wisconsin Governor Primary Election Live Results 2026 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdTdaNFF4VGdZaGxYTm9hUEVPREEtUk1vaDRydU5tZjhJV0VnTVBwRldiWUxfSFc1YzM3WFI5SzA1UU4za3RndEpiXy03VDJVaWZJN2FNd2xGSHh0WHZJb2pfOU11TEgxbDlQQ3dUNDZ1YlppZW16NlNoTWNVQzRZejlJc1Y?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 00:44:43 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Minnesota man kills his wife and daughter at a daycare after killing another relative - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcnltaTZLUy1uZ1dibURFLURYLS0wZ0c5VDYtWVd4em1ndXdubHFsZW8yeTZPbmdmR1hrNU5Uc0lBWlVreHBsd0E4UXFPV1pWQVBsMnNzazJ2ODVjenM5WkdUc2tYbV83RmJyVzdUekNkVU9IT3oxM3ZSQ1h2Y2U1azM2X2hWR0lXOHE1REQzc3FseEt1MS1YQUhiMnYtVXhhMFVncmRzQTc?oc=5",
@@ -124,9 +130,21 @@
           "source": "AP News"
         },
         {
+          "title": "Hegseth says Colombia’s new president has requested US collaboration in anti-drug efforts - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN05uTi1tNEFfUXhxNklUMTU5b3dfaVhiR0xkTDU4X1F3VE1tS2d5SHNPbmhjLXBJTVJSSDNDZ19WNWtoVlNhTFVmdWk1bXVqLTRFejlUVlJCTlRGVkhqOTV5VERGeW1nVG53SDBrbmMweDNDRlBydVBHamZDMDdUQno4OEVtc0hkMkQ4VnBfWEtRS1RqZjYzWmRmVlI?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 23:53:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Russell Westbrook retires from the NBA with a farewell video narrated by Michael B. Jordan - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYjJFMUI5bFdueUdlaThaMEpMak1vbEJoVFlkaDVLYmtvTWdhcGNoS2tDNmRsTXVlZlhOYi1fRzhTNWRoaGlCVTZGaEhJSlkwRG9zUzk2cHBQbzRLZkF1TEZIaVZvTzRINGowNE1JcjlpZnVkc25USmt4bHZaT09GTGwzUFB4eWxxVUZ2dTBaSTBieHBrMEFoeHBDOA?oc=5",
           "pubDate": "Wed, 12 Aug 2026 23:24:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "ICE’s plan to give officers electric shock gloves draws outrage and fears of misuse - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOemFmMEthNUtmc04tdGtkVV9pZ2J5UFh2YlpaX0tPYnR0dlUybEZLV2FpVGxRRkoxaU5WTVNlVm03WmNMYnpwczFFR3lSYXNfdU1SNGFnTjNjTXRnbDVBUkJtV1dEVDBDUGJsUmhzaTFKRVk1aUZNVEJtS0l1c1ZoeWo3TDA4OGlCdHVwbjVB?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 23:14:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,28 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOXJ1YUZNVVE0a2VJU3JlMkdVdmRIc2dVRXZXVGdGaENjUHlxUEFZWUhBdDNUaG9KUTBWa1BEa2J6S293UWJXZVV4NVdSVHIxV29oTFhUM2hXQ2J1ajNlYzYzeXBsd0NnckV0RHVKdm4wdEg0MXVadGV5LVl1SzcwdERfYnlQQVBBd2h1aV9XVWxqbFhxMUNJZmhWMjJWUQ?oc=5",
           "pubDate": "Wed, 12 Aug 2026 22:11:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Deaths and damage reported as severe weather in the Midwest spawns tornadoes and flash flooding - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXljSUJBZktTQjhrT2QtUUdlZVBFbUtJbUhiV25HSS00eEc4OUo3SkktT1VPTUNYSkVPMFR6YWwwMUdBaUoxNUt6RnQ3RklNSjRZTlNqaFR4eWpjMmlGWTBDQmdGRmNWVGV5bFU1UGliS19Ia1ZfTXFxamo0Vjc4WUFDcVZCWHhvbFlMNXNBWUc3MVlGNFlMQlN1SDdpT1U2bHlmWnZZQnFpdw?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 21:54:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Wall Street rises near a record as AI stocks climb and worries about inflation ease a bit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0VrMUhmQ1hxS0xRZmdtS0RsYjdBaEY0RnhRdHVMT1htcUtPWHBIWG1XY0Y5QjZjM25RdzJCUnBUY3NIbWQyUkRqWUpoYnlXUDZiNjloM0VPWDFDQjBjRVVJWHNtOVgyRFJhcW1yd0h3RGcxZkptU3F5NjRiWTFnYjhVcWpPenR3Vk9PTjF1VE5leW9kQlpaSF9pbmRpZw?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 21:22:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Oman says the oil spill from a grounded tanker has reached its coastline - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXJRazFHM3dTM0d1dnJseGg4dFl0TlUxMHJWUVY1cjlWQ2NXSXB5ZGZYeFN3S2g1aV90bHFSMGVwNlp5NVREbXhCZ1NUaWVXeHBrLW9UeG5BMzAzSHRnSVRiOVl6NXo2QWRCOGlsZ1dYYlduNWMzOHVhVGUycVlsakdxWHd1c21sTFB5aU9uV0NINEdO?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 20:45:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T00:25:18.169Z"
+      "updatedAt": "2026-08-13T00:50:17.528Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Trump administration again urges US Supreme Court intervention on mail ballots - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMG9lbHFpd3JrZUdEeTFreFk1NENXNUhNcm5kMkJRQ2xWRGJYdWJpc0lfbmJSTVFYZE1haTRhbHR5NS1pZ2JpLXlIUTBPNWxtRXpTZjFxNHZjV1pqRW9vYTdqeUQ0SWhIN1FvTTJzcmZfTFdrNzNfVy0teDRfRDZ4TlVuZ1ZJN1VjLVktYkxpZlV4N0dZQVQyWTd6alpvenBxbHZ0SmExd1RNdjFrd29iZTV4RlFZMldlRk9kTEVhcUY1REVpUVJN?oc=5",
           "pubDate": "Wed, 12 Aug 2026 23:57:59 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Cerebras shares plummet 16% after results fail to impress investors - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3RxTUJxMTh2Mk9XSmgxdm1MZDh6MlRtcVl5aFM1bmF1ajVmWlFnUF9nNU0yYjloQ0pON2VSWFZBYTVldmJ0TGI5N2psYlcwZVRuSURZaUM1NkYzVkh4NGVNRUtjd0F0M3RMTno2X0RSNG9VbF91V2lDOUh0OG5nSDJiY2M4cDdrM1lGRnNicldnNXBBQTBDRFVzNHdJQQ?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 23:45:01 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3ZpXzlKUWRCVEtZejV4Z0djVHFkaDcwV2VLeU1zSUNSLTZ2S012RGFxVmYyeHhUMzNZMFFVb1k5NGFwMkNmMG1iRXBfNUV2T1cwUTd5cnlmRDhmUUgzUG1PNzhNZ3RqdFlVZk9pdVVua1VUTXJQcG1wNmRSOUc2RjlySHlEQjZWWWRQbXl0UEJDMDV1LWtyTGlnbmRzVmdkTzloNnVTTkZUaFNLRHlPWEtB?oc=5",
           "pubDate": "Wed, 12 Aug 2026 23:01:04 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump sued over service that offers paid early access to Truth Social posts - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaTFuZV9uNVoxdEdGTjVLZjVkLW43UnBGVjU5WnFGc3Y3RHNsY3d3YjFtOG5RX3VwVXlUZGNHYXZfY3FKX2hQRFYtdnhMWGwtazBqX3JBVDBwT3F5UGotYkpzWEZCS2VpdXBrNmVCYW1TYnZwY1VUMXQydldIZUNhLVVXY0UyWHRpWFJ4SmpBalZaaXR5ZFplQnFLX29CZm9zVGtWVFd0bGJjMVJTZEN3ZTVEQ1Aya3Y0UnpqVzdtb2NnZnM?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 22:36:24 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T00:25:18.583Z"
+      "updatedAt": "2026-08-13T00:50:17.923Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T00:25:18.805Z"
+      "updatedAt": "2026-08-13T00:50:18.199Z"
     }
   ]
 }
