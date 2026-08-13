@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-13T20:25:13.941Z",
-  "lastChecked": "2026-08-13T20:25:13.941Z",
-  "lastUpdated": "2026-08-13T20:25:13.941Z",
-  "generatedAt": "2026-08-13T20:25:13.941Z",
+  "fetchedAt": "2026-08-13T20:34:25.675Z",
+  "lastChecked": "2026-08-13T20:34:25.675Z",
+  "lastUpdated": "2026-08-13T20:34:25.675Z",
+  "generatedAt": "2026-08-13T20:34:25.675Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T20:25:12.633Z"
+      "updatedAt": "2026-08-13T20:34:24.099Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T20:25:12.759Z"
+      "updatedAt": "2026-08-13T20:34:24.394Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 20:27:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Kennedy Center votes to restore Trump's name and close for 2 years, challenging a judge's order - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3dncGxOOUM5ZXRnUzA3Wkl0ZGowMTRibm1ybTFJNEh1Qmlsd0hNbGczMjZzRHQ5NzhwdHZ0MTdZb3E2OFAydURsMzJxaVVHTVhCY2U2V2VMWlg5b2VpTlplcmVOSnNMSXVySjF3TW1saXBjVm54bVJISnNNYjdCYzMxT3NhLUk2aVRVc1pGckNZeHpkSW9ibHZyc29RNHIwcVE?oc=5",
           "pubDate": "Thu, 13 Aug 2026 19:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Luigi Mangione expected to plead guilty in federal case in UnitedHealthcare killing, AP source says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFFIczBaNVdaX0VtUU9zOEZienY4Uy1YYzgtVjVrelZfRGxMRTBaMFlxbWU2VDU2cEN2cnFyRXdzYnVka0RKWUlLUFNNbmIwLUZBemU4eTcweUs4X0ROV3ZvZGhTRVphSFlZWW9qa0Z4dGRGZmxnZ0JWYy1zRkkwZGsyRkdPYkdjeTJoZFAxX29ZaW5RcmVqSnJvc21zbkstVGc?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 19:25:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1lxbDFVekRpTzE0UC1XQ2VBSEZ6cVJPcG1OQjZ5S210Wll1dmtBbDRvY05LRXFWVFoyQkotdkRnOXFXU09XT3Z3Y2VITDdCSjdIU21CMWhCaHNTNm1vYTEyMS13clVFcHpJeVlrVWtOa3FJdjZ3bUx2aDdhalpOVF9Id0ZFRE9WUTVpSHlXYm5nYVBtdzFEeGktaG5qbzMtSzJkWUE2Ulo4ZEVTdHZLREt1OA?oc=5",
           "pubDate": "Thu, 13 Aug 2026 18:17:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 18:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israeli settlers’ siege of Palestinian homes draws a sharp US rebuke - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjg4cjNRa214Zmg2OEk1S1ltSkZnd2RLcmlReHNZaDJZeTlfZVU3VjZtb1o5WjVTVV9WRnNmRTgtRnRvS3I5TWR1bUtjWExlV2t2NllOb1lTUV9kNEJodFdqdDFSOEJxWXVJRHR1SWxzN1UzTVJhTFM5TkE5SUZkdGxZMllaRzkzM2twRjJmTW9BcUVwaWNyV2FVYlFITHZqUjhFRWNGMC16b2g3dlh0ZWN6Q1dVd3FXM01RRA?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 17:59:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T20:25:13.202Z"
+      "updatedAt": "2026-08-13T20:34:24.908Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T20:25:13.695Z"
+      "updatedAt": "2026-08-13T20:34:25.364Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T20:25:13.941Z"
+      "updatedAt": "2026-08-13T20:34:25.675Z"
     }
   ]
 }
