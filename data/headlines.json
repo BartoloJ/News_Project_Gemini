@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-13T13:00:22.466Z",
-  "lastChecked": "2026-08-13T13:00:22.466Z",
-  "lastUpdated": "2026-08-13T13:00:22.466Z",
-  "generatedAt": "2026-08-13T13:00:22.466Z",
+  "fetchedAt": "2026-08-13T13:25:18.420Z",
+  "lastChecked": "2026-08-13T13:25:18.420Z",
+  "lastUpdated": "2026-08-13T13:25:18.420Z",
+  "generatedAt": "2026-08-13T13:25:18.420Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T13:00:21.448Z"
+      "updatedAt": "2026-08-13T13:25:17.313Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+          "link": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
+          "pubDate": "Thu, 13 Aug 2026 09:18:43 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
           "link": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief",
           "pubDate": "Thu, 13 Aug 2026 04:44:44 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
-          "link": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment",
-          "pubDate": "Thu, 13 Aug 2026 02:21:25 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T13:00:21.500Z"
+      "updatedAt": "2026-08-13T13:25:17.403Z"
     },
     {
       "name": "AP News",
@@ -130,9 +130,9 @@
           "source": "AP News"
         },
         {
-          "title": "Iran war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 10:38:34 GMT",
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 11:33:11 GMT",
           "source": "AP News"
         },
         {
@@ -154,75 +154,75 @@
           "source": "AP News"
         },
         {
+          "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmlmZ0lFTDZodTVzOGx0alVzcVp3eWJaci1XWjlSbmRGOFlyRHJpUU1MakVOc2xReVhacm8tSlczVy0zS19Tam5nUjdpM1BzRUNGaUhxVXcxSF9xYmxVVExZLXFITUg3RWlSVDF6eDluRHFJOHdhZk4xbEpLcVEzcmdCTWJOZ3FoVzdpRm15R0NuQmtZdFg0cThLWnNBZm43NUhHZFNLZ0x1ekxKZkUtTzRKM0s?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 08:20:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Cuba marks Fidel Castro’s 100th birthday as his shadow still shapes a nation in crisis - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2xvcWN1RHJQc1NRa3d6aWFsc1lnU3lXY0d0czFOemFxcnctN0pnQ2E0RnlWZnVKWVJwUmQwNHF6eFNjUEw0elB0YmFVaERpS3UxMnZjckJhQ1JtOEZXMG5vay01Tm1FSFVuSUFka2RZVlZzLUtZdDZLSUpSVmdaY0thSzctV1BET0VOZEZWWFdaeHUyeW56MU4yc1UtOUFaRnc?oc=5",
           "pubDate": "Thu, 13 Aug 2026 08:01:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmlmZ0lFTDZodTVzOGx0alVzcVp3eWJaci1XWjlSbmRGOFlyRHJpUU1MakVOc2xReVhacm8tSlczVy0zS19Tam5nUjdpM1BzRUNGaUhxVXcxSF9xYmxVVExZLXFITUg3RWlSVDF6eDluRHFJOHdhZk4xbEpLcVEzcmdCTWJOZ3FoVzdpRm15R0NuQmtZdFg0cThLWnNBZm43NUhHZFNLZ0x1ekxKZkUtTzRKM0s?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 07:54:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T13:00:21.985Z"
+      "updatedAt": "2026-08-13T13:25:17.880Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "DeepSeek raises API pricing for its V4 models - Reuters",
+          "title": "Trump promised a sex-trafficking crackdown. His Justice Department hasn't delivered - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORjhfbE1EZEdmYXd0R0RsR1AxbUNlc0tNYUt6UEZvdEJmUWdCbVd4R2ZZcDcydVNvVk9qNFpUZ3lXZGxURlU4M0dWUUlhaUNKcldGLUhtWF9XcF9JNEQ3M3NsZnlIQ0N2UVEtcjk2REtXYnB6TEpweHN2REJxdTJQZ1RsekpnZURYaVpUb0x6Y2dFVE5rYVdtak5aWGtoSURtY0R4Rlo1cDdOX1pWUlpXajVtaEduZHhZbk5oeE1aOVBDMjFvNXMtM1hwdUQ?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 12:56:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Diesel prices overtake jet fuel in Europe as global shortage widens - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejlyV0VLYkdZTjh6Z2JGUF8tczNIMGNic1RNSlY4cC13b01ERjV0ZnpmSFNpSHFRSThUUDIzY25KbmpLTVVLMzB1aXJEODJMMUl5QkY3OU95TlR0S215YnJTelNxYy1PT2NKbHdqZ0xidV9lRGRxa3ppekp3aENoRmFleG53RF9XVFFpRmtvNEwwSFJ2WHpxZExaS1FyZDZpdmJoeUtpYjJ0U18wa3FLTUNmYw?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 12:12:14 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 12:01:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "DeepSeek raises API pricing for its V4 models - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0VIYlk0czVDRGdnTGVvU2oyMlpoazd4TGE1RkhIRTlVdUxiWlRGMFBzd1N0c0ZFb1lJanpLTUU5WVZnT0JCUC1ITVJ1RlhlWENDTjlpT2RMRC1xMXRJbU1kZ1FOb2JGcHU0cXlXdGlQVDdXT2dKQUZ6dEF3VG5Pd0J0ZmtCWDlldWtubkpXUVhHS3c?oc=5",
           "pubDate": "Thu, 13 Aug 2026 11:57:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran's state media mock Trump over airplane switch, meme shows him hiding in a catering truck - Reuters",
+          "title": "Iran's state media mock Trump over airplane switch, meme shows him hiding in a catering truck - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV1FIaHZjdWh5bnZXZU04TlJVazN6cWVJdFRnYnFpOTk3N285VjlpdGJmdjc1MkNkdVIwQmFFWGY1U1V4X2Q1ZU04SmptOUFhS09FNDBtQVVuTVJBUUptZGp0NHZRVlBQWmpXa0xSNVlUdnlqUXVoNnplNUJYbWVhdUFwdGRWM1VKUm5aaWE0akNtY3l1SGdwQTREQ3VNNFNvU0FNN0hFTVRqOFZLVFVxSWx4cDk1VEVwUV8xMzlZSjlibGpaUTlfQUZmMTVKcC02VktHN1dR?oc=5",
           "pubDate": "Thu, 13 Aug 2026 11:54:58 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling - Reuters",
+          "title": "Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFdCWm05MXVPcGVJM0JLeGszcGJsdVM0aUZIUEladkFoRzAtR25qdlpiVzkzaGIzUXREaVZ5cUt0aElmVUl1UEdmeU1yZjJLUmlxNXJ5RmRvQzZrYnZyOFhDUDVkUEhPb2FpY0p4RFV1X0RDVDFwS3FidXRXODJjdUpnbGN4X0pINk1mT0xHMm0wbi1kbmVtSkRQUWN1TVVrYXljN3FScVFxR1NpSE1oT05Ua2c?oc=5",
           "pubDate": "Thu, 13 Aug 2026 11:50:20 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
+          "title": "Iran, US make competing claims over control of Strait of Hormuz - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnRSa0s5a1NHbzFqLTczc1FydWJqXzd1Nmc4ZEJoWlRheExRdUpFMjdxS2haWDc5cHdmRUNONVEzRjhaZjUyLVNmV0NpcXROSkFwaDBpVlBkOHc1SU52OXptQ1hLRnE1NVNIRHpxUVU5MFgxRTFpYUNFMnNGQXdtbTF3a05qV3gwNEpxaEswd053TXFPbnlSZExIc01hck56MjIyV2d4QQ?oc=5",
           "pubDate": "Thu, 13 Aug 2026 11:45:05 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Rotterdam port explosion causes one death, police say - Reuters",
+          "title": "Rotterdam port explosion causes one death, police say - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHMzY0ljNHJlVEdIUEJETWVOYXdZWU90aHg1QmJRMzVwLXhCLVhwNkg2aFBhdE1CNVVzRF84UHl4ODI5NG5pY3pNS1A2UDFPUTdjODNiMEtObVJyX0JKUkVjV1VUTWRtOHdKazhhenlaVjNIcUI3VVRtbFdhS1psY21xLVc5RWpZdUVQM0JhWk1ENURVekdkWmx4QXBoRFMwdVg0?oc=5",
           "pubDate": "Thu, 13 Aug 2026 11:43:21 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 11:17:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russia attacks Ukrainian port on Danube, Zelenskiy urges US to send Patriots - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGY3NUNnVllQUm9IZDIzYnNBWndDSjdPeEdJOTFMemZpaDlWdTJJZDNuRjhyNkd0b1FjTG16YkFqd1NFUGExWFdVd1pvODh0bnRwVkstbDlQYU9wTGZ0ZXNubjhwNm1Hd1RrN012d0JFWGQwY2w4cGVuZmNCTVJLNzl1M1BrS2h3S25IU3RwcHo4NXE1N3FIS1JhYnhxQnV3WkVxMmVPWmdIMXd5OGlCRFYtYw?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 11:15:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Heatwave expected to remove 15% of France's nuclear capacity on Friday - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnRoQ3l3SzVhY1hlakM2UXdxZTJZdVFjaFE4QjdwRXAzeWdXVW1vbFhPdHhyQ2ZqSlJ6UDJOQzV4OHYzZ1F6SWlpdGNvdjNrbFdwVS05UHdKY0xvRXY2cGJhYXBTczNYWkh3VE1HVGhPa1k3TXJjOWFfaDg4aG5RR3I1VHpsS1A5UHBod3JEZzIyWThoLVhZVGNJSVJDMEF2cU4tZWk4RnZKcnc?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 11:13:47 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T13:00:22.394Z"
+      "updatedAt": "2026-08-13T13:25:18.305Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T13:00:22.466Z"
+      "updatedAt": "2026-08-13T13:25:18.420Z"
     }
   ]
 }
