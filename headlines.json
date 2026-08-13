@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-13T08:25:15.252Z",
-  "lastChecked": "2026-08-13T08:25:15.252Z",
-  "lastUpdated": "2026-08-13T08:25:15.252Z",
-  "generatedAt": "2026-08-13T08:25:15.252Z",
+  "fetchedAt": "2026-08-13T08:50:18.243Z",
+  "lastChecked": "2026-08-13T08:50:18.243Z",
+  "lastUpdated": "2026-08-13T08:50:18.243Z",
+  "generatedAt": "2026-08-13T08:50:18.243Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T08:25:14.363Z"
+      "updatedAt": "2026-08-13T08:50:17.144Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief",
+          "pubDate": "Thu, 13 Aug 2026 04:44:44 -0400",
+          "source": "NPR"
+        },
         {
           "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
           "link": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment",
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/08/12/nx-s1-5929456/migrant-children-our-rescue",
           "pubDate": "Wed, 12 Aug 2026 16:19:40 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "White House press secretary leaving",
-          "link": "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-          "pubDate": "Wed, 12 Aug 2026 16:05:54 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T08:25:14.414Z"
+      "updatedAt": "2026-08-13T08:50:17.277Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Iran war - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 07:27:07 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Millions crowd Spanish cities to see country’s first total solar eclipse in over a century - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWxPSks4anlXZ3AwVXZ4YlRoMzYxRHFuc2dpTllDUTJrbHUwSU5LNzRyRnlzVmNDaWFtb1FZcFRVeVJJeHRBU1NDUVhnV21ycjM2cnNKbHIzN0JITzI0RVFBUmFoMTFCTHROVk91NWc2bngxRG5vZmc3RVVCeHdLcS11Y2I5dlhhUEM5Wm44cnRwR29OWjhjRnJhT1RZTFU?oc=5",
@@ -158,71 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXljSUJBZktTQjhrT2QtUUdlZVBFbUtJbUhiV25HSS00eEc4OUo3SkktT1VPTUNYSkVPMFR6YWwwMUdBaUoxNUt6RnQ3RklNSjRZTlNqaFR4eWpjMmlGWTBDQmdGRmNWVGV5bFU1UGliS19Ia1ZfTXFxamo0Vjc4WUFDcVZCWHhvbFlMNXNBWUc3MVlGNFlMQlN1SDdpT1U2bHlmWnZZQnFpdw?oc=5",
           "pubDate": "Thu, 13 Aug 2026 02:04:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "DHS cites recent policy shift after not disclosing death of Guatemalan man who had been in custody - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNXzBiSm1BQksyYWZEQmZCeGhLTGVPbFEtRUd4M0FxMHhiTHpQdVlLbE5sTUwwbGdudEZ3ZUZOT3hZTTNfWU1PNXFPaHhpNEpqMlJPTE9QaW5OaFRVOW1LSklkbXdXNWZJTERvV2NZVGlHT1prRWFoX2Z2TTRtd1pfUDVLODQxX2trLVRUb2FpbERLbTlnMzFpVA?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 01:55:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T08:25:14.816Z"
+      "updatedAt": "2026-08-13T08:50:17.668Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion - reuters.com",
+          "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lqOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
           "pubDate": "Thu, 13 Aug 2026 06:15:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "UK economy gains from Gulf ceasefire, World Cup and sunshine - reuters.com",
+          "title": "UK economy gains from Gulf ceasefire, World Cup and sunshine - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0RZZ3ItUUhNRlRnSENCV1QxOU5NSURGX2JydVhZQ2p1TTQ0Tjc0QTZZNGRieTRmYlNzSUlRT0JBeGZwV1lTa2poN0NXZWxuT0NPcXVhLXRqZXNvcVhyVDVFN3B3WnF0ZnZTd2RSeWwxeXIxaDFFcC12ZnZFSU9tSnZCMDQ1WERtU1lHcnl4S2pWZWVFNERBU2hR?oc=5",
           "pubDate": "Thu, 13 Aug 2026 06:13:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Maersk Q2 profit surges past forecasts, raises outlook for second time this year - reuters.com",
+          "title": "Ukraine's farmers despair as Russia's Black Sea blockade traps their harvest - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmVrUGExX1RHQ2IzZ0toSUJaU255RTBvd2NmOUpfTFpNS1l6R19jLTBlYnF1SHhJdEZNd2FlelNidVcxcUtoZWF5b0NzVGFCd3JVR2JfUElfanBDUnRkZXp5XzluX2poNE8xYkZ2Mmt2VGFSUzJNa1VlejhVWHlYWW5WN3R5WjNEeGc1bTJOWnRYWmxTLUJYdDh1MTBnTGlYdzN3d25uRVBBNWdISjY5QkVpbw?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 06:06:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Maersk Q2 profit surges past forecasts, raises outlook for second time this year - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQW5qM2VYQ3RlX1Q5SWhodmtJeXJpTkI3YzNiMFBQc3l5VUlQOTctcGctMHIxaU1hdE03MmdodV9ub1V1YjQzSGlLcTN2MzEyY2dxSnlDSTc1U0JiY1BIcDNZNjk1MmFVVzFIRURheEVUVEwzeDR4S2trQ1B0eUJmWF9mb1F6cl9Kc3V3OWpOMWY4enZMbGd3ZFNjdUpYZHc0aXY0dXRuZkU0a3JHOHVsY3JVdmJGdXNL?oc=5",
           "pubDate": "Thu, 13 Aug 2026 06:05:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Reform UK's Farage faces off against Count Binface in election - reuters.com",
+          "title": "Reform UK's Farage faces off against Count Binface in election - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdk4walQtOHRpY0R0NXVRZFF0OVY0aUR6X1FLMEVKTktzOVk3MWhIalBWNERpLXpqOWwzWkNEdE5lLVJxRVJybzI3S0VWZFdKZERfQ05CN1B3VXpqaUkzc2s3Zmw0cXVoNHJHTjVORWp1SWhNeUVQUTNQWmlPTjRmZWt3M1hJTFBfOXVodlBiN3dtbHRRVE9rQzJWaExHRThlcXp6UjFn?oc=5",
           "pubDate": "Thu, 13 Aug 2026 06:04:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Ice cream makers bet consumers still want treats, just healthier ones - reuters.com",
+          "title": "Ice cream makers bet consumers still want treats, just healthier ones - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2NWbElFc1NqcnN5bkFZbHQzUEc5V1ZRQ21vcjd6TVF2WTljV2NfLThWYWV4OVJzdjlGLTVOTDRtOVBIVEVHWFRDYWwyVElybktsdUFYaEZtTEJPeUtmeG1CQkJhMHc0WkY2RVNxSktMRjE3QTF2N1VDUkZfWUJVeERNU0VFM1FZQ1lxYUpPZkRQdjRqQ3Zkcno2Nm4yRVlHYVBGZHh0aFlOSHh5bjZwZjhHRDJUbkU3RDNEYU5R?oc=5",
           "pubDate": "Thu, 13 Aug 2026 06:02:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Emails reveal Indian carmakers' fuel contamination worries before public retreat - reuters.com",
+          "title": "EXCLUSIVE: Emails reveal Indian carmakers' fuel contamination worries before public retreat - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGFLdHB6YThpOU5xN0M1dktiSnBzZWxsREwzTVVYZm83aVJqdWo5bU5FbU9vN1JHSnBIRDQxbGQtWm1oOE1MYlp4c2M5UHg4MVIxelpjbFVaUjlXNXRTNWJFY0xndnZlTUNjblo1V3Z5RzZ1U1hSNl85b3pVbURKalQwR3dkbjNTVGZ5RGNxbXZfZ1hCZ1VFVm5CZzZFakZUY0F0TmFfeVIydndCcjVOb2NkNlNrd3lZV1VxMzk3ZjY0cTlPdnc?oc=5",
           "pubDate": "Thu, 13 Aug 2026 05:51:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Italy's Meloni has a youth problem as election approaches - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdV9RbkFNVlpOaG0zYk1IamkwZHZNdWttakhuOE5KZFA0ZzltT3I3eFJOVG52TlFaZk8xUkVjVG45ZnpnUFZfcUJ0dkI4RC1OUDJZMVFJRFgwdGlsWmM4MkRyNFJpOWQwQ0FlbVg4S3pmYTVLcWNLQWVJVTMxYkVGT0VNVzFiWE04UVlyTHp1a2hheDdfbTRCZFJlYVV0ZTdZTmc?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 05:01:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Fed bets cool, BOJ wagers heat up - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oM0FFVzBuNGtQVW9IOG1zaU44UGdVei1MVEx3MUY0RVhjOE5zYndQM0tMMDNfZW9lU0wyM1o4eUlnU2RFZGJIdlA1SmREYUtBZk4xdS1RYUhOeFA2T1U4ZV9pZ0ZlaXpqTTEtVFFDSlNUYWhmaFRHclBCMWlkTVE?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 04:31:00 GMT",
+          "title": "Jailed Istanbul mayor Imamoglu joins new opposition party amid political turmoil - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbEV3SWIzTHVVZllzRFo2RlNPT2RyMGM4VFJRem9vTGdsbE9YU3VVaEphNjVkZHlWb3J2aVdEQmI2ekY1YlEwb3RHSFUybHotdUxObjhYMktSdmdHSlpJM1hGczZWQ29rSGxZVHdBMGdDX083MFpNVW9HNmdKTGhZcnBQd0hNM3R0Nm9ucG1pR0ozTzNyRF9kOElkeFUzdElPdk95aVpXUEpWcE1LRkZjUWdjWnBLTzU0YUNIY0hwUVI3NkdoV1BlVFBOU2kzQ2s?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 05:47:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T08:25:15.192Z"
+      "updatedAt": "2026-08-13T08:50:18.069Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T08:25:15.252Z"
+      "updatedAt": "2026-08-13T08:50:18.243Z"
     }
   ]
 }
