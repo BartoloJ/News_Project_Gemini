@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-13T17:25:18.357Z",
-  "lastChecked": "2026-08-13T17:25:18.357Z",
-  "lastUpdated": "2026-08-13T17:25:18.357Z",
-  "generatedAt": "2026-08-13T17:25:18.357Z",
+  "fetchedAt": "2026-08-13T17:50:31.772Z",
+  "lastChecked": "2026-08-13T17:50:31.772Z",
+  "lastUpdated": "2026-08-13T17:50:31.772Z",
+  "generatedAt": "2026-08-13T17:50:31.772Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T17:25:16.716Z"
+      "updatedAt": "2026-08-13T17:50:16.900Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Mangione could plead guilty in federal case ahead of NY murder trial",
+          "link": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
+          "pubDate": "Thu, 13 Aug 2026 13:29:15 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
           "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
           "pubDate": "Thu, 13 Aug 2026 05:58:40 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
-          "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
-          "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T17:25:17.091Z"
+      "updatedAt": "2026-08-13T17:50:17.103Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-13T17:25:17.723Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-13T17:25:18.191Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T17:25:18.357Z"
+      "updatedAt": "2026-08-13T17:50:31.772Z"
     }
   ]
 }
