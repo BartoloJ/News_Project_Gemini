@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-13T12:11:10.444Z",
-  "lastChecked": "2026-08-13T12:11:10.444Z",
-  "lastUpdated": "2026-08-13T12:11:10.444Z",
-  "generatedAt": "2026-08-13T12:11:10.444Z",
+  "fetchedAt": "2026-08-13T12:25:30.164Z",
+  "lastChecked": "2026-08-13T12:25:30.164Z",
+  "lastUpdated": "2026-08-13T12:25:30.164Z",
+  "generatedAt": "2026-08-13T12:25:30.164Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T12:11:09.245Z"
+      "updatedAt": "2026-08-13T12:25:15.700Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T12:11:09.308Z"
+      "updatedAt": "2026-08-13T12:25:15.907Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-13T12:11:09.719Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-13T12:11:10.128Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T12:11:10.444Z"
+      "updatedAt": "2026-08-13T12:25:30.164Z"
     }
   ]
 }
