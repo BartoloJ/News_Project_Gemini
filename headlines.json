@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-13T12:50:16.780Z",
-  "lastChecked": "2026-08-13T12:50:16.780Z",
-  "lastUpdated": "2026-08-13T12:50:16.780Z",
-  "generatedAt": "2026-08-13T12:50:16.780Z",
+  "fetchedAt": "2026-08-13T13:00:22.466Z",
+  "lastChecked": "2026-08-13T13:00:22.466Z",
+  "lastUpdated": "2026-08-13T13:00:22.466Z",
+  "generatedAt": "2026-08-13T13:00:22.466Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T12:50:15.503Z"
+      "updatedAt": "2026-08-13T13:00:21.448Z"
     },
     {
       "name": "NPR",
@@ -72,6 +72,12 @@
           "title": "The drug lenacapavir is a mighty weapon against HIV. Its rollout gets mixed reviews",
           "link": "https://www.npr.org/2026/08/13/g-s1-137742/hiv-prevention-lenacapavir-uganda",
           "pubDate": "Thu, 13 Aug 2026 07:18:53 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Primary voters send mixed signals about what they want from the Democratic Party",
+          "link": "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
+          "pubDate": "Thu, 13 Aug 2026 06:59:33 -0400",
           "source": "NPR"
         },
         {
@@ -103,20 +109,32 @@
           "link": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment",
           "pubDate": "Thu, 13 Aug 2026 02:21:25 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
-          "link": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
-          "pubDate": "Thu, 13 Aug 2026 02:04:38 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T12:50:15.655Z"
+      "updatedAt": "2026-08-13T13:00:21.500Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Japan's Crown Prince Akishino has 'mixed feelings' on revised male-only imperial succession law - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMnlEX1A5SS0wdFI3dnFOaDkzaEJCN3RvOW1YTjd6Q2o4WEhueDJnZHphbGgweUZVVU91SjE4M2Q4cVBXcHdPUF9VdzFmTHBCMlYzUmk4WERsUWFJc0JtaXdCOUVNMkE4T0VhTW5QcGZxQzVLVUlUSnRjdXdVa19sOHJEb0paRXYtOURnLXlGdnNISkFVakJnWHBRZ3pjcEoyWE1NY21qRmF3eURJSVFmS2otY18?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 12:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Putin’s first trip to the Pacific island chain claimed by Japan draws a protest from Tokyo - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1FBbThicWttam5JSXN6Q1BxM3FvX2h1ZkJiZnBCa084Mk1qZG9UZUwwQVZ5TUMzd0tqRnZYYjBKcHA0b2dOdElab0Z0dm5MTlhoT2hqTGNZT1hlVUdSRHU1WDI1aTByaVd5T1Vyc2RHTHM4N1hQLUt4NkJBblpuVmNQRVNZZENyRnppQzNWWWJUUlcyakZoaXZPUGtyUHc2V1RvRUdXSENQRkJDQlloaDYyQUtEdVVIazFPRg?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 12:15:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran war - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 10:38:34 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump’s vaccine plan would require millions of individual shots last used decades ago - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2R1Y21OR1lSdTNjcVZSNUpUUzlJVEFPcHY3Wjg4QmMwQTZ5V2ZjQ3hnVlkwMXY0c052UXlrSFBSTXZVZXVtNnpnUTdNQVlIT3VYbXR3cDR6ZjRVeDJZb3RUV1FWZ1d1ZVNyQ2g4VFhSb09GRjBBMFBfdjlYcktuZWVlbzJRRkJVeDA3QXJKaEg2UXc?oc=5",
@@ -127,12 +145,6 @@
           "title": "Nigel Farage faces off against Count Binface in special election that's been denounced as a stunt - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHJJVEZPSWl3bm1JQ2NRUTFSUWdKUS01QVJRUF90MTJCQWhtS3hhTEpTUW1SMEV6cXFySDJxOFRJN0UySHNabUN4cE40aTZqVk0wdVlqalNHc1Q1ck9Jd3lfdXd0dS14ME5walJWdlNidDJhREw3QzRESTFFRVhkaFVFeWtVdHp4SWtkM1hpS25oaGFkV1d0dXFENUZjWnZUenVXODBSeEhYLWdp?oc=5",
           "pubDate": "Thu, 13 Aug 2026 09:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Putin pays his first visit to Pacific island chain claimed by Japan, drawing a protest from Tokyo - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1FBbThicWttam5JSXN6Q1BxM3FvX2h1ZkJiZnBCa084Mk1qZG9UZUwwQVZ5TUMzd0tqRnZYYjBKcHA0b2dOdElab0Z0dm5MTlhoT2hqTGNZT1hlVUdSRHU1WDI1aTByaVd5T1Vyc2RHTHM4N1hQLUt4NkJBblpuVmNQRVNZZENyRnppQzNWWWJUUlcyakZoaXZPUGtyUHc2V1RvRUdXSENQRkJDQlloaDYyQUtEdVVIazFPRg?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 08:36:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,30 +164,30 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmlmZ0lFTDZodTVzOGx0alVzcVp3eWJaci1XWjlSbmRGOFlyRHJpUU1MakVOc2xReVhacm8tSlczVy0zS19Tam5nUjdpM1BzRUNGaUhxVXcxSF9xYmxVVExZLXFITUg3RWlSVDF6eDluRHFJOHdhZk4xbEpLcVEzcmdCTWJOZ3FoVzdpRm15R0NuQmtZdFg0cThLWnNBZm43NUhHZFNLZ0x1ekxKZkUtTzRKM0s?oc=5",
           "pubDate": "Thu, 13 Aug 2026 07:54:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Japan's Crown Prince Akishino has 'mixed feelings' about male-only imperial succession law - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMnlEX1A5SS0wdFI3dnFOaDkzaEJCN3RvOW1YTjd6Q2o4WEhueDJnZHphbGgweUZVVU91SjE4M2Q4cVBXcHdPUF9VdzFmTHBCMlYzUmk4WERsUWFJc0JtaXdCOUVNMkE4T0VhTW5QcGZxQzVLVUlUSnRjdXdVa19sOHJEb0paRXYtOURnLXlGdnNISkFVakJnWHBRZ3pjcEoyWE1NY21qRmF3eURJSVFmS2otY18?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 07:35:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Canadian wildfire that forced 20,000 to flee may signal ‘new normal,' province's premier says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUUtCYmtXZFVlZHF0Sl93Nkh1MDFadFJDNThMTGpMVERYZzhFVTJ0bjZTeWVvLXYxUEFsVVVfRlhUSG1xdEZCakdXOHB3UE1JMWVyYVFONVZxOTBqcUx1X09DNG9NLXUyc2cxZ3JPMEp1SGtvZXhRTVBqMzgyQVcwMTRQY3kyM2hienQzUGNMWFRqaVB6Um02dQ?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 06:46:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T12:50:16.139Z"
+      "updatedAt": "2026-08-13T13:00:21.985Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "DeepSeek raises API pricing for its V4 models - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0VIYlk0czVDRGdnTGVvU2oyMlpoazd4TGE1RkhIRTlVdUxiWlRGMFBzd1N0c0ZFb1lJanpLTUU5WVZnT0JCUC1ITVJ1RlhlWENDTjlpT2RMRC1xMXRJbU1kZ1FOb2JGcHU0cXlXdGlQVDdXT2dKQUZ6dEF3VG5Pd0J0ZmtCWDlldWtubkpXUVhHS3c?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 11:57:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Iran's state media mock Trump over airplane switch, meme shows him hiding in a catering truck - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV1FIaHZjdWh5bnZXZU04TlJVazN6cWVJdFRnYnFpOTk3N285VjlpdGJmdjc1MkNkdVIwQmFFWGY1U1V4X2Q1ZU04SmptOUFhS09FNDBtQVVuTVJBUUptZGp0NHZRVlBQWmpXa0xSNVlUdnlqUXVoNnplNUJYbWVhdUFwdGRWM1VKUm5aaWE0akNtY3l1SGdwQTREQ3VNNFNvU0FNN0hFTVRqOFZLVFVxSWx4cDk1VEVwUV8xMzlZSjlibGpaUTlfQUZmMTVKcC02VktHN1dR?oc=5",
           "pubDate": "Thu, 13 Aug 2026 11:54:58 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFdCWm05MXVPcGVJM0JLeGszcGJsdVM0aUZIUEladkFoRzAtR25qdlpiVzkzaGIzUXREaVZ5cUt0aElmVUl1UEdmeU1yZjJLUmlxNXJ5RmRvQzZrYnZyOFhDUDVkUEhPb2FpY0p4RFV1X0RDVDFwS3FidXRXODJjdUpnbGN4X0pINk1mT0xHMm0wbi1kbmVtSkRQUWN1TVVrYXljN3FScVFxR1NpSE1oT05Ua2c?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 11:50:20 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnRoQ3l3SzVhY1hlakM2UXdxZTJZdVFjaFE4QjdwRXAzeWdXVW1vbFhPdHhyQ2ZqSlJ6UDJOQzV4OHYzZ1F6SWlpdGNvdjNrbFdwVS05UHdKY0xvRXY2cGJhYXBTczNYWkh3VE1HVGhPa1k3TXJjOWFfaDg4aG5RR3I1VHpsS1A5UHBod3JEZzIyWThoLVhZVGNJSVJDMEF2cU4tZWk4RnZKcnc?oc=5",
           "pubDate": "Thu, 13 Aug 2026 11:13:47 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Etna ash keeps Catania airport shut until Friday, disrupting summer travel - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRkE3MDh4N2VXRXdHdEljQ3FHVmE0UU9LODRoM283YVhwWGZCLXZBNGo1eEhaVG5jTG52V24zTFVJMTFxbDRKclZRYlRhQmtVUDMzZ1dzdy0tcm8yeWR6T3k2eURIWjhaWXl0c3B1TkItdmhoUFFBLWVZVVdRbDRON0RFcnRha09qVG52SFFZTElhbDFoV0ZrR0s4MVhLcDBFd1hlakFpSWMzaXVURmRzVHlBR0stSDdYVlBFMnYyaDJXSk50OWdveUdR?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 11:05:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Israel sends more troops to West Bank village besieged by Jewish settlers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnkwN181TzdJQXA2ajNoUENXQTVxVTBvaDVrMHNfT0FldklHZGZ0Y094aFRMM3B2ZXpBbjdneUdKQ2h4aFQyTjdweE1uNXRtWEpXdVhWc29HbkVyU01qcUtnek0yTjVqdU5pQUlkUVdEeGFxUVhEdGRjQ2hPT0JmYTRuMTVtVVhFU050aVhnVnlUZ2ltRVZROEJoQ3lUZC1jYVI3ZV9nSm53bU9pcGtmdjBSQXJQMFBJdzc4aGw3aU0wQQ?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 11:00:51 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T12:50:16.541Z"
+      "updatedAt": "2026-08-13T13:00:22.394Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T12:50:16.780Z"
+      "updatedAt": "2026-08-13T13:00:22.466Z"
     }
   ]
 }
