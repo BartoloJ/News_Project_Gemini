@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-13T18:00:21.261Z",
-  "lastChecked": "2026-08-13T18:00:21.261Z",
-  "lastUpdated": "2026-08-13T18:00:21.261Z",
-  "generatedAt": "2026-08-13T18:00:21.261Z",
+  "fetchedAt": "2026-08-13T18:25:15.633Z",
+  "lastChecked": "2026-08-13T18:25:15.633Z",
+  "lastUpdated": "2026-08-13T18:25:15.633Z",
+  "generatedAt": "2026-08-13T18:25:15.633Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T18:00:17.781Z"
+      "updatedAt": "2026-08-13T18:25:13.870Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T18:00:20.048Z"
+      "updatedAt": "2026-08-13T18:25:14.274Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 18:00:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Kennedy Center board moves forward with a two-year closure to allow for renovations, AP sources say - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3dncGxOOUM5ZXRnUzA3Wkl0ZGowMTRibm1ybTFJNEh1Qmlsd0hNbGczMjZzRHQ5NzhwdHZ0MTdZb3E2OFAydURsMzJxaVVHTVhCY2U2V2VMWlg5b2VpTlplcmVOSnNMSXVySjF3TW1saXBjVm54bVJISnNNYjdCYzMxT3NhLUk2aVRVc1pGckNZeHpkSW9ibHZyc29RNHIwcVE?oc=5",
@@ -130,15 +136,15 @@
           "source": "AP News"
         },
         {
-          "title": "Poland says it thwarted a Russian plot to kill an American citizen in Warsaw - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSVRLb0Vwak5DcjRhMWNzd1hBOTNoWE1pazFPU000b1dOVUQ5YmN1X0tEd3lCb3dwR1JrQVVmcWhTcncwaFh5czgxX0dvd0dTS0IzMlRLU3ZiVDZpMlZ1OHlxZndULURtdUwzOFZZOXRBcDJSUFVIakUzaDJ0bWIwZE9yYzM?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 16:39:00 GMT",
+          "title": "Flock announces changes amid backlash over its license plate reader network - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBPRjNmS2lOVjNzblhEVGYxVUlTLUw5Y1Y3RlVhYnlmTDdwLVdobTZjUkloVHI4eEl1NkVEdkpiOTRUTlhPbVNFREs3MFE5eG9OMXRGdzJMYjA5SWlPTTZLRUFkWnpmRTNKOGRNWENnYWYyclRCYWU4b1ZyQUstXzYwbUtDcVdWcHdsMHljVDhEcWlPUGtHXzFweF94OExaZjJVNTV1LWs2MXNE?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 16:40:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iran-backed Houthi rebels clash with Yemeni government forces and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 16:20:00 GMT",
+          "title": "Poland says it thwarted a Russian plot to kill an American citizen in Warsaw - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSVRLb0Vwak5DcjRhMWNzd1hBOTNoWE1pazFPU000b1dOVUQ5YmN1X0tEd3lCb3dwR1JrQVVmcWhTcncwaFh5czgxX0dvd0dTS0IzMlRLU3ZiVDZpMlZ1OHlxZndULURtdUwzOFZZOXRBcDJSUFVIakUzaDJ0bWIwZE9yYzM?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 16:39:00 GMT",
           "source": "AP News"
         },
         {
@@ -154,24 +160,30 @@
           "source": "AP News"
         },
         {
-          "title": "Amid public backlash, surveillance tech company Flock announces platform changes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFBPRjNmS2lOVjNzblhEVGYxVUlTLUw5Y1Y3RlVhYnlmTDdwLVdobTZjUkloVHI4eEl1NkVEdkpiOTRUTlhPbVNFREs3MFE5eG9OMXRGdzJMYjA5SWlPTTZLRUFkWnpmRTNKOGRNWENnYWYyclRCYWU4b1ZyQUstXzYwbUtDcVdWcHdsMHljVDhEcWlPUGtHXzFweF94OExaZjJVNTV1LWs2MXNE?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 14:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Explosion at Dutch port of Rotterdam leaves 1 dead, several injured - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUzJVaVRQdEpobS14T0dDeGtNUFhEX05XaTFwdHJfcUVvcm9pa2FHMG5OaGF4ODdrZDdqQ1UwTm1GTzdNWk4xREZtUjFfWjd4aUhQZDdNczZQQm1vR29PQUtyaWh2NnNlU3QxRFdMbDJNZElydDZob3g0UnpveWVpblFBU3ZQSzlLSGNTenNKWEllbzQ4NWpYR055X3E2YzdYUndYZDR6clpIMDVNeGc5MjR3?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 14:41:00 GMT",
+          "title": "A British firm starts containment of oil spill from stricken tanker off Oman - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeERhdUViWmhrNlBhUGx2M2tHYjEydTktUkNjLTZmOWRGeWl3NHdsSE1ELXFIMmVvbVIzV1lkSVlWYzFVZkhkVEM1WHZTUG1LWExtVnRoeHd4ZVR6YmZQMzJiVE4yRDFSYVJ1SDFPUkphUmI2QzJndDVKOUk2MjdSOGdPWjVsMnd0dlkteEF1cTJCOWZyclVDczBWaFdncXBZbzNZTVV4R2xVM2xmbnR3bQ?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 14:54:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T18:00:20.512Z"
+      "updatedAt": "2026-08-13T18:25:14.930Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Hundreds still missing in Colombia as desperation grips earthquake rescue effort - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTlvYTRPQnZ2b3ZFaHNQeDc1ZWdlaXlmc1AwQTJ4bnFKQ2xHRmpaSGRRa2o0U1ZOR0w3RnhiNDFBMmlicjE1RFpIdXBhUmtqTmhpYzhBUDVjaG5sLVFyZGlpZllnSVpxWlJHRW5GRW5TTjh5YVluangyMGNsR0RJRDNWUmNLazluRUFuUVVIN0JKLTR0NkpvX2pOdkdyOFNEVHA2U2MwVnVoZjhwbTdDcEljd1VTLWllWlh3YUtVX1Z1Mlh5Q1JGZQ?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 18:07:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Blast at Rotterdam port energy facility kills one person - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHMzY0ljNHJlVEdIUEJETWVOYXdZWU90aHg1QmJRMzVwLXhCLVhwNkg2aFBhdE1CNVVzRF84UHl4ODI5NG5pY3pNS1A2UDFPUTdjODNiMEtObVJyX0JKUkVjV1VUTWRtOHdKazhhenlaVjNIcUI3VVRtbFdhS1psY21xLVc5RWpZdUVQM0JhWk1ENURVekdkWmx4QXBoRFMwdVg0?oc=5",
+          "pubDate": "Thu, 13 Aug 2026 18:05:07 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Taylor Farms outbreaks show limits of US ability to safeguard produce from Mexico - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWkyTlc3OHpxQ2hjdExqOU9OV3lZdFZOUXVrb3dEdmZXSzVhT3Qwc3ZxSTlLSXFwRmYtcmc3SFFjV2REeF9mZlNkZ0szOGJqbS03eDlndVJ3Tk1NZVJoR0pyTGpIWEdNWTVpWDByZTdoMUFiTmlhbmhQRmF3cUJ6cnFwZXU5aVV5eEtEaVo2S1d3YURiWThIclU0NV9EaC1yQzAyVU00VnhfeEIxRXF2WU51UmZVQmZaaDQ5dURod1Y?oc=5",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFdCWm05MXVPcGVJM0JLeGszcGJsdVM0aUZIUEladkFoRzAtR25qdlpiVzkzaGIzUXREaVZ5cUt0aElmVUl1UEdmeU1yZjJLUmlxNXJ5RmRvQzZrYnZyOFhDUDVkUEhPb2FpY0p4RFV1X0RDVDFwS3FidXRXODJjdUpnbGN4X0pINk1mT0xHMm0wbi1kbmVtSkRQUWN1TVVrYXljN3FScVFxR1NpSE1oT05Ua2c?oc=5",
           "pubDate": "Thu, 13 Aug 2026 17:02:55 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnRSa0s5a1NHbzFqLTczc1FydWJqXzd1Nmc4ZEJoWlRheExRdUpFMjdxS2haWDc5cHdmRUNONVEzRjhaZjUyLVNmV0NpcXROSkFwaDBpVlBkOHc1SU52OXptQ1hLRnE1NVNIRHpxUVU5MFgxRTFpYUNFMnNGQXdtbTF3a05qV3gwNEpxaEswd053TXFPbnlSZExIc01hck56MjIyV2d4QQ?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 16:57:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Tourists flee as Greek wildfire descends on resort village - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd21YQ3loWjI1Wm1CLTROV1FEOUZ0dDBrN04yU1BzQ21Wb1FOcWlPejU2VENKUGNrUDAwcThOVVhOdHdMdmtWMTdmbE1rdmlZcHNsc0hXX1pTcU9MQW1RY2pDUTZWRklIbFJmNTFRdzI2dDg1VEc5YVZ6eTdMQUZjeWdSVllvZmdERENmOFFFR21vRXI3SGdybEJFZU9ib1paQllsZXhxSmNiLUs5emc?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 16:55:41 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T18:00:20.993Z"
+      "updatedAt": "2026-08-13T18:25:15.402Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-13T18:00:21.261Z"
+      "updatedAt": "2026-08-13T18:25:15.633Z"
     }
   ]
 }
