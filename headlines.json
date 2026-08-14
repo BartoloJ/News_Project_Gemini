@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-14T10:00:21.480Z",
-  "lastChecked": "2026-08-14T10:00:21.480Z",
-  "lastUpdated": "2026-08-14T10:00:21.480Z",
-  "generatedAt": "2026-08-14T10:00:21.480Z",
+  "fetchedAt": "2026-08-14T10:25:22.592Z",
+  "lastChecked": "2026-08-14T10:25:22.592Z",
+  "lastUpdated": "2026-08-14T10:25:22.592Z",
+  "generatedAt": "2026-08-14T10:25:22.592Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US missionary released following kidnap in Niger, Christian group says",
+          "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 14 Aug 2026 10:18:02 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "US says dozens of countries helped China dodge Trump's tariffs",
           "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 13 Aug 2026 23:06:23 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-          "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 13 Aug 2026 21:43:47 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T10:00:20.453Z"
+      "updatedAt": "2026-08-14T10:25:21.397Z"
     },
     {
       "name": "NPR",
@@ -71,6 +71,12 @@
         {
           "title": "ICE uses controversial program to boost deportations. Here's how it works in 1 county",
           "link": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police",
+          "pubDate": "Fri, 14 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "At Big Bend National Park, bulldozers begin clearing pristine desert land for border barrier work",
+          "link": "https://www.npr.org/2026/08/14/nx-s1-5927276/big-bend-border-texas-rio-grande",
           "pubDate": "Fri, 14 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
           "pubDate": "Thu, 13 Aug 2026 22:06:10 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Hit hard by the earthquake in western Colombia, the mayor of Cali gets to work",
-          "link": "https://www.npr.org/2026/08/13/nx-s1-5930188/around-the-clock-search-continues-to-reach-victims-of-the-7-4-earthquake-in-colombia",
-          "pubDate": "Thu, 13 Aug 2026 17:39:19 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T10:00:20.574Z"
+      "updatedAt": "2026-08-14T10:25:21.593Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T10:00:20.981Z"
+      "updatedAt": "2026-08-14T10:25:22.058Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Russia jails man for 23 years for spying for Poland - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ0xKRmlPaUJBRWJfTlZuakQ0MUFoNXU5ZTYxVC1jbVhtd3lKTW5wYklkX0Z2ejBFenNCSnYtZnNFd0N2RHVYaTRvaVlQaGFYZkFJLVVqNU16TEUwalh4UjJrcHJuTlVUZE1wcGRvUmptWWlWMTJUY3VyX2h4M1kzcVBHd0NSazJPNDFNZjV6RkhzZw?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 08:40:06 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "American missionary kidnapped in Niger released, NYT and Christian organization say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORWYydU83djBHbmRCaXgxMWZ3ZzFlTWgyb0I2VGRJQ1owcGpmY09sQXFlYWRaRG85bHhyTklvclgzLURaLUNua3JnQkQ1UldXc2o2bWNoR05pdXUzRm5sNlVIcTBvMFJob1hxb0xCVTA5NWNJOV84emNfM0VNRzFSUmRxLXExeWZSbFJrVnJkZkluaEY2bnI3NnBBa0RqREpuREhiVXd4THBCdktRNWtxMjRhNA?oc=5",
           "pubDate": "Fri, 14 Aug 2026 08:40:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "U.S. TerraPower, South Korea's SK Innovation sign preliminary deal on global SMR projects - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORklrbjJ5SEIyTDBIUWlGSFV5UkJnQ25qSHVYb3dNbkUzaFh1emNOTUlBYWQwN2h0NTduSXgySW1XYWZOQzBwQkNyRkVudm1nbDhVWGQ2Nm93WXd2TVB4R0Y0U3FjU1VXQnlpREJUd2c2djJoT1oyWjBDY1lSOU1hSmNNSzk3UW9QSzBRTGRpMzVoaUoybnFJYmRWMWhKcHF6ODBqcTRFN3B6dUxydzc3cl8yTnhCR3lvUkIxektUZnJYSDg?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 08:10:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China calls Taiwan's annual military drills a 'wasteful charade' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGhMU25fVEswcGdXUVItRVJmUE05cG52RjJXRUJZMWRsMElTVHhMeTQ4SVd6QXJRRTh5NUFSV3NmdmJHLXpTclI2U09NdlN5c3pGTlFGRkhMVm55Z21QWHZ3dVJTMUU4N2ZzX2VFX25DVXpGU2FKTFNlVlYyTXFjS1Zhcm8ydmFLRF9neTJCbW10RDlCcV9JUS1mUG9EcHMtelZnbVZ0bHAxV1k?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 07:59:43 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUEFNZjJjbVlyWTFSdGhZa2JPSGREemc5MUlBSGxtVnZ2U2lrVjV4Wk5Jblg1VVB5OWhFY1hTRGU5Q2tBMUVCXzQ1ZHlNNmMzWlM2RjBRLVliaGNkdklPa3F3U01OUGxlTWNwTmc0bVNzRGJ1d3ZrZHZUaTVNRjBYaTQ3Q0tvcHl2a1VWVV9MeV95S3NEajREQVRDY2VmalRMY2xLMWdILXJQUGtZQjk5dGNWWDN3dmNNZVFoNFd4aHBRVkNFRXc?oc=5",
           "pubDate": "Fri, 14 Aug 2026 06:31:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wildfire descends on Croatian tourist town, injures 36 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeE1JdmNaby01LWIzcEQ4d18tcDh2SDNJcHpBYlBNcGowdk0ycHFhdGFibnFjTXl6R01PY2FHUkg5Z2RjcWdEaFZnWFRWRXJWMjBIS2w1NjFjU0Q0NEpDLXBCR0VUbUxYcUxENmx3X25KSnNMZlZtV00zZDZ3X1JEeHNHbnlxVTZ4OC1TQ200TDg4LTh5Wk1ocUt6QkhIRUlYOWIxaXJjWXdrZ2FNVTM2ZmU0cw?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 06:19:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukraine's war-hit steel industry faces new obstacle: EU rules - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkpxWjhTWG5yaE9jV0VIajBSSzBJMGRoX01zU0RUMGU5cWQ3eEhKbmJFV3YzSGRNOEZsTDVsTGQyeEE0ZXRhMlV4X2g0ZFAtWUlMcHF4Q2dBeUg4bWxBeGxuYWVGdkhsM0MyYkFxTnFRVWNxeFR1Z3F5NjFNdW9ZZzZMMmtOOWtmRlVNZS15VE5VbFMweHYwa0FDQVczX1k0N0g1WmRXbw?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 06:03:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Israeli settlers divert Palestinian water to fill West Bank pool - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXVEdENUNENwYzlmYS1QQkxJeGlxVUt6Vkp4Zm80UklLMHBWRzNzWENDcUFhdkxkcUtMc2lmdzY1NElLSXFuT2wtWG5RNC1ybkk4V3RDMlJqQ3JDM1M0em5VanBHUHBTRTNJMjZ5TU00Z0MwT2t4bFVIMmJTMnpJdmg0czV4cDZDTWUxbHN6N2xadDhOd0hmYmpob1BTc2R4Y0l6V2I3WEpxTGxVNGpPWXpvc1otZk1l?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 06:01:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T10:00:21.365Z"
+      "updatedAt": "2026-08-14T10:25:22.520Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T10:00:21.480Z"
+      "updatedAt": "2026-08-14T10:25:22.591Z"
     }
   ]
 }
