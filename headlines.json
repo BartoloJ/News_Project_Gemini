@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-14T17:25:34.953Z",
-  "lastChecked": "2026-08-14T17:25:34.953Z",
-  "lastUpdated": "2026-08-14T17:25:34.953Z",
-  "generatedAt": "2026-08-14T17:25:34.953Z",
+  "fetchedAt": "2026-08-14T17:50:19.019Z",
+  "lastChecked": "2026-08-14T17:50:19.019Z",
+  "lastUpdated": "2026-08-14T17:50:19.019Z",
+  "generatedAt": "2026-08-14T17:50:19.019Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T17:25:33.476Z"
+      "updatedAt": "2026-08-14T17:50:18.769Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T17:25:33.662Z"
+      "updatedAt": "2026-08-14T17:50:18.851Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczhJdEhZeEpuNk90Wk5ycmQtczVyYm9xeThwR3RXWFlhVGpoYmxOZ0NTeGpLeHRCOVpXNkdzcmp4X0RSVUtLeVRnSWRzazd1SGdYSDdndkJYejNQRmxwOWdvR0NUNmItb0puczF2ODB6SWxKVlRsMWEyeFpzRVpCcmF1US1aZXh3QjhfZm9lUXFMVVYwZXEzWlNQc2ZjVmhXV2c?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 17:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A surprise credit after an overseas purchase: The tariff refunds now flowing through shippers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVU5Hd3FfejVTWkF2cm5JbHY5R2xsWGowRlk0VHd2OHVyTEhacXZMUDJUSW5RSDNHRUptUG0wMENOdkRTMUhCczA3b3Bic2ZyaVdGci1makg5dFpDM0kxY3paNHJGLTFXSER1a052TTFPaWwzaDZpaU9SOFdlU240LVdnenNYbTQ2Z3VOMUVnNXotRVk?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 17:12:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "US retail sales slump unexpectedly and sharply after a summer tax-refund boost fades - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORk16TW44WWs3VlZRdGE5Zy1ZeUs5NVNnX2tRanhTSmdnZ0tHbGtMM2tJamJHdlNNdkROdWo4WmZwMkx1STFmdUpEX3ZvRzdXVTlJUmxpako5dDNyS3p2QzB4a3ROa2R6RWtDcXBNMlNJU2RHMGFjeHJrWG1EaUQ3aElIOTVyaWk0WUZoM2g1ZGJqVnJKUmY4cVZrWHA3XzFrbFFNUXNB?oc=5",
@@ -136,12 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczhJdEhZeEpuNk90Wk5ycmQtczVyYm9xeThwR3RXWFlhVGpoYmxOZ0NTeGpLeHRCOVpXNkdzcmp4X0RSVUtLeVRnSWRzazd1SGdYSDdndkJYejNQRmxwOWdvR0NUNmItb0puczF2ODB6SWxKVlRsMWEyeFpzRVpCcmF1US1aZXh3QjhfZm9lUXFMVVYwZXEzWlNQc2ZjVmhXV2c?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 16:21:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Schools serving US military families put new emphasis on Western civilization and Christianity - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2RjbGVmLXd0dFo2ZzJjQW1EeDRYOGVMcHkyb1ctT0pid0VoNUo3RHBUNVlPbHJSdkRRaUk4Z1BtRHV5WDdNb0NsQlQ5eGFLSk90QVlWaXpaSTExNXZNei1Yb0t2YmtGNHRLMnZCbG9xZldJZ1lOejJwTXVIV05lTzYtbWhoamZnRThWdFZ5b3Vrc2tocTlhdVhXS3RFNlZQS0lPREhn?oc=5",
           "pubDate": "Fri, 14 Aug 2026 15:48:00 GMT",
@@ -158,20 +164,32 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGxQNEpxUFR3NkJFN1JaeWxBMU8zVFpqNmJnTmNjcXQ5aWZnLXotc3lmUEw1eVZHS2dNUWxhRWdCdEdlVzVqeWEzMDEzaTRJbTVybFoyV2tyMDhJcGo1X2pZcGtCOEhUblBvekJpVmJkR2lnN1hPaTJlQ2lPRjRYMTRoSFFSZjY3T1VGMXA5OF8yem9aMThuRkgwcjJHdWxUSTY0MVd4WFRybTF5M3E5dFBFSV9QbnU2cXc?oc=5",
           "pubDate": "Fri, 14 Aug 2026 14:54:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 14:51:35 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T17:25:34.226Z"
+      "updatedAt": "2026-08-14T17:50:18.938Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Zambia resumes vote counting after election officials attacked - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc0xNRjl0dDVFdENwd0lyeF9hTnh6dTJrSjBkM09GSHZKLVBGZVB2N0NZWjVrLTZSRVNZRDYwbDRMNFRMeEJ0dFRFYktJVXBzZ0VPeC1WQ3JtWHEyNjlrb2dURmRyUkRaSWs0aENFNG9EdTlBeWxxOGNfczFPNnh1c01xMG14LUg0TXcyRVIyX0tTU1ZvQ0RFR0U3N25pM1B0SkxQSTN4SnB1SHo0TlNyRGZZdldUanEzUTRN?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 17:17:33 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tesla to unveil redesigned Roadster as early as August, The Information says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdF9WeVhkQnF6clRoSHNrZHlfMVY1UUJjT3dsMW5YSjhkR2VPWS1iZTdVTjI2Y3dQYWE3NHVhUkdkelVwUnBCaThkV3JTLW5BTnR1S1lvSjZPRUk2bmlfR0FjbjJEZ1RsRE55eS1tZkRJcVEzaU5DbUp0eDJHeDhyUXNpbWJzdFdkSHRZMVczZ2gtZVRLTXBHaGljQll5SkdEeVNHV3Y4c2FTNzdta1VFVjY2djdVQld6cU90Zm1R?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 17:14:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Luigi Mangione pleads guilty in federal case, admits killing insurance CEO - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdE8wcFpJSTRXd2hNWEp6dHphZmZvYURLZ3lLcmxmWU5YVnNtZW5pZElJNFlISUV2MjdnbXJGQ1ZHLXljaUo4VDFodlVPbzdmSzFwdTdDRUZ0SHdVZEQ0Y043TWpCNUF2dE9ZTnFoVkp0OFZxRnhMMUUwV1g4bjJpem5OTDJDX1h2czI4RGpuWUFBNUlBNE5tYXZ2NFNJMkhlek5IWkJydThjbGhwbGhwOVh0bXB6bXBhcVp3eG55MEU4WXNya2luQQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 17:01:56 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "France's top court blocks social media ban for under-15s - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV254M2ZlOFJMWGs3OWlkUzVERktNOU8wei1RUzFBN0xyRkZQSkhIQ0ZlR21BWkV6c1VJNjFVZ2dfLWk2MHVtMDM5MDZtLXJlN19JYVhDSzd5NlFzZjhrUVVfWm9VTUdPbWVVOXRzaUY1RzdjUlhmWm5aczVLTlR6SGlQYjhKVk5PQ1Z0SkZ6enE5ekFGa0FnaThGS0ZfVEtsWUVDeWRVOFdRZ1AxSkpN?oc=5",
@@ -185,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Son of former Mexican president says US revoked his visa - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3Y1Vi1LUVJ3aWlaQVNWaEMtcUJ0YWowZ3dwSUVIZm05d2ZWbkk5OXUxU2Q0RkdodmR2a2xuamRwYXJWMjZWMVVpRV84YlhyVEg4Q0ZhOG1RY0xBSzVseXhzeTY4bkc3ZTRHMllZVDB2UU9EQm56TnpPck5WYmNNR1JkZnVCYkJwbUFZMkwtY0lPM2JIdERWa1VaLXRjYTh3OVNCN1lMOA?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 16:43:55 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Oil climbs on tanker attacks, US-Iran claims about Hormuz control - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
           "pubDate": "Fri, 14 Aug 2026 16:34:24 GMT",
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdDcxc0MtMkQ1ZG95a2tHaXZXbkxScWJRUDFyQm1PUkVVekpfcmlmMzFmZ0o3cjdOanZqSjZFYmJuTmZmeHRNVlVvdkJkZTMxMldITTRIRkdqQk9ZQ19BUkZNTW9BeG5TaFZ0d0k3LTVkaDV6TjR0cl9vLVh5T2xWM2VnZjk2ZlF3Umw3ZHFuLURsWWhJT2x0XzNaYXpXbFFxQU5CYmFzdlhveWJRZ09HMWRhRENMLXJtLUNqaVdtcw?oc=5",
           "pubDate": "Fri, 14 Aug 2026 16:15:36 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wall St subdued as markets pause after S&P record high; data, Mideast in focus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 16:07:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 16:06:29 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Luigi Mangione pleads guilty in federal case, admits killing insurance CEO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdE8wcFpJSTRXd2hNWEp6dHphZmZvYURLZ3lLcmxmWU5YVnNtZW5pZElJNFlISUV2MjdnbXJGQ1ZHLXljaUo4VDFodlVPbzdmSzFwdTdDRUZ0SHdVZEQ0Y043TWpCNUF2dE9ZTnFoVkp0OFZxRnhMMUUwV1g4bjJpem5OTDJDX1h2czI4RGpuWUFBNUlBNE5tYXZ2NFNJMkhlek5IWkJydThjbGhwbGhwOVh0bXB6bXBhcVp3eG55MEU4WXNya2luQQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 16:01:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US wants Netanyahu to condemn settler siege in Palestinian village, officials say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGowTHQxV1lGUC1MamNySDBPMHpVUWJFM0pMVUh1NGRJbEd4b2ZVenhuZ05zZVBwQ3k2UTdlSUotTjNzYTNlNWo5LUw4cXlHbHZqdVp6RzBQVHB6NWpyemwyVnU3VHJ1YXdublVtN053TVFTcGJoNkdabjR3cDc0ek5sNDh5Tl82YzAxZHhUQzFVT2k0bFR6Z1VJWkVNTTVaem1pZmZ4WUkyTGNIWkg3Q25CQm0ydVJVeEdr?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 15:56:48 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T17:25:34.672Z"
+      "updatedAt": "2026-08-14T17:50:18.956Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T17:25:34.953Z"
+      "updatedAt": "2026-08-14T17:50:19.019Z"
     }
   ]
 }
