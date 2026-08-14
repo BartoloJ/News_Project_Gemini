@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-14T09:25:12.370Z",
-  "lastChecked": "2026-08-14T09:25:12.370Z",
-  "lastUpdated": "2026-08-14T09:25:12.370Z",
-  "generatedAt": "2026-08-14T09:25:12.370Z",
+  "fetchedAt": "2026-08-14T09:50:14.605Z",
+  "lastChecked": "2026-08-14T09:50:14.605Z",
+  "lastUpdated": "2026-08-14T09:50:14.605Z",
+  "generatedAt": "2026-08-14T09:50:14.605Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T09:25:11.252Z"
+      "updatedAt": "2026-08-14T09:50:13.402Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T09:25:11.373Z"
+      "updatedAt": "2026-08-14T09:50:13.602Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 07:36:05 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Reform UK leader Nigel Farage beats Count Binface in widely mocked British election - AP News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGxQNEpxUFR3NkJFN1JaeWxBMU8zVFpqNmJnTmNjcXQ5aWZnLXotc3lmUEw1eVZHS2dNUWxhRWdCdEdlVzVqeWEzMDEzaTRJbTVybFoyV2tyMDhJcGo1X2pZcGtCOEhUblBvekJpVmJkR2lnN1hPaTJlQ2lPRjRYMTRoSFFSZjY3T1VGMXA5OF8yem9aMThuRkgwcjJHdWxUSTY0MVd4WFRybTF5M3E5dFBFSV9QbnU2cXc?oc=5",
@@ -124,21 +130,9 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 05:49:35 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
           "pubDate": "Fri, 14 Aug 2026 05:49:33 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A British firm starts containment of oil spill from stricken tanker off Oman - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeERhdUViWmhrNlBhUGx2M2tHYjEydTktUkNjLTZmOWRGeWl3NHdsSE1ELXFIMmVvbVIzV1lkSVlWYzFVZkhkVEM1WHZTUG1LWExtVnRoeHd4ZVR6YmZQMzJiVE4yRDFSYVJ1SDFPUkphUmI2QzJndDVKOUk2MjdSOGdPWjVsMnd0dlkteEF1cTJCOWZyclVDczBWaFdncXBZbzNZTVV4R2xVM2xmbnR3bQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 03:50:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjJXcUxELVBkb3dsclNBbDBsZUswNHB2WW5QNlpQTW5adGdNVGFoZC1aTEJqSUhRbk9XTVNHUUZnVHlGM3JuT29weS1pa3NsTmFGdzJMRktTcmpUc2tNa3g4Yk9ObWoxamd4X2sxZ1dJa1d1Q0dZMk11UXFBY3phbnRHbi0yMkNuanVoeGhjZURpMzVhU1NDVkRvazVyRFlGQkstZkVTZERtTllwb013?oc=5",
           "pubDate": "Fri, 14 Aug 2026 02:01:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 01:47:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T09:25:11.840Z"
+      "updatedAt": "2026-08-14T09:50:13.999Z"
     },
     {
       "name": "Reuters",
@@ -203,7 +203,7 @@
           "source": "Reuters"
         },
         {
-          "title": "Wildfire descends on Croatian tourist town, injures at least 19 - Reuters",
+          "title": "Wildfire descends on Croatian tourist town, injures 36 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeE1JdmNaby01LWIzcEQ4d18tcDh2SDNJcHpBYlBNcGowdk0ycHFhdGFibnFjTXl6R01PY2FHUkg5Z2RjcWdEaFZnWFRWRXJWMjBIS2w1NjFjU0Q0NEpDLXBCR0VUbUxYcUxENmx3X25KSnNMZlZtV00zZDZ3X1JEeHNHbnlxVTZ4OC1TQ200TDg4LTh5Wk1ocUt6QkhIRUlYOWIxaXJjWXdrZ2FNVTM2ZmU0cw?oc=5",
           "pubDate": "Fri, 14 Aug 2026 06:19:00 GMT",
           "source": "Reuters"
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T09:25:12.257Z"
+      "updatedAt": "2026-08-14T09:50:14.375Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T09:25:12.370Z"
+      "updatedAt": "2026-08-14T09:50:14.605Z"
     }
   ]
 }
