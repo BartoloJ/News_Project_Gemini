@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-14T10:50:17.245Z",
-  "lastChecked": "2026-08-14T10:50:17.245Z",
-  "lastUpdated": "2026-08-14T10:50:17.245Z",
-  "generatedAt": "2026-08-14T10:50:17.245Z",
+  "fetchedAt": "2026-08-14T11:00:19.153Z",
+  "lastChecked": "2026-08-14T11:00:19.153Z",
+  "lastUpdated": "2026-08-14T11:00:19.153Z",
+  "generatedAt": "2026-08-14T11:00:19.153Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Stolen Matisse artworks recovered by police in Brazil",
+          "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 14 Aug 2026 10:55:39 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "'Unprecedented' rain in Japan kills eight people",
           "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "US says dozens of countries helped China dodge Trump's tariffs",
           "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 14 Aug 2026 08:39:46 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Stolen Matisse artworks recovered by police in Brazil",
-          "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 14 Aug 2026 08:34:19 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T10:50:16.110Z"
+      "updatedAt": "2026-08-14T11:00:17.836Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T10:50:16.193Z"
+      "updatedAt": "2026-08-14T11:00:18.044Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T10:50:16.599Z"
+      "updatedAt": "2026-08-14T11:00:18.484Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Etna eruption extends closure of Sicily's Catania airport until Saturday - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUTJ0cXZfa3BPZGVZWnVrd3Y5aDNRRlNIREJzeWdUUFpCYVhMTnVVUDBVRE55dnNCSzA3U1g5RFV3SzU5MVg1NktGX3NNSkdRYnJ2VjlnYzQ0SFg4QWk1SlA2aG95dUlPZTF2YWMteFdqWnZqX1c0eWpYbVktemNfMVBfODVfYVpyV2V1am1LdV9FVEc1b2JFUlFqNkdJYkdONTRUQ1JLYmN5dTMzLTZwMjFRVWRmMmpvWmlOVnVNOVQxYnc?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 10:39:43 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "South Africa's top court blocks Shell's offshore oil exploration - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUjhZc2EwR1Y4V09VTUJxZWtzTTctNnNXZUpZRU40VnpSUUtfdk5nVnlheVBqSE0zY3ctNjUzcE94cm80ZDk2UElSN0dIaFFocTYxVF91WEROb3ViMHdXWjJaR1QzU18weGZ1eWQtaHZuRS1SVERJOWRvZ0Z5TFJjLTVldjcwampxUWF0dVo1UjhmS3hYbXM0ZHR4UzAxc3RBaHhLN1ViX0ZseDA2Y1BxVWlFaW81YjVmVm9tUG9sZFVSc01qWmwtZg?oc=5",
@@ -203,12 +209,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Etna eruption extends closure of Sicily's Catania airport until Saturday - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUTJ0cXZfa3BPZGVZWnVrd3Y5aDNRRlNIREJzeWdUUFpCYVhMTnVVUDBVRE55dnNCSzA3U1g5RFV3SzU5MVg1NktGX3NNSkdRYnJ2VjlnYzQ0SFg4QWk1SlA2aG95dUlPZTF2YWMteFdqWnZqX1c0eWpYbVktemNfMVBfODVfYVpyV2V1am1LdV9FVEc1b2JFUlFqNkdJYkdONTRUQ1JLYmN5dTMzLTZwMjFRVWRmMmpvWmlOVnVNOVQxYnc?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 07:55:43 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "French taxpayers' data stolen in cyber attack, French Finance Ministry says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzZsUDJSYTV2QkNqVmRLUDVIb0l3MzJPdERTOFVrNmswRUw0QmhIWDFkYnYtOFhNc3JTZ0U1dm1pMmxQVUtYVGw3S21HTHRhVWRkdHd6UXExc0Y1QVVQeVVDdjYwRHRkNFRVV0tfQ0JTcXFSVFFTZUtnYnh2aS1hSnAwc0VRWXVaWmZXTG9PMEZiWVNuZmszeGw4TDl1TEY5bmZFUy1jaU9GS2VVLTNjOGNJeFNWZkotd3VJU1N1Vmk?oc=5",
           "pubDate": "Fri, 14 Aug 2026 07:33:57 GMT",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T10:50:16.977Z"
+      "updatedAt": "2026-08-14T11:00:18.865Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T10:50:17.245Z"
+      "updatedAt": "2026-08-14T11:00:19.153Z"
     }
   ]
 }
