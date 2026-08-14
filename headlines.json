@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-14T18:14:28.196Z",
-  "lastChecked": "2026-08-14T18:14:28.196Z",
-  "lastUpdated": "2026-08-14T18:14:28.196Z",
-  "generatedAt": "2026-08-14T18:14:28.196Z",
+  "fetchedAt": "2026-08-14T18:25:15.131Z",
+  "lastChecked": "2026-08-14T18:25:15.131Z",
+  "lastUpdated": "2026-08-14T18:25:15.131Z",
+  "generatedAt": "2026-08-14T18:25:15.131Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T18:14:26.619Z"
+      "updatedAt": "2026-08-14T18:25:13.566Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "How Americans deceive ourselves about slavery",
+          "link": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery",
+          "pubDate": "Fri, 14 Aug 2026 14:13:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "As speed cameras spread to more states, so does the backlash from drivers",
           "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
@@ -103,71 +109,65 @@
           "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
           "pubDate": "Fri, 14 Aug 2026 07:02:42 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership'",
-          "link": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego",
-          "pubDate": "Fri, 14 Aug 2026 06:47:19 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T18:14:26.891Z"
+      "updatedAt": "2026-08-14T18:25:13.895Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO - apnews.com",
+          "title": "Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczhJdEhZeEpuNk90Wk5ycmQtczVyYm9xeThwR3RXWFlhVGpoYmxOZ0NTeGpLeHRCOVpXNkdzcmp4X0RSVUtLeVRnSWRzazd1SGdYSDdndkJYejNQRmxwOWdvR0NUNmItb0puczF2ODB6SWxKVlRsMWEyeFpzRVpCcmF1US1aZXh3QjhfZm9lUXFMVVYwZXEzWlNQc2ZjVmhXV2c?oc=5",
           "pubDate": "Fri, 14 Aug 2026 17:52:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US retail sales slump unexpectedly and sharply after a summer tax-refund boost fades - apnews.com",
+          "title": "US retail sales slump unexpectedly and sharply after a summer tax-refund boost fades - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORk16TW44WWs3VlZRdGE5Zy1ZeUs5NVNnX2tRanhTSmdnZ0tHbGtMM2tJamJHdlNNdkROdWo4WmZwMkx1STFmdUpEX3ZvRzdXVTlJUmxpako5dDNyS3p2QzB4a3ROa2R6RWtDcXBNMlNJU2RHMGFjeHJrWG1EaUQ3aElIOTVyaWk0WUZoM2g1ZGJqVnJKUmY4cVZrWHA3XzFrbFFNUXNB?oc=5",
           "pubDate": "Fri, 14 Aug 2026 17:45:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Suspect arrested in World War II Memorial vandalism in Washington - apnews.com",
+          "title": "Suspect arrested in World War II Memorial vandalism in Washington - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW1nSHJsWXRCY0gzME12RElZYVl0d2c2N25xeFhFM0duZzhsdmtyMEpPdFVtS3JiYk1IU2lndTVIZVkxeDJBVzNqZ2tkSVBqM1laZ1ZXQWoxTHkxRUxpVmRCcjY1WjJhSndpeGlFemk2bnBrSFNMcTZJU2lwUWF1LW5rTmM1azR2eEY0cXlPMlpWY0JjR3g1R2xIbHVYMWc?oc=5",
           "pubDate": "Fri, 14 Aug 2026 17:40:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "AP Exclusive: US military base schools put new emphasis on Western civilization and Christianity - apnews.com",
+          "title": "AP Exclusive: US military base schools put new emphasis on Western civilization and Christianity - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2RjbGVmLXd0dFo2ZzJjQW1EeDRYOGVMcHkyb1ctT0pid0VoNUo3RHBUNVlPbHJSdkRRaUk4Z1BtRHV5WDdNb0NsQlQ5eGFLSk90QVlWaXpaSTExNXZNei1Yb0t2YmtGNHRLMnZCbG9xZldJZ1lOejJwTXVIV05lTzYtbWhoamZnRThWdFZ5b3Vrc2tocTlhdVhXS3RFNlZQS0lPREhn?oc=5",
           "pubDate": "Fri, 14 Aug 2026 17:30:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "A surprise credit after an overseas purchase: The tariff refunds now flowing through shippers - apnews.com",
+          "title": "A surprise credit after an overseas purchase: The tariff refunds now flowing through shippers - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVU5Hd3FfejVTWkF2cm5JbHY5R2xsWGowRlk0VHd2OHVyTEhacXZMUDJUSW5RSDNHRUptUG0wMENOdkRTMUhCczA3b3Bic2ZyaVdGci1makg5dFpDM0kxY3paNHJGLTFXSER1a052TTFPaWwzaDZpaU9SOFdlU240LVdnenNYbTQ2Z3VOMUVnNXotRVk?oc=5",
           "pubDate": "Fri, 14 Aug 2026 17:12:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Wall Street holds near its record following the latest weak update on the US economy - apnews.com",
+          "title": "Wall Street holds near its record following the latest weak update on the US economy - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHZRYUU0eWZPOG1WOUx5U1BpNXRlenFUWnhSdEJvbExTQXl6amlVS2w2YV9wY1JENXkyOG45VUVsaENIb1FUUms1RFBoN2djemxuLVBPMG1GVHlMWTY3aVJuT3BHUEVwVzQ1YnVsYndPUnRyRzhEYzBXbmdMX1NPSW5GUHlLNm0tZHJKYWs5TmllTElIV3l6ZDRrOG1IVE05OUc4QQ?oc=5",
           "pubDate": "Fri, 14 Aug 2026 16:51:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - apnews.com",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
           "pubDate": "Fri, 14 Aug 2026 15:52:20 GMT",
           "source": "AP News"
         },
         {
-          "title": "Cam Ward struggles in the Titans’ 19-13 preseason win over the 49ers - apnews.com",
+          "title": "Cam Ward struggles in the Titans’ 19-13 preseason win over the 49ers - AP News",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFdMMHZ6RW5DVXhKT1ZTWHU0TmNYdXRjd0dIa2Y1ajB6LWZUek45NUJ1UTJNZnN0NHpFOG1fWV9nWXlEN0wybjQ2ZV9nenlZS29ENmxUck05d1I1MmE1VUpQMGRBQ0h2N3JKVUxhMy1RUHhiNVNCc05KckhMUktLUU9KOE4?oc=5",
           "pubDate": "Fri, 14 Aug 2026 15:42:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T18:14:27.485Z"
+      "updatedAt": "2026-08-14T18:25:14.431Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Trump asks US Supreme Court to allow White House ballroom construction to continue - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd21zREY2dHFZbWl0QzlkVWhGbWxrdjZQa3RiZEdYNjhoRnVnV2FYMlBxS0hhcjhEem5zcFlGam03S0VZTVI2djB0V1F0ZTJHc3gwbW9ELW5uZHRZeWhfdHJEdmI3Z0NlU3djNmM0a3lEbXM2ZmV0UVQwelF2V1c3S3JqdlhWWjdkSHBDcDR3OFY2V2Z1X2QyNVpZQUZwVl9RT29Zd3BKdG1pcGFGUHk1Z1o5TzNVZ0dETWc?oc=5",
           "pubDate": "Fri, 14 Aug 2026 17:46:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Capricor shares soar as potential FDA lifeline revives Duchenne drug hopes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc2dJTF9ubExhMWNSWC05bUl3dXRpOFBXWG55cHZCRkQtUVczS1ZWTnM2dXpQeTdHdXV4MVJoLURBZEl5WHBoQ3NQT1YzTmVUeVlONXJ1N1dBNE5hTTdwNERqMnR4SlcwQ2RNYk9vQndlU3Y2ZEl0X0xBVUs3MDNJdnhwZk1KcThfNGFCbkp0VG0xQWFoOGhEbDlzUXVqSzRsaXB5d0N6bkpXemNaalhLeV81TzRNY1R2OWU2aUNQenppbGppMV9EVEdpSU9nMFF5WExMcQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 17:39:10 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdF9WeVhkQnF6clRoSHNrZHlfMVY1UUJjT3dsMW5YSjhkR2VPWS1iZTdVTjI2Y3dQYWE3NHVhUkdkelVwUnBCaThkV3JTLW5BTnR1S1lvSjZPRUk2bmlfR0FjbjJEZ1RsRE55eS1tZkRJcVEzaU5DbUp0eDJHeDhyUXNpbWJzdFdkSHRZMVczZ2gtZVRLTXBHaGljQll5SkdEeVNHV3Y4c2FTNzdta1VFVjY2djdVQld6cU90Zm1R?oc=5",
           "pubDate": "Fri, 14 Aug 2026 17:14:57 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Luigi Mangione pleads guilty in federal case, admits killing insurance CEO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdE8wcFpJSTRXd2hNWEp6dHphZmZvYURLZ3lLcmxmWU5YVnNtZW5pZElJNFlISUV2MjdnbXJGQ1ZHLXljaUo4VDFodlVPbzdmSzFwdTdDRUZ0SHdVZEQ0Y043TWpCNUF2dE9ZTnFoVkp0OFZxRnhMMUUwV1g4bjJpem5OTDJDX1h2czI4RGpuWUFBNUlBNE5tYXZ2NFNJMkhlek5IWkJydThjbGhwbGhwOVh0bXB6bXBhcVp3eG55MEU4WXNya2luQQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 17:01:56 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T18:14:27.946Z"
+      "updatedAt": "2026-08-14T18:25:14.891Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T18:14:28.196Z"
+      "updatedAt": "2026-08-14T18:25:15.131Z"
     }
   ]
 }
