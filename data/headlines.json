@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-14T04:00:20.163Z",
-  "lastChecked": "2026-08-14T04:00:20.163Z",
-  "lastUpdated": "2026-08-14T04:00:20.163Z",
-  "generatedAt": "2026-08-14T04:00:20.163Z",
+  "fetchedAt": "2026-08-14T04:25:13.050Z",
+  "lastChecked": "2026-08-14T04:25:13.050Z",
+  "lastUpdated": "2026-08-14T04:25:13.050Z",
+  "generatedAt": "2026-08-14T04:25:13.050Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T04:00:19.032Z"
+      "updatedAt": "2026-08-14T04:25:11.630Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T04:00:19.242Z"
+      "updatedAt": "2026-08-14T04:25:11.724Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "A British firm starts containment of oil spill from stricken tanker off Oman - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeERhdUViWmhrNlBhUGx2M2tHYjEydTktUkNjLTZmOWRGeWl3NHdsSE1ELXFIMmVvbVIzV1lkSVlWYzFVZkhkVEM1WHZTUG1LWExtVnRoeHd4ZVR6YmZQMzJiVE4yRDFSYVJ1SDFPUkphUmI2QzJndDVKOUk2MjdSOGdPWjVsMnd0dlkteEF1cTJCOWZyclVDczBWaFdncXBZbzNZTVV4R2xVM2xmbnR3bQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 03:50:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Colombia’s earthquake is déjà vu for Venezuelans. The government response is anything but - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3R0d0g1dWFGMnlIUVlDSkYyLTBYUzBodG5mTzJrMl9GMW9QWmVGUDIyWUpqOG95QmJNTVE1S0dpY2l3Z1lha09HQ1hxVm1LQXV6cW8wVXBLQkxib1VLdFI0YTZ0bmRBbkhvelEwOXpBdVhUbFhNeG5EN3pPUzhoQjR0Z0JYSmZOdGxXenlsRFE4TXpuYTNHNzRVM0ZyWTBEa09BRjZ0QW5EaTMw?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 02:15:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Alabama man put to death for the murder of a 5-year-old girl in last of three US executions in a day - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjJXcUxELVBkb3dsclNBbDBsZUswNHB2WW5QNlpQTW5adGdNVGFoZC1aTEJqSUhRbk9XTVNHUUZnVHlGM3JuT29weS1pa3NsTmFGdzJMRktTcmpUc2tNa3g4Yk9ObWoxamd4X2sxZ1dJa1d1Q0dZMk11UXFBY3phbnRHbi0yMkNuanVoeGhjZURpMzVhU1NDVkRvazVyRFlGQkstZkVTZERtTllwb013?oc=5",
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTUVBYkhxRTQ2QTAzQlh6X29odHM1M3MxVWdmRVFTY2FVZ3RZUzlicm1WRXg4ZXJTU1UzUDh3NTRLRmJNUDJnazBVaGpuRThLTUNxbWJEZ0lLVWhnMzZPc0Q0RkZQV0FYYjZfVTNFZ2stMjBFclNqenFNN2hBdmZaOG1HM3pSM0k?oc=5",
           "pubDate": "Thu, 13 Aug 2026 23:51:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Cuba marks Fidel Castro’s 100th birthday as his shadow still shapes a nation in crisis - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2xvcWN1RHJQc1NRa3d6aWFsc1lnU3lXY0d0czFOemFxcnctN0pnQ2E0RnlWZnVKWVJwUmQwNHF6eFNjUEw0elB0YmFVaERpS3UxMnZjckJhQ1JtOEZXMG5vay01Tm1FSFVuSUFka2RZVlZzLUtZdDZLSUpSVmdaY0thSzctV1BET0VOZEZWWFdaeHUyeW56MU4yc1UtOUFaRnc?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 22:50:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Kennedy Center votes to restore Trump's name and close for 2 years, challenging a judge's order - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3dncGxOOUM5ZXRnUzA3Wkl0ZGowMTRibm1ybTFJNEh1Qmlsd0hNbGczMjZzRHQ5NzhwdHZ0MTdZb3E2OFAydURsMzJxaVVHTVhCY2U2V2VMWlg5b2VpTlplcmVOSnNMSXVySjF3TW1saXBjVm54bVJISnNNYjdCYzMxT3NhLUk2aVRVc1pGckNZeHpkSW9ibHZyc29RNHIwcVE?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 22:18:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T04:00:19.685Z"
+      "updatedAt": "2026-08-14T04:25:12.129Z"
     },
     {
       "name": "Reuters",
@@ -203,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Thousands stranded at Japan's Narita airport after record rain kills four - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdWlMcU5OekxlSmtsekpRTVhsZG5hdWJzZm84WDlSVEVLVmlNSEpjdDBUZFl1SHVQNXRta2RtVkI4ZlBRY1l6SzdlOGZ3MGs0aEZGT3hZRVlRSkFPTkpsUGNDemdLN05MdTV4QUZGVHVkZzJuTFNsNlRTTEVseWRkVG5BbGFRZFRFbUswb2FOb0Nhc0JpbWVHaXNXNXpMM0hHNXpDUmxNY3lSWGx4eGVadFc0SUFXZG1jU3RVdWZzTkVFdw?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 01:09:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "China's Pony.ai, Uber to jointly deploy over 2,000 robotaxis in Europe - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTFjbGtTXzEyN0FWNms5M1Z5ZnlDZXA1Qlktd3ZFOWk3N01FQXNPdFlNaFBRNGotM295YkhCWkh5WDh5WjByaUc3MlN4N3hnYTlVVlB6SW81elB0M0dFeldIcFMyQ2ZkQTFvVjFpMlNVd3otMVJFWlpjTGlOMW5LWVNtOUJreDNhNjBvRXY3cV9sMDAzMGE0djRCWUJwTnp2Y3pXVkVYemdaS00?oc=5",
           "pubDate": "Fri, 14 Aug 2026 01:07:00 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUnd4NlphQnNDV1c5X0xlSW9rQmd2bGRDX2xPMi1HT0RzM1NpX0xhVDJkTnNQX2hoQ0xoNHFyc29JNTAtaGlDaFo4ODJMU1ZJRk80bEs0bDR2Nzk5U0c4WWRVb09ER2dHTE42Q1hVZ2xtUXB4NFZNSkJXdWVHT3NEZnJIeXh2aEZQNnc5VU9DOTBfRkY4Szk5Q0UzUkZ6ZTVFeWt5SzBST1JtNlZrWmF1NGVaakdDLWIzYmJCNzRVQU80SFJvaXpyUGVsUGY1MHlJcndJVkM3REw?oc=5",
           "pubDate": "Fri, 14 Aug 2026 00:15:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Japan may see more yen intervention, faster BOJ rate hikes, ex-top FX diplomat says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVpGWmVRR1JoWVkxSnIwWGVia0EwTnlpRkh6MEgtRHpjSUhtaTIxdWZDdzFnUFRYekw3VjRNdC1xSVQtem52d3BoOXF3cEV6WElWOFJPNnpsTnJqeUZBTFl3X1ZHNkhIYkpYaWJOTzVDVjZvVjJGS1JiQ215emxLUlB0VFdVQjZTbF9QMHdDMkNTWlV1QTZiZHB5eDBXZkU2WHNuZUU5UjBCTHRSZ2pHWF9aY3JfMkVyOFg2MW5qQTYwdm5DNWctZllOSQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 00:02:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T04:00:20.098Z"
+      "updatedAt": "2026-08-14T04:25:12.527Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T04:00:20.163Z"
+      "updatedAt": "2026-08-14T04:25:13.050Z"
     }
   ]
 }
