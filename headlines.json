@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-14T09:00:23.476Z",
-  "lastChecked": "2026-08-14T09:00:23.476Z",
-  "lastUpdated": "2026-08-14T09:00:23.476Z",
-  "generatedAt": "2026-08-14T09:00:23.476Z",
+  "fetchedAt": "2026-08-14T09:19:29.063Z",
+  "lastChecked": "2026-08-14T09:19:29.063Z",
+  "lastUpdated": "2026-08-14T09:19:29.063Z",
+  "generatedAt": "2026-08-14T09:19:29.063Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T09:00:22.317Z"
+      "updatedAt": "2026-08-14T09:19:27.987Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Fill in the blank on this week's quiz: Rep. AOC is documenting ____ on Instagram",
+          "link": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz",
+          "pubDate": "Fri, 14 Aug 2026 05:01:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "ICE uses controversial program to boost deportations. Here's how it works in 1 county",
+          "link": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police",
+          "pubDate": "Fri, 14 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Morning news brief",
           "link": "https://www.npr.org/2026/08/14/nx-s1-5927062/morning-news-brief",
@@ -97,22 +109,10 @@
           "link": "https://www.npr.org/2026/08/13/nx-s1-5930188/around-the-clock-search-continues-to-reach-victims-of-the-7-4-earthquake-in-colombia",
           "pubDate": "Thu, 13 Aug 2026 17:39:19 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Kennedy Center Board votes again to shut main building down — and add Trump's name back",
-          "link": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
-          "pubDate": "Thu, 13 Aug 2026 14:55:30 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
-          "link": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
-          "pubDate": "Thu, 13 Aug 2026 13:29:15 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T09:00:22.416Z"
+      "updatedAt": "2026-08-14T09:19:28.039Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T09:00:22.863Z"
+      "updatedAt": "2026-08-14T09:19:28.499Z"
     },
     {
       "name": "Reuters",
@@ -181,7 +181,13 @@
         {
           "title": "Etna eruption extends closure of Sicily's Catania airport until Saturday - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUTJ0cXZfa3BPZGVZWnVrd3Y5aDNRRlNIREJzeWdUUFpCYVhMTnVVUDBVRE55dnNCSzA3U1g5RFV3SzU5MVg1NktGX3NNSkdRYnJ2VjlnYzQ0SFg4QWk1SlA2aG95dUlPZTF2YWMteFdqWnZqX1c0eWpYbVktemNfMVBfODVfYVpyV2V1am1LdV9FVEc1b2JFUlFqNkdJYkdONTRUQ1JLYmN5dTMzLTZwMjFRVWRmMmpvWmlOVnVNOVQxYnc?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 07:42:16 GMT",
+          "pubDate": "Fri, 14 Aug 2026 07:55:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "French taxpayers' data stolen in cyber attack, French Finance Ministry says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzZsUDJSYTV2QkNqVmRLUDVIb0l3MzJPdERTOFVrNmswRUw0QmhIWDFkYnYtOFhNc3JTZ0U1dm1pMmxQVUtYVGw3S21HTHRhVWRkdHd6UXExc0Y1QVVQeVVDdjYwRHRkNFRVV0tfQ0JTcXFSVFFTZUtnYnh2aS1hSnAwc0VRWXVaWmZXTG9PMEZiWVNuZmszeGw4TDl1TEY5bmZFUy1jaU9GS2VVLTNjOGNJeFNWZkotd3VJU1N1Vmk?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 07:33:57 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSENjb1cza2hQbmdXeGo1MjBzZHNZYmV5aUVkWjF5Ump0LU5qdXZReXh6NTV2Z0RITE04ZTU2OHZRWjM1VTB2SHFlaFVwbGdVVlIzdUE3ZEkzWm5TY29INmVmVXBSS2l5dlZ4Znc1RF80N0pTdFVHWlUxUW50ZHpfTC1vb2NaZXJ3VTFMeGVHUVUteXF3UEs1SHZBMmZHcjJlTGR5SGNOMHo5YS1HOXNXM29zMU5mME1Ma3JMVzdpN0NkQQ?oc=5",
           "pubDate": "Fri, 14 Aug 2026 05:55:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "BOJ eyeing September rate hike, faster pace of tightening, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWHVuTnFNU0ZEVXdoQWJXd212Z3Bxd21Nc05LWV9KaS1oa1JmU2puVDJUQzk4b08xaUZSTGlZRFQxUjI1NEpCaUdLVkllYlR2MVZ4djJ5RzJ2LXlMN2xUWHRIVnBKdzhReXhDM05BblZQdWs3UmlNbVFlNVdEYUotNjBOTHJ3dHVnNWt0S1JmeFU2UzcwV3lyMzZxRl9kWDROcU5zUVdWNFRvNUJnMkpQRUZLZlpqWk1PZXpTMw?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 05:42:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T09:00:23.248Z"
+      "updatedAt": "2026-08-14T09:19:28.927Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T09:00:23.476Z"
+      "updatedAt": "2026-08-14T09:19:29.063Z"
     }
   ]
 }
