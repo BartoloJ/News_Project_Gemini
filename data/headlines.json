@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-14T12:06:53.026Z",
-  "lastChecked": "2026-08-14T12:06:53.026Z",
-  "lastUpdated": "2026-08-14T12:06:53.026Z",
-  "generatedAt": "2026-08-14T12:06:53.026Z",
+  "fetchedAt": "2026-08-14T12:25:14.996Z",
+  "lastChecked": "2026-08-14T12:25:14.996Z",
+  "lastUpdated": "2026-08-14T12:25:14.996Z",
+  "generatedAt": "2026-08-14T12:25:14.996Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T12:06:51.407Z"
+      "updatedAt": "2026-08-14T12:25:13.555Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "U.S. missionary who was kidnapped in Niger is released",
+          "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
+          "pubDate": "Fri, 14 Aug 2026 08:11:50 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
           "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
@@ -103,30 +109,30 @@
           "link": "https://www.npr.org/2026/08/14/nx-s1-5927231/2-workers-share-how-helping-kids-at-a-community-center-has-changed-their-lives",
           "pubDate": "Fri, 14 Aug 2026 04:43:52 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
-          "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
-          "pubDate": "Fri, 14 Aug 2026 02:31:29 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T12:06:51.610Z"
+      "updatedAt": "2026-08-14T12:25:13.811Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 10:14:15 GMT",
+          "title": "European countries battle multiple wildfires as record heat grips the continent - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXVKWTN3bTNjNHZJeXIxbHF2c2NveGRiQnNUTmxNOGx3SkNKOGpfdzk0Rm90c2g5VmtWT3hMaUpBV2ZhRjlWVHVMa1p5Mmw5U2pXQm9MODBDYlpNZHdycjlTSmYzVzNsNmpBSG5RaDhtelhOMXRHUWhRdk84TFNQdmgxbTdRaVVOV1FhUFVGNWRBUmZkTUdCdA?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 11:28:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Oppressive heat, high humidity grip much of the US as students start a new school year - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcUJZMDNBdmVFWThXZEVyUUlZMzJKUE8tUmNVMC1pRFNBalQ2MmNSZnE5V0ZiNEVFOXhTclVLZE41ZzV1aHM2RWxuczAxSUNyMHZ0eVBhSndsRlJJZDZGNXJKWmdrNVZIdWdPdnFpc0oyb2ZEVEdDN0ROTXZGM1d5cDRHRFRmaFZzZEtpSUt3?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 11:02:00 GMT",
           "source": "AP News"
         },
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 09:43:33 GMT",
+          "pubDate": "Fri, 14 Aug 2026 09:54:43 GMT",
           "source": "AP News"
         },
         {
@@ -142,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "Hurricane warning is issued for the Big Island of Hawaii as Tropical Storm Lala approaches - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkVuUkY5OF9PNVM4OTcwRnVWOHJVSFp3c1Z2T0dFbjE0dzR6OTREN0pjNzVqcFNUMENXR2RQbHo1SGtPb2VLdmZZaXRabXRhaFF0bTlWVEpBREs4X0x5NGFvSWU1WndPSDZmUjE2MmVXd0dQcDBWcVlWR2xSbGJKOHdZOWVmd2ZVUlltSC1vZ0tkczBiQlJxbzg1akJmZ0xMSW5zOUpYZW1XeXNwd3MyTzJ4enY?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 07:38:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Reform UK's Nigel Farage beats a slate of fringe candidates in election boycotted by major parties - AP News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGxQNEpxUFR3NkJFN1JaeWxBMU8zVFpqNmJnTmNjcXQ5aWZnLXotc3lmUEw1eVZHS2dNUWxhRWdCdEdlVzVqeWEzMDEzaTRJbTVybFoyV2tyMDhJcGo1X2pZcGtCOEhUblBvekJpVmJkR2lnN1hPaTJlQ2lPRjRYMTRoSFFSZjY3T1VGMXA5OF8yem9aMThuRkgwcjJHdWxUSTY0MVd4WFRybTF5M3E5dFBFSV9QbnU2cXc?oc=5",
           "pubDate": "Fri, 14 Aug 2026 05:22:28 GMT",
@@ -152,30 +164,48 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0tIU0ZZSnYxQ1pISmdjaENZMDRCWkdtSVk2dThVQVFQRVdSYzJBeEFlYTlndmF1MEtQWUd3OWprQWJ5al9KOE1MdW9UQjAyRnh5VTh1NDBVdk1jcUtqdml5d1BQWnNSSnBtdzltOFRYMW52TGR1R2lpZVhMUXJnX250cThTaW1YYzhMLXV5b2VBbzB4Q0pn?oc=5",
           "pubDate": "Fri, 14 Aug 2026 03:50:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Israeli settlers’ siege of Palestinian homes draws a sharp US rebuke - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjg4cjNRa214Zmg2OEk1S1ltSkZnd2RLcmlReHNZaDJZeTlfZVU3VjZtb1o5WjVTVV9WRnNmRTgtRnRvS3I5TWR1bUtjWExlV2t2NllOb1lTUV9kNEJodFdqdDFSOEJxWXVJRHR1SWxzN1UzTVJhTFM5TkE5SUZkdGxZMllaRzkzM2twRjJmTW9BcUVwaWNyV2FVYlFITHZqUjhFRWNGMC16b2g3dlh0ZWN6Q1dVd3FXM01RRA?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 03:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmlmZ0lFTDZodTVzOGx0alVzcVp3eWJaci1XWjlSbmRGOFlyRHJpUU1MakVOc2xReVhacm8tSlczVy0zS19Tam5nUjdpM1BzRUNGaUhxVXcxSF9xYmxVVExZLXFITUg3RWlSVDF6eDluRHFJOHdhZk4xbEpLcVEzcmdCTWJOZ3FoVzdpRm15R0NuQmtZdFg0cThLWnNBZm43NUhHZFNLZ0x1ekxKZkUtTzRKM0s?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 03:36:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T12:06:52.172Z"
+      "updatedAt": "2026-08-14T12:25:14.253Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Italy recovers Renoir, Cezanne and Matisse works stolen from museum - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMzlOa0RkQlRFLVdwTEQtSVUxZ2NMLWs1azVpTTJEY3AxUUJpQkx1RkNYWDh1UTBRSGtyZlNEVnVlMEhpWE5KeFpoQjNlSzVyazJ4ZldUcWxtakxSZk5BcFNmN19SWFlDWnIwVk9JOTZ4cXBKejNoVzNtbktULWZrRzJhNHVKc3BmT3BvaWZmczRXZDI5dUZXVGlkeXppN1k1amZyS1Fn?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 11:47:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "South Africa's top court blocks Shell's Wild Coast exploration plans - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUjhZc2EwR1Y4V09VTUJxZWtzTTctNnNXZUpZRU40VnpSUUtfdk5nVnlheVBqSE0zY3ctNjUzcE94cm80ZDk2UElSN0dIaFFocTYxVF91WEROb3ViMHdXWjJaR1QzU18weGZ1eWQtaHZuRS1SVERJOWRvZ0Z5TFJjLTVldjcwampxUWF0dVo1UjhmS3hYbXM0ZHR4UzAxc3RBaHhLN1ViX0ZseDA2Y1BxVWlFaW81YjVmVm9tUG9sZFVSc01qWmwtZg?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 11:30:13 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Alphabet's SpaceX bet grows 100-fold over a decade to $94 billion - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGlSVjd0am5adkxrNm1hX0c3RFVTN0JmZzBjVVluX3M1bjNUWndRRjlGV2IyT1dTbHdHYzh6MlNzOC0zNDFjejRiRzVOcmZCcE9PVEFHV2JxblZsM2xCa0JBcFl2T0FJRzVoUWVvR2FRd0hiOUZuWlZITHVxR0NONDljUm9YT2xMVVk1WjFJUWFzNVdPQmsyV1czWEdxRGRQQVJXWkZjQm1wRUZyZ3lZWQ?oc=5",
           "pubDate": "Fri, 14 Aug 2026 11:30:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US warns Iran it will step up economic pressure; two more ships attacked in Hormuz - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 11:00:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Culture clash: How Orcel's profit-boosting recipe could prove a bitter pill for Commerzbank - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclA3QmlHY05XNUQ1TWZnYlJiZ1FHR1FDUkk2OE1LbGZzTGh4d1Z0OGpQb1Fkd2drWHkzMEs2NUM4WXk3T2h2Y0owNnlxRnI2Nk9qUkpYQnFPVlkyYkxEQTV2QVNyOFJVQjBHOTgxQ2dRN1E1Vkxqa1g5a1dfTGpDa1hqT2lWVk5RWGpJX2pTblFtMWxrN2hESk10aDh1NkpIeVRDVHhVeHcxdUJHZkhtYkVEUi10djZrZzc3ZEt4VnU5Zw?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 11:00:17 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Zambia suspends vote counting over violence against election officials - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc0xNRjl0dDVFdENwd0lyeF9hTnh6dTJrSjBkM09GSHZKLVBGZVB2N0NZWjVrLTZSRVNZRDYwbDRMNFRMeEJ0dFRFYktJVXBzZ0VPeC1WQ3JtWHEyNjlrb2dURmRyUkRaSWs0aENFNG9EdTlBeWxxOGNfczFPNnh1c01xMG14LUg0TXcyRVIyX0tTU1ZvQ0RFR0U3N25pM1B0SkxQSTN4SnB1SHo0TlNyRGZZdldUanEzUTRN?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 10:46:28 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Russia dismisses idea of Black Sea ceasefire - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOU1EWFduSW94YVRwb3lfUHpQSUc2SjJIdDF1ZWlickdZS0RPVjR5MHlHd3RGV2xGQlhWWFEydXJJSFJ6bkVTTkhZZmdONW5jYUQzWGhsZHBGZzlQTHN2aXdHTTdSMUx1SGdITUZZWGYtdjBBUnJXU1ZleFhWNHBLbFJGNkFIa1lhLVNGblUtT2owSEpK?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 10:26:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Spain removes remains of 11th century kings from monastery as wildfire rages - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYkZjVmNGUC1KbG9GWlBRNmd3ZlM4cFllRGljb1pNQWowZEdFdEV4NzEtZnB3clhGaXpTVG96Q2hlZk9SUjczdHNONW43SGxnbVozZkNsUVhOUjZMSkQycWtRc1JqQ2ZuWWNPZS15SHA3U2FnWkFyZ0hReVZJbWxKUUVkdHM3QWU4TEtZMjh1aGJIUU9DWGZnZWNCYk9seVBrdWVoLW1XbE1YaHlWdFRHaWt3TzF6ckJRU2VtQ1IzNA?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 10:21:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "South Africa's top court blocks Shell's offshore oil exploration - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUjhZc2EwR1Y4V09VTUJxZWtzTTctNnNXZUpZRU40VnpSUUtfdk5nVnlheVBqSE0zY3ctNjUzcE94cm80ZDk2UElSN0dIaFFocTYxVF91WEROb3ViMHdXWjJaR1QzU18weGZ1eWQtaHZuRS1SVERJOWRvZ0Z5TFJjLTVldjcwampxUWF0dVo1UjhmS3hYbXM0ZHR4UzAxc3RBaHhLN1ViX0ZseDA2Y1BxVWlFaW81YjVmVm9tUG9sZFVSc01qWmwtZg?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 09:14:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Applied Materials slips as investors seek faster growth after stellar run - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFlrcFhLMmZGclJ2RWRqTlJJdDRoenVPcUJVZUduajRrNEZueVBjejJiU2dQMFAtVG94SjRCU1E0V0h0OG1oOU82LXlrLVFnZjdGQ1dvaXdEQlBrQjl2M1JDMlN2WmpURXJQMEtmX1pFOFpkb3dwOWRTTW14UjNrbXBvQWU0SXFRTG5nZ2FKcWxCYlp3NjZySWJNQVVOZGJvd19qTnp1Mm1yQXRNZzFidHM3bmlSQQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 09:02:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russia jails man for 23 years for spying for Poland - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ0xKRmlPaUJBRWJfTlZuakQ0MUFoNXU5ZTYxVC1jbVhtd3lKTW5wYklkX0Z2ejBFenNCSnYtZnNFd0N2RHVYaTRvaVlQaGFYZkFJLVVqNU16TEUwalh4UjJrcHJuTlVUZE1wcGRvUmptWWlWMTJUY3VyX2h4M1kzcVBHd0NSazJPNDFNZjV6RkhzZw?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 08:40:06 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "American missionary kidnapped in Niger released, NYT and Christian organization say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORWYydU83djBHbmRCaXgxMWZ3ZzFlTWgyb0I2VGRJQ1owcGpmY09sQXFlYWRaRG85bHhyTklvclgzLURaLUNua3JnQkQ1UldXc2o2bWNoR05pdXUzRm5sNlVIcTBvMFJob1hxb0xCVTA5NWNJOV84emNfM0VNRzFSUmRxLXExeWZSbFJrVnJkZkluaEY2bnI3NnBBa0RqREpuREhiVXd4THBCdktRNWtxMjRhNA?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 08:40:02 GMT",
+          "title": "Russia seeks answers from US about alleged support for Ukrainian attacks, Lavrov says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN25CeXozb0dRdFBPZHlWRXo1T1NzMTRTeXlKc0ZVT1VqQnRmWlN6U0EteGprTW5HSGZKdENrRkZWVGxrVHFiOWdNRzJOZExyU3huT1ZLYWo2UUFYRlV6VHhDWndBcm16MmkwQmVOalVxME15cVB1UVdVVWNialdQZEtnNXZMcm1STlVsTHR0eDJpc29HQmRTYVZfbzJtV0Y5TGhFQ2lEeWYyQmtsZGNobWkwLWl3UEg3MFp3bmY5NDZnUQ?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 10:34:05 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T12:06:52.670Z"
+      "updatedAt": "2026-08-14T12:25:14.678Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T12:06:53.026Z"
+      "updatedAt": "2026-08-14T12:25:14.996Z"
     }
   ]
 }
