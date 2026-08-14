@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-14T06:25:17.334Z",
-  "lastChecked": "2026-08-14T06:25:17.334Z",
-  "lastUpdated": "2026-08-14T06:25:17.334Z",
-  "generatedAt": "2026-08-14T06:25:17.334Z",
+  "fetchedAt": "2026-08-14T06:50:13.947Z",
+  "lastChecked": "2026-08-14T06:50:13.947Z",
+  "lastUpdated": "2026-08-14T06:50:13.947Z",
+  "generatedAt": "2026-08-14T06:50:13.947Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T06:25:15.979Z"
+      "updatedAt": "2026-08-14T06:50:12.739Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+          "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
+          "pubDate": "Fri, 14 Aug 2026 02:31:29 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard University",
           "link": "https://www.npr.org/2026/08/14/g-s1-138721/trump-antisemitism-harvard",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
           "pubDate": "Thu, 13 Aug 2026 12:40:26 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
-          "link": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
-          "pubDate": "Thu, 13 Aug 2026 11:18:27 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T06:25:16.156Z"
+      "updatedAt": "2026-08-14T06:50:12.894Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,12 @@
           "title": "A British firm starts containment of oil spill from stricken tanker off Oman - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeERhdUViWmhrNlBhUGx2M2tHYjEydTktUkNjLTZmOWRGeWl3NHdsSE1ELXFIMmVvbVIzV1lkSVlWYzFVZkhkVEM1WHZTUG1LWExtVnRoeHd4ZVR6YmZQMzJiVE4yRDFSYVJ1SDFPUkphUmI2QzJndDVKOUk2MjdSOGdPWjVsMnd0dlkteEF1cTJCOWZyclVDczBWaFdncXBZbzNZTVV4R2xVM2xmbnR3bQ?oc=5",
           "pubDate": "Fri, 14 Aug 2026 03:50:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Israeli settlers’ siege of Palestinian homes draws a sharp US rebuke - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjg4cjNRa214Zmg2OEk1S1ltSkZnd2RLcmlReHNZaDJZeTlfZVU3VjZtb1o5WjVTVV9WRnNmRTgtRnRvS3I5TWR1bUtjWExlV2t2NllOb1lTUV9kNEJodFdqdDFSOEJxWXVJRHR1SWxzN1UzTVJhTFM5TkE5SUZkdGxZMllaRzkzM2twRjJmTW9BcUVwaWNyV2FVYlFITHZqUjhFRWNGMC16b2g3dlh0ZWN6Q1dVd3FXM01RRA?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 03:45:00 GMT",
           "source": "AP News"
         },
         {
@@ -154,20 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln - AP News",
+          "title": "New aircraft carrier heads toward Middle East after reports of issues on long-deployed USS Lincoln - AP News",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1lxbDFVekRpTzE0UC1XQ2VBSEZ6cVJPcG1OQjZ5S210Wll1dmtBbDRvY05LRXFWVFoyQkotdkRnOXFXU09XT3Z3Y2VITDdCSjdIU21CMWhCaHNTNm1vYTEyMS13clVFcHpJeVlrVWtOa3FJdjZ3bUx2aDdhalpOVF9Id0ZFRE9WUTVpSHlXYm5nYVBtdzFEeGktaG5qbzMtSzJkWUE2Ulo4ZEVTdHZLREt1OA?oc=5",
           "pubDate": "Fri, 14 Aug 2026 00:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Satou Sabally taking time away from the Liberty to continue to deal with concussion issues - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTUVBYkhxRTQ2QTAzQlh6X29odHM1M3MxVWdmRVFTY2FVZ3RZUzlicm1WRXg4ZXJTU1UzUDh3NTRLRmJNUDJnazBVaGpuRThLTUNxbWJEZ0lLVWhnMzZPc0Q0RkZQV0FYYjZfVTNFZ2stMjBFclNqenFNN2hBdmZaOG1HM3pSM0k?oc=5",
-          "pubDate": "Thu, 13 Aug 2026 23:51:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T06:25:16.663Z"
+      "updatedAt": "2026-08-14T06:50:13.290Z"
     },
     {
       "name": "Reuters",
@@ -191,6 +191,18 @@
           "source": "Reuters"
         },
         {
+          "title": "AI-driven surge in bond yields could be next risk for markets and growth - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 04:10:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold heads for weekly loss as investors unwind inflation-fuelled rally - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 04:02:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Reform UK's Nigel Farage to avoid election count against Count Binface - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXhaR1BaTkNVbC1FZDJuVlp6MDhWSE81U0NHYlB2SElhdUNYTU1oaXhaZ3hOMkdrNWo4VTFSMjlMWWZjMFJqc19KdzAxdXdWTnk2cDVha1VOYWxmRFRGZXFhQlRiMWJVb3FWVG5TMUt5N1JVdEptaldHZ3JZeFNLbU9UM2tXdUZMZi1wU1VyMXItRHI0NjNUODk5V0JNYWRLOVhpdUE0a1BkS1c0M3c4NzlwUHZvRmlkOVJ5dzNlMA?oc=5",
           "pubDate": "Fri, 14 Aug 2026 03:48:00 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdkpOZUdEZnZKWlZrcGJCTGJWRmZDNTFSUkctc0FXckpXYXFYOWNNOE9aYllQWnBVNG41bmJUdnRnb2U1MXVKY1hMb3pZaW9OSWpmX2EzRHRTQ3J4ZUk1ZHNLdEdfME9JNEt3cjhYMkV6Qy1kSmE5LXdDWlBaZUJ1RU5yMmVyXzNrRFdpYnNvRVFKbjdMdHo3N3NZYWtkUW1zYWU5anRVTXpPaG5icmtsMmpJRXA5THc?oc=5",
           "pubDate": "Fri, 14 Aug 2026 03:46:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Chinese chipmaker SMIC increases prices on strong AI demand - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOckEwZzMtQ1lJZW1sR3ZnSmxxQ3BjM3phX21WczRwbWxWZ1UtY1kzTXJKcXJGVnBaOFF4XzFrSEJfZUtTTVFJMVNpU1pnVm1mb1dWb0RHN1FKSkNNWlF6eW12NmFBU1Vwazg5UzJMdlloUkFmaFhiYzdJOWZ0YXo2dFFqTGRlUXZqeVF3Z0VHdDVadU5xZkVFam1nZkxIbFZacXE4YXdTTQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 03:09:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Asian stocks head for strong weekly gains as US rate hike bets fade - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 02:32:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T06:25:17.069Z"
+      "updatedAt": "2026-08-14T06:50:13.679Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-14T06:25:17.334Z"
+      "updatedAt": "2026-08-14T06:50:13.947Z"
     }
   ]
 }
