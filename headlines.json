@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-15T17:50:14.511Z",
-  "lastChecked": "2026-08-15T17:50:14.511Z",
-  "lastUpdated": "2026-08-15T17:50:14.511Z",
-  "generatedAt": "2026-08-15T17:50:14.511Z",
+  "fetchedAt": "2026-08-15T17:56:06.664Z",
+  "lastChecked": "2026-08-15T17:56:06.664Z",
+  "lastUpdated": "2026-08-15T17:56:06.664Z",
+  "generatedAt": "2026-08-15T17:56:06.664Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:50:13.202Z"
+      "updatedAt": "2026-08-15T17:56:05.554Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:50:13.337Z"
+      "updatedAt": "2026-08-15T17:56:05.749Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Bonnie Tyler fans line the streets of a Welsh village as her coffin is brought home - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDRJeWVMTWpUV1JXWnQ4aElmVkgtRGtWaTdxLTMxTVR4UWY1LXFtYk93aXN3MXBfMGRERXdQT1pxUV93M0hrS09HX0hQal9uZENHMVZ4SWNTeHQxTDRubjBoa09PcC16aXVPd2N6WWlCWUdsaXVqYmhnT0VySEQ4ZVdOSFU4a0VwdTh2MjBIT3ZZMUI2VGxEaA?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 17:13:04 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Liechtenstein changes its rules to allow women to inherit the Alpine principality’s throne - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeks3dFFoNHJwR3dMMmRmUnR3cUZIMm91QktlbXlTQnJsQTNZaDV2U1hHUGYtYmhnRTdpVWNwcUp1MENVa3o0dUh0MW11TWhLUU8zb3JKOUN3S19wdElLakJTVlBXY3dzaU5udTlUUlZxRHNZdVppQjczZWFtUXJvM3JBVzBScWtnZW1LUDJhYS1wOV83S081UmgwOEtDTERKa3FpY0ptQQ?oc=5",
@@ -127,12 +133,6 @@
           "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
           "pubDate": "Sat, 15 Aug 2026 15:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 15:10:28 GMT",
           "source": "AP News"
         },
         {
@@ -154,20 +154,20 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 14:10:21 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 14:03:15 GMT",
           "source": "AP News"
         },
         {
-          "title": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV0Zrd0laR0k5T3h2SHhKclo1Zjh4RkVUWDA2SUhfajNRZFNlSGpZbXVBUlQ5bXVrQkZqVFJxLXJFS01MbkRIUVVmbXlFTE4zZWtBSDJPTl9TNXM2WkF1YnV5VlBUaGQ4QkhoU0EzVnJfcDRiOUJic01DeFZxV1BZVzN3UHRjU1Z3eDdxTXd2eDJOQlBqWktadkJoc0Z6eDVNYzlqb2FwNE9kdw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 13:55:00 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 13:57:57 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:50:13.786Z"
+      "updatedAt": "2026-08-15T17:56:06.224Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:50:14.208Z"
+      "updatedAt": "2026-08-15T17:56:06.624Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:50:14.511Z"
+      "updatedAt": "2026-08-15T17:56:06.664Z"
     }
   ]
 }
