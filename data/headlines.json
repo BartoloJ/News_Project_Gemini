@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-15T12:00:22.061Z",
-  "lastChecked": "2026-08-15T12:00:22.061Z",
-  "lastUpdated": "2026-08-15T12:00:22.061Z",
-  "generatedAt": "2026-08-15T12:00:22.061Z",
+  "fetchedAt": "2026-08-15T12:22:26.114Z",
+  "lastChecked": "2026-08-15T12:22:26.114Z",
+  "lastUpdated": "2026-08-15T12:22:26.114Z",
+  "generatedAt": "2026-08-15T12:22:26.114Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T12:00:20.906Z"
+      "updatedAt": "2026-08-15T12:22:24.749Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T12:00:21.061Z"
+      "updatedAt": "2026-08-15T12:22:24.906Z"
     },
     {
       "name": "AP News",
@@ -124,21 +124,27 @@
           "source": "AP News"
         },
         {
+          "title": "Mississippi - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RUWtvaDFDdkpYZVFRR0I3RmVVRUE1dmNuRW1uaFo0d0FJUzRseTZPN2ZyVlJIU2tld0hhZllOT3BoM2d5T1ZqZm13?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 09:55:07 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38 and toppling buildings - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
           "pubDate": "Sat, 15 Aug 2026 09:34:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 08:30:00 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 09:12:42 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 07:58:23 GMT",
+          "title": "Israeli airstrikes on southern Lebanon kill 9 people, Health Ministry says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 06:12:51 GMT",
           "source": "AP News"
         },
         {
@@ -158,30 +164,24 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjJjWGdlR3l1Ni1LQTFPWWZ6ckJYVFd4OHVxaXB2UWtIWW1NUTViUTNaSFdqMnlIMHI0UW5CM0NOalNST3V6V0hCVU51Z2NrRnpnN20xRGg1WHlDTmtnd05DQkhIakhlZzU5ZDlzVU9FSThtaEtfZ0pvajdDaHB2bldZVnM2UzhUVXFXTXBxSmNuTTNkbEhYOGx5eXZsdTA?oc=5",
           "pubDate": "Sat, 15 Aug 2026 03:37:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Shootings in Michigan leave 5 people plus suspect dead following large-scale search - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHlKTU5mZV9URk9aR092d3pteDlhVUtkMzFnV2hpQVVNdWZvT2VjQzk2Sm5hQjNIOEhDaWVub3hwTnR1UjN0UDA1eU5SU3hySGoybENYZElaQ2ZMNjFlUE1EQmRUVVpzV3VuZkhWUXllMEs4MnhRUFhyMHoxTVoyaDBnMC1BTHYwQmc?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 02:22:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T12:00:21.555Z"
+      "updatedAt": "2026-08-15T12:22:25.431Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Trump's 2024 grocery photo op now haunts Republicans in the midterms - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkhYMUdicFdKRWlLX3R6U0lvcXZQdS1zUjhhX1FsSndyd1dNMVQ4UGs2YjFXaFRNenQ0UGVJUGktcXlPOFl4MENrNXNfLWxQaTdyaUdramJ3Y1FKR3gxZUxleDlRM0xmM2FFeGZ0bzFneElSRUVEYWhPek9fY0h4WDBSd3MyazFIbTJlZURhLXYwSGNJelVSZ0NPSWtycHFtRTNvTGx5eDU?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 10:11:44 GMT",
+          "title": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 11:13:56 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 09:08:28 GMT",
+          "title": "Trump's 2024 grocery photo op now haunts Republicans in the midterms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkhYMUdicFdKRWlLX3R6U0lvcXZQdS1zUjhhX1FsSndyd1dNMVQ4UGs2YjFXaFRNenQ0UGVJUGktcXlPOFl4MENrNXNfLWxQaTdyaUdramJ3Y1FKR3gxZUxleDlRM0xmM2FFeGZ0bzFneElSRUVEYWhPek9fY0h4WDBSd3MyazFIbTJlZURhLXYwSGNJelVSZ0NPSWtycHFtRTNvTGx5eDU?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 10:11:44 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T12:00:21.996Z"
+      "updatedAt": "2026-08-15T12:22:25.861Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T12:00:22.061Z"
+      "updatedAt": "2026-08-15T12:22:26.114Z"
     }
   ]
 }
