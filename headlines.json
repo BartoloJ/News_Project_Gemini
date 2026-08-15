@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-15T17:00:19.730Z",
-  "lastChecked": "2026-08-15T17:00:19.730Z",
-  "lastUpdated": "2026-08-15T17:00:19.730Z",
-  "generatedAt": "2026-08-15T17:00:19.730Z",
+  "fetchedAt": "2026-08-15T17:14:17.321Z",
+  "lastChecked": "2026-08-15T17:14:17.321Z",
+  "lastUpdated": "2026-08-15T17:14:17.321Z",
+  "generatedAt": "2026-08-15T17:14:17.321Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:00:18.523Z"
+      "updatedAt": "2026-08-15T17:14:16.480Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
+          "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
+          "pubDate": "Sat, 15 Aug 2026 13:04:43 -0400",
+          "source": "NPR"
+        },
         {
           "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
           "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
           "pubDate": "Fri, 14 Aug 2026 12:37:54 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
-          "link": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
-          "pubDate": "Fri, 14 Aug 2026 12:05:24 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:00:18.710Z"
+      "updatedAt": "2026-08-15T17:14:16.705Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:00:19.178Z"
+      "updatedAt": "2026-08-15T17:14:17.220Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:00:19.617Z"
+      "updatedAt": "2026-08-15T17:14:17.250Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T17:00:19.730Z"
+      "updatedAt": "2026-08-15T17:14:17.320Z"
     }
   ]
 }
