@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-15T18:50:17.981Z",
-  "lastChecked": "2026-08-15T18:50:17.981Z",
-  "lastUpdated": "2026-08-15T18:50:17.981Z",
-  "generatedAt": "2026-08-15T18:50:17.981Z",
+  "fetchedAt": "2026-08-15T18:53:55.263Z",
+  "lastChecked": "2026-08-15T18:53:55.263Z",
+  "lastUpdated": "2026-08-15T18:53:55.263Z",
+  "generatedAt": "2026-08-15T18:53:55.263Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T18:50:16.657Z"
+      "updatedAt": "2026-08-15T18:53:54.034Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T18:50:16.854Z"
+      "updatedAt": "2026-08-15T18:53:54.149Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T18:50:17.294Z"
+      "updatedAt": "2026-08-15T18:53:54.580Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Lebanon says Israeli strikes in south of the country kill at least 11​​​ - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 18:33:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UK's Burnham urges reflection on death of academic Arday - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGRVd2o3N0NVMl9rek5FaXJmMGVxN0pTcWFyc3lScVRpTE5DQ0hYYmNLaDB3MUY3UHNTcFBlN0ZfbUwyalNMVHFvSWN5eE4tOHVNTHVfWm9jTm03Y3gyUGVpVVpVczRKV3dPdVFob2x3MHE4LUEwSHZFMk11N0lRaTg1ZGxGdUNDZ1IyMFUtWmFITDhIaHNZeDNldTVvZ0tDWWc3VzlxV0dvOW5f?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 18:32:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Palestinians in Qusra say they have faced militant settler attacks for months - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVIzMUNoVC03bVZyb0I2ckIyY3JhMWpNMm56VFBHSk1jUG1kOTdxbkNrZ2p1NWdoYTA5SGxraWpBTUExbnVoeWwxQU5IOW5mYzEtNTh5bExJZ01VUHZjdS1QRWVyNHBodDU3RGdnUV9ldl9SYTVFLWljMWZta3VvZTliRWg5Mm9xVXFVOUNUSXBNRG1WNlRDbXdLMlNEbVFRNW1tVW9OQ2FvUDh2ZUdMeXhQMFBpS0dPd1pUVEMtNm5IUQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 16:18:41 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Yemen's Mocha port halts operations after Houthi attacks, port director says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2FPbFJIdUZSc2djcmg5V0I3VE9WY0pQaWRRdGxaM21PRXloRHluMFhBVk04SjlMVmxKdmFxblFJMFRQME5QTGFBODdSbC05LWtkNm9UM3M1Vl9kTkpTY3ppaFloSXAyV0hUU3lseUR3Rl94TlZsVDhmS0VJWE9Damc4dGRla1pRUHdENG02ZExWcnh4ZDIzbC1uUmN0cFljUDN6MGd0QlVoSVcyajZXNExMMzY4SHd6QmNoQWZDYm5udTEweGpR?oc=5",
@@ -182,12 +200,6 @@
           "title": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
           "pubDate": "Sat, 15 Aug 2026 15:26:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Israeli strikes kill 11 in south Lebanon, health ministry says​ - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 15:26:26 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw?oc=5",
           "pubDate": "Sat, 15 Aug 2026 14:43:31 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Between cartel threats and US airstrikes, Ecuador fishermen have nowhere to hide - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXpLZFQ3VDNBNHh0Nm5CVHU4dVFUZ1J0Q0FmMEVRbW1FSUtVblFnLXBEbnFtTjJOTV9FbmtHYnEzZmtzTEhoZUhiZUxicFh4TFZyRFRhSTlzbDNlNHBzS0R3ZEs3YmVneXptM0xtbENlbXkydzlkTFNMU0NPMVFJb0ZSNXpzMW0xT0xBaWlnbVFsaF9nMXh2a0ZkOTNWcmhEUDZJZERSRFBvMEtCNGxGU1FpRUtOYm5RNzlGU0dTNGo?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 14:35:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "German wildfire near Belgian border under control, local authorities say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWElEUTZqbkhTeGtrT2Q1UjBSTlI3andpMWRpY0EtenZpdm1iV1ZIVlBYVVpVTGMzeGl3cFNJTVNlMkVyYTB0MW4tSUlEcFRVNlpQRklVY1hDYU9UYld0N2lhVTJHTDZIUVRpUEd1bzhDOVJpbGUxd1lqdVpBODRiOVk3M19GdGNDdjdJNDZab25RVDZCZk1PbWhRUTNsRjdUMTBldE1GLWpfcHoyV0R3TTQtNVptX0h2T051cg?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 14:20:03 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T18:50:17.757Z"
+      "updatedAt": "2026-08-15T18:53:55.040Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T18:50:17.981Z"
+      "updatedAt": "2026-08-15T18:53:55.263Z"
     }
   ]
 }
