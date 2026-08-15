@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-15T20:45:31.460Z",
-  "lastChecked": "2026-08-15T20:45:31.460Z",
-  "lastUpdated": "2026-08-15T20:45:31.460Z",
-  "generatedAt": "2026-08-15T20:45:31.460Z",
+  "fetchedAt": "2026-08-15T20:50:14.704Z",
+  "lastChecked": "2026-08-15T20:50:14.704Z",
+  "lastUpdated": "2026-08-15T20:50:14.704Z",
+  "generatedAt": "2026-08-15T20:50:14.704Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T20:45:30.302Z"
+      "updatedAt": "2026-08-15T20:50:13.569Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T20:45:30.460Z"
+      "updatedAt": "2026-08-15T20:50:13.724Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T20:45:30.855Z"
+      "updatedAt": "2026-08-15T20:50:14.148Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 20:16:56 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Qatar denies detaining Iranian pilots, says it found remains of one - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU82UzByeVFKQzJGdkhlQ0Y0YjkxQk1mZlVYdVMyV3d4TVhLRXJXa19JcU51TUJnZEFoaFpiUkkxT2tuY3hkVUY2Q2xYeU5Bd3ZHVlZlM3dCU09jMXoxR0Ntb0xTZThlREdtS0VMRXFZa3IzdDJEWnhyRE11U3VMbVFkUUs4UXVRQ1hPTU1laDZ4UUhqTmhuc282dXBZN2ExX0pyajFhRnJ0Y2p2MDJTNkhWS2pyWXAw?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
           "pubDate": "Sat, 15 Aug 2026 15:26:52 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Hungary to sink two barges near nuclear plant to raise Danube levels to ensure cooling​​ - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdkZWVjh0dVhzeG43NWJfV0kwZnZQc3dXNGVyUXJLV05JVVYzN3ZJYk9RdEdFQ3lfci1fTU44aGQzTG50UjJPQmlNMzBJMTZNT3JjWDY0dkgxTXo4dWc4aExxRTktb0hFWUprNE80ZDhrWHFWeEtwcE5CMVJOVlkzM0wybmdRQ2NZZXBoR1dnS25GOF82ZjRnY0VTSG40cFM3OGFkUjZISFdnTHdBRDAzTExuMHBWT3VsMzlhcUYtcjdmd21wdGhTMTFoV3gwbVU?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 15:25:49 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T20:45:31.291Z"
+      "updatedAt": "2026-08-15T20:50:14.542Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T20:45:31.460Z"
+      "updatedAt": "2026-08-15T20:50:14.704Z"
     }
   ]
 }
