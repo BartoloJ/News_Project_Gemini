@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-08-15T09:25:14.354Z",
-  "lastChecked": "2026-08-15T09:25:14.354Z",
-  "lastUpdated": "2026-08-15T09:25:14.354Z",
-  "generatedAt": "2026-08-15T09:25:14.354Z",
+  "fetchedAt": "2026-08-15T09:48:14.328Z",
+  "lastChecked": "2026-08-15T09:48:14.328Z",
+  "lastUpdated": "2026-08-15T09:48:14.328Z",
+  "generatedAt": "2026-08-15T09:48:14.328Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "South Korea proposes talks to officially end war with North",
+          "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 09:35:23 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
+          "link": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 09:29:31 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
           "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 14 Aug 2026 23:16:43 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "How is parkour helping these seniors avoid injuries?",
-          "link": "https://www.bbc.co.uk/news/videos/c7vg06pjdmqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 14 Aug 2026 23:08:13 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Dozens injured and thousands evacuated in Croatia wildfire",
-          "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 14 Aug 2026 20:22:56 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T09:25:13.650Z"
+      "updatedAt": "2026-08-15T09:48:12.938Z"
     },
     {
       "name": "NPR",
@@ -75,7 +75,7 @@
           "source": "NPR"
         },
         {
-          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20",
+          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
           "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
           "pubDate": "Sat, 15 Aug 2026 04:29:20 -0400",
           "source": "NPR"
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T09:25:13.835Z"
+      "updatedAt": "2026-08-15T09:48:13.129Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T09:25:14.281Z"
+      "updatedAt": "2026-08-15T09:48:13.735Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T09:25:14.289Z"
+      "updatedAt": "2026-08-15T09:48:14.221Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T09:25:14.354Z"
+      "updatedAt": "2026-08-15T09:48:14.328Z"
     }
   ]
 }
