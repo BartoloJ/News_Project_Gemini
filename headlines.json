@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-15T10:15:34.586Z",
-  "lastChecked": "2026-08-15T10:15:34.586Z",
-  "lastUpdated": "2026-08-15T10:15:34.586Z",
-  "generatedAt": "2026-08-15T10:15:34.586Z",
+  "fetchedAt": "2026-08-15T10:25:16.579Z",
+  "lastChecked": "2026-08-15T10:25:16.579Z",
+  "lastUpdated": "2026-08-15T10:25:16.579Z",
+  "generatedAt": "2026-08-15T10:25:16.579Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T10:15:33.071Z"
+      "updatedAt": "2026-08-15T10:25:15.553Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
+          "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
+          "pubDate": "Sat, 15 Aug 2026 06:10:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
           "link": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
           "pubDate": "Fri, 14 Aug 2026 12:05:24 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "We learned 5 important things about the economy this week",
-          "link": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
-          "pubDate": "Fri, 14 Aug 2026 10:47:15 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T10:15:33.353Z"
+      "updatedAt": "2026-08-15T10:25:15.626Z"
     },
     {
       "name": "AP News",
@@ -126,7 +126,7 @@
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 07:15:56 GMT",
+          "pubDate": "Sat, 15 Aug 2026 07:58:23 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T10:15:33.880Z"
+      "updatedAt": "2026-08-15T10:25:16.093Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T10:15:34.338Z"
+      "updatedAt": "2026-08-15T10:25:16.539Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T10:15:34.586Z"
+      "updatedAt": "2026-08-15T10:25:16.579Z"
     }
   ]
 }
