@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-15T04:25:13.575Z",
-  "lastChecked": "2026-08-15T04:25:13.575Z",
-  "lastUpdated": "2026-08-15T04:25:13.575Z",
-  "generatedAt": "2026-08-15T04:25:13.575Z",
+  "fetchedAt": "2026-08-15T04:44:58.641Z",
+  "lastChecked": "2026-08-15T04:44:58.641Z",
+  "lastUpdated": "2026-08-15T04:44:58.641Z",
+  "generatedAt": "2026-08-15T04:44:58.641Z",
   "sources": [
     {
       "name": "BBC News",
@@ -32,7 +32,7 @@
           "source": "BBC News"
         },
         {
-          "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+          "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
           "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 14 Aug 2026 17:36:27 GMT",
           "source": "BBC News"
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T04:25:12.734Z"
+      "updatedAt": "2026-08-15T04:44:57.248Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T04:25:12.925Z"
+      "updatedAt": "2026-08-15T04:44:57.580Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, toppling buildings and killing at least 5 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 03:55:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Judge refuses to block Trump administration from building border wall along tribe's reservation - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjJjWGdlR3l1Ni1LQTFPWWZ6ckJYVFd4OHVxaXB2UWtIWW1NUTViUTNaSFdqMnlIMHI0UW5CM0NOalNST3V6V0hCVU51Z2NrRnpnN20xRGg1WHlDTmtnd05DQkhIakhlZzU5ZDlzVU9FSThtaEtfZ0pvajdDaHB2bldZVnM2UzhUVXFXTXBxSmNuTTNkbEhYOGx5eXZsdTA?oc=5",
@@ -136,21 +142,15 @@
           "source": "AP News"
         },
         {
-          "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, toppling buildings and killing at least 2 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 01:56:00 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 01:48:33 GMT",
           "source": "AP News"
         },
         {
           "title": "Appeals court sides with Trump in fight over subpoena of gender-affirming care provider - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1RMZWdYemwxQnBCT2FBNC02TWw4V1g5eHM2SXFsTVpaMktnZmtpb2lONDZMeGVnWWh6VVNzWGVGOG9jX21lVWVqZGxueVdRazhncXVPMnRYLXBpRktTMzBlTGYydUh4Tm1hV09BdGQ1TWhHNnZVRnktZ2UwTFhuVnpCNlVWZVRYUG1EY2Y0N21sNUNtbDJN?oc=5",
           "pubDate": "Sat, 15 Aug 2026 01:20:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 00:28:35 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T04:25:12.965Z"
+      "updatedAt": "2026-08-15T04:44:57.973Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T04:25:13.376Z"
+      "updatedAt": "2026-08-15T04:44:58.369Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T04:25:13.575Z"
+      "updatedAt": "2026-08-15T04:44:58.641Z"
     }
   ]
 }
