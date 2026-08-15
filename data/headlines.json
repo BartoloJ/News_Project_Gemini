@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-15T05:00:26.853Z",
-  "lastChecked": "2026-08-15T05:00:26.853Z",
-  "lastUpdated": "2026-08-15T05:00:26.853Z",
-  "generatedAt": "2026-08-15T05:00:26.853Z",
+  "fetchedAt": "2026-08-15T05:03:58.789Z",
+  "lastChecked": "2026-08-15T05:03:58.789Z",
+  "lastUpdated": "2026-08-15T05:03:58.789Z",
+  "generatedAt": "2026-08-15T05:03:58.789Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+          "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 15 Aug 2026 00:01:53 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Dozens injured and thousands evacuated in Croatia wildfire",
           "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 14 Aug 2026 17:00:46 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Why is Selena Gomez being sued?",
-          "link": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 14 Aug 2026 16:59:53 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T05:00:25.631Z"
+      "updatedAt": "2026-08-15T05:03:57.390Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T05:00:25.730Z"
+      "updatedAt": "2026-08-15T05:03:57.609Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T05:00:26.154Z"
+      "updatedAt": "2026-08-15T05:03:58.023Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T05:00:26.589Z"
+      "updatedAt": "2026-08-15T05:03:58.445Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T05:00:26.853Z"
+      "updatedAt": "2026-08-15T05:03:58.789Z"
     }
   ]
 }
