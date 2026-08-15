@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-15T06:45:52.061Z",
-  "lastChecked": "2026-08-15T06:45:52.061Z",
-  "lastUpdated": "2026-08-15T06:45:52.061Z",
-  "generatedAt": "2026-08-15T06:45:52.061Z",
+  "fetchedAt": "2026-08-15T06:50:16.719Z",
+  "lastChecked": "2026-08-15T06:50:16.719Z",
+  "lastUpdated": "2026-08-15T06:50:16.719Z",
+  "generatedAt": "2026-08-15T06:50:16.719Z",
   "sources": [
     {
       "name": "BBC News",
@@ -50,14 +50,14 @@
           "source": "BBC News"
         },
         {
-          "title": "Trump asks Supreme Court to allow ballroom work to continue",
+          "title": "Trump asks US Supreme Court to allow ballroom work to continue",
           "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 14 Aug 2026 19:05:22 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T06:45:50.646Z"
+      "updatedAt": "2026-08-15T06:50:15.386Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T06:45:51.008Z"
+      "updatedAt": "2026-08-15T06:50:15.699Z"
     },
     {
       "name": "AP News",
@@ -130,15 +130,15 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 03:47:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Judge refuses to block Trump administration from building border wall along tribe's reservation - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjJjWGdlR3l1Ni1LQTFPWWZ6ckJYVFd4OHVxaXB2UWtIWW1NUTViUTNaSFdqMnlIMHI0UW5CM0NOalNST3V6V0hCVU51Z2NrRnpnN20xRGg1WHlDTmtnd05DQkhIakhlZzU5ZDlzVU9FSThtaEtfZ0pvajdDaHB2bldZVnM2UzhUVXFXTXBxSmNuTTNkbEhYOGx5eXZsdTA?oc=5",
           "pubDate": "Sat, 15 Aug 2026 03:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 03:16:29 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T06:45:51.473Z"
+      "updatedAt": "2026-08-15T06:50:16.097Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Japan defence minister visits contentious Yasukuni Shrine to war dead - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2Y1MVdnLWFNQjVJSEhYT3VRT3ZMd2FuanpmUGw1SUNpR3hYWi1oMGtVYTdHTV9rZVVaaTZZWVVKSmRCVU1MR1VBaTBpQTc0Q2FKekhqZG5ZOXVxY2Rpcmt5X3VzdHl0WEJrQWlDSEFGU1hVMUFMdTdMWnFfTUpBVkU5VFYyV0NvcFBzd3BOTDBYLVBoZER4MGNrbzIzeXB5a0xNN2ZnZ0NBRDc2bU05Q3dVVTk?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 03:08:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Florida venue cancels rally with Palestinian American lawmaker Rashida Tlaib​​ - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3UtTXNsbVo0WElHRlRET2R2c2pBTlJxSlFZLVhvczlxN3NtdDNNOGI5MDR4QTlUNmxwT1NrWGNqUjJGNnZna0tTNmF3a1J4elg0WVJ4djNCMXg4ZlBEeVItbGZPaVJHOVY3Nlk1M1dHVkR2OG1MM1lpWWhfUlBXdjh0b3YzcW9KRU1RNWdPd1J1UElhdkFvUkFyX2h6bHBEaUxHeXNMNVFFMklXc1RRanM4b2NNaklhdVVPRTdR?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLU56dzF1UkptLUR0bVFmWVFrTmVmYTVaZ05HbDdURHlDOXdaZkdHTno3Zy1GSEdQRHJELXptTFFXVWNzWWlaR2dIVWZVbnBZQTRCNnprcWxQelNNWWNDSWJRZTE2U1l2Z3dLV0pCaHN2T05qRVdUazBCc2JCUlZrMm1CZFRMTTFjRmFyWUljMWI1aXlocFE3X3Z4M1RvSkNXUzY2aTAybkVUS0k0ZGhhOERaQUt0a0tr?oc=5",
           "pubDate": "Fri, 14 Aug 2026 23:51:30 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
-          "pubDate": "Fri, 14 Aug 2026 23:44:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T06:45:51.865Z"
+      "updatedAt": "2026-08-15T06:50:16.492Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-15T06:45:52.061Z"
+      "updatedAt": "2026-08-15T06:50:16.719Z"
     }
   ]
 }
