@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-16T07:00:21.828Z",
-  "lastChecked": "2026-08-16T07:00:21.828Z",
-  "lastUpdated": "2026-08-16T07:00:21.828Z",
-  "generatedAt": "2026-08-16T07:00:21.828Z",
+  "fetchedAt": "2026-08-16T07:09:21.150Z",
+  "lastChecked": "2026-08-16T07:09:21.150Z",
+  "lastUpdated": "2026-08-16T07:09:21.150Z",
+  "generatedAt": "2026-08-16T07:09:21.150Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+          "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 07:04:17 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
           "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 15 Aug 2026 20:21:14 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-          "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 19:41:57 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T07:00:20.461Z"
+      "updatedAt": "2026-08-16T07:09:19.914Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T07:00:20.640Z"
+      "updatedAt": "2026-08-16T07:09:20.145Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T07:00:21.227Z"
+      "updatedAt": "2026-08-16T07:09:20.550Z"
     },
     {
       "name": "Reuters",
@@ -188,6 +188,12 @@
           "title": "Romania shoots down drone breaching its airspace - defence ministry - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
           "pubDate": "Sun, 16 Aug 2026 03:40:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Vietnam Airlines Boeing 787 returned to Munich after takeoff incident - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUjk0ZFl5R3ZQblJ0T0MwemxocHVlbmo0a3FpbkFHUUp5SG9IWjhDcGQ4SDF1Q09ZOWRRdjZDclFxbnFGNUQ4Nmw3WTBRMURtSUVmc1duQlVsZ3c5QmhiclVaWHBRSEhadmc1TnFxTFo5RjNvVWZqYkd5Sm5MUFJYTFlVYWU3YWVSZjF2LVZwT0lTbE9ZMU1fUTZaWVJNYzhWODZDcWNIc0xQQXUxeUJ4cjNNcEtvZmtsT2FFUUp2dE1wMjFzSU5oekxCalNJTjBaeWRDX1JJUURwa0k?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 03:35:09 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk?oc=5",
           "pubDate": "Sun, 16 Aug 2026 01:33:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 23:33:33 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T07:00:21.681Z"
+      "updatedAt": "2026-08-16T07:09:20.959Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T07:00:21.828Z"
+      "updatedAt": "2026-08-16T07:09:21.149Z"
     }
   ]
 }
