@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-16T06:00:20.639Z",
-  "lastChecked": "2026-08-16T06:00:20.639Z",
-  "lastUpdated": "2026-08-16T06:00:20.639Z",
-  "generatedAt": "2026-08-16T06:00:20.639Z",
+  "fetchedAt": "2026-08-16T06:25:14.497Z",
+  "lastChecked": "2026-08-16T06:25:14.497Z",
+  "lastUpdated": "2026-08-16T06:25:14.497Z",
+  "generatedAt": "2026-08-16T06:25:14.497Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T06:00:19.332Z"
+      "updatedAt": "2026-08-16T06:25:12.358Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T06:00:19.595Z"
+      "updatedAt": "2026-08-16T06:25:12.402Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T06:00:20.023Z"
+      "updatedAt": "2026-08-16T06:25:12.929Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Europe's heatwaves expose insurance gap as business losses mount - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1I5Nno4ZTlfSzdpV1JwbVVMdDZtODFfaUl3SnJHZ1pGdW41M2hGVW9NUTd1ZWo2UW1iZkQ5cWVpcnQyY09GYnRFZ2l3QzBlN0NRWWZ1Skt4a1NzcnFUWlY0bi12OTZUNGdhblB0VFdrcDhOdWRuSm1EZlYzQUJ4YkQxdlpjeFNwTzZMWGZ4SmRtXzh2Vm9vWDRkMTdtSUR0ZlZCRjV2bnM?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 05:06:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Thousands evacuate after Indonesia quake kills 51, cuts roads - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEJFQktERVZJaDU5NFZfV0ZKZWpwc0FzYzR1SUJYeFF4Z1U5SVQxenBacVFDM1lNdGNRTnhXSVFBQTlFZVpEaGlsX1J0MzY1cHN5bllZQ0hMNVlvcnAtRlFmYWRKYzZORnZibTluNWJkVk5sdExHQWduODdCcEZ1OXVGSXd0ZHFmTS00OWhPeVpxQ2lpYWZheUZKWmZFZWM4N0RGeEhOSlM4WXliOWNfY0NWZ0JuRENL?oc=5",
@@ -193,7 +199,13 @@
         {
           "title": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYldvMHAyS2pRUlBfTWViR3BKVjl4WllDSGVlXzFlaXM5QkZGVlFSQWF2REhQR3J6bDhaWkNUWWtLLUN4c2FHTlZ2OW90UFd3N2gySHIyTnRuSm9HdGpvUmJFZUZxaWtUMjA1eE1GRk1WOWg3VWc1V1FKdmR4RE85SUk1UDRXUEVQUEJFVHRPZ2JRVWlqemJsdXduRGhEdy1tSF96QlhBZnpjclFEZ3E3X2JBdjl6T1NGTDNjMFRSbm55cU5ORl84THI0SS0?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 01:34:00 GMT",
+          "pubDate": "Sun, 16 Aug 2026 01:35:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russian missile attack on Kyiv sparks fires, injures one, Ukraine officials say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 01:33:00 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Hurricane Lala leaves thousands without power in Hawaii amid 'life-threatening' conditions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVphU1pueVRWM1VzVGpzSmQ4MGN4aEliMDZvUG5tQWNlSC1xYWxSbDRZaG0zQ3BsclpscUk5MWxNcG5peVh0S2pmYU5URmE2RkJaQ0xEVXJGemVaYTQ5YUJsTmtzbUxRdTREbXF0dEU2R0VoSUREWHcxQU42TFBrNFJoUm5STTZ5RjU3R2NMUXZmZ3pUcllsVUUxbXVyTlREalRBR2tENGx4SlpSNGJRZl9R?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 21:08:00 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "EU sends aircraft, villages evacuated as Belgium fights record wildfire​​ - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVlJUzBhcmdocU1lR3phY3JlcHpNb3hhWGdKcmJtSHA5MUhzN1ZXc2JpZll6OV9wWkJLNGhzWXRyVlVsdkJmU0ZlZTlpMTRNbWliSVJJdXA3MUtmUWFiV0ZSTEROa1VpT3FTWG04T21TWUkydjNyNEx0SWZwVGROUzhUaWxQNWQ4YnczQmNhUTdhQzBvX2UtT0dOY0lDLS1vMk1TMlNGZ2I?oc=5",
           "pubDate": "Sat, 15 Aug 2026 20:21:11 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 20:16:56 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T06:00:20.452Z"
+      "updatedAt": "2026-08-16T06:25:13.317Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T06:00:20.639Z"
+      "updatedAt": "2026-08-16T06:25:14.497Z"
     }
   ]
 }
