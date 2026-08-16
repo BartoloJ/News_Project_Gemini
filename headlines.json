@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-16T13:25:12.241Z",
-  "lastChecked": "2026-08-16T13:25:12.241Z",
-  "lastUpdated": "2026-08-16T13:25:12.241Z",
-  "generatedAt": "2026-08-16T13:25:12.241Z",
+  "fetchedAt": "2026-08-16T13:43:10.822Z",
+  "lastChecked": "2026-08-16T13:43:10.822Z",
+  "lastUpdated": "2026-08-16T13:43:10.822Z",
+  "generatedAt": "2026-08-16T13:43:10.822Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+          "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
           "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 16 Aug 2026 09:27:58 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "BBC seeks to subpoena family members in Panorama lawsuit",
-          "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 00:11:03 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T13:25:10.990Z"
+      "updatedAt": "2026-08-16T13:43:09.803Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T13:25:11.141Z"
+      "updatedAt": "2026-08-16T13:43:09.861Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T13:25:11.530Z"
+      "updatedAt": "2026-08-16T13:43:10.260Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Iranian parliament votes to further criminalise interviews with 'hostile media' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 12:18:32 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "German companies cut US investment to three-year low, data show - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTk3Q1V1UFUwM0ZRa1BjcTh6SjBuZzJfZjZ5NS1sdjlQZVl3MndHSzQzeVhWdjlTQzRDM2x2QlFHYnBldzNLR2l1dTlqOW1vaWkzYVhGTGs0bVVKT1FVOXJOWFNmajdSMUtteXA5am1BaUZvYjZqSVBJR3dUSS1oYmQ5TUtUdjdxWXhmal9LN0tKdmVCbG5ITmV6NWZWWGptRGxaM3AwcU1lQ0JxZlF1dWhn?oc=5",
@@ -179,9 +185,21 @@
           "source": "Reuters"
         },
         {
+          "title": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYldvMHAyS2pRUlBfTWViR3BKVjl4WllDSGVlXzFlaXM5QkZGVlFSQWF2REhQR3J6bDhaWkNUWWtLLUN4c2FHTlZ2OW90UFd3N2gySHIyTnRuSm9HdGpvUmJFZUZxaWtUMjA1eE1GRk1WOWg3VWc1V1FKdmR4RE85SUk1UDRXUEVQUEJFVHRPZ2JRVWlqemJsdXduRGhEdy1tSF96QlhBZnpjclFEZ3E3X2JBdjl6T1NGTDNjMFRSbm55cU5ORl84THI0SS0?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 12:13:07 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump wants more economic pressure on Iran. What are his options? - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5",
           "pubDate": "Sun, 16 Aug 2026 11:34:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "South Korea says it fired warning shots after North Korean soldiers crossed demarcation line - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNTRvOURLLUdqSXQzZDQwSXJCNVU3WHNVOXRGVnNtV2Rhc1A5NEhTQkVSN0tRWTlfOEFoODhhMnVQQ1lReWZQZ2VlQU1Vd3k0bmE3SGdiNDYzaWhWd0stbDVKalpRZl95cS1VSG1IZi1YMFVDcXhsOVh6ZnNSNElVQy1pM2w3WUJYSzFvcGZFT0ZTMHA3SS1VdS1fS2hwaVhpX0dJRFlRQlNTdEo4NER0RGdkRjE5cHhIMUtlWHphNEptQ3lJUVRENjB2aXN6Mk0?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 11:31:25 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk?oc=5",
           "pubDate": "Sun, 16 Aug 2026 11:21:15 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Ukrainian drones strike Moscow region, killing one - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 11:21:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Four Antonello da Messina works stolen in Renaissance painter's hometown - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNE5XWE93dVd5bUpMcEhWSjRsZ0lBc2dmWjl4WmJQNWFUQzZyZldlQ3BYRVl6YXgydllsSDBObTItem4xTlpwcFJrZGNRbEtNbmc5VEpWaEZZUnZkRTE4YXB3djFSWDJMc1NzQWhjMl9hRE00MXBkT0Z5bTEzaXI0YVBpZ1V5YVFDRmIteFpwd3lmZUtYYXhqYTF4SUdZUEtVZVJWalVfRnQ4bDhBNS1j?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 10:57:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Belgium's biggest wildfire on record heads towards Germany - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0o2UU1KNjEzdFpEUmI3WlhvRllVYlZibG5ySnR3U2VaZWxYdjFYSV9fTzJTdFQxTVdtdVZIYW1HSktyZmdJTlliSGVMaVoyTlhxLUduWlNkTUZFYU5RY3dZN0h4Z1pqNVMyU2R0M1QzMEdWeUJzMEhfYTZidTlmdW5kbmcyaGgzbTQ0amNZWW5GRkFSRHp2TjZabWR1LThOUzdNNWZuSzV6VENHRU1Naw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 10:40:01 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T13:25:11.947Z"
+      "updatedAt": "2026-08-16T13:43:10.673Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T13:25:12.241Z"
+      "updatedAt": "2026-08-16T13:43:10.822Z"
     }
   ]
 }
