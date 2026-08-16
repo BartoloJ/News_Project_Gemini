@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-08-16T08:01:03.266Z",
-  "lastChecked": "2026-08-16T08:01:03.266Z",
-  "lastUpdated": "2026-08-16T08:01:03.266Z",
-  "generatedAt": "2026-08-16T08:01:03.266Z",
+  "fetchedAt": "2026-08-16T08:25:16.876Z",
+  "lastChecked": "2026-08-16T08:25:16.876Z",
+  "lastUpdated": "2026-08-16T08:25:16.876Z",
+  "generatedAt": "2026-08-16T08:25:16.876Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 08:23:38 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 08:14:56 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
           "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +29,6 @@
           "title": "Twelve killed as Polish bus veers off Hungarian motorway",
           "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 16 Aug 2026 07:04:17 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 04:13:32 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 15 Aug 2026 20:21:14 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T08:01:01.924Z"
+      "updatedAt": "2026-08-16T08:25:15.481Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T08:01:02.175Z"
+      "updatedAt": "2026-08-16T08:25:15.773Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 07:58:18 GMT",
+          "source": "AP News"
+        },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
@@ -124,15 +130,9 @@
           "source": "AP News"
         },
         {
-          "title": "Novak Djokovic ousted from Cincinnati Open in his first match since Wimbledon - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVZVMmZJcmhyXzFYanVTWXhvZUxtcGZUOFZSTTY1RkR4UGl3X1pGNExzdDVHY0FhbmJ3d3lFeTY0NmN0WWZ1R29DM05LZElFYXFfVUlGa3BubFhtLTFRQTNPcDJ2b29FYU0wd2stXzlicHVqOWFNaUVpYk1MYlRfbEFuOFNGVjB2djhMNFJZd29mYU54cjY3QVJZQQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 06:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 06:02:37 GMT",
+          "title": "Avocado pickers in Mexico welcome restart of exports to US, but security fears remain - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTW9xS0xIUkYzczYwdHJSTnBnTGZIQXdZdXhweDJzT2RfZURPUTNieFZ3VlIzX0JxSzc1UWNQU1lfVlh5QXZfQzk4YVE2MlRzcXdhb3M0b3JmTjV0OW1Jc2xMOWdqaVhtck1iZkUxY1VQNnhVQ19sU2dXbmVVVWZpRXdWTjB3amxLd0c4OUxodkkyemlmVEhjdXpSVDBmOExkQk5yODdTbFg1Zw?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 06:13:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T08:01:02.587Z"
+      "updatedAt": "2026-08-16T08:25:16.280Z"
     },
     {
       "name": "Reuters",
@@ -199,13 +199,7 @@
         {
           "title": "Romania shoots down drone breaching its airspace - defence ministry - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 03:40:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Vietnam Airlines Boeing 787 returned to Munich after takeoff incident - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUjk0ZFl5R3ZQblJ0T0MwemxocHVlbmo0a3FpbkFHUUp5SG9IWjhDcGQ4SDF1Q09ZOWRRdjZDclFxbnFGNUQ4Nmw3WTBRMURtSUVmc1duQlVsZ3c5QmhiclVaWHBRSEhadmc1TnFxTFo5RjNvVWZqYkd5Sm5MUFJYTFlVYWU3YWVSZjF2LVZwT0lTbE9ZMU1fUTZaWVJNYzhWODZDcWNIc0xQQXUxeUJ4cjNNcEtvZmtsT2FFUUp2dE1wMjFzSU5oekxCalNJTjBaeWRDX1JJUURwa0k?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 03:35:09 GMT",
+          "pubDate": "Sun, 16 Aug 2026 04:08:14 GMT",
           "source": "Reuters"
         },
         {
@@ -217,12 +211,18 @@
         {
           "title": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2p1U3RrcWFybldKeEVnT0l6SjJKWlpCUGlNVXlCd0RseFdVR2g2VVc4emNtTGdfU1Jub1kxQTZpaVZRN3duQUhVYldjaUhVLWhJS2RqcnR5akVlUDF1TlFERHlGUTVvMWxzQWNkQzNDY05vdjBxLThaSmlTX2dzdlVpdkJ6dUlnOVRPZUxOM29Oc0MtWmVHQzE2NzNNdUlnalFDcXhvRURNRFliUWd1RUwzRkw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 02:08:00 GMT",
+          "pubDate": "Sun, 16 Aug 2026 02:09:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Vietnam Airlines Boeing 787 returned to Munich after takeoff incident - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUjk0ZFl5R3ZQblJ0T0MwemxocHVlbmo0a3FpbkFHUUp5SG9IWjhDcGQ4SDF1Q09ZOWRRdjZDclFxbnFGNUQ4Nmw3WTBRMURtSUVmc1duQlVsZ3c5QmhiclVaWHBRSEhadmc1TnFxTFo5RjNvVWZqYkd5Sm5MUFJYTFlVYWU3YWVSZjF2LVZwT0lTbE9ZMU1fUTZaWVJNYzhWODZDcWNIc0xQQXUxeUJ4cjNNcEtvZmtsT2FFUUp2dE1wMjFzSU5oekxCalNJTjBaeWRDX1JJUURwa0k?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 01:57:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T08:01:02.970Z"
+      "updatedAt": "2026-08-16T08:25:16.646Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T08:01:03.266Z"
+      "updatedAt": "2026-08-16T08:25:16.876Z"
     }
   ]
 }
