@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-16T19:50:17.797Z",
-  "lastChecked": "2026-08-16T19:50:17.797Z",
-  "lastUpdated": "2026-08-16T19:50:17.797Z",
-  "generatedAt": "2026-08-16T19:50:17.797Z",
+  "fetchedAt": "2026-08-16T19:54:21.974Z",
+  "lastChecked": "2026-08-16T19:54:21.974Z",
+  "lastUpdated": "2026-08-16T19:54:21.974Z",
+  "generatedAt": "2026-08-16T19:54:21.974Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+          "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
           "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
           "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 16 Aug 2026 18:46:12 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-          "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 17:44:23 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T19:50:16.734Z"
+      "updatedAt": "2026-08-16T19:54:20.479Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T19:50:16.871Z"
+      "updatedAt": "2026-08-16T19:54:20.796Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T19:50:17.318Z"
+      "updatedAt": "2026-08-16T19:54:21.317Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjduYzlVZEN3NjI2YktjT0dyU3g2cVVudlhDLV95RERScG5tZ0RHb01Sdy0tTDZnMHQxdXRTa2c5dm5DY1dmTnN5WVJnVGQzemhsYjQwem9XVDNyQ1V0cHN4S2J2NzRkREd1ZWwtRWZ4RU90SDRZckpYaXo0ZEotTkx0eHI4anlfQzV4Y25VODA0MnZySVhxUXNfekowTGtmb1NLZGE3UWVuVnRDTG1MaVRRZw?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 18:36:25 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump's envoys meet mediators, Israel strikes Gaza - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
@@ -203,12 +209,6 @@
           "source": "Reuters"
         },
         {
-          "title": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjduYzlVZEN3NjI2YktjT0dyU3g2cVVudlhDLV95RERScG5tZ0RHb01Sdy0tTDZnMHQxdXRTa2c5dm5DY1dmTnN5WVJnVGQzemhsYjQwem9XVDNyQ1V0cHN4S2J2NzRkREd1ZWwtRWZ4RU90SDRZckpYaXo0ZEotTkx0eHI4anlfQzV4Y25VODA0MnZySVhxUXNfekowTGtmb1NLZGE3UWVuVnRDTG1MaVRRZw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 16:44:13 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Iranian parliament advances bill to curb foreign influence - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
           "pubDate": "Sun, 16 Aug 2026 16:43:44 GMT",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T19:50:17.733Z"
+      "updatedAt": "2026-08-16T19:54:21.719Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T19:50:17.797Z"
+      "updatedAt": "2026-08-16T19:54:21.974Z"
     }
   ]
 }
