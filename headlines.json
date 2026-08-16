@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-08-16T18:00:19.948Z",
-  "lastChecked": "2026-08-16T18:00:19.948Z",
-  "lastUpdated": "2026-08-16T18:00:19.948Z",
-  "generatedAt": "2026-08-16T18:00:19.948Z",
+  "fetchedAt": "2026-08-16T18:17:47.423Z",
+  "lastChecked": "2026-08-16T18:17:47.423Z",
+  "lastUpdated": "2026-08-16T18:17:47.423Z",
+  "generatedAt": "2026-08-16T18:17:47.423Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-          "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 17:44:23 GMT",
+          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 18:04:25 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 15:50:12 GMT",
+          "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+          "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 17:44:23 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T18:00:18.685Z"
+      "updatedAt": "2026-08-16T18:17:46.115Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T18:00:18.926Z"
+      "updatedAt": "2026-08-16T18:17:46.274Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 18:05:25 GMT",
+          "source": "AP News"
+        },
         {
           "title": "At least 6 people have died from days of storms and record-setting flooding in Indiana - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2kwWjVwQkgtUEowdElQck1LekNsOEhfWXVJWUo1Szg3UFVudkV6U1RWYlRZM1lXdzloWFFBdmFpUkJ2RlQ5NnAwUmJZbkNkYTFJUEVjWWNIWmwxdDZaOVFKOWxTZ0dYLVJ6QXNmbUNOMzR2R0ltX1JSOHdhSFVmcFlGYncyWDhCeFJ0Rk96d1V3dktZTHc?oc=5",
@@ -127,6 +133,12 @@
           "title": "Nightmarish start for Maresca as Arsenal outclasses Man City in Community Shield - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObm9mQzFsemRmYlJDeU0zRTNHRHo5Yk1QdnRWZmItSmotRGlma2dIcUxLckl3SzBpdWFmUXVhYjV6Y216dEZwdHVGX095YThwZmFUZld1cFVscXR3aGxYNmtwMnlDRlZXb0RROG1PZ0ZxbjBmbURESEZtU3lSd0xLOURoVlZpUzBfNERnbXZUZFJheEdKblBKZw?oc=5",
           "pubDate": "Sun, 16 Aug 2026 16:17:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Thieves steal 4 Renaissance artworks in a Sicilian museum heist during an Italian holiday - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnlrWmxPWkVSVUdZaG9JZXY1UTVpbDFIWUI2NEF4SG1pbnBVaVhQaXRxUjhIOVN5Sk5Pd0VJck1sbTZwLTFsbVpIMDNqVjQ3S2ZjV0t1S0dJU1hjcHpwc2J5dExUaC1zNXNqUG5uX0ZOQzZJZS1DVG1aOGJELVZ5RXktSm5ycXR5d2hDTEZUWEIwS3BXTVNTOUhRcW8?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 16:14:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,81 +160,69 @@
           "source": "AP News"
         },
         {
-          "title": "BBC asks a US court for help in getting testimony from the Trump family in defamation suit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOC1kd19wN1hwS2Z0YWlGNzZTMzVSNzZXNE1NZmtHM0RZNVRkVVYtQzJadEIwWmZFWVNkTHhqbDFvb2hTS3BaZTVEWU5UVi1aYlhYVlpnTXdMTmxuWDgyN0FmY08yVElKWmxQdml0NGJfUWwyNlJ1Y2x0QUJySk8ya09rYnlxdXBkYTIyaXJnUS1ldDJVUFNZUXpnU1E5TU0?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 15:26:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Taliban mark 5 years since return to power in Afghanistan, in photos - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRThzN3JQcjRtd1RzczhiRGIybzdXYzVjbWlNRUdqSXlsZGR1MW96bWEyTk00WWlZd2FyQ0Z4eWV0TEtVVTRhd0ZrVE9sWldtNkpKeTUxMmV3aGl5enktOGRkSjczTmYzbnVLSHdGY0FWY2ZYZjNNVU5sQ2h1bnFNX25mR3RGa1lNcUhRN2Y1ekdMMGctNjBEQWZ6VW1xc1R6Nk5aVVRFNA?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 15:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 14:48:00 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 15:29:46 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T18:00:19.391Z"
+      "updatedAt": "2026-08-16T18:17:46.767Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Trump's envoys meet mediators, Israel strikes Gaza - reuters.com",
+          "title": "Trump's envoys meet mediators, Israel strikes Gaza - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
           "pubDate": "Sun, 16 Aug 2026 17:27:30 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Brilliant Bangladesh claim first test win in Australia as Green ton in vain - reuters.com",
+          "title": "Brilliant Bangladesh claim first test win in Australia as Green ton in vain - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU29RSnVOazF4aTB3SUw0aGJMTGZiOGYtVHZCMGhkZFBBOHFNQWxoVmJPbDZSMVFnNnM2SnJFWDFpYkRkSmFHNUxaSUk2V21KMk4wb0I0a28wM0VXWU5JSi16NnMtTVI4c1Z2TUl3Y1dsU0tHQkxSeVNWOGdjaG92dE1ONUlqbTdXUXdPcUd5Z2Z5S2tFMjF2SzNzRDQtLXNOVTU0RmY4eEpJLTVrc1BmRGpTSXpLOEVLNU1F?oc=5",
           "pubDate": "Sun, 16 Aug 2026 17:18:38 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - reuters.com",
+          "title": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEl6U1RsX2F2XzJtaFd2cHMyWDhqMzhBdnI1QTJnTnNmV3BST19jNlRHTTNOejFuVTdlRTNzOGdFTG1MRTF1VE1hSnR2eGZOQnhoQWIzOG1DcWxpbkZXTkhSbDQwMmV1OGh5ay0tclhVcnBUUVh4cG1jZk1VeDV6eTgxdjdxMnFnelY1cEZSQVNTOE9nVE1HR2FSM1NvSzE2aVVPYWhzVmlSNlF4OGNBWEEtd0NYWXpBZm9weFl5U1RuaWhCelE?oc=5",
           "pubDate": "Sun, 16 Aug 2026 17:08:52 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Arsenal humble Man City to win Community Shield - reuters.com",
+          "title": "Arsenal humble Man City to win Community Shield - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbDR1anJWcnJPUU5oN2tGX1VyS1lURnlPei12NldTTm84ck5STlRiNF9iRHFOMDFzQmxRUkRubE85Um9vdkF5MUtZQzhsT2UxeHRjUEZ2c3ducENDR1ktMFhTZVU2V0laNjJUTHlpZVVHSUxyeV9Jb1lLd29nelZ2WG1XalZ0RzREX3EyM0toZmRZQ0dxZnB2RXRDRDY?oc=5",
           "pubDate": "Sun, 16 Aug 2026 17:02:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum - reuters.com",
+          "title": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjduYzlVZEN3NjI2YktjT0dyU3g2cVVudlhDLV95RERScG5tZ0RHb01Sdy0tTDZnMHQxdXRTa2c5dm5DY1dmTnN5WVJnVGQzemhsYjQwem9XVDNyQ1V0cHN4S2J2NzRkREd1ZWwtRWZ4RU90SDRZckpYaXo0ZEotTkx0eHI4anlfQzV4Y25VODA0MnZySVhxUXNfekowTGtmb1NLZGE3UWVuVnRDTG1MaVRRZw?oc=5",
           "pubDate": "Sun, 16 Aug 2026 16:44:13 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iranian parliament advances bill to curb foreign influence - reuters.com",
+          "title": "Iranian parliament advances bill to curb foreign influence - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
           "pubDate": "Sun, 16 Aug 2026 16:43:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Belgium's biggest wildfire on record heads towards Germany - reuters.com",
+          "title": "Belgium's biggest wildfire on record heads towards Germany - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0o2UU1KNjEzdFpEUmI3WlhvRllVYlZibG5ySnR3U2VaZWxYdjFYSV9fTzJTdFQxTVdtdVZIYW1HSktyZmdJTlliSGVMaVoyTlhxLUduWlNkTUZFYU5RY3dZN0h4Z1pqNVMyU2R0M1QzMEdWeUJzMEhfYTZidTlmdW5kbmcyaGgzbTQ0amNZWW5GRkFSRHp2TjZabWR1LThOUzdNNWZuSzV6VENHRU1Naw?oc=5",
           "pubDate": "Sun, 16 Aug 2026 16:28:28 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Four Antonello da Messina works stolen in Renaissance painter's hometown - reuters.com",
+          "title": "Four Antonello da Messina works stolen in Renaissance painter's hometown - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNE5XWE93dVd5bUpMcEhWSjRsZ0lBc2dmWjl4WmJQNWFUQzZyZldlQ3BYRVl6YXgydllsSDBObTItem4xTlpwcFJrZGNRbEtNbmc5VEpWaEZZUnZkRTE4YXB3djFSWDJMc1NzQWhjMl9hRE00MXBkT0Z5bTEzaXI0YVBpZ1V5YVFDRmIteFpwd3lmZUtYYXhqYTF4SUdZUEtVZVJWalVfRnQ4bDhBNS1j?oc=5",
           "pubDate": "Sun, 16 Aug 2026 15:56:49 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T18:00:19.821Z"
+      "updatedAt": "2026-08-16T18:17:47.170Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T18:00:19.948Z"
+      "updatedAt": "2026-08-16T18:17:47.423Z"
     }
   ]
 }
