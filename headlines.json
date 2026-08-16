@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-16T11:55:46.665Z",
-  "lastChecked": "2026-08-16T11:55:46.665Z",
-  "lastUpdated": "2026-08-16T11:55:46.665Z",
-  "generatedAt": "2026-08-16T11:55:46.665Z",
+  "fetchedAt": "2026-08-16T12:00:21.576Z",
+  "lastChecked": "2026-08-16T12:00:21.576Z",
+  "lastUpdated": "2026-08-16T12:00:21.576Z",
+  "generatedAt": "2026-08-16T12:00:21.576Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T11:55:45.192Z"
+      "updatedAt": "2026-08-16T12:00:20.126Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
+          "pubDate": "Sun, 16 Aug 2026 07:54:19 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
           "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
           "pubDate": "Sat, 15 Aug 2026 17:20:51 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-          "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
-          "pubDate": "Sat, 15 Aug 2026 16:04:13 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T11:55:45.473Z"
+      "updatedAt": "2026-08-16T12:00:20.439Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T11:55:45.921Z"
+      "updatedAt": "2026-08-16T12:00:20.914Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T11:55:46.379Z"
+      "updatedAt": "2026-08-16T12:00:21.284Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T11:55:46.665Z"
+      "updatedAt": "2026-08-16T12:00:21.576Z"
     }
   ]
 }
