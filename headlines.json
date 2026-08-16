@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-16T15:50:15.582Z",
-  "lastChecked": "2026-08-16T15:50:15.582Z",
-  "lastUpdated": "2026-08-16T15:50:15.582Z",
-  "generatedAt": "2026-08-16T15:50:15.582Z",
+  "fetchedAt": "2026-08-16T15:56:20.978Z",
+  "lastChecked": "2026-08-16T15:56:20.978Z",
+  "lastUpdated": "2026-08-16T15:56:20.978Z",
+  "generatedAt": "2026-08-16T15:56:20.978Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 16 Aug 2026 15:50:12 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
           "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Teenager arrested in Virginia State University shooting that injured five",
           "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 16 Aug 2026 15:22:50 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 15:14:01 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T15:50:14.638Z"
+      "updatedAt": "2026-08-16T15:56:19.653Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+          "link": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
+          "pubDate": "Sun, 16 Aug 2026 11:47:58 -0400",
+          "source": "NPR"
+        },
         {
           "title": "What really happened in Ceuta? Why we may never find out",
           "link": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
           "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Are robotaxis finally here?",
-          "link": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
-          "pubDate": "Sat, 15 Aug 2026 17:30:21 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T15:50:14.670Z"
+      "updatedAt": "2026-08-16T15:56:19.939Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T15:50:15.098Z"
+      "updatedAt": "2026-08-16T15:56:20.388Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T15:50:15.531Z"
+      "updatedAt": "2026-08-16T15:56:20.787Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T15:50:15.582Z"
+      "updatedAt": "2026-08-16T15:56:20.978Z"
     }
   ]
 }
