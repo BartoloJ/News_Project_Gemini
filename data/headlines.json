@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-16T04:25:17.001Z",
-  "lastChecked": "2026-08-16T04:25:17.001Z",
-  "lastUpdated": "2026-08-16T04:25:17.001Z",
-  "generatedAt": "2026-08-16T04:25:17.001Z",
+  "fetchedAt": "2026-08-16T04:50:15.007Z",
+  "lastChecked": "2026-08-16T04:50:15.007Z",
+  "lastUpdated": "2026-08-16T04:50:15.007Z",
+  "generatedAt": "2026-08-16T04:50:15.007Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T04:25:15.700Z"
+      "updatedAt": "2026-08-16T04:50:13.534Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T04:25:15.903Z"
+      "updatedAt": "2026-08-16T04:50:13.734Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T04:25:16.410Z"
+      "updatedAt": "2026-08-16T04:50:14.285Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2p1U3RrcWFybldKeEVnT0l6SjJKWlpCUGlNVXlCd0RseFdVR2g2VVc4emNtTGdfU1Jub1kxQTZpaVZRN3duQUhVYldjaUhVLWhJS2RqcnR5akVlUDF1TlFERHlGUTVvMWxzQWNkQzNDY05vdjBxLThaSmlTX2dzdlVpdkJ6dUlnOVRPZUxOM29Oc0MtWmVHQzE2NzNNdUlnalFDcXhvRURNRFliUWd1RUwzRkw?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 02:09:38 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYldvMHAyS2pRUlBfTWViR3BKVjl4WllDSGVlXzFlaXM5QkZGVlFSQWF2REhQR3J6bDhaWkNUWWtLLUN4c2FHTlZ2OW90UFd3N2gySHIyTnRuSm9HdGpvUmJFZUZxaWtUMjA1eE1GRk1WOWg3VWc1V1FKdmR4RE85SUk1UDRXUEVQUEJFVHRPZ2JRVWlqemJsdXduRGhEdy1tSF96QlhBZnpjclFEZ3E3X2JBdjl6T1NGTDNjMFRSbm55cU5ORl84THI0SS0?oc=5",
-          "pubDate": "Sun, 16 Aug 2026 01:34:00 GMT",
+          "pubDate": "Sun, 16 Aug 2026 01:35:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Six dead in Indiana after storms and floods, emergency officials say​​ - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOHhlVGlwSlk2MHRKV1Nxc284MUd1b19BdEFBVVltSUxEX0p0dUtmUW9tTGpvNEhQWmFKdlZrYjkwd1pQU2RvaHl6RFRRQ0gzbXpLWFoxemRIUHpJeXhUYi1SU1pEVWZWVENlLVRiMHlPeV9YdzZwMjkyLVlxN1I1MmU3SWdreUQ0a3JrM3MyOFJWbjdPV29DbVlYb00xZEJleEppY092ZnFRNUJJb2p5bW1FcEI3Si1v?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 22:35:19 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU82UzByeVFKQzJGdkhlQ0Y0YjkxQk1mZlVYdVMyV3d4TVhLRXJXa19JcU51TUJnZEFoaFpiUkkxT2tuY3hkVUY2Q2xYeU5Bd3ZHVlZlM3dCU09jMXoxR0Ntb0xTZThlREdtS0VMRXFZa3IzdDJEWnhyRE11U3VMbVFkUUs4UXVRQ1hPTU1laDZ4UUhqTmhuc282dXBZN2ExX0pyajFhRnJ0Y2p2MDJTNkhWS2pyWXAw?oc=5",
           "pubDate": "Sat, 15 Aug 2026 19:28:45 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Lebanon says Israeli strikes in south of the country kill at least 11​​​ - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 18:33:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "UK's Burnham urges reflection on death of academic Arday - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGRVd2o3N0NVMl9rek5FaXJmMGVxN0pTcWFyc3lScVRpTE5DQ0hYYmNLaDB3MUY3UHNTcFBlN0ZfbUwyalNMVHFvSWN5eE4tOHVNTHVfWm9jTm03Y3gyUGVpVVpVczRKV3dPdVFob2x3MHE4LUEwSHZFMk11N0lRaTg1ZGxGdUNDZ1IyMFUtWmFITDhIaHNZeDNldTVvZ0tDWWc3VzlxV0dvOW5f?oc=5",
-          "pubDate": "Sat, 15 Aug 2026 18:32:19 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T04:25:16.823Z"
+      "updatedAt": "2026-08-16T04:50:14.734Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-16T04:25:17.001Z"
+      "updatedAt": "2026-08-16T04:50:15.007Z"
     }
   ]
 }
