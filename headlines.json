@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-17T21:25:13.062Z",
-  "lastChecked": "2026-08-17T21:25:13.062Z",
-  "lastUpdated": "2026-08-17T21:25:13.062Z",
-  "generatedAt": "2026-08-17T21:25:13.062Z",
+  "fetchedAt": "2026-08-17T21:48:17.238Z",
+  "lastChecked": "2026-08-17T21:48:17.238Z",
+  "lastUpdated": "2026-08-17T21:48:17.238Z",
+  "generatedAt": "2026-08-17T21:48:17.238Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+          "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 21:43:57 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
           "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
@@ -38,12 +44,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-          "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 17:31:36 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Russia's prominent anti-war politician jailed for 11 years",
           "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 17 Aug 2026 16:17:34 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T21:25:11.739Z"
+      "updatedAt": "2026-08-17T21:48:03.460Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T21:25:11.946Z"
+      "updatedAt": "2026-08-17T21:48:03.579Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-17T21:25:12.406Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-17T21:25:12.856Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T21:25:13.062Z"
+      "updatedAt": "2026-08-17T21:48:17.238Z"
     }
   ]
 }
