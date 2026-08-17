@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-17T15:25:14.287Z",
-  "lastChecked": "2026-08-17T15:25:14.287Z",
-  "lastUpdated": "2026-08-17T15:25:14.287Z",
-  "generatedAt": "2026-08-17T15:25:14.287Z",
+  "fetchedAt": "2026-08-17T15:30:20.359Z",
+  "lastChecked": "2026-08-17T15:30:20.359Z",
+  "lastUpdated": "2026-08-17T15:30:20.359Z",
+  "generatedAt": "2026-08-17T15:30:20.359Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T15:25:12.890Z"
+      "updatedAt": "2026-08-17T15:30:19.071Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T15:25:13.212Z"
+      "updatedAt": "2026-08-17T15:30:19.256Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T15:25:13.652Z"
+      "updatedAt": "2026-08-17T15:30:19.755Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 15:01:40 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Morning Bid: Retail risk - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPajk1QjAyR0JBTks3bnF2MHpaN3JzMkxMVTV6MGxuUnczTmh1ZThHdDBOWVJtaFlaYm4xYXBwc3JBUEVKbzZJUkZaLVlkLTdnQlJ3RU9sTHdqUmlCN3ktX1VDRnhPbHRzUXo5Z052cE5kNTdhUVlnUWVKQy1wVGVFNHRlbnZOQktRSGNKSW9zdEU1SlVRU2tn?oc=5",
@@ -182,12 +188,6 @@
           "title": "US Supreme Court again rebuffs Trump in $5 million E. Jean Carroll case - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFZYVzgyUG8ybXVocm05ZExDWjZvUkpDVDdUUmJGRDZlRVl6dVhUVjNldTUwcVpQblhOcHZJQXA0ZDVrbjNkWUhjSHRUQUtrOGJwWjBDTVlnMjd1T2EtbmlQcHpVdjQ4UGMtWWZxVV9teDk5TUdDYTdYbmZMQVQ1TnZ5SS1ESzVQMzR1ajJpdk4wUVBua1Y3bFNmeG5aOUJVd3l3bGRQTk5oSV9n?oc=5",
           "pubDate": "Mon, 17 Aug 2026 14:52:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 14:44:28 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T15:25:14.087Z"
+      "updatedAt": "2026-08-17T15:30:20.209Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T15:25:14.287Z"
+      "updatedAt": "2026-08-17T15:30:20.359Z"
     }
   ]
 }
