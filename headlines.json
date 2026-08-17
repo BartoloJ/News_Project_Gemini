@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-08-17T11:00:20.703Z",
-  "lastChecked": "2026-08-17T11:00:20.703Z",
-  "lastUpdated": "2026-08-17T11:00:20.703Z",
-  "generatedAt": "2026-08-17T11:00:20.703Z",
+  "fetchedAt": "2026-08-17T11:20:13.304Z",
+  "lastChecked": "2026-08-17T11:20:13.304Z",
+  "lastUpdated": "2026-08-17T11:20:13.304Z",
+  "generatedAt": "2026-08-17T11:20:13.304Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+          "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 11:16:31 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ukrainian strikes kill six in Russia, acting governor says",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 11:14:39 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Top Zambian opposition figures arrested days after presidential vote",
           "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
@@ -17,18 +29,6 @@
           "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
           "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 17 Aug 2026 10:39:24 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ukrainian strikes kill six in Russia, acting governor says",
-          "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 08:47:19 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-          "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 08:43:12 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T11:00:19.309Z"
+      "updatedAt": "2026-08-17T11:20:11.744Z"
     },
     {
       "name": "NPR",
@@ -112,66 +112,72 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T11:00:19.536Z"
+      "updatedAt": "2026-08-17T11:20:12.025Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "title": "MLB | Latest News, Stats, and Scores - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
           "pubDate": "Mon, 17 Aug 2026 10:39:27 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iran war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 09:58:49 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Thousands in Indonesia await aid after quake kills 55, overshadowing Independence Day - AP News",
+          "title": "Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 08:58:00 GMT",
+          "pubDate": "Mon, 17 Aug 2026 10:28:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Kushner sits with Netanyahu to talk Gaza after 2-hour meeting with Hamas - AP News",
+          "title": "Kushner sits with Netanyahu to talk Gaza after 2-hour meeting with Hamas - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVdtaFMtbEtnT0xJcWlmV0lyUVY5TXplSldPSm9JbV91OVNiZEN2cmFibzYzUmhiMjdvdjg0cUpEc2tKd2xQSEZQUllZTGVZXzdZenJZajByZVNjT0hMeHVYZGFoOVJmXzBycGM4ZzYtMHRHcWg3T3hPNFc1RzVQSkRqbFd4S1RuMzc0RjlGQ0pXNEtaNW02bFhjcnNad2FvOFpzaHBPckpYWDQ?oc=5",
           "pubDate": "Mon, 17 Aug 2026 08:48:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Andrew Garfield finds wonder in everyday life in ‘The Magic Faraway Tree’ - AP News",
+          "title": "Andrew Garfield finds wonder in everyday life in ‘The Magic Faraway Tree’ - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTjN4a0ZtdHlqaXlJdGhTRU9nU0NYM1pGQW9keHNMcE9pSlZ6QjYtdENxQm9QcGJTekFlWlVlbVlUNndhOG5ZOFZsZ09tRUplcWlPUGR1MVdIbE5JV2JTNUx1Ul9MNS1Ga3NLV20xdGo5Z0pHY0VrdXVBNU5KM2IzSXplWldVUV90dVMtM0pKVHdCcWVPX3NqSU9B?oc=5",
           "pubDate": "Mon, 17 Aug 2026 08:37:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Hayden Panettiere, who starred in the television series ‘Heroes’ and ‘Nashville,’ dies at 36 - AP News",
+          "title": "Hayden Panettiere, who starred in the television series ‘Heroes’ and ‘Nashville,’ dies at 36 - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0VPOUpJN1VQNnRNNUV3U3dMWHc4TlpzbGNIc2l6OHBvVHVZWXdmc1JrNTVfVFdBemJMZGtRQnVkcUtnZjV4UzZ3UV9PR1o0ZzczSUh1UTh6M3owVC1xWS1NcjNLbmdOeXVwY0RyNmhjNTQxLXF0b2ttV1dCMHpuYS13bWhwQUZlVkE?oc=5",
           "pubDate": "Mon, 17 Aug 2026 07:47:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "A temple stampede and a hotel fire in eastern India kill 14 and injure several - AP News",
+          "title": "A temple stampede and a hotel fire in eastern India kill 14 and injure several - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZUFvLVN2ZzIzTThlcEh1eFdHblhkYTVBZ1RSMElQMnhiREpYM01EbkVBYmZsUHJ3dWJ2aUVOWVZXRklDTlRZNW9CVDdQMHNHWDhOMUM3bndiUmNNWGdKb1RuYzY3UGF5N1o5TUFTVmJjdzlEU0RUS2tRQjNhVmZIdUlQUnd4YmY5RXdNQmFJRE9fbnktRHF6YTAtWQ?oc=5",
           "pubDate": "Mon, 17 Aug 2026 07:40:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "After killing hundreds in boat strikes, US military expands campaign on land in Latin America - AP News",
+          "title": "After killing hundreds in boat strikes, US military expands campaign on land in Latin America - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXJlV1d5UEtlM2FrRmtna0xuN2N4UmpIMkVfQlZkdUNEaFdCYjJGcjgtSHFEdnlFa1ZWV1l0WG1sd1owTW9XYXdzRTJ2WnE1WTJ5aWlmU1FrS2hkTGMwR1M0STZ4S0J3eTJ3cWpJUWhwekgyNXVtZUxoVk9Ua0tSQXo1Q1RUSFM0YVpFUFVZSWNWc2ZWTUpFSjhRLTFTMk9JQ2R1S3oxME1MaDV3ZTBSekU5M0plUGFlZ3Y4?oc=5",
           "pubDate": "Mon, 17 Aug 2026 07:03:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 05:53:22 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T11:00:20.055Z"
+      "updatedAt": "2026-08-17T11:20:12.596Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 10:25:18 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Indonesian mother 'grateful' after emergency birth during 7.7 quake - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPemYtWWlLeUdoc0lYZGdwVzhlRW1DTWJKakt2cHZ3YmFqYVZybnpHNGRwajlqbWZpcXlSaUYwdlFWREVoUkwwYW1HS2FhTUI3MVFHSXV2UVlOcDVjSWtoSEF1bW1PRW1MWXg3TmFERGRSTzNTQXVoNXRnRDNvM1V2Tld5cUhFbVZSY1NRNkxJRmJKLXhwU2IxV2xHX05uOHhsVlk5Um8xWnJ3dVBXclR6YlNNUFBrRUhvZV9tdlRB?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQU1zd0xiWmtwQ3dnX2tSQlRPUjJYMWM2aHpFRkR6UC1uWlVHUWJ6V3FzN0E0TThVSFJtYjlyREVPUDlidHBWbWd6YnBZbnExU0FlTElqMFNKRmRVLXlMeHZobkI0NGl5Y0dTSWlxZ2RpZ1R2N0NDM19aZEI2Y1pob2JlQmNhTGxNX1Zwb2Z6TjhOdUJEdjVHS1VuTUN3WmEtY3BGc0NnMGc1R0tTaDZZVw?oc=5",
           "pubDate": "Mon, 17 Aug 2026 08:58:04 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Ferrari's bespoke Luce EV one-off fetches $40 million at charity auction - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcGlQdG4zOHEyaHJKd3hWS1ZiY1daMmp6NkJrTVFRZU5jVndwelg3WHZxbkFRNjE2M0U2dW5NSTJkWDl3NkJQR3Q0Mm1BdU5aNlM0VGxvd0VTNDI5eVVqRVdyOGdOTWhTR0UwcGpRZU1XUnhmeDdLb3VpRHlhYUNLUUhwZ0RKeVhmeF9lTUhlN2pzRnMtU3g3S1hOd1dha3Z2N0lHUHprNU01Tmg3Tmg5SlVYb3FxRE5VNm9PQlI2aWFoemZYNGJTWFdFbFJhQQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 08:47:44 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T11:00:20.551Z"
+      "updatedAt": "2026-08-17T11:20:13.076Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T11:00:20.703Z"
+      "updatedAt": "2026-08-17T11:20:13.304Z"
     }
   ]
 }
