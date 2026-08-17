@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-17T01:50:31.532Z",
-  "lastChecked": "2026-08-17T01:50:31.532Z",
-  "lastUpdated": "2026-08-17T01:50:31.532Z",
-  "generatedAt": "2026-08-17T01:50:31.532Z",
+  "fetchedAt": "2026-08-17T02:00:39.985Z",
+  "lastChecked": "2026-08-17T02:00:39.985Z",
+  "lastUpdated": "2026-08-17T02:00:39.985Z",
+  "generatedAt": "2026-08-17T02:00:39.985Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Ferrari's first ever electric car sold for record $40m at auction",
+          "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 01:47:33 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
           "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 16 Aug 2026 19:58:14 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-          "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T01:50:16.480Z"
+      "updatedAt": "2026-08-17T02:00:22.972Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T01:50:16.664Z"
+      "updatedAt": "2026-08-17T02:00:23.364Z"
     },
     {
       "name": "AP News",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T01:50:31.532Z"
+      "updatedAt": "2026-08-17T02:00:39.985Z"
     }
   ]
 }
