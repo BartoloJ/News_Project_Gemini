@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-17T20:00:22.401Z",
-  "lastChecked": "2026-08-17T20:00:22.401Z",
-  "lastUpdated": "2026-08-17T20:00:22.401Z",
-  "generatedAt": "2026-08-17T20:00:22.401Z",
+  "fetchedAt": "2026-08-17T20:25:16.764Z",
+  "lastChecked": "2026-08-17T20:25:16.764Z",
+  "lastUpdated": "2026-08-17T20:25:16.764Z",
+  "generatedAt": "2026-08-17T20:25:16.764Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T20:00:20.952Z"
+      "updatedAt": "2026-08-17T20:25:15.438Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Democrat Rep. Jimmy Gomez being investigated over sexual misconduct allegations",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation",
+          "pubDate": "Mon, 17 Aug 2026 15:53:37 -0400",
+          "source": "NPR"
+        },
         {
           "title": "DHS defends investigating agency critics and giving them warning notices",
           "link": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
@@ -87,12 +93,6 @@
           "source": "NPR"
         },
         {
-          "title": "Advocates worry new bans on student IDs will trip up younger voters",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
-          "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
           "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
           "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
@@ -105,28 +105,40 @@
           "source": "NPR"
         },
         {
-          "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+          "title": "Advocates worry new bans on student IDs will trip up younger voters",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
           "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T20:00:21.099Z"
+      "updatedAt": "2026-08-17T20:25:15.674Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump blames vandals for damaged grass in the spot where he held his big July 4 celebration - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1RfM19TUU5waDI1Z1ZzRkdGQVlGdVQzdnRlWmVicXVjM0xMMHFRTjZ3QlVyVnVwSW9fa051bW9xRHRDX2NtaHVDNy13UVY3c1phelZmeWstVDQ5cTd1UEtYR2U0cEMwNE1rRU5sbXphMUIzV0hDYm01TlJURmZtZDM3YmRjdHZzeGRac3NubmVQNDlFUG04eHI2REVWTkFYdk56Mkpn?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 19:17:00 GMT",
+          "title": "Supreme Court again rebuffs Trump’s push to toss out $5 million verdict in E. Jean Carroll case - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWG5pa0EzRGh3aU54bTd2SnphaFFPVTdSY3ZHdzljZU5FUlEyRHRfbGx5aVk2MUpOdURyWjEwVndxMVdIcTROZUdFQWUxaVlBRkpOTk05YjBYNlBUbW9nWllmZkY5RjZkMUlMYS1naHNvdFJCY2dsZmxEODVscVg1YlUzeThJRXBmTXo4X0dEX3Rhc2J5VGNTWVRhVzJHc1Y0eGIxTEFGWG4?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 19:48:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Marathon US-Israel meeting produces optimism but no firm commitment to American plan for Gaza - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVdtaFMtbEtnT0xJcWlmV0lyUVY5TXplSldPSm9JbV91OVNiZEN2cmFibzYzUmhiMjdvdjg0cUpEc2tKd2xQSEZQUllZTGVZXzdZenJZajByZVNjT0hMeHVYZGFoOVJmXzBycGM4ZzYtMHRHcWg3T3hPNFc1RzVQSkRqbFd4S1RuMzc0RjlGQ0pXNEtaNW02bFhjcnNad2FvOFpzaHBPckpYWDQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 19:13:00 GMT",
+          "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur’s 1996 killing in Las Vegas - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWxOby0xS1dZdnhHdmVELUZoaE96a0ZpZUFkR0doR28zUDlnc2JHSGFXZWF5UVROQ3owVWxsTm51UzhNa2tGRzZDQURzRTR2RFF4dzBRYUhDOHk0eXNCbTlwV2ZKNC14TGJiM0xfYXNZaXB5cXhsa1RkUWdKU3lXVmh3b3ZNbkp2Zmx4clBRNUpqa2xtdVpSWGl5R3I?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 19:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 19:33:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump blames vandals for damaged grass in the spot where he held his big July 4 celebration - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1RfM19TUU5waDI1Z1ZzRkdGQVlGdVQzdnRlWmVicXVjM0xMMHFRTjZ3QlVyVnVwSW9fa051bW9xRHRDX2NtaHVDNy13UVY3c1phelZmeWstVDQ5cTd1UEtYR2U0cEMwNE1rRU5sbXphMUIzV0hDYm01TlJURmZtZDM3YmRjdHZzeGRac3NubmVQNDlFUG04eHI2REVWTkFYdk56Mkpn?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 19:17:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,34 +160,34 @@
           "source": "AP News"
         },
         {
-          "title": "Trump administration pauses contentious border construction in Texas' Big Bend National Park - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 18:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Hayden Panettiere tributes include Viola Davis, Selma Blair and Melissa Barrera - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3FmbUdqZHNnQVdmanZ6dTVoNlNtQmFMX2dpYlNodlZPUmQ2T3d4NlpkRllxa1pnMWd4OUpfT29lNE9CbFpVU1FEaWw3RE5IbkdMQmlHbFBnR2Y4bjV3VEFFZnE0aEFTTWtFY3Q2UElManFtQ0pEZXFoZGF6TlBaNmJnOUtSN3BJRTJvMVltaDFET0xoY0ZzZnllaw?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 18:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 18:15:21 GMT",
+          "title": "Palestinian American returns to West Bank to defend his home under siege by Israeli settlers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlZTbzV4R3BNYUhaSzZEMzRXdlhvQkVQZ3pXcWZhbGZXRXV0WFBNODNfN1BWcW9BS3kwOWtOXzB3OTI2a0ZuSHhPOEV0aGRTeHd3Tm83a0U3NEl3YlozMC1MVUZKdjhyOXRiM0U4ZlozQXVJRnF4eXozQm80UTdSMVlWOVVyX09FcjBpMmtCaHdhWEdjaXd1amdSYk1NSllfb09uT0ZQc0RjYWk5cDBBdjRMdDQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 18:49:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T20:00:21.648Z"
+      "updatedAt": "2026-08-17T20:25:16.140Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Apple to change app data consent rules, German regulator says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVnlTREpFM3lfWlRJMHJOTEQtZ2JlWjBycXYyTVA2VXRJcEpyeDJlTFdUWmRQQlZtVHFpMVRBYy1nbXp3MlZ6aFRLOHBPZXZvSThkamZtZmdDTTd6VmxzQTlMZnhLM2lYRFBNNUZNRlkyUlVIUDN2YjB2anRrZlVSMEtwZ3FHS1BQWkFfWm1BV05UMnVKa0FkSzU0Vy1vUVZuT0hsV0hSZkFEY0dSVjc1WmZOdHBrcHBxaEE?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 19:45:49 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Drone targets office of Iraqi Kurdistan's PM, no casualties reported - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1RqUHdlLUdxNkQweWdveHJybEs3OWpDaTFNRUhpWDFsSGd1V1hub0QzaTdNSlA3Sm1oX1I3NmEzNDdXRWx6UHZxUTJ0c0dmd1hUSzFfSnBraG5WVUQ5Y0RvLWlXUnY1Wi1OWnRQdFhISExZWWYyN2N0UUhJdWlMZzE3LUZXMTJrTFUtcmhIZkFmaU9YZGJONkN4NG9WSTByREhvVkpheWE1S2REbVBNcVNvNmNNQzhjVG9qcHRheG9NcnM?oc=5",
           "pubDate": "Mon, 17 Aug 2026 19:43:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 19:36:14 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 19:02:52 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Wall Street indexes slip with Iran, retail results in focus - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
           "pubDate": "Mon, 17 Aug 2026 18:58:56 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 18:50:52 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T20:00:22.109Z"
+      "updatedAt": "2026-08-17T20:25:16.538Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T20:00:22.401Z"
+      "updatedAt": "2026-08-17T20:25:16.764Z"
     }
   ]
 }
