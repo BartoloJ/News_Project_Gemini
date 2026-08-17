@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-17T09:55:26.594Z",
-  "lastChecked": "2026-08-17T09:55:26.594Z",
-  "lastUpdated": "2026-08-17T09:55:26.594Z",
-  "generatedAt": "2026-08-17T09:55:26.594Z",
+  "fetchedAt": "2026-08-17T10:00:19.212Z",
+  "lastChecked": "2026-08-17T10:00:19.212Z",
+  "lastUpdated": "2026-08-17T10:00:19.212Z",
+  "generatedAt": "2026-08-17T10:00:19.212Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T09:55:25.552Z"
+      "updatedAt": "2026-08-17T10:00:17.930Z"
     },
     {
       "name": "NPR",
@@ -112,17 +112,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T09:55:25.695Z"
+      "updatedAt": "2026-08-17T10:00:18.079Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "Iran war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 09:48:47 GMT",
-          "source": "AP News"
-        },
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
@@ -133,6 +127,12 @@
           "title": "Soccer - AP News",
           "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
           "pubDate": "Mon, 17 Aug 2026 09:24:18 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran war - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 08:40:04 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T09:55:26.135Z"
+      "updatedAt": "2026-08-17T10:00:18.597Z"
     },
     {
       "name": "Reuters",
@@ -197,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "China leads wave of clean power wastage as grids globally hit limits - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHg1SThwYTRDMGEtOHFrMEdRdkgtaHJlSTFXb25HWHM3SGQ1czk0SnRPc3NSY05JOEc2VE5kN0NUTUhPdkI5SE9wcUFLQTNwTGZ1MEpNMmROVllLMGhlcEhCRndDMzUwQjNsWGZnRHJOelMyM09CZ1FQNWtVb1lJbWFrTjl1bFVwUEozZVJLT09yd2R5enpVWUNRTGpndVNvMTJIS292N21rVFNHNURjNWx4RjU?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 08:05:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Bollywood stars told to drop surrogate ad in Indian state's food safety drive - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNm1TWHhEVVdIQllJZ3REVGY5a24yd1ZGMHlwNHAwTDE1QUFremdXLTFEZ1R2RW1PZG1FUTNpX2cxdzlCNWJiZjBHNjJ0enBUbl9nZHZBTW16anB0TTJBVWt0aVAxbGxja1lhYUxJRFA3Q3R0MXMzTTI3aC02bW84VXlUbkVQN1BHODhRWFR6a21ZbDZFcXdPSWVYNlhiSXFSSlBaUnM0a054VDdnZS1uU28zcDlxUEZ5UWc?oc=5",
           "pubDate": "Mon, 17 Aug 2026 08:05:29 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPejJSeDRUNDE1NUNwZWRoWlFLR2JXWFpsR0NZbEZrVlZZYVFsSmZFR2lEZ21rUmJxaUlKMl9VY2pJWjM1RXpZbUZ2bGlxQzNrd2QxQkl0SnpxUWZ5LUliVGZKQkExQnRMb0ExZXBPLTVCSV9FRmNhU01BU2t2VHdkRVYxdHZzZXVudndHM3hOX0dERnhkcWEtREZEVUdkdHpDUWhpX3c4SF9ZWkkyYUs5MzRPbzZFQlpwRVBuUGF3QVpfQjVvb3h2TkQ1WEg?oc=5",
           "pubDate": "Mon, 17 Aug 2026 07:14:09 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Rainfall offers new hope in fight against Belgium's biggest wildfire - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSXFOQklWSmxLTG1DQkQxZC1oc2ZVRHhrLWR3U3dzY0lrenQweEV0QTJVeTR2T19FLXhhcDExSFNrcS1tUXNFZXZuSnZld3NYRXBqM0NMZDBSaHd0b2pxdG5pQ1llaVdlc1BkelJneDhuOWVQZTR0VF8xam5ZV0tKQ3dULU9rU3JtVnA2eWtTZUZlSUtYVlhvVzl0VHVkNmprbW9qdlRuWktlbE5Ha0NXTXVHNldxeFNJcXRBTkxn?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 06:56:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T09:55:26.514Z"
+      "updatedAt": "2026-08-17T10:00:19.023Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T09:55:26.594Z"
+      "updatedAt": "2026-08-17T10:00:19.212Z"
     }
   ]
 }
