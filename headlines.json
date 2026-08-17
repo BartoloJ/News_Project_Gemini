@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-17T08:00:22.628Z",
-  "lastChecked": "2026-08-17T08:00:22.628Z",
-  "lastUpdated": "2026-08-17T08:00:22.628Z",
-  "generatedAt": "2026-08-17T08:00:22.628Z",
+  "fetchedAt": "2026-08-17T08:23:27.169Z",
+  "lastChecked": "2026-08-17T08:23:27.169Z",
+  "lastUpdated": "2026-08-17T08:23:27.169Z",
+  "generatedAt": "2026-08-17T08:23:27.169Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T08:00:21.378Z"
+      "updatedAt": "2026-08-17T08:23:25.699Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T08:00:21.565Z"
+      "updatedAt": "2026-08-17T08:23:26.001Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,45 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T08:00:22.037Z"
+      "updatedAt": "2026-08-17T08:23:26.501Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "EXCLUSIVE: Shein eyes company valuation of around $25 billion in Hong Kong IPO, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLUNHYWNOdkFEd2poMFNEQjhMSzdwZjJMZE9tZ1JPbFlVcnlDZGktZ2toNUdqNmQteXJCa3dhVUszUHhlVHhXUDVZd25xYXB1Qk5wVDVvY0wwaEcyNi1JTmp0emswa1ppajQxd0dHSmRaVk5IWlgzam5Xd1hsTlVUUzJqVzJ6Ymt2MjhZSi1RWlNsMFk1dFVrZ1cxRDdBOXM5MmxwZVVzTmhTdDhjUlBMamZEcDU3MTc1ZHdmdWNSTG5UU0lZdGhR?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 07:09:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Taiwan's president says record defence spending an investment in peace - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUhtZ0k5WElRd1ZLNlEtejNuLTZGcXQ0ZXMzRkpVWnk3aFVGaC1GV1EtOWwxQjM5eEdfNm85WGowWGlWQlhSekw2WnV3OXNtV1JRVjdsY2NzcF9HY1VPSDNhcktuV2l3ZWZXaVBNZExsaFN6dGZpcFBBall2MktGME84N2dHbi03WnVqRHRCU1hSMWxOdE5MZE94QnRUTHZWcDBYWFM0MkRqejlUc2xlanlIWQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 06:47:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Myanmar's Min Aung Hlaing heads to Russia for official visit, state media reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSExSQWVmRjh4WXd2YVlVdlRkX2pzRlhXT3I1Vmh6dlRwQTB2ZDhaSVJFcERxWW9LbEhsb0FRczFPYVJzSlFFM0pOUnZFS0I4TXhfbVpVYlVabDEtdElhV3dTRExUbUxMLUlJVTl0MUNKeDdrcXpycmtrUE1XQnc5MHNJUTFUeUpfYWdwZDc4b0FnZUQ0Zm5aQXFrVXJoOWM5YXQ3ZVlqeDFrWGMzYThoVG1yajJHelM0Ykl6eWYwdHpSd1ZjVHc?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 06:42:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "AstraZeneca to discontinue late-stage lung cancer trial for volrustomig - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXVnTkltTjBiMG84WjZvanR3Y0FqM0ZEMW11MWtkZVZLaUdJdDRVN1lwMDZmMkREQllXT1EzZ1hDM2l5dFQ5OVlIWlY0b2hZTDNuLXExRFNYdDdQeGlYdGpvWHZXQjVjSmVZcE43U1ZIMkNoNjlFMVhMbzliZVNnLTZhZjFwU0dCX3NSeEpoQUt6RmxYa3NwX2dET0Jaa3J6eF9WYU93WlpNNEZqRmlieU1aYndONGZZcW1JTEFNVGVlZkluM0FmaUFpUDRfXzMtSXc?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 06:28:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Somalia federal troops and armed opposition clash in Baidoa city - Reuters",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMW5uSlZTUGQtUkI3SzdjVW9jV0pDa0RRY2lEeEJWMDFuZThtZW9Jc2VRTG5NcHRiVWsxVHBjR2FGSF9hSlVLM1pvb1FTTnpJRWJTNURnbHB1eURISWJDREdGOGpRcmRINlRHS1VYMWZCRW5OX1Q3cnNZX045UFRaX3N1Z0JPUm9fUTNhQnFxdm5nM0dfV2doRGdLTWtiRXB4?oc=5",
           "pubDate": "Mon, 17 Aug 2026 06:19:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Alibaba to sell Lingxi Games in more than $2 billion deal, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajRKUDBRNldLY05VNW41RUVRX3c4SXpiZUcxdk1OMnh5NWtVbUlBaG1aNkZMZjVfTGZSbFd1LUliM1dMcmtkSFlFZ2NRc243UnRmaF9QMHY2bzg0cDI3WkZ2ZmpoNGpDeHcyQTRRVkRQcGRyZ01YcVVoT25HUEd3alFkcnd0eDZlTHp1MGtXcDVjXzRVUTNhX3A4OEVpN1ptUzF5YTNac2I5Y1NIQktrd3R6VDNUczVPTmc?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 06:18:00 GMT",
           "source": "Reuters"
         },
         {
@@ -189,40 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRHFHaFRyb1A4VHA4VkZIbzJjUk5MMTViS19zR2pfWFp1b0dacEVlckI0bE9qVUY5X3FIamdodWhhNFdFMEhVTUw5TE9udjB4U3ROLWpIVWFtUVd5eUEybTBmQ3JwbkY4UXJBTG1oTnBQSUZ0TnotQjQ3cUZNWE1NWnBZTTl0QUcySUE4am1UR0V1QUJyMGlJeEk0VWV1X2o3dnhZR3QyZ1JTeXNHNnpOdklWYzRGcnhNWVZmRzY5TlU5Z0hYSUViLXN3?oc=5",
           "pubDate": "Mon, 17 Aug 2026 06:05:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Emerging markets march out of 'valley of tears' as investors diversify - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnd0RVpValp4eGxvUHVzNGN2WFFiaDNlVERObGN6QVRER1lPdGxLYUNuakFvNFFBTi0zVWVHSUJOWEZadzVPdkR0T2Z2YnBRaGtDTC1Bc3A4MmRlMDRUQzh0TnRGOXk0eDBrTXBYRGtKSWF6OVd2OTRwbzQ4VmFNMXNCOVBSNmo5ZGs0WVRxbTNWb2dqRnFmRGMzTWZncExkVGFGRjlaNk4xdldVa25hMkNB?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 06:04:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Big investors hunt for tomorrow's AI winners as capex angst fades - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3JiYWhkcERDWi1MTllqMVduaUtTMjdkRU1GWkRKQldPbnlGR2lSenNfTmM1dmMxX1djUmQ1RFpLcHZnbFVvc3hjelp1SVROaWxReFFSREIxd0UxTGx3dDF3MUpZeGN3bWFydFZxXzNFdldtUWo5MnhEN0phclg5U0JUbk1uVlYyZDhQYzJHMEdmb0cyODBwY1BycHdGMm9WdmN0bg?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 05:01:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bain-backed Dhoot Transmission jumps in India debut, valued at $2.5 billion - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVNwVlNlUnA5TExDNlQ2WlJkeFp4dlNTTm9lcHRxcnlrM1dNeVNyQzNZQmg4OTlmMGNDamNvQnF5YjVfY2t4Q2hvU3NCM3pkbVVDSXpHaXlsdXUxZWd6djBEbnFoUjRreVUwNWxpaG9YMTlhYV9fYk1fQUJuZzRsTVo4bGc5WHd0bzBZWGlkN29GaWJQby13dFpPWFFJakhVWVJ0ajQteXdORy1WRlNmMUdJNkI?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 04:22:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Myanmar confirms nearly 309,000 Rohingya in Bangladesh, says security issues delaying repatriation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkJmMlhqYzFHSXozTjNGVU1iU3JQUUtzdnRwMFZFZkhlLVVieWFxejVmclk1aGpKbVJ2bDdXdUdLU0MzcHFhQnM5ZHZsRUgzX2h3UHRiYnpjeWlJMHV0UUVSWkF6ZVA3dVJlYkoyWDQ5Q01IekZqTEEwZnR2MXNZN1J5dDRKU2ZuVFNkNERiejdmM2VOUGZheEMxVFIxWDZBOHgtb2hZVzBjZGpCZ1hoQjVVQmRtemEySEtjbHpqTjM5d2F0R0FEMHZWSmxIV1Jr?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 04:00:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India lets renewable power producers pay to keep grid connectivity after delays - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZm1XMEhVNWZ3Q0p4Ty1qWjJKOVluTFNTbHBOVU1RZG5tTVZWM2F1NHpZa3JBYlBjY1Z6ejVmaVAtaHFqVmlLZHhmS2J4ZTJDZUZ4U0VUVEJvTDBHU1g0S0dMcXBPT19yWHFpVWc0Zm1kLVdWbktta2h3R1NFekx0WFZ4dXR3UjBvb1plT0E2c2lkSmFJUU84U0tTc084RVBfM2lfNlNqX1ZPOUdRdDVqWWtXdGxYaVZiMlltSlA2dkUtdHZvUzVj?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 03:53:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T08:00:22.514Z"
+      "updatedAt": "2026-08-17T08:23:26.940Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T08:00:22.628Z"
+      "updatedAt": "2026-08-17T08:23:27.169Z"
     }
   ]
 }
