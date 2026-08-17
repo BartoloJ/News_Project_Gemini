@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-17T10:25:36.317Z",
-  "lastChecked": "2026-08-17T10:25:36.317Z",
-  "lastUpdated": "2026-08-17T10:25:36.317Z",
-  "generatedAt": "2026-08-17T10:25:36.317Z",
+  "fetchedAt": "2026-08-17T10:50:20.179Z",
+  "lastChecked": "2026-08-17T10:50:20.179Z",
+  "lastUpdated": "2026-08-17T10:50:20.179Z",
+  "generatedAt": "2026-08-17T10:50:20.179Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+          "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 17 Aug 2026 10:39:24 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Top Zambian opposition figures arrested days after presidential vote",
           "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
           "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 17 Aug 2026 08:43:12 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-          "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 08:38:41 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T10:25:35.139Z"
+      "updatedAt": "2026-08-17T10:50:18.794Z"
     },
     {
       "name": "NPR",
@@ -112,27 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T10:25:35.323Z"
+      "updatedAt": "2026-08-17T10:50:19.099Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 09:36:16 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Soccer - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 09:24:18 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Iran war - AP News",
           "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 09:07:06 GMT",
+          "pubDate": "Mon, 17 Aug 2026 10:44:28 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 10:39:27 GMT",
           "source": "AP News"
         },
         {
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0VPOUpJN1VQNnRNNUV3U3dMWHc4TlpzbGNIc2l6OHBvVHVZWXdmc1JrNTVfVFdBemJMZGtRQnVkcUtnZjV4UzZ3UV9PR1o0ZzczSUh1UTh6M3owVC1xWS1NcjNLbmdOeXVwY0RyNmhjNTQxLXF0b2ttV1dCMHpuYS13bWhwQUZlVkE?oc=5",
           "pubDate": "Mon, 17 Aug 2026 07:47:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "A temple stampede and a hotel fire in eastern India kill 14 and injure several - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZUFvLVN2ZzIzTThlcEh1eFdHblhkYTVBZ1RSMElQMnhiREpYM01EbkVBYmZsUHJ3dWJ2aUVOWVZXRklDTlRZNW9CVDdQMHNHWDhOMUM3bndiUmNNWGdKb1RuYzY3UGF5N1o5TUFTVmJjdzlEU0RUS2tRQjNhVmZIdUlQUnd4YmY5RXdNQmFJRE9fbnktRHF6YTAtWQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 07:40:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T10:25:35.790Z"
+      "updatedAt": "2026-08-17T10:50:19.536Z"
     },
     {
       "name": "Reuters",
@@ -175,7 +175,13 @@
         {
           "title": "EXCLUSIVE: Shein eyes company valuation of around $25 billion in Hong Kong IPO, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLUNHYWNOdkFEd2poMFNEQjhMSzdwZjJMZE9tZ1JPbFlVcnlDZGktZ2toNUdqNmQteXJCa3dhVUszUHhlVHhXUDVZd25xYXB1Qk5wVDVvY0wwaEcyNi1JTmp0emswa1ppajQxd0dHSmRaVk5IWlgzam5Xd1hsTlVUUzJqVzJ6Ymt2MjhZSi1RWlNsMFk1dFVrZ1cxRDdBOXM5MmxwZVVzTmhTdDhjUlBMamZEcDU3MTc1ZHdmdWNSTG5UU0lZdGhR?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 09:26:48 GMT",
+          "pubDate": "Mon, 17 Aug 2026 10:12:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China surprises oil markets again with a return to stockpiling in July - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 10:07:32 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "China's recovery sputters as consumption, output lose steam - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQU1zd0xiWmtwQ3dnX2tSQlRPUjJYMWM2aHpFRkR6UC1uWlVHUWJ6V3FzN0E0TThVSFJtYjlyREVPUDlidHBWbWd6YnBZbnExU0FlTElqMFNKRmRVLXlMeHZobkI0NGl5Y0dTSWlxZ2RpZ1R2N0NDM19aZEI2Y1pob2JlQmNhTGxNX1Zwb2Z6TjhOdUJEdjVHS1VuTUN3WmEtY3BGc0NnMGc1R0tTaDZZVw?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 08:58:04 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Ferrari's bespoke Luce EV one-off fetches $40 million at charity auction - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcGlQdG4zOHEyaHJKd3hWS1ZiY1daMmp6NkJrTVFRZU5jVndwelg3WHZxbkFRNjE2M0U2dW5NSTJkWDl3NkJQR3Q0Mm1BdU5aNlM0VGxvd0VTNDI5eVVqRVdyOGdOTWhTR0UwcGpRZU1XUnhmeDdLb3VpRHlhYUNLUUhwZ0RKeVhmeF9lTUhlN2pzRnMtU3g3S1hOd1dha3Z2N0lHUHprNU01Tmg3Tmg5SlVYb3FxRE5VNm9PQlI2aWFoemZYNGJTWFdFbFJhQQ?oc=5",
           "pubDate": "Mon, 17 Aug 2026 08:47:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "China's economy loses steam as consumption, output miss forecasts - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQU1zd0xiWmtwQ3dnX2tSQlRPUjJYMWM2aHpFRkR6UC1uWlVHUWJ6V3FzN0E0TThVSFJtYjlyREVPUDlidHBWbWd6YnBZbnExU0FlTElqMFNKRmRVLXlMeHZobkI0NGl5Y0dTSWlxZ2RpZ1R2N0NDM19aZEI2Y1pob2JlQmNhTGxNX1Zwb2Z6TjhOdUJEdjVHS1VuTUN3WmEtY3BGc0NnMGc1R0tTaDZZVw?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 08:32:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "German drone maker Helsing enlists Rakuten to broker Japan military deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1NqcVAwOXE2NjV6OTJXNG9nYmRUSUc0X2VYeDczazZ1WWNWT2h5ZkdrbEY1MnpMaUt6cW1PT3FhRFlCeG80aGVjLXZ2RGtLcldFcmtrenZFMWNxa19wVlBsZUpSTFdpZDY3TzNZM1FoZ0Fna1lFTkVaaWR6eXM1aU94aS1BRXRMWHNRTU9VTmozOTlXNDllS3U2bFZOYWV1VDFtTEx3WUljUjIyS1YzbFIxaTZDZnpveEJGNDV2cWw4cWR4RGNOdU1B?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 08:28:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russia hits Ukraine's Izmail and Odesa ports in overnight strikes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQekhiZmU2R25wNEdOZHBZY2FaMHZ5UXpKQjZEdGtMU0dTTV9nWHY1N3hzMFFjVXlaY1Uwd3lLa3F0bkxabEphWE1ldmcteHJpeHpNSGJqb1VxRnlnX1UxaklMUWlHOHNXeDJNVnIxNVFYMV9vWHhnaHp0UnQ1U3JzUUNBZmdzMWpwWFIyZ3lQZVFSWE5mWEZwNWRzQkR1Y0VN?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 08:18:54 GMT",
+          "title": "China new home prices stagnant in July as demand stays weak - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNEJMaGRKWnMtQ2laZ1AyZmtwREVwZDQ2cDBNUkktdlN2dDhxcjh3Z3B2dDhwVGF3U1N0N21hMzhMVWotUllGYkJyME5ZWWhOZFQ2MUhxbXdReURJM05XSlFkVUlyMWRPUERrZ1BaZ3FhZkU5Z3ZxNU1CTjdIYXZzamZtSks5OU1MUFRsSEctdW84U0s0VHR2cVlXMk1pQQ?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 08:33:27 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T10:25:36.206Z"
+      "updatedAt": "2026-08-17T10:50:19.983Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-17T10:25:36.317Z"
+      "updatedAt": "2026-08-17T10:50:20.179Z"
     }
   ]
 }
