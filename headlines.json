@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-18T20:19:26.564Z",
-  "lastChecked": "2026-08-18T20:19:26.564Z",
-  "lastUpdated": "2026-08-18T20:19:26.564Z",
-  "generatedAt": "2026-08-18T20:19:26.564Z",
+  "fetchedAt": "2026-08-18T20:25:16.837Z",
+  "lastChecked": "2026-08-18T20:25:16.837Z",
+  "lastUpdated": "2026-08-18T20:25:16.837Z",
+  "generatedAt": "2026-08-18T20:25:16.837Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US announces new sanctions on top ICC figures",
+          "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 18 Aug 2026 20:21:49 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Man in Chucky-style mask terrorises Philadelphia residents",
           "link": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Judge swapped in Trump's defamation case against BBC",
           "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 18 Aug 2026 19:52:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "US announces new sanctions on top ICC figures",
-          "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 18 Aug 2026 19:18:30 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T20:19:25.130Z"
+      "updatedAt": "2026-08-18T20:25:15.656Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T20:19:25.330Z"
+      "updatedAt": "2026-08-18T20:25:15.735Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T20:19:25.819Z"
+      "updatedAt": "2026-08-18T20:25:16.197Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T20:19:26.325Z"
+      "updatedAt": "2026-08-18T20:25:16.635Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T20:19:26.564Z"
+      "updatedAt": "2026-08-18T20:25:16.837Z"
     }
   ]
 }
