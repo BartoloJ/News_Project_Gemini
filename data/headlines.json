@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-18T05:25:14.328Z",
-  "lastChecked": "2026-08-18T05:25:14.328Z",
-  "lastUpdated": "2026-08-18T05:25:14.328Z",
-  "generatedAt": "2026-08-18T05:25:14.328Z",
+  "fetchedAt": "2026-08-18T05:50:16.110Z",
+  "lastChecked": "2026-08-18T05:50:16.110Z",
+  "lastUpdated": "2026-08-18T05:50:16.110Z",
+  "generatedAt": "2026-08-18T05:50:16.110Z",
   "sources": [
     {
       "name": "BBC News",
@@ -38,6 +38,12 @@
           "source": "BBC News"
         },
         {
+          "title": "Watch: What we learned from opening statements in Tupac murder trial",
+          "link": "https://www.bbc.co.uk/news/videos/cevmw1pl9kvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 18 Aug 2026 04:05:05 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "BBC breaks down Trump's latest shift on North and South Korea",
           "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 17 Aug 2026 23:42:38 GMT",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 17 Aug 2026 23:28:54 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Norway's king admitted to hospital and put on sick leave",
-          "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 17 Aug 2026 21:34:26 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T05:25:13.050Z"
+      "updatedAt": "2026-08-18T05:50:14.990Z"
     },
     {
       "name": "NPR",
@@ -105,22 +105,52 @@
           "source": "NPR"
         },
         {
-          "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
+          "title": "Advocates worry new bans on student IDs will trip up younger voters",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
           "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T05:25:13.240Z"
+      "updatedAt": "2026-08-18T05:50:15.151Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur’s 1996 killing in Las Vegas - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWxOby0xS1dZdnhHdmVELUZoaE96a0ZpZUFkR0doR28zUDlnc2JHSGFXZWF5UVROQ3owVWxsTm51UzhNa2tGRzZDQURzRTR2RFF4dzBRYUhDOHk0eXNCbTlwV2ZKNC14TGJiM0xfYXNZaXB5cXhsa1RkUWdKU3lXVmh3b3ZNbkp2Zmx4clBRNUpqa2xtdVpSWGl5R3I?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 04:46:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 04:19:35 GMT",
+          "pubDate": "Tue, 18 Aug 2026 04:32:31 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Donor fatigue guts demining in Asia, as active conflicts draw away funding - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUowYzlFbGRNd2VUcXVBUW5vYUZMdU1sUUN1bmExdkpFdHctQVZLVU45M2ZXMTFZMktnQmZqdFd6ZkE4QkNyODBfNzBiWU5mMVRHTUFNNmRsZWF0VVFUR0wxUUpaV1M1bjU0RnNJVnJJR2hVZUFvdjhjaDFKbi1WQkJFNEUwai1iSnV4OEVTeTJveWdpVHZtQk54QQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 04:21:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Student shooter kills classmate and himself at a Philippine school, mayor says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWJhMlJZekdIMG1VYmt2ZU5DZUR6N0RsR1BIekJsbXpJMzlSZDRBVmduRXd2RDVvY3MwbkljSVBzNTJLbGNuTnBiNGI1ZWw2Mm1EemJaRVEyTzF6ZHd6amplRG1mWGdUNnktMWRadkctM0gyajVVNk9oQVlmU3IxTmNESlNRRXBOV2JvMUxOOFc2ZmRDYld1OWxoSFF5QQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 04:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A physics graduate, a soccer player, a teen who couldn't swim: They died in the Ceuta migrant surge - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVJDOVh4ZWJVd1d2LXJPVE5OVTN1bWhpUDFkbWFaQjVTQUg0X3pZVzMtazBIMWNFVUVzXzZMelhfV3hia2NEY25sNGVOQjlQaEpIOWM2eWxTTnRwWEtmSlViQXlWczZFZHNTN3ZleTdSMjljTk83Mk1POXdpVUNvRTJhME9tVHhjNkdwS3JMd01ocWF5RjFxR0drS2RKQQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 04:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Florida holds primaries for governor and Congress, testing Trump’s grip on adopted state - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTFETUJQZkVvNDNDajRVdEhmQktncnJKN0Rqa2o3U3ZZSDhzSTRKVV84YkwtOEx3Q0pDRHQ0cHEtYmhOcDQwTkVTOXdHWkpIVWZxenE5cDZOaFFxOXdwczcyU0JXR1A0cmhfWGx5cms4NU10bUV4a2l2ckZ0dmVMdVRyMjIzX3puVjlxRnJNZTZJWnJpb1h2R1ZUaTlhRW9OMWg4WVlOZTNVNnVl?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 04:04:00 GMT",
           "source": "AP News"
         },
         {
@@ -134,48 +164,30 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQk85aFc5OVpMc3pHdWFaS2xjYzQyUmJhRVdQd2ZVc1dIZGY2Szd3b0V0bEdUOG02RnZ4VDV1cnllejNQM203bmkxcG5sS3BYSHlMVXg3ZGNNUldOWVgyOHBHTDlQOFJlS2VGWmlLQmJib0VXM2czT3BQTDAwc05JQnZ1RjFEdG5ORWE2TXBhYVc5MXNOSUs0YU52UUF1eDBaS1Zhc0JB?oc=5",
           "pubDate": "Tue, 18 Aug 2026 03:24:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A detainee’s death revives Syria’s memories of torture and abuse in prisons - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWJrRXYtV0EteXNFbE9UZml0T1N5bkVNQ1AzTnRfQWZVNG1SODJxNU02TGh1cjhqc3JWVmtSamNLU3Nnamc5NkVWNGFIdlExLTJZQk5NQXFrRG84MlpDNThCdEoxbE1BUFY5Si0wa3dFeUVLR3prcWZGWlVzN1hJblF6UEdCYlZHUVhuM3JBWUwzNm5qanpyZmRqVnVpQ2duMlRQbGt1UEVrWnRa?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 03:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Student shot a classmate to death then killed himself at school in southern Philippines, mayor says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWJhMlJZekdIMG1VYmt2ZU5DZUR6N0RsR1BIekJsbXpJMzlSZDRBVmduRXd2RDVvY3MwbkljSVBzNTJLbGNuTnBiNGI1ZWw2Mm1EemJaRVEyTzF6ZHd6amplRG1mWGdUNnktMWRadkctM0gyajVVNk9oQVlmU3IxTmNESlNRRXBOV2JvMUxOOFc2ZmRDYld1OWxoSFF5QQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 02:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 02:32:02 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Palestinian American returns to West Bank to defend his home under siege by Israeli settlers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlZTbzV4R3BNYUhaSzZEMzRXdlhvQkVQZ3pXcWZhbGZXRXV0WFBNODNfN1BWcW9BS3kwOWtOXzB3OTI2a0ZuSHhPOEV0aGRTeHd3Tm83a0U3NEl3YlozMC1MVUZKdjhyOXRiM0U4ZlozQXVJRnF4eXozQm80UTdSMVlWOVVyX09FcjBpMmtCaHdhWEdjaXd1amdSYk1NSllfb09uT0ZQc0RjYWk5cDBBdjRMdDQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 02:29:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Zambia President Hichilema has been reelected for a second term - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTljaDVkWTQ1SEl5NHQ3aml4RFNQWGtqQU1aeXl0U0RveTBadTlOaUZERVZYc3R3bDFaU2NDaGxaQ2VqUlVXNEZZRTNBREFfazNzLXdQZDcxMTJoa25rcE55QmNLU2pOa0hPbzdBbU1jNHpkUlpWQVZrd0RaaTd0eUE2RzYwaWNTNVdqNXlXNk40S2VDNjdQTg?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 01:52:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T05:25:13.691Z"
+      "updatedAt": "2026-08-18T05:50:15.581Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45TkUySkxRRHMtX3JyMWRJOUFZbjZwMkFiTG1wRlctaWNpZXJXOFppdHlPTjBTT2ptNHJqOFRTRjdDOWUtNzZfY0tQVllfaFlxd3dJRWxncnFrcGdLR0xQVFVmLS1tUmFLYklQbzc3UF9wVmltRkdrcUpUbGNYeVU?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 04:37:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdC1DbUtnYVo3NzVqcVBVR3FXcm1WQXBOWHI2b1d0SG5NOG1wS25jdjJJeUx3NFc0Ym13OTlZTzl5Q1hnR3dVWFpuTkF6cVlic0NNdXJDWHBIcGZlRVRLWUtJclYybUxvNTJ5RWFDZjJOaGR2aGFrS21Ibzg3b1FudnZjVkZTQV9ra2ZmMnNZNGZWWGdDZXpxUmpoMXEybC1oMjd2T3RYVjJwZ3NacE9XcERRWEZhcHZtbVE1VmhsaDNiWkhlV2hyei1QZ3c?oc=5",
           "pubDate": "Tue, 18 Aug 2026 03:29:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Indian shares dip as oil tops $91, US-Iran ceasefire expires - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcmdBR0dqOUx3OEJLUy1ZbDhBWFo2S2M1STJjYXk5cUlNZW1MTFlLdkhDc3FNOEhBYjVabjF3SE5QUE5ERnBPQWw1dTVLb0V2WDc5bDM4MURRc1FSVWJfMnFIT0doSDFMZHV1bTQxbU9tX3BrenFsdUhHSDBSQ2NnVll5OFBVTUN5M0dhS2psTlQ3MXIzSWptYm5OM0RrWWlpU0h2b2VKUUxkaEdqT2Fyc2VwVFA?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 02:21:00 GMT",
           "source": "Reuters"
         },
         {
@@ -185,7 +197,7 @@
           "source": "Reuters"
         },
         {
-          "title": "Dollar feeble as rate hike bets dwindle, Iran war worries grow - Reuters",
+          "title": "Dollar feeble as rate hike bets dwindle, Iran war worries jolt bonds - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclBwalB5bkFIQVRLaXc3bHdrSFEteXF1NllCaTVjU08zRnlNckhhSzlvT3lOQ1FpNTZhQzh1VFVBVjJzaVc3Wkd4WXhVcURZV1BtUGttNEdRUS1RNkxQYU1jNHptUGgtMEhaVGNQdkRLTVl4bnNTeDJHMG9pYkV0dld0OXVDT0ZERHV1eGM0WGw1VVlEeFVIWElYNFlCRUtBd1ItU2tCcXNheWs?oc=5",
           "pubDate": "Tue, 18 Aug 2026 01:51:00 GMT",
           "source": "Reuters"
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
           "pubDate": "Tue, 18 Aug 2026 01:14:24 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Oil climbs as fading US-Iran peace hopes raise supply risks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWFFMnZIN09zQ01kSjJtOWZDTzJHTk1xazNXM09aamwwLTBjeVRhc3VodGhQNWI4UlFaUFdEaFhNNDhFRzR6emlja2xYSTRhaHdFYzQwcnBWZnpkckpXSU5qUkFWZ0UyS0xzZ0lFbHdQRTFkWHJYY1JLM3gydXlKTllCLUFkclJiTEFTcFNOMTdEME95ekVaUHRtZmgwTmVDSWQzeHVodGtGNHkx?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 01:13:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Gold slips on firmer Treasury yields, oil prices; Fed minutes in focus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG9XMjZPS3g0am1fSnhSbndBTlUwbkxHN0FJanR5OFRlZUgwUzZPVjRxcnVGQjUtdmdnYVU5a0xNYXhFcGJNY0t2SlVvTHg3QW1yVFQyRTEyckdHU1hhTFhDRWwyMzZBeTQ0alMxUmJ1TmQ4bVp4aXFNdGljOVJ5WVRNbEptdWZqaVJPVFkydVNQYTBrRmRZMU5PLWZ0cW5qbFp3cTUwOVA1b1FpRnBBMlF2QXRFdw?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 01:05:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T05:25:14.085Z"
+      "updatedAt": "2026-08-18T05:50:15.959Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T05:25:14.328Z"
+      "updatedAt": "2026-08-18T05:50:16.110Z"
     }
   ]
 }
