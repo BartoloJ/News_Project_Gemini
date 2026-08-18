@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-18T14:06:37.516Z",
-  "lastChecked": "2026-08-18T14:06:37.516Z",
-  "lastUpdated": "2026-08-18T14:06:37.516Z",
-  "generatedAt": "2026-08-18T14:06:37.516Z",
+  "fetchedAt": "2026-08-18T14:25:16.421Z",
+  "lastChecked": "2026-08-18T14:25:16.421Z",
+  "lastUpdated": "2026-08-18T14:25:16.421Z",
+  "generatedAt": "2026-08-18T14:25:16.421Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T14:06:36.187Z"
+      "updatedAt": "2026-08-18T14:25:15.101Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T14:06:36.497Z"
+      "updatedAt": "2026-08-18T14:25:15.310Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Small projects lift Home Depot quarterly sales, but outlook unchanged in a slumping housing market - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeFdjb3hCa2tnUnVJdWh0YWc2RWxIaUZQc2ZTTTJBV21TLWp2cDk3UkpId000ajBrU3UtaVZZNGNYYnFGaDdreVh4NXlrTWcwcHd0emZENG1lV2JCMzFzd09nQkVVc3lHRUpFZXJNVzJsT1BFMFA5cU5XVVdjLU9tZ3pWUmtoOTFWNGFfMUhpOS0?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 13:58:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Disney sues FCC over challenge to broadcast licenses, claiming retaliation over ‘Jimmy Kimmel’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSEJxYzZGcE9BeXJrMlBxNVAxNWNDdHlvbERwd3l1eWhDVUdsWEZXMlNsc09OTTBQVU5mMWpOMmNVTkhsaUEwOUdUQmVlLXZCQjFIMDZzMGlxdEFGM2VXNTFrbUxKdC1OTkY1T3pGRGlxSjJDWTJmczhHM1pZbldta3MwdG03OVNTNTQzY0hrR2ZDRkE?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 13:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "AI stocks pull Wall Street further from its record as bond yields keep rising - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajRMMnNScjR5Tk1jNTZNZ1loMVctaUFVWWtjNHZhRGZzTWNvQWkzalRDZ1pNVjFjRGd5RVZyRTJ5dkVVOVpmVEVlczg0d2NWOTQtYTlyTnBLTlJTZ2FFVnNhTm1BNll2bGRWTGF2c3JCZHNpRlBudFFrNEJlUTVJVVI5b1d6T29pRDNhNEpMYVd6RVRVX3VZ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 13:37:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Ukraine aims a drone blitz at Moscow as Russian missiles kill 10 in a Ukrainian village - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWNZbnhPNkw5SFowb3FVbzZYN2VIbThFU0ZnckM0eHdHSmdwanEwbHM4eGxLN1Z4bnBoeFZhS2dBNGNWTHFZNjBVWTN6ZGRuRm4yZ3VwalBPTFJ3dUhiQnd2TE5BZkhLMW9vd2pWam5DcmdVOUpCR3JObnN1YV9nMUJBcngya1RvQkRVRXRYUjdqLWFaYllkSTFHbDQwUTA?oc=5",
@@ -146,36 +164,42 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWhfS2YxWEZCcDBpZ3EyYTc4YUt5alNaWmNZcWUxT2pZMlZUZ21rYmhZZU9vVHd6VkxfLTZCN0pSVWVwOHZCclc3TXJzUXRueDBVNmZfNzBnNV9UaTd1ZXJtZXYyTGpXa2Z3RXZFXzhqZFZlR2M4NUVGWDFDNjZZak5VZGpTVlZOWHRWaThTZkhXcWE3anZmcFdweFp1b0E5MG9PRQ?oc=5",
           "pubDate": "Tue, 18 Aug 2026 11:59:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Turkey’s Erdogan signs law offering conditional pardon for thousands of PKK militants - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRi1pN19Oa3hDdmhQNTUyNjM4blhLTVZ6a1UwUkE4VVFncFNDaV81SFROQlZwYU9XbTlXdlQ2X0hZM2s5c0s5emtNSkFyZVMtM2ZaQXVWcmc1SXBGMWRWdDZfdTlzaEVBOElhbHZIcFlVS1lhQm14Qk15MmtMMjFuRkdTRXNhSW1nbFBJbmI3VUZHQzBLUzNiVVhUYURzYnZrV0lNb0pOcw?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 11:55:08 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ship attacked during Strait of Hormuz transit and other news from the Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 11:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "AP Interview: Klaveness slams Infantino's FIFA for firing top executive in 'management by fear' - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPekZEOW9fX3NfOGlUWlp4clkyWG53WEZXSGlOS2c3U2lOMGNwRHkzcVQ5RVUtQWUwUjAweS0wTWVfUXRfSFVaUkY2QW5TTWlpUWJrdXNEWUdQWHdrSHBjRDRtd1lFLTdoUkpkUmQ1b0wzT3Y0T2dKM3hIbkNKVTV1NV9ScUhHVkVHN2J3T0ZmWEIzR1pWWXR3SFhlSmlaUUE?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 11:35:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T14:06:36.960Z"
+      "updatedAt": "2026-08-18T14:25:15.839Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Why states fought to present a united case against Meta over youth social media harms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX3FHbXBtZHEzMmxmanl0Vm5UUTIyNWxXNHlRQk5TYUgyUWhzVVRFUURSb1BiMXpYZGRFZ2o1MDNLRzlQcXhReUVicFp6QjQ4REVmcjlMRG1uT3dtT3RLc0oxX1JSaTAyWXdjcjEtYldWd05CT252S2ZBRXlaNDA3dlFSNUF2U21xZ0U5dUJpZ2NxQ3NSQ3hlWlUyVmR2Q1BJdGY1YXNQX0dHUjBQaWZsTTBlczZ1QU9QWko0LVlrdU1oVTEydm5KTkdfRy1LUQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 14:06:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "German court convicts Ukrainian man over parcel bomb plot tied to Russia - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWTA5cTRMSTlhWmVOcXVYSkM0ZjlhVm1tekxvdFpJUXpmdG84NFRPR1NWVTEtbXJ4LTAxYTVySnNrMWthT2RuR1BIc3MyVU5PQ1laMFB1czI0bFM5LXA2Q082dDlyWHd2R3lTMS1kbVE2RGFLNU9jUkE0RmZmTjlxaWo2MWljaTMtV0ZudzRSMmlBWGNWR01EZTRUdExGdEhxUFBsY1czREE0ZlZWNnpSMWp4SWh5MFlna1E?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 13:55:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Home Depot rides steady repair demand as housing market remains subdued - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVdMcEhkcnJzbFZqMVltVktiV0pJY3V1U3lvVU12QmZ6czlVQ0dUYTYtM2ltYk9ELTlEWkUwbDBpZGdfQ0xhLTlOaEhGaHlGUEpzZHhjdDlRcFlIWk9KZEdNTXhvYWVKb1ZFNVloX3Y4VzFGcWM2WWVsS09DWWhGaGxSVjVmUnI2VnZoNmRTWElneXJZSnJIcXg5QUVpN0J1N3kzQWNNQlVXdTF0WHd3cHROUjA4V3RqUl90RFV3OVZqdw?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 13:39:34 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "As US debt mounts, investors demand higher returns to lend - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2N3OE9HMThkbnY4eXR1VEk1YVJrS1RweUhhclM5RDBvOU1XT0xFeDlDV0JnT3huQU85V1NBXzRQWFpYalY4X01uaXNUWXhxb1lhU0ZhMlB2QWFLeHNDT25fQ1BuNVNvaDZqWTJBUGJ5ZlNiWnZuaXQ3OW9RYWlLV0ViLVJlOWRPWDBCOTd5ZXBYaXpFTXRHWGRLMHZCXzRqT2dvMXJCT2JBdUk?oc=5",
           "pubDate": "Tue, 18 Aug 2026 13:37:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Einride forecasts faster growth, adds 500 Tesla Semi trucks to fleet - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQejZ4TmhsY1IxWFBZZDJBb3ZJSUhBU2w5ejNOZ3dEU252d1VCVldZWmg5LW83UDZCRUZENlp0MVF3LU1abXJGRjkwN2xVU1VmaHZJUkU5bElVbmtrRTRiSVRFb3BLc1p4akhOZXhrNW8xWm4zaHkxZkd4SVo2ZlYzUllVMHJmLVR2dmlqQ25FNlNoRExvVTQ4ZThDSEU0RTBsVGdqbndaanFObTFhY0dHckIxTjhiV3k2cks0UnlOel9iemthamc?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 13:37:35 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "PODCAST: Bonds come back to bite - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFVBN2hqVUQ2M0M1YnBZVlBuMmFjNXVaODU1UHZkakJMZVlUODQtOHRmUXFkRUFNdHdRc2d5SlQ2YkZPeWxKRmVuY3dQZXBYR25TTURiS2Jfc0JGWjlieVRrZ2hPRHNabFNEZ3JtMG9JUlk3Y0p1ODNIS3Q0MUVrR1FwU2hkcDNiaGxIenNR?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 13:35:10 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Disney, ABC sue US regulator over threats to broadcast licenses - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWFmU3N3RHJWbjB4WTNlbTZ5SlRXYmZhWlUwR1lLRF9PUmFSOGNIM1Ezc20yallrbjI5ejdISlRhWENfV3ZmbUwwYnY3ZVBhVjhFYjhmT1lGUWxTRGJUd1ZMc05YaTE0UjlTU2h3Z1RDeC13T1A1Sl92TDJ3bjM0Yy12YlZqMkQ2T0loNnRjY3RqN0RxWXJPdUZkcURSN29RcDZj?oc=5",
           "pubDate": "Tue, 18 Aug 2026 13:07:29 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGZFRmk3eFl2TkpCVERjbnZWVzQxblROOXAtU1QzWjladlllUk8ySUxFQ0lYWVlld21JMF8xampzYWRyQktLd0xFbFl5VEJkNGxCWnlRbWVQMXZoTlRWZW0tNTFiWjk0SkFmYTc0dGdNaWI4SlVzR0o0LW9UQUR6c3plWTVPSW5ET3dPVjVDZGNvZTAxNXVhbzBWeG1SMC0tcHJiRElQaE53TnVfU1d2R0lKdmR4WTVXNlNCeUV6Qk9udDVJbTQwSFFDQmI?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 12:51:34 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Home Depot rides steady repair demand as housing market remains subdued - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVdMcEhkcnJzbFZqMVltVktiV0pJY3V1U3lvVU12QmZ6czlVQ0dUYTYtM2ltYk9ELTlEWkUwbDBpZGdfQ0xhLTlOaEhGaHlGUEpzZHhjdDlRcFlIWk9KZEdNTXhvYWVKb1ZFNVloX3Y4VzFGcWM2WWVsS09DWWhGaGxSVjVmUnI2VnZoNmRTWElneXJZSnJIcXg5QUVpN0J1N3kzQWNNQlVXdTF0WHd3cHROUjA4V3RqUl90RFV3OVZqdw?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 12:45:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Israeli airstrikes hit Syrian airbase, US envoy concerned over escalation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGU5SDV5WlhteEdoT2hlZTBkZzY2N1hnYU5sZHF1N3FqTGc1UEd1Mm9MTjk5V24telp3cWVsc08yU3dqU3lJemxZaGhXb0t4UUNBdkpXTFFUckwzRDZ2cDFOenpsN013aW5RRDVWSUxHRHpkVTBzeTV6NmRRR2NhWGtoeEpjLURMTEY5bjlyck5zLXQ5cU9KVTRwNDFQUjZuWU9lRU1vRnBORm5zdi1zTVpIb3VqY0FLRjZZUzBQYktDOEs3Rl9nOHBOZF9zQQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 12:42:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russian missile attack kills 10 in northeast Ukraine, Zelenskiy vows response - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSXRwVXVsUFg3UG1sQ2Q2VTNuanNPcENxQ0poV3RKOWV1d3NFMXVRUW4ybERhTWJINU9ydDZNLVp1SWloT0Job0Q3X2NKN1YzS1RRWnBGeGNYX0pHMjcwT29nSFpPbHhqRGFFOEl0VW54aGdQVlhmS1NnLU0wMUZZSnplbVRuZ0ROQmtOMkZha0ZVREM2ODQzTWh1eUdDU050MDVuU1VtSEFhVjE0d0ZaSGdoOERZd2xoUUE?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 12:37:26 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Xiaomi sees smartphone cost pressures easing, looks to EVs for growth - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFRYQnpLMVVFZjJ6UVhyZ0RNbkhzRVFCMnZOOE5IMkp3dDhLQ2gtYXplV0ZPMGhCMmZ4RFpIemJ2eGxvbmN3YnJYaktaVVdqOTlrZ1dwTGRTUWhSNHczaDFPanZfQWlXM2Z3enR1RF9haDY3T3VWdFFZZldZeDltT0xaTVplSlBnVzFJanJwZjh0Wl9HV1VVLWdZWElyZUZDY1NqdVhFVDEtbXM?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 12:20:45 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T14:06:37.452Z"
+      "updatedAt": "2026-08-18T14:25:16.269Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T14:06:37.516Z"
+      "updatedAt": "2026-08-18T14:25:16.421Z"
     }
   ]
 }
