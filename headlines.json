@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-18T01:00:24.402Z",
-  "lastChecked": "2026-08-18T01:00:24.402Z",
-  "lastUpdated": "2026-08-18T01:00:24.402Z",
-  "generatedAt": "2026-08-18T01:00:24.402Z",
+  "fetchedAt": "2026-08-18T01:25:13.274Z",
+  "lastChecked": "2026-08-18T01:25:13.274Z",
+  "lastUpdated": "2026-08-18T01:25:13.274Z",
+  "generatedAt": "2026-08-18T01:25:13.274Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T01:00:22.959Z"
+      "updatedAt": "2026-08-18T01:25:11.939Z"
     },
     {
       "name": "NPR",
@@ -105,22 +105,34 @@
           "source": "NPR"
         },
         {
-          "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
+          "title": "Advocates worry new bans on student IDs will trip up younger voters",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
           "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T01:00:23.191Z"
+      "updatedAt": "2026-08-18T01:25:12.134Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "‘Total Eclipse of the Heart’ singer Bonnie Tyler remembered as ‘a star, but never a diva’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdklVdElUbVQ2YkpWVWg3Y1BuT3BmT1JscTJjMlFUNGtXbEk3cWtlUzM1aHBVemx3RXI1eVBQazVLZ3UxWnVxdGsxOWQxeGRhUHpUazBsQUkteWg2aVE3Tk5hd0phQmR2UXJEQTFsV01rWkRmNG9OZFI2NFdvMXZRSmlCSmpRZk1jLWszUDAxSC1wczFTeHRWTHAtLVpxT2RXdU5v?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 00:29:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "The 60-day deadline for an Iran peace deal is expiring. Here’s where things stand - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3BhNEdxTFpDOGtvRmx2RU5kNWtFR1oxYXhsOEFWWm1NdG9IMkRaeEJvUmE5WUN0UjMxbXdwSXFmcXNKTjNGbkNfY1hrdjJtZnl0QVZXNk5jeVNFRV9qSklqTUhBVFpyTnFkdVBMeEZGRkJmWFFCWC1Ca3EtN2xGMzYtd3loMXdrTGhDSXpjV1ZzcGRnZUJfdEZueHdmSmFZR1BkcXV3?oc=5",
           "pubDate": "Tue, 18 Aug 2026 00:13:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Judge blocks the Trump administration from moving FBI headquarters to DC office building - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTUNmbTc5QnZEWWpxVnFDMHlFZ2tCWFZUZ01LTTg0SnB1YmdvY0JYWU10ZW5LeDVQdm0yRENSN1J2N3FXMW9YUFlzY3JWZ2RCcWdFNjNEaml5R2xBNFdkMWJJak4xSVBaWVhuOFZzZnFJOTFnQzhIU3VYdkdKY05vRzhONkpUTEVIdlF6YkdoY3hSeFhRcFl3X0tRckg2MlJXellz?oc=5",
+          "pubDate": "Mon, 17 Aug 2026 23:40:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1RfM19TUU5waDI1Z1ZzRkdGQVlGdVQzdnRlWmVicXVjM0xMMHFRTjZ3QlVyVnVwSW9fa051bW9xRHRDX2NtaHVDNy13UVY3c1phelZmeWstVDQ5cTd1UEtYR2U0cEMwNE1rRU5sbXphMUIzV0hDYm01TlJURmZtZDM3YmRjdHZzeGRac3NubmVQNDlFUG04eHI2REVWTkFYdk56Mkpn?oc=5",
           "pubDate": "Mon, 17 Aug 2026 21:52:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "US school vaccination rates inch down yet again and exemptions reach record high - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS1Zrb1FYSFJyTzRxUUY0SklzQlZZeWVJbVhLVjRwRk11MkR6YmFqT2Y1aGtZeHZxVzRHSzlMS2IwRl9rbWJwYzBPWGpBYnk5TGkzNW9Na2FDOHFrRllVc0tUQmNCRVJ6emtJZERtSVBtb3JyekJQalVjdFRXN2hQVDlyWUR4Mk1EZVdTMjVjWmFLU1N3UnNtTno0RmppOTJG?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:49:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur’s 1996 killing in Las Vegas - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWxOby0xS1dZdnhHdmVELUZoaE96a0ZpZUFkR0doR28zUDlnc2JHSGFXZWF5UVROQ3owVWxsTm51UzhNa2tGRzZDQURzRTR2RFF4dzBRYUhDOHk0eXNCbTlwV2ZKNC14TGJiM0xfYXNZaXB5cXhsa1RkUWdKU3lXVmh3b3ZNbkp2Zmx4clBRNUpqa2xtdVpSWGl5R3I?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 21:47:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T01:00:23.704Z"
+      "updatedAt": "2026-08-18T01:25:12.618Z"
     },
     {
       "name": "Reuters",
@@ -175,7 +175,7 @@
         {
           "title": "Paramount seeks $1.88 billion bond from state AGs over merger lawsuit - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmw1dFdaTm0wd0gybUJrYnBVdDkwX0xXYXdlNTdRNnFhWS1YMGtnOGVsNDQwc0diMlJ4Q21McFNTWnRUVEl3WER5LXlOMFBNZHR5Umx0Z2poMG5zMDlDOHlNOU8zV0JDaWtVQUlhNDR3Z3VfdjU0NnlqVTlwOWZoNVlzX3BQYkpSNld4OFF6bldmNUlnSVpCY3B4ZHhlS2JOUVBybEpYOA?oc=5",
-          "pubDate": "Mon, 17 Aug 2026 23:39:18 GMT",
+          "pubDate": "Mon, 17 Aug 2026 23:58:31 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T01:00:24.268Z"
+      "updatedAt": "2026-08-18T01:25:13.042Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T01:00:24.401Z"
+      "updatedAt": "2026-08-18T01:25:13.274Z"
     }
   ]
 }
