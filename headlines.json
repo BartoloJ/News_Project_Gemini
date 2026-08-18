@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-18T10:25:15.190Z",
-  "lastChecked": "2026-08-18T10:25:15.190Z",
-  "lastUpdated": "2026-08-18T10:25:15.190Z",
-  "generatedAt": "2026-08-18T10:25:15.190Z",
+  "fetchedAt": "2026-08-18T10:50:16.085Z",
+  "lastChecked": "2026-08-18T10:50:16.085Z",
+  "lastUpdated": "2026-08-18T10:50:16.085Z",
+  "generatedAt": "2026-08-18T10:50:16.085Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T10:25:14.028Z"
+      "updatedAt": "2026-08-18T10:50:14.905Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The grueling fight over who profits from AI music",
+          "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
+          "pubDate": "Tue, 18 Aug 2026 06:30:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
           "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
           "pubDate": "Tue, 18 Aug 2026 01:51:50 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
-          "link": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
-          "pubDate": "Mon, 17 Aug 2026 18:37:58 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T10:25:14.136Z"
+      "updatedAt": "2026-08-18T10:50:15.063Z"
     },
     {
       "name": "AP News",
@@ -167,21 +167,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T10:25:14.567Z"
+      "updatedAt": "2026-08-18T10:50:15.491Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Russia warns Britain of 'consequences' for supplying drones to Ukraine - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUVfTGNVRktRc2R4dkg0YXI4SndIblJaQngxMHlLNFZ5Z285ZzF3UHBIMTl2VGVUanpfRmhSR1BXcDJoNTNPNV9GUFZDSTcyMGFSQU4wblUtWm9zOWZ0cFU3eEdxc0dtNDdsS2tBUWRlX3hTOGtzemJiSi1nek1QWm9lb3c3NC1ZYllvb3RiTS1yX1ZrdHNrbzFJZi1uNHVzTGJfUHFB?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 08:48:15 GMT",
+          "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGZFRmk3eFl2TkpCVERjbnZWVzQxblROOXAtU1QzWjladlllUk8ySUxFQ0lYWVlld21JMF8xampzYWRyQktLd0xFbFl5VEJkNGxCWnlRbWVQMXZoTlRWZW0tNTFiWjk0SkFmYTc0dGdNaWI4SlVzR0o0LW9UQUR6c3plWTVPSW5ET3dPVjVDZGNvZTAxNXVhbzBWeG1SMC0tcHJiRElQaE53TnVfU1d2R0lKdmR4WTVXNlNCeUV6Qk9udDVJbTQwSFFDQmI?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 10:47:16 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail, his party says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGZFRmk3eFl2TkpCVERjbnZWVzQxblROOXAtU1QzWjladlllUk8ySUxFQ0lYWVlld21JMF8xampzYWRyQktLd0xFbFl5VEJkNGxCWnlRbWVQMXZoTlRWZW0tNTFiWjk0SkFmYTc0dGdNaWI4SlVzR0o0LW9UQUR6c3plWTVPSW5ET3dPVjVDZGNvZTAxNXVhbzBWeG1SMC0tcHJiRElQaE53TnVfU1d2R0lKdmR4WTVXNlNCeUV6Qk9udDVJbTQwSFFDQmI?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 08:26:40 GMT",
+          "title": "China's Baidu misses quarterly revenue estimates - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXcyM1FrTGh6ZnJCeE1pUzk0aTQxVTkzTTB6TDR4eHJFNmlPWXZUMDZBdUxEelBmeVVJNUxCUi1DRUdWSXVZcWE5VDVlb2tvcXYyMnRlcElabndCSVlWU2JTSk9BeThKU2JFa2pHNFBQRElyVGNHSVdObkpaOVNwNHVTcm9DYXIxMHc4a3EzRGF4ZGhyc3RLa3k5cF9wVlB0X1JTRnVEbTN5Wmc?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 09:14:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia warns Britain of 'consequences' for supplying drones to Ukraine - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUVfTGNVRktRc2R4dkg0YXI4SndIblJaQngxMHlLNFZ5Z285ZzF3UHBIMTl2VGVUanpfRmhSR1BXcDJoNTNPNV9GUFZDSTcyMGFSQU4wblUtWm9zOWZ0cFU3eEdxc0dtNDdsS2tBUWRlX3hTOGtzemJiSi1nek1QWm9lb3c3NC1ZYllvb3RiTS1yX1ZrdHNrbzFJZi1uNHVzTGJfUHFB?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 08:48:15 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWTFSYk0tRUo4VW10aGlEN2Uxa19MWi1MYkRyX01ZUWJvcFoyOVZyQjctNWdpRlpuMEZ4SlBGNTByS2h3MjBMeWhmUlplSk5Hd29qSW5zUThtQm1XSVJMZk5vSUhhRXA4d3RuQTJsTjFTSERscWJLYlliVUdDeW1yMk5BQXh6cm9HRTVPdi0xUi0xNWM?oc=5",
           "pubDate": "Tue, 18 Aug 2026 07:47:45 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzFVRER2LTY3b1FZNkxaZ1NXeVJKVEUxRVB0bEpFWnRyVE5rLTZaV0EtaFVRaUhHUjNpRmtMUXgzR0J1VFFPV2ZOMTVkV0VRNW45dGp4TGt0N1ZORVJwUUtrV1FrNnZvVzRSVkFUcURwb0lvcmdUWlRfQmJCeGxva3lmOVZlbDhONVJ0WDVmQnNaMlp6WHoteHhoOTBaLVN5V2ZBTUo5bmZ1OFF3QUdVZkU2X0Y?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 07:12:54 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T10:25:14.979Z"
+      "updatedAt": "2026-08-18T10:50:15.889Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T10:25:15.189Z"
+      "updatedAt": "2026-08-18T10:50:16.085Z"
     }
   ]
 }
