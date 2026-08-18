@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-18T19:00:22.902Z",
-  "lastChecked": "2026-08-18T19:00:22.902Z",
-  "lastUpdated": "2026-08-18T19:00:22.902Z",
-  "generatedAt": "2026-08-18T19:00:22.902Z",
+  "fetchedAt": "2026-08-18T19:06:31.461Z",
+  "lastChecked": "2026-08-18T19:06:31.461Z",
+  "lastUpdated": "2026-08-18T19:06:31.461Z",
+  "generatedAt": "2026-08-18T19:06:31.461Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T19:00:22.224Z"
+      "updatedAt": "2026-08-18T19:06:30.098Z"
     },
     {
       "name": "NPR",
@@ -93,12 +93,6 @@
           "source": "NPR"
         },
         {
-          "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
-          "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
-          "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
           "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
           "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
@@ -109,10 +103,16 @@
           "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
           "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
           "source": "NPR"
+        },
+        {
+          "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+          "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+          "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T19:00:22.366Z"
+      "updatedAt": "2026-08-18T19:06:30.168Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T19:00:22.793Z"
+      "updatedAt": "2026-08-18T19:06:30.729Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Chip designer Velaura AI valued at more than $1 billion in funding round - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX28yMGo4RXFXbUVkRHBvQnpCNVlQX3JEOC1TRlFsR3hJMVFPM3JrNENOM3ZRalJiVU55SlFVM19sR25XWFhnZzFlRWNlR1AtWUc1QTViVmItdEZpWXpVVGFfOXFuc0xfc0dlUnBQalAxR1Jfam12VlVqV3VGS0VBdjlvcGV6RmFPMjJVbFB4MUU0UkhqdDFEamJkaEFITEhYSERldEpUZVg4ZmtUNC1UcURfRmc3QUxSUEViMGdwVThKWTdGVXc?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 18:38:43 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
@@ -209,20 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Migrant women tell of sexual harassment in Spain's crisis-hit Ceuta - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVUNlbTZzOFpQWlRwVzBOc21qM0lCME5wWnIzOWxhU0hPNC10NEZrcG0tTVFoQkcwN2k0MUFvcC1CWF9iMHMweUJPZ01CUnFNS1ZZWG5oWE1oZGIxeW9RRUQxdkxBNl80OGdlYndkTTFEbTV0WEV2bHE0QVF4ZjMtNHQyV3FlVnZtdFpESDMxUHlOUUpqSnVZQVJIRmNRLUpqTE02Q1hxSlJMVVJobXc?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 17:02:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Disney, ABC sue FCC over threats to broadcast licenses - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWFmU3N3RHJWbjB4WTNlbTZ5SlRXYmZhWlUwR1lLRF9PUmFSOGNIM1Ezc20yallrbjI5ejdISlRhWENfV3ZmbUwwYnY3ZVBhVjhFYjhmT1lGUWxTRGJUd1ZMc05YaTE0UjlTU2h3Z1RDeC13T1A1Sl92TDJ3bjM0Yy12YlZqMkQ2T0loNnRjY3RqN0RxWXJPdUZkcURSN29RcDZj?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 17:02:38 GMT",
+          "title": "British data group Quantexa exploring UK or US IPO - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTVneWdMNEdiVUhiazB1ZnEtQ0FVTExCalk5T1dUYVRHcDFud0lreU45QUotZmFXbU9IbGExRXR6QU1KNm9kQ2RTbzNRY2F5UzE5d0ttQ3djNGI1d2o3WDZFQUVURXdJM0hWS3ZhNXIxYUdzNmVKSXpPQnI5c3FWVVg2Wm1DZ2QtNWRSc1ZvanpBNTRqb3J1T3Fnd2ljeEFhRnMweFVR?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 17:12:13 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T19:00:22.802Z"
+      "updatedAt": "2026-08-18T19:06:31.186Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T19:00:22.902Z"
+      "updatedAt": "2026-08-18T19:06:31.460Z"
     }
   ]
 }
