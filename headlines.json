@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-18T13:28:30.614Z",
-  "lastChecked": "2026-08-18T13:28:30.614Z",
-  "lastUpdated": "2026-08-18T13:28:30.614Z",
-  "generatedAt": "2026-08-18T13:28:30.614Z",
+  "fetchedAt": "2026-08-18T13:50:18.167Z",
+  "lastChecked": "2026-08-18T13:50:18.167Z",
+  "lastUpdated": "2026-08-18T13:50:18.167Z",
+  "generatedAt": "2026-08-18T13:50:18.167Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T13:28:28.949Z"
+      "updatedAt": "2026-08-18T13:50:16.845Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T13:28:29.200Z"
+      "updatedAt": "2026-08-18T13:50:17.073Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Ukraine aims a drone blitz at Moscow as Russian missiles kill 10 in a Ukrainian village - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWNZbnhPNkw5SFowb3FVbzZYN2VIbThFU0ZnckM0eHdHSmdwanEwbHM4eGxLN1Z4bnBoeFZhS2dBNGNWTHFZNjBVWTN6ZGRuRm4yZ3VwalBPTFJ3dUhiQnd2TE5BZkhLMW9vd2pWam5DcmdVOUpCR3JObnN1YV9nMUJBcngya1RvQkRVRXRYUjdqLWFaYllkSTFHbDQwUTA?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 13:19:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Madonna leads 2026 MTV Video Music Awards nominations, followed by Taylor Swift - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaTNId3VKUlhEQkVEOHpPMzFkWlliYWZmb2tLcGJwb1F6ZkJWejdyRnlWZ04yMEljdDhQUlRwbWFCSEJXWERWOFYwSWRNZlViZWZ0emFBOWFhUWpFcEs3b0poaEw1ajU2Y25yTDdhVnlLSXRfdU9fRzNvaDE1RVhFZ0dpanVsQW1IUHl1MQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 13:00:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Hayden Panettiere tributes include Connie Britton, Viola Davis and Selma Blair - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3FmbUdqZHNnQVdmanZ6dTVoNlNtQmFMX2dpYlNodlZPUmQ2T3d4NlpkRllxa1pnMWd4OUpfT29lNE9CbFpVU1FEaWw3RE5IbkdMQmlHbFBnR2Y4bjV3VEFFZnE0aEFTTWtFY3Q2UElManFtQ0pEZXFoZGF6TlBaNmJnOUtSN3BJRTJvMVltaDFET0xoY0ZzZnllaw?oc=5",
@@ -136,12 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "Explosions and fire tear through Ohio industrial building, 2 workers unaccounted for - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdXlsV0xud0Z3R3U2elhmSjFJRGFoVXlrRWEwZ0psVDItUGhvUkdSd2RzamxjRkVhZzNYcHVyb0JFdV8tUlljMXBZeHJIZ1JDc202UmxScEVicHlSVkUzaUJIRF9zWEYyZXBxVHFqZGpuclNmRWs5dkc4Q1FtZUZHYmczaXlXbUw5?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 11:53:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Ship attacked during Strait of Hormuz transit and other news from the Middle East - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
           "pubDate": "Tue, 18 Aug 2026 11:39:00 GMT",
@@ -154,34 +160,34 @@
           "source": "AP News"
         },
         {
-          "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "What to watch Tuesday: Redistricting scrambles Florida as Alaska pits Dan Sullivan v. Dan Sullivan - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3dJd1RyX09ralRMT3BWakRraWlTUWZKYUU3aHBJS2hwYnNTeHlsYlBIT2owcW5lRGh4SGswRU85cF9GaGZadUhXQzZjampXcFFUS3pVQ1QzOWl5bGhGcGU2aTMxdnlKR2lRZzJqVUF3NDNvcjBqVWVoTlFadGdFQnNaT1kyeGp6XzR6Q3BZUkxvQTV0bXliWmtDR05ScThkUDdsS2l4RW9nQmxM?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 10:58:00 GMT",
+          "title": "Israeli strikes hit air base runway in northwest Syria but no casualties, state TV reports - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbjNWb04xVkIyOFFfWDJ5Q2ttMGpjbFJpb1ByRklwWTJoM3ByWmRaMm5EUFk2YVBnWnQwSmFfNXRsSWlzRUx1U2UxcEVDYWR6bTFLRmNnSDVYTUxsSmR3Q1NLZHVfc05JbGNvMHUzNzdUeUZ5NXVIRU9YYU9Wc0V0a09sa29ZbEw3clFhQUZPQUl4bWJIM0loSjV3ZEs?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 11:24:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T13:28:29.818Z"
+      "updatedAt": "2026-08-18T13:50:17.531Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Disney, ABC sue US regulator over threats to broadcast licenses - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWFmU3N3RHJWbjB4WTNlbTZ5SlRXYmZhWlUwR1lLRF9PUmFSOGNIM1Ezc20yallrbjI5ejdISlRhWENfV3ZmbUwwYnY3ZVBhVjhFYjhmT1lGUWxTRGJUd1ZMc05YaTE0UjlTU2h3Z1RDeC13T1A1Sl92TDJ3bjM0Yy12YlZqMkQ2T0loNnRjY3RqN0RxWXJPdUZkcURSN29RcDZj?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 13:07:29 GMT",
+          "title": "As US debt mounts, investors demand higher returns to lend - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2N3OE9HMThkbnY4eXR1VEk1YVJrS1RweUhhclM5RDBvOU1XT0xFeDlDV0JnT3huQU85V1NBXzRQWFpYalY4X01uaXNUWXhxb1lhU0ZhMlB2QWFLeHNDT25fQ1BuNVNvaDZqWTJBUGJ5ZlNiWnZuaXQ3OW9RYWlLV0ViLVJlOWRPWDBCOTd5ZXBYaXpFTXRHWGRLMHZCXzRqT2dvMXJCT2JBdUk?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 13:37:41 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US stocks set for lower open as Iran stalemate lifts oil, yields - Reuters",
+          "title": "US stocks open lower as Iran stalemate lifts oil, yields - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 12:51:16 GMT",
+          "pubDate": "Tue, 18 Aug 2026 13:36:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Disney, ABC sue US regulator over threats to broadcast licenses - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWFmU3N3RHJWbjB4WTNlbTZ5SlRXYmZhWlUwR1lLRF9PUmFSOGNIM1Ezc20yallrbjI5ejdISlRhWENfV3ZmbUwwYnY3ZVBhVjhFYjhmT1lGUWxTRGJUd1ZMc05YaTE0UjlTU2h3Z1RDeC13T1A1Sl92TDJ3bjM0Yy12YlZqMkQ2T0loNnRjY3RqN0RxWXJPdUZkcURSN29RcDZj?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 13:07:29 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWxrV2hFeTRkQjZmS2pjcmpEM1VJd2tTc2lkT1NxVjJ3c0Jpa2ZNQzJ3eFlSa1BoV3pQN3VLNzZEUHM0SHZHMURHLUthd21TV0R6TkY5N0lfR1pKRnRGZGpFc1FzamJfT1l2Q1pYQXloZ25LYWdxOHhQcndkZ21xU1lXZFJwc0ZOcnVqWUkyejNUdVcyWWlORW9rdzZORlJCZjZHMWZNX0tKYU44bDJReUpMcVNlOFBNd0E?oc=5",
           "pubDate": "Tue, 18 Aug 2026 12:16:15 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "New tremors jolt Spain's Granada, injuring three and damaging some buildings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMi1MWUFDNy10bWM3V3UyRUpwV0tHMmJiVFRaWUhuY0dTNnF5d2ZFOUdDcDJUM2EzTnBnZnNZOWlhUFlPN3dURFVXWGlhMFJHNnZoQlp5dTZBS0xTTVB3ZUU4bXllNzFZN0l1a0V5cF8wem01RXpFdGxXY0I4ZUthMDZyQzBMdE9FSE10SThOeGxhVUxFMDRobUEtN2pkZXJqYkE0X1VMaElEWkRpM3FCT0xR?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 12:15:30 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T13:28:30.278Z"
+      "updatedAt": "2026-08-18T13:50:17.969Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T13:28:30.614Z"
+      "updatedAt": "2026-08-18T13:50:18.167Z"
     }
   ]
 }
