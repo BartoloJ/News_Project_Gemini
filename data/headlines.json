@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-18T16:00:20.663Z",
-  "lastChecked": "2026-08-18T16:00:20.663Z",
-  "lastUpdated": "2026-08-18T16:00:20.663Z",
-  "generatedAt": "2026-08-18T16:00:20.663Z",
+  "fetchedAt": "2026-08-18T16:22:36.265Z",
+  "lastChecked": "2026-08-18T16:22:36.265Z",
+  "lastUpdated": "2026-08-18T16:22:36.265Z",
+  "generatedAt": "2026-08-18T16:22:36.265Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+          "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 18 Aug 2026 16:00:30 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Brazil's President Lula hails oil discovery near Amazon river",
           "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 18 Aug 2026 07:27:32 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "China censors public mourning as it holds former premier's funeral",
-          "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 18 Aug 2026 07:17:07 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T16:00:19.420Z"
+      "updatedAt": "2026-08-18T16:22:34.862Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T16:00:19.620Z"
+      "updatedAt": "2026-08-18T16:22:35.133Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Trump says US has no talks planned with Iran and other news from the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 15:58:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "The Moscow region is hit by a drone blitz as Russian missiles kill 10 in a Ukrainian village - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWNZbnhPNkw5SFowb3FVbzZYN2VIbThFU0ZnckM0eHdHSmdwanEwbHM4eGxLN1Z4bnBoeFZhS2dBNGNWTHFZNjBVWTN6ZGRuRm4yZ3VwalBPTFJ3dUhiQnd2TE5BZkhLMW9vd2pWam5DcmdVOUpCR3JObnN1YV9nMUJBcngya1RvQkRVRXRYUjdqLWFaYllkSTFHbDQwUTA?oc=5",
           "pubDate": "Tue, 18 Aug 2026 15:03:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "National Symphony Orchestra will play at 6 DC-area venues next season as Kennedy Center shuts - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcC1QYzVFUkRndFphSjNhZEIxTk9Cb2pSMkt4QlpfWTlUZFljZ1FFODZFUTBhdWlhbUZaNkUtcklndmlrcHBDQzRoaWxuZXdnaHhfVGtNa1F1Rk1LQ0RkRjdqZnY2RDZGSC1HeC1zaEtWelFnTHZDRUM2YmczQlVrS3FtS3JaYlVBUURfdHM3TmIxUnk5?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 15:00:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,30 +164,48 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbl9JNGxCeEUzV3FveVI0dmM1TGczaVFzem1RbDg5TWx6ck5naGlpQ0FWcmUyN0NQV2tqV2hZejNKWVVRUTNFRU9xWWJYWWJ2bGtGR3pnOEY2Uk1fSkFpazU0VVJfRWFBb0VmY3FISTJoNDBVU2g4N3F6NXl2YzJxOU4xenVOQTd0ZzFLNEEtUW5CLWJlUWQw?oc=5",
           "pubDate": "Tue, 18 Aug 2026 14:28:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A look at major lawsuits against Meta and other social media companies over harms to kids - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdWVzcFJ6Zmdza21lRDVYMXRLQ1pkb3hHdkVqWEpGS2hDSV9fa1FpaEY4d0dvUXd2bEpjNS01bEdKVV9HbU1HNXA5a3YzOERYYk5YZWhJWXo0bjdRWTNvd2hoVElQWE9JVk9wWVlaaGpaMWlPTXVsR2Z1bDlmVjN2RnNwaHJFYVFpbjZ2VA?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 14:09:49 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Quebec separatist leader says no independence referendum until Trump leaves office - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQy1hcWxsY1VqTGxYdHE0N2pOVVNWOXlnUE5KVGhNWnpCOWluQkxHSjloUTR2VjAxVXV6czhQTURsS1NEN3VreV9EdWR2S0I5QW9RUXFJYTNJRkFlTEpxbDBPa3kxeUo1VVhRM2ltQzU3eW9sYVBFQXEtNHRNTmF2eTQxeEltTWREZW1rNlJrYmlCYkFmNVlabUZCMmVKQXhIV2w4V1Zn?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 13:58:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T16:00:20.057Z"
+      "updatedAt": "2026-08-18T16:22:35.702Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "How US military funding propelled China’s robot dogs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 16:13:58 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Meta trial that could reshape Facebook, Instagram gets underway - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHlhZEh6b2pmUkJKaXNMYUpEMEZsQ3BDLVlxcWZ6VU02ZjlsUVRLZ2EtRlBFYnFSOUJXaURCRmNjYkllYVRCZjUzdDhNNmtzZzNfSGg2RDhJUFY3cWRJbFpxQnhSQllwQ1RuUG83WTQ0TWozc1dMeGJUVlF6QmRZQy1vVmlLeElDNHBZOGFYUkR1VXMwYktFQ0hGWFZ6MDBXQXVOTFVpalp2cFFX?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 15:59:55 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Why states fought to present a united case against Meta over youth social media harms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX3FHbXBtZHEzMmxmanl0Vm5UUTIyNWxXNHlRQk5TYUgyUWhzVVRFUURSb1BiMXpYZGRFZ2o1MDNLRzlQcXhReUVicFp6QjQ4REVmcjlMRG1uT3dtT3RLc0oxX1JSaTAyWXdjcjEtYldWd05CT252S2ZBRXlaNDA3dlFSNUF2U21xZ0U5dUJpZ2NxQ3NSQ3hlWlUyVmR2Q1BJdGY1YXNQX0dHUjBQaWZsTTBlczZ1QU9QWko0LVlrdU1oVTEydm5KTkdfRy1LUQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 15:53:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "White House defends Trump's ability to vote by mail - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcVhsN21VZ2ZlUnVlZXdMZnl6aGFaS2FiLVJSekRhU1JiRXdtenFzNE5NYi1zcnpqQ2xDdU9tNkpmVkVNZHY4RHVQdjhtUXBPSGVZTGF3aE5LNjUwajAyaldtTlpCM09SelF6NDg3Rm8zR3lwbWJtRV9fWG85R2Ztd3VuLUpoVE5YaGxDam11bWpaZDZncGk2VzBtR2k5cnR2T0E?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 15:53:28 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Disney, ABC sue FCC over threats to broadcast licenses - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWFmU3N3RHJWbjB4WTNlbTZ5SlRXYmZhWlUwR1lLRF9PUmFSOGNIM1Ezc20yallrbjI5ejdISlRhWENfV3ZmbUwwYnY3ZVBhVjhFYjhmT1lGUWxTRGJUd1ZMc05YaTE0UjlTU2h3Z1RDeC13T1A1Sl92TDJ3bjM0Yy12YlZqMkQ2T0loNnRjY3RqN0RxWXJPdUZkcURSN29RcDZj?oc=5",
           "pubDate": "Tue, 18 Aug 2026 15:34:22 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump agencies to set crypto policy as bill stalls, limiting industry's gains - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQW5FN1FiTHlqcnktM0xnazRRWHFpaHM3bDdLWlNIckszLTJId3QyN1NZc0VTdlk3VFFlZG1qWVlQQUo3SUN4R083SlZaNmpKTkdMb1NKTnNZM2VpcERyUm5TZGhzT1N0UGhhNExIWGY3NXBxWUczMm4xWFctRkNVR0ZwbTJib0szTUhpUkZOWk9sVDFmbmp2Q0pFOERwbEhVYVd3RHNXSHdzR3FGdlFBQmk2Xy1JV3d1TnRkdk5SUQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 15:20:05 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Global bond markets put governments on notice over fiscal, inflation risks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWxrV2hFeTRkQjZmS2pjcmpEM1VJd2tTc2lkT1NxVjJ3c0Jpa2ZNQzJ3eFlSa1BoV3pQN3VLNzZEUHM0SHZHMURHLUthd21TV0R6TkY5N0lfR1pKRnRGZGpFc1FzamJfT1l2Q1pYQXloZ25LYWdxOHhQcndkZ21xU1lXZFJwc0ZOcnVqWUkyejNUdVcyWWlORW9rdzZORlJCZjZHMWZNX0tKYU44bDJReUpMcVNlOFBNd0E?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 14:56:26 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Baidu CEO vows to return Ernie to AI frontier as revenue miss sinks shares - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXcyM1FrTGh6ZnJCeE1pUzk0aTQxVTkzTTB6TDR4eHJFNmlPWXZUMDZBdUxEelBmeVVJNUxCUi1DRUdWSXVZcWE5VDVlb2tvcXYyMnRlcElabndCSVlWU2JTSk9BeThKU2JFa2pHNFBQRElyVGNHSVdObkpaOVNwNHVTcm9DYXIxMHc4a3EzRGF4ZGhyc3RLa3k5cF9wVlB0X1JTRnVEbTN5Wmc?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 14:41:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says no talks are taking place with Iran and none are scheduled - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSHhKekZqU0IxWEQwY2JOckhOeTBJd0FraHloM25INUJuQXNnRk5BM1JzU05UTl9RbDVSUnVkbWVzYlpaaV9lRG16bloxZGxRRXQ5dlV2a1plTkpHXzQ5Smg0Nlk0c3VjdFZLSjdkRHIxLVl6Sm5yamhoVWF3SlowaDVYV01QdGE0emdOd3N6cnFOeW5FbDRsdEExSTNNMFFMOUtYQjFDakRUbWdVbVNoWkNCcm02RkhYcjUw?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 14:39:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Why states fought to present a united case against Meta over youth social media harms - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX3FHbXBtZHEzMmxmanl0Vm5UUTIyNWxXNHlRQk5TYUgyUWhzVVRFUURSb1BiMXpYZGRFZ2o1MDNLRzlQcXhReUVicFp6QjQ4REVmcjlMRG1uT3dtT3RLc0oxX1JSaTAyWXdjcjEtYldWd05CT252S2ZBRXlaNDA3dlFSNUF2U21xZ0U5dUJpZ2NxQ3NSQ3hlWlUyVmR2Q1BJdGY1YXNQX0dHUjBQaWZsTTBlczZ1QU9QWko0LVlrdU1oVTEydm5KTkdfRy1LUQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 14:32:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Dodgers owner Mark Walter's insurer to cut $6.5 billion in investments amid probe - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS3FoU1cxWlNpa2N2UzZsZzlEcWZ5akRuMFF5OWxHZHNaZ2M3YVRmeDlabUpyLXhVSUdRQk9rVXpfYm9vOGcwbDVZSEU5dnJWRDY2YzdIbGxvSTJxVjFiSHA3VmlSZjVsdXoxZ2RmTDhCOGxDZy10SF9tSFk5SlhlZnhiQjVocTk2N0N4ZWNjVVBNT1Z2TW4zT212dHpSb1pzd2ktR0FJaEJsTGVhN29xZThHNFQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 14:32:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Florida, Alaska primaries offer early clues to battle for control of Congress - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWVBUFRFWGdnWHZXV1BfRHhOQzZEMlpEUVJ4Q2lXOVlPQTdKeGZBZWlteGxkQnMyaUZGcEVXZjhqb3FtVF9zMXVIRFVMbzBNUXVMYm1raVhWd3QxNnFVWUZuSUw5S0ZESkFfZnhyR1lYeW1pc1doS3psa29qaWVjRzhaeEVsS1BXMFIwc1pkM3VfcWRDbG90cnFvYmt2cmNlbEgwWUJXVS1WcHdtbXVmNQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 14:20:13 GMT",
+          "title": "At a Gaza zoo, war takes its toll on the animals - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWTFSYk0tRUo4VW10aGlEN2Uxa19MWi1MYkRyX01ZUWJvcFoyOVZyQjctNWdpRlpuMEZ4SlBGNTByS2h3MjBMeWhmUlplSk5Hd29qSW5zUThtQm1XSVJMZk5vSUhhRXA4d3RuQTJsTjFTSERscWJLYlliVUdDeW1yMk5BQXh6cm9HRTVPdi0xUi0xNWM?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 15:05:35 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T16:00:20.444Z"
+      "updatedAt": "2026-08-18T16:22:36.122Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T16:00:20.663Z"
+      "updatedAt": "2026-08-18T16:22:36.265Z"
     }
   ]
 }
