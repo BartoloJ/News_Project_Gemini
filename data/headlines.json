@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-18T20:50:31.855Z",
-  "lastChecked": "2026-08-18T20:50:31.855Z",
-  "lastUpdated": "2026-08-18T20:50:31.855Z",
-  "generatedAt": "2026-08-18T20:50:31.855Z",
+  "fetchedAt": "2026-08-18T21:00:24.044Z",
+  "lastChecked": "2026-08-18T21:00:24.044Z",
+  "lastUpdated": "2026-08-18T21:00:24.044Z",
+  "generatedAt": "2026-08-18T21:00:24.044Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T20:50:16.432Z"
+      "updatedAt": "2026-08-18T21:00:22.805Z"
     },
     {
       "name": "NPR",
@@ -105,18 +105,24 @@
           "source": "NPR"
         },
         {
-          "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
-          "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+          "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+          "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
           "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T20:50:16.694Z"
+      "updatedAt": "2026-08-18T21:00:23.051Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 20:27:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump threatened to bomb Oman because he's unhappy with country's deal with Iran, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcmtkbmV0b1Bxa0pkWjZkMlVfV2xIN3E3MzdwWmlqWHpXTi1CYng3YVIxZGQtdEJ5b0VWX3llRzdNMTAzcGNLd0IzTmRXNkRGSnAtRlR2WWI2bDZCR1Q4RENTNERlM1VwZWNDQ1NsejlBcER1MDRCeEpCTjRtTGE3OGN2ZmhkM1htVkc4?oc=5",
@@ -158,71 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWNZbnhPNkw5SFowb3FVbzZYN2VIbThFU0ZnckM0eHdHSmdwanEwbHM4eGxLN1Z4bnBoeFZhS2dBNGNWTHFZNjBVWTN6ZGRuRm4yZ3VwalBPTFJ3dUhiQnd2TE5BZkhLMW9vd2pWam5DcmdVOUpCR3JObnN1YV9nMUJBcngya1RvQkRVRXRYUjdqLWFaYllkSTFHbDQwUTA?oc=5",
           "pubDate": "Tue, 18 Aug 2026 17:39:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump says US has no talks planned with Iran and other news from the Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 17:33:00 GMT",
-          "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-18T20:46:59.917Z"
+      "ok": true,
+      "updatedAt": "2026-08-18T21:00:23.528Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Liberia agrees to accept up to 1,200 third-country deportees from US - Reuters",
+          "title": "Liberia agrees to accept up to 1,200 third-country deportees from US - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNby1Xa0x4NVJWZ1dDZFZVNGFOU0FQWENiclJINmpkSVRLcjg0ZVkwZ0lLZFlxeW9lUTdwMnBJLXlFZXR3eklVWVg1NDVVbGR1OEd3TUZ0dkhBNDJiaWZEVEJzN3FSWnE1cWJQc3lpTHRnSWN1eVBNT1FDSE9qV050NWl4X0xFZ1I0c3YtWlFhcU5DbTd6LVl0aFBqaWd2dGg5Y0cxMlZvbl8?oc=5",
           "pubDate": "Tue, 18 Aug 2026 20:32:48 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Canada's pipeline ambitions hinge on uncertain output expansion - Reuters",
+          "title": "Canada's pipeline ambitions hinge on uncertain output expansion - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdlZzSUlUTFByazJmbTFudUFscGZ2Q1FRUUZwUXpDTXc2azNaMXhlV3NWTTdtTmJIX0t4TmRodUJULU5idkIzbEtraktyTnRlZ1E3UkZOcWNxWWJxTnN5NG1Gb1UwX3ZhR3QzS3U3ZkVQX2hSR1Jfb3pJd1NJd1RvbVRpRmlPXzd1NkljaHpzRWNaU0lhUjQ2V3BFTVllZmNXSmVLdWZodGlyTVQ1VlllQWdn?oc=5",
           "pubDate": "Tue, 18 Aug 2026 20:31:07 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Dollar range-bound as markets price dovish Fed response - Reuters",
+          "title": "Dollar range-bound as markets price dovish Fed response - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclBwalB5bkFIQVRLaXc3bHdrSFEteXF1NllCaTVjU08zRnlNckhhSzlvT3lOQ1FpNTZhQzh1VFVBVjJzaVc3Wkd4WXhVcURZV1BtUGttNEdRUS1RNkxQYU1jNHptUGgtMEhaVGNQdkRLTVl4bnNTeDJHMG9pYkV0dld0OXVDT0ZERHV1eGM0WGw1VVlEeFVIWElYNFlCRUtBd1ItU2tCcXNheWs?oc=5",
           "pubDate": "Tue, 18 Aug 2026 20:24:26 GMT",
           "source": "Reuters"
         },
         {
-          "title": "UAE says two missiles detected earlier were launched from Iran - Reuters",
+          "title": "UAE says two missiles detected earlier were launched from Iran - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
           "pubDate": "Tue, 18 Aug 2026 20:09:17 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Kalshi files for stock index perpetuals in challenge to traditional exchanges - Reuters",
+          "title": "Kalshi files for stock index perpetuals in challenge to traditional exchanges - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1Z5dF9JeldqYkdfMk8xRWJMTGtXVUFwX05qVW9paEJKRWJtRzdZdF9OemprbFRXc1ROc1M1V1NhaTE3Ujk5OTc0ZlBVd1o4aVNEVHZUU3dCRVNuVUlQcWJaNmM3RTRhUVE2N1NLMHFEc1hzZ3dKN0FIZGxGWE15Y05sMWN2LXdLckpQR3FUM2NpR1BDUzhTMlVGUTVpX1ZoTFpZY3V1aU56LWEycVRxa2FyeUU?oc=5",
           "pubDate": "Tue, 18 Aug 2026 20:02:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Ukraine's ousted defence minister calls for wartime elections - Reuters",
+          "title": "Ukraine's ousted defence minister calls for wartime elections - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2I5VUo0cWlLNnZ2Vnp6dlMwcnFsc2R4ZElfZFdFN3VQYTE1MnFhc242TEQzb1BmU1duV0NnSWRuSzBVajN0d3VIMkVuMG9rSmYtNFd6MF81cjJRWThVYjRXamFfWGpFTlNvbGpKUFpEWXpXQWJqTkxLRld1NzBUQnc2dnhpU0N5NDF6N25QV3J2bFA1cW9TdE9lWHduTGRmV0RoV0pESF9SNEJEZWJtelIxaXZUUXNKajBB?oc=5",
           "pubDate": "Tue, 18 Aug 2026 19:58:59 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Meta rejects allegations it sought to hook children as landmark trial begins - Reuters",
+          "title": "Meta rejects allegations it sought to hook children as landmark trial begins - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHlhZEh6b2pmUkJKaXNMYUpEMEZsQ3BDLVlxcWZ6VU02ZjlsUVRLZ2EtRlBFYnFSOUJXaURCRmNjYkllYVRCZjUzdDhNNmtzZzNfSGg2RDhJUFY3cWRJbFpxQnhSQllwQ1RuUG83WTQ0TWozc1dMeGJUVlF6QmRZQy1vVmlLeElDNHBZOGFYUkR1VXMwYktFQ0hGWFZ6MDBXQXVOTFVpalp2cFFX?oc=5",
           "pubDate": "Tue, 18 Aug 2026 19:54:22 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Israel kills six in Gaza on day after Kushner meeting with Netanyahu, medics say - Reuters",
+          "title": "Israel kills six in Gaza on day after Kushner meeting with Netanyahu, medics say - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWUljaVdkdjZZMngxR1FnWEVjQ25STWQxNDRtVVNGV0dUdFkzN0tVWUh6UmtPTlZVZU14eTBuWW13Um9WUzZ1QzlBS0tHcFhhakc3aUZOVnc5QlJ2aFpqSF9fejNPd3ZUMFpMN2Q0RVhSVFM3ZHVJWHlka05acUpTY3lQdFFSSDZHbzJzLWxTOXdOdk9QbUI5Rm4yd1ZGUzJ1UTNwbjRhRXpNTkxnZG9LbzVTRGdfbEd0VGw3M1FGRzdoRW1CY3c?oc=5",
           "pubDate": "Tue, 18 Aug 2026 19:43:19 GMT",
           "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-18T20:47:00.441Z"
+      "ok": true,
+      "updatedAt": "2026-08-18T21:00:23.955Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-18T20:50:31.855Z"
+      "updatedAt": "2026-08-18T21:00:24.044Z"
     }
   ]
 }
