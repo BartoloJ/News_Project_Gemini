@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-08-19T19:50:18.509Z",
-  "lastChecked": "2026-08-19T19:50:18.509Z",
-  "lastUpdated": "2026-08-19T19:50:18.509Z",
-  "generatedAt": "2026-08-19T19:50:18.509Z",
+  "fetchedAt": "2026-08-19T19:58:05.541Z",
+  "lastChecked": "2026-08-19T19:58:05.541Z",
+  "lastUpdated": "2026-08-19T19:58:05.541Z",
+  "generatedAt": "2026-08-19T19:58:05.541Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Who is Natalie Harp, Trump's right-hand woman?",
-          "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 19:02:41 GMT",
+          "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+          "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 19:53:05 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-          "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 18:43:11 GMT",
+          "title": "Who is Natalie Harp, Trump's right-hand woman?",
+          "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 19:02:41 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T19:50:17.181Z"
+      "updatedAt": "2026-08-19T19:57:47.957Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
+          "pubDate": "Wed, 19 Aug 2026 15:45:11 -0400",
+          "source": "NPR"
+        },
         {
           "title": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
           "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
           "pubDate": "Wed, 19 Aug 2026 07:14:31 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "How India's blocking of a film exposing real-life police abuses backfired",
-          "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
-          "pubDate": "Wed, 19 Aug 2026 06:02:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T19:50:17.390Z"
+      "updatedAt": "2026-08-19T19:57:48.158Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-19T19:50:17.864Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-19T19:50:18.310Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T19:50:18.509Z"
+      "updatedAt": "2026-08-19T19:58:05.541Z"
     }
   ]
 }
