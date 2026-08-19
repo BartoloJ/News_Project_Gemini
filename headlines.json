@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-19T10:25:17.669Z",
-  "lastChecked": "2026-08-19T10:25:17.669Z",
-  "lastUpdated": "2026-08-19T10:25:17.669Z",
-  "generatedAt": "2026-08-19T10:25:17.669Z",
+  "fetchedAt": "2026-08-19T10:27:54.488Z",
+  "lastChecked": "2026-08-19T10:27:54.488Z",
+  "lastUpdated": "2026-08-19T10:27:54.488Z",
+  "generatedAt": "2026-08-19T10:27:54.488Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T10:25:16.346Z"
+      "updatedAt": "2026-08-19T10:27:53.294Z"
     },
     {
       "name": "NPR",
@@ -87,6 +87,12 @@
           "source": "NPR"
         },
         {
+          "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
+          "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
           "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
           "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
@@ -99,12 +105,6 @@
           "source": "NPR"
         },
         {
-          "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
-          "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
-          "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
           "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
           "pubDate": "Wed, 19 Aug 2026 03:51:59 -0400",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T10:25:16.537Z"
+      "updatedAt": "2026-08-19T10:27:53.411Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T10:25:17.041Z"
+      "updatedAt": "2026-08-19T10:27:53.853Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Pakistani government files challenge against Imran Khan private hospital move - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbW40aTA3U1piZS03SW9vM3lNRlFUR01aVWdDR3pzS1ViZHA5czBFMVduOHZwclZMeTBNVU1LQVpTOEw5WXZmdTVZTVNOdTQwWGlFYWY4LW45QVFVUlcxYkNsbUd1UG5URmNJSElTZGNnVHVQdFNxNGJkQkFBMVIyR0tkbUZ6YU56MXktSUN1cGRaNVRMaHNOVWp0OEloQ2pRQWFvTURFRExQeFlXUXBzUkVTLWpvd3c0eWx5V0xrUzF3MDlCY0E?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 10:16:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Japan criticises US over 'unfortunate' sanctions on ICC - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 09:27:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China robot makers flock to Beijing show, seek path to mass adoption - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmdkcXpfS1k2UmVHdmxLOFQ2UWF1LXROM2d3Zk0wbVUtSC1YbkxaNEZHNl9adVEwakVNN1Z1dVotcVc2YjZhOHh3cDBJZllMX1FPTTd4d1FLbTRSQjNOdzViZHNaQ200Tmt1UUo4bjZYYWVaTFlxaTZTcHRjNzRQX1JnMVBiVmQ3YUQyQzJaZk82aGFMUzczNDdYQTg0OGdxcFNMSnd4SnB6MVlfWXZYQkJnN0tBZlU?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 09:19:47 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Kyrgios provisionally suspended after testing positive for cocaine - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3Z5QmRMZ0Iwa2Y0SmhJVFl2OXRaSm9KdnB5Zl9veERjTVhGQlhaRjJmYVJuUEZuQ09lempsWWx3QWNKLVlvUGFGdFVjbC1BOGs1ZDNuOEtrYWV2Zl93Wk16TDZsUmdxZHdyRWZQNG43c1B2c1M1bWhIWU9zNHJXQk0wbmpvRVFmbElFNWZteGlkblA1T2VoaFVySDM5U0JVMG01RVhpYlU1WVZTVEtfdVU0U1FJVFpMUU1qMy1waUpuaXB1N2xfZg?oc=5",
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFdOX2tzNWZNVU43emQ3NDVXclE3a2h4UlpvVHNSUkpLd1RRWTlsNU9LRjMtYXl5VjVhVEctUHRsSnZYQm92eW9SSFR5SFVFZFFuNnpXVzFITEZDbjk5MS0tVzJVam9JS1RPazZFdWZrcVlUcXdXT1hBRTRLMExwR0RkdWlMYklnZ0JMbXpleTBaQ3dDMTRxTklkQQ?oc=5",
           "pubDate": "Wed, 19 Aug 2026 07:50:15 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Japan has few answers as bond rout puts fiscal plans at risk - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTE5kYUs3MDhhT3MtX3ZXQWd3elFPUGVkNjJzQUp1d0lPUkZ3VGRoOEVZWlo4SElXMXIxeDYxZ3hlUnBUNDhCQjl5cVNjSmZsNnpqVVYxajM0Smo4Y2hBeHdlbUxVQkFDMnk0MmJrS2ZyTjlCXzVFTXN2cFFhLUxBYTMwRHJENDhoZV9MTGZkVmg2Y1RMZmlBX3ZUNzNaV3V1Y0tjMDFJSVNHaE1kcFE?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 07:42:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWR2cnpULThpZHY0Um43bzk3ZWcxVVNhVTltMVJhbkFhUWpvS3lUb1ROVWd3RmszSzhKMlpGOHUtZ1ZuZmsyemxDbDh4c2lBWG9HNVloSEhTOFFzcVhWTmRob1lmenhCUzBUb1B2SENQckhUemdMWTkxY2Y0eW1UQmVCeDBHMnUzY2R2emJfc3JKbFZDek1BeWtDdGtTZEJpRHZhd3BNN3MzVkF0cDRJVS15X3RYcmlSc1hRY2NGTHJ5YXNhRE5saXF3?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 07:21:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China completes first stage of work at disputed South China Sea reef, images show - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWjlHMXpDTU1lN0ZxdTV0cWJwMktYTG52MU5RX1JXVTFaemlzbl9TdzZRWS1IN3dCM0d4ZmdLaGtTVjI1NHU5U1N1Mi02bGVteGtDZXlOZWpOcmlMbExyMnpnX0V1WG5hUWJ2ZmlULUVxU1RjZWo3SllHU04tLVFIbmV0WDJEV1hFdllaRHR5Y0I4NkVNTjFub3VqTHV5aUFYdFhGMkU1SV96NlFsdEtHQmZNeGNVeVhPdHlwZDhBVQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 07:19:44 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T10:25:17.432Z"
+      "updatedAt": "2026-08-19T10:27:54.251Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T10:25:17.669Z"
+      "updatedAt": "2026-08-19T10:27:54.488Z"
     }
   ]
 }
