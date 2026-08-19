@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-19T01:25:13.233Z",
-  "lastChecked": "2026-08-19T01:25:13.233Z",
-  "lastUpdated": "2026-08-19T01:25:13.233Z",
-  "generatedAt": "2026-08-19T01:25:13.233Z",
+  "fetchedAt": "2026-08-19T01:50:17.438Z",
+  "lastChecked": "2026-08-19T01:50:17.438Z",
+  "lastUpdated": "2026-08-19T01:50:17.438Z",
+  "generatedAt": "2026-08-19T01:50:17.438Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T01:25:11.842Z"
+      "updatedAt": "2026-08-19T01:50:16.103Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T01:25:12.074Z"
+      "updatedAt": "2026-08-19T01:50:16.294Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "US Rep Byron Donalds wins GOP nod for Florida governor against Ex-Rep David Jolly for the Democrats - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTFETUJQZkVvNDNDajRVdEhmQktncnJKN0Rqa2o3U3ZZSDhzSTRKVV84YkwtOEx3Q0pDRHQ0cHEtYmhOcDQwTkVTOXdHWkpIVWZxenE5cDZOaFFxOXdwczcyU0JXR1A0cmhfWGx5cms4NU10bUV4a2l2ckZ0dmVMdVRyMjIzX3puVjlxRnJNZTZJWnJpb1h2R1ZUaTlhRW9OMWg4WVlOZTNVNnVl?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 01:29:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Israel strikes an air base in northwest Syria to prevent Turkish troops from deploying - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbjNWb04xVkIyOFFfWDJ5Q2ttMGpjbFJpb1ByRklwWTJoM3ByWmRaMm5EUFk2YVBnWnQwSmFfNXRsSWlzRUx1U2UxcEVDYWR6bTFLRmNnSDVYTUxsSmR3Q1NLZHVfc05JbGNvMHUzNzdUeUZ5NXVIRU9YYU9Wc0V0a09sa29ZbEw3clFhQUZPQUl4bWJIM0loSjV3ZEs?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 00:16:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trial for Meta begins with states arguing its platforms preyed on vulnerability of young brains - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWhfS2YxWEZCcDBpZ3EyYTc4YUt5alNaWmNZcWUxT2pZMlZUZ21rYmhZZU9vVHd6VkxfLTZCN0pSVWVwOHZCclc3TXJzUXRueDBVNmZfNzBnNV9UaTd1ZXJtZXYyTGpXa2Z3RXZFXzhqZFZlR2M4NUVGWDFDNjZZak5VZGpTVlZOWHRWaThTZkhXcWE3anZmcFdweFp1b0E5MG9PRQ?oc=5",
@@ -148,26 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "5 Buss siblings say they still intend to sell Lakers minority shares despite Jeanie's opposition - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY0k1eHVvdHB1VFdtbGxuQXI0dGlHV2w4bkVoYTVTTVkzZ2V0UC10UXRTT29zOHZGN19BQWNOcF94OGNlQWJzTktWREw3X0tXVEVaRUFzd0xVamNLb3ZCZU5ScVdnU2JURVZwUUpGSWlUMTUtYVRQQXNmZHRxbEptb0lzZTgwSTM4ZmVzY25FeTA?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 22:22:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Whistleblower alleges political pressure, lack of evidence in antisemitism probes targeting schools - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZGg4SnptNWJkbWFjd1djMW1PRjdmaW53a1NkRlZrOTVtQkI0YjYtSi01WGtBaFJWTllTdHNCTmxPb3dIX0VPT0JBUUNlQVdRMkxhY2JjcDNvR3pxY1ZrOTBRSUJMNmR1VUJjelNKQjh6SDFMSTk0eWh0Y1o5d0o0YVBmUXlZeXEtclFuR1EwTkN4R3hYOXhnSVBHdEhFaHpyZktOVzlxZmQxYXM?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 22:08:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US and Canada hold last-minute talks to stop Trump’s 50% tariffs - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbl9JNGxCeEUzV3FveVI0dmM1TGczaVFzem1RbDg5TWx6ck5naGlpQ0FWcmUyN0NQV2tqV2hZejNKWVVRUTNFRU9xWWJYWWJ2bGtGR3pnOEY2Uk1fSkFpazU0VVJfRWFBb0VmY3FISTJoNDBVU2g4N3F6NXl2YzJxOU4xenVOQTd0ZzFLNEEtUW5CLWJlUWQw?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 22:08:00 GMT",
+          "title": "Latin American News | Latest Latin American News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ndGJHcWFWd3JYNVhLbDFQbjRLNDZnWlVPRUVlS0FQcVhBTzI4emRPS2dwZ2pzWWphdzZ1YXl0T0l2X1UwT1drcXliZnM?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 22:16:39 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T01:25:12.520Z"
+      "updatedAt": "2026-08-19T01:50:16.808Z"
     },
     {
       "name": "Reuters",
@@ -197,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "DOJ issues subpoenas in probe of Alaska candidate with same name as Senate incumbent, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeGY5RjktMXIzREJGX1Q0UHkxODdod3I1YmtxQ0dHaWY2NHFUSWF3cWRHOXl0dzBRdUxVQ1MzbUM5Z2xoUjJJWlpZTGxGb3huOHFPbDVBZTVSVG9INnN2R3hVMlN3Ry1uZUV4dlliLXpwNnFWMnU5UDF0LWxNbmVxeWh0ejd3M2NKOVNBQkNmNF9lQzN2VEVkdTd0bzVHTmlqSTNxaElyMVNNN1QzdzdOZjFZZDY5N3RBeV8wag?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 22:32:07 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Disney, ABC sue FCC over threats to broadcast licenses - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWFmU3N3RHJWbjB4WTNlbTZ5SlRXYmZhWlUwR1lLRF9PUmFSOGNIM1Ezc20yallrbjI5ejdISlRhWENfV3ZmbUwwYnY3ZVBhVjhFYjhmT1lGUWxTRGJUd1ZMc05YaTE0UjlTU2h3Z1RDeC13T1A1Sl92TDJ3bjM0Yy12YlZqMkQ2T0loNnRjY3RqN0RxWXJPdUZkcURSN29RcDZj?oc=5",
           "pubDate": "Tue, 18 Aug 2026 22:04:14 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa1BlNEtwMVJSSkVvQjRBMWRlanN4VUs0aEFKUjIyWU93N090cHl5MjN6Q0VCMWdvUVhseXI4N3Y2aUdXTy1oeHpQVE5TYjdiLVlOcFdaMWswRGVsZzZ0dG5HamdSeFdMSFc5bTZZVHNwaWp3SXRWT3IydFZnR3NSVm13bnEzbTdxajVkbFpzUUhwc01zQzFwWG8yT3RHZw?oc=5",
           "pubDate": "Tue, 18 Aug 2026 22:00:57 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Florida, Alaska primaries offer early clues to battle for control of Congress - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWVBUFRFWGdnWHZXV1BfRHhOQzZEMlpEUVJ4Q2lXOVlPQTdKeGZBZWlteGxkQnMyaUZGcEVXZjhqb3FtVF9zMXVIRFVMbzBNUXVMYm1raVhWd3QxNnFVWUZuSUw5S0ZESkFfZnhyR1lYeW1pc1doS3psa29qaWVjRzhaeEVsS1BXMFIwc1pkM3VfcWRDbG90cnFvYmt2cmNlbEgwWUJXVS1WcHdtbXVmNQ?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 21:56:27 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T01:25:12.969Z"
+      "updatedAt": "2026-08-19T01:50:17.220Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T01:25:13.233Z"
+      "updatedAt": "2026-08-19T01:50:17.438Z"
     }
   ]
 }
