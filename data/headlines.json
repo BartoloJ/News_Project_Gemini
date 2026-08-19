@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-19T11:50:18.655Z",
-  "lastChecked": "2026-08-19T11:50:18.655Z",
-  "lastUpdated": "2026-08-19T11:50:18.655Z",
-  "generatedAt": "2026-08-19T11:50:18.655Z",
+  "fetchedAt": "2026-08-19T12:00:24.921Z",
+  "lastChecked": "2026-08-19T12:00:24.921Z",
+  "lastUpdated": "2026-08-19T12:00:24.921Z",
+  "generatedAt": "2026-08-19T12:00:24.921Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Helicopter crashes at Mount Ololokwe in Kenya, killing six people",
+          "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 11:32:51 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Sacked Ukrainian defence minister calls for presidential election",
           "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 05:53:53 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Thai teen found in suitcase died from suffocation, police reveal",
-          "link": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 05:04:27 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T11:50:17.395Z"
+      "updatedAt": "2026-08-19T12:00:23.800Z"
     },
     {
       "name": "NPR",
@@ -93,8 +93,8 @@
           "source": "NPR"
         },
         {
-          "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
-          "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
+          "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
           "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -105,14 +105,14 @@
           "source": "NPR"
         },
         {
-          "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
-          "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
+          "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
           "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T11:50:17.635Z"
+      "updatedAt": "2026-08-19T12:00:23.938Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T11:50:18.093Z"
+      "updatedAt": "2026-08-19T12:00:24.405Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "PODCAST: Robot Rally - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGR0TDJOY0s3clFXN0lyZjRLYXZLQ01zVEI5ZXVyUkgzek9na2VpRHU4YTNkQjhUNjEtZ2lRNnlHNldGdWl3X1lwb1JKai1ERzBJbUZSZnNKTVhpME8tY01Fa2lhS2oyUlZnZHpfaWpZcHhmcGxKRXd6T05NQjR6VU1R?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 10:57:24 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump put thousands of soldiers on Washington’s streets. They seldom stop crime - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkpHV0wwZHN4MV84emhmbV95VHJ0UHZtd2dPN1owdVJORzA5VG5uY2kzczR6VF9GOVBsOThTRmxrWFA1ZU9TMV9WX3hnMkctdG5WYkgyZkh5SGVUZEdscE1ENjJMUjZOdTZYYXBxa0E4eE9CTnhIRW9VRExKV1NFd3FoT2Y3Q1lGaDlYRjFuSWd6UHdrWkFUczhZZ3h3SWJwb2hjMERsYXQtelA1ZlBSTW5LdXdid1U?oc=5",
@@ -182,6 +188,12 @@
           "title": "US stock futures steady after tech slump; investors focus on Middle East tensions - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
           "pubDate": "Wed, 19 Aug 2026 10:48:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukraine's parliament approves Yevhenii Khmara as new defence minister - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWJuOFZuMlV0em9ZTURsT21Xemd4cjVidGpoRWFBX2xRTkl2RnRiMGM2Vkh0bWpsWE1ndDV0SVZ0LUF0SlAtTXFFanpPSHRxSlNkWmd4RU1kcDZvZHlMV2ZLNEdtdjdIZ0NZa1Z6azZ3SE0yZXFZWFJra1JPanlScm96aW9hY0ROSGRmaWtVMU5yOEJSRXg5VGVGSHhPSExzR0dBejFzSV93ZjhhdnJYeDRpUEY?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 10:41:44 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlJGSW1ENWNua28tWENjMFMtWjJmTGl6eUFuNFZkbHlvdU9SbWJONF9SeFNLdjRXXy0tVzVPN2VMLV9yUjg0UUZlNm5QNDRYT1FlZ25JVmlJNXRrRE5XVU95ZXB2VTlWMFNCLS1PLXZ4bS0zZ3YtN29OM0sxcHlPb3pwN083b0NfN1I0T1M1V3c0dDFYOW54TGV3WjFqbWJySTRMQUxiZ0hheVVNV21LaURVaw?oc=5",
           "pubDate": "Wed, 19 Aug 2026 10:12:57 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Second suspect in Nord Stream case arrested in Croatia, say German prosecutors - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWlWVTh4SHQtVndlUE9yV0hKLXVlUEZYeUVLN2gwcHY1dDlYTlRuWVRETFlSU1VWNEFKVFktT3BXWThnTDVVU2pIc0lEZkMwVmFyOHA2X25vczlySUpCZE1BNFlvZGJNaE5xSHlqcnpnOTAzempYVERnN3dUWUNfSC14eHRKWGVuaXFkaUh5SElINkE4VDhCQUI4Xzh1bDE3VzBIallsY25meG1SNDktYWl2WQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 09:59:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China's Wang Yi in South Korea for talks amid Trump push to revive North Korea diplomacy - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV2Y5a01ZMXZHOVkzbjMteDRKZVhLb2ZGQlhkYkFnLXZ3VThOMUNLQ1o5RHp5WXpISW1WbG00TndoNk40Nmo4Sy0ycDcxNDkxWjdTX0h4MWRNUjhMNk9tV0FPTWFrQ3gwcnN4UTVvVVdWUjN6eHZSSkZMUW9BblBzblc2UVJKbUdFMW5LSkV3WEd3cmM5c0dBYnpEbEJERG9QSzJXQ1FHZGJkVWtfYktTd0hkU3M3ODRtbVowM0duX2RyaW8?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 09:37:50 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T11:50:18.541Z"
+      "updatedAt": "2026-08-19T12:00:24.827Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T11:50:18.655Z"
+      "updatedAt": "2026-08-19T12:00:24.921Z"
     }
   ]
 }
