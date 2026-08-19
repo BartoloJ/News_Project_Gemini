@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-08-19T13:00:19.406Z",
-  "lastChecked": "2026-08-19T13:00:19.406Z",
-  "lastUpdated": "2026-08-19T13:00:19.406Z",
-  "generatedAt": "2026-08-19T13:00:19.406Z",
+  "fetchedAt": "2026-08-19T13:25:14.021Z",
+  "lastChecked": "2026-08-19T13:25:14.021Z",
+  "lastUpdated": "2026-08-19T13:25:14.021Z",
+  "generatedAt": "2026-08-19T13:25:14.021Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Six tourists and pilot killed in Kenya helicopter crash",
+          "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 13:00:09 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+          "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 12:47:53 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
           "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
@@ -17,12 +29,6 @@
           "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
           "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 12:25:30 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Helicopter crashes at Mount Ololokwe in Kenya, killing six people",
-          "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 12:07:59 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Apparent human remains found in US reservoir as water levels hit record low",
-          "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 10:10:09 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T13:00:18.079Z"
+      "updatedAt": "2026-08-19T13:25:12.854Z"
     },
     {
       "name": "NPR",
@@ -99,24 +99,30 @@
           "source": "NPR"
         },
         {
-          "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
-          "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
+          "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
           "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
-          "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
+          "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
           "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T13:00:18.271Z"
+      "updatedAt": "2026-08-19T13:25:13.010Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 12:15:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "United Arab Emirates suspends trade with Iran after coming under renewed missile fire - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0QxYWRHV3EwbTFuUGNkbHlmazM2MHlDNTM0MFMyUnkxLWFGb2ozNm5OVjFsQ0RUcmlXSXcwOV9MV2ZVWi1fYVpRVVkxMWJYSGZlUWZvbmdoekxQNy1qTThzVWlOTE94bkdjWDhNSnFfM1RQdmJxRWZ0c3FqZkJ4dVVfbVNfa3VyUU1iSlFHckhMVHY5aUJEQjJBcUNtcG1rQjREZW9GY3hwdw?oc=5",
@@ -158,71 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcEJWdUROUm5oMFRaVzRvMkNtT2VTYkVSbUZzSFlXMGl3MmF6T2lrYk15UVpKcmc4SDJYckJUU0M5V3lpbi1uaHNjalpnOUhwV2xpbVVpZjR0Z0tDYWd3RkNPcE1xZXdOLVc1M3I5Z25xOHZsNFJiRm54V0c5Y1drRDc3MmVfWWt0VGlNR2xGTTVaNGFReWRjTDVVa3pyR2FtZlJfbw?oc=5",
           "pubDate": "Wed, 19 Aug 2026 08:02:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Bayern midfielder Musiala reveals 'neurological' issue after collapse during game for 2nd time - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEhHcVlsS1lXVzlZRHdqcnNiU1JTTndxWk9MeTFHQlY0U0FjdTE5Nm9jNkJQZFdxRVBBa18tN3F0ZjNUejk2S3RrckFWYjMza2xiamVIWnJDMG05czRwU0tIME56ZWNJMzBadGFVN2UtZkxWS1JPTndCd0JFdFYwX3h0a0VsZms1amdGaV85SGM?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 07:02:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T13:00:18.723Z"
+      "updatedAt": "2026-08-19T13:25:13.420Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Moderna shares surge as melanoma vaccine with Merck succeeds in large trial - reuters.com",
+          "title": "German prosecutors say second Nord Stream suspect arrested in Croatia - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWlWVTh4SHQtVndlUE9yV0hKLXVlUEZYeUVLN2gwcHY1dDlYTlRuWVRETFlSU1VWNEFKVFktT3BXWThnTDVVU2pIc0lEZkMwVmFyOHA2X25vczlySUpCZE1BNFlvZGJNaE5xSHlqcnpnOTAzempYVERnN3dUWUNfSC14eHRKWGVuaXFkaUh5SElINkE4VDhCQUI4Xzh1bDE3VzBIallsY25meG1SNDktYWl2WQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 12:53:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israel opens criminal probes over killings of Hind Rajab and Gaza rescue workers, military says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1Zxdm1rckV4MGpjNEsycF9zT0lrcDR1OUtSMmttLUJ0WHNwaTFsMVQyRkVaaDRHMnZjNkhvVEY5RVE0XzhZTmhjRXBGd256UVZ5TTR3S2ZNaS1nWDVwVnFsUTc4eFVYTVdIUS1jZXVMckpnQXV6QXNPVTRGYmNsbXpPbTl3b0Jhc1ZtT1pkVXpac19TUWpXR1dXeVR6SGhoa2xkMkFpa0hLV2RBSmZZeFFxYnB1cTJI?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 12:25:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Most Americans believe Trump has inappropriately profited since returning to power, Reuters/Ipsos poll finds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU1h6LUQwS0tnLUt3MTFHQjVaSHRvTExtWkRCZ3VTSzBEZnJId0lGeGlOUHJicklYQVk1N2k0V2dkZWppV3A3bC15RlpZZmRNUWJtQzBmT2V3U01rU2pGRlZPQl9STkZBZFlmN3otOWJWWV9NaW1PYURRWWh4ZjZISExOaVhudHlCOG95Y2NhMmtHT1VVYUlhclpCcmpKUklXY2FMWUdDYVBid1lVcUJnVXdRWXdLb3dTdGhESktR?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 12:20:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Moderna shares surge as melanoma vaccine with Merck succeeds in large trial - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
           "pubDate": "Wed, 19 Aug 2026 12:17:16 GMT",
           "source": "Reuters"
         },
         {
-          "title": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - reuters.com",
+          "title": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
           "pubDate": "Wed, 19 Aug 2026 12:01:20 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wall St futures flat after tech rout; Iran tensions, retail earnings in focus - reuters.com",
+          "title": "US, Indian fuel exporters profiting from supply uncertainty during wars - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc0YzcE9IRnh4c2IwVzhxd3hpbDZ3YzdDMFVqSG5aTHM2c1JqemQ5ME5naXFDdWJXRzhXUVJZMjI5dG9jS0hOa2VqLW51R0hwT2MzbWNXaExrN1RJVmdVbWM0NElNWTJ2NDFBUmJDSk9sbnpzTGVqQWxUc2o5OTE4LUhNdVpXVExYblV0UW41U0lSWjhIWEU4Q29fWlVHLWhUdEZUSXpyRUVPMWEwZFdyRFc1T2pTd3VL?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 11:53:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St futures flat after tech rout; Iran tensions, retail earnings in focus - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
           "pubDate": "Wed, 19 Aug 2026 11:43:18 GMT",
           "source": "Reuters"
         },
         {
-          "title": "China's Wang Yi in South Korea for talks amid Trump push to revive North Korea diplomacy - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV2Y5a01ZMXZHOVkzbjMteDRKZVhLb2ZGQlhkYkFnLXZ3VThOMUNLQ1o5RHp5WXpISW1WbG00TndoNk40Nmo4Sy0ycDcxNDkxWjdTX0h4MWRNUjhMNk9tV0FPTWFrQ3gwcnN4UTVvVVdWUjN6eHZSSkZMUW9BblBzblc2UVJKbUdFMW5LSkV3WEd3cmM5c0dBYnpEbEJERG9QSzJXQ1FHZGJkVWtfYktTd0hkU3M3ODRtbVowM0duX2RyaW8?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 11:14:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Former Meta engineer resumes testimony in landmark trial over social media's harm to young users - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 11:00:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "PODCAST: Robot Rally - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGR0TDJOY0s3clFXN0lyZjRLYXZLQ01zVEI5ZXVyUkgzek9na2VpRHU4YTNkQjhUNjEtZ2lRNnlHNldGdWl3X1lwb1JKai1ERzBJbUZSZnNKTVhpME8tY01Fa2lhS2oyUlZnZHpfaWpZcHhmcGxKRXd6T05NQjR6VU1R?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 10:57:24 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump put thousands of soldiers on Washington’s streets. They seldom stop crime - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkpHV0wwZHN4MV84emhmbV95VHJ0UHZtd2dPN1owdVJORzA5VG5uY2kzczR6VF9GOVBsOThTRmxrWFA1ZU9TMV9WX3hnMkctdG5WYkgyZkh5SGVUZEdscE1ENjJMUjZOdTZYYXBxa0E4eE9CTnhIRW9VRExKV1NFd3FoT2Y3Q1lGaDlYRjFuSWd6UHdrWkFUczhZZ3h3SWJwb2hjMERsYXQtelA1ZlBSTW5LdXdid1U?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 10:49:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukraine's parliament approves Yevhenii Khmara as new defence minister - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWJuOFZuMlV0em9ZTURsT21Xemd4cjVidGpoRWFBX2xRTkl2RnRiMGM2Vkh0bWpsWE1ndDV0SVZ0LUF0SlAtTXFFanpPSHRxSlNkWmd4RU1kcDZvZHlMV2ZLNEdtdjdIZ0NZa1Z6azZ3SE0yZXFZWFJra1JPanlScm96aW9hY0ROSGRmaWtVMU5yOEJSRXg5VGVGSHhPSExzR0dBejFzSV93ZjhhdnJYeDRpUEY?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 10:41:44 GMT",
+          "title": "Moscow's fuel stations limit sales amid shortages - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSFdPR0gxeXpyeUcwd3RNbE54bEJxSGkxeTQ2YnFOQmtzam5TamQzb3BlWW5nYzg2SmtzUmxzVUM3MUozckplTnZiWEpNMzZNdWNIZEFRRkpweExtWmJ4QWF0Y0N5RFhiZ2FiM3k0VjhvVml6bjFMQ0E0d19hMjN0MUE4N19YYm42MXdIam93Q2NobnJFNzhoNXR3NS03d3AzZHc?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 11:30:37 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T13:00:19.189Z"
+      "updatedAt": "2026-08-19T13:25:13.837Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T13:00:19.406Z"
+      "updatedAt": "2026-08-19T13:25:14.021Z"
     }
   ]
 }
