@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-19T14:07:29.508Z",
-  "lastChecked": "2026-08-19T14:07:29.508Z",
-  "lastUpdated": "2026-08-19T14:07:29.508Z",
-  "generatedAt": "2026-08-19T14:07:29.508Z",
+  "fetchedAt": "2026-08-19T14:25:16.637Z",
+  "lastChecked": "2026-08-19T14:25:16.637Z",
+  "lastUpdated": "2026-08-19T14:25:16.637Z",
+  "generatedAt": "2026-08-19T14:25:16.637Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "South Korea shortens war games with US, citing Washington request",
+          "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 14:16:27 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
           "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 11:00:21 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
-          "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T14:07:28.330Z"
+      "updatedAt": "2026-08-19T14:25:15.206Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
+          "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
+          "pubDate": "Wed, 19 Aug 2026 10:19:20 -0400",
+          "source": "NPR"
+        },
         {
           "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
           "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
@@ -99,12 +105,6 @@
           "source": "NPR"
         },
         {
-          "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
-          "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
-          "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
           "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
           "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T14:07:28.523Z"
+      "updatedAt": "2026-08-19T14:25:15.363Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 13:15:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "United Arab Emirates suspends trade with Iran after coming under renewed missile fire - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0QxYWRHV3EwbTFuUGNkbHlmazM2MHlDNTM0MFMyUnkxLWFGb2ozNm5OVjFsQ0RUcmlXSXcwOV9MV2ZVWi1fYVpRVVkxMWJYSGZlUWZvbmdoekxQNy1qTThzVWlOTE94bkdjWDhNSnFfM1RQdmJxRWZ0c3FqZkJ4dVVfbVNfa3VyUU1iSlFHckhMVHY5aUJEQjJBcUNtcG1rQjREZW9GY3hwdw?oc=5",
@@ -127,12 +133,6 @@
           "title": "Mesmerizing jellyfish take center stage at 1st US museum dedicated solely to the floating predators - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTBkWTZ6M2QzMl9naGtFaFExQXNSSjVRMlhDM1k1WDBmemxXTEg1QXV3bnIxZ0RiMHpkb0RyWHRMcmRleUs4cmJfTGNZLWJBWTY3QmJ1b1FQVHljVS0weW84MTZPZGdGVWFVM05CbWV2cEJhN1hYR01hWm9mN2xQMjJJUmdjS0MtaHVxTg?oc=5",
           "pubDate": "Wed, 19 Aug 2026 12:28:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 12:15:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T14:07:29.006Z"
+      "updatedAt": "2026-08-19T14:25:15.934Z"
     },
     {
       "name": "Reuters",
@@ -197,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Trump to host crypto executives as SEC considers regulations - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXlaZ0VhOGd4LUliRjFMSVhSaWxjVE5rTGp5ZjFxaHJKLVFGRGhPYjV2VXJiaXVnQXJCRi1GMmJ3bUlFM0FETnlmaC1hM2s3UzhvNk5HRUVGREV4UjdrejZPaFBxUTFyT0JXY2lMdEM3bkZnaVo1UWtzbkc1VFpuT2tteEFPVmJ0YXRuN295RXpENE9zVWp5UXhBY1VzUGZmXzh0N3p5VQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 13:09:15 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Moderna surges as Merck-partnered melanoma vaccine cuts recurrence in large trial - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
           "pubDate": "Wed, 19 Aug 2026 13:08:03 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWlWVTh4SHQtVndlUE9yV0hKLXVlUEZYeUVLN2gwcHY1dDlYTlRuWVRETFlSU1VWNEFKVFktT3BXWThnTDVVU2pIc0lEZkMwVmFyOHA2X25vczlySUpCZE1BNFlvZGJNaE5xSHlqcnpnOTAzempYVERnN3dUWUNfSC14eHRKWGVuaXFkaUh5SElINkE4VDhCQUI4Xzh1bDE3VzBIallsY25meG1SNDktYWl2WQ?oc=5",
           "pubDate": "Wed, 19 Aug 2026 12:53:38 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 12:32:16 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T14:07:29.452Z"
+      "updatedAt": "2026-08-19T14:25:16.377Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T14:07:29.508Z"
+      "updatedAt": "2026-08-19T14:25:16.637Z"
     }
   ]
 }
