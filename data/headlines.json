@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-19T21:18:49.459Z",
-  "lastChecked": "2026-08-19T21:18:49.459Z",
-  "lastUpdated": "2026-08-19T21:18:49.459Z",
-  "generatedAt": "2026-08-19T21:18:49.459Z",
+  "fetchedAt": "2026-08-19T21:25:16.321Z",
+  "lastChecked": "2026-08-19T21:25:16.321Z",
+  "lastUpdated": "2026-08-19T21:25:16.321Z",
+  "generatedAt": "2026-08-19T21:25:16.321Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T21:18:47.972Z"
+      "updatedAt": "2026-08-19T21:25:15.107Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
+          "pubDate": "Wed, 19 Aug 2026 17:20:15 -0400",
+          "source": "NPR"
+        },
         {
           "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
           "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety",
           "pubDate": "Wed, 19 Aug 2026 11:22:35 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
-          "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
-          "pubDate": "Wed, 19 Aug 2026 10:19:20 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T21:18:48.119Z"
+      "updatedAt": "2026-08-19T21:25:15.311Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,7 @@
         {
           "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 21:16:00 GMT",
+          "pubDate": "Wed, 19 Aug 2026 21:18:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T21:18:48.621Z"
+      "updatedAt": "2026-08-19T21:25:15.779Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG9LQ251bHQzZlRLUDhWa1JjNTNUUkh3TVN4YUZ3M09OU3d2MVYxUFdjTUdZYVBtQ1dsTEhQb0JpMXJxV1B2QjZwUFdWTVo3YU5VQjlxVGJKdDJUUXE1VFUzNDFDcWhkWE9fM1lCb21XcTRzN3FKQ3hIYW9KSXByWGVUQnB4XzlQbHJtWFl2V2RkV1FOZjhVendlV2djM2ZBRnJoMGVHRS01cTZpR3lvUQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 21:15:10 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Wall St rises as yields ease, Moderna lifts healthcare stocks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHdhMC1IZUpFSl94Sm9Iand5bW93SFBoZjdUcmd4YnBlY3dsaERKQURqNDRWOHZoSnltcE9jZjUyelJpT2RjR1dXREVmWFluLWgyR01LdTF5aVNsbER2NERJOVlGWDFNNi1sek05OURVTWhsdU1lVC1YbUN0a2l0UW5vZzhBbXhZaGVHbVdnREVzZXA4LTZnZUVvUzRjZGFrOFA1QUV3?oc=5",
           "pubDate": "Wed, 19 Aug 2026 20:13:40 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump picks White House ally Overton to lead embattled FDA - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOanVmYlVxbkJTQzEzaWkzczNmNHVEeVJGbzkyMnVBQk80UVF1M2JueFoyMUxiNzVub3dvVWdPZm02ekNOQmZVN1ZaMmxMZmk1WnRENlNmMXA4a2F5VHpCODVvZjIxOWp0ZHpVNUlpTFZ1VmxCU0dBc21ReUUwb0FmRG1rWS1ORjZsbEVxQVRoSGZDNUE?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 20:05:53 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T21:18:49.222Z"
+      "updatedAt": "2026-08-19T21:25:16.271Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T21:18:49.459Z"
+      "updatedAt": "2026-08-19T21:25:16.321Z"
     }
   ]
 }
