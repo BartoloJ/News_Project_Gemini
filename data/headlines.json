@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-19T19:58:05.541Z",
-  "lastChecked": "2026-08-19T19:58:05.541Z",
-  "lastUpdated": "2026-08-19T19:58:05.541Z",
-  "generatedAt": "2026-08-19T19:58:05.541Z",
+  "fetchedAt": "2026-08-19T20:00:21.144Z",
+  "lastChecked": "2026-08-19T20:00:21.144Z",
+  "lastUpdated": "2026-08-19T20:00:21.144Z",
+  "generatedAt": "2026-08-19T20:00:21.144Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+          "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 19 Aug 2026 19:59:14 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
           "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
           "link": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 19 Aug 2026 18:26:21 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-          "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 19 Aug 2026 17:47:52 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T19:57:47.957Z"
+      "updatedAt": "2026-08-19T20:00:19.803Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T19:57:48.158Z"
+      "updatedAt": "2026-08-19T20:00:20.014Z"
     },
     {
       "name": "AP News",
@@ -166,12 +166,24 @@
           "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-19T19:50:17.864Z"
+      "ok": true,
+      "updatedAt": "2026-08-19T20:00:20.540Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWR2cnpULThpZHY0Um43bzk3ZWcxVVNhVTltMVJhbkFhUWpvS3lUb1ROVWd3RmszSzhKMlpGOHUtZ1ZuZmsyemxDbDh4c2lBWG9HNVloSEhTOFFzcVhWTmRob1lmenhCUzBUb1B2SENQckhUemdMWTkxY2Y0eW1UQmVCeDBHMnUzY2R2emJfc3JKbFZDek1BeWtDdGtTZEJpRHZhd3BNN3MzVkF0cDRJVS15X3RYcmlSc1hRY2NGTHJ5YXNhRE5saXF3?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 19:37:14 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ex-Meta executive says Zuckerberg put growth before child safety - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 19:35:14 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Pakistani government files challenge against Imran Khan private hospital move - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbW40aTA3U1piZS03SW9vM3lNRlFUR01aVWdDR3pzS1ViZHA5czBFMVduOHZwclZMeTBNVU1LQVpTOEw5WXZmdTVZTVNOdTQwWGlFYWY4LW45QVFVUlcxYkNsbUd1UG5URmNJSElTZGNnVHVQdFNxNGJkQkFBMVIyR0tkbUZ6YU56MXktSUN1cGRaNVRMaHNOVWp0OEloQ2pRQWFvTURFRExQeFlXUXBzUkVTLWpvd3c0eWx5V0xrUzF3MDlCY0E?oc=5",
@@ -191,12 +203,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Ex-Meta executive says Zuckerberg put growth before child safety - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 19:01:22 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Fed policymakers' inflation concerns increased at July meeting, minutes show - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUU3QzJ6YTh1c3NuVDhBeE1lZzByYWtla200SkRNWnZEWW5wWmZWXzZvS3RqYU8yM2Y1VE91aHVWMng0MnczWVNjV3poa2t2TnFmYVhMZDVJSE1kdjFGcU9MaW5vS0o0MjEwalJmU0tZekFHclBKRi13SEhnYnQtMlF2TFVIT09HRkw2UThrb1F5eWVVNnNaYXQyTjhYbVhpenc5TjFGdW1yUG55ZWVXaEhSRHc3Wk0?oc=5",
           "pubDate": "Wed, 19 Aug 2026 19:00:35 GMT",
@@ -209,20 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "South Korean container ship will test Arctic route to Europe amid Western concern - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMV96VDN2NnFUYzU4cjBWOTdTTm1lOHZNalNSQXVmcGxCV1gtdVR5R3FxSTltWWFRajJOdDAtUGdXdTFvZ2lidHVpeVZJdGpjN1dpdXI5SUdSUFpzTEdfajIyWFJCbUVkYWwzcGhoRlhNVUs1YW9pckIxOUFKV1ZpSzBab2w5WURWaV91bXh1NnpEdzNBd1ZUbk43QUdNY0VoRTFSb3Z4bE1QMUJHcnUxRXV4WENWT3BId2hMSlRsZUF2WGIt?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 18:52:42 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall St rises as yields ease, Moderna lifts healthcare stocks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 18:46:38 GMT",
+          "title": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 18:57:09 GMT",
           "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-19T19:50:18.310Z"
+      "ok": true,
+      "updatedAt": "2026-08-19T20:00:21.051Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T19:58:05.541Z"
+      "updatedAt": "2026-08-19T20:00:21.144Z"
     }
   ]
 }
