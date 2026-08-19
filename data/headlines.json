@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-19T23:16:24.553Z",
-  "lastChecked": "2026-08-19T23:16:24.553Z",
-  "lastUpdated": "2026-08-19T23:16:24.553Z",
-  "generatedAt": "2026-08-19T23:16:24.553Z",
+  "fetchedAt": "2026-08-19T23:25:20.216Z",
+  "lastChecked": "2026-08-19T23:25:20.216Z",
+  "lastUpdated": "2026-08-19T23:25:20.216Z",
+  "generatedAt": "2026-08-19T23:25:20.216Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T23:16:23.294Z"
+      "updatedAt": "2026-08-19T23:25:18.858Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
+          "pubDate": "Wed, 19 Aug 2026 19:19:12 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
           "link": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
@@ -75,7 +81,7 @@
           "source": "NPR"
         },
         {
-          "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
+          "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
           "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
           "pubDate": "Wed, 19 Aug 2026 16:09:39 -0400",
           "source": "NPR"
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
           "pubDate": "Wed, 19 Aug 2026 12:18:35 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
-          "link": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
-          "pubDate": "Wed, 19 Aug 2026 11:38:57 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T23:16:23.341Z"
+      "updatedAt": "2026-08-19T23:25:19.104Z"
     },
     {
       "name": "AP News",
@@ -148,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 20:58:16 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Longtime publisher of Stars and Stripes to retire, citing differences with Pentagon leadership - AP News",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYWVGUFA4ZFBQdmREWVhPMjh5aWFSVG1KbzdBa3BvcnFZWHZFdWZiRzBDWE5SM0NvTW1aWjNXSWpsLWhSZkJXaW9uVWpJVnNGSnZmcno3d1g1MTZiZEVMbkNYeWo4NHJXaWNySWNHNnh4d3NUcWk4eE9tSjJaLW9naWtDUG5USDJ6cHBQSi1tcGVNSGVtOWIyZi1YaFhuY1h4YkJCdnVOOXV4Q041c1ZBWk9ja0NCdE5F?oc=5",
           "pubDate": "Wed, 19 Aug 2026 20:57:00 GMT",
@@ -158,20 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1BfMDByc3hMWkx2TFlCV2pGOGhYSkhfZUN6SHJib2E4dm9sTjFVSTNTZ0lnSHhuMzRsVVdKc2psOHNfaEpqcFo3aXhkRllycWc1S1hCMG8zQS1VZkZZZm5IcUZfcHlTWVhOdExaSkJrajFDcm5SaEtIcXJqelc4NHdCVFZwSUNmcUVnNkFBMA?oc=5",
           "pubDate": "Wed, 19 Aug 2026 20:54:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Moderna shares surge after it says its experimental mRNA cancer treatment passed a key test - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWlFsYXNZV0ROTlQ3QlFuUWt0bFFXTVJCcDFGcGtqY3l4TmhSMmlOekVpaGFDOHlfWnJXbDNtbmlLX2xibVBZUmtPaFpacDN3ZVRCd2ZGcnNlYi14UHV0RFZFeGpmb2pJRnRCTGFJSVl5QmJvRDlJeGZaSVFxTVVBV01DS3NlclI2cGM5eVdTWjIzVExFTVpQMm05SWs5bkQ3VGpudnFpcWJLNElzRFNIR2ZRSWY?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 20:32:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T23:16:23.799Z"
+      "updatedAt": "2026-08-19T23:25:19.584Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 23:03:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Prince Harry and Meghan to move back to Britain, media reports say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2d3eUNITlMzVnBXbUpLNl9kT2JBWEFjUWlWaXh0UXVzSklRMVdIWlFpbUFqQ3NaTDBSLWtMZ1Fscl91YXJFRzhXMTRXZE5BUnpyelVRUFFOLXRSeWNQRmZ5MHZFeWtQb015VEhMWnJveXJQcmRDSExLdDVUaWV6SDZkcHNvZ3kwVUdVSHE0eVViUktTTHRybE9CaUxpSjFScHYtMlQxTQ?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 22:48:07 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US could cut key tariffs as part of proposed Canada deal, source says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
@@ -182,12 +194,6 @@
           "title": "Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5",
           "pubDate": "Wed, 19 Aug 2026 21:58:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Prince Harry and Meghan to move back to Britain, media reports say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2d3eUNITlMzVnBXbUpLNl9kT2JBWEFjUWlWaXh0UXVzSklRMVdIWlFpbUFqQ3NaTDBSLWtMZ1Fscl91YXJFRzhXMTRXZE5BUnpyelVRUFFOLXRSeWNQRmZ5MHZFeWtQb015VEhMWnJveXJQcmRDSExLdDVUaWV6SDZkcHNvZ3kwVUdVSHE0eVViUktTTHRybE9CaUxpSjFScHYtMlQxTQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 21:56:21 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3NKYnBaTEJPd09VZndtN19jYWFXX3FIZE1KZV9VSlp0NWxMNmZNbFZYemVWR0RWYnpUOWpQM2w4eWQ1aVQ3UEtCTVc5Y2Ric2lteHdZSmZSdkRKVXRDaTdoVDZNd3I4YUsxMnZLN0tuSkpSd1VmbnNEUEhSOEJKdi1Hd05iMU9MQmQzSVl3YmFCYklzRVFrbVlpcDZEbk54VS1GT3NJZllDeWRSZTl3dEp3?oc=5",
           "pubDate": "Wed, 19 Aug 2026 21:45:40 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG9LQ251bHQzZlRLUDhWa1JjNTNUUkh3TVN4YUZ3M09OU3d2MVYxUFdjTUdZYVBtQ1dsTEhQb0JpMXJxV1B2QjZwUFdWTVo3YU5VQjlxVGJKdDJUUXE1VFUzNDFDcWhkWE9fM1lCb21XcTRzN3FKQ3hIYW9KSXByWGVUQnB4XzlQbHJtWFl2V2RkV1FOZjhVendlV2djM2ZBRnJoMGVHRS01cTZpR3lvUQ?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 21:39:45 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T23:16:24.215Z"
+      "updatedAt": "2026-08-19T23:25:20.001Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-19T23:16:24.553Z"
+      "updatedAt": "2026-08-19T23:25:20.215Z"
     }
   ]
 }
