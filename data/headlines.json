@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-20T14:25:13.639Z",
-  "lastChecked": "2026-08-20T14:25:13.639Z",
-  "lastUpdated": "2026-08-20T14:25:13.639Z",
-  "generatedAt": "2026-08-20T14:25:13.639Z",
+  "fetchedAt": "2026-08-20T14:50:20.925Z",
+  "lastChecked": "2026-08-20T14:50:20.925Z",
+  "lastUpdated": "2026-08-20T14:50:20.925Z",
+  "generatedAt": "2026-08-20T14:50:20.925Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "At least 13 workers killed in landslide at Colombian gold mine",
+          "link": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 14:34:15 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
           "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
@@ -44,12 +50,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Israel opens up bids for highly sensitive West Bank settlement project",
-          "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 10:30:52 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Belgian car salesman becomes prince after royal parentage confirmed",
           "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 10:14:47 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T14:25:12.364Z"
+      "updatedAt": "2026-08-20T14:50:19.585Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T14:25:12.447Z"
+      "updatedAt": "2026-08-20T14:50:19.834Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Prices soar as Gaza smuggling booms. Officials, soldiers and middlemen are accused of cashing in - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMW9BTmJxYXY5cmY3R0ZXUjVwc2tuSjctNTRuazFKdXU4eHJhZ1pqYldwVGxvMFVKblRyVlFHUWNMbnhBcm5CcG9Gcl8xMzdzLVRRYzluRlVMQUNyUkNHWDlyQk5oa3BYWEtMMG1nX21oaUpTMndyQlFsUlV1eE1rUjdNZWltcW16UGtDWjNGQUtaNm1BXzhYWEo2WFFnZw?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 14:13:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Airplane pilot killed in collision with Pennsylvania police helicopter near runway - AP News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQemMxWERaSmxYcmRaYmJTbVl4cHZYWGZOQXBpejVVM1lqS1FnY2k3VER1Q0dPZU8wVlV4d0xwVnF6MVNIWkdfdE9ZdWJpT3lJLVVBd2ZfVWtvZ0oyaVU3ekJSTnB6LTllTmsybXk5YTlSVGc5aUNqNk1mMlJ2dGY4bzczcWs2WHVZX3hvMUZvcndfdm9mUFRNX1d4Ny1nWXA0R0VBbXhIOWFzaFhlTjlGUG5iTEM?oc=5",
@@ -142,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "North Korea fires barrage of missiles toward the sea after dismissing overture from Trump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVBfTGgzRkkzNXpqR1ZoSHZZUmIyYVVvc3NtRFEtajRSRVRiQVAtTzQ5SWRIQldqM2xTV2ROQmY1cjc3aGlBaEFsaU5yN0xGXy05azIwNXN4SUszUlhLVWpnNVhJNVI5OE51RGZ3MFpPUWNmcGdVc0ZOUXI4OW1Cc3JXVHFIRHZhSVZUbUZ3dUI5NWl6cmZnejg1LU5lX1VFd0xKdzN1Q2NPMXRydnU0UkZXck8?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 11:31:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Soccer fans launch global petition urging FIFA boss Infantino to resign over World Cup 'betrayal' - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkFFM2lkVkpZbktQVDhRcjlCd0xoU3VkNml3Z1cyb3RWdU9oWWV3Yk9DY3ktUU9CV0dha1hZME1RdVZaU0hyeXJzU0VjdDlLeGVEUjE2eVF4Z3RlMmluQ180WU1zNEYwMUpQSHBHOHZuOWlIeW9aZS1lSXpmc3NoX1JnQ2R5RC1SM19iWmp0Mk40ZkFrZ3gwZTRxUQ?oc=5",
           "pubDate": "Thu, 20 Aug 2026 10:39:00 GMT",
@@ -152,30 +164,48 @@
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hM3hYaFZYRUJhaHc2b0xNOFBYaGVEa0pBX0xNemRJVlpXdDUzcFBwZ1Q1eTdyYWY4N3JuM0dnZ3Q5d0hoWmxKSGtDNXR0NDRFMXUwY2RUYTFpT2poMzUwLS13aEt0OS1x?oc=5",
           "pubDate": "Thu, 20 Aug 2026 10:35:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Vietnam police charge man with rape after American woman alleges attack - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaTVtU1U1MkJzd1NXVXhHV01CeV8yTGtpYk8xQU94ZnlJQWRvWjNLX0picGZLLTJFd2RReDlLaDNDa3BWUmc3blRiYXZQaFUyTS0tUW5HcXBUMFVTSl9vZmFjVjdhZ0FQUm9LQkxXRXFaMnJZaTZoQXdha3ZUQUJtdTQ0RFlySk9H?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 10:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Prices soar as Gaza smuggling booms. Officials, soldiers and middlemen are accused of cashing in - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMW9BTmJxYXY5cmY3R0ZXUjVwc2tuSjctNTRuazFKdXU4eHJhZ1pqYldwVGxvMFVKblRyVlFHUWNMbnhBcm5CcG9Gcl8xMzdzLVRRYzluRlVMQUNyUkNHWDlyQk5oa3BYWEtMMG1nX21oaUpTMndyQlFsUlV1eE1rUjdNZWltcW16UGtDWjNGQUtaNm1BXzhYWEo2WFFnZw?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 09:50:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T14:25:12.928Z"
+      "updatedAt": "2026-08-20T14:50:20.271Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Crypto shares climb after Trump advocates for Clarity Act - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 14:21:22 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Regional powerhouses weigh no-confidence vote in bid to oust Infantino, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjJ6TVk2TGJSWlNGU1NiQWNNeDRDaGhRa1ZmNlNQSUxFSEFiZjI2SHViczZveVJ6ZWdta1o4Q0pDcC1VWGd3NFI5WjhvekFNM1VwWkQ5bjlqZ29YRXFYS1A4bGdfMTQzUkdPWGx2SjZERVZ4dkNwcmp4U2N0bmQ5MGE5SUw2WnJkRkV6Sy1GYjBFZWRRcFgtbE40YndqRGVSWDE3RDVGNDh2MDE5emd0TUhzZDdoMGZVeUVtYW14MA?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 14:19:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Celon Pharma's generic semaglutide drug matches Ozempic in early study, shares jump - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmZqUWR5MGt1TzZHMzk1SGs0dkZ3Y2R4Q0JLMWJVSENHbkM5QmlfMzliclZTcVpFWnpzLWllbG1aeUxZZXlMWUxqSF9xN0JfRWZDazhkYXlyWUNlMDdITXlzUTZyMGNZRW9zZHNFQkU5REtrZFBlRkp0V3cyMkZIQkVEbWhJck5FTS0yM044RGZkWURIVy1nSGxPQmRGakNHZTVmdVBpeHlvaHdnM0NYNi1Qal93YjU4UmdfMk9CVUtTRmQtNG5iMEVXZw?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 14:09:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Putin visits newly unearthed remains of medieval Russian prince - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXY0NGNLby1FUGdOcTYta1hKa3FnLXNXWmxNc0FKMHhOTDV1ZjgyRXlYX0xkRUdnSkRQRDRZYjR4aVRvRWpjcUFYX2JvVnFGWHVseWhvUm5kVWtOa3Y2b3ViN21BSmRuY21LS0NsYWdGcHc3MXNhUHlsTnF3bmJtUGU2blNKcWNOaVI0YU5iLTM4T2wyMFVaeDNNbTZJTFpkWXkyNw?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 14:07:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Wall St slips on rising bond yields; Walmart results weigh - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
           "pubDate": "Thu, 20 Aug 2026 14:04:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US envoy Huckabee tells Israeli settlers not to take Palestinian Americans' land - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNk15eGo2WTQ2MFVpa1ViTEt2aFhNMUd5OU0ybFNGanlqbFhPVzhOTlhOTU94MXM5MTc5M2lVRk1yYmhYYzMxR3NiZGdaS1NVWTlXTTFEaWZVRFF6TUozRUdTTnl4WUxxVGhjelJ0QTVIc0pRQnlPSUlncGRROWs4d3J1a0hCdmNTeHdwRWNNS0ZoYzJLeUQ0OW1vLWhEclZtVS1sYTl0bEoyaWN5a2tDQ2xGWnk2dGpPV3ZTSGU0UXZRSW9uNm5hd05n?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 13:40:50 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Regional powerhouses weigh no-confidence vote in bid to oust Infantino, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjJ6TVk2TGJSWlNGU1NiQWNNeDRDaGhRa1ZmNlNQSUxFSEFiZjI2SHViczZveVJ6ZWdta1o4Q0pDcC1VWGd3NFI5WjhvekFNM1VwWkQ5bjlqZ29YRXFYS1A4bGdfMTQzUkdPWGx2SjZERVZ4dkNwcmp4U2N0bmQ5MGE5SUw2WnJkRkV6Sy1GYjBFZWRRcFgtbE40YndqRGVSWDE3RDVGNDh2MDE5emd0TUhzZDdoMGZVeUVtYW14MA?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 13:22:28 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
           "pubDate": "Thu, 20 Aug 2026 13:20:02 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Celon Pharma's generic semaglutide drug matches Ozempic in early study, shares jump - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmZqUWR5MGt1TzZHMzk1SGs0dkZ3Y2R4Q0JLMWJVSENHbkM5QmlfMzliclZTcVpFWnpzLWllbG1aeUxZZXlMWUxqSF9xN0JfRWZDazhkYXlyWUNlMDdITXlzUTZyMGNZRW9zZHNFQkU5REtrZFBlRkp0V3cyMkZIQkVEbWhJck5FTS0yM044RGZkWURIVy1nSGxPQmRGakNHZTVmdVBpeHlvaHdnM0NYNi1Qal93YjU4UmdfMk9CVUtTRmQtNG5iMEVXZw?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 13:19:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: US designates American held by China as wrongfully detained - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDZ3UFNpc0w1UlZCenptNzdSNFYtdk5KOVc2MlNFQ1NvdVlRR19Kem9HUTBFTm9ZS2RtM211Z1NsMVZBTkRUeEQwaGRqZUotMGEtWW52LUtDMUI3SURnXzduRUJjblVQOVJEVU9ob0toUHlaNUdpbGxQc2ZkRXZMRExDVFNVbEpwUEZGbnpjanp2N2c2N2xWSlJOdXY0czFEMW1QMGFCTQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 13:14:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Evergrande founder Hui Ka Yan, from property tycoon to life in jail - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeU1JcFVldWhYODZiWmJKTWVWSTRCT3hKMHJ2TkhrcWhtODF5TGl0Q2xDdGNnOUVReEJlRXZ6SklhanR1Q0l6TG1aalNXVTlvRUdnZS1FclNQTGZRcFNXZEVkOU1WVFl0aXFnZDJ0RXpsRF9nSjdQMU0xZmJzZXpzVFJ2TEZZTzB3cE1BTV90WHVBaWN5SElEeFBKeU5XWlVnYjhOQzdR?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 13:12:21 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Prince Harry and Meghan to make shock return to Britain after moving to US - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPal9aT3dZNWdGaUFhcFY4bXBJTmFROGQtTWREY0dycUZSaGxybWswbUtENzFjc01aUTBmcG5WMThITjA3WVRtenRzdGpqVXNYZ2ZVUTY1NUFGcEVmajIzUVdyV2FKaGtFWEItUU5vb0d2U3cyRWlMbkREQU1JUnRneTczMWJBa0hGYlE?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 12:57:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T14:25:13.474Z"
+      "updatedAt": "2026-08-20T14:50:20.712Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T14:25:13.639Z"
+      "updatedAt": "2026-08-20T14:50:20.925Z"
     }
   ]
 }
