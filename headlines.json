@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-20T14:00:25.740Z",
-  "lastChecked": "2026-08-20T14:00:25.740Z",
-  "lastUpdated": "2026-08-20T14:00:25.740Z",
-  "generatedAt": "2026-08-20T14:00:25.740Z",
+  "fetchedAt": "2026-08-20T14:19:08.324Z",
+  "lastChecked": "2026-08-20T14:19:08.324Z",
+  "lastUpdated": "2026-08-20T14:19:08.324Z",
+  "generatedAt": "2026-08-20T14:19:08.324Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T14:00:24.782Z"
+      "updatedAt": "2026-08-20T14:19:06.858Z"
     },
     {
       "name": "NPR",
@@ -75,20 +75,14 @@
           "source": "NPR"
         },
         {
-          "title": "Privacy advocates call on Maryland to investigate data brokers",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-          "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
           "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
           "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Here's how the system to report problems in ICE detention has failed immigrants",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+          "title": "Privacy advocates call on Maryland to investigate data brokers",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
           "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -105,6 +99,12 @@
           "source": "NPR"
         },
         {
+          "title": "Here's how the system to report problems in ICE detention has failed immigrants",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+          "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Morning news brief",
           "link": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
           "pubDate": "Thu, 20 Aug 2026 04:52:29 -0400",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T14:00:24.822Z"
+      "updatedAt": "2026-08-20T14:19:07.074Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Prince Harry and Meghan are returning to the UK with their children - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVk02OF9KXzMzMFV3X3FiTGxqRDlGaG93MmpWbmdOenB1MXRYcXh1X0F3MmF4ZTE5N2hybUhMa1Qzcmp0LTBnYUx0c0ZMa3BWVDlOT0V3dFRBenNiZUM0dWhSckNrVFNROVFTZnJqY1V6ZjhTV2NsRHF6emNDSlVnMHY2NVFSTXpTb0o4Z21keThCRGtnRWEwQzdn?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 12:26:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Comedians Eric André and Clayton English settle lawsuit over drug search program at Atlanta airport - AP News",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1hLWlExX2ZkVG4tZ3dRS3JFQTZqLVhXMDBoWW5iZGFxc2Rpa2UzbEtMczhoU2l6NTBYOVJsZ2JDVGdRVWtkSTZwNXJkNlNILWtFOFBsV3RGQmVmS3Rrbk9qeXlvN2dRSjZYUnVHa1NFX0dnVlEzeDlSQnB2TzdUVEV3VW5Jam5INzI2TnZ2VXZJcGpCdDFlSmNBSmVYT1FsZVpSenA2RUptN2RDVDdzU0hMaUpQZw?oc=5",
@@ -158,24 +164,36 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
           "pubDate": "Thu, 20 Aug 2026 04:20:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A quiet channel between ICE and Iran shaped deportation flights, newly released emails show - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPam1JbUZXYXVPcGVfYlBKZENPYmxSdG1TVGdjSDVwZ2NXMEhDNDVaUlZtMUN6MUVEcVFsSTJsQzY0bGlrdkVxNjNSN1VBVDBfbEN6VW9fYkE5QUgyQzBVSVVZcGdzRXM1N2NXeGZoYk9tNk8yRDJWd0tvVFg1R0hfVHdvalEyd3FVX3V6dWNsSl9PYzBSV2NScTBnaTJQUWgwandGOW5R?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 04:02:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T14:00:25.243Z"
+      "updatedAt": "2026-08-20T14:19:07.650Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Wall St slips on rising bond yields; Walmart results weigh - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 14:04:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Walmart reports rare sales miss as consumers cut spending, shares fall - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 13:36:36 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Regional powerhouses weigh no-confidence vote in bid to oust Infantino, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjJ6TVk2TGJSWlNGU1NiQWNNeDRDaGhRa1ZmNlNQSUxFSEFiZjI2SHViczZveVJ6ZWdta1o4Q0pDcC1VWGd3NFI5WjhvekFNM1VwWkQ5bjlqZ29YRXFYS1A4bGdfMTQzUkdPWGx2SjZERVZ4dkNwcmp4U2N0bmQ5MGE5SUw2WnJkRkV6Sy1GYjBFZWRRcFgtbE40YndqRGVSWDE3RDVGNDh2MDE5emd0TUhzZDdoMGZVeUVtYW14MA?oc=5",
           "pubDate": "Thu, 20 Aug 2026 13:22:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Celon Pharma's generic semaglutide drug matches Ozempic in early study, shares jump - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmZqUWR5MGt1TzZHMzk1SGs0dkZ3Y2R4Q0JLMWJVSENHbkM5QmlfMzliclZTcVpFWnpzLWllbG1aeUxZZXlMWUxqSF9xN0JfRWZDazhkYXlyWUNlMDdITXlzUTZyMGNZRW9zZHNFQkU5REtrZFBlRkp0V3cyMkZIQkVEbWhJck5FTS0yM044RGZkWURIVy1nSGxPQmRGakNHZTVmdVBpeHlvaHdnM0NYNi1Qal93YjU4UmdfMk9CVUtTRmQtNG5iMEVXZw?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 13:19:49 GMT",
           "source": "Reuters"
         },
         {
@@ -191,9 +209,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Wall St set for lower open as bond yields climb; Walmart falls - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 13:12:15 GMT",
+          "title": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 13:04:41 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPal9aT3dZNWdGaUFhcFY4bXBJTmFROGQtTWREY0dycUZSaGxybWswbUtENzFjc01aUTBmcG5WMThITjA3WVRtenRzdGpqVXNYZ2ZVUTY1NUFGcEVmajIzUVdyV2FKaGtFWEItUU5vb0d2U3cyRWlMbkREQU1JUnRneTczMWJBa0hGYlE?oc=5",
           "pubDate": "Thu, 20 Aug 2026 12:57:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US weekly jobless claims dip in latest week - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVFEb1dscXBJNUlSaXpVaFpnLTdrU19DbF9DMGptQ2tYVjlEMUg5Q3N4UENXT0ZPMDYxQ1FEWGo4WTZkN2pFN2pmaEtDc2VTRDVBZlM3ZGNLQVlqT0pUVEJ4c0plaUNsV0dfOEs2R3V2cHB5TmcxZndpQWVEaEhLeUFsQ0lqLWhPLUtJRzVn?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 12:43:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Walmart reports rare sales miss as consumers cut spending, shares fall - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 12:36:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bangladesh elects ruling party veteran Alamgir as president - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT1J2TXQ5b3NQeHlmcS1DT2FkNF9KOUl0Tk1PNld0Tm5sMzZkNVFBWFh0MzlORWw1MXctdk5QUXpKbWZOdkZsczRiaHlHUTdRejBhWS0zRW9tMWVGOWt6Z1pvdy1IeVZvcUpQckgySTlGRXZ5akVfeUZKQkRxcU9UanBQdUVvSFVhTW4zUGlhb1BsS0NsN1dBV1VySFRuSU9Rdmw4UUdPZGppWHl3V29fWQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 12:35:09 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T14:00:25.693Z"
+      "updatedAt": "2026-08-20T14:19:08.093Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T14:00:25.740Z"
+      "updatedAt": "2026-08-20T14:19:08.324Z"
     }
   ]
 }
