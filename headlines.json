@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-20T03:25:17.079Z",
-  "lastChecked": "2026-08-20T03:25:17.079Z",
-  "lastUpdated": "2026-08-20T03:25:17.079Z",
-  "generatedAt": "2026-08-20T03:25:17.079Z",
+  "fetchedAt": "2026-08-20T03:39:44.863Z",
+  "lastChecked": "2026-08-20T03:39:44.863Z",
+  "lastUpdated": "2026-08-20T03:39:44.863Z",
+  "generatedAt": "2026-08-20T03:39:44.863Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T03:25:15.841Z"
+      "updatedAt": "2026-08-20T03:39:43.361Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T03:25:15.925Z"
+      "updatedAt": "2026-08-20T03:39:43.650Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "In Florida, Wasserman Schultz sparks a debate over what representation means in diverse districts - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkEweWFqLTIxWkhzcXZ3SmlDV2pYS2s1bjRPaVhlbmRRNmk2cU5scktMYWtmaHVEUkpKWFJ2X1JXQkc0aFhzaUJsZWNkY1pHUGotRkF6VllTT2lZZzFLLTRweDlILWNaTFVjVy1PRFoxUUFiMHo3U05KRkwybS14ZE9uTVhHZGdQUVdHU3RYRXBXMHI4ZldXZ1dUdFVDajI2dFhyZ3RzbTM1NHc?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 03:22:27 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "National security question trips up Sen. Darline Graham in South Carolina debate - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVFLTG9abjhDOTUtZlhjVEdRSHp5b1g5Z0twZXVjZ2VSeV9ZYXdRTVVHZUxTUXdKS3lnSUZ0ZTdNMDRBTXVYdkNXSUpRcE9LYjZvSzdHX0w2R3ZFcnNsbTNBcGxJRFJRal9IMkpoSm1WME9GSmp0ZV9feXZHNUlTdzlrUmRoMFNYUjl3ZHpxS29DTWEtVlIwUEJPN0NldmRCQWpJRTB2TWt3Zw?oc=5",
           "pubDate": "Thu, 20 Aug 2026 01:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Israel’s deadly Gaza strikes cast doubt on ceasefire progress days after Kushner visit - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3o3MnpVX0FDel85T2RxZC1SWGpMU09nSlF3SG8xTDQ1VWlhZDNSVzVWdWRBa3g1QXlpemJ3LXdNS1RicE9XaU5YaU81bnlzaV9JcEtSQ3lkUlJoWDJYdk5DWk96bG83R0JmaldOY3NaOE96clFIN3ZuNUZONGVPSnBtSmF0NzNYT0xqRkJWZ0YwNmFBRlF2QjJVczYzVTkxTU03RXN1c3Q?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 01:36:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T03:25:16.388Z"
+      "updatedAt": "2026-08-20T03:39:44.156Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Citi, HSBC, StanChart adopt Ant International’s forex AI tool - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUpsbUhGRVo0V2tja0RmZS05YUUySzFMNWVuTERqc2R2ZWhyZlRqVEI5QTVYLUpxMkFGRDVrQVBUVHppY3hRQkdieEFPRkhmSFdsV0dGUHVCNmN3VzltT2pnb3IxQmZ1bDNLNmZRVFBuOXJYZXVLd1c1ampCZ1Fqc0tnN0tOQURWdHNDQldPUk1xUW9SZG5vQV9nZExUM0duQTdnLWd4WmQ5LTR3ZW8zRg?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 02:06:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Bonds steady after US Treasury comes to the rescue - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0NlakpDYU5qTWhFZm0wLUEtbmR3akx4YmNsV25UX0ZiRWdDaThaSkpBeUg3blJNUS0wZFFLLUhyaWdGVklzZElzdWV0UHl6bkM1Y3RqZGJhRndHT25WYThIWUhpTkZhSmpwS0MySmpuQmptQm5MY2ZfMU9aN3Q1bkdyTQ?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hpTTJYeTlzS2hqZHBTdkg1TjhTUklENW93WjNKNjgzZlJsaGxHTW1wTlliVEttM0lndVdGeGRBUHpHaWR4Q3JrTTJ3dThqMzl0VlJxUWZTMXdFS2R2QzlhdTRkaTFVNEoyTzFVZnptUlVqemxCUFJyS1lyVjZqNW1EOERzU3c3dW1rdmwxbjl6RGJMVmVtN1lmbHVscWNkMlVTWVhHeDd0MThsYzV3QnNCaURqb2c5b0E?oc=5",
           "pubDate": "Wed, 19 Aug 2026 22:08:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5",
-          "pubDate": "Wed, 19 Aug 2026 21:58:39 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T03:25:16.886Z"
+      "updatedAt": "2026-08-20T03:39:44.613Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T03:25:17.079Z"
+      "updatedAt": "2026-08-20T03:39:44.863Z"
     }
   ]
 }
