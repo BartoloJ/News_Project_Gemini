@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-20T20:00:20.123Z",
-  "lastChecked": "2026-08-20T20:00:20.123Z",
-  "lastUpdated": "2026-08-20T20:00:20.123Z",
-  "generatedAt": "2026-08-20T20:00:20.123Z",
+  "fetchedAt": "2026-08-20T20:24:29.971Z",
+  "lastChecked": "2026-08-20T20:24:29.971Z",
+  "lastUpdated": "2026-08-20T20:24:29.971Z",
+  "generatedAt": "2026-08-20T20:24:29.971Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+          "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 20:08:29 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
           "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
           "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 17:14:55 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
-          "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 16:53:20 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T20:00:19.001Z"
+      "updatedAt": "2026-08-20T20:24:28.615Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
+          "pubDate": "Thu, 20 Aug 2026 15:54:19 -0400",
+          "source": "NPR"
+        },
         {
           "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
           "link": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
@@ -99,24 +105,24 @@
           "source": "NPR"
         },
         {
-          "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
-          "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "They grew up with disability rights. Now, they're fighting to keep them",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
+          "title": "Privacy advocates call on Maryland to investigate data brokers",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
           "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T20:00:19.141Z"
+      "updatedAt": "2026-08-20T20:24:28.653Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "A magnitude 6.7 earthquake has shaken Peru’s southern Andes, no immediate damages reported - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU0s3OExOX3RaT0QwSGZwQWhEdUZ4am95Y19SVzZDN1lUQ2cwU1dHVGdBNlM2dWt2a1pZcnBEeTVqaGduNWRDc3IxVGJZZ0hxVERYcVZMV2R1aGc2Wk1xVUI3dTFDS1pla210OERtaTFQSTU1Z3BJWGJ2MXJlLU5BOF9UNG1sWi1SUVpqT2k5ZWRaRzhHb3c?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 18:50:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Iran dismisses US economic threats, and other developments in the Middle East - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZUo2YS1oV3h0ZEw3eTYxSExqYk1RUnpscEFodEZRaXNWeTRXd25BbGxXYlJlVFA3bzdMdVFiQmFzb0dhWnFyRFVjWlo5Rm9mVmhwY3lvUVZ0YmZTMmlkdnd1VUV3UUIwMERCSWNMWkFsVnotdTVOS0tpSHU5QkphbWs0R2VEMDY0T1Nv?oc=5",
@@ -127,6 +133,12 @@
           "title": "Higher yields in the bond market and a drop for Walmart drag US stocks lower - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0ZaR0FPdTIwcWpTRElWLTNTNTdqZEpYY3RPVnlQR21Cb2lZV056TkpGR0ctbUdzMnFwS0VydHdkdWZhSmhObElQY0dNcUN0SmpyRTBZX2U2U2dCUjF3NjRMNWI3TWtFWVJiWXNqbFFsWkNlRklBbzA3N3Iyb2gyUWUyUXl2U0VXeFVWeWd3WTlBTjZ1amJrQjlyX2xYR3c?oc=5",
           "pubDate": "Thu, 20 Aug 2026 18:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Michael Cohen, Trump's former fixer-turned-enemy, is hosting the president on his radio show - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZm1fR2tDZHdfcG1sU2ZLaTBGODJIeUdYVVc1WEIyV0l4QS1EZ1RPVXdCeS01M1RKVGd1SFJrMGxWVEJIMXdNeGx3OGpuMkJkeWtzY2hWREhLNjN4M3R5NGFyYUxtZ0pjd0V3bnlMeldtVlFxcVFMbUVoVG1WWVRYVnZVcW50RDVycDhxUklyOENianV5cHZnNVQ1ZUJaX2Rka2l2ZTJKdTV1RXNXNUgwTjAwemRPdTRFWVE?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 18:14:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaTVtU1U1MkJzd1NXVXhHV01CeV8yTGtpYk8xQU94ZnlJQWRvWjNLX0picGZLLTJFd2RReDlLaDNDa3BWUmc3blRiYXZQaFUyTS0tUW5HcXBUMFVTSl9vZmFjVjdhZ0FQUm9LQkxXRXFaMnJZaTZoQXdha3ZUQUJtdTQ0RFlySk9H?oc=5",
           "pubDate": "Thu, 20 Aug 2026 17:41:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Prices soar as Gaza smuggling booms. Officials, soldiers and middlemen are accused of cashing in - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMW9BTmJxYXY5cmY3R0ZXUjVwc2tuSjctNTRuazFKdXU4eHJhZ1pqYldwVGxvMFVKblRyVlFHUWNMbnhBcm5CcG9Gcl8xMzdzLVRRYzluRlVMQUNyUkNHWDlyQk5oa3BYWEtMMG1nX21oaUpTMndyQlFsUlV1eE1rUjdNZWltcW16UGtDWjNGQUtaNm1BXzhYWEo2WFFnZw?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 17:27:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A Russian missile and drone barrage kills at least 16 in Ukraine’s Kyiv region - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEM2OWViY2VqbDVyZFBIWHk5T05RYzVwbDEzeUQxZmtlQk9BRzJqVzVwWXZmQ1pwVnZXUkt2eVJLb3RncnpLUTJzT2txYlBVakhMWXpSY3BzR0JwM3dJVmhDZ1JTX3AwQUtuc0VXdmljOHhFeWlzdjlXakYtUmc0ekhOalRSZWZ3VVVYMzg4MUI3bDJa?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 14:47:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T20:00:19.641Z"
+      "updatedAt": "2026-08-20T20:24:29.274Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Wall Street sinks as bond yields rise, Walmart results disappoint - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 20:00:57 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Crypto shares climb after Treasury's doubled buybacks boost risk assets - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5",
@@ -182,6 +188,12 @@
           "title": "Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5",
           "pubDate": "Thu, 20 Aug 2026 19:14:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "FBI raids Democrat Swalwell's home in sexual-misconduct investigation, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLUJTNG40SVVHLWs1Q2JnVlRROFhad1REekN2X0tZQUlWTjFlUEhKZExkSHc5b2VTbUdDYl9OZjlKUThzU3BVdHhtMTl6WFkzUkZhZGVvVFc2YlE1Wk9pZ3VvQm9RZFJDRThtZWZRYmhGSWZVQkJjLUdkTk93S2VYSEdMU2NmbFZGYWtILUhKQUZDd0M5WTdMZzNSQXlieEVsUnJhZ19SbV9zUURWXy14akl1NnRyNkVydUpfS3RtUlVWeUhUWlZrb0tn?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 18:49:57 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Wall St indexes fall to two-week lows as rising bond yields, disappointing Walmart results drag - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 18:38:00 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "US imposes more sanctions on Cuba - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUTBXOUxEdGNvYndTMlBGZHRFQk1wNU8tZk5DV29LdHNJMVlEcU5LcHNxTHJKTlMzWFJNZ0ZWelJ2Vl9GaXl4cklaVDcwd2dld2YyeDRicXVxQWhIcWpSTEY4emRvc3JEd3FrUmRnUU80UFdLdDNRN0IxYW5wVkV5NDBlc0VNanFV?oc=5",
           "pubDate": "Thu, 20 Aug 2026 18:22:11 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Former PM Imran Khan would not confront Pakistan army chief if freed, close aide says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFZQcDhFcFRCOGNyelJ6Q0V1c0k3VHh5WG96VU9MbE83RWgxZDN1TDV5VWtKbHB4NUR5MDVod1k4YTVMQ3JHUlVGS1Z0ZGU3V05XR2MybG95NjhoUHhJMEZmdTJiVGdfUC0yc0JvZjN4Yy11STkteFlQeEJuTFRycjVEVUxOX2pueWRJallNcDVBRlJzRVRPVm0xU185aGNBRFlpTWptS0JtcklJcHl0cGNoZW9hN2FmSmFyVlA5Y2tzNGoyRkVkMk1lazB0T2M?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 18:15:38 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T20:00:20.084Z"
+      "updatedAt": "2026-08-20T20:24:29.758Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T20:00:20.123Z"
+      "updatedAt": "2026-08-20T20:24:29.971Z"
     }
   ]
 }
