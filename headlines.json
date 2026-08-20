@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-08-20T06:25:12.998Z",
-  "lastChecked": "2026-08-20T06:25:12.998Z",
-  "lastUpdated": "2026-08-20T06:25:12.998Z",
-  "generatedAt": "2026-08-20T06:25:12.998Z",
+  "fetchedAt": "2026-08-20T06:50:15.625Z",
+  "lastChecked": "2026-08-20T06:50:15.625Z",
+  "lastUpdated": "2026-08-20T06:50:15.625Z",
+  "generatedAt": "2026-08-20T06:50:15.625Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+          "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 06:44:20 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+          "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 06:39:14 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
           "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
@@ -17,18 +29,6 @@
           "title": "Missing teen hiker found dead in Australian bush after eight-day search",
           "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 05:45:53 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-          "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 05:25:23 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-          "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 05:10:09 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T06:25:11.840Z"
+      "updatedAt": "2026-08-20T06:50:14.109Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T06:25:12.043Z"
+      "updatedAt": "2026-08-20T06:50:14.441Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "States take Meta to trial in California in the biggest fight yet over social media harms to children - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOG5rZWdhbGRKSkV4UlBQOEtWWVpoS05LbkFqcWVRMzFwWm9OV0pFRXpQNXB4R0tRNEJneDk5eHhYZlpJYWJDQnNjT0Q4QlpCTTlsbE5TUS1Rd2RZX0lSTFJpa21ycDZXWDNTcENUcG9Sc01UeHphX2V5bDR1dllld0I4V1d1Q3ZYSXpURVRfemRqUVhvLWQzd2RYaTZuN1lrY0E?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 05:51:06 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmpoWmRzcDBhN3VqXzZfdWxvTDMyczhVOFJ4WTFzdzZBcGprR0k5VzFDb0lKbG5TMjZHR0I0VWlKd3NiSXg1VTdsZ253LTZMRFlJaWlKOGdVRm41S2QxSkNpX2NJc3RxMTY4UWRLVVI5T1NSQ1plNEJWc2xBbVJrUkI4eFNxOVloY1pDeXl2MTg1YnhDd2ZF?oc=5",
           "pubDate": "Thu, 20 Aug 2026 01:26:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "'No serious dispute' that Comey's seashell post could be read as a Trump threat, prosecutors say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTWV3U0xxeEl6WFd6NFBnQndaY2loSXdtOW5MRjdWMnF4NENURXZEY19qbnFZWFNucnNiRkZTODJsN1pEcGpGOFNSb3piUmpTa2Y2YkktWGRyel9yVGF4alFJUW1HaXRJY0p1TVRabnpVNDJKcHJJbnpzSGlwdGxfNU9yaXNjVGZnMGktV3BWQ1BrSzAy?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 00:19:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T06:25:12.475Z"
+      "updatedAt": "2026-08-20T06:50:14.881Z"
     },
     {
       "name": "Reuters",
@@ -182,6 +182,12 @@
           "title": "Samsung Electroncis to announce more than $72 billion shareholder return programme, media reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdWRncjVuVTJaSXpDT1l5a1FIWGxEZ1hnOGRyYWNUZDF3Y0RqakZ5RzJmeDVNbzlNNDlzbDRXNk41RWpGYmUyVlg4SEcxVi1kX1NUOUphS2R4bVZQY3ZSWDhIU2dGWVhzMkVRLVh6bTRyM0ZlVzdlbjFnNnlqVUxlUzllT0NsNklSWlNrRUNlWmZqOFNPSUFZeWtmdWNhd2hGTEY4LUZybHlCWTVzQlNlRWxtTjgxLU1udjJSZ1BrNWdnZzdJQ1lvSVJ3bzNqUQ?oc=5",
           "pubDate": "Thu, 20 Aug 2026 04:44:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Taiwan proposes boosting 2027 defence spending 18% to a record high - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkhITHJrak1JYzUzNnhrb1lqUVVRY1J0NWJ1VExDVGptcDJYNTZhYnlhS3ZJbEFtejZYdlFHbVhpRzNDaTVWOEZvb0xJNXNneG1rZllid1FlQVR6dkgyZEJnMGFIcmZDV1picjdfMVZiTXJsZVNuX25nVEttNUxfVUc1WkxmQTRxUUtxdEdJTnZzaHFYM1pFd2p6OWh6LWdkQXJtSXNmQjNLbUdlTEk2Q2xmVG9KNHc?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 04:42:00 GMT",
           "source": "Reuters"
         },
         {
@@ -209,20 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Hawkish RBI minutes, softer dollar soothe rupee sentiment while intervention boosts - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMldTN1NDcXVUVXBXMTU2cTkydklrSmdxazJwNHVDZUJ0VTh2cnpOd29VcUNjdDItanZZWXYxdGlEUkRUY1F6WDdXVThQcldkeHhHaGkzV3ZKTzRTd3JPMy1UeWVUSTMzRVVDdFh5TW4ta3NWZlA2dXkxdU5pWDQyZ3g3d2p4QVFMYXBkbTJfRnpWdUViNmxSYUNLU1JKeEtONWNwUEdiSnhaQWk2TFE5N25YdHVGTXFNRWtpWm1OZ1FNdw?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 03:04:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hormuz shipping unchanged amid US-Iran stalemate, data shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2wyclNjWVpvOTM3X0dCUjJNdEhZYkYwOC0taHk5bnNRXzZ2d3R2V092Z0pNTlBiVDdzejJXS0ozSnc1aGRjenhxbXRUY3RsMjgzUV9wSkFlTEJxbk1VbUFvbDZMTjhwTXpzR2lJVndmanZhUDhudjFlMUNVdVptcjlQYXZ1UTczRnVNM3pIUTQzQ3ctcUxwd2VYalFHYXRXdzJHemNSOUE5Vmwzdzd0NFNEcw?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 02:58:00 GMT",
+          "title": "Magnitude 5.9 earthquake strikes Indonesia's Flores, EMSC says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWUV6RFdxaHpsN2ZwandzdFNTT2VxdVg5TThHNDJfbHBYNVlQc0pQYXpGY0Nkb1BGOUlqaVRhbTlWRUJFT3BoaE9DTEwtSWdSSllhdTkzbVNKSk1GWnl1Um5BbEJybDJoYWRYbTlqaTNLenBzZ2JacFhfdUNVLTUxSDRsWVNpcDBldXd4LUhPdWktQXlIUnFpRERsUHVLMmZsc1FlRzkyb0VYbVJLQ25oT3NRdHJ2T0E?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 03:05:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T06:25:12.866Z"
+      "updatedAt": "2026-08-20T06:50:15.306Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T06:25:12.998Z"
+      "updatedAt": "2026-08-20T06:50:15.625Z"
     }
   ]
 }
