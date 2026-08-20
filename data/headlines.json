@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-20T12:00:22.090Z",
-  "lastChecked": "2026-08-20T12:00:22.090Z",
-  "lastUpdated": "2026-08-20T12:00:22.090Z",
-  "generatedAt": "2026-08-20T12:00:22.090Z",
+  "fetchedAt": "2026-08-20T12:25:13.331Z",
+  "lastChecked": "2026-08-20T12:25:13.331Z",
+  "lastUpdated": "2026-08-20T12:25:13.331Z",
+  "generatedAt": "2026-08-20T12:25:13.331Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T12:00:20.479Z"
+      "updatedAt": "2026-08-20T12:25:12.106Z"
     },
     {
       "name": "NPR",
@@ -75,14 +75,8 @@
           "source": "NPR"
         },
         {
-          "title": "Privacy advocates call on Maryland to investigate data brokers",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-          "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Here's how the system to report problems in ICE detention has failed immigrants",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+          "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
           "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -93,14 +87,20 @@
           "source": "NPR"
         },
         {
-          "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+          "title": "Here's how the system to report problems in ICE detention has failed immigrants",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
           "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
           "title": "Disabled adults learn and work in their communities. That right is under threat",
           "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
+          "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Privacy advocates call on Maryland to investigate data brokers",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
           "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T12:00:20.682Z"
+      "updatedAt": "2026-08-20T12:25:12.207Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Comedians Eric André and Clayton English settle lawsuit over drug search program at Atlanta airport - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1hLWlExX2ZkVG4tZ3dRS3JFQTZqLVhXMDBoWW5iZGFxc2Rpa2UzbEtMczhoU2l6NTBYOVJsZ2JDVGdRVWtkSTZwNXJkNlNILWtFOFBsV3RGQmVmS3Rrbk9qeXlvN2dRSjZYUnVHa1NFX0dnVlEzeDlSQnB2TzdUVEV3VW5Jam5INzI2TnZ2VXZJcGpCdDFlSmNBSmVYT1FsZVpSenA2RUptN2RDVDdzU0hMaUpQZw?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 12:10:14 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Chinese court sentences founder of troubled property developer Evergrande to life in prison - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmpPc0tFMWFFbVdNcHBFUnNjM2h4QjhCVkFNcXU5Tk5YcXNmZWIzNUhEOGRhRlpfZFFwZGN6SW4wUjQ2T1hhbHdzUmltRFNTYURYd3NncEF6R3gyQ3hhQWxLSFFqU3dRX3FQeWMtbTQ5eGNZekZldjlVVlNLeWpFV2FjRUVIazYwQmdGVjI5eXI0dHY3NVljWjhtLWtCYVZwZ2JYSA?oc=5",
@@ -154,20 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Prince Harry emphasizes need to better apply veterans' skills during roundtable with service members - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGJBUWQxd0N3MzhscW1HcGdsX2lkZGVsZFp4U05sU1ZHd1NNOGtENEpwUXZ1X3hyRkZQc01tYzN6S05hVUlxRDJySlVtVDY3YmpmLTh6aGRaVHVVSFJnaTE1b1NUZW5mTHZTcy1fX0Y5ZHBIc1VydGsyWllHYl93OVZ3SWJuajMzd2pzQU9GcXZzcENKR3lSbXljVE44UWg4Umx4dE9WVEJ3MEJlQlAwSg?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 03:23:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Prince Harry and Meghan are returning to the UK with their children - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVk02OF9KXzMzMFV3X3FiTGxqRDlGaG93MmpWbmdOenB1MXRYcXh1X0F3MmF4ZTE5N2hybUhMa1Qzcmp0LTBnYUx0c0ZMa3BWVDlOT0V3dFRBenNiZUM0dWhSckNrVFNROVFTZnJqY1V6ZjhTV2NsRHF6emNDSlVnMHY2NVFSTXpTb0o4Z21keThCRGtnRWEwQzdn?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 02:30:00 GMT",
+          "title": "Pilot killed in violent collision with Pennsylvania police helicopter - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQemMxWERaSmxYcmRaYmJTbVl4cHZYWGZOQXBpejVVM1lqS1FnY2k3VER1Q0dPZU8wVlV4d0xwVnF6MVNIWkdfdE9ZdWJpT3lJLVVBd2ZfVWtvZ0oyaVU3ekJSTnB6LTllTmsybXk5YTlSVGc5aUNqNk1mMlJ2dGY4bzczcWs2WHVZX3hvMUZvcndfdm9mUFRNX1d4Ny1nWXA0R0VBbXhIOWFzaFhlTjlGUG5iTEM?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 03:37:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T12:00:21.309Z"
+      "updatedAt": "2026-08-20T12:25:12.710Z"
     },
     {
       "name": "Reuters",
@@ -179,9 +179,21 @@
           "source": "Reuters"
         },
         {
+          "title": "Wall St futures muted as bond yields resume climb; Walmart drops after results - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 11:40:44 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Prince Harry and Meghan to move back to Britain - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPal9aT3dZNWdGaUFhcFY4bXBJTmFROGQtTWREY0dycUZSaGxybWswbUtENzFjc01aUTBmcG5WMThITjA3WVRtenRzdGpqVXNYZ2ZVUTY1NUFGcEVmajIzUVdyV2FKaGtFWEItUU5vb0d2U3cyRWlMbkREQU1JUnRneTczMWJBa0hGYlE?oc=5",
           "pubDate": "Thu, 20 Aug 2026 11:38:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China urges South Korea not to take sides, blames US policy for Korea tensions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFJ3Y2lDMVg4NU1rV1ZJNU9FRHNQc3JLekgxQ0tOSUdDRHo3SVlMbmtjQWROSFZ2YUgzaVFKVlhKSTRLNV9wTnJpTGNjWWIyQ19ULVRVeGtzNXlXLVNhSDVfZGc1SktCdDhOZ0M1a1dQdFhPQmdiRHNrSWVDSGhzOUp1aGNWUFVvSkIzZWJ6Q0dnVVJmekFLY29hTW5MTEdTTmxRdk5sZVpRNER1TFhhN0pxWE5KWVZ4TXYxWjI5T3NVMzQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 11:28:08 GMT",
           "source": "Reuters"
         },
         {
@@ -193,7 +205,13 @@
         {
           "title": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 10:45:34 GMT",
+          "pubDate": "Thu, 20 Aug 2026 11:16:30 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Venezuelans and Cubans among deportees to Liberia under Trump deal, official says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcXdrbkRyd3FOTF8wdXNGSkRHMWJmaEJBQUtmMDhBcnhiTHJ6bmpWRWV3LVREeGlkeC1BUFEzU2xGUmdIYVF4dXNLRmctcmtyZkMyVVJINm1GUE1yaXc4V1FzQmlNbktwVklkckZPQVV5S1kwejhDTzRLRjVQczFtRVVfSERnamVlaVFBSC13SDNfYkgwTFhtaUJ6dEdxOGlFaWJhOERncnVkWkttUV80SV80N2xOQW14WE1BRmNzaw?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 10:59:53 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlBmQnM0aFNIQVdZT0R1RXFORkNQNnI1bUlYNlQtMWYyekp6QUJ2cmpCdTZoeE93LXRrdGhjNm5vbTlWd2JmREtJcFRfOFBNVGtJeHd5b0hqZ2pZY2VXTGZnQjN3MWRVVVNKVnNSellqdXRhbEFXZDU4NHlDZ1hobENyVVpwZWNSakY1M000T29YNGFIUTRxMGZGUkNGZ29vSi1RNXF4SnUwMkFDVXNFdG1FOC1iUQ?oc=5",
           "pubDate": "Thu, 20 Aug 2026 10:40:10 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Alibaba reports 9% rise in quarterly revenue - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2tiUnl3QjZwYUtIMS10blVfb0hldWgzc21OVk40S3lIV0g1LTdiakVxYkt5Wk9BTUdOQ3FwTEpVV1JwRi05aGRVR1B0c1Bya29xMGpxdEZiR255eEdDdUZURlJtbXJ6QUpiQktIT0hGSEF4ZkV3Ry0zNlV2aXhUYzFZVVJWMllsQ3FFZ1FiMGk0bUNlTHhHcnBNMlMyUmJTYTdSTg?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 09:43:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: US designates American held by China as wrongfully detained - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDZ3UFNpc0w1UlZCenptNzdSNFYtdk5KOVc2MlNFQ1NvdVlRR19Kem9HUTBFTm9ZS2RtM211Z1NsMVZBTkRUeEQwaGRqZUotMGEtWW52LUtDMUI3SURnXzduRUJjblVQOVJEVU9ob0toUHlaNUdpbGxQc2ZkRXZMRExDVFNVbEpwUEZGbnpjanp2N2c2N2xWSlJOdXY0czFEMW1QMGFCTQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 09:21:16 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China urges South Korea not to take sides, blames US policy for Korea tensions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFJ3Y2lDMVg4NU1rV1ZJNU9FRHNQc3JLekgxQ0tOSUdDRHo3SVlMbmtjQWROSFZ2YUgzaVFKVlhKSTRLNV9wTnJpTGNjWWIyQ19ULVRVeGtzNXlXLVNhSDVfZGc1SktCdDhOZ0M1a1dQdFhPQmdiRHNrSWVDSGhzOUp1aGNWUFVvSkIzZWJ6Q0dnVVJmekFLY29hTW5MTEdTTmxRdk5sZVpRNER1TFhhN0pxWE5KWVZ4TXYxWjI5T3NVMzQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 09:16:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T12:00:21.807Z"
+      "updatedAt": "2026-08-20T12:25:13.179Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T12:00:22.089Z"
+      "updatedAt": "2026-08-20T12:25:13.331Z"
     }
   ]
 }
