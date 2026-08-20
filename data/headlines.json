@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-20T15:50:15.580Z",
-  "lastChecked": "2026-08-20T15:50:15.580Z",
-  "lastUpdated": "2026-08-20T15:50:15.580Z",
-  "generatedAt": "2026-08-20T15:50:15.580Z",
+  "fetchedAt": "2026-08-20T16:00:20.929Z",
+  "lastChecked": "2026-08-20T16:00:20.929Z",
+  "lastUpdated": "2026-08-20T16:00:20.929Z",
+  "generatedAt": "2026-08-20T16:00:20.929Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T15:50:14.126Z"
+      "updatedAt": "2026-08-20T16:00:19.635Z"
     },
     {
       "name": "NPR",
@@ -99,20 +99,20 @@
           "source": "NPR"
         },
         {
-          "title": "Privacy advocates call on Maryland to investigate data brokers",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+          "title": "The system meant to protect ICE detainees has collapsed",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
           "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "The system meant to protect ICE detainees has collapsed",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+          "title": "Privacy advocates call on Maryland to investigate data brokers",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
           "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T15:50:14.440Z"
+      "updatedAt": "2026-08-20T16:00:19.841Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T15:50:14.996Z"
+      "updatedAt": "2026-08-20T16:00:20.282Z"
     },
     {
       "name": "Reuters",
@@ -188,6 +188,12 @@
           "title": "Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5",
           "pubDate": "Thu, 20 Aug 2026 15:08:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Trump administration to back US minerals projects with $500 million in grants - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdThFUDZLSTMyUHJsWGcwcS16TExSR3JHMnp1R25OQWltNmp4TGZ2R3dlbDJRQ2taWnVBODlVNXVOMUFRYmI5U3pEbHktb2xRYk5lZE00TzBqdmZqdXBzY3ZZaFVqRTdGQnhlSDdGMmpRbWpwblRkandfRmFnWUhwbUpDRmF4dk1UUVVGdmdlZGpoYWNiM1d4QUowU2x5aFhqMnM4d1E4ZEN2VVZ3LVdxYUpUQWM2bEF5dkgzSkstOA?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 14:55:24 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjJ6TVk2TGJSWlNGU1NiQWNNeDRDaGhRa1ZmNlNQSUxFSEFiZjI2SHViczZveVJ6ZWdta1o4Q0pDcC1VWGd3NFI5WjhvekFNM1VwWkQ5bjlqZ29YRXFYS1A4bGdfMTQzUkdPWGx2SjZERVZ4dkNwcmp4U2N0bmQ5MGE5SUw2WnJkRkV6Sy1GYjBFZWRRcFgtbE40YndqRGVSWDE3RDVGNDh2MDE5emd0TUhzZDdoMGZVeUVtYW14MA?oc=5",
           "pubDate": "Thu, 20 Aug 2026 14:19:16 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Yemen's Houthis say they attacked Najran airport, Aramco facilities in Saudi Arabia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaG03UE5RQVR1RzZTc3d2REJhZVRDUWZRbkZtcnZnUUFWMS1UenhvQnZ3SHozRTA2TEZoRW91X3pRQm5DbkdsYm5fRlJfN0I0YmZ3T3BlQ2YwUUQtS0JhWW44a0FTNThMcnVSU2xleExYVWJZV2VkVlNqUktGSHRpTjd1LXZBQjF2anhaazRHbDdySkNBQVM0U0JoVGxZT3cyUnJGZm0ta1c1TlljUVljMVR5NGdBSWotc2NxeW1FZ1ZGdE1nVXJwRVRsV2s?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 14:12:26 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T15:50:15.495Z"
+      "updatedAt": "2026-08-20T16:00:20.725Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T15:50:15.580Z"
+      "updatedAt": "2026-08-20T16:00:20.929Z"
     }
   ]
 }
