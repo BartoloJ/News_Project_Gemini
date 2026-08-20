@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-20T22:19:35.561Z",
-  "lastChecked": "2026-08-20T22:19:35.561Z",
-  "lastUpdated": "2026-08-20T22:19:35.561Z",
-  "generatedAt": "2026-08-20T22:19:35.561Z",
+  "fetchedAt": "2026-08-20T22:25:14.370Z",
+  "lastChecked": "2026-08-20T22:25:14.370Z",
+  "lastUpdated": "2026-08-20T22:25:14.370Z",
+  "generatedAt": "2026-08-20T22:25:14.370Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T22:19:32.393Z"
+      "updatedAt": "2026-08-20T22:25:13.395Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T22:19:33.692Z"
+      "updatedAt": "2026-08-20T22:25:13.428Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Nebraska’s largest school district asks police to stop using electric shock gloves on students - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQW1KMjh0RENPaGcyUU8xUHlRa2s5cVYyV0pUVmFGeG15M3hYbG9MbzIySDRWSS1zNFZEbEpOY2toOXQ1VVNSeHpfUUpuV1BoWDJqSjUwOHBKMVBnWjZoWDdmNVRuTlUtVzQtOVZoYlRoNnZTbjJTdXN2Ti0wRUJjUDkxYmpKUm5GZS1wZ2o2Z0dKUnQ0Mk5XNGY4b21oM2tTbTBZ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 22:11:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Michael Cohen, Trump's former fixer-turned-enemy, is hosting the president on his radio show - AP News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZm1fR2tDZHdfcG1sU2ZLaTBGODJIeUdYVVc1WEIyV0l4QS1EZ1RPVXdCeS01M1RKVGd1SFJrMGxWVEJIMXdNeGx3OGpuMkJkeWtzY2hWREhLNjN4M3R5NGFyYUxtZ0pjd0V3bnlMeldtVlFxcVFMbUVoVG1WWVRYVnZVcW50RDVycDhxUklyOENianV5cHZnNVQ1ZUJaX2Rka2l2ZTJKdTV1RXNXNUgwTjAwemRPdTRFWVE?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeEdpVDBxTDdneUNHSEZCNlQyeDRRVnZLeHdBdkJNbDVtcWdxVFBaRDdaQTFES0dOSzhoUEd4Q1ptcnpIY19jUlNiZ3VhYVZlTUNocllINUlFM2I2UFVXYXRRWXB5VFdQSV9ndTRYVkRjdW10ZF9rak1LUUVnUkZWeVdGYTRKSUk?oc=5",
           "pubDate": "Thu, 20 Aug 2026 18:06:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Vietnam police charge man with rape after American woman alleges attack - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaTVtU1U1MkJzd1NXVXhHV01CeV8yTGtpYk8xQU94ZnlJQWRvWjNLX0picGZLLTJFd2RReDlLaDNDa3BWUmc3blRiYXZQaFUyTS0tUW5HcXBUMFVTSl9vZmFjVjdhZ0FQUm9LQkxXRXFaMnJZaTZoQXdha3ZUQUJtdTQ0RFlySk9H?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 17:41:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T22:19:34.568Z"
+      "updatedAt": "2026-08-20T22:25:13.864Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T22:19:35.130Z"
+      "updatedAt": "2026-08-20T22:25:14.290Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T22:19:35.561Z"
+      "updatedAt": "2026-08-20T22:25:14.370Z"
     }
   ]
 }
