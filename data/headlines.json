@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-20T11:25:13.809Z",
-  "lastChecked": "2026-08-20T11:25:13.809Z",
-  "lastUpdated": "2026-08-20T11:25:13.809Z",
-  "generatedAt": "2026-08-20T11:25:13.809Z",
+  "fetchedAt": "2026-08-20T11:50:17.004Z",
+  "lastChecked": "2026-08-20T11:50:17.004Z",
+  "lastUpdated": "2026-08-20T11:50:17.004Z",
+  "generatedAt": "2026-08-20T11:50:17.004Z",
   "sources": [
     {
       "name": "BBC News",
@@ -38,6 +38,12 @@
           "source": "BBC News"
         },
         {
+          "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+          "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 20 Aug 2026 10:14:47 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Ex-Zambian minister killed in security raid on opposition",
           "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 10:07:48 GMT",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 20 Aug 2026 09:13:18 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-          "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 07:33:11 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T11:25:12.551Z"
+      "updatedAt": "2026-08-20T11:50:15.769Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
+          "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
+          "pubDate": "Thu, 20 Aug 2026 07:30:18 -0400",
+          "source": "NPR"
+        },
         {
           "title": "North Korea fires a suspected missile toward the sea, Japan says",
           "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
           "pubDate": "Thu, 20 Aug 2026 04:52:29 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Tech billionaires push back against proposed wealth tax in California",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5935597/tech-billionaires-push-back-against-proposed-wealth-tax-in-california",
-          "pubDate": "Thu, 20 Aug 2026 04:45:47 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T11:25:12.749Z"
+      "updatedAt": "2026-08-20T11:50:15.986Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T11:25:13.161Z"
+      "updatedAt": "2026-08-20T11:50:16.446Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "North Korea launches 10 ballistic missiles as US-South Korea drills near end - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRXZKc3RxRGFCN0NYZVJKTFN1eFZCakt6WFN5alRHRjBpalMwdmlYeWhsYUhvWEJfbC1kZ1FHS1JlbGxYSG9jUHRDUVdlR3pJSE93eXlnN2NSMXlGX19XZFlVaVNxRE5xMzlZS1VwMkwzSXpCMjZ4ZDVRcWRCR21UN19yQ1ZhTkYzeUVwREl0MTRxZ20xb0kzNTNrNmtYMXc0YUFpdEtxckJVRVZTWHl3d3V2R0dFSlNsTHc?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 11:44:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Prince Harry and Meghan to move back to Britain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPal9aT3dZNWdGaUFhcFY4bXBJTmFROGQtTWREY0dycUZSaGxybWswbUtENzFjc01aUTBmcG5WMThITjA3WVRtenRzdGpqVXNYZ2ZVUTY1NUFGcEVmajIzUVdyV2FKaGtFWEItUU5vb0d2U3cyRWlMbkREQU1JUnRneTczMWJBa0hGYlE?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 11:38:29 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
@@ -182,12 +194,6 @@
           "title": "Australia passes law to levy tech giants that fail to pay for local news - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlBmQnM0aFNIQVdZT0R1RXFORkNQNnI1bUlYNlQtMWYyekp6QUJ2cmpCdTZoeE93LXRrdGhjNm5vbTlWd2JmREtJcFRfOFBNVGtJeHd5b0hqZ2pZY2VXTGZnQjN3MWRVVVNKVnNSellqdXRhbEFXZDU4NHlDZ1hobENyVVpwZWNSakY1M000T29YNGFIUTRxMGZGUkNGZ29vSi1RNXF4SnUwMkFDVXNFdG1FOC1iUQ?oc=5",
           "pubDate": "Thu, 20 Aug 2026 10:40:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "North Korea launches 10 ballistic missiles as US-South Korea drills near end - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRXZKc3RxRGFCN0NYZVJKTFN1eFZCakt6WFN5alRHRjBpalMwdmlYeWhsYUhvWEJfbC1kZ1FHS1JlbGxYSG9jUHRDUVdlR3pJSE93eXlnN2NSMXlGX19XZFlVaVNxRE5xMzlZS1VwMkwzSXpCMjZ4ZDVRcWRCR21UN19yQ1ZhTkYzeUVwREl0MTRxZ20xb0kzNTNrNmtYMXc0YUFpdEtxckJVRVZTWHl3d3V2R0dFSlNsTHc?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 10:03:16 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeU1JcFVldWhYODZiWmJKTWVWSTRCT3hKMHJ2TkhrcWhtODF5TGl0Q2xDdGNnOUVReEJlRXZ6SklhanR1Q0l6TG1aalNXVTlvRUdnZS1FclNQTGZRcFNXZEVkOU1WVFl0aXFnZDJ0RXpsRF9nSjdQMU0xZmJzZXpzVFJ2TEZZTzB3cE1BTV90WHVBaWN5SElEeFBKeU5XWlVnYjhOQzdR?oc=5",
           "pubDate": "Thu, 20 Aug 2026 09:09:34 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Prince Harry and Meghan to move back to Britain - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPal9aT3dZNWdGaUFhcFY4bXBJTmFROGQtTWREY0dycUZSaGxybWswbUtENzFjc01aUTBmcG5WMThITjA3WVRtenRzdGpqVXNYZ2ZVUTY1NUFGcEVmajIzUVdyV2FKaGtFWEItUU5vb0d2U3cyRWlMbkREQU1JUnRneTczMWJBa0hGYlE?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 08:55:41 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T11:25:13.565Z"
+      "updatedAt": "2026-08-20T11:50:16.844Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-20T11:25:13.809Z"
+      "updatedAt": "2026-08-20T11:50:17.004Z"
     }
   ]
 }
