@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-21T00:25:13.836Z",
-  "lastChecked": "2026-08-21T00:25:13.836Z",
-  "lastUpdated": "2026-08-21T00:25:13.836Z",
-  "generatedAt": "2026-08-21T00:25:13.836Z",
+  "fetchedAt": "2026-08-21T00:50:19.022Z",
+  "lastChecked": "2026-08-21T00:50:19.022Z",
+  "lastUpdated": "2026-08-21T00:50:19.022Z",
+  "generatedAt": "2026-08-21T00:50:19.022Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T00:25:12.461Z"
+      "updatedAt": "2026-08-21T00:50:13.805Z"
     },
     {
       "name": "NPR",
@@ -105,14 +105,14 @@
           "source": "NPR"
         },
         {
-          "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+          "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
           "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T00:25:12.732Z"
+      "updatedAt": "2026-08-21T00:50:17.777Z"
     },
     {
       "name": "AP News",
@@ -160,14 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 21:22:36 GMT",
+          "title": "Canadian provincial leader says Trump is a ‘bad person’ as Canada weighs concessions for trade deal - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTHF5V2hJdGEwOHpyRTJDbTl2SFVBMl9UZzhuS0R2QWRERkwydk82Q2tybHo3Vlh1VzdWc1J6TWdPejg1ck01NGprV0pQTjFsWW0wVzZKMk9EbzJTS1VtdUZUN1JmeEEyb18xamw3TmNHMmR3ZFpwSEgxcEozUThrN2V6eEc2dTlEYjBCbVJVYTM?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 21:27:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T00:25:13.247Z"
+      "updatedAt": "2026-08-21T00:50:18.264Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "US deports more than 2,000 Mexicans to Guatemala despite Mexico's objections - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeU5BV1ZnQ2F4RVNVX1A1cmlhVGVZbmNPNENHS2NxSGc4WGZzMzBTcmh1TWxzelh5MUhWS2htR0kyQjVQTHhwR0lUQWQ5ZzBwZWhyUHlLc0tfeTRibTFtY241RG5KWlY4WW9TSVVsVHRpZ1BrRlVCbGp1TlhSZE1GX0dpR0pXN19WdW9LVjJ5bkZXVkh4Z0Y5YTdKWFhEU3pIMmZhTHpmMA?oc=5",
           "pubDate": "Thu, 20 Aug 2026 23:54:30 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gaza mediators say latest Israeli strikes undermine efforts to end conflict at critical stage - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGViZ2w0cXVmUjBqbEFKeEFsdUY1YWNiWlBobmpkejVKWng5N3lINFFZOGdNQ2JzaV90bXBFQVpLaWVDRXZOMmQtOXA0d09XNEZmdExMbFFPZGNsaTc3QUVKQktwOU5DNnliZ0dDdVFNaGdsUVNyOWdHRkh1VFBjQkNfUklTZTRZMzhDb05xaHZUNGdURlZxSUJBZ3RCVHZtbThfaFRObk1SM0VYX3ZZS09jelpvOGMzSVktZDNocEpKOVU?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 23:53:38 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnZsUEdCeDJVU0FsUTFlYlN6SWd3aGx1aE9FdkdhSEdsbjVzeW9rYk5fYmxYWlE0Uk9aV0FsNXZhUUItMHFHQ2tIZklRc1BwNXFFa005d3lIQVk5d1dERk8xamZvWkNPa2hhNU16M0pSd3hEX2s2ang1Q011UVEydnc3Um00ZnpTVm1mLW1jeTdzLUEtaUVsRVdKVVdBTmlYbE01Z0VjM0FxMEs1Tzh6OXF4R1BCZmlyd0pSUTBqNkQwZjJ0?oc=5",
           "pubDate": "Thu, 20 Aug 2026 22:13:18 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 22:11:34 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T00:25:13.662Z"
+      "updatedAt": "2026-08-21T00:50:18.756Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T00:25:13.836Z"
+      "updatedAt": "2026-08-21T00:50:19.022Z"
     }
   ]
 }
