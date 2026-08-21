@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-21T23:00:22.071Z",
-  "lastChecked": "2026-08-21T23:00:22.071Z",
-  "lastUpdated": "2026-08-21T23:00:22.071Z",
-  "generatedAt": "2026-08-21T23:00:22.071Z",
+  "fetchedAt": "2026-08-21T23:16:31.242Z",
+  "lastChecked": "2026-08-21T23:16:31.242Z",
+  "lastUpdated": "2026-08-21T23:16:31.242Z",
+  "generatedAt": "2026-08-21T23:16:31.242Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T23:00:20.686Z"
+      "updatedAt": "2026-08-21T23:16:29.994Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T23:00:21.005Z"
+      "updatedAt": "2026-08-21T23:16:30.187Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Plane crashed on second attempt to land in heavy fog in Alaska, killing all 8 aboard, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjJWZE9raUpObEpLRDllTXBEeUw4N1I3ZHlfbjk3RExjZXJhd3dwdkFYNktNVkwzaUNQM3Q2d0ViUjEwMFAxeVFScHBueTRSX2RnOVMxMThlRldWa1RPOFZvR0ZEWFlzZjE0N1UzX3M0S1c1RERITXVzYnZyX1JGQldnWXJmd29jbDRCWUs3S0t3emxwb0E?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 22:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump threatens lawsuit against nonprofit that questioned whether National Guard plan lessened crime - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObFV2NWFLWVhic0ZzMUdRMzQ1Z3c0VlpCbXFuLVR5b0dpN3llTnZrd2MwUlJRSkpxRTlCT2F0QmFlekpQdDhiLXhYTHI2dk5Pd2JPb2s1NlFfTTF1Snl2SUpIQTh2dnZsYzRLakJ1bzJPX1BTTUdLc3N3eUc2SThvYUhBUkkybUtrdjRPX0ZwZEFiN3VlMmo0XzJrb2hjSnYteXdFNnZ2REM?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 22:17:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Pentagon dismisses Stars and Stripes leadership after editor, reporter oppose military interference - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUdoUkpLcFVnOWFKMlJ3bkZLR2VKMndOal9mR2QxMG5JMl9ZeUJXd21Relp6OUgtd1FRTU8wSmFkczh2YjVBQ3FjQ190MjY2dER4WnEwSkZtWFJQT1lqWFhSTHNFN2pGRVBIVUh2cTFiTktZd2RINHVxc2w1UjFvSUZFU2w1b2RiSWZfTTlDY2xMRkdHZDREQXo2aU5ZYXFC?oc=5",
@@ -127,12 +139,6 @@
           "title": "US stocks rise, even as the bond market applies more pressure - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1VqMXNlMnp0alRkYnpKcDJPQ3RPbE5qOElKdFlySkFLQVFERk5SYWpUd0M2ejlDazNnbVI1b01yTGZkXzlKMExtaWM1VmtvLUp4TVdQd05kVVJfMmE2V2s5MGFFSEw2dTFJZWZCTG5CdXhkbWItaldsMi14Qk5ONk8yVGdwR3MzbE9jd3FRVmtJR3E1bXdvZXBQeFo?oc=5",
           "pubDate": "Fri, 21 Aug 2026 21:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Plane crashed on second attempt to land in heavy fog in Alaska, killing all 8 aboard, officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjJWZE9raUpObEpLRDllTXBEeUw4N1I3ZHlfbjk3RExjZXJhd3dwdkFYNktNVkwzaUNQM3Q2d0ViUjEwMFAxeVFScHBueTRSX2RnOVMxMThlRldWa1RPOFZvR0ZEWFlzZjE0N1UzX3M0S1c1RERITXVzYnZyX1JGQldnWXJmd29jbDRCWUs3S0t3emxwb0E?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 21:33:00 GMT",
           "source": "AP News"
         },
         {
@@ -154,12 +160,6 @@
           "source": "AP News"
         },
         {
-          "title": "Supreme Court's chief justice allows work on Trump’s $400M White House ballroom to continue for now - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWF96endSSklBQ0dCRVBNcjNPdEFVSS02dU5ybnNIeDdNOTlhZ0gyNVZuWm05YndRbTF6VkctQVFUdDRXeklSbDFJS3laNC1vaGt6NGZZWGNlREo4YXE0MXFuNzNzaU10NnVBTjRXS2MyX0RWNi1MRVBlYjZyVWNDZVVHdGV6cTg0WlItLTR0ZFFuUDFuMjlqV1JwRzBPZ1A2REE?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 20:33:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "NCAA gets win in court on 5-year eligibility rule, but this is hardly the end of the lawsuits - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVBVMWVYTUY4ZWR3OXhZMEx2WTNtU1MzMnVhbjNLZjFSZ0t0b3pIMGNMWWpwZHZlT05HTXhzU0FHa29LenVOZENwaU0zRFJyVjZvN3oybXRTc0tLSzJCbzYwUWdJeWVPQjY0UEhldEdWbE9XX1F0N0dFYTA3RHJEcWtqT1JwbHpORTVteQ?oc=5",
           "pubDate": "Fri, 21 Aug 2026 19:46:00 GMT",
@@ -167,21 +167,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T23:00:21.482Z"
+      "updatedAt": "2026-08-21T23:16:30.619Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Boeing engineers, technical workers reject contract offer - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEtXS0RiNFlVakR1UGZ3MjU5OEktdlJabzdJZVFiWV9JM2U5dzBkNU15YTdUQldzbzEtQkFyeWV1bGFqUmkzVjJINnFVMUthdjg3MVRxSVpJWHlicmRRRXRMTEx2TWJuMzdqbHZYazBaMWxHNVcwdUdJTHJaMEllWmdHdEd5RTRrd1g5ZS1iRjFmNEp1Zl9vV2tQU3ZmUG5HVUZWUW5kcWRIS001ZFFUME04TmExdw?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 22:52:21 GMT",
+          "title": "Tesla and others begin record vehicle recall in China - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 23:02:17 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Tesla and others begin record vehicle recall in China - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 22:24:04 GMT",
+          "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 22:58:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Boeing engineers, technical workers reject contract offer - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEtXS0RiNFlVakR1UGZ3MjU5OEktdlJabzdJZVFiWV9JM2U5dzBkNU15YTdUQldzbzEtQkFyeWV1bGFqUmkzVjJINnFVMUthdjg3MVRxSVpJWHlicmRRRXRMTEx2TWJuMzdqbHZYazBaMWxHNVcwdUdJTHJaMEllWmdHdEd5RTRrd1g5ZS1iRjFmNEp1Zl9vV2tQU3ZmUG5HVUZWUW5kcWRIS001ZFFUME04TmExdw?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 22:52:21 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "EXCLUSIVE: Fauci's lawyers set up legal defense fund as US probes multiply - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3ZKSm5RMU83dFhuYWFPU2JpUWc4TUg5ckc3NXJtT1N3b24wWm92Ykx3ZFFfazdyckpwZW82V2h4YW5IbFhRS0N0ZEF5ZUk2VEVKYVVrUFQwSE1KdUxDTmcwQXlCWENtOHhBaWRBcUZKZUpCZ19PbWt5MmppMF93RjZ0ZS1MYkRzQWtldUhHbklpQ3V0YW54SXI1MXhoVzZJSG9j?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 22:03:48 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Sinner withdraws from US open due to knee injury, Draper and Rune also out - Reuters",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaUlPZDhwbWF5dE9jTWNVdkZySkM1cHlHazVWeEVyUFhPcUd0SEVORU1SY3BWOWQtdkNwcVBCUlFIak1DSnhqUVQ5LVQ3STVCWEJGVGFGbGxyRFlEWlIyNkdTeXdGRV9nWVJVeXhVYjV3OGliaHlhOWdEWFgxeXYtVnZDMlJaWVBtbjRpcXln?oc=5",
           "pubDate": "Fri, 21 Aug 2026 21:58:20 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US imposes deep Colorado River water cuts to California, Nevada and Arizona - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTG5vMnF2Z29oaHVGUzNEclJKb29zUzkwNlFvNkZmcVdCM0RlREJaODV3RGpRQVdxQkdQa1V6d0w3YnlzNGFMN1NTdmwzLXNUMmUwWHY3S2ZXTGVNWjVsN1lsT3FySFIzRER6UnJGbFczWVVNdmRVM1Vjc0JYVE1SVVZvTlB0X01RaVV6UW5lQTdlY3MweXluVlY0WDcxbmNTWFplU3g1RFFaSnUtdGQ3TGhkMDBEMHFKei1rTGg5QQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 21:21:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Mexican governor accused by US of cartel ties returns to office - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRllacHoySWMzOVhfVHo4WU1oaDZubUdLVU1YWXpBZV9XSGI1azZ2Ul9NMFNhNTI1ZjNVRjFzcm9sbHJ6Y01vR25xTWpIS1ZqTzhmQk1Dd3pBYXpZc0pPbGlWM3haUEFZOS1kc3JIcWxQV2xaVHkyQ096STFseGp1ZWF6REZJbkVuaUN1YXQ2bVJ3SVVlRjZQVkNWTXFydHhwakoxMmhQNzFrWHQz?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 20:55:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "TikTok agrees to $400 million US children's privacy settlement - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdHp4WjducldzcUtEUTljcWhGYmpkOUgzc2RKaFFhaUFyVjdCZW9XajFRb1BNTWVGUnVmdVNVWDBLQmVWS3d1UkZncVp3R2cwQWxRVDB4c1VFVW5Gc1RoUzRZVUZ0aFlQTGc2ekF3T0w5QUQtSXFPYml1cnBzamdJV0NVR3d3ZTFoTVRocVp2dm4xQXFyX0U2TXdwM2I5ZmNqa0Q1emcza0N0dkczb25xdzY0UFZvSElWLUE?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 20:54:31 GMT",
+          "title": "Trump told Lula that officials should meet soon to discuss tariffs, Brazil says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSHFjdVZGTkJSOTJTQzFQWXkyOHFQa2NRaEFienkzTWthdl9NY29lTmpPMzVlM3JVaGd5Ui1QTEdPT0xGaHRGampuaUdxdTFXZDNxdHV3MDVMdkNlbzltbGlOM1FDdl9IcVo1X2x4T1FQYWI0U2VWcHVsaVo2RTRRS01OVGkxd0FjU0hNaDliWUlYQVZtXzljU3FYVmt6TTN1ZGc?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 21:46:19 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T23:00:21.930Z"
+      "updatedAt": "2026-08-21T23:16:31.049Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T23:00:22.071Z"
+      "updatedAt": "2026-08-21T23:16:31.242Z"
     }
   ]
 }
