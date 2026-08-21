@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-21T11:50:00.206Z",
-  "lastChecked": "2026-08-21T11:50:00.206Z",
-  "lastUpdated": "2026-08-21T11:50:00.206Z",
-  "generatedAt": "2026-08-21T11:50:00.206Z",
+  "fetchedAt": "2026-08-21T11:50:18.870Z",
+  "lastChecked": "2026-08-21T11:50:18.870Z",
+  "lastUpdated": "2026-08-21T11:50:18.870Z",
+  "generatedAt": "2026-08-21T11:50:18.870Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T11:49:46.331Z"
+      "updatedAt": "2026-08-21T11:50:17.811Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T11:49:46.441Z"
+      "updatedAt": "2026-08-21T11:50:17.864Z"
     },
     {
       "name": "AP News",
@@ -166,8 +166,8 @@
           "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-21T11:25:14.997Z"
+      "ok": true,
+      "updatedAt": "2026-08-21T11:50:18.335Z"
     },
     {
       "name": "Reuters",
@@ -179,9 +179,27 @@
           "source": "Reuters"
         },
         {
+          "title": "EXCLUSIVE: Tankers stack up as Venezuela sells oil faster than its ports can handle - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcmstT2tWcUdBLXhnOE9WcUlmOWdfSzdyZTVPeGoyVVBVQVVVS2piRVZKT1g4X2RLNG9QMWxETllURmVYbndfLTFhaTJMWnBubTlRdmpHX3dndzcwTW1Yd0hreE9QQ25RdXVEMFA4YV9LY3k3OF92NUx5b0xWaG1BNGRmaGt4ZURmemE5TENmWWl1SzY2ZkRxMFNUaUdRVWVtTnExZzBESFFkMGltdjNtYV9pMldubjVzWnR2YVBR?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 10:01:44 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Euro zone business activity growing at fastest pace since November, PMIs show - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVJRUTVFVzFGV1dITUg0YmRpcFBpN18wZGdmTVgwdU1oWU5xU3dWaWhzWUtONDdWWElvbnpmTHhGLXJDcDBSczdnTnZKVFo0T2hMWEpydGhIOG9rT3g5NW1fWk5nZXBKOFRRbG4yWldPZXc3ak9XTEhqRzVyUTF0X3VNZXo3NVMyenJndGhpTkQ2ZXFzalRYUXZCX0E4SGFQU21LWFpCTmxkMlBWUmx5bG11WlRNM2ZPNnlMSkdn?oc=5",
           "pubDate": "Fri, 21 Aug 2026 09:58:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 09:56:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold rallies to three-month high as softer dollar, technicals support - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBQclFYMVRpaFk2cVBvUUNLd2tWYjlENUhJbG9tR3RYQ2k3VTFpSV9yd0xXVVgzNnFQNGltZV9sbHhQdENsX29BekdQM0NOb2p5bjBqQWNUbnE1WGZmaEt5d0ZFQVgzZUFKeWNOSEt2eHUzZWZRdk8xb1lMZUplLVZBY2oyYlRtMHo4YmZhdWRRZ2FndkE?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 09:49:30 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Hyundai Motor's South Korean union stages first full strike in a decade over pay - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd1NFbENBWGRhVEpxLXVyaFFZTzhNczN6TlNQcHhFZGtTM2ZERGpzLWRrbGdxYnNDYkJBQUYtQWxKaXZmaVpSRkhaeUlxb2NrSnMyckMwcUVzS2pHMGRfZUFITTlUb0xvUVpoWWFNUm85cGJfRTRKX2FlSnBqbXduNkZnbWJVVFIzQkw5bXdpcE1hbkRRZ213cWdtV3dIZFVON3ZsakZPZjFRU0QzTWhWYU82a1I3T2xySlE4WkRyak9jM09zcF9YLQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 08:49:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNTlOa0p6cWFWR2FCZ0dZY2tEZEZLMkNWR3RvQkUzdUwyTE11aVF0TkVpMExXM3otZy0wbVRZU0lBOUpLV2lhYTdPWHBMZ3plOGFwekxwbVdQLTM5anpldkwtTWpnak05T3VLdDVUT3ItVVpEeHllS3E5SjFOeHFCT0FPeXU5c1I3X203S0pGcENjeFRESF9YaTZnV0JNNGNZUnl4RUxGTFZIN2RNU0k0YXpJbVhyVW55UlB6Rw?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 08:45:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Dollar wobbles as Treasury's bond-market buybacks raise fresh concerns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFZuSmFFRlNlQUZPTlJaNnE2UUJzS29YTWZkWlhJNG1BSWEwbTNCWEVidHBISmc5VUpSMVh5YnRhNHBwMzhCRUZMX2RQalJCTjJhUWJTeFdQckZwbmxRZFgxdVBaTTg3NkZhOE9tZ2h3dHNNV1M5WEVSbTM4NTNsbXdNNnJyNTZHaTk5d25mWVB1eDB5c2RtQkpwVkVidDEtSkpCbA?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 08:25:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran says Tehran must overcome 'unjust sanctions' as US ramps up economic pressure - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1k1ZnYtdXFiVWJvUVdmQlJLR1hWN1czeTU1Vkt5VFEyWkNISDhnUHVBY1hLb1JMdnp1dmRxU3Z6WG9wNlZRUmVZaUZxeVJVOERnX0QzeEVuU1FPbzByQ29EQXBvMzJrSkZWOWdkV0pHYUlfYkNTcFZDaTc3cUdLMzdmemlmV2hhUlYzdDFwUHpMcE9oSVZCbXlGYzM2LW9DcEFBdl9kSHRwOF9PdUtUMjdaWUZ5Rm90aFh4blpzaXhXUkZSU0ZPNzRvRQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 08:24:41 GMT",
+          "title": "Global stocks set for biggest weekly fall since mid-July as bond yields, oil stay high - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 08:46:16 GMT",
           "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-21T11:25:15.397Z"
+      "ok": true,
+      "updatedAt": "2026-08-21T11:50:18.768Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T11:50:00.206Z"
+      "updatedAt": "2026-08-21T11:50:18.870Z"
     }
   ]
 }
