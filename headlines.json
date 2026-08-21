@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-21T07:28:51.081Z",
-  "lastChecked": "2026-08-21T07:28:51.081Z",
-  "lastUpdated": "2026-08-21T07:28:51.081Z",
-  "generatedAt": "2026-08-21T07:28:51.081Z",
+  "fetchedAt": "2026-08-21T07:50:15.744Z",
+  "lastChecked": "2026-08-21T07:50:15.744Z",
+  "lastUpdated": "2026-08-21T07:50:15.744Z",
+  "generatedAt": "2026-08-21T07:50:15.744Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "El Niño set to be 'strongest in living memory', says Met Office",
+          "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 07:43:30 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Five missing after fire in Swiss Alpine town",
           "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
@@ -32,6 +38,12 @@
           "source": "BBC News"
         },
         {
+          "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 05:00:57 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
           "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 04:27:13 GMT",
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 02:49:27 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
-          "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 02:33:27 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "US sanctions more Cuban companies and officials",
-          "link": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 02:06:28 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T07:28:50.013Z"
+      "updatedAt": "2026-08-21T07:50:14.600Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T07:28:50.158Z"
+      "updatedAt": "2026-08-21T07:50:14.687Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T07:28:50.602Z"
+      "updatedAt": "2026-08-21T07:50:15.147Z"
     },
     {
       "name": "Reuters",
@@ -188,6 +188,12 @@
           "title": "Russian-Australian arrested for attempting to spy on Ukraine military - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcjlPQ0haOXVkNzZ2Q2JRUE1zbk1leG50T1NBdEFWMGdObk8xRVF0cTR6NmJjdTVQdm4wVUVtV0F2SkVXVHgtMWctczd2RW1GTG45dWZCalZlNWJaVzA1ODhvTVRfbUNXelE3WW1HXzJBUVBnY0liMDgxN0pRbGtOc0xqeGNYVnBDV2ZlU1BST1UweFFES2JuY0JjV3JKRlFDM1BUS1otQ0dFX3lHQTJNTjVNdDM?oc=5",
           "pubDate": "Fri, 21 Aug 2026 05:03:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Chinese court in Guangzhou accepts bankruptcy case of Evergrande unit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1NrRUwtVERSeHZlZ0lyUWtQcXYzdHZkcEd6RDY3dU5ldnducEh1YzJHZkhodVczOGxCem80NllRVWZFaHpaMjZqSjJLcFUzaEdOekNuNlJ1T0tTY2ZQWGpRLW40ejRpbzJRWVF4eEtLX0Ztc09QeGQtWDM4ZkZBc3IxSWZQNEFPSDExN010RTZacUM0SHAyU2NReS05UGRQQUtHQkNycUc?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 04:41:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnhLRk44Z05ZeGw4cWhLcEtkTVRNMnRuSDd0cTYwa2xJdWM0WEsxQS1MeG8yM0lnenM2QVpxc0pKVHdIaHI1TXhzMk40Z25WTDlzdkVTT2tmNlRORlc2eW9FRGpsWng3MEJ1OUZJVVpkUm1QTzV6Z2dkeTd2YjRtREtPdGZXTXAzeUdNaUNuaw?oc=5",
           "pubDate": "Fri, 21 Aug 2026 04:01:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump wants a new meeting with Kim Jong Un. North Korea says not so fast - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmNSdFdHSUxwdV91bzFuRVhydnBoRk85Tng0QUp2Um1tczFEMDRBbGVac0llaER1U2VoeHNPbFdrXzdReXR3bGF1cUs4eVZnOUJnVUdvWmJJcVI1Tmltd3U1R2x2akJXVVN5TkRuZTRlYUJ6M2JBWTNNWlYwNWQ2UlZWZWxHS0NkcVUydnlTQlRydzY0MDBwVVUzaFFwQk5sTTlMYVNhWW9lTlpWSThUSHoxbE5oNjJ3V0RXa0F6dkV3M25kLUdkWVRHeTQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 03:42:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T07:28:50.996Z"
+      "updatedAt": "2026-08-21T07:50:15.569Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T07:28:51.081Z"
+      "updatedAt": "2026-08-21T07:50:15.744Z"
     }
   ]
 }
