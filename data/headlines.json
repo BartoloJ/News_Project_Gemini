@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-21T06:41:41.458Z",
-  "lastChecked": "2026-08-21T06:41:41.458Z",
-  "lastUpdated": "2026-08-21T06:41:41.458Z",
-  "generatedAt": "2026-08-21T06:41:41.458Z",
+  "fetchedAt": "2026-08-21T06:50:16.838Z",
+  "lastChecked": "2026-08-21T06:50:16.838Z",
+  "lastUpdated": "2026-08-21T06:50:16.838Z",
+  "generatedAt": "2026-08-21T06:50:16.838Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Panama Canal to cut number of ships passing through due to El Niño",
+          "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 06:46:08 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Hong Kong's Tiananmen activists guilty in national security trial",
           "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
@@ -48,20 +54,26 @@
           "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 00:33:21 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Fix schools, say India's 'cockroach' protesters. Schoolchildren agree",
-          "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 21 Aug 2026 00:04:10 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T06:41:40.728Z"
+      "updatedAt": "2026-08-21T06:50:15.405Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
+          "pubDate": "Fri, 21 Aug 2026 02:41:33 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "'Survival mode': Indiana residents endure a ninth day without power",
+          "link": "https://www.npr.org/2026/08/21/g-s1-139527/indiana-storm-outages",
+          "pubDate": "Fri, 21 Aug 2026 02:40:26 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
           "link": "https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe",
@@ -97,22 +109,10 @@
           "link": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
           "pubDate": "Thu, 20 Aug 2026 12:49:11 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
-          "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
-          "pubDate": "Thu, 20 Aug 2026 11:18:21 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-          "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-          "pubDate": "Thu, 20 Aug 2026 07:30:18 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T06:41:40.915Z"
+      "updatedAt": "2026-08-21T06:50:15.673Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T06:41:41.360Z"
+      "updatedAt": "2026-08-21T06:50:16.184Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
           "pubDate": "Fri, 21 Aug 2026 06:00:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Myanmar military offensive targets land for Russia-backed port project - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0dtXzJ4MGc5aVI0a0tCdXVUcW9JdFJBZUctUGdjUTdwb194LUhfdHl1QnA4bDFZaFlNVmRGWWJpUUZKUUtGWGFWYWdMaGxnOFpVU1Z4S1dwWVpWWFIwTnNZV0l3YjMxYjA3WFdfdVJrOGRfaDY1aE41Q2JFaDI4azhlYnJJVENZRGY5TDJsb2syMnBFNTFvNnMtdFdoTEFialJkVkpvdXUtbmxobGVOVHBqdVpfYjFKVTk2SzdR?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 04:01:00 GMT",
           "source": "Reuters"
         },
         {
@@ -188,6 +194,12 @@
           "title": "Trump wants a new meeting with Kim Jong Un. North Korea says not so fast - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmNSdFdHSUxwdV91bzFuRVhydnBoRk85Tng0QUp2Um1tczFEMDRBbGVac0llaER1U2VoeHNPbFdrXzdReXR3bGF1cUs4eVZnOUJnVUdvWmJJcVI1Tmltd3U1R2x2akJXVVN5TkRuZTRlYUJ6M2JBWTNNWlYwNWQ2UlZWZWxHS0NkcVUydnlTQlRydzY0MDBwVVUzaFFwQk5sTTlMYVNhWW9lTlpWSThUSHoxbE5oNjJ3V0RXa0F6dkV3M25kLUdkWVRHeTQ?oc=5",
           "pubDate": "Fri, 21 Aug 2026 03:42:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China pledges timely fiscal support to bolster growth - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb3g2VHlmZV9xdHNua2U5aGFmT0l2c1pWRnR6NGRuQWM5My1vaEl6ZG1ic1pYcE1CWnkwRGRDaVNKT2xzNVVaeFB5UjVzRkFqR2tfNGRneV9MdDdGV05fVXN1dW1WWkh1SWp2d3U3dEVvd2V1c2RhWkRxc3hZQ2tUcTFkQXQ3a3M2RFpVanczc1dFWXRMaDNhU0NYQ0N1cEVrZVFQYmxiOVU?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 02:54:00 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORTRaUnV1SklLS1c2TjZIUTAyV0Q5aHI1NDJDLUhYMUNfTUt1SzRzMl9ubnV5ejB1RV9pQnU4YXBrU0piZHF4eXZ5WjBDcnRZdy04LTMxcWs3X0RPaHV5Y3lHRGRScWwzX3pRRjZ6TWRlV0dBNWlHbExJbXlOM2liYjZRQ1pWZ1B5bFRWNXU3b3ZuQkpGeU1senpXZm1MeVJvUXk2SHNRMkdWVFlZZ0NGazlNTnY?oc=5",
           "pubDate": "Fri, 21 Aug 2026 02:26:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Hyundai Motor's South Korean union stages first full strike in a decade over pay - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd1NFbENBWGRhVEpxLXVyaFFZTzhNczN6TlNQcHhFZGtTM2ZERGpzLWRrbGdxYnNDYkJBQUYtQWxKaXZmaVpSRkhaeUlxb2NrSnMyckMwcUVzS2pHMGRfZUFITTlUb0xvUVpoWWFNUm85cGJfRTRKX2FlSnBqbXduNkZnbWJVVFIzQkw5bXdpcE1hbkRRZ213cWdtV3dIZFVON3ZsakZPZjFRU0QzTWhWYU82a1I3T2xySlE4WkRyak9jM09zcF9YLQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 02:22:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 01:50:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T06:41:41.370Z"
+      "updatedAt": "2026-08-21T06:50:16.605Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T06:41:41.458Z"
+      "updatedAt": "2026-08-21T06:50:16.838Z"
     }
   ]
 }
