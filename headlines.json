@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-21T05:00:21.679Z",
-  "lastChecked": "2026-08-21T05:00:21.679Z",
-  "lastUpdated": "2026-08-21T05:00:21.679Z",
-  "generatedAt": "2026-08-21T05:00:21.679Z",
+  "fetchedAt": "2026-08-21T05:25:14.878Z",
+  "lastChecked": "2026-08-21T05:25:14.878Z",
+  "lastUpdated": "2026-08-21T05:25:14.878Z",
+  "generatedAt": "2026-08-21T05:25:14.878Z",
   "sources": [
     {
       "name": "BBC News",
@@ -11,6 +11,12 @@
           "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
           "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 04:27:13 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+          "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 21 Aug 2026 04:17:05 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 21 Aug 2026 00:04:10 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Why Nigeria's one-time political giant may face extinction",
-          "link": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 20 Aug 2026 23:21:22 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T05:00:20.464Z"
+      "updatedAt": "2026-08-21T05:25:13.732Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T05:00:20.546Z"
+      "updatedAt": "2026-08-21T05:25:13.835Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T05:00:21.014Z"
+      "updatedAt": "2026-08-21T05:25:14.327Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump wants a new meeting with Kim Jong Un. North Korea says not so fast - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmNSdFdHSUxwdV91bzFuRVhydnBoRk85Tng0QUp2Um1tczFEMDRBbGVac0llaER1U2VoeHNPbFdrXzdReXR3bGF1cUs4eVZnOUJnVUdvWmJJcVI1Tmltd3U1R2x2akJXVVN5TkRuZTRlYUJ6M2JBWTNNWlYwNWQ2UlZWZWxHS0NkcVUydnlTQlRydzY0MDBwVVUzaFFwQk5sTTlMYVNhWW9lTlpWSThUSHoxbE5oNjJ3V0RXa0F6dkV3M25kLUdkWVRHeTQ?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 03:42:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZWVBQThZSDJYVURnZ3FYR0RickduLWp0Y1JIQTB0MkxZMDFCTFE2b0Vfd3RmQzIwZ1NIWkl2NGhKZDZXMFl2UmdpVEFxYVZLSWlVUURJOEFxeThkRG0yMVJXcXBmUW0wMmRpMlNPdTZrU1hBemhkWmhTVVJ6WHVGdzl3N0dMcm1kNllpMFJnal9VUzBaUkdpYzlGQnNkQ2JEa285WDVn?oc=5",
           "pubDate": "Fri, 21 Aug 2026 00:13:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US says it will impose 'toughest sanctions in history' on Iran - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 23:59:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T05:00:21.415Z"
+      "updatedAt": "2026-08-21T05:25:14.765Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-21T05:00:21.679Z"
+      "updatedAt": "2026-08-21T05:25:14.878Z"
     }
   ]
 }
