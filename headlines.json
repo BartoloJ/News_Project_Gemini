@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-22T21:14:20.886Z",
-  "lastChecked": "2026-08-22T21:14:20.886Z",
-  "lastUpdated": "2026-08-22T21:14:20.886Z",
-  "generatedAt": "2026-08-22T21:14:20.886Z",
+  "fetchedAt": "2026-08-22T21:25:19.040Z",
+  "lastChecked": "2026-08-22T21:25:19.040Z",
+  "lastUpdated": "2026-08-22T21:25:19.040Z",
+  "generatedAt": "2026-08-22T21:25:19.040Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T21:14:19.198Z"
+      "updatedAt": "2026-08-22T21:25:17.535Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T21:14:19.601Z"
+      "updatedAt": "2026-08-22T21:25:17.827Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "What to know about Trump’s 50% tariffs on Canadian goods that just went into effect - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 20:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 19:43:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "A trade war between Canada and the US further ruptures a once-close and durable alliance - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE?oc=5",
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGtOTmFBNE13QWtYajRFYlBQYVBtM0Q1VVdJYnBnVUdudEo1RnhlVUZ5LVo3cUYyX2wwdEc3SzJBa2xubnF6VXBzcm9uTWtuazBOVE1yOUwtY1ctY1I5bFZMajZMbGY2bUJ5UzFsbk9NT1pkbmQ5UEVSd1d4eDU0em1zdFg0ME5iY21RbTJkZmhoNmlWMlZ3b293VnhKX3c?oc=5",
           "pubDate": "Sat, 22 Aug 2026 15:40:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A head-on collision in northeast England kills 7 people, including 2 police officers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1h3YVoxQnAxVU4zc0xPMXFzbXFjUm02OTNhRFFCTjhwNUFpODNtX1lHMnMxX3hrOTlseFhZcTFULVN0NFNETkw5ekZoMUV2b2U4U296dTFka1FGUnFlN19ZMGpGdlY1QndHeEZBWHN2TUIyVEIzakJWUHlYbHQ4ZFViYlZ4Q0xE?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 15:29:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump urges court to reject BBC’s bid to secure records from his family in defamation case - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1Y2M3NIc0FjbFNUUXMxVVVJTlVwNUE1UGR5RXdZazNZT2lxNTQ5LTRXZTVzcVdJZGhDQzUtbFZqay1jZ2tNemhOZy1JdXQwR0JjVWh1ajlMMFpQUHBqak0wd3gzSXZISVZLYXFqeDR0dDlkRXlGQXZaZE5DTnBwMTAwYnhZMTJtM09oVVItQkMySkhPV3gxOWRWVFBsU3V6em1HMUc3czNjU2ozaFRKM1Rxbw?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 15:19:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T21:14:20.126Z"
+      "updatedAt": "2026-08-22T21:25:18.364Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T21:14:20.642Z"
+      "updatedAt": "2026-08-22T21:25:18.753Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T21:14:20.886Z"
+      "updatedAt": "2026-08-22T21:25:19.040Z"
     }
   ]
 }
