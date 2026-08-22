@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-22T14:00:22.456Z",
-  "lastChecked": "2026-08-22T14:00:22.456Z",
-  "lastUpdated": "2026-08-22T14:00:22.456Z",
-  "generatedAt": "2026-08-22T14:00:22.456Z",
+  "fetchedAt": "2026-08-22T14:13:50.685Z",
+  "lastChecked": "2026-08-22T14:13:50.685Z",
+  "lastUpdated": "2026-08-22T14:13:50.685Z",
+  "generatedAt": "2026-08-22T14:13:50.685Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
+          "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 22 Aug 2026 14:10:05 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Fourteen killed in strike on Myanmar monastery",
           "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 22 Aug 2026 03:43:26 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
-          "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 22 Aug 2026 02:39:10 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T14:00:21.005Z"
+      "updatedAt": "2026-08-22T14:13:50.110Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T14:00:21.283Z"
+      "updatedAt": "2026-08-22T14:13:50.171Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T14:00:21.789Z"
+      "updatedAt": "2026-08-22T14:13:50.596Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T14:00:22.255Z"
+      "updatedAt": "2026-08-22T14:13:50.605Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T14:00:22.456Z"
+      "updatedAt": "2026-08-22T14:13:50.685Z"
     }
   ]
 }
