@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-22T02:12:03.481Z",
-  "lastChecked": "2026-08-22T02:12:03.481Z",
-  "lastUpdated": "2026-08-22T02:12:03.481Z",
-  "generatedAt": "2026-08-22T02:12:03.481Z",
+  "fetchedAt": "2026-08-22T02:25:13.610Z",
+  "lastChecked": "2026-08-22T02:25:13.610Z",
+  "lastUpdated": "2026-08-22T02:25:13.610Z",
+  "generatedAt": "2026-08-22T02:25:13.610Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T02:12:02.341Z"
+      "updatedAt": "2026-08-22T02:25:12.327Z"
     },
     {
       "name": "NPR",
@@ -93,30 +93,36 @@
           "source": "NPR"
         },
         {
-          "title": "Federal government thins the herds of wild horses in Colorado",
-          "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
-          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
-          "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
-          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
           "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Federal government thins the herds of wild horses in Colorado",
+          "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
           "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T02:12:02.461Z"
+      "updatedAt": "2026-08-22T02:25:12.382Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Here’s data showing Congo’s Ebola outbreak is on track to surpass history’s largest - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc0tYdWx3R0s3QUFTSWlLNXlMb1pjSWd5bEN0Zm5oTEZQbTBqY1k2RjBNVXNfYWx3bjFPa1d0M2RrQkxoVE5EbUttQUNjT0x1cnM3Y25WeWFTaXUtVGxIU0FYUXl2NXZ1a0ZrZmhsRmhXVUpvRWNpQnhYdkNHMlJuYm5La1drSV94NlE?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 00:06:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Plane crashed on second attempt to land in heavy fog in Alaska, killing all 8 aboard, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjJWZE9raUpObEpLRDllTXBEeUw4N1I3ZHlfbjk3RExjZXJhd3dwdkFYNktNVkwzaUNQM3Q2d0ViUjEwMFAxeVFScHBueTRSX2RnOVMxMThlRldWa1RPOFZvR0ZEWFlzZjE0N1UzX3M0S1c1RERITXVzYnZyX1JGQldnWXJmd29jbDRCWUs3S0t3emxwb0E?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg?oc=5",
           "pubDate": "Fri, 21 Aug 2026 21:45:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Tropical Storm Moke forms on track to bring heavy rain and winds to Hawaii - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVJkQnQzNHZ4c0lXNDZlZDlqS1Nvc20zX3dNS0l0Mk9JUGR4b1lfYlMzTUNFVW9ERVVPREJsc0hXZ0prbDRVV1RhQVI3OVphVEdnQk03Vndta2tENmVaeXNXczFVZ292VlVSeGRuazZWb05GQkVaOWYxR1NxYnZIdVhZdEt1SzNKWDJqMVRMOVUtYl9ULVpvVzRDeXd1STdka2c?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 21:10:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T02:12:02.928Z"
+      "updatedAt": "2026-08-22T02:25:12.897Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T02:12:03.281Z"
+      "updatedAt": "2026-08-22T02:25:13.333Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T02:12:03.481Z"
+      "updatedAt": "2026-08-22T02:25:13.610Z"
     }
   ]
 }
