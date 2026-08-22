@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-22T13:25:14.520Z",
-  "lastChecked": "2026-08-22T13:25:14.520Z",
-  "lastUpdated": "2026-08-22T13:25:14.520Z",
-  "generatedAt": "2026-08-22T13:25:14.520Z",
+  "fetchedAt": "2026-08-22T13:50:27.751Z",
+  "lastChecked": "2026-08-22T13:50:27.751Z",
+  "lastUpdated": "2026-08-22T13:50:27.751Z",
+  "generatedAt": "2026-08-22T13:50:27.751Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Fourteen killed in strike on Myanmar monastery",
+          "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 22 Aug 2026 13:48:06 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
           "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 22 Aug 2026 02:39:10 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-          "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T13:25:12.542Z"
+      "updatedAt": "2026-08-22T13:50:13.125Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T13:25:12.863Z"
+      "updatedAt": "2026-08-22T13:50:13.283Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-22T13:25:13.727Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-22T13:25:14.228Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T13:25:14.520Z"
+      "updatedAt": "2026-08-22T13:50:27.750Z"
     }
   ]
 }
