@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-22T17:25:14.101Z",
-  "lastChecked": "2026-08-22T17:25:14.101Z",
-  "lastUpdated": "2026-08-22T17:25:14.101Z",
-  "generatedAt": "2026-08-22T17:25:14.101Z",
+  "fetchedAt": "2026-08-22T17:37:21.804Z",
+  "lastChecked": "2026-08-22T17:37:21.804Z",
+  "lastUpdated": "2026-08-22T17:37:21.804Z",
+  "generatedAt": "2026-08-22T17:37:21.804Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T17:25:12.797Z"
+      "updatedAt": "2026-08-22T17:37:20.598Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T17:25:12.974Z"
+      "updatedAt": "2026-08-22T17:37:20.671Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 17:14:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
@@ -130,15 +136,15 @@
           "source": "AP News"
         },
         {
-          "title": "Florida shows how to adapt as coastal cities face growing threats from sea level rise and storms - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnJJUkh5N3A5bmdDYkJOaTY2dENDNlJtNjJwMWRnZ3BvRnBsTVdiVHlNWUxnTGMycGRaTFlTQnJyMl9lSVZYYjc1RWt6T09qWDlzY28td3RxbHNPaXpmTXlJLXNWVUZ0VmRfTVJIZ0FYdW0yajFLX2ZUU2xCWEl0V1J2LUxrakdiUXZRTFc3a2RhWTZ1azJtUFhaRUV2MUh5STBLREV4RXB3QQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 13:46:00 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 14:25:29 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 13:26:04 GMT",
+          "title": "Florida shows how to adapt as coastal cities face growing threats from sea level rise and storms - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnJJUkh5N3A5bmdDYkJOaTY2dENDNlJtNjJwMWRnZ3BvRnBsTVdiVHlNWUxnTGMycGRaTFlTQnJyMl9lSVZYYjc1RWt6T09qWDlzY28td3RxbHNPaXpmTXlJLXNWVUZ0VmRfTVJIZ0FYdW0yajFLX2ZUU2xCWEl0V1J2LUxrakdiUXZRTFc3a2RhWTZ1azJtUFhaRUV2MUh5STBLREV4RXB3QQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 13:46:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,20 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWoxWmxoZzJmT20yYWR3Yks0MGd4Z1U0S28yLXpxWDNiZjNNdTJ6cnVTWUlmY2JFREFWRThpTDJQazNRSzA1bHBzWmRkLVBGT0ZJbmhjTFFmVzdEZzA5MHktY2FSRk5DUk4yM1FBMUl3Q3pmRllIQnUyWFFfamZ3Z1Rwa1lVNWlzR2ljUWd2Q1dnY3BZZkdTNmxRVFZ3U2tHN0E?oc=5",
           "pubDate": "Sat, 22 Aug 2026 07:53:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Former world champion boxer Zolani Tete killed in South Africa - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY09ZWEw4OTEyeU5aWFFrTkQyYmc3X0RydENSclU5eUZZcmduVGE4ZnBITE1oWEVnYjZRVGd4MzJqckc5eGhRZ2RqRFMtQ0NMbjNjWjBZX2Ywc0k5UkNwakx5Smk0VWVwaklnMXR5ZnRRYjlBdXNhaDZna0hoMlk1d3ViUXM2Q3FYcFdhRw?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 06:53:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T17:25:13.455Z"
+      "updatedAt": "2026-08-22T17:37:21.139Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Canada to impose retaliatory tariffs across a raft of US sectors, Carney says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 17:13:37 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "CONCACAF chief asks Infantino to skip youth tournament amid FIFA governance crisis - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaXo5Zy1LWkNHT2I1azNJT0ZmbElLanZORGxBbXFFU3A2Sjd4TWRaeTBFTWJFd09qTDVPalF4Y3ktanZvZFJmRVgzU1h1TmsyQ2dYd18tUVVtMXlaQWhFbGllUjA5ampBb1dsRnV0eGZ6dC1KajJxUDNvaW1sYUgyZ2VVaUpXZE45STJyX21tVnhqUTJYaGJzbDB6bmZTcUs5ZjNiSmNMRHQ3WUJFaU1HR05nLWwycHdlTkxBMVdMUUhyR3dFc3I3YQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 17:08:12 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Ukrainian drones kill at least 10, hit warehouse of Russian online retailer Ozon - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3V4eHZkQWFrSEdIRXBiQjVXZUd6c3FuVllaNWVWQmRqeFY0WUhkQWswRVFNRGJFT0tFWkJVbTlqNnVOT0F1Rk0yRHlrVUhDRldJcjRlTjVjcjVDbG1Sc2tkQ0t5MWwzcHJBSmduTWhXazBUWHVKWUFrRmRkZzhYdXh4Wko4R3k2bmp6VDFpRkRudkNaVWxsUm85ZUxtbGFNNUxIdEExV2hxbDRTalFQeGR5cVFxTTZ3b0U4?oc=5",
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Canada to impose retaliatory tariffs across a raft of US sectors, Carney says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 15:59:41 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Seven dead in UK after vehicle travelling wrong way hits police car - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcC11SW8wQU1KT0N4d3h5RUI5eVhQcDBUZFdlZXFjQzZPMGJrYi1mYnVGS2tobE9ZV1JkSDJRWTVIWlkxSk1obkpYeHlTZ2ItX0NYWmlXbmdRTjBHeHRocmJaaG9NVktrclNHYTBMZVZaSjdia1BmZDhTNGUtTGZfS0tBNHhveTVfMFZIS3czR0o4SHNQMGpBQmlUUldxUQ?oc=5",
           "pubDate": "Sat, 22 Aug 2026 15:53:16 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Gunmen abduct worshippers from Nigeria mosque, police say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFNLWWo0NHRKemdFYkxoaWw3OWFDcjU5aFZ0VjdOSFdpdThLQ2pKQVUxTWVzNXd1X0hhM0dWQUZIejBMRUEySWsyUEdqc3d5UzhkWnkwenpRdTgweDhlbFFhVHFPaEdIRU9Cc3NhaGVlQzRDelRXRkpEUlJ2eW5va3Z6MEwxMGVNa192bm40SFJYbEFfRFV5b0ZoUzdpNXVFVThWWGpjeVFULWZv?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 14:59:54 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T17:25:13.903Z"
+      "updatedAt": "2026-08-22T17:37:21.583Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T17:25:14.101Z"
+      "updatedAt": "2026-08-22T17:37:21.804Z"
     }
   ]
 }
