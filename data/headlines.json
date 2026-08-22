@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-22T20:50:15.243Z",
-  "lastChecked": "2026-08-22T20:50:15.243Z",
-  "lastUpdated": "2026-08-22T20:50:15.243Z",
-  "generatedAt": "2026-08-22T20:50:15.243Z",
+  "fetchedAt": "2026-08-22T21:00:20.543Z",
+  "lastChecked": "2026-08-22T21:00:20.543Z",
+  "lastUpdated": "2026-08-22T21:00:20.543Z",
+  "generatedAt": "2026-08-22T21:00:20.543Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T20:50:14.025Z"
+      "updatedAt": "2026-08-22T21:00:19.376Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump administration's 75-country visa ban was illegal, judge rules",
+          "link": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
+          "pubDate": "Sat, 22 Aug 2026 16:53:19 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
           "link": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
           "pubDate": "Fri, 21 Aug 2026 07:42:10 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-          "link": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
-          "pubDate": "Fri, 21 Aug 2026 07:25:10 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T20:50:14.246Z"
+      "updatedAt": "2026-08-22T21:00:19.475Z"
     },
     {
       "name": "AP News",
@@ -124,15 +124,21 @@
           "source": "AP News"
         },
         {
-          "title": "Palestinians in Gaza scavenge trash for things to burn to cook meals, in photos - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmk2V0FSWWNnbkpsVExybkVsc3d2eEdibUVfYTUtNXBycDdSTHQwLUFmbE9yWEtYZVdBMFMxbkZvZmJsZjM2bFN3LVUxSDhlRG5jOUtLWW40UDFGejhjdlpFN0J5TVlDazRUSDJyYTd6bzAyc3l5S1QzY0ZCOWRyNjhhb1lSYmZuc0UzNEJuTG1tU3cyVGNlR1FBZjRMSzJSVHhNa09DbzZVVWdicnBIbFFzSXY?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 16:35:00 GMT",
+          "title": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 16:41:00 GMT",
           "source": "AP News"
         },
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 16:04:10 GMT",
+          "pubDate": "Sat, 22 Aug 2026 16:36:32 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Palestinians in Gaza scavenge trash for things to burn to cook meals, in photos - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmk2V0FSWWNnbkpsVExybkVsc3d2eEdibUVfYTUtNXBycDdSTHQwLUFmbE9yWEtYZVdBMFMxbkZvZmJsZjM2bFN3LVUxSDhlRG5jOUtLWW40UDFGejhjdlpFN0J5TVlDazRUSDJyYTd6bzAyc3l5S1QzY0ZCOWRyNjhhb1lSYmZuc0UzNEJuTG1tU3cyVGNlR1FBZjRMSzJSVHhNa09DbzZVVWdicnBIbFFzSXY?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 16:35:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1Y2M3NIc0FjbFNUUXMxVVVJTlVwNUE1UGR5RXdZazNZT2lxNTQ5LTRXZTVzcVdJZGhDQzUtbFZqay1jZ2tNemhOZy1JdXQwR0JjVWh1ajlMMFpQUHBqak0wd3gzSXZISVZLYXFqeDR0dDlkRXlGQXZaZE5DTnBwMTAwYnhZMTJtM09oVVItQkMySkhPV3gxOWRWVFBsU3V6em1HMUc3czNjU2ozaFRKM1Rxbw?oc=5",
           "pubDate": "Sat, 22 Aug 2026 15:19:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Mexican ranchers prepare to resume livestock sales to US under tight controls over screwworm risk - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQlNzd1VSejJBRjh4UEZBcGlCcHlVYW94M3NPOUhTQnlMOEdaelhUZE91VTFNcjNlX1g0NExaNDBvWmdualZsRnBKcjhtcFh1X3pzck1lOXRZR2I2LWRHcWYwTzlTUGN2ZWx6WklWaTNjVk9LTmhtc1JnS0V3ZE5NN3FyWmxsTDNjeDZxNC1FUlZUUmNQYzJhOWdyWjQ1SjU4TEpzcHZIVHI2ZC1obTROdw?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 14:59:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T20:50:14.718Z"
+      "updatedAt": "2026-08-22T21:00:19.944Z"
     },
     {
       "name": "Reuters",
@@ -181,7 +181,7 @@
         {
           "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 19:21:41 GMT",
+          "pubDate": "Sat, 22 Aug 2026 20:00:21 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T20:50:15.127Z"
+      "updatedAt": "2026-08-22T21:00:20.335Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T20:50:15.242Z"
+      "updatedAt": "2026-08-22T21:00:20.543Z"
     }
   ]
 }
