@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-22T04:00:23.731Z",
-  "lastChecked": "2026-08-22T04:00:23.731Z",
-  "lastUpdated": "2026-08-22T04:00:23.731Z",
-  "generatedAt": "2026-08-22T04:00:23.731Z",
+  "fetchedAt": "2026-08-22T04:25:00.051Z",
+  "lastChecked": "2026-08-22T04:25:00.051Z",
+  "lastUpdated": "2026-08-22T04:25:00.051Z",
+  "generatedAt": "2026-08-22T04:25:00.051Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T04:00:22.553Z"
+      "updatedAt": "2026-08-22T04:24:58.737Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T04:00:22.634Z"
+      "updatedAt": "2026-08-22T04:24:58.872Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "US is set to impose 50% tariffs on $20 billion worth of Canadian products - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 03:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Tropical Storm Moke forms on track to bring heavy rain and winds to Hawaii - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVJkQnQzNHZ4c0lXNDZlZDlqS1Nvc20zX3dNS0l0Mk9JUGR4b1lfYlMzTUNFVW9ERVVPREJsc0hXZ0prbDRVV1RhQVI3OVphVEdnQk03Vndta2tENmVaeXNXczFVZ292VlVSeGRuazZWb05GQkVaOWYxR1NxYnZIdVhZdEt1SzNKWDJqMVRMOVUtYl9ULVpvVzRDeXd1STdka2c?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 03:01:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Court cuts $50M judgment against Alex Jones over falsely labeling Sandy Hook killings a hoax - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkRnRTdwVmJVMi1VSXFycVBET3c0Y1RjMU4yNUtxWU9GWGZSUGFaaUhkWE5PUVNmLXlnZWxsTG1TYWFfN1NvbnlIRDdyMl95bUNpbzR0T2w4Q0tIMUNWYjNGMHJUT0Rfc2xwY1FtSXU1Q1ljOWMxc2lFNWVITjJtVlppT3cxVjFSY0wxLVRFMzg?oc=5",
@@ -152,36 +164,24 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjJWZE9raUpObEpLRDllTXBEeUw4N1I3ZHlfbjk3RExjZXJhd3dwdkFYNktNVkwzaUNQM3Q2d0ViUjEwMFAxeVFScHBueTRSX2RnOVMxMThlRldWa1RPOFZvR0ZEWFlzZjE0N1UzX3M0S1c1RERITXVzYnZyX1JGQldnWXJmd29jbDRCWUs3S0t3emxwb0E?oc=5",
           "pubDate": "Fri, 21 Aug 2026 23:26:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump threatens lawsuit against nonprofit that questioned whether National Guard plan lessened crime - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObFV2NWFLWVhic0ZzMUdRMzQ1Z3c0VlpCbXFuLVR5b0dpN3llTnZrd2MwUlJRSkpxRTlCT2F0QmFlekpQdDhiLXhYTHI2dk5Pd2JPb2s1NlFfTTF1Snl2SUpIQTh2dnZsYzRLakJ1bzJPX1BTTUdLc3N3eUc2SThvYUhBUkkybUtrdjRPX0ZwZEFiN3VlMmo0XzJrb2hjSnYteXdFNnZ2REM?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 23:21:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Pentagon dismisses Stars and Stripes leadership after editor, reporter oppose military interference - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUdoUkpLcFVnOWFKMlJ3bkZLR2VKMndOal9mR2QxMG5JMl9ZeUJXd21Relp6OUgtd1FRTU8wSmFkczh2YjVBQ3FjQ190MjY2dER4WnEwSkZtWFJQT1lqWFhSTHNFN2pGRVBIVUh2cTFiTktZd2RINHVxc2w1UjFvSUZFU2w1b2RiSWZfTTlDY2xMRkdHZDREQXo2aU5ZYXFC?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 23:21:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T04:00:23.089Z"
+      "updatedAt": "2026-08-22T04:24:59.499Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US judge strikes down policy suspending immigrant visa processing for 75 nations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0F2RlpfcnFUWko2OFFTZzBmUG9TcWJJZDJYMXhPU1oyVEx4cV9jSXhiZDdiU3E3Q1ctcExuWFh2UERJWkd2dWVKQ0tJZlk1eDlJT01OSk9nMkZzQWozcXgxVktwajN1cE1YQ0pxWUNBYXNCU3BHSUlOWFlqS0JIRW16VWxRbjJfSlExc3kyaS1jcUdxeFhaSUQ3V3V0NzlKTU1rbEFtTWxQRnNDVHpNZkhPbmhyTzhKSGxZLVY4WXZiMjNZRVRzTg?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 01:28:00 GMT",
+          "title": "US, Iran keep up hostile rhetoric ahead of new sanctions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 04:11:03 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump says Iran not ready to make the 'right deal' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 01:05:00 GMT",
+          "title": "US judge strikes down policy suspending immigrant visa processing for 75 nations - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0F2RlpfcnFUWko2OFFTZzBmUG9TcWJJZDJYMXhPU1oyVEx4cV9jSXhiZDdiU3E3Q1ctcExuWFh2UERJWkd2dWVKQ0tJZlk1eDlJT01OSk9nMkZzQWozcXgxVktwajN1cE1YQ0pxWUNBYXNCU3BHSUlOWFlqS0JIRW16VWxRbjJfSlExc3kyaS1jcUdxeFhaSUQ3V3V0NzlKTU1rbEFtTWxQRnNDVHpNZkhPbmhyTzhKSGxZLVY4WXZiMjNZRVRzTg?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 01:28:00 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T04:00:23.524Z"
+      "updatedAt": "2026-08-22T04:24:59.962Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T04:00:23.731Z"
+      "updatedAt": "2026-08-22T04:25:00.051Z"
     }
   ]
 }
