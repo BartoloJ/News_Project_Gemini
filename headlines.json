@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-22T07:00:19.991Z",
-  "lastChecked": "2026-08-22T07:00:19.991Z",
-  "lastUpdated": "2026-08-22T07:00:19.991Z",
-  "generatedAt": "2026-08-22T07:00:19.991Z",
+  "fetchedAt": "2026-08-22T07:09:06.210Z",
+  "lastChecked": "2026-08-22T07:09:06.210Z",
+  "lastUpdated": "2026-08-22T07:09:06.210Z",
+  "generatedAt": "2026-08-22T07:09:06.210Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T07:00:18.751Z"
+      "updatedAt": "2026-08-22T07:09:04.859Z"
     },
     {
       "name": "NPR",
@@ -66,6 +66,12 @@
           "title": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
           "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
           "pubDate": "Sat, 22 Aug 2026 00:36:27 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "A battle over 'Italian brainrot' could shape who owns AI art",
+          "link": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
+          "pubDate": "Fri, 21 Aug 2026 18:16:46 -0400",
           "source": "NPR"
         },
         {
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
           "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-          "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
-          "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T07:00:18.873Z"
+      "updatedAt": "2026-08-22T07:09:05.037Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T07:00:19.310Z"
+      "updatedAt": "2026-08-22T07:09:05.465Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T07:00:19.702Z"
+      "updatedAt": "2026-08-22T07:09:05.853Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-22T07:00:19.991Z"
+      "updatedAt": "2026-08-22T07:09:06.210Z"
     }
   ]
 }
