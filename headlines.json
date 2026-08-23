@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-23T18:25:12.709Z",
-  "lastChecked": "2026-08-23T18:25:12.709Z",
-  "lastUpdated": "2026-08-23T18:25:12.709Z",
-  "generatedAt": "2026-08-23T18:25:12.709Z",
+  "fetchedAt": "2026-08-23T18:50:14.843Z",
+  "lastChecked": "2026-08-23T18:50:14.843Z",
+  "lastUpdated": "2026-08-23T18:50:14.843Z",
+  "generatedAt": "2026-08-23T18:50:14.843Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T18:25:11.237Z"
+      "updatedAt": "2026-08-23T18:50:14.268Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T18:25:11.563Z"
+      "updatedAt": "2026-08-23T18:50:14.310Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Wildfire approaches Reno, Nevada, forcing thousands to evacuate their neighborhoods - AP News",
+          "title": "Wildfire started by humans approaches Reno, Nevada, forcing thousands of evacuations - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUpEM0MwOHJxRV9tR2NuUkV6NFFBSzFwRHM3dmp2Z2U1TlBaTVRWY1ZDNDg2U0NTX0V0dlJVSkVNZF9FV1dDY2F4ZFBaMkhuVjl1MHRVYXZPZm1SUlRCOEZoa1lTZ0toek0wYVJIN2d0eTEtSXFYLVdOVFNOdHZYM0pzZXNKb2NscjNFLThoX1hpZmgzcHJoTQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 17:34:00 GMT",
+          "pubDate": "Sun, 23 Aug 2026 18:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "‘Spider-Man’ tops box office in fourth weekend; ‘The Odyssey’ becomes Nolan’s highest-grossing film - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1g3OXU1bHdwNTVnLXZQWlY5ZE52Nk1lTUxjb0tpU2s0RnlOZEJWTHc5UDlJNUNheVBlbEwtc1RoTFExNTluNVJUeFd1RnMtdUVZaDhoU0hSbzR3SEp2cVBKTGU0UThJVjQzcDVLdXdSTUxhOWt6b2Y4c3lEVWptblBZVXU0Mzg?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 16:47:00 GMT",
           "source": "AP News"
         },
         {
@@ -139,12 +145,6 @@
           "title": "At least 22 people killed in a landslide in capital of Guinea, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0pXVm1oUkllY1YtOXY4MGZjMzBQWFg2V0wwU3V1YVFyalZ1V3BEbGRvckdhYlFSUVRIb3p5WFJHQTdmZ3l6dnBIWlg4OEtnOVRvaU05R3VVWlAwNm9jSnNIS0RydXlFTVBfWkZWaG1vdDFkcHRtaUNINmlLMjFSUjVRc1dGLVd0dkVDWlJsVDRSbEZGcGZZNFR1X0FoMkxDOEE?oc=5",
           "pubDate": "Sun, 23 Aug 2026 16:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "‘Spider-Man’ tops box office in fourth weekend; ‘The Odyssey’ becomes Nolan’s highest-grossing film - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1g3OXU1bHdwNTVnLXZQWlY5ZE52Nk1lTUxjb0tpU2s0RnlOZEJWTHc5UDlJNUNheVBlbEwtc1RoTFExNTluNVJUeFd1RnMtdUVZaDhoU0hSbzR3SEp2cVBKTGU0UThJVjQzcDVLdXdSTUxhOWt6b2Y4c3lEVWptblBZVXU0Mzg?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 16:27:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T18:25:12.025Z"
+      "updatedAt": "2026-08-23T18:50:14.769Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 18:16:16 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump caps summer of US 250th birthday with auto race through Washington - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGxpQXR6TFM3a211MXJac09OMXk5cEVWb2ZjZlYtWHZTWG1pQkhMM2V3Qlh3bzJsMW42aTRXaDEwMUNMLUlVb2JQWkVZZUkxbXFVRkprQUxBQTNSbmdTbnlMdk16UnN2NEJVSnRSclFFUzBIbGg2V3h2SzRiYXFMY2Q0aXYyVE1id0tXRFhlaGJrTkFUMkQyYmJwQU9Lc24teHRmY1Q4Yi00T3A2VkNyMnZWTEw?oc=5",
@@ -191,9 +197,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 14:27:05 GMT",
+          "title": "Nordic nations say they have lost confidence in Infantino and FIFA governance - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzJMSU9PNFhkZTFkbU5FYmhNeXF0c0ZCQnV3YmVIRkU3V0Yya0hRQ3ctVnBQSy05eE85Z2VWN1JuU0JNQWIwdzRXc2pKZTd0R1NsV3llYUpGYThmUmQyUVMxZmR6U1NuYWJScUtxNkM4dnBGaFZnd1prNEx0bzVNYUVJdzhWbEZmcVhqUkxac3hEQWZwSGhJOFZGV25MZXMxWkpQU2plSzRZank5aGJnQVFUaDQ5MVp5UEtIQQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 13:56:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Dutch GP re-starts after Verstappen crashes on opening lap - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmtZMFdYMU44QnJCTVJ5SG5ERXNwc3Y3emlYVXpTbTBHeVFtOC16cmJXSXhRX3NEa19oaW5oSFpVRVlza3Y4X0lGZVRtNUpXbHFTckk1QkNTbGZVQ1Vfd256a3FVdGFySGQ0SkRVaDNkQWJiakI1R1pZZ3RHUFZUYWxvUU41bi1POV9XaUhocDhyaURadEdtem00al9IZmtiNWc?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 13:48:51 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMXR2WHg4Sk1EWmREN2NWcjBGUVNFdW0ya2Rpa25CcFJqT0pZQmFYQ2YwSVVxa0ZsRWNMMEpvMk4zVmZidzNrbWF5MTFKUW5KTThIeXM2alI2aDJKSnhHM3JNWHE2c2JkM2tRTGhDbWNrd05yZ2NkNkZFZUw4ZDRjdDhZNVU0RnBoLXdBVDc4aVE0bGUtSVFrUDBoTWJrZG9ZdDEyeA?oc=5",
           "pubDate": "Sun, 23 Aug 2026 12:32:05 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Syria foreign minister sees Israel security talks resuming despite no trust - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 11:05:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Eni eyes Europe fusion plant by early 2040s, FT reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWVfaWZTSkxXVzBKcFZvNjdKXzV6Tmp3bFRlZEFGSzZzcTQtbE1VaDhKclNVMGJacUxBZU1Hc0NKWHRVdkNUWTdHRXQ1eU1GcWlEazRpYTVabU5hdkgtNTBudDJhbVU5ZU1CSjAwRnJMZ1BSYTAxLUNMOGdobDlOaE92TEtGR19TNzVELWRYc3M5LXJHb3JaTGN5cWtwZkhvOVhqdV9aYjUtZw?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 10:51:58 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T18:25:12.406Z"
+      "updatedAt": "2026-08-23T18:50:14.780Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T18:25:12.709Z"
+      "updatedAt": "2026-08-23T18:50:14.843Z"
     }
   ]
 }
