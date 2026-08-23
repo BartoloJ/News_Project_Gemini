@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-23T04:25:15.456Z",
-  "lastChecked": "2026-08-23T04:25:15.456Z",
-  "lastUpdated": "2026-08-23T04:25:15.456Z",
-  "generatedAt": "2026-08-23T04:25:15.456Z",
+  "fetchedAt": "2026-08-23T04:50:31.362Z",
+  "lastChecked": "2026-08-23T04:50:31.362Z",
+  "lastUpdated": "2026-08-23T04:50:31.362Z",
+  "generatedAt": "2026-08-23T04:50:31.362Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+          "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 23 Aug 2026 03:44:19 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Swedish sword attack victim was 17-year-old girl, police say",
           "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 22 Aug 2026 16:57:19 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-          "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T04:25:14.034Z"
+      "updatedAt": "2026-08-23T04:50:15.272Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T04:25:14.323Z"
+      "updatedAt": "2026-08-23T04:50:15.424Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-23T04:25:14.826Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-23T04:25:15.230Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T04:25:15.456Z"
+      "updatedAt": "2026-08-23T04:50:31.362Z"
     }
   ]
 }
