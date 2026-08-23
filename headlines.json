@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-23T18:19:55.759Z",
-  "lastChecked": "2026-08-23T18:19:55.759Z",
-  "lastUpdated": "2026-08-23T18:19:55.759Z",
-  "generatedAt": "2026-08-23T18:19:55.759Z",
+  "fetchedAt": "2026-08-23T18:25:12.709Z",
+  "lastChecked": "2026-08-23T18:25:12.709Z",
+  "lastUpdated": "2026-08-23T18:25:12.709Z",
+  "generatedAt": "2026-08-23T18:25:12.709Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Guinea rubbish landfill collapse kills 30",
+          "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 23 Aug 2026 18:17:37 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
           "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 23 Aug 2026 12:51:15 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Robot boxing, football and sprinting at World Humanoid Games",
-          "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 23 Aug 2026 12:47:06 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T18:19:54.763Z"
+      "updatedAt": "2026-08-23T18:25:11.237Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T18:19:54.868Z"
+      "updatedAt": "2026-08-23T18:25:11.563Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T18:19:55.300Z"
+      "updatedAt": "2026-08-23T18:25:12.025Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T18:19:55.684Z"
+      "updatedAt": "2026-08-23T18:25:12.406Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T18:19:55.759Z"
+      "updatedAt": "2026-08-23T18:25:12.709Z"
     }
   ]
 }
