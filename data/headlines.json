@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-23T06:00:32.448Z",
-  "lastChecked": "2026-08-23T06:00:32.448Z",
-  "lastUpdated": "2026-08-23T06:00:32.448Z",
-  "generatedAt": "2026-08-23T06:00:32.448Z",
+  "fetchedAt": "2026-08-23T06:00:43.820Z",
+  "lastChecked": "2026-08-23T06:00:43.820Z",
+  "lastUpdated": "2026-08-23T06:00:43.820Z",
+  "generatedAt": "2026-08-23T06:00:43.820Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T06:00:19.628Z"
+      "updatedAt": "2026-08-23T06:00:42.672Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T06:00:19.700Z"
+      "updatedAt": "2026-08-23T06:00:42.779Z"
     },
     {
       "name": "AP News",
@@ -130,15 +130,15 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 03:11:32 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Union for Boston Symphony Orchestra musicians authorizes first strike in ensemble's 145-year history - AP News",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYWJVRld5Vk1RVUU3RVRiSVhwLTg4aEpQbUVVRERDS1o1bTlGdldOMVpLNHNKc3ZWQUp2WG44MjZMYk5TQ1h1WDhHZVpXbFMtdkVueklUWVdNbzJ1U0w4OEpXcTJhcVRHVURhQ2VhMURqdDdJY21YVFN1eVl6cl9QVGphNVh2b2dFblE?oc=5",
           "pubDate": "Sun, 23 Aug 2026 02:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 02:21:27 GMT",
           "source": "AP News"
         },
         {
@@ -166,8 +166,8 @@
           "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-23T05:50:19.070Z"
+      "ok": true,
+      "updatedAt": "2026-08-23T06:00:43.194Z"
     },
     {
       "name": "Reuters",
@@ -176,12 +176,6 @@
           "title": "Australia confirms first H5N1 bird flu case in local mammal - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZWh5WlZuNmNtbG9VdDBoc3pIdVUwa3NaWmZCU2dSLXVRdUhHSUZpVWlYR3lhc09MV2ZlZ3NZdWZoajNPUWxRdXBCeDdTSHUxb3RxYzZoSlhKMmpTb2dFSE9Sc0lNXzQybDRrXzdTVHgxdF8ycVZLdjllem55QkJKQnRxRDlqRllFN096VWk2QXpTUlB5MzVST1BJT1ZDRjlBaERjeXZ4UGh3NVBxVUlINWF2WnhzN0JKSTNlSnJfSmJrcllCWWZV?oc=5",
           "pubDate": "Sun, 23 Aug 2026 03:15:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Mexican governor, indicted by US on cartel charges, requests leave again amid backlash - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXRpd0ZRbFN5Qy1nbUcwSGZscHpNTEZDcjNwRzNGMXNHMW9yVEdpaU9fdnZjU3NlM3ZlZEFVQ2IzdmtnVXU4b3BoVkJJVl90anJBYzhYTlFvVE5lbFQ4TXlMUWZoZjAtaTJDUVhOUzV0bDUyVl9yWXQ4eEtyME9CVmZXZGZ4MnNIMjdLcnRwRHlDaVJTRkpabE94c25xUXhYX3FaaGNsNzVtSjBkMWRjU05SdGhSaUlUYjRHcXhlNDg?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 01:16:00 GMT",
           "source": "Reuters"
         },
         {
@@ -219,10 +213,16 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNam0zVUFTclpyMzBsTTN1WlJLVjVoNlQwczFsYks4UkpBeFZuSm5ENUVEYUxTTGFrMjBoLUhQS254aUNVMVBaTG93Rzd1N0xwZExmejF2R09scTNXM1ItSnUzMW04NVltZzE0U29CbmowS3BZS0hlanlzc3pSX3ZySV8wTGVWRzhvaTNlSmpTM2N2MS1MQUFleERKWjFGQQ?oc=5",
           "pubDate": "Sat, 22 Aug 2026 20:02:00 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 20:00:21 GMT",
+          "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-23T05:50:19.467Z"
+      "ok": true,
+      "updatedAt": "2026-08-23T06:00:43.588Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-23T06:00:32.448Z"
+      "updatedAt": "2026-08-23T06:00:43.820Z"
     }
   ]
 }
