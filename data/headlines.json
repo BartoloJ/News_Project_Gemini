@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-24T14:00:37.407Z",
-  "lastChecked": "2026-08-24T14:00:37.407Z",
-  "lastUpdated": "2026-08-24T14:00:37.407Z",
-  "generatedAt": "2026-08-24T14:00:37.407Z",
+  "fetchedAt": "2026-08-24T14:24:10.822Z",
+  "lastChecked": "2026-08-24T14:24:10.822Z",
+  "lastUpdated": "2026-08-24T14:24:10.822Z",
+  "generatedAt": "2026-08-24T14:24:10.822Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Access to Zambian courts prevented as election petition deadline looms",
+          "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 24 Aug 2026 14:02:17 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
           "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Access to Zambian courts prevented as election petition deadline looms",
-          "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 24 Aug 2026 11:17:28 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Four arrested over suspected poisoning of elephants in Kenya",
           "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 24 Aug 2026 11:08:27 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T14:00:36.339Z"
+      "updatedAt": "2026-08-24T14:24:09.483Z"
     },
     {
       "name": "NPR",
@@ -105,18 +105,36 @@
           "source": "NPR"
         },
         {
-          "title": "Learning to live in a post-American world",
-          "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
-          "pubDate": "Sun, 23 Aug 2026 17:21:23 -0400",
+          "title": "Climate change is unearthing archaeological discoveries, while also threatening them",
+          "link": "https://www.npr.org/2026/08/23/nx-s1-5938809/climate-change-is-unearthing-new-archeological-discoveries-while-also-threating-them",
+          "pubDate": "Sun, 23 Aug 2026 17:23:05 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T14:00:36.377Z"
+      "updatedAt": "2026-08-24T14:24:09.676Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Iran warns of a harsh response to anticipated US sanctions and other Middle East news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3VzOFY1UEwzVnN2d3pDQ0NFZWZQVEJNcGJ1VlVKbmczYjVBeDk5S3NTOGtIS3NKNDFUdXFDbjRUTURPd0c2YWxZelQ3NnFxVUtfM1NzSk8yQ2ZXYnlTZGpiZFBxTTZXUXN5czJ5VnJqWFprcG9NcTFnOUtmNU54cHIwRjEtblZINUs0bXlxTVZrRU9ZNkp1OUVyUTEyOUZzRXBaTnhhRQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 13:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "European leaders mark Ukraine’s 35th Independence Day as Russian invasion pushes on - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzFlRGlTVUtGOVc1TVV2TGQ4M3VicUJRbzBPV0VTY1hldnlvb000QWEtOXpVc2NnYlNJaVRnVDNhTjNqbTdkTDdXT0l2SXh5enNaRzZFVzRGVi1teUM0bUpDdzkyWTFNN1p4SHBNNVRxUVVzRGtfRnZ0amg0T2ZueVVtQTNSbV96Z0dBdjd0eHhJeWxrTE0zY1NfWWJzT2FG?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 13:28:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Donald Trump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 13:16:23 GMT",
+          "source": "AP News"
+        },
         {
           "title": "The world inches toward catastrophic climate events: ‘Bigger shocks are on the way’ - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGpKejRhMVo0Wkc4aGhjUjJ3UTVVbFA1V09oZGU0SU93MkFXcEFyZEJidThOZlo3dm5PWEFJVC1CcUo3ajhJdEpLRnFnX1JLZFZNbDE5M0h4SDh0UTRENGVvTE1STDVpTXRhN0h2UUVDSU40eTVhTk5GT3RqNFVLbU9Ja0s5emhleFNXbENtVmYtbU9tM2QycnpiLXFoZEk?oc=5",
@@ -142,36 +160,24 @@
           "source": "AP News"
         },
         {
-          "title": "European leaders mark Ukraine’s 35th Independence Day as Russian invasion pushes on - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzFlRGlTVUtGOVc1TVV2TGQ4M3VicUJRbzBPV0VTY1hldnlvb000QWEtOXpVc2NnYlNJaVRnVDNhTjNqbTdkTDdXT0l2SXh5enNaRzZFVzRGVi1teUM0bUpDdzkyWTFNN1p4SHBNNVRxUVVzRGtfRnZ0amg0T2ZueVVtQTNSbV96Z0dBdjd0eHhJeWxrTE0zY1NfWWJzT2FG?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 12:23:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "AP Decision Notes: What to expect in Georgia’s special congressional runoff - AP News",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnM0QldrMHY1T0JZYjdLS2lJeDBjMngzVUtHUlpsMlk0VUtiS203c04tT091b3U2Zk0xWDl5My1wOWFyVmVTVFI5cHEzYmFtUm1GZERLTTdkMC1pdGhJLTRrQW5TVy1kQ295aWJhUThGSTk4R3REUnluSWNVQk5fX3NGbTBNSHU1d0VSSUsxSnkzaEVFT3NCaGRjY1VBcXBrQVhKTHJnckx3bGFDbU5Nbkc1czJnWjN2cHNGb1E1ZWdkbVJKeE1tLW1fbnAtY2c?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 11:54:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "US futures and oil prices slip with pressure on Treasurys ongoing - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1dReDZpZnhwWEQySC1XMWxPbjNmY2Zaa3pEbUJESmZHWkVJd21EelRubnpIY2d4Ulh0QTRRY05wQ1hGRkliWTdlbGVqSjlGMUFmRUgtZXY5ZnBXVVI3clJFcGZVQU5wclptaUlUTmdaNTJ5Q1p4bFB6V1hJVEtJZDRyZ1NmNjZRejdFNDNWQV9oMlhaRnNN?oc=5",
           "pubDate": "Mon, 24 Aug 2026 11:52:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Cricket captains from around the world renew appeal for medical treatment of Imran Khan - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHEzaDladURvNUw5ZnFaaXZCRXA3OG5POTFzTkZkaDZvVGhkY0xEVDVsM2FXbm56ZWdhMGU3TFdQTXJsbndDSmQ5c1VhSzUydTl1cTJQSnd5UTJmYmFySUJ0QzlHMlhjR2Y0OV8waENHS2I5NkRWMDRPd2JhMjZpUERnUXBZanNCQm83UFczZ1pMVkg4blhlV1ZPVDFMd3VyZVUxWVd4UkcyWC1CRDdj?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 11:11:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T14:00:36.809Z"
+      "updatedAt": "2026-08-24T14:24:10.216Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Gold rally gains momentum ahead of US inflation, Jackson Hole event - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkZtQVBPdjlyb21JaVBxeFRicDFEeHVNQ21pZzdGQnlSMUpFYV80MEl3RjJUbF9tYWxmdkZqY2NpaXh5S0NPd1lhbFZxUHZMVVFkTHNyNktCX2hrUU5KN3hjcWRUVTlaQ0hwcmVoMV9VZjBmUkFjMGtTUUY5MXBwRDRFWXBwQnhZTzU1dV81LThOaTNZR1BLVDRGU1JtbDczRjVweFByWkVQbWhhX3VwYTlJZ0VYblU?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 14:08:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Wall Street opens lower as high-stakes Iran, inflation tests loom - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
@@ -182,6 +188,12 @@
           "title": "PODCAST: Carney ride - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdk5QWFNvSmpXNTNfTE5ya0tvRDQtOGJjbDR6OWRvQzVzNXFJOUl2NXR4MFRqVzZwQmRqaWhHVnJnSkM2dEV3amFuSVpLZU53RHNXZkU0Y29BR0lZSE1oZUxQeXdMLWF2MVVjMUdFR1VkSlFaZ3Jac1pJNEhtdE14eFZ3?oc=5",
           "pubDate": "Mon, 24 Aug 2026 13:34:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1A3TzVlaW92SHFPcHNmUjdQZ1hIYi0xZWNCdGVpcmY4VmZBUHNneElLRnE5dDFwZXRRX1FfcHFkMDlFMm5kdGh2aldsWnllaGZSVWJ2SFhzUVRRU3FyNzJNeWJfb3lrQnhqQ2g0d1c0ZUo0dllmTkd4QzAwWTNZV05sNlc2M3c5c3d5Zi1hTF90N0ltX25sUUk4T0RURUE3akZuX2VrMEFGcXFIMV9FRFU5VWI2UE4wREV3?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 13:31:53 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 13:16:49 GMT",
+          "title": "Putin hands Russian state right to take control of badly protected infrastructure objects - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM1hFRTE5MjZkRGZMb1FxQ29FWDIyYVNSQnVUb1AzRnhvRlV1OUN5U1dDQS12MklwSGJldTRya3ZSZzRxcnlNemtnMl9HajJFekJtZHRyekcweC1ubGhndHhaM29DZXdaUUFjUDY1VVJHaXJpb285NlRfNnoxQW51S2pEZFZOc1EtcDR0SEVMSmozNHFqRktLTV9LaWhnNUpVcFB5WVgyS3NxcXhmT1JGX01ZcWRRX1JqZTVFcm1sMzM4VTN5ZXRSb0NDZnBRVmM?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 13:26:45 GMT",
           "source": "Reuters"
         },
         {
           "title": "Coinbase-backed crypto advocacy group endorses 32 US midterm candidates - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaGZ4Rl9NTFRfbFNlUHRvQW9LeHN0b29HOGRCbkZ3dWthQzdVWkpqdjZkU2RUZmZleENBNnYzSHNpZXpick9qUThyM3M1YzdjaTlyNG1yU3gySmU5NkZBVFdyMERMRC16bHlDVl8ydHdsNFpwZWZ6N3RZUGppWGJGaVBuMHJGMU1RZmlUU0ZmZGZSNTFEd2FVVEZFN1dMOHdJUWVYeDRYcC1qTlh6aWlzYWRwNFVZYTJ5V2FndG8yNGEtdw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 12:40:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "TotalEnergies profitably moving heavily discounted oil through Strait of Hormuz, says CEO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlpTanlXRFd4X0JwM2o1eG05R0JFQTcwVG5CZHBlMzBLU0JCcWtsaFJLUnl0ZzRhVW9BZkNnN1ppQ25rVmZzV3pZYS1mSFRybThxcDlWcnRnRW9nUjNPT2VWcWh3X0VCUGdFWkNwdFU2eUFqZTBELUdKbWZYU2NFWkQzRDZyRXd5M0k0SG1LM1lmNHF5VnctdUhfdHBsY3ZRT3J0UWVfdzBLZHdsa3VSdmRQN3ZKZWxjMlI1OUVQZGJGQ29USU9Da1pPRk4?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 12:36:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1A3TzVlaW92SHFPcHNmUjdQZ1hIYi0xZWNCdGVpcmY4VmZBUHNneElLRnE5dDFwZXRRX1FfcHFkMDlFMm5kdGh2aldsWnllaGZSVWJ2SFhzUVRRU3FyNzJNeWJfb3lrQnhqQ2g0d1c0ZUo0dllmTkd4QzAwWTNZV05sNlc2M3c5c3d5Zi1hTF90N0ltX25sUUk4T0RURUE3akZuX2VrMEFGcXFIMV9FRFU5VWI2UE4wREV3?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 12:30:05 GMT",
+          "pubDate": "Mon, 24 Aug 2026 12:57:41 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T14:00:37.331Z"
+      "updatedAt": "2026-08-24T14:24:10.688Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T14:00:37.407Z"
+      "updatedAt": "2026-08-24T14:24:10.822Z"
     }
   ]
 }
