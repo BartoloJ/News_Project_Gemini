@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-24T17:45:06.997Z",
-  "lastChecked": "2026-08-24T17:45:06.997Z",
-  "lastUpdated": "2026-08-24T17:45:06.997Z",
-  "generatedAt": "2026-08-24T17:45:06.997Z",
+  "fetchedAt": "2026-08-24T17:50:17.126Z",
+  "lastChecked": "2026-08-24T17:50:17.126Z",
+  "lastUpdated": "2026-08-24T17:50:17.126Z",
+  "generatedAt": "2026-08-24T17:50:17.126Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T17:45:05.682Z"
+      "updatedAt": "2026-08-24T17:50:15.526Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T17:45:05.921Z"
+      "updatedAt": "2026-08-24T17:50:15.840Z"
     },
     {
       "name": "AP News",
@@ -148,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "IndyCar - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3SFR5UHo3R0I2eWJBMWxLSkg0dHIybDlQYTV1Tm5PUzZ0bXMwcFpOaTN2dURIZWw1Vi1JM2FBUm5pSzh3?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 16:27:45 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalUySDQ3aEpTNkxnMDlLRnVoYUlkaDdVRjZ5Qnc1RXltalhSaUM4LUJseUk3ME9UVmgyREJBZUNlajdaTnVCclZJV09KcGU2T1EwaHpUaFRGWWVLVVFzQXZaRVBCSS13QzYzMkUtZDRTY1FOWG1XVzFYOTE0WnQzQVdodmlNYUplZDhsTUl1RQ?oc=5",
           "pubDate": "Mon, 24 Aug 2026 16:18:00 GMT",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
           "pubDate": "Mon, 24 Aug 2026 16:17:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "49ers owner Jed York pleads no contest to two misdemeanor charges in Ohio - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXVFZ1BlaS05RFAxaHhRQWxjbDdsaGxDS2xCSzR5VWdpVDFkNHM0bmh5VTFtVkpkOVJ0cjJjVHFoMm0tNkRuNWZOSVI1aHc2S0oxTTVvUFhzbExIM3JzYXNpaXJWNjVEeC14WmdYTFdLY2F0VjZDall3VDY1Nk1oWGxvdHZ0TDdZZ2FZ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 16:03:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T17:45:06.466Z"
+      "updatedAt": "2026-08-24T17:50:16.371Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T17:45:06.904Z"
+      "updatedAt": "2026-08-24T17:50:16.790Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T17:45:06.997Z"
+      "updatedAt": "2026-08-24T17:50:17.126Z"
     }
   ]
 }
