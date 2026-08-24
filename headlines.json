@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-24T07:50:19.741Z",
-  "lastChecked": "2026-08-24T07:50:19.741Z",
-  "lastUpdated": "2026-08-24T07:50:19.741Z",
-  "generatedAt": "2026-08-24T07:50:19.741Z",
+  "fetchedAt": "2026-08-24T08:00:20.326Z",
+  "lastChecked": "2026-08-24T08:00:20.326Z",
+  "lastUpdated": "2026-08-24T08:00:20.326Z",
+  "generatedAt": "2026-08-24T08:00:20.326Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T07:50:18.832Z"
+      "updatedAt": "2026-08-24T08:00:19.238Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T07:50:18.859Z"
+      "updatedAt": "2026-08-24T08:00:19.430Z"
     },
     {
       "name": "AP News",
@@ -120,13 +120,13 @@
         {
           "title": "IndyCar - AP News",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3SFR5UHo3R0I2eWJBMWxLSkg0dHIybDlQYTV1Tm5PUzZ0bXMwcFpOaTN2dURIZWw1Vi1JM2FBUm5pSzh3?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 07:49:02 GMT",
+          "pubDate": "Mon, 24 Aug 2026 07:54:19 GMT",
           "source": "AP News"
         },
         {
           "title": "Donald Trump - AP News",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 07:44:52 GMT",
+          "pubDate": "Mon, 24 Aug 2026 07:52:14 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T07:50:19.264Z"
+      "updatedAt": "2026-08-24T08:00:19.846Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Germany's Wadephul to urge Rubio to take more active role on Ukraine - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeE5XaGVhS0hDUkZEZE92aDZSQ2JCRkdkSHRkQTE0TVVtSE11djNiZjZVUzZqSTFTWkdFZEFoXzlXMFY2Vk5jOHByQkJwMVNvZWZrSFZpYTd6M3NjNHpFY2FqWEt0UURtYktEZHJQZ3A2Q1JSd1ZoLUltRDJwTW1rMEpzc1ZiVWZ1bnRyMDFURm1wZHFpbTNjZ2ZJZ3JKMzNSSkE?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 06:30:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Taiwan indicts 9 over alleged illegal export of AI servers to China - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
@@ -203,26 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Coach carrying German high-school students crashes in Netherlands - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdGh2Y0ZKQjZjYTZ5Rld6aTUtREg5RlJTNGVtOHZMSkJEWjdUeTJXa3VmcjNIc0hmRElmd1Qza3IzR3BsbkNFZ1A2b010Mlc1bGNBb1pXajVtVWdSbVNLZERIVG4xV3IzdXBILUFPOF9pQy1fRzdEZ0VXS01DOGlyMHA4SzY3VFRCVnJudlZuVlJTWkF5ZWUxMVkxNUVRQWpNd29fRDljaVVWdFU5V0FObm9rTjF0VFU?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 05:36:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Southeast Asia's budget airlines eye recovery but fuel scars linger - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTEtcC10STI2OFlVT3B6TnZTX0pueU5DSnNhRmlWTjRoa1M0NHZIcVJ0a3ZtVEU1WEp5ZWpkNFEtZXJHc1pfUHdfbEMtbVhpVDJQME5SR0tORk04NDQ4VElSOFNQNlNCOEozckxuV0hvam1SOGpxSlpfVE02Njh3NURQSDZJdHIxYldtZmRRV3J4VF9xQVFfMkE3T2pLOVU4VGFkVk9ZczA2NVAtV3hlNzM3VE1KZUdJ?oc=5",
           "pubDate": "Mon, 24 Aug 2026 05:11:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Norway will drill in Arctic regardless of EU's position, says energy minister - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTE5nRnVOOFJXYXBSWklEZVhITWVHQTNaTllvYUxoclNydEZPMDFHcDd0SmNUUndjZFBrRWpLa2NVekRHbEh5SWFwbU5zb1I4emN0OUNuUTAwY3VtXzBoclEzbE1iQUoyOE1TTExrNnlwR0JxT0ZyS0ZoMkVYYUw3RWxuNnlFWHlUSDRYN3Z3Z1VlS01oTXBaNC00ZWtDZW9Ka1ZuUDZucTVyMDVoRHNCS2ZVbWxQY2RVLXg4c2hB?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 05:03:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oman foreign minister to visit Tehran on Tuesday, Iranian foreign ministry says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObkJfZGxYQ3dRdFhQNi12SXNHbmhYcjV4UHlnM1RwSm1Lcmt0ejJWTUh6OUlQRnBLbWh3YlM5V2dKVkNPNXBiVGI3b2Z6WUFGeWdCa0wwc1RTX2NHX0FaSzBGOVQ4dk1SRzFvejI3SXRUZVNVWWMybXVpWEJrY0poNExaQ2lEZjBvSDM2UWNhZGxtb3RFRWxZaFlYTk5EQXVmNFNEb0MxSWhVRl9tT2RJcjd5OUo3WTN3QlVPTFdFbno3Nk0xNHc?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 04:42:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T07:50:19.661Z"
+      "updatedAt": "2026-08-24T08:00:20.240Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T07:50:19.741Z"
+      "updatedAt": "2026-08-24T08:00:20.326Z"
     }
   ]
 }
