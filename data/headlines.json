@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-24T03:50:17.924Z",
-  "lastChecked": "2026-08-24T03:50:17.924Z",
-  "lastUpdated": "2026-08-24T03:50:17.924Z",
-  "generatedAt": "2026-08-24T03:50:17.924Z",
+  "fetchedAt": "2026-08-24T04:00:26.458Z",
+  "lastChecked": "2026-08-24T04:00:26.458Z",
+  "lastUpdated": "2026-08-24T04:00:26.458Z",
+  "generatedAt": "2026-08-24T04:00:26.458Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T03:50:16.374Z"
+      "updatedAt": "2026-08-24T04:00:25.014Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
+          "link": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
+          "pubDate": "Sun, 23 Aug 2026 23:47:04 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Learning to live in a post-American world",
           "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
           "pubDate": "Sat, 22 Aug 2026 16:53:19 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
-          "link": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
-          "pubDate": "Sat, 22 Aug 2026 08:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T03:50:16.638Z"
+      "updatedAt": "2026-08-24T04:00:25.331Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,18 @@
           "title": "Fast-moving wildfire amid shifting winds threatens Reno, Nevada, forcing thousands to evacuate - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUpEM0MwOHJxRV9tR2NuUkV6NFFBSzFwRHM3dmp2Z2U1TlBaTVRWY1ZDNDg2U0NTX0V0dlJVSkVNZF9FV1dDY2F4ZFBaMkhuVjl1MHRVYXZPZm1SUlRCOEZoa1lTZ0toek0wYVJIN2d0eTEtSXFYLVdOVFNOdHZYM0pzZXNKb2NscjNFLThoX1hpZmgzcHJoTQ?oc=5",
           "pubDate": "Mon, 24 Aug 2026 03:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "IndyCar - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3SFR5UHo3R0I2eWJBMWxLSkg0dHIybDlQYTV1Tm5PUzZ0bXMwcFpOaTN2dURIZWw1Vi1JM2FBUm5pSzh3?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 02:47:14 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Zelenskyy details rift with Ukraine’s dismissed Defense Minister Fedorov - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 02:42:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaU5FVWRBQUJLSlZOUVNxakNZbVZ1V0ZJWi1XMmEwZGNybzlENkhORzBhX3gxZjVqbEEyVGE3Nk9LdTRzd05yLWJMeXdhTUtHS25OU3FrMExnRGFvZG44YTVzWjZpQjRjdTZVbk5PTldaUWZfaVotX09kd3pTMXAxZmtKWTdzai1NQUVSeQ?oc=5",
           "pubDate": "Mon, 24 Aug 2026 00:38:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Police investigate after 5 bodies found in rural area outside Portland, Oregon - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSnpTRjJxRUxlUHotUVUtTGdOb3NOTTF1cUhhQ0FkMXMzUnk5QVRYNGk1SFpxMVJ2R2dLYlVCXzQ0S0JoT2pLdzRodkVSYkFjVzEwZ3JTY1BsejlxOWgtdnlhZGVfd05LU2VvSldscEJybXRyZFlMU1dvcGFDdWlZVnYtWUNBaENWenZCX3JBOS0tbWVYRUs1LXdkNUJjV3F6RUZPNg?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 00:18:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "IndyCar - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3SFR5UHo3R0I2eWJBMWxLSkg0dHIybDlQYTV1Tm5PUzZ0bXMwcFpOaTN2dURIZWw1Vi1JM2FBUm5pSzh3?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 23:47:14 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T03:50:17.121Z"
+      "updatedAt": "2026-08-24T04:00:25.846Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "North Korea preparing further Russia troop deployments, no sign move imminent, Seoul says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTHFDVms1QXIwRVJKUlRKMWpPY2VvX3FMaVU1UGtlZjV2TVd4OHNkNXVmQ2dQV3Y0NzBwM21IUzN1NzFOYmhlVDBKS092bXB5NmxLeVNnd0VKWkN6TXRVWXAzZjJUNl8tY3R5eEdNQkd5akoyanpjaFpWYXJXbFNOMkFmSllJLXZzN1I5S0REcExyRlRNVHQycE5SaE5NTTBSYVprYTdvR0xBNENHbFJEUzJ1aXFCMWl2UlBXdHZHSXhuOVdqZFQtbWhnUFJJbFA4eklQTnJB?oc=5",
           "pubDate": "Mon, 24 Aug 2026 02:27:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Man suspected of murdering five in Oregon found dead - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcFhJQnlfZnhZbTFOdm9YMFhZRnQwNWRSSU1xSFlLZGR0NGpIcldaYVQzTGdfbm9XQkQwR1F1Wng1Slk5aDExRVFBRHNKUEdrZGlmZGJ5NzRocXFZQ3NQY1VsWEFVa0JBWnYwMUtIWWZzMGZ2NlVkQlh2OWNZUnJLaFRIYjRfcUpSMzliQ0VqeTFBWUhDSEpFdlNpbWQzcG81UWc?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 02:03:00 GMT",
           "source": "Reuters"
         },
         {
@@ -191,7 +197,7 @@
           "source": "Reuters"
         },
         {
-          "title": "Shares flat in Asia before Iran sanctions news, Nvidia results - Reuters",
+          "title": "Shares dither, oil slips in wait for US details of Iran sanctions - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
           "pubDate": "Mon, 24 Aug 2026 00:49:00 GMT",
           "source": "Reuters"
@@ -209,20 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Offices, schools closed in southern Taiwan due to torrential rain - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQalIzdG1SUjVnUVcxVnVsWnFVd3ZnLVY2Z3pRZ01ZREtOMWF4dVdlZmd6cDMxRk80c3pGQmpRNXNtdlNuZlA4SjdiN2dYcjV3X1E4WU1YU1VWakFRUlhrcFBrcTRfQk5LLXdPV2tIWUE5MHR5REhQSDJVcVZyN19XcTB5M0kwXzd2bkxrdlMxOC1JTGhDVHIwYXZxOWpBa2hRWGRMM0ZjMXh6VEFUWDdiUVlHZlpZdw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 00:06:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "California expected to seek TV channel sales from Paramount-Warner, WSJ reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLTJIdy1oY3VwTEtJQTd6UEJzaUp0R0tMbWc0cmRjVmRXWGFFaVNwUEVvd2tUaWNtV3poNFgxdnRMaGhkX2FES3lMQ3FwaktRd3JrdWpYMjhHSTR0QWN3ZXJiSjJiUHJwQlRUeVZkYVR0REIzOWVSMTlFOUpVVzFPZlNMcGZXTVBrT0JBaXpFeUVGWlVHek92T2RlcFJfSTRyQUtTYnZGQ0xMZVZ0YkE5R0lmeS0xamVwaVJ6ZEJac3BGNmphWlZWMw?oc=5",
-          "pubDate": "Sun, 23 Aug 2026 23:51:00 GMT",
+          "title": "ExxonMobil temporarily halts operations at Guyana site after fire, Bloomberg News reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNUE0S1c5WWY5Tzl5dHVndnR4SDl4cGd1bjQxcGdPQ1BJbW1neFJhZEtGbk5aRnFueWtWQWVqNE5YVVZYdndrbEJwQlJ4bkpXcF9tOWtuWE9MNTAzXzFsV2Z1Z1NvbmdEbWxGUUhOcGVQQzNkS2llQURhb3phM1dpMWNDS0s5My1NVktjMk5WNUxhX0JXQk42WHpTVUcxZ1lkU05lWVQ4ZFM2UVpuMWtYZWFjVmlQaTJ2b2pBNGNRelg4dGRrSXltRQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 00:11:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T03:50:17.576Z"
+      "updatedAt": "2026-08-24T04:00:26.235Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T03:50:17.924Z"
+      "updatedAt": "2026-08-24T04:00:26.458Z"
     }
   ]
 }
