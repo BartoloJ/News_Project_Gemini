@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-24T18:14:20.002Z",
-  "lastChecked": "2026-08-24T18:14:20.002Z",
-  "lastUpdated": "2026-08-24T18:14:20.002Z",
-  "generatedAt": "2026-08-24T18:14:20.002Z",
+  "fetchedAt": "2026-08-24T18:25:14.336Z",
+  "lastChecked": "2026-08-24T18:25:14.336Z",
+  "lastUpdated": "2026-08-24T18:25:14.336Z",
+  "generatedAt": "2026-08-24T18:25:14.336Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T18:14:18.707Z"
+      "updatedAt": "2026-08-24T18:25:13.334Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T18:14:18.840Z"
+      "updatedAt": "2026-08-24T18:25:13.385Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Carney says Trump’s demands would dismantle Canadian auto industry as Ford warns US could be cut off - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 18:15:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "How the No. 2 pencil became a uniquely American school supply staple - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOEhpRVl2blNkUFpBalZqRlZNVVhqVENIaDZrMTlDdUc1N1AzY3ZHRl9FNm1FX1VIbkpYQVMxNjZrZENRUkVYZGIwM01JZXgxNF9mSTVTXzBnQnJENklsR2lYdmhZRzdVNEtMVXl4VU4xTVlGMVVDQnk0blhzVXZhTHNyVDVuLTk0bExTbGFNTEZwTENi?oc=5",
@@ -142,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "Washington Post ordered to reinstate Black opinion writer fired after Charlie Kirk posts - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNTNxWmRReXloNnFvUTd5NlgtTGZnSHdYZlhMNFk3ZWVFdi01eUdmY0pHYWRLUmVwVlBmUU1jeHgybEdGZXFZUUVyU0had0E0Yy13c21LRVBvVFhVNzk4aVJRNkQ3RGNLUFItbXJqYlBDcFBLN2RqSzV2YXNBSzZfQjY4bzc2S1ZUcEVvQVhDcHFLcC1Vb2lsY0VMRDl1NUFuQUs1NVVkSUVxZw?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 17:29:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Britain tells TikTok and other platforms to remove videos glorifying dangerous driving after deaths - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORm1mQ2NhVTB0SmNCYkl0c2lydTBYb2tfUGRjZGllY014YnlXd2Q3a2RuQ3g4X0VxT3JTV3dQQm5iZHZvd2U3TmxxRU1ETkQwY0VvSV9UYlVLbkVzTHVhSVdCYUhueFc1V3dSUVhhdmZkelRBNlgxSC1EWGpGMHRqeUZhaExFNmFONFR3cFB1a3pYeU1JclprUHJVRHAwZmxWaWE3dVF5SF9Sdw?oc=5",
           "pubDate": "Mon, 24 Aug 2026 17:00:00 GMT",
@@ -152,26 +164,32 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1dReDZpZnhwWEQySC1XMWxPbjNmY2Zaa3pEbUJESmZHWkVJd21EelRubnpIY2d4Ulh0QTRRY05wQ1hGRkliWTdlbGVqSjlGMUFmRUgtZXY5ZnBXVVI3clJFcGZVQU5wclptaUlUTmdaNTJ5Q1p4bFB6V1hJVEtJZDRyZ1NmNjZRejdFNDNWQV9oMlhaRnNN?oc=5",
           "pubDate": "Mon, 24 Aug 2026 16:42:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Indonesia intensifies aerial firefighting as wildfire haze spreads to Malaysia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFdEeXpxc2ZXYTlsR2ZlR285QVJ0Z1BrNmdDMjViZWtjWi1rVGhJTm1WR0xyZkNTZS1qWW1fYTNjR2RmRk9lTEF6RU1pdHNyeV8xeHQ3MW1yNk9iVm5ud2tJTzcta0NGM0QxcW1TMWMwYVBoMHhzT05DQUw2RjBkVXYyYmNPTDh5LW5SaWRrd3N6OWNoWldTWTNveWNXUDd5OFo2U3pYVkhiRWJIekFZ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 16:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "European leaders mark Ukraine’s 35th Independence Day as Russian invasion pushes on - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzFlRGlTVUtGOVc1TVV2TGQ4M3VicUJRbzBPV0VTY1hldnlvb000QWEtOXpVc2NnYlNJaVRnVDNhTjNqbTdkTDdXT0l2SXh5enNaRzZFVzRGVi1teUM0bUpDdzkyWTFNN1p4SHBNNVRxUVVzRGtfRnZ0amg0T2ZueVVtQTNSbV96Z0dBdjd0eHhJeWxrTE0zY1NfWWJzT2FG?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 16:31:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T18:14:19.308Z"
+      "updatedAt": "2026-08-24T18:25:13.867Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Gold rally gains momentum ahead of US inflation data, Jackson Hole event - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkZtQVBPdjlyb21JaVBxeFRicDFEeHVNQ21pZzdGQnlSMUpFYV80MEl3RjJUbF9tYWxmdkZqY2NpaXh5S0NPd1lhbFZxUHZMVVFkTHNyNktCX2hrUU5KN3hjcWRUVTlaQ0hwcmVoMV9VZjBmUkFjMGtTUUY5MXBwRDRFWXBwQnhZTzU1dV81LThOaTNZR1BLVDRGU1JtbDczRjVweFByWkVQbWhhX3VwYTlJZ0VYblU?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 18:04:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Altria, Philip Morris International sign contract manufacturing deals - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEVjYkxkdDdDZ2p1cjlwclEwSUd6dHB3SDNyVzQxbzdhQnI2aGFuX2hZQWRiaF83MUFQSGtCMDUxN3VsdGJMRXljOWpacU1kdEdNNkdGZWJUaDIwcmd0WU83OERSY25haW5ZRVBNaDBiWXpFaXZYRHZHMVY0UkFzU3lMUlZaYndrTEZsMTFqMGVUblZoRU43T0tCTWxoXy1DbHlST3hrQ3JjN1RaZk5ndUVPSQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 18:01:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gang attack on hillside town near Haiti's capital leaves 30 dead - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVd0VXhHMlRJWHJwYjhiQ2xJZ3hOaDk4eVdEeThNMWY0RXlucm9jM1d3Q05ld0VLdHpZLXRqMmZTd05iTEM5TnhId2dzLThTUHhBWDdsNGMxM2kycWVObEJ4U2tBVlpQTDA4SEttYmRqUFFDYi10NnIyZmVuM29EVjY3WXFDSUQycnNnTmlLajJCZmtJMmpIOHEzNXpsQQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 17:54:57 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Tunisian hospital receives 19 bodies after migrant boat sinks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTmx4SkxmY3BwbHdvdHdTUnROcDFFYXg2QzNvNE96VUlTb0NLdDFaVnpyR2ppdXVLTklkandhRlFuaFVPRlEydmhsT0ZoODQtQnIyNWo2SjBxeVhaR2lFOEZxNHJpTDVkdU5ad0hreHFqNTFLa0ZycDIxRDlmRFlsRUtNLUF3eUVOdk5pNm1wQWQ3eGptdHExNjAyMDR4T1A0SXRqaGJ4NlRfcGdwYUJv?oc=5",
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHBZd3V0b2sySFhUajY0b2NBeVcwZzFLdGpNMENHWGRyMHEtX0NqYi1fUXU2a1E4UGVqS25vS3hpTkd2MW5xLVRtTi1pSnZ3R1VpZDBxY1lLLW9WbEdKdzFZbTlzbjZMRlJGQmt1OS1kTlBpZkhkbVJXYWd4elhfRTV5SENBRG80WHlhbURPeGZRYWt5TmxoN0FlSHVZb2QweFJlQWtkemoyQnRhak5ncnl6S29SWHdadjRUamdRdw?oc=5",
           "pubDate": "Mon, 24 Aug 2026 17:24:55 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Former world champion Dott convicted of historical sexual abuse - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOEE5SVJ5cmJJQXQ3Q2RrV05HVFpLbU9FNklKQVA0aEVOVExlbjZnTnBUMFdoSXF3X2REVDZzNGtMMnliNEYwM05nVG5pNklxdEhNSTBRWWpPN1VrX0ppbEhLRzF3UE9ULXdoa1R0RS1UR0lNVTVBTXBOT2dPcUQtYkVPV0JRT191SGpRUG15dk8wQUtRY0t6dzM4YzJPOG9SZy1xdG9n?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 17:24:33 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeHRsVm1PblBZVy1Kb0lNOVdrZ3E1dVItdjNHazBSVWFOc25tWHluRU81c3ZRNzB0Y2c4eUlmX2dzWE0yY2FNV0xqaG4zcDVRWVhvVGhleTFIVExKYVRqeVUxazBGNzBuSVBabzczRFpxdi1lVF9GdDZiQk55ZDJzMThwMEJIcGxrSTNncDg1aUU0TkxUTEc1a19rN0lnNFVFQ3F3V3g1UFlGcE1lNm9pOW84MVpDd3Y3VEFvYk9LOXVUUTN3Z2ZvX1FQR0RoemtwRUlvdWVoSQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 17:02:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Tech drags S&P 500, Nasdaq lower as Iran tensions, Nvidia earnings loom - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 16:42:51 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T18:14:19.778Z"
+      "updatedAt": "2026-08-24T18:25:14.267Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T18:14:20.002Z"
+      "updatedAt": "2026-08-24T18:25:14.336Z"
     }
   ]
 }
