@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-24T20:02:42.217Z",
-  "lastChecked": "2026-08-24T20:02:42.217Z",
-  "lastUpdated": "2026-08-24T20:02:42.217Z",
-  "generatedAt": "2026-08-24T20:02:42.217Z",
+  "fetchedAt": "2026-08-24T20:25:16.648Z",
+  "lastChecked": "2026-08-24T20:25:16.648Z",
+  "lastUpdated": "2026-08-24T20:25:16.648Z",
+  "generatedAt": "2026-08-24T20:25:16.648Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T20:02:40.818Z"
+      "updatedAt": "2026-08-24T20:25:15.419Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T20:02:41.137Z"
+      "updatedAt": "2026-08-24T20:25:15.676Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Trump tells Canada to ‘fall in line’ as Carney rejects subordination - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 20:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump's 'economic D-Day' threats become warnings for countries to sever financial ties with Iran - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 20:16:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Iran warns of a harsh as US announces new sanctions and other Middle East news - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3VzOFY1UEwzVnN2d3pDQ0NFZWZQVEJNcGJ1VlVKbmczYjVBeDk5S3NTOGtIS3NKNDFUdXFDbjRUTURPd0c2YWxZelQ3NnFxVUtfM1NzSk8yQ2ZXYnlTZGpiZFBxTTZXUXN5czJ5VnJqWFprcG9NcTFnOUtmNU54cHIwRjEtblZINUs0bXlxTVZrRU9ZNkp1OUVyUTEyOUZzRXBaTnhhRQ?oc=5",
           "pubDate": "Mon, 24 Aug 2026 19:22:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 19:09:34 GMT",
           "source": "AP News"
         },
         {
@@ -142,32 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Bessent says new US sanctions aim to block all potential sources of revenue for Iran - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:33:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Gang coalition unleashes violent new attack on farming community in Haiti - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnNxdGtKeEtRY1RrSVRMa0lLT0I1andkd2h1YzY3ajBfYmtZVnltM0xhUDBGUDdqNk9xQl9Xb2QyelR3YWZiWERybTVkZm05ODV1d0VDQWlFd1dkRVJQMXNuVVl2N2RWVFV1Y0hrWWlLUi1TYXdmVXBaVkRuZVJGNDJjd0VibExwT0R5c2ozYVk4T2lLNnBoV2FmNlN1dw?oc=5",
           "pubDate": "Mon, 24 Aug 2026 18:29:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Carney says Trump’s demands would dismantle Canadian auto industry as Ford warns US could be cut off - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US Postal Service issues new rule for mail ballots, but its impact on the midterms is uncertain - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGo2NXVCTXRIdTNmM2o3NmRQVU9PcFMzakxPNlZrVVNvZ05mMEpZYmhEU0dKakFVV1lTejUxRTJ6d2ZYSTRJOHh4a00tR3R4clpSLXRtUlpudzhjX1ZxUDE4M0NCUndNZ0dLQ0lQRTQ3WU1qM0VGWF9fZkRYa1BVc0pBTTI3dC10X1JTbTJ6eXFDMmduYnZsNHR3NTVpRlY5SGk0?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:10:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T20:02:41.572Z"
+      "updatedAt": "2026-08-24T20:25:16.106Z"
     },
     {
       "name": "Reuters",
@@ -179,15 +179,33 @@
           "source": "Reuters"
         },
         {
+          "title": "US removes Syria from terrorism sponsor list, lifting major investment obstacle - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlU2M1F3TVF0MDVWdXBQMUs3bTdBTTRnWHhRYU85b2IyU04tVTYySkFMVGhtNDBhQUZUdGRKQUNDRnFtRlRDRF9xZFlYaklWemxNNEo0WWNaZWpoQ1JuVWV5Rm94QzRKZzcyZVJIUGlzamtwRkVkcEdWeUxOZTVKZkRJRkJ1cTFwVElRUF9KN05zdEpRRjlKbTZJek40LUJaVzRubzFyRTJmZmM?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 19:35:45 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
           "pubDate": "Mon, 24 Aug 2026 19:35:39 GMT",
           "source": "Reuters"
         },
         {
+          "title": "Target apologizes for children's clown Halloween costume after backlash - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzUzNFU1WUZVbkRyRURTS0hXODdQc1BodmpLT2pNb1hvckQydmRXQ3A1c0RJbzNUY0xnenJvSlN2dzVoUkk0YnU0bk5Xams0ejB0aXBFVkpmUm85UDNHV1RXUExyUXRXeTE1NXotYmg3ZEM1MU5PZy00R2hidk9MNWtsX0I2YjdLVWd0RGV6Y1liNktXTm5mT2JZaVpPMURSdmpaRkRyZExxYXVRamZ3SVpudTVwc09CaE5zLVZwN3JOYlNaM3c?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 19:31:33 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "California cancels talks with Paramount over Warner Bros deal - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdkFvWDdMZkFmU0NiOXNmUHBEU3RFLVFmM0VmQnZpbEsyeUp3UmZhb0J4TTNyZUZvNzZiQUQybHBwRjcyMU1TQnl3VkE0OWMwX3N5MzlGU1daWTVaN3dIZmVHc0RsU09LVkRjRTlJZlVKbWhjNWZHVkxJeWlFaFg5aEFic18xTnhEenpQVUFKUDA1N1oxMVY5cGlhRXo5cTVkdWQ3NEpfMDM3OFNLaGRQUzFpUlBQQnVVblJYTER4WWtST3Z0UU00?oc=5",
           "pubDate": "Mon, 24 Aug 2026 19:00:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump bought shares in Elon Musk's SpaceX in June, financial disclosure shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHBZd3V0b2sySFhUajY0b2NBeVcwZzFLdGpNMENHWGRyMHEtX0NqYi1fUXU2a1E4UGVqS25vS3hpTkd2MW5xLVRtTi1pSnZ3R1VpZDBxY1lLLW9WbEdKdzFZbTlzbjZMRlJGQmt1OS1kTlBpZkhkbVJXYWd4elhfRTV5SENBRG80WHlhbURPeGZRYWt5TmxoN0FlSHVZb2QweFJlQWtkemoyQnRhak5ncnl6S29SWHdadjRUamdRdw?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 18:57:27 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5",
           "pubDate": "Mon, 24 Aug 2026 18:52:34 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump bought shares in Elon Musk's SpaceX in June, financial disclosure shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHBZd3V0b2sySFhUajY0b2NBeVcwZzFLdGpNMENHWGRyMHEtX0NqYi1fUXU2a1E4UGVqS25vS3hpTkd2MW5xLVRtTi1pSnZ3R1VpZDBxY1lLLW9WbEdKdzFZbTlzbjZMRlJGQmt1OS1kTlBpZkhkbVJXYWd4elhfRTV5SENBRG80WHlhbURPeGZRYWt5TmxoN0FlSHVZb2QweFJlQWtkemoyQnRhak5ncnl6S29SWHdadjRUamdRdw?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:49:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeHRsVm1PblBZVy1Kb0lNOVdrZ3E1dVItdjNHazBSVWFOc25tWHluRU81c3ZRNzB0Y2c4eUlmX2dzWE0yY2FNV0xqaG4zcDVRWVhvVGhleTFIVExKYVRqeVUxazBGNzBuSVBabzczRFpxdi1lVF9GdDZiQk55ZDJzMThwMEJIcGxrSTNncDg1aUU0TkxUTEc1a19rN0lnNFVFQ3F3V3g1UFlGcE1lNm9pOW84MVpDd3Y3VEFvYk9LOXVUUTN3Z2ZvX1FQR0RoemtwRUlvdWVoSQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:44:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Tech drags S&P 500, Nasdaq lower as more Iran sanctions, Nvidia earnings loom - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 18:27:38 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T20:02:41.991Z"
+      "updatedAt": "2026-08-24T20:25:16.491Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T20:02:42.217Z"
+      "updatedAt": "2026-08-24T20:25:16.648Z"
     }
   ]
 }
