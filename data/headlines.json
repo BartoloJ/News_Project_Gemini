@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-24T12:33:54.414Z",
-  "lastChecked": "2026-08-24T12:33:54.414Z",
-  "lastUpdated": "2026-08-24T12:33:54.414Z",
-  "generatedAt": "2026-08-24T12:33:54.414Z",
+  "fetchedAt": "2026-08-24T12:50:15.483Z",
+  "lastChecked": "2026-08-24T12:50:15.483Z",
+  "lastUpdated": "2026-08-24T12:50:15.483Z",
+  "generatedAt": "2026-08-24T12:50:15.483Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,14 +57,14 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T12:33:53.097Z"
+      "updatedAt": "2026-08-24T12:50:13.933Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran, on what President Trump has called \"economic D-Day\"",
-          "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran-on-what-president-trump-has-called-economic-d-day",
+          "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+          "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
           "pubDate": "Mon, 24 Aug 2026 08:26:00 -0400",
           "source": "NPR"
         },
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T12:33:53.219Z"
+      "updatedAt": "2026-08-24T12:50:14.103Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Donald Trump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 12:36:37 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "IndyCar - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3SFR5UHo3R0I2eWJBMWxLSkg0dHIybDlQYTV1Tm5PUzZ0bXMwcFpOaTN2dURIZWw1Vi1JM2FBUm5pSzh3?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 11:36:13 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Cricket captains from around the world renew appeal for medical treatment of Imran Khan - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHEzaDladURvNUw5ZnFaaXZCRXA3OG5POTFzTkZkaDZvVGhkY0xEVDVsM2FXbm56ZWdhMGU3TFdQTXJsbndDSmQ5c1VhSzUydTl1cTJQSnd5UTJmYmFySUJ0QzlHMlhjR2Y0OV8waENHS2I5NkRWMDRPd2JhMjZpUERnUXBZanNCQm83UFczZ1pMVkg4blhlV1ZPVDFMd3VyZVUxWVd4UkcyWC1CRDdj?oc=5",
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVi04c1BmUFdiVjdvS2lVTFZHVWhBV3h2U0poNXh3Z0ExQWowWTVoUTQwblBMdUxtanB2OEVRNWVSUmk3c0hSWEwtT2NhVWFpOTdhX1Fxc25XSG5PQnlRU2F6Sy1aMnJVeTY2MHEwV0xjaldlUGFMOVhrcXlWSUJUWUlVSXNfVGpxRkY2ak9SYjZDUDdzeGhxMw?oc=5",
           "pubDate": "Mon, 24 Aug 2026 09:50:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "World shares decline as bond market pressure persists, and Iran's rial sinks against the dollar - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1dReDZpZnhwWEQySC1XMWxPbjNmY2Zaa3pEbUJESmZHWkVJd21EelRubnpIY2d4Ulh0QTRRY05wQ1hGRkliWTdlbGVqSjlGMUFmRUgtZXY5ZnBXVVI3clJFcGZVQU5wclptaUlUTmdaNTJ5Q1p4bFB6V1hJVEtJZDRyZ1NmNjZRejdFNDNWQV9oMlhaRnNN?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 09:08:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "2 bodies recovered and about 12 missing after migrant boat capsized off Tunisian coast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVTQ4YXQyZDdTakQ3N3luZ2hycjlwZUVVQ3BfRHNwQWwwRU5hZWxUNnU2REVVSWtXS0pUdUtPSmE1VmRFVlBpb1JCSGhOUi12SEtkbUZiVEZBY2F2VGdQTVI2R0pIQ1pDVnZmSGZfTmhYVUt1akVPMFppcmVGMHdEU0IycnNWZDRWUDBpZERqRkg1NDA?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 09:03:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T12:33:53.634Z"
+      "updatedAt": "2026-08-24T12:50:14.542Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "India's TCS to buy Porsche's IT unit for enterprise value of $373 million - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQi1WcUl5Q0FFRlRFVDN5TmtYV3dBUHpvYUhCRDJkSHdJNXotcnNMUjNMS1ljQ0VWMHJTbXQzRlZZUm91Q09oSXozRW5LZmc2V0dSdS01cVRMb3pseW0zNVUyc3RtMXJpckVVVV9yc1FDZngwV2tfaE83UWJKVnlnNHZxYVIzNG9yRzB2M0pfZ3dTa3BuWHc?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 11:45:55 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "French far-left leader Melenchon seen reaching presidential runoff, poll shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2lDVjVQZnl0M0dpNHZEbGEtcDRQSzE5ekRBT0FWZ3JVZEd2VmJRSTQzTXQ4NXJuODVvVnZmbzJYM180bnNJN0RSZXctLTB2dDJsQVozQmYyRjJMVDRMXzBEcTEtcXNNdTdQZ1hiSURVRVlCcDd3SWxBaUpRU0s0SEdFYzYzWDhCdEsyMXUxd2drYXhWYWtTTDJ6b29Za0VtUzd4a1lxZGJEYUlPTVhFTVQ1RmN4VHFMNnI0?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
           "pubDate": "Mon, 24 Aug 2026 10:10:11 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Looming US sanctions on Iran put China oil buying in spotlight - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1hfY2RieU1zQWlvd1p0M1ZhdzdkU2ZGYmZ4TUlUdG9IbXRZWjlTbTctdi1vMHBJTEtWTG40aW1sOHRqT25MaFNleGZIdUlyU1NnZC12Z3FZT2FSU0ZxNmNra0pCZXpOQl9DUmVOZ3l2MzZLc2pkZndoR2pVUUl6dEp1TXRHMkNBeXRXNkMyNzhXejZuSS1aZGpPWHJETTVuUWVqQUhyay1kcUhU?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 10:10:08 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T12:33:54.095Z"
+      "updatedAt": "2026-08-24T12:50:15.075Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T12:33:54.414Z"
+      "updatedAt": "2026-08-24T12:50:15.482Z"
     }
   ]
 }
