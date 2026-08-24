@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-24T22:25:14.732Z",
-  "lastChecked": "2026-08-24T22:25:14.732Z",
-  "lastUpdated": "2026-08-24T22:25:14.732Z",
-  "generatedAt": "2026-08-24T22:25:14.732Z",
+  "fetchedAt": "2026-08-24T22:50:15.627Z",
+  "lastChecked": "2026-08-24T22:50:15.627Z",
+  "lastUpdated": "2026-08-24T22:50:15.627Z",
+  "generatedAt": "2026-08-24T22:50:15.627Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T22:25:13.102Z"
+      "updatedAt": "2026-08-24T22:50:14.355Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Six months on, U.S. Navy families who evacauated Bahrain remain in limbo",
+          "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+          "pubDate": "Mon, 24 Aug 2026 18:22:13 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
+          "link": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
+          "pubDate": "Mon, 24 Aug 2026 17:17:31 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
           "link": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
@@ -97,26 +109,44 @@
           "link": "https://www.npr.org/2026/08/24/g-s1-139734/sonya-massey-convicted-deputy",
           "pubDate": "Mon, 24 Aug 2026 04:53:36 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/08/24/nx-s1-5939834/morning-news-brief",
-          "pubDate": "Mon, 24 Aug 2026 04:46:05 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "U.S. businesses are getting tariff refunds. Will customers get any money back?",
-          "link": "https://www.npr.org/2026/08/24/nx-s1-5939518/u-s-businesses-are-getting-tariff-refunds-will-customers-get-any-money-back",
-          "pubDate": "Mon, 24 Aug 2026 04:45:49 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T22:25:13.379Z"
+      "updatedAt": "2026-08-24T22:50:14.434Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Canada will announce retaliatory tariffs against the United States on Tuesday, official tells AP - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 22:42:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Supreme Court sides with Trump administration on mail voting restrictions ahead of midterms - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTFJYWp5U2FxQlpxYjVCb1p5dThHZmx4NGNwRnpybDZSMEVnZVpBMWZuaU9CSDlieHVYU3kzOUQ4TEl6RjlBZmxwd2dBQW9qclA0VG1RQnRBcUdkSDRfbE1RTmdib2tzRFUyTWwxTmVlZE1FVkt5QmR6M0ZVVUlyQ1pQN2E0S2pJUnJxb3RYZlZTT3BodVE?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 22:34:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump moves toward levying new tariff on China for flooding market with cheap goods, AP sources say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQk12QTBQMWIwcnlxcmRTX2ZxRjhxZl9NN1BnTXVGRTcyLUJxclhTZlluRHd6MlVJUHd4U2tFNVVnTHlIbzdHWk9sSVdnSlZBUGVRWEFodWFaVTFyZE8xS3phSDZwdFltb0hOZ0pPQ3pGSzU3ZElYQm42ZzlOTUhDazJWeEhZNkNQWnE3T1F0QUtqaGFFQUtjTUYxQS0?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 21:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Economists don't expect reopening the US to Mexican cattle imports to reduce high beef prices - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTEyOWlfbmxwc2E0MHc5YkNUM3VxTURCblRwd2I3bE9MVUpZTUNYYjhjVzgxWGRIdVRRbERVQlU4OVRQYWdhRXRQWmVKSHV6eDBvSm1JSFRHUWQ0ajQ0S21Za09Fb2REbnBBbm5ETndSWXZXbm9IUF9Xd2VBeF9sM1ljX05wWDhsbVpDX0xZbGZGem1iY2tYeDhEQzY2Ums3MjMtSHY3RmhyQThC?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 21:51:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "El-Sayed distances himself from popular streamer's comments on Israel and Jewish Americans - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTlduTkxVVExlUnFuS012Y1VBYWRqSjVCd3ZRV3dVbGluUnZabGc4RXFqTllqN2FIYklXTjREallHNm5HYkR6dnVFSTVlLWl5UDFJMi1kUVowZzQ5UEF1NjNqcV9mZlMwOU81R3lsRFc5QXM3WkRXNTJtLXBqanVpanktUUs4N1V1UXJxb1hNQzZGd2o0WGRvaWp4UnF4bGUtSnFuUDhkS3pjNy00OVBsWS14QVRnZw?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 21:42:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump's 'economic D-Day' threats become warnings for countries to sever financial ties with Iran - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
@@ -134,44 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGo2NXVCTXRIdTNmM2o3NmRQVU9PcFMzakxPNlZrVVNvZ05mMEpZYmhEU0dKakFVV1lTejUxRTJ6d2ZYSTRJOHh4a00tR3R4clpSLXRtUlpudzhjX1ZxUDE4M0NCUndNZ0dLQ0lQRTQ3WU1qM0VGWF9fZkRYa1BVc0pBTTI3dC10X1JTbTJ6eXFDMmduYnZsNHR3NTVpRlY5SGk0?oc=5",
           "pubDate": "Mon, 24 Aug 2026 21:32:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Supreme Court sides with Trump administration on mail voting restrictions ahead of midterms - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTFJYWp5U2FxQlpxYjVCb1p5dThHZmx4NGNwRnpybDZSMEVnZVpBMWZuaU9CSDlieHVYU3kzOUQ4TEl6RjlBZmxwd2dBQW9qclA0VG1RQnRBcUdkSDRfbE1RTmdib2tzRFUyTWwxTmVlZE1FVkt5QmR6M0ZVVUlyQ1pQN2E0S2pJUnJxb3RYZlZTT3BodVE?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 21:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump tells Canada to ‘fall in line’ as Carney rejects subordination - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 21:28:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "IndyCar - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3SFR5UHo3R0I2eWJBMWxLSkg0dHIybDlQYTV1Tm5PUzZ0bXMwcFpOaTN2dURIZWw1Vi1JM2FBUm5pSzh3?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 21:13:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Lindsay Clancy didn't have acute psychosis when she killed her 3 children, psychologist says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWpiQnZjU2VSRnc2aEcwbzNQbTA2TU8zOHpLRU5EN2YwWDRncHpBTWlZc1FIUWI1M2FJZ09DaV8xQ2phV25UcXBzMHp0ZmhkNXNUdnN6dDdZbnhpaUp2cUFWdEd1YndqTFJYVzYzZGNCNzMtd01iSWJnWFJlSTBENlBMLXNxc2VIb3c3bWlqZGZZam1ScmgxUEd0bk9ManFURktR?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 21:10:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Wall Street drifts at the start of a week that could swing stocks and bonds - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1dReDZpZnhwWEQySC1XMWxPbjNmY2Zaa3pEbUJESmZHWkVJd21EelRubnpIY2d4Ulh0QTRRY05wQ1hGRkliWTdlbGVqSjlGMUFmRUgtZXY5ZnBXVVI3clJFcGZVQU5wclptaUlUTmdaNTJ5Q1p4bFB6V1hJVEtJZDRyZ1NmNjZRejdFNDNWQV9oMlhaRnNN?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 21:03:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T22:25:13.888Z"
+      "updatedAt": "2026-08-24T22:50:14.871Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Haiti gang raid leaves 30 dead, as residents demand stronger protections - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVd0VXhHMlRJWHJwYjhiQ2xJZ3hOaDk4eVdEeThNMWY0RXlucm9jM1d3Q05ld0VLdHpZLXRqMmZTd05iTEM5TnhId2dzLThTUHhBWDdsNGMxM2kycWVObEJ4U2tBVlpQTDA4SEttYmRqUFFDYi10NnIyZmVuM29EVjY3WXFDSUQycnNnTmlLajJCZmtJMmpIOHEzNXpsQQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 22:24:11 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "California cancels talks with Paramount over Warner Bros deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdkFvWDdMZkFmU0NiOXNmUHBEU3RFLVFmM0VmQnZpbEsyeUp3UmZhb0J4TTNyZUZvNzZiQUQybHBwRjcyMU1TQnl3VkE0OWMwX3N5MzlGU1daWTVaN3dIZmVHc0RsU09LVkRjRTlJZlVKbWhjNWZHVkxJeWlFaFg5aEFic18xTnhEenpQVUFKUDA1N1oxMVY5cGlhRXo5cTVkdWQ3NEpfMDM3OFNLaGRQUzFpUlBQQnVVblJYTER4WWtST3Z0UU00?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 21:59:40 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US Supreme Court hands a win to Trump over mail-in ballot restrictions - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSDlTTzEtMWJjdWlZbnV5THl6V3VzcE5rQ2VwN3VTaEJIa3l0bVU2dkdmQXU4LUZYX2psOEFwTTh6MEYzb1pCREJSQnhDRGxLaF9FTENEZlVTOHp0MnB6M2RScG1WOWlJdS1HM0d6aEZaT1lGaXdwQWNyM2p3YTc3UHdITGstQ3hHQzF2YUlUcDE3VkJZZnBqOUZreFpVX0FwWUllVTdUajZObi1n?oc=5",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
           "pubDate": "Mon, 24 Aug 2026 20:50:09 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Gang attack on hillside town near Haiti's capital leaves 30 dead - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVd0VXhHMlRJWHJwYjhiQ2xJZ3hOaDk4eVdEeThNMWY0RXlucm9jM1d3Q05ld0VLdHpZLXRqMmZTd05iTEM5TnhId2dzLThTUHhBWDdsNGMxM2kycWVObEJ4U2tBVlpQTDA4SEttYmRqUFFDYi10NnIyZmVuM29EVjY3WXFDSUQycnNnTmlLajJCZmtJMmpIOHEzNXpsQQ?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 20:31:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "California cancels talks with Paramount over Warner Bros deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdkFvWDdMZkFmU0NiOXNmUHBEU3RFLVFmM0VmQnZpbEsyeUp3UmZhb0J4TTNyZUZvNzZiQUQybHBwRjcyMU1TQnl3VkE0OWMwX3N5MzlGU1daWTVaN3dIZmVHc0RsU09LVkRjRTlJZlVKbWhjNWZHVkxJeWlFaFg5aEFic18xTnhEenpQVUFKUDA1N1oxMVY5cGlhRXo5cTVkdWQ3NEpfMDM3OFNLaGRQUzFpUlBQQnVVblJYTER4WWtST3Z0UU00?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 20:05:19 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T22:25:14.379Z"
+      "updatedAt": "2026-08-24T22:50:15.304Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-24T22:25:14.732Z"
+      "updatedAt": "2026-08-24T22:50:15.627Z"
     }
   ]
 }
