@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-25T19:09:07.510Z",
-  "lastChecked": "2026-08-25T19:09:07.510Z",
-  "lastUpdated": "2026-08-25T19:09:07.510Z",
-  "generatedAt": "2026-08-25T19:09:07.510Z",
+  "fetchedAt": "2026-08-25T19:25:16.005Z",
+  "lastChecked": "2026-08-25T19:25:16.005Z",
+  "lastUpdated": "2026-08-25T19:25:16.005Z",
+  "generatedAt": "2026-08-25T19:25:16.005Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T19:09:06.306Z"
+      "updatedAt": "2026-08-25T19:25:14.361Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T19:09:06.343Z"
+      "updatedAt": "2026-08-25T19:25:14.684Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Quite a couple: Spouses Elina Svitolina and Gael Monfils reach US Open mixed doubles semifinals - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVjBBQlozTjBFb1RMNG03MWI2cVIzT3lGekZMdzJCd1VFM2VZeHNXY0pSZG50enVKUVJpeDd0Tlh0dElFSV9vdDh3VUk5S1IxTUhQbGlSa2c0MHdTc081RlhHZ1FQZDhTOHlCOHg3QVBXQW8xQUFtUVJUOWxaNGxyTTI0N2xYSmtv?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 19:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran and Oman hold talks on managing the Strait of Hormuz and other news from around the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2ZVY3Y2dXJDajgxb0R0RDNXVTQwWXFQLTltbDJVWUpaanVwZ0lHSzRzQ0VIekg0NkFNZG5UVHVCX0ZOWV9lWThtbnhyV3pSWUxmeEZqR1BTU1YtR2paS0hhajBWQ0tVdHU5Njg5aklzUG1xNDNsaU5VYkJNZlZIbzVXVmZyMmkyYVRBclRKZ1k0dnFrSXJMNzJfVkpfOWhTRTZIOTgwWDRPalBlM1R4LXZFWlU?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 19:06:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Dolly Parton, music star, actor and beloved figure who spanned generations, dies at 80 - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnlGNlNob0dBenVEaDd5Y2s4QmdjalN3QVNyMW9lLUg0ZnV3eEpva0VQc3g2MGd6cUVVT0dpR0hSTThYSVRHV2daNlUxbEowR0RkSXZuS0RBajQtNmY5RkxQbkhCYWJXY19qWnJidHR1UlNFQ1c5elNpcHJrZ09KWkJDZUl4NWJWRGoyeVYyM3NQQXFVYUE?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 18:55:00 GMT",
+          "pubDate": "Tue, 25 Aug 2026 19:01:00 GMT",
           "source": "AP News"
         },
         {
@@ -136,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "More than 50 kidnapped after violent gang attack in Haiti leaves 47 dead - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOHh2dmcyaWU3UlA2RXhCUnJKNTFucVk5Q0ZsQXMyMWowekZxbC1YOVViTk1uWnJKbXE1VHZ0UHk1c2JHMzNIRThYdU1fNzVOMEotcUZBRThDQ3NvNTRWTmRIQm9uZDJMbllocDBlOENVcjgwYjBCZDBzUkp1S0J5NThTT0RVR05jRnZWaDRNOG5jaHo1b21Gd3JGMVVCQ3dYWElpRFcwYw?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 17:20:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Canada strikes back at US with retaliatory tariffs as trade war escalates - AP News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUExDUGZBbXhJOXZta0tiOEhmckJ2c1Viei1pMnk2ZEpwVVdieFUzVU54X194NW5LRmZ1NlNIaWhCWVFMNFpZN3hzSXJUcF80NFg2TVdfVGJmUzByWkIzQVV4ckE4N2xscjNVeHNiekZKRlBBNlBVVHVsc2NRVVhfQVdxVQ?oc=5",
           "pubDate": "Tue, 25 Aug 2026 17:18:00 GMT",
@@ -146,28 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWpjVmYwWkNCSk1LVUZ5UjNlbW40c2ZqeWNub3hBaXlfODFVakdkWFNVOGQwS3lpaHM2U3l1RzVmY2hBdmZVUFdURkMxOE5KZjU2MFRlaFRzZzJkWHloMEN2SUR6U0Z2RVNDeFpVQm1qWl95ZFpBbWg1b2dSNUNTUVJ6Y1F1Z2tlcnVrQmFzajVwSjNBR2phQzZEbFE2UDRHdlhn?oc=5",
           "pubDate": "Tue, 25 Aug 2026 16:49:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Australia’s music industry bans AI songs from charts - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUswS25LNXVocWNhcmxHTUdibVA0aWZFN20xZXliWW8yZXh5aXhFZFRwU1RLOXlaVzRJbGg5Q0EzWTNTeDRyWFZ5T2xaZG1veUcyS3djbG16MlNlZGlWRGJTMXNPUlpNWm9Kb1R1RkNoMzREcHhQZGJYaWRQYms3bzZqZmFlbUxVTjgtMmpxLWNGYXZIM1Qzd2t1VzFsenB1U00xSks2Zw?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 16:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Sabalenka and Djokovic fall in first match as the US Open mixed doubles begins - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVjBBQlozTjBFb1RMNG03MWI2cVIzT3lGekZMdzJCd1VFM2VZeHNXY0pSZG50enVKUVJpeDd0Tlh0dElFSV9vdDh3VUk5S1IxTUhQbGlSa2c0MHdTc081RlhHZ1FQZDhTOHlCOHg3QVBXQW8xQUFtUVJUOWxaNGxyTTI0N2xYSmtv?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 16:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Evacuations ordered in rural Texas as wildfire mushrooms within hours - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXdSdlFiakVvQjB2SzhmWFlya0NreVVMMURCSVdtZS1VLVZtaEcxanRSb3VfNEV0TmxQcnlkaUNnSlFscVZUblBtelJrZXBhMWtQQjBHallLMjJVX2JtaDZiQ3NWbUlTeVhCOWdEMTAwZkFpWFRaOEI0em13YjF2R3BCd091X0xhQjRtaTNkSXM2SkczaWJr?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 16:44:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T19:09:06.794Z"
+      "updatedAt": "2026-08-25T19:25:15.245Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T19:09:07.214Z"
+      "updatedAt": "2026-08-25T19:25:15.697Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T19:09:07.510Z"
+      "updatedAt": "2026-08-25T19:25:16.005Z"
     }
   ]
 }
