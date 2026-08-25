@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-25T15:25:15.857Z",
-  "lastChecked": "2026-08-25T15:25:15.857Z",
-  "lastUpdated": "2026-08-25T15:25:15.857Z",
-  "generatedAt": "2026-08-25T15:25:15.857Z",
+  "fetchedAt": "2026-08-25T15:50:17.277Z",
+  "lastChecked": "2026-08-25T15:50:17.277Z",
+  "lastUpdated": "2026-08-25T15:50:17.277Z",
+  "generatedAt": "2026-08-25T15:50:17.277Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "CIA chief in Moscow for unannounced talks, US media reports",
+          "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 25 Aug 2026 15:43:50 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Two unvaccinated people die of measles in Pennsylvania",
           "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 25 Aug 2026 09:01:35 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
-          "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 25 Aug 2026 08:52:17 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T15:25:14.700Z"
+      "updatedAt": "2026-08-25T15:50:15.714Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T15:25:14.749Z"
+      "updatedAt": "2026-08-25T15:50:16.015Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "A tornado tears through a village in southern France, wrecking 300 homes - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2pTbEJRMzdMYk4telFCenctTGdTUkdKb1pPU285ZTNlbFhfZVh1ZjFVSGNiNkxIeVhDZm94LXVlaHMzUzZibW40NlJuODNKNEZUX0x1bXgwZEc3NHZ2RXMxekl6cy05b1E2ZGR5ZTd2SFlMVTd0Y0R5X0Zzd0pTMGh6YldTRHM3c3ZucVQyRXpYcTdjTURDeHVCcw?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 15:24:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Canada strikes back at US with retaliatory tariffs as trade war escalates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUExDUGZBbXhJOXZta0tiOEhmckJ2c1Viei1pMnk2ZEpwVVdieFUzVU54X194NW5LRmZ1NlNIaWhCWVFMNFpZN3hzSXJUcF80NFg2TVdfVGJmUzByWkIzQVV4ckE4N2xscjNVeHNiekZKRlBBNlBVVHVsc2NRVVhfQVdxVQ?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 15:18:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Federal judge rejects Ghislaine Maxwell's 'miscarriage of justice' claims and bid for prison release - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWpjVmYwWkNCSk1LVUZ5UjNlbW40c2ZqeWNub3hBaXlfODFVakdkWFNVOGQwS3lpaHM2U3l1RzVmY2hBdmZVUFdURkMxOE5KZjU2MFRlaFRzZzJkWHloMEN2SUR6U0Z2RVNDeFpVQm1qWl95ZFpBbWg1b2dSNUNTUVJ6Y1F1Z2tlcnVrQmFzajVwSjNBR2phQzZEbFE2UDRHdlhn?oc=5",
@@ -124,9 +136,9 @@
           "source": "AP News"
         },
         {
-          "title": "A tornado tears through a village in southern France, injuring 39 and wrecking 300 homes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2pTbEJRMzdMYk4telFCenctTGdTUkdKb1pPU285ZTNlbFhfZVh1ZjFVSGNiNkxIeVhDZm94LXVlaHMzUzZibW40NlJuODNKNEZUX0x1bXgwZEc3NHZ2RXMxekl6cy05b1E2ZGR5ZTd2SFlMVTd0Y0R5X0Zzd0pTMGh6YldTRHM3c3ZucVQyRXpYcTdjTURDeHVCcw?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 14:26:00 GMT",
+          "title": "Falling oil prices help calm the stock and bond markets - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnkxV2Y3U2loLXNvZXJ1RGplTnM3OFdWb0F4dHpGT3Z5MmxLVlg1NkczOUI4ME5ldmZWWTY3ZWxxRDFvdWpaOEsxSXRXdk5ISGpYNkY2Q0JvWGVwYmdHakpuRDQxWDBGb3BLcnF1MG9jYzNsNVItLW1tQ2tXZEc1c0tMUkhzQjVPZlgyRXFWMUl4eDg2c1F4NVp6bkN2S1FK?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 14:20:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,40 +154,52 @@
           "source": "AP News"
         },
         {
-          "title": "Trump floats renaming Lake Ontario as ‘Lake America’ as trade war with Canada escalates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUExDUGZBbXhJOXZta0tiOEhmckJ2c1Viei1pMnk2ZEpwVVdieFUzVU54X194NW5LRmZ1NlNIaWhCWVFMNFpZN3hzSXJUcF80NFg2TVdfVGJmUzByWkIzQVV4ckE4N2xscjNVeHNiekZKRlBBNlBVVHVsc2NRVVhfQVdxVQ?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 12:31:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The last few witnesses in the Lindsay Clancy murder trial are set to testify - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjFGaDdueWhrdkItX2ZkSkFGWUxnQmZLOFBqSnhyLTRfN2xSQ0tBYVlzUUZXb090ZjFETEVKMTdCZkcyODFTcURKbDFUUmVvU0J3R3Jma1E3d0hWS2lUNVBnNVRqczU5UGFDNFhnamkwbFlXZHBhT1hqYUs1TDRxblIzSkZkSkgxTWoyQk5ReXYzbHdhWVU3YXZOTi1lY09IWlE?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 12:24:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - AP News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2ZVY3Y2dXJDajgxb0R0RDNXVTQwWXFQLTltbDJVWUpaanVwZ0lHSzRzQ0VIekg0NkFNZG5UVHVCX0ZOWV9lWThtbnhyV3pSWUxmeEZqR1BTU1YtR2paS0hhajBWQ0tVdHU5Njg5aklzUG1xNDNsaU5VYkJNZlZIbzVXVmZyMmkyYVRBclRKZ1k0dnFrSXJMNzJfVkpfOWhTRTZIOTgwWDRPalBlM1R4LXZFWlU?oc=5",
           "pubDate": "Tue, 25 Aug 2026 12:23:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Wall Street points to gains as US raises pressure on Iran and trade war with Canada intensifies - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnkxV2Y3U2loLXNvZXJ1RGplTnM3OFdWb0F4dHpGT3Z5MmxLVlg1NkczOUI4ME5ldmZWWTY3ZWxxRDFvdWpaOEsxSXRXdk5ISGpYNkY2Q0JvWGVwYmdHakpuRDQxWDBGb3BLcnF1MG9jYzNsNVItLW1tQ2tXZEc1c0tMUkhzQjVPZlgyRXFWMUl4eDg2c1F4NVp6bkN2S1FK?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 12:00:00 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 12:12:02 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T15:25:15.270Z"
+      "updatedAt": "2026-08-25T15:50:16.508Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Canada announces retaliatory tariffs on $20 billion worth of US goods, unveils support measures - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnllQWZiMlB2MERDOUJLLWZUdGs0SjFhaDVKcVJwNWVGb0FhZ2pramhtQVJlT2l0eUlBREV1YUgzTEgxZzliNjVQR1hRTWdOdGJXSFhlamF3LXl0dGRmZjg0c1NwWEZKNDRiRkgyZG5QUmw1UlZ3dDA2ZlNtMTNabUVxc0UzdDRsNTM1b2hPWHlTZjVadWxJUTRLWGVuM1A3eFQxU21lQm1RY3hpMS1URUcxX1lGQktwZnR6SFhkOA?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 15:16:50 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "McKesson strikes $2.25 billion Precision Medicine deal in clinical research bets - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeE9qLXFuTXNhbUQ5VzBtNkl0LXpEb0xyUTVSWVEzVnFLemlyNjhCNl9LMVFiNUJUSVZ2QlNsZUNBbXFZWDhadldFUXQxRnBvblZVdHFlNG5pSjJKOEtHb2hXZmZkdDEyM29CTWpzVGlSRE02M3pkWUItYjFyZDcteHQ0dTZ0d0c4R1ZxZTdwNmxRd2pFemlxakZlVGZaR0Q2SU5scjdKNV9lWmF4NndfOEJubE8wU1k?oc=5",
           "pubDate": "Tue, 25 Aug 2026 15:13:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 15:08:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Volkswagen CEO faces battle with rival stakeholders, angry workers in push for cuts - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjR2TGludXI2SElaQkVfeXhPUWVqZTdMVWg3RldzWmFQVklWcUFqYVFBaVB6cFdZYWxiVm1iS1NQSG9SMGxhMDdLcENTaHphTUR3NWM4enNBLXJTQkdiZm1aazRFR3lfUnhvZUtNbzA1a0FDNDJUdGVkdXhfVEYwbjdyVFl4R0hKYTU1S1pRY25lOGM1bGNpQTNGbmNubFNNb3c3U0xqRldJb1dMRXFrS1d3?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 15:06:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US spy chief visits Russia for meetings, media reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjQyS1RmdG5WZnRTRFNaQ0o2WXM0MVY4VHdvZzQwZTZjS1hVX2ZTdC1ORzh5U2pfTEZQeG5mWF93aGZsNGxOcXluSGtBRnhiYnNGRXNGaVE1cWhMbmprTXk1ODQxQjFWMlM0czJFa3pqWjhZZVh3bXlBMVVGVTRpTFlBRHQxcGpmOXIyRXN3Tjc1VVFUUVE?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 14:35:01 GMT",
           "source": "Reuters"
         },
         {
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2poYTBla0RwaUR2Ums4LTNxQWxCZkw5TWhGRWpob3NmZFA0TVF2d2hyTl9SdUdHc09sT0JYZS0zaW5XcC1lLTRFc0N3cWhmZnlSdldBYVo2MXEzRUtSeEVUcTA5cjFPQnhkS1hFVlZVMEhuZkwxVTY5aVBwSjFuZDlsa1gtRW13Q2xjMGhvZEdaX2RtYWZub3NYMXh6RWM3Yml1WDl6NnVGcU0ybi1XRC1PYmpDZ19fVVAybUE1WmRnQQ?oc=5",
           "pubDate": "Tue, 25 Aug 2026 13:52:12 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Slovak police thwart planned arson attack on drone factory - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVll0cVNkVzhpOF85bHNraTBhbW1ZOXFRcEtJWVYxaGd0RU9NSXlsZFk5VmtpZkNkT3NOTE1fdG4xelJyWVFVdndnVGRxZEtLanYzS2hPTHRubnJiV3lyaXZnempFS2tQd3d1amdfTXlrTG9ERVFGcWVlZTJyVGFvcEg2by11eW92Yy1fcjF1MXNmNE5ZZklVdFB0aWszNFVmVGd1R0d1Z0YySWNockdSU18xR0FVVDdkeUE?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 13:51:34 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "German broker Scalable opens investment platform to major AI chatbots - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHpZeUtQSDRXMTRtRVRoVnV6b05vcjFKV055QmVsb2ZGZFVJOGl3eTF2QUsyTWlfZXE2OV9MdHgyX2RaM1BCY09yYkVCOGFuVS11QnI0UDZtd1FOWVhFak5uZlpNS0ExSVRyZU9BZXZSMnN4QS1SUUszdkZpa0F1ZXl6OUUwam43WEhqbXZRYjZKZUVMSnJtNG90MWRKRVF5XzcyQjJ5M1VjX2kxNVZjWmlLZUFyS3FUYjMw?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 13:42:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ghislaine Maxwell loses bid to throw out conviction for aiding Jeffrey Epstein - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRzNTcHFyb1pWbGlKNHNKRHRmdXdDZHNScWppTmVmUXk2bmhHRGl5WUdHM0pnZ2F5NE5wMUF1VFFFMHJIQUVFZVdSVVJ6Rm55bV93YnBmZzhXQk5zdGZBUVFDaGJKejEwc3JDVHl3blpqWDJDdW91aVRUX3RLa1hHZzJoLU14ZHFuZElUYUMyY1ViYm00OHM3eVpVWHowTnBFaVBpNXlXV1RfOEVXbnlHUDZOUQ?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 13:37:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump threatens to change the name of Lake Ontario to Lake America amid Canada trade war - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkoxdV83WXpiYW1YUTFfYUZSVTU5SG9oc3FkZ1N2aGozRmNqNXRwbk1XaEVWZDIza0YwTFc0R1FEckd6ZWtRMG1QTkdCZE9jUURDcl9laXZRazFRTnZiZFJ5cEtBU2xhODhhenVhSTBtYkFPVDNnTEVPRjFudzVIUGoxRF9YZzBSa3B4QTlMTHJWaW1oODlITE9aYUd1SWhoV3BCUlZpTkU3LVZncVEyMmFPenFlMmpFS0hKR290UGlsMDcyVmdR?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 13:35:46 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T15:25:15.708Z"
+      "updatedAt": "2026-08-25T15:50:16.951Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T15:25:15.857Z"
+      "updatedAt": "2026-08-25T15:50:17.277Z"
     }
   ]
 }
