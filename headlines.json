@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-25T08:57:57.749Z",
-  "lastChecked": "2026-08-25T08:57:57.749Z",
-  "lastUpdated": "2026-08-25T08:57:57.749Z",
-  "generatedAt": "2026-08-25T08:57:57.749Z",
+  "fetchedAt": "2026-08-25T09:00:23.045Z",
+  "lastChecked": "2026-08-25T09:00:23.045Z",
+  "lastUpdated": "2026-08-25T09:00:23.045Z",
+  "generatedAt": "2026-08-25T09:00:23.045Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T08:57:56.326Z"
+      "updatedAt": "2026-08-25T09:00:21.901Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T08:57:56.645Z"
+      "updatedAt": "2026-08-25T09:00:21.946Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "IndyCar - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3SFR5UHo3R0I2eWJBMWxLSkg0dHIybDlQYTV1Tm5PUzZ0bXMwcFpOaTN2dURIZWw1Vi1JM2FBUm5pSzh3?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 08:57:47 GMT",
+          "source": "AP News"
+        },
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
@@ -127,12 +133,6 @@
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
           "pubDate": "Tue, 25 Aug 2026 08:08:08 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "IndyCar - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3SFR5UHo3R0I2eWJBMWxLSkg0dHIybDlQYTV1Tm5PUzZ0bXMwcFpOaTN2dURIZWw1Vi1JM2FBUm5pSzh3?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 07:43:36 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T08:57:57.165Z"
+      "updatedAt": "2026-08-25T09:00:22.490Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T08:57:57.565Z"
+      "updatedAt": "2026-08-25T09:00:22.880Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T08:57:57.749Z"
+      "updatedAt": "2026-08-25T09:00:23.045Z"
     }
   ]
 }
