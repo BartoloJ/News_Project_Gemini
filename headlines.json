@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-25T22:32:39.856Z",
-  "lastChecked": "2026-08-25T22:32:39.856Z",
-  "lastUpdated": "2026-08-25T22:32:39.856Z",
-  "generatedAt": "2026-08-25T22:32:39.856Z",
+  "fetchedAt": "2026-08-25T22:50:17.507Z",
+  "lastChecked": "2026-08-25T22:50:17.507Z",
+  "lastUpdated": "2026-08-25T22:50:17.507Z",
+  "generatedAt": "2026-08-25T22:50:17.507Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T22:32:38.714Z"
+      "updatedAt": "2026-08-25T22:50:16.501Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T22:32:38.829Z"
+      "updatedAt": "2026-08-25T22:50:16.543Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Quite a couple: Spouses Elina Svitolina and Gael Monfils reach US Open mixed doubles semifinals - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVjBBQlozTjBFb1RMNG03MWI2cVIzT3lGekZMdzJCd1VFM2VZeHNXY0pSZG50enVKUVJpeDd0Tlh0dElFSV9vdDh3VUk5S1IxTUhQbGlSa2c0MHdTc081RlhHZ1FQZDhTOHlCOHg3QVBXQW8xQUFtUVJUOWxaNGxyTTI0N2xYSmtv?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 22:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHZ4b0Z3a0UwYkFxV2loZlZSUVQ4TUtKTjhLc1NxcDBJVDVRNXZ0WnJqNVRwY1o0UmRYY2lyaXJFaE1LVDVEQTJweFg1NjNkS1RYaEo5TmpjeUV6MGM2aXRGVXZKZUUzWWRnYXNrSEdkc3ExUTBXQXk4WGFja2ctOXN0d0U2c19fWFJ5SEMzZG4?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 22:26:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Canada strikes back at US with retaliatory tariffs as trade war escalates - AP News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUExDUGZBbXhJOXZta0tiOEhmckJ2c1Viei1pMnk2ZEpwVVdieFUzVU54X194NW5LRmZ1NlNIaWhCWVFMNFpZN3hzSXJUcF80NFg2TVdfVGJmUzByWkIzQVV4ckE4N2xscjNVeHNiekZKRlBBNlBVVHVsc2NRVVhfQVdxVQ?oc=5",
@@ -127,12 +139,6 @@
           "title": "Federal judge blocks enforcement of Ohio proof-of-citizenship requirement for voter registration - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTJVOEZGZnNfMXFKdFZETlNFbFVCNGZFcEtXOV9KYjdMMnFLaTZtei1FYmNZb2l5WE9BcENXamFuRDJza3pRUkd0RHJmQllfNnJNRlg5Q2YtTTc3LWVNaDFMdHEzX1VYRUw2S1dLY0ExakU5OUItNU1JYTFHdUJRT2xzWGx6a0pMY2NPRURBRkIta1BaN3lHNVY3RndQTjlBSWc?oc=5",
           "pubDate": "Tue, 25 Aug 2026 21:32:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHZ4b0Z3a0UwYkFxV2loZlZSUVQ4TUtKTjhLc1NxcDBJVDVRNXZ0WnJqNVRwY1o0UmRYY2lyaXJFaE1LVDVEQTJweFg1NjNkS1RYaEo5TmpjeUV6MGM2aXRGVXZKZUUzWWRnYXNrSEdkc3ExUTBXQXk4WGFja2ctOXN0d0U2c19fWFJ5SEMzZG4?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 21:13:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,20 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMi1jZkpBZk5pM1pkcDg2UkNVWkdYZlZabnpxZF9RenhMenlMU0VRWG9UYWVHZ0N6LUtCcFluM3Y1RWtJQzdNeE0zdUV2TjRMczV1QzlaZUdtSHViajlBQS1laWg0YkJrMmxjbjdrd2hqNzY0dVpSTkFkdTlIbEh2ZFZubVpMMDg?oc=5",
           "pubDate": "Tue, 25 Aug 2026 20:52:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Pennsylvania reports first 2 measles deaths in the US this year, both people unvaccinated - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTUdkUzczMUpFX3hTek1ZTExoUkJKaW1yUDdoeTd6WDU1ZmtFbVFRbUlrZUNBaVVOTE1VMUlyR0swbFBrY3lqZ0twRlJfZlF2U2ZVZGVRbmt6ZG1zQ2JKdks3d3A2dkw0NGNNZGxRZExHU01wXzR6MnpxSVFYVWhYYWZqaF82Vl8tMVFJcnZyOWo?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 20:35:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T22:32:39.326Z"
+      "updatedAt": "2026-08-25T22:50:17.013Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Pennsylvania reports first US measles deaths this year as outbreak grows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb1JWNEtvcUpQZmJnN0ZZWFVEa2VGc1g0X0dVNXdQWVhGeG44ZF9GZG1rV0R0V25NV1pGSjl4b3VpMEliUWdBRVJRTDlwNnhzV2pRQkRZUzhSWU5CXzZZT0VDVVZaYXNHNGhab3FJZE5kOGVBOWxjbXFvOGV0dUFPT0lUamxodjAzRWpVOEVSYl9ydDdOSVV4b09ldktMME9GNkVVdC1EQ2xYUU9aczJCNVFOdWh1UmJXci1zcGpNbEFWNFpfbGgyX2dsNjJOOGs?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 22:25:15 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Instagram head Mosseri denies encouraging suppression of child social media risks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPckVuOWk4bjYyQ3BuZG1hSnM5SDJaWHdoU1ZISnYtWlN4MWptNE5lUi1NOFNYcTR2WXg2NnRSbHhwaFFiLUpkMGNsYWsxMVlRUERra1pvWWZjOG1iUmZMRVkyaVRzTWYtZkh0bmI1VFNweEZsMnpfdk16Vkd3NmlUcVh6QnZJOXVreUo0RjNjdk5xV1hqU2c?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 22:07:58 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "U.S. military officer who called for Trump impeachment faces three charges - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNTc1dlhCWDRQSUcxRWdoZldkZDJSZzVTRXNMZmZkX2VUSEloWVdwQTN2ZjM0R0NvZF83dTBJY21aVmhvemZzUFNRUEgtal9iLW9zZFdXS3hyZmlwNnM0eHh6c3VSWDVjNnd0NzJXa25RRnRtZjhMNzJ6MDRYUnJHYWFOWk41OTVjVTA2RC13a0dRSHpNalh4azJhdnBWZ2xCQldROG1SaWw1aXhWN2pRNTg2cnEwR1Q5Qzl0djNB?oc=5",
@@ -185,15 +197,21 @@
           "source": "Reuters"
         },
         {
+          "title": "Lake America? Trump mulls renaming Lake Ontario, expresses love for French Canadians amid trade war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkoxdV83WXpiYW1YUTFfYUZSVTU5SG9oc3FkZ1N2aGozRmNqNXRwbk1XaEVWZDIza0YwTFc0R1FEckd6ZWtRMG1QTkdCZE9jUURDcl9laXZRazFRTnZiZFJ5cEtBU2xhODhhenVhSTBtYkFPVDNnTEVPRjFudzVIUGoxRF9YZzBSa3B4QTlMTHJWaW1oODlITE9aYUd1SWhoV3BCUlZpTkU3LVZncVEyMmFPenFlMmpFS0hKR290UGlsMDcyVmdR?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 21:31:34 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US judge blocks Ohio law requiring proof of citizenship for voter registration - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMV9NM3ppU242MVlDVTRLazQ3QnVvZGlLX0JqaFhNUDdhd1hyZ21tQ25CRGNPZ1BudV91V3dIS1ViMi1BS3RXXzl6QzhBUDRaand4X3F2bDRJdi1ESE1hc20wTU9nWGp5NHdWZ3hGNW45eERfNHhJbVhJRjBFUmNEWXZBd3A3LTRlWlpjcmhxMjJZQS1RTUtuVEpaQ2hCdEZrMDRXcHdZZW04QUN2LVZtQXJ5MnY2T3pXN0xTV0FzeVBWQQ?oc=5",
           "pubDate": "Tue, 25 Aug 2026 21:31:01 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Instagram head Mosseri denies encouraging suppression of child social media risks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPckVuOWk4bjYyQ3BuZG1hSnM5SDJaWHdoU1ZISnYtWlN4MWptNE5lUi1NOFNYcTR2WXg2NnRSbHhwaFFiLUpkMGNsYWsxMVlRUERra1pvWWZjOG1iUmZMRVkyaVRzTWYtZkh0bmI1VFNweEZsMnpfdk16Vkd3NmlUcVh6QnZJOXVreUo0RjNjdk5xV1hqU2c?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 21:26:10 GMT",
+          "title": "Why the bond market may be resetting expectations about the US - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEtCYVJGWXZVMG1WcGJUUnZCaXd2ZEJqZWVhbzlrYm4yMzc2MndzUV8td2pRbHVmRGprZmFhVmNUaHNkR2o1SFVpb2RIaFZIUy0zek1qdGl6WkhaVFRLdXpLQnVxemxpSW5VX3dTYnlpbkRPWkpBSDc0MkQ0Um84QklpNzdqSVdqeXFIa2NpalhxQjIyTW42WUZHOW91WVE4dktseW1EYUY0LXBpVmZv?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 21:29:02 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVmdGenJRTEljQ19aUjlCdzNCRnJwaGoyYnJBa1FrUEtRd1RpYTRhc1BCbThyaFBiYUp6UUlTMEN2dDVpN3hxeXc4UVQwQmtWdXppV2tQY19zT3FhLVpKVEFQZDBjeUw4aUx0SzhSUXBid1hwWEtINGc2ZnFxN195QS0yVndqZw?oc=5",
           "pubDate": "Tue, 25 Aug 2026 20:45:03 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Pennsylvania reports first U.S. measles deaths this year as outbreak grows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb1JWNEtvcUpQZmJnN0ZZWFVEa2VGc1g0X0dVNXdQWVhGeG44ZF9GZG1rV0R0V25NV1pGSjl4b3VpMEliUWdBRVJRTDlwNnhzV2pRQkRZUzhSWU5CXzZZT0VDVVZaYXNHNGhab3FJZE5kOGVBOWxjbXFvOGV0dUFPT0lUamxodjAzRWpVOEVSYl9ydDdOSVV4b09ldktMME9GNkVVdC1EQ2xYUU9aczJCNVFOdWh1UmJXci1zcGpNbEFWNFpfbGgyX2dsNjJOOGs?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 20:37:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall Street ends higher as tech rebounds before Nvidia results - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 20:29:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 20:27:10 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T22:32:39.749Z"
+      "updatedAt": "2026-08-25T22:50:17.444Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T22:32:39.856Z"
+      "updatedAt": "2026-08-25T22:50:17.507Z"
     }
   ]
 }
