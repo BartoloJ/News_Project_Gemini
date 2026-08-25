@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-25T06:33:33.651Z",
-  "lastChecked": "2026-08-25T06:33:33.651Z",
-  "lastUpdated": "2026-08-25T06:33:33.651Z",
-  "generatedAt": "2026-08-25T06:33:33.651Z",
+  "fetchedAt": "2026-08-25T06:50:16.701Z",
+  "lastChecked": "2026-08-25T06:50:16.701Z",
+  "lastUpdated": "2026-08-25T06:50:16.701Z",
+  "generatedAt": "2026-08-25T06:50:16.701Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T06:33:32.576Z"
+      "updatedAt": "2026-08-25T06:50:15.406Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T06:33:32.668Z"
+      "updatedAt": "2026-08-25T06:50:15.601Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnkxV2Y3U2loLXNvZXJ1RGplTnM3OFdWb0F4dHpGT3Z5MmxLVlg1NkczOUI4ME5ldmZWWTY3ZWxxRDFvdWpaOEsxSXRXdk5ISGpYNkY2Q0JvWGVwYmdHakpuRDQxWDBGb3BLcnF1MG9jYzNsNVItLW1tQ2tXZEc1c0tMUkhzQjVPZlgyRXFWMUl4eDg2c1F4NVp6bkN2S1FK?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 05:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNem80bFhmQXJrclVrTGNjbTduOUpFenpsd2NHNmV6WEg5ZlJhSjRjNWxONm1SZ1BIR2tmOGZKZ3ZNcEZIb2FFMTdtVEUxMVlWVmhzYXRzTUVhYmxSazM4aW5uM3RMSUg2SkF3RlJoMGZ1cWhlWkt3QnQzeGF0STlKMjd0RjJBVnNOSkdGNE5RVVY4a3ppMzZMbDlWMFlHS0M2NHRhVWRB?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 04:56:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Nothing changes yet with the Supreme Court's order on elections. But it could open door to 'chaos' - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0hWTmNuS3NSc0hlZ19zemo0bTExVTNEVnFxM0sxdDJuNmFNYXlQbnBlWDhkbXo0NV9zX2JQdXBFWDNfWkFibHRTcHdVSkw3aklFbVFVZlBJZnRHLXJ0akREZkt5V3hRUEZzaTd1T0tpQnItX2hQSEczdmRwaE9PNU1oVkJvQmI2dFFwQlRmZTMwSVRJSDVKSzYzNlNoeVAwZWZuSnRicw?oc=5",
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZzVuS2Z6Y3RvZHVRRXVENU9HRkFhbWl1MlNlNUlzSG9fUGg0OU1KaDhfOUtkNGM1THJHOE42dUFJVUpjTEJ0c2dVVVB4VFlWTU1nQUM2SGFwZFN0RGY5VnJWVlNtM2N1SHlUM0JCVkNMN3BkWDNGcXFiaWk3bHVpeWJrSVRfTk1oR0VqY0J3?oc=5",
           "pubDate": "Tue, 25 Aug 2026 02:00:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Peru court hands lengthy prison terms in killing of Indigenous Amazon defender - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFNPN1h4X09vbGFVMWNnbnM5WXlJX0ZZaGZpb0JpOW5RSXZCNHk3czh2YzJ3eVdQU1VWX3pHUFhRcjBjZnkyamk1SjdGV2pXM1pDd2xxZElFM1dHSXlDaU1BRzhJRlRuak1pVzZYOXIyaXNlazRfNUsySDB2cUJZOE55eGJRUDBaYVFhRDJJcFpDeU9xelRTNk9WWTNfSE9zV3diTzctcGVHNE55?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 01:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOU8wQllXQXhER2VqMDRNVThac3VMYlM5dmxNUHFhQ084QzF0eTUzRHhITWpQbURib0UtTVBBU041cWhkUjJDbUhKUXB5Z3hTN3RETjBSaXFKQVY2RXloSnJrQzQxZG1Xc3pOSHptQWZsd1pmV1FkNlI1aDl6Q0VYVlB3aUZzTU1tZU1YRlRsNEx4aXp3Z2RXejdkaEZweUl6OEMzQ244dFBUcUVUb1Bz?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 01:48:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T06:33:33.062Z"
+      "updatedAt": "2026-08-25T06:50:16.198Z"
     },
     {
       "name": "Reuters",
@@ -199,7 +199,7 @@
         {
           "title": "Tesla raises prices of Cybertrucks in the US - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbXpiNE9GV29lNGxrNW55X0NUWnlDMHNpMTZxbFJZX0RhS0VBMlZLT2xCZ25ZQTl0QzFXVHhqN3NXWTdDZkl4djNOd0N2NGExUUVybW5KS1pRMWFINFZuSlZkVGttXzJ1T0laZFE4SDZzanZ4NGp3amU0UWxSTlVfWDJ2anhZSHpUMkxnUVF5cWhVS21LVkRIYlZPalBXQkxEUkE?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 04:54:00 GMT",
+          "pubDate": "Tue, 25 Aug 2026 04:59:33 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T06:33:33.460Z"
+      "updatedAt": "2026-08-25T06:50:16.609Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T06:33:33.651Z"
+      "updatedAt": "2026-08-25T06:50:16.701Z"
     }
   ]
 }
