@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-25T20:25:14.943Z",
-  "lastChecked": "2026-08-25T20:25:14.943Z",
-  "lastUpdated": "2026-08-25T20:25:14.943Z",
-  "generatedAt": "2026-08-25T20:25:14.943Z",
+  "fetchedAt": "2026-08-25T20:44:05.276Z",
+  "lastChecked": "2026-08-25T20:44:05.276Z",
+  "lastUpdated": "2026-08-25T20:44:05.276Z",
+  "generatedAt": "2026-08-25T20:44:05.276Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T20:25:13.745Z"
+      "updatedAt": "2026-08-25T20:44:04.016Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T20:25:13.878Z"
+      "updatedAt": "2026-08-25T20:44:04.164Z"
     },
     {
       "name": "AP News",
@@ -120,19 +120,25 @@
         {
           "title": "Dolly Parton, music star, actor and beloved figure who spanned generations, dies at 80 - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnlGNlNob0dBenVEaDd5Y2s4QmdjalN3QVNyMW9lLUg0ZnV3eEpva0VQc3g2MGd6cUVVT0dpR0hSTThYSVRHV2daNlUxbEowR0RkSXZuS0RBajQtNmY5RkxQbkhCYWJXY19qWnJidHR1UlNFQ1c5elNpcHJrZ09KWkJDZUl4NWJWRGoyeVYyM3NQQXFVYUE?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 20:21:00 GMT",
+          "pubDate": "Tue, 25 Aug 2026 20:29:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Kate Koval of Ukraine leaves LSU following the Tigers’ signing of a Russian player - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakNBeEdJcjlKdFBQV3FmY2dxcUFmRXdXVnRaSkJIby1nZGhHT21zZ2YzSEFiUklXUC1tdFFJclVJaEVLVnpsN1EtOWp0eEZyRko2NGFmZFI1T0UtM2dfWW9lUzdoNU5STHFFM1FmeVhzT3k0bVlRQkdCeXZUWFdKOTdsSHJWVkduVXNfNVhjdWRVcXhzX2p3?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 20:10:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Quite a couple: Spouses Elina Svitolina and Gael Monfils reach US Open mixed doubles semifinals - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVjBBQlozTjBFb1RMNG03MWI2cVIzT3lGekZMdzJCd1VFM2VZeHNXY0pSZG50enVKUVJpeDd0Tlh0dElFSV9vdDh3VUk5S1IxTUhQbGlSa2c0MHdTc081RlhHZ1FQZDhTOHlCOHg3QVBXQW8xQUFtUVJUOWxaNGxyTTI0N2xYSmtv?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 20:03:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Canada strikes back at US with retaliatory tariffs as trade war escalates - AP News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUExDUGZBbXhJOXZta0tiOEhmckJ2c1Viei1pMnk2ZEpwVVdieFUzVU54X194NW5LRmZ1NlNIaWhCWVFMNFpZN3hzSXJUcF80NFg2TVdfVGJmUzByWkIzQVV4ckE4N2xscjNVeHNiekZKRlBBNlBVVHVsc2NRVVhfQVdxVQ?oc=5",
           "pubDate": "Tue, 25 Aug 2026 19:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Quite a couple: Spouses Elina Svitolina and Gael Monfils reach US Open mixed doubles semifinals - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVjBBQlozTjBFb1RMNG03MWI2cVIzT3lGekZMdzJCd1VFM2VZeHNXY0pSZG50enVKUVJpeDd0Tlh0dElFSV9vdDh3VUk5S1IxTUhQbGlSa2c0MHdTc081RlhHZ1FQZDhTOHlCOHg3QVBXQW8xQUFtUVJUOWxaNGxyTTI0N2xYSmtv?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 19:18:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,34 +154,46 @@
           "source": "AP News"
         },
         {
-          "title": "Elon Musk’s space company to build new rocket launching site in Louisiana - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUnRPV29WVVJDOVdEamJkRHJJSEF2U3lXbDFqcDMyUXllRk5DcTlsOVR5cEVOM2JTdG53OW9HeWZjYVhqbzgwSXAzdGJsa2Iyd3Z2aWhnTWtvX1ZWWVhIRmlyVjJMRDFlaDd2TlJLNFFxLXBmRkdZUHgwVVdwMzV0VDVQSUsyWUUxaTVxUVVHTzR1a0x5VVJ2MzBKNTBsUjVD?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 18:29:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Louisiana National Guard ends deployment in New Orleans after eight months patrolling French Quarter - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMGw1NzdpYlBjbU1ZYXhpOHNzWVlOWlZJSmVDQlhmejNtV1dZVjROVjFsSmVUU1BHZ2haRkU0SkJVWEZaWWJjaFh3dGp5S2RFMDFZTU1hZVVpRUk5QUdMRDJLYjB6YmZMdmlDcmN0ek1xdmVKUUswamlOZ2RhS2dkamJsT0ZuSURrdHA0cTJwYl85clBkSEN4VHlwa2s?oc=5",
           "pubDate": "Tue, 25 Aug 2026 17:58:51 GMT",
           "source": "AP News"
         },
         {
-          "title": "Watchdog files bar complaint against Jeanine Pirro over bid to indict 6 Democratic lawmakers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmZjWEVoZFVJSUFjdTN0cDVfUk5zb1hjWmhBMUEyWUx6SWZDc2JxNFRxb1dST0oxVENTaFJla2wxa2gwbVlzRi12MEN0OXlYbl9ROC05R0dxYmw0SFBwMklKSGZCSG9wckpYNkw4WnU2bDJWeUtRNUJnWjNsVXlRdTdFSnNUajVlM29OdVRmbVN4TWVKLVBDaUZkT0toZw?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 17:53:00 GMT",
+          "title": "Falling oil prices help calm the stock and bond markets - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnkxV2Y3U2loLXNvZXJ1RGplTnM3OFdWb0F4dHpGT3Z5MmxLVlg1NkczOUI4ME5ldmZWWTY3ZWxxRDFvdWpaOEsxSXRXdk5ISGpYNkY2Q0JvWGVwYmdHakpuRDQxWDBGb3BLcnF1MG9jYzNsNVItLW1tQ2tXZEc1c0tMUkhzQjVPZlgyRXFWMUl4eDg2c1F4NVp6bkN2S1FK?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 17:49:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T20:25:14.434Z"
+      "updatedAt": "2026-08-25T20:44:04.585Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 20:27:10 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Instagram head Adam Mosseri begins testimony at Meta child social media addiction trial - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPckVuOWk4bjYyQ3BuZG1hSnM5SDJaWHdoU1ZISnYtWlN4MWptNE5lUi1NOFNYcTR2WXg2NnRSbHhwaFFiLUpkMGNsYWsxMVlRUERra1pvWWZjOG1iUmZMRVkyaVRzTWYtZkh0bmI1VFNweEZsMnpfdk16Vkd3NmlUcVh6QnZJOXVreUo0RjNjdk5xV1hqU2c?oc=5",
           "pubDate": "Tue, 25 Aug 2026 20:10:11 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Explainer: Why the bond market may be resetting expectations about the US - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEtCYVJGWXZVMG1WcGJUUnZCaXd2ZEJqZWVhbzlrYm4yMzc2MndzUV8td2pRbHVmRGprZmFhVmNUaHNkR2o1SFVpb2RIaFZIUy0zek1qdGl6WkhaVFRLdXpLQnVxemxpSW5VX3dTYnlpbkRPWkpBSDc0MkQ0Um84QklpNzdqSVdqeXFIa2NpalhxQjIyTW42WUZHOW91WVE4dktseW1EYUY0LXBpVmZv?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 20:05:11 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "U.S. Secret Service aware of Iranian video threat against Barron Trump - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkJKLVFhNWZCTm9nbWRDa0FEZklXZzJIa1pDQmF6aFFndlBpVHRMWnBsS2kzaGhjWXd2ZFBfN1A2czRPY2xmZ0lzVm12OHU2dXBWa3lvclpHZENUMFlEN1JMUW9kM3VMbmtnNTRNUmlzY1daSVJ0MjUzV2x2d2ZENS1VdklOZWtON3NRN2ZaRHdmeFR1Q2tDTWJVblFHNEE1YlBHZ3NaRkdPSkRIWWcwT0Rnd094UmNHTWZUVnQyZ1RFZw?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 19:50:24 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "Target shares drop after Halloween costume backlash - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTl1Ni1Pel9LckVkOVZ4OHZyTFZuT2pwNzBvekpucHNhWHBpSW1iRmlOLTRpb2g4OGlzNXVSVHEycHF6eXlZZFppdUpmVnZ2NnZXOUE3bVpVTjQ3X1RSTXFSXzJ6VFQxcnBqZ1NHNnBHdjRwQW1Yc0FONGwyZ3dpbGtXQzlucUJ1RlJwUGdQVUFrTjNCWFpva2J5R0NiM28tZTZteW1udldRdUxkOEE?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 19:38:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump administration defends Kennedy Center renaming plan, warns of demolition risk - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX1c5ajRzekY0VkVCY1VpcFhGQVFEMWd4V0U1NjhxQ3dVdkN1cUY0dTBvN0dDTUhXLVJNZnRxQWtzNVppel93dzlDYjVZb0ptQVF3aXdNNmd3VDkwdDRRQnJYMUh4UDl0QWtNdndpR1RTZHJXN1NLeS1meUdNTjJFWmVHdWQyY2xmaUt3OTRfVkFMYjl2endXZVQ2RmdqSW9QTWxnM0dMQTEyZ0tTSmp3SGJoMm55eGVOc3J1d3VhMzFmZXhsSXBUMw?oc=5",
           "pubDate": "Tue, 25 Aug 2026 19:23:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: SLB gains access to Venezuela's coveted oilfield data through contract, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVzFibXpUcEdITkk1RzJmSXVyWmlyNk9uYndCYnJGeHNCcVE2WV9za0ljQzlhSXFRUHRZVHBpZ3d2WER5dXpNTmp6NEwzRFZNZjh1WFhpaHI5ZjNQZDhvTHphRzBEYWo3SG5leGpnTC1oOEo1ZnZkMUxleUMtNlBOc3IxMVFrQktkMEN2LVhGZ3hEb1djbExEUl9ISjFtaVZPVGN2eE81c0RfUTAzUGdmdGhwOUF0eVU5bWY3b2JyZVVYUHhfelB6UHlR?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 19:12:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Dolly Parton, queen of country music, dies at 80 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVmdGenJRTEljQ19aUjlCdzNCRnJwaGoyYnJBa1FrUEtRd1RpYTRhc1BCbThyaFBiYUp6UUlTMEN2dDVpN3hxeXc4UVQwQmtWdXppV2tQY19zT3FhLVpKVEFQZDBjeUw4aUx0SzhSUXBid1hwWEtINGc2ZnFxN195QS0yVndqZw?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 19:07:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Lake America? Trump mulls renaming Lake Ontario, expresses love for French Canadians amid trade war - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkoxdV83WXpiYW1YUTFfYUZSVTU5SG9oc3FkZ1N2aGozRmNqNXRwbk1XaEVWZDIza0YwTFc0R1FEckd6ZWtRMG1QTkdCZE9jUURDcl9laXZRazFRTnZiZFJ5cEtBU2xhODhhenVhSTBtYkFPVDNnTEVPRjFudzVIUGoxRF9YZzBSa3B4QTlMTHJWaW1oODlITE9aYUd1SWhoV3BCUlZpTkU3LVZncVEyMmFPenFlMmpFS0hKR290UGlsMDcyVmdR?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 18:49:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Canada slaps retaliatory tariffs on US goods worth $20 billion as trade war intensifies - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnllQWZiMlB2MERDOUJLLWZUdGs0SjFhaDVKcVJwNWVGb0FhZ2pramhtQVJlT2l0eUlBREV1YUgzTEgxZzliNjVQR1hRTWdOdGJXSFhlamF3LXl0dGRmZjg0c1NwWEZKNDRiRkgyZG5QUmw1UlZ3dDA2ZlNtMTNabUVxc0UzdDRsNTM1b2hPWHlTZjVadWxJUTRLWGVuM1A3eFQxU21lQm1RY3hpMS1URUcxX1lGQktwZnR6SFhkOA?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 18:48:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall Street rises as tech bounces back before Nvidia results, bond yields drop - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 18:36:17 GMT",
+          "title": "Siemens Energy to sell most of its industrial division - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQmh2eUxaTmhCX2pNWUpORFFOdmdLZnhwN2JVbDROSHQ3YU53U3U2V21LLW5ieGh5VTlpQmRfaW9wbE1KVHZHcnZkUTNTRWdDeFBZU0RJR25Ed1BCLVRKRkZ3WHRhZ2FrMzJObHVMR0xSeXNHUmhjR2RXRWpVbTNLYjdhTTJLbVhtNnlDaDN4bURvdEx4ZEJRRGVDTndxOEUtTXc?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 19:19:27 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T20:25:14.887Z"
+      "updatedAt": "2026-08-25T20:44:05.007Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T20:25:14.943Z"
+      "updatedAt": "2026-08-25T20:44:05.276Z"
     }
   ]
 }
