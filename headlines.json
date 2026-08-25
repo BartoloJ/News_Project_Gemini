@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-25T09:35:23.848Z",
-  "lastChecked": "2026-08-25T09:35:23.848Z",
-  "lastUpdated": "2026-08-25T09:35:23.848Z",
-  "generatedAt": "2026-08-25T09:35:23.848Z",
+  "fetchedAt": "2026-08-25T09:50:17.019Z",
+  "lastChecked": "2026-08-25T09:50:17.019Z",
+  "lastUpdated": "2026-08-25T09:50:17.019Z",
+  "generatedAt": "2026-08-25T09:50:17.019Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T09:35:22.862Z"
+      "updatedAt": "2026-08-25T09:50:16.042Z"
     },
     {
       "name": "NPR",
@@ -69,20 +69,8 @@
           "source": "NPR"
         },
         {
-          "title": "How to understand this heat wave (as told by NPR's senior climate editor)",
-          "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
-          "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
-          "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
-          "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
-          "link": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
+          "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
+          "link": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
           "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -93,14 +81,26 @@
           "source": "NPR"
         },
         {
-          "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
-          "link": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
+          "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
+          "link": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
+          "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
+          "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
           "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
           "title": "DHS conducted far-reaching surveillance during Minnesota ICE surge, court documents show",
           "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
+          "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "How to understand this heat wave (as told by NPR's senior climate editor)",
+          "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
           "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,17 +112,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T09:35:22.906Z"
+      "updatedAt": "2026-08-25T09:50:16.106Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "IndyCar - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3SFR5UHo3R0I2eWJBMWxLSkg0dHIybDlQYTV1Tm5PUzZ0bXMwcFpOaTN2dURIZWw1Vi1JM2FBUm5pSzh3?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 09:31:28 GMT",
-          "source": "AP News"
-        },
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
@@ -139,6 +133,12 @@
           "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNem80bFhmQXJrclVrTGNjbTduOUpFenpsd2NHNmV6WEg5ZlJhSjRjNWxONm1SZ1BIR2tmOGZKZ3ZNcEZIb2FFMTdtVEUxMVlWVmhzYXRzTUVhYmxSazM4aW5uM3RMSUg2SkF3RlJoMGZ1cWhlWkt3QnQzeGF0STlKMjd0RjJBVnNOSkdGNE5RVVY4a3ppMzZMbDlWMFlHS0M2NHRhVWRB?oc=5",
           "pubDate": "Tue, 25 Aug 2026 08:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "IndyCar - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3SFR5UHo3R0I2eWJBMWxLSkg0dHIybDlQYTV1Tm5PUzZ0bXMwcFpOaTN2dURIZWw1Vi1JM2FBUm5pSzh3?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 07:43:36 GMT",
           "source": "AP News"
         },
         {
@@ -160,14 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Trump’s trade war with Canada could rattle economies in states with key Senate races - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUG40VWdpUHNfS0NDbFBSR1haNlhGYUtsdTk5TzlQcVhZV25BdmNjRlhBV3BiY3VRbzFNUDNwWlNxOXJlU0xXaHo2Wklvb0s2NnhqNFA5NHgwWXdQZlRKYkkxWkYtcnZNUFVDdWNkZmpvUlBhdGNPSVVadHp3Vmo0dzNzR0lSdmFrWXgzX21VME40NEM5dUtpREdWZVl2YTlIeFVB?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 04:04:00 GMT",
+          "title": "Darline Graham, Ralph Norman go head-to-head in South Carolina’s GOP Senate runoff - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3JfY3FOQ2VaYVhZd2JnaFdSZDAwNzhfc3hxbm5ibDR5dzRMcGwtNnZTX0tLY2R1U3RfNnRqd0V6eHVGX0hHNzVGdWJ4allUbzhnaU5sd3hHZzctZkwxS1dhS2N6QVFfcUtyRkd4WXdSYTdkWEVicWJObFMza2R5NEFaRWo4YnRWZURDbWZaa19VMGJRWEFualEyemFleVk?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 04:06:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T09:35:23.375Z"
+      "updatedAt": "2026-08-25T09:50:16.545Z"
     },
     {
       "name": "Reuters",
@@ -179,9 +179,27 @@
           "source": "Reuters"
         },
         {
+          "title": "United States sanctions oil trader Wellbred over Iran links - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkRVSUpZLWl2T2ZNc1FtamVfUzBiRm5lZW43SHdvMHZFbVc0blFJMnFVaDVUM29rcTRURFF2X3R4NE5GYnlxWnNNYS1hS3hGS2RzZUY3MDVqVFFiSkJrRHVkNkpvWjkzOWlRbjllQ2JzYXFabDdYVUtfUURHbHBYb3NPcjFtWUhxMS16ZFppTUN3Q3J3VUdQU1ZoSHhZSk11cmJiV3VULVk3VVBWTzQxdw?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 08:55:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold slips on profit-taking after rally to over three-month peak - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa19NSUEzV2xqY0JpOW5BRUlWc1VQNHNxdFk1cjk2ZldBQnotS0VtRmo4MWRSdjdDMEhya0JXeURjRFVoRkpyeDVLSGxTcExWM0YxaDh4dFl5OGF6MmN3eU4zd0poVXRBMnlQRFFkUy1qQmNwck9nV01hd2RNSXlaR3lJMzFYRWt3TDFGVnJENVZEVXZDR1puXzV0dGtSdW8zZGFmYXFn?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 08:26:54 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Italy's Salvini calls for €20 billion in extra deficit in 2027 budget - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWlF5b1c1NE5GRGRaM2RmUy01MUExOEdPY2JJam9sYUlCaVp5QzgzRzZvNWgxVmZlbHdlOXM5RFh5UXA0aVF6WW5kOVdnQmhhazV5blJqTlpYZVdpX3R1TTNHMUVwd1BXMG93QktBMkZONzZjT2pBMlN5ZTBzOWhrSmRtcDlpdG5oUzFPSUJ4ZUZTS25QZW1ES3Q1aXBqMHlod3RBT0hoczVodm9nZ0JN?oc=5",
           "pubDate": "Tue, 25 Aug 2026 08:05:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 07:50:52 GMT",
           "source": "Reuters"
         },
         {
@@ -191,38 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Hungary foreign ministry files report on $964 million pandemic-era ventilator deals - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNU1xVDJwdF9yZUhlU0F1S3pqQmVZN1BMd3JkRTd0TUk5ajN4a25NVWIzTnBRU3JOaFNCekJob2kycmxPMmdMX3pTMVhDdTU5T1g2aGxPNTFYSUIyczA0dWtSa1ZqTWJsN0NmeTJNUUw3YUdTMHZnb2JXZU8yREp0RC1QeXY5U0tmSUtianA3Yk5yWVZ2R3A2cUo4cmRSZ0hXLXBjMm1vYWhYZzk0cjliSWVFc1ZWZ1JaejNNUU14SERyeFpkbTB6V2hiMzUwWTlVZ0JYUlhIUHNLOFVnaFQwOA?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 07:38:34 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Stablecoin card spending forecast to hit $50 billion a year by 2028 - RedotPay - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR0JteUREVzM1Vi1VaFlhRkxQSWlSenh0dUJQdHcyQ2JRZXNpWW5YX2dfR2FTbVdJZmVWVUoyOTFBQVNEUElVSGxhUy1HN1phQnNRdk9kbXp1aGZSaVhic1EyNWliNEV2MjBTNzRUSnAwVHR0ZnZNdmwzVTdnQXkyeVFZM1Nfb3hucXY0bFJ1WjRCdlZaRDJ6OGh4OUl5TGFhenFuVnZNYVRlY1AyTDR6eGgzRGtyZUwxLXFSUUpVYWk?oc=5",
           "pubDate": "Tue, 25 Aug 2026 07:07:26 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Philippines seeking to expand military drone capabilities, says defence chief - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNGVjSVNQQUF5WmNDNktlbnRKLVl3czk1Y21qTF9vNzdpbmFpdnVfYmZLWi1faGdINFJtNlBTTGVQOHFaZEVpUmJIYTVpaXhzcFA2VU5GTy1QRS1NR0tpeFFILWZQRlZ3WWRBcHVlWjVpa090MGU1a3B2ZlhvakJZalRzVkkySFp6d3hUc2F4RGVHY09VWFNkX2wzcEhnRWZiZUFTVy1hdkJlclZOUlM1Q2dURFJxSHNTTFlxdG05Tm9kRzNwZGE4?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 06:43:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "New Sinopec boss presses reset for world's biggest oil refiner - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEZoRHRfTWg5T0wwRm12dnRnamxoY19lbk1PSWRPQ2JDdFpGcHlUUWVnelU0QzFLaGdmN2t0Mm1GVTh1TTBfdFRTclBwM1N3d0RKUFBDeTMzWjdnVUVYZzdfbUxMRndZVEtuYmFleHFNaU5CQnBzaVVhUy05Mzd2aFR3b2taX1E1RWxOVldENUIzRmVoTXZ5Y0Y4blNld21xZ0I4YjdCV29CR0ZvaTRMUU53?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 06:31:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran vows to retaliate after US widens sanctions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 06:16:47 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EssilorLuxottica founder's son quits management roles after reported rift with CEO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2poYTBla0RwaUR2Ums4LTNxQWxCZkw5TWhGRWpob3NmZFA0TVF2d2hyTl9SdUdHc09sT0JYZS0zaW5XcC1lLTRFc0N3cWhmZnlSdldBYVo2MXEzRUtSeEVUcTA5cjFPQnhkS1hFVlZVMEhuZkwxVTY5aVBwSjFuZDlsa1gtRW13Q2xjMGhvZEdaX2RtYWZub3NYMXh6RWM3Yml1WDl6NnVGcU0ybi1XRC1PYmpDZ19fVVAybUE1WmRnQQ?oc=5",
-          "pubDate": "Tue, 25 Aug 2026 05:47:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T09:35:23.788Z"
+      "updatedAt": "2026-08-25T09:50:16.958Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-25T09:35:23.848Z"
+      "updatedAt": "2026-08-25T09:50:17.019Z"
     }
   ]
 }
