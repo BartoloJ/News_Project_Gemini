@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-26T08:00:27.586Z",
-  "lastChecked": "2026-08-26T08:00:27.586Z",
-  "lastUpdated": "2026-08-26T08:00:27.586Z",
-  "generatedAt": "2026-08-26T08:00:27.586Z",
+  "fetchedAt": "2026-08-26T08:22:40.938Z",
+  "lastChecked": "2026-08-26T08:22:40.938Z",
+  "lastUpdated": "2026-08-26T08:22:40.938Z",
+  "generatedAt": "2026-08-26T08:22:40.938Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T08:00:26.081Z"
+      "updatedAt": "2026-08-26T08:22:40.406Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T08:00:26.330Z"
+      "updatedAt": "2026-08-26T08:22:40.433Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 05:53:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "An AP reporter spends the night locked inside Jerusalem's holiest church with clergy and pilgrims - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1FVZGxTaHFmZWUzWEJJOFA1YlZyVy1tWjRIbGtocTFZcFNfZTNMeERySV9FM3BnNGxTVFFqNVhJQWV5d1E3UUpOU05yZ0JrNHlldWpId1pzcHhvN21KNTNyVk5RRGdqdTNTcjVqMlJmZzZ4eV84a2NoQUMzazlYVnAxRnBZN21FX2hoRm55UkxrR2hVc05JUHh5dVFLSWpCM2E0bGwzQQ?oc=5",
@@ -130,27 +136,9 @@
           "source": "AP News"
         },
         {
-          "title": "Former detective says Tupac murder suspect was gang 'shot caller' who had final say in shooting - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWRMSWh0REJnZ1Uxc2RfVVdvcFpNUk1SWV8tWlJOQk10ZXRwNFRQX0pYR29qSHF1Z1liRHN3WFVMRWJEdTM2ak9rMFZpMWV3T1d3ZEJQaVV6UUtjTDFsTFRzWnRQVzloQVdkaWxQNWRqSXlmQ3dPLVFqaG5oWUNkN2hLZU5vZk5lNC0yRF9adzQyR19mdmlPMkd3?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 04:04:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 03:59:37 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Dolly Parton, music star, actor and beloved figure who spanned generations, dies at 80 of cancer - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnlGNlNob0dBenVEaDd5Y2s4QmdjalN3QVNyMW9lLUg0ZnV3eEpva0VQc3g2MGd6cUVVT0dpR0hSTThYSVRHV2daNlUxbEowR0RkSXZuS0RBajQtNmY5RkxQbkhCYWJXY19qWnJidHR1UlNFQ1c5elNpcHJrZ09KWkJDZUl4NWJWRGoyeVYyM3NQQXFVYUE?oc=5",
           "pubDate": "Wed, 26 Aug 2026 03:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Three Secret Service officials have been placed on administrative leave pending investigation - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTJIZ2FxWHlyaEpic1dxMlJWaTlBNUZxVDNWUXJoRlNJcEhDMFBqYzZ0dGM1OE9OMEtHYlhKaGticE5JTm0wQ0RsYUVNQ3E3LWhWMXpmZThpZTFiZUg0b21CTHZKcEprYWhyck9TVVJiN25CQmN1bFRrQkVIYUdmTGVTR2ZmbXU2UmhQM3ZOT0ZaN0lWYllJOXhR?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 03:30:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,14 +152,32 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3JfY3FOQ2VaYVhZd2JnaFdSZDAwNzhfc3hxbm5ibDR5dzRMcGwtNnZTX0tLY2R1U3RfNnRqd0V6eHVGX0hHNzVGdWJ4allUbzhnaU5sd3hHZzctZkwxS1dhS2N6QVFfcUtyRkd4WXdSYTdkWEVicWJObFMza2R5NEFaRWo4YnRWZURDbWZaa19VMGJRWEFualEyemFleVk?oc=5",
           "pubDate": "Wed, 26 Aug 2026 03:00:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Prominent Sikh separatist says FBI has warned him of new threat on his life - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGJrYTdlTVdZTkUyeTFzNGZ3UTR2TUhBQzc3OUlCXzV4Xzg1OXpvYW8yRFFjaFlzbDBxb01NSWJoV042OFNrTDd3bHBKSGJsMnZ4eVBVeGxzVmR4UUd1V29BTXE1UV84SGgtZWJVRURUeGcxTnlxLW05Z1FtbVE1c0tZb3l4ZlVtZ2c0ZXZzUDA4dUxsbXc5bEZqYWxpZw?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 02:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran and Oman hold talks on managing the Strait of Hormuz and other news from around the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2ZVY3Y2dXJDajgxb0R0RDNXVTQwWXFQLTltbDJVWUpaanVwZ0lHSzRzQ0VIekg0NkFNZG5UVHVCX0ZOWV9lWThtbnhyV3pSWUxmeEZqR1BTU1YtR2paS0hhajBWQ0tVdHU5Njg5aklzUG1xNDNsaU5VYkJNZlZIbzVXVmZyMmkyYVRBclRKZ1k0dnFrSXJMNzJfVkpfOWhTRTZIOTgwWDRPalBlM1R4LXZFWlU?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 02:35:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T08:00:26.883Z"
+      "updatedAt": "2026-08-26T08:22:40.866Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Bill Gates, alarmed by AI, has policy ideas he wants to discuss with China's Xi Jinping - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU20ybks5N1I2aFFmNVhMWHZiRk1iMUU4dlphNHdZbEJQaVNiTFRYM1NuUjFCOUR2Y1ZsR0VJWnNRY20zVXZaQXBkbmZkNmhjOWNtLU01Zi11bHhvYnBPV2JPdTNVSkE0NldwYXJaS1FmRXUyZGZuU0tXRElwb1RUS3VSeHI4OVhnYnRSckZZd2NobnZyVE9aTGxlVkNRMkkxWGZWbFgxb2hkYWo4R0hJWUo1WU1CRUlDNHdpNHp3?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 07:11:27 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Nepal flash flood washes away villages, damages roads, power projects - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTR0bUtpUHhsbWhHTTdiWFRWbnZFQk5GcEdFUXhVNWliYUVHOFdpNzdRaEN4ZmMxVE5UdGtDZnViV0dtOEJydjNROC14UE5KT09pVTg1QjdaajlvZzVsMGFiNk5HT2NodkpONnVYMThRNG1La0dBaW4zbnZFVzJUdVZoWXl5My1HSHh3UG1fWmtISDRBbDdVNkdwVk5DWmJOQUVzZ2JkYXlVbzV3M011RFlReWI5bFRlS2pzZ0h2RWszMXhka3c?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemljZFU3cGNjZXpRbUVDaUE2cXdTYjZDWFBabnZBTm03VjIxN0NmV2oyT0pNV3RrTDVONXhfQWJVZzYxNzJmUUJYNjRqZ0lZUWNuUGxyemdod09OdGpvWWtOM3hhUWRtYWZna0ktV3V5VjVYek9nVWREM0o3QkNRVGY3UkZCcERlSnpMSWxlS2thSFFlcU95Zl9iVHBQX1BBUVhHbTVWby1vVUk?oc=5",
           "pubDate": "Wed, 26 Aug 2026 05:02:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Markets are waiting '9 to 5' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11VlJWcU5TMUNaTHZTZEtqT1JBeDBweHVkQUFiY3ZWRVVzVTJ4UGlubzdQVjBMSXhjczRzTURFOUdmZ3FscHVkRl9fOVRnaTBhTVZ2VTkzSGdDalJTaU5JMGVZdmRnTldxLW9uc1FBc1ZFOU9ES28xa1JIQUlXdUE?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 04:53:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T08:00:27.285Z"
+      "updatedAt": "2026-08-26T08:22:40.879Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T08:00:27.586Z"
+      "updatedAt": "2026-08-26T08:22:40.938Z"
     }
   ]
 }
