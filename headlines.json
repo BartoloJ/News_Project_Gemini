@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-26T22:00:20.411Z",
-  "lastChecked": "2026-08-26T22:00:20.411Z",
-  "lastUpdated": "2026-08-26T22:00:20.411Z",
-  "generatedAt": "2026-08-26T22:00:20.411Z",
+  "fetchedAt": "2026-08-26T22:25:16.874Z",
+  "lastChecked": "2026-08-26T22:25:16.874Z",
+  "lastUpdated": "2026-08-26T22:25:16.874Z",
+  "generatedAt": "2026-08-26T22:25:16.874Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+          "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 26 Aug 2026 22:02:18 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
           "link": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 26 Aug 2026 11:32:11 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Radiation link in flight attendant's breast cancer, French court finds",
-          "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 26 Aug 2026 10:29:36 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T22:00:19.060Z"
+      "updatedAt": "2026-08-26T22:25:15.412Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T22:00:19.165Z"
+      "updatedAt": "2026-08-26T22:25:15.703Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUxNU1FHTmNSNmlkQ3pyV05DRnlpWGl0U2I2Nm10Z3BkWTNEWVh4LTZsamNUWHBvOThOa1h6ZkZxSEdyTy1jclJMQUE0RHVuZUU2ZWZWUmQ2TnRlQ0t2VmduUlNsemdVNHFVd1g0Zl90SHhiYzdaeFVBT18yZFJ0eF9MMXRjcWFVWXVINXhhOFI1c19LdExYSFpiLVg0bW9qUl9XZHEwQmRNaHRq?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 22:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "FDA approves landmark pancreatic cancer drug that’s shown to improve survival - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcHZjQ2VTNEZIc0ltY0R3cmxCcURlRGFEOTc2aVBURlRrVk1fVmVLeDdqeHd0UFVzLXVyZHZsWWhwNXk0ZjRqZWhDSXF6ZVFKbS12WGNieG5lWWhHWnNlLUhWTmNSOGZYX0Uydl84VUZtSUJXckhXZEg3VEpBcmRESXlzUDVEQUwzMjdFUmVxQnRfTkFpTWJWbl9JUU55LVkzREhZN0VVOA?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 21:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Judge denies Minnesota’s bid to compel the extradition of an ICE officer from Texas - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOalRaMU1YcGZHdkE5SjBPbEJMWmR1R1JCTFViWnYxRS1QWXpLS3hUS1B3eHEtZDB1QjZYVXFoUVZhLS1EYm4xdk1xZGJqUWNvLXNLOHJwSlhoU1hMdklXNnFkaWNQeHl1YXdRTmhuMmZHQTBJZ1BJbmU0dlZkUnBRVElSNnI0NmJuMDR3SloydFlIMF95cUhnNnlTNnBRSTZpVm5HVXBTTWw2dkxUMlE0WUczR2xlZDFJ?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 21:32:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Prosecutors rest in Tupac Shakur murder trial, putting Duane Davis’ defense up next - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWRMSWh0REJnZ1Uxc2RfVVdvcFpNUk1SWV8tWlJOQk10ZXRwNFRQX0pYR29qSHF1Z1liRHN3WFVMRWJEdTM2ak9rMFZpMWV3T1d3ZEJQaVV6UUtjTDFsTFRzWnRQVzloQVdkaWxQNWRqSXlmQ3dPLVFqaG5oWUNkN2hLZU5vZk5lNC0yRF9adzQyR19mdmlPMkd3?oc=5",
@@ -130,9 +148,9 @@
           "source": "AP News"
         },
         {
-          "title": "Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUxNU1FHTmNSNmlkQ3pyV05DRnlpWGl0U2I2Nm10Z3BkWTNEWVh4LTZsamNUWHBvOThOa1h6ZkZxSEdyTy1jclJMQUE0RHVuZUU2ZWZWUmQ2TnRlQ0t2VmduUlNsemdVNHFVd1g0Zl90SHhiYzdaeFVBT18yZFJ0eF9MMXRjcWFVWXVINXhhOFI1c19LdExYSFpiLVg0bW9qUl9XZHEwQmRNaHRq?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 20:47:00 GMT",
+          "title": "Tim Curry, iconic character actor and ‘Rocky Horror Picture Show’ star, dies at 80 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWmlGcVFiLU1LdnN2X0VYZ1ZzOXhxZ3hhd3U3OUNQUWxoQk16SjdYSGVxUlhCNG1fVk9xSTZZTjZhUnUzYnZFYWVBOHRybUItYllqQktjT01xSzg3a2Z2VEhKNElXd25jbXBuaGVhN3FGNmkwSVMxMDZxcy11T2Y3SXVaYllKUnFWbUl3?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 20:50:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,32 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOXzVNTjF3NEVQUHAyUUNWOWpJUGpfdTVSQ0ZCVzdFcXRBX05oa25jTGpkY2Z2Z1RxcExRRk0ydmRLdXRxZGx3bHNEZzNTdjJLOTN0YVdyT3c2ZXhmbTV3d3NVdmdNQ1ZWcmJlSkp6Zll3YWkwSzBzRkZ5ZGpacU5ROXRkV1laSWgyeW11NXRUVFlBeEJscnVRV0V0dmpnM2M?oc=5",
           "pubDate": "Wed, 26 Aug 2026 20:00:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump says the US doesn’t need Canada. The economy says otherwise - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUmRWVUtBZ3FrVTNudHA4dm0zblU3clBpejJNY0MyclVGckN0d1VaeUNZQ05FQlkxUVQwNDZrTmpuUUtMaVAxYnRXU3BwclBmcmZxLTdOYmRwT2lSektZc3FJbkgzSHZyZ1Y0T0pFTmJmdFRUcndTSkJPRkRiWXFqbnZEUEdnLThzdU9hbUY4VUdlWFZobGlIb3NpT0E2Zzg?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 19:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Testimony concludes in Lindsay Clancy’s murder trial. Jury to hear closing arguments Thursday - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1JPY3k4a1pmZE5xWVZZM2Fab0l6c25zcXY5c2ZmcmFiLW5SWjFPMDc0ZVMwNE9qU2M2VXRla2J6WVNpamk5U0NOek9RTHdhV2pfYUNTejJPZW5reW1DZUxhTTJnWC15QTAxY3loWnFpWmpKN0lZRXRSbmROLVpjbkxVakJEQXZTSExSZFBsUWZTbS1hRW4tU19xU2lrOTBGcnpr?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 19:20:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Judge denies Minnesota bid to extradite ICE officer from Texas, paving way for his release - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOalRaMU1YcGZHdkE5SjBPbEJMWmR1R1JCTFViWnYxRS1QWXpLS3hUS1B3eHEtZDB1QjZYVXFoUVZhLS1EYm4xdk1xZGJqUWNvLXNLOHJwSlhoU1hMdklXNnFkaWNQeHl1YXdRTmhuMmZHQTBJZ1BJbmU0dlZkUnBRVElSNnI0NmJuMDR3SloydFlIMF95cUhnNnlTNnBRSTZpVm5HVXBTTWw2dkxUMlE0WUczR2xlZDFJ?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 19:12:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T22:00:19.829Z"
+      "updatedAt": "2026-08-26T22:25:16.208Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQTc3SXJuMW9sUUxKakNwamQ3c1l1RWFRM3I1WjhJWk5HdGxrSGl4NVdQVGs2RHRQUDFsSzVCRkEzLXVTTGRKaUVHMUFURDVHd2ZzQUNrNW9MbGh2eDFZbDVqeVdPNW91MTVHUjVmMmJsdW5yeVk4dG5NWGp4MmJYN3YyYXIxd0RveW5tNklVTXVrVy1fbHZqNGU4bmM4MmZ2a0lUVGpLNC1VUWJLLXVrM243UQ?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 22:07:43 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump: 'Time to teach Canada you can't do this anymore' - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb01ZMXBPNXRTVGlLcUFQbEZ2c2JXSHl6X21tTGpLbVZBcWFxSmplWkdFUW1XWENLVkFyNTBDVEJzR1lQd0RwUjVnTjhfZDZvN1JERUNXTEFtbG4wS0N0MTZCUHBCSVU1Qkd0TS1FeEJldkt5eFFialVxQy1sbHpfZm1BQmFwUjhEVld6TVBnYlNEam4zbGlPVA?oc=5",
@@ -185,44 +191,38 @@
           "source": "Reuters"
         },
         {
-          "title": "States, voting rights groups renew challenges to Trump plans to restrict mail-in voting - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRlVaM19mSUFlcXpoeEZrVkR2WlZzT3ZQUFNScmdZcVoySWt5UmxjZGhSUlVxN21DcGJ1aGtUamszWENIQmRuR0lEcVl1SU9GdUxXeWhTSVR0NFc4MzFjN2xUQUcydGcydW1lMTQwZWtLUml3eTdCUElMZ2NHREZDN1RYc3RNeDNYMTQ5QmdiZzVqY3J1NmJmN3E1YlZoczc2NkcxXzMwU3dJMVJQaGVVS0RXVVh2VnozMC1oU1ZKa3o0QTA0?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 21:04:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nvidia forecasts quarterly revenue above estimates - Reuters",
+          "title": "Nvidia forecasts quarterly revenue above estimates, shares rise - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTdJRXVOXzFrQjZXaG1XeVpHNUg0UzBHMnZ0b3lUT1hCZktWajJhbkJfSmcweHEyVE9sNVdrOGx2MlFhUlZ2Z0xna3Jzd0gzWUJCdHR2MHN3Y0pqYURLQ0JQUmxfYVJpT3h3TEV4amE3TkR5SnlIa3A1NlRvcE16Y3NZbnNzQUVuRFlfS2lvUE81ajBta2hYaEp5Wk94c014b3lkQmg5S3N6WlMyWWc?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 20:37:32 GMT",
+          "pubDate": "Wed, 26 Aug 2026 21:43:51 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump signs order banning some foreign equipment from US energy grid - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ0lmRVJRM3gxdGY5ZklCUEJPam5pS0dERFJ1a3ZkYUpKang1bF9rMkxhSV9qcFA4WlRaMVM2eUhvWjdKLVlqbWZHdUpPRmtlQTdLT1FvY0h0Q3VQRGlOUF9QbVQ3RXZmMV93d0hKVTBpbkZjQW9TQVJwMmhwREFzOHktTFVMc0RxV2ZGZlZiOGlVZEdVZ3dBck1aejlzVDBGaEFvN2lxc3F3Ty04dkJfalZBY1pYX2s?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 20:31:41 GMT",
+          "title": "Anxious investors hope for clarity on Warsh's Fed plan at Jackson Hole - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWZ3MGJLTko3T21vNS15UFBYZkktczAwVEwtNGV6WDEyN1MyTXpZMzhPVG9qYU5SdDVzMUYwWUVFcUh4VDlWY1F0TzF0dUkzWEtjcml1eGppZThOUV9TNE5lWjBic0FtX3BLTmdSeUJVamhNSm80eGI2T3EtazQyaGJlZ2p4YldqNHE2a0NDYXg4LTdLbjVpT2RHV2x4cW5pVGN5eWZUNA?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 21:37:52 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US inflation remains elevated as GDP growth outlook brightens - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGZMbzZKcjQta1dMdl9LYzRqcHJ3NENGVVZjT2UtVWFHTnNlMHgxWkFpU282LUFlanJqUDU2YWZBSnp5TVJEQ005d3FvSGZWa0tQRVdDZURPNFJRazRacHpCMU1nYjZ2cnhPb1JPcVZTTGtYNkxCb01uQ3V5UFZrNmppWTRpcGRwdVluU19tdFo0TjlfVFhneVRkTmNPYXVxU3FmRU1MZE1tZw?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 20:27:43 GMT",
+          "title": "Nvidia bounce shows Wall Street's AI obsession is far from over - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUtIdlFrOWRSZkItb0NtNVd0ZjFxcFZERm9aLTBCRnFyMU9kVEotOC1mWld3amlVczc4N3EyOE42Ui1VY3U5VXlkU2RkTU51ODd4RnVyYy04cXFOSWp3bVdQQWlLYkJIbUxTcUNZUXE5MkVKY0g5NHBBeGItNjlvd1VQdGV0NHBJSlFCVURkcko5M01xblFRS2lkdG1PZGV3cWdhTg?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 21:33:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 20:23:30 GMT",
+          "title": "Salesforce raises annual revenue forecasts, expands AI partnership with Anthropic - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDN3Q0RQRENZTDF5TE95YURuRTZiczNvdTJ3ZzBRQjBGNkxRUnBlSWpSd2p3MUpJQzJoamNOR084RzU2dXRFM3ZEUXVBYWRLaVc5UXFza0VRcWNvS3ZvZGowVWdkbG9ROGVIVUt6bE9nN05VRk8zVng2b3JHT0Vub000Y2lDMzBMaWdBd1RmYVlJdw?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 21:27:17 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Puck in advanced talks for investment by RedBird Capital Partners at $250 million valuation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOWtMaGd1VlVYdXFEVDVPUi0ta2RkNWNYX2MtQUV0QW5kcFYtZ3ptTG1SNGFIREpkVnJtYU9KdHpCUmt0R25fRVRRZ0ZTcmU3MHh1bWhzelFWM2doY0xoTXJoc3ZDOENWOHp6NlAzWGFYdWlLUF9CMGloTHFIU1FVYnoxWjcyejBZQU5JbW5KbG5Vakp5LUliQUN3UURPeUdsb0dmQzlXUnh4bDV3cFFlSUVGc2ZOSUVITEhIU0JBZjRucXZLZmstR0xsemZremxmVHBBd05n?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 20:05:59 GMT",
+          "title": "UEFA set to lift FIFA boycott threat as Italy drops support for Infantino - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU01PeEdEQXB3VXVrTlZkV3lQNFZ2Q3UzTXdiMzUwZDRaaWJrWVdVazRpT3FaaE5QVXY4OWdRZ1djZU1JQmYyOHZJUE5aNVpXcS1rUGF0WG9VdDM0RHRVLXNlOHFBc2VoeGF6YkZRdzctc0QtU2lkcjNKN2hqY1hvTndROEtSM0xndXpjOU9Gb201TXhQdlI3M3F0bw?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 21:07:51 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T22:00:20.266Z"
+      "updatedAt": "2026-08-26T22:25:16.693Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T22:00:20.411Z"
+      "updatedAt": "2026-08-26T22:25:16.874Z"
     }
   ]
 }
