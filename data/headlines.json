@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-26T13:25:13.554Z",
-  "lastChecked": "2026-08-26T13:25:13.554Z",
-  "lastUpdated": "2026-08-26T13:25:13.554Z",
-  "generatedAt": "2026-08-26T13:25:13.554Z",
+  "fetchedAt": "2026-08-26T13:50:17.115Z",
+  "lastChecked": "2026-08-26T13:50:17.115Z",
+  "lastUpdated": "2026-08-26T13:50:17.115Z",
+  "generatedAt": "2026-08-26T13:50:17.115Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T13:25:12.332Z"
+      "updatedAt": "2026-08-26T13:50:15.920Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Dolly Parton didn't just write hits — she created an American songbook",
+          "link": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
+          "pubDate": "Wed, 26 Aug 2026 09:46:34 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "California says states, Meta agree to $17 billion settlement in child safety trial",
+          "link": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
+          "pubDate": "Wed, 26 Aug 2026 09:33:39 -0400",
+          "source": "NPR"
+        },
         {
           "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
           "link": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods",
@@ -97,22 +109,10 @@
           "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
           "pubDate": "Wed, 26 Aug 2026 03:34:59 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Test your global economic knowledge with this quick Planet Money quiz!",
-          "link": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
-          "pubDate": "Wed, 26 Aug 2026 03:30:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
-          "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
-          "pubDate": "Wed, 26 Aug 2026 01:45:58 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T13:25:12.478Z"
+      "updatedAt": "2026-08-26T13:50:16.033Z"
     },
     {
       "name": "AP News",
@@ -130,9 +130,33 @@
           "source": "AP News"
         },
         {
+          "title": "US economy expands at sluggish 1.5% pace in second quarter, but consumer spending stayed strong - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSUI0VjdibE5UMVBab1FSSjF3Wk9lN1pQb29TTTlyVFpiazNJNnBZQ3B1aTJhNWMyN0JDMmQ2T2FJcGRiaVNGbXc0TXkyOE9fZHJqLTFpRFZOaVNZZ1ZlajNCTnpVRjZMWGpPRGk3dldybW9TeXBBRS1zXzdZMC00UjJTb05TWE1jeURjNXhxWFRhLWt0aUwyaWVDbXpLdw?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 12:40:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "US futures slip ahead of newest read on inflation and quarterly earnings from Nvidia - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWdQR1Nqb3FRVG95ZjdkaHVNek03MDg5QnRkWjhkdXBOOTNDdWhWRGV3Ti1xU2QzY1F6eU15Y3ZVVl9kUVgtLVVuSFFoOWpKXzMtMk5pc0pxUDlReHZlSnU1eGM5SE5YRnhONjAyTU1xUDZKWk9pbkl2MmstVWNsZW4xaVpubzlTQ2xNS2xiVHpQUQ?oc=5",
           "pubDate": "Wed, 26 Aug 2026 11:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Republican with same name as incumbent Dan Sullivan advances from Alaska US Senate primary - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDZFaTdpSWZyeEE4enZ6dXBXand2VjZua1ZvMUFKdl9HMVhTR1pFbjFlOVU5SGhvN1F3Ni1HWDV2VEk0LVJFUlI4YVNudTh5X2dtV2wtTDFZNWs1aGx2eTNpNzFWQTRGbUVuNkt4SmpSc1ZDQkdiTWhzTHF1cmI1X3JKUlhQZ3NOQnZtMFBub010V0loMWgtUmNuUDFzajhXMDZjeDhzWkdUX1VNTGpHcG53?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 11:45:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUxNU1FHTmNSNmlkQ3pyV05DRnlpWGl0U2I2Nm10Z3BkWTNEWVh4LTZsamNUWHBvOThOa1h6ZkZxSEdyTy1jclJMQUE0RHVuZUU2ZWZWUmQ2TnRlQ0t2VmduUlNsemdVNHFVd1g0Zl90SHhiYzdaeFVBT18yZFJ0eF9MMXRjcWFVWXVINXhhOFI1c19LdExYSFpiLVg0bW9qUl9XZHEwQmRNaHRq?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 11:22:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A Wildberries depot in Russia is hit again and destroyed as Ukraine extends its drone campaign - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMERhSGlDcW8zdklsTG93eGVuODE5N0JrYllVTWFWaWlaaVI2Z3YwUE12RjNnYXFhbEF2Vk9zLVZUcUViQUEydUhkSllobXg1eExZMDdCY3hTQXhKUzNGNlI5dXU0eXVraDNQRENYbFFld1lkNER6cGp2UE9ONFRoZmZKWnQ3Q3NaY0kwaUdHZ0ZSUm5oaGdxQ0QwTG9GTzNIX3ducGRB?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 10:59:00 GMT",
           "source": "AP News"
         },
         {
@@ -140,38 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
           "pubDate": "Wed, 26 Aug 2026 10:50:14 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "ICE agent charged with shooting in Minnesota could be released from Texas jail - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOalRaMU1YcGZHdkE5SjBPbEJMWmR1R1JCTFViWnYxRS1QWXpLS3hUS1B3eHEtZDB1QjZYVXFoUVZhLS1EYm4xdk1xZGJqUWNvLXNLOHJwSlhoU1hMdklXNnFkaWNQeHl1YXdRTmhuMmZHQTBJZ1BJbmU0dlZkUnBRVElSNnI0NmJuMDR3SloydFlIMF95cUhnNnlTNnBRSTZpVm5HVXBTTWw2dkxUMlE0WUczR2xlZDFJ?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 10:46:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 10:11:49 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "USS Abraham Lincoln heads to Thailand for a brief stop after lengthy deployment at sea - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM1F6RTJZOW1iSjMwNEFybHV3RVhiVTVnYjdZZy1vMi1pNnFtMTJJelRybUpnRF9Ca0JWOXp0TFZnenE0NnRfTzk1ZW5GNHFqOGhqOXVOa2QxYmlLSEVfaEhuNHluNFQxTFNXSTFxZ2tSTmEwS01jekNJMGtpN3c0a2pBd1JydHNleWFKdGh3cE8ySDZ2ZjNRRHR2dU54NGhWSzNnZ21fMmxFWHM?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 09:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Republican with same name as incumbent Dan Sullivan advances from Alaska US Senate primary - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDZFaTdpSWZyeEE4enZ6dXBXand2VjZua1ZvMUFKdl9HMVhTR1pFbjFlOVU5SGhvN1F3Ni1HWDV2VEk0LVJFUlI4YVNudTh5X2dtV2wtTDFZNWs1aGx2eTNpNzFWQTRGbUVuNkt4SmpSc1ZDQkdiTWhzTHF1cmI1X3JKUlhQZ3NOQnZtMFBub010V0loMWgtUmNuUDFzajhXMDZjeDhzWkdUX1VNTGpHcG53?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 04:47:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T13:25:12.937Z"
+      "updatedAt": "2026-08-26T13:50:16.450Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Meta settles with US states over social media harms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQekpOenlkSUV1WU4wR2NrcHBmeWhwUkFkMmx2SHZ4MG5yQlVndFVKYmx3MTBMWk56SjlBU2w4ZzM1NVFLXzNPcFBQUXpUVnlILW9kS2k4eHdzdDZLSWlVRE1uZGtxS1FKQlE0bjBnbktGTEdHTy01S1UyNXFiWEZsQXpfM1NJa1d1SFZjeExaZjdVRVY0WXdISk9aN1U?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 13:13:45 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "SNAPSHOT US stock futures edge lower after economic data - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
@@ -191,15 +197,21 @@
           "source": "Reuters"
         },
         {
-          "title": "China's MiniMax sees revenue nearly quadruple in first half as AI demand surges - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2ZKSWhaaE9UOUJROWthQ2stakFYT0RNNkNmUzRWUDcwVktJdXVJMUtlZ0p6NEgzcWk1Uk4xU25TeS0wbFcwY2FQb1JaZXRJLTJDcXppVnBfekRhckpGYU5ZVUZub09TNE4zdE5iajEzWU11NjFER09aeU9DWE1EYklRRDFFQnFYZlhlaWpsWkpoWFo5YWFJa2x3RGktVDRDRWVHZXRoVFAzdDZGbS01ZUIwcFMtXzZtWS1rbw?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 10:51:43 GMT",
+          "title": "Eight South Koreans missing in Nepal flood, Yonhap News reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc2pwNEpocUczbVJ2V3lnc0hSaWY4aVZfd19OQUU3UXF2WVVfQjkxeDVmMlA2a3czSWRoTUtwT1A5ZFZ6eC1YMWxaMmtickV4c0tDNElOY05zaFpiM1RiSzJVODFsaXBnVzAyQWNVZnZ2U3MtQ2dqMEg4QkhzR0dMZE9qX3htcHg5aWFnZTUycWM1b1A5RF9OVXVuM0pUVFdvWVJIODVfV3A4SDlXTTdPN0hfY0dlT2c?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 11:58:59 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Eight South Koreans missing in Nepal flood, Yonhap News reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc2pwNEpocUczbVJ2V3lnc0hSaWY4aVZfd19OQUU3UXF2WVVfQjkxeDVmMlA2a3czSWRoTUtwT1A5ZFZ6eC1YMWxaMmtickV4c0tDNElOY05zaFpiM1RiSzJVODFsaXBnVzAyQWNVZnZ2U3MtQ2dqMEg4QkhzR0dMZE9qX3htcHg5aWFnZTUycWM1b1A5RF9OVXVuM0pUVFdvWVJIODVfV3A4SDlXTTdPN0hfY0dlT2c?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 10:51:29 GMT",
+          "title": "Narrow majority of Icelanders back EU membership talks, poll shows ahead of referendum - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMS0yd2lIZndjLWdPYkxnUzlncHRYY053OWJEYXhvMlQ4dnJYaVRkbmlsNzEyRWdkVmU5VUtVemdvS1lVNVpEcG1Qc1o0NUROSUZkV0tNS1ZseElQaVU4bVhua1A0NDhDeFdoWm9LeFE0clhVNGdZSGFZSElVaEw5N2RqN2gzYWdYMEQzOXdLNU5MWEk5bjBmZ1F4RDMzYVJacnJBY00zVW9XSVFuVGk2NExXeDctM2RTT3dUYjdR?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 11:55:46 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Airbus employees in Spain resume strike after rejecting offer - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMUhNbmM3RlNJVlR0UkJuVHg3RWkxcjJldHcxY0RsMWlaUzlSWFU4SjBwZm1Ga3g1a3l3ZG5ZT3U2U09ZY2IxYTVpVGFHZDJ2a0tXNGJhTDN3Z052MzJ1SHN0eUVuNjkybXRFakNYQWpkaDZLYnBIRVNUQ3NyV3Btam5Jam8yNEltOWhJRWlqcmVzX1I2cFJObUs5bEZ0TnVJVEZmRU1OTkFyRktKbE55TmZhUHE3cTE0?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 11:31:23 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTFFMWThLS3BjbEN0SkJwaVNoRjBDS2VwSFJrRFpGNmZLV0U3Zm5tV2NWbXpaZkRGMURZbUpHbVdRYnNvU3lMMmUtLTFoRE84QWJZYUROWVYyOWtITlFEdVRFLXJTVHlRS3RXNVlYWmlWSF82T0JQZGhLOExkNXMzTmM0Zlh4QzNXSlFZb3VvLWxsb3hfbFFicElYTWdMVXI0QlNOTmpBUFNxREhBZk5faGY1aVh0M0k?oc=5",
           "pubDate": "Wed, 26 Aug 2026 10:49:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Some Chinese workers see an ally in Brussels as EU trade tensions mount - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGRtUVpOeWFvQWFUbmNJeGxjYlRuaktxd1AtbUw2bFAtOWJCbjBfSmNfMlJYT2xMcThMOUQ4bXNQUzV2N19kNHBkWGtOZXd1aHRfZTV5WXNsZ2RyR1hhcFB5MGN2VTlCSGYzaGJUYUpnWWZQSHVzN3plaDY0V2VtNzlYMFV4WG9NR2JIalFfeFdkWG1pQ1hnSFdCMTdFVHJXNWdIeUQwUktVeUxHM0NRdTJjQQ?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 10:49:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Falling oil calms nervy markets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRXU2R3VfVjc5OXB0SXdVMW1vbU1rUUxSeHQxcG5QTWlSNDVHX3JwdTQwTVR6MzV0WWdRUEJrXzRPZU16bjRKRWxtT3hBOGRuNVBmRVZnUEJ6YjlUMGI5WlZ4V1Y4Q196TF9DUDVrLVRpaThSa1F4aFU5NzM2ZmJGSHowdjU2a2pqbWIzTU9BaGJIUUdQYTZj?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 10:33:44 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T13:25:13.377Z"
+      "updatedAt": "2026-08-26T13:50:16.861Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T13:25:13.554Z"
+      "updatedAt": "2026-08-26T13:50:17.115Z"
     }
   ]
 }
