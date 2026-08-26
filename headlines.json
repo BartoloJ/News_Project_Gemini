@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-26T17:25:29.880Z",
-  "lastChecked": "2026-08-26T17:25:29.880Z",
-  "lastUpdated": "2026-08-26T17:25:29.880Z",
-  "generatedAt": "2026-08-26T17:25:29.880Z",
+  "fetchedAt": "2026-08-26T17:50:17.457Z",
+  "lastChecked": "2026-08-26T17:50:17.457Z",
+  "lastUpdated": "2026-08-26T17:50:17.457Z",
+  "generatedAt": "2026-08-26T17:50:17.457Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T17:25:28.518Z"
+      "updatedAt": "2026-08-26T17:50:16.328Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
+          "link": "https://www.npr.org/2026/08/26/g-s1-138982/karbala-iraq-arbaeen-shia-muslims",
+          "pubDate": "Wed, 26 Aug 2026 13:36:13 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "States try new tactics to bring down high hospital prices",
+          "link": "https://www.npr.org/2026/08/26/nx-s1-5939965/medical-price-hospital-healthcare-indiana",
+          "pubDate": "Wed, 26 Aug 2026 13:29:13 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Judge clears the way for Postal Service work on Trump's mail-in voting order for now",
           "link": "https://www.npr.org/2026/08/26/nx-s1-5945260/trump-mail-in-voting-ballots",
@@ -87,7 +99,7 @@
           "source": "NPR"
         },
         {
-          "title": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
+          "title": "At least 98 killed and hundreds missing after flash floods in Nepal and China",
           "link": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
           "pubDate": "Wed, 26 Aug 2026 08:27:19 -0400",
           "source": "NPR"
@@ -97,30 +109,42 @@
           "link": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
           "pubDate": "Wed, 26 Aug 2026 07:05:46 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "COMIC: Trying for a baby? These lifestyle habits may boost your fertility odds",
-          "link": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
-          "pubDate": "Wed, 26 Aug 2026 05:02:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "She got an electric bill for $1,373. She's not alone",
-          "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
-          "pubDate": "Wed, 26 Aug 2026 05:01:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T17:25:28.573Z"
+      "updatedAt": "2026-08-26T17:50:16.431Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Humanoid robots sprint, play soccer and set records at Beijing games, in photos - AP News",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZXRMeWZtR2RxSXgxZzY4clE3M3FoUjlXb2pnb0dXNy1qX0o1YmFObTRUQzVJMXdmVHd1WUI5NHNOMWJyWkdjbHRISUtfR2VIaFhlMVRwSmxfZUtXMm5XRW52NVU4YndWZ2FVd0lDUk9rcVB6YWNTUi1CWTVJZjhabW12dlVIMmdmV2JsQU03TnZjNWhjN2ZNY1AyVlR1RnUyNWVHSkJUUmVCQmhRbzN3elBaZDVxQVY1ay0teGhNelF3c3dsVkNfUHlUOVNkUQ?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 17:28:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "FDA approves landmark pancreatic cancer drug that’s shown to improve survival - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcHZjQ2VTNEZIc0ltY0R3cmxCcURlRGFEOTc2aVBURlRrVk1fVmVLeDdqeHd0UFVzLXVyZHZsWWhwNXk0ZjRqZWhDSXF6ZVFKbS12WGNieG5lWWhHWnNlLUhWTmNSOGZYX0Uydl84VUZtSUJXckhXZEg3VEpBcmRESXlzUDVEQUwzMjdFUmVxQnRfTkFpTWJWbl9JUU55LVkzREhZN0VVOA?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 17:16:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Federal judge removes major legal obstacle to Trump mail voting order, with more challenges likely - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHlCX2VYelNHWGIxbzJvNUw1MDVnWk50WjhYRzhqRjBLRzZ3WmJuanNIdks4LVVUYmNGZUo5UmdGTFVTTkRHTmlrN01pcV9BOS1UcENDalVXT1hfYlRfQWNzZlF5dkZzUEpvaTN0cUFCLXBaajNpRU9QalNQeWdaT2tRWVFPWERxczJ2Ul9IM3RNeENNR05jeDFYUk9MbjgtbU5sZFpXampLVGRlWmZn?oc=5",
           "pubDate": "Wed, 26 Aug 2026 17:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUxNU1FHTmNSNmlkQ3pyV05DRnlpWGl0U2I2Nm10Z3BkWTNEWVh4LTZsamNUWHBvOThOa1h6ZkZxSEdyTy1jclJMQUE0RHVuZUU2ZWZWUmQ2TnRlQ0t2VmduUlNsemdVNHFVd1g0Zl90SHhiYzdaeFVBT18yZFJ0eF9MMXRjcWFVWXVINXhhOFI1c19LdExYSFpiLVg0bW9qUl9XZHEwQmRNaHRq?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 16:58:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Maryland court rules Democratic-backed redistricting amendment cannot go on November ballot - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUF8yaDBvRG1xWDZ2R2Fzc1FWelZmMi1rR0c4aE1zdks4MFgxR0NpdVV0dVk2TlNpMGVYUzhodDZOTDV1aWltZjlFdUw0dUczUFNoZFE5R2pzSTAyV3FYRVprbzV3dHU3bU5TZXdSWENFbS1IczY2QV9FOU1FcnNlamVoYmRjcHBHX2pWU1QyNUJDVi1sRlJDZGR6T3F1Mk1DNEtIR0tBZzhHQQ?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 16:53:00 GMT",
           "source": "AP News"
         },
         {
@@ -140,38 +164,50 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnlGNlNob0dBenVEaDd5Y2s4QmdjalN3QVNyMW9lLUg0ZnV3eEpva0VQc3g2MGd6cUVVT0dpR0hSTThYSVRHV2daNlUxbEowR0RkSXZuS0RBajQtNmY5RkxQbkhCYWJXY19qWnJidHR1UlNFQ1c5elNpcHJrZ09KWkJDZUl4NWJWRGoyeVYyM3NQQXFVYUE?oc=5",
           "pubDate": "Wed, 26 Aug 2026 16:41:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "FDA approves landmark pancreatic cancer drug that’s shown to improve survival - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcHZjQ2VTNEZIc0ltY0R3cmxCcURlRGFEOTc2aVBURlRrVk1fVmVLeDdqeHd0UFVzLXVyZHZsWWhwNXk0ZjRqZWhDSXF6ZVFKbS12WGNieG5lWWhHWnNlLUhWTmNSOGZYX0Uydl84VUZtSUJXckhXZEg3VEpBcmRESXlzUDVEQUwzMjdFUmVxQnRfTkFpTWJWbl9JUU55LVkzREhZN0VVOA?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 16:36:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Maryland court rules Democratic-backed redistricting amendment cannot go on November ballot - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUF8yaDBvRG1xWDZ2R2Fzc1FWelZmMi1rR0c4aE1zdks4MFgxR0NpdVV0dVk2TlNpMGVYUzhodDZOTDV1aWltZjlFdUw0dUczUFNoZFE5R2pzSTAyV3FYRVprbzV3dHU3bU5TZXdSWENFbS1IczY2QV9FOU1FcnNlamVoYmRjcHBHX2pWU1QyNUJDVi1sRlJDZGR6T3F1Mk1DNEtIR0tBZzhHQQ?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 16:31:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Tim Curry, iconic character actor and ‘Rocky Horror Picture Show’ star, dies at 80 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWmlGcVFiLU1LdnN2X0VYZ1ZzOXhxZ3hhd3U3OUNQUWxoQk16SjdYSGVxUlhCNG1fVk9xSTZZTjZhUnUzYnZFYWVBOHRybUItYllqQktjT01xSzg3a2Z2VEhKNElXd25jbXBuaGVhN3FGNmkwSVMxMDZxcy11T2Y3SXVaYllKUnFWbUl3?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 16:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A Wildberries depot in Russia is destroyed as Ukraine extends its drone campaign - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMERhSGlDcW8zdklsTG93eGVuODE5N0JrYllVTWFWaWlaaVI2Z3YwUE12RjNnYXFhbEF2Vk9zLVZUcUViQUEydUhkSllobXg1eExZMDdCY3hTQXhKUzNGNlI5dXU0eXVraDNQRENYbFFld1lkNER6cGp2UE9ONFRoZmZKWnQ3Q3NaY0kwaUdHZ0ZSUm5oaGdxQ0QwTG9GTzNIX3ducGRB?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 15:23:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T17:25:29.184Z"
+      "updatedAt": "2026-08-26T17:50:16.863Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Glacier collapse may have triggered deadly Nepal flash flood, experts say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVjRTWmx5dXpiRHlYazhDWjAtUFhuY0o4RUFXclFzYnRaNjZFck9vWHJSRkdJVWF6VzNfSjhDMFlGNVhISVVqOXRBU0lTd3NqZzdnTjNvMkxBNDdUb3puVnlzUU9vc0UxWW9DTmh4bUhqZUVSYnhBU05TeTM0bUd4b0VTZ0l3c2tlLVZlbmhOa1hwQ2RQMFlERVpWWVVmZ3AwS3dKcFhmdThnNzM5d0FVYWJvZldRSmlRVEw2M1hZbzN1R25FOWxmdg?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 17:30:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hundreds missing after devastating flood hits Nepal-Tibet border, 95 bodies recovered - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTR0bUtpUHhsbWhHTTdiWFRWbnZFQk5GcEdFUXhVNWliYUVHOFdpNzdRaEN4ZmMxVE5UdGtDZnViV0dtOEJydjNROC14UE5KT09pVTg1QjdaajlvZzVsMGFiNk5HT2NodkpONnVYMThRNG1La0dBaW4zbnZFVzJUdVZoWXl5My1HSHh3UG1fWmtISDRBbDdVNkdwVk5DWmJOQUVzZ2JkYXlVbzV3M011RFlReWI5bFRlS2pzZ0h2RWszMXhka3c?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 17:21:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Volkswagen CEO, labour boss dig in ahead of key board meeting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZk05MG9VcUxLeUdXaV93YTUzTjUtM01YRF9QZloySWtDV3BqZkI5blNGaXdQOWNIMkhFcmZCOE9nemozbzUzbV82c2RiTUhMMmVXcWU3T3E1UDBQVU11by1kWFhVVUs1TlIydjdCTGFFa1Q1b053aVFWUHBqcmpuSkJHdGdOT3hmMXJmQUpid3pjeHZHX0xjN3gwX1YweTJIemlNbm1jUUEwMmdxaVdsQjlsRmFPZTc4U3c?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 17:07:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UEFA set to lift FIFA boycott threat as Italy drops support for Infantino - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU01PeEdEQXB3VXVrTlZkV3lQNFZ2Q3UzTXdiMzUwZDRaaWJrWVdVazRpT3FaaE5QVXY4OWdRZ1djZU1JQmYyOHZJUE5aNVpXcS1rUGF0WG9VdDM0RHRVLXNlOHFBc2VoeGF6YkZRdzctc0QtU2lkcjNKN2hqY1hvTndROEtSM0xndXpjOU9Gb201TXhQdlI3M3F0bw?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 17:06:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Prince Harry and family due back in UK as they return from US, BBC reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1FVY2lzZkt6alhkZFplcmpVRjZ6ajNObUlQbXpwWi1QZU5abkJuOWZjdTAwckpGV0p5WnBXTWgyMElSenlCMTZaR1JMVUdCdE5kNGhUelNQRXJ4YUwxN0taeEh3bkc2YXF5ZlpQQnpfM2NJT2N3SEJVdm5GX0diNnplWkhIa253ZjAtaGNtS256aEEwR1djQQ?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 16:58:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tim Curry, actor famed for 'Rocky Horror Picture Show,' dead at 80 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlBmVWdKc2hDc3BGb2pDa0hCTjZPNll3LTh2Y1VIYXhLYTFKcTFDV2o3NUpPeXhjcm9LblY2SnVEckRteDluc0ZMNFBvRVdYcjBWY3RONkNkdHR1a2VuSG1jUl80bURxQldKUUdzaDBTb1g5UDFrY2wwRHRsZGkwdnVzR3BIT3lZYVNoTjgyRDdzRzRmVzFOd1dPcjBSWTJfb01V?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 16:56:48 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "What triggered the catastrophic flood on the Nepal-Tibet border? - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUJvclZMWDVlbjg5WkZ0S0VIamNQb3V2LWpOMlRlT2t5TlJmZEQxWERNd2hTMnpQbWZVWVNnZjdWQWgxUHhBcldObmJKanFTRmNFbHpzTE54NzVnRzM4ckdEMUw3ZGdqc0hRZzRBNDhKdkZLTFZEQUhHZVFoZUFmbGx2eVktODJiNkdBcld3V0VNWVc2YWNucXUzRHdVMzNyLTF6dWVwUTlwOTgxS1E?oc=5",
@@ -179,50 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Glacier collapse may have triggered deadly Nepal flash flood, experts say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVjRTWmx5dXpiRHlYazhDWjAtUFhuY0o4RUFXclFzYnRaNjZFck9vWHJSRkdJVWF6VzNfSjhDMFlGNVhISVVqOXRBU0lTd3NqZzdnTjNvMkxBNDdUb3puVnlzUU9vc0UxWW9DTmh4bUhqZUVSYnhBU05TeTM0bUd4b0VTZ0l3c2tlLVZlbmhOa1hwQ2RQMFlERVpWWVVmZ3AwS3dKcFhmdThnNzM5d0FVYWJvZldRSmlRVEw2M1hZbzN1R25FOWxmdg?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 16:25:33 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Wall St awaits Nvidia's AI verdict after hot inflation data - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
           "pubDate": "Wed, 26 Aug 2026 16:25:26 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump: 'Time to teach Canada you can't do this anymore' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb01ZMXBPNXRTVGlLcUFQbEZ2c2JXSHl6X21tTGpLbVZBcWFxSmplWkdFUW1XWENLVkFyNTBDVEJzR1lQd0RwUjVnTjhfZDZvN1JERUNXTEFtbG4wS0N0MTZCUHBCSVU1Qkd0TS1FeEJldkt5eFFialVxQy1sbHpfZm1BQmFwUjhEVld6TVBnYlNEam4zbGlPVA?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 16:23:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Tim Curry, actor famed for 'Rocky Horror Picture Show,' dead at 80 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlBmVWdKc2hDc3BGb2pDa0hCTjZPNll3LTh2Y1VIYXhLYTFKcTFDV2o3NUpPeXhjcm9LblY2SnVEckRteDluc0ZMNFBvRVdYcjBWY3RONkNkdHR1a2VuSG1jUl80bURxQldKUUdzaDBTb1g5UDFrY2wwRHRsZGkwdnVzR3BIT3lZYVNoTjgyRDdzRzRmVzFOd1dPcjBSWTJfb01V?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 16:10:48 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Vanguard strikes deal for fintech platform Altruist - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPajluQVZfeUtXUTBhQTZwYzE1bEhKQ0s1b1BnYWU4MGhtTjJKUjlUWFhKQnh2RDFRSzVfVURfMGtOUThFTVJPZmdUcUFNd005Mk1DZktpaDZMaEV3dm9SNHRHeDJWSHlTeDRUOUxCTV8xam9yZ1BLUm1tbUhFY1lDUUVTeTc5Um1jU01WMVk2U1VDbmpfQzczRjhsd25yendjaFpTN2JR?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 16:08:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Revolution Medicines gets FDA nod for targeted pancreatic cancer drug - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3k0a2JLVkpObG5KNmttUjlPSGo1MHhicUNjZkQyQk1MTzNjb0VZdFJWbFFsZ25wY1JDNUlSaWQ2RnFXeDZEUC04VW9kRXhzQi1GT084aS12N2tBT3YxZENpQ0NUUzlMMWZFMklqOTlGRjlkbjhYSkhqV0dhVzNyT19GUGJWdDIxQ3RqY0RpU2F3SHpPZHFSMHFWcmVGLTdIcDVaX3R0UDlDYVlHc2xkUnNLbHVqZFhZU3c?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 16:05:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Meta reaches $18 billion of settlements over children's social media addiction - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQklxUlA2VWk3Nml5YlJkaFU2djhKRHF4eVNuemxfWFFHc2dxbVVyTEhZeGxOS2tjYmRqbC05Tmc4RGhkcTltcDN1cnpHQWxGUjU3emREMkZuTDFuckRyNEJxbDNDT2pvOEtmNUhvd3o2TW00Z1R2bklRU015ZThnSW1LTkR5UU41R0tqRUlKb3ZSOHdWVVVad2lCZW1yZmN3TXhGLXFzaTU3cWt4WEdXZHprR0pFNHNWMkE?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 15:47:44 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T17:25:29.664Z"
+      "updatedAt": "2026-08-26T17:50:17.244Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T17:25:29.880Z"
+      "updatedAt": "2026-08-26T17:50:17.457Z"
     }
   ]
 }
