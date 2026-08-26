@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-26T15:00:27.348Z",
-  "lastChecked": "2026-08-26T15:00:27.348Z",
-  "lastUpdated": "2026-08-26T15:00:27.348Z",
-  "generatedAt": "2026-08-26T15:00:27.348Z",
+  "fetchedAt": "2026-08-26T15:50:51.203Z",
+  "lastChecked": "2026-08-26T15:50:51.203Z",
+  "lastUpdated": "2026-08-26T15:50:51.203Z",
+  "generatedAt": "2026-08-26T15:50:51.203Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T15:00:25.940Z"
+      "updatedAt": "2026-08-26T15:50:49.912Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Will Trump's latest beef plan make your hamburger cheaper? Not much, experts say",
+          "link": "https://www.npr.org/2026/08/26/nx-s1-5944265/ground-beef-trump-tariffs",
+          "pubDate": "Wed, 26 Aug 2026 10:58:58 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Dolly Parton didn't just write hits — she created an American songbook",
           "link": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
@@ -75,8 +81,8 @@
           "source": "NPR"
         },
         {
-          "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
-          "link": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods",
+          "title": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
+          "link": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
           "pubDate": "Wed, 26 Aug 2026 08:27:19 -0400",
           "source": "NPR"
         },
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
           "pubDate": "Wed, 26 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
-          "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
-          "pubDate": "Wed, 26 Aug 2026 03:34:59 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T15:00:26.120Z"
+      "updatedAt": "2026-08-26T15:50:50.127Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "A Wildberries depot in Russia is destroyed as Ukraine extends its drone campaign - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMERhSGlDcW8zdklsTG93eGVuODE5N0JrYllVTWFWaWlaaVI2Z3YwUE12RjNnYXFhbEF2Vk9zLVZUcUViQUEydUhkSllobXg1eExZMDdCY3hTQXhKUzNGNlI5dXU0eXVraDNQRENYbFFld1lkNER6cGp2UE9ONFRoZmZKWnQ3Q3NaY0kwaUdHZ0ZSUm5oaGdxQ0QwTG9GTzNIX3ducGRB?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 15:23:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUxNU1FHTmNSNmlkQ3pyV05DRnlpWGl0U2I2Nm10Z3BkWTNEWVh4LTZsamNUWHBvOThOa1h6ZkZxSEdyTy1jclJMQUE0RHVuZUU2ZWZWUmQ2TnRlQ0t2VmduUlNsemdVNHFVd1g0Zl90SHhiYzdaeFVBT18yZFJ0eF9MMXRjcWFVWXVINXhhOFI1c19LdExYSFpiLVg0bW9qUl9XZHEwQmRNaHRq?oc=5",
@@ -158,24 +164,48 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnlGNlNob0dBenVEaDd5Y2s4QmdjalN3QVNyMW9lLUg0ZnV3eEpva0VQc3g2MGd6cUVVT0dpR0hSTThYSVRHV2daNlUxbEowR0RkSXZuS0RBajQtNmY5RkxQbkhCYWJXY19qWnJidHR1UlNFQ1c5elNpcHJrZ09KWkJDZUl4NWJWRGoyeVYyM3NQQXFVYUE?oc=5",
           "pubDate": "Wed, 26 Aug 2026 12:50:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "The Dolly Parton you may not know, in her own words - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjNtYThzMkZWXzdLSHJ2bEgtWGZXN1l4UEhyVXo5d1pnb1lMODByWUhFNklzYU5lQmdyb25WelNzS3dqMHBtZmJSSU4zMVdPZVZlMWltaWNneE83cVMtbC1raW56ek1oVDhiMmNqMVFsZkdpeVFGQ3dpTlNndi1VNEg5T0EyUHI2azJfWVZQZEQxcDJIYXNNdkppM1RreVdCS2p5TzRmMA?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 12:46:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T15:00:26.669Z"
+      "updatedAt": "2026-08-26T15:50:50.599Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Hundreds missing after devastating flood hits Nepal-Tibet border, 95 bodies recovered - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTR0bUtpUHhsbWhHTTdiWFRWbnZFQk5GcEdFUXhVNWliYUVHOFdpNzdRaEN4ZmMxVE5UdGtDZnViV0dtOEJydjNROC14UE5KT09pVTg1QjdaajlvZzVsMGFiNk5HT2NodkpONnVYMThRNG1La0dBaW4zbnZFVzJUdVZoWXl5My1HSHh3UG1fWmtISDRBbDdVNkdwVk5DWmJOQUVzZ2JkYXlVbzV3M011RFlReWI5bFRlS2pzZ0h2RWszMXhka3c?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 15:16:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate and more - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWZiUFZqM2pSUlNEQmtJVEllRGF1a04tVG43Q0s2ZDYzME5GRlNsVEdaaW9ScDFDZFhyWElFbEVtQ1JGamZsMDRoaDhtRTJaQUNKaVh0VlpLYTBCVVRHUGtiWEZMdFBTTzBMdU5lV2tVUU11SUxubVVPcTNZVzRDM0Z4TGdDVVp4M085bXdmT1ZiV0Jvcjg3OC1QY0tYT1MtT0pxX3hIa0RZMFRLTTVuMElMY1I0VmFSY2c?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 15:13:23 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Boston Scientific hit by cyberattack, global operations affected - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTFFMWThLS3BjbEN0SkJwaVNoRjBDS2VwSFJrRFpGNmZLV0U3Zm5tV2NWbXpaZkRGMURZbUpHbVdRYnNvU3lMMmUtLTFoRE84QWJZYUROWVYyOWtITlFEdVRFLXJTVHlRS3RXNVlYWmlWSF82T0JQZGhLOExkNXMzTmM0Zlh4QzNXSlFZb3VvLWxsb3hfbFFicElYTWdMVXI0QlNOTmpBUFNxREhBZk5faGY1aVh0M0k?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 15:00:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Abercrombie raises full-year forecasts on robust apparel demand, shares jump - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSHA5TExVMHU5ZV8zb19IM2R2bHdrejhjdVZSenZOX0k2Rjg2WjNBOXE2OVBBZTFUM1VDUHliTXRxTmZ1dUZ0R0JlVHgwZHFzdTBDNGY4U05sa3FpaWJJS2ptZ25kUzY4SjNmMk92YnV0enhKUm5uOTZjQUdnYXJVTTF2d2VqUUxmT2czNkJ6anJSd2ZDVi1WMTdNM05reVBULUQ5anVsTV9OSXd2eEhLN0VTVk51YzRJVDc4TndPdjlneW4tTDBtTQ?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 14:54:40 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Kremlin says US spy chief met with Russian counterparts during Moscow visit - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmlRUk55MzlrOEpyYWZiR1VqYmh2UXhibi13SVRoS0dBWjBKbTk2eTBmeWtRd1R5R1owRXFZN1VLc1RpQk9KSDR4TjVqbWhQUmRKMGJNeFpMVFhmU3BXV3gtblc5US10ai01cEhKZUlhLVZ1cVJoSFMtTjF2TnRDUjd5eHZNN3JNRzNwRk02V3gtUTB3ZUo2UkZqbG05aC1wY3FnRlVMbHBweENaZ01UX2lsY3hOZ1dEaEE?oc=5",
           "pubDate": "Wed, 26 Aug 2026 14:44:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: China's Moonshot in talks with Microsoft, Amazon, Google over K3 revenue sharing, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWlQbDBkTjZOWlNxMFJUeDkxc0taQllySUkzRzJ4aHJrSzlVQTY5LVhqU2dfd2lUSGZSVjI2dVFPQnZ5X0FuRThHT0JDRkxJTTlLUVFETjM5Y0lGbzFwUkhGWFNVOUJQX1NWZ09SZDViVWNZTmI1TFY4ODUwZXl2UGh5VnRETVhhbDQ4NHh5bmU2YXZXdGZEbnlSUmVZVEZ2dUd3ampaeW94bkhBaEhhRkNKQ1E1QlJSZUFDUTZ5eGFERHlPZHo3TnFaQTJZVUdt?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 14:44:05 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Meta reaches $16.68 billion settlement over social media harms to children - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQekpOenlkSUV1WU4wR2NrcHBmeWhwUkFkMmx2SHZ4MG5yQlVndFVKYmx3MTBMWk56SjlBU2w4ZzM1NVFLXzNPcFBQUXpUVnlILW9kS2k4eHdzdDZLSWlVRE1uZGtxS1FKQlE0bjBnbktGTEdHTy01S1UyNXFiWEZsQXpfM1NJa1d1SFZjeExaZjdVRVY0WXdISk9aN1U?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 14:05:15 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Abercrombie raises full-year sales forecast on robust apparel demand; shares surge - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSHA5TExVMHU5ZV8zb19IM2R2bHdrejhjdVZSenZOX0k2Rjg2WjNBOXE2OVBBZTFUM1VDUHliTXRxTmZ1dUZ0R0JlVHgwZHFzdTBDNGY4U05sa3FpaWJJS2ptZ25kUzY4SjNmMk92YnV0enhKUm5uOTZjQUdnYXJVTTF2d2VqUUxmT2czNkJ6anJSd2ZDVi1WMTdNM05reVBULUQ5anVsTV9OSXd2eEhLN0VTVk51YzRJVDc4TndPdjlneW4tTDBtTQ?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 13:42:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Boston Scientific hit by cyberattack, global operations affected - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTFFMWThLS3BjbEN0SkJwaVNoRjBDS2VwSFJrRFpGNmZLV0U3Zm5tV2NWbXpaZkRGMURZbUpHbVdRYnNvU3lMMmUtLTFoRE84QWJZYUROWVYyOWtITlFEdVRFLXJTVHlRS3RXNVlYWmlWSF82T0JQZGhLOExkNXMzTmM0Zlh4QzNXSlFZb3VvLWxsb3hfbFFicElYTWdMVXI0QlNOTmpBUFNxREhBZk5faGY1aVh0M0k?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 13:39:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "What triggered the catastrophic flood on the Nepal-Tibet border? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUJvclZMWDVlbjg5WkZ0S0VIamNQb3V2LWpOMlRlT2t5TlJmZEQxWERNd2hTMnpQbWZVWVNnZjdWQWgxUHhBcldObmJKanFTRmNFbHpzTE54NzVnRzM4ckdEMUw3ZGdqc0hRZzRBNDhKdkZLTFZEQUhHZVFoZUFmbGx2eVktODJiNkdBcld3V0VNWVc2YWNucXUzRHdVMzNyLTF6dWVwUTlwOTgxS1E?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 13:28:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Volkswagen CEO tells factory staff cost-cutting journey 'is not over' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZk05MG9VcUxLeUdXaV93YTUzTjUtM01YRF9QZloySWtDV3BqZkI5blNGaXdQOWNIMkhFcmZCOE9nemozbzUzbV82c2RiTUhMMmVXcWU3T3E1UDBQVU11by1kWFhVVUs1TlIydjdCTGFFa1Q1b053aVFWUHBqcmpuSkJHdGdOT3hmMXJmQUpid3pjeHZHX0xjN3gwX1YweTJIemlNbm1jUUEwMmdxaVdsQjlsRmFPZTc4U3c?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 13:23:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Vanguard strikes deal for fintech platform Altruist - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPajluQVZfeUtXUTBhQTZwYzE1bEhKQ0s1b1BnYWU4MGhtTjJKUjlUWFhKQnh2RDFRSzVfVURfMGtOUThFTVJPZmdUcUFNd005Mk1DZktpaDZMaEV3dm9SNHRHeDJWSHlTeDRUOUxCTV8xam9yZ1BLUm1tbUhFY1lDUUVTeTc5Um1jU01WMVk2U1VDbmpfQzczRjhsd25yendjaFpTN2JR?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 13:03:07 GMT",
+          "title": "VIEW Meta reaches settlement over social media case - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLUVHN3NlNkJDV0JzQzB2VHNmU1FWUW9pMno1OWVhVWV0NDZRVVVEV3M2a2xFV2RJdGVORGd4ZmxBSi1DVkNWTnZOMGV6aFRnTmJBS0t4YkJkd1FjU3RpNTlvTXRBYm1STzFLSFh1TW9iUmVaZ0pUWVRqRnFWb0NZV2xzeV9aRk9udWhnczhic1p0Qm94SXp5Ukt6SVdWQnM0QmszRTJ6TnBGU0stbmVmdl85MFkxUXZ5?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 14:23:22 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T15:00:27.146Z"
+      "updatedAt": "2026-08-26T15:50:51.087Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T15:00:27.348Z"
+      "updatedAt": "2026-08-26T15:50:51.203Z"
     }
   ]
 }
