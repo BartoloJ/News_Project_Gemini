@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-26T07:30:51.050Z",
-  "lastChecked": "2026-08-26T07:30:51.050Z",
-  "lastUpdated": "2026-08-26T07:30:51.050Z",
-  "generatedAt": "2026-08-26T07:30:51.050Z",
+  "fetchedAt": "2026-08-26T07:50:21.081Z",
+  "lastChecked": "2026-08-26T07:50:21.081Z",
+  "lastUpdated": "2026-08-26T07:50:21.081Z",
+  "generatedAt": "2026-08-26T07:50:21.081Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T07:30:49.977Z"
+      "updatedAt": "2026-08-26T07:50:19.546Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
+          "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
+          "pubDate": "Wed, 26 Aug 2026 03:34:59 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Test your global economic knowledge with this quick Planet Money quiz!",
+          "link": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
+          "pubDate": "Wed, 26 Aug 2026 03:30:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
           "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
@@ -97,26 +109,20 @@
           "link": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call",
           "pubDate": "Tue, 25 Aug 2026 14:15:23 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
-          "link": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
-          "pubDate": "Tue, 25 Aug 2026 11:20:18 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "'Forget about going back': 9 years on, Rohingya crisis enters dangerous phase",
-          "link": "https://www.npr.org/2026/08/25/g-s1-140007/forget-about-going-back-9-years-on-rohingya-crisis-enters-dangerous-phase",
-          "pubDate": "Tue, 25 Aug 2026 10:59:12 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T07:30:50.170Z"
+      "updatedAt": "2026-08-26T07:50:19.928Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "An AP reporter spends the night locked inside Jerusalem's holiest church with clergy and pilgrims - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1FVZGxTaHFmZWUzWEJJOFA1YlZyVy1tWjRIbGtocTFZcFNfZTNMeERySV9FM3BnNGxTVFFqNVhJQWV5d1E3UUpOU05yZ0JrNHlldWpId1pzcHhvN21KNTNyVk5RRGdqdTNTcjVqMlJmZzZ4eV84a2NoQUMzazlYVnAxRnBZN21FX2hoRm55UkxrR2hVc05JUHh5dVFLSWpCM2E0bGwzQQ?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 05:47:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Former detective says Tupac murder suspect was gang 'shot caller' who had final say in shooting - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWRMSWh0REJnZ1Uxc2RfVVdvcFpNUk1SWV8tWlJOQk10ZXRwNFRQX0pYR29qSHF1Z1liRHN3WFVMRWJEdTM2ak9rMFZpMWV3T1d3ZEJQaVV6UUtjTDFsTFRzWnRQVzloQVdkaWxQNWRqSXlmQ3dPLVFqaG5oWUNkN2hLZU5vZk5lNC0yRF9adzQyR19mdmlPMkd3?oc=5",
@@ -127,6 +133,12 @@
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
           "pubDate": "Wed, 26 Aug 2026 03:59:37 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "The Dolly Parton you may not know, in her own words - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjNtYThzMkZWXzdLSHJ2bEgtWGZXN1l4UEhyVXo5d1pnb1lMODByWUhFNklzYU5lQmdyb25WelNzS3dqMHBtZmJSSU4zMVdPZVZlMWltaWNneE83cVMtbC1raW56ek1oVDhiMmNqMVFsZkdpeVFGQ3dpTlNndi1VNEg5T0EyUHI2azJfWVZQZEQxcDJIYXNNdkppM1RreVdCS2p5TzRmMA?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 03:54:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3JfY3FOQ2VaYVhZd2JnaFdSZDAwNzhfc3hxbm5ibDR5dzRMcGwtNnZTX0tLY2R1U3RfNnRqd0V6eHVGX0hHNzVGdWJ4allUbzhnaU5sd3hHZzctZkwxS1dhS2N6QVFfcUtyRkd4WXdSYTdkWEVicWJObFMza2R5NEFaRWo4YnRWZURDbWZaa19VMGJRWEFualEyemFleVk?oc=5",
           "pubDate": "Wed, 26 Aug 2026 03:00:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Prominent Sikh separatist says FBI has warned him of new threat on his life - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGJrYTdlTVdZTkUyeTFzNGZ3UTR2TUhBQzc3OUlCXzV4Xzg1OXpvYW8yRFFjaFlzbDBxb01NSWJoV042OFNrTDd3bHBKSGJsMnZ4eVBVeGxzVmR4UUd1V29BTXE1UV84SGgtZWJVRURUeGcxTnlxLW05Z1FtbVE1c0tZb3l4ZlVtZ2c0ZXZzUDA4dUxsbXc5bEZqYWxpZw?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 02:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran and Oman hold talks on managing the Strait of Hormuz and other news from around the Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2ZVY3Y2dXJDajgxb0R0RDNXVTQwWXFQLTltbDJVWUpaanVwZ0lHSzRzQ0VIekg0NkFNZG5UVHVCX0ZOWV9lWThtbnhyV3pSWUxmeEZqR1BTU1YtR2paS0hhajBWQ0tVdHU5Njg5aklzUG1xNDNsaU5VYkJNZlZIbzVXVmZyMmkyYVRBclRKZ1k0dnFrSXJMNzJfVkpfOWhTRTZIOTgwWDRPalBlM1R4LXZFWlU?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 02:35:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T07:30:50.616Z"
+      "updatedAt": "2026-08-26T07:50:20.435Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Nepal flash flood washes away villages, damages roads, power projects - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTR0bUtpUHhsbWhHTTdiWFRWbnZFQk5GcEdFUXhVNWliYUVHOFdpNzdRaEN4ZmMxVE5UdGtDZnViV0dtOEJydjNROC14UE5KT09pVTg1QjdaajlvZzVsMGFiNk5HT2NodkpONnVYMThRNG1La0dBaW4zbnZFVzJUdVZoWXl5My1HSHh3UG1fWmtISDRBbDdVNkdwVk5DWmJOQUVzZ2JkYXlVbzV3M011RFlReWI5bFRlS2pzZ0h2RWszMXhka3c?oc=5",
           "pubDate": "Wed, 26 Aug 2026 06:12:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Interest rates must rise further on inflation risks, ECB's Schnabel tells Bloomberg - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQi02STdIUDVtTjdzeFJKc3hzNU9Fd0VtZmpWcGFoMngwMmR4VWVTSFc1U0ZwUGxQWUFpcDdQWV9HVlJEakd1cU14a1hpVHRPN25ocEtYb29wN0pmVDRKcFhXbTF3dEJ3U0hWVGpUTE5oV3BFeWF6Y3BpSmxHWXRKV2g1WnhRdEhETG5nOUZfUjViaEFJLVdIbF85Q2ptbTVyWmg5b0NFRnk3WEFhYVV3ejZJS29OZw?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 05:44:00 GMT",
           "source": "Reuters"
         },
         {
@@ -197,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "German bank's brothel loan under scrutiny by regulators - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemljZFU3cGNjZXpRbUVDaUE2cXdTYjZDWFBabnZBTm03VjIxN0NmV2oyT0pNV3RrTDVONXhfQWJVZzYxNzJmUUJYNjRqZ0lZUWNuUGxyemdod09OdGpvWWtOM3hhUWRtYWZna0ktV3V5VjVYek9nVWREM0o3QkNRVGY3UkZCcERlSnpMSWxlS2thSFFlcU95Zl9iVHBQX1BBUVhHbTVWby1vVUk?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 05:02:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Morning Bid: Markets are waiting '9 to 5' - Reuters",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11VlJWcU5TMUNaTHZTZEtqT1JBeDBweHVkQUFiY3ZWRVVzVTJ4UGlubzdQVjBMSXhjczRzTURFOUdmZ3FscHVkRl9fOVRnaTBhTVZ2VTkzSGdDalJTaU5JMGVZdmRnTldxLW9uc1FBc1ZFOU9ES28xa1JIQUlXdUE?oc=5",
           "pubDate": "Wed, 26 Aug 2026 04:53:00 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNzU0Q1htdDM2bF9VQnJEYkxpY0U1Qko2WDRqR1kzY0RJTDd5MEtEbU43ZEpOdjBOcGJYR3d6OF9XQ1dCRWR3RnZrS3RZOVg2eDlvZE96TDMwR3ZiaG15elYwZnQySm1IY2JaMGdmbUNmMmdqTVBGZlNmZFZyMU5Ud1VJNTdyTnNHUmg0NnhuakhOSThwSVNpcVdVczF3dS11VUZOem41enZvUTBaeVE?oc=5",
           "pubDate": "Wed, 26 Aug 2026 04:49:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "China examines new legal tool to pursue graft suspects, assets abroad - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdUxNdmVQTGJXb1RtNzlEcmh1MmcwWXFqd3FNUkhMRktueUtJWmpYU21VSTZCcGhJUFRMSTM4RnFwNjN2Q0M1NktRbnJLSkxkdkQwbnhKN3lYUmNQNDJidlB3MEJLNjVpb2ZTdHg2YW9RMDY0NzhfTDBHU0dMMUo1YkRONDBwWkdjVFNoRGRkVFR5UERwdGIwbVpwX1FWVXhpejFZZEZCZDJSVjJaNjlzUHJKTQ?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 04:08:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "At least 14 infants killed in Islamabad hospital fire - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRHbkV2OTZHSElFUUE3bmgtdGUwOGo0NUpaRk9RWURTaXFhcDlua0ItVEhrZFY0aWFNRS1ZTkx2SEt5WGh3TzNtZmpHYVNMRk9TZWg2MFBfY0N3M2F3YmM4TFg2TEZuaE9fUTRCSktOWVdBUjZEalpvbExrVDd3RXF5SVNyT2l5a2xueU1EUE1kbkg2RE1pdnJ0MGJtclNkbHVsT0cydy1lb1VMMkhoNUtNbzFYR3k4YnAw?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 03:43:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T07:30:51.002Z"
+      "updatedAt": "2026-08-26T07:50:20.823Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T07:30:51.050Z"
+      "updatedAt": "2026-08-26T07:50:21.081Z"
     }
   ]
 }
