@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-26T12:03:45.480Z",
-  "lastChecked": "2026-08-26T12:03:45.480Z",
-  "lastUpdated": "2026-08-26T12:03:45.480Z",
-  "generatedAt": "2026-08-26T12:03:45.480Z",
+  "fetchedAt": "2026-08-26T12:25:15.505Z",
+  "lastChecked": "2026-08-26T12:25:15.505Z",
+  "lastUpdated": "2026-08-26T12:25:15.505Z",
+  "generatedAt": "2026-08-26T12:25:15.505Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+          "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 26 Aug 2026 11:55:05 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "The heart, hope and steely determination behind a musical legacy",
           "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
           "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 26 Aug 2026 11:02:22 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "At least 14 babies die in Pakistan hospital fire",
-          "link": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 26 Aug 2026 10:42:00 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T12:03:43.794Z"
+      "updatedAt": "2026-08-26T12:25:14.445Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T12:03:44.234Z"
+      "updatedAt": "2026-08-26T12:25:14.475Z"
     },
     {
       "name": "AP News",
@@ -142,6 +142,12 @@
           "source": "AP News"
         },
         {
+          "title": "Global shares mostly rise as oil prices fall and hope grows for AI - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWdQR1Nqb3FRVG95ZjdkaHVNek03MDg5QnRkWjhkdXBOOTNDdWhWRGV3Ti1xU2QzY1F6eU15Y3ZVVl9kUVgtLVVuSFFoOWpKXzMtMk5pc0pxUDlReHZlSnU1eGM5SE5YRnhONjAyTU1xUDZKWk9pbkl2MmstVWNsZW4xaVpubzlTQ2xNS2xiVHpQUQ?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 09:19:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
           "pubDate": "Wed, 26 Aug 2026 09:01:06 GMT",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkU1bDNEWV9ubVBKbUdqeWRLVkZhX3NRYk1LcEEzVlJDZVdXRVNoa1dWa0JVV1VKMy1Sd2FUSVBHYmZGOGRfdzRocC1HUnZFWldHcG5zaFNYbloyeEpqWElKX3lWSmkwRUlGMGtkdmlDdFJJZGl3cUF6YVB0SmFqN2twbjUtQkhvWGluX1gzWVVHeFpDWDdOMUtsN0E?oc=5",
           "pubDate": "Wed, 26 Aug 2026 04:03:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOHh2dmcyaWU3UlA2RXhCUnJKNTFucVk5Q0ZsQXMyMWowekZxbC1YOVViTk1uWnJKbXE1VHZ0UHk1c2JHMzNIRThYdU1fNzVOMEotcUZBRThDQ3NvNTRWTmRIQm9uZDJMbllocDBlOENVcjgwYjBCZDBzUkp1S0J5NThTT0RVR05jRnZWaDRNOG5jaHo1b21Gd3JGMVVCQ3dYWElpRFcwYw?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 03:48:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T12:03:44.758Z"
+      "updatedAt": "2026-08-26T12:25:14.980Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Wall St futures subdued as Nvidia results, inflation take center stage - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
           "pubDate": "Wed, 26 Aug 2026 11:33:17 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Eight South Koreans missing in Nepal flood, Yonhap News reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc2pwNEpocUczbVJ2V3lnc0hSaWY4aVZfd19OQUU3UXF2WVVfQjkxeDVmMlA2a3czSWRoTUtwT1A5ZFZ6eC1YMWxaMmtickV4c0tDNElOY05zaFpiM1RiSzJVODFsaXBnVzAyQWNVZnZ2U3MtQ2dqMEg4QkhzR0dMZE9qX3htcHg5aWFnZTUycWM1b1A5RF9OVXVuM0pUVFdvWVJIODVfV3A4SDlXTTdPN0hfY0dlT2c?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 10:51:29 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVhpalVEX2c1eUE5LVNJX0QyX0oyRmlxOThJTm9TZXpKbnpUbWU1Z1ZuQjlvVWpMQzBaamtsZlRpS2daendQY1pDQ2ZRWG45VlJ0eVlXNFVzUC1DcUQ0eTlMZEhRUnBjSmo3MHB6X1JCT2RZY0YyOGFPdjF2c216MnBZR3RSaFplYTg0bmVuNk42amZERzB3NGM1NGJaMUQtSjZXdlJtZmlUTktDcVBKaXVWekdtOGdoRlQ2d09CRFM1LVN1MktkTg?oc=5",
           "pubDate": "Wed, 26 Aug 2026 10:07:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "PODCAST: Betting on Nvidia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY0k3VlNQSTBXNVRkSnFqT0JrRjROWm5Daks3MkZ1RHFxdEl0LWtQTGRTS2hveFB2VUVBODZyWkNkRmhuYy1MOUJZbGU1LUxkSTVma1ZYcnlJbURfanNGTEstSXEyTkJncC1nMndRaVNfcFFGV1BSMzUwU2pIVUVZclJmTVpIUQ?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 09:19:13 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T12:03:45.217Z"
+      "updatedAt": "2026-08-26T12:25:15.435Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-26T12:03:45.480Z"
+      "updatedAt": "2026-08-26T12:25:15.505Z"
     }
   ]
 }
