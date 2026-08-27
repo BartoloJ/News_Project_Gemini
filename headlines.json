@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-27T16:50:15.852Z",
-  "lastChecked": "2026-08-27T16:50:15.852Z",
-  "lastUpdated": "2026-08-27T16:50:15.852Z",
-  "generatedAt": "2026-08-27T16:50:15.852Z",
+  "fetchedAt": "2026-08-27T17:00:25.401Z",
+  "lastChecked": "2026-08-27T17:00:25.401Z",
+  "lastUpdated": "2026-08-27T17:00:25.401Z",
+  "generatedAt": "2026-08-27T17:00:25.401Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T16:50:14.363Z"
+      "updatedAt": "2026-08-27T17:00:23.837Z"
     },
     {
       "name": "NPR",
@@ -93,12 +93,6 @@
           "source": "NPR"
         },
         {
-          "title": "Andrew Tate is seeking bail in his extradition fight. Here's why that's unlikely",
-          "link": "https://www.npr.org/2026/08/27/nx-s1-5918058/andrew-tate-extradition",
-          "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "NDAs are hiding data center deals, drawing ire from locals — and attention from lawmakers",
           "link": "https://www.npr.org/2026/08/27/nx-s1-5879528/data-center-nda-disclosure-louisiana",
           "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
@@ -109,10 +103,16 @@
           "link": "https://www.npr.org/2026/08/27/nx-s1-5920368/nrc-nuclear-radiation-safety-rules-alara-update",
           "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
           "source": "NPR"
+        },
+        {
+          "title": "Jon Ossoff, usually a head down senator, has found a formula to excite Democrats",
+          "link": "https://www.npr.org/2026/08/27/nx-s1-5935282/jon-ossoff-georgia-senate-race",
+          "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T16:50:14.582Z"
+      "updatedAt": "2026-08-27T17:00:24.033Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,7 @@
         {
           "title": "Jury begins deliberating whether Lindsay Clancy is criminally responsible for killing her children - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFlMS2VRRHN3dER2RmNxUHF0UzhnWnZ2a1JPRmgwQm5HNVRyaGdkY1ROLVl2MDBvVnpyTjJobFVWRHlzZXhwYzRXczU3YTBfLW5ILXFFVzhpNFRDUXFVMnp3ajZxUUJpbXY2ZjZqZ21zbk9Tbk8xeHFNVmZ4LWppekc2UFBRbUdLT2xELU5wR3JNOEF6VURENHpVbkQwRHc?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 16:36:00 GMT",
+          "pubDate": "Thu, 27 Aug 2026 16:43:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T16:50:15.328Z"
+      "updatedAt": "2026-08-27T17:00:24.748Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Russia says it could strike UK military targets in response to Kyiv's use of British missiles - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQVB4M2NDa28tblBTTVZjdGtZb3d5MGtYMURzeDBCYmVqYjRxbzEzOHh3aFpRRUpIdDl2RW5scE5USEIwOWQ4eXZYWmV6dEN2aG9Uc2VfY0dkRTBxb28yYXFqYkhJeFU2aGJxaTdWR1gwVXZNejdXaXZScjdPTlk5NDFFWXlBNW1NQUR4M2pqQVNkNzFXZWxOOVFsQUVLT0EyeHFjNF84Z3lGQzN1X1dNTGtwc3luOThCLUV4eDR5alBwT2F5VmhLeA?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 16:20:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Meta settlement opens new front in global fight over social media harm - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVjVfZFlla20taFJNMHJacldOVjlwVFk4dTQzTkRsVWUyZ2E2bFpnaXkwM0hRMlNzN25hcVZIZmtXU1hnank5NVdodXRBeWR6c3ZxTDZ3NmoyNkFmYm45TnB4NkhHOFFFOHVYNkJrZktsLTAybk9sQ1J4UVpjbWRycXp5dnoybFpyY0FMTEFRa1l0RjB5eTRjVExkVDJKYzR3OEIyT25TZ2dXQzY2LUJiSHlJd3dtZw?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 16:16:48 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Tech stocks bolster Wall Street as Nvidia quells AI growth concerns - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjFsZE5oMDdHNmpjOTd5V0dmUHItLXFIbzQyblhZQ3Bfa0tGcmFDM3ZHS2ZJRlJEZzhDMXk2b2syeVRZNndVNzZvSnNVSnRFalZXUXJhUm5aZGVUVHVSZVQ0VzllN09IcWtOZENfRmV5eW9fOGU3Mi1JN1VNWGJ4RE1aY0gycWJfRjRrLXpzTmdoSXlSMW9vVHVtdTNJVmdhS0tXT2FwS2dGbGM2?oc=5",
@@ -185,9 +197,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Meta settlement opens new front in global fight over social media harm - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVjVfZFlla20taFJNMHJacldOVjlwVFk4dTQzTkRsVWUyZ2E2bFpnaXkwM0hRMlNzN25hcVZIZmtXU1hnank5NVdodXRBeWR6c3ZxTDZ3NmoyNkFmYm45TnB4NkhHOFFFOHVYNkJrZktsLTAybk9sQ1J4UVpjbWRycXp5dnoybFpyY0FMTEFRa1l0RjB5eTRjVExkVDJKYzR3OEIyT25TZ2dXQzY2LUJiSHlJd3dtZw?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 15:39:12 GMT",
+          "title": "Nepal, China warn of fresh flood risks with lakes threatening to burst - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSHFFMmE2MDBjZUxUUXdRbWV3bmU1MVk3Mndta3B4WjNnMnJmZk1tRlhuSUNYUHNhQ3dXVlU2YVpnNGNTMHFxZWh3SWRjSWN1bVFudVpBSjE1d0ViNWlmWnF6MExkWW5KTUhWMTFoVkkxTHNESGJLZWdvdFlaNzZkeUFjM2pmSnFENEN1SFZJVHRMbUJZdlVEaFdUYkw2QlhGSVZHT1ZZbTdPOHJYdWxrQmtCUXN5a1h4NndMSQ?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 15:42:12 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2lybm5sQ0tLOHRrVGk4T29aQVNHWUVCS2o4Y0NGazRhWkFEQndRZFhDZGpqVC1vYVRGdHpFODR5SlRtXzQ1ZjgxY2hMVXJxaGtMaE1FV3BlU3REaTBPb2FDQ2lrWUZpOXkwbms4UmxhdHQzY1ZodnFPeWV3TW9IM1lmUnV5UnltUmpFV0dNWDRmd28xZjRWRjk1dzVVN2xMM3NpNnVNY2dLVzdqY1dRZ2dvNDJxUHEyeEtWanNiYk5ueXc?oc=5",
           "pubDate": "Thu, 27 Aug 2026 15:19:45 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Argentina, Chile revive cross-border mining framework for investment - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFhZUTQ4OFUxdjl0MlRRUTR3ZmdHVjJGdHRhRDNRaE5XeVU5STNUcU9QZWZsUGJZSHRsd3dYSElHRnZUR3NYMXpCWGxYNlRaY2oxeUhYYzBnMk5EM1ZXcjRuaHBvUFNlUE1EMHZUN1RfMXZaM24zRGJVaFlaVWM5bnVURXRxQXZRbDB5aHRjSy10MjFoX2NXOUIyNFBSbm0wSi1ZMmktaWE4QndSeEVKQ1phbmM?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 15:16:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Fed's Warsh faces challenge whether inflation is a problem or not - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1ZsanZDSzJVV2VrSjFWbXF5ekhONEFsQkg1ZjJERUVsQTJUV3NtUHU5MUVVNjNfRG14WEtFM25TMUxOX2EyRW5MRzRweUFORWJuY201MWZmVG10amNxOFQ4b0FiT0lnejV6Q3UxNGJ5RXZTQnhSWVpwd1A3bHV3QnM0U1NSWEpWSGN0RUFLd3JFTjdFR1VtTEZTNU5PMHRDMHlqaVllREMxRDg?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 15:14:10 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T16:50:15.797Z"
+      "updatedAt": "2026-08-27T17:00:25.211Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T16:50:15.852Z"
+      "updatedAt": "2026-08-27T17:00:25.401Z"
     }
   ]
 }
