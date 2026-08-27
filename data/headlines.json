@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-27T10:00:21.127Z",
-  "lastChecked": "2026-08-27T10:00:21.127Z",
-  "lastUpdated": "2026-08-27T10:00:21.127Z",
-  "generatedAt": "2026-08-27T10:00:21.127Z",
+  "fetchedAt": "2026-08-27T10:25:14.437Z",
+  "lastChecked": "2026-08-27T10:25:14.437Z",
+  "lastUpdated": "2026-08-27T10:25:14.437Z",
+  "generatedAt": "2026-08-27T10:25:14.437Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+          "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 27 Aug 2026 10:20:17 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
           "link": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
           "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 27 Aug 2026 09:50:10 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
-          "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 27 Aug 2026 08:59:53 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T10:00:19.516Z"
+      "updatedAt": "2026-08-27T10:25:13.288Z"
     },
     {
       "name": "NPR",
@@ -69,20 +69,8 @@
           "source": "NPR"
         },
         {
-          "title": "Andrew Tate is seeking bail in his extradition fight. Here's why that's unlikely",
-          "link": "https://www.npr.org/2026/08/27/nx-s1-5918058/andrew-tate-extradition",
-          "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Before an emergency hearing, the Kennedy Center's board threatens to demolish it",
           "link": "https://www.npr.org/2026/08/27/nx-s1-5945238/emergency-hearing-kennedy-center-demolish-threat",
-          "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Nuclear regulator prepares to abandon decades-old radiation safety rule",
-          "link": "https://www.npr.org/2026/08/27/nx-s1-5920368/nrc-nuclear-radiation-safety-rules-alara-update",
           "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -95,6 +83,18 @@
         {
           "title": "Tech companies and local officials are covering data center talks in NDAs",
           "link": "https://www.npr.org/2026/08/27/nx-s1-5879528/data-center-nda-disclosure-louisiana",
+          "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Andrew Tate is seeking bail in his extradition fight. Here's why that's unlikely",
+          "link": "https://www.npr.org/2026/08/27/nx-s1-5918058/andrew-tate-extradition",
+          "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Nuclear regulator prepares to abandon decades-old radiation safety rule",
+          "link": "https://www.npr.org/2026/08/27/nx-s1-5920368/nrc-nuclear-radiation-safety-rules-alara-update",
           "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T10:00:19.819Z"
+      "updatedAt": "2026-08-27T10:25:13.383Z"
     },
     {
       "name": "AP News",
@@ -142,15 +142,21 @@
           "source": "AP News"
         },
         {
-          "title": "Floods caused by a glacial collapse kill at least 160 people on Nepal-China border, hundreds missing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWZwTFhBM1dBcUQ2WFBWazRIOXpBMHI5R3p1blpsYTdIV2tHQ25mOHo0RGNZNFJOM2hNTEFhbEdaSlNhX1FMRHk2V3lkQkdESmtkTXd0RDR3UUlVaWo5YmoydndfWkVmLW5uZW1ubm02MzZaVHpUTG1ocVF4cmxJZ2ZwUThuVHp5T1ZmTXY4eno0Y0xXbnlHTw?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 02:19:00 GMT",
+          "title": "Tate brothers’ extradition fight back in Miami court as brothers seek release on bond - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzlFLW9welZHOE5lTDFRRk8waW5YU1dPVXdsU2ZzSVd6MzdpbENKbTZHenpWbEg4NldyaVhiYlpzeFNoMHZScm4wNElGVHkwN1h4NGpqWUdSOTlLdTlqN242TFVtUU0wQWVDbUpDWHZnZDU2TV9YS2Z0SVZtdkJXelRBWUtJdkQwOUxrZVlrSklndjhucW5rZQ?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 04:02:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "QB Tommy Castellanos commits to No. 12 Texas Tech with court-granted 5th season before Big 12 ruling - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc0ZFZUY5LVdnR1RWU0ZpM2U4bWJURm90ck43NVdDQmh2bzZXQlBEZGpGc3ZBUUxpUWlMVzFuN295dU1CdkJCQ2hVNUZxb3BaeEV4VGVQNlRZTDRReFoyWHo1UWl2d1hhak1aQkxuUGdBaXI3cy1Uc0F4akxWeURsTFJLSDRHMzMwTGc?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 01:27:00 GMT",
+          "title": "Closing arguments are set to begin in Lindsay Clancy’s trial in the killings of her 3 children - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFlMS2VRRHN3dER2RmNxUHF0UzhnWnZ2a1JPRmgwQm5HNVRyaGdkY1ROLVl2MDBvVnpyTjJobFVWRHlzZXhwYzRXczU3YTBfLW5ILXFFVzhpNFRDUXFVMnp3ajZxUUJpbXY2ZjZqZ21zbk9Tbk8xeHFNVmZ4LWppekc2UFBRbUdLT2xELU5wR3JNOEF6VURENHpVbkQwRHc?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 04:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Floods caused by a glacial collapse kill at least 160 people on Nepal-China border, hundreds missing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWZwTFhBM1dBcUQ2WFBWazRIOXpBMHI5R3p1blpsYTdIV2tHQ25mOHo0RGNZNFJOM2hNTEFhbEdaSlNhX1FMRHk2V3lkQkdESmtkTXd0RDR3UUlVaWo5YmoydndfWkVmLW5uZW1ubm02MzZaVHpUTG1ocVF4cmxJZ2ZwUThuVHp5T1ZmTXY4eno0Y0xXbnlHTw?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 02:19:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,24 +164,30 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0daRVRIZWJxaWgwTnprUUttZTRmX0YtTTNOS1ZLTFU1T3kzX1Q3Xy10eWpDTG9wUFNQRTBQaHMwR0w5Z3p1ZW16UTBRUGtIektmRDlwcDV2U0lvcWpSRXYwaWpaZ1djRFlZR0J2MWxnak1sWEhCbWRRUGZKOUozQWFlNUUzTlFVN3NYSFpaa3NybDM5S0lLUWFFYlZWN1NHYWJJQWRjbVBSdFU?oc=5",
           "pubDate": "Thu, 27 Aug 2026 01:23:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Military judge sets June 2028 trial date for alleged Sept. 11 mastermind Khalid Sheikh Mohammed - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX3hwRlpiWEpFczBVck5tbDVFX2g2UTN4ZWpYUE9jcDdRcUdFb3czaWZTUXRjLUhhZ21qNlVRMDI5UndqU1YxbTAwTVVZVXNVNG5jUnljRGNUZlVFMXYwRWJjSDdIYzl6TkF6dXRmalRZS1F3OXMwR2xPZ3RMOHZuV1JJZmRqUGV4VUhlQm5DQmxiNnRtNnUxZXItbnpCWnF2NWc?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 00:54:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T10:00:20.435Z"
+      "updatedAt": "2026-08-27T10:25:13.838Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Meta settlement opens new front in global fight over social media harm - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVjVfZFlla20taFJNMHJacldOVjlwVFk4dTQzTkRsVWUyZ2E2bFpnaXkwM0hRMlNzN25hcVZIZmtXU1hnank5NVdodXRBeWR6c3ZxTDZ3NmoyNkFmYm45TnB4NkhHOFFFOHVYNkJrZktsLTAybk9sQ1J4UVpjbWRycXp5dnoybFpyY0FMTEFRa1l0RjB5eTRjVExkVDJKYzR3OEIyT25TZ2dXQzY2LUJiSHlJd3dtZw?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 10:11:08 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Gold edges higher as investors await Fed's Warsh speech for policy outlook - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX0xCdWt3R3VfbVdKX2hPT3dhM3Y1czNyaUpReTV5UWpSdXdFNDlsSE05WFlaTVBmbjZuamY3aG9NU3drM2FKalc5V25GVWctQ1EyekgtRUFoeHJBblcyNENiaExoTzBkYTQ2ZnFTU2U0djBVdnoyX29mR3p0YmFOU050cS1KamxEZ0M1OTNIZWpBSkZUX0J0RWtjb0VvQQ?oc=5",
           "pubDate": "Thu, 27 Aug 2026 09:11:23 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia says it could strike UK military targets in response to Ukrainian strikes using British missiles - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQVB4M2NDa28tblBTTVZjdGtZb3d5MGtYMURzeDBCYmVqYjRxbzEzOHh3aFpRRUpIdDl2RW5scE5USEIwOWQ4eXZYWmV6dEN2aG9Uc2VfY0dkRTBxb28yYXFqYkhJeFU2aGJxaTdWR1gwVXZNejdXaXZScjdPTlk5NDFFWXlBNW1NQUR4M2pqQVNkNzFXZWxOOVFsQUVLT0EyeHFjNF84Z3lGQzN1X1dNTGtwc3luOThCLUV4eDR5alBwT2F5VmhLeA?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 09:06:37 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdzQ5cjA0LVhLZTN3aEpkcDBvMXNmV3BnTHVtMFBzZnFfN05PSXFjZFAyUTZ3OEtBTnVCRDhIQXkwbGMwUFZSSTBLek9IbmNqTG16bGdlVlVjOHZ1ZER2c3Z5aXJuaV95ZFFObV9XZlYwNHNqdXcxN2FzeVRkSDF1OURPRThrUHhjOThzTEFyY1NBSG10Zlh4VXRTQWhzMXg3TGJINkRyWGhHLTd1NHc?oc=5",
           "pubDate": "Thu, 27 Aug 2026 07:14:25 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "South Korea media commission says Meta's youth protection changes should apply globally - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYTFKVFdFSEpVd0U1Z0tiSXYwT0h3TnpweURyWk0yRmJxZGNlVmg3elVXSjMxR3JJbUtrZm9mbEc5QUEzUFhhd01PLUZ2RkszelZudHViaExCbU5Hc0JSdE5Nck1XMTdSeUJYZ3ROaXg1cVk0alROZlhTdlRJZ2RiTGtVbDdWVERfd1oyM2ZWeGw0cFF1NXh2NzI5Qml0by1wTkxZTGd2bWptN3d1M2NxZjN4M2JTekRuLVRwbU1xQ214dWxOc1pJOVJUTHY4c24wS2c?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 06:40:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "BOJ deputy chief calls for timely rate hike, focus on inflation risk - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2UxUVdQRlV6eUpYY0hhLUFuWXhkNnhEWDYzY2RjeFBzTi1iYkx0RThmMnFydWF4NjM1c1kwTjBRVkJyWk9Ybzg4aXhkLWtCTktNSVV6SHRnRkNTYXVBcUpuTWVCMTlGclhnbDJrbzE1b0x0RHBZdlUzVmhVRk00QW41MGcwVEJWeTQwRzhHR29EX2tic2tBaHljQXNibDFPNlRnMXBkVQ?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 06:34:58 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T10:00:20.916Z"
+      "updatedAt": "2026-08-27T10:25:14.212Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T10:00:21.127Z"
+      "updatedAt": "2026-08-27T10:25:14.437Z"
     }
   ]
 }
