@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-27T15:50:21.349Z",
-  "lastChecked": "2026-08-27T15:50:21.349Z",
-  "lastUpdated": "2026-08-27T15:50:21.349Z",
-  "generatedAt": "2026-08-27T15:50:21.349Z",
+  "fetchedAt": "2026-08-27T16:00:24.098Z",
+  "lastChecked": "2026-08-27T16:00:24.098Z",
+  "lastUpdated": "2026-08-27T16:00:24.098Z",
+  "generatedAt": "2026-08-27T16:00:24.098Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Two killed in 'violent incident' at school near Berlin",
+          "link": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 27 Aug 2026 15:47:34 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
           "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 27 Aug 2026 11:23:28 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
-          "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 27 Aug 2026 11:20:49 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T15:50:20.260Z"
+      "updatedAt": "2026-08-27T16:00:23.048Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T15:50:20.306Z"
+      "updatedAt": "2026-08-27T16:00:23.360Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,7 @@
         {
           "title": "Catastrophic floods kill over 360 in Nepal and Tibet, with more than 1,400 missing - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTRiakhGUy1IMDZwSGk4Zld5ZmdZQUNmMzZWMVZ3cHo3TkF2alg4YjIybVZaN0lFV3plMUdWc285NU1GS0dXZ085M1hzcWdwZGZ2RV90dDZGSDF5b3dNZ0h6MHZMV3JEU1dqS1Y1WlpNelU2cXhCVm53U0ZyNUJkcl9mcnRBM1Z2ZHl3WGhFRUNnUHB3eURyc2c5QzVpelN1UFRyZGY0eF9WakdnbWtJ?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 15:35:00 GMT",
+          "pubDate": "Thu, 27 Aug 2026 15:49:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,17 +167,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T15:50:20.781Z"
+      "updatedAt": "2026-08-27T16:00:23.803Z"
     },
     {
       "name": "Reuters",
       "items": [
-        {
-          "title": "Six consequences after six months of war in Iran - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEV1S2tFLUNEVG9hdmJ3dEF5YlBmWk8xT0wwWXN3MzZGOVYzX0xITXRLbGNuTUtscXl1Sy10NHlaelVXUHMzZVNYMm42TUVmNVN6UW1pLXV3MDF4YXpaLV82VE5QdXI3R19HemNya2U5LTg1RGFTZXdvdjZ6blJwUWllYVEyaE02cmoyVmdSU3o3SzNZ?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 15:27:56 GMT",
-          "source": "Reuters"
-        },
         {
           "title": "Fed's Warsh faces challenge whether inflation is a problem or not - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1ZsanZDSzJVV2VrSjFWbXF5ekhONEFsQkg1ZjJERUVsQTJUV3NtUHU5MUVVNjNfRG14WEtFM25TMUxOX2EyRW5MRzRweUFORWJuY201MWZmVG10amNxOFQ4b0FiT0lnejV6Q3UxNGJ5RXZTQnhSWVpwd1A3bHV3QnM0U1NSWEpWSGN0RUFLd3JFTjdFR1VtTEZTNU5PMHRDMHlqaVllREMxRDg?oc=5",
@@ -188,6 +182,12 @@
           "title": "Hundreds killed, more than 1,000 missing in Nepal and China after Himalayan flood - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVdIRXhZYmRRZUh6MThESkNQMXltVHpGbXJ4cW5CT2htM2pPeGFvMXVXRHREWUVoOVBySE1tczNWekd6YUNtX01VclhWY3JCY1huRVY4UUhmbVZWR1NqamluMnlIU1hHMl9nVWFpeTN2RzFzdVZzM0VVZFd6WjBxUWU1UF9ZZGtEWDdRcnFJb00xX3NfZ0w2d0pmak5EOVZvSjRXUWJaNFA3SHhPdG1hdmZn?oc=5",
           "pubDate": "Thu, 27 Aug 2026 14:55:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US jobless claims dip in latest week; goods trade deficit widens in July - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWpiWEhnZFhSUlpybV9ZeWpxakU3NUJyVnAzbS10bFI2dFpzMC1wVTZPU3l2RFFydy0yYW1mS2Fjd3hkWGFxaDMxdEhOQzFvOGpET3BidmtCMDNtVDVzTVVFTGtXLV85UHNXbjhyN2VIVXRtUzFkSVo5R1k0cmo1SklxejdjVEk1WjZNOHVfQ3M3dGxiLTd1N3E1czhqOXNiQWl2UHZrWkN3NHM?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 14:34:07 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T15:50:21.280Z"
+      "updatedAt": "2026-08-27T16:00:23.815Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T15:50:21.349Z"
+      "updatedAt": "2026-08-27T16:00:24.098Z"
     }
   ]
 }
