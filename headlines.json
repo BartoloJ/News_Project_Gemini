@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-27T06:50:16.381Z",
-  "lastChecked": "2026-08-27T06:50:16.381Z",
-  "lastUpdated": "2026-08-27T06:50:16.381Z",
-  "generatedAt": "2026-08-27T06:50:16.381Z",
+  "fetchedAt": "2026-08-27T07:00:20.686Z",
+  "lastChecked": "2026-08-27T07:00:20.686Z",
+  "lastUpdated": "2026-08-27T07:00:20.686Z",
+  "generatedAt": "2026-08-27T07:00:20.686Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T06:50:14.947Z"
+      "updatedAt": "2026-08-27T07:00:19.668Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "FDA approves landmark pancreatic cancer drug that's shown to improve survival",
+          "link": "https://www.npr.org/2026/08/27/g-s1-140410/fda-approves-landmark-pancreatic-cancer-drug",
+          "pubDate": "Thu, 27 Aug 2026 02:54:35 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Official leading Trump's Gaza ceasefire effort criticizes Israel for its attacks",
           "link": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/26/nx-s1-5945260/trump-mail-in-voting-ballots",
           "pubDate": "Wed, 26 Aug 2026 13:15:17 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Will Trump's latest beef plan make your hamburger cheaper? Not much, experts say",
-          "link": "https://www.npr.org/2026/08/26/nx-s1-5944265/ground-beef-trump-tariffs",
-          "pubDate": "Wed, 26 Aug 2026 10:58:58 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T06:50:15.270Z"
+      "updatedAt": "2026-08-27T07:00:19.771Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T06:50:15.736Z"
+      "updatedAt": "2026-08-27T07:00:20.216Z"
     },
     {
       "name": "Reuters",
@@ -197,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "EU states revive plan to use frozen Russian assets for Ukraine, FT reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0JXV3h5Ni1OcElMWG5tUUFZekJFd0RwZGc2dVludDRaY0FfTGw1Q1VqNVNNTFRwWEpMTjdRMkdPTVZGWDNyMWVaSW5LWV9GNWRvNnJGbWpGcmdYV1NIYWxMUFN5aUJNeld2NFVrM19lSDVITlBkZEhuV3hlV0xQNi1VVW1RZTZmZVVFYVBQbElhUDJWWnc3TmhIeDA2T3doejIxRnRJeGo5ZzJWTXJhbVhKeUg2dw?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 04:19:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "China's drug regulator accepts Novo Nordisk's application for oral Wegovy - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORlBqMlFxcWxxRzdMdDBfWHp5V2I0NWFkc1ZvZG5BRHFaU1RaUXlBZ3p2WUJST1hvTi01UUtJT1NLc1ZNbi1TdlFORVpKak53eml6bk9sWndhS2x2bF9waFZ2ZjVubDhrdHlnaUgzVGM2c2Z1c005ZVRONTBGVTZmc1ByRzBfSEV0S0xqcWdITGhQa01vaS1OSHJTS254d3dyNUk1S3RQTTRrbUxf?oc=5",
           "pubDate": "Thu, 27 Aug 2026 03:47:00 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWXJZcWRmd2stbndScmFneVp1c0k3MFdfdnJOQ3k4dlpwcG5kSFpHUFNVVGpZa2JDS3AyVmZiaEF6TllncVgtRnhSSFpfWHJ1QzlMVXFrclREUjNUT2l0NW0xaThTaHZGVnhUWEtGR0lEMDFaMHJSUUp6MVdHc3hhZDI0RElzRzNmUFhnQTNLd1Jqam5GRmx6TEFtRThnREVIZzdNVzhtempmSmthRTdFSU14ZGRfNTBoeUlB?oc=5",
           "pubDate": "Thu, 27 Aug 2026 03:14:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Gold drifts higher, eyes on Fed Chair Warsh's comments - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX0xCdWt3R3VfbVdKX2hPT3dhM3Y1czNyaUpReTV5UWpSdXdFNDlsSE05WFlaTVBmbjZuamY3aG9NU3drM2FKalc5V25GVWctQ1EyekgtRUFoeHJBblcyNENiaExoTzBkYTQ2ZnFTU2U0djBVdnoyX29mR3p0YmFOU050cS1KamxEZ0M1OTNIZWpBSkZUX0J0RWtjb0VvQQ?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 03:02:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T06:50:16.120Z"
+      "updatedAt": "2026-08-27T07:00:20.576Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T06:50:16.381Z"
+      "updatedAt": "2026-08-27T07:00:20.686Z"
     }
   ]
 }
