@@ -1,12 +1,30 @@
 {
-  "fetchedAt": "2026-08-27T17:00:25.401Z",
-  "lastChecked": "2026-08-27T17:00:25.401Z",
-  "lastUpdated": "2026-08-27T17:00:25.401Z",
-  "generatedAt": "2026-08-27T17:00:25.401Z",
+  "fetchedAt": "2026-08-27T17:25:14.645Z",
+  "lastChecked": "2026-08-27T17:25:14.645Z",
+  "lastUpdated": "2026-08-27T17:25:14.645Z",
+  "generatedAt": "2026-08-27T17:25:14.645Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Two killed in 'domestic violence incident' at school near Berlin",
+          "link": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 27 Aug 2026 17:07:32 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+          "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 27 Aug 2026 17:05:22 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "What we should make of CIA boss's secret trip to Moscow",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z8l8xdg2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 27 Aug 2026 17:02:33 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Tracing the deadly path of the Nepal-Tibet flash flood",
           "link": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss",
@@ -26,18 +44,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Two killed in 'violent incident' at school near Berlin",
-          "link": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 27 Aug 2026 15:47:34 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-          "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 27 Aug 2026 15:16:54 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Jellyfish force partial shutdown of French nuclear plant",
           "link": "https://www.bbc.co.uk/news/articles/cy8znx3g4e2o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 27 Aug 2026 14:49:23 GMT",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cgjq49g8wwqo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 27 Aug 2026 14:26:15 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
-          "link": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 27 Aug 2026 14:17:24 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T17:00:23.837Z"
+      "updatedAt": "2026-08-27T17:25:13.297Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The stakes as high as Kevin Warsh is set to give his first major speech as Fed Chair",
+          "link": "https://www.npr.org/2026/08/27/nx-s1-5945044/federal-reserve-kevin-warsh-jackson-hole-wyoming-bond-markets",
+          "pubDate": "Thu, 27 Aug 2026 13:01:36 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, has died at 84",
           "link": "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead",
@@ -99,12 +105,6 @@
           "source": "NPR"
         },
         {
-          "title": "Nuclear regulator prepares to abandon a decades-old radiation safety rule",
-          "link": "https://www.npr.org/2026/08/27/nx-s1-5920368/nrc-nuclear-radiation-safety-rules-alara-update",
-          "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Jon Ossoff, usually a head down senator, has found a formula to excite Democrats",
           "link": "https://www.npr.org/2026/08/27/nx-s1-5935282/jon-ossoff-georgia-senate-race",
           "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T17:00:24.033Z"
+      "updatedAt": "2026-08-27T17:25:13.485Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Shackled Tate brothers in court asking to be released from jail during extradition fight - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzlFLW9welZHOE5lTDFRRk8waW5YU1dPVXdsU2ZzSVd6MzdpbENKbTZHenpWbEg4NldyaVhiYlpzeFNoMHZScm4wNElGVHkwN1h4NGpqWUdSOTlLdTlqN242TFVtUU0wQWVDbUpDWHZnZDU2TV9YS2Z0SVZtdkJXelRBWUtJdkQwOUxrZVlrSklndjhucW5rZQ?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 16:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Exclusive: US Patriot missile stocks in Europe are 'beyond critical' due to Iran war, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZDdGMkJyRmZLTl96Zy1iYU9iTUVOcjRHaDdZRGF3eXlVRDAwM0VCOTBRYTQ5TTFqVldDUllQdWRWRFpKRl9SZ0V2NGNSVVNmOVhxeDgtM05kTTEwcGczTGs3VnhLVkRDU1paamMzazZSU183Z2tBajF1NWJkaEdCSzNNeXV0XzFYeGl0Q2E3dkpRZmxNQUlrVG5DS25mT3JyTE5aa2t3RXMxdw?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 16:49:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Jury begins deliberating whether Lindsay Clancy is criminally responsible for killing her children - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFlMS2VRRHN3dER2RmNxUHF0UzhnWnZ2a1JPRmgwQm5HNVRyaGdkY1ROLVl2MDBvVnpyTjJobFVWRHlzZXhwYzRXczU3YTBfLW5ILXFFVzhpNFRDUXFVMnp3ajZxUUJpbXY2ZjZqZ21zbk9Tbk8xeHFNVmZ4LWppekc2UFBRbUdLT2xELU5wR3JNOEF6VURENHpVbkQwRHc?oc=5",
@@ -127,18 +139,6 @@
           "title": "Catastrophic floods kill over 360 in Nepal and Tibet, with more than 1,400 missing - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTRiakhGUy1IMDZwSGk4Zld5ZmdZQUNmMzZWMVZ3cHo3TkF2alg4YjIybVZaN0lFV3plMUdWc285NU1GS0dXZ085M1hzcWdwZGZ2RV90dDZGSDF5b3dNZ0h6MHZMV3JEU1dqS1Y1WlpNelU2cXhCVm53U0ZyNUJkcl9mcnRBM1Z2ZHl3WGhFRUNnUHB3eURyc2c5QzVpelN1UFRyZGY0eF9WakdnbWtJ?oc=5",
           "pubDate": "Thu, 27 Aug 2026 16:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Exclusive: US Patriot missile stocks in Europe are 'beyond critical' due to Iran war, officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZDdGMkJyRmZLTl96Zy1iYU9iTUVOcjRHaDdZRGF3eXlVRDAwM0VCOTBRYTQ5TTFqVldDUllQdWRWRFpKRl9SZ0V2NGNSVVNmOVhxeDgtM05kTTEwcGczTGs3VnhLVkRDU1paamMzazZSU183Z2tBajF1NWJkaEdCSzNNeXV0XzFYeGl0Q2E3dkpRZmxNQUlrVG5DS25mT3JyTE5aa2t3RXMxdw?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 16:14:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Tate brothers’ extradition fight is back in Miami court as brothers seek a release on bond - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzlFLW9welZHOE5lTDFRRk8waW5YU1dPVXdsU2ZzSVd6MzdpbENKbTZHenpWbEg4NldyaVhiYlpzeFNoMHZScm4wNElGVHkwN1h4NGpqWUdSOTlLdTlqN242TFVtUU0wQWVDbUpDWHZnZDU2TV9YS2Z0SVZtdkJXelRBWUtJdkQwOUxrZVlrSklndjhucW5rZQ?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 15:48:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T17:00:24.748Z"
+      "updatedAt": "2026-08-27T17:25:14.001Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Focus: As AI agents go rogue, cyber insurers are adapting their policies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVRUeXAzYi1DWkw1Uno1dXNGdUo2NXlWVmt1Wk1Ob1lQNVNucTJVZ21TNEZQNU9qcmZweGJlV2xnTUFJWTFvbENkWlpyV3V4ekZRRzdfc1p4bnppXzRhd3hfdkQ4blp3eG1sNl9aajROWjA1SmxHVXJkZEFvMFkzNzk5ZXVWWWJ3Zi13bjdBV2t6ZVp6LXRfY0ZtX19ZdE1RUW9JNHFfWmVydkZ3c09WRl9MM0U?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 16:45:56 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Russia says it could strike UK military targets in response to Kyiv's use of British missiles - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQVB4M2NDa28tblBTTVZjdGtZb3d5MGtYMURzeDBCYmVqYjRxbzEzOHh3aFpRRUpIdDl2RW5scE5USEIwOWQ4eXZYWmV6dEN2aG9Uc2VfY0dkRTBxb28yYXFqYkhJeFU2aGJxaTdWR1gwVXZNejdXaXZScjdPTlk5NDFFWXlBNW1NQUR4M2pqQVNkNzFXZWxOOVFsQUVLT0EyeHFjNF84Z3lGQzN1X1dNTGtwc3luOThCLUV4eDR5alBwT2F5VmhLeA?oc=5",
@@ -191,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Two found dead at school near Berlin, 19-year-old suspect detained - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUzk2QWRydFNCMFZiOHlnaW8tODRzRXBtTU1yWXFDTHFZQ1MxNjRzNmJSdE55YnRTa3hyVGJ4NWk3U2lhVno5dTFpMG9LVU9YU3VDSVQtTlhLRzhrNjJWOEpnMHRUcnl3WDh3V05wd2NQNHpnZDVMRzQzQms5bzh3UVZXS2NPZlZhOTh2RGpBTEVjU2thb3Qw?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 16:14:49 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Nvidia to start employee-funded US political action committee - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2RIV3JCTFFfTXJMcF9qcUJjRVNkaUFiN01rZHFEZHlXMEtnV0RVeHduNWhlNWNoRk11MHFUNkswWG42YThwZUlnYmt1bExwUTdyaXlPejkya3plQ28ycFc0NFhSRkFMY1FZNG1UcTZOd0N2WEhhSkMzOWlpNlFScFZLd3d4NnF1cXZrTHZuODRLREVJbUNBb0dkcGpjZGJ6YnVVYkJpZFA?oc=5",
           "pubDate": "Thu, 27 Aug 2026 16:02:20 GMT",
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Focus: As AI agents go rogue, cyber insurers are adapting their policies - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVRUeXAzYi1DWkw1Uno1dXNGdUo2NXlWVmt1Wk1Ob1lQNVNucTJVZ21TNEZQNU9qcmZweGJlV2xnTUFJWTFvbENkWlpyV3V4ekZRRzdfc1p4bnppXzRhd3hfdkQ4blp3eG1sNl9aajROWjA1SmxHVXJkZEFvMFkzNzk5ZXVWWWJ3Zi13bjdBV2t6ZVp6LXRfY0ZtX19ZdE1RUW9JNHFfWmVydkZ3c09WRl9MM0U?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 15:28:14 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Kennedy advisers propose doubling US autism spending on care, family support - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMWU2ZVBxa2VCclBaczhPNnladjBtOTRoOTFWQ1ZPdzhpaHBhRlJIX21odFljOVlWdHR6M2QxZ0c4RFR0S2duRlZXc0pfblpJV0haM2UwOHJyS3dncTVrMFo5amVLT19aY1FSMDRTMURYOG9KbUJiNDRCSEpibVltaVVST3d3Sl95RkNWQllmLWRDUVJfQU9XQk1RSFFiZjRacjJPbE9XWlNrSkx3MUh6N1paNkdNcy1KNEVwOTMwaXBtSEU?oc=5",
           "pubDate": "Thu, 27 Aug 2026 15:25:39 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Researchers discover additional backdoors in Chinese-made Zbtlink routers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2lybm5sQ0tLOHRrVGk4T29aQVNHWUVCS2o4Y0NGazRhWkFEQndRZFhDZGpqVC1vYVRGdHpFODR5SlRtXzQ1ZjgxY2hMVXJxaGtMaE1FV3BlU3REaTBPb2FDQ2lrWUZpOXkwbms4UmxhdHQzY1ZodnFPeWV3TW9IM1lmUnV5UnltUmpFV0dNWDRmd28xZjRWRjk1dzVVN2xMM3NpNnVNY2dLVzdqY1dRZ2dvNDJxUHEyeEtWanNiYk5ueXc?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 15:19:45 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T17:00:25.211Z"
+      "updatedAt": "2026-08-27T17:25:14.441Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-27T17:00:25.401Z"
+      "updatedAt": "2026-08-27T17:25:14.645Z"
     }
   ]
 }
