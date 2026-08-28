@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-28T12:25:15.643Z",
-  "lastChecked": "2026-08-28T12:25:15.643Z",
-  "lastUpdated": "2026-08-28T12:25:15.643Z",
-  "generatedAt": "2026-08-28T12:25:15.643Z",
+  "fetchedAt": "2026-08-28T12:50:16.165Z",
+  "lastChecked": "2026-08-28T12:50:16.165Z",
+  "lastUpdated": "2026-08-28T12:50:16.165Z",
+  "generatedAt": "2026-08-28T12:50:16.165Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T12:25:13.992Z"
+      "updatedAt": "2026-08-28T12:50:14.771Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T12:25:14.326Z"
+      "updatedAt": "2026-08-28T12:50:14.974Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Death toll rises in Nepal-China border disaster as a lake poses new flood threat - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1h2VHVFZU5pU194eE9xcUU4MHVQTTJoZjFyVE1zTWxSMC1DMGFLcC1ZR2oteFV4VUhpTklUNVVFZ09iakJIakt1QVlieVNEbzVDVFRCd01TMV9qVmdvMndjd2JXT0h1TlcxbWpJYWVwenNUeDBNcHRJVDJrb1Y0bnd5REJyV1VMWWdSLThYUnBHRzVMYnVn?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 12:17:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Norway’s crown prince becomes King Haakon VIII after his father’s death - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOamZfc1htcTlBTFpmMVozQ0dQbGY5U3FTNFdJVUpkZFNSNGM0Tzk0QmtsZzIwTlBZNlhNbkp0eEpMNlozVTRDci05ZF9MLUhQOUZRQVAwbk0wNnFLRjRac0xGOHhfNDhGMWtVeHRmVmNxdnphY3FzdTgxd1BhQ1JNQnJidkQ3N1JVbU5JdjVINHpmbWth?oc=5",
@@ -124,15 +130,15 @@
           "source": "AP News"
         },
         {
-          "title": "People from more than 30 countries are missing after the flash floods in Nepal and China - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnVybUZxUVVIOFRWdUZUVWlvUlRWdzMwUktBN1JNdkpJdWtZWjhnLVpEaDNPN1ZpLUdkbmdnaXo1LTM4OWpQejM2RDJsWkhvaV9SWEtsVXpDcGg1RFEzTnYwcDlVOWdDVXY0SEZ6QmR4cWRFVFYwU0hXNDVma0c0a204U3lPV21mU18wM2pDTmE5bUl0WXZr?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 08:49:00 GMT",
+          "title": "Norway’s King Harald V dies at 89 and his son becomes King Haakon VIII - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUHNOX1pxMzZOcXo4VmU0S2xfU240TEJQaXlDYXZZeVd4QV9rczlNSUpURFNtQ253WkxzenVSM0NJTzRsU1hhT0JwakhSc1JHUTNVcndQb3o2SzI3YkFhUWxwZGsxWWxoRkJNVWM2OE01QWVwNTNBaHZPU3hCNHpDVGkySHc?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 12:01:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Norway’s King Harald V dies at 89 and his son becomes King Haakon VIII - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUHNOX1pxMzZOcXo4VmU0S2xfU240TEJQaXlDYXZZeVd4QV9rczlNSUpURFNtQ253WkxzenVSM0NJTzRsU1hhT0JwakhSc1JHUTNVcndQb3o2SzI3YkFhUWxwZGsxWWxoRkJNVWM2OE01QWVwNTNBaHZPU3hCNHpDVGkySHc?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 08:00:30 GMT",
+          "title": "People from more than 30 countries are missing after the flash floods in Nepal and China - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnVybUZxUVVIOFRWdUZUVWlvUlRWdzMwUktBN1JNdkpJdWtZWjhnLVpEaDNPN1ZpLUdkbmdnaXo1LTM4OWpQejM2RDJsWkhvaV9SWEtsVXpDcGg1RFEzTnYwcDlVOWdDVXY0SEZ6QmR4cWRFVFYwU0hXNDVma0c0a204U3lPV21mU18wM2pDTmE5bUl0WXZr?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 08:49:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
           "pubDate": "Fri, 28 Aug 2026 06:05:58 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Tropical Storms Karina and Lowell form in the Pacific Ocean as Dolly churns in the Atlantic - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZWZLU09RT1NxRGhwblJEUjVDTVJsRDd0aE5TRXRFU3VqNFBpMU9ON1JNamF0d0NMS3JRZ1EtUHNlSmc5TW56aVRQRXJZSFRHTWpBTzV3MHdySnhTRGhjZ29tSUdGWlFkWlRWWFJqY1JuS2czTVMxdjhBNEU0b3VkaDdHV0Q5Zzd6ajhTTUJJM1ZSSnM?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 05:39:14 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T12:25:14.884Z"
+      "updatedAt": "2026-08-28T12:50:15.474Z"
     },
     {
       "name": "Reuters",
@@ -175,7 +175,19 @@
         {
           "title": "Nepal and China resume flood rescue after lake threat eases, death toll tops 500 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNTU5TmV6N2N0dHN6Q293S0JVZjRwbGtkQ2lyV1ZpTUt0eTBTNDJvVkI1Qk5mTWFlM25yOUFQVG1VQWZqbjhrLVNRQU81UjBhakxqRmlETF9rVDNCUm4zUzVrY1dTaWlsMkoxeGpHYUREcjJvdldPX2hTTk5HVlU3anBIbGlQMlpuODB4OUdDNmJVSUdCeHQwZmMzd3pVRDFSRVFxeTBpWU9fZWh2NEhtbFJhT0pwUVE?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 12:16:09 GMT",
+          "pubDate": "Fri, 28 Aug 2026 12:04:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Sweden to deploy fighter jets, warships to Finland - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0c1SlRBRmozUHNSTkVNVGNXZkF4TVBGRE5ROTRtUnVSU29vak9sSVNHZGJ3VWtPNFMyVUJPWGN2TnhVOWUxYzBMQ3ZOQUFRenM5Z2t2M25WVjI5Wnh6SE9PX1JjZl9tVWM2Q1pSLUtFbjAyeWM4dnVNbElUN3M1SDE3T2FxS0k0R3FsU3B6elRKWU51LWQ3N1UxQ05jdnhSYlB0dUxlbVdMVDg?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 12:03:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nasdaq futures slip as tech rally pauses ahead of Warsh's speech - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 11:35:29 GMT",
           "source": "Reuters"
         },
         {
@@ -191,12 +203,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Thousands march in Washington as leaders warn of voting and civil rights rollbacks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0NGcWdzYUVBTGFzcVNhVzhJTTVFWmVjWFBqamtSNEZMUTg0ODNtcTdTVVFfZm8xNjQyVWxCMkFLdHFuMmRBUDRxbjNGdF9aUmZReV8xSnI5N0hTVXdIdmVvZTBBbkFkMFZaSmE3VXhkTDVMV3ZiMTJFRlBpOTRLdVdRTW51bUlrMUc3aVV6ei1vWlhVc2FYREJpNlVvTHpyVFlOMWxMQUZxMHRLMzRHTHZVN3M?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 11:30:18 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Over 90,000 affected by Himalayan landslide, Red Cross says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSXdHeTBkR0ZRcDA1bVJRd3hBbklfN3QyZGtvalkzWGJWVnF2ZlJDQlhfcXNZWVZCWmM1OXV0TzFSaHRkd0Jya3pzcDFMbUxNWVRVd19CNG55cVhoWXltSWd0SlNTWHJWaWdYV2ZSUmRhTGNUelI5ZXJ3T3huSHAxV3RmeUVGYmtIYVUwcVZGZXJxVzJKZExpRGpkRGlzWjZSSXNnQnFUUzJiSDZUS016RVZ4dDM?oc=5",
           "pubDate": "Fri, 28 Aug 2026 11:20:31 GMT",
@@ -209,20 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Judge blocks rule implementing Trump plan to restrict mail-in voting - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEpvSkd4T01zVUZwV2dVZWNkRU0tbVBQNms2bXJsTEk0LWEwd3c5Y0NWZjIzR3BhRGFDaTdndTdlYng3c3BiMW02Y19MaDhwZ21qd05leFlmLUt6S1FwR0JaN2tTdHVxaE0tMElZUnFweGU3dlRnQlFOamx3eFBSQ3dfWkZmUlp5NlIySHBLbVJmX3UxdHZucERDRXB6Skc3WEdLYU5WRXBvQVU?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 10:53:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Pipelines and ports: Iran war spurs Gulf infrastructure investment - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFpCNDNNRjl2ZVJGeG1nOHNCd09IQ1VQS1hJejJiX0V1TFRGalFNS1EzbjZHS1Nua0pNNlVWZzlpVl9GM0FoNGVNMGhEY1djUW9HRFRpODlUQnNLaGtXT092WVRNT3NyWHFaN2tYT1N5OW00VDljVXB0cDJ6UU5tMktQaFBwVUZCZHFmRkVfcVRrR25NTWFFd2ZhRnVpVGhKNXk1dzhVQ21YUFcwWC1YODdvUQ?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 10:35:38 GMT",
+          "title": "Japan spent record $96.5 billion to support yen over past month, ministry data shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb2g5MFFMM3ByaEYxQkEyZ1JCUTBkdTdkLXlxT2FrOVgyYUMzZlZYcmc0dXlJc0VJUWYzejZ2Ql93REdibHdmNGxDZUREUUxUbW5uUktJN1JBUXg0d1pRUGRCdldpUmNOVGpLUGlQTDZpbkNKNnF2enhYSC1mN2xBbEh0YWRrckFaSlptQmVsNDkzcmZtQjEwUEhsNmJrN2xySVNxbnpDeVZoRDdsX3U5NFUtSVUwTU9FTHZSSkM2b3hHRDJ6X0FkZVRTbHNHZw?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 10:49:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T12:25:15.320Z"
+      "updatedAt": "2026-08-28T12:50:15.931Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T12:25:15.642Z"
+      "updatedAt": "2026-08-28T12:50:16.164Z"
     }
   ]
 }
