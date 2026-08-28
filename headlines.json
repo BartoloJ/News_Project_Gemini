@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-28T20:25:30.309Z",
-  "lastChecked": "2026-08-28T20:25:30.309Z",
-  "lastUpdated": "2026-08-28T20:25:30.309Z",
-  "generatedAt": "2026-08-28T20:25:30.309Z",
+  "fetchedAt": "2026-08-28T20:50:17.138Z",
+  "lastChecked": "2026-08-28T20:50:17.138Z",
+  "lastUpdated": "2026-08-28T20:50:17.138Z",
+  "generatedAt": "2026-08-28T20:50:17.138Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T20:25:13.724Z"
+      "updatedAt": "2026-08-28T20:50:15.792Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T20:25:14.088Z"
+      "updatedAt": "2026-08-28T20:50:15.977Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Israeli strikes kill 5 in Gaza and 3 in West Bank, and other news in the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3FmcjlycjlqYTlNSzJueHF3d2ZkRHJ3c2ZEbFJkYzZ6ZERHdVE0WXFlV3Y0Uy10emVoZzV4dlBleGRrbTV6a0Z1WkJPVHBTM1NqdExfRUZvRGk5bHJRdnZSdEdBbXBSN2h4VmE0SzB2emV4NHdQQUZSSWRpUlNGRjNaamtWbEdUbGtoSlNtMzF6TGd0b05SdHMtRTFaYVk?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 20:09:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "The bond market prepares for a hike to interest rates, while US stocks drift lower - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0JWTC1aei1PWXBXLVdLb0kyX1JQaGtTXy1hX3M1UmNtWFRTZHB6blRtakpDOUUwSW1kRDZVTmlhaHRBMjNTbkR4TTQxczQzZWUycHNIR1R1UEtTS2VLQkRMQ1ppVks4YzJ0Qzh3b1RQdi1NYWxmbjFFLUVlMHFMdjgzX0NUQjVZY0ZsbTBfR2NIZw?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 20:04:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Rescuers retrieve flood survivors caked in mud as death toll in Nepal-China border disaster climbs - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1h2VHVFZU5pU194eE9xcUU4MHVQTTJoZjFyVE1zTWxSMC1DMGFLcC1ZR2oteFV4VUhpTklUNVVFZ09iakJIakt1QVlieVNEbzVDVFRCd01TMV9qVmdvMndjd2JXT0h1TlcxbWpJYWVwenNUeDBNcHRJVDJrb1Y0bnd5REJyV1VMWWdSLThYUnBHRzVMYnVn?oc=5",
@@ -124,15 +136,15 @@
           "source": "AP News"
         },
         {
-          "title": "Civil rights groups make urgent plea for voting rights in DC, ahead of midterm elections - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTRUalRqN2FVQ3pBNkZSV3ZJdGZIaTRRVFA3OGhVMlB0ak1YS1hWQmlpcVFwLWpTVGNGeC1YcE1ERk0xSl9PZzhBU3J5clBkanJ1NC1hYVFNajFzRTAyWkZtcHBQb3BISHRCcWRaemsxTjE2VEs4dldiaXpLcm9pM29FbE4wLXFvZGFaZUxfSjhBclRZSldENi1uRUFIc3lnZ1I0dGRYNzBDVlU1R1diX0xZUQ?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 19:16:00 GMT",
+          "title": "Nashville’s airport would be renamed for Dolly Parton under Tennessee governor’s proposal - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3dvZzByTUhHcF9pRE1DelVPT0VaeUUyTjRrRmwzZUFyaVE5c0NwY3J4SHNLWVI5WXFfLUJfOHBOVE9qVUZfemhTR1lDajkwX3JUVTYtWHpuSVpxSVdCUS1kQ21uMmstaGhGR3Z2cUQtZ2pkdVJseWY4VmxONFpEWUdlb2pJWDNNbkVFNmhXRHRid3FjNWkxODdGclRfQQ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 19:18:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US stocks drift lower after expectations rise for the Fed to hike rates to get handle on inflation - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0JWTC1aei1PWXBXLVdLb0kyX1JQaGtTXy1hX3M1UmNtWFRTZHB6blRtakpDOUUwSW1kRDZVTmlhaHRBMjNTbkR4TTQxczQzZWUycHNIR1R1UEtTS2VLQkRMQ1ppVks4YzJ0Qzh3b1RQdi1NYWxmbjFFLUVlMHFMdjgzX0NUQjVZY0ZsbTBfR2NIZw?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 18:38:00 GMT",
+          "title": "Civil rights groups make urgent plea for voting rights in DC, ahead of midterm elections - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTRUalRqN2FVQ3pBNkZSV3ZJdGZIaTRRVFA3OGhVMlB0ak1YS1hWQmlpcVFwLWpTVGNGeC1YcE1ERk0xSl9PZzhBU3J5clBkanJ1NC1hYVFNajFzRTAyWkZtcHBQb3BISHRCcWRaemsxTjE2VEs4dldiaXpLcm9pM29FbE4wLXFvZGFaZUxfSjhBclRZSldENi1uRUFIc3lnZ1I0dGRYNzBDVlU1R1diX0xZUQ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 19:16:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHNqOEM2ZUQ3ZGlHdzFlZWEyU2toYXpqYmR6MnR5c1ZxNG5vYXN5VjZBNDZJRE1HSEhnVktlZjY3a2NraFJRbUtUUUhld094Tjc2a180c1JKM3FUMVNrczIwV2czNjBsOGVBSFZGOUt6MEJzazNzYmQ3cjFRc0VMemJpYmJyMEZRYk9aTzNWU1ZqU0tfOE92VFhB?oc=5",
           "pubDate": "Fri, 28 Aug 2026 17:49:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Hindu nationalist leader spurs protests and calls for sanctions ahead of New York City speech - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2VrM1ZST0prNU9YMUphM0dvNnlfd3U3c0xuNW81alVZaUhuN293Vl9ZNFdxNGhOQjlEcGJudWVRdGxURUtFMkFLcjhiTXJIaVV5amU4RER4ZkJ4ZXZBdHpKSnd6ZEozN1VqTG1PVnNpMmQ2SXFJdU5wX2kzbm5UYWE4WnFyTlVhbGVTeUs4NUl6Rkdxckg4Y2duUFVCeld2eEtxQW1BalFZTzNNX20xaExR?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 17:10:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Autopsy shows Tennessee National Guard fatally shot 20-year-old armed man in the back - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3VWMTVPWkljWTd0Z3I5WkhONWxSMTZ3b1NzY2lUaDA0TjI5WV9XTGdTbVNoS2ExOTBtREcxUWRySElweFowcDFFTnRoa2tESGl0MzNoV2R0dTRfazZ0TElhRmhIbURvTmMwclRYVG9nd0gyRzVuWnJOM0I0VEJVRXBIaVc5eDE1WEkyU0Y5Z1ZCekh2LVR4ek5Wa00?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 16:17:00 GMT",
-          "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-28T20:00:19.499Z"
+      "ok": true,
+      "updatedAt": "2026-08-28T20:50:16.444Z"
     },
     {
       "name": "Reuters",
@@ -175,7 +175,37 @@
         {
           "title": "Thousands march in Washington as leaders warn of voting and civil rights rollbacks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0NGcWdzYUVBTGFzcVNhVzhJTTVFWmVjWFBqamtSNEZMUTg0ODNtcTdTVVFfZm8xNjQyVWxCMkFLdHFuMmRBUDRxbjNGdF9aUmZReV8xSnI5N0hTVXdIdmVvZTBBbkFkMFZaSmE3VXhkTDVMV3ZiMTJFRlBpOTRLdVdRTW51bUlrMUc3aVV6ei1vWlhVc2FYREJpNlVvTHpyVFlOMWxMQUZxMHRLMzRHTHZVN3M?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 19:25:49 GMT",
+          "pubDate": "Fri, 28 Aug 2026 20:34:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 20:27:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjVfaWU5QkF5T0paRm0xSHdteDJHZjB1YTVMcmNZcjVWNHQzcWV2Rm1FaVd3RFN5OHFndERRRUljQ2dYMjhJQXdER21XMEJjQThvN0JONTRJNlpNUEt2V2xCWGtFdmJQcVMydi1MSEtDd1lsQVR4Q2ZYZDlldFI0VE5odDc3LVU1NDB5SlRQVlh3NWg4Tjl1Y2J0blJxczFyVUNmYlZ2b0hCZ1o1SzdiMFdEUHRfWlBWUTlCLVRtN3g?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 20:22:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump vows legal order to break up 'nasty monopoly' in food processing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYmdxZVJUangxNURPaVNnZ3UydENicGN6eDRrTWNrei1FR0dNLWM2bXZmRWpkbVFNM3ZQNmEzLWNUQXN0YTlyeHU1QV9xTS1KeEVxZnNIWmU4Z1lhZjgtTnI4cGo0SUlHTkRKM2hjdGxtMmVDWEdfcXZCcGZqaDRHTmhxVEhNc0tmeWxyRlFmX3Zla1UyajdMa0x2elRjY2ExY1VhWEVyWQ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 19:38:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump signs order to create a US Space Academy - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWklmRzYtdUxEaWNGamhqcHNQSnI1NEVYOTNVVHdQaFlTYzBNbFZ0M01xUlkwU1lCTzJObU1aa3dfZVdkMEpLZGhyQUFCVTQ3UVptVngtNWl6UXBzS0xhUTM3bi1xZEg3SjdyckZ3M0k5c0FSQy0zTnpMMWEzVmhjVW5ENXoyWjMzeUlFSmZjX3p4SGE3eUVVT05SQ0I1elF5OW9KT0pGX1NLaHlO?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 19:26:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Investors heartened by Warsh inflation talk, still uncertain about Fed action - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLW9HOXdFRGd4QWlJUHhlT0hzZEpqekl3UllCWkU2cW1BNmlzd0E4TGxSZVpIek5Vci1BM3RXNndHcGk4RWt3ZXVGV2NnMDBTQTJPNkNMUm1QVnpMdHRydXhwTFZqbTh2SDllNzdETEgydEhhWG1TVy1adWp5VDNDZEVMbWZnWWpxTGlLdEcxcm1oQ2YwenBaVy1KRUlsX1hVWS1BS0lhR21UNl93WFM4dVhWNEtHNHFZVWgtOGpUdUFITnBudmZhRA?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 19:17:14 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "US FDA approves Lilly's Mounjaro to reduce cardiovascular risk - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbTQ5NEtsQlRFV3RndUxiRTJVN0hibGxMbHBRVFhEamU4RXpHTkJrbzE0Q0lwRy1iVjVpczBTTzRkSkZDNlNvMkgybWRvNWZsbDZ5VnZWNllCN2U2QmtfTWJwRU1WOTAwTk12ajI3bWlkUDZQN1NCcGJzM1BiRkhUSHVFY29xREdLakdZNldEXzNBbzNkYnozcmpicVBXVm54X3VIWk51T0tDZ1dIWHVpZE8xaWdWSllCNUlXU3pMNGRBODU5cnktR2Zn?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 18:38:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Kalshi cannot block Nevada oversight of sports prediction markets, US appeals court rules - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlBkMDNVSkFLeW5ydV9lUnJVdDlNRjlQcTZzdTVFTTQ0X1RZWEc4MlFhLVdmLUZfWXlVMW4zNXhENHZkTEE2WU84ZTZ3V0kycE9wZ2dTQWNqZm4taEZlUGlBbEotT0pZbnFMVlM2aE0xdjZXbzJ3c0psWi1vdFNqZHZodk5TOVZHVXpYcXdKTzhhZkdQbzV4VUdRQkxkUXBPaVo2SjlJTGl6eGZMTTJ4TC1QZjZKUXdZanI1NlF3?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 18:28:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall St inches lower after Fed Chair Warsh reaffirms inflation fight - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 18:27:22 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Israel kills Hamas operative in rare West Bank air strike, military says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlZhNVQwZ2dBSUdMTmN3b2ZuR1VlSlBOanV6NTVkNTBsdHdfZk1OYW95SVFnU0dIdDNlS0NGSkxwOWFCd05JQ28za2N3azJRM2p0UXlISHl3aERWa3VubVRlVGdSdjF3UFFyUlc3VW5yVmI5b3ItU3ZsY1l6TFYtVWxJUG50X2RiNHZ3bGNPMnVRemphRGd2dlJtYUEycGQwUFdxaWdZd056a2d4QldPVEZULVFFUGJQLW05bVFwSWlMLWF0YzVZWmRn?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 18:02:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Canada's budget deficit over first three months of 2026/27 shrinks to C$370 million - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZjZMTklOV0VfMVVNdXJBdEl6Q2RRbE9ieTVFRFA4WmM3LVY1elFPOFBUX1RCZFJoLU1nS2RsMXZMTmlsbVJlXzdCckt4ZExVTDNxYVdESlZITkpzVXdhQmhwRHZ6RmltUkpZR2NQdnhoVkFVRk01aDVkR3l2Yi1vNUZXQ1ZsVUhsWVh0V1dSd2V6Q2FSMGJvUmNCb0g5dkFsRmQ0MTBnY3I0T2xLcWkxY2pNZmV5djNvUE9HOXJiTDNzbUE?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 17:46:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump signs order to create a U.S. Space Academy - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWklmRzYtdUxEaWNGamhqcHNQSnI1NEVYOTNVVHdQaFlTYzBNbFZ0M01xUlkwU1lCTzJObU1aa3dfZVdkMEpLZGhyQUFCVTQ3UVptVngtNWl6UXBzS0xhUTM3bi1xZEg3SjdyckZ3M0k5c0FSQy0zTnpMMWEzVmhjVW5ENXoyWjMzeUlFSmZjX3p4SGE3eUVVT05SQ0I1elF5OW9KT0pGX1NLaHlO?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 17:40:58 GMT",
+          "title": "Trump loses bid to move already-decided criminal hush money case to US court - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUUg0czFxNERQWmlNeTdTVXNmbnA3dVkzbERZSXB3OC1yTWt2RkFqd0EwSGhxUV9wc2lzbHpMa3BkWlphRG5ndmNnWmFXc2hjN3hHV2QtTzdUWHZydUJ2N1VCVWdFWDJFdFkxUWhQU2gwMGVVQmFvTVhXWVEtYmxZSzNjU1Nibi1qai1Gb2ZGVVdmdUZFeGpFbHpNS0NtX2dxNnJQdjFIWG1PLUV0Rzk5UEtR?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 18:49:30 GMT",
           "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-28T20:00:19.941Z"
+      "ok": true,
+      "updatedAt": "2026-08-28T20:50:16.834Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T20:25:30.309Z"
+      "updatedAt": "2026-08-28T20:50:17.138Z"
     }
   ]
 }
