@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-28T08:50:16.370Z",
-  "lastChecked": "2026-08-28T08:50:16.370Z",
-  "lastUpdated": "2026-08-28T08:50:16.370Z",
-  "generatedAt": "2026-08-28T08:50:16.370Z",
+  "fetchedAt": "2026-08-28T09:00:23.999Z",
+  "lastChecked": "2026-08-28T09:00:23.999Z",
+  "lastUpdated": "2026-08-28T09:00:23.999Z",
+  "generatedAt": "2026-08-28T09:00:23.999Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T08:50:14.786Z"
+      "updatedAt": "2026-08-28T09:00:22.550Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/08/28/nx-s1-5942911/morning-news-brief",
+          "pubDate": "Fri, 28 Aug 2026 04:46:39 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Norway's King Harald V dies at 89 and his son becomes King Haakon VIII",
           "link": "https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
           "pubDate": "Thu, 27 Aug 2026 14:53:17 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "The stakes are high as Kevin Warsh is set to give his first major speech as Fed Chair",
-          "link": "https://www.npr.org/2026/08/27/nx-s1-5945044/federal-reserve-kevin-warsh-jackson-hole-wyoming-bond-markets",
-          "pubDate": "Thu, 27 Aug 2026 13:01:36 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T08:50:15.020Z"
+      "updatedAt": "2026-08-28T09:00:22.808Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T08:50:15.588Z"
+      "updatedAt": "2026-08-28T09:00:23.268Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T08:50:16.059Z"
+      "updatedAt": "2026-08-28T09:00:23.740Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T08:50:16.370Z"
+      "updatedAt": "2026-08-28T09:00:23.998Z"
     }
   ]
 }
