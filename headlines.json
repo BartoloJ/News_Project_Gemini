@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-28T23:32:10.435Z",
-  "lastChecked": "2026-08-28T23:32:10.435Z",
-  "lastUpdated": "2026-08-28T23:32:10.435Z",
-  "generatedAt": "2026-08-28T23:32:10.435Z",
+  "fetchedAt": "2026-08-28T23:50:14.121Z",
+  "lastChecked": "2026-08-28T23:50:14.121Z",
+  "lastUpdated": "2026-08-28T23:50:14.121Z",
+  "generatedAt": "2026-08-28T23:50:14.121Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T23:32:09.275Z"
+      "updatedAt": "2026-08-28T23:50:12.713Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T23:32:09.416Z"
+      "updatedAt": "2026-08-28T23:50:12.929Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Trump says US has entered deal with Venezuela to take control of 65 billion barrels of oil reserves - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPandFWnE5LWFYSWl5SEtwWmlTZVF3cXp2WDFlNVBEdXNUQjVtR0NUTktzS24wb1VYdDdRZVpVQmR4SjhvblU2QzFVLS1DS0xtYnVUb2tTclhweEFZUHhPYVVtWlpxNVRxYUQ2QkJiWDhBNVFJQUt1TTIxME9DM2EzTDZ0YUFCYm1FdGR0SFFzTkVmUQ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 23:14:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump administration appeals latest ruling blocking his mail voting order from taking effect - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWxfNV9lZGM0QTFucVBRVmx5eVlGRnhLQlF4NmQtbVZUemxYNEVTaVNzNGNRb3lvTU5KMXY1d0VLanFGYmd2U2ZRQnhmeXE5VVNtakpiNmV6MWJYNzFqNVNXNHVyaE1CUUdKUGYzYVFxZTNDdUt2Yy1JNlhlMDI2aFBmLXQ5SzBhS1E1WmJlU3FKMUhHYkFadDNDYjF6UDk0Mmk2Nl8wN1FEREx5WlhJ?oc=5",
@@ -136,15 +142,15 @@
           "source": "AP News"
         },
         {
-          "title": "Federal government extends pause on Big Bend National Park border construction until mid-September - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjRKRTVKUnpTWGs0TDM2anplRXMtcExSeEREQW5PNVZDTmdfNEZRMmozaklhaDlTN2xJc0o1ZVlsQTE5LWh6d1dIVjA0UmM1VVBpQmVWM0lEYkpwRFU0dDQzSURMT05IREpvVTVwV3U1elNjaFlXaUJxUHQtYTFlLVBzUFMzQ0p1ZTBWOXNjWUJuMzQ?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 22:05:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Ohio Won’t Approve Weak Credentials That Students Use as ‘Shortcut’ to Graduate - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSmFVd1VrSzJPLUhQWjRJcUFYaEExc1JVRDJ5VWpJRThEdTJmc2VlQjdFVVgzRjFRSWZUMjlKTThkUUNlamdsRkRiemwteWFreXJpdFNVeEJSejhzWjBmY3JPbGw0RXN6dnFRaWxORURwTFJXNmdJTkpfbHB2cnpZRUl4MmlrUkdpMktkZ2U2Znd4NjdmYk84OG1iSG9GU25Yb3lJ?oc=5",
           "pubDate": "Fri, 28 Aug 2026 21:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "National Park Service backs Trump’s arch, despite its impact on Washington’s sightline - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNczR0Y3JWZ2c1dUI2Sy05UUJuWEprc0dzc0c1b2JwMDJEa0xjbmFPRTBzS0lySU1fQjZRU3hqQmVTYTdXM1VDbzBlMjVZNlotLTJnQXdtRWVNLUdzb19vYmlhbGRfcUdJZ0dRdzZ0WTFTMEVtazQ5bTd0R2xaTnJNb2lQT0hiQmxEaW4zbEFDVEdCSHQ3MFdNaTdST3l3ODRUdEhkWGVzdC1ReTBkYVhwRw?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 21:36:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,20 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMWpWTko0Vkt0VHYxMXI3N1pxMV9XS3ZyZ0NhaExCTXB2b1gwT18wZndrZ2VkYkhTU2pqelZfdV9KRWxoV3NLcXpwTjU0dkhOQ0NsZExFUEh1dGN0RzYzelVxa25Dc0N3Z1V5ZzBfRUFFa3BsOFZIN2dDQTRGWHM2amtvRENVek50YU1iRXpGcElkalBQS2RkaTBhcWs3Wnh1eExPZWNJNmJQdw?oc=5",
           "pubDate": "Fri, 28 Aug 2026 21:22:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Far-right British provocateur Milo Yiannopoulos arrested by US immigration enforcement - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkFEZ0NjWENENktHN3hZRE92U1p6cDVLSFFaR0p2VllGZXhSWUtsYVI4b1V4S2NxTW96VGVUWFFXSzJLbzZGYVBMd2d3NUM0MVBwYjE2eVJDTjVlNi1UbDJjV0NsY1VYeWhqelNaelNkVGlXbGZqUThQaU84UjFpZ0FiSDQtdDB0M3RWbHlmOUZXdkZ0M3htRnFLQk5IamNmQmF4U3BvdFdPN3dvZW5VZXh3?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 21:17:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T23:32:09.896Z"
+      "updatedAt": "2026-08-28T23:50:13.418Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Chinese rescue team finds 'nothing but ruins' at flood-hit Himalayan border crossing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNTU5TmV6N2N0dHN6Q293S0JVZjRwbGtkQ2lyV1ZpTUt0eTBTNDJvVkI1Qk5mTWFlM25yOUFQVG1VQWZqbjhrLVNRQU81UjBhakxqRmlETF9rVDNCUm4zUzVrY1dTaWlsMkoxeGpHYUREcjJvdldPX2hTTk5HVlU3anBIbGlQMlpuODB4OUdDNmJVSUdCeHQwZmMzd3pVRDFSRVFxeTBpWU9fZWh2NEhtbFJhT0pwUVE?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 23:30:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 23:21:06 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Success after a century of failures: Inside Moderna and Merck's cancer vaccine breakthrough - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeTUzVTRMVUdralpVckd3ZGs0Z2hicmdYaVM5aXM2cmZWVDREaEJhSHlRVDN6LUYwcWtxaWI1UVNNRXR3UWlEZlZWd1NuR3VUV29LVUFkQXlQbTFtbjdoNEJaMC13cUxkQnBScE1UV3RMd044bDdEclFGMU9RUXRtNUk5YkpsZ3dlSEdyUzNZbzBQZGwxN2xEUVpfcnlMMHF0M1ljcmFvRm9VUUpvYnJiZnRjVVFRV2toc3ZMQ01YRUZRRElHMXB3eVc2TG42UQ?oc=5",
@@ -197,12 +209,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 21:28:52 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Mother reunited with 8-year-old who climbed trees to survive Nepal floods - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObXBfS09sZG5sME9IbTIxZGEyalhSZ2YtYUk3RU81eGNMcGhjZXNzcnN5cEZLRVAwZXFlX3ZjTWMxY0JhcDVhNWFSRnV0UW55aHJfaFg1WkRJWHR0S2I1b2RzUVFOVERfcnpiNlcyZGJMbkVvbzAzcFZySGhuT3Nfa0U3TGEtM3hmbElGaFk4d0RjQ0JJVXRqMElRNFFIcFRzajdYRmp2aHRlNUFKczJxWS1WSld3VFBoV0VSblcyUXc0cmZiaXc?oc=5",
           "pubDate": "Fri, 28 Aug 2026 21:27:15 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlBkMDNVSkFLeW5ydV9lUnJVdDlNRjlQcTZzdTVFTTQ0X1RZWEc4MlFhLVdmLUZfWXlVMW4zNXhENHZkTEE2WU84ZTZ3V0kycE9wZ2dTQWNqZm4taEZlUGlBbEotT0pZbnFMVlM2aE0xdjZXbzJ3c0psWi1vdFNqZHZodk5TOVZHVXpYcXdKTzhhZkdQbzV4VUdRQkxkUXBPaVo2SjlJTGl6eGZMTTJ4TC1QZjZKUXdZanI1NlF3?oc=5",
           "pubDate": "Fri, 28 Aug 2026 21:25:44 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Chevron to complete deal in Venezuela to migrate, expand oil projects, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNjVMaGVWd1ZWUVUzYU15cjREcHFta0RvNVpwYlFoZXNhUlhyUndZdUU2Tk9UQXFET0JyLWE2Qi0yR1AtYVp2ZEQ3QlJKWTZSNjZGSmd0S2NCV09DdnY4WTBEaU5MczZ3aWpyZUFXYlI1Q3FKdURvUzEzeFFJWDQ2ckh2Nm11RDROVWI0Y0E3SXhHZGhudmhMbWNCWl9qcWlQYTE0Y2RqWWRrcGVPa1BVaTZobVp1c1FLNk95Y3J3MUo?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 21:13:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T23:32:10.359Z"
+      "updatedAt": "2026-08-28T23:50:13.906Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T23:32:10.435Z"
+      "updatedAt": "2026-08-28T23:50:14.121Z"
     }
   ]
 }
