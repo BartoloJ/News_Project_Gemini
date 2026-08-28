@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-28T20:00:20.237Z",
-  "lastChecked": "2026-08-28T20:00:20.237Z",
-  "lastUpdated": "2026-08-28T20:00:20.237Z",
-  "generatedAt": "2026-08-28T20:00:20.237Z",
+  "fetchedAt": "2026-08-28T20:25:30.309Z",
+  "lastChecked": "2026-08-28T20:25:30.309Z",
+  "lastUpdated": "2026-08-28T20:25:30.309Z",
+  "generatedAt": "2026-08-28T20:25:30.309Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "What we know about deadly Nepal-Tibet floods",
+          "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 28 Aug 2026 20:23:28 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Greenland says findings on genocide allegation not final",
           "link": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 28 Aug 2026 16:30:59 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "What we know about deadly Nepal-Tibet floods",
-          "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 28 Aug 2026 15:58:02 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T20:00:18.895Z"
+      "updatedAt": "2026-08-28T20:25:13.724Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T20:00:18.971Z"
+      "updatedAt": "2026-08-28T20:25:14.088Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-28T20:00:19.499Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-28T20:00:19.941Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T20:00:20.237Z"
+      "updatedAt": "2026-08-28T20:25:30.309Z"
     }
   ]
 }
