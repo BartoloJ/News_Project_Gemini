@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-28T20:50:17.138Z",
-  "lastChecked": "2026-08-28T20:50:17.138Z",
-  "lastUpdated": "2026-08-28T20:50:17.138Z",
-  "generatedAt": "2026-08-28T20:50:17.138Z",
+  "fetchedAt": "2026-08-28T21:00:21.309Z",
+  "lastChecked": "2026-08-28T21:00:21.309Z",
+  "lastUpdated": "2026-08-28T21:00:21.309Z",
+  "generatedAt": "2026-08-28T21:00:21.309Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T20:50:15.792Z"
+      "updatedAt": "2026-08-28T21:00:20.117Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T20:50:15.977Z"
+      "updatedAt": "2026-08-28T21:00:20.251Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "National Park Service backs Trump’s arch, despite its impact on Washington’s sightline - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNczR0Y3JWZ2c1dUI2Sy05UUJuWEprc0dzc0c1b2JwMDJEa0xjbmFPRTBzS0lySU1fQjZRU3hqQmVTYTdXM1VDbzBlMjVZNlotLTJnQXdtRWVNLUdzb19vYmlhbGRfcUdJZ0dRdzZ0WTFTMEVtazQ5bTd0R2xaTnJNb2lQT0hiQmxEaW4zbEFDVEdCSHQ3MFdNaTdST3l3ODRUdEhkWGVzdC1ReTBkYVhwRw?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 20:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Dolly Parton streams skyrocket after her death, making her the most streamed artist globally - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUWkzM2FzX0pRb01jUEo2bW1Ob1g2bHl1T3FmeS1laDJkbFE5X0x2dWk5YVlVbzh6OVFCWGcxeS1ISzdaNjRIeWlNS0VPT1dkSjZsZGVkTWNubHNSOER1ejlhTFhOUVpkeWNodEdaalpBLVRKbWdEOFVZWFZlNEtBb1l2bzZFd3pGTURpNHJPRDFIclFNU09rdw?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 20:10:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Israeli strikes kill 5 in Gaza and 3 in West Bank, and other news in the Middle East - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3FmcjlycjlqYTlNSzJueHF3d2ZkRHJ3c2ZEbFJkYzZ6ZERHdVE0WXFlV3Y0Uy10emVoZzV4dlBleGRrbTV6a0Z1WkJPVHBTM1NqdExfRUZvRGk5bHJRdnZSdEdBbXBSN2h4VmE0SzB2emV4NHdQQUZSSWRpUlNGRjNaamtWbEdUbGtoSlNtMzF6TGd0b05SdHMtRTFaYVk?oc=5",
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUFJSHBlaThPY3QxNm1TZEpORnhMam5QQUZTc203emxiY0pKSWJLYWtvaFZNMUd0UGluNzJHVHNhcTZERkpOdmpQR2ZsWC10Q1IxMTFIaDVVRkQ3WjhFWFZsX254RVVJUG9QemZ6ZEtIbndJZk1iYUtuNDEzUGFmejVPZTZlQXl5SEx5WGZPSzh1WHlXalY1dldNR2l3a0RkT0t2M1RZTEdLZw?oc=5",
           "pubDate": "Fri, 28 Aug 2026 18:27:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Dolly Parton streams skyrocket after her death, making her the most streamed artist globally - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUWkzM2FzX0pRb01jUEo2bW1Ob1g2bHl1T3FmeS1laDJkbFE5X0x2dWk5YVlVbzh6OVFCWGcxeS1ISzdaNjRIeWlNS0VPT1dkSjZsZGVkTWNubHNSOER1ejlhTFhOUVpkeWNodEdaalpBLVRKbWdEOFVZWFZlNEtBb1l2bzZFd3pGTURpNHJPRDFIclFNU09rdw?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 18:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Judge will hear recantation of sexual abuse claim against ex-Penn State coach Jerry Sandusky - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHNqOEM2ZUQ3ZGlHdzFlZWEyU2toYXpqYmR6MnR5c1ZxNG5vYXN5VjZBNDZJRE1HSEhnVktlZjY3a2NraFJRbUtUUUhld094Tjc2a180c1JKM3FUMVNrczIwV2czNjBsOGVBSFZGOUt6MEJzazNzYmQ3cjFRc0VMemJpYmJyMEZRYk9aTzNWU1ZqU0tfOE92VFhB?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 17:49:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T20:50:16.444Z"
+      "updatedAt": "2026-08-28T21:00:20.732Z"
     },
     {
       "name": "Reuters",
@@ -185,9 +185,21 @@
           "source": "Reuters"
         },
         {
+          "title": "Chinese rescue team finds 'nothing but ruins' at flood-hit Himalayan border crossing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNTU5TmV6N2N0dHN6Q293S0JVZjRwbGtkQ2lyV1ZpTUt0eTBTNDJvVkI1Qk5mTWFlM25yOUFQVG1VQWZqbjhrLVNRQU81UjBhakxqRmlETF9rVDNCUm4zUzVrY1dTaWlsMkoxeGpHYUREcjJvdldPX2hTTk5HVlU3anBIbGlQMlpuODB4OUdDNmJVSUdCeHQwZmMzd3pVRDFSRVFxeTBpWU9fZWh2NEhtbFJhT0pwUVE?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 20:24:08 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjVfaWU5QkF5T0paRm0xSHdteDJHZjB1YTVMcmNZcjVWNHQzcWV2Rm1FaVd3RFN5OHFndERRRUljQ2dYMjhJQXdER21XMEJjQThvN0JONTRJNlpNUEt2V2xCWGtFdmJQcVMydi1MSEtDd1lsQVR4Q2ZYZDlldFI0VE5odDc3LVU1NDB5SlRQVlh3NWg4Tjl1Y2J0blJxczFyVUNmYlZ2b0hCZ1o1SzdiMFdEUHRfWlBWUTlCLVRtN3g?oc=5",
           "pubDate": "Fri, 28 Aug 2026 20:22:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Kalshi cannot block Nevada oversight of prediction markets, US appeals court rules - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlBkMDNVSkFLeW5ydV9lUnJVdDlNRjlQcTZzdTVFTTQ0X1RZWEc4MlFhLVdmLUZfWXlVMW4zNXhENHZkTEE2WU84ZTZ3V0kycE9wZ2dTQWNqZm4taEZlUGlBbEotT0pZbnFMVlM2aE0xdjZXbzJ3c0psWi1vdFNqZHZodk5TOVZHVXpYcXdKTzhhZkdQbzV4VUdRQkxkUXBPaVo2SjlJTGl6eGZMTTJ4TC1QZjZKUXdZanI1NlF3?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 19:44:43 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLW9HOXdFRGd4QWlJUHhlT0hzZEpqekl3UllCWkU2cW1BNmlzd0E4TGxSZVpIek5Vci1BM3RXNndHcGk4RWt3ZXVGV2NnMDBTQTJPNkNMUm1QVnpMdHRydXhwTFZqbTh2SDllNzdETEgydEhhWG1TVy1adWp5VDNDZEVMbWZnWWpxTGlLdEcxcm1oQ2YwenBaVy1KRUlsX1hVWS1BS0lhR21UNl93WFM4dVhWNEtHNHFZVWgtOGpUdUFITnBudmZhRA?oc=5",
           "pubDate": "Fri, 28 Aug 2026 19:17:14 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Zelenskiy says US gave Kyiv information about meetings in Moscow - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHMxLV9xV0M5U1ZzREhsNGJ5bnRCM2ZkREZYei1oUFFoWHo2SE5sZFA3V21zazJRdWJzX1pYcS1UTzl6S2ktV3VBanhjNUdYWm1YNFpIdDJHSVJwc3lsMnRBYVN4bjl0eUZCNldNdGxzRXNKZ2dTOGxMZFc4elB2V0ltMVAzemFFTTdtT2Z2bkEwQUpJOUg4SzZheExEMTFBYjhRVVgyQVBmcFFHMVlV?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 18:57:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump loses bid to move already-decided criminal hush money case to US court - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUUg0czFxNERQWmlNeTdTVXNmbnA3dVkzbERZSXB3OC1yTWt2RkFqd0EwSGhxUV9wc2lzbHpMa3BkWlphRG5ndmNnWmFXc2hjN3hHV2QtTzdUWHZydUJ2N1VCVWdFWDJFdFkxUWhQU2gwMGVVQmFvTVhXWVEtYmxZSzNjU1Nibi1qai1Gb2ZGVVdmdUZFeGpFbHpNS0NtX2dxNnJQdjFIWG1PLUV0Rzk5UEtR?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 18:49:30 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T20:50:16.834Z"
+      "updatedAt": "2026-08-28T21:00:21.197Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T20:50:17.138Z"
+      "updatedAt": "2026-08-28T21:00:21.309Z"
     }
   ]
 }
