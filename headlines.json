@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-28T07:00:21.532Z",
-  "lastChecked": "2026-08-28T07:00:21.532Z",
-  "lastUpdated": "2026-08-28T07:00:21.532Z",
-  "generatedAt": "2026-08-28T07:00:21.532Z",
+  "fetchedAt": "2026-08-28T07:25:17.405Z",
+  "lastChecked": "2026-08-28T07:25:17.405Z",
+  "lastUpdated": "2026-08-28T07:25:17.405Z",
+  "generatedAt": "2026-08-28T07:25:17.405Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T07:00:20.152Z"
+      "updatedAt": "2026-08-28T07:25:16.111Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Norway's King Harald V dies at 89 and his son becomes King Haakon VIII",
+          "link": "https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii",
+          "pubDate": "Fri, 28 Aug 2026 03:11:46 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "What a fake poll reveals about worries around prediction markets and the midterms",
+          "link": "https://www.npr.org/2026/08/28/nx-s1-5945290/fake-poll-meridian-stratgies-kalshi-polymarket",
+          "pubDate": "Fri, 28 Aug 2026 03:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "U.S., South Korea and Japan to hold drill as North Korea ramps up pressure on U.S.",
           "link": "https://www.npr.org/2026/08/28/g-s1-140849/us-south-korea-japan-drill-north-korea",
@@ -97,26 +109,26 @@
           "link": "https://www.npr.org/2026/08/27/nx-s1-5945044/federal-reserve-kevin-warsh-jackson-hole-wyoming-bond-markets",
           "pubDate": "Thu, 27 Aug 2026 13:01:36 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, has died at 84",
-          "link": "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead",
-          "pubDate": "Thu, 27 Aug 2026 09:32:43 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "The real cause of most wildfires? People",
-          "link": "https://www.npr.org/2026/08/27/nx-s1-5944328/the-real-cause-of-most-wildfires-people",
-          "pubDate": "Thu, 27 Aug 2026 07:30:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T07:00:20.306Z"
+      "updatedAt": "2026-08-28T07:25:16.288Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Norway’s King Harald V dies at 89 and his son becomes king - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUHNOX1pxMzZOcXo4VmU0S2xfU240TEJQaXlDYXZZeVd4QV9rczlNSUpURFNtQ253WkxzenVSM0NJTzRsU1hhT0JwakhSc1JHUTNVcndQb3o2SzI3YkFhUWxwZGsxWWxoRkJNVWM2OE01QWVwNTNBaHZPU3hCNHpDVGkySHc?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 06:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Satellite images show bedrock and glacier collapsed on Nepal-China border, then rivers flooded - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0hxRHBnWFoyNWRENDlDZFp6R3hMMVhaR19UeGpIbkFPQW5lX1NWSEw1azV0SWNCMVhsamF3dnYwdy1LaUpoeGVBdHBXcUltM0VYdm5TNG1lUGRfeVBpdmV0VVU5cUYtLUJkWHhETGxYbTB5WENXd05RM3JZZ0pLNF9kbVkyX0NBN19xU2JVb0lyVEUtYzB3eGFTM3RlZGNkSm1Sb2o2UzYwQWFmMFMw?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 06:22:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Tropical Storms Karina and Lowell form in the Pacific Ocean as Dolly churns in the Atlantic - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZWZLU09RT1NxRGhwblJEUjVDTVJsRDd0aE5TRXRFU3VqNFBpMU9ON1JNamF0d0NMS3JRZ1EtUHNlSmc5TW56aVRQRXJZSFRHTWpBTzV3MHdySnhTRGhjZ29tSUdGWlFkWlRWWFJqY1JuS2czTVMxdjhBNEU0b3VkaDdHV0Q5Zzd6ajhTTUJJM1ZSSnM?oc=5",
@@ -152,36 +164,30 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzlFLW9welZHOE5lTDFRRk8waW5YU1dPVXdsU2ZzSVd6MzdpbENKbTZHenpWbEg4NldyaVhiYlpzeFNoMHZScm4wNElGVHkwN1h4NGpqWUdSOTlLdTlqN242TFVtUU0wQWVDbUpDWHZnZDU2TV9YS2Z0SVZtdkJXelRBWUtJdkQwOUxrZVlrSklndjhucW5rZQ?oc=5",
           "pubDate": "Fri, 28 Aug 2026 02:21:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, dies as a prisoner at 84 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUERKNVdUQ0FuTzY1UFJrY3ItTmxtZ29tR0pxUGMzNjBjMUNhZVB4X293dE0zM3hlSXlxbjZZOUJmV0dnODdwUUtvc296Z3VQNVhTMnU0TEJGWTJxSWtGRFFOLWRJZlhxRVdnZmxJa1pyekVKaEpqUWhqQUp2UjdCc2ZKRQ?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 02:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 02:17:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T07:00:20.760Z"
+      "updatedAt": "2026-08-28T07:25:16.742Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Dollar flat near one-week high as investors await Warsh's Jackson Hole debut - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTRZaFZxX1ZxcFJfZUs5OTl0c3lTVDJDWm55NWlHVG9CUmloOU9DWF91QXV1MGxVbTlGSTM2Zmp5MHlyUkJ4YjBiRHVMZGZLemlRcTV4N1ZiZ2Y1V0ZYelpGd3lROUNQSXYxNGFMYWoyWVFVMDQtWmt0RDgyemVtNm5lTDlXUVI4WGxzRWVxbmEtMXptWC02dWllNF9wRFR0anFYbG55TFhXVjRGSlRuQ0xJNFNvMXVDaVdMd09hdGg3VFpsMFE?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 05:58:37 GMT",
+          "title": "King Harald, Norway's reform-minded head of state, dies at 89 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEdTOE1wSHluakhCd1otX1RTSXBoMU44SnRvLWVKMlBMdWlwZ282eE9zWjZ4UFduZnhHX3N2dC1jOWVZbkVWVEJvRjdnYmdJUUFJYU4zbC1ZRVZwc25KQ3BvRDlyaW5UREo4UVFYSnUzQVVabkxHVkpOWHpOMFVBb291SWtGeUg1SWtrNHFSWmxFZHlGVFdURkRtSjlhUW9ramVN?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 06:38:00 GMT",
           "source": "Reuters"
         },
         {
           "title": "Google changes spam policy in EU to avert antitrust fine - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUDZrc1RfQWhvLS0xdzdyaHRIeXBEV1lkVVFFdi1QVkpocXZwbnlGTHNLNE1wcTVRNkpseDNVTm80LWdzelZLMkR6c2pscUVRMHVGeWdFdzByTlgxUFBHa3MzT2ZiczhBbGZjWGRlR1VUMXR3Mm14OTBJQ3A5WjA2cXdldVRTZXc1cXB2NGlJNElQT3VsVmhUWmpTU1dRU3dSWUlWaEl3?oc=5",
           "pubDate": "Fri, 28 Aug 2026 05:08:13 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Thailand's southern insurgency leaves villagers trapped in a cycle of fear - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd0RWMjFpUnlzTHZmTjJ3X0M2YUlBQUJYaXNmbXVLZW9hd01kakZsdFZyVlJRRjd4ZmlCdjBlb0R4TGQwQW1yNDdmOUJNUTVUUVZKd1ZoTWpwRlhSM09lVUVaSWtHal9pNkt1aDRUODM4ZmhkRnBzbVFTUnRFODFqR1pOa3VTQzJPVHh5N2p3RHJsM0swemMzQ2RlWjdFN1R6NXAxNjJrVlhyRi0xaDc3UFVjQWVNLW96NGpfZw?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 05:03:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWWFQejNhVHNBdHZSLTN1bkFpdDNwWnhCeGVaVGR3VTNrX1VMWU00ekxqdXlhQnp3cVlyYVRRRnhveDdqRXlzaW42ZkpaSGJJZ2tsbVF2bWY1Qm9fdEdtaGxiZmpQYUg0eGM2RElpcmdlNXF3ZU85LS13SVoyNUNpOHNxSXdta3gyWFd1ZFY3ZUlmLTNaaHJZSTdyU3ZyM0hCU3owRDZrMHpncUoyVWtzV3VJNGZfOEtBUGc?oc=5",
           "pubDate": "Fri, 28 Aug 2026 02:48:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "IT leads Indian shares higher after recent drop; Fed chair speech, closing volatility in focus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzNGUWpsTjFQNm5KaC1uaUREbEp6dkR1WWlDbktxLVlnUGI0eG1RZ21Nai1wcXNPRndtOHlFR1ZfeTMyR3lFdXYtbzBPR1Nrdi1PTlBDbXAtVHU3S2IyQVdfRG5jSWNFMGFhMXZVa0p3dTVWbkI1REg2WmJScnpOd01DanJVRWlpTkF5ZWw0d09ubUQ3NUxuWUMzc29oNTlaT0Vmc2drR1VnVHVaUzl5aXdkTHJDT21fcWk3VFdsTWhMM1hkTkE?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 02:37:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T07:00:21.167Z"
+      "updatedAt": "2026-08-28T07:25:17.153Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T07:00:21.532Z"
+      "updatedAt": "2026-08-28T07:25:17.405Z"
     }
   ]
 }
