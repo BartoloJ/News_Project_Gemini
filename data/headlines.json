@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-28T00:25:13.688Z",
-  "lastChecked": "2026-08-28T00:25:13.688Z",
-  "lastUpdated": "2026-08-28T00:25:13.688Z",
-  "generatedAt": "2026-08-28T00:25:13.688Z",
+  "fetchedAt": "2026-08-28T00:50:17.072Z",
+  "lastChecked": "2026-08-28T00:50:17.072Z",
+  "lastUpdated": "2026-08-28T00:50:17.072Z",
+  "generatedAt": "2026-08-28T00:50:17.072Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T00:25:12.241Z"
+      "updatedAt": "2026-08-28T00:50:15.812Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T00:25:12.394Z"
+      "updatedAt": "2026-08-28T00:50:16.081Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Yayoi Kusama, who splashed polka dots across the art world, dies at 97 in Tokyo - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObGgyNnA1LXgyRjFpQUxqV1dOZzd4TkcyemtJT0lkeDU3djJab05kT2F5eTBYU1JGelpTbkp5TDFMVFdoOWtxLW0zNXNDUjhCZUJYQVBRTExjYXJDUklUazVWeWFTY19WbEt1YnJBQmhPNW1xWW9OeEg1WGNEU2hhQ1cxc1VuVXRiMDFpRFc3Mk5BUQ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 00:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "ICE officer’s release from Texas jail opens a new front in the escalating fight over extradition - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjVzVk5QWVpNVzVBdThqMWhfa0tfS3QyNlZEZEphaWUyOVdTTlo2Q2pscVJtV1NvQld1STN3THM5cVpMTE4zSDhUaXJuMElxQWJlX09iS3RrQzhBUjdnc2VVcE1JR3RmNWtPM0VVRE50eUZTWndQWms2bFp4RHIyQ1FjSXM0M2pZdDN6NUd4M3l4M0c2UTFVcHB1eWpXQ1lxM1d3OEhxOHZQcmxKUm94THNGSG5La1FQ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 00:34:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Catastrophic floods kill over 390 in Nepal and Tibet, with more than 1,400 missing - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTRiakhGUy1IMDZwSGk4Zld5ZmdZQUNmMzZWMVZ3cHo3TkF2alg4YjIybVZaN0lFV3plMUdWc285NU1GS0dXZ085M1hzcWdwZGZ2RV90dDZGSDF5b3dNZ0h6MHZMV3JEU1dqS1Y1WlpNelU2cXhCVm53U0ZyNUJkcl9mcnRBM1Z2ZHl3WGhFRUNnUHB3eURyc2c5QzVpelN1UFRyZGY0eF9WakdnbWtJ?oc=5",
@@ -127,6 +139,12 @@
           "title": "Judge questions why Kennedy Center is moving so quickly to return Trump's name to building - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0U3NkF1YktKZF95cjlfZjBPSjVvbDA3LVlNbGRNSWVMeEhUeERKdi1PM1FnenVjWjFRa3VyOVUwYmFUZWlOT0ZnR3JuUGh6SGtwVXdNcUlQWXZXMmZoa25UM21nZVdmNzQ4YlhiTnpTMlZhVlVZcXc2YWw4UUxRbDA2RE1nZ0F6VGtHY3lCek5tekstazNmMXgzRTltc256UFRMd3RmV2VHZw?oc=5",
           "pubDate": "Thu, 27 Aug 2026 23:13:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "As super El Nino strengthens, study suggests that climate change is intensifying El Ninos - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXhzR216MlZIRWRDdGxjbFk3dHEtTVZ1ZlhSZzJ4NmpiZXZKSURvRG1vNmJ5Y2FmcEZ3TUlvd1I1T3V0Tm1jSlBucDhrYlpvQzhLTWlVZndBVno0cGk0empibVk3S2xjQ0JsZ0ZIamFPeE92QUFYdVhOT01vYlBQZTdEWjJOQ2ItZUNuX180SWZ2bTRYQXlKQkRlQjg4V3M4YnVTVlNQRnNmdlU?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 23:03:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,28 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDhuZEEwWDVTTE5jZ2FDMEZ4UmotVVdXMFVtbEtURy1TelRIRzdjT0F5Q2pPUDVXTW56R1BUMUkxUDZBaW1qYkU4dWJpVjhJbXNxNjdlOVh4RTJnRnE2ZEdWVGdPSXhmeFhWR1hWclJwQjc3bS1xWGN5VGwzTGtYek41NjFabzRYQXNzQ1hkRnY4ZkZQbXlkREtPZWJjR2Rf?oc=5",
           "pubDate": "Thu, 27 Aug 2026 22:31:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Shackled Tate brothers testify in bid to get out of jail, but judge delays decision - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzlFLW9welZHOE5lTDFRRk8waW5YU1dPVXdsU2ZzSVd6MzdpbENKbTZHenpWbEg4NldyaVhiYlpzeFNoMHZScm4wNElGVHkwN1h4NGpqWUdSOTlLdTlqN242TFVtUU0wQWVDbUpDWHZnZDU2TV9YS2Z0SVZtdkJXelRBWUtJdkQwOUxrZVlrSklndjhucW5rZQ?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 22:27:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblotQXR6VEctdkdvVUhZYUNsWXBPQTd2QjU4TTNZd0pFTnk2LWtXejlfMjBRRDJjamYzRWthTE96NmpCMmROV1B2eW1uLXI4aFcwQTRGczJXTS1HUm1YTUo0U0J5ZTJFQkJNUVVVcGJsc2xhZ1FYQkpIRm5Ba2N4RnV4eG44UHdQdWZIMHdWX09IMGI1RVl5YllOTkJRanlKcWFxalM0d0dsVmRl?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 21:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "ICE officer’s release from Texas jail opens a new front in the escalating fight over extradition - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjVzVk5QWVpNVzVBdThqMWhfa0tfS3QyNlZEZEphaWUyOVdTTlo2Q2pscVJtV1NvQld1STN3THM5cVpMTE4zSDhUaXJuMElxQWJlX09iS3RrQzhBUjdnc2VVcE1JR3RmNWtPM0VVRE50eUZTWndQWms2bFp4RHIyQ1FjSXM0M2pZdDN6NUd4M3l4M0c2UTFVcHB1eWpXQ1lxM1d3OEhxOHZQcmxKUm94THNGSG5La1FQ?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 21:53:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T00:25:12.880Z"
+      "updatedAt": "2026-08-28T00:50:16.548Z"
     },
     {
       "name": "Reuters",
@@ -197,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "US FTC probes YouTube over social media policies, Bloomberg News reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVUwTGVZZlBwRnNocWQ5TUNnaWVReERoYWs1SVFFOHRBcmNjRG5oajZLR3dkRXJrRnNzclUxRU54dFBlTVh5VkplS2pQQXJzVWJvQWhqdjI5cjMzX3V4NXR0XzBFSTBPakxTWW14XzFuN3BwMXU0QXppcVJKbXJEeGNGdUtsWHFpRFRLamc2RkY3WDQ0LXBQY0oyaHBPNGdOcndYb0EzbHBmQjFJLVFHZjg5eER0QnpISEg0dHN0cks1QQ?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 23:03:33 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Nvidia pauses revenue-sharing deals with AI cloud companies, WSJ reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkFHVHZ6Sk1JRExqTlk1Zl9VSGFEN0FHSXIxbXdhNllud1dSMWFoWWNiTUJ6V1Fqb3M2U2JvdWFNS3VMMS1rOGFhaU51RGFXR0EyQkpHWFBnaVB5d3pWdktTM1Q1SlhkblB6RTJHdUx1WVJJQ19xVzlaVldXOVVXbjRFemN2X0hmb25UNXNvb0dmUjUxZktXcTdTeGhMNmVsTnEyODFYYk1KQ2ZFOWlHYVozTl8yU0E?oc=5",
           "pubDate": "Thu, 27 Aug 2026 22:47:52 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMUV2Y1lUR3BQelUtbjNRUTdhSFExZU13SGlhd09BRkx6eVZHUDZxeUpBVGlkSGI4VnMxSVVINEs1emdVQllLekpVTGtnbGNQQmRScEVERnZyTV91V211SGZxWWhEVTNiVEE5bWFQNElUZWRhYm1IOXBfR1g1OWNVQUlxbDVvc1dhejdqREFmX2gwUjhFdEZ5Wm5IcUxGSlM0R1ZRa2l5RmtCVE9kVE5DRlBYTmpFNzUyWGVV?oc=5",
           "pubDate": "Thu, 27 Aug 2026 22:30:13 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Lindsay Clancy's 'mind was gone' when she killed her children, her lawyer says at trial's end - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUlhHMEdIVW1CRDB5ZlFrSkpfa2lhTGt1VzB6VFkxWXdPTi1QMFNkaVk5cENqQVZSN3hrZHpwc0VxV0tXS21xa0dpR1FvQzk3R3lxcGZCOXdObHBTNVQ2cUZVblZFOFV6Y1hDdHF2X0wyeTFEWUdSUVlDVnhzM2ViNjkya0ZHTHAwMXVRUHpaV1NwVk44cGN4QUdWOXdUNnhiRW83a1kzSWcyZ1FzUDlCbVFUUlBEbEFKaGllUFQ1QUxlZUNPaVBVb0t3?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 22:27:19 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T00:25:13.314Z"
+      "updatedAt": "2026-08-28T00:50:16.957Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T00:25:13.688Z"
+      "updatedAt": "2026-08-28T00:50:17.072Z"
     }
   ]
 }
