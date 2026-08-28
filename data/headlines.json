@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-28T12:00:20.121Z",
-  "lastChecked": "2026-08-28T12:00:20.121Z",
-  "lastUpdated": "2026-08-28T12:00:20.121Z",
-  "generatedAt": "2026-08-28T12:00:20.121Z",
+  "fetchedAt": "2026-08-28T12:25:15.643Z",
+  "lastChecked": "2026-08-28T12:25:15.643Z",
+  "lastUpdated": "2026-08-28T12:25:15.643Z",
+  "generatedAt": "2026-08-28T12:25:15.643Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Dutch court sentences man to life over Rwanda genocide",
+          "link": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 28 Aug 2026 12:15:46 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "What we know about deadly Nepal-Tibet floods",
           "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c70d41g40njo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 28 Aug 2026 09:31:42 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Norway's King Harald dies aged 89: A beloved monarch buffeted by family crises",
-          "link": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 28 Aug 2026 09:27:17 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T12:00:18.575Z"
+      "updatedAt": "2026-08-28T12:25:13.992Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T12:00:18.746Z"
+      "updatedAt": "2026-08-28T12:25:14.326Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Norway’s crown prince becomes King Haakon VIII after his father’s death - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOamZfc1htcTlBTFpmMVozQ0dQbGY5U3FTNFdJVUpkZFNSNGM0Tzk0QmtsZzIwTlBZNlhNbkp0eEpMNlozVTRDci05ZF9MLUhQOUZRQVAwbk0wNnFLRjRac0xGOHhfNDhGMWtVeHRmVmNxdnphY3FzdTgxd1BhQ1JNQnJidkQ3N1JVbU5JdjVINHpmbWth?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 12:04:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "People from more than 30 countries are missing after the flash floods in Nepal and China - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnVybUZxUVVIOFRWdUZUVWlvUlRWdzMwUktBN1JNdkpJdWtZWjhnLVpEaDNPN1ZpLUdkbmdnaXo1LTM4OWpQejM2RDJsWkhvaV9SWEtsVXpDcGg1RFEzTnYwcDlVOWdDVXY0SEZ6QmR4cWRFVFYwU0hXNDVma0c0a204U3lPV21mU18wM2pDTmE5bUl0WXZr?oc=5",
@@ -126,13 +132,7 @@
         {
           "title": "Norway’s King Harald V dies at 89 and his son becomes King Haakon VIII - AP News",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUHNOX1pxMzZOcXo4VmU0S2xfU240TEJQaXlDYXZZeVd4QV9rczlNSUpURFNtQ253WkxzenVSM0NJTzRsU1hhT0JwakhSc1JHUTNVcndQb3o2SzI3YkFhUWxwZGsxWWxoRkJNVWM2OE01QWVwNTNBaHZPU3hCNHpDVGkySHc?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 08:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Norway’s crown prince becomes King Haakon VIII after his father’s death - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOamZfc1htcTlBTFpmMVozQ0dQbGY5U3FTNFdJVUpkZFNSNGM0Tzk0QmtsZzIwTlBZNlhNbkp0eEpMNlozVTRDci05ZF9MLUhQOUZRQVAwbk0wNnFLRjRac0xGOHhfNDhGMWtVeHRmVmNxdnphY3FzdTgxd1BhQ1JNQnJidkQ3N1JVbU5JdjVINHpmbWth?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 07:56:00 GMT",
+          "pubDate": "Fri, 28 Aug 2026 08:00:30 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T12:00:19.252Z"
+      "updatedAt": "2026-08-28T12:25:14.884Z"
     },
     {
       "name": "Reuters",
@@ -175,7 +175,31 @@
         {
           "title": "Nepal and China resume flood rescue after lake threat eases, death toll tops 500 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNTU5TmV6N2N0dHN6Q293S0JVZjRwbGtkQ2lyV1ZpTUt0eTBTNDJvVkI1Qk5mTWFlM25yOUFQVG1VQWZqbjhrLVNRQU81UjBhakxqRmlETF9rVDNCUm4zUzVrY1dTaWlsMkoxeGpHYUREcjJvdldPX2hTTk5HVlU3anBIbGlQMlpuODB4OUdDNmJVSUdCeHQwZmMzd3pVRDFSRVFxeTBpWU9fZWh2NEhtbFJhT0pwUVE?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 11:06:17 GMT",
+          "pubDate": "Fri, 28 Aug 2026 12:16:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Success after a century of failures: Inside Moderna and Merck's cancer vaccine breakthrough - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeTUzVTRMVUdralpVckd3ZGs0Z2hicmdYaVM5aXM2cmZWVDREaEJhSHlRVDN6LUYwcWtxaWI1UVNNRXR3UWlEZlZWd1NuR3VUV29LVUFkQXlQbTFtbjdoNEJaMC13cUxkQnBScE1UV3RMd044bDdEclFGMU9RUXRtNUk5YkpsZ3dlSEdyUzNZbzBQZGwxN2xEUVpfcnlMMHF0M1ljcmFvRm9VUUpvYnJiZnRjVVFRV2toc3ZMQ01YRUZRRElHMXB3eVc2TG42UQ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 11:32:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "India signs deal with US to buy Javelin anti-tank missile systems - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ095M0taQTY4ZXJWRUFENDdIbFg2LVNoS2pSaVJPT2YwOHUtekpQMWJKa0xGak5NUVp0d21QZ1lzUEc1NG9wLWhNLV9UcXZ2UERibndRWHdjQl8yOTdudXBEZXFPS2ppdmNlaW4wNzcxV050Q01uNnRReE1FR1VHanVwU0o2ZGMwa25BRXFLWWZsNHFHS2RIdFJXanJSaFdKSXVIcW1GcG5keG90LVNxc2l3N0ZLX0VnWHdoN1Rn?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 11:31:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Thousands march in Washington as leaders warn of voting and civil rights rollbacks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0NGcWdzYUVBTGFzcVNhVzhJTTVFWmVjWFBqamtSNEZMUTg0ODNtcTdTVVFfZm8xNjQyVWxCMkFLdHFuMmRBUDRxbjNGdF9aUmZReV8xSnI5N0hTVXdIdmVvZTBBbkFkMFZaSmE3VXhkTDVMV3ZiMTJFRlBpOTRLdVdRTW51bUlrMUc3aVV6ei1vWlhVc2FYREJpNlVvTHpyVFlOMWxMQUZxMHRLMzRHTHZVN3M?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 11:30:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Over 90,000 affected by Himalayan landslide, Red Cross says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSXdHeTBkR0ZRcDA1bVJRd3hBbklfN3QyZGtvalkzWGJWVnF2ZlJDQlhfcXNZWVZCWmM1OXV0TzFSaHRkd0Jya3pzcDFMbUxNWVRVd19CNG55cVhoWXltSWd0SlNTWHJWaWdYV2ZSUmRhTGNUelI5ZXJ3T3huSHAxV3RmeUVGYmtIYVUwcVZGZXJxVzJKZExpRGpkRGlzWjZSSXNnQnFUUzJiSDZUS016RVZ4dDM?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 11:20:31 GMT",
           "source": "Reuters"
         },
         {
@@ -191,38 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Haakon, the reluctant prince who became Norway's new king - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1R6UXJMSHhPSlZmVVloVmZKUFA4SE1CRzE2RDZxdXoyaXQtYS1xYWlTMm45X1U4cUNmVW1Fdm8zTTJTSFYwLVBncVRzUjJiaVA1U25ldE5IVzg5LUtfTEFlMWxVUmc1SWFpSWtqa1VHSGdPWThUbmpNdmVUQnhON1VNMjBjaE9RSkxzX1BCSE9fMkZDZzkxTk56OVNJUmlQSEdqSDQtbWZjLXNPTFlV?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 10:20:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Google changes spam policy in EU to avert antitrust fine - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUDZrc1RfQWhvLS0xdzdyaHRIeXBEV1lkVVFFdi1QVkpocXZwbnlGTHNLNE1wcTVRNkpseDNVTm80LWdzelZLMkR6c2pscUVRMHVGeWdFdzByTlgxUFBHa3MzT2ZiczhBbGZjWGRlR1VUMXR3Mm14OTBJQ3A5WjA2cXdldVRTZXc1cXB2NGlJNElQT3VsVmhUWmpTU1dRU3dSWUlWaEl3?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 09:58:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India signs deal with US to buy Javelin anti-tank missile systems - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ095M0taQTY4ZXJWRUFENDdIbFg2LVNoS2pSaVJPT2YwOHUtekpQMWJKa0xGak5NUVp0d21QZ1lzUEc1NG9wLWhNLV9UcXZ2UERibndRWHdjQl8yOTdudXBEZXFPS2ppdmNlaW4wNzcxV050Q01uNnRReE1FR1VHanVwU0o2ZGMwa25BRXFLWWZsNHFHS2RIdFJXanJSaFdKSXVIcW1GcG5keG90LVNxc2l3N0ZLX0VnWHdoN1Rn?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 09:37:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ugandan King Oyo Nyimba, once world's youngest monarch, dies at 34 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYWhTek5LX1pzampoMXpSNFQ5NzhUM0VUN0pkSDlxX3M0b0drM3h3ZHBSbzE0Slh4Wk15aFphRkFJV0pmLVExNElKOFo2ajhIcHoyRXR0V0pCcW1zMmVCMTdMazFIMTg5QjF1SVRrY2FvNU9KWElsQUNtWDNwVDZYbldYcUlfX3NMUWJkV190WjNLUEJFUzYyalNuc1VUM2RVZ0RLSDg2aWRPemgtaEE?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 09:02:06 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Mette-Marit, Norway's embattled new queen - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSHRXNm1fZlpwdmF0NTM2WnJ6YUtpX19vbmR3a1h3clh5aTBiNGc0bENMam5tLXlKcHNYYTVQM1haUHpzaU9lTTdweERza3VCNjJHbVJvcE1xZFIzaVRTYjNvSk1QaF9hcGN6RjhhNXloeTdYU3pEZUo5TXMwWHgtNkxWYkN2V0gxOU5pdHItbkNPbXZ1ZWc?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 07:40:21 GMT",
+          "title": "Pipelines and ports: Iran war spurs Gulf infrastructure investment - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFpCNDNNRjl2ZVJGeG1nOHNCd09IQ1VQS1hJejJiX0V1TFRGalFNS1EzbjZHS1Nua0pNNlVWZzlpVl9GM0FoNGVNMGhEY1djUW9HRFRpODlUQnNLaGtXT092WVRNT3NyWHFaN2tYT1N5OW00VDljVXB0cDJ6UU5tMktQaFBwVUZCZHFmRkVfcVRrR25NTWFFd2ZhRnVpVGhKNXk1dzhVQ21YUFcwWC1YODdvUQ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 10:35:38 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T12:00:19.735Z"
+      "updatedAt": "2026-08-28T12:25:15.320Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T12:00:20.121Z"
+      "updatedAt": "2026-08-28T12:25:15.642Z"
     }
   ]
 }
