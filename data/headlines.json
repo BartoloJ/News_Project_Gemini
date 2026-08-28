@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-28T01:25:12.324Z",
-  "lastChecked": "2026-08-28T01:25:12.324Z",
-  "lastUpdated": "2026-08-28T01:25:12.324Z",
-  "generatedAt": "2026-08-28T01:25:12.324Z",
+  "fetchedAt": "2026-08-28T01:50:14.522Z",
+  "lastChecked": "2026-08-28T01:50:14.522Z",
+  "lastUpdated": "2026-08-28T01:50:14.522Z",
+  "generatedAt": "2026-08-28T01:50:14.522Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T01:25:10.875Z"
+      "updatedAt": "2026-08-28T01:50:13.236Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T01:25:10.934Z"
+      "updatedAt": "2026-08-28T01:50:13.343Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T01:25:11.376Z"
+      "updatedAt": "2026-08-28T01:50:13.801Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "US officials weigh plan to shield farmers from expansion of refinery biofuel waivers, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTk9aaDNITHZ1ajlMOHZmVUdIcFYtMHZoN3gzY05oenBQSlIxOEFYdmNpT0RSSTlEMjREQmxyWnptU2wwTWV6ZWNzSnR2UlFEVjZpRG9kNDlMUHp4V2lTakRYcU5IbXhnM1NrWkZoZXNFeGN5NkhVbWJZbkZRbFQzSERSVU9MNjJydENueldxaVJodksxWWdZeDY1VjdOS1JFRkJXN0NfYmEzbUZYYUd2eWlnZ3VDZXc?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 23:45:43 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US nears deal to secure long-term access to Venezuela's oil reserves, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRF95WlhaYmlURFBLWldzTDhQdnQ5Zk1ad09Pd0kyOXNtNUxIOFA5cEU0T1VVR3dWMUYzRWxJbWRBVXFUZlVLNmpxZ0tPWThJTDRob3RsSHYzZUNCWVVuZE9fYlZSSVZ0NS1uTkwtRVVBa29oc2hhZGFYQlBsenJhNG1KOGY0U1ktZy1Ic1NHUklUVVFBTDlEUzZSZEd6V2JtM0JjbWpWaWNQckQ3RHUxY2NSTkNzdnRyMElVOUVUSUh4cU0?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanlhWGJGcHdKencyMnlRUHBUejVOZlByMTJjWm8wSVVOdWRZV3FBQUlFNFI1WXVqTUdQaEtFeEJkeHl4aTEwaXJmd0MwTFY4VmJOMS02cWJ6ZGZzVEczaGFNelFqdmJoeFNhMGlzNzVzQ3hQOVFtejNvRXZqcVBQek5zY2l2VERfVlk4aHd3WXQ4YTc0MVhIdXF6ZHA4bFVBRlNNWXlKS0ZnbU1JdFo3MWFzMDg?oc=5",
           "pubDate": "Thu, 27 Aug 2026 23:01:30 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Nvidia pauses revenue-sharing deals with AI cloud companies, WSJ reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkFHVHZ6Sk1JRExqTlk1Zl9VSGFEN0FHSXIxbXdhNllud1dSMWFoWWNiTUJ6V1Fqb3M2U2JvdWFNS3VMMS1rOGFhaU51RGFXR0EyQkpHWFBnaVB5d3pWdktTM1Q1SlhkblB6RTJHdUx1WVJJQ19xVzlaVldXOVVXbjRFemN2X0hmb25UNXNvb0dmUjUxZktXcTdTeGhMNmVsTnEyODFYYk1KQ2ZFOWlHYVozTl8yU0E?oc=5",
-          "pubDate": "Thu, 27 Aug 2026 22:47:52 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T01:25:12.089Z"
+      "updatedAt": "2026-08-28T01:50:14.254Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-28T01:25:12.324Z"
+      "updatedAt": "2026-08-28T01:50:14.522Z"
     }
   ]
 }
