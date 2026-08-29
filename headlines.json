@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-29T05:25:13.636Z",
-  "lastChecked": "2026-08-29T05:25:13.636Z",
-  "lastUpdated": "2026-08-29T05:25:13.636Z",
-  "generatedAt": "2026-08-29T05:25:13.636Z",
+  "fetchedAt": "2026-08-29T05:50:15.032Z",
+  "lastChecked": "2026-08-29T05:50:15.032Z",
+  "lastUpdated": "2026-08-29T05:50:15.032Z",
+  "generatedAt": "2026-08-29T05:50:15.032Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T05:25:12.499Z"
+      "updatedAt": "2026-08-29T05:50:13.517Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T05:25:12.665Z"
+      "updatedAt": "2026-08-29T05:50:13.865Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Rescuers search for thousands missing after floods at Nepal-China border - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 05:08:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
@@ -158,20 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkU1bDNEWV9ubVBKbUdqeWRLVkZhX3NRYk1LcEEzVlJDZVdXRVNoa1dWa0JVV1VKMy1Sd2FUSVBHYmZGOGRfdzRocC1HUnZFWldHcG5zaFNYbloyeEpqWElKX3lWSmkwRUlGMGtkdmlDdFJJZGl3cUF6YVB0SmFqN2twbjUtQkhvWGluX1gzWVVHeFpDWDdOMUtsN0E?oc=5",
           "pubDate": "Sat, 29 Aug 2026 00:45:11 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A Jewish scholar chosen to lead the Catholic Biblical Association is hit by antisemitic backlash - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzBKd0g5TmpZMGJmOUVWN0lUNm1XenYzRjNILU1zQWZ5SkVpUFJUOFU0UnNkdU1zZHdYQmVWSTdYOGVyblhQdTYyRVBkV2NDOWNxdm5MVGZIdHlQdW9qd1dGel9RY1lwSE5PWFVBd1pQLWswVV81LVNSTXNOZmtQbnVMcGFlX2Y4S19wSmV6YjNXa0RiT2ppNGRzUGRHckdCQ3FKRDZUMFB5eTJiUHFlV3FtVzY?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 23:26:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T05:25:13.046Z"
+      "updatedAt": "2026-08-29T05:50:14.331Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Nepal needs at least $4 billion for rebuilding, finance minister says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkx4Y1VqOVNVN0xscmF1aHRFZDF6RXUzc2w3WS1pN0RvQVItZWZVcWxJbE5wMklVUFJ4V01FekhWVzhQcGRyZG9sc0laTkFVQnQtbGxJNzBjN3FCN0pPeVJCbUNLeGpXYm42Z2wxb1JmZ2REVmxBUHNKdW5VT1hsU2xwWGczMlNJM24yUjNNMHVnWnJRTzFNWk5fZERtVjlIaFZpS2h5SVNrOS1J?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 04:38:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Nepal needs help in technical areas, not search and rescue, foreign minister says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1FVWFg4dHUzMWZmVXotWUoxNTE4MGQ1ZFhZdExvV2JlU0dwSmZMZ25FcjY5dzVKLTZETVBaQnZaLXFBS29EZ2Jfc0w0YWw1a2c1WHlHNXFoallfb1libC1LUFg3ekpySWp4M1A5OFJpVUFVWEtfempZODBNRDhtRmM2VVZJRHlhN29WakRHMFFVZGtZVGFEYy1yQ1k1Y3VGaTM1aTdkZ3Ntd0gtVDZia1pRZ3VaakNsWll0Vg?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDBRX1E5WWItYWoycXJDSUZhMWJaZUthYmJUcTFqcTA3MGJLZnVPS1dQcWZyeW1FbW9wYnRBNS1OSlVyM0VXN3BIV01IVl8tMmdjQzByaGxIcmVQSnRDSjRiTXdtdEkza1hkdDJQcGNzYXY4OGkzOGZpS1pFMUtyaVFXenBXalpHUTNnZGhZUl92bklLcUg5OVhVMWkzaWxvYWN6S05oN0w3dw?oc=5",
           "pubDate": "Fri, 28 Aug 2026 22:55:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Success after a century of failures: Inside Moderna and Merck's cancer vaccine breakthrough - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeTUzVTRMVUdralpVckd3ZGs0Z2hicmdYaVM5aXM2cmZWVDREaEJhSHlRVDN6LUYwcWtxaWI1UVNNRXR3UWlEZlZWd1NuR3VUV29LVUFkQXlQbTFtbjdoNEJaMC13cUxkQnBScE1UV3RMd044bDdEclFGMU9RUXRtNUk5YkpsZ3dlSEdyUzNZbzBQZGwxN2xEUVpfcnlMMHF0M1ljcmFvRm9VUUpvYnJiZnRjVVFRV2toc3ZMQ01YRUZRRElHMXB3eVc2TG42UQ?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 22:31:40 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T05:25:13.525Z"
+      "updatedAt": "2026-08-29T05:50:14.740Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T05:25:13.636Z"
+      "updatedAt": "2026-08-29T05:50:15.032Z"
     }
   ]
 }
