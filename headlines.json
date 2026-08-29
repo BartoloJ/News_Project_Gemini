@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-29T04:25:17.301Z",
-  "lastChecked": "2026-08-29T04:25:17.301Z",
-  "lastUpdated": "2026-08-29T04:25:17.301Z",
-  "generatedAt": "2026-08-29T04:25:17.301Z",
+  "fetchedAt": "2026-08-29T04:50:18.587Z",
+  "lastChecked": "2026-08-29T04:50:18.587Z",
+  "lastUpdated": "2026-08-29T04:50:18.587Z",
+  "generatedAt": "2026-08-29T04:50:18.587Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Forget Starbucks coffee - Gen Z like their drinks ice cold",
+          "link": "https://www.bbc.co.uk/news/articles/cm2r9n2mrp8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 29 Aug 2026 04:30:27 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
           "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 29 Aug 2026 00:32:17 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "What tariffs will really cost Canadians and Americans",
-          "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 29 Aug 2026 00:15:19 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T04:25:15.883Z"
+      "updatedAt": "2026-08-29T04:50:17.068Z"
     },
     {
       "name": "NPR",
@@ -112,17 +112,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T04:25:16.198Z"
+      "updatedAt": "2026-08-29T04:50:17.389Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 01:41:05 GMT",
-          "source": "AP News"
-        },
         {
           "title": "Trump says US has entered deal with Venezuela to take control of 65 billion barrels of oil reserves - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPandFWnE5LWFYSWl5SEtwWmlTZVF3cXp2WDFlNVBEdXNUQjVtR0NUTktzS24wb1VYdDdRZVpVQmR4SjhvblU2QzFVLS1DS0xtYnVUb2tTclhweEFZUHhPYVVtWlpxNVRxYUQ2QkJiWDhBNVFJQUt1TTIxME9DM2EzTDZ0YUFCYm1FdGR0SFFzTkVmUQ?oc=5",
@@ -142,6 +136,12 @@
           "source": "AP News"
         },
         {
+          "title": "Tampa Bay Rays set for new $2.3B stadium project after county and city approve financing plan - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcE5hNm12S2tScHJ0aHVvLXJ4NWQ5ZEtibUNGZ05IWEk5TXlBWExUUzBJMGZRZFk2MlY5YzlmalRBV29uMlBJUnJLR01KMm9RT2RZV2s1eldTdWNidmR1QUtXRUJlY05td0FUZmQzV2cyMEo5cHlGTmlsTklRRzJlSUJ1OTVxTmZiMmY4?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 01:02:09 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "FBI no longer treating an applicant's experience with prostitution as automatic bar against hiring - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTm1sblNHc3VTVVdaSlhSSlZmQ0xlc0ZfZTZkWHdyNlh6WVFiSHBTRmRBZm5UMG5GdGZJRUVqWFRyaTZvNWdjbFVTaHkzbjR3ZlZrSExSczR2TFVoaFVLN19xOG9uVkVRc0VlQnNScjF4Ukg5UlpKRUo5aG81TWFzNHBxYjJ3Z2RzS2pNYWI3ajZ2Zw?oc=5",
           "pubDate": "Sat, 29 Aug 2026 00:46:00 GMT",
@@ -154,24 +154,30 @@
           "source": "AP News"
         },
         {
-          "title": "US economy expanded at sluggish 1.5% pace in second quarter, on par with earlier estimate - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSUI0VjdibE5UMVBab1FSSjF3Wk9lN1pQb29TTTlyVFpiazNJNnBZQ3B1aTJhNWMyN0JDMmQ2T2FJcGRiaVNGbXc0TXkyOE9fZHJqLTFpRFZOaVNZZ1ZlajNCTnpVRjZMWGpPRGk3dldybW9TeXBBRS1zXzdZMC00UjJTb05TWE1jeURjNXhxWFRhLWt0aUwyaWVDbXpLdw?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 23:53:22 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "A Jewish scholar chosen to lead the Catholic Biblical Association is hit by antisemitic backlash - AP News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzBKd0g5TmpZMGJmOUVWN0lUNm1XenYzRjNILU1zQWZ5SkVpUFJUOFU0UnNkdU1zZHdYQmVWSTdYOGVyblhQdTYyRVBkV2NDOWNxdm5MVGZIdHlQdW9qd1dGel9RY1lwSE5PWFVBd1pQLWswVV81LVNSTXNOZmtQbnVMcGFlX2Y4S19wSmV6YjNXa0RiT2ppNGRzUGRHckdCQ3FKRDZUMFB5eTJiUHFlV3FtVzY?oc=5",
           "pubDate": "Fri, 28 Aug 2026 23:26:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Trump administration appeals latest ruling blocking his mail voting order from taking effect - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWxfNV9lZGM0QTFucVBRVmx5eVlGRnhLQlF4NmQtbVZUemxYNEVTaVNzNGNRb3lvTU5KMXY1d0VLanFGYmd2U2ZRQnhmeXE5VVNtakpiNmV6MWJYNzFqNVNXNHVyaE1CUUdKUGYzYVFxZTNDdUt2Yy1JNlhlMDI2aFBmLXQ5SzBhS1E1WmJlU3FKMUhHYkFadDNDYjF6UDk0Mmk2Nl8wN1FEREx5WlhJ?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 22:42:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T04:25:16.656Z"
+      "updatedAt": "2026-08-29T04:50:17.818Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Nepal needs help in technical areas, not search and rescue, foreign minister says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1FVWFg4dHUzMWZmVXotWUoxNTE4MGQ1ZFhZdExvV2JlU0dwSmZMZ25FcjY5dzVKLTZETVBaQnZaLXFBS29EZ2Jfc0w0YWw1a2c1WHlHNXFoallfb1libC1LUFg3ekpySWp4M1A5OFJpVUFVWEtfempZODBNRDhtRmM2VVZJRHlhN29WakRHMFFVZGtZVGFEYy1yQ1k1Y3VGaTM1aTdkZ3Ntd0gtVDZia1pRZ3VaakNsWll0Vg?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 02:22:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "OpenAI to end partnership with SpaceX's Cursor - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeTUzVTRMVUdralpVckd3ZGs0Z2hicmdYaVM5aXM2cmZWVDREaEJhSHlRVDN6LUYwcWtxaWI1UVNNRXR3UWlEZlZWd1NuR3VUV29LVUFkQXlQbTFtbjdoNEJaMC13cUxkQnBScE1UV3RMd044bDdEclFGMU9RUXRtNUk5YkpsZ3dlSEdyUzNZbzBQZGwxN2xEUVpfcnlMMHF0M1ljcmFvRm9VUUpvYnJiZnRjVVFRV2toc3ZMQ01YRUZRRElHMXB3eVc2TG42UQ?oc=5",
           "pubDate": "Fri, 28 Aug 2026 22:31:40 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Walmart settles US government's opioid lawsuit, which sought billions, for $50 million - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcFRMTXpLZi02MkN6akFHWTVEZzl6RHpDRVc3S1JGbEFQS0JWSDV3dEp4WVYtT3NEczZSU3RLMWtpMUZzSktKT09xT1g3R2JyOFdQTzFXbTJGUjFhRDBRYUV0OXYwU2lXc1h2X3ZmSk0tQmhSdUhWYW9YV0NLU1d2cG1reGVDdFN0eGQtc1BJQVM3T1NWeHZNOTFfSGRwSWh1aEtuNkh5enM2dUUzRGJyeg?oc=5",
-          "pubDate": "Fri, 28 Aug 2026 22:29:32 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T04:25:17.100Z"
+      "updatedAt": "2026-08-29T04:50:18.250Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T04:25:17.301Z"
+      "updatedAt": "2026-08-29T04:50:18.587Z"
     }
   ]
 }
