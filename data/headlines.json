@@ -1,20 +1,20 @@
 {
-  "fetchedAt": "2026-08-29T10:25:15.958Z",
-  "lastChecked": "2026-08-29T10:25:15.958Z",
-  "lastUpdated": "2026-08-29T10:25:15.958Z",
-  "generatedAt": "2026-08-29T10:25:15.958Z",
+  "fetchedAt": "2026-08-29T10:50:16.354Z",
+  "lastChecked": "2026-08-29T10:50:16.354Z",
+  "lastUpdated": "2026-08-29T10:50:16.354Z",
+  "generatedAt": "2026-08-29T10:50:16.354Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
+          "title": "At least 27 dead and hundreds evacuated after strike on Kyiv warehouse",
           "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 29 Aug 2026 09:38:07 GMT",
+          "pubDate": "Sat, 29 Aug 2026 10:28:41 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Dutch institute issues 'red alert' over Trump-shaped ecstasy pills",
+          "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
           "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 29 Aug 2026 08:48:34 GMT",
           "source": "BBC News"
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T10:25:15.386Z"
+      "updatedAt": "2026-08-29T10:50:14.973Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T10:25:15.445Z"
+      "updatedAt": "2026-08-29T10:50:15.148Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Exclusive: RFK Jr. said a Samoa trip had nothing to do with vaccines. New documents refute that - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemM5TVZQWjNQTUg2NjRMUEhXZG5mUTBIVnhsR2tpSFJPb0JMSzU2b25pUVFNUnJQNGIxYjFfTU9OamhIZmJBR2NySGdsRzhWT1FEMlJaaF82QUd4SS1BTVhCczJWX0p0MEZUNVVwWEh6X21qdzNqR3BoOEZmQjhYTlptcDRtUlVkWDFrMGJDSWIwYndDMlE1Uw?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 10:43:55 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 09:48:00 GMT",
+          "pubDate": "Sat, 29 Aug 2026 10:19:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A Russian attack hits Ukraine’s Kyiv region, killing at least 27 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 09:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Thousands march in Washington to defend voting rights, in photos - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmZLMzJBaTRtNEF5SmswdFFSWGM4dXJFWV9tS3ZjUjhKWndDc1lHZk9ZTXBjcm9xaUtIRjRQNWNZcUtBRGZOWGwwMkgzQXQwZnNxdllZM0ZfaDRfREhxX1Z1eHJObkVHMURvZmFLcDNNTkFKNlN6c2JhUi15azIzTE5mS1Qwa1o0OVRMSkZlcXVWZTBreUQzU2ZHb1RCeGZUcmRLbG53NVRDUVVPZGRfZmZWc0xmU1gxYXVHMw?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 08:21:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,32 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPandFWnE5LWFYSWl5SEtwWmlTZVF3cXp2WDFlNVBEdXNUQjVtR0NUTktzS24wb1VYdDdRZVpVQmR4SjhvblU2QzFVLS1DS0xtYnVUb2tTclhweEFZUHhPYVVtWlpxNVRxYUQ2QkJiWDhBNVFJQUt1TTIxME9DM2EzTDZ0YUFCYm1FdGR0SFFzTkVmUQ?oc=5",
           "pubDate": "Sat, 29 Aug 2026 01:41:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Civil rights groups make urgent plea for voting rights in DC, ahead of midterm elections - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTRUalRqN2FVQ3pBNkZSV3ZJdGZIaTRRVFA3OGhVMlB0ak1YS1hWQmlpcVFwLWpTVGNGeC1YcE1ERk0xSl9PZzhBU3J5clBkanJ1NC1hYVFNajFzRTAyWkZtcHBQb3BISHRCcWRaemsxTjE2VEs4dldiaXpLcm9pM29FbE4wLXFvZGFaZUxfSjhBclRZSldENi1uRUFIc3lnZ1I0dGRYNzBDVlU1R1diX0xZUQ?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 01:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Seneca Nation calls for reversal of Trump’s ‘Lake America’ executive order - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNllKNkpGTzVjd0Y4NDExQm9CRHZ4bXdOUzdQUk9ySlAtQzlkd2dxR0JCT2lUckZScjRMQ0JGQW5Fc0w3cVliRElJZHJHTTNubU52VFlPQmlwdS1FNkdlR0Nvb2tWUWdKMC1SQnp6cFNnSkZiRExnaTVJY3RKRXp6VVBOdUs3aGtRUWh2MXNrVjlVZFBqYklLaHZuMXBXQk0?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 01:23:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Avs defenseman Cale Makar signs richest deal in NHL history at $163.2 million over 8 years - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ21wVWpnV2t6Q2lpUEpVOVdTMzl1ZzN2RDBtei1FNDhGQllHR1ZYTEJjZmxKbFVJX3BCaXkzR2QtTlBQRE9LbzQ4d3ZEc0pKdzgwSTdfSVhiYVk5NUFSaW1UcW5FcTZCV3pWMmFqMWxKcFAzRUJTeXNLbUJ1V3lnUUZjYk00aHNiaTh6TQ?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 00:48:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T10:25:15.874Z"
+      "updatedAt": "2026-08-29T10:50:15.662Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Russian strike on Kyiv-area warehouse causes detonation, killing 27 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdk5FRC00VjkxVTRuVXJFam1IaTVqcmV6R2pXX2pJME1fYXkzSFc0NWoyQXpmdGxYeno1ejV0Rk9jZGd6bDliLUdqcm9fWF8ybFhNUmFHUnAxdkEzdnNSRFowYW1MTE1qSUxKTHJLQjZrak5tdkg0NEd4MkFhTDFGbmNYWlBFSlU3Sy0zRU9kM0FEMVpva3VoTy1Xbmd6NF9JZ04zRXROcUxyOVJEc0U1Q1hn?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 09:46:10 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Nepal wants technical help for flood, billions of dollars as bad weather hampers rescue - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1FVWFg4dHUzMWZmVXotWUoxNTE4MGQ1ZFhZdExvV2JlU0dwSmZMZ25FcjY5dzVKLTZETVBaQnZaLXFBS29EZ2Jfc0w0YWw1a2c1WHlHNXFoallfb1libC1LUFg3ekpySWp4M1A5OFJpVUFVWEtfempZODBNRDhtRmM2VVZJRHlhN29WakRHMFFVZGtZVGFEYy1yQ1k1Y3VGaTM1aTdkZ3Ntd0gtVDZia1pRZ3VaakNsWll0Vg?oc=5",
@@ -185,6 +191,12 @@
           "source": "Reuters"
         },
         {
+          "title": "EXCLUSIVE: Nepal's flood damage may cost up to a tenth of economy to rebuild - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkx4Y1VqOVNVN0xscmF1aHRFZDF6RXUzc2w3WS1pN0RvQVItZWZVcWxJbE5wMklVUFJ4V01FekhWVzhQcGRyZG9sc0laTkFVQnQtbGxJNzBjN3FCN0pPeVJCbUNLeGpXYm42Z2wxb1JmZ2REVmxBUHNKdW5VT1hsU2xwWGczMlNJM24yUjNNMHVnWnJRTzFNWk5fZERtVjlIaFZpS2h5SVNrOS1J?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 08:28:37 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Norway mourns King Harald as crowds gather at royal palace - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEtEeDkxNXc0Zks1OENiT3RZTl9oLWpXNjZfZndzdk9RbHo5RVczY2xvSXB2MHJvVkRPV0dob2ZMamFld00ydUt4VEdqVnQ3QkVxMjBGYWZrSThscjJvOXpjdlBmekUtSzRCRXdGNWpqNnJDaTR0VHFzZ213eVZjZWxkR0lwbFN5TlNlUlZGb0xOUXcxYVdpSGpMY2pMZUdpa0pB?oc=5",
           "pubDate": "Sat, 29 Aug 2026 06:49:00 GMT",
@@ -193,13 +205,7 @@
         {
           "title": "Risk of lake burst near China-Nepal border disaster site wanes - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORE5FMUQ3cGJsTU9PeWsxdEEyR3NyRkhHQ09oQUh3MXR6XzBuUFpoYmRxcllSa0s5SkpnVWtTN0xXRy1IQTFWd0xkX2ItVHZ6ZlJIa1Zhdi1LX1ZGZV84eWdEeWhQdTZtRzhFcmhrTDBzM3MzbDRkSVZLcmNtVVdobVVzUGgxQi1hbG90aGp2RkVwcGU4NGZHMkY5QjN2ZS1fZzF2NGRXWHU2ajhnMDlZd1N2QTF0eWM?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 06:10:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Nepal's flood damage may cost up to a tenth of economy to rebuild - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkx4Y1VqOVNVN0xscmF1aHRFZDF6RXUzc2w3WS1pN0RvQVItZWZVcWxJbE5wMklVUFJ4V01FekhWVzhQcGRyZG9sc0laTkFVQnQtbGxJNzBjN3FCN0pPeVJCbUNLeGpXYm42Z2wxb1JmZ2REVmxBUHNKdW5VT1hsU2xwWGczMlNJM24yUjNNMHVnWnJRTzFNWk5fZERtVjlIaFZpS2h5SVNrOS1J?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 04:38:00 GMT",
+          "pubDate": "Sat, 29 Aug 2026 06:11:44 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2daRkcxOFFmZ3o4Mld5NmdqZXFsaV9CTHNlVzV4cWJaYWVUZHV3aG96c0t4bFYxT2gyN3BEcFZwYm9ZbU9za1lRRDlSLUIwM3hXcEdwT0hjZi1Mb09IUHNRSVN1bVNwazNLbHhyOVozNGp3Qnl5cDdRQ3NubnBNRDVhMWN1aDNGRm5jbnMzNldfSnowTWE2N0J5YlBHdFZUTVExUnE5b1hFa2lkdHh2NVZHa28?oc=5",
           "pubDate": "Sat, 29 Aug 2026 02:45:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 02:04:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T10:25:15.887Z"
+      "updatedAt": "2026-08-29T10:50:16.087Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T10:25:15.958Z"
+      "updatedAt": "2026-08-29T10:50:16.354Z"
     }
   ]
 }
