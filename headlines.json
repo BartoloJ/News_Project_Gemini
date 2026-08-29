@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-29T15:50:21.468Z",
-  "lastChecked": "2026-08-29T15:50:21.468Z",
-  "lastUpdated": "2026-08-29T15:50:21.468Z",
-  "generatedAt": "2026-08-29T15:50:21.468Z",
+  "fetchedAt": "2026-08-29T16:00:23.698Z",
+  "lastChecked": "2026-08-29T16:00:23.698Z",
+  "lastUpdated": "2026-08-29T16:00:23.698Z",
+  "generatedAt": "2026-08-29T16:00:23.698Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T15:50:19.929Z"
+      "updatedAt": "2026-08-29T16:00:22.877Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+          "link": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
+          "pubDate": "Sat, 29 Aug 2026 11:54:40 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Photos: See the aftermath of deadly flash floods in Nepal",
           "link": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
@@ -103,30 +109,24 @@
           "link": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security",
           "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
-          "link": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
-          "pubDate": "Fri, 28 Aug 2026 22:07:55 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T15:50:20.306Z"
+      "updatedAt": "2026-08-29T16:00:23.067Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Niger’s security forces battle mutinous soldiers in the capital - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzZFaFJKU2dpTXV0MkluVEthajhsY2tVSDFqM0poUXpBOTNuRGUxZXRKZEpBam1DQWNBdWFzUnlHM3hmM21ZWkh5REZBM0R3YnlKTTVMQnZacFhWQ1c4YUFuQjFqZ095QnliMGNxSEE1TzZqQ1JOVTJlVVRJRlBWLUoybVVSbDg5MzNNd0pkQ1lCREx5aS1pdFRzTUptMTZWTHJ2TklBV0RjYVVnYlU0Q3hicWN0eXRHVDUzb0FR?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 15:03:00 GMT",
+          "title": "Russian strike on warehouse near Kyiv kills 37 in one of the war’s deadliest attacks this year - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 15:47:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Russian strike near Kyiv kills 37, in one of the year’s deadliest attacks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 13:44:00 GMT",
+          "title": "Niger’s security forces battle mutinous soldiers in the capital - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzZFaFJKU2dpTXV0MkluVEthajhsY2tVSDFqM0poUXpBOTNuRGUxZXRKZEpBam1DQWNBdWFzUnlHM3hmM21ZWkh5REZBM0R3YnlKTTVMQnZacFhWQ1c4YUFuQjFqZ095QnliMGNxSEE1TzZqQ1JOVTJlVVRJRlBWLUoybVVSbDg5MzNNd0pkQ1lCREx5aS1pdFRzTUptMTZWTHJ2TklBV0RjYVVnYlU0Q3hicWN0eXRHVDUzb0FR?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 15:03:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,12 +142,6 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 12:14:39 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "The Earth is sizzling, but climate isn’t a hot topic for Democrats in this year’s campaigns - AP News",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0lNSnBPSHBtVW11eVZ6MzBMa1AzdVhrZm5wSXBrbFllRG0wX0c4RmFyX0psR2RRaU1KNVIxRGszd240bGpyMmY5U0p3b1BGclVUaUZmRVNLYjFpRTdDWnRHUTdqeGxESVQzSDBQTFRicVBQM3V6cWd2MlhwYTc0M0VXQVRoTl82aGV6YzBhNDc0cFJSSWNWZXVDRTRheUFFQnBZbTJ4aHl2ZUZHWkRlek55RmxXemNpMzgw?oc=5",
           "pubDate": "Sat, 29 Aug 2026 11:44:00 GMT",
@@ -160,6 +154,12 @@
           "source": "AP News"
         },
         {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 08:28:13 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Thousands march in Washington to defend voting rights, in photos - AP News",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmZLMzJBaTRtNEF5SmswdFFSWGM4dXJFWV9tS3ZjUjhKWndDc1lHZk9ZTXBjcm9xaUtIRjRQNWNZcUtBRGZOWGwwMkgzQXQwZnNxdllZM0ZfaDRfREhxX1Z1eHJObkVHMURvZmFLcDNNTkFKNlN6c2JhUi15azIzTE5mS1Qwa1o0OVRMSkZlcXVWZTBreUQzU2ZHb1RCeGZUcmRLbG53NVRDUVVPZGRfZmZWc0xmU1gxYXVHMw?oc=5",
           "pubDate": "Sat, 29 Aug 2026 08:21:00 GMT",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T15:50:20.815Z"
+      "updatedAt": "2026-08-29T16:00:23.552Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T15:50:21.231Z"
+      "updatedAt": "2026-08-29T16:00:23.571Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T15:50:21.468Z"
+      "updatedAt": "2026-08-29T16:00:23.698Z"
     }
   ]
 }
