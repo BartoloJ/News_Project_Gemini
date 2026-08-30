@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-30T23:00:20.652Z",
-  "lastChecked": "2026-08-30T23:00:20.652Z",
-  "lastUpdated": "2026-08-30T23:00:20.652Z",
-  "generatedAt": "2026-08-30T23:00:20.652Z",
+  "fetchedAt": "2026-08-30T23:25:13.789Z",
+  "lastChecked": "2026-08-30T23:25:13.789Z",
+  "lastUpdated": "2026-08-30T23:25:13.789Z",
+  "generatedAt": "2026-08-30T23:25:13.789Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T23:00:19.317Z"
+      "updatedAt": "2026-08-30T23:25:12.451Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T23:00:19.388Z"
+      "updatedAt": "2026-08-30T23:25:12.754Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Dozens evacuated from Grand Canyon after flash flood hits creek leading to the Colorado River - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0ZsenJBekRNWXdIZWdFcHdnYjZfXy1wZUZGSlZPMTlRNzF0TFhhTXVMMDBCT2pKUXBmVkJPNEtfdmFyMEdfcE5IUEQ1Ujl5cjFHS0xabU5HWVg1UGVQbXBib21faENqUGJOeHhfM1Y5Sjl0OVRBR2gxWjB5QXdCSGRPNDNMUWxvOE9TNEFvT3NibFFlRG9NbE5ROWIzczF3a3lBMGFEaXc?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 22:39:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Lake Ontario now called Lake America on Google Maps for US users after Trump ordered name change - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnhMZUl2X0dLWlh1LVY5UWM3b2l2WXRSd3RtY082NjMwV05leTZNczRWN3U2d2NSMHhGblVXeTlsczlWWDVaN3FQMURMUHV2Z3NoZGZUZWpsbHo4eE1qdFdXRGw1QWozV25ibVB0SnA5NWtaOXV0Y3NMWXJsc0ZUX2NRcE4yd1lQRGF5TXRJcw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 22:00:00 GMT",
+          "pubDate": "Sun, 30 Aug 2026 22:39:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US Treasury blocks certain journalists from G20 meeting in North Carolina - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYjVPYXBuYXdIZUtXVkN4VzRJVlA3aU83Sjlrc3hpQXhvT1VtQ3p1Q3gzdWhETEJVUFgxNkJBeXB4c3ZpY2thanU3MkFmRHJqNEVxYjdfTzd1VVF4QjFLY3U0dHhmeTRwS19Ua1VEMDlOQkRCZDBKaG1tSVZHVkw2SHRLRjBwYmM5ZVpGWWxVTEVDM0c2SjlR?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 22:16:00 GMT",
           "source": "AP News"
         },
         {
@@ -136,12 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "Scottie Scheffler captures another FedEx Cup and moves past Tiger Woods in PGA Tour career earnings - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFVsaWJuRXg4VC12SlpXZnZoVXZ6X3pKQTRMbVJhTk9EMTNOdlJzb281RjJNNFl3UmpqRUxIMkdxVnZxV0c2S0RJeXQ4MTZzSUtLU0hqXzFLeUE3WkdPLXRTTnBRSm5OUWJxcklBZk1pdDlndU1xcUhPNXdnTmI0SHdnTU1tTGVJc0xxc19zN21wLUlDYlE3U0JLOGdNblJVcy1NUkV4bk1maFlDYzctVw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 21:47:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
           "pubDate": "Sun, 30 Aug 2026 21:30:35 GMT",
@@ -154,12 +160,6 @@
           "source": "AP News"
         },
         {
-          "title": "US forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 20:44:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Hundreds attend funeral in Haiti for 4 victims of brutal gang attack that killed 47 - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSi00WEMwa2RfWDZxYlVvYmxmdnpNTkZXeHBkaVMwME5lTGJlcDBNc2VjTkI4MU5LbnB3TXdEeER6VGFBaWs3c3VkemZheFJUNENjUGMtblVINm9GTkRWS0ZqUFBzaFB6X3MzMjFVRXlDazRsdEQtRXA5bHo0eHlycWNzcGxzZmpsX09PWVpFOXdqM3F1MUhLbUlR?oc=5",
           "pubDate": "Sun, 30 Aug 2026 20:38:00 GMT",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T23:00:19.889Z"
+      "updatedAt": "2026-08-30T23:25:13.162Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T23:00:20.431Z"
+      "updatedAt": "2026-08-30T23:25:13.580Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T23:00:20.652Z"
+      "updatedAt": "2026-08-30T23:25:13.789Z"
     }
   ]
 }
