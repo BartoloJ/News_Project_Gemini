@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-30T10:25:16.845Z",
-  "lastChecked": "2026-08-30T10:25:16.845Z",
-  "lastUpdated": "2026-08-30T10:25:16.845Z",
-  "generatedAt": "2026-08-30T10:25:16.845Z",
+  "fetchedAt": "2026-08-30T10:50:14.383Z",
+  "lastChecked": "2026-08-30T10:50:14.383Z",
+  "lastUpdated": "2026-08-30T10:50:14.383Z",
+  "generatedAt": "2026-08-30T10:50:14.383Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,13 +10,13 @@
         {
           "title": "Iceland votes against restarting talks on joining EU",
           "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 30 Aug 2026 09:49:05 GMT",
+          "pubDate": "Sun, 30 Aug 2026 10:49:11 GMT",
           "source": "BBC News"
         },
         {
           "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
           "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 30 Aug 2026 09:15:35 GMT",
+          "pubDate": "Sun, 30 Aug 2026 10:29:20 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T10:25:15.419Z"
+      "updatedAt": "2026-08-30T10:50:13.147Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "WATCH LIVE: NASA's newest space telescope launches today",
+          "link": "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
+          "pubDate": "Sun, 30 Aug 2026 06:30:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "How a comic book store got swept into the tariff storm",
           "link": "https://www.npr.org/2026/08/30/nx-s1-5939521/tariff-refunds-canada-trade-war",
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote",
           "pubDate": "Sat, 29 Aug 2026 21:47:44 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
-          "link": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa",
-          "pubDate": "Sat, 29 Aug 2026 17:09:14 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T10:25:15.618Z"
+      "updatedAt": "2026-08-30T10:50:13.301Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Nepal warns of more possible floods as communities grapple with devastation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3NPeGkybU5zYk9oRUNteGFDbmJKcTlfZHh2Q2l4ZDU1OFZzdTJGRHNBSUJXcldlelVpRjlDRlFBVHBFUGg4bnpTWDFWTkxDaG1OYzdkcTFBT2o4aG11ZTlWYzNqN294THUxMjRqbVRzNTRnNUZKNUJuQWFxYnJUUk5SalRCUFFXTDMyZ1hDSldPZk1wSV81WA?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 10:24:23 GMT",
+          "source": "AP News"
+        },
         {
           "title": "1 dead and 5 wounded in a shooting at a rave in Switzerland - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkU3bWltcTZvOERRdl9ndmFuTEVTbm1Zd0JMeHNULUxydUVQYm5CMGx1X0I4ZlRjT0FnZkxxZndlN0Vtc0wxZjlUQzZ5bjdibm9zNWUwbWpfM0lxNmpZNXpweW9SRDhxUXU4Q3JuWnVpVmZab1BUY3BxbVJwNWx1QnZXWE83dDljTnVXNlVobmE2M0lrVFUw?oc=5",
@@ -132,7 +138,7 @@
         {
           "title": "Dolly Parton - AP News",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91akh0RW4tMDVuaFZHSzVsTHBrTHdaelBId3RJa1E0ZFQ4V2ZXa1pjczYydXJpSGJzR2wyMEJUU0ZrMF83ODJoeFlYZw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 08:48:39 GMT",
+          "pubDate": "Sun, 30 Aug 2026 09:22:45 GMT",
           "source": "AP News"
         },
         {
@@ -158,24 +164,36 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHN2RnNLT0hkMW82dERJRG05aURVNlUwYjctaEpFZzJ5Tkh2NnZRaTc4c2xic3l1MVNGaTlFUTZieDhELUVVQ290S25oTTl2amVaNmRfVFhNNm1GYjMyOFlxcFM4eF94S3BsTERNMC0tOUlqejJRSXFGUGltMV9yMFF5SVVyUFU3Q2tFdE9GYnlhc3Q0N1Bra0h3?oc=5",
           "pubDate": "Sun, 30 Aug 2026 06:53:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Nepal warns of more possible floods as communities grapple with devastation - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3NPeGkybU5zYk9oRUNteGFDbmJKcTlfZHh2Q2l4ZDU1OFZzdTJGRHNBSUJXcldlelVpRjlDRlFBVHBFUGg4bnpTWDFWTkxDaG1OYzdkcTFBT2o4aG11ZTlWYzNqN294THUxMjRqbVRzNTRnNUZKNUJuQWFxYnJUUk5SalRCUFFXTDMyZ1hDSldPZk1wSV81WA?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 06:52:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T10:25:16.087Z"
+      "updatedAt": "2026-08-30T10:50:13.745Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDhtblJ1TEhZZGpCTjZQVUNEc0lHMmoxXzJYVmoxUzh5V0I2MFVWMTl4SnBGTHN6bjFTd3VmNGh4ek5MdzIxdVI5OV9WNjZ1ZEhnQUFPNXVUWldFaDNDY0ZPX1JwQW4yQXJnaE9SMmRIbWU5bVlYOVE1QnhkVTAwcmRHNjZacUVGRkp3Q2pPczlOT01iLU9MUmRjN0dEN1hTTXdNUmtvUjc2aVZjS2tXZE5ES2IyV2l3WVVKdW00Zw?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 10:40:22 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "The battle to build a global defence bank - Reuters",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb3Q2dzBUdTJQYkFrLVhDQnNaUks0eGd0dHRqQ0MxYjhlbkF5Y2Y5QXhoQXZsQU14QkZIb3hxelRSdW1KVVd4eGhLeEFuSFlXeFpHdUtER2VTZHh4ZlB5TmowZ3poR21acFM2T2dFUVRsd0RMNUlmclpWZXBtTHNVQ0ctcVVGbjNrMDJJcjJB?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 09:33:37 GMT",
+          "pubDate": "Sun, 30 Aug 2026 10:11:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Manhunt underway after woman killed, several injured at Swiss rave shooting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVExIWW1kRXlDMzJSRlNJRE1Id0pSTmJUUUxzc09oUmlxQVdhb3hHbWRZcTdkRFJPOFlCS1daejVwai1mWVBmTHRuMTlEU0tZTGp2UlRKWDFmTGYwYVNsTUZBMmxIdlEyQ2ZCcnJDSVBiMzBqLUo5bmt5MGhYeTFvd3pCSXNfdHhmUWVnaHRpZ3FLbGpZb3ZyUklmVVZkNXRxYWxPNlE1aw?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 10:09:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Malaysia PM unveils measures to tackle living costs, support local businesses - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZkM3UzR0NmxQTTI0ZWlIdE5wc29xVlF4QXJiRUMxcnVUdU1DWUpXUktaZXhSY1ZlLUxVZWpCZ2p6bnBkbG9qd1lfelVVV0lSNXNpVThMQ2dod194VE1talJmbGRzTkFFM1R2QkZxZzhFdnl1cnU2SWdlaVV6LXlXZzlYV21MaHVmMHZPN3dRQV9Pcl83czN2TGMwSFBRd3dqNHdPSE55VXIxcnRidldicXYxY2o1UHVuV1pfV1ROTEMwbnBwM2w0Vlh3?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 09:04:03 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "Rescuers race to find thousands missing after Nepal-China glacier collapse - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlp4TDFMZW56NUZBeXVKc2t6UHFaX2xtekUxdGNnTU96YVJzczdybzFZNkpsUU9UQ3RUVFVfcmtGcGZXZ1cyTXRpRUE1NjlROFRkRFB4Q0hpLXgweFMtc1dIZl96Rk9Gb0N3bmpHWXVINm1qbW44SzJqQmVCalhCbjBsV081NTRvNFZTbi1GWVk5ZXdSblRyRmpfRldDTnJ2SnY4TFpSY0FEOUpkY3dqSTRyZTF2Yms?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 07:53:05 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd1BTUVBQTUlac2RIeVdNZzhOQkFPWWFUU3FqeFlSZlU5QzBrajNsU041RkpsUXpwSngxeEtucFcyU2RRUm1CRzBnbnp1eWJtZHZOQS00UlpsMTQydlR2RlNDSmlVVFphbThOcFVUd2YyWUlVSHdvYVZSbjVxck4wbktHTURxSl8zRmdoc3hVU2hBX25USFFndE5zc0xnNWtiSHNzamtaYWc3dXdyZmVJUG42aVk1Y2ZF?oc=5",
           "pubDate": "Sun, 30 Aug 2026 07:45:10 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDhtblJ1TEhZZGpCTjZQVUNEc0lHMmoxXzJYVmoxUzh5V0I2MFVWMTl4SnBGTHN6bjFTd3VmNGh4ek5MdzIxdVI5OV9WNjZ1ZEhnQUFPNXVUWldFaDNDY0ZPX1JwQW4yQXJnaE9SMmRIbWU5bVlYOVE1QnhkVTAwcmRHNjZacUVGRkp3Q2pPczlOT01iLU9MUmRjN0dEN1hTTXdNUmtvUjc2aVZjS2tXZE5ES2IyV2l3WVVKdW00Zw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 07:22:12 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Zambian opposition leader Mundubile charged with treason, lawyer says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeEdPX2NEbXlCeW1idGs0dDItSHAtMDcxNTdBWVBUOVVYbnk3WkdUbkxHQ0VBeGl5aGFTTkpXcnUwejBrVk1xQjFmT3Z0eThIaVRXbHVtNy1ESXBETER0Sk9PVFJyM0RDcTZTamUxR1N0VlplaTFuVVdWcWFJZHZ2T1FFWWdTSU14MTNFT3o0dUF2Q0ZiSUQtUFgwaFhzMmRwWUVGRE82ZndKck9MankzUTlibzQxcGph?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 06:40:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Manhunt underway after woman killed, several injured at Swiss rave shooting - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVExIWW1kRXlDMzJSRlNJRE1Id0pSTmJUUUxzc09oUmlxQVdhb3hHbWRZcTdkRFJPOFlCS1daejVwai1mWVBmTHRuMTlEU0tZTGp2UlRKWDFmTGYwYVNsTUZBMmxIdlEyQ2ZCcnJDSVBiMzBqLUo5bmt5MGhYeTFvd3pCSXNfdHhmUWVnaHRpZ3FLbGpZb3ZyUklmVVZkNXRxYWxPNlE1aw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 05:43:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Europe's central bankers fear more turbulence in testy U.S. relations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFd1SEtUeS1UNHY5aUFHVk9FeS1NRzROLUZUQjlDVk9pOGdBcmtuNTB5ZUVmR1QyOWRkTm9HRXBmT3Q1M3ZvUEk3MDBRajJLNVhYb09tS2xNeGVhUFRVa3N1TkxmWHVVNWpyT1pGQU1xQU9lTlU2aVBtU05tUUpSVnZNZnIwT29idFNwcHhvTFMxSTJvOWdMSUt3MkhUNGhrM1JJb0ZtMFpnYjlNcFg3aFZOMy1aQWM?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 05:07:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Australia's far-right party makes further gains, taking seat in western state - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT1AtZ19CUEgwbW41N3JlTkc3Z3M0U1EyZ1RmLWx4ZGxqVXBTVjRhRmZZb21GeU5oMGlkMUY2OGlWVmcyeUtSbW03WW4yOHNkTWRVT2NILTVYNGpxcWtySXRwaDVUamFkZU5jTVRmaXlRMklic1cwVnRkYjAyUGJENlBmSHBMQzlLQVVpLTlMNDFGMDdkM1RHQ252TzZvdWcyQXNKQlVWRndHUUZIUUUtX3VYOVp0YVNMeUlWOElocVVKZjN2V0E?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 03:14:37 GMT",
+          "pubDate": "Sun, 30 Aug 2026 06:40:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T10:25:16.630Z"
+      "updatedAt": "2026-08-30T10:50:14.138Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T10:25:16.845Z"
+      "updatedAt": "2026-08-30T10:50:14.383Z"
     }
   ]
 }
