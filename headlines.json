@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-30T18:25:16.172Z",
-  "lastChecked": "2026-08-30T18:25:16.172Z",
-  "lastUpdated": "2026-08-30T18:25:16.172Z",
-  "generatedAt": "2026-08-30T18:25:16.172Z",
+  "fetchedAt": "2026-08-30T18:50:15.437Z",
+  "lastChecked": "2026-08-30T18:50:15.437Z",
+  "lastUpdated": "2026-08-30T18:50:15.437Z",
+  "generatedAt": "2026-08-30T18:50:15.437Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+          "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 30 Aug 2026 18:31:17 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
           "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
           "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 30 Aug 2026 16:48:13 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Seven killed and 23 missing in boat capsizing off northern Cyprus",
-          "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 30 Aug 2026 16:48:02 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T18:25:14.900Z"
+      "updatedAt": "2026-08-30T18:50:14.145Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T18:25:15.131Z"
+      "updatedAt": "2026-08-30T18:50:14.276Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "1 dead and 5 wounded in a shooting at a rave in Switzerland - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkU3bWltcTZvOERRdl9ndmFuTEVTbm1Zd0JMeHNULUxydUVQYm5CMGx1X0I4ZlRjT0FnZkxxZndlN0Vtc0wxZjlUQzZ5bjdibm9zNWUwbWpfM0lxNmpZNXpweW9SRDhxUXU4Q3JuWnVpVmZab1BUY3BxbVJwNWx1QnZXWE83dDljTnVXNlVobmE2M0lrVFUw?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 18:34:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Death toll rises to 38 from Russia’s deadliest attack on Ukraine this year - AP News",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY3lXTmFGUUQ0eUJwLXlHWWtSR1BwMlo0STdGREw1TFBwbkc3enR2N2sxWjI5WHI0cVRuaVllb0o5QVRORnd5Z0xLY2VaYXIxVWtoMW9vWWVwdU8tc3J2aV9GMjZVdXFLTWhMaktCZmx4WUlnbG1nZjZKdFdmNncxZUF6OXdMLVhlMUNhcGpGWFY4OS1XYWlyUnJFX3lxS3Q4Q1FXNGNoT0JQX3JqcDdyU3hPeW1ZcTJBWVNRNlRtWmZQT3FD?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 17:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Hundreds attend funeral in Haiti for 4 victims of brutal gang attack that killed 47 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSi00WEMwa2RfWDZxYlVvYmxmdnpNTkZXeHBkaVMwME5lTGJlcDBNc2VjTkI4MU5LbnB3TXdEeER6VGFBaWs3c3VkemZheFJUNENjUGMtblVINm9GTkRWS0ZqUFBzaFB6X3MzMjFVRXlDazRsdEQtRXA5bHo0eHlycWNzcGxzZmpsX09PWVpFOXdqM3F1MUhLbUlR?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 17:28:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Meep, meep. ‘Coyote vs. Acme’ opens with $15.5 million, 'Spider-Man' stays No. 1 for fifth weekend - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmdJaG1qQW56d0o2MlNmTkxHazRpb1B0Y1ZXUXdFcVpQanhlZFlTUjZhX1d5TFVOcFVVZ0QweG9iaDBueHFKc25sR2twMEpWWk5oOUVXaWNLakVLRGp1VjluSHQweXN5VjhhT29WRDdXRVdiWkRhYTJVSVdqYmhhOTJYRmc3YV9VRnNFYll0ODZKcmU4MWk1eGd3bw?oc=5",
@@ -146,28 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3NPeGkybU5zYk9oRUNteGFDbmJKcTlfZHh2Q2l4ZDU1OFZzdTJGRHNBSUJXcldlelVpRjlDRlFBVHBFUGg4bnpTWDFWTkxDaG1OYzdkcTFBT2o4aG11ZTlWYzNqN294THUxMjRqbVRzNTRnNUZKNUJuQWFxYnJUUk5SalRCUFFXTDMyZ1hDSldPZk1wSV81WA?oc=5",
           "pubDate": "Sun, 30 Aug 2026 16:00:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "What we know about Trump’s deal giving US access to vast oil reserves in Venezuela - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbXNxWElFTl8zZkM0SHliM3NOTGcxb0lEMDVjVUtmanZuOE16MEJScEtoajFwM0k4Qk5MQTM2dUtpc2psTVJMX2RyUjdncFNKTUtXMnRxejM1T2xTZi0tMUYxRkVUQnJKSThHMXJFb21PXzZNbGpXNGQ1aDlYa0tRV0E3Slp3bzNFM3hKc0cxY2Y1U3NMQkZBS1YtdmRoV0l5Z0w1WUN2N3l6bFVncGJYZQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 14:29:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Olivia Rodrigo's festival is uniting women and girls behind nonprofits promoting their well-being - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemtnTEtmOGF4aWV2U2EzSFhEdGR3V2Nib0s1ZzlTTzJaWVlmaTRhdURnazVHaWdnYWE5bWxpY3lweEJma2h5eDkycWxtTEJKUmJQQnZMaklGUHlSSmFfaWZpRmZNVGtkWlRHTEFQR0JTQ29jd1VUZkFTb2tUb0U3MDRIU1VwaUdvd1ZpaFBxVWNCV1VEX090dg?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 14:22:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 14:09:14 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T18:25:15.572Z"
+      "updatedAt": "2026-08-30T18:50:14.727Z"
     },
     {
       "name": "Reuters",
@@ -203,26 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd1BTUVBQTUlac2RIeVdNZzhOQkFPWWFUU3FqeFlSZlU5QzBrajNsU041RkpsUXpwSngxeEtucFcyU2RRUm1CRzBnbnp1eWJtZHZOQS00UlpsMTQydlR2RlNDSmlVVFphbThOcFVUd2YyWUlVSHdvYVZSbjVxck4wbktHTURxSl8zRmdoc3hVU2hBX25USFFndE5zc0xnNWtiSHNzamtaYWc3dXdyZmVJUG42aVk1Y2ZF?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 17:28:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Merz says Germany finalising response to suspected Leipzig attack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObXZkNUhuVmd1NFhwYXByM0hKSVNJcE52WUJrYXNZMkRQMjA4WElMZHZCcFJKN09COWdlSS1wRWlka0prdklCRF9hYVEyaWw4N0Z2UzR1TlA0SjA0TXdMZVNvWVFyaExoM3dxbW1VOXpBQWdUTF81N3UzRWpELU5SYlB6cjVnY2FXa09ONk1hWWZHOExZRFVaeGJpV1NSUW1mV2haSEZ1MA?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 17:17:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5",
           "pubDate": "Sun, 30 Aug 2026 17:16:27 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "At least eight die, 17 missing after ferry capsizes off North Cyprus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVlzWG1uLXVQZXVpTWtnajhCNzhhQV85eGNBTWc5V0NDYm91bWZHMFVSX2xUY19EU3RDRXF5d005RE8xUFZObEJsR2VqdUxGTWV3eUdVVm5ZLWxGLUtvMVNjWDFydlQxYUNudU5nOGMzNFo2SVVOZElxUk9OWDBWblNHMzloNEN6bnZJb3QzZU1wQXhET3BYeGQ4NERmT0VsYnQwQzVJVGc5SXk3YzJvWllBbw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 17:15:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Aon close to acquiring USI Insurance from KKR in $17 billion deal, WSJ reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUDAtNFFsU0hkczc1WElVMklUNFZGc2pOcmxiUzFzcGxsY3Rzb0ZoREdpYlNyb3pDUFA5X3p4ZWtuNFZ4d3NidFB4SjExNE1hVlRmRmRrT0FCY0pRVnc1N0hkRUtmZ3MybmFyUW9FV1E0cmU4QUswNVYyVTdib1BpRlFzR2Y0ejFkLTRkZHZxaUl2TTZjeTluNVJJV1Y0S0pxV3FfdWN2UUhoaUxwckMw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 17:09:50 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T18:25:15.939Z"
+      "updatedAt": "2026-08-30T18:50:15.190Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T18:25:16.172Z"
+      "updatedAt": "2026-08-30T18:50:15.437Z"
     }
   ]
 }
