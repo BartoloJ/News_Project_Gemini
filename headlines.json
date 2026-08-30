@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-30T09:00:19.093Z",
-  "lastChecked": "2026-08-30T09:00:19.093Z",
-  "lastUpdated": "2026-08-30T09:00:19.093Z",
-  "generatedAt": "2026-08-30T09:00:19.093Z",
+  "fetchedAt": "2026-08-30T09:25:31.893Z",
+  "lastChecked": "2026-08-30T09:25:31.893Z",
+  "lastUpdated": "2026-08-30T09:25:31.893Z",
+  "generatedAt": "2026-08-30T09:25:31.893Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,13 @@
         {
           "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
           "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 30 Aug 2026 08:54:49 GMT",
+          "pubDate": "Sun, 30 Aug 2026 09:15:35 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Zambian opposition leader charged with treason",
+          "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 30 Aug 2026 09:08:23 GMT",
           "source": "BBC News"
         },
         {
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 29 Aug 2026 19:44:54 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Norway's new king remembers 'my dear father' in first speech",
-          "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 29 Aug 2026 19:06:28 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T09:00:17.863Z"
+      "updatedAt": "2026-08-30T09:25:13.323Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Medicare's pilot GLP-1 discount program has a catch. Some sick patients don't qualify",
+          "link": "https://www.npr.org/2026/08/30/nx-s1-5931392/medicare-glp-1-discount-program-has-catch-some-sick-patients-dont-qualify",
+          "pubDate": "Sun, 30 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump administration deports relative of Afghans who helped US military to Central African Republic",
           "link": "https://www.npr.org/2026/08/30/nx-s1-5949230/trump-administration-deports-afghan-central-african-republic",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/29/nx-s1-5941650/opinion-remembering-dolly-parton",
           "pubDate": "Sat, 29 Aug 2026 08:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "The bridges of Rwanda open up new worlds",
-          "link": "https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-rwanda",
-          "pubDate": "Sat, 29 Aug 2026 07:54:36 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T09:00:18.073Z"
+      "updatedAt": "2026-08-30T09:25:13.352Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-30T09:00:18.483Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-08-30T09:00:18.885Z"
     },
     {
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T09:00:19.093Z"
+      "updatedAt": "2026-08-30T09:25:31.893Z"
     }
   ]
 }
