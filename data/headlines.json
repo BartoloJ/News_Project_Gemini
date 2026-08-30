@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-30T09:25:31.893Z",
-  "lastChecked": "2026-08-30T09:25:31.893Z",
-  "lastUpdated": "2026-08-30T09:25:31.893Z",
-  "generatedAt": "2026-08-30T09:25:31.893Z",
+  "fetchedAt": "2026-08-30T09:50:17.881Z",
+  "lastChecked": "2026-08-30T09:50:17.881Z",
+  "lastUpdated": "2026-08-30T09:50:17.881Z",
+  "generatedAt": "2026-08-30T09:50:17.881Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Iceland votes against restarting talks on joining EU",
+          "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 30 Aug 2026 09:49:05 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
           "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Zambian opposition leader charged with treason",
           "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 30 Aug 2026 09:08:23 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Iceland on track to reject EU referendum as counting nears end",
-          "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 30 Aug 2026 08:08:30 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T09:25:13.323Z"
+      "updatedAt": "2026-08-30T09:50:15.914Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T09:25:13.352Z"
+      "updatedAt": "2026-08-30T09:50:16.615Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Far-right British provocateur Milo Yiannopoulos arrested by US immigration enforcement - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkFEZ0NjWENENktHN3hZRE92U1p6cDVLSFFaR0p2VllGZXhSWUtsYVI4b1V4S2NxTW96VGVUWFFXSzJLbzZGYVBMd2d3NUM0MVBwYjE2eVJDTjVlNi1UbDJjV0NsY1VYeWhqelNaelNkVGlXbGZqUThQaU84UjFpZ0FiSDQtdDB0M3RWbHlmOUZXdkZ0M3htRnFLQk5IamNmQmF4U3BvdFdPN3dvZW5VZXh3?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 08:56:28 GMT",
+          "title": "Dolly Parton - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91akh0RW4tMDVuaFZHSzVsTHBrTHdaelBId3RJa1E0ZFQ4V2ZXa1pjczYydXJpSGJzR2wyMEJUU0ZrMF83ODJoeFlYZw?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 07:49:31 GMT",
           "source": "AP News"
         },
         {
-          "title": "Dolly Parton - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91akh0RW4tMDVuaFZHSzVsTHBrTHdaelBId3RJa1E0ZFQ4V2ZXa1pjczYydXJpSGJzR2wyMEJUU0ZrMF83ODJoeFlYZw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 07:21:06 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 07:12:15 GMT",
           "source": "AP News"
         },
         {
@@ -160,14 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 05:12:02 GMT",
+          "title": "USS Abraham Lincoln sails past Singapore on its way home from Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWFFVWEFacy1QR1lRdDc2eW9LMUlXRS1hM1Nfang4YzZjN2tfakRVS3FadjZSeWFWeVA4WGxJTUZJVENEbElNXzVNV1RzaWxEanVsXzl2M0s4UU5pSzZNZmx4MWx4RzYxVVpienpTeVF4UmNNcW9SRjZvbzlZajF4eGlWRWUtc0dOT2lKRE85aWJMUUxXN3RMQWxPdEdGZkZnWjh2ZjRkQXlLZW8zeFJJbzNUNmVFRmdf?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 05:00:00 GMT",
           "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-30T09:00:18.483Z"
+      "ok": true,
+      "updatedAt": "2026-08-30T09:50:17.130Z"
     },
     {
       "name": "Reuters",
@@ -185,9 +185,21 @@
           "source": "Reuters"
         },
         {
+          "title": "India's HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd1BTUVBQTUlac2RIeVdNZzhOQkFPWWFUU3FqeFlSZlU5QzBrajNsU041RkpsUXpwSngxeEtucFcyU2RRUm1CRzBnbnp1eWJtZHZOQS00UlpsMTQydlR2RlNDSmlVVFphbThOcFVUd2YyWUlVSHdvYVZSbjVxck4wbktHTURxSl8zRmdoc3hVU2hBX25USFFndE5zc0xnNWtiSHNzamtaYWc3dXdyZmVJUG42aVk1Y2ZF?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 07:45:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDhtblJ1TEhZZGpCTjZQVUNEc0lHMmoxXzJYVmoxUzh5V0I2MFVWMTl4SnBGTHN6bjFTd3VmNGh4ek5MdzIxdVI5OV9WNjZ1ZEhnQUFPNXVUWldFaDNDY0ZPX1JwQW4yQXJnaE9SMmRIbWU5bVlYOVE1QnhkVTAwcmRHNjZacUVGRkp3Q2pPczlOT01iLU9MUmRjN0dEN1hTTXdNUmtvUjc2aVZjS2tXZE5ES2IyV2l3WVVKdW00Zw?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 07:22:12 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Zambian opposition leader Mundubile charged with treason, lawyer says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeEdPX2NEbXlCeW1idGs0dDItSHAtMDcxNTdBWVBUOVVYbnk3WkdUbkxHQ0VBeGl5aGFTTkpXcnUwejBrVk1xQjFmT3Z0eThIaVRXbHVtNy1ESXBETER0Sk9PVFJyM0RDcTZTamUxR1N0VlplaTFuVVdWcWFJZHZ2T1FFWWdTSU14MTNFT3o0dUF2Q0ZiSUQtUFgwaFhzMmRwWUVGRE82ZndKck9MankzUTlibzQxcGph?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 06:40:00 GMT",
+          "pubDate": "Sun, 30 Aug 2026 06:40:39 GMT",
           "source": "Reuters"
         },
         {
@@ -205,24 +217,12 @@
         {
           "title": "Australia's far-right party makes further gains, taking seat in western state - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT1AtZ19CUEgwbW41N3JlTkc3Z3M0U1EyZ1RmLWx4ZGxqVXBTVjRhRmZZb21GeU5oMGlkMUY2OGlWVmcyeUtSbW03WW4yOHNkTWRVT2NILTVYNGpxcWtySXRwaDVUamFkZU5jTVRmaXlRMklic1cwVnRkYjAyUGJENlBmSHBMQzlLQVVpLTlMNDFGMDdkM1RHQ252TzZvdWcyQXNKQlVWRndHUUZIUUUtX3VYOVp0YVNMeUlWOElocVVKZjN2V0E?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 02:52:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Venezuela's interim president says US energy deal will last 25 years - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGx2YWRqWWZqT00zSkV3bVZVazJKdjVDbTlKUWM1ZVdKRDEtZGkxb1N2Vy10MURlOEE1dXZ4NkMwXzBvb0xDMGZITmJHT2JGUmh6TlRhaUV1YmpIZ0JmV2lSUk9YQVBSeFBwNlI2ZW1JanZvSS1pSUtNMzFnaFRTUy1SUkJKZXpvN3doOHM5aVpzTjM2UWdsSVhqM0xyTm9TbHhOOWZnUlVmWVNDVjhQNTJGeUVHcUZOSkg4?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 02:29:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US to take 35% stake in Venezuelan mogul Betancourt's oil venture, WSJ reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQlNFejhFZ3hzSkp6dDhBa1RMMHdwUFY5YVc5Y3J6WXRVbmZyVmR4cFVrcEN6WXNKd1Q2cUVYdVZMM0hwT1JQZW0wNDdvNGt4Z1h4dG5VUE5zdlNLQWZEWUtBbUJodHR6TmhJS0VfbkhScUdBaUxMU2JhNk9QTDVVRFo1QTRTd0V1Q1RvMWVMRDBaNG1UOWxHR0FaSURoVFp1am9OeHowRWRRSmtjSkRvTHF4SXpRRzBBRURGeTV2bjRjYjA?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 02:01:00 GMT",
+          "pubDate": "Sun, 30 Aug 2026 03:14:37 GMT",
           "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-08-30T09:00:18.885Z"
+      "ok": true,
+      "updatedAt": "2026-08-30T09:50:17.498Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T09:25:31.893Z"
+      "updatedAt": "2026-08-30T09:50:17.881Z"
     }
   ]
 }
