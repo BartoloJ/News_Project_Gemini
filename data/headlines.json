@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-30T06:25:13.375Z",
-  "lastChecked": "2026-08-30T06:25:13.375Z",
-  "lastUpdated": "2026-08-30T06:25:13.375Z",
-  "generatedAt": "2026-08-30T06:25:13.375Z",
+  "fetchedAt": "2026-08-30T06:50:17.173Z",
+  "lastChecked": "2026-08-30T06:50:17.173Z",
+  "lastUpdated": "2026-08-30T06:50:17.173Z",
+  "generatedAt": "2026-08-30T06:50:17.173Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Manhunt after one killed and five injured in Swiss shooting, police say",
+          "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 30 Aug 2026 06:43:26 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "WhatsApp chat used to send cash for crime and extremism",
           "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
@@ -26,7 +32,7 @@
           "source": "BBC News"
         },
         {
-          "title": "Canada installs large Lake Ontario sign in latest jab at US",
+          "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
           "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 30 Aug 2026 00:17:25 GMT",
           "source": "BBC News"
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 29 Aug 2026 19:06:28 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
-          "link": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 29 Aug 2026 18:30:32 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T06:25:12.042Z"
+      "updatedAt": "2026-08-30T06:50:15.673Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T06:25:12.249Z"
+      "updatedAt": "2026-08-30T06:50:15.863Z"
     },
     {
       "name": "AP News",
@@ -127,12 +127,6 @@
           "title": "Nepal warns of more possible floods as communities grapple with devastation - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3NPeGkybU5zYk9oRUNteGFDbmJKcTlfZHh2Q2l4ZDU1OFZzdTJGRHNBSUJXcldlelVpRjlDRlFBVHBFUGg4bnpTWDFWTkxDaG1OYzdkcTFBT2o4aG11ZTlWYzNqN294THUxMjRqbVRzNTRnNUZKNUJuQWFxYnJUUk5SalRCUFFXTDMyZ1hDSldPZk1wSV81WA?oc=5",
           "pubDate": "Sun, 30 Aug 2026 04:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ryan Preece wins at Daytona to take the final playoff spot in NASCAR’s Cup Series - AP News",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40UU5qQXBOdE5GR0RjX25nMnpJS1hQcVpCU2ZaenViNS02bHJKS040ZzllSE0tUjY3V2FtYUx4ZlI2MGU5MmhvTW9vTUhDbXRMY3F4bkZLVXd3MEpvcVhudE1IeFAzZl9iOHlKMy1EbjdBbnI1YllOXzB1RHZhakU?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 02:50:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOclFpcnN1Qm52Y0RoSVlLaXVoVTExLTdPMWhhSFdoUHViTlFNTlZpWmZUNzFBeDdyUkRVZFlMZU9MeUFfNEJTQU5lU082TnF1OEJSNUcxLW9TUXhKNFF6a2ZERkxDcXU4dmx6YW9wSTJiQWhoZVJiUUo4aVFNQ2JLY0ZCeUp3SmJLSDR2TzBpLWthVTRsamFzMnFBYXM?oc=5",
           "pubDate": "Sun, 30 Aug 2026 00:23:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Dozens of soldiers killed or arrested after an apparent mutiny in Niger’s capital, state TV reports - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzZFaFJKU2dpTXV0MkluVEthajhsY2tVSDFqM0poUXpBOTNuRGUxZXRKZEpBam1DQWNBdWFzUnlHM3hmM21ZWkh5REZBM0R3YnlKTTVMQnZacFhWQ1c4YUFuQjFqZ095QnliMGNxSEE1TzZqQ1JOVTJlVVRJRlBWLUoybVVSbDg5MzNNd0pkQ1lCREx5aS1pdFRzTUptMTZWTHJ2TklBV0RjYVVnYlU0Q3hicWN0eXRHVDUzb0FR?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 00:13:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T06:25:12.693Z"
+      "updatedAt": "2026-08-30T06:50:16.342Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Several victims reported in shooting incident, police say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVExIWW1kRXlDMzJSRlNJRE1Id0pSTmJUUUxzc09oUmlxQVdhb3hHbWRZcTdkRFJPOFlCS1daejVwai1mWVBmTHRuMTlEU0tZTGp2UlRKWDFmTGYwYVNsTUZBMmxIdlEyQ2ZCcnJDSVBiMzBqLUo5bmt5MGhYeTFvd3pCSXNfdHhmUWVnaHRpZ3FLbGpZb3ZyUklmVVZkNXRxYWxPNlE1aw?oc=5",
           "pubDate": "Sun, 30 Aug 2026 05:43:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Europe's central bankers fear more turbulence in testy U.S. relations - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFd1SEtUeS1UNHY5aUFHVk9FeS1NRzROLUZUQjlDVk9pOGdBcmtuNTB5ZUVmR1QyOWRkTm9HRXBmT3Q1M3ZvUEk3MDBRajJLNVhYb09tS2xNeGVhUFRVa3N1TkxmWHVVNWpyT1pGQU1xQU9lTlU2aVBtU05tUUpSVnZNZnIwT29idFNwcHhvTFMxSTJvOWdMSUt3MkhUNGhrM1JJb0ZtMFpnYjlNcFg3aFZOMy1aQWM?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 05:06:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDZiT3pqZ2s0MXBIdW5rcUZxUDdaS1pwWlcwYm94clg1VHBtbVVOLWN4cFppRjRpVUhFYzZJMWo2cmQ1cHNSN1p3cmhvYWZPWGxMaFJKTEdlOEVSMm8zS2E4Sm9MazBqMmU5TUpHTXRWRlh5enpwdlJOZnJJM1RuZTE5VG9RbmcwamFZREUxVWI1RnM3bmpraEJyU0tXUWJ4a3NmSm5iN3c?oc=5",
           "pubDate": "Sat, 29 Aug 2026 22:57:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Finland's Stubb tells German newspaper Russia unlikely to risk attack on NATO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0xYTXJsTlRhWVhlTDNhNU9ROUwtQzloNGt5Ul9FenFCcFdlSWJNbGsxVnBHQkpCMno0UWg0NDNOWExtMlpsTFBqOE4xOTYtNTdmUDZEWFRzYW1PbGtrWUJqSFNuR0pCVEd1ZG1jSFhvN3BkOTJ5czJybE5kNXFrT0tpcGhudWV2ZDdvWGJER1ZUN0loOUdybUxpdDBnQk1qYmlWcjhWeHpqZURDN2dZTlFB?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 21:51:44 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T06:25:13.055Z"
+      "updatedAt": "2026-08-30T06:50:16.765Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T06:25:13.375Z"
+      "updatedAt": "2026-08-30T06:50:17.173Z"
     }
   ]
 }
