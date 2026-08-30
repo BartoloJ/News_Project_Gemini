@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-29T23:50:16.429Z",
-  "lastChecked": "2026-08-29T23:50:16.429Z",
-  "lastUpdated": "2026-08-29T23:50:16.429Z",
-  "generatedAt": "2026-08-29T23:50:16.429Z",
+  "fetchedAt": "2026-08-30T00:00:22.345Z",
+  "lastChecked": "2026-08-30T00:00:22.345Z",
+  "lastUpdated": "2026-08-30T00:00:22.345Z",
+  "generatedAt": "2026-08-30T00:00:22.345Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T23:50:15.026Z"
+      "updatedAt": "2026-08-30T00:00:21.227Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T23:50:15.321Z"
+      "updatedAt": "2026-08-30T00:00:21.272Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "An officer is dead and a second was injured in a shooting at South Carolina park, police chief says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTVDSXBqWmc5cHhaV1VlM0NuSmdWbTR3SEtLXzZEUDY1VGJLcU5FdGJqVWlMQjFNTXBYX0lTcVI3N1ctLVVkVlJBWC1heVBhQm1hcUlJdTYydnJRY2l2cllnLWFBUmxoc0hNQVNVQVlqanRabld1Y05XVmpzMG9EWFpxY0VVY0MzUS1aVFNLVS02MDBfbGpESmNZOWp6Zw?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 22:49:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "El-Sayed apologizes for comments he made responding to an attack on a Michigan synagogue - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSnVLbXdYY0JCUk1NeXotZE1WUFNyNG5ITm5GVUpEQnplT1BFQ0d6SWxPTjlIdC1va2JHM0duRTRZUUpnWUxTSmo2cDZPY016d2l5OWZBcG1oUnNJekV0M3U2WW1LSjZBNl8xSjNlbktVT2NRdlNISHkxeXlqdWp1UXhUUHEtZzg1SmVYYlJUcmE5bzQzSGlwZkZMYVk5eWV4QUJUNFhYUlk?oc=5",
@@ -133,12 +139,6 @@
           "title": "Niger’s security forces battle mutinous soldiers in the capital - AP News",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzZFaFJKU2dpTXV0MkluVEthajhsY2tVSDFqM0poUXpBOTNuRGUxZXRKZEpBam1DQWNBdWFzUnlHM3hmM21ZWkh5REZBM0R3YnlKTTVMQnZacFhWQ1c4YUFuQjFqZ095QnliMGNxSEE1TzZqQ1JOVTJlVVRJRlBWLUoybVVSbDg5MzNNd0pkQ1lCREx5aS1pdFRzTUptMTZWTHJ2TklBV0RjYVVnYlU0Q3hicWN0eXRHVDUzb0FR?oc=5",
           "pubDate": "Sat, 29 Aug 2026 21:02:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Tadej Pogacar requires surgery on broken clavicle after head-over-handlebars crash in Spanish Vuelta - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVo4MjUzSmY1RVhJaGdTY1hhZERhallPTUFaNE9US1ZhNzRUcWtsSDhwMUFrNTNxSDRvZHN4TVFyRnFPTWlvcDRacjFhMEt1N01qdmZvVjVUTk9tVFRuMEFhUkRiOGQwNHhva29TYjZCdjZVNVd1NElRb1hxeXMzTzNVSHo5OFI1NWpLX2thWWlNdkJfbVNlZlpn?oc=5",
-          "pubDate": "Sat, 29 Aug 2026 20:59:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T23:50:15.786Z"
+      "updatedAt": "2026-08-30T00:00:21.758Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T23:50:16.197Z"
+      "updatedAt": "2026-08-30T00:00:22.251Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-29T23:50:16.429Z"
+      "updatedAt": "2026-08-30T00:00:22.344Z"
     }
   ]
 }
