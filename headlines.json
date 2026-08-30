@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-30T10:00:19.712Z",
-  "lastChecked": "2026-08-30T10:00:19.712Z",
-  "lastUpdated": "2026-08-30T10:00:19.712Z",
-  "generatedAt": "2026-08-30T10:00:19.712Z",
+  "fetchedAt": "2026-08-30T10:25:16.845Z",
+  "lastChecked": "2026-08-30T10:25:16.845Z",
+  "lastUpdated": "2026-08-30T10:25:16.845Z",
+  "generatedAt": "2026-08-30T10:25:16.845Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T10:00:18.812Z"
+      "updatedAt": "2026-08-30T10:25:15.419Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "How a comic book store got swept into the tariff storm",
+          "link": "https://www.npr.org/2026/08/30/nx-s1-5939521/tariff-refunds-canada-trade-war",
+          "pubDate": "Sun, 30 Aug 2026 06:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "From Appalachia to Africa: Why Dolly Parton was beloved across the continent",
+          "link": "https://www.npr.org/2026/08/30/nx-s1-5946399/africa-dolly-parton-fans",
+          "pubDate": "Sun, 30 Aug 2026 06:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
           "link": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding",
@@ -97,22 +109,10 @@
           "link": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa",
           "pubDate": "Sat, 29 Aug 2026 17:09:14 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
-          "link": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
-          "pubDate": "Sat, 29 Aug 2026 11:54:40 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Photos: See the aftermath of deadly flash floods in Nepal",
-          "link": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
-          "pubDate": "Sat, 29 Aug 2026 10:22:19 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T10:00:19.037Z"
+      "updatedAt": "2026-08-30T10:25:15.618Z"
     },
     {
       "name": "AP News",
@@ -120,13 +120,37 @@
         {
           "title": "1 dead and 5 wounded in a shooting at a rave in Switzerland - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkU3bWltcTZvOERRdl9ndmFuTEVTbm1Zd0JMeHNULUxydUVQYm5CMGx1X0I4ZlRjT0FnZkxxZndlN0Vtc0wxZjlUQzZ5bjdibm9zNWUwbWpfM0lxNmpZNXpweW9SRDhxUXU4Q3JuWnVpVmZab1BUY3BxbVJwNWx1QnZXWE83dDljTnVXNlVobmE2M0lrVFUw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 09:57:00 GMT",
+          "pubDate": "Sun, 30 Aug 2026 09:34:42 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Icelandic voters reject a proposal to restart negotiations to join the European Union - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQelZaR2FzZ2VkX1pqS2Zucm5qbEsxbXBQRllISWQ0R1lmeVNwTTNNVzg1cE5VS2xEWTZXV3F0b2FkbWQwc0pack9YcS1fUmdFS21OSHdHdFdlcWR4WWROc1RJSUtHSTdGSkhQLVdDZ2ZSV2VOdlhlMW1nSERTUlVQNG1xd0gydktYS2tFVUpnTUt3UW1wRlVXR3B0SGV1RXJzcENfdXVCR0V5YnJoSGhhLWE0S1ljTEph?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 09:34:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Dolly Parton - AP News",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91akh0RW4tMDVuaFZHSzVsTHBrTHdaelBId3RJa1E0ZFQ4V2ZXa1pjczYydXJpSGJzR2wyMEJUU0ZrMF83ODJoeFlYZw?oc=5",
           "pubDate": "Sun, 30 Aug 2026 08:48:39 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Death toll rises to 38 from Russia’s deadliest attack on Ukraine this year - AP News",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY3lXTmFGUUQ0eUJwLXlHWWtSR1BwMlo0STdGREw1TFBwbkc3enR2N2sxWjI5WHI0cVRuaVllb0o5QVRORnd5Z0xLY2VaYXIxVWtoMW9vWWVwdU8tc3J2aV9GMjZVdXFLTWhMaktCZmx4WUlnbG1nZjZKdFdmNncxZUF6OXdMLVhlMUNhcGpGWFY4OS1XYWlyUnJFX3lxS3Q4Q1FXNGNoT0JQX3JqcDdyU3hPeW1ZcTJBWVNRNlRtWmZQT3FD?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 08:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US diplomats and family members slowly begin to return to the Mideast embassies - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZG9UVThsSHV0MUR6NGhOLVR0MXRXR3d0VG5CRF9kcVE1N3BQMjd3cUhjZjRfQU92cTJhVDFhcFliVDhFMFdEVENkSGVJdnZ5T29XY0JZU1E1bmVTR01mVV9nSmZDMGQ5bHpHczNRWEE0d21xQ1ZZNjFYczFtMldXS25xYWI2U0NOMmlHVFJsQ3padU5yNkZVeDNxYXRUdw?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 07:55:19 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 07:12:15 GMT",
           "source": "AP News"
         },
         {
@@ -140,48 +164,24 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3NPeGkybU5zYk9oRUNteGFDbmJKcTlfZHh2Q2l4ZDU1OFZzdTJGRHNBSUJXcldlelVpRjlDRlFBVHBFUGg4bnpTWDFWTkxDaG1OYzdkcTFBT2o4aG11ZTlWYzNqN294THUxMjRqbVRzNTRnNUZKNUJuQWFxYnJUUk5SalRCUFFXTDMyZ1hDSldPZk1wSV81WA?oc=5",
           "pubDate": "Sun, 30 Aug 2026 06:52:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "An officer is dead and a second was injured in a shooting at South Carolina park, police chief says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTVDSXBqWmc5cHhaV1VlM0NuSmdWbTR3SEtLXzZEUDY1VGJLcU5FdGJqVWlMQjFNTXBYX0lTcVI3N1ctLVVkVlJBWC1heVBhQm1hcUlJdTYydnJRY2l2cllnLWFBUmxoc0hNQVNVQVlqanRabld1Y05XVmpzMG9EWFpxY0VVY0MzUS1aVFNLVS02MDBfbGpESmNZOWp6Zw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 06:27:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 06:21:43 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Olivia Rodrigo's festival is uniting women and girls behind nonprofits promoting their well-being - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemtnTEtmOGF4aWV2U2EzSFhEdGR3V2Nib0s1ZzlTTzJaWVlmaTRhdURnazVHaWdnYWE5bWxpY3lweEJma2h5eDkycWxtTEJKUmJQQnZMaklGUHlSSmFfaWZpRmZNVGtkWlRHTEFQR0JTQ29jd1VUZkFTb2tUb0U3MDRIU1VwaUdvd1ZpaFBxVWNCV1VEX090dg?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 05:25:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "USS Abraham Lincoln sails past Singapore on its way home from Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWFFVWEFacy1QR1lRdDc2eW9LMUlXRS1hM1Nfang4YzZjN2tfakRVS3FadjZSeWFWeVA4WGxJTUZJVENEbElNXzVNV1RzaWxEanVsXzl2M0s4UU5pSzZNZmx4MWx4RzYxVVpienpTeVF4UmNNcW9SRjZvbzlZajF4eGlWRWUtc0dOT2lKRE85aWJMUUxXN3RMQWxPdEdGZkZnWjh2ZjRkQXlLZW8zeFJJbzNUNmVFRmdf?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 05:00:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T10:00:19.451Z"
+      "updatedAt": "2026-08-30T10:25:16.087Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Niger says it regains control of airbase after soldiers mutiny - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFhGUjNRU2FTZVljRzFkYmhEZnZXRHhZdDJhVng3eVdTSTZBLVRGc0hoSDBadTZ6TW1DUDhOTElKYzRQaTM0aWtqSGdNNnJfcFRxVm5kYU0tbzdjZjBFMTh2aktHdmdnUTZEcFJCaHlKRmVkSy0wRWRDeU9NOEpEVWM1Tml1X0k0WGplV2VWd3R3QzRvNlM3eEIyejF6cG9YdXRSQzE3VlRXZFZZ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 08:50:46 GMT",
+          "title": "The battle to build a global defence bank - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb3Q2dzBUdTJQYkFrLVhDQnNaUks0eGd0dHRqQ0MxYjhlbkF5Y2Y5QXhoQXZsQU14QkZIb3hxelRSdW1KVVd4eGhLeEFuSFlXeFpHdUtER2VTZHh4ZlB5TmowZ3poR21acFM2T2dFUVRsd0RMNUlmclpWZXBtTHNVQ0ctcVVGbjNrMDJJcjJB?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 09:33:37 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Manhunt underway after woman killed, several injured at Swiss rave shooting - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVExIWW1kRXlDMzJSRlNJRE1Id0pSTmJUUUxzc09oUmlxQVdhb3hHbWRZcTdkRFJPOFlCS1daejVwai1mWVBmTHRuMTlEU0tZTGp2UlRKWDFmTGYwYVNsTUZBMmxIdlEyQ2ZCcnJDSVBiMzBqLUo5bmt5MGhYeTFvd3pCSXNfdHhmUWVnaHRpZ3FLbGpZb3ZyUklmVVZkNXRxYWxPNlE1aw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 08:43:20 GMT",
+          "title": "Niger says it regains control of airbase after soldiers mutiny - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFhGUjNRU2FTZVljRzFkYmhEZnZXRHhZdDJhVng3eVdTSTZBLVRGc0hoSDBadTZ6TW1DUDhOTElKYzRQaTM0aWtqSGdNNnJfcFRxVm5kYU0tbzdjZjBFMTh2aktHdmdnUTZEcFJCaHlKRmVkSy0wRWRDeU9NOEpEVWM1Tml1X0k0WGplV2VWd3R3QzRvNlM3eEIyejF6cG9YdXRSQzE3VlRXZFZZ?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 08:50:46 GMT",
           "source": "Reuters"
         },
         {
@@ -203,15 +203,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Europe's central bankers fear more turbulence in testy U.S. relations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFd1SEtUeS1UNHY5aUFHVk9FeS1NRzROLUZUQjlDVk9pOGdBcmtuNTB5ZUVmR1QyOWRkTm9HRXBmT3Q1M3ZvUEk3MDBRajJLNVhYb09tS2xNeGVhUFRVa3N1TkxmWHVVNWpyT1pGQU1xQU9lTlU2aVBtU05tUUpSVnZNZnIwT29idFNwcHhvTFMxSTJvOWdMSUt3MkhUNGhrM1JJb0ZtMFpnYjlNcFg3aFZOMy1aQWM?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 05:07:43 GMT",
+          "title": "Manhunt underway after woman killed, several injured at Swiss rave shooting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVExIWW1kRXlDMzJSRlNJRE1Id0pSTmJUUUxzc09oUmlxQVdhb3hHbWRZcTdkRFJPOFlCS1daejVwai1mWVBmTHRuMTlEU0tZTGp2UlRKWDFmTGYwYVNsTUZBMmxIdlEyQ2ZCcnJDSVBiMzBqLUo5bmt5MGhYeTFvd3pCSXNfdHhmUWVnaHRpZ3FLbGpZb3ZyUklmVVZkNXRxYWxPNlE1aw?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 05:43:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "South Korea names veteran technocrat Lee Hyoung-il as new finance chief in cabinet reshuffle - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVHRkTGtkeEdMVDNXUFBNVzM1MnExNlhHYmhEMHlvVEhkV2VBd0xCX0MyOXBmT3N5cER6aV9uS19Ub2tnUUg1clZmNEJnQUFmVzNHMDJwcVExeHBqdno5T1QzWEpHWUtnNFNTLUVid1k5OFdUQU9ESzA1M0J6c04tT0Rrbm1rY0hpZFhRQW1sNlFQMl95bmpyZEhOYVUzYV9oV1IxN0xVVG5xLVVqbTBBY21maHdhcTZNb0R4UFV6UXBMRG9lb01rRjdyaHk?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 03:16:51 GMT",
+          "title": "Europe's central bankers fear more turbulence in testy U.S. relations - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFd1SEtUeS1UNHY5aUFHVk9FeS1NRzROLUZUQjlDVk9pOGdBcmtuNTB5ZUVmR1QyOWRkTm9HRXBmT3Q1M3ZvUEk3MDBRajJLNVhYb09tS2xNeGVhUFRVa3N1TkxmWHVVNWpyT1pGQU1xQU9lTlU2aVBtU05tUUpSVnZNZnIwT29idFNwcHhvTFMxSTJvOWdMSUt3MkhUNGhrM1JJb0ZtMFpnYjlNcFg3aFZOMy1aQWM?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 05:07:43 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T10:00:19.464Z"
+      "updatedAt": "2026-08-30T10:25:16.630Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-30T10:00:19.712Z"
+      "updatedAt": "2026-08-30T10:25:16.845Z"
     }
   ]
 }
