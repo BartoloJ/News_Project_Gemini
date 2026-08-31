@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-31T11:50:15.241Z",
-  "lastChecked": "2026-08-31T11:50:15.241Z",
-  "lastUpdated": "2026-08-31T11:50:15.241Z",
-  "generatedAt": "2026-08-31T11:50:15.241Z",
+  "fetchedAt": "2026-08-31T12:00:22.781Z",
+  "lastChecked": "2026-08-31T12:00:22.781Z",
+  "lastUpdated": "2026-08-31T12:00:22.781Z",
+  "generatedAt": "2026-08-31T12:00:22.781Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "The jury's options in Lindsay Clancy's murder trial",
+          "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 31 Aug 2026 11:53:21 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Man arrested after Swiss rave shooting that killed woman",
           "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Search continues for 18 passengers after ferry capsized in northern Cyprus",
           "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 31 Aug 2026 11:41:05 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "The jury's options in Lindsay Clancy's murder trial",
-          "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 31 Aug 2026 11:17:44 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T11:50:14.063Z"
+      "updatedAt": "2026-08-31T12:00:22.345Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Nepal's hesitance to accept foreign help for flood relief under scrutiny",
+          "link": "https://www.npr.org/2026/08/31/nx-s1-5949971/nepals-hesitance-help-flood",
+          "pubDate": "Mon, 31 Aug 2026 07:50:17 -0400",
+          "source": "NPR"
+        },
         {
           "title": "U.S., Venezuela strike oil deal. And, the staggering hidden toll of U.S. heat deaths",
           "link": "https://www.npr.org/2026/08/31/g-s1-141187/up-first-newsletter-venezuela-oil-iran-war-house-government-funding-grand-canyon-flash-flooding",
@@ -93,26 +99,20 @@
           "source": "NPR"
         },
         {
-          "title": "NPR spent 2 years tracking deaths from heat. We found a staggering hidden toll",
-          "link": "https://www.npr.org/2026/08/31/nx-s1-5724225/heat-wave-death-toll-tracker",
-          "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "The U.S. Venezuela oil deal won't lower your gas prices. Here's what you need to know",
-          "link": "https://www.npr.org/2026/08/31/nx-s1-5949407/us-venezuelan-oil-deal",
-          "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Why too many women are prescribed antibiotics for UTIs they don't have",
           "link": "https://www.npr.org/2026/08/31/nx-s1-5947249/infection-uti-bladder-antibiotics-hormone-menopause",
+          "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "NPR spent 2 years tracking deaths from heat. We found a staggering hidden toll",
+          "link": "https://www.npr.org/2026/08/31/nx-s1-5724225/heat-wave-death-toll-tracker",
           "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T11:50:14.146Z"
+      "updatedAt": "2026-08-31T12:00:22.490Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T11:50:14.553Z"
+      "updatedAt": "2026-08-31T12:00:22.543Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T11:50:14.977Z"
+      "updatedAt": "2026-08-31T12:00:22.559Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T11:50:15.241Z"
+      "updatedAt": "2026-08-31T12:00:22.781Z"
     }
   ]
 }
