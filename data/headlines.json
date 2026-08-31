@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-31T08:00:21.528Z",
-  "lastChecked": "2026-08-31T08:00:21.528Z",
-  "lastUpdated": "2026-08-31T08:00:21.528Z",
-  "generatedAt": "2026-08-31T08:00:21.528Z",
+  "fetchedAt": "2026-08-31T08:25:15.733Z",
+  "lastChecked": "2026-08-31T08:25:15.733Z",
+  "lastUpdated": "2026-08-31T08:25:15.733Z",
+  "generatedAt": "2026-08-31T08:25:15.733Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "One dead and several missing after 'terrifying' flash flooding hits Grand Canyon",
+          "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 31 Aug 2026 08:17:25 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "US and Iran trade strikes for first time in weeks",
           "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
           "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 31 Aug 2026 03:56:15 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
-          "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 30 Aug 2026 23:52:27 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T08:00:20.289Z"
+      "updatedAt": "2026-08-31T08:25:14.248Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,15 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T08:00:20.471Z"
+      "updatedAt": "2026-08-31T08:25:14.604Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Iran war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 07:56:51 GMT",
+          "title": "UAE says it intercepted an Iranian drone after weekend US strikes on rocket launchers in Iran - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 08:10:00 GMT",
           "source": "AP News"
         },
         {
@@ -130,9 +130,21 @@
           "source": "AP News"
         },
         {
-          "title": "United Arab Emirates says it has intercepted an Iranian drone over its territorial waters - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 07:22:00 GMT",
+          "title": "Asian shares, US futures retreat and oil prices surge after US strike on Iranian rocket launchers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 06:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Novak Djokovic out in US Open 1st round for the first time. Pegula, Medvedev, Kostyuk among winners - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTZXTld2ZkZXSXYyOEl0RERXNklTOE5jWUgxVDdTUUN4VWpuZUx4RlctQ2NyTllQSzluQUN4a1Z4cEl5X0llcnA0ZXBPOThCeHY2TjctYncwWjRfcFkyT0ViRjBxYWZIckF0YWMzUUw3bFlKV2xSZS15Z1MwbDJuZHZBbzBLRlZJX21j?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 06:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 05:25:56 GMT",
           "source": "AP News"
         },
         {
@@ -148,26 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Novak Djokovic out in US Open 1st round for the first time. Pegula, Medvedev, Kostyuk among winners - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTZXTld2ZkZXSXYyOEl0RERXNklTOE5jWUgxVDdTUUN4VWpuZUx4RlctQ2NyTllQSzluQUN4a1Z4cEl5X0llcnA0ZXBPOThCeHY2TjctYncwWjRfcFkyT0ViRjBxYWZIckF0YWMzUUw3bFlKV2xSZS15Z1MwbDJuZHZBbzBLRlZJX21j?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 04:55:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Novak Djokovic loses in opening round of US Open for first time, falling in 5 sets to Mariano Navone - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSzBQb1Y5ejFYU0pPZGFPdGllQlp1aG9GLThWbFk0RG12N3o2b3Y1eW1kNDZELWI3Uk9URVZaVEtPcnBMNzdwaGlxX2JHUWZreWVGcGx2cDNiQURZOUo1M1dzRHZBRjExMEJoVHBpZlp5S1hTSFF5YzhuRWY0Mnp3cVJXTVNJQkpfNWdDeHY1N1p4TXc4R0NYSGtjNnltQQ?oc=5",
           "pubDate": "Mon, 31 Aug 2026 04:40:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Bessent heads to the G20 to rally allies on Iran as tariffs strain ties - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHkyT3lETlVKQjljcFhmWFFPMC1NRmo4alY1REtpQl91VUVoYU1FNWg3MlpRTGtXRjhEbi01YU4xeWdPUlo2bncxby11UzBKclBXZjFqOWFhcXlvaTVNaVFCWjgtdkhlakdMM3NCRlhEY1JlZzZIR0p5UWp5TGdwYmNHMGpDNjNKOWZ6ZkVhZGlrNDEwWUo4SzBaUmpGbnRzOHRsdDJLLXM3ZXBrQ2Y0bw?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 04:18:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T08:00:20.968Z"
+      "updatedAt": "2026-08-31T08:25:15.067Z"
     },
     {
       "name": "Reuters",
@@ -203,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Ailing Djokovic stunned in US Open first round by Navone - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZWNlWDVybENfdzUxYmlxVGVaYTZDMWZ1ZEJvcWY2TXptSXJYb3VtQml3d002UnZtUVJLd3dBMG5sV3dHakkzZGJqM2lOa3ozSWxkOHVuanlmb1FiNmVFdjdFT0NfcEhXOWUxLUtqLUJnaG5ETE55UjRteUVlZ3JwYnJRYTFNdnNmTV92Z2VnTQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 05:44:32 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Foreign investment in Germany rose 50% in 2025, IW says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzdJTmExTkd5eGFjYXNnYXlWem55LUc5eVFvRVZOU3FpSlU2TkEwU0NfcENNNUpkaVV6Y0xxYnd4TUZoaUY2bGNleGp6VjBtQ2NkTFFIalVKOGh1cWFCZkxWSEZ2UnZvOVpPaUZpSWVwaUhiZ3dhdkJUc21oWFpfY1ZDSklOdTlmX2hnNjZjNzNJYllUcmJR?oc=5",
           "pubDate": "Mon, 31 Aug 2026 05:43:43 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVQzSG1hcjZUa3F4dlBHbmczSFliQ3d6ZVgtWjl6RzgtYjE4cGtXNjhpRHhmU0pBb1FSQl9iUHN5b0FUZHFMX0JDSFNONERPQ0c0T2Z6ejBFWE9jUldMUU9sVzJKT1Z0R0JaWGFUaHZUdnNtcVEwclRIZ29vZnpqd1JJOHg1Qmx2cHZ0TVMtVEtjWEdNbE1kZDY4cGxUNlRxYkpsVm1UUnZ3RjE2Z3cwRlQ3WVRWU0hO?oc=5",
           "pubDate": "Mon, 31 Aug 2026 05:40:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "North Korea says hostile US policy unchanged, vows to strengthen nuclear force - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb0F3OEVRMm9EclRnQjJYYUtMcWU3b0VkNnVOV1BFZFc3Y2hFakhtdFlQX0pkOHRyUF9ZdVExclFmNmY3d21mMWJGSG1HRmxMV2V3M25iX3B0OW9vV1pFTk9FLU1TMWRxX2YzR0lhcEl3eHN1S1QySzViZV9sRll1SFZFSmhUVVhHM0FBeW5NQmlGb0p3a0FzbXo3RDhVRXhCYWNtekNua3duOTZ2OHd6dVBlem5WR0J1TUdwZlZjeUs4SURnT3dUZlNKelB6Zw?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 05:18:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T08:00:21.397Z"
+      "updatedAt": "2026-08-31T08:25:15.519Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T08:00:21.528Z"
+      "updatedAt": "2026-08-31T08:25:15.733Z"
     }
   ]
 }
