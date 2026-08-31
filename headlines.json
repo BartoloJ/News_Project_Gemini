@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-31T00:00:22.408Z",
-  "lastChecked": "2026-08-31T00:00:22.408Z",
-  "lastUpdated": "2026-08-31T00:00:22.408Z",
-  "generatedAt": "2026-08-31T00:00:22.408Z",
+  "fetchedAt": "2026-08-31T00:25:16.551Z",
+  "lastChecked": "2026-08-31T00:25:16.551Z",
+  "lastUpdated": "2026-08-31T00:25:16.551Z",
+  "generatedAt": "2026-08-31T00:25:16.551Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:00:21.067Z"
+      "updatedAt": "2026-08-31T00:25:15.593Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:00:21.297Z"
+      "updatedAt": "2026-08-31T00:25:15.703Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "US strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 23:41:00 GMT",
+          "title": "Dozens evacuated from Grand Canyon after flash flood hits creek leading to the Colorado River - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0ZsenJBekRNWXdIZWdFcHdnYjZfXy1wZUZGSlZPMTlRNzF0TFhhTXVMMDBCT2pKUXBmVkJPNEtfdmFyMEdfcE5IUEQ1Ujl5cjFHS0xabU5HWVg1UGVQbXBib21faENqUGJOeHhfM1Y5Sjl0OVRBR2gxWjB5QXdCSGRPNDNMUWxvOE9TNEFvT3NibFFlRG9NbE5ROWIzczF3a3lBMGFEaXc?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 22:39:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Lake Ontario now called Lake America on Google Maps for US users after Trump ordered name change - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnhMZUl2X0dLWlh1LVY5UWM3b2l2WXRSd3RtY082NjMwV05leTZNczRWN3U2d2NSMHhGblVXeTlsczlWWDVaN3FQMURMUHV2Z3NoZGZUZWpsbHo4eE1qdFdXRGw1QWozV25ibVB0SnA5NWtaOXV0Y3NMWXJsc0ZUX2NRcE4yd1lQRGF5TXRJcw?oc=5",
           "pubDate": "Sun, 30 Aug 2026 22:39:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Icelandic voters reject a proposal to restart negotiations to join the European Union - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQelZaR2FzZ2VkX1pqS2Zucm5qbEsxbXBQRllISWQ0R1lmeVNwTTNNVzg1cE5VS2xEWTZXV3F0b2FkbWQwc0pack9YcS1fUmdFS21OSHdHdFdlcWR4WWROc1RJSUtHSTdGSkhQLVdDZ2ZSV2VOdlhlMW1nSERTUlVQNG1xd0gydktYS2tFVUpnTUt3UW1wRlVXR3B0SGV1RXJzcENfdXVCR0V5YnJoSGhhLWE0S1ljTEph?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 22:37:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTZXTld2ZkZXSXYyOEl0RERXNklTOE5jWUgxVDdTUUN4VWpuZUx4RlctQ2NyTllQSzluQUN4a1Z4cEl5X0llcnA0ZXBPOThCeHY2TjctYncwWjRfcFkyT0ViRjBxYWZIckF0YWMzUUw3bFlKV2xSZS15Z1MwbDJuZHZBbzBLRlZJX21j?oc=5",
           "pubDate": "Sun, 30 Aug 2026 21:50:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Hundreds attend funeral in Haiti for 4 victims of brutal gang attack that killed 47 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSi00WEMwa2RfWDZxYlVvYmxmdnpNTkZXeHBkaVMwME5lTGJlcDBNc2VjTkI4MU5LbnB3TXdEeER6VGFBaWs3c3VkemZheFJUNENjUGMtblVINm9GTkRWS0ZqUFBzaFB6X3MzMjFVRXlDazRsdEQtRXA5bHo0eHlycWNzcGxzZmpsX09PWVpFOXdqM3F1MUhLbUlR?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 21:47:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:00:21.777Z"
+      "updatedAt": "2026-08-31T00:25:16.158Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "US forces strike two Iranian launchers on Iran's Larak island, US official says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5",
           "pubDate": "Sun, 30 Aug 2026 23:09:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Rescuers battle floods and debris as Himalayan disaster death toll nears 800 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlp4TDFMZW56NUZBeXVKc2t6UHFaX2xtekUxdGNnTU96YVJzczdybzFZNkpsUU9UQ3RUVFVfcmtGcGZXZ1cyTXRpRUE1NjlROFRkRFB4Q0hpLXgweFMtc1dIZl96Rk9Gb0N3bmpHWXVINm1qbW44SzJqQmVCalhCbjBsV081NTRvNFZTbi1GWVk5ZXdSblRyRmpfRldDTnJ2SnY4TFpSY0FEOUpkY3dqSTRyZTF2Yms?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 23:07:59 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOEZiQmZKRnEwR0dLWDhRS3BJejh5REVwOVBSQlUtRW1FZHBFRmtPejlJcGFGMU1OT0E0NEhVMXIweFdTVmVsQVo3cGhUbWtDOVp3eWNLaVJ2cXNHTTRDdFBsWXpjRk14TlJHYVZhNXVPZ3VSRXpqZ05rQXdHNDZXdy1YeVNxVDBSMktqZ2VKeUtxRUstSEdaQ0FGMHFIdUF6S0l3NmQ3aUNaRDZNdEZzb0JMQ2ZYQi1YQ2c?oc=5",
           "pubDate": "Sun, 30 Aug 2026 19:49:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "At least eight die, 18 missing after ferry capsizes off North Cyprus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVlzWG1uLXVQZXVpTWtnajhCNzhhQV85eGNBTWc5V0NDYm91bWZHMFVSX2xUY19EU3RDRXF5d005RE8xUFZObEJsR2VqdUxGTWV3eUdVVm5ZLWxGLUtvMVNjWDFydlQxYUNudU5nOGMzNFo2SVVOZElxUk9OWDBWblNHMzloNEN6bnZJb3QzZU1wQXhET3BYeGQ4NERmT0VsYnQwQzVJVGc5SXk3YzJvWllBbw?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 19:37:20 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:00:22.175Z"
+      "updatedAt": "2026-08-31T00:25:16.179Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:00:22.408Z"
+      "updatedAt": "2026-08-31T00:25:16.551Z"
     }
   ]
 }
