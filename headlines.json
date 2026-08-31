@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-31T07:25:17.361Z",
-  "lastChecked": "2026-08-31T07:25:17.361Z",
-  "lastUpdated": "2026-08-31T07:25:17.361Z",
-  "generatedAt": "2026-08-31T07:25:17.361Z",
+  "fetchedAt": "2026-08-31T07:50:15.773Z",
+  "lastChecked": "2026-08-31T07:50:15.773Z",
+  "lastUpdated": "2026-08-31T07:50:15.773Z",
+  "generatedAt": "2026-08-31T07:50:15.773Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T07:25:16.446Z"
+      "updatedAt": "2026-08-31T07:50:14.794Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T07:25:16.490Z"
+      "updatedAt": "2026-08-31T07:50:14.822Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Iran war - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 07:46:41 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 07:33:11 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Bessent heads to the G20 to rally allies on Iran as tariffs strain ties - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHkyT3lETlVKQjljcFhmWFFPMC1NRmo4alY1REtpQl91VUVoYU1FNWg3MlpRTGtXRjhEbi01YU4xeWdPUlo2bncxby11UzBKclBXZjFqOWFhcXlvaTVNaVFCWjgtdkhlakdMM3NCRlhEY1JlZzZIR0p5UWp5TGdwYmNHMGpDNjNKOWZ6ZkVhZGlrNDEwWUo4SzBaUmpGbnRzOHRsdDJLLXM3ZXBrQ2Y0bw?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 05:19:21 GMT",
+          "source": "AP News"
+        },
         {
           "title": "An upcoming election could produce modern Germany’s 1st far-right state governor - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzY5X1dxX0tER2FYbVprM0VwVHlCU3RWUWVVRTZrMzR5d0N6ZXRHWGRjMW1yTE1JVmJub3JRUHFFY1ZFcU9BamV3aUtteUpVN01oYkVWSUVLdHJqRkRkVFdWcXhwbkFzMnk0ZWRaN1UxS3RyQXQxeUdOektqM1REbUUtTE5GR2dvYURQZEd2b01ZckJkS0dmVG13VVdnTURjYzI2THd5OA?oc=5",
@@ -142,36 +160,24 @@
           "source": "AP News"
         },
         {
-          "title": "The top photos of the day by AP’s photojournalists - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOWtZSllkU0lVaVJMQ1pfU0FRRW1DdnZVTDZHMURmVXN2UnczRUJpcXVodVdFb3NqN1hDZjVGWnFVdnZ6dTRBWkYwdm1wT2xHNTFJYTlRdGF2YllCSGxteHowLTBhaVFDSTBIOFA5aWZINGRlV2U1dEtmOS1TbEZuNXBYc0hYUldSbmtGWDhPWWt6OXp2a3UzYkxiUFQtZTlqV2FnMA?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 04:31:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Bessent heads to the G20 to rally allies on Iran as tariffs strain ties - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHkyT3lETlVKQjljcFhmWFFPMC1NRmo4alY1REtpQl91VUVoYU1FNWg3MlpRTGtXRjhEbi01YU4xeWdPUlo2bncxby11UzBKclBXZjFqOWFhcXlvaTVNaVFCWjgtdkhlakdMM3NCRlhEY1JlZzZIR0p5UWp5TGdwYmNHMGpDNjNKOWZ6ZkVhZGlrNDEwWUo4SzBaUmpGbnRzOHRsdDJLLXM3ZXBrQ2Y0bw?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 04:21:52 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYW1MOVE5M2VfSHVJc0FDcmxjSFU1blFydzluNlQ2R182V0dGX0VjZUp6ZmU0Q1JZS3Z5RFhJSTFDdlhWZk4xNE5xUWJZX1A1X3o4WUt5aG9zYThvNEJjcHUyUlNpa1Zzc09kWEtrdnZfVlltNzgxVzExZ0YtQklFQUpKRkdaUWtsTlBjMW9jNTNmTHpmYWxzeThn?oc=5",
           "pubDate": "Mon, 31 Aug 2026 04:11:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "As Pell grants expand, students see openings to afford short-term job training - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1NwWUNJbTRacGpfakNJM0dpYWZxSmRxZ0ZNSl9mSm1rT3luOVd5MnB3WDhZeEM5T0tYUWN5QUs0UTY5ZUVMMlZKRC10bGh4VUY4OGVFSkpKSkIzQzU5bFpwTUhaYVdPZXY2eUdFM0haYTh6eGxaYkUwM2l1aW9fc3dIN2VhZFBfWkFuLUVWSVNNSHVWNkFSeGQyVQ?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 04:10:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T07:25:16.890Z"
+      "updatedAt": "2026-08-31T07:50:15.273Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "OpenAI issued warrants worth $5.5 billion in SB Energy, WSJ reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHZHakZmR3NodC1Ea3c3U2oxdzR5anY2NEhZX0ZvMUpSWEdIU2pwX0F0RjJDaG55ZlRyLVRzMHo0QnE0YUV1NFltaHBvSTB3aTFzNXZPYkxJcDBuNlYzQkstaEhaQzF1S2xUcU1YZlNrM2xjbWxQTlBqRGhLR0E0UTUyVENnOUJTN2pTWE1HNi1mSzZJVmtZWnN6am51aG83TkRPWVdIZFFlelBq?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 06:28:22 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "RBI back to rupee's rescue to counter oil, Fed headwinds; steps into swaps too - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEFscm9ibG1XX3ZKcFdiTUZheGctLWxuUDR3NFR6Z2h3MWRBYTZ1VWctNjVLUE9JcWVnd1VqVkJtUFpRRDF1LVNRZHEwdGE1Ym1wR3Bwb3haR3QzdnEyS205VGN2VUt6ckdvNnI5aU14OS1XVXJYV2RYSTdSSnZhMWQ0WU5ZQXdBNGE4SmdMUWxZa1B3eW0wc0RfenJGS0MwYWRReg?oc=5",
@@ -191,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "South Korea court gives Unification Church leader jail sentence for bribery - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTHhvVmtDMzdyRWdQSGU0dTlXUEZmN0Vma1pLc2ZhZ3h1N3RlRnAxVjQ2dlU5UjI5dk93S19jMWowSzU1VDhabm5OSVNYS2w3RDgyWHphWE1hZnhDZkx1ZFR0Yk15YWdVdU5MU3lrRHp0YmFGeW9GUmo3UzVvWUdOTHV2NW5WVEkwVnY0ZnJObzdocThoOVg0RDVrZm9wcC1KTDc4aEtTckp5T1FKVXdRV3NrNkJPQQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 05:53:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Iran dismisses Trump's post of attack on key energy hub of Kharg - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVQzSG1hcjZUa3F4dlBHbmczSFliQ3d6ZVgtWjl6RzgtYjE4cGtXNjhpRHhmU0pBb1FSQl9iUHN5b0FUZHFMX0JDSFNONERPQ0c0T2Z6ejBFWE9jUldMUU9sVzJKT1Z0R0JaWGFUaHZUdnNtcVEwclRIZ29vZnpqd1JJOHg1Qmx2cHZ0TVMtVEtjWEdNbE1kZDY4cGxUNlRxYkpsVm1UUnZ3RjE2Z3cwRlQ3WVRWU0hO?oc=5",
           "pubDate": "Mon, 31 Aug 2026 05:40:00 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN0tISGIxVlFQci1BYlVRMjZKMUxUY2hKZ1FJWVl2Y3p4YlkweEJrRXhiZk1jQ1M1RGk4LUFEYVRMVXZkWjZ3eklMSkVTME1MRXJ0SkIxRVZleEs3RnZXR3c4eVN5TDEwR3VQR1U0Tm9nbFVQZS0xbmNPLXpRbDI3YkJHUURQUUhqQmptREMtelpieDQ0LVdGOVBOVUZ6dkFRd3oyX2lRZjEta0VCR3h5RTI2TDRnTzYwR1g2QkR2WEVzSEVB?oc=5",
           "pubDate": "Mon, 31 Aug 2026 05:13:19 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Soitec locks customers into multi-year deals as AI wafer demand surges - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZUc4cWlVekNJVlVlQ0gtR3VBUnVLaFE1MXMtVEdJLWd0bEw0S1MwRUJLOEg2NmJWNFR1NkppME4zZndnTm1Ycl9PSHVKSUFGT2M2al9mMHJ4Sy14ZmdjMGFmU2dHdGp5OTVUMnJfeVlNUGFiVmk3NTFMZkpFS3RnV3ByVzZpMHRMX0llMzRleFZxOGhpXy1KUmpnZFhOekhDMENYQTBkM2JvWU5vOUs5YTcwNG84ajdxZDI0WHo3QQ?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 05:03:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: CIA-backed investor helped top German drones firm break into US - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT0YtenVOS3N6QlQ5Q3FuZE4wOHg0WXl5ZjVFb1d2azBxUWtYcUtuQzhsZVNUNFRBOFpkYTcyaWRPaDRBTEplWU1nN3c3NUFPc1htYldEZXF1ZlFBYndwOE1WbXB4UWxrNndtN010RG9uYzZCSE90NjFmSEY1U3RTWW41cDZjOTVfVEtwYWU3UU5GazdQT3UyRzNCeW9wWlVjSWdiZHRLMHlGejFvUzNOd19hWUVoM2lGWDAyNDFuYnhQOXBM?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 05:02:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T07:25:17.255Z"
+      "updatedAt": "2026-08-31T07:50:15.656Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T07:25:17.361Z"
+      "updatedAt": "2026-08-31T07:50:15.773Z"
     }
   ]
 }
