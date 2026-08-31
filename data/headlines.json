@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-31T00:50:24.180Z",
-  "lastChecked": "2026-08-31T00:50:24.180Z",
-  "lastUpdated": "2026-08-31T00:50:24.180Z",
-  "generatedAt": "2026-08-31T00:50:24.180Z",
+  "fetchedAt": "2026-08-31T01:00:25.674Z",
+  "lastChecked": "2026-08-31T01:00:25.674Z",
+  "lastUpdated": "2026-08-31T01:00:25.674Z",
+  "generatedAt": "2026-08-31T01:00:25.674Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:50:22.576Z"
+      "updatedAt": "2026-08-31T01:00:24.453Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:50:22.820Z"
+      "updatedAt": "2026-08-31T01:00:24.559Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Death toll rises to 38 from Russia’s deadliest attack on Ukraine this year - AP News",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY3lXTmFGUUQ0eUJwLXlHWWtSR1BwMlo0STdGREw1TFBwbkc3enR2N2sxWjI5WHI0cVRuaVllb0o5QVRORnd5Z0xLY2VaYXIxVWtoMW9vWWVwdU8tc3J2aV9GMjZVdXFLTWhMaktCZmx4WUlnbG1nZjZKdFdmNncxZUF6OXdMLVhlMUNhcGpGWFY4OS1XYWlyUnJFX3lxS3Q4Q1FXNGNoT0JQX3JqcDdyU3hPeW1ZcTJBWVNRNlRtWmZQT3FD?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 00:30:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "AP Exclusive: US coaches Polish forces in a drone-focused drill based on lessons from Ukraine - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3VtMW5FMS1UVlVsSXpJbmprS1lTQmljd0xEaTBDaHc4NDVZNmVxVDNBVG90cnpPMC0xdmxRUmFZTkUxV05ORmltWEVWUEhmNDFNU2t3YW5UdDlGRFAtZHpER1JwcURPdEJHcXJRVzlxV0hIT2NnX3BtZW9uYlozVWhJeFZ3bENMMi14TVJhRWNaLXJnaWNkUkw3WWQ2aHJiM2EwaF9LMlNOMzFXX053?oc=5",
@@ -136,9 +142,21 @@
           "source": "AP News"
         },
         {
+          "title": "Titans cut quarterback Will Levis, Giants keep Odell Beckham Jr. as NFL teams trim their rosters - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM1FZQkdwa3Npd1d1LWRWLUtPbmdzU1QxeF9LVGxmNmZRMl9OOEJDdnFuWVJyc3VDRURyWnFyWDRfcGVXdE4zOEhISDhkS0ZfM2JCVF85Y2k5WGZNcHM5aWRicWRJOTdIdFZJUXlNZERPNGYzMVF0enlNaHVNZWFnWS1fU3RNTG51TUE?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 23:25:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
           "pubDate": "Sun, 30 Aug 2026 23:04:34 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Scottie Scheffler moves past a Tiger Woods money standard that stood for nearly 26 years - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOXJIUjZidTl3RVNQS3ozSzIydlhJZlFjY2RJOUd3dEpDNEtScWZPTEVscVZ3bUE1UGptODBlbC1pQXRES1UyekJhdzZncjVFdGxNbWdwUDZ2eGdIa2RMd3E0VFhjeVZQZ3Yza3pqNFM0UDdheFhHVFFWLUpxNlFQU1ZHellCYUo1b0hZcm9JaDFKdDZ1SFZZX1Y0TWRwcEZIam1VLUcydFVjcGpjMV9JNy1xQUE?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 22:44:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,28 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnhMZUl2X0dLWlh1LVY5UWM3b2l2WXRSd3RtY082NjMwV05leTZNczRWN3U2d2NSMHhGblVXeTlsczlWWDVaN3FQMURMUHV2Z3NoZGZUZWpsbHo4eE1qdFdXRGw1QWozV25ibVB0SnA5NWtaOXV0Y3NMWXJsc0ZUX2NRcE4yd1lQRGF5TXRJcw?oc=5",
           "pubDate": "Sun, 30 Aug 2026 22:39:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Icelandic voters reject a proposal to restart negotiations to join the European Union - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQelZaR2FzZ2VkX1pqS2Zucm5qbEsxbXBQRllISWQ0R1lmeVNwTTNNVzg1cE5VS2xEWTZXV3F0b2FkbWQwc0pack9YcS1fUmdFS21OSHdHdFdlcWR4WWROc1RJSUtHSTdGSkhQLVdDZ2ZSV2VOdlhlMW1nSERTUlVQNG1xd0gydktYS2tFVUpnTUt3UW1wRlVXR3B0SGV1RXJzcENfdXVCR0V5YnJoSGhhLWE0S1ljTEph?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 22:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 22:20:11 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US Treasury blocks certain journalists from G20 meeting in North Carolina - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYjVPYXBuYXdIZUtXVkN4VzRJVlA3aU83Sjlrc3hpQXhvT1VtQ3p1Q3gzdWhETEJVUFgxNkJBeXB4c3ZpY2thanU3MkFmRHJqNEVxYjdfTzd1VVF4QjFLY3U0dHhmeTRwS19Ua1VEMDlOQkRCZDBKaG1tSVZHVkw2SHRLRjBwYmM5ZVpGWWxVTEVDM0c2SjlR?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 22:16:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:50:23.397Z"
+      "updatedAt": "2026-08-31T01:00:25.038Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:50:23.827Z"
+      "updatedAt": "2026-08-31T01:00:25.536Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:50:24.180Z"
+      "updatedAt": "2026-08-31T01:00:25.673Z"
     }
   ]
 }
