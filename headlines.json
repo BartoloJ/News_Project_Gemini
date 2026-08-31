@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-31T00:25:16.551Z",
-  "lastChecked": "2026-08-31T00:25:16.551Z",
-  "lastUpdated": "2026-08-31T00:25:16.551Z",
-  "generatedAt": "2026-08-31T00:25:16.551Z",
+  "fetchedAt": "2026-08-31T00:42:29.850Z",
+  "lastChecked": "2026-08-31T00:42:29.850Z",
+  "lastUpdated": "2026-08-31T00:42:29.850Z",
+  "generatedAt": "2026-08-31T00:42:29.850Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:25:15.593Z"
+      "updatedAt": "2026-08-31T00:42:28.560Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:25:15.703Z"
+      "updatedAt": "2026-08-31T00:42:28.845Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Dozens evacuated from Grand Canyon after flash flood hits creek leading to the Colorado River - AP News",
+          "title": "Grand Canyon flooding knocks out water pipeline serving tourists at the national park, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0ZsenJBekRNWXdIZWdFcHdnYjZfXy1wZUZGSlZPMTlRNzF0TFhhTXVMMDBCT2pKUXBmVkJPNEtfdmFyMEdfcE5IUEQ1Ujl5cjFHS0xabU5HWVg1UGVQbXBib21faENqUGJOeHhfM1Y5Sjl0OVRBR2gxWjB5QXdCSGRPNDNMUWxvOE9TNEFvT3NibFFlRG9NbE5ROWIzczF3a3lBMGFEaXc?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 22:39:00 GMT",
+          "pubDate": "Mon, 31 Aug 2026 00:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "AP Exclusive: US coaches Polish forces in a drone-focused drill based on lessons from Ukraine - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3VtMW5FMS1UVlVsSXpJbmprS1lTQmljd0xEaTBDaHc4NDVZNmVxVDNBVG90cnpPMC0xdmxRUmFZTkUxV05ORmltWEVWUEhmNDFNU2t3YW5UdDlGRFAtZHpER1JwcURPdEJHcXJRVzlxV0hIT2NnX3BtZW9uYlozVWhJeFZ3bENMMi14TVJhRWNaLXJnaWNkUkw3WWQ2aHJiM2EwaF9LMlNOMzFXX053?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 00:25:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 23:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdldWT1BUeFUxSlNnaU9rZTl5eDlWd0dSejRvTUg4YkhEZzNIWjVGc0x3VFVENkltZ2dKb3JleFc0YTRQX0M1NGVJcUhXd0l3endPSHFIZl90N0tHSW80S21ZVUhrOG1Yb1RrMTlBX2UydVFCMEV1MjQ1UDI5Z3RkTDQ1TjY3Z1BseXQyZ3Q5eVBENDYwQ2s5Rm9HMkhIQQ?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 23:30:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 23:04:34 GMT",
           "source": "AP News"
         },
         {
@@ -140,34 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
           "pubDate": "Sun, 30 Aug 2026 22:20:11 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "US Treasury blocks certain journalists from G20 meeting in North Carolina - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYjVPYXBuYXdIZUtXVkN4VzRJVlA3aU83Sjlrc3hpQXhvT1VtQ3p1Q3gzdWhETEJVUFgxNkJBeXB4c3ZpY2thanU3MkFmRHJqNEVxYjdfTzd1VVF4QjFLY3U0dHhmeTRwS19Ua1VEMDlOQkRCZDBKaG1tSVZHVkw2SHRLRjBwYmM5ZVpGWWxVTEVDM0c2SjlR?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 22:16:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "What we know about Trump’s deal giving US access to vast oil reserves in Venezuela - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbXNxWElFTl8zZkM0SHliM3NOTGcxb0lEMDVjVUtmanZuOE16MEJScEtoajFwM0k4Qk5MQTM2dUtpc2psTVJMX2RyUjdncFNKTUtXMnRxejM1T2xTZi0tMUYxRkVUQnJKSThHMXJFb21PXzZNbGpXNGQ1aDlYa0tRV0E3Slp3bzNFM3hKc0cxY2Y1U3NMQkZBS1YtdmRoV0l5Z0w1WUN2N3l6bFVncGJYZQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 21:54:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdldWT1BUeFUxSlNnaU9rZTl5eDlWd0dSejRvTUg4YkhEZzNIWjVGc0x3VFVENkltZ2dKb3JleFc0YTRQX0M1NGVJcUhXd0l3endPSHFIZl90N0tHSW80S21ZVUhrOG1Yb1RrMTlBX2UydVFCMEV1MjQ1UDI5Z3RkTDQ1TjY3Z1BseXQyZ3Q5eVBENDYwQ2s5Rm9HMkhIQQ?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 21:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Jessica Pegula, Daniil Medvedev and Marta Kostyuk among the early winners at the US Open - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTZXTld2ZkZXSXYyOEl0RERXNklTOE5jWUgxVDdTUUN4VWpuZUx4RlctQ2NyTllQSzluQUN4a1Z4cEl5X0llcnA0ZXBPOThCeHY2TjctYncwWjRfcFkyT0ViRjBxYWZIckF0YWMzUUw3bFlKV2xSZS15Z1MwbDJuZHZBbzBLRlZJX21j?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 21:50:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:25:16.158Z"
+      "updatedAt": "2026-08-31T00:42:29.275Z"
     },
     {
       "name": "Reuters",
@@ -191,6 +191,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Pacific forum set to open in Palau without several leaders - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ1gtLWZUYWJNdHkzR1B6N3pfRFVIaGpISHVRS3JRWWFwWE4ybDhCRTU1RzFuQ2RtME5fM2ZMNG0zbHBreGs5Sk9CSTVLc2xTXzdScWtPcEJreFhfNGlwX1hQSDZQdDlqNmU2Tm9LanQ3eDZfeWJ2Nk5WOU5rNHRNS3JTSkdkWHp2QnN3Tm9BVF9obTVLNmZwTkVYY0JkdTd2REVSYkJ3ZElLc28?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 22:47:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5",
           "pubDate": "Sun, 30 Aug 2026 22:42:32 GMT",
@@ -200,12 +206,6 @@
           "title": "Oil jumps more than 2% after US attack on Iran's Larak island - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGRJUGVDenVxZzdzdXZ4aTJudWV6LS1adkVVMmVUNnc1QnMyNVNsLThHcG44U2p6SWoxYm9LbjJnUGdkZDAzTENhSDR2OW90cWV2aDJNZWpKRllRNUhselE2djRhQlI3ejVmUUl6cFNnVDN1UmU4QXVadDNmQloya3daeWVHSmtGNDh4QWktSk1fenV3czlkbnhwNjJ3VzNXWEhZelFCRTIzaWpR?oc=5",
           "pubDate": "Sun, 30 Aug 2026 22:12:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Google Maps will show 'Lake America' in US, not 'Lake Ontario' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3RKRnR5NHhzZERZZmNwYkVzSTZFVGdPZ0tlbjdGTUtxcjhMMWI1bGFTWVAtdy1Xd0tZdWpjOEoxN29BdnRsZE5UWl9oRXQzQ2QwNWFHaTRpaEJmdlFWOU9OR2lwZUNDdEpUQmZDaF9TZUhwR19CQk5RX05TdFdaT0I4VDlZeUlvQ0ZNelRxcWVRLVMtdjRkdzdCc0tfZFBI?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 21:00:24 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:25:16.179Z"
+      "updatedAt": "2026-08-31T00:42:29.665Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:25:16.551Z"
+      "updatedAt": "2026-08-31T00:42:29.850Z"
     }
   ]
 }
