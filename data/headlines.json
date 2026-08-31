@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-31T10:25:12.717Z",
-  "lastChecked": "2026-08-31T10:25:12.717Z",
-  "lastUpdated": "2026-08-31T10:25:12.717Z",
-  "generatedAt": "2026-08-31T10:25:12.717Z",
+  "fetchedAt": "2026-08-31T10:50:14.409Z",
+  "lastChecked": "2026-08-31T10:50:14.409Z",
+  "lastUpdated": "2026-08-31T10:50:14.409Z",
+  "generatedAt": "2026-08-31T10:50:14.409Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "South African airline defends low-altitude aerial stunt over packed stadium",
+          "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 31 Aug 2026 10:18:07 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Dolly Parton laid to rest alongside husband in Nashville",
           "link": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 31 Aug 2026 03:56:15 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "How the US-Canada trade war is being felt on both sides of the border",
-          "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 31 Aug 2026 00:05:22 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T10:25:11.547Z"
+      "updatedAt": "2026-08-31T10:50:13.093Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Russia's jet-powered drones bring empty Kyiv supermarket shelves and rattle Ukrainians",
+          "link": "https://www.npr.org/2026/08/31/g-s1-141181/russia-ukraine-war",
+          "pubDate": "Mon, 31 Aug 2026 06:24:25 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Attacks flare between U.S., Iran after month-long pause",
           "link": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/08/31/nx-s1-5946754/morning-news-brief",
           "pubDate": "Mon, 31 Aug 2026 04:49:20 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Arizona's taps won't run dry, but water bills will go up under federal plan for Colorado River",
-          "link": "https://www.npr.org/2026/08/31/nx-s1-5945480/arizonas-taps-wont-run-dry-but-water-bills-will-go-up-under-federal-plan-for-colorado-river",
-          "pubDate": "Mon, 31 Aug 2026 00:01:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T10:25:11.733Z"
+      "updatedAt": "2026-08-31T10:50:13.295Z"
     },
     {
       "name": "AP News",
@@ -120,31 +120,43 @@
         {
           "title": "Iran war - AP News",
           "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 10:23:28 GMT",
+          "pubDate": "Mon, 31 Aug 2026 10:49:03 GMT",
           "source": "AP News"
         },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 09:31:56 GMT",
+          "pubDate": "Mon, 31 Aug 2026 10:31:16 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "World shares are mixed and oil prices surge after US strike on Iranian rocket launchers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 10:27:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "New US missile appears to have killed Iranian civilians far from its blast site, expert report says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaXdTdmVIVWF1VGxlSHFKdm50WHloZWl0OV9mMTRDTml0UnFENmdvTG9WRm5PUG1ZaTh0cFBncU5JU0tSaGNuNEpDeDU1YUJMTTIzcG96VE1TWFV5Rk5MS1BmMVFlZFJYajlnbjBQci1ydDM4M2lTdmsxN0MxdWpzTE5zZnExZFRUdXg0LVpoWVR3OVhINUc1cl81NA?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 10:01:00 GMT",
           "source": "AP News"
         },
         {
           "title": "AP Top 25 Poll - AP News",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OYllVd284SGVJbHo5QXVQempkaGlYeHlzWEZxOU5jZTktTnItaDg1X21NaEJZbHpYTUM5RXczMm5PS21YaktpREY1TU1WMzV1aXR6TkRpRmxjQVZpNkpMODQxWEM?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 09:20:18 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Asian shares are mixed and oil prices surge after US strike on Iranian rocket launchers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 08:50:00 GMT",
+          "pubDate": "Mon, 31 Aug 2026 09:54:22 GMT",
           "source": "AP News"
         },
         {
           "title": "UAE says it intercepted an Iranian drone after weekend US strikes on rocket launchers in Iran - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 08:10:00 GMT",
+          "pubDate": "Mon, 31 Aug 2026 09:29:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 08:55:44 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdm1CLVpkTURGUVFERG1RQ3IyWnlTb2xpZS15Z2VMSkk0dWNwOUVoY2U2WF9EVzdYSk80Wjc5LVNNcHU1WmhSUU1xeEhvTS0ydGthNkM3UEx5dXpBUGQxYzMyOTJtRlhuWTBtd1BuM0J5Rml6bTBZUEtHZnRkY29iS0ZNYVk5eEZfYXdKME4xa2RfMkNyZUlLN3A1cHpMVjl2dkp3?oc=5",
           "pubDate": "Mon, 31 Aug 2026 07:44:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Leaders of China, Russia and India are among heads of state meeting to counter US influence - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVhWWGlhWk5tVjFtTjE5MWF1MU5sSkh0cFZld011VW9PM3d5Z2dPREh5cFM1MThGdF9Fb0lXTXE3OUdfMnRtUFBqd0VVN1BjN2dTY2tnQVFUelRwcFJHTU9VVTBiTmJUamtnejJfQnZLcWVaSjZNT1RTWkVnM09RTm13dks5bWt2QXlSdVI0WWQ2ajBXLW5mX3NNalo5YlhTQmR4cXA3aFVzdkRrMEFSZDBn?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 07:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Rescue efforts intensify after Nepal-Tibet flooding as deaths climb past 900 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9fY0FGcDNINmhyYlJPWWM3LTJESnQ3dUZLVXVBSjJtQmR1V0l0aDdvN0J5aF9uOGxldDIwZy1TYlpWVnlFTUVYaGJmeW80dVR6MUYzZU5JSHFCTWJwZXhOaTBuN3EwS3pqeklVQzd4Q2xybXRmbjNWRnZVSjl4Zm52dFB4NDgwM0pvZ0I5cHI1Z3dM?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 07:23:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T10:25:12.177Z"
+      "updatedAt": "2026-08-31T10:50:13.718Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Iran dismisses Trump's post of attack on key energy hub of Kharg - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVQzSG1hcjZUa3F4dlBHbmczSFliQ3d6ZVgtWjl6RzgtYjE4cGtXNjhpRHhmU0pBb1FSQl9iUHN5b0FUZHFMX0JDSFNONERPQ0c0T2Z6ejBFWE9jUldMUU9sVzJKT1Z0R0JaWGFUaHZUdnNtcVEwclRIZ29vZnpqd1JJOHg1Qmx2cHZ0TVMtVEtjWEdNbE1kZDY4cGxUNlRxYkpsVm1UUnZ3RjE2Z3cwRlQ3WVRWU0hO?oc=5",
           "pubDate": "Mon, 31 Aug 2026 10:09:17 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Honda, Nissan target rollout of joint vehicle software in fiscal 2029 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeGlUUWUtR0NQeEdvNzVQODFBMVM4d01RQzVfd2o4cnZqckRFek9aSWN1RHNJc2lQY3hNZm9uRktxYjJGNTFOdEFZYWJRTm10V1hLWU1TWWV6bFROUzlRa01GN1N2Yk5kc1IxLWJpdjllTEt5dHlOdWZMNk1xNWNXaE9CZVZvYy1PMXc5TXVJU2owUDIwRnNGVENGUmhfZWd6a0RPS1pab1cxUUVwelJrWGNXQ2Z6WDFoRTJoV1NyQS1Sa3c?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 09:36:09 GMT",
           "source": "Reuters"
         },
         {
@@ -188,6 +194,12 @@
           "title": "Gold dips as Fed hike bets rise, still heads for best month since Jan - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0RWUzI1UllwOTY2MWljS0syQ3hHRHQtZlVTV2g0WlNzalQ1eVdqSlVZb285NEZhck1VS1czbU1KUlF2azBfMkZ4X1JUdlNaZkNZdkF4bnczbS1jR0hVX01iaW1RZzRINkhjZDNuelJIa1JUY2pVWkFnMzlGRzh5Y1p1MUhEdlJ5N2lseVZ3X2RzV1Y3eUQ4YUtJN2NFQnNJVS1R?oc=5",
           "pubDate": "Mon, 31 Aug 2026 08:59:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Stocks cautious on US-Iran escalation, bond yields hit multi-year highs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 08:53:56 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1dlU0gtRGI4eHloUUNwdUg0T1BtRVBabF9IRHdWbUxQWmstVE54M0Fuc0VSX0x1eXI0b1BoTmhnVWhzOUtRUGdZSjJoZWZiNGUzTmozU2UxcWpTZkVZTVJrOUpvZXl4R1BkckYzdnp3dnpXb3pCRjNCUGFNaFpKM044RHgyUlEybHMwRXNBRXNDem1vNDg1YTZOYW9hZXNVeFBzbmJqczdNT0RKbS1YeEVWckFpSmlYOVFqbVN3?oc=5",
           "pubDate": "Mon, 31 Aug 2026 07:17:34 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Europe expands AI computing network with €390 million order from France's Bull - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaG84MDdUdXlvbzJldndVZWpseUMyeGloNXBCeGZZVG5qYkNlMlJyY0lyakQyWUpvSXhrSHp3UF9idUFsVG43bXRJemIxSTNmOU5Cd2VuNjdJaVJuQzUteHN5NWgzV3JzZjB1NXpFeUlWc2J0cTZCLWs0SzB2SDZaeDNheFdwQzIyUFRzdHR0cm9Tci1oRGhuRm01NVZOamU1M2llSHl5X0Z4QWNsbENHZUhsNkdielRXM3F3Vw?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 07:05:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Mother tells how daughter slipped away in north Cyprus ferry disaster - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMmIxM2ZoTUFKNjZzVlM0cWhacWJZREVia1dqZk83QWtpdEd5aUNuLWZNNzVqaUlHRDktUUpXeFc3eUxBTWxqQ3Q0ckpnRWdiejBpa1F3TVViLW03YVNNbmFMS2pUOG1Bc2FCOTNidEN4OXJRd1hqeUs5Nl8tdHY1UDhnNXBZcDQ4SEJ4SHlyNGxHRWdFTFVhNUY1RmQ0UXhERTE2MW9GSzV1ZFZFSDJj?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 06:34:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T10:25:12.544Z"
+      "updatedAt": "2026-08-31T10:50:14.156Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T10:25:12.717Z"
+      "updatedAt": "2026-08-31T10:50:14.409Z"
     }
   ]
 }
