@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-31T19:50:22.330Z",
-  "lastChecked": "2026-08-31T19:50:22.330Z",
-  "lastUpdated": "2026-08-31T19:50:22.330Z",
-  "generatedAt": "2026-08-31T19:50:22.330Z",
+  "fetchedAt": "2026-08-31T20:00:26.869Z",
+  "lastChecked": "2026-08-31T20:00:26.869Z",
+  "lastUpdated": "2026-08-31T20:00:26.869Z",
+  "generatedAt": "2026-08-31T20:00:26.869Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T19:50:17.341Z"
+      "updatedAt": "2026-08-31T20:00:25.190Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T19:50:21.016Z"
+      "updatedAt": "2026-08-31T20:00:25.454Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "What we know about Trump’s deal giving US access to vast oil reserves in Venezuela - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbXNxWElFTl8zZkM0SHliM3NOTGcxb0lEMDVjVUtmanZuOE16MEJScEtoajFwM0k4Qk5MQTM2dUtpc2psTVJMX2RyUjdncFNKTUtXMnRxejM1T2xTZi0tMUYxRkVUQnJKSThHMXJFb21PXzZNbGpXNGQ1aDlYa0tRV0E3Slp3bzNFM3hKc0cxY2Y1U3NMQkZBS1YtdmRoV0l5Z0w1WUN2N3l6bFVncGJYZQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 19:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "AP Top 25 Poll - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OYllVd284SGVJbHo5QXVQempkaGlYeHlzWEZxOU5jZTktTnItaDg1X21NaEJZbHpYTUM5RXczMm5PS21YaktpREY1TU1WMzV1aXR6TkRpRmxjQVZpNkpMODQxWEM?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 19:44:29 GMT",
+          "source": "AP News"
+        },
         {
           "title": "More storms possible at Grand Canyon where a flash flood killed at least 2 people, others missing - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5",
@@ -136,42 +148,36 @@
           "source": "AP News"
         },
         {
+          "title": "Judge authorizes involuntary feeding of jailed suspect in deadly National Guard shooting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSm5HajFvYVVUMVl3LWZuaGJzY2p4c0JEdjZkZTJpUWxzekhLZmlOV1I2aW5ySzhGVUNKNDlTQzdnVWY1aEJuZGtsZmh4akZqWW5PTUIxbGIwNnRWdGR4TUQ3MS1lVTgtMnczR2NrZ2p5M1lBUWNrS2JHY0wyMndrbnBrTGpRbUNseVZwR2M0MnNsbk1rMUlQdlpkYWt2STd4RlIw?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 19:04:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Coastal Texas and Louisiana warned of tropical storm as a potential hurricane moves toward Hawaii - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUtydW1iTmctcmlKa2JxNV9ybHhzNF9FM1dpZ0V3RU55ZW1rSkxrSEhIZEJEaEVzUWFIYk1naEhfYURfMXBrbDduaEVEMWVHYXZfUkVLeUJwUG10ZWh5bE1Ka2FFbWZHSXBTLWpMLTVua0ZMRzNVaHF4RkljcWlNeGg3MDgwWHI5cFM3VXRfdWtUM0p4cVQ4NDhvNThtS0h0ZXExVEF2b1Q0QQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 18:44:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Kalshi bans ex-Congressman George Santos for life after concluding he likely was insider trading - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVdJU1NFR2h5RnRyMWw3T2FSTWliZDV5T0d1ZEFFeXhDanJJd2RLZTFuam5BNUx4LXNQN0RTQVpWZXc1dmk2UWhXZU1zUFRGejZPU3ZsR0dkdU5wT1JsNl9sRGlvcU5vR0Y5VWdpX09URjdLRlBmZEpCLVJxb21leUU1NWczODJ0dVVjX1JMWFpnV3RjNmhDbA?oc=5",
           "pubDate": "Mon, 31 Aug 2026 18:29:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "At 91, Dale 'Grey Beard' Sanders reclaims record as oldest hiker to complete the Appalachian Trail - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcDZYM21kelE0RnpkaTNlcmZNUnNKSUhTNk5NQnJZSFg5Y3M3ZHl5ejFwWUVPakwwcEZqRHliaGtKN0hBN3BZcVlhQ2ZBc0ZUc3BLbklNMTlFY24wWDUyR3hhd0xuVUoxVnlqcDhfRm41MVRiT0RFenlvYVhpU01pd01tZWgyZkdoYVZoY3dJTlpmb1NvbjlxeXNvUF90ZWlkSVVR?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 18:27:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Workers’ strike at Kenya’s main international airport strands passengers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQXNVd1BVVGctczR0TFRhQks0di1XTVRRc25mOXZFMUJUSk1kWjJOdG5VMGRyZXhUdmVaNTRpVG11MDJJVlNaY2JPdkE0Q25XeEg5QUNwWkVVbXYwY2RFbUN5Z1V0YVdlRHUxTnBOZ2I2bTlsd3E0MXBLa3JSZ1c3Q2tkRU1HbzhGbEtoT202NGdxUQ?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 18:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Argentina star Lionel Messi retires from international soccer with World Cup title and 125 goals - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXZtRUlVU1MyWEl4VDRiMkVoSWpRcmRUV3B6dzBNdEJkNWxmYXhiQlpoN21QNGhGampZanY2SDh6eFVGYlN5dm5RYl9EQmtaYmxqLVFNZGV0eDJlcmZIMzhBNlRNczR4RzdmZGE4WnJQcGVGdW9tMzBuQXRfMjIzNTNERExxUnFWUE5j?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 18:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israel to help Greece build an air defense shield in a landmark weapons deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOVRsTDYxbHY3RXdBbjMxWUdrRWNsR2hxLUI1THlkRHV2SXVsaGJMOXVpNGpoQUh4UmFLVVIwRHkyZlFObjFsVndNN2VxUE51ZlVjd0ZPV09IODdRelJSZzhiU2d0VjY4dVJxWW0xTGRaXzJ3VHpJZExZR0FKZmZRZEs2V1RkUTFBSzBSQ1hOQQ?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 17:57:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T19:50:21.465Z"
+      "updatedAt": "2026-08-31T20:00:26.107Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "At Jackson Hole, global central bankers glimpse dystopian AI future - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFh5NUhXWG5NZW1lVzkySlBKWnZTRFVMLXh1R3N5VFJ4TkNmN2dXQnd0NmgwOXFyZENWS3dGbW84VnJ4YnFGQUtwcEJkNDRaT05aeUtFMmlfQllOY0luZnd6UzgwWVBRTlJLZ3hZMkJObzlHTnNENDZCNTJ3NVZ1MTBHQ3Z6QUE3VUp6WGw5WmRCWGtySV9GelhKNmhlV2RyaktqZ0VORzhURmxxME9LdllRSmVSdE0?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 19:46:33 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "India smashes growth forecasts as investment surges in April-June - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWt2ZFNZVXBBeVItLUpMOVktRlBOME11YWduTkoySi1LV3F2Tk95U1Y3MnVYOXVSejd2OEJnZ0RlVlZXcEpSWVNScXlVWWQwb0REbldJSlNEZ1hkLXhwejNHV0I3R1Fqemt2TFJJTmZpTjJHNmV3QkNNUWt4a0Y3Zg?oc=5",
@@ -197,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "No fairytale ending, but Messi leaves defining legacy for Argentina - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjFyQU1qVzhRejFVNXloTTVqcDhBSm10VF91NUt3cWVmQWVnbk10bWFVSUFaZ19lMGptU3pWYThVU1RqZUVwc29faHNrWnh2X3NvbGhJbVcxZTQ3dnlmUG5DVk8tZURTOE9SNVBvZ1hpMHdIcXJQUF83WHloUWJQX1R2cTRMNk84dWFuQWlBLVNGWUxGd1pjdm9ZWjF2b2VHaWxRNm9zc1cyOWpf?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 18:47:06 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Former Argentina forward Lionel Messi - Reuters",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd1AwNUg3MUFrcXBLajJJRGk2YWRBOXdQcGIxckQwZnZDaUt2Z2VDNGlpZTNmN210WGwzTWNteUVNSzd0RWlMX29qeWFJaDZ6a0dDZ1k0X0dSaVNzWjVZeFRvQ2ZIOXFoUVVpQXVaSGpTMU5GSDR4YnRrb2pCamtEcWgzcVd1dHNyUHJRTDdzR0s?oc=5",
           "pubDate": "Mon, 31 Aug 2026 18:46:15 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT01vc1lsWWw5b1FnYV8yZ3pRQ21ZQmRjOElKa3hQT2I4U0MtVkJKRk0ycFYxZzZlb2ZSLWxLWlgzN0JfZi13WjlFUjFTZVpLdHVrVjdNcU02VGJleTFZMEYzSjF5dElLS0JPSHRoQ0lHREs0emg5WmZBRVZfSHhNVE9RNU5iVXBJQU8tMUtzYU5NSlQxYUwwX2kzQjNjbndheklUYTVBczZTaWpCdWJnTWs0MlYtZW5nZXRyb3FBVQ?oc=5",
           "pubDate": "Mon, 31 Aug 2026 18:29:52 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wall Street dips as spiking crude prices revive fears of inflation, rate hike - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjdMVkl6Zld1cG16aFA3UUtRd2ozVHRERm1Sb1p0WGtVN2xsUEJVbnlaUWt6M2NiWERmaUo1d080c0hWeHFwVGY4UlpZMGJENG91NXJ4bzhMbXNjRVJRQlo1d0ppNlNPcjUtd2F1d2xheXhBaW5OYU43SDdkYk13R0Y0SGNzblZOOTFJcTM2SmJJV3VRbVNyWGZ1bVdzaGJSQ2lBMXZPOWdWb01VNmR1UGYxZGE?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 18:29:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "FTC to file lawsuit alleging Amazon deceived advertisers, WSJ reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSzk4STU4blVuZzF1UWM3UVVLTkpvUkFaRXFzMW51T1UzTXlvTnpqOEtNcmt3TS1yTU8xVW1qa3EtUzFNcnBjNjc1ZkJmM0VXNVJySDhEdXB5blhZUGcyRGtoODZ1VHZUTm56WVpFcEVxRHEwU3g0ZGdYenZoZk5Tc2RBdzFGRmkwT0hGX1l0SUREMHJXR0V0aU9Ock02Mm1UbmxhMUVkZnFNS0lSay15dVEtS05qbTY5R3c?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 18:24:18 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T19:50:22.021Z"
+      "updatedAt": "2026-08-31T20:00:26.553Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T19:50:22.329Z"
+      "updatedAt": "2026-08-31T20:00:26.868Z"
     }
   ]
 }
