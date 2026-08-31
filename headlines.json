@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-31T00:42:29.850Z",
-  "lastChecked": "2026-08-31T00:42:29.850Z",
-  "lastUpdated": "2026-08-31T00:42:29.850Z",
-  "generatedAt": "2026-08-31T00:42:29.850Z",
+  "fetchedAt": "2026-08-31T00:50:24.180Z",
+  "lastChecked": "2026-08-31T00:50:24.180Z",
+  "lastUpdated": "2026-08-31T00:50:24.180Z",
+  "generatedAt": "2026-08-31T00:50:24.180Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:42:28.560Z"
+      "updatedAt": "2026-08-31T00:50:22.576Z"
     },
     {
       "name": "NPR",
@@ -112,17 +112,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:42:28.845Z"
+      "updatedAt": "2026-08-31T00:50:22.820Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "Grand Canyon flooding knocks out water pipeline serving tourists at the national park, officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0ZsenJBekRNWXdIZWdFcHdnYjZfXy1wZUZGSlZPMTlRNzF0TFhhTXVMMDBCT2pKUXBmVkJPNEtfdmFyMEdfcE5IUEQ1Ujl5cjFHS0xabU5HWVg1UGVQbXBib21faENqUGJOeHhfM1Y5Sjl0OVRBR2gxWjB5QXdCSGRPNDNMUWxvOE9TNEFvT3NibFFlRG9NbE5ROWIzczF3a3lBMGFEaXc?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 00:38:00 GMT",
-          "source": "AP News"
-        },
         {
           "title": "AP Exclusive: US coaches Polish forces in a drone-focused drill based on lessons from Ukraine - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3VtMW5FMS1UVlVsSXpJbmprS1lTQmljd0xEaTBDaHc4NDVZNmVxVDNBVG90cnpPMC0xdmxRUmFZTkUxV05ORmltWEVWUEhmNDFNU2t3YW5UdDlGRFAtZHpER1JwcURPdEJHcXJRVzlxV0hIT2NnX3BtZW9uYlozVWhJeFZ3bENMMi14TVJhRWNaLXJnaWNkUkw3WWQ2aHJiM2EwaF9LMlNOMzFXX053?oc=5",
@@ -164,14 +158,26 @@
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
           "pubDate": "Sun, 30 Aug 2026 22:20:11 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "US Treasury blocks certain journalists from G20 meeting in North Carolina - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYjVPYXBuYXdIZUtXVkN4VzRJVlA3aU83Sjlrc3hpQXhvT1VtQ3p1Q3gzdWhETEJVUFgxNkJBeXB4c3ZpY2thanU3MkFmRHJqNEVxYjdfTzd1VVF4QjFLY3U0dHhmeTRwS19Ua1VEMDlOQkRCZDBKaG1tSVZHVkw2SHRLRjBwYmM5ZVpGWWxVTEVDM0c2SjlR?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 22:16:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:42:29.275Z"
+      "updatedAt": "2026-08-31T00:50:23.397Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWJLRHJBSlpLeHYxNEtndmNRX19YTG9GWENmSEdTZXRTbnZnUFJITUtYcV83YnlPWmlpbC00WnZic3FMYVowRlA4Zzk5V2NKc2ZSSkxtUXl6N1A2MmdQbTI3cWhqbWxfMXVNekZQWFYwY2hPcENiOXR1N1JjRU4ydTRGTWZoV0U2Ul9KdmVZZ1pBQzVFTnR1MUl5YXRpTV9DWXE1bEtOc0FkVTRpNkFHOV9XZ2JOUGJ2eUQ0WFFqRDdLdlZlWWdQdlpjSHY?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 23:52:36 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US forces strike two Iranian launchers on Iran's Larak island, US official says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmw0UHV3Nm1jZS02RVF5ZVY0aWw2S0JlUXI0bUttclN5NkNzem9tMnc1akVuUGd5MXZMdkhMSWxTRGtZa2x1a1dad3psVDI3aTJJQnVHcENXU0k3Zm1kdWw0T0NYek00T1lxSktzSmdHTnd0Q0tEZTJyQ3FrNGZReHhaSi1EeFNtLXlrc1hFd3J3UE5LRjh5N3pWUHRQQmhGekd4Qm9fVnVvZVB1eUM1bGdGQUpqNzQ?oc=5",
           "pubDate": "Sun, 30 Aug 2026 20:08:40 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Explosion heard near Iran's Larak Island, Fars news agency reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOEZiQmZKRnEwR0dLWDhRS3BJejh5REVwOVBSQlUtRW1FZHBFRmtPejlJcGFGMU1OT0E0NEhVMXIweFdTVmVsQVo3cGhUbWtDOVp3eWNLaVJ2cXNHTTRDdFBsWXpjRk14TlJHYVZhNXVPZ3VSRXpqZ05rQXdHNDZXdy1YeVNxVDBSMktqZ2VKeUtxRUstSEdaQ0FGMHFIdUF6S0l3NmQ3aUNaRDZNdEZzb0JMQ2ZYQi1YQ2c?oc=5",
-          "pubDate": "Sun, 30 Aug 2026 19:49:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:42:29.665Z"
+      "updatedAt": "2026-08-31T00:50:23.827Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T00:42:29.850Z"
+      "updatedAt": "2026-08-31T00:50:24.180Z"
     }
   ]
 }
