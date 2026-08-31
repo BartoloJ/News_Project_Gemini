@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-08-31T11:00:33.924Z",
-  "lastChecked": "2026-08-31T11:00:33.924Z",
-  "lastUpdated": "2026-08-31T11:00:33.924Z",
-  "generatedAt": "2026-08-31T11:00:33.924Z",
+  "fetchedAt": "2026-08-31T11:25:14.869Z",
+  "lastChecked": "2026-08-31T11:25:14.869Z",
+  "lastUpdated": "2026-08-31T11:25:14.869Z",
+  "generatedAt": "2026-08-31T11:25:14.869Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
+          "link": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 31 Aug 2026 10:54:01 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "South African airline defends low-altitude aerial stunt over packed stadium",
           "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 31 Aug 2026 06:56:40 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
-          "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 31 Aug 2026 03:56:15 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T11:00:32.964Z"
+      "updatedAt": "2026-08-31T11:25:14.329Z"
     },
     {
       "name": "NPR",
@@ -75,12 +75,6 @@
           "source": "NPR"
         },
         {
-          "title": "The U.S. Venezuela oil deal won't lower your gas prices. Here's what you need to know",
-          "link": "https://www.npr.org/2026/08/31/nx-s1-5949407/us-venezuelan-oil-deal",
-          "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Why too many women are prescribed antibiotics for UTIs they don't have",
           "link": "https://www.npr.org/2026/08/31/nx-s1-5947249/infection-uti-bladder-antibiotics-hormone-menopause",
           "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
@@ -89,6 +83,12 @@
         {
           "title": "Singapore is scrambling to stabilize birthrates. Experts say there are lessons for the U.S.",
           "link": "https://www.npr.org/2026/08/31/nx-s1-5944260/singapore-initiative-declining-birthrates",
+          "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The U.S. Venezuela oil deal won't lower your gas prices. Here's what you need to know",
+          "link": "https://www.npr.org/2026/08/31/nx-s1-5949407/us-venezuelan-oil-deal",
           "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T11:00:32.995Z"
+      "updatedAt": "2026-08-31T11:25:14.366Z"
     },
     {
       "name": "AP News",
@@ -130,6 +130,12 @@
           "source": "AP News"
         },
         {
+          "title": "South Korea’s Unification Church leader Hak Ja Han sentenced to 2 years for corruption - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdm1CLVpkTURGUVFERG1RQ3IyWnlTb2xpZS15Z2VMSkk0dWNwOUVoY2U2WF9EVzdYSk80Wjc5LVNNcHU1WmhSUU1xeEhvTS0ydGthNkM3UEx5dXpBUGQxYzMyOTJtRlhuWTBtd1BuM0J5Rml6bTBZUEtHZnRkY29iS0ZNYVk5eEZfYXdKME4xa2RfMkNyZUlLN3A1cHpMVjl2dkp3?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 10:25:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Karina strengthens into a Category 4 hurricane in the Pacific far from land, forecasters say - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUtydW1iTmctcmlKa2JxNV9ybHhzNF9FM1dpZ0V3RU55ZW1rSkxrSEhIZEJEaEVzUWFIYk1naEhfYURfMXBrbDduaEVEMWVHYXZfUkVLeUJwUG10ZWh5bE1Ka2FFbWZHSXBTLWpMLTVua0ZMRzNVaHF4RkljcWlNeGg3MDgwWHI5cFM3VXRfdWtUM0p4cVQ4NDhvNThtS0h0ZXExVEF2b1Q0QQ?oc=5",
           "pubDate": "Mon, 31 Aug 2026 10:05:00 GMT",
@@ -142,40 +148,64 @@
           "source": "AP News"
         },
         {
+          "title": "Russia’s jet-powered drones bring empty Kyiv supermarket shelves and rattle Ukrainians - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0ZQQVJveHhwNlBNaWEyb2FLZkxHblJxeVR3YVpEdWJLdTNRYngyWDNyUk1qeWJQQUM4X210bFNLVUMxaGdheVZ1V1hlQ29GME92b1J6aWF5cWJ0ck0wLXJMYnE1MGlPWGJlNXNBVHNXbzRrMEZLejlPTjAyRmg3NHdWbzlkQ1BoX2hvUFhkUkFNVkwzNGd5UlFoblNFZ0JpQkFaaw?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 09:54:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "UAE says it intercepted an Iranian drone after weekend US strikes on rocket launchers in Iran - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
           "pubDate": "Mon, 31 Aug 2026 09:29:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 07:46:43 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Seoul court sentences Unification Church leader Hak Ja Han to 2 years in prison - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdm1CLVpkTURGUVFERG1RQ3IyWnlTb2xpZS15Z2VMSkk0dWNwOUVoY2U2WF9EVzdYSk80Wjc5LVNNcHU1WmhSUU1xeEhvTS0ydGthNkM3UEx5dXpBUGQxYzMyOTJtRlhuWTBtd1BuM0J5Rml6bTBZUEtHZnRkY29iS0ZNYVk5eEZfYXdKME4xa2RfMkNyZUlLN3A1cHpMVjl2dkp3?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 07:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Leaders of China, Russia and India are among heads of state meeting to counter US influence - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVhWWGlhWk5tVjFtTjE5MWF1MU5sSkh0cFZld011VW9PM3d5Z2dPREh5cFM1MThGdF9Fb0lXTXE3OUdfMnRtUFBqd0VVN1BjN2dTY2tnQVFUelRwcFJHTU9VVTBiTmJUamtnejJfQnZLcWVaSjZNT1RTWkVnM09RTm13dks5bWt2QXlSdVI0WWQ2ajBXLW5mX3NNalo5YlhTQmR4cXA3aFVzdkRrMEFSZDBn?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 07:41:00 GMT",
+          "title": "Hundreds of workers feared stuck in hydropower tunnels as Nepal flood deaths cross 900 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9fY0FGcDNINmhyYlJPWWM3LTJESnQ3dUZLVXVBSjJtQmR1V0l0aDdvN0J5aF9uOGxldDIwZy1TYlpWVnlFTUVYaGJmeW80dVR6MUYzZU5JSHFCTWJwZXhOaTBuN3EwS3pqeklVQzd4Q2xybXRmbjNWRnZVSjl4Zm52dFB4NDgwM0pvZ0I5cHI1Z3dM?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 09:17:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T11:00:33.404Z"
+      "updatedAt": "2026-08-31T11:25:14.757Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Gold dips as Fed rate-hike bets rise, still heads for best month since January - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0RWUzI1UllwOTY2MWljS0syQ3hHRHQtZlVTV2g0WlNzalQ1eVdqSlVZb285NEZhck1VS1czbU1KUlF2azBfMkZ4X1JUdlNaZkNZdkF4bnczbS1jR0hVX01iaW1RZzRINkhjZDNuelJIa1JUY2pVWkFnMzlGRzh5Y1p1MUhEdlJ5N2lseVZ3X2RzV1Y3eUQ4YUtJN2NFQnNJVS1R?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 10:46:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Kenya airport staff strike delays thousands of passengers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVHhHSGhYZlhPYndtRU9NMVU3TEk5RGZfWVk3SE5IazdiNjlKVWxTX3phVzBlbXRndG14RXA1MlJocWtFT0x6amxFVUNObjdVQmVDU0I3YXdhTW5tdjd6RHF3ZHJDZmhVWkhfbF8xVFBWU1BxdWJHYU5qU0p1LVdibnd4Z1kxVXU2UFpJX1BvNWo1elZrT0hrMkI5WkU5WnFiRG9odHhvZmVyV3F5SkpUY0lzMA?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 10:22:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Experts, lawyers puzzled over US-Venezuela oil deal, call for contract transparency - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1RaRjJaenRoMjVSVG16Nmx3Ym0wV3IxVy16WXVFT1NqdVRncm9SQmpMNnhENDRORmRxdkZ2bk51R210NVVvUjNkUGljaUNzYmZPemtSOUVVUmJNVjM1VFJGOEV2bDF1N1owR3hZb3ZBU1NMekNyU182dmxzTEU4aC11NVFTOHBpNk03MVkwOVRsSnBhMGNNazY0UjdzaU9Od0UxUmR2akdBaVdlQXJXcmxpWWQycnExd1dIUExfMVlER3Y1WENTVGZ3?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 10:11:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "ChatGPT, Reddit, Roblox to adhere to EU's \"very large platform\" rules - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWJncHI5S2dKdUNUVWFDZi1BbkNENXJ6VEVNSXY4VmNrc0I3N05TSnBNRXpCeGVkVXNkNHp2UmRfckNPdjQwcUFsQlc4dS1VLXd2T1NxdE11T0ptRHZ6eTltN3RYVjBlOUx6SDE4T0FHbXZPSlpYN04yeHYtcW1wa1N2VldHM0NISnFEMHZMOXBPLWV2TXVhVHR6YTZ0eFFNWlE?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 10:10:07 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Iran dismisses Trump's post of attack on key energy hub of Kharg - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVQzSG1hcjZUa3F4dlBHbmczSFliQ3d6ZVgtWjl6RzgtYjE4cGtXNjhpRHhmU0pBb1FSQl9iUHN5b0FUZHFMX0JDSFNONERPQ0c0T2Z6ejBFWE9jUldMUU9sVzJKT1Z0R0JaWGFUaHZUdnNtcVEwclRIZ29vZnpqd1JJOHg1Qmx2cHZ0TVMtVEtjWEdNbE1kZDY4cGxUNlRxYkpsVm1UUnZ3RjE2Z3cwRlQ3WVRWU0hO?oc=5",
           "pubDate": "Mon, 31 Aug 2026 10:09:17 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Volvo Cars to close Stockholm office in efficiency drive - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMUQxUXFfQjBtYXBnTTdYQi03clFZdGd6VDIzN0g3R0YtYUphN1ZWcnVpWk01MUFQUTZFWTFZbWNHMXBLYjZrRTB2VWR6ZjMzdHMxeXpWQzJmOWNDa2xDdVdtRUZWZTdXMUg1eWRTa0h2aERTMnE4eHNkUG9HTXFBS1RBS2hsTzN5?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 09:39:59 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Kenya airport staff strike delays thousands of passengers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVHhHSGhYZlhPYndtRU9NMVU3TEk5RGZfWVk3SE5IazdiNjlKVWxTX3phVzBlbXRndG14RXA1MlJocWtFT0x6amxFVUNObjdVQmVDU0I3YXdhTW5tdjd6RHF3ZHJDZmhVWkhfbF8xVFBWU1BxdWJHYU5qU0p1LVdibnd4Z1kxVXU2UFpJX1BvNWo1elZrT0hrMkI5WkU5WnFiRG9odHhvZmVyV3F5SkpUY0lzMA?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 09:10:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Gold dips as Fed hike bets rise, still heads for best month since Jan - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0RWUzI1UllwOTY2MWljS0syQ3hHRHQtZlVTV2g0WlNzalQ1eVdqSlVZb285NEZhck1VS1czbU1KUlF2azBfMkZ4X1JUdlNaZkNZdkF4bnczbS1jR0hVX01iaW1RZzRINkhjZDNuelJIa1JUY2pVWkFnMzlGRzh5Y1p1MUhEdlJ5N2lseVZ3X2RzV1Y3eUQ4YUtJN2NFQnNJVS1R?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 08:59:34 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Stocks cautious on US-Iran escalation, bond yields hit multi-year highs - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 08:53:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Air China to increase flights to Europe and North America - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnJGSVE2SldPZC1VMTdlVUxhRTkwZFRqRVlTVzcxS19xa1A4ZUh5b1doUmRuS2RYdVhzY2NmX0dDQXlFZlk0clZ3NjNWN2xYSVZxek04a253QzdCdHR5cmNkelFpMXpiY0I3dW1MTU9JdWVrZm5yWVlZRVBPSWlRRVNCUmpYeG5ZOEw0bVhKdzByanBWaUxZeGlkRjhGc0NNT2xMXw?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 08:50:34 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "UN committee says countries must consider reparations for slave trade - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaDlRbXFhT2xhVXN5dEJlR1YzS1d2S1RNZDExaUJFMlRqQXQxQnZCQWxTMDdRWS1LMDBOVWVwWUJKaFJZWTVkMzMwcXE5bWdXOUdvSWM1Zzl4bkpyY2V6QjY2RHg4NndoY1oxNkdEb3BsRG5QUzRGRWxJQ3AwWFlfZndYcU1kMHFPeDhZX0p2SVhYaWs2MU1ydjdqaGQ0c3FsOGtyQ1REdFBYUGl0LUtld1MwdVlxSlBuYUE?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 08:33:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US carrier visit to Thailand's Pattaya lifts hope and sex-tourism risk - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1dQRXdsN1hyZEdOQ3VSMG8tcUJCbzhwcXJQeFBDREd0YjlCZmJsTjkyOGRQalBoaHNFM0V6R2g1aDhZbVZfNkNTZDlmOVNmcTVYZGVBRE5Mb09qaUM4LXVFaWJHMUhvTnNUcThwaE9zaVdmV3BOWXRsRWI0bXhmV1pEWEJDcDFKajZVRUk2WmZnTzBKSFNyZzB3QVBHY254OEZBVy03dmtvLVgzNHJ0VGUweGZFd2Q5?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 07:59:25 GMT",
+          "title": "Fast-fashion retailer Shein shares fall more than 10% in pre-debut trading - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNTdUOHo4UUNNeGJPVXlUY2Y1TGtsaTFjcW1MLWpuWE5EZThVSnFIT2VSM3Y2MG13TGN2M0Z3LWI3Z1g1MFFVMTdKTXlXeGd1M2Q0VzlfWkVHX0ozc2NzV2JSZ3lyZ1pmZHFKYnFTNlBta0VFRHVKYmtmWUdxQ0dXZnV2dDRSQVBDeXloa3hrcGY2UGxneW00cnpFV0VubGRKLVdJaXUweG9HZGxQZUhyMWpmdWc4RnVkeU5fQUFWMmUxZkd6QWc?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 09:01:41 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T11:00:33.870Z"
+      "updatedAt": "2026-08-31T11:25:14.766Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-08-31T11:00:33.924Z"
+      "updatedAt": "2026-08-31T11:25:14.869Z"
     }
   ]
 }
