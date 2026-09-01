@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-01T09:25:13.707Z",
-  "lastChecked": "2026-09-01T09:25:13.707Z",
-  "lastUpdated": "2026-09-01T09:25:13.707Z",
-  "generatedAt": "2026-09-01T09:25:13.707Z",
+  "fetchedAt": "2026-09-01T09:50:20.387Z",
+  "lastChecked": "2026-09-01T09:50:20.387Z",
+  "lastUpdated": "2026-09-01T09:50:20.387Z",
+  "generatedAt": "2026-09-01T09:50:20.387Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,14 +57,20 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T09:25:12.444Z"
+      "updatedAt": "2026-09-01T09:50:18.944Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "Made in America: How AI is keeping this U.S. factory competitive",
-          "link": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
+          "title": "A makeover for college: No gym, no meal plan and two years of work",
+          "link": "https://www.npr.org/2026/09/01/nx-s1-5935431/college-reinvented-vermont-work-experience",
+          "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "A NY hospital tried to close its birthing center. This city united to fight back",
+          "link": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth",
           "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -75,20 +81,14 @@
           "source": "NPR"
         },
         {
-          "title": "A makeover for college: No gym, no meal plan and two years of work",
-          "link": "https://www.npr.org/2026/09/01/nx-s1-5935431/college-reinvented-vermont-work-experience",
+          "title": "Made in America: How AI is keeping this U.S. factory competitive",
+          "link": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
           "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
           "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
           "link": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
-          "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "A NY hospital tried to close its birthing center. This city united to fight back",
-          "link": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth",
           "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,27 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T09:25:12.651Z"
+      "updatedAt": "2026-09-01T09:50:19.258Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Iran war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 09:23:19 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 08:39:05 GMT",
+          "pubDate": "Tue, 01 Sep 2026 09:37:49 GMT",
           "source": "AP News"
         },
         {
           "title": "Rescuers comb through mud and debris as Nepal-China floods leave more than 1,000 dead - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaENIRDN5eTk1UUZFcTN0SlVpS1V2TjRYakpqSUxKNlRZb3dIZ1BlZHlWeFRJSUJleERyMnJNc240LTNEYV8yMzRvZV80OUc3YW43czRELUFSSzRyZ2NOMmhsUFRVWFEyalBIT3daRTVLMkhsZVFKSU1kOG43TW9xWklFRlBqRDJ1eURESHkyQmlNeFVYcUViNWFBYzJvTUNrVExn?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 08:38:00 GMT",
+          "pubDate": "Tue, 01 Sep 2026 09:25:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,6 +142,12 @@
           "source": "AP News"
         },
         {
+          "title": "Oil prices rise and stocks waver as Middle East violence flares, adding to uncertainty - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 06:41:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Tropical Storm Edouard forms near Texas and Louisiana while a storm moves toward Hawaii - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUtydW1iTmctcmlKa2JxNV9ybHhzNF9FM1dpZ0V3RU55ZW1rSkxrSEhIZEJEaEVzUWFIYk1naEhfYURfMXBrbDduaEVEMWVHYXZfUkVLeUJwUG10ZWh5bE1Ka2FFbWZHSXBTLWpMLTVua0ZMRzNVaHF4RkljcWlNeGg3MDgwWHI5cFM3VXRfdWtUM0p4cVQ4NDhvNThtS0h0ZXExVEF2b1Q0QQ?oc=5",
           "pubDate": "Tue, 01 Sep 2026 06:06:00 GMT",
@@ -160,22 +160,40 @@
           "source": "AP News"
         },
         {
-          "title": "In a scorching Spain, the traditional folding hand fan is having a moment - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd3lVNUZjejBxQ2RMSHl5QnN6YkxCQ1ZuRGU1V1Z3UVVFcTdMdl9vRXFRTVZiYVF4SXJaZVJkampoMUhZNm9nMUZPNmd1T2tuY1c2Yk9tWVk5SVRJeThQbDloTl9iVXpjeHpLbzNmYTZYNHpuQUVWOGJyeGpMbXRfVF9kYlh6LVFiOE9TdFl3?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 04:24:00 GMT",
+          "title": "Iran war - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 04:53:17 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T09:25:13.085Z"
+      "updatedAt": "2026-09-01T09:50:19.761Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Iran's president says Tehran will reciprocate if US honours interim deal commitments - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc0JpM0lYODRGdU16eG9aOVp6TjlPUDVIbHVGMzVScXdqWlZaeHM0eVYzMU5CeTlzYXc1VTZkVkF1TjlnekFOUko1TTYwVDdMR1RuUFlUTzhVTnFhR3p1Q3RrR09IVVJQcmxpbjFmdG5PaHhITlRFMzhWWVZtdlZkajJwbjEtb2lwVm9nQWZMakI0X3FjZUtBRXJTZHlNSHBJVG5ERm5heGVHZUhmS09PQlV3UTBWSmF4bkd2TjV1a01uOXM?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 09:16:05 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Micron's Taiwan unions threaten strike over bonus dispute - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHQ0UTZhQl9va1UzRENhNW8zVElKLW1jRV9fa08wdmp3U0tudnczWEtMSDlWdTJQMlI0djUwVjBBZ011RkdPNzVLMC16UFd5bVlEb1g2YVNSQ2RjZXBObXpWVUFHT1FKZnluQ0Q0MHE5MGxWcWI0a2R0b1J0TEVZWDFlMEZQMktqbjUtVjE4dndGMXNKbHZsdHJuaWZINDNBX09LMUxtRHBNVDZfZUQ4U18tMEhtZw?oc=5",
           "pubDate": "Tue, 01 Sep 2026 09:11:17 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: VinFast puts the brakes on manufacturing some cars in India, sources and memo say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXROc3lTMElmSUdndHRiWktYUGpVdXZxU0hLVWMxTW56aThXQVdHZXpRbTU5S183MEMyaVdDNjhvNHd2YjEyS29xQ0xySHFZY2ZKeDRIaXJpclNvcWdaNE5vR0lMX3IyOUxIWUtJMHh4UGthVzNDLTRNWDNBaHFBSUtrcERzdnMtNDlZMDBRRnM5OEFQOG1MYWVBVHFxNnJCWkxXdUUzcVduaXVDbEl6cnlXaE52SmJJdHNUa2JB?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 08:37:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "France targets Shein and Temu with fast fashion fines - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3BwaElVSU1mSmM2RFgzVGZBNXhpYW5jQk1vaGNWYWZUaUNuMlJkQ2tabkpQanNZRDZRRHZBdWd4bWR0N2ZNcnpTN2VnYVBkelA3bW51Vks1UHhzNmxoR0hQYnU4dEhINjdxd091ZlVwWV9RUzFsWFd1cDBXMTI2VXo4cDJXb3pKSXhzektrNG5MNlNFcEl1dWM3Mm84RkllNnN2TjJYU3pFNVN4V0Zz?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 08:05:48 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Bond selloff deepens as rising energy prices stoke inflation fears - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 07:09:20 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Iran says it has enough foreign currency despite US sanctions - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmpRVW0wSlR3WnJacEhxTk9ldXVERXk3QXVFc1ZZV2oyNVM5TEVId1RYU0JsOWN5Y0R5bXZKcklUaTNHWmN1X3JPUDh1N2VmS3U4by1QM1NDZksxNm1kdHA4elBUWFNteFB3UlpKcEtJbjE1S19sNDBVcXRUZ3MxM0xGOEV3Q2hFQmVvU1p0clY4R3c1M2o3TDUwVVcwU3FiWkJoN01NQ2J5QmRkUTdyQUkzSXNwUQ?oc=5",
           "pubDate": "Tue, 01 Sep 2026 06:41:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Chinese rescue work in Tibet flood disaster zone still trudging along days later - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYml6a3lySVRlNG81RGpQVmFWa2w1MGUzZnI4RDE2YmRoUUdFMXRaaHdyUkp0VWlJOEYxOUxHcG9NSXpjSzQyYzNNbXdOck5LY3NubDR4cHhQZUw2TVU2R2ZJdWF6Z19ndUl6RWhycFZaYkUySGQ3aWc1OWRnb3MxUWlGeGZRUkRfS1ZVWW1QS05oUS1yZmlUZjM1QTMwVjVSMlB0UE9jZXdqRnJNYjNhNzJvbzF5ZGV2NDNnems3VGdSVUExaDg3VjJFdmNHMzg?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 06:35:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Deep-sea team aids search for missing in Cyprus ferry disaster - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVF2Z05jQm14M0lzZnZWUHVCYlRUQnY0aHNia3k3SEhqdTRadXhQTWNfX1JpS1loYkJ2Q1M2S2hkU205NE9jWHBOMGswWWZwSnhrbkV5VVdYcVozWkVUOEF3VW96SGlYMXB5Q2lXN3ljaW4zT01QQXJiV1BsX202U0NHbWZOZi1lMUg0dkg0a2xia0RDX1hSSF9hR2FvUQ?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 06:18:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T09:25:13.488Z"
+      "updatedAt": "2026-09-01T09:50:20.154Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T09:25:13.707Z"
+      "updatedAt": "2026-09-01T09:50:20.387Z"
     }
   ]
 }
