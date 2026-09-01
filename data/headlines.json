@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-01T01:25:14.088Z",
-  "lastChecked": "2026-09-01T01:25:14.088Z",
-  "lastUpdated": "2026-09-01T01:25:14.088Z",
-  "generatedAt": "2026-09-01T01:25:14.088Z",
+  "fetchedAt": "2026-09-01T01:50:15.397Z",
+  "lastChecked": "2026-09-01T01:50:15.397Z",
+  "lastUpdated": "2026-09-01T01:50:15.397Z",
+  "generatedAt": "2026-09-01T01:50:15.397Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T01:25:12.748Z"
+      "updatedAt": "2026-09-01T01:50:13.941Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T01:25:13.105Z"
+      "updatedAt": "2026-09-01T01:50:14.140Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Nearly 80 rescued from Grand Canyon flooding. 2 others died and 1 is unaccounted for, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 01:40:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaFhIUEduWG53TnE0SXRHcHVyUS02QlJNVjRwRHVKOU54VWQ2anZnSnc3akpJVHpXTEJRWk4xcm1fUjJiNXlwR2VRYmpBamVFWXRubXh5MFllNlpNZ1c3S0dYa2hlMHpxaktSZFRYb1JHTUxIajlWMkpjREJ5QjNfY196alprQ2hJTk9BZnZPU0lQNjEtSG9kRkxzcktQMERINTVn?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 01:32:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckladTlIUGxNTm1saG5fdHluYXFVOFM3UnZjdGVXUi05Ym9sRXR6blhqN3dIWHpEYUp0eHBOVDl5RTFxNkVtTXhyTlBQVUw2bjZyMVdEZFJoRDdpN0FtbWVuOWxKSUoyVG8wYVY3T0F4R2hzUzk2NUZkZ1U4WThpS3VJT2lPajJlU3ozRktuT1NsXzNlMDFyMXVuZWliOEY1dkE?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 01:16:00 GMT",
+          "pubDate": "Tue, 01 Sep 2026 01:24:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 01:10:00 GMT",
           "source": "AP News"
         },
         {
@@ -138,7 +156,7 @@
         {
           "title": "White House working with North American Blue Energy Partners on Venezuela oil deal - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxoZzJrWHM5Tk4wZGg4VmRETnctdGo0d2hLRzlZai1VMTFFMnB0bEdEODhRNEpZZGFaamdseFM3TDJnUlNUcEFTeU1sbTI5TWV6bTY1bGxPcmpGMml0RDdYeGI5dTQyZ2VQOVJkTnIxVzVsSmZQdVZRQWNmamRjMXhxMUE1RnlMcE1EX2djLWZabmNoX2ZRdnln?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 00:34:00 GMT",
+          "pubDate": "Tue, 01 Sep 2026 00:27:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,32 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXZtRUlVU1MyWEl4VDRiMkVoSWpRcmRUV3B6dzBNdEJkNWxmYXhiQlpoN21QNGhGampZanY2SDh6eFVGYlN5dm5RYl9EQmtaYmxqLVFNZGV0eDJlcmZIMzhBNlRNczR4RzdmZGE4WnJQcGVGdW9tMzBuQXRfMjIzNTNERExxUnFWUE5j?oc=5",
           "pubDate": "Tue, 01 Sep 2026 00:25:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9fY0FGcDNINmhyYlJPWWM3LTJESnQ3dUZLVXVBSjJtQmR1V0l0aDdvN0J5aF9uOGxldDIwZy1TYlpWVnlFTUVYaGJmeW80dVR6MUYzZU5JSHFCTWJwZXhOaTBuN3EwS3pqeklVQzd4Q2xybXRmbjNWRnZVSjl4Zm52dFB4NDgwM0pvZ0I5cHI1Z3dM?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 00:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Oklahoma man charged with murder after 2 killed in explosion at marijuana extraction facility - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0NfVm9qX0tkR01FYllBWWMzdDkzSllkSFdUQW81N0JzR25iTjIzM2pBNk1IemZhenAyc1BUaGc2TTdzN3dQUnVoVklPT0d1YWtGMlVOVW9kVWtJS2lJVzNtTjN4UHpTUlgwdFNvaDAyUTVfSW1Oc012cHhrd1RwalE1b3lWakgzNGxpS1JrTmtnemljY1RGWTl3?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 23:43:41 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Family identifies Texas man among those killed in Grand Canyon flood as rescuers search for missing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 23:19:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T01:25:13.551Z"
+      "updatedAt": "2026-09-01T01:50:14.682Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Bessent told Russian minister no economic relief until Ukraine war ends, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmFhem94cGh1dF9LbEJGWFptV094TFA2S0dwWFBadjFBTTdTa2p3a1RZMHY4UkVPeE5DVkVabG1JWVdtd19zSWg3MFVZZDFzUFJ1djd0UXFOQ1cyV2RmVkFhSWpKbFJvQlowUkp4Y29ndU5Pc3Z0b1VjVFFBOFpNMnBKQkx5d2RiS0Y2QWNaUFZVaE4xc0RFOTFBQ3VWemZSYVdXOUJiOVZsSU5TemRNdlM5T3BsZVprazgyejBR?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 23:33:57 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump ally Laura Loomer faces fresh criticism over racist comments - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGlDcWZoTEdEdklFVEl4YnBHcFN5MEFxZEVlR3VMcnBBczNoTjBDcEVPaVBrQnlxdmVMaHZlYV9BVHhreUdfVVJPVXNPbGhIX1J5TEx6MExXek9aYUJsanZIUnRiWEZwVTQ3M3lrS3FORFl6UjZGTXZrRTVKZ1JNUlR4eHVBMlF3aDFLUmVpdXNnb0U3Q1dxRE0ydTRIQ2FwMlR4eUVGZzh4SE93Z1lMcG9DZ2lvQUIzbWctcFhUUHQ4NjhRVVpFbVFFLU5xZw?oc=5",
@@ -182,12 +188,6 @@
           "title": "Shein set for lacklustre debut after setbacks cause huge drop in valuation - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRDlSNjZyYzhjeU5aVms1VkM0MG9CS2Jxam9hNkN2YVBxd09BQTRab2U0WkpTSFV3LUpJR2pOWXdnUl9HOW5uY2ROWHJhNTNVNlVIaUlBOEZRcHpuS3hMUlB5MG5OWUZNVzBqTTM1RTBGRFVsdTBEREFDU2N5dkZyamJUZUt5UkdjZjduR0pldnFyaDRtazVNLW9nVmEtTjJ3em9pdy10V1ZuamxjMGhYMVFHSnBaUnRxU3RMVVpsNlY?oc=5",
           "pubDate": "Mon, 31 Aug 2026 23:28:24 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Army Secretary Driscoll tenders resignation, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQelVDMjdEdlZZelFzaEhFeFJxRXpLVEFURnhuUkM4U0Y0SnFaZHhxdEhPa0llNEhERmlZT0pobnNBYmxuV3BQMlpUR0pkVExmeGVEU25SdGNuZDktT0NHUXgzNFFOX29fYThmT3VMem5uel8yajE1MDl4WGRMeEtSX0R3YzRKNjZLbXBkTDJDSU5DUQ?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 23:20:51 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T01:25:13.974Z"
+      "updatedAt": "2026-09-01T01:50:15.084Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T01:25:14.088Z"
+      "updatedAt": "2026-09-01T01:50:15.397Z"
     }
   ]
 }
