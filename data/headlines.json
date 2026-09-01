@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-01T08:25:15.434Z",
-  "lastChecked": "2026-09-01T08:25:15.434Z",
-  "lastUpdated": "2026-09-01T08:25:15.434Z",
-  "generatedAt": "2026-09-01T08:25:15.434Z",
+  "fetchedAt": "2026-09-01T08:50:19.310Z",
+  "lastChecked": "2026-09-01T08:50:19.310Z",
+  "lastUpdated": "2026-09-01T08:50:19.310Z",
+  "generatedAt": "2026-09-01T08:50:19.310Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T08:25:14.489Z"
+      "updatedAt": "2026-09-01T08:50:18.302Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+          "link": "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
+          "pubDate": "Tue, 01 Sep 2026 04:30:07 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Hindu pilgrims, on arduous trek, among Nepal's missing",
           "link": "https://www.npr.org/2026/09/01/g-s1-141349/hindu-pilgrims-on-arduous-trek-among-nepals-missing",
@@ -103,36 +109,24 @@
           "link": "https://www.npr.org/2026/09/01/nx-s1-5944472/famine-usaid-fews-net",
           "pubDate": "Mon, 31 Aug 2026 16:42:17 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Kalshi bans former congressman George Santos for life after State of the Union trades",
-          "link": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
-          "pubDate": "Mon, 31 Aug 2026 16:21:47 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T08:25:14.530Z"
+      "updatedAt": "2026-09-01T08:50:18.331Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Iran war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 08:21:43 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 08:39:05 GMT",
           "source": "AP News"
         },
         {
           "title": "Rescuers saved some 80 people in Grand Canyon floods that left 2 dead and 1 missing, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5",
           "pubDate": "Tue, 01 Sep 2026 07:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 07:39:08 GMT",
           "source": "AP News"
         },
         {
@@ -160,6 +154,12 @@
           "source": "AP News"
         },
         {
+          "title": "Iran war - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 04:53:17 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "In a scorching Spain, the traditional folding hand fan is having a moment - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd3lVNUZjejBxQ2RMSHl5QnN6YkxCQ1ZuRGU1V1Z3UVVFcTdMdl9vRXFRTVZiYVF4SXJaZVJkampoMUhZNm9nMUZPNmd1T2tuY1c2Yk9tWVk5SVRJeThQbDloTl9iVXpjeHpLbzNmYTZYNHpuQUVWOGJyeGpMbXRfVF9kYlh6LVFiOE9TdFl3?oc=5",
           "pubDate": "Tue, 01 Sep 2026 04:24:00 GMT",
@@ -167,62 +167,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T08:25:14.938Z"
+      "updatedAt": "2026-09-01T08:50:18.791Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Global bond rout deepens as Japan yield hits key threshold - Reuters",
+          "title": "Micron's Taiwan unions threaten strike over bonus dispute - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHQ0UTZhQl9va1UzRENhNW8zVElKLW1jRV9fa08wdmp3U0tudnczWEtMSDlWdTJQMlI0djUwVjBBZ011RkdPNzVLMC16UFd5bVlEb1g2YVNSQ2RjZXBObXpWVUFHT1FKZnluQ0Q0MHE5MGxWcWI0a2R0b1J0TEVZWDFlMEZQMktqbjUtVjE4dndGMXNKbHZsdHJuaWZINDNBX09LMUxtRHBNVDZfZUQ4U18tMEhtZw?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 08:11:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Global AI boom fuels Asia factory expansion in August - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTUpoaHRXb1RJQTZJazF3U0tNZTEwVm5iUHplMWU1TjhfUmpRVGVtMG5GcVhlekpMWnBBbkJTdFIzOEhkRWgtVGcwa3RTY0VqWXBQc1V1d1BZMHgyeG9KQXZyVUtidzMteVU0Q09ET0p5bzVEcWJJakF0LXZIcVhLbFlvUWlZU2tPSU9xTjc4WEowWWt0ZUp0c2hKdHMyYmZMT2k3bkNxajM4dWlxbDBzdGVNbw?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 08:06:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Global bond rout deepens as Japan yield hits key threshold - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSl9GcExBdk5lb3U4c1NTalROY2NUNHE4SXdlbE5yemw4WkwteWNMdTZVTFdrcHhPUVF5Q181eTlxZ2xoUkV6Q3F4a19ldHJBdGFnaG9URjY3bXNTMDE0aV9mVDU1MUtxMTRXRl9pR2p2THVmc2JiWGlSb1prUElXTWtaNzBsb3Z5U2tCNXZlTlMtM3pHU3Y0dkVNWUhHWmVWUmJxbnZmVVFlNmVlMDR3?oc=5",
           "pubDate": "Tue, 01 Sep 2026 08:02:19 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran says it has enough foreign currency despite US sanctions - Reuters",
+          "title": "Bond selloff deepens as rising energy prices stoke inflation fears - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 07:09:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran says it has enough foreign currency despite US sanctions - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmpRVW0wSlR3WnJacEhxTk9ldXVERXk3QXVFc1ZZV2oyNVM5TEVId1RYU0JsOWN5Y0R5bXZKcklUaTNHWmN1X3JPUDh1N2VmS3U4by1QM1NDZksxNm1kdHA4elBUWFNteFB3UlpKcEtJbjE1S19sNDBVcXRUZ3MxM0xGOEV3Q2hFQmVvU1p0clY4R3c1M2o3TDUwVVcwU3FiWkJoN01NQ2J5QmRkUTdyQUkzSXNwUQ?oc=5",
           "pubDate": "Tue, 01 Sep 2026 06:41:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Chinese rescue work in Tibet flood disaster zone still trudging along days later - Reuters",
+          "title": "Chinese rescue work in Tibet flood disaster zone still trudging along days later - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYml6a3lySVRlNG81RGpQVmFWa2w1MGUzZnI4RDE2YmRoUUdFMXRaaHdyUkp0VWlJOEYxOUxHcG9NSXpjSzQyYzNNbXdOck5LY3NubDR4cHhQZUw2TVU2R2ZJdWF6Z19ndUl6RWhycFZaYkUySGQ3aWc1OWRnb3MxUWlGeGZRUkRfS1ZVWW1QS05oUS1yZmlUZjM1QTMwVjVSMlB0UE9jZXdqRnJNYjNhNzJvbzF5ZGV2NDNnems3VGdSVUExaDg3VjJFdmNHMzg?oc=5",
           "pubDate": "Tue, 01 Sep 2026 06:35:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Japan's benchmark bond yield rises to 3% for first time in 30 years - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTkpJbXp0djFzYkFEeHBOTDlQZ0pJZzZlakNKb3pQNlFhTEFLSGQwbTUyRTVRVWlNSlBpbUdDbkpRU0dIU0ZQZlVmci10eXRCMzZFN0xLMVZnSGpGTzFfSlpOWk8zUXJ2eTZWWno5YnNDTkducUkwWDlMQWZKVFVRdEVjM3U3N0hEMFV0YnN3blA0MWVDNDFkSFRMV3BJMk5qTVR4aks0R1ZncEtGdHBJ?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 06:33:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Deep-sea team aids search for missing in Cyprus ferry disaster - Reuters",
+          "title": "Deep-sea team aids search for missing in Cyprus ferry disaster - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVF2Z05jQm14M0lzZnZWUHVCYlRUQnY0aHNia3k3SEhqdTRadXhQTWNfX1JpS1loYkJ2Q1M2S2hkU205NE9jWHBOMGswWWZwSnhrbkV5VVdYcVozWkVUOEF3VW96SGlYMXB5Q2lXN3ljaW4zT01QQXJiV1BsX202U0NHbWZOZi1lMUg0dkg0a2xia0RDX1hSSF9hR2FvUQ?oc=5",
           "pubDate": "Tue, 01 Sep 2026 06:18:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Poland pivots to home-grown defence production as it builds Europe's biggest army - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaVc1MjN6ZXVSNjFLOFk1Q1M0TlVodG11WW5aMnZrNDBrRmhRekhMTFlROXo2djRrSlZGZmo5enVtYXR5WkIxZG9tOEkzRi1oY0JtV3BpS3ZIOTRFSC1NUmRKSGFHcWNsU0ZCMThONVBSUVJ5Rk9WbHk3YkZiZktMZ1I0TzNPOXJKVGRHcUZnRWd4Z2hnUUY3Tm5PckpUYnpobU1VYUZnLWI3LXNoZXI0T3YxUEZWT0NWNUpaUUcxdHFTZXFNU3pWMmUzRy1vNmNhNm1R?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 05:51:15 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "VIEW Analysts react to global bond selloff - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcE5GVVlJWm5aOW52WTVPckN0MHY1aURiQjZrMFlVdl9oX2NMbWFqclp6MGdSclVfZldTU0tRWGpuTUcyVDh6RmhEU09OYTBLVHBSTVJqbXhQajlQaUxWdzc4MlFqS3pndHUtSGc3eXdmVTZTYTBKNzdpVU1mS1M2YVBCRXVIaXFmU3pWdA?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 05:50:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Global AI boom fuels Asia factory expansion in August - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTUpoaHRXb1RJQTZJazF3U0tNZTEwVm5iUHplMWU1TjhfUmpRVGVtMG5GcVhlekpMWnBBbkJTdFIzOEhkRWgtVGcwa3RTY0VqWXBQc1V1d1BZMHgyeG9KQXZyVUtidzMteVU0Q09ET0p5bzVEcWJJakF0LXZIcVhLbFlvUWlZU2tPSU9xTjc4WEowWWt0ZUp0c2hKdHMyYmZMT2k3bkNxajM4dWlxbDBzdGVNbw?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 05:38:18 GMT",
+          "title": "Japan faces day of policy reckoning as Bessent calls time on big stimulus - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcVpHZF9GZHd1dl9GTE1OMllhemdCX3p4eDZMaEF1cmZJUGZ0Wk1POGFFb3pvd19qZC05ZFdMQ3RBZ29pRncya2dKMDlxVTJmUEE2Ri1IZWpXV0RIM0l6SG1kY1Z4cDhhSEEtdFNnVHVtc3JVMGo5N016blo2ZG94cHdxLVptNDBkanZia2EtVFhrS2ZVcjdpQS1mVFN5VFhxYlhWNXpJREE1bjMtUWt3a1dpc1MtdlRGd3Zj?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 05:59:21 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T08:25:15.326Z"
+      "updatedAt": "2026-09-01T08:50:19.199Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T08:25:15.434Z"
+      "updatedAt": "2026-09-01T08:50:19.310Z"
     }
   ]
 }
