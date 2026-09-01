@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-01T02:25:16.476Z",
-  "lastChecked": "2026-09-01T02:25:16.476Z",
-  "lastUpdated": "2026-09-01T02:25:16.476Z",
-  "generatedAt": "2026-09-01T02:25:16.476Z",
+  "fetchedAt": "2026-09-01T02:50:16.698Z",
+  "lastChecked": "2026-09-01T02:50:16.698Z",
+  "lastUpdated": "2026-09-01T02:50:16.698Z",
+  "generatedAt": "2026-09-01T02:50:16.698Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T02:25:15.300Z"
+      "updatedAt": "2026-09-01T02:50:15.864Z"
     },
     {
       "name": "NPR",
@@ -112,27 +112,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T02:25:15.400Z"
+      "updatedAt": "2026-09-01T02:50:15.986Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "About 80 rescued from Grand Canyon flooding. 2 others died and 1 is unaccounted for, officials say - AP News",
+          "title": "Rescuers saved some 80 people in Grand Canyon floods that left 2 dead and 1 missing, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 01:55:00 GMT",
+          "pubDate": "Tue, 01 Sep 2026 02:35:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and Tibet - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9fY0FGcDNINmhyYlJPWWM3LTJESnQ3dUZLVXVBSjJtQmR1V0l0aDdvN0J5aF9uOGxldDIwZy1TYlpWVnlFTUVYaGJmeW80dVR6MUYzZU5JSHFCTWJwZXhOaTBuN3EwS3pqeklVQzd4Q2xybXRmbjNWRnZVSjl4Zm52dFB4NDgwM0pvZ0I5cHI1Z3dM?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 02:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckladTlIUGxNTm1saG5fdHluYXFVOFM3UnZjdGVXUi05Ym9sRXR6blhqN3dIWHpEYUp0eHBOVDl5RTFxNkVtTXhyTlBQVUw2bjZyMVdEZFJoRDdpN0FtbWVuOWxKSUoyVG8wYVY3T0F4R2hzUzk2NUZkZ1U4WThpS3VJT2lPajJlU3ozRktuT1NsXzNlMDFyMXVuZWliOEY1dkE?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 02:17:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Nepal floods expose risks to hydropower in a warming Himalayas - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObmxmYVZrSXk4WDIwWHpEMHJOeWU0UFRfZUNaaU9xUlFaNWxydWZINDlLc3hxWHQ4Q25sMEZwWVJLT3Y4UHhiUkFSR2dZVWRQTzVVTGQtcFk1M3F4SEdvYmVzSUV0Z0t4VlYzSTdhQ3VIOGY5cy1QSnhmRmZxZkdMdkdsdTU2Z1BPXzlkN0Z1czB3RFI5b09xb0JSckdidGs?oc=5",
           "pubDate": "Tue, 01 Sep 2026 01:42:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckladTlIUGxNTm1saG5fdHluYXFVOFM3UnZjdGVXUi05Ym9sRXR6blhqN3dIWHpEYUp0eHBOVDl5RTFxNkVtTXhyTlBQVUw2bjZyMVdEZFJoRDdpN0FtbWVuOWxKSUoyVG8wYVY3T0F4R2hzUzk2NUZkZ1U4WThpS3VJT2lPajJlU3ozRktuT1NsXzNlMDFyMXVuZWliOEY1dkE?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 01:34:00 GMT",
           "source": "AP News"
         },
         {
@@ -154,28 +160,34 @@
           "source": "AP News"
         },
         {
-          "title": "Bessent huddles with G20 to try to rally allies on Iran as tariffs strain ties - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHkyT3lETlVKQjljcFhmWFFPMC1NRmo4alY1REtpQl91VUVoYU1FNWg3MlpRTGtXRjhEbi01YU4xeWdPUlo2bncxby11UzBKclBXZjFqOWFhcXlvaTVNaVFCWjgtdkhlakdMM3NCRlhEY1JlZzZIR0p5UWp5TGdwYmNHMGpDNjNKOWZ6ZkVhZGlrNDEwWUo4SzBaUmpGbnRzOHRsdDJLLXM3ZXBrQ2Y0bw?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 00:47:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "What we know about Trump’s deal giving US access to vast oil reserves in Venezuela - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbXNxWElFTl8zZkM0SHliM3NOTGcxb0lEMDVjVUtmanZuOE16MEJScEtoajFwM0k4Qk5MQTM2dUtpc2psTVJMX2RyUjdncFNKTUtXMnRxejM1T2xTZi0tMUYxRkVUQnJKSThHMXJFb21PXzZNbGpXNGQ1aDlYa0tRV0E3Slp3bzNFM3hKc0cxY2Y1U3NMQkZBS1YtdmRoV0l5Z0w1WUN2N3l6bFVncGJYZQ?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 00:44:00 GMT",
+          "title": "The living care for ancestors and wandering spirits at Malaysia’s Hungry Ghost Festival - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmlNUmQ0T1NfMUJPVlpvNjNHeTJsdER6SmRlTkhVem5MTkwwSS1vV2Y0RnJra1FDdVBJTHg0QlZsS1FHNGI3WUY4Q1ZSXzBmRF9pNXFVNVRYRUlrY0N1cTE4cUhBbTlQMWg1NVk1c2JzREZVMWhvRlptTEdmWExOVUR2S19JVk1hWVdhMDJkVzZPRzR1?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 01:09:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T02:25:15.862Z"
+      "updatedAt": "2026-09-01T02:50:16.447Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Bond selloff pressures stocks as oil crosses $91 a barrel - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 01:46:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Oil prices rise as latest fighting resurrects Middle East supply disruption risks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzNva1pxcDRaVGJ0WkYwOFJ2Zm8wNFBiMmkxLUVIZVJZaUV4WlRGNVRZbk1JZHdpMUpXbXJ6VHZsVUtzS2haZ0M2bDd4d3RTa19vTHZTOWc3MFlGaW1jU3gwMG13cFhFY0hOR2tWSjM1cWQzd2pfUEZFRlpSRWdEcmJ3NHdlM3BydlNkQUgxY3lMYjBybFMwZ1Vxcjk2clc3cHZKdWxtMHlFWHBMNDREaEJoZlBIc2U5TGMyWF9GaEZhX0JlMlA4THpn?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 00:56:00 GMT",
+          "pubDate": "Tue, 01 Sep 2026 01:29:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Jury finds ex-gang leader guilty of murder in Tupac killing case - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkx1ekFyVFR1S0RtSWU3V05wcWJzbWYybmxFRWkzWDlINDdpSFRNZHc5QVNhcVpWb3IzNXMxdlBIVFpkS0FuVnZ0TmxxOUw2ekFRS2s3MTNqZVFacGFsRlBhYm42X3g5RHhNX3pvVDF3RGtfSl9yUDJJeVltRmhqcTVPT2ZwZzZnalpvblprdjdDaXFQcVRNTA?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 00:18:00 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1JRSVpMMVp5U0JZRXJRaXk3TTBZSjZqcXNTSTN4QjFBT1RTNGwyZ0hWa216TW94TjNkdE1XZ2lMWnVNMDhsSzczaHRpeWItSDNKREdvdTRSTlBDR3NrUFI5VUJKUnd0N2RyOVdHWmwwM3lFQXNiQnBLUHJTNFFBaGZRNEZ6a2M3Ymh2OEk2VFYzalRISUJCSTM0Y0c4QjNDR2tmU291UzdQWm91V0NpUFZzU0FGYnNZS3hKUEhB?oc=5",
           "pubDate": "Mon, 31 Aug 2026 23:03:04 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump says it's 'very early' to talk about a Hegseth 2028 presidential campaign - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUUNzWGhKUnYxQ016V0RFUi1rR1pheU1xcVEyRW9CRTJsa3ZhWDRvOTRMUjJwQjhlY2ZTRUk0aVFhNklkbjh4UlhMUVZNWlA2N2JWT3NkazExYUlqNUhYQkFoQkMtRGhZTGNHbkgwT2FBazI2MEptaUZ4Ykt3Rzl2ZDhoVzQzMlJ4RkR0Um5CZzdjTng5T3F2TnNIbVpaLVFzekNPX2l6LVlQdFVpZXBZMnhyZGlXM2JxMUl6RHJJd2FVUQ?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 23:01:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjdMVkl6Zld1cG16aFA3UUtRd2ozVHRERm1Sb1p0WGtVN2xsUEJVbnlaUWt6M2NiWERmaUo1d080c0hWeHFwVGY4UlpZMGJENG91NXJ4bzhMbXNjRVJRQlo1d0ppNlNPcjUtd2F1d2xheXhBaW5OYU43SDdkYk13R0Y0SGNzblZOOTFJcTM2SmJJV3VRbVNyWGZ1bVdzaGJSQ2lBMXZPOWdWb01VNmR1UGYxZGE?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 22:55:47 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T02:25:16.234Z"
+      "updatedAt": "2026-09-01T02:50:16.462Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T02:25:16.476Z"
+      "updatedAt": "2026-09-01T02:50:16.698Z"
     }
   ]
 }
