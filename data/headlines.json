@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-01T17:00:29.540Z",
-  "lastChecked": "2026-09-01T17:00:29.540Z",
-  "lastUpdated": "2026-09-01T17:00:29.540Z",
-  "generatedAt": "2026-09-01T17:00:29.540Z",
+  "fetchedAt": "2026-09-01T17:07:40.519Z",
+  "lastChecked": "2026-09-01T17:07:40.519Z",
+  "lastUpdated": "2026-09-01T17:07:40.519Z",
+  "generatedAt": "2026-09-01T17:07:40.519Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T17:00:28.043Z"
+      "updatedAt": "2026-09-01T17:07:39.141Z"
     },
     {
       "name": "NPR",
@@ -99,20 +99,20 @@
           "source": "NPR"
         },
         {
-          "title": "A makeover for college: No gym, no meal plan and two years of work",
-          "link": "https://www.npr.org/2026/09/01/nx-s1-5935431/college-reinvented-vermont-work-experience",
+          "title": "A NY hospital tried to close its birthing center. This city united to fight back",
+          "link": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth",
           "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "A NY hospital tried to close its birthing center. This city united to fight back",
-          "link": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth",
+          "title": "A makeover for college: No gym, no meal plan and two years of work",
+          "link": "https://www.npr.org/2026/09/01/nx-s1-5935431/college-reinvented-vermont-work-experience",
           "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T17:00:28.293Z"
+      "updatedAt": "2026-09-01T17:07:39.472Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T17:00:28.838Z"
+      "updatedAt": "2026-09-01T17:07:39.985Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Government borrowing costs rise again in fresh headache for global policymakers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSl9GcExBdk5lb3U4c1NTalROY2NUNHE4SXdlbE5yemw4WkwteWNMdTZVTFdrcHhPUVF5Q181eTlxZ2xoUkV6Q3F4a19ldHJBdGFnaG9URjY3bXNTMDE0aV9mVDU1MUtxMTRXRl9pR2p2THVmc2JiWGlSb1prUElXTWtaNzBsb3Z5U2tCNXZlTlMtM3pHU3Y0dkVNWUhHWmVWUmJxbnZmVVFlNmVlMDR3?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 16:47:36 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "China issues guidelines for automakers' overseas operations - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0JjV2dJemtkUGczTkVhdHhtNTZYM2FtUUNOd0Y3TTZIb3l4WEQtRGRqdkxHU09TVnE0VVJvTFYyQ3JYdGpkaDNLVUlkOXdiU1djZm1uYVBubmZxdE9SSDhxR1FrZGhiZzVUZUpCM0w0eFFJVlFFWGZGUTh4XzZCaElWeUNLVWtmQjNLYkxwWGhFT3ZmYi1qYUxRcTh3RWRteXZxOE9xOXFrWFV5Slp6V1NveGJRUnZ6Ul9nTzhvOEVjZW04d0Rodg?oc=5",
@@ -191,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Wall St kicks off September under pressure as higher yields, oil prices weigh - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjZiWGhvamxJTzU5Ync5V2xObHhDRk1PRlZFRkZnZVNqQzM0dHhuUnBMeGJDYW9YWmgxc29fRTNUaTVRT2xLWFZUOGJMWDU4MTlhQVVXRmFOQ3VGQnlNME9tQ09nUW0yMGNUR1c2amZkSVBQbHcwWDNQY0tfZHZoREF4SzVqZ2pNYzlCQVFmSkJMNFFwMEptQi03WlZlZG82bDVNZWhnUm9KMnFDS1pqVWlHZDZ2MmE1?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 16:07:32 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Gold falls to two-week low as rising Treasury yields, dollar weigh - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2Jmek11RFVUTTRvVFR1dmQ0cUVicVZGM2pxS3FzME8zN0pJUmpGMGtPcU1DeHp1aHUxaU1VeDEtMy00anM2WUthdjRrTHl0aWR6V3ZKSVVLM3M2Q09IVk1kV1JEMXl0YWE3ZWt4VDdya1BQMFlTVTlxUHhEdFdPSTM3NURaVmlLYktsSkdBWERjYkJMbnlaM0oweFZ5ZUZNaDFmT2tLOHliZUNKaHhZ?oc=5",
           "pubDate": "Tue, 01 Sep 2026 16:06:35 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNkVwc3NNT2k1QzV2blM0bXBjZDZoaTJ5d2FzazViTGgwVllxcVN3RVpqTlh1U1FPeXU2TDh4ajVxTk9tb2c1cTNGcTE0dzdsSmJNZnpoYmcyVDMwWTZJUVkxRkZjTllmQ2JQX3g5TlRIbEhtMHpsbjFFWVJBTlNXNHdsR1AwTkRBTkxUSTZHVjdNa1h3TkF4VmNERjdKQWRJcE9qWXNJTmY3ejRMclVVeGg4SQ?oc=5",
           "pubDate": "Tue, 01 Sep 2026 16:01:44 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Government borrowing costs rise again in fresh headache for global policymakers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSl9GcExBdk5lb3U4c1NTalROY2NUNHE4SXdlbE5yemw4WkwteWNMdTZVTFdrcHhPUVF5Q181eTlxZ2xoUkV6Q3F4a19ldHJBdGFnaG9URjY3bXNTMDE0aV9mVDU1MUtxMTRXRl9pR2p2THVmc2JiWGlSb1prUElXTWtaNzBsb3Z5U2tCNXZlTlMtM3pHU3Y0dkVNWUhHWmVWUmJxbnZmVVFlNmVlMDR3?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 15:48:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran defiant as Bessent says US likely to announce bank sanctions this week - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWVYQlZISm1jT2ZUaUZ4bDJ2ZE10ZEpaeXo5MnBPQTJYS0ZJNDFjNmdBNGlPQjdyRTIxMVJWeDYzTlFEZi1wVm55eUJTUjkxSjB2WnVVU3NLaEtjTWlMTFFXZlZuTDYyNzREc3hxWnpxRzdUV2MtRUdhei12TE9TQ0Rrc1hTMEN4alFnS1VFcVRzSEM1dmVxR2FYbzZXb1B2a254Y2FlVXlNMFBhQVlFRTAyNzdoaE1FN2Q5dFF0LS1PZDR3bm1PS2JR?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 15:44:53 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T17:00:29.255Z"
+      "updatedAt": "2026-09-01T17:07:40.427Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T17:00:29.540Z"
+      "updatedAt": "2026-09-01T17:07:40.519Z"
     }
   ]
 }
