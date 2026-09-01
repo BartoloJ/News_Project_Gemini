@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-01T01:00:24.645Z",
-  "lastChecked": "2026-09-01T01:00:24.645Z",
-  "lastUpdated": "2026-09-01T01:00:24.645Z",
-  "generatedAt": "2026-09-01T01:00:24.645Z",
+  "fetchedAt": "2026-09-01T01:25:14.088Z",
+  "lastChecked": "2026-09-01T01:25:14.088Z",
+  "lastUpdated": "2026-09-01T01:25:14.088Z",
+  "generatedAt": "2026-09-01T01:25:14.088Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US army secretary resigns after months of tension",
+          "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 01 Sep 2026 01:01:03 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
           "link": "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
@@ -17,6 +23,12 @@
           "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
           "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 31 Aug 2026 22:38:24 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Japan Inc is betting big on India as China risks deepen",
+          "link": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 31 Aug 2026 22:07:19 GMT",
           "source": "BBC News"
         },
         {
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 31 Aug 2026 18:58:35 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Ex-congressman George Santos banned from betting platform for life",
-          "link": "https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 31 Aug 2026 18:15:12 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
-          "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 31 Aug 2026 17:54:23 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T01:00:23.281Z"
+      "updatedAt": "2026-09-01T01:25:12.748Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T01:00:23.598Z"
+      "updatedAt": "2026-09-01T01:25:13.105Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckladTlIUGxNTm1saG5fdHluYXFVOFM3UnZjdGVXUi05Ym9sRXR6blhqN3dIWHpEYUp0eHBOVDl5RTFxNkVtTXhyTlBQVUw2bjZyMVdEZFJoRDdpN0FtbWVuOWxKSUoyVG8wYVY3T0F4R2hzUzk2NUZkZ1U4WThpS3VJT2lPajJlU3ozRktuT1NsXzNlMDFyMXVuZWliOEY1dkE?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 01:16:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Bessent huddles with G20 to try to rally allies on Iran as tariffs strain ties - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHkyT3lETlVKQjljcFhmWFFPMC1NRmo4alY1REtpQl91VUVoYU1FNWg3MlpRTGtXRjhEbi01YU4xeWdPUlo2bncxby11UzBKclBXZjFqOWFhcXlvaTVNaVFCWjgtdkhlakdMM3NCRlhEY1JlZzZIR0p5UWp5TGdwYmNHMGpDNjNKOWZ6ZkVhZGlrNDEwWUo4SzBaUmpGbnRzOHRsdDJLLXM3ZXBrQ2Y0bw?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 00:47:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "What we know about Trump’s deal giving US access to vast oil reserves in Venezuela - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbXNxWElFTl8zZkM0SHliM3NOTGcxb0lEMDVjVUtmanZuOE16MEJScEtoajFwM0k4Qk5MQTM2dUtpc2psTVJMX2RyUjdncFNKTUtXMnRxejM1T2xTZi0tMUYxRkVUQnJKSThHMXJFb21PXzZNbGpXNGQ1aDlYa0tRV0E3Slp3bzNFM3hKc0cxY2Y1U3NMQkZBS1YtdmRoV0l5Z0w1WUN2N3l6bFVncGJYZQ?oc=5",
           "pubDate": "Tue, 01 Sep 2026 00:44:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "White House working with North American Blue Energy Partners on Venezuela oil deal - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxoZzJrWHM5Tk4wZGg4VmRETnctdGo0d2hLRzlZai1VMTFFMnB0bEdEODhRNEpZZGFaamdseFM3TDJnUlNUcEFTeU1sbTI5TWV6bTY1bGxPcmpGMml0RDdYeGI5dTQyZ2VQOVJkTnIxVzVsSmZQdVZRQWNmamRjMXhxMUE1RnlMcE1EX2djLWZabmNoX2ZRdnln?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 00:34:00 GMT",
           "source": "AP News"
         },
         {
@@ -130,15 +148,15 @@
           "source": "AP News"
         },
         {
-          "title": "No verdict after 3 days of deliberations in the Lindsay Clancy trial over the killing of her kids - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2J2VnRWUF85NXZLSFV0Z2t0NHdBS2Y4SjRaak1KV2Z2aTRMSnF0Y011cWlySGZhY2dTdVRhTElsTlZwaVNlRlpiSU9OQkxjbzg3WXN1dGJDNlpmQTlfYk9aaDNqMG4xZ0Y0bndaWmlxM2gyMlk4azN3TV9wMURPUm81UFRXamRiM3Q2QkhjMzR3MEZfM0VUUFNB?oc=5",
-          "pubDate": "Tue, 01 Sep 2026 00:22:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9fY0FGcDNINmhyYlJPWWM3LTJESnQ3dUZLVXVBSjJtQmR1V0l0aDdvN0J5aF9uOGxldDIwZy1TYlpWVnlFTUVYaGJmeW80dVR6MUYzZU5JSHFCTWJwZXhOaTBuN3EwS3pqeklVQzd4Q2xybXRmbjNWRnZVSjl4Zm52dFB4NDgwM0pvZ0I5cHI1Z3dM?oc=5",
           "pubDate": "Tue, 01 Sep 2026 00:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Oklahoma man charged with murder after 2 killed in explosion at marijuana extraction facility - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0NfVm9qX0tkR01FYllBWWMzdDkzSllkSFdUQW81N0JzR25iTjIzM2pBNk1IemZhenAyc1BUaGc2TTdzN3dQUnVoVklPT0d1YWtGMlVOVW9kVWtJS2lJVzNtTjN4UHpTUlgwdFNvaDAyUTVfSW1Oc012cHhrd1RwalE1b3lWakgzNGxpS1JrTmtnemljY1RGWTl3?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 23:43:41 GMT",
           "source": "AP News"
         },
         {
@@ -146,28 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5",
           "pubDate": "Mon, 31 Aug 2026 23:19:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaFhIUEduWG53TnE0SXRHcHVyUS02QlJNVjRwRHVKOU54VWQ2anZnSnc3akpJVHpXTEJRWk4xcm1fUjJiNXlwR2VRYmpBamVFWXRubXh5MFllNlpNZ1c3S0dYa2hlMHpxaktSZFRYb1JHTUxIajlWMkpjREJ5QjNfY196alprQ2hJTk9BZnZPU0lQNjEtSG9kRkxzcktQMERINTVn?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 23:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "DA says a teen who recorded San Diego mosque shooting livestream has been charged with murder - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWI5VlJLNTBPQ2lmM3RBdHM2amUwSXNqOHhPQ2dWbzRiWDVJZmd2YXpwLUIxT25FVFJHTVlDY3NwOWktRkkxXzhlMWpadmRDajdOSDFtYTFDSHY5M2xQUXg2a25qbDBZdFZMSy14ZG13dVVfZUJfRGlFWlA0UzdPcHp3OU56ajhRZE5wUlNn?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 22:48:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Jury deliberating in trial of Duane ‘Keffe D’ Davis accused in Tupac Shakur murder - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckladTlIUGxNTm1saG5fdHluYXFVOFM3UnZjdGVXUi05Ym9sRXR6blhqN3dIWHpEYUp0eHBOVDl5RTFxNkVtTXhyTlBQVUw2bjZyMVdEZFJoRDdpN0FtbWVuOWxKSUoyVG8wYVY3T0F4R2hzUzk2NUZkZ1U4WThpS3VJT2lPajJlU3ozRktuT1NsXzNlMDFyMXVuZWliOEY1dkE?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 22:41:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T01:00:24.101Z"
+      "updatedAt": "2026-09-01T01:25:13.551Z"
     },
     {
       "name": "Reuters",
@@ -209,20 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "At least 2 dead in Grand Canyon flooding; Park Service says 20-plus may be missing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVhVSVA4MWhITTVPd2IzNFJOQk45aEQ0ell3SHJ5UXNvTlljY0NqOVE0RHEyREFmMmVEYXgyYWhWRUUzNV9KSWxIaWJ2VmdySm9ucHQtV25EREJ3Z1oyaXQ2YXZDcWRxX29sN0lwcE04d0NfUGNMSkFSTkg4S244dmFUdmlzNzZudW9qTHp4TVBmN1dqNmQzOVZOMFRfNkFTNUtkQkFFSGlFVzNYNGZzWDhzQkc?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 22:53:01 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US oil firm to take over some Venezuelan oilfields previously run by Chinese, Russian companies, officials say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHl1UjZFYmc3QnhpUHI0RTZLWnV0X3l2d2x0U1l3Q2gzd0lrNVZKTVJYVDUxSFl6cHh4bFRxXzdjdXlPYklVNUNnVlYyQU1ucnpWMDZ3SVZ5NU95OWt2Sk5OQ25vQ01FQjJZT1RhV1QyUjRxVDBrZ1lZcks0bEtCbTloaHdXeDIwc0U2NFVPeVk1bGM5bGxsUDF4VXVWQXdHa2pEMFdPZ25WUU8zVWpqU1VBVXFPRTJKX3gtT1cwa1BQM2FXaXhkNA?oc=5",
           "pubDate": "Mon, 31 Aug 2026 22:51:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "No fairytale ending, but Messi leaves defining legacy for Argentina - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjFyQU1qVzhRejFVNXloTTVqcDhBSm10VF91NUt3cWVmQWVnbk10bWFVSUFaZ19lMGptU3pWYThVU1RqZUVwc29faHNrWnh2X3NvbGhJbVcxZTQ3dnlmUG5DVk8tZURTOE9SNVBvZ1hpMHdIcXJQUF83WHloUWJQX1R2cTRMNk84dWFuQWlBLVNGWUxGd1pjdm9ZWjF2b2VHaWxRNm9zc1cyOWpf?oc=5",
-          "pubDate": "Mon, 31 Aug 2026 22:45:37 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T01:00:24.531Z"
+      "updatedAt": "2026-09-01T01:25:13.974Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-01T01:00:24.645Z"
+      "updatedAt": "2026-09-01T01:25:14.088Z"
     }
   ]
 }
