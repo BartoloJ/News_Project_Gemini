@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-02T09:50:22.156Z",
-  "lastChecked": "2026-09-02T09:50:22.156Z",
-  "lastUpdated": "2026-09-02T09:50:22.156Z",
-  "generatedAt": "2026-09-02T09:50:22.156Z",
+  "fetchedAt": "2026-09-02T10:00:22.148Z",
+  "lastChecked": "2026-09-02T10:00:22.148Z",
+  "lastUpdated": "2026-09-02T10:00:22.148Z",
+  "generatedAt": "2026-09-02T10:00:22.148Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,23 +57,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T09:50:21.161Z"
+      "updatedAt": "2026-09-02T10:00:20.839Z"
     },
     {
       "name": "NPR",
       "items": [
-        {
-          "title": "Israel bars U.S. citizens over criticism and ties to Palestinian activists, lawyers say",
-          "link": "https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties",
-          "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "He died in a sweltering house. Why doesn't his death record show it?",
-          "link": "https://www.npr.org/2026/09/02/nx-s1-5887544/heat-deaths-undercount",
-          "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
         {
           "title": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
           "link": "https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump",
@@ -81,8 +69,20 @@
           "source": "NPR"
         },
         {
+          "title": "Israel bars U.S. citizens over criticism and ties to Palestinian activists, lawyers say",
+          "link": "https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties",
+          "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "ICE detainee dies just hours after he was admitted into detention",
           "link": "https://www.npr.org/2026/09/02/nx-s1-5953128/ice-detention-death-lianyong-wei",
+          "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "He died in a sweltering house. Why doesn't his death record show it?",
+          "link": "https://www.npr.org/2026/09/02/nx-s1-5887544/heat-deaths-undercount",
           "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,15 +112,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T09:50:21.383Z"
+      "updatedAt": "2026-09-02T10:00:21.010Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "The USS Abraham Lincoln docks near Thai beach city of Pattaya after its Middle East deployment - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORUJNV2ppcE5ETW9HNWR6bUhBd0NqekJEY05jRi04WExCX1JNNndaU00zakp3YVpDZ2xkR2VmZ25ULWhHQ0E3XzluX0dVUnJ3bWZzUHNrb1ZBZFhjLXBhUHN1RXpEbzNUVEQzRVNTWXJ6OE13UXBYcnI5QnVzbkNIS0tZMHZDMnlIQ0phbV9aRTdUbDgzVUhMSl9tejU?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 08:57:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "EU's Kallas calls alleged Russian drone plot 'state sponsored terrorism' as Europe mulls a response - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGRNWFdXclZxNGQxMGdIWFF3Q2E3UHdFM0lyU29mdnVqVGdKWFN1ZVZxVXFHNEl5dlRtbkxsa2FocHAwMFc4ME1MZndYUm9QSUVWelM4X2hLdWlRRUc2N18wd0FnelNDejNjSnl1bmZraVlDWXFvUWpHMThvZjc3ZU1KeFJVWlY3cTVFaWZ2RFJlN2UzMllBX1BVOEZBZHhqOTducWt3ZXo?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 08:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Congo’s Ebola outbreak shows no signs of slowing as deaths top 3,000 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRlh1SmNWYWRRMVhwNms0SXo0YlJkVTRobFM4WWl2c0h4QWhEYmo5a2YtUExuOE1JYm9rNVI2dnlZT25rdDFHR0VKUEd3TUlVendUYmZHQXdBb0ZrbWxtM1hTSTg2SlpyOTlYWUR4OWpsU3hYYXdGQ0w5Nm1GMW94YjRQeUxrcnYxX3U2LURqQ1BDRXdhZFBuT2paWQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 08:21:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
           "pubDate": "Wed, 02 Sep 2026 07:55:52 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 07:28:33 GMT",
           "source": "AP News"
         },
         {
@@ -140,48 +164,18 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1BVU0ZJWFptN1pDcnRzOHpOdEhhY21QeGVwQ1YzNmtQbmxqaXQxQjFXSGRzcDN6Zmx4dHhZdzdEc21reEExZHVqSWdhem1qaTdDUGlZTTNXNDBOaGxvVTVRcXp3TnA2NTFnZ1NUVnlhWEp4M3A0bWNVV0NqcWxYNTVZWkl3RjYycFFUTjJtOTFGS2NsT2x2WGNqaGt1YWR4WlBrb1lfVEJWb1dK?oc=5",
           "pubDate": "Wed, 02 Sep 2026 06:22:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Edouard weakens into a tropical depression after landfall but still dumping rain into Texas - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWhfenVoMUN6dnRmLWZVQ2c5bkZKQTBRRG9XRjEyOHZSTVp1MVlTMTh2bkRzdGRvZXRIbUJGeFhYbjBkcDZXNVgwa2lXZExTREI2VWJ4dzc4aHhIYkRzNFFrMVMzZGFhdTZqR29IVE04cURuM2xlQ1ZOR2NnMk5Hd09Bbk84SS1vWHY2bmo4QkZLc19rTnBQeUxDcUQ2TDlOTlBkLVVqbkZlVXZYbEJZ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 04:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 04:33:08 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "What happens next if the jury in the Lindsay Clancy murder trial can’t reach a verdict? - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0podnNYZVZyMzRqdWZkOHctRzBYTGF6cDdhU1VIQ05RNy1qRnJvclE1MXZnNks5YmdhMDBENUFXcGFmRDA5NS1uZ01DUUN1ajRQdjdaWWVScXVpaU0zc1k5dGZNNTF6MWtxSmJfbm02N0pvdEVxVEUzMGRNX21fSEprN1A4dlJva3B0d2R2dUhHZTN3U01iX3djZ0hzS0ZxNDhN?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 04:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Judge sends Charlie Kirk murder case to trial with defendant facing potential death penalty - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNckxjUEVsX3F2VW1nN0JOdHRxQ1pQdVA3SjZsTy02ZEswUG4tRGdIWmtNMGpjUS13LUNKRUh6ajhzVUlLTlIzUkp3VGQyQzJHTlpWOTZacmtVR3RCbFdMaHhwcU92eElNRXNmSFRFUW9tZ3IxS0xxSmZOaHh1VG1PYzZNTWNCUjQ2LVJIMG55ZWRDS3dDQ3VNZW0tSThmNnUxdncwRFNEdTNNanc?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 04:22:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T09:50:21.786Z"
+      "updatedAt": "2026-09-02T10:00:21.468Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Gold touches over three-week low as stronger dollar, inflation fears weigh - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHRQNlR5eU9VUm53X3dNNDg4MktpOFdWaGhGakVQXzBHb3NlLXdUVWpDSUFwem4tbS1vdHdRbFQtLWtpZEVHRm5sbGJlbmszMXJvU1FGMVNsRnktZUNEZ3pZV1Vka3hPSVBfUk1TM3VJdTFuc2JuZXpPMUFFeThKVU9TLXRkRXdmNEdnYVhyU1dzWUdfbTZwdVQyV0VIY3p2RGZPckt1M2pPQmJWcEpz?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 08:48:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "BP appoints former Balfour Beatty CEO Ian Tyler as chair - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVQ0RzRyMTZ0dUpUTkxDU2dMOXpxV2MxNW9ZTzNyRHduOUtCQ1hNeFJWMU5lQ3UzQzNxYUx5TUVwQnZoaWdKUUZvZGZTQ2Q1Qkphb2Ntd1FqSVRPbElXa1B2ZnBYWTBIbV9Gd3FjMkdkLVFOTDNraGdveVFKeTlKbk9FdEIyT2ta?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 08:47:40 GMT",
+          "title": "Stocks fall, bond rout deepens as US and Iran trade attacks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 09:13:43 GMT",
           "source": "Reuters"
         },
         {
@@ -219,10 +213,16 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUVvdnk5N1lGczdtV1ZFYW5hR2JIOHVTSEhTX0pqXzZwb09PTy1HTk5TRjRNVE9HNHA5c3ZtUC1ZVE00U0JRbDFWZVh4SDFvQ3Y3ak4xSDhuSUJHaWlLdUh2MzBKdnFtTHlKRTZiWUNmdy1fNzVzRERZSkNjSHdFdGpSYVpoTnJmSG8tcUNPYlU5OHFRb3dxdlVrUTZfRjhEc1liSzlVbFFvcVQ2YVhnTGpyWkNiNFhObXFGV0RaTGVSWTI2bjBrVQ?oc=5",
           "pubDate": "Wed, 02 Sep 2026 07:32:09 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "Qatari, UAE LNG cargoes transferred via ship-to-ship outside Strait of Hormuz - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeTJNc29sNUR2YW04azAyMUFLZG45NlFSQThLR2JsSW5CeXRJWmxyTlBXSFpjSVZLaDgxU3VNSjNQS0ViLTNZTjJyeVM1UjNnSHo1NDdGdjI0WjJkNC1xeUR0WW84TnU1VHdka2c1QVdXcVFoMTlodVpuZWZfRXBSdVVUSmVuR2lxNTgtb3E1aUJ3Sm42VFhoQ3dTdlU0ZHlvNEhSdVhfUGdvNC1LdjlEaHFhRi1PNFBKYTNHVERINDVGRjA?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 06:22:02 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T09:50:22.113Z"
+      "updatedAt": "2026-09-02T10:00:21.821Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T09:50:22.156Z"
+      "updatedAt": "2026-09-02T10:00:22.148Z"
     }
   ]
 }
