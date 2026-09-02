@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-02T23:25:15.613Z",
-  "lastChecked": "2026-09-02T23:25:15.613Z",
-  "lastUpdated": "2026-09-02T23:25:15.613Z",
-  "generatedAt": "2026-09-02T23:25:15.613Z",
+  "fetchedAt": "2026-09-02T23:50:20.136Z",
+  "lastChecked": "2026-09-02T23:50:20.136Z",
+  "lastUpdated": "2026-09-02T23:50:20.136Z",
+  "generatedAt": "2026-09-02T23:50:20.136Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T23:25:14.396Z"
+      "updatedAt": "2026-09-02T23:50:19.059Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T23:25:14.637Z"
+      "updatedAt": "2026-09-02T23:50:19.233Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T23:25:15.223Z"
+      "updatedAt": "2026-09-02T23:50:19.709Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHVNSmdqeHMyQ25WbzBIbEllY05mcWZaNG9DcGFPR216TGZlcURDU0k3U3VhRTJROS1VMnFEZVp0cG1vN1h2MkxJdDFCdlpfZ1pJcWs0QVhSNTUxMmxTR1FkZlJSNUduMTRqMV9faHJuemt3eWRUNW1oamNYWVRILVoyeGtPODg1VUNsSWk2aVlWNU4zQmpwRExHbUkxUQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 23:31:56 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Nepal rescuers race to reach any survivors trapped in tunnels a week after disaster - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnNFSE15OEdqaFZ4TkZ5TFFyWjZVMldBWmpxYWFFSDdnRVdDejlGN1VZdF9YWDVWYzZ4UDNKLW5Od2Y0X0tZOWFTbHE5QklNTm45TXozWXpoRTRyQlVJVzlWT3Y1RzBlVS01S3lDRWFOT1Q5R1ltMXBhejRHemg1UEpJdUJyYmE1b0lMd3lCWHFjR21XOFFaai1zOGd2Z2h6VHRFZlBZdzhzeWRnUURfb3o5Q2dnTU5sTC1xOA?oc=5",
           "pubDate": "Wed, 02 Sep 2026 22:46:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US judge blocks Trump's newest order limiting birthright citizenship - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnM5d1FtVlVHTFpHa3FkZ28xNFRMaS11LVZmekt1Nlh3ZXNkbkdEY2tLcWNQWVp5cmZjYVd0SFNWN3M2dXI3LWdKelFoMzJ0dV96c0dHaTl0TlVET1hvaTBJMlp0TXliQlp1N3JISmNLTDh4YmhENk02ZHhuXzlKUTVVRTYxdnRBdTdVb3BaOGFxQndWSHd2VTZPT0VqZ0FoMWJwTlU0cld0NzVJa2c?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 22:22:50 GMT",
           "source": "Reuters"
         },
         {
@@ -191,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Democrats sink Republican bid to cap Supreme Court at nine justices - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT1ZPNmVMcEF2RFdQM3BQdXh4TE12YkgtRTZnT0lJWU1uMlN1Q1IzSnlDVzhtQkwzOUdSTExNSWRmTDctTXAxd0FUdGg5cGx2TDVjUEZlY1ZJTWtjVWtNbXFnWVk5Q3FpUTZIa202aUhHdWI5QzVYcTJLWkJPNHFyLXRRWHlOV0UwUDQ3VTItMWxUWmlaRmx3dFJZdGZHbVJuUjJiamN4Vm1zRWV0bXM5dXhHU2FOdGx4WXVUV2JfZzNGUjVnWFJGOQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 22:07:59 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US urges G20 countries to allow AI training on creators' work - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93?oc=5",
           "pubDate": "Wed, 02 Sep 2026 22:04:30 GMT",
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDItYm9XQjBxZHFNa3JoTEctM0tfbUljV0cyUHo1UEs0RjRaeEVRZXVyZVZCQTV4T3ZnWDFScE1kbEVJZW93Sm5pZWdjZmVaZGM5WUtPZEpkSmRueFZWbk9pTG10MUFZTXFzRTNmNWJDLVl0dks3Vkx1ZWVJcGlTYlVVX1hiTWw4dDFqZTNXcWtVMWs0aG5KMlEwNnY0YTFzVXRoOHhrWnlidUMydF9aTDZNRDV6NE5NR0lSMXdVWQ?oc=5",
           "pubDate": "Wed, 02 Sep 2026 22:03:39 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "The killing of Maltese journalist Daphne Caruana Galizia and its aftermath - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUkF5aTRlSG90Q1RlVmVjTDkwaV91bXREeDdUeHZqN081X0sxQkV2d0ludkQtWDFVX3dMQkg5NTZHcGJieDF4S25jYzB3SWVkcnlodHU3T3lQVGdENUg2NHljcXN3RnFVbTVmWGhOQzgyWFhwcFRqazIwY1kyU0JPOGF5bVJQMUpELWFiRlJXekFGTk9RemNXRjJZOXE2Z09CM1lnQ2M4VzJUX0FmT3Q5YndWZjNUYUJvY0ZSb0VLM0hYQXpt?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 22:02:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bond selloff deepens as oil prices and public debt fears jolt markets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 21:33:47 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Democratic US senator asks Capital One for details on Trump account anti-money laundering review - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVZiZFBnYmZ4eHg4M1MyQ2RtMGNKU0U0cWJBcWhicFJxZXhuWHFFLVpyNEg0N1B0NGt1Rmc1eUl3T191X19EdWVSN0pTMlFSUU5Fb2t6X25DZ2F0cE1QdDhvaGxzOXA1UDNid25UMWg3QWs4Mnh4TVljU3lnZWw1RnQwYVZzNXBXWWZzNGFvRlNQSnpJR0p0eXZzSnZYQld0bE1VN2tfZzBHcFlxd3hhY2dpR2tBa09SZ0hwWkhfNXRGQQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 21:29:48 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T23:25:15.613Z"
+      "updatedAt": "2026-09-02T23:50:20.136Z"
     }
   ]
 }
