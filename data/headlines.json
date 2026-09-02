@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-02T17:00:22.897Z",
-  "lastChecked": "2026-09-02T17:00:22.897Z",
-  "lastUpdated": "2026-09-02T17:00:22.897Z",
-  "generatedAt": "2026-09-02T17:00:22.897Z",
+  "fetchedAt": "2026-09-02T17:21:44.600Z",
+  "lastChecked": "2026-09-02T17:21:44.600Z",
+  "lastUpdated": "2026-09-02T17:21:44.600Z",
+  "generatedAt": "2026-09-02T17:21:44.600Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,13 @@
         {
           "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
           "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 02 Sep 2026 16:57:34 GMT",
+          "pubDate": "Wed, 02 Sep 2026 17:05:09 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "South African airline behind daring  stadium stunt cancels next flyby, regulator says",
+          "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 02 Sep 2026 16:58:59 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 02 Sep 2026 15:16:42 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Could the man who murdered a Christian missionary and his sons walk free in India?",
-          "link": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 02 Sep 2026 12:09:11 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T17:00:21.718Z"
+      "updatedAt": "2026-09-02T17:21:43.495Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T17:00:21.901Z"
+      "updatedAt": "2026-09-02T17:21:43.534Z"
     },
     {
       "name": "AP News",
@@ -148,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "Driscoll offers no reason for his exit as Army secretary but says Wednesday is his last full day - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0hCZ3lyMDQxcjRSWjFmdHhFVW5hY2FzQURXZXBQdDB2dExhV1NXLUxRYmx2Qk5DYUR0aTZLNDVKYjBwMGI3S0ctYjFzYXVoTW5pQ1JWbklUZzFDRl9WQzlmZXhwTVpPOEhKUTFUakJEd0tYMVVzcVNISTRmNE0yUnNxTUhKejNDamFZcEtGQno3YmxPaUxOUUZnb0hpQlpUdzF4aFJFeTN3czFmYkE?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 16:07:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
           "pubDate": "Wed, 02 Sep 2026 16:06:00 GMT",
@@ -158,20 +164,32 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzNQdXdOREo0QmNLQW9YeFJNYllJTXlTVXhRa3NZR3NrcHZNYTdLS2w5UVNZZVVCQnZTNnZmTnhEYUxDc2tRWkJKeU44eEVEa2JFOVdSVjhZNmFZQ3lXX00xZlNIWG0wRnVjM3hDS2ozUWFrczhUQmFjbndBVkdDMVUwak1zZHRzNHNvUjJHQkk5Zkd2YVNYd1ZsN1N1TXM1bDUxeldwMngxQzI5?oc=5",
           "pubDate": "Wed, 02 Sep 2026 15:52:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "EU struggles to find an effective response after Germany blames Russia for a failed drone attack - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGRNWFdXclZxNGQxMGdIWFF3Q2E3UHdFM0lyU29mdnVqVGdKWFN1ZVZxVXFHNEl5dlRtbkxsa2FocHAwMFc4ME1MZndYUm9QSUVWelM4X2hLdWlRRUc2N18wd0FnelNDejNjSnl1bmZraVlDWXFvUWpHMThvZjc3ZU1KeFJVWlY3cTVFaWZ2RFJlN2UzMllBX1BVOEZBZHhqOTducWt3ZXo?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 15:30:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T17:00:22.416Z"
+      "updatedAt": "2026-09-02T17:21:44.094Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Democratic US senator asks Capital One for details on Trump account anti-money laundering review - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVZiZFBnYmZ4eHg4M1MyQ2RtMGNKU0U0cWJBcWhicFJxZXhuWHFFLVpyNEg0N1B0NGt1Rmc1eUl3T191X19EdWVSN0pTMlFSUU5Fb2t6X25DZ2F0cE1QdDhvaGxzOXA1UDNid25UMWg3QWs4Mnh4TVljU3lnZWw1RnQwYVZzNXBXWWZzNGFvRlNQSnpJR0p0eXZzSnZYQld0bE1VN2tfZzBHcFlxd3hhY2dpR2tBa09SZ0hwWkhfNXRGQQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 16:37:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tiger Woods loses driver's license for five years in plea deal, avoids jail time - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGNmRFhnV2FVbHpNSS1CWFVDaEl5djVacnFZOW1yb2tVeTMwcGxaMm95S1JPd21mMHlCUEtTUkFkX2tCV2FGN0dJNkxNVWlXRURyOU1UcnRYcW5hYXczSkM4WElGX3JUZ0NHME5oV18wODFoX00zanJLRl8wSDhzWnJKc3lXS1RLVkZhV3lKZ0lnUy01QVhzVlVB?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 16:35:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Chevron expands Venezuela presence with $7 billion plan to double oil output in five years - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0xfNHNSeU9ZOWlXYzMtTzV0MzRrOGtvZkV3MVl3T0pBV2NfamZZVHhDSmh1a0w1X0RrLUluaEFfYUxuRE9DRTg1VmkyMVY0b0JoVkdHMkhuY1hsSk9rZU12X0xJZG5IdDFaWFNnNjlWXzRnaFNlSldHSW96YmFUdW5FQ0M3RlJRcUQ0OGgwa3AxNDYxaXJ6Ukg5eWY5YTBQRzk4NW5GRFY3MjY2eE9Xc2ZnUQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 16:28:36 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "From street names to supply chains, Canadians pull away from US as rift grows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYl91c3ctMThSR18yUGRXLTlrdkpueHBUZHRHNTloRHdmWFlmZTZHLW5OeGVZWXZOTGhjQVdLeGZsYXhNd2J5Z2xIRjFLRlBzT3NCRFlqTFRxb0JkLWxaNzNOUmVuN0x4RWY5czV3a1hyNWdzX1MzR1lKb1g5QTIydVljbThpOWJOTE5mM2pTa18tZ1NINWZoVktVc21IZ3lVbFVNTUlwN00?oc=5",
@@ -191,15 +209,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Tiger Woods loses driver's license for five years in plea deal, avoids jail time - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGNmRFhnV2FVbHpNSS1CWFVDaEl5djVacnFZOW1yb2tVeTMwcGxaMm95S1JPd21mMHlCUEtTUkFkX2tCV2FGN0dJNkxNVWlXRURyOU1UcnRYcW5hYXczSkM4WElGX3JUZ0NHME5oV18wODFoX00zanJLRl8wSDhzWnJKc3lXS1RLVkZhV3lKZ0lnUy01QVhzVlVB?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 16:19:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chevron expands Venezuela presence with $7 billion plan to double output in five years - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0xfNHNSeU9ZOWlXYzMtTzV0MzRrOGtvZkV3MVl3T0pBV2NfamZZVHhDSmh1a0w1X0RrLUluaEFfYUxuRE9DRTg1VmkyMVY0b0JoVkdHMkhuY1hsSk9rZU12X0xJZG5IdDFaWFNnNjlWXzRnaFNlSldHSW96YmFUdW5FQ0M3RlJRcUQ0OGgwa3AxNDYxaXJ6Ukg5eWY5YTBQRzk4NW5GRFY3MjY2eE9Xc2ZnUQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 16:10:22 GMT",
+          "title": "US government backs OpenAI in New York Times copyright case - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODVsb2JiWUlRc3pRYm51czFaekswTjZmUXNCc3N6R0FhVllZNTJ3OXp6dHBiamNYazFmdHNpTUswSUZ3U3AwbENheHhKbjJmN2hwaS0zZUlMcEp5cm9LWDlLUkZUZlBLc21NZk5IMkNtQ3JzVFdUcGhVaWJCemgxZGtRdkFpR0lpbzA4WUhEX0FqQjZVaklRdUVuU2o3SkxWVEpFRkZyNUt0cThiTVE?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 16:13:49 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHBBNVNPZnJHaVhnTDlrMDVERUdjS2dCWXl2NmplVWJtYTFiLXk3amhnNkFoeEdFVzBuczBNZmdNWEc3bEFTaFBxb1RWazVjTW0tQ2NNM1RjUlljdnB6a3VaQXdGeDNUUE9WbGJxOVJzZk1Wb056eEJqcUp4allyS0FSZmpLbXQ2MmZWYWdmVUNxczFmdU5helZNQ3pQT3c?oc=5",
           "pubDate": "Wed, 02 Sep 2026 15:58:46 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Rising Treasury yields could rattle US stocks as earnings season ends - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0JPMlNBNHNJUVR2WWhfd0xOR3ZnWHAzampvY0tJRGFrN1NteWRFR28tekVYR0F1VW5GQ3I4M0FsR0dFalZzYUdERVlOSHJqOWRNNUFCVnFsaURzb0ZwWFZEZ3VHRTQ5czJaYkk2Ym9sOGROUEMxUHJzMzdFMnctMGZDbGRpUHdiOE1DSFI2VHhDNHdwWHlXTW13cG9FSUhOb0lrbEx5bXRaVzAyeVNsaGRYTWJYRnNqWjh1ZjFCcw?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 15:55:25 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Too weak, too strict: India's food warning labels draw fire from all sides - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjRnWDZHRUN1YmY3ZFhyTVJRcmhCOVJIXzkxVHV0RnpRM0VKUFMxUU83WC1wUm1uX3g3NHN3YjBaT0JjcUpUcGE4Wi1ST1gtdDMzby0wMXhSeEJzaXdTSDhVdk1YRWtUMHJjcXFJOHhpcUc3TnM4bW9vSTl4dEZtWWlscFNsS2Y2anNYSVhuSWNkbjZhZUtmd1BnZTZsNGRydmVSd2pwSkRZVE1rTDdpQ0dmeTFaZFpCTUxv?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 15:53:40 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T17:00:22.897Z"
+      "updatedAt": "2026-09-02T17:21:44.600Z"
     }
   ]
 }
