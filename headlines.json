@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-02T11:50:15.410Z",
-  "lastChecked": "2026-09-02T11:50:15.410Z",
-  "lastUpdated": "2026-09-02T11:50:15.410Z",
-  "generatedAt": "2026-09-02T11:50:15.410Z",
+  "fetchedAt": "2026-09-02T12:00:29.385Z",
+  "lastChecked": "2026-09-02T12:00:29.385Z",
+  "lastUpdated": "2026-09-02T12:00:29.385Z",
+  "generatedAt": "2026-09-02T12:00:29.385Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+          "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 02 Sep 2026 11:51:46 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Nepal-Tibet flood response turns to relief and recovery",
           "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 02 Sep 2026 07:18:39 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "South Korea jails care home head for sexually assaulting disabled residents",
-          "link": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 02 Sep 2026 05:56:44 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T11:50:14.885Z"
+      "updatedAt": "2026-09-02T12:00:28.000Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T11:50:14.930Z"
+      "updatedAt": "2026-09-02T12:00:28.192Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 11:36:03 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Symbolic funerals held in Nepal for those feared lost as some missing tourists make contact - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVdRVkJTSmh6dDVnNk1rXzdHaDNSUGE1SU5xVUJkd2JPcjZubGh3Z1JsbHUwSGhPc01mSDhhVGhqbDdlZFFrRkh3VDVKS1hheHJrMW5uRmZCcUZ1eU5hVnlWZWpJUzVBZVRkTzYxRUM3bU5NdEVqWVhpMUtDdU1IX2dJZUdpN3JNLUotVg?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 11:26:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
@@ -127,6 +139,12 @@
           "title": "Russian attacks wound 8 Ukrainian civilians as Moscow and Kyiv threaten to raise the stakes - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzNQdXdOREo0QmNLQW9YeFJNYllJTXlTVXhRa3NZR3NrcHZNYTdLS2w5UVNZZVVCQnZTNnZmTnhEYUxDc2tRWkJKeU44eEVEa2JFOVdSVjhZNmFZQ3lXX00xZlNIWG0wRnVjM3hDS2ozUWFrczhUQmFjbndBVkdDMVUwak1zZHRzNHNvUjJHQkk5Zkd2YVNYd1ZsN1N1TXM1bDUxeldwMngxQzI5?oc=5",
           "pubDate": "Wed, 02 Sep 2026 11:15:22 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Turkish cargo ship sinks after collision off Istanbul’s coast and 10 crew are feared dead - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeGNqS3dScHJmRk12SEc5ZUpCY0RjeTFTWmpjYnpjSVJROEpmUGc2MWtXMjI3RHpXMXg3dHZGdVdmSm1sWnV5b0w1cDZQcU9KOU9LS1NhbTFGbVc5aW0wNGxLS0FrVWUzNkF4RXhxdFhUTE1BWGRxN3p2Ym5JVE1OODhxS0VNVmhVZmFkUGxMOXlranBEUGdpbHpDTHRJcE9Iazk2dHRVZ2JwSzNsNkE?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 10:36:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,42 +164,18 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORUJNV2ppcE5ETW9HNWR6bUhBd0NqekJEY05jRi04WExCX1JNNndaU00zakp3YVpDZ2xkR2VmZ25ULWhHQ0E3XzluX0dVUnJ3bWZzUHNrb1ZBZFhjLXBhUHN1RXpEbzNUVEQzRVNTWXJ6OE13UXBYcnI5QnVzbkNIS0tZMHZDMnlIQ0phbV9aRTdUbDgzVUhMSl9tejU?oc=5",
           "pubDate": "Wed, 02 Sep 2026 09:56:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Explosion near German train station injures 2 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1BVU0ZJWFptN1pDcnRzOHpOdEhhY21QeGVwQ1YzNmtQbmxqaXQxQjFXSGRzcDN6Zmx4dHhZdzdEc21reEExZHVqSWdhem1qaTdDUGlZTTNXNDBOaGxvVTVRcXp3TnA2NTFnZ1NUVnlhWEp4M3A0bWNVV0NqcWxYNTVZWkl3RjYycFFUTjJtOTFGS2NsT2x2WGNqaGt1YWR4WlBrb1lfVEJWb1dK?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 09:54:44 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 09:52:09 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 09:35:44 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T11:50:15.353Z"
+      "updatedAt": "2026-09-02T12:00:28.733Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Dollar rises to 2-week high, Middle East conflict and rate paths in focus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHBBNVNPZnJHaVhnTDlrMDVERUdjS2dCWXl2NmplVWJtYTFiLXk3amhnNkFoeEdFVzBuczBNZmdNWEc3bEFTaFBxb1RWazVjTW0tQ2NNM1RjUlljdnB6a3VaQXdGeDNUUE9WbGJxOVJzZk1Wb056eEJqcUp4allyS0FSZmpLbXQ2MmZWYWdmVUNxczFmdU5helZNQ3pQT3c?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 11:26:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chevron expands Venezuela position, to invest $7 billion in next five years - Reuters",
+          "title": "Chevron expands Venezuela bet with $7 billion plan to double output in five years - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0xfNHNSeU9ZOWlXYzMtTzV0MzRrOGtvZkV3MVl3T0pBV2NfamZZVHhDSmh1a0w1X0RrLUluaEFfYUxuRE9DRTg1VmkyMVY0b0JoVkdHMkhuY1hsSk9rZU12X0xJZG5IdDFaWFNnNjlWXzRnaFNlSldHSW96YmFUdW5FQ0M3RlJRcUQ0OGgwa3AxNDYxaXJ6Ukg5eWY5YTBQRzk4NW5GRFY3MjY2eE9Xc2ZnUQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 11:16:31 GMT",
+          "pubDate": "Wed, 02 Sep 2026 11:29:43 GMT",
           "source": "Reuters"
         },
         {
@@ -191,15 +185,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Rising Treasury yields could rattle US stocks as earnings season ends - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0JPMlNBNHNJUVR2WWhfd0xOR3ZnWHAzampvY0tJRGFrN1NteWRFR28tekVYR0F1VW5GQ3I4M0FsR0dFalZzYUdERVlOSHJqOWRNNUFCVnFsaURzb0ZwWFZEZ3VHRTQ5czJaYkk2Ym9sOGROUEMxUHJzMzdFMnctMGZDbGRpUHdiOE1DSFI2VHhDNHdwWHlXTW13cG9FSUhOb0lrbEx5bXRaVzAyeVNsaGRYTWJYRnNqWjh1ZjFCcw?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 10:49:01 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Estonia elects human rights ombudsman Madise as its next president - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGZLUERUSGc1eXFDUTNvb2xyMHlBZUxIYUdVeGxTaTlESlp4YS1xQ0RIQUZuRVF3RndvcC1QeUV3NE1YOU1SMzlOS2dYQ0RENl9GYXFpQ0NJWmEtc2Q5U25mdmdTWVpUdGhoekM4QVNtd1NMSlVMb1JfRzlQakoxbVVfOXhKam9zTTdRSDhDVTM0RDN2clVNXzV2eEVuR1JBblJCVGYtenY?oc=5",
           "pubDate": "Wed, 02 Sep 2026 10:48:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump aides, fearing a midterm rout, push to keep Iran war 'quiet' for now - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDJDS3ZmaHY1S0hTTlJiUUVPQ081YTU5bWV3NmJJLTRTNDdNQUhKNWdFTXd4TzVVRkRiRXd6SV9xZ1hmbHVxMFVGOUhXMkJLTkdaN0VWa3g3aEZ1aWZDbnlNTkRoUk5zY2ltOW9PNVk1SlFJVU1mNzZFSE9GTGpGbmhwdW1sMFNuTFhwcTVmSlFUNUIwM3lOV3ZpQ0NCX3B2TmMwbXZB?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 10:42:42 GMT",
           "source": "Reuters"
         },
         {
@@ -219,10 +213,16 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZS1HRXhpY18xZjJMeV8tOU5UcFVxOFkzSVRKT3ZSR1Myak1oRHZZN081aVY2MldCemZNa1c0U1hKaUtyOHRJaUVjb0U0S2xCWC14cGIyN2QxQzVzVFhfZl85dkhRdFZtMjBCeGVpV2lQQ0g5alBZVnFiUGg5MDkzdDF3eGozTkg4Sm9kc2FIcHZNbXA3TVZoLW4zZ001ejY1UWFaOVdB?oc=5",
           "pubDate": "Wed, 02 Sep 2026 10:23:56 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "Good chance that trapped workers are still alive in Nepal hydropower plant, official says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDZPXzQxWXM4RUJQaEJBandibmgtV2xrc1RGSXBiUTZ0cmZwYTQxN21KNVlhVVY3V0hEZ0FpYTVWbnNta09ReTNwWGJaMnRrbTlDeU9xQlBTQlJUdXRjUWNWLWdxQkJHOVhpZ0hRZ1JOeDFUYzZWaXhucG9sd29UeDdWVjc0aVBSSWZhQ3VNMTVjOV9ycFVzRzJYTnpOTFJVb0hFYTR4XzBfdGJmeThNUV9zMGVjcHhRcEJMMmd6UmtkRjYtVmhj?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 10:22:49 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T11:50:15.363Z"
+      "updatedAt": "2026-09-02T12:00:29.199Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T11:50:15.410Z"
+      "updatedAt": "2026-09-02T12:00:29.385Z"
     }
   ]
 }
