@@ -1,16 +1,16 @@
 {
-  "fetchedAt": "2026-09-02T14:00:22.831Z",
-  "lastChecked": "2026-09-02T14:00:22.831Z",
-  "lastUpdated": "2026-09-02T14:00:22.831Z",
-  "generatedAt": "2026-09-02T14:00:22.831Z",
+  "fetchedAt": "2026-09-02T14:25:14.423Z",
+  "lastChecked": "2026-09-02T14:25:14.423Z",
+  "lastUpdated": "2026-09-02T14:25:14.423Z",
+  "generatedAt": "2026-09-02T14:25:14.423Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Tiger Woods changes plea, gets five-year driving ban",
+          "title": "Tiger Woods gets five-year driving ban after reckless driving plea",
           "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 02 Sep 2026 13:31:32 GMT",
+          "pubDate": "Wed, 02 Sep 2026 14:11:49 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T14:00:21.910Z"
+      "updatedAt": "2026-09-02T14:25:13.150Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+          "link": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
+          "pubDate": "Wed, 02 Sep 2026 10:08:03 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Medical groups offer vaccine guidance to fill federal vacuum",
+          "link": "https://www.npr.org/2026/09/02/nx-s1-5947884/covid-flu-rsv-vaccine-recommendations",
+          "pubDate": "Wed, 02 Sep 2026 10:00:58 -0400",
+          "source": "NPR"
+        },
         {
           "title": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting",
           "link": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
@@ -97,22 +109,10 @@
           "link": "https://www.npr.org/2026/09/02/nx-s1-5953128/ice-detention-death-lianyong-wei",
           "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "He died of 'natural causes.' But his mother says she knows what killed him: heat",
-          "link": "https://www.npr.org/2026/09/02/nx-s1-5887544/heat-deaths-undercount",
-          "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
-          "link": "https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump",
-          "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T14:00:22.094Z"
+      "updatedAt": "2026-09-02T14:25:13.283Z"
     },
     {
       "name": "AP News",
@@ -120,13 +120,19 @@
         {
           "title": "Stocks drift on Wall Street amid jobs market updates, renewed fighting in US war with Iran - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 13:39:00 GMT",
+          "pubDate": "Wed, 02 Sep 2026 14:07:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Tiger Woods enters plea agreement to reckless driving charge over rollover crash in Florida - AP News",
+          "title": "Tiger Woods pleads no contest to reckless driving charge over rollover crash in Florida - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmVlMUxPcy1WZnNsam52M1N3aHE1V0NNbmJScW54c3FIYXNvd2d0WVktUFFHTm9yVFhLUkRmRVdaMV9SNjZaTk1ydmRBTHZmaWxYTEZXc3JYb3NxeHkyckVCS1lqRG0tM3BWcmlyQ09rY2syQlZIRUNiekdSNm9yMDhGdTUwY20yWDZlS1NjbzZGbEhGcUdkNw?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 12:50:00 GMT",
+          "pubDate": "Wed, 02 Sep 2026 13:27:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 13:05:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,15 +148,15 @@
           "source": "AP News"
         },
         {
-          "title": "At least 22 have been killed in a bus crash in Egypt’s Sinai Peninsula - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOczB4eThzdE5kaDJTbldiejdNSDg2OUtBMWhvSHVBSUJWUTRPV093Q2JvbHhoOXNKSGktdDUzVmlKWmJwN010Y2xsUHNFWkxCaHV1OEVEa1dqUEIzNG5JN3BOYVJqdnIwNmxYVktBSmxfcjZwaTd0bmtaQ2RxRFMxZjFrTXRwRFZtWjRqVnFua3Q?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 11:39:00 GMT",
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 11:53:08 GMT",
           "source": "AP News"
         },
         {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 11:36:03 GMT",
+          "title": "At least 22 have been killed in a bus crash in Egypt’s Sinai Peninsula - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOczB4eThzdE5kaDJTbldiejdNSDg2OUtBMWhvSHVBSUJWUTRPV093Q2JvbHhoOXNKSGktdDUzVmlKWmJwN010Y2xsUHNFWkxCaHV1OEVEa1dqUEIzNG5JN3BOYVJqdnIwNmxYVktBSmxfcjZwaTd0bmtaQ2RxRFMxZjFrTXRwRFZtWjRqVnFua3Q?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 11:39:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,24 +164,36 @@
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
           "pubDate": "Wed, 02 Sep 2026 11:31:23 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Symbolic funerals held in Nepal for those feared lost as some missing tourists make contact - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVdRVkJTSmh6dDVnNk1rXzdHaDNSUGE1SU5xVUJkd2JPcjZubGh3Z1JsbHUwSGhPc01mSDhhVGhqbDdlZFFrRkh3VDVKS1hheHJrMW5uRmZCcUZ1eU5hVnlWZWpJUzVBZVRkTzYxRUM3bU5NdEVqWVhpMUtDdU1IX2dJZUdpN3JNLUotVg?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 11:26:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T14:00:22.148Z"
+      "updatedAt": "2026-09-02T14:25:13.722Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "China restores access to Tibet disaster zone as highway reopens - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2hxTG5JYmVZR2d0c3pTUEpldXI4MTExcjRZQUQwSUdQSmpzcWpEbG9wVDRZWmRBVGJraWF2Tzl5UkZNcWxJNUFxWmk5M2xVWk90NXlabkFMRGNEdEt5bHVqdDdMNVRHOGNIY01kUkIxbEpnTVAza2Z5Vmhhbk1KcnE1ZkdFbXUtSGJ2NFd4Y0ZYNVpDREJZQ0RoVERGVEhQSE8wck5lMjFKdFJ5ZFVpMFJtQQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 14:11:01 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Dell shares gain after strong AI server demand boosts annual forecast - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmNtT1NWQzNvZG9xWl90RkNVMTdUUGMwS056SGE5X2Y5SDNFNEVqRmUxQ2MtZjJrcDJDWU1rcTFMdTBNQTRhNUZPdjYtUU5XSTlCQkxhSl9wd0lWOVlxRy1weGpiUW9PdTJaTUtnNmhicktYWmE2cWw0SHRMU0JuU0k4STJrSjhwcmxEeUNONm1tUVFmMkNEZFVlS2xoandSQURBSG1EVC02QWx5RkkzMkVwMEhFd1lJM3dIMzBveDU0bXV4ZHV6REJn?oc=5",
           "pubDate": "Wed, 02 Sep 2026 13:51:24 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Chevron expands Venezuela presence with $7 billion plan to double output in five years - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0xfNHNSeU9ZOWlXYzMtTzV0MzRrOGtvZkV3MVl3T0pBV2NfamZZVHhDSmh1a0w1X0RrLUluaEFfYUxuRE9DRTg1VmkyMVY0b0JoVkdHMkhuY1hsSk9rZU12X0xJZG5IdDFaWFNnNjlWXzRnaFNlSldHSW96YmFUdW5FQ0M3RlJRcUQ0OGgwa3AxNDYxaXJ6Ukg5eWY5YTBQRzk4NW5GRFY3MjY2eE9Xc2ZnUQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 13:45:03 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzFCdE02NmRoUGVHUmVoUTMtbzRyV1VkSkN4OTR6U2pudFdXdlFqbFVmMldMX2RPZWxOSklmY2JCV0IwSmdOU3ktNjVVNXRubXlTWV9HcUI1OWNTMklxUDFSUlpXV3NOdEk0YUhFRlFjMUx6X3lmTHo3S29UR2hLSkVpNE1TeEQxY3ZvOS1KTkJpU3ZmY21nT2hydFBDeEJIV00yakNZc0R5NzFVbXN3a3R0cXdiU0JveHc?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 13:44:03 GMT",
           "source": "Reuters"
         },
         {
@@ -187,7 +205,13 @@
         {
           "title": "Nepal flood rescue hopes dim amid glimmer of finding tunnel survivors - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnNFSE15OEdqaFZ4TkZ5TFFyWjZVMldBWmpxYWFFSDdnRVdDejlGN1VZdF9YWDVWYzZ4UDNKLW5Od2Y0X0tZOWFTbHE5QklNTm45TXozWXpoRTRyQlVJVzlWT3Y1RzBlVS01S3lDRWFOT1Q5R1ltMXBhejRHemg1UEpJdUJyYmE1b0lMd3lCWHFjR21XOFFaai1zOGd2Z2h6VHRFZlBZdzhzeWRnUURfb3o5Q2dnTU5sTC1xOA?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 13:37:03 GMT",
+          "pubDate": "Wed, 02 Sep 2026 13:34:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oil retreats from one-month high as traders weigh supply risks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTRkVWlBVVJQeFBDbXB5UzFkd05qc05KVXhja1h2cC1aMUZxOTRGQTY4a0ZHeWpiSzl0UE50MjRTTjFVREhMUGJhd29Ka21tTTlISE9yd3pSSHFESEtVOTBzb2c0dEVFakx5eEJLamxsMUJxZ0NOSTBpNll2a2Z5eVBncmR6S3MtSW1ITE9hN01KbUljNlcwNlB3aw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 13:24:55 GMT",
           "source": "Reuters"
         },
         {
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYl91c3ctMThSR18yUGRXLTlrdkpueHBUZHRHNTloRHdmWFlmZTZHLW5OeGVZWXZOTGhjQVdLeGZsYXhNd2J5Z2xIRjFLRlBzT3NCRFlqTFRxb0JkLWxaNzNOUmVuN0x4RWY5czV3a1hyNWdzX1MzR1lKb1g5QTIydVljbThpOWJOTE5mM2pTa18tZ1NINWZoVktVc21IZ3lVbFVNTUlwN00?oc=5",
           "pubDate": "Wed, 02 Sep 2026 13:23:58 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Bond selloff deepens as oil prices and public debt fears jolt markets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 13:08:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China's Xi urges new Middle East security framework during Egypt visit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZS1HRXhpY18xZjJMeV8tOU5UcFVxOFkzSVRKT3ZSR1Myak1oRHZZN081aVY2MldCemZNa1c0U1hKaUtyOHRJaUVjb0U0S2xCWC14cGIyN2QxQzVzVFhfZl85dkhRdFZtMjBCeGVpV2lQQ0g5alBZVnFiUGg5MDkzdDF3eGozTkg4Sm9kc2FIcHZNbXA3TVZoLW4zZ001ejY1UWFaOVdB?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 12:59:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Good chance that trapped workers are still alive in Nepal hydropower plant, official says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDZPXzQxWXM4RUJQaEJBandibmgtV2xrc1RGSXBiUTZ0cmZwYTQxN21KNVlhVVY3V0hEZ0FpYTVWbnNta09ReTNwWGJaMnRrbTlDeU9xQlBTQlJUdXRjUWNWLWdxQkJHOVhpZ0hRZ1JOeDFUYzZWaXhucG9sd29UeDdWVjc0aVBSSWZhQ3VNMTVjOV9ycFVzRzJYTnpOTFJVb0hFYTR4XzBfdGJmeThNUV9zMGVjcHhRcEJMMmd6UmtkRjYtVmhj?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 12:59:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Rising Treasury yields could rattle US stocks as earnings season ends - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0JPMlNBNHNJUVR2WWhfd0xOR3ZnWHAzampvY0tJRGFrN1NteWRFR28tekVYR0F1VW5GQ3I4M0FsR0dFalZzYUdERVlOSHJqOWRNNUFCVnFsaURzb0ZwWFZEZ3VHRTQ5czJaYkk2Ym9sOGROUEMxUHJzMzdFMnctMGZDbGRpUHdiOE1DSFI2VHhDNHdwWHlXTW13cG9FSUhOb0lrbEx5bXRaVzAyeVNsaGRYTWJYRnNqWjh1ZjFCcw?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 12:48:11 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T14:00:22.599Z"
+      "updatedAt": "2026-09-02T14:25:14.231Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T14:00:22.830Z"
+      "updatedAt": "2026-09-02T14:25:14.423Z"
     }
   ]
 }
