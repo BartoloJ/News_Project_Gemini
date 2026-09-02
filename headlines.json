@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-02T14:25:14.423Z",
-  "lastChecked": "2026-09-02T14:25:14.423Z",
-  "lastUpdated": "2026-09-02T14:25:14.423Z",
-  "generatedAt": "2026-09-02T14:25:14.423Z",
+  "fetchedAt": "2026-09-02T14:50:20.325Z",
+  "lastChecked": "2026-09-02T14:50:20.325Z",
+  "lastUpdated": "2026-09-02T14:50:20.325Z",
+  "generatedAt": "2026-09-02T14:50:20.325Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,13 @@
         {
           "title": "Tiger Woods gets five-year driving ban after reckless driving plea",
           "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 02 Sep 2026 14:11:49 GMT",
+          "pubDate": "Wed, 02 Sep 2026 14:40:20 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+          "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 02 Sep 2026 14:34:22 GMT",
           "source": "BBC News"
         },
         {
@@ -23,12 +29,6 @@
           "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
           "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 02 Sep 2026 13:16:26 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-          "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 02 Sep 2026 13:04:47 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T14:25:13.150Z"
+      "updatedAt": "2026-09-02T14:50:18.890Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Greetings from the Royal Pavilion, a stunning reminder of India in southern England",
+          "link": "https://www.npr.org/2026/09/02/nx-s1-5952243/royal-pavilion-brighton-england-architecture-india",
+          "pubDate": "Wed, 02 Sep 2026 10:30:36 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
           "link": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties",
           "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "ICE detainee dies just hours after he was admitted into detention",
-          "link": "https://www.npr.org/2026/09/02/nx-s1-5953128/ice-detention-death-lianyong-wei",
-          "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T14:25:13.283Z"
+      "updatedAt": "2026-09-02T14:50:18.982Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,13 @@
         {
           "title": "Stocks drift on Wall Street amid jobs market updates, renewed fighting in US war with Iran - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 14:07:00 GMT",
+          "pubDate": "Wed, 02 Sep 2026 14:45:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Congo’s Ebola outbreak shows no signs of slowing as deaths top 3,000 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRlh1SmNWYWRRMVhwNms0SXo0YlJkVTRobFM4WWl2c0h4QWhEYmo5a2YtUExuOE1JYm9rNVI2dnlZT25rdDFHR0VKUEd3TUlVendUYmZHQXdBb0ZrbWxtM1hTSTg2SlpyOTlYWUR4OWpsU3hYYXdGQ0w5Nm1GMW94YjRQeUxrcnYxX3U2LURqQ1BDRXdhZFBuT2paWQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 14:22:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,24 +164,42 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOczB4eThzdE5kaDJTbldiejdNSDg2OUtBMWhvSHVBSUJWUTRPV093Q2JvbHhoOXNKSGktdDUzVmlKWmJwN010Y2xsUHNFWkxCaHV1OEVEa1dqUEIzNG5JN3BOYVJqdnIwNmxYVktBSmxfcjZwaTd0bmtaQ2RxRFMxZjFrTXRwRFZtWjRqVnFua3Q?oc=5",
           "pubDate": "Wed, 02 Sep 2026 11:39:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 11:31:23 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T14:25:13.722Z"
+      "updatedAt": "2026-09-02T14:50:19.495Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "India draws $136.38 billion in forex inflows, bolstering support for rupee - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb05GRzZpQ2VFMXEyVTVCdzFLd2NtYVBqYUNldVo3WXhybzRZTXctUFEwSkxzWF9TcmE1d3hmM2JNMnkycndvLXJreW1XZkE1elp4QU5Sc25tbERmMVhaMktXUlNWQkQzMkF1VVl0YmFtQUo4c2hqZGhFX21HdFlmR3NsMVJwanZSaG12M3MxaUVvLUxyOGlzbE8tWjRQM0VVYjliWFR0ams?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 14:23:05 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "China restores access to Tibet disaster zone as highway reopens - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2hxTG5JYmVZR2d0c3pTUEpldXI4MTExcjRZQUQwSUdQSmpzcWpEbG9wVDRZWmRBVGJraWF2Tzl5UkZNcWxJNUFxWmk5M2xVWk90NXlabkFMRGNEdEt5bHVqdDdMNVRHOGNIY01kUkIxbEpnTVAza2Z5Vmhhbk1KcnE1ZkdFbXUtSGJ2NFd4Y0ZYNVpDREJZQ0RoVERGVEhQSE8wck5lMjFKdFJ5ZFVpMFJtQQ?oc=5",
           "pubDate": "Wed, 02 Sep 2026 14:11:01 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Good chance that trapped workers are still alive in Nepal hydropower plant, official says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDZPXzQxWXM4RUJQaEJBandibmgtV2xrc1RGSXBiUTZ0cmZwYTQxN21KNVlhVVY3V0hEZ0FpYTVWbnNta09ReTNwWGJaMnRrbTlDeU9xQlBTQlJUdXRjUWNWLWdxQkJHOVhpZ0hRZ1JOeDFUYzZWaXhucG9sd29UeDdWVjc0aVBSSWZhQ3VNMTVjOV9ycFVzRzJYTnpOTFJVb0hFYTR4XzBfdGJmeThNUV9zMGVjcHhRcEJMMmd6UmtkRjYtVmhj?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 13:59:13 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Uber to lay off 10% of staff in biggest cuts since COVID - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelprYTZqU1R2cFNKc2lqX0NZdGFxR0tyVjI0OGRUNFJHSHJJSkkzWmlfNGY0cXc2ZmpZaUc2X3RHZ3h5eEx1U2xZdkRBOHJQZnpRMVJYckhhUUVqZVd0Q3FWczl0dVNycmxiUGxuT3lqcWZVdkpLeW1jaG5rV0lNeTU0RzVYNVZKQTNRLWxXbE9CMkplR2xQaTlzZEJOaUU0MVMyanZZaUIwY0o3OHc?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 13:57:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nvidia CEO urges G20 to avoid AI rules on 'theoretical' harms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 13:51:43 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDJDS3ZmaHY1S0hTTlJiUUVPQ081YTU5bWV3NmJJLTRTNDdNQUhKNWdFTXd4TzVVRkRiRXd6SV9xZ1hmbHVxMFVGOUhXMkJLTkdaN0VWa3g3aEZ1aWZDbnlNTkRoUk5zY2ltOW9PNVk1SlFJVU1mNzZFSE9GTGpGbmhwdW1sMFNuTFhwcTVmSlFUNUIwM3lOV3ZpQ0NCX3B2TmMwbXZB?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 13:51:05 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Chevron expands Venezuela presence with $7 billion plan to double output in five years - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0xfNHNSeU9ZOWlXYzMtTzV0MzRrOGtvZkV3MVl3T0pBV2NfamZZVHhDSmh1a0w1X0RrLUluaEFfYUxuRE9DRTg1VmkyMVY0b0JoVkdHMkhuY1hsSk9rZU12X0xJZG5IdDFaWFNnNjlWXzRnaFNlSldHSW96YmFUdW5FQ0M3RlJRcUQ0OGgwa3AxNDYxaXJ6Ukg5eWY5YTBQRzk4NW5GRFY3MjY2eE9Xc2ZnUQ?oc=5",
           "pubDate": "Wed, 02 Sep 2026 13:45:03 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzFCdE02NmRoUGVHUmVoUTMtbzRyV1VkSkN4OTR6U2pudFdXdlFqbFVmMldMX2RPZWxOSklmY2JCV0IwSmdOU3ktNjVVNXRubXlTWV9HcUI1OWNTMklxUDFSUlpXV3NOdEk0YUhFRlFjMUx6X3lmTHo3S29UR2hLSkVpNE1TeEQxY3ZvOS1KTkJpU3ZmY21nT2hydFBDeEJIV00yakNZc0R5NzFVbXN3a3R0cXdiU0JveHc?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 13:44:03 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "BP appoints former Balfour Beatty CEO Ian Tyler as chair - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVQ0RzRyMTZ0dUpUTkxDU2dMOXpxV2MxNW9ZTzNyRHduOUtCQ1hNeFJWMU5lQ3UzQzNxYUx5TUVwQnZoaWdKUUZvZGZTQ2Q1Qkphb2Ntd1FqSVRPbElXa1B2ZnBYWTBIbV9Gd3FjMkdkLVFOTDNraGdveVFKeTlKbk9FdEIyT2ta?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 13:43:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nepal flood rescue hopes dim amid glimmer of finding tunnel survivors - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnNFSE15OEdqaFZ4TkZ5TFFyWjZVMldBWmpxYWFFSDdnRVdDejlGN1VZdF9YWDVWYzZ4UDNKLW5Od2Y0X0tZOWFTbHE5QklNTm45TXozWXpoRTRyQlVJVzlWT3Y1RzBlVS01S3lDRWFOT1Q5R1ltMXBhejRHemg1UEpJdUJyYmE1b0lMd3lCWHFjR21XOFFaai1zOGd2Z2h6VHRFZlBZdzhzeWRnUURfb3o5Q2dnTU5sTC1xOA?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 13:34:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil retreats from one-month high as traders weigh supply risks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTRkVWlBVVJQeFBDbXB5UzFkd05qc05KVXhja1h2cC1aMUZxOTRGQTY4a0ZHeWpiSzl0UE50MjRTTjFVREhMUGJhd29Ka21tTTlISE9yd3pSSHFESEtVOTBzb2c0dEVFakx5eEJLamxsMUJxZ0NOSTBpNll2a2Z5eVBncmR6S3MtSW1ITE9hN01KbUljNlcwNlB3aw?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 13:24:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "From street names to supply chains, Canadians pull away from US as rift grows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYl91c3ctMThSR18yUGRXLTlrdkpueHBUZHRHNTloRHdmWFlmZTZHLW5OeGVZWXZOTGhjQVdLeGZsYXhNd2J5Z2xIRjFLRlBzT3NCRFlqTFRxb0JkLWxaNzNOUmVuN0x4RWY5czV3a1hyNWdzX1MzR1lKb1g5QTIydVljbThpOWJOTE5mM2pTa18tZ1NINWZoVktVc21IZ3lVbFVNTUlwN00?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 13:23:58 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T14:25:14.231Z"
+      "updatedAt": "2026-09-02T14:50:20.005Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T14:25:14.423Z"
+      "updatedAt": "2026-09-02T14:50:20.325Z"
     }
   ]
 }
