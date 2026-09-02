@@ -2,7 +2,7 @@
 
 A modern, responsive dashboard providing a quick daily overview of world news, live sports, and tournament leaderboards:
 
-- **Top Headlines**: Grouped by source (BBC, NPR, AP News, Reuters, WSJ), collapsible independently so large feeds don't crowd out others. Includes an **"Ask AI"** button on headlines for instant deep-dive analysis in Gemini or ChatGPT.
+- **Top Headlines**: Grouped by source (BBC, NPR, AP News, Reuters), collapsible independently so large feeds don't crowd out others. Includes an **"Ask AI"** button on headlines for instant deep-dive analysis in Gemini or ChatGPT.
 - **Golf Leaderboards**: Live tournament leaderboards (PGA Tour, LPGA Tour, DP World Tour) with score, thru status, outright winner odds, interactive Top 5 / Top 10 odds popovers with DraftKings links, and "Ask AI" tournament story summaries.
 - **Yesterday's Sports Results**: Final scores for yesterday's games across all major leagues.
 - **Today's Scheduled Games**: Live & upcoming games with local start times and channel broadcasts.
@@ -28,7 +28,7 @@ Team and fighter names display official team logos/icons and link directly to of
 
 - **Frontend**: Lightweight, zero-framework JavaScript app (`app.js`, `style.css`, `index.html`) optimized for fast loading and mobile/desktop layout flexibility. Includes PWA / iOS home screen app icons (`icon.svg`, `apple-touch-icon.png`).
 - **Server**: Express Node server (`server.js`) serving static assets and dynamic API routes (`/api/headlines`, `/api/refresh-headlines`).
-- **Headlines Engine**: `scripts/fetch-headlines.js` fetches RSS feeds (direct RSS for BBC/NPR/WSJ and Google News RSS search for AP News/Reuters) and outputs `headlines.json`. The server dynamically verifies staleness (>15 mins) and refreshes on-demand or via scheduled background timer.
+- **Headlines Engine**: `scripts/fetch-headlines.js` fetches RSS feeds (direct RSS for BBC/NPR and Google News RSS search for AP News/Reuters) and outputs `headlines.json`. The server dynamically verifies staleness (>15 mins) and refreshes on-demand or via scheduled background timer.
 - **Scores & Schedules**: ESPN public scoreboard & leaderboard APIs fetched dynamically client-side with automatic fallback handling.
 - **Automation**: GitHub Actions workflows (`.github/workflows/update-headlines.yml` and `deploy.yml`) handle automated headline updates and GitHub Pages deployments.
 

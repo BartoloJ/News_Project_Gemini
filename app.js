@@ -242,7 +242,8 @@ async function loadHeadlines() {
   }
 
   container.innerHTML = '';
-  for (const source of data.sources || []) {
+  const filteredSources = (data.sources || []).filter((s) => s.name !== 'WSJ');
+  for (const source of filteredSources) {
     const el = document.createElement('details');
     el.className = 'source-group';
     if ((source.items || []).length > 0) el.open = true;
