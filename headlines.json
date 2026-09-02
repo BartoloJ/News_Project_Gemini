@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-02T16:00:23.380Z",
-  "lastChecked": "2026-09-02T16:00:23.380Z",
-  "lastUpdated": "2026-09-02T16:00:23.380Z",
-  "generatedAt": "2026-09-02T16:00:23.380Z",
+  "fetchedAt": "2026-09-02T16:25:14.176Z",
+  "lastChecked": "2026-09-02T16:25:14.176Z",
+  "lastUpdated": "2026-09-02T16:25:14.176Z",
+  "generatedAt": "2026-09-02T16:25:14.176Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+          "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 02 Sep 2026 16:12:43 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
           "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
@@ -26,6 +32,12 @@
           "source": "BBC News"
         },
         {
+          "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
+          "link": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 02 Sep 2026 15:16:42 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Tiger Woods gets five-year driving ban after reckless driving plea",
           "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 02 Sep 2026 14:40:20 GMT",
@@ -38,30 +50,24 @@
           "source": "BBC News"
         },
         {
-          "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-          "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 02 Sep 2026 13:16:26 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Could the man who murdered a Christian missionary and his sons walk free in India?",
           "link": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 02 Sep 2026 12:09:11 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Bus crash on Egypt's Red Sea coast kills 22",
-          "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 02 Sep 2026 12:07:32 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T16:00:21.915Z"
+      "updatedAt": "2026-09-02T16:25:12.653Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Understanding the tech giants' oversized influence in American schools",
+          "link": "https://www.npr.org/2026/09/02/nx-s1-5953878/understanding-the-tech-giants-oversized-influence-in-american-schools",
+          "pubDate": "Wed, 02 Sep 2026 12:08:31 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
           "link": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
@@ -103,36 +109,42 @@
           "link": "https://www.npr.org/2026/09/02/g-s1-141512/india-genz-protests",
           "pubDate": "Wed, 02 Sep 2026 07:11:04 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "ICE says it now has enough body cameras. And, Congress averts shutdown before midterms",
-          "link": "https://www.npr.org/2026/09/02/g-s1-141513/up-first-newsletter-iran-war-ice-body-cameras-massachusetts-ed-markey-government-shutdown",
-          "pubDate": "Wed, 02 Sep 2026 07:08:04 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T16:00:22.033Z"
+      "updatedAt": "2026-09-02T16:25:13.033Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "EU struggles to find an effective response after Germany blames Russia for a failed drone attack - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGRNWFdXclZxNGQxMGdIWFF3Q2E3UHdFM0lyU29mdnVqVGdKWFN1ZVZxVXFHNEl5dlRtbkxsa2FocHAwMFc4ME1MZndYUm9QSUVWelM4X2hLdWlRRUc2N18wd0FnelNDejNjSnl1bmZraVlDWXFvUWpHMThvZjc3ZU1KeFJVWlY3cTVFaWZ2RFJlN2UzMllBX1BVOEZBZHhqOTducWt3ZXo?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 15:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 15:15:00 GMT",
+          "title": "Tiger Woods pleads no contest to reckless driving charge over rollover crash in Florida - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmVlMUxPcy1WZnNsam52M1N3aHE1V0NNbmJScW54c3FIYXNvd2d0WVktUFFHTm9yVFhLUkRmRVdaMV9SNjZaTk1ydmRBTHZmaWxYTEZXc3JYb3NxeHkyckVCS1lqRG0tM3BWcmlyQ09rY2syQlZIRUNiekdSNm9yMDhGdTUwY20yWDZlS1NjbzZGbEhGcUdkNw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 16:14:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Stocks rise on Wall Street as oil prices, bond yields hold relatively steady - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 15:09:00 GMT",
+          "pubDate": "Wed, 02 Sep 2026 16:13:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 16:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russian strikes kill 2 Ukrainian civilians as Moscow and Kyiv threaten to raise the stakes - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzNQdXdOREo0QmNLQW9YeFJNYllJTXlTVXhRa3NZR3NrcHZNYTdLS2w5UVNZZVVCQnZTNnZmTnhEYUxDc2tRWkJKeU44eEVEa2JFOVdSVjhZNmFZQ3lXX00xZlNIWG0wRnVjM3hDS2ozUWFrczhUQmFjbndBVkdDMVUwak1zZHRzNHNvUjJHQkk5Zkd2YVNYd1ZsN1N1TXM1bDUxeldwMngxQzI5?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 15:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "EU struggles to find an effective response after Germany blames Russia for a failed drone attack - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGRNWFdXclZxNGQxMGdIWFF3Q2E3UHdFM0lyU29mdnVqVGdKWFN1ZVZxVXFHNEl5dlRtbkxsa2FocHAwMFc4ME1MZndYUm9QSUVWelM4X2hLdWlRRUc2N18wd0FnelNDejNjSnl1bmZraVlDWXFvUWpHMThvZjc3ZU1KeFJVWlY3cTVFaWZ2RFJlN2UzMllBX1BVOEZBZHhqOTducWt3ZXo?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 15:30:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,87 +154,75 @@
           "source": "AP News"
         },
         {
+          "title": "Dutch central bank shifts billions in gold to London in ‘crisis preparedness’ move - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVlY5Z2ZjMl9EeUlFeHBPSy0zWVZoTHlVTHBXVTZTRjRoalp4U0tzRUo5RUpyNG9CemRuX256NE5odjBxeWtKVWExTGQ5RllYNW9hNkIycGx1ZHY3bkRrd1J6SUZjTk96bGtJVnZnOXN0dno5REhDVjlIQVBVSzJ1NVdNVnJrNkN1dXVfWnBn?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 14:43:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Congo’s Ebola outbreak shows no signs of slowing as deaths top 3,000 - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRlh1SmNWYWRRMVhwNms0SXo0YlJkVTRobFM4WWl2c0h4QWhEYmo5a2YtUExuOE1JYm9rNVI2dnlZT25rdDFHR0VKUEd3TUlVendUYmZHQXdBb0ZrbWxtM1hTSTg2SlpyOTlYWUR4OWpsU3hYYXdGQ0w5Nm1GMW94YjRQeUxrcnYxX3U2LURqQ1BDRXdhZFBuT2paWQ?oc=5",
           "pubDate": "Wed, 02 Sep 2026 14:22:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Symbolic funerals held in Nepal for those feared lost as some missing tourists make contact - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVdRVkJTSmh6dDVnNk1rXzdHaDNSUGE1SU5xVUJkd2JPcjZubGh3Z1JsbHUwSGhPc01mSDhhVGhqbDdlZFFrRkh3VDVKS1hheHJrMW5uRmZCcUZ1eU5hVnlWZWpJUzVBZVRkTzYxRUM3bU5NdEVqWVhpMUtDdU1IX2dJZUdpN3JNLUotVg?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 14:03:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 13:35:15 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Tiger Woods pleads no contest to reckless driving charge over rollover crash in Florida - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmVlMUxPcy1WZnNsam52M1N3aHE1V0NNbmJScW54c3FIYXNvd2d0WVktUFFHTm9yVFhLUkRmRVdaMV9SNjZaTk1ydmRBTHZmaWxYTEZXc3JYb3NxeHkyckVCS1lqRG0tM3BWcmlyQ09rY2syQlZIRUNiekdSNm9yMDhGdTUwY20yWDZlS1NjbzZGbEhGcUdkNw?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 13:19:42 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T16:00:22.512Z"
+      "updatedAt": "2026-09-02T16:25:13.472Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Google defeats US bid to force ad tech sale - reuters.com",
+          "title": "Rising Treasury yields could rattle US stocks as earnings season ends - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0JPMlNBNHNJUVR2WWhfd0xOR3ZnWHAzampvY0tJRGFrN1NteWRFR28tekVYR0F1VW5GQ3I4M0FsR0dFalZzYUdERVlOSHJqOWRNNUFCVnFsaURzb0ZwWFZEZ3VHRTQ5czJaYkk2Ym9sOGROUEMxUHJzMzdFMnctMGZDbGRpUHdiOE1DSFI2VHhDNHdwWHlXTW13cG9FSUhOb0lrbEx5bXRaVzAyeVNsaGRYTWJYRnNqWjh1ZjFCcw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 15:55:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Too weak, too strict: India's food warning labels draw fire from all sides - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjRnWDZHRUN1YmY3ZFhyTVJRcmhCOVJIXzkxVHV0RnpRM0VKUFMxUU83WC1wUm1uX3g3NHN3YjBaT0JjcUpUcGE4Wi1ST1gtdDMzby0wMXhSeEJzaXdTSDhVdk1YRWtUMHJjcXFJOHhpcUc3TnM4bW9vSTl4dEZtWWlscFNsS2Y2anNYSVhuSWNkbjZhZUtmd1BnZTZsNGRydmVSd2pwSkRZVE1rTDdpQ0dmeTFaZFpCTUxv?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 15:53:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDJDS3ZmaHY1S0hTTlJiUUVPQ081YTU5bWV3NmJJLTRTNDdNQUhKNWdFTXd4TzVVRkRiRXd6SV9xZ1hmbHVxMFVGOUhXMkJLTkdaN0VWa3g3aEZ1aWZDbnlNTkRoUk5zY2ltOW9PNVk1SlFJVU1mNzZFSE9GTGpGbmhwdW1sMFNuTFhwcTVmSlFUNUIwM3lOV3ZpQ0NCX3B2TmMwbXZB?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 15:52:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China's Xi urges new Middle East security framework during Egypt visit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZS1HRXhpY18xZjJMeV8tOU5UcFVxOFkzSVRKT3ZSR1Myak1oRHZZN081aVY2MldCemZNa1c0U1hKaUtyOHRJaUVjb0U0S2xCWC14cGIyN2QxQzVzVFhfZl85dkhRdFZtMjBCeGVpV2lQQ0g5alBZVnFiUGg5MDkzdDF3eGozTkg4Sm9kc2FIcHZNbXA3TVZoLW4zZ001ejY1UWFaOVdB?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 15:50:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US urges G20 countries to allow AI training on creators' work - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 15:38:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzFCdE02NmRoUGVHUmVoUTMtbzRyV1VkSkN4OTR6U2pudFdXdlFqbFVmMldMX2RPZWxOSklmY2JCV0IwSmdOU3ktNjVVNXRubXlTWV9HcUI1OWNTMklxUDFSUlpXV3NOdEk0YUhFRlFjMUx6X3lmTHo3S29UR2hLSkVpNE1TeEQxY3ZvOS1KTkJpU3ZmY21nT2hydFBDeEJIV00yakNZc0R5NzFVbXN3a3R0cXdiU0JveHc?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 15:17:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Google defeats US bid to force ad tech sale - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYzZjU0NTeE1iWXZnaFIwQ3owdlFBWTM4NnZNZ25ncjI0VngydVFCc2ZLOS1PalpFLTNBdjNkTkpyNDNIYTFXd1JQMURDbnFadXB1T2s4eFNENXpxQk9BcVFWdUNvRTBwVFh4NEwzaGd4S3NmbDJYZVVyeGlseTVXWktpa2tDWmpTZllyYmVOQ2FIaVEzSVlacA?oc=5",
           "pubDate": "Wed, 02 Sep 2026 15:15:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Uber to lay off 10% of staff in biggest cuts since COVID - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelprYTZqU1R2cFNKc2lqX0NZdGFxR0tyVjI0OGRUNFJHSHJJSkkzWmlfNGY0cXc2ZmpZaUc2X3RHZ3h5eEx1U2xZdkRBOHJQZnpRMVJYckhhUUVqZVd0Q3FWczl0dVNycmxiUGxuT3lqcWZVdkpLeW1jaG5rV0lNeTU0RzVYNVZKQTNRLWxXbE9CMkplR2xQaTlzZEJOaUU0MVMyanZZaUIwY0o3OHc?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 14:48:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India draws $136.38 billion in forex inflows, bolstering support for rupee - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb05GRzZpQ2VFMXEyVTVCdzFLd2NtYVBqYUNldVo3WXhybzRZTXctUFEwSkxzWF9TcmE1d3hmM2JNMnkycndvLXJreW1XZkE1elp4QU5Sc25tbERmMVhaMktXUlNWQkQzMkF1VVl0YmFtQUo4c2hqZGhFX21HdFlmR3NsMVJwanZSaG12M3MxaUVvLUxyOGlzbE8tWjRQM0VVYjliWFR0ams?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 14:46:21 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chevron expands Venezuela presence with $7 billion plan to double output in five years - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0xfNHNSeU9ZOWlXYzMtTzV0MzRrOGtvZkV3MVl3T0pBV2NfamZZVHhDSmh1a0w1X0RrLUluaEFfYUxuRE9DRTg1VmkyMVY0b0JoVkdHMkhuY1hsSk9rZU12X0xJZG5IdDFaWFNnNjlWXzRnaFNlSldHSW96YmFUdW5FQ0M3RlJRcUQ0OGgwa3AxNDYxaXJ6Ukg5eWY5YTBQRzk4NW5GRFY3MjY2eE9Xc2ZnUQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 14:40:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Gold rebounds over 1% as US dollar, yields pull back from highs - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHRQNlR5eU9VUm53X3dNNDg4MktpOFdWaGhGakVQXzBHb3NlLXdUVWpDSUFwem4tbS1vdHdRbFQtLWtpZEVHRm5sbGJlbmszMXJvU1FGMVNsRnktZUNEZ3pZV1Vka3hPSVBfUk1TM3VJdTFuc2JuZXpPMUFFeThKVU9TLXRkRXdmNEdnYVhyU1dzWUdfbTZwdVQyV0VIY3p2RGZPckt1M2pPQmJWcEpz?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 14:39:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "S&P 500, Dow rise as AI boost counters US-Iran tensions - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUmZ3SUhHbXJYY2d1bWZHdjZ4MHIzLWdpTzFRWGdWU0pfZDhpV3ZoWVJnY194WF9PR0UxQjRES2NjOHBIbkpTcW9iY1l0Y05uYS1kd1Fha2lnYXNVS1VyZ0xlWGVPaF9Qamh6R2lLZDF5bDBLUFdaTU1RNmtoMVhhcEFCdWJvZWlxNUpYc2FuSG0zb2hFRW1IUW9OZWVOUFNwbWF3V1ZWS2xoaFQ5ZV9CdFpGVEo?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 14:32:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Good chance that trapped workers are still alive in Nepal hydropower plant, official says - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDZPXzQxWXM4RUJQaEJBandibmgtV2xrc1RGSXBiUTZ0cmZwYTQxN21KNVlhVVY3V0hEZ0FpYTVWbnNta09ReTNwWGJaMnRrbTlDeU9xQlBTQlJUdXRjUWNWLWdxQkJHOVhpZ0hRZ1JOeDFUYzZWaXhucG9sd29UeDdWVjc0aVBSSWZhQ3VNMTVjOV9ycFVzRzJYTnpOTFJVb0hFYTR4XzBfdGJmeThNUV9zMGVjcHhRcEJMMmd6UmtkRjYtVmhj?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 13:59:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukraine is finalising drone deal with Germany, Zelenskiy says - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYS1fVlA2Rk9hbUp2ZVZacktYanVnUjFYRGdQOUUwMFIxT3V5VWVhaG10RU9naTVJQW1ia3N4czhvU2FWY25IWndmR19DX2VGb0lpUTdlc2xPV2twNVh3STQyRHF6SC1ac29oWHlGZHQ3R1BBSnZCOWlna29SY0w2OEt3aFRSS3dCYlJLbndmQy1mSlhRSkFFZkFIUEpjU04xb2E3a3R3VURRcF9KRlVjZ1hGZG1YbXFSWTEtLUk3bVI?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 13:53:43 GMT",
+          "title": "China restores access to Tibet disaster zone as highway reopens - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2hxTG5JYmVZR2d0c3pTUEpldXI4MTExcjRZQUQwSUdQSmpzcWpEbG9wVDRZWmRBVGJraWF2Tzl5UkZNcWxJNUFxWmk5M2xVWk90NXlabkFMRGNEdEt5bHVqdDdMNVRHOGNIY01kUkIxbEpnTVAza2Z5Vmhhbk1KcnE1ZkdFbXUtSGJ2NFd4Y0ZYNVpDREJZQ0RoVERGVEhQSE8wck5lMjFKdFJ5ZFVpMFJtQQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 14:53:50 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T16:00:22.982Z"
+      "updatedAt": "2026-09-02T16:25:13.873Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T16:00:23.380Z"
+      "updatedAt": "2026-09-02T16:25:14.176Z"
     }
   ]
 }
