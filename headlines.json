@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-02T18:25:17.643Z",
-  "lastChecked": "2026-09-02T18:25:17.643Z",
-  "lastUpdated": "2026-09-02T18:25:17.643Z",
-  "generatedAt": "2026-09-02T18:25:17.643Z",
+  "fetchedAt": "2026-09-02T18:50:17.189Z",
+  "lastChecked": "2026-09-02T18:50:17.189Z",
+  "lastUpdated": "2026-09-02T18:50:17.189Z",
+  "generatedAt": "2026-09-02T18:50:17.189Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T18:25:16.784Z"
+      "updatedAt": "2026-09-02T18:50:16.109Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T18:25:16.823Z"
+      "updatedAt": "2026-09-02T18:50:16.143Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Jury in Lindsay Clancy trial tells judge for a second time that it can’t agree on a verdict - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDR2aHlEa1YxemttTW9SQzE4cmFFMDlJS3lVNWw0dFU0R0IyTmNJcHRjTE9HM2F2V1RrY19qamNtSUQxekNXc3BqWjZZanpHbTQ1S0hZbmdFTFhLUmNfd1hWRGpCTU10R1BEWXpOTmVsN2FOaTh4bE5fak53R25XUV9Jc3R4dURYWDduWHhybk9nQ1lDLTdYTQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 18:47:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
           "pubDate": "Wed, 02 Sep 2026 17:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Jury in Malta acquits businessman accused of masterminding slaying of journalist - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlVmQUxKbFNXVXhYNWQwOEJkbVFZSnEtSk5RMkZfbUZacmd2UmNiSXpJdURkVlhOeDdHSER5R2tEYUIyYmxhck1xZ3dNeXROR1V1c0xSY2E1QmxuU3R3SDlSbTBnQk1BT21tWGduY2phVGxfMEswUDhQMEFWYzNTV29LVmZfSVlJdHdTX21PRy0yR1FqTmgtM25GTE56b0otM2YzclhVY0l0dGVRR0N5VlRaZw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 17:45:00 GMT",
           "source": "AP News"
         },
         {
@@ -136,9 +148,9 @@
           "source": "AP News"
         },
         {
-          "title": "Judge questions Lindsay Clancy jury after a woman is accused of filming them - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDR2aHlEa1YxemttTW9SQzE4cmFFMDlJS3lVNWw0dFU0R0IyTmNJcHRjTE9HM2F2V1RrY19qamNtSUQxekNXc3BqWjZZanpHbTQ1S0hZbmdFTFhLUmNfd1hWRGpCTU10R1BEWXpOTmVsN2FOaTh4bE5fak53R25XUV9Jc3R4dURYWDduWHhybk9nQ1lDLTdYTQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 17:09:00 GMT",
+          "title": "Scams in the US are at a record high. Yet most victims get no help and some end up losing even more - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQWZhZnRnTXhpbkxWLTVmOVZTbTVRVkJpaldTUE4ydWQtZTBwM0pFQzhLbGZJQnR1dF85QzY1YVl6bWg0anNwVzN3TmRVUDFvMUYzR2QtWllXNUVwM0M2UERaSDh5YjhNRzBINWYtbXZFMEpEVEdESVdmQS1wOEdKb0ZwZDQxYmJHTUsyb1pwdWx2M2pDQ1Z4bEYzQ05VZm52bm5rM2llSXVkei1ES2daSzV3?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 16:57:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS19jZzNyanZTMzZtcmtULXFoZ3o1S3YzTzNMcnRXVUt5Vlh1UUJ0LW5td1lQRkZTQlFld1VCbU5VS0FSTXdDV3JucGdUdnRFaWJneEVKLV9yMUZydmNOS3hDVFBjbHQ4VTM3TFhiNF84NVFOQTVJX1FKNGdMMFpGVFFqRzRvbjM2YnFvYmk5bjZ3RTc1RnlFNG4zaw?oc=5",
           "pubDate": "Wed, 02 Sep 2026 16:30:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 16:29:27 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Tiger Woods pleads no contest to reckless driving charge over rollover crash in Florida - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmVlMUxPcy1WZnNsam52M1N3aHE1V0NNbmJScW54c3FIYXNvd2d0WVktUFFHTm9yVFhLUkRmRVdaMV9SNjZaTk1ydmRBTHZmaWxYTEZXc3JYb3NxeHkyckVCS1lqRG0tM3BWcmlyQ09rY2syQlZIRUNiekdSNm9yMDhGdTUwY20yWDZlS1NjbzZGbEhGcUdkNw?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 16:14:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T18:25:17.263Z"
+      "updatedAt": "2026-09-02T18:50:16.696Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzFCdE02NmRoUGVHUmVoUTMtbzRyV1VkSkN4OTR6U2pudFdXdlFqbFVmMldMX2RPZWxOSklmY2JCV0IwSmdOU3ktNjVVNXRubXlTWV9HcUI1OWNTMklxUDFSUlpXV3NOdEk0YUhFRlFjMUx6X3lmTHo3S29UR2hLSkVpNE1TeEQxY3ZvOS1KTkJpU3ZmY21nT2hydFBDeEJIV00yakNZc0R5NzFVbXN3a3R0cXdiU0JveHc?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 18:01:52 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Wall St set to snap three-day streak of losses despite Middle East clashes - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUmZ3SUhHbXJYY2d1bWZHdjZ4MHIzLWdpTzFRWGdWU0pfZDhpV3ZoWVJnY194WF9PR0UxQjRES2NjOHBIbkpTcW9iY1l0Y05uYS1kd1Fha2lnYXNVS1VyZ0xlWGVPaF9Qamh6R2lLZDF5bDBLUFdaTU1RNmtoMVhhcEFCdWJvZWlxNUpYc2FuSG0zb2hFRW1IUW9OZWVOUFNwbWF3V1ZWS2xoaFQ5ZV9CdFpGVEo?oc=5",
@@ -182,6 +188,12 @@
           "title": "US government backs OpenAI in New York Times copyright case - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODVsb2JiWUlRc3pRYm51czFaekswTjZmUXNCc3N6R0FhVllZNTJ3OXp6dHBiamNYazFmdHNpTUswSUZ3U3AwbENheHhKbjJmN2hwaS0zZUlMcEp5cm9LWDlLUkZUZlBLc21NZk5IMkNtQ3JzVFdUcGhVaWJCemgxZGtRdkFpR0lpbzA4WUhEX0FqQjZVaklRdUVuU2o3SkxWVEpFRkZyNUt0cThiTVE?oc=5",
           "pubDate": "Wed, 02 Sep 2026 17:16:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Chevron, ENI ink pacts for large oil project expansions in Venezuela - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUpHN1lnRWV3ZmJ3dUhndFkwZXpBT2JlT0Z4S0gxU2VCT0pObVVjYVdQYmhjeGVDOVNCaG5qejRNUTE3ZTVnaTdsTEhETFFFZlpwVEpqR29DZTZNUUl4LUVlOWlaeWtCcDlzYUNRUVd0ZmtBX0RBWThudTJHSHJucVFLQXBiN0tPUy1yOVJRWmFiM0x5TVBzbHQ2SzFNRDN1STJqWXY1RUpQeEJRN3UzTnhnaE5HXzBaM190SzNxQmViNnplYUtiYWtB?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 17:16:10 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYzZjU0NTeE1iWXZnaFIwQ3owdlFBWTM4NnZNZ25ncjI0VngydVFCc2ZLOS1PalpFLTNBdjNkTkpyNDNIYTFXd1JQMURDbnFadXB1T2s4eFNENXpxQk9BcVFWdUNvRTBwVFh4NEwzaGd4S3NmbDJYZVVyeGlseTVXWktpa2tDWmpTZllyYmVOQ2FIaVEzSVlacA?oc=5",
           "pubDate": "Wed, 02 Sep 2026 16:54:51 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Bank of Canada holds key rate, says multiple hikes might be needed - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdHFOOThCcFh0NUJwMnBRVmpuWi1wQ3pXU1c5ejZ6ci1MT3VJOEpsaEgyRURodEVsd2FKaGRQTjhWdUtLai1IZHQwaDQ5Z2JGbTg1b1pra2REcHNWdjg3U3I4TndveUMxemI2VVBiS1BfZ0FCakh2LTR3aHJzSXNrS0NaUlk0WTBDd1g3Q1NxTU04M015SE5feklvWVc0N3R2d3lOSEMyNnRyVDZNSVhkelJCTlNDLTA5?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 16:43:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Tiger Woods loses driver's license for five years in plea deal, avoids jail time - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGNmRFhnV2FVbHpNSS1CWFVDaEl5djVacnFZOW1yb2tVeTMwcGxaMm95S1JPd21mMHlCUEtTUkFkX2tCV2FGN0dJNkxNVWlXRURyOU1UcnRYcW5hYXczSkM4WElGX3JUZ0NHME5oV18wODFoX00zanJLRl8wSDhzWnJKc3lXS1RLVkZhV3lKZ0lnUy01QVhzVlVB?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 16:35:40 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T18:25:17.643Z"
+      "updatedAt": "2026-09-02T18:50:17.189Z"
     }
   ]
 }
