@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-02T10:00:22.148Z",
-  "lastChecked": "2026-09-02T10:00:22.148Z",
-  "lastUpdated": "2026-09-02T10:00:22.148Z",
-  "generatedAt": "2026-09-02T10:00:22.148Z",
+  "fetchedAt": "2026-09-02T10:25:16.093Z",
+  "lastChecked": "2026-09-02T10:25:16.093Z",
+  "lastUpdated": "2026-09-02T10:25:16.093Z",
+  "generatedAt": "2026-09-02T10:25:16.093Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+          "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 02 Sep 2026 10:00:08 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Bus crash on Egypt's Red Sea coast kills 16",
           "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
@@ -44,12 +50,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-          "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 02 Sep 2026 04:23:23 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Germany says Russia behind Leipzig airport drone attack",
           "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 02 Sep 2026 01:59:54 GMT",
@@ -57,20 +57,20 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T10:00:20.839Z"
+      "updatedAt": "2026-09-02T10:25:14.803Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
-          "link": "https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump",
+          "title": "Israel bars U.S. citizens over criticism and ties to Palestinian activists, lawyers say",
+          "link": "https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties",
           "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Israel bars U.S. citizens over criticism and ties to Palestinian activists, lawyers say",
-          "link": "https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties",
+          "title": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
+          "link": "https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump",
           "pubDate": "Wed, 02 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T10:00:21.010Z"
+      "updatedAt": "2026-09-02T10:25:14.969Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Explosion near German train station injures 2 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1BVU0ZJWFptN1pDcnRzOHpOdEhhY21QeGVwQ1YzNmtQbmxqaXQxQjFXSGRzcDN6Zmx4dHhZdzdEc21reEExZHVqSWdhem1qaTdDUGlZTTNXNDBOaGxvVTVRcXp3TnA2NTFnZ1NUVnlhWEp4M3A0bWNVV0NqcWxYNTVZWkl3RjYycFFUTjJtOTFGS2NsT2x2WGNqaGt1YWR4WlBrb1lfVEJWb1dK?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 09:54:44 GMT",
+          "source": "AP News"
+        },
         {
           "title": "The USS Abraham Lincoln docks near Thai beach city of Pattaya after its Middle East deployment - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORUJNV2ppcE5ETW9HNWR6bUhBd0NqekJEY05jRi04WExCX1JNNndaU00zakp3YVpDZ2xkR2VmZ25ULWhHQ0E3XzluX0dVUnJ3bWZzUHNrb1ZBZFhjLXBhUHN1RXpEbzNUVEQzRVNTWXJ6OE13UXBYcnI5QnVzbkNIS0tZMHZDMnlIQ0phbV9aRTdUbDgzVUhMSl9tejU?oc=5",
@@ -148,34 +154,40 @@
           "source": "AP News"
         },
         {
+          "title": "America’s story intertwined with its military history, but a military-civilian disconnect persists - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWpQQzNrTUlDbm90WW9LcVEtZDNxNl9aWUNidXphU0hOdFhPR2R3N1FCX3ZoY2h4QThOSVFhc2VNQm9Qdl94b0pTbFlVVkxRdTdJd0RCX3ZFbFBadUl0bWtaQmY1QnM3c1hQc3A4VE5RVjI4RTNRc3hpZEUxQ0RzWWRBZUtibVJSbURBY1BsLUo4Umo0bGNudjFR?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 07:21:45 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Sen. Ed Markey, 80, wins Mass. Democratic primary over opponent who called for generational change - AP News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0dvaXJpTTBMYnMwa3BWRXNBLXJvWDhaSjhLMzMybld2OEdWVUljN3c1dDVOS2hfbndTcG9ZbmVlbHFHWXJBTFJnZE5YNW91Yy1XVGdadXlyQ29CbWRQT0J2bGxBWWZjblg2eGFXdXoxY255UDZtcUU5NS1sTWtCSVAxU2ptRkl4bjdnM2Z0aG9ZblNicEZoY01QZDgzMW9BdmJkdGVCbDYtdFgwY19iMFhn?oc=5",
           "pubDate": "Wed, 02 Sep 2026 07:03:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Air raid alert shatters first day of school in Kyiv after overnight Russian missile strikes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNllkS0ExVWdrT0J2Nk1JeDVoMU01OS1fNGZKRjlGbkdEd3YwRm9zOEt2akkxTWtaWGNta2N2SHhRdEluZ21xQjdtTEpBWUdtZW9mcjBtbWhORm5MUS1Ock1PODFaQ3lrVHZ3RzVCYm5LUDhfS1BCS2ZPenhyUDZ1Z2NXQTdpWkN2ZFVDeEdENmZmUk1kZ2ZFV0pUby11YUR6Nk1NNjZ0RQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 06:51:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Explosion near German train station injures several people and draws police response - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1BVU0ZJWFptN1pDcnRzOHpOdEhhY21QeGVwQ1YzNmtQbmxqaXQxQjFXSGRzcDN6Zmx4dHhZdzdEc21reEExZHVqSWdhem1qaTdDUGlZTTNXNDBOaGxvVTVRcXp3TnA2NTFnZ1NUVnlhWEp4M3A0bWNVV0NqcWxYNTVZWkl3RjYycFFUTjJtOTFGS2NsT2x2WGNqaGt1YWR4WlBrb1lfVEJWb1dK?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 06:22:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T10:00:21.468Z"
+      "updatedAt": "2026-09-02T10:25:15.371Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Stocks fall, bond rout deepens as US and Iran trade attacks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 09:13:43 GMT",
+          "title": "Denmark sends conscripts to Greenland as Arctic tensions grow - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQemVBSlRpczJQNXZRb2VyR1cyLUxYTG90bWhoNUhjVGxIXzVXUjNnWkk2elhYZ1AwTDJBTU50T1YwZjN3MWdrYVJNQk1PYkNldmdXelgwWkdBLXhfcURpTFQ3clcwUW1YM2YwcDlDZjBTNFhtdUpYNllTdW1reWxMZUZBM1lJUTM1ZEpKaXJBWmtubmFlekswcW9FeXdwQQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 09:27:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Too weak, too strict: India's food warning labels draw fire from all sides - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjRnWDZHRUN1YmY3ZFhyTVJRcmhCOVJIXzkxVHV0RnpRM0VKUFMxUU83WC1wUm1uX3g3NHN3YjBaT0JjcUpUcGE4Wi1ST1gtdDMzby0wMXhSeEJzaXdTSDhVdk1YRWtUMHJjcXFJOHhpcUc3TnM4bW9vSTl4dEZtWWlscFNsS2Y2anNYSVhuSWNkbjZhZUtmd1BnZTZsNGRydmVSd2pwSkRZVE1rTDdpQ0dmeTFaZFpCTUxv?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 08:45:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oil prices steady as traders weigh supply risks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTRkVWlBVVJQeFBDbXB5UzFkd05qc05KVXhja1h2cC1aMUZxOTRGQTY4a0ZHeWpiSzl0UE50MjRTTjFVREhMUGJhd29Ka21tTTlISE9yd3pSSHFESEtVOTBzb2c0dEVFakx5eEJLamxsMUJxZ0NOSTBpNll2a2Z5eVBncmR6S3MtSW1ITE9hN01KbUljNlcwNlB3aw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 08:29:48 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +197,32 @@
           "source": "Reuters"
         },
         {
+          "title": "How Japan's bond rout is turning the tide of global capital - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeXo3bnhiY3VkSFJ2TDZLUVBrS1lYakxJQ1FXel9HS3hJQmFmN3d4c1ljaHlBd3RvelZyekRzV2w2UU9SWDJVYnpydXQ1cHplOXFWQmd4R2lwUEZSMDV4SHR2V25FUHBWWUpaSTM2SkpsdGNHRC1VSUZOeURDY1dQeERiUVJIQlZqTl9idjlBUGU5QklHOXlsRlp3MklYaHNKYzV5MUlpbmJwZw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 08:18:08 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Bond selloff deepens as inflation risks, oil prices jolt markets - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5",
           "pubDate": "Wed, 02 Sep 2026 08:07:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "After 286 days at sea, US aircraft carrier arrives in Thailand - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMkhRUy16MlQ0NVBUYU4tZFlXU2U0dlVFQ1dlLTZyVnowTGprbFdzMmlMWWtKdWdwdmxlRXptSXZQMFNUQzE0VzNBRkpDZ2xFVUNVRTRxLWZhVGhuOHRYV1VMRTRPbVEybW5aMlFITDBkUVllS2V5a3RxbnpGUUFXQkRFdFJzbWZIUUxpZzBlbUlHbXQtbGl1NFBjNVRGUzNpd2ZGQkVlQl9Pbk44YUtIRV9ZNHBJUQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 07:49:03 GMT",
+          "title": "Congo's Ebola outbreak kills more than 3,000, government figures show - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQjBScm9EenpjV0JUMFAxc25jcmd4dDJXeDVVanZjWlZYLUZCSnQ0bnY1RGIwemMzck5JQ292WWZPTkZNNlVhQ2ZzTGtmenRyTmxFaXcyM3NWRUo1UEVWbzJXc3BQQ0t3eWRuY1NnZlVIRjhfWHFoZWRjcGgwUEJpSXpsWXNGeWFlVVN2dGhSV0tQLXpLR1gycEprcUU5U1RnLU1aNVZ5RnhMUVc2VG03NTJLV1VSczZVam93YXZ2bUtNU2JaTnlGRW1GdTZtUjRaTHg4ZA?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 08:02:05 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Car hits pro-government gathering in Iran, killing four - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWtDREdVczNZUUFoWGNtLURtUHE5bEdvbTJWWUpubFRfa1g4NWJMNFV6Z2Z6YXl4eFc2Q1FYeW5lN2R5MXhQNzJ5cENDS3BHLVNKRGxSNThtVWk5dlFadHBXSWppeXJpb25ZUG5TdGFIQzF1UUJyNFhJd1V2empxRDhZR1psNzQ4MFQ4NDJoWEk0cnVaMmtfNmhzN3NOcGZpelRLSXM4R2g?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 07:42:42 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Denmark sends conscripts to Greenland as Arctic tensions grow - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQemVBSlRpczJQNXZRb2VyR1cyLUxYTG90bWhoNUhjVGxIXzVXUjNnWkk2elhYZ1AwTDJBTU50T1YwZjN3MWdrYVJNQk1PYkNldmdXelgwWkdBLXhfcURpTFQ3clcwUW1YM2YwcDlDZjBTNFhtdUpYNllTdW1reWxMZUZBM1lJUTM1ZEpKaXJBWmtubmFlekswcW9FeXdwQQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 07:37:47 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Germany successfully tests Israeli ballistic missile, officials say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUVvdnk5N1lGczdtV1ZFYW5hR2JIOHVTSEhTX0pqXzZwb09PTy1HTk5TRjRNVE9HNHA5c3ZtUC1ZVE00U0JRbDFWZVh4SDFvQ3Y3ak4xSDhuSUJHaWlLdUh2MzBKdnFtTHlKRTZiWUNmdy1fNzVzRERZSkNjSHdFdGpSYVpoTnJmSG8tcUNPYlU5OHFRb3dxdlVrUTZfRjhEc1liSzlVbFFvcVQ2YVhnTGpyWkNiNFhObXFGV0RaTGVSWTI2bjBrVQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 07:32:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Qatari, UAE LNG cargoes transferred via ship-to-ship outside Strait of Hormuz - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeTJNc29sNUR2YW04azAyMUFLZG45NlFSQThLR2JsSW5CeXRJWmxyTlBXSFpjSVZLaDgxU3VNSjNQS0ViLTNZTjJyeVM1UjNnSHo1NDdGdjI0WjJkNC1xeUR0WW84TnU1VHdka2c1QVdXcVFoMTlodVpuZWZfRXBSdVVUSmVuR2lxNTgtb3E1aUJ3Sm42VFhoQ3dTdlU0ZHlvNEhSdVhfUGdvNC1LdjlEaHFhRi1PNFBKYTNHVERINDVGRjA?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 06:22:02 GMT",
+          "title": "Indonesian officials suspect food poisoning from free school meal after more than 500 fall ill - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUE9mQTl3alVUNlhtMWxuMlgxZ09sZFNJU3h1bVlKYTN1SjJLZllVcXJJbUZOZVh3YVRDckdacUN1WU5XQ3JVT1dBQnE1SmZzTkxVdFVKemZ1MG9tNm1aZGlWOXZEZC1zRnZpdW81MGItRWJrOUhIbEprT19sZ2JobnhObFBFM0JrTFMwbFUzX3pKN3h1Y1JvVUhGeXlyaE9zMlYxTFB0by1GeEFOcUJsRVNfalpRMTc1NHhLbDdmMHZrMmd3QkQ4T1RpNkdERjE5bU05ZkFROEJyMjRfZlowak9xVQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 07:36:46 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T10:00:21.821Z"
+      "updatedAt": "2026-09-02T10:25:15.763Z"
     },
     {
       "name": "WSJ",
@@ -277,7 +277,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T10:00:22.148Z"
+      "updatedAt": "2026-09-02T10:25:16.093Z"
     }
   ]
 }
