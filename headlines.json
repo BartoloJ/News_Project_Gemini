@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-03T07:00:22.086Z",
-  "lastChecked": "2026-09-03T07:00:22.086Z",
-  "lastUpdated": "2026-09-03T07:00:22.086Z",
-  "generatedAt": "2026-09-03T07:00:22.086Z",
+  "fetchedAt": "2026-09-03T07:25:19.795Z",
+  "lastChecked": "2026-09-03T07:25:19.795Z",
+  "lastUpdated": "2026-09-03T07:25:19.795Z",
+  "generatedAt": "2026-09-03T07:25:19.795Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T07:00:21.011Z"
+      "updatedAt": "2026-09-03T07:25:18.548Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
+          "pubDate": "Thu, 03 Sep 2026 03:04:25 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Ex-Venezuelan President Nicolás Maduro and wife seek to end drug charges case on immunity grounds",
           "link": "https://www.npr.org/2026/09/03/g-s1-141764/ex-venezuelan-president-nicolas-maduro-and-wife-seek-to-end-drug-charges-case-on-immunity-grounds",
@@ -103,20 +109,26 @@
           "link": "https://www.npr.org/2026/09/02/nx-s1-5953878/understanding-the-tech-giants-oversized-influence-in-american-schools",
           "pubDate": "Wed, 02 Sep 2026 12:08:31 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
-          "link": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
-          "pubDate": "Wed, 02 Sep 2026 11:18:09 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T07:00:21.261Z"
+      "updatedAt": "2026-09-03T07:25:18.740Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 07:18:27 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russia to close German cultural centers after Berlin blames Moscow for airport drone plot - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE9yNnJUV1ROS1J3Q3ppSlQ2elJRSDI0Yk5PQXBYbnI5SXlJS2tiREdEQl9zTFRUMDFqUEV3eGF3Z0oyTE1pVlhUdzhmOTE5M3Q1cXZhYmRLVzkzZEJzS1c5dkR0LWh5WjNBd3U0SUtXS2doaEFMbDQ4UWJ0aXRlTFhZRUowdjhRLUkwVnctRW40cndHRElGeWdmUmlHUnpQR3VLWHZSellwTWNHQy13dQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 06:18:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
@@ -152,77 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa3Q0dk9qa29Ob0hQOE1PVlhkWjVWaXNMRmJYQ2hrbXhSaFRlMUZZbDY5cnpER0Q3OTQxc0hDX0ZnRDBhSG1ycHNaN3NKSDNYUWNBMWVsU0NrWnF1X3ZvZEc4ejYxMldIQnhRVE94dGtidEtpdEszRXdudlpzTmJBVXpqdHlVWlFXRnJjcWhpVnJFN1JtTDNwVHRsc01hRTBxZE04VHVnZHhfTXp6YXc?oc=5",
           "pubDate": "Thu, 03 Sep 2026 04:03:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Lindsay Clancy jury to keep deliberating but there’s growing risk of a mistrial - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdldkSUJTdGNsQVE2NENrOFhmRGhxcTFCLWhqNmtWNUlIbUd1XzB1cTNya0hQeTNwUmt6SG1reTNiZnZwUWNyWE5rTERnTkY5bDZ2em16MjA0UDRCbER4dV95ZGFfdXN0MnhzRGR0MkNnVXJTOUN4blNhVjM1cHNQMzhSWVJ2V2VUaS03Ni1CdFVPU2FGQVE?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 04:02:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russians endured a summer of turmoil with gas crisis and swarms of drones as the war came home - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0N2R2lIcVdIQk1INTEzTnl5N2s3NFNFbjROUGY3Z2ZMZ2FTaExkWm5PQlc4d3pDU1BvODNtbTc2WmV4WDdPVUdNejFyTGp2OXRUOWI5NG9oU2VLSlRrWXNpWVNWQ0ZYN1FyZU1xUU5JVTVjbDF5LTh6eU1panJuMkFqTlVLeEJpT3FDQk1FY1BwcjFraUpuWkFkZnVWUQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 04:02:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T07:00:21.728Z"
+      "updatedAt": "2026-09-03T07:25:19.434Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "China says it conducted survey of waters east of Taiwan last month - reuters.com",
+          "title": "Chair of Pacific leaders meeting urges united front on China missile test - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPelc5UFA1VjR3eENZWHFoRGNoQXExUzNLQkxyVG8teENwdFBDNWhiT3A4dl9pYWRpXzdHWXJoMHdvZjZYM3pJdVJqenpWN1hCcmRtdmpQTTFMZE5PRzFxc0VxWjNTNzZOOHJOTlBTQnNVYXBGQU1zZ1gzRWYxQTBNR2VIUHBCSk9jRXNNSnhWRlJXY3dzT1BBemtIUjRhUUNKbDhiRFdJXzZ5aHQzaFdRQVZ5WEU1QQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 06:42:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China says it conducted survey of waters east of Taiwan last month - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSm5McDNlekkxSU9Hd2pRSHpkcGg2THIxdk96b3Z5QU9yeWxyWTdFclRQNkpVbzRzYlhHUmZFYTE2QW5QSkRjRXJtNWZ2Nk5acUx1YkVla3ByQ2V2WWJLc0s1S05MX2lVMUhZdnlpX1NhUkRvRGl4ODA1bFdKU0U2QW9Dd2Z5cW1nUFZmZlVpcVFQSWpiYnlXN3ZPQ3ZrNzJmYWs4MzNRR0JEamNMbkVPMDdweFBHUQ?oc=5",
           "pubDate": "Thu, 03 Sep 2026 05:48:49 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran war escalation raises concern over civilian death toll - reuters.com",
+          "title": "Iran war escalation raises concern over civilian death toll - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
           "pubDate": "Thu, 03 Sep 2026 05:42:52 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Shares, bonds rally as markets await Fed signals; yen jumps - reuters.com",
+          "title": "Shares, bonds rally as markets await Fed signals; yen jumps - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw?oc=5",
           "pubDate": "Thu, 03 Sep 2026 05:21:05 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Financials lead Indian shares higher after recent decline - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmx3ekk2V0VXSlJYX04xM2x3WHVkOW1id2dsUlVJTDI5U1hWekdqeGZSRHlJUnR1U09RZ3FVRzFUa09uNFgyeng0Z0VuYjltTFFwMGVqb3dxRFlOaGZzTGtKS1FhN19vaWl5V3poemFDVFRwTWRuQlJPcnkxdTB0b19TS2VCQnR4NVZzaHU0NU9KMHR5TzdqSnBuR1oyTExNTmlXbFIzNWVtTHhBbV9ET0FzbjBpSjQ0MFpXT2hQOGJnZw?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 04:56:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Bonds breathe sigh of relief - reuters.com",
+          "title": "Morning Bid: Bonds breathe sigh of relief - Reuters",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pU05Pa19Wdk1kVndQUEY2UEhQeDVyUVRZYk5KczZYeXpwM0lQVzZjc0FuSmx5X3JETzV0NTl4clRicWtaTDl6SVBxbXJ4VDV2M3NUdFg1QTRXajBYRU9fYWd1clN1WUdYTTQ0TDlEOXJGTmMtbzVVaDNKekRKeFU?oc=5",
           "pubDate": "Thu, 03 Sep 2026 04:35:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Gold gains over 1%, US nonfarm payrolls report in spotlight - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUhNZ1JkRGozUnRmOFd3alQyWTVjNjd4WXp4SmV4anJuRndaaEVRdzlXajB2b1pWUjh5LTJscnFjY0l6QkhINE9MaXAtRVVWVkdrVXZTSlRudFlSU2cxVVlMT1pkN21TTG55MUxyZEkxalhRUGNwRkVNYXZOeWZuX3VsSWx4alNGeENzSzdfSFRvRzlwdHNZRUppTGdIcHMtTUdrU05KV2VoQmNiWTNfOS1kVjNFMzFDQzFR?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 04:33:18 GMT",
+          "title": "North Korea ruling party revisions bolster Kim Jong Un's control, report says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQakRUeFFvaldUd3dLQWplTE5iU19oSFhCVGpQc3dubUNmdlYtVC0wZ2xIZENwYm9LbVlvUVBRWXA1TC0tOGRKNHhVNkFtV18yZzNjU0pVTkpZcVVYNm9XMEc2UUdUOEFldmNvUmNYZGR0UldydGlhTjZ2QzRHellqTUVoZ1RtaGRrZEhfU3hMQThQa044TUJxenBDLTRYTmFvVlNWdkdXUUl6M1pPbFhhd2ZtTG1EYTYwNnJYM2NQNGtPVWlzTUlMajFR?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 04:20:31 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Yen climbs on hawkish BOJ repricing - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUk4xazZBQThxRzlWV094ZGRtRGVpZUNWekE2R1lYVnRkQTduUVRHM3N3RW9TcmNjbWJ6TmIwNkliS0xNTzJDM09WVlIzOWktRV8tZE5LaTNJbkdoOHpRZVlWWkpQM2hVSXA5QTBDNklmTUdJbnlVVk9NV0tkT0dUcko3YmFSVUhVVzRkQnMwbw?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 03:22:08 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chinese students marooned in floods unleashed by Typhoon Saudel's rains - reuters.com",
+          "title": "Chinese students marooned in floods unleashed by Typhoon Saudel's rains - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOE5iQlhuYXA5NkdlOG1RSDFCZVNnSkUzR1lZdExfdXNiaXFPM1BiaFphYWw4YnN5YndKTWR4RnFTU1R5dUxSUXJYZUMwektKSGtlWVBINFJ0dllCSHp6X3hnZ29PSEtGd29iOWo0dE4waUtsYXpoSVotVU05ai05WUJja2RWTXRQY1NTY1VIblZnelBaZUFTcDdZTktPTi1KRmFXR1hHMWMyUzdnWDN1dTNZTU1YeGhXNlZzUUthSkZsdw?oc=5",
           "pubDate": "Thu, 03 Sep 2026 03:00:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold gains, with investors gearing up for US nonfarm payrolls report - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUhNZ1JkRGozUnRmOFd3alQyWTVjNjd4WXp4SmV4anJuRndaaEVRdzlXajB2b1pWUjh5LTJscnFjY0l6QkhINE9MaXAtRVVWVkdrVXZTSlRudFlSU2cxVVlMT1pkN21TTG55MUxyZEkxalhRUGNwRkVNYXZOeWZuX3VsSWx4alNGeENzSzdfSFRvRzlwdHNZRUppTGdIcHMtTUdrU05KV2VoQmNiWTNfOS1kVjNFMzFDQzFR?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 02:41:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T07:00:22.086Z"
+      "updatedAt": "2026-09-03T07:25:19.794Z"
     }
   ]
 }
