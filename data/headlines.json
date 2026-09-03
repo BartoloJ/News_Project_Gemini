@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-03T22:00:19.619Z",
-  "lastChecked": "2026-09-03T22:00:19.619Z",
-  "lastUpdated": "2026-09-03T22:00:19.619Z",
-  "generatedAt": "2026-09-03T22:00:19.619Z",
+  "fetchedAt": "2026-09-03T22:25:14.954Z",
+  "lastChecked": "2026-09-03T22:25:14.954Z",
+  "lastUpdated": "2026-09-03T22:25:14.954Z",
+  "generatedAt": "2026-09-03T22:25:14.954Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T22:00:18.257Z"
+      "updatedAt": "2026-09-03T22:25:13.759Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T22:00:18.519Z"
+      "updatedAt": "2026-09-03T22:25:14.051Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 22:13:21 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "SEC sues LSU as athletes plead in court to regain eligibility with college sports season underway - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmNsSWYxZ1BoMl9meVY5ZXpmY2djZnZzQkFoTThIX19ySGkyMGFtMWM5OG1mcGlVZ3lwTFV2ZjZJSUhTYVg5LTA3bU04QXV0ai1ZejBkM1k5eDQ4SnlncC04dUtqaWRyNEZNUDRSb3hmblV5TE9nNEwwU2Y1QUtfNXdwZnJHU1c5UFloNS1DMkdTRndkSHc?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 22:03:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump again appeals to Supreme Court on mail-voting restrictions with midterm elections looming - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNci1PNmVNOTJNZ0ZmeUxKYmtpVUF0dEYwRzRxYld3YUFvOTZXRngwdlpIY3EyWEJXTmY0Z3hXM0Z5LVFCUFg3bXZRZGUtT0NYZ1Q2U3d0eExoX0d1WFp0dzJLX215RTVtd2ZQSHFCUjBpdGlSZGo1SVUxYkdnR1ZfalRob3dPSmYzaTAyRzhXdTJMRXpJMUVlbVVvZU84YXV2M0cw?oc=5",
@@ -136,12 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "SEC sues LSU, alleging a coordinated push to recruit ex-pro athletes in defiance of rules - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmNsSWYxZ1BoMl9meVY5ZXpmY2djZnZzQkFoTThIX19ySGkyMGFtMWM5OG1mcGlVZ3lwTFV2ZjZJSUhTYVg5LTA3bU04QXV0ai1ZejBkM1k5eDQ4SnlncC04dUtqaWRyNEZNUDRSb3hmblV5TE9nNEwwU2Y1QUtfNXdwZnJHU1c5UFloNS1DMkdTRndkSHc?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 20:40:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Man who carried out deadly Minneapolis apartment shooting was investigated for handgun in June - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRG5PSE1pWG01bkd3TURSUXl3NHlPWUZLYm8yRGdGemlGbjlXakdIem52a3FDdURhUXNKX0J3S3lKT1dVMEJHcWJHejNPbnBnWWQ3RXUxemREdXp3MHFYajlzQ0tidko0dGFjOGxTZ0FnSU1Wd1VUa3ZuZF9CUlZ5N0JiYUZqeXJhZGlDdDBSRU5YYllvRGozeTJHdw?oc=5",
           "pubDate": "Thu, 03 Sep 2026 20:26:00 GMT",
@@ -158,24 +164,36 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFA5VjJzajdvQ0Ezd25aM2tWYjQ2N1F5QUNWWk8wc3doeXF4eHhhRmhWU0tMbC1GZDdpanN0V3JDdi1GUUkyNEFYSmU1bXJrNHdtNTAxRWhYUTY2eGkxTk9PazZvU19rY09rdlB5akQ3elkzSTRLcmpqTW1reG1CYmI2U2RTMXpqWnhLVFFyaGF4bDNtUlZJ?oc=5",
           "pubDate": "Thu, 03 Sep 2026 20:09:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Judge sends deadlocked Lindsay Clancy jury back after defense seeks 1 juror’s removal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdldkSUJTdGNsQVE2NENrOFhmRGhxcTFCLWhqNmtWNUlIbUd1XzB1cTNya0hQeTNwUmt6SG1reTNiZnZwUWNyWE5rTERnTkY5bDZ2em16MjA0UDRCbER4dV95ZGFfdXN0MnhzRGR0MkNnVXJTOUN4blNhVjM1cHNQMzhSWVJ2V2VUaS03Ni1CdFVPU2FGQVE?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 19:47:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T22:00:19.156Z"
+      "updatedAt": "2026-09-03T22:25:14.547Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Influencer boom at US Open tests boundaries of tennis etiquette - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaDJVcFVXQ1Z2YUVkOGU0TDRIcGdoV2VaMTRSdU9KU0dGNlRVMXZ4UEZ4aHhqUVI1WVRmMU5rRFZhdGJyWXlteW0xMEduRTUtaHJISXNQZmVmOEV4UW9SeXM5LWt5MDVvSDNxeGxuckNjaEtVTFNmcWhBR0ZrbXVJZEtfNTl0Mk1xNXdrbXJQcVhSYU9tMmdKN1hMNDRsSzc3Z255WHlDZm1hZTQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 21:54:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Bond selloff is likely amplified by obscure economic rate - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3hINFZzSVVjWVplYkpEeHgzVGxZSmxxTUlGQ2xYN3gzZXBneEkzN0Y1bjhIaUN3akRUcFQtcGpBODF5NUM3YWdkUkw1ZWRCcjMzQjNQN0pMbVZMRmtTZzRuU1lxZ3dJelZJcmw1TWtiZ2dTSVpDSmt6aXRhbGFUaXV6RXMzb1dJVEk2bm9RT2hFckFHb2hTRHhwRHBzU0tqQ3dVWU1xTEtLZVQycHZ4QmVhVFd2Rk1BUmc?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 21:52:02 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Putin cites chance of peace deal, Zelenskiy says US negotiators to visit both countries - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY3YyX3ZrWEpvNDBpWDV1SGZTNS1OM1AwTEVDV1JRa2tqcGF6dXA0YWZpTU56aE9RUzVSd3RzUEQ0SHBNbW5QMkN2WjVsUG9QWUIzc2pac1NVNVlXemdqU0NZVWgxSTZTTGdTZk9Jb1hKZG1iZVZYazd3MlhWLXcwQ0pwMTVTRG5RMUpGbTAzV3hoUkpmMG1JRDZyVk91eUtMRTNJcHdEWVdYTTZwelgxTHBtc3JnS0VOLTJ3NWFYRGxzdnFs?oc=5",
           "pubDate": "Thu, 03 Sep 2026 21:35:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Volkswagen board approves turnaround plan, flags 50,000 possible job cuts across group - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHJWZnhzWG5faWZEaUhXbDE4aUFUZ3JNWlp0SjB1RzRXS1JZT1hmSy10WDJFbE9kSVhUSE9YVzZ2NkRTY2REMEk3UHFadFp5UUgtVEdMcXowcnlmZGhjNTBVS01DQWJ4UUQ3OHhnakZjdm5IRzBaVlhQMzFaa0lVbW05X0RpRFZuV29SX0MyYVpkZGpCQ3psSlpuc0tLajZJTUIzc1hEdGdWV2swR2pQblJQZHQ2dkVmVkpkZWlFZVM?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 21:31:57 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "Big Oil’s new playbook: How BP's US refinery lockout signals a shift in corporate labor battles - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTG1pbU1TcU9VSVhrX2I1NlZNQ1YyR2lJYVctUnZ1ZjNqY1BUVE1sUm9fbFRIaWRBMUdTR251MWFTdjNOVFpsenZKOGExOTF3NEluNHRUdmRtNWVUOGg1NHVzbGpZNGxVaWNyZGpuel9CT2Z5b2VlY2d3X2hZLWR1YWRSTWRUYUZxSEJMX2g5ZEFPVlpkOWpSQ2FrRTlBWk5NOFdwU1pSTUtZYkY4TlZDRVNpNU1YMDNWQm9vR1N1bzVBZmlpWXVIY0l6bU56RWdhSTZTOA?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 21:26:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US FDA is working with manufacturers to boost estrogen patch supply amid access concerns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT3FPdGNMbmxzbk9fbmplSW5qbnN3YjZJRC11UzNVa29FaTlsMDVYQmp1WmJqRDk2aUlidlZVTnNYWUtVaXJBelZkYUx3Sk5LSUJNSEM3bmJHZFlWSDRjZm90QlA0c2VzMjJtUUwySDE5RWllVGtVM3l5bGNyOW9XNENxWHBuajdYNHlKSnp4T1Z3RmVJSmpiRjQ1c1ZaTU4yR00xaWdia0RzdDN4cmYyS1dnV2lUMzc4UmJLdnBRN3dmU1hlSjVRSHRnb2FLWnBjQXVJSXE0TWNtMXU5ZFdIYzdIVQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 21:22:54 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US diesel prices hit record high as conflicts intensify supply crunch - Reuters",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHF2Z29UenJROHZ5YlJpTFBHM1pmWmdNaWROSnhyNlhDVVZmVGVXTkRaT1k4N1NBY1B1YUhDbmE2SGQ2TllTNExHWk9JT1JCWHRKQnVpZEx5SVVNZHdhc2tsbEEtWG01Ty1QUXpMSWdWR3NuQTVQaWNhLUViMXkzRl9WNk81bDdiVk5tb1hPeVBMczFGaWVmaTNzWEdYZ29P?oc=5",
           "pubDate": "Thu, 03 Sep 2026 21:21:23 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Vance says Iran conflict is not a war, declines to offer timeline for end - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWVqMkRjNklKdUhYTF9BTE5GN1ctUG5zaGI0cVdEcW9ReEhYMmxJREpHX1o5RE5mS1VZMHAwTlBTTmZhWURSV3dMUkY1YjhBMjZEN2hvZWhYc1hiaTk1MFRacnpEVDVYWnRuTEVrVW8yZnRnTVUxcTV0UEd5NXRRVDlzTmM0NFA5b3o3Q3JPMFhHMGFJb3JVN05DTVZSbUZlNHlNVFdMTmhmajRfR25zZ05LblhOZjg?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 20:53:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US imposes new sanctions on Raul Castro's grandson, Cuban companies - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMndFVFR1VEtUOXZzVldZenZ2V2x3bC1hRERYWG5SZTFNREM0VnIzN0hzWVJZTkphZ1dQVTJCT2Q3V2lRaXQ2WmZ6WGQ2c1JTdmdwdFBvaHBRUjNGVGlUMFVUallEdm5lSFo2YjdCT041V19KaUkxT2x1MjZaeHdwSU5JcGl4M3Bnd0VGMzdScExRaFdYOVhYZ3JKSW1RWFR0bGFsZkc3NGlpR09xQjc5Uw?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 20:45:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil investors need democratic Venezuela for stability, opposition leader says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXVINWdzdlpiTlZBRUdIX0d4UjRfaEttTkVfM2xOUE5ac3B0OGZ5TDhlN01od3EtTVJDeUhrMVplTUtENklMT3pIaS04VDhEamZHYk1CdXJWUXVQVVRPWHA5cHJTU1JJRG5zdFBySkZJdl9ydG1jMjdaNmNKNE16R1Z2Zk9wM2hHeWpwcHFoQ0lyMHpnbkJ1V2NqR2lPRXFDY1BOaElIM1F0SVF6SkgyQ3F3c1FrNV96SHVQazlVNkxLd0k?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 20:43:31 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Adobe names Anil Chakravarthy as CEO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUlEaHlFc2tjMlhXWlJrN0s1Q1dDMS1IOTJPamxJOW9senpRQWpEZ1ptbmRZLTI0eDdKQUxPbmU4OVQ3SUwwbVFHRHUwY1NNMXpKNlBrYkJaUW5aZjVaVEZnV09LYW9OSVFaQms3WjBheWstQWxQODV3d3BjUW55YVhIZGc?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 20:43:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "White House pressures US space firms to skip Paris space summit, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSjkyUlVZVWtXbzM4ajNJcHdTVjlIYjdzaExfLS1ubXlsNGdkSUY1X2ItTjhhVkNaaXdDbGZqdjc2QnV0VkgySlRCWXpBWDV0UUZvYTYyMEd5b3NIYl83UWdYNVJLWkVBRTNETUtjWlNwVVJMcXNGVDZWcGoxWGxaLWlaUEpuM1BET1Z3WC15cDVvdHF0dDNBMzFSUno2R0FrZTZVYmZDNUlSZXVUVGtCT1dNNzVvMGNEdWdFTG52bTdyNTBjeEVRekdGTQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 20:38:51 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T22:00:19.619Z"
+      "updatedAt": "2026-09-03T22:25:14.954Z"
     }
   ]
 }
