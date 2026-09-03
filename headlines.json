@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-03T06:50:19.157Z",
-  "lastChecked": "2026-09-03T06:50:19.157Z",
-  "lastUpdated": "2026-09-03T06:50:19.157Z",
-  "generatedAt": "2026-09-03T06:50:19.157Z",
+  "fetchedAt": "2026-09-03T07:00:22.086Z",
+  "lastChecked": "2026-09-03T07:00:22.086Z",
+  "lastUpdated": "2026-09-03T07:00:22.086Z",
+  "generatedAt": "2026-09-03T07:00:22.086Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T06:50:17.836Z"
+      "updatedAt": "2026-09-03T07:00:21.011Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T06:50:18.086Z"
+      "updatedAt": "2026-09-03T07:00:21.261Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 06:07:04 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Cassandra Wilson, the 2-time Grammy Award-winning jazz singer, dies at 70 - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUZ3eF9JbEp3ak0tRWxfSXY4WjZXUEphcWVYVUc5SzFwc1MzR01UVDRrUXBOQzRBdzJYemp4SHkybHJKVkpsanpoam5MU1UzWEJpMFhLYXN3RXhuQ3labmR1NnBESU0xMGl6ak43S2xCNTFURHhqLS1GSlFvOHBfY0N6NGFEU3Ex?oc=5",
@@ -158,71 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0N2R2lIcVdIQk1INTEzTnl5N2s3NFNFbjROUGY3Z2ZMZ2FTaExkWm5PQlc4d3pDU1BvODNtbTc2WmV4WDdPVUdNejFyTGp2OXRUOWI5NG9oU2VLSlRrWXNpWVNWQ0ZYN1FyZU1xUU5JVTVjbDF5LTh6eU1panJuMkFqTlVLeEJpT3FDQk1FY1BwcjFraUpuWkFkZnVWUQ?oc=5",
           "pubDate": "Thu, 03 Sep 2026 04:02:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Former Tropical Storm Edouard lingers over Texas, flooding homes and roadways - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkZWM010U05DNldzYTNyNXFhRlp0WG9KTkYweFBvRHd6eHRtc0I0SjByUUVEME5yb20wb3NkWExRYzdTSFZDQnRiXzZxUlJUaFFxekgyYzJLa2ZBNE1RNVFFTTRuY0Q3WHZCS0Z1WmhvNXpyajVDUXk2eE51VE4taDkzNHVWQWxNYWZqNE9CWDY1Q0NVdDY4VjgxZlZQUUx2dzVUamctOFhJc1hzU0E?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 03:09:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T06:50:18.755Z"
+      "updatedAt": "2026-09-03T07:00:21.728Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Iran war escalation raises concern over civilian death toll - Reuters",
+          "title": "China says it conducted survey of waters east of Taiwan last month - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSm5McDNlekkxSU9Hd2pRSHpkcGg2THIxdk96b3Z5QU9yeWxyWTdFclRQNkpVbzRzYlhHUmZFYTE2QW5QSkRjRXJtNWZ2Nk5acUx1YkVla3ByQ2V2WWJLc0s1S05MX2lVMUhZdnlpX1NhUkRvRGl4ODA1bFdKU0U2QW9Dd2Z5cW1nUFZmZlVpcVFQSWpiYnlXN3ZPQ3ZrNzJmYWs4MzNRR0JEamNMbkVPMDdweFBHUQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 05:48:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran war escalation raises concern over civilian death toll - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
           "pubDate": "Thu, 03 Sep 2026 05:42:52 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Shares, bonds rally as markets await Fed signals; yen jumps - Reuters",
+          "title": "Shares, bonds rally as markets await Fed signals; yen jumps - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw?oc=5",
           "pubDate": "Thu, 03 Sep 2026 05:21:05 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Financials lead Indian shares higher after recent decline - Reuters",
+          "title": "Financials lead Indian shares higher after recent decline - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmx3ekk2V0VXSlJYX04xM2x3WHVkOW1id2dsUlVJTDI5U1hWekdqeGZSRHlJUnR1U09RZ3FVRzFUa09uNFgyeng0Z0VuYjltTFFwMGVqb3dxRFlOaGZzTGtKS1FhN19vaWl5V3poemFDVFRwTWRuQlJPcnkxdTB0b19TS2VCQnR4NVZzaHU0NU9KMHR5TzdqSnBuR1oyTExNTmlXbFIzNWVtTHhBbV9ET0FzbjBpSjQ0MFpXT2hQOGJnZw?oc=5",
           "pubDate": "Thu, 03 Sep 2026 04:56:32 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Gold gains over 1%, US nonfarm payrolls report in spotlight - Reuters",
+          "title": "Morning Bid: Bonds breathe sigh of relief - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pU05Pa19Wdk1kVndQUEY2UEhQeDVyUVRZYk5KczZYeXpwM0lQVzZjc0FuSmx5X3JETzV0NTl4clRicWtaTDl6SVBxbXJ4VDV2M3NUdFg1QTRXajBYRU9fYWd1clN1WUdYTTQ0TDlEOXJGTmMtbzVVaDNKekRKeFU?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 04:35:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold gains over 1%, US nonfarm payrolls report in spotlight - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUhNZ1JkRGozUnRmOFd3alQyWTVjNjd4WXp4SmV4anJuRndaaEVRdzlXajB2b1pWUjh5LTJscnFjY0l6QkhINE9MaXAtRVVWVkdrVXZTSlRudFlSU2cxVVlMT1pkN21TTG55MUxyZEkxalhRUGNwRkVNYXZOeWZuX3VsSWx4alNGeENzSzdfSFRvRzlwdHNZRUppTGdIcHMtTUdrU05KV2VoQmNiWTNfOS1kVjNFMzFDQzFR?oc=5",
           "pubDate": "Thu, 03 Sep 2026 04:33:18 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Yen climbs on hawkish BOJ repricing - Reuters",
+          "title": "Yen climbs on hawkish BOJ repricing - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUk4xazZBQThxRzlWV094ZGRtRGVpZUNWekE2R1lYVnRkQTduUVRHM3N3RW9TcmNjbWJ6TmIwNkliS0xNTzJDM09WVlIzOWktRV8tZE5LaTNJbkdoOHpRZVlWWkpQM2hVSXA5QTBDNklmTUdJbnlVVk9NV0tkT0dUcko3YmFSVUhVVzRkQnMwbw?oc=5",
           "pubDate": "Thu, 03 Sep 2026 03:22:08 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Chinese students marooned in floods unleashed by Typhoon Saudel's rains - Reuters",
+          "title": "Chinese students marooned in floods unleashed by Typhoon Saudel's rains - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOE5iQlhuYXA5NkdlOG1RSDFCZVNnSkUzR1lZdExfdXNiaXFPM1BiaFphYWw4YnN5YndKTWR4RnFTU1R5dUxSUXJYZUMwektKSGtlWVBINFJ0dllCSHp6X3hnZ29PSEtGd29iOWo0dE4waUtsYXpoSVotVU05ai05WUJja2RWTXRQY1NTY1VIblZnelBaZUFTcDdZTktPTi1KRmFXR1hHMWMyUzdnWDN1dTNZTU1YeGhXNlZzUUthSkZsdw?oc=5",
           "pubDate": "Thu, 03 Sep 2026 03:00:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Australia, US to boost defence ties as China's Pacific influence grows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGlQbnNDYmRZNklIT19EZUFaejRPcUNpTENxczFTaVVFczNTOThfQWEtY25pMkJiMDBlQThRS2NhUnpqbjh0bEhEdEpxS25WdjZZNi01bWNkSmFfNThnd01ZN19SWWgwMjQyUE9yd0oyUThiTHhmREF0MlAtV2lUZkJyTGk4d2w0RTZodXNJX2VtdFVRdm1nS1MyRThKZlg0SVNtczlPWWJaT1BBOTFF?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 02:33:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russia to close branches of Germany's Goethe-Institut after drone spat, foreign minister says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0hhbGxvSjRDQUxyRlFvQmM1VzE3VEIxdjFvM0ZELXB1RWRTZ1hEUXM1Rjl5T1NMRjlETGE1UFJFZFI5LWcyOUJzZ29lS09KeGJlaGVnUTJDS3pQMzFkOGxlakxDVGEtd3huUEM4ekRYUF91VXpEOGM4WDRaZC1SQmNJUTVva2o1YjJsbnh2TDhreEVrZ2VscGNlcEhzWlF3UFgxR25mYWtuZ3ZkRXJ5eDUyRmJNdw?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 02:19:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T06:50:19.157Z"
+      "updatedAt": "2026-09-03T07:00:22.086Z"
     }
   ]
 }
