@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-02T23:50:20.136Z",
-  "lastChecked": "2026-09-02T23:50:20.136Z",
-  "lastUpdated": "2026-09-02T23:50:20.136Z",
-  "generatedAt": "2026-09-02T23:50:20.136Z",
+  "fetchedAt": "2026-09-03T00:00:37.135Z",
+  "lastChecked": "2026-09-03T00:00:37.135Z",
+  "lastUpdated": "2026-09-03T00:00:37.135Z",
+  "generatedAt": "2026-09-03T00:00:37.135Z",
   "sources": [
     {
       "name": "BBC News",
@@ -56,7 +56,7 @@
           "source": "BBC News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-02T23:50:19.059Z"
     },
     {
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T23:50:19.233Z"
+      "updatedAt": "2026-09-03T00:00:36.275Z"
     },
     {
       "name": "AP News",
@@ -132,7 +132,7 @@
         {
           "title": "A shooting in downtown Minneapolis leaves multiple people wounded, authorities say - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFhxN2I2TC1pb180UEJRbUVDNWtzenZ2MDFTWUlTZFdUSm1oZ2UtSVE4ZDhud1ltbEtiM3lIak5KaHNfM0FaM20zSUx0TE9LRUNjY2E4WjlES2N5eHFSTzBfTkhKN19rQU9ldlNXZVhwVzVMRkFQbE4tQjhySk81cVVXVm9kMlR5Qm82MDJ3SkFfMll1NzVPQU42RQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 22:39:45 GMT",
+          "pubDate": "Wed, 02 Sep 2026 22:30:33 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T23:50:19.709Z"
+      "updatedAt": "2026-09-03T00:00:36.749Z"
     },
     {
       "name": "Reuters",
@@ -179,9 +179,21 @@
           "source": "Reuters"
         },
         {
+          "title": "Snowflake lifts annual revenue forecast on cloud and AI demand, shares soar - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFJ2U1c4RFI3aWwtQVNXOW1KaHFMSVpxc2RFc1BiUnNYdnBTaUJ5eWZpc3BxRWUzcnhiNURoRXlwY0VqU2M1NEYtX01XMlhLeF9zRkZncnEzYVFMSDJ0c182LWtNbUpHYy1NUXNET0NTZnZJMkxWOXVBa2ZvVVF2NTJDRHhpRjJOblRvRzJzZ1ZDN08yZnZ1UGpfQUdWRnc5Zm1fU0V5Vlc3SmIwdHUwbGNubEM4ZUQxbHdz?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 23:20:27 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Nepal rescuers race to reach any survivors trapped in tunnels a week after disaster - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnNFSE15OEdqaFZ4TkZ5TFFyWjZVMldBWmpxYWFFSDdnRVdDejlGN1VZdF9YWDVWYzZ4UDNKLW5Od2Y0X0tZOWFTbHE5QklNTm45TXozWXpoRTRyQlVJVzlWT3Y1RzBlVS01S3lDRWFOT1Q5R1ltMXBhejRHemg1UEpJdUJyYmE1b0lMd3lCWHFjR21XOFFaai1zOGd2Z2h6VHRFZlBZdzhzeWRnUURfb3o5Q2dnTU5sTC1xOA?oc=5",
           "pubDate": "Wed, 02 Sep 2026 22:46:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump's DOJ threatens to cut aid to states unless they report migrants without legal status - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYTRsY2pWTGJGMWJrdE5iRDZabTdoNW5qNU5IQWVOT3V2Sl95ZmZURi1xTDVDMGFoNHI3cDVhQUwwdy1qdVQ3M2JQWWxHSmxFYjBMY2dmQkFGRFdWanhhc3hnOFhQZFhYVDhKMUNGbVBwR2pORk9vWGgyWlFLZHJPSWk2cUk0ZVVkN1NCX0JKa3lCVVhlT0xBOFcwTU5vRm0wSmdSUzBxQVBRM2k4NUZ3ZnBCQU5NakcxYmltdkc3NXpBSXdWak9wc2JB?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 22:24:15 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT1ZPNmVMcEF2RFdQM3BQdXh4TE12YkgtRTZnT0lJWU1uMlN1Q1IzSnlDVzhtQkwzOUdSTExNSWRmTDctTXAxd0FUdGg5cGx2TDVjUEZlY1ZJTWtjVWtNbXFnWVk5Q3FpUTZIa202aUhHdWI5QzVYcTJLWkJPNHFyLXRRWHlOV0UwUDQ3VTItMWxUWmlaRmx3dFJZdGZHbVJuUjJiamN4Vm1zRWV0bXM5dXhHU2FOdGx4WXVUV2JfZzNGUjVnWFJGOQ?oc=5",
           "pubDate": "Wed, 02 Sep 2026 22:07:59 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US urges G20 countries to allow AI training on creators' work - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 22:04:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "FBI probes report that data breach exposed millions of US driver's licenses - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDItYm9XQjBxZHFNa3JoTEctM0tfbUljV0cyUHo1UEs0RjRaeEVRZXVyZVZCQTV4T3ZnWDFScE1kbEVJZW93Sm5pZWdjZmVaZGM5WUtPZEpkSmRueFZWbk9pTG10MUFZTXFzRTNmNWJDLVl0dks3Vkx1ZWVJcGlTYlVVX1hiTWw4dDFqZTNXcWtVMWs0aG5KMlEwNnY0YTFzVXRoOHhrWnlidUMydF9aTDZNRDV6NE5NR0lSMXdVWQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 22:03:39 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-02T23:50:20.136Z"
+      "updatedAt": "2026-09-03T00:00:37.135Z"
     }
   ]
 }
