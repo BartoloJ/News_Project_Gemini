@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-03T15:00:37.546Z",
-  "lastChecked": "2026-09-03T15:00:37.546Z",
-  "lastUpdated": "2026-09-03T15:00:37.546Z",
-  "generatedAt": "2026-09-03T15:00:37.546Z",
+  "fetchedAt": "2026-09-03T15:25:18.062Z",
+  "lastChecked": "2026-09-03T15:25:18.062Z",
+  "lastUpdated": "2026-09-03T15:25:18.062Z",
+  "generatedAt": "2026-09-03T15:25:18.062Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 03 Sep 2026 15:05:57 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
           "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 03 Sep 2026 11:33:09 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Liechtenstein MPs vote to legalise abortion despite threat of veto",
-          "link": "https://www.bbc.co.uk/news/articles/c9dwedep38po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 03 Sep 2026 11:30:38 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T15:00:36.446Z"
+      "updatedAt": "2026-09-03T15:25:16.543Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T15:00:36.480Z"
+      "updatedAt": "2026-09-03T15:25:16.694Z"
     },
     {
       "name": "AP News",
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-03T15:00:37.546Z"
     }
   ]
