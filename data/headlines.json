@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-03T19:00:21.848Z",
-  "lastChecked": "2026-09-03T19:00:21.848Z",
-  "lastUpdated": "2026-09-03T19:00:21.848Z",
-  "generatedAt": "2026-09-03T19:00:21.848Z",
+  "fetchedAt": "2026-09-03T19:25:13.904Z",
+  "lastChecked": "2026-09-03T19:25:13.904Z",
+  "lastUpdated": "2026-09-03T19:25:13.904Z",
+  "generatedAt": "2026-09-03T19:25:13.904Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Data centres are booming in Australia - but at what cost?",
+          "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 03 Sep 2026 18:32:03 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
           "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 03 Sep 2026 11:49:50 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
-          "link": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 03 Sep 2026 11:35:52 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T19:00:20.064Z"
+      "updatedAt": "2026-09-03T19:25:12.784Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Tributes to Gloria Steinem are flooding in, from Hollywood to Capitol Hill",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5955579/gloria-steinem-tributes",
+          "pubDate": "Thu, 03 Sep 2026 15:04:19 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Later in life, Gloria Steinem found herself free of the 'demands of gender'",
           "link": "https://www.npr.org/2026/09/03/nx-s1-5955479/gloria-steinem-fresh-air",
@@ -103,24 +109,24 @@
           "link": "https://www.npr.org/2026/09/03/nx-s1-5921324/the-general-buster-keaton-anniversary",
           "pubDate": "Thu, 03 Sep 2026 07:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Democrats demand Homeland Security officials fund election security ahead of midterms",
-          "link": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
-          "pubDate": "Thu, 03 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T19:00:20.273Z"
+      "updatedAt": "2026-09-03T19:25:13.055Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "AP Source: ICE officer charged with lying to investigators in the shooting of Venezuelan man - AP News",
+          "title": "ICE officer charged with lying to investigators in the shooting of Venezuelan man, AP source says - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUl0MEVpMy1GZG5val9mQ1dWaTBhcktHcjdZd1R1c2xBV2ZxbC13Z2QtRjNpQ0QydERQd3ZDUXpGMFh5bGRxZmFCY0VaeDBhX3R0a2F3ejdPcUhtQlotRnhvNFI5aEl1QTFqYndqNHVyYmdLaDRwUk9fYUp0NEV3M0xjZ3NCbk1fV3Eya1RB?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 18:32:00 GMT",
+          "pubDate": "Thu, 03 Sep 2026 19:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 18:48:04 GMT",
           "source": "AP News"
         },
         {
@@ -158,20 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU2tMa1pTRzJ0eUVVcGk3SXcwVk9NaUMzTDNFOUs5NFlWZ3dnX3oxVUJ4ZTVPUURRclBQdHpHMlFZbFdBUkxGLWxUN0Z1WUNmMklQUkZ6TlpUUHdxMWVfVjdCdU9wZ2VNZU1LbmxMcHdKTHhsajRwQ3VlU0NoLU5fUlRiZEZtWDNUeFdwS1JFZ3VGMWRldW4zc2tkLUM?oc=5",
           "pubDate": "Thu, 03 Sep 2026 16:41:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Federal judge considers whether to extend ban against US Postal Service mail voting changes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNci1PNmVNOTJNZ0ZmeUxKYmtpVUF0dEYwRzRxYld3YUFvOTZXRngwdlpIY3EyWEJXTmY0Z3hXM0Z5LVFCUFg3bXZRZGUtT0NYZ1Q2U3d0eExoX0d1WFp0dzJLX215RTVtd2ZQSHFCUjBpdGlSZGo1SVUxYkdnR1ZfalRob3dPSmYzaTAyRzhXdTJMRXpJMUVlbVVvZU84YXV2M0cw?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 16:40:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T19:00:20.728Z"
+      "updatedAt": "2026-09-03T19:25:13.500Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Billionaire Leon Black sues US House committee over Epstein investigation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSHpJZDFUSF8wcWNSaEpnNFptMG9NR1lrdFZLRTRJOWtkVEJicm1SNEJOOG5sR09GVnppdG1pQnczMFRhZG44R1R5Q0VPZW94YkpkVlFXTWFkbUdGRERvNW5WT294eVk5c00xcTExbHJtRm9CeVc5ZGozMi1HMFVmWEVWVFZ1aEt6a3NpUVphTU5RTU16ZEdZZExuZ25CWktzaEh5Qmt1b1ZrSThMY19qbkxuYVB5TTU0V1VUN2N0R0haRjIy?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 19:02:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Pentagon temporarily rescinds guidance on testosterone screening for US troops - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcWVuWng3QUdzcFpucVVKYlBJbG05RWlZTGpGbFFmYV9jVDNmM2xhUlBmWFhkbktacWNiWGtBOXJXYWZScDhLcWQ1TU9wUFRTOERUVEF3MUM5enlJR0FzVHQ5MzB6ZEdkOTJsTkl5Tk12bGRadHUyeEkybDhmR1dqRXFlSjZRaE1tTGFkcGJ5MUM1UnBoUzkwd0tBc3hDVG5uVmQtczZwcGR1YzFjYnpybFZOUHdKZHBqS1B5QzlzTVNjYlFRVmJrRDFCQ1lWUV9fUU5fcjNvTDVCMnhXOVE?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 18:50:59 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US labor market remains stable; services input price rises point to elevated inflation - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdVlveWxoLTJTR0EyQmo2Sm9PLS0tR1hFUlc3bFdPenBsQmhNZG41S250UlNkaGF5cXNIbV9NS2xXckRSTGJFRjg1eTFqOUdyRTVyQUR0SUFKM2RLT0F4QmZDaWVlRVY4UnZzU0hORWNKVkhhdXN1T19uTXFXRlRWb19ETlZiWVdWRHhpOGtXWHlQZ0FmcVg1WEZPYnNfbThpOEsyMnhQLWVzZzk1OVdzeXBmeXJ0NEtGY053ZGFRZllyZw?oc=5",
@@ -181,48 +193,36 @@
         {
           "title": "OpenAI launches new Astra model amid growing scrutiny over agents' safety - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEhVLUYyaUZ3dDB0UGpFemVFREl1RkE0Q2FldS0zQmNQVVNudlNULXg3RXlVdjBId2lKSUJSdGllakNFNzJTMUstb2R1Nm1NQ2R6UEQxZkw1dzRoRG5NLWE0WlJWVGw3Y3VWUkQ3WHNOd1h3YndNZ0FNQ2NmX0JHZnBjakRjemhjWEtvN1RnbUdRdWtSUGpWTkRnTG1ncmQ3Mk5fTmEycGgxemROWDBMNzZaYnlyUVpsYXVLNnNpMHJVV2s?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 18:21:46 GMT",
+          "pubDate": "Thu, 03 Sep 2026 18:38:42 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Nvidia bets $13 billion on open AI models with Hugging Face deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 17:28:13 GMT",
+          "title": "Wall Street rallies as Fed's Waller eases rate hike fears - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzRxMTJxTk80aFlHOHU2WkVVbjhCeDhJVGNiVXFqSUg0cGhIUjY3d2hBTWQtUGVvMTJXMUVjaVJwc1lnTW9OMUp1ZjhiUjFfVlVTbk44Z1c2WTdqOVYwUUMzbVhVbHk5Tnk4V3ZoVWtvdHdBMDJDV1V2dEVRanc1UGc1ZlExN3VFTUpTTzBDcUVRZWN6Qlh0STQzb0ZqUmVlbWk4YWwzOA?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 18:26:05 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Oil prices rise on Middle East escalation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUpNcGxHMWt3cDdxdFVCZUNrdTBGRlZSUEpJOEg1ZENWVkRPN2lWbTZxMUU3WG56bkZScmlMM3hpOWtzOEtFcWJUaXNqUklwZU9KVlFxd2FxUEtVV2pwYnh3cXo2Y3dhZkJNUDBoSHcxN1dRM3ZCU25QdG02N1JCOHk2SjFzN2Z3UnhKc3hWbDNnWWFp?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 17:27:48 GMT",
+          "title": "Deadlocked jury in Lindsay Clancy's murder trial deliberates for sixth day - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOC1KS2JhV2pYLVdGZmowVEx6LU5rcVc1cE9TQWZVaTYwbkdBbVJrazlmb2Z1OHBkS05pZXV2R0U0UnBxdUNnaXNia3RxT1J0MEVQQ09FbU8wNm5nMUtTYTBGV01nVWhPczFpeHZFUUtXRl9Nc3cwaUxSd2NHYVhLVkdrMjRWY0RZX2dOV3A1YThxVGc1Z3RRSjV1V3lBNDhrSktmaGhTbDEyeTMwcmRHSERZdlBaeEw4MURXLVI2TXlnVnVDalU3UkcwMA?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 18:25:31 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Can sheep save the glaciers? Swiss scientists put wool to the test - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdTNQRFJJUjNTdElFZ2psRzEtUlZ6VWJnVFlWWkJDa0VzclBnbFdieENQWnRMZlJBVHlDWmNmTHpNVjM4OVc1a2pxMzVwWnd6M29PTjhxNE5UUGVJd1J1aG1RQTRLQ3FqZUJuZ3hsZjJ3QzA4Q0VZN0JXWEI2UFpzTXBtV1AxeXRnbUtDWUttckhDbXZuLTBwQWc3QlpRXzQ5bndCeTY0emJmZVhkZFE?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 17:26:10 GMT",
+          "title": "Nvidia sets October launch for RTX Spark AI PCs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdC1pZ1NHT2w3M2RTeXRhbW1BNDVuM1pHVjI0LTVhMGMyZ2RYaDJ2QnhWUDhkUFJ3Yzg3dnVodXF6d2tyaTg1RTJ0T0dHc1FZY0pRWWpYbEktSEpYM0wxaDNQTW1GTGU3WXJrTHhwTkFTVWFaTFp5V2c3dE85R1ZrbTZWQVVWQzBLbXJNRkd5cnhLVWpPdFE?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 18:21:54 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Automakers urge Congress to quickly pass law banning Chinese cars - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUDVZZ0dqVmI3WTlWc0tiQTI4SzVMRXM4YjVlb0stNmFuX0dBYUFoZjBvQlBVMkFDMGd0U2NlbXBCN1NzMlEwT0tqbkpDdkZicmFRdFlvZXV1UjN6TUF3LWRzd2ZDbHhpNWdmb0VhOTRnWXg0RG5pRjhNeTdRcnVNbVVaZzNsQnFrUXlNR3Rfd0o3dlpfV0E1a0xaYTVXbWdaWm96YzZLWQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 17:17:06 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bond selloff is likely amplified by obscure economic rate - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3hINFZzSVVjWVplYkpEeHgzVGxZSmxxTUlGQ2xYN3gzZXBneEkzN0Y1bjhIaUN3akRUcFQtcGpBODF5NUM3YWdkUkw1ZWRCcjMzQjNQN0pMbVZMRmtTZzRuU1lxZ3dJelZJcmw1TWtiZ2dTSVpDSmt6aXRhbGFUaXV6RXMzb1dJVEk2bm9RT2hFckFHb2hTRHhwRHBzU0tqQ3dVWU1xTEtLZVQycHZ4QmVhVFd2Rk1BUmc?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 16:51:42 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Feminist activist Gloria Steinem dies at age 92 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFdLOGdBaEJnX2gtRkpFR283dUxMS2JHcHlRNmhmTTM4S3lQQkdSSl9VeE9sa0RLX0JWRm1aVk5pM05PclNaX2Q4dTVLVmtKRWFjdjdlOTQ0OXA2Q3ZhOVI5QTNfUDJxNm5Vak1sN241OHlXSlo4TzljVEJyTE1ac1ZRUTIyd0wzSUUwNjFKUQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 16:47:00 GMT",
+          "title": "Fed's Waller channels his inner John Lennon with a plea to 'give disinflation a chance' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVJjV3EyRTlHeFIwYWxSa0EtRkM1YzFQOExsR0cwaFRrVEo0MUlXWTMtdHhpam5seDNOQWJYQ0NYVGJkVDJNMkR4NHFsX2RJTkxPM1dDd1Z4T2s3R1ZZaFdoQV9CXzE1WUw3YXNZdnpFZFJBZnVGWnkxbVpUeVdoRk11eTdHWHBLVjIwREZldUNmYzQ4TFd0WWlKWXhNYm50MW5hYkpnUE5PaHdaUHhVUUlQWnN4UTE1U21jamtTVQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 18:11:10 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T19:00:21.848Z"
+      "updatedAt": "2026-09-03T19:25:13.904Z"
     }
   ]
 }
