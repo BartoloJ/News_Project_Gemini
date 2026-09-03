@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-03T09:00:33.737Z",
-  "lastChecked": "2026-09-03T09:00:33.737Z",
-  "lastUpdated": "2026-09-03T09:00:33.737Z",
-  "generatedAt": "2026-09-03T09:00:33.737Z",
+  "fetchedAt": "2026-09-03T09:21:37.037Z",
+  "lastChecked": "2026-09-03T09:21:37.037Z",
+  "lastUpdated": "2026-09-03T09:21:37.037Z",
+  "generatedAt": "2026-09-03T09:21:37.037Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T09:00:32.610Z"
+      "updatedAt": "2026-09-03T09:21:35.908Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "As millions of kids lose SNAP food benefits, free school meals are also at risk",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5954205/snap-food-free-school-lunch-usda",
+          "pubDate": "Thu, 03 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "He tried to eliminate FEMA. Now he says the Trump administration has changed course",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster",
+          "pubDate": "Thu, 03 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Democrats demand Homeland Security officials fund election security ahead of midterms",
+          "link": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
+          "pubDate": "Thu, 03 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Morning News Brief",
           "link": "https://www.npr.org/2026/09/03/nx-s1-5947221/morning-news-brief",
@@ -91,28 +109,10 @@
           "link": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions",
           "pubDate": "Wed, 02 Sep 2026 15:56:58 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "A jury in Malta acquits a businessman in the killing of reporter Daphne Caruana Galizia",
-          "link": "https://www.npr.org/2026/09/02/nx-s1-5954420/daphne-caruana-galizia-case-yorgen-fenech-acquitted-malta",
-          "pubDate": "Wed, 02 Sep 2026 15:48:18 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
-          "link": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
-          "pubDate": "Wed, 02 Sep 2026 14:17:19 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "New immigration court tactic leads to huge lines and chaos in Miami",
-          "link": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
-          "pubDate": "Wed, 02 Sep 2026 12:42:48 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T09:00:32.803Z"
+      "updatedAt": "2026-09-03T09:21:36.011Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,12 @@
           "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
           "pubDate": "Thu, 03 Sep 2026 08:48:25 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Oil prices edge lower, while Asian shares rise, tracking Wall Street gains - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRm1qUndzRGJ6NHpzRWZueGRlcTNFS0tCb2RQakc0ZWZnUlBjUkJJM2d5RGM3eEJOelBwc21LME4xazIxc1ktTzVPOVNjNWxrb3hYenFkemtuR1R2Q3Rvajk1Tmd1RDZLX2lnT1F2TGxldDBDXzFOM2plMmxPLWpUaVZJVEt6RHRYSGtVcVA1TGRqRjB3NWY0OA?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 08:38:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,12 +154,6 @@
           "source": "AP News"
         },
         {
-          "title": "Oil prices edge lower, while Asian shares rise, tracking Wall Street gains - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRm1qUndzRGJ6NHpzRWZueGRlcTNFS0tCb2RQakc0ZWZnUlBjUkJJM2d5RGM3eEJOelBwc21LME4xazIxc1ktTzVPOVNjNWxrb3hYenFkemtuR1R2Q3Rvajk1Tmd1RDZLX2lnT1F2TGxldDBDXzFOM2plMmxPLWpUaVZJVEt6RHRYSGtVcVA1TGRqRjB3NWY0OA?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 04:45:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "A US journalist sentenced to 2 years in federal prison for acting as an illegal agent for China - AP News",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPajM3al9VNTlJZ3YxUF9IVTNiM3ljSnF4MlJ2N3Vub3FETFZZaGJFdU9FMEp2ZlptS2NELVNRMjVVb2x5cDcyZGIxSUd3V1hPR1hTOFhYa2lqWFFYaWtiTE5CeVFHekg4ak9kR2NCc0FER1h1S1FkV2RyVGhtcm5TRG1lWDlnbFdLTUZqWmhuRmNCbUhrRjRVOTRvUXYtTWZtcXRSaS1mU1M3RWtVcGhaLS1keFp1TUZCcHJJ?oc=5",
           "pubDate": "Thu, 03 Sep 2026 04:44:00 GMT",
@@ -167,11 +167,35 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T09:00:33.355Z"
+      "updatedAt": "2026-09-03T09:21:36.641Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Beijing accuses Pacific forum host Palau of 'hype' over its missile test - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPelc5UFA1VjR3eENZWHFoRGNoQXExUzNLQkxyVG8teENwdFBDNWhiT3A4dl9pYWRpXzdHWXJoMHdvZjZYM3pJdVJqenpWN1hCcmRtdmpQTTFMZE5PRzFxc0VxWjNTNzZOOHJOTlBTQnNVYXBGQU1zZ1gzRWYxQTBNR2VIUHBCSk9jRXNNSnhWRlJXY3dzT1BBemtIUjRhUUNKbDhiRFdJXzZ5aHQzaFdRQVZ5WEU1QQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 08:59:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia to close branches of Germany's Goethe-Institut after drone spat, foreign minister says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0hhbGxvSjRDQUxyRlFvQmM1VzE3VEIxdjFvM0ZELXB1RWRTZ1hEUXM1Rjl5T1NMRjlETGE1UFJFZFI5LWcyOUJzZ29lS09KeGJlaGVnUTJDS3pQMzFkOGxlakxDVGEtd3huUEM4ekRYUF91VXpEOGM4WDRaZC1SQmNJUTVva2o1YjJsbnh2TDhreEVrZ2VscGNlcEhzWlF3UFgxR25mYWtuZ3ZkRXJ5eDUyRmJNdw?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 08:53:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Stocks, bonds gain ahead of US data, Fed comments; yen rallies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 08:44:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran war escalation raises concern over civilian death toll - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 08:24:48 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Russia recruits Danes for sabotage planning, Denmark says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWG92UXB4Yy0zWGtnZzhKVkpybmE2cklaUkhxSG1ueXBHWmpqV3lGLU94WDV4NjV6Sm1YZlFhWDBZVzRiVU1ENDJuZzN3dTdMT0hPRlpieS1ZZHVFYTR3WTlIbzFjNExwODhUR0lfSEQzTkdqeWlFelpYMUFIOURpRHQ1cHRPNmRJMXpRby1tVFAzc0ZyOUF6MzhR?oc=5",
@@ -191,38 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Chair of Pacific leaders meeting urges united front on China missile test - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPelc5UFA1VjR3eENZWHFoRGNoQXExUzNLQkxyVG8teENwdFBDNWhiT3A4dl9pYWRpXzdHWXJoMHdvZjZYM3pJdVJqenpWN1hCcmRtdmpQTTFMZE5PRzFxc0VxWjNTNzZOOHJOTlBTQnNVYXBGQU1zZ1gzRWYxQTBNR2VIUHBCSk9jRXNNSnhWRlJXY3dzT1BBemtIUjRhUUNKbDhiRFdJXzZ5aHQzaFdRQVZ5WEU1QQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 06:42:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russia to close branches of Germany's Goethe-Institut after drone spat, foreign minister says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0hhbGxvSjRDQUxyRlFvQmM1VzE3VEIxdjFvM0ZELXB1RWRTZ1hEUXM1Rjl5T1NMRjlETGE1UFJFZFI5LWcyOUJzZ29lS09KeGJlaGVnUTJDS3pQMzFkOGxlakxDVGEtd3huUEM4ekRYUF91VXpEOGM4WDRaZC1SQmNJUTVva2o1YjJsbnh2TDhreEVrZ2VscGNlcEhzWlF3UFgxR25mYWtuZ3ZkRXJ5eDUyRmJNdw?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 06:31:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran war escalation raises concern over civilian death toll - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 05:42:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Vietnam court sentences 11 to death in major drug trafficking case, state media reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS3QtVHFjQXE3NzNLTTRmbU5OMXZsQTlGbVFNRi1FbEdpa2pVeVhGcURyUjBGZmNaNmxGOXp2WXhscUlVcUJWaGN3LUxOSkExSldvRHVfa25wV2h1ZGhKTEpGeDNiMmNKclpOVHctNU9hSVNMYWp1Tjd6NFBOdFdqa09tVG11VUhON3lidlVhR2N5RFpQS2V6a3RlcjNxOW9BWndNSDBWT29qSzZQMVA3cHp4VlV3VElPMkI0aFlYOUlyQ19rWjYwMk5ydWhPUzly?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 05:37:26 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Why a longer working week may not fix Volkswagen's woes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeURBX21jZFhRR0cxRWxaekJXS29QQkhwUFlZaFpCY1JldjlINWZ6UDhKb2MyN05MSE1qaWw1ekdlcjY2d1BfajhmRElSakJlRzlvNGhndmFKY3ZLTFN4R2FFRGZDSTVLdFYzcWNXNlV1Y2NpWTQ2M2xmXzNtdXdEQS1XOUFGX1RORFlkRVNCdFM0TmZZbmM3TG1nWUhlQTlpbC1nNW9pMm1yUl9EbXdqSQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 05:02:00 GMT",
+          "title": "Turkish rescue teams search for 10 missing after cargo ship sinks off Istanbul - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkVyYmYyTmp1NmFGaE5fZFBWcnZ5NnRaQ09sendHVW8tb1NUQWhNTEFXQ3J4U0MwdW5vYmZOT3VUdkI4X2pLQ3p2Zl9BSmdNaUVDX1I1X0VJekp6YzN3MEZ0Ujl2OTF0allpNzE3SnVMV0FMNE1tWmtRVld2dl9HMjFVMldXWkI1OHRGQ2FMWG95bHdYQS1JVFBCN0lhRjhfRjVDT3NMV1BlS0VsTVo3TncwMnI2elk?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 06:40:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T09:00:33.737Z"
+      "updatedAt": "2026-09-03T09:21:37.037Z"
     }
   ]
 }
