@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-03T00:00:37.135Z",
-  "lastChecked": "2026-09-03T00:00:37.135Z",
-  "lastUpdated": "2026-09-03T00:00:37.135Z",
-  "generatedAt": "2026-09-03T00:00:37.135Z",
+  "fetchedAt": "2026-09-03T00:25:14.128Z",
+  "lastChecked": "2026-09-03T00:25:14.128Z",
+  "lastUpdated": "2026-09-03T00:25:14.128Z",
+  "generatedAt": "2026-09-03T00:25:14.128Z",
   "sources": [
     {
       "name": "BBC News",
@@ -56,8 +56,8 @@
           "source": "BBC News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-09-02T23:50:19.059Z"
+      "ok": true,
+      "updatedAt": "2026-09-03T00:25:12.792Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T00:00:36.275Z"
+      "updatedAt": "2026-09-03T00:25:13.008Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVU4MVZQTEgzNGtFVGZsZGNJRWJyaWtNZTJBQmh5bWZjRldXQXp5SVpoQkQwVVJjWXJZVG1CSU1XTFRiNlpzWGhCR19LWGU0bnhwQVEwaTlDS2FjenVEdzFDb1QxUHBEMmFYeGp2Ukt5cXdCYWhHQlk2eDFyZlJNMGhLTzVvaEJkc0hTOGJnaDU5LUsyY1p5dThpbTBrU3hzM3c?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 22:56:00 GMT",
+          "title": "At least 1 person was killed, 6 injured in downtown Minneapolis shooting, hospital officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFhxN2I2TC1pb180UEJRbUVDNWtzenZ2MDFTWUlTZFdUSm1oZ2UtSVE4ZDhud1ltbEtiM3lIak5KaHNfM0FaM20zSUx0TE9LRUNjY2E4WjlES2N5eHFSTzBfTkhKN19rQU9ldlNXZVhwVzVMRkFQbE4tQjhySk81cVVXVm9kMlR5Qm82MDJ3SkFfMll1NzVPQU42RQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 00:08:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzlMNE80ZXdIenN2SjFSaXN0X28yUVhNSFNiTFRLTVFjU25vNkxfU2loQ0x2Rk53WFViLWRkM3ZyaWVsRUVFY19say1PcEZWRU5obk5aU284dkduXzNRTFZaOWwxYnowalo4TlVLSTFpaVdDc1dIZDZ5UnNaUjJna2EyVHJ2c0RtWmNEWWJNRFBqTG5sZ0JDVE05OVd0eGs?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 23:24:00 GMT",
           "source": "AP News"
         },
         {
@@ -130,15 +136,27 @@
           "source": "AP News"
         },
         {
-          "title": "A shooting in downtown Minneapolis leaves multiple people wounded, authorities say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFhxN2I2TC1pb180UEJRbUVDNWtzenZ2MDFTWUlTZFdUSm1oZ2UtSVE4ZDhud1ltbEtiM3lIak5KaHNfM0FaM20zSUx0TE9LRUNjY2E4WjlES2N5eHFSTzBfTkhKN19rQU9ldlNXZVhwVzVMRkFQbE4tQjhySk81cVVXVm9kMlR5Qm82MDJ3SkFfMll1NzVPQU42RQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 22:30:33 GMT",
+          "title": "Jury in Malta acquits businessman in killing of investigative journalist - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlVmQUxKbFNXVXhYNWQwOEJkbVFZSnEtSk5RMkZfbUZacmd2UmNiSXpJdURkVlhOeDdHSER5R2tEYUIyYmxhck1xZ3dNeXROR1V1c0xSY2E1QmxuU3R3SDlSbTBnQk1BT21tWGduY2phVGxfMEswUDhQMEFWYzNTV29LVmZfSVlJdHdTX21PRy0yR1FqTmgtM25GTE56b0otM2YzclhVY0l0dGVRR0N5VlRaZw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 22:45:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzlMNE80ZXdIenN2SjFSaXN0X28yUVhNSFNiTFRLTVFjU25vNkxfU2loQ0x2Rk53WFViLWRkM3ZyaWVsRUVFY19say1PcEZWRU5obk5aU284dkduXzNRTFZaOWwxYnowalo4TlVLSTFpaVdDc1dIZDZ5UnNaUjJna2EyVHJ2c0RtWmNEWWJNRFBqTG5sZ0JDVE05OVd0eGs?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 22:03:00 GMT",
+          "title": "Deadlocked jury in Lindsay Clancy trial goes home after a fifth day without a verdict - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDR2aHlEa1YxemttTW9SQzE4cmFFMDlJS3lVNWw0dFU0R0IyTmNJcHRjTE9HM2F2V1RrY19qamNtSUQxekNXc3BqWjZZanpHbTQ1S0hZbmdFTFhLUmNfd1hWRGpCTU10R1BEWXpOTmVsN2FOaTh4bE5fak53R25XUV9Jc3R4dURYWDduWHhybk9nQ1lDLTdYTQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 22:35:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Tiger Woods pleads no contest to reckless driving charge over rollover crash in Florida - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmVlMUxPcy1WZnNsam52M1N3aHE1V0NNbmJScW54c3FIYXNvd2d0WVktUFFHTm9yVFhLUkRmRVdaMV9SNjZaTk1ydmRBTHZmaWxYTEZXc3JYb3NxeHkyckVCS1lqRG0tM3BWcmlyQ09rY2syQlZIRUNiekdSNm9yMDhGdTUwY20yWDZlS1NjbzZGbEhGcUdkNw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 21:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Graham Platner no longer scheduled to speak at Labor Day rally - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDNvM2FJUHEwLXQ4a1MySURqa2pfX21mMmRMbUFZNUNrUVFOLXdMMERCbWo1dGV2XzFFQlBIMGtrQ3FQWWxJcFRwT0NQTHY1SkhEOHRDd29Jc05XVE9MWUpxd0VuY3RqR0kxUzFvdnpsWUZnYm10T2YyWXI2aDE4WHJYM2lWejFtV3R0dEF4aTBvT0V5UExReTAzMGtCekVaWDBINzln?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 21:37:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,28 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
           "pubDate": "Wed, 02 Sep 2026 21:23:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Driscoll offered no reason for his exit as Army secretary but said Wednesday was his last full day - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0hCZ3lyMDQxcjRSWjFmdHhFVW5hY2FzQURXZXBQdDB2dExhV1NXLUxRYmx2Qk5DYUR0aTZLNDVKYjBwMGI3S0ctYjFzYXVoTW5pQ1JWbklUZzFDRl9WQzlmZXhwTVpPOEhKUTFUakJEd0tYMVVzcVNISTRmNE0yUnNxTUhKejNDamFZcEtGQno3YmxPaUxOUUZnb0hpQlpUdzF4aFJFeTN3czFmYkE?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 21:22:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Gunman wounds staff member at Virginia elementary school, then kills himself - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNTZtMEdHSU9jY2FSX2xjb094YVNlUEJwOTRlTlhBdGM4MVlmdl9sRG1ISXQ1Rm1PX0NXWW5zdlZVbWppQXliVnBHMkpwNHJoNmdNYWRTSTFYNWZuSmdwc3U0Unp5VktqbUhqYURoRXVWRDRGSVVVM0xRMTRQNHBsTi1IOW5WdVpVdktWMmF3OHdwZzFOMV9EeS1qaS0?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 21:08:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Cassandra Wilson, the two-time Grammy Award-winning jazz singer, has died - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUZ3eF9JbEp3ak0tRWxfSXY4WjZXUEphcWVYVUc5SzFwc1MzR01UVDRrUXBOQzRBdzJYemp4SHkybHJKVkpsanpoam5MU1UzWEJpMFhLYXN3RXhuQ3labmR1NnBESU0xMGl6ak43S2xCNTFURHhqLS1GSlFvOHBfY0N6NGFEU3Ex?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 20:54:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T00:00:36.749Z"
+      "updatedAt": "2026-09-03T00:25:13.719Z"
     },
     {
       "name": "Reuters",
@@ -185,9 +185,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Nepal rescuers race to reach any survivors trapped in tunnels a week after disaster - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnNFSE15OEdqaFZ4TkZ5TFFyWjZVMldBWmpxYWFFSDdnRVdDejlGN1VZdF9YWDVWYzZ4UDNKLW5Od2Y0X0tZOWFTbHE5QklNTm45TXozWXpoRTRyQlVJVzlWT3Y1RzBlVS01S3lDRWFOT1Q5R1ltMXBhejRHemg1UEpJdUJyYmE1b0lMd3lCWHFjR21XOFFaai1zOGd2Z2h6VHRFZlBZdzhzeWRnUURfb3o5Q2dnTU5sTC1xOA?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 22:46:26 GMT",
+          "title": "FBI probes report of data breach exposing millions of drivers' licenses in US, Canada - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDItYm9XQjBxZHFNa3JoTEctM0tfbUljV0cyUHo1UEs0RjRaeEVRZXVyZVZCQTV4T3ZnWDFScE1kbEVJZW93Sm5pZWdjZmVaZGM5WUtPZEpkSmRueFZWbk9pTG10MUFZTXFzRTNmNWJDLVl0dks3Vkx1ZWVJcGlTYlVVX1hiTWw4dDFqZTNXcWtVMWs0aG5KMlEwNnY0YTFzVXRoOHhrWnlidUMydF9aTDZNRDV6NE5NR0lSMXdVWQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 23:08:14 GMT",
           "source": "Reuters"
         },
         {
@@ -215,14 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Democrats sink Republican bid to cap Supreme Court at nine justices - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT1ZPNmVMcEF2RFdQM3BQdXh4TE12YkgtRTZnT0lJWU1uMlN1Q1IzSnlDVzhtQkwzOUdSTExNSWRmTDctTXAxd0FUdGg5cGx2TDVjUEZlY1ZJTWtjVWtNbXFnWVk5Q3FpUTZIa202aUhHdWI5QzVYcTJLWkJPNHFyLXRRWHlOV0UwUDQ3VTItMWxUWmlaRmx3dFJZdGZHbVJuUjJiamN4Vm1zRWV0bXM5dXhHU2FOdGx4WXVUV2JfZzNGUjVnWFJGOQ?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 22:07:59 GMT",
+          "title": "US urges G20 countries to allow AI training on creators' work - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 22:04:30 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T00:00:37.135Z"
+      "updatedAt": "2026-09-03T00:25:14.128Z"
     }
   ]
 }
