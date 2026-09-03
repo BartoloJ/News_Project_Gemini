@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-03T10:00:21.366Z",
-  "lastChecked": "2026-09-03T10:00:21.366Z",
-  "lastUpdated": "2026-09-03T10:00:21.366Z",
-  "generatedAt": "2026-09-03T10:00:21.366Z",
+  "fetchedAt": "2026-09-03T10:25:14.358Z",
+  "lastChecked": "2026-09-03T10:25:14.358Z",
+  "lastUpdated": "2026-09-03T10:25:14.358Z",
+  "generatedAt": "2026-09-03T10:25:14.358Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Watch: US man struck by lightning describes 'horrific' experience",
+          "link": "https://www.bbc.co.uk/news/videos/cz7z93zde3po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 03 Sep 2026 10:01:33 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies at 33",
           "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 03 Sep 2026 05:00:04 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Trump $1 coin makes him first living president on US currency in a century",
-          "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 03 Sep 2026 03:39:53 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T10:00:20.097Z"
+      "updatedAt": "2026-09-03T10:25:13.471Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T10:00:20.366Z"
+      "updatedAt": "2026-09-03T10:25:13.516Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 09:52:35 GMT",
+          "title": "Lindsay Clancy jury to keep deliberating but there’s growing risk of a mistrial - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdldkSUJTdGNsQVE2NENrOFhmRGhxcTFCLWhqNmtWNUlIbUd1XzB1cTNya0hQeTNwUmt6SG1reTNiZnZwUWNyWE5rTERnTkY5bDZ2em16MjA0UDRCbER4dV95ZGFfdXN0MnhzRGR0MkNnVXJTOUN4blNhVjM1cHNQMzhSWVJ2V2VUaS03Ni1CdFVPU2FGQVE?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 10:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "2 people killed and suspect is dead in downtown Minneapolis shooting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFhxN2I2TC1pb180UEJRbUVDNWtzenZ2MDFTWUlTZFdUSm1oZ2UtSVE4ZDhud1ltbEtiM3lIak5KaHNfM0FaM20zSUx0TE9LRUNjY2E4WjlES2N5eHFSTzBfTkhKN19rQU9ldlNXZVhwVzVMRkFQbE4tQjhySk81cVVXVm9kMlR5Qm82MDJ3SkFfMll1NzVPQU42RQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 09:51:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Russia to close German cultural centers after Berlin blames Moscow for airport drone plot - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE9yNnJUV1ROS1J3Q3ppSlQ2elJRSDI0Yk5PQXBYbnI5SXlJS2tiREdEQl9zTFRUMDFqUEV3eGF3Z0oyTE1pVlhUdzhmOTE5M3Q1cXZhYmRLVzkzZEJzS1c5dkR0LWh5WjNBd3U0SUtXS2doaEFMbDQ4UWJ0aXRlTFhZRUowdjhRLUkwVnctRW40cndHRElGeWdmUmlHUnpQR3VLWHZSellwTWNHQy13dQ?oc=5",
           "pubDate": "Thu, 03 Sep 2026 09:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ukraine’s drone attacks caused turmoil for Russians throughout summer - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0N2R2lIcVdIQk1INTEzTnl5N2s3NFNFbjROUGY3Z2ZMZ2FTaExkWm5PQlc4d3pDU1BvODNtbTc2WmV4WDdPVUdNejFyTGp2OXRUOWI5NG9oU2VLSlRrWXNpWVNWQ0ZYN1FyZU1xUU5JVTVjbDF5LTh6eU1panJuMkFqTlVLeEJpT3FDQk1FY1BwcjFraUpuWkFkZnVWUQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 08:44:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,42 +164,48 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUZ3eF9JbEp3ak0tRWxfSXY4WjZXUEphcWVYVUc5SzFwc1MzR01UVDRrUXBOQzRBdzJYemp4SHkybHJKVkpsanpoam5MU1UzWEJpMFhLYXN3RXhuQ3labmR1NnBESU0xMGl6ak43S2xCNTFURHhqLS1GSlFvOHBfY0N6NGFEU3Ex?oc=5",
           "pubDate": "Thu, 03 Sep 2026 05:15:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "2 people killed and suspect is dead in downtown Minneapolis shooting - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFhxN2I2TC1pb180UEJRbUVDNWtzenZ2MDFTWUlTZFdUSm1oZ2UtSVE4ZDhud1ltbEtiM3lIak5KaHNfM0FaM20zSUx0TE9LRUNjY2E4WjlES2N5eHFSTzBfTkhKN19rQU9ldlNXZVhwVzVMRkFQbE4tQjhySk81cVVXVm9kMlR5Qm82MDJ3SkFfMll1NzVPQU42RQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 04:54:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A US journalist sentenced to 2 years in federal prison for acting as an illegal agent for China - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPajM3al9VNTlJZ3YxUF9IVTNiM3ljSnF4MlJ2N3Vub3FETFZZaGJFdU9FMEp2ZlptS2NELVNRMjVVb2x5cDcyZGIxSUd3V1hPR1hTOFhYa2lqWFFYaWtiTE5CeVFHekg4ak9kR2NCc0FER1h1S1FkV2RyVGhtcm5TRG1lWDlnbFdLTUZqWmhuRmNCbUhrRjRVOTRvUXYtTWZtcXRSaS1mU1M3RWtVcGhaLS1keFp1TUZCcHJJ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 04:44:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T10:00:21.005Z"
+      "updatedAt": "2026-09-03T10:25:13.988Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Gold advances on softer US dollar, bond yields ahead of payrolls report - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUhNZ1JkRGozUnRmOFd3alQyWTVjNjd4WXp4SmV4anJuRndaaEVRdzlXajB2b1pWUjh5LTJscnFjY0l6QkhINE9MaXAtRVVWVkdrVXZTSlRudFlSU2cxVVlMT1pkN21TTG55MUxyZEkxalhRUGNwRkVNYXZOeWZuX3VsSWx4alNGeENzSzdfSFRvRzlwdHNZRUppTGdIcHMtTUdrU05KV2VoQmNiWTNfOS1kVjNFMzFDQzFR?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 09:18:08 GMT",
+          "title": "Canada assesses risks to imports after India raid finds fake labels on food products - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdkFoZFo1WGRlSjhickRvcUhXVldORHc0RHNvWnBVYzhOVVB5RmF1YjZuV0tZa0p5a2NWNllNN3g4b1NYMGpPYlV0V0FkNHpHd2pzYzFtZ2RNUVVCN1NlU0hVQVI0blB1Rm82Nkt6XzdrZTRvTklPX3lQR2NLYzhCMVJmcTN3TDgtZmN6M0pyaldqc0w4bnZuWExSZWRzWTF6VzEwQ1lOZVpCaHRVRFc0c19WcmlxWHFMWUtDemhlNGVMNkZxVmlOR0FKbw?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 09:59:14 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Beijing accuses Pacific forum host Palau of 'hype' over its missile test - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPelc5UFA1VjR3eENZWHFoRGNoQXExUzNLQkxyVG8teENwdFBDNWhiT3A4dl9pYWRpXzdHWXJoMHdvZjZYM3pJdVJqenpWN1hCcmRtdmpQTTFMZE5PRzFxc0VxWjNTNzZOOHJOTlBTQnNVYXBGQU1zZ1gzRWYxQTBNR2VIUHBCSk9jRXNNSnhWRlJXY3dzT1BBemtIUjRhUUNKbDhiRFdJXzZ5aHQzaFdRQVZ5WEU1QQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 08:59:05 GMT",
+          "title": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT3M0Q2ZhaUlPQkc5bzU5MUEyMlpEaFFMVU5uakRWOEJkek85Z2ZsVWxjc0JnR3NrTFdXOGRIdDRQWmhobmhCZU9iVE9sakxTTVE0ejBhRnAyX1BaM0huMlVvZEJHREh6YzRQMzRLaXZRU2xtRld0THVvODFwTmJwa3BhOU9TQ1ZoQ2UxMldKVzlwcThoWTlEcVctbjhuZ2FqQVc4UTZwejhYeGtvWXJCdTBMaHVnSTVFbDVZSG1nVXYwOEtp?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 09:52:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Apple facing $2.7 billion UK lawsuit over 'unfair' app tracking rules - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaHRUNEVSV0hvdVo5bzgtTWk4dVl0REZLQ0RPbWhpMjF1SHNCWE5uRlBNYlJ3N1U4VTVsOVBDQlJvS2dSU0pvd1BEQXkxaGJ5dDV6MDBNN1Ytb1hPYTJJOFl6c3VKODBMRjdXM21IYVJUODQ1Q29uNzBHYUZWSVUzNHVFcjU4RDVEUjlBUmhoeDF3SzN4VkVzTWZCcXp5bTFxR0ZPZ1FDd3VoZ1M2T1ZQWDZhWktKYXR0aUszVjJUY2ZMQ1dY?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 09:29:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Standard Chartered launches institutional spot crypto trading in UAE - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVi1NWTZIN2pkZjFtUmRka24tX0MwZlJnWkk3MmVLVS12OHI1SDkxTm1pdGdnU250MFpXc1JBRTVKMFhhVW1Uc2xWVmtSSUdoNGVpeHBTaHVRSVZpTy1VOHBnS0tuYWp2Q0tEOEFYdHJfTUF6QnJmdWVzWHQyVzcxdFRSaWxWVHJMNGpzUGpxdkJQMjVBRDBfbWlRcUdxdGtaMHpvR0UxZHVYdDJJY3ozTDIwakhmWERtNmY5cTZR?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 09:06:45 GMT",
           "source": "Reuters"
         },
         {
           "title": "Russia to close branches of Germany's Goethe-Institut after drone spat, foreign minister says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0hhbGxvSjRDQUxyRlFvQmM1VzE3VEIxdjFvM0ZELXB1RWRTZ1hEUXM1Rjl5T1NMRjlETGE1UFJFZFI5LWcyOUJzZ29lS09KeGJlaGVnUTJDS3pQMzFkOGxlakxDVGEtd3huUEM4ekRYUF91VXpEOGM4WDRaZC1SQmNJUTVva2o1YjJsbnh2TDhreEVrZ2VscGNlcEhzWlF3UFgxR25mYWtuZ3ZkRXJ5eDUyRmJNdw?oc=5",
           "pubDate": "Thu, 03 Sep 2026 08:53:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China says it conducted survey of waters east of Taiwan last month - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSm5McDNlekkxSU9Hd2pRSHpkcGg2THIxdk96b3Z5QU9yeWxyWTdFclRQNkpVbzRzYlhHUmZFYTE2QW5QSkRjRXJtNWZ2Nk5acUx1YkVla3ByQ2V2WWJLc0s1S05MX2lVMUhZdnlpX1NhUkRvRGl4ODA1bFdKU0U2QW9Dd2Z5cW1nUFZmZlVpcVFQSWpiYnlXN3ZPQ3ZrNzJmYWs4MzNRR0JEamNMbkVPMDdweFBHUQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 08:48:01 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnVCOGpCQkJrVXBLSjBiZGtOb0FBR29SRG4xbzR3ckVHNEpBQ0dKTnNZQTY5STNlZ1FuUnRUaXV1X2NzSFNoVG5XRUhLZXB2alZZdjIwQlo5M1R6Um9rMUNBUk12T1NYUml3akk4aWxmSmNiemdXUGFpNzN0cHBmbHdNWjJZZGowLTBnb2FDZm9EWi15cDVCWFd5VGZKWkpwUDVuT1ZDcUVvTUtYcHB4MkdaY2s0aHBVZUZPczZR?oc=5",
           "pubDate": "Thu, 03 Sep 2026 08:41:53 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Iran war escalation raises concern over civilian death toll - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 08:24:48 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Spain's PM Sanchez says no evidence Morocco orchestrated Ceuta border surge - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTTkzbWhhWktPS0RDWmlYRFBhRkJUUXBYNjFZYWpwZ3lwbHhFaHJqd2hVMWdzV3JDYkt5amxZYUVkd01iUVo5Z2U4a0QwRG1WYlVVaXd0eE45YzBSczEyNlRvY3JuNGdBaHFtT0NubGpsTHpqY2RqQk9ybW5PZzJ2Si1EcTNNaGlIbjZPMnhrR0s1bTBVTmNJUTVuODlkZlhvaGw1Q21ZbFdSNmlDN1o5eU1xRGFKSzBWLXhrNEdIaHE?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 08:21:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil falls from recent highs as investors weigh uncertainty over US-Iran strikes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5vakhhby03N0RCUHNMTU1jY1F4OGdsMmt2cThTLW5hU0VNM181YUVwYW1wSlJsbGoweDQtd3ROSTFfMDhUSGpWMHI5WG9qeTByTGJpVTRZaER0dGlwZ1BULXVRUzlPemRSOC1ranltaDQ0QjJ4OWMwWTRrNjJ6eDdkaExIMjFiVDJlbUxZcTU2Sk1DRE1uNTR5SkdPM0VJanktVUI1RkNpcXoxRkxBN1lkUDRnUQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 08:12:10 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T10:00:21.366Z"
+      "updatedAt": "2026-09-03T10:25:14.358Z"
     }
   ]
 }
