@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-03T13:42:51.717Z",
-  "lastChecked": "2026-09-03T13:42:51.717Z",
-  "lastUpdated": "2026-09-03T13:42:51.717Z",
-  "generatedAt": "2026-09-03T13:42:51.717Z",
+  "fetchedAt": "2026-09-03T13:50:22.989Z",
+  "lastChecked": "2026-09-03T13:50:22.989Z",
+  "lastUpdated": "2026-09-03T13:50:22.989Z",
+  "generatedAt": "2026-09-03T13:50:22.989Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T13:42:50.797Z"
+      "updatedAt": "2026-09-03T13:50:21.394Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T13:42:50.957Z"
+      "updatedAt": "2026-09-03T13:50:21.506Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Lindsay Clancy jury is deliberating for a 6th day but there’s growing risk of a mistrial - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdldkSUJTdGNsQVE2NENrOFhmRGhxcTFCLWhqNmtWNUlIbUd1XzB1cTNya0hQeTNwUmt6SG1reTNiZnZwUWNyWE5rTERnTkY5bDZ2em16MjA0UDRCbER4dV95ZGFfdXN0MnhzRGR0MkNnVXJTOUN4blNhVjM1cHNQMzhSWVJ2V2VUaS03Ni1CdFVPU2FGQVE?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 13:31:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 13:27:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
@@ -136,21 +148,15 @@
           "source": "AP News"
         },
         {
-          "title": "Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 11:32:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Federal judge considers whether to extend ban against US Postal Service mail voting changes - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNci1PNmVNOTJNZ0ZmeUxKYmtpVUF0dEYwRzRxYld3YUFvOTZXRngwdlpIY3EyWEJXTmY0Z3hXM0Z5LVFCUFg3bXZRZGUtT0NYZ1Q2U3d0eExoX0d1WFp0dzJLX215RTVtd2ZQSHFCUjBpdGlSZGo1SVUxYkdnR1ZfalRob3dPSmYzaTAyRzhXdTJMRXpJMUVlbVVvZU84YXV2M0cw?oc=5",
           "pubDate": "Thu, 03 Sep 2026 10:25:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Lindsay Clancy jury to keep deliberating but there’s growing risk of a mistrial - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdldkSUJTdGNsQVE2NENrOFhmRGhxcTFCLWhqNmtWNUlIbUd1XzB1cTNya0hQeTNwUmt6SG1reTNiZnZwUWNyWE5rTERnTkY5bDZ2em16MjA0UDRCbER4dV95ZGFfdXN0MnhzRGR0MkNnVXJTOUN4blNhVjM1cHNQMzhSWVJ2V2VUaS03Ni1CdFVPU2FGQVE?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 10:07:00 GMT",
+          "title": "Finland runs Europe’s biggest civil defense exercise since the Cold War - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdpNVR5R0JHdENSLVdzVjExUTE0SWRmTFVtb19BZW1nd3lzOVdCMklHeU1aZFlLZTdWbjhIc1kzY1FEbmZOZl9UWG1RSUxOWU1GemVBM01CVVBTWEtUVGtxMEFYVTdTdElfTXc4ZGp3NE5QN29pMzVZMUk4enRtVU1rLWZfSklJSWp3M1lqdHU3dUFGd3ZiMndYODVSV09PWHRHQl9YQmx6OEdRNWc?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 10:11:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa3Q0dk9qa29Ob0hQOE1PVlhkWjVWaXNMRmJYQ2hrbXhSaFRlMUZZbDY5cnpER0Q3OTQxc0hDX0ZnRDBhSG1ycHNaN3NKSDNYUWNBMWVsU0NrWnF1X3ZvZEc4ejYxMldIQnhRVE94dGtidEtpdEszRXdudlpzTmJBVXpqdHlVWlFXRnJjcWhpVnJFN1JtTDNwVHRsc01hRTBxZE04VHVnZHhfTXp6YXc?oc=5",
           "pubDate": "Thu, 03 Sep 2026 10:02:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Ukraine’s drone attacks caused turmoil for Russians throughout summer - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0N2R2lIcVdIQk1INTEzTnl5N2s3NFNFbjROUGY3Z2ZMZ2FTaExkWm5PQlc4d3pDU1BvODNtbTc2WmV4WDdPVUdNejFyTGp2OXRUOWI5NG9oU2VLSlRrWXNpWVNWQ0ZYN1FyZU1xUU5JVTVjbDF5LTh6eU1panJuMkFqTlVLeEJpT3FDQk1FY1BwcjFraUpuWkFkZnVWUQ?oc=5",
-          "pubDate": "Thu, 03 Sep 2026 08:44:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T13:42:51.654Z"
+      "updatedAt": "2026-09-03T13:50:22.975Z"
     },
     {
       "name": "Reuters",
