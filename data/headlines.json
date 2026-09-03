@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-03T00:26:02.055Z",
-  "lastChecked": "2026-09-03T00:26:02.055Z",
-  "lastUpdated": "2026-09-03T00:26:02.055Z",
-  "generatedAt": "2026-09-03T00:26:02.055Z",
+  "fetchedAt": "2026-09-03T00:50:20.022Z",
+  "lastChecked": "2026-09-03T00:50:20.022Z",
+  "lastUpdated": "2026-09-03T00:50:20.022Z",
+  "generatedAt": "2026-09-03T00:50:20.022Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T00:26:00.926Z"
+      "updatedAt": "2026-09-03T00:50:18.570Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T00:26:01.139Z"
+      "updatedAt": "2026-09-03T00:50:18.920Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 00:35:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "At least 1 person was killed, 6 injured in downtown Minneapolis shooting, hospital officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFhxN2I2TC1pb180UEJRbUVDNWtzenZ2MDFTWUlTZFdUSm1oZ2UtSVE4ZDhud1ltbEtiM3lIak5KaHNfM0FaM20zSUx0TE9LRUNjY2E4WjlES2N5eHFSTzBfTkhKN19rQU9ldlNXZVhwVzVMRkFQbE4tQjhySk81cVVXVm9kMlR5Qm82MDJ3SkFfMll1NzVPQU42RQ?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDNvM2FJUHEwLXQ4a1MySURqa2pfX21mMmRMbUFZNUNrUVFOLXdMMERCbWo1dGV2XzFFQlBIMGtrQ3FQWWxJcFRwT0NQTHY1SkhEOHRDd29Jc05XVE9MWUpxd0VuY3RqR0kxUzFvdnpsWUZnYm10T2YyWXI2aDE4WHJYM2lWejFtV3R0dEF4aTBvT0V5UExReTAzMGtCekVaWDBINzln?oc=5",
           "pubDate": "Wed, 02 Sep 2026 21:37:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 21:23:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T00:26:01.639Z"
+      "updatedAt": "2026-09-03T00:50:19.604Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHVNSmdqeHMyQ25WbzBIbEllY05mcWZaNG9DcGFPR216TGZlcURDU0k3U3VhRTJROS1VMnFEZVp0cG1vN1h2MkxJdDFCdlpfZ1pJcWs0QVhSNTUxMmxTR1FkZlJSNUduMTRqMV9faHJuemt3eWRUNW1oamNYWVRILVoyeGtPODg1VUNsSWk2aVlWNU4zQmpwRExHbUkxUQ?oc=5",
           "pubDate": "Wed, 02 Sep 2026 23:31:56 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "More than a dozen Serbians targeted with mercenary spyware, digital rights group says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTTRGc25XczdUMXR3c0thLTM2MVQxUFF1Mk1jd1RPbXVRQUg5cUNvQm83SEJFN1BFNEVQSFZhVFZJZ00walpXV1JLZ2lkSS16WDJZR2dTbUdMQVZtMEJ5Vlh5Vl9nQW5wWEIxYVBta0RRRVBPXzhCbG8xVUJaMFNNR0dRZ2RUcnFBWUtBWndQSmEyOWdaRWpJZ0dlcndNcUFIWUhTai0yNDRaOXFMTU9xLTRTcDFEZGVXYlh5dTZUTTlpUzdRcDRLeUVB?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 23:22:00 GMT",
           "source": "Reuters"
         },
         {
@@ -188,6 +194,12 @@
           "title": "FBI probes report of data breach exposing millions of drivers' licenses in US, Canada - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDItYm9XQjBxZHFNa3JoTEctM0tfbUljV0cyUHo1UEs0RjRaeEVRZXVyZVZCQTV4T3ZnWDFScE1kbEVJZW93Sm5pZWdjZmVaZGM5WUtPZEpkSmRueFZWbk9pTG10MUFZTXFzRTNmNWJDLVl0dks3Vkx1ZWVJcGlTYlVVX1hiTWw4dDFqZTNXcWtVMWs0aG5KMlEwNnY0YTFzVXRoOHhrWnlidUMydF9aTDZNRDV6NE5NR0lSMXdVWQ?oc=5",
           "pubDate": "Wed, 02 Sep 2026 23:08:14 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Venezuela's Maduro asserts immunity, urges US judge to dismiss charges - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWdhQlFNRmx1cXRlUnBhX25OUUYxS0hWNmc4RXEwVVhYYll1Q2VaeDdQVE1zTVl6UG9Sa2Ewd2JkRlFNY01MQ3BwTURfYXV5c0FWSVVvVXpmbjhjaDdxUk5ic2F6RG5tRW0taEsyUUZxbG14aHdVT2YyeFAzSmktdDBLbFFiTkNKTkhmVjJSVHFHNUFBWU5LRnhnWWlkWU5ZVi1CTldzSTdFNEo0Mzd2U0xEQjhBRjA?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 22:57:00 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUmZ3SUhHbXJYY2d1bWZHdjZ4MHIzLWdpTzFRWGdWU0pfZDhpV3ZoWVJnY194WF9PR0UxQjRES2NjOHBIbkpTcW9iY1l0Y05uYS1kd1Fha2lnYXNVS1VyZ0xlWGVPaF9Qamh6R2lLZDF5bDBLUFdaTU1RNmtoMVhhcEFCdWJvZWlxNUpYc2FuSG0zb2hFRW1IUW9OZWVOUFNwbWF3V1ZWS2xoaFQ5ZV9CdFpGVEo?oc=5",
           "pubDate": "Wed, 02 Sep 2026 22:19:32 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US Pentagon issues clinical guidelines on troop testosterone screening to start immediately - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMWxZb2d6VVdtMGhzMDdubGxVaG5PVFRSRnRNanQwM1Ayc3FHT3VwdGJQdDBrS2kxdkpVRXJGemxGS0h3SFVQYms2TEllWkt6ZVowSHNTQWJyNGNxNWNyZE1jUXFiWkd0OFRVQ1FGcWY4MVVmaDhFb1djUmNPUmMzMnhhbnJGRmdrZTVLOU83SFJSZTQ2OHJEZEV1WGZKcm15VDE0QVFyMXRDSVY0aDJmUEpNZ0NKTUEtWkdZLXlSYl9mMnU5TXgxbjlXMUhWRUhMWEQ0Z1VIYTJreXc3elE?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 22:17:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US urges G20 countries to allow AI training on creators' work - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93?oc=5",
-          "pubDate": "Wed, 02 Sep 2026 22:04:30 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-03T00:26:02.055Z"
+      "updatedAt": "2026-09-03T00:50:20.022Z"
     }
   ]
 }
