@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-09-04T16:25:18.150Z",
-  "lastChecked": "2026-09-04T16:25:18.150Z",
-  "lastUpdated": "2026-09-04T16:25:18.150Z",
-  "generatedAt": "2026-09-04T16:25:18.150Z",
+  "fetchedAt": "2026-09-04T16:50:18.700Z",
+  "lastChecked": "2026-09-04T16:50:18.700Z",
+  "lastUpdated": "2026-09-04T16:50:18.700Z",
+  "generatedAt": "2026-09-04T16:50:18.700Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+          "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 04 Sep 2026 16:49:15 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+          "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 04 Sep 2026 16:30:50 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
@@ -17,18 +29,6 @@
           "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
           "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 04 Sep 2026 14:40:00 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say",
-          "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 04 Sep 2026 14:27:10 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-          "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 04 Sep 2026 14:17:35 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T16:25:16.897Z"
+      "updatedAt": "2026-09-04T16:50:17.275Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T16:25:17.211Z"
+      "updatedAt": "2026-09-04T16:50:17.487Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 16:19:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
           "pubDate": "Fri, 04 Sep 2026 16:10:50 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US issues sanctions on Turkish bank that it calls a ‘critical financial lifeline’ for Iran - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanB5cnFJYmZzM1AxbjlvTGZnanhyQzRiYWIzXzNPV1Y1NzhkRlUxZEIxMUdMVDZiX3l3U2N0dDNUZnRNeWF5UHM0SHhJNE55TmtyUDBOSHZWekxwdGZaVUJrWUM1QnpnY2R0TGlieVNhR3ZrTGV0Vi1KYk41bHVwSW4zRXRmcFNILVBXTzNQdm0?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 15:35:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,34 +160,40 @@
           "source": "AP News"
         },
         {
-          "title": "Russian attacks kill at least 3 in Ukraine as US talks on the war are expected - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 13:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump administration stalled a survey of PFAS in wastewater, former EPA officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXRYMkpHOW1IbzNoQm1jNkRDa2lRcVV6ekdpWnY0enhXYTdVX3NMTEJHcV83SnNKSFNZYzhjVGZCRWRDeUZBY0lwODBRRjJlN2JIRl9tc1hkVFhNbVNJLWhNVHk2SmRFcGxEZ3pPMk5wQkVyUU9nUDV3Wi1ISUFqWTlSa2plQ2ktVTJFNTlRQ0ZfX3gyWFlacHp4T2dacm5OMzk3eHZ3?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 13:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Rescuers pull 2 trapped workers from a hydropower tunnel 9 days after Nepal floods - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTVrY3laRmlFVDhQd0J3bmNGM0Y0bVEwTTNCUVVCcHJ4SVRSbG5RWDRoUjF1VkVCUXlWUlJYcFNqNjJnZ3JHQ1A4TFI2NzdwcFJCNWp5bDNNM2JGZUNMQmlVbXA4bFNjVnE1TE1HQW1waGpWazJiQnRPWDlnSVpJSDdTQ2EzaGozdlJVQUVfR0lsMWl0dUdPRm04Y29temM?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 12:30:00 GMT",
+          "title": "EU official scraps planned Serbia visit over handling of convicted war criminal Ratko Mladic's death - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzJmMlZ4MW5mWnFQTk1FTnpJd3VHYzkyMzJXc0ZwemJIWmJneWlaS3hIdXNUOFAxTGxHcFdiWF8yU3BhLWZqdFRMdDdZTjUzOXlqQUMtWjhqeFh5cGFCYlVkVGtqNDJMbjlnQnBUM2pBd1dCaTZzZTBlVFY5MHJ1TGUxWnJZbTdRdTlDQ2ZabTFqVzV6Mjd1Mm9GbElQSExw?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 13:53:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T16:25:17.707Z"
+      "updatedAt": "2026-09-04T16:50:18.090Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "How engineers in a WhatsApp group are guiding Nepal's tunnel rescue efforts - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0E3MkZHX3BnbHVnNUJTODJyc0JsYmlCdk9PSlJzcW8zTXM4V0tBQnotb0JDZ0Z0YS1KMlJMR1gwb2tTZTEyN1YzTE9rai02MnBNc2JZcVlIWjlta25tOUFFeFRWYmZJWmRNYmpMWFIwYmQtZ2VJSVBTMWNuQ2J0a2NoMU13aUxxLW5JT1QyU3QwTjRELWxZdXF2cFMtWUxlc1RYSUFLeHBRc0wxbWo1M1BnTFp1b0xyS2N3WjZNeFZoX0k?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 16:27:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St slides after strong jobs report bolsters hawkish Fed bets - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 16:25:46 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Judge says he must declare mistrial in Lindsay Clancy trial over killing her children - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONElYU2NZblhTTVRRT1RRMUw3R2swWmRtY0x1WVJpUHRnbXZhNlBNb0JYMHJBaVZzdWY1ZlNlbWt4Z0RrUi1wVk1HZ3ZQMGRna3U2TXUwOGZNLTVEbklPbjUtXzZMMHhHZWg1OF9iOXJaTGU4dktFcU9IVEFMLVZ5TjMtZ3RoSHByR1dzcGpxWWQ2c1Z0VHliMnVKaE1oTERURFdyRkRnNnlJb3hGVDZTQ0FR?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 16:05:43 GMT",
+          "pubDate": "Fri, 04 Sep 2026 16:16:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russian drone strikes Ukraine's security service HQ, escalating air war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 15:59:44 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSEp2N095ZTZRVGpXbnNoa2M2RmZUZWEwMGlyekx2bzR1R1JZb056bjZVak1YVUpWNVhIellmSWVOTUxsbVpVX2Y2N2MyTXZSMHhZbW9jdjI4VHUyNjVOTEk2SFFDTDQwSmpTMTB4Qm91NEFVOGFrNmtXdmVkR2RETmFBcW5WWWFrT0hsUUZZQmFPcTJMdU5MckVDdk9WRjdMZUh1dm1n?oc=5",
           "pubDate": "Fri, 04 Sep 2026 15:26:31 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Musk pushes regulatory limits with Tesla's Cybercab robotaxi service - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmtOa3E1eVZxWmlvUHp3eUM5OE44YW1TMWNwMldpUnpyMVZMclEzQkxuV0dYTnBSWl9VZnB5aHFxVS0xcXNURjhKZFNDaTZvSWZXQUNKdTZ4M0s2TmVRTGhqelg1QUFpTnBqSGhUaVlGbUR4eHZUcFVGM2wtX0w0RFk5bXY5VHFkRHZ5Snk3cUllVTF1SEpTMWZDNTZrNzlveHE4eHRjNWwtclBTR2hvSDN6eXdha2JWRmxmMg?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 15:23:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India's NSE eyes September 21-week listing after regulator clears IPO, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1MxaThhcGFxb1ZXZ1phbzBtcEloVzJDUW1UOXdRXzJSY3VrMktsb0VQalVEMFlFQVU0eV9zQ0hHclIzTHBFaWo3cTFaaWwwdEczcl91R0VhX2p6T0M4OWtyTTREMjVhbkxFSzFKZHBERWpFOFRCTjVsS211TXBKdzY2OUVpOHE4bmtpUWpvRkgwcVo3NURTeXJEbVVUOWFWUVE?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 15:16:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Nigeria's Dangote seeks around $1.5 billion with refinery IPO, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2c4bVpDbjdaOUhkNDFPX1dxZm5DSFoxS01TZF84NXNySlpDZkRLZFpidVMyaHB4QmlrNEpaaFo4dDFiQWIzLXptV1UtZnNVdzlQRW5kcFR2U1RoOV9tYWZUVHJWaFZqRXIwSUFabHdEMmZrSUpsNXpXOG1NUDJ0eFBQc0xUUGdqX2hTZWdXNm4wLVhGMEI2bXlpNDdVd3RTZU51eUZ4a2pQb3ZQZ21VZm1qY2E?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 15:15:45 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T16:25:18.150Z"
+      "updatedAt": "2026-09-04T16:50:18.700Z"
     }
   ]
 }
