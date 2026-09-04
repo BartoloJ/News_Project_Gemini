@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-04T20:50:16.635Z",
-  "lastChecked": "2026-09-04T20:50:16.635Z",
-  "lastUpdated": "2026-09-04T20:50:16.635Z",
-  "generatedAt": "2026-09-04T20:50:16.635Z",
+  "fetchedAt": "2026-09-04T21:00:21.243Z",
+  "lastChecked": "2026-09-04T21:00:21.243Z",
+  "lastUpdated": "2026-09-04T21:00:21.243Z",
+  "generatedAt": "2026-09-04T21:00:21.243Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T20:50:15.148Z"
+      "updatedAt": "2026-09-04T21:00:20.249Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump's arch may break ground without final approval. Veterans are trying to stop it",
+          "link": "https://www.npr.org/2026/09/04/nx-s1-5957459/trump-arch-excavation-lawsuit-veterans",
+          "pubDate": "Fri, 04 Sep 2026 16:15:05 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Whatever happened to the U.S. campaign to ban child marriage?",
           "link": "https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global",
@@ -99,12 +105,6 @@
           "source": "NPR"
         },
         {
-          "title": "Scientists map key protein interactions linked with profound autism",
-          "link": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
-          "pubDate": "Fri, 04 Sep 2026 06:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Germany's far-right AfD party is poised for power in a state election",
           "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
           "pubDate": "Fri, 04 Sep 2026 06:00:00 -0400",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T20:50:15.406Z"
+      "updatedAt": "2026-09-04T21:00:20.380Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T20:50:16.151Z"
+      "updatedAt": "2026-09-04T21:00:21.175Z"
     },
     {
       "name": "Reuters",
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-04T20:50:16.635Z"
     }
   ]
