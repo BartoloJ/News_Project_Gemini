@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-04T15:25:14.979Z",
-  "lastChecked": "2026-09-04T15:25:14.979Z",
-  "lastUpdated": "2026-09-04T15:25:14.979Z",
-  "generatedAt": "2026-09-04T15:25:14.979Z",
+  "fetchedAt": "2026-09-04T15:50:16.139Z",
+  "lastChecked": "2026-09-04T15:50:16.139Z",
+  "lastUpdated": "2026-09-04T15:50:16.139Z",
+  "generatedAt": "2026-09-04T15:50:16.139Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T15:25:13.750Z"
+      "updatedAt": "2026-09-04T15:50:14.899Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T15:25:13.960Z"
+      "updatedAt": "2026-09-04T15:50:15.068Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "US diesel prices hit a record high, pushing up transportation costs for a long list of goods - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa19jeV9pQzAycDV0MWpiLVkyS0x6T3NGVWRUS3Z5R3dUMUQxNElPZHNCM0hVQ21oSDdnRGIyZG1tYTcxOE9KTGZCb3piWlp1Y0o2WUMyVXFmcXVWZXQzQkVJN2VvZEJFYWVoVXdtYXlqdWlxSFBGdTNHSDlBMDdRa3NWdkpqUjRJdjhOZzJJSk8xMjg?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 15:29:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Hiring burst of 162,000 jobs in August puts the focus squarely back on inflation in the US - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNGZaTEZzXzBNWGd1bHhIYTB6MW5SV09IRnJ5MXV3aEpVVjBJMWNZdElhZHBxWnFjMUpUbVRpallqRWpKYWxRUFdueEU4SDdGb3BqQlVhYUtNaExLSzRadWR3cFhFbktSWFRDNVpZX2J2ZjZkVDNmdnhRc1hyTFBhNG8tQkRKdmtqMlZUM2EtaEtydUtadUpOemJCaWNxQ2NiaEkycVdsTkk?oc=5",
           "pubDate": "Fri, 04 Sep 2026 15:05:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Watchdog report: Ex-Labor Secretary Chavez-DeRemer oversaw hostile work environment, misused funds - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNDYwU0QtTkFJbkpkUUNBQ2dNbmp3Uk9nUGxkUUZYZElvLWhSdG1xcEthcmdaczZTaEJYbXVuaWMwS0EwM3M1NGViZENmX2FHZDc4d2wzcERGUXprMU5CNmlGSzNoZi0wZ0NHS05sMWRTNEdfN2hhbnY0UFdvM0ZDWk5Vd1o5WEQ1U1ZRVlpkOF96RXRYN3dFUWxJem96dTlpbERqb3d3dW1XLWxUR3FocmhDcGdyenNwd1lpVzRKSlpQY2pzeWhMUllB?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 14:45:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,12 +154,6 @@
           "source": "AP News"
         },
         {
-          "title": "US diesel prices hit a record high, pushing up transportation costs for a long list of goods - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa19jeV9pQzAycDV0MWpiLVkyS0x6T3NGVWRUS3Z5R3dUMUQxNElPZHNCM0hVQ21oSDdnRGIyZG1tYTcxOE9KTGZCb3piWlp1Y0o2WUMyVXFmcXVWZXQzQkVJN2VvZEJFYWVoVXdtYXlqdWlxSFBGdTNHSDlBMDdRa3NWdkpqUjRJdjhOZzJJSk8xMjg?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 13:33:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Rescuers pull 2 trapped workers from a hydropower tunnel 9 days after Nepal floods - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTVrY3laRmlFVDhQd0J3bmNGM0Y0bVEwTTNCUVVCcHJ4SVRSbG5RWDRoUjF1VkVCUXlWUlJYcFNqNjJnZ3JHQ1A4TFI2NzdwcFJCNWp5bDNNM2JGZUNMQmlVbXA4bFNjVnE1TE1HQW1waGpWazJiQnRPWDlnSVpJSDdTQ2EzaGozdlJVQUVfR0lsMWl0dUdPRm04Y29temM?oc=5",
           "pubDate": "Fri, 04 Sep 2026 12:30:00 GMT",
@@ -158,71 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY1ZHWWRUOFdXSFlHb21hdlVVcGROajdCXzF5S3VGY1NDeFl0Z3dTQ0FPYTJnNEhsSUJOYUxvT1M0UXVSTV9SWjJMbFdIRHk3NnhRbmVWU2s1VjFGeUJKVkhwTjROalo0cGFKSHpTNjF5N1EycVgxR0dLYldiVk5QT1BOcTVPWk1zdHEycDVnOTZJNjBTdThHaEpiM3Q0blhGdkE?oc=5",
           "pubDate": "Fri, 04 Sep 2026 11:58:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Missouri court blocks Trump-backed US House map and orders it to be put to a vote - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmtNeE1wVFRYYXVvTlZNbHhnRGJKS21tVVZJWnVUVnY5MlVsQm93eFd2UlVTRkl5alZzSjI1UF9JRDEzd09RYTg4WUxzVDA4OUJGc215YWhQdnpHR19zVnZsTngzQXpCRjRYc21lTlRHalNTLWtTeXVWSWdXZjdEOG9YekVLZEJQcF9TTGZ6MXNYTjBZcXZvQ0JlVUpiQmhwYXNIelRBQl8weVFtak03MW1B?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 11:44:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T15:25:14.524Z"
+      "updatedAt": "2026-09-04T15:50:15.630Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "EXCLUSIVE: China's Xi to bring large CEO delegation on US visit, sources say - reuters.com",
+          "title": "EXCLUSIVE: China's Xi to bring large CEO delegation on US visit, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONFEycUQtWHlNWVlNdHl2S2JKX2pmMDRUYmp5V1dVN2xnWkdnOVQ2QW1VM2ZRSEdCdElaRTQ1cGlGMDkxV25PYWRfVEJJWllCRjBIVzYwZ1JjMGotd2t0YzRQQ1huRG9CNnpraXVsakw1clltekpVU1czZm9VQUhVQ3R3N2NSdEc1LTJqYWlsa3p2UGh3dWZHU0F0ek5CbEdQTUhUdGc4dVplVG5YYUxKV0xoQU9UdU9GUEZOS0dJTFZKUzg1RHRR?oc=5",
           "pubDate": "Fri, 04 Sep 2026 15:15:29 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US opens probe into Tesla Cybercab compliance with federal safety rules - reuters.com",
+          "title": "EXCLUSIVE: Hedge fund giant Citadel seeking to buy US shale oil production assets, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHcxbUxjUE8tUFJjekxwekEyZ3hzRzVwUExkWWdiVF9UdmtXeXVWTkp1UnQxQy1ZMWVmeEQzVkRsM19YcmhBOGRjLWt3YmNveFBUczUtQVM1a3N4WFhlb1BjTnJ0VTNuNG9GWlAxaGVEZWFrZGZRLWg3QmlHcmhWdENCbE5mTmZlZWFFTEtVSktReGp0Vmt0OXljc2k2UzRlOHBuMjhBb3V2U3FDcXNOSmlEeFFoUVpmQmV5aXZpcURxQ0NfUDBXQmExOA?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 15:12:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US opens probe into Tesla Cybercab compliance with federal safety rules - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQck1jNEdySTN3TlpYR2lwYnp5ZmdPSE1PSVU4bnMteVQyd1BQOE8xMm1ObU9kTWV1Z0tENlBXTjY0RVZINy1YNURVYldWMEUzTGx4STNPaG5zRjJMOWpzWFpJQy1RV2VpX0NvMmVFZ1kwdWhxeDlzV0R3a3NnbTN6Nmtod3AzZkk5eVdyYm1yNHU5M0JjczhQbnQ5eFlSMUZ4RFRoQUhTZzlGVG9yZGpMR01NTDZUVk01Y0FpaFhEdXI3YmtPeTlZd2dzS2syb1Zo?oc=5",
           "pubDate": "Fri, 04 Sep 2026 14:38:17 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Senior aides to Reform UK's Farage step down after foreign funding sting - reuters.com",
+          "title": "Senior aides to Reform UK's Farage step down after foreign funding sting - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0NCZTA4X0xWR0UzdEtuY0xMOEZpQnkwandhMnBNeElkaGNYYllseDE2V2YyRmE5MlVQOGxDR1I0ZlhvdGwyY2V2U1AxZHlUSWxCbFFCaG1KUmozRDAzYTlscHFpMWVSNFNIR1NqeTU4eks5QlE4VnRsdl94bktjYk1tTERRTWZwRDJwS3NSYk1FZUNZVkNiZ0M2TmJOYXdwdWVKSzBjMTgzNU96enBienlpTXp1ZGFfZkE?oc=5",
           "pubDate": "Fri, 04 Sep 2026 14:29:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia's drone attack hits Ukraine's SBU headquarters, Zelenskiy says - reuters.com",
+          "title": "Russia's drone attack hits Ukraine's SBU headquarters, Zelenskiy says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5",
           "pubDate": "Fri, 04 Sep 2026 14:21:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "S&P 500, Dow slide after jobs report fuels rate-hike bets - reuters.com",
+          "title": "S&P 500, Dow slide after jobs report fuels rate-hike bets - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5",
           "pubDate": "Fri, 04 Sep 2026 14:20:29 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US seeks to address security concerns before Trump envoys visit Moscow and Kyiv, source says - reuters.com",
+          "title": "US seeks to address security concerns before Trump envoys visit Moscow and Kyiv, source says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSEp2N095ZTZRVGpXbnNoa2M2RmZUZWEwMGlyekx2bzR1R1JZb056bjZVak1YVUpWNVhIellmSWVOTUxsbVpVX2Y2N2MyTXZSMHhZbW9jdjI4VHUyNjVOTEk2SFFDTDQwSmpTMTB4Qm91NEFVOGFrNmtXdmVkR2RETmFBcW5WWWFrT0hsUUZZQmFPcTJMdU5MckVDdk9WRjdMZUh1dm1n?oc=5",
           "pubDate": "Fri, 04 Sep 2026 14:19:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations - reuters.com",
+          "title": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ?oc=5",
           "pubDate": "Fri, 04 Sep 2026 14:16:03 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Lindsay Clancy's lawyer says one juror is preventing not guilty verdict - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONElYU2NZblhTTVRRT1RRMUw3R2swWmRtY0x1WVJpUHRnbXZhNlBNb0JYMHJBaVZzdWY1ZlNlbWt4Z0RrUi1wVk1HZ3ZQMGRna3U2TXUwOGZNLTVEbklPbjUtXzZMMHhHZWg1OF9iOXJaTGU4dktFcU9IVEFMLVZ5TjMtZ3RoSHByR1dzcGpxWWQ2c1Z0VHliMnVKaE1oTERURFdyRkRnNnlJb3hGVDZTQ0FR?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 14:11:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T15:25:14.979Z"
+      "updatedAt": "2026-09-04T15:50:16.139Z"
     }
   ]
 }
