@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-04T21:50:14.098Z",
-  "lastChecked": "2026-09-04T21:50:14.098Z",
-  "lastUpdated": "2026-09-04T21:50:14.098Z",
-  "generatedAt": "2026-09-04T21:50:14.098Z",
+  "fetchedAt": "2026-09-04T22:00:22.011Z",
+  "lastChecked": "2026-09-04T22:00:22.011Z",
+  "lastUpdated": "2026-09-04T22:00:22.011Z",
+  "generatedAt": "2026-09-04T22:00:22.011Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T21:50:13.993Z"
+      "updatedAt": "2026-09-04T22:00:21.047Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "4 things investigators learned about the dysfunction at Trump's Labor Department",
+          "link": "https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer",
+          "pubDate": "Fri, 04 Sep 2026 17:47:19 -0400",
+          "source": "NPR"
+        },
         {
           "title": "'Hidden tribunals:' Immigration court due process in tumult with new locations",
           "link": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
@@ -103,71 +109,65 @@
           "link": "https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations",
           "pubDate": "Fri, 04 Sep 2026 09:35:39 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
-          "link": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
-          "pubDate": "Fri, 04 Sep 2026 07:29:11 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T21:50:14.057Z"
+      "updatedAt": "2026-09-04T22:00:21.279Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 20:21:06 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Mistrial is declared in Lindsay Clancy child killings case after jury deadlocks - AP News",
+          "title": "Mistrial is declared in Lindsay Clancy child killings case after jury deadlocks - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcldjRVJhMFF6X3BoT1hoUW9JU1h3QzVuZzFKT19YM0dSQ0ZVdG5IbURjVXhCc1k1N3pkZkQydjdoS1N5Mnlid0M5YV9jdGV2U3NFMXI5Q2JUN1dXZ0NTY0wwTjVoeG5lRHRUSkZLS1pzemhNM2dOTXNxQkJ6SDBKY0dmRUpJZG1XNzVTcVVyUUZ0SkJXQUVVOEpuVTU5S0xtSnE1ejUwbE8?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 20:14:00 GMT",
+          "pubDate": "Fri, 04 Sep 2026 21:33:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected - AP News",
+          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 21:07:16 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
           "pubDate": "Fri, 04 Sep 2026 19:05:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Watchdog report: Ex-Labor Secretary Chavez-DeRemer oversaw hostile work environment, misused funds - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNDYwU0QtTkFJbkpkUUNBQ2dNbmp3Uk9nUGxkUUZYZElvLWhSdG1xcEthcmdaczZTaEJYbXVuaWMwS0EwM3M1NGViZENmX2FHZDc4d2wzcERGUXprMU5CNmlGSzNoZi0wZ0NHS05sMWRTNEdfN2hhbnY0UFdvM0ZDWk5Vd1o5WEQ1U1ZRVlpkOF96RXRYN3dFUWxJem96dTlpbERqb3d3dW1XLWxUR3FocmhDcGdyenNwd1lpVzRKSlpQY2pzeWhMUllB?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 18:29:16 GMT",
+          "title": "Meloni celebrates her Italian government’s longevity during party rally in Bari - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUS0wNWYyVm92MUhkcmRzbDJSRVpBODFLWUQ5c0tmeFV0SjBfMHJ0MXA0UlVIREQtaF9QZkRmelpGSjlZRVZNUl92MFkyQURWeE5OUWpjX3pfWkM2dXlpaUhDVzlvdmFCdWZRMEZxV014eUMtVmhnWHRINEkzZ1pCN2NkRkI3U21zLXNDdGFmTFZha3lIbHIzc0ZIT2p3ai11Umpja0NsUQ?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 18:44:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Vin Cherwoo, longtime AP sports desk editor and union leader, dies at 56 - AP News",
+          "title": "Watchdog report: Ex-Labor Secretary Chavez-DeRemer oversaw hostile work environment, misused funds - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNDYwU0QtTkFJbkpkUUNBQ2dNbmp3Uk9nUGxkUUZYZElvLWhSdG1xcEthcmdaczZTaEJYbXVuaWMwS0EwM3M1NGViZENmX2FHZDc4d2wzcERGUXprMU5CNmlGSzNoZi0wZ0NHS05sMWRTNEdfN2hhbnY0UFdvM0ZDWk5Vd1o5WEQ1U1ZRVlpkOF96RXRYN3dFUWxJem96dTlpbERqb3d3dW1XLWxUR3FocmhDcGdyenNwd1lpVzRKSlpQY2pzeWhMUllB?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 18:08:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "WNBA Commissioner Cathy Engelbert to retire in December after transformative and tumultuous tenure - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGpIOE1hTjhIN2Q1S3BmRnNERUpTbVhGbEtzUlF4Q3p4T2VkUU93T2UyVWpxaHA0TnpZYTFnVlNFRzRnd0FzeEFPcU41a2tYUmgtTnRiVF9vZ2ZQLV82NjFHZ2xDQVpod0VCMHJIc3J6Q1ViUUdWWUg1TDM3dVVKb3k4Wk16c0hJNlJNdkV5eS1hdWVTX0VZaVdOSjY?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 17:45:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Vin Cherwoo, longtime AP sports desk editor and union leader, dies at 56 - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSVBuMDZHSFpqQVNxdFFWQTBDODYzREc3ZlhBVG5tRWxhRzVhTlU0d3dlUUYyRnU4VXJPWHNVNTZqd1VZZ3ViYl9NRlJhODVYcnRIZUdPS2Q0bHZVVWVNRDNyRFExekZIX2hBeXcxV1c3azNadi1HWmVTdnlaZ2h5UDRB?oc=5",
           "pubDate": "Fri, 04 Sep 2026 17:31:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Nigel Farage's party suspends top officials after undercover sting makes foreign funding claims - AP News",
+          "title": "Nigel Farage's party suspends top officials after undercover sting makes foreign funding claims - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmZ6ZldvMmE3bS0zMktVSVdlVVZFXzRFR1VsQjMzWDZGck5vV05sdHRIMXhuTURtSzdxZTBBcDNHbGlwQ1NCM3B4MXJoQmJxZlVMNW1qZHRjRjFObDduYTBEZzVnS0c5LWdZd3pBeU1GdGJ0azRHdFJLU2x0bnlTZnlkZ1p2ZHExZVpTZGhTcWRBVHBNVDdZZy1DTE8?oc=5",
           "pubDate": "Fri, 04 Sep 2026 17:24:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Hiring burst of 162,000 jobs in August puts the focus squarely back on inflation in the US - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNGZaTEZzXzBNWGd1bHhIYTB6MW5SV09IRnJ5MXV3aEpVVjBJMWNZdElhZHBxWnFjMUpUbVRpallqRWpKYWxRUFdueEU4SDdGb3BqQlVhYUtNaExLSzRadWR3cFhFbktSWFRDNVpZX2J2ZjZkVDNmdnhRc1hyTFBhNG8tQkRKdmtqMlZUM2EtaEtydUtadUpOemJCaWNxQ2NiaEkycVdsTkk?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 17:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US issues sanctions on Turkish bank that it calls a ‘critical financial lifeline’ for Iran - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanB5cnFJYmZzM1AxbjlvTGZnanhyQzRiYWIzXzNPV1Y1NzhkRlUxZEIxMUdMVDZiX3l3U2N0dDNUZnRNeWF5UHM0SHhJNE55TmtyUDBOSHZWekxwdGZaVUJrWUM1QnpnY2R0TGlieVNhR3ZrTGV0Vi1KYk41bHVwSW4zRXRmcFNILVBXTzNQdm0?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 16:32:00 GMT",
-          "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-09-04T21:00:21.175Z"
+      "ok": true,
+      "updatedAt": "2026-09-04T22:00:21.935Z"
     },
     {
       "name": "Reuters",
