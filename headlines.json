@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-04T14:00:18.620Z",
-  "lastChecked": "2026-09-04T14:00:18.620Z",
-  "lastUpdated": "2026-09-04T14:00:18.620Z",
-  "generatedAt": "2026-09-04T14:00:18.620Z",
+  "fetchedAt": "2026-09-04T14:25:13.957Z",
+  "lastChecked": "2026-09-04T14:25:13.957Z",
+  "lastUpdated": "2026-09-04T14:25:13.957Z",
+  "generatedAt": "2026-09-04T14:25:13.957Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+          "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 04 Sep 2026 14:17:35 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
           "link": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-          "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 04 Sep 2026 10:00:18 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "How could US-Iran conflict end? Three experts give their views",
           "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T14:00:17.436Z"
+      "updatedAt": "2026-09-04T14:25:12.871Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T14:00:17.676Z"
+      "updatedAt": "2026-09-04T14:25:12.968Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 14:01:28 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Hiring burst of 162,000 jobs in August puts the focus squarely back on inflation in the US - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNGZaTEZzXzBNWGd1bHhIYTB6MW5SV09IRnJ5MXV3aEpVVjBJMWNZdElhZHBxWnFjMUpUbVRpallqRWpKYWxRUFdueEU4SDdGb3BqQlVhYUtNaExLSzRadWR3cFhFbktSWFRDNVpZX2J2ZjZkVDNmdnhRc1hyTFBhNG8tQkRKdmtqMlZUM2EtaEtydUtadUpOemJCaWNxQ2NiaEkycVdsTkk?oc=5",
           "pubDate": "Fri, 04 Sep 2026 13:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russian attacks kill at least 3 in Ukraine as US talks on the war are expected - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 13:45:00 GMT",
           "source": "AP News"
         },
         {
@@ -130,9 +142,9 @@
           "source": "AP News"
         },
         {
-          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 13:20:49 GMT",
+          "title": "Rescuers pull 2 trapped workers from a hydropower tunnel 9 days after Nepal floods - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTVrY3laRmlFVDhQd0J3bmNGM0Y0bVEwTTNCUVVCcHJ4SVRSbG5RWDRoUjF1VkVCUXlWUlJYcFNqNjJnZ3JHQ1A4TFI2NzdwcFJCNWp5bDNNM2JGZUNMQmlVbXA4bFNjVnE1TE1HQW1waGpWazJiQnRPWDlnSVpJSDdTQ2EzaGozdlJVQUVfR0lsMWl0dUdPRm04Y29temM?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 12:30:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,81 +160,69 @@
           "source": "AP News"
         },
         {
-          "title": "Russian attacks kill at least 3 in Ukraine as US talks on the war are expected - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 10:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Louisiana judge rules against NCAA, clearing path for former NFL players to join LSU roster - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmNsSWYxZ1BoMl9meVY5ZXpmY2djZnZzQkFoTThIX19ySGkyMGFtMWM5OG1mcGlVZ3lwTFV2ZjZJSUhTYVg5LTA3bU04QXV0ai1ZejBkM1k5eDQ4SnlncC04dUtqaWRyNEZNUDRSb3hmblV5TE9nNEwwU2Y1QUtfNXdwZnJHU1c5UFloNS1DMkdTRndkSHc?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 09:58:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Volkswagen shares rise as investors cheer board approval of sweeping cost reductions - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQTRKWXBvUkpXaFF1UjhNWks1cmpDVFdHZFEtSHhFa2RMTlVEVEtHUklyOHQ2ZS01YlA2UXgtbXUtVG5UX0phY1RtU2RWRFc1RUpsQmF0Y0ljMXE5WEhXOEZORW1udXNBTVlfTWNjWV81WlBBLXNsMzRENU5PbGd1ZGoyVExycUI3d3lKaVRSOWplZXJFTl80MVU4Qllvdm83RHhiQ1pTdmdFUQ?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 09:55:00 GMT",
+          "title": "Serbia faces EU scrutiny over upcoming funeral of convicted war criminal Ratko Mladic - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzJmMlZ4MW5mWnFQTk1FTnpJd3VHYzkyMzJXc0ZwemJIWmJneWlaS3hIdXNUOFAxTGxHcFdiWF8yU3BhLWZqdFRMdDdZTjUzOXlqQUMtWjhqeFh5cGFCYlVkVGtqNDJMbjlnQnBUM2pBd1dCaTZzZTBlVFY5MHJ1TGUxWnJZbTdRdTlDQ2ZabTFqVzV6Mjd1Mm9GbElQSExw?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 11:11:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T14:00:18.164Z"
+      "updatedAt": "2026-09-04T14:25:13.444Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Strong August jobs report sends yields higher - reuters.com",
+          "title": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 14:05:17 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Strong August jobs report sends yields higher - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdTJNUkhrZnFtcjZwZmtHcGNSYTBCNkZKZFBlUy1IS3BiTlhBYzRNSm1VRWlLRFhHdmVjUEt4ajZmWFRHOGUzWHBKeFhWSlllYzdoc3g3dmFDVFpfLXQ5d19GRmtiT2UtT0gyV0d1cnpaQmY4RElYZzBBY0pfY2I5Q01HRjhxak1pOHo2c0JiUlJIWmdiX0NZX3Z1Zw?oc=5",
           "pubDate": "Fri, 04 Sep 2026 13:41:25 GMT",
           "source": "Reuters"
         },
         {
-          "title": "SNAPSHOT Wall St subdued after jobs report fuels rate-hike bets - reuters.com",
+          "title": "US nonfarm payrolls surge in August; unemployment rate steady at 4.1% - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 13:39:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "SNAPSHOT Wall St subdued after jobs report fuels rate-hike bets - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5",
           "pubDate": "Fri, 04 Sep 2026 13:39:13 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - reuters.com",
+          "title": "Smoke rises in central Kyiv after Russian drone attack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 13:27:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
           "pubDate": "Fri, 04 Sep 2026 13:20:26 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Hedge fund giant Citadel seeking to buy US shale oil production assets, sources say - reuters.com",
+          "title": "Norway's $2 trillion sovereign fund proposes deep cuts to US Treasury holdings - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmxGOEpiUDZLcDdndTZmQVVRblBRSzBzTmV4V0lQbGFOQUNJRGt6NW11MTNSZHdzdGtfZ3Fzc2FlVEN0akRuREtUYkNqMUcxME1aRVhYYmtOWjRnekxlaW52M2ZvZmhJSHN4ZE9qUy1xcTdNNDBKd2Z5OTlpYjJ1SHh0V2dUVUNQU2RKV3kzSWFKZjRHWnRmZ1ZCUXpia19iNVNWRl9CM0FTcTFCWWRaVXJuOHB4UFZlWnc?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 13:17:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Hedge fund giant Citadel seeking to buy US shale oil production assets, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHcxbUxjUE8tUFJjekxwekEyZ3hzRzVwUExkWWdiVF9UdmtXeXVWTkp1UnQxQy1ZMWVmeEQzVkRsM19YcmhBOGRjLWt3YmNveFBUczUtQVM1a3N4WFhlb1BjTnJ0VTNuNG9GWlAxaGVEZWFrZGZRLWg3QmlHcmhWdENCbE5mTmZlZWFFTEtVSktReGp0Vmt0OXljc2k2UzRlOHBuMjhBb3V2U3FDcXNOSmlEeFFoUVpmQmV5aXZpcURxQ0NfUDBXQmExOA?oc=5",
           "pubDate": "Fri, 04 Sep 2026 13:03:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US nonfarm payrolls surge in August; unemployment rate steady at 4.1% - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 13:01:06 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Shein seeks fast-fashion deals to spur growth - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjFYOTdvSVpBNW9kTWd0Uk1tMmdMN0o0MndhS0RsNzJ3SUpVYTZLQmRCa0J1TDFnSHlRSjJpQnJBbWRUeTZvUkpWU3B3U2d1VjhtZWg4dmFKeHJzTXB4RzZtM0JHZ1lpajctdllMVHFyQjdBWU1ZMmR5WXRUMmhvamE5QURRX3ZwYmxGX0R6Q2RGTmFfeHN5Q2tvTHV3azA?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 12:57:42 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Traders brace for US jobs data after Fed's Waller soothes bond markets - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rcFlLejhNNm1fZ1hhM3NvLV8zZTJuOTE5QUVSUVR2V0IxQWpuLUZxVHFmRXpWVHd2OWU0cUR3eW9ZMFZKQnhwcFdrOHBZclNEZkF1X01MYmw4dUZTbU9zWGJPMEJ4N3FXNkY1MHAwSFZWenJGVWM4blVzbw?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 12:50:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Norway's $2 trillion sovereign fund proposes deep cuts to US Treasury holdings - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmxGOEpiUDZLcDdndTZmQVVRblBRSzBzTmV4V0lQbGFOQUNJRGt6NW11MTNSZHdzdGtfZ3Fzc2FlVEN0akRuREtUYkNqMUcxME1aRVhYYmtOWjRnekxlaW52M2ZvZmhJSHN4ZE9qUy1xcTdNNDBKd2Z5OTlpYjJ1SHh0V2dUVUNQU2RKV3kzSWFKZjRHWnRmZ1ZCUXpia19iNVNWRl9CM0FTcTFCWWRaVXJuOHB4UFZlWnc?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 12:49:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T14:00:18.620Z"
+      "updatedAt": "2026-09-04T14:25:13.956Z"
     }
   ]
 }
