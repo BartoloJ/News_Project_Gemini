@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-04T21:00:21.243Z",
-  "lastChecked": "2026-09-04T21:00:21.243Z",
-  "lastUpdated": "2026-09-04T21:00:21.243Z",
-  "generatedAt": "2026-09-04T21:00:21.243Z",
+  "fetchedAt": "2026-09-04T21:25:12.980Z",
+  "lastChecked": "2026-09-04T21:25:12.980Z",
+  "lastUpdated": "2026-09-04T21:25:12.980Z",
+  "generatedAt": "2026-09-04T21:25:12.980Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T21:00:20.249Z"
+      "updatedAt": "2026-09-04T21:25:12.699Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "'Hidden tribunals:' Immigration court due process in tumult with new locations",
+          "link": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
+          "pubDate": "Fri, 04 Sep 2026 17:11:56 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump's arch may break ground without final approval. Veterans are trying to stop it",
           "link": "https://www.npr.org/2026/09/04/nx-s1-5957459/trump-arch-excavation-lawsuit-veterans",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
           "pubDate": "Fri, 04 Sep 2026 07:29:11 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Germany's far-right AfD party is poised for power in a state election",
-          "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
-          "pubDate": "Fri, 04 Sep 2026 06:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T21:00:20.380Z"
+      "updatedAt": "2026-09-04T21:25:12.738Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-04T21:00:21.175Z"
     },
     {
