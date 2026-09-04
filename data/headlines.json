@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-04T07:25:13.683Z",
-  "lastChecked": "2026-09-04T07:25:13.683Z",
-  "lastUpdated": "2026-09-04T07:25:13.683Z",
-  "generatedAt": "2026-09-04T07:25:13.683Z",
+  "fetchedAt": "2026-09-04T07:50:17.994Z",
+  "lastChecked": "2026-09-04T07:50:17.994Z",
+  "lastUpdated": "2026-09-04T07:50:17.994Z",
+  "generatedAt": "2026-09-04T07:50:17.994Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T07:25:12.699Z"
+      "updatedAt": "2026-09-04T07:50:16.889Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The price of diesel hits a record high",
+          "link": "https://www.npr.org/2026/09/04/nx-s1-5948016/diesel-price-record-high",
+          "pubDate": "Fri, 04 Sep 2026 03:44:21 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump administration pushes to remove tax exemption for private colleges with DEI policies",
           "link": "https://www.npr.org/2026/09/04/g-s1-141947/trump-administration-pushes-to-remove-tax-exemption-for-private-colleges-with-dei-policies",
@@ -103,79 +109,85 @@
           "link": "https://www.npr.org/2026/09/03/nx-s1-5955579/gloria-steinem-tributes",
           "pubDate": "Thu, 03 Sep 2026 15:04:19 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Later in life, Gloria Steinem found herself free of the 'demands of gender'",
-          "link": "https://www.npr.org/2026/09/03/nx-s1-5955479/gloria-steinem-fresh-air",
-          "pubDate": "Thu, 03 Sep 2026 14:42:39 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T07:25:12.882Z"
+      "updatedAt": "2026-09-04T07:50:17.064Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - apnews.com",
+          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 07:03:15 GMT",
+          "pubDate": "Fri, 04 Sep 2026 07:27:15 GMT",
           "source": "AP News"
         },
         {
-          "title": "Vance says Iran fight isn't a 'war' as Trump tries to navigate unpopular conflict as election nears - apnews.com",
+          "title": "2 trapped workers rescued from a hydropower tunnel 9 days after Nepal floods - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTVrY3laRmlFVDhQd0J3bmNGM0Y0bVEwTTNCUVVCcHJ4SVRSbG5RWDRoUjF1VkVCUXlWUlJYcFNqNjJnZ3JHQ1A4TFI2NzdwcFJCNWp5bDNNM2JGZUNMQmlVbXA4bFNjVnE1TE1HQW1waGpWazJiQnRPWDlnSVpJSDdTQ2EzaGozdlJVQUVfR0lsMWl0dUdPRm04Y29temM?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 07:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Vance says Iran fight isn't a 'war' as Trump tries to navigate unpopular conflict as election nears - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDhITzU0TDIyV0VyQTBvT0FPZmZBZHJaTGFKc3dQaFl6VHpmbmM1TVUtTXRtY2Z1d2dONVdDcXhpUHB4Z2xVcjF4NnBac2ZRUXVBcXpOU0VOZlJfejNfWHZVNEVxeGk3TzZ6MWVIYWljN194YjEtbExGeWJtYk52UTdabG0yWTNQQnlFTy0wd2E2amE1QnBqSDZTaldIb1M4MzFR?oc=5",
           "pubDate": "Fri, 04 Sep 2026 06:53:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Louisiana judge rules against NCAA, clearing path for former NFL players to join LSU roster - apnews.com",
+          "title": "Louisiana judge rules against NCAA, clearing path for former NFL players to join LSU roster - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmNsSWYxZ1BoMl9meVY5ZXpmY2djZnZzQkFoTThIX19ySGkyMGFtMWM5OG1mcGlVZ3lwTFV2ZjZJSUhTYVg5LTA3bU04QXV0ai1ZejBkM1k5eDQ4SnlncC04dUtqaWRyNEZNUDRSb3hmblV5TE9nNEwwU2Y1QUtfNXdwZnJHU1c5UFloNS1DMkdTRndkSHc?oc=5",
           "pubDate": "Fri, 04 Sep 2026 06:41:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "2 trapped workers rescued from a hydropower tunnel 9 days after Nepal floods - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTVrY3laRmlFVDhQd0J3bmNGM0Y0bVEwTTNCUVVCcHJ4SVRSbG5RWDRoUjF1VkVCUXlWUlJYcFNqNjJnZ3JHQ1A4TFI2NzdwcFJCNWp5bDNNM2JGZUNMQmlVbXA4bFNjVnE1TE1HQW1waGpWazJiQnRPWDlnSVpJSDdTQ2EzaGozdlJVQUVfR0lsMWl0dUdPRm04Y29temM?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 06:03:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Argentina’s Milei escalates Falklands dispute, seizing on Trump comments and oil tensions - apnews.com",
+          "title": "Argentina’s Milei escalates Falklands dispute, seizing on Trump comments and oil tensions - AP News",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY1lNTlZYVnlEZzFmQlBIb1RlLV9oN1lVZU1XUUwwaG5LSkFfSnRXR25LaDRmbGZaUUFrR1UwUk5fUDdMMjNMWm5EX2JPZGJYWFp0SG5ndl9sVWliVXdtRnkza20wSTVsaU9yVXFwZEh4dTI2M2I5dVJaSWV3Y0UyczNRSHF6Mm1ZVHRqWVFlVVkxVnpGNDlsUUxrZmZqdFJMbERkVTVmbVFSeVdUZERTdG5JdWVhWnRHdkRUYjUzTlp4LVVRM01GcEFR?oc=5",
           "pubDate": "Fri, 04 Sep 2026 04:03:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "AP Exclusive: Lawyer for China's Zion Church seeks resettlement help while transiting through Taiwan - apnews.com",
+          "title": "Midterm mail ballots start to go to voters as litigation over Trump’s order creates uncertainty - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzVmckhKZThpMXNNRm9Tb1B2aFQ4Y1ppa2JaWGxGYTBrbnJPTVFRMTV5aUxYWmdIUF9BNFhpR1hXLVNqc3JkYmVIZEhOM1dtRndyZnZyRW5hZGl3amtYZ05Fc29XTkFxRHRNdUFWSXNQNTkzRXRqMU1xM29MV2NVeDlfbmpqMzRSSDdNd3MzcVBKdThKRUlPZlUzMFJxTVhTUVE?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 04:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "AP Exclusive: Lawyer for China's Zion Church seeks resettlement help while transiting through Taiwan - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFNCOUVQdXhqNW9oZE9RUXAyWUxORDRyZmUzWXVsYU9kMkU1bW9ueDIwcEl4TVQ1Y0dOTXlQRWdPSGZGRDAzb1otQjJxN2FiU2RBSy1tdWhlUkhiWEFONDZxRzdmc2gyNXA5QzlWOFhONHlVNC0yVVJkaXpGZTVxMFdVWE83UVhISlJWNXNqWTBZYV8wTnlwbDR3?oc=5",
           "pubDate": "Fri, 04 Sep 2026 03:10:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iran targets Kuwait in retaliation for US bombardments, and other Mideast news - apnews.com",
+          "title": "Iran targets Kuwait in retaliation for US bombardments, and other Mideast news - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWlHaHJsd0IyR0szVG5zUEU0Q2F3RUEzTkJWUlZXSEhQZlF2MkMzWmU5RVhrbmFyVG15T0RiSVdsOGt5V19TZDdnSW1DdVkyUjF4bmxZdjgwZWdBbUxXbWN2aXFiUzNmcTZDNEdiU28tdmk0VGVnbmQ0UDRhREpfUno5NExnR1RJQlhscWhTS2Mwa2tMTXpzZHVHbFQ1WE1GOUJRdzB5WU51emM?oc=5",
           "pubDate": "Fri, 04 Sep 2026 02:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Maria Bartiromo out at Fox News after more than a decade; no reason specified - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUEhfUDhMUEp0WG9uakZBRE1mV3RMLXVOemZJZ0ZpU3hEUHpYZUVJTTFHYUkxSnhDNkM4dTlUbnZ0MGdJcGpPZVJmTWtUNUJnOHpiVGgzTUZMTW1hMG9FMmdyWjgwNDhFVm9uY2tNQ0w3c0tob2lsaTcybXNlZ0JKZ0ZaRmlJWC1lYzhGSVo1NUdjQnhW?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 02:16:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T07:25:13.290Z"
+      "updatedAt": "2026-09-04T07:50:17.567Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "EXCLUSIVE: Citi eyes China brokerage unit licence as soon as this month, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDBoUUlZZmVDRDRNWmlMMnNzNHRqYnZ2QjlVdFpmUGh6b3Bqem5CU0Fsck8td01XVHhoSGdHTnJKZlJleGdYbHNNLUV3VWxxSkhibU1uZGE3cWs0MnFRZWRhZ241NGpwNVItaUlRVzZYakZIQ2oxYjljUTVPSHlfSjFBcERHd3BUVHJVYVhZZGMybEdlb2hiM1dFZS1DMWdjczVjS2dUc2lJWmZxV0oxalhQOG5JaVVpU01j?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 06:32:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Nine days after disaster, two pulled alive from Nepal hydropower tunnel - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQclRkbXhxWG9zTGx0YzkzcDJ3RDZYV254czR6eUZIRWtpNHlhOEtscDNYWWZIOXlHTlFLOTVnY0toTEhKTWduQlMxdXRvV1V3RWRHY3pXd1RhTTVpejRWR3pUbE8ydDYxVko2aHJ1THdfQlF0Skl1NUJuZDdicXAxbWJLY25pUUI1My1faV9xSG9qTzJORUtLZFBLWQ?oc=5",
           "pubDate": "Fri, 04 Sep 2026 05:22:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "How a conservative French billionaire's news channel is boosting the far-right ahead of 2027 election - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOW1RTE5RakU3UUFmYnRhbjVmVnlGcVBHWjJKQVluMmFsUmVKcDZrUEpTWm9CZlk3SHhxa3lQVGVzYUtQTjV0QnBRNVh4TjJqODR6RlpmbWRXRlItMmE5RUVIMkZOdGxlNUVqV25NaGJ6bjhWWTFyckRjN2tmYlNiWlZ0bEZNNXNWN0hQU3BKdEJUaWdRZjZfaDdjMmZMZnI2eGkwRWlNVVBySkl0cFBjcFZsT21qcXhkNTRwVWF5bDVSbWxCaTA5Z2NtYW4?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 05:02:00 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Vietnam's globetrotter leader to visit Russia, France, US this month, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHV6dUNQWTJ3cHdkVExwRVFBNHpyeFpEaGtkaFRDWGhFTm9ERnJsLWhCQTkzbEtmeldHQ3VzTlp0SEhRVUtXVVZlX2tzai15aS1DU1FOeXE2ZnV2VTNQSjJGYnNMYzk1QnNOOXBQeVpBNFVUczhiNzlXYURfZVRzTloxS19nWE1XdDYwbHh3Y3VCSGplWnhLSWQ3Vm1QTU52U1pLYVN1Y0VGMkw3Y2dXc2l5NDJnUnh3TVVWck9ULUJ6M1E?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 03:17:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nepal flood losses estimated at $2.56 billion, official says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUcyUXd3QXE1LVhRMVN5ODFmbG9FSXBBRFN5cjR2bEdRRXlFeEJwcVdfWEd1OHpla0NHSHhxZVRVY1pnZEFwcGF6QzFGQnZNbzgtbGtEZml2ZUxVM0ZNek4xVEtna21weVVLWVVsRy16X0lzaVA1QXdUVUF4M3djeUl2R2RvaVRrZ19OOEd4eVd1TXJTdjg2ZjhSSVBxMUZQSWNoTHFra2l1b3dIWFFqUQ?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 03:04:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Shares rally ahead of US jobs data, Fed's Waller soothes bonds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rcFlLejhNNm1fZ1hhM3NvLV8zZTJuOTE5QUVSUVR2V0IxQWpuLUZxVHFmRXpWVHd2OWU0cUR3eW9ZMFZKQnhwcFdrOHBZclNEZkF1X01MYmw4dUZTbU9zWGJPMEJ4N3FXNkY1MHAwSFZWenJGVWM4blVzbw?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 02:34:00 GMT",
+          "title": "Typhoon Saudel brings torrential rain, flooding to China's coastal areas - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMWVKV1pHdWp1UzUta1ZWLUxLa2FOeUVMMi1SOXcyanRhOHRzLUNHV3Rwa2tUNmoyUXVyUUtxanV4bGM3ZUlKYnlOY0N1ZVd3YWNsWEd1Qmh0eEJCOEFFMDJiRDJ3UHNZNXd5LWZ3SFdWelVXOEs3VmE2RXdJWl9IS3psUEZUNjhBY2RCcldWYzhaMjd0clJkdmVjcDM4cWlQWFZZLWNFU2JqZHZJRGJUOG9hZFVhYlQ2YVRvWlc0Y2Y4dw?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 03:23:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T07:25:13.683Z"
+      "updatedAt": "2026-09-04T07:50:17.994Z"
     }
   ]
 }
