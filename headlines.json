@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-04T17:04:59.526Z",
-  "lastChecked": "2026-09-04T17:04:59.526Z",
-  "lastUpdated": "2026-09-04T17:04:59.526Z",
-  "generatedAt": "2026-09-04T17:04:59.526Z",
+  "fetchedAt": "2026-09-04T17:25:14.291Z",
+  "lastChecked": "2026-09-04T17:25:14.291Z",
+  "lastUpdated": "2026-09-04T17:25:14.291Z",
+  "generatedAt": "2026-09-04T17:25:14.291Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Argentine couple to return Nazi-looted painting to rightful owner",
+          "link": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 04 Sep 2026 17:14:21 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
           "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 04 Sep 2026 11:54:51 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "US diesel prices hit an all-time-high",
-          "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 04 Sep 2026 10:52:56 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T17:04:58.465Z"
+      "updatedAt": "2026-09-04T17:25:13.103Z"
     },
     {
       "name": "NPR",
@@ -99,20 +99,20 @@
           "source": "NPR"
         },
         {
-          "title": "Scientists map key protein interactions linked with profound autism",
-          "link": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
+          "title": "Germany's far-right AfD party is poised for power in a state election",
+          "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
           "pubDate": "Fri, 04 Sep 2026 06:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Germany's far-right AfD party is poised for power in a state election",
-          "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+          "title": "Scientists map key protein interactions linked with profound autism",
+          "link": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
           "pubDate": "Fri, 04 Sep 2026 06:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T17:04:58.564Z"
+      "updatedAt": "2026-09-04T17:25:13.288Z"
     },
     {
       "name": "AP News",
@@ -120,19 +120,25 @@
         {
           "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 17:02:05 GMT",
+          "pubDate": "Fri, 04 Sep 2026 17:16:12 GMT",
           "source": "AP News"
         },
         {
           "title": "Judge in Lindsay Clancy case says he'll declare a mistrial, then gives defense 1 hour to appeal - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcldjRVJhMFF6X3BoT1hoUW9JU1h3QzVuZzFKT19YM0dSQ0ZVdG5IbURjVXhCc1k1N3pkZkQydjdoS1N5Mnlid0M5YV9jdGV2U3NFMXI5Q2JUN1dXZ0NTY0wwTjVoeG5lRHRUSkZLS1pzemhNM2dOTXNxQkJ6SDBKY0dmRUpJZG1XNzVTcVVyUUZ0SkJXQUVVOEpuVTU5S0xtSnE1ejUwbE8?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 16:46:00 GMT",
+          "pubDate": "Fri, 04 Sep 2026 17:07:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected - AP News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 16:19:00 GMT",
+          "pubDate": "Fri, 04 Sep 2026 16:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Watchdog report: Ex-Labor Secretary Chavez-DeRemer oversaw hostile work environment, misused funds - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNDYwU0QtTkFJbkpkUUNBQ2dNbmp3Uk9nUGxkUUZYZElvLWhSdG1xcEthcmdaczZTaEJYbXVuaWMwS0EwM3M1NGViZENmX2FHZDc4d2wzcERGUXprMU5CNmlGSzNoZi0wZ0NHS05sMWRTNEdfN2hhbnY0UFdvM0ZDWk5Vd1o5WEQ1U1ZRVlpkOF96RXRYN3dFUWxJem96dTlpbERqb3d3dW1XLWxUR3FocmhDcGdyenNwd1lpVzRKSlpQY2pzeWhMUllB?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 16:09:00 GMT",
           "source": "AP News"
         },
         {
@@ -154,12 +160,6 @@
           "source": "AP News"
         },
         {
-          "title": "Watchdog report: Ex-Labor Secretary Chavez-DeRemer oversaw hostile work environment, misused funds - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNDYwU0QtTkFJbkpkUUNBQ2dNbmp3Uk9nUGxkUUZYZElvLWhSdG1xcEthcmdaczZTaEJYbXVuaWMwS0EwM3M1NGViZENmX2FHZDc4d2wzcERGUXprMU5CNmlGSzNoZi0wZ0NHS05sMWRTNEdfN2hhbnY0UFdvM0ZDWk5Vd1o5WEQ1U1ZRVlpkOF96RXRYN3dFUWxJem96dTlpbERqb3d3dW1XLWxUR3FocmhDcGdyenNwd1lpVzRKSlpQY2pzeWhMUllB?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 14:45:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Pressure in China helps convince Volkswagen it’s time to change - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQTRKWXBvUkpXaFF1UjhNWks1cmpDVFdHZFEtSHhFa2RMTlVEVEtHUklyOHQ2ZS01YlA2UXgtbXUtVG5UX0phY1RtU2RWRFc1RUpsQmF0Y0ljMXE5WEhXOEZORW1udXNBTVlfTWNjWV81WlBBLXNsMzRENU5PbGd1ZGoyVExycUI3d3lKaVRSOWplZXJFTl80MVU4Qllvdm83RHhiQ1pTdmdFUQ?oc=5",
           "pubDate": "Fri, 04 Sep 2026 14:37:00 GMT",
@@ -167,62 +167,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T17:04:59.087Z"
+      "updatedAt": "2026-09-04T17:25:13.831Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
+          "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 16:57:47 GMT",
+          "pubDate": "Fri, 04 Sep 2026 17:16:01 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Musk pushes regulatory limits with Tesla's Cybercab robotaxi service - Reuters",
+          "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 17:12:33 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Musk pushes regulatory limits with Tesla's Cybercab robotaxi service - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmtOa3E1eVZxWmlvUHp3eUM5OE44YW1TMWNwMldpUnpyMVZMclEzQkxuV0dYTnBSWl9VZnB5aHFxVS0xcXNURjhKZFNDaTZvSWZXQUNKdTZ4M0s2TmVRTGhqelg1QUFpTnBqSGhUaVlGbUR4eHZUcFVGM2wtX0w0RFk5bXY5VHFkRHZ5Snk3cUllVTF1SEpTMWZDNTZrNzlveHE4eHRjNWwtclBTR2hvSDN6eXdha2JWRmxmMg?oc=5",
           "pubDate": "Fri, 04 Sep 2026 16:41:08 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russian drone strikes Ukraine's security service HQ, escalating air war - Reuters",
+          "title": "Russian drone strikes Ukraine's security service HQ, escalating air war - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5",
           "pubDate": "Fri, 04 Sep 2026 16:35:54 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wall St slides after strong jobs report bolsters hawkish Fed bets - Reuters",
+          "title": "Wall St slides after strong jobs report bolsters hawkish Fed bets - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5",
           "pubDate": "Fri, 04 Sep 2026 16:25:46 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Judge says he must declare mistrial in Lindsay Clancy trial over killing her children - Reuters",
+          "title": "Judge says he must declare mistrial in Lindsay Clancy trial over killing her children - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONElYU2NZblhTTVRRT1RRMUw3R2swWmRtY0x1WVJpUHRnbXZhNlBNb0JYMHJBaVZzdWY1ZlNlbWt4Z0RrUi1wVk1HZ3ZQMGRna3U2TXUwOGZNLTVEbklPbjUtXzZMMHhHZWg1OF9iOXJaTGU4dktFcU9IVEFMLVZ5TjMtZ3RoSHByR1dzcGpxWWQ2c1Z0VHliMnVKaE1oTERURFdyRkRnNnlJb3hGVDZTQ0FR?oc=5",
           "pubDate": "Fri, 04 Sep 2026 16:16:51 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US opens probe into Tesla self-certification of Cybercab robotaxis - Reuters",
+          "title": "US opens probe into Tesla self-certification of Cybercab robotaxis - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQck1jNEdySTN3TlpYR2lwYnp5ZmdPSE1PSVU4bnMteVQyd1BQOE8xMm1ObU9kTWV1Z0tENlBXTjY0RVZINy1YNURVYldWMEUzTGx4STNPaG5zRjJMOWpzWFpJQy1RV2VpX0NvMmVFZ1kwdWhxeDlzV0R3a3NnbTN6Nmtod3AzZkk5eVdyYm1yNHU5M0JjczhQbnQ5eFlSMUZ4RFRoQUhTZzlGVG9yZGpMR01NTDZUVk01Y0FpaFhEdXI3YmtPeTlZd2dzS2syb1Zo?oc=5",
           "pubDate": "Fri, 04 Sep 2026 16:16:42 GMT",
           "source": "Reuters"
         },
         {
-          "title": "ByteDance secures $29.6 billion loan in AI push, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2N0QUdBQ0tEUF9iNnRSLVRlNnZ5MmFOUXhNeG5taU5mVDhFa3lVU3NMTlFiT0lDcXpkaTF0NVplVEZld2RtUjAwV282aWYta3Y2blNQMm04WTlEdkpNMmdLeTNHMmoyMm84RjZXWVZpNDNWTExaUUpmZXlOTllpMU9TdmQ2V3BPOW1lTlpUbXRObkFaNzhsUy1RWjBOVUVvOEM1TjlNdVdKQ2ppYXBj?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 15:49:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Shein seeks fast-fashion deals to spur growth - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjFYOTdvSVpBNW9kTWd0Uk1tMmdMN0o0MndhS0RsNzJ3SUpVYTZLQmRCa0J1TDFnSHlRSjJpQnJBbWRUeTZvUkpWU3B3U2d1VjhtZWg4dmFKeHJzTXB4RzZtM0JHZ1lpajctdllMVHFyQjdBWU1ZMmR5WXRUMmhvamE5QURRX3ZwYmxGX0R6Q2RGTmFfeHN5Q2tvTHV3azA?oc=5",
-          "pubDate": "Fri, 04 Sep 2026 15:39:40 GMT",
+          "title": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 16:03:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-04T17:04:59.525Z"
+      "updatedAt": "2026-09-04T17:25:14.291Z"
     }
   ]
 }
