@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-05T14:00:19.756Z",
-  "lastChecked": "2026-09-05T14:00:19.756Z",
-  "lastUpdated": "2026-09-05T14:00:19.756Z",
-  "generatedAt": "2026-09-05T14:00:19.756Z",
+  "fetchedAt": "2026-09-05T14:25:13.004Z",
+  "lastChecked": "2026-09-05T14:25:13.004Z",
+  "lastUpdated": "2026-09-05T14:25:13.004Z",
+  "generatedAt": "2026-09-05T14:25:13.004Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+          "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 05 Sep 2026 14:07:38 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "What different world maps get right - and what they get wrong",
           "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 05 Sep 2026 07:20:17 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Why did USS Lincoln turn up in Thailand looking so rusty?",
-          "link": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 06:53:20 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T14:00:18.584Z"
+      "updatedAt": "2026-09-05T14:25:11.649Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T14:00:18.814Z"
+      "updatedAt": "2026-09-05T14:25:11.923Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T14:00:19.280Z"
+      "updatedAt": "2026-09-05T14:25:12.527Z"
     },
     {
       "name": "Reuters",
@@ -182,6 +182,18 @@
           "title": "Chinese national rescued from Nepal tunnel 10 days after flash flood - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG1aeTdsTDc5NHp0U0J2UFV0eGtnY1k4TjBqT3FzS3hmM3o1Um1hRW1Xa0UtcmV3YlRFZTVROFVVRVBYY2t5MF9WekJzLXZMdWJLa1ZYeWpIZmpjcC1Vamt3bzJvd21WeWFnTjB2QWJqXzA5bWM5dHJhLTNwLXRDMnJ0SVNqUmo4cjBQYXNjWi15aURhVTE4NXhtVHJFcVJxeUlVZVRERUlXa1dZY01PVGpmclFnMkpldFZGQkdXdw?oc=5",
           "pubDate": "Sat, 05 Sep 2026 13:35:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "How escalating attacks are upending daily life in Kyiv - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTi1uWk5tUVg3Z0QyNUROOER0VE9HWU0yZ09IMHNGQmE4VnFxY2RqSnE2MlRqbHFpdExsT0x0dTE3N1JsZEZzUHZ3dnpGWmdrVTR3UFJDaEhxMGRBeFdUY21GZ3pmQWhBYW9UMU5zM1Q4ODdzR2xRMGpvZF8zTEZlS3hDRzZfS1VGWWVtRnlsR001TGtFMjRPVEZtNjdrNklSR2c?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 13:20:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tens of thousands rally in Zagreb over Croatia waste cleanup delays - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU5mNklNMTV1TW8zNUtJbFZldzFiUURfTzN6alhRLWRpMm1fbnV0ckE3V0hodnJBRHo4bDJ4YzVyTENYQjdaQnlFMXg2ZGx5dk16R21YNkZBWmxQUU02QmprWFRVMzlXYjQyQTBnN3VpajNSWk1QbndFc0JEbzZIcldfb1hwejhCTkNGTDF1OW9VU05MYVNBZ0UtTDNrU2EwYWhEb0hxM3BqcFZFQnR5b3pmMzJndGR6eWc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 12:53:43 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZDZhTmZ3aUFBR1RfOFU0c29EQ0pFeTFyV0Mxb19pemdhMlllWVlZOHlnd1pGdTZYSGdib211VGhoLUlZVjBQVjRmVTJKNHpFb1cycWR3YjFKTDFodDVNUjZpV2trRUh4VGVvOFQ0ZXB5SkVkNzAxcHFZMlhzcFpBUG5mdXJGcnZ5RUJ2QjJtNDhyRTRoWGY4R3hNZm1ibUpzbGZRZFlnNlRNOHhmV2ZVc0dmLWNLdXVHdUJteDJ6QQ?oc=5",
           "pubDate": "Sat, 05 Sep 2026 12:17:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US ambassador visits Palestinian town amid rise in West Bank settler violence - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHpLU3NTaHlMWHZGRnJIYmY5RGkzZkNPbnJyVXJLSmN4M3NyMjhZaUlzbDFURzZ4VW1LOTc2SFhqc05SMURsMV84dHZhcHhLcUhlM1AyNHlyWmVlYmdSbWp0Vl9xbjBqSGllSjlCVGxySDJRMl95ZFI4V1FwVjAwT2tzWWNWdjJqWnpKMjA3V1c2QzkzWFphemhVdWRIRW53YWNjNFlkMGlMOTZMZTc5NXVtZ1NKblFMVUZObzYtSEpsODAxNDlr?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 11:33:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Americans hit with record-high Labor Day Weekend gasoline prices - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFRnN3lrWTZLMXNUSW1MWWwxemVSc1RuaDM1dnhkWlZpbDJZT2t5dGYxRWlMa1RiblhPN0ttUzRHUDcwUGRVVEsyb092RTAzR3lZeDN6dFpRVDN4SjhlYng0Y082RjJSVEVZWkg4SnZ2SGtaNW1DbExVTklPMXZHdnVWZTZqbUZ6QkRYMU1mLWhyeEF5VzQ2anpJaThuVmNxSF8xWTBDRkNJVzMybTV0Rlo5dlFiUFk?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 11:02:09 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T14:00:19.756Z"
+      "updatedAt": "2026-09-05T14:25:13.004Z"
     }
   ]
 }
