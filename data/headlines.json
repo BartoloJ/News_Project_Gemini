@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-05T15:50:16.414Z",
-  "lastChecked": "2026-09-05T15:50:16.414Z",
-  "lastUpdated": "2026-09-05T15:50:16.414Z",
-  "generatedAt": "2026-09-05T15:50:16.414Z",
+  "fetchedAt": "2026-09-05T16:00:20.175Z",
+  "lastChecked": "2026-09-05T16:00:20.175Z",
+  "lastUpdated": "2026-09-05T16:00:20.175Z",
+  "generatedAt": "2026-09-05T16:00:20.175Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T15:50:15.133Z"
+      "updatedAt": "2026-09-05T16:00:19.081Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T15:50:15.368Z"
+      "updatedAt": "2026-09-05T16:00:19.285Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Putin and Zelenskyy agree to pause strikes on Kyiv and Moscow during talks with US envoys - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A wedding party fire in Kinshasa leaves at least 22 dead, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRm1Rc0Eta3VEZlAwYVVGdXBvSklLbk51di1LMG9JQXZKdFpuaGl5akgySFBkaTVjbUhCaDVBZV9CTmZnNE9EUC1UUW9yNmluNk43Q1E4ZnRMZ3VDWlZjbGhubnNsMGxybWdHV2ladnUwWmRIRHJES28wM2pmdDNLeDhyNDE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:51:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Rescuers in Nepal pull 2 people alive from the debris 10 days after devastating floods - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX18zT1FRbXVDNm5HcEJ2WmxDRHplcmtJTEZnRjV5TXZ5YXJ6WDFYR1E5d3JBWHlwMzAtN3kwUU9OVTJLZ00yTnlPTE44UUljVF80NXdvYTRXYWlDcnhyMndOV3RhcWctQUxQb0RCMThzNHBhZWUzcjVuaFpEdzd0Tk5BR1RSYTNmaTJBeDR4NThUZzAzNFljZnc0Yw?oc=5",
@@ -148,26 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Putin orders a 72-hour pause in strikes on Kyiv as US envoys visit Russia and Ukraine - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 12:51:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Turning Point is laying the groundwork to shape Republican presidential primary in 2028 - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ1pQOElkSnRkSWlVQUF0NWxKU3hncUFLOU9mR28xSVZOdlNNR3VBcmdHZkxubEVRbWtqWkxlaFYzVEVTOE5VRG9feldkNXUwOU1SSDllWnZXVmNvT2taQVZURFRDQ3R2dUdjMmdRWnRhQjFUNzFQc0pSUEg1N08zYU5zb0d2Ny1WcmZudXNn?oc=5",
           "pubDate": "Sat, 05 Sep 2026 11:21:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Women gathered in a small Iranian town for a wedding. Then deadly strikes hit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY2xzWXdBZkx3dWN5b05TSjV4S210aU1qZ2hDR2JxYnVuTnNFY01sU2NKNjdoTW44bFp5SGhHQUEwc0VseHlvZ3dpUllBT0Y3RUo0bzZMWU9GbFlDWG1PNUFUN2xReGFfNVRJR25IMjRYa3pETEt2ZDJsVy1nN0djZndyMjM5MzUzUW0tTUZ5Q0M?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 07:50:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T15:50:15.863Z"
+      "updatedAt": "2026-09-05T16:00:19.801Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T15:50:16.414Z"
+      "updatedAt": "2026-09-05T16:00:20.175Z"
     }
   ]
 }
