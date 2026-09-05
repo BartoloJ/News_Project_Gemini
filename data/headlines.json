@@ -1,22 +1,28 @@
 {
-  "fetchedAt": "2026-09-05T15:00:23.785Z",
-  "lastChecked": "2026-09-05T15:00:23.785Z",
-  "lastUpdated": "2026-09-05T15:00:23.785Z",
-  "generatedAt": "2026-09-05T15:00:23.785Z",
+  "fetchedAt": "2026-09-05T15:25:23.544Z",
+  "lastChecked": "2026-09-05T15:25:23.544Z",
+  "lastUpdated": "2026-09-05T15:25:23.544Z",
+  "generatedAt": "2026-09-05T15:25:23.544Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-          "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 14:44:35 GMT",
+          "title": "At least two dead in blast at Bolivia military barracks",
+          "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 05 Sep 2026 15:22:41 GMT",
           "source": "BBC News"
         },
         {
           "title": "US hits three Iranian oil tankers after saying its warships were targeted",
           "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 14:40:53 GMT",
+          "pubDate": "Sat, 05 Sep 2026 15:14:21 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 05 Sep 2026 15:05:14 GMT",
           "source": "BBC News"
         },
         {
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 05 Sep 2026 09:12:34 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "At least two dead in blast at Bolivia military barracks",
-          "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 08:41:38 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T15:00:22.670Z"
+      "updatedAt": "2026-09-05T15:25:12.630Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+          "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+          "pubDate": "Sat, 05 Sep 2026 11:05:08 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Opinion: A sculpture in perpetual motion, removed",
           "link": "https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
           "pubDate": "Sat, 05 Sep 2026 03:21:10 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "The U.N. backs a new world map showing Africa in its true relative size",
-          "link": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
-          "pubDate": "Fri, 04 Sep 2026 18:26:35 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T15:00:22.757Z"
+      "updatedAt": "2026-09-05T15:25:12.671Z"
     },
     {
       "name": "AP News",
@@ -166,12 +166,24 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-05T15:00:23.370Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Chinese national rescued from Nepal tunnel 10 days after flash flood - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG1aeTdsTDc5NHp0U0J2UFV0eGtnY1k4TjBqT3FzS3hmM3o1Um1hRW1Xa0UtcmV3YlRFZTVROFVVRVBYY2t5MF9WekJzLXZMdWJLa1ZYeWpIZmpjcC1Vamt3bzJvd21WeWFnTjB2QWJqXzA5bWM5dHJhLTNwLXRDMnJ0SVNqUmo4cjBQYXNjWi15aURhVTE4NXhtVHJFcVJxeUlVZVRERUlXa1dZY01PVGpmclFnMkpldFZGQkdXdw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:00:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:42:01 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU9CXzlJanVHV0E1X1VldkR1YURIamdnbTAweGxwYk1CSzdpWlJ0Y093MVg1MUlmV1d1SFF3RmVIeHlFT1dKYjdGdlo5em83Ym8zRVhMa1BZN1ZlWU9NZ2hWcWZuOUEwdFhJaGRTTmVfMDlUOTd2bzhaSDYxek9JcjZqNW9ERkhycGRtZ3pVc28xTjdScDFJbGF5TEhSNTBWQWVhNEV2R1NTbDVGZkdOU2hhWjhYN2V0SUNwSlF2OG5nd3NrcVh3?oc=5",
@@ -197,12 +209,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Chinese national rescued from Nepal tunnel 10 days after flash flood - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG1aeTdsTDc5NHp0U0J2UFV0eGtnY1k4TjBqT3FzS3hmM3o1Um1hRW1Xa0UtcmV3YlRFZTVROFVVRVBYY2t5MF9WekJzLXZMdWJLa1ZYeWpIZmpjcC1Vamt3bzJvd21WeWFnTjB2QWJqXzA5bWM5dHJhLTNwLXRDMnJ0SVNqUmo4cjBQYXNjWi15aURhVTE4NXhtVHJFcVJxeUlVZVRERUlXa1dZY01PVGpmclFnMkpldFZGQkdXdw?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 13:35:26 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Tens of thousands rally in Zagreb over Croatia waste cleanup delays - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU5mNklNMTV1TW8zNUtJbFZldzFiUURfTzN6alhRLWRpMm1fbnV0ckE3V0hodnJBRHo4bDJ4YzVyTENYQjdaQnlFMXg2ZGx5dk16R21YNkZBWmxQUU02QmprWFRVMzlXYjQyQTBnN3VpajNSWk1QbndFc0JEbzZIcldfb1hwejhCTkNGTDF1OW9VU05MYVNBZ0UtTDNrU2EwYWhEb0hxM3BqcFZFQnR5b3pmMzJndGR6eWc?oc=5",
           "pubDate": "Sat, 05 Sep 2026 12:53:43 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDhRUjlOUEk4X20tWWV0dzFUNXZGc0RyMzM2eEpqOS0xRnpfdXpxSUdWZXdoZkJZV3VpWlI1WEJCUFZiUWFvcEFMdmxFY1dDMkNDMDBBZmdzUmhXSlVxMndZdE5yUV9ST05BOHJjc3JvajRqVUlDYk1xTVdwX2d2bnBXRzVVVWg2TUxIUnpxTzUtZGpBUHp2OW1UTE5CbVlYS1lfTXNOVk9RSXotVjFSdDBnR3Jsa0MtSzlMbk44TnI?oc=5",
           "pubDate": "Sat, 05 Sep 2026 12:45:11 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Missouri asks Supreme Court to revive Republican-drawn congressional map - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZDZhTmZ3aUFBR1RfOFU0c29EQ0pFeTFyV0Mxb19pemdhMlllWVlZOHlnd1pGdTZYSGdib211VGhoLUlZVjBQVjRmVTJKNHpFb1cycWR3YjFKTDFodDVNUjZpV2trRUh4VGVvOFQ0ZXB5SkVkNzAxcHFZMlhzcFpBUG5mdXJGcnZ5RUJ2QjJtNDhyRTRoWGY4R3hNZm1ibUpzbGZRZFlnNlRNOHhmV2ZVc0dmLWNLdXVHdUJteDJ6QQ?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 12:17:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T15:00:23.785Z"
+      "updatedAt": "2026-09-05T15:25:23.544Z"
     }
   ]
 }
