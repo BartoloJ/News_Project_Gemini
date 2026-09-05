@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-05T21:00:18.395Z",
-  "lastChecked": "2026-09-05T21:00:18.395Z",
-  "lastUpdated": "2026-09-05T21:00:18.395Z",
-  "generatedAt": "2026-09-05T21:00:18.395Z",
+  "fetchedAt": "2026-09-05T21:25:13.438Z",
+  "lastChecked": "2026-09-05T21:25:13.438Z",
+  "lastUpdated": "2026-09-05T21:25:13.438Z",
+  "generatedAt": "2026-09-05T21:25:13.438Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T21:00:17.235Z"
+      "updatedAt": "2026-09-05T21:25:12.230Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
+          "link": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
+          "pubDate": "Sat, 05 Sep 2026 17:01:10 -0400",
+          "source": "NPR"
+        },
         {
           "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
           "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
@@ -103,30 +109,24 @@
           "link": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
           "pubDate": "Sat, 05 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Flock cameras draw opposition from across the political spectrum",
-          "link": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
-          "pubDate": "Sat, 05 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T21:00:17.427Z"
+      "updatedAt": "2026-09-05T21:25:12.581Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 20:56:24 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "A wedding party fire in Congo’s capital Kinshasa leaves at least 22 dead - AP News",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRm1Rc0Eta3VEZlAwYVVGdXBvSklLbk51di1LMG9JQXZKdFpuaGl5akgySFBkaTVjbUhCaDVBZV9CTmZnNE9EUC1UUW9yNmluNk43Q1E4ZnRMZ3VDWlZjbGhubnNsMGxybWdHV2ladnUwWmRIRHJES28wM2pmdDNLeDhyNDE?oc=5",
           "pubDate": "Sat, 05 Sep 2026 20:28:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Putin meets with US envoys at the Kremlin for renewed talks on ending the war in Ukraine - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 20:19:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,9 +142,21 @@
           "source": "AP News"
         },
         {
+          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 19:22:03 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "US ambassador calls violent Israeli settlers ‘terrorists’ after weeks of West Bank unrest - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEtQeGdOOG0tWlByeVhITXFPWm02dzVPbG9Za1huS05sN0xJTldVT2h0d284R3JKMEUwMnd1ZUE5VkFTV2hQbTdlNlIzRzVIRDBNaDJ1QU9Ya1o3OW1hRWdsTUVEVlVCSzhKZDZOaDZHZUhvVnFoaTIwYWdFZURRQ1VsVG1lMUV4amFwSVdUQkpDMHZJSHZxb1NkcDQxWTR4UzlmOXY0U1hNaEtiUFE?oc=5",
           "pubDate": "Sat, 05 Sep 2026 19:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Robin Morgan, poet and feminist whose allies included Jane Fonda and Gloria Steinem, dies at 85 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObU4xT0VWV3hRQ3BsazdTM2hOSmpsUWtkdXhPc05OVVQwOVlyN1J1SEt2QkFZNExlQmxFR2FVMFFvN1JkVkpXTjVDQ2RkTTZVN2d4RlB4S1YtNHdyb1NTdkpwQU5EdElLckJKM0lxVHdzMzZCNUR4bC1tZkVsUFcxa0NKSQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 19:04:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTWF6S1duM25TeVByODFhekZYcERwS0ZhN0RreWZOa2diMWFvdWVKdjNzUS1jZy0wVTJDdHEwOTRDUEJocWhNOEJCNVdfaEY1YnVDZXdhNHJ2T1RraE01Z1U5WnhocEtMbTJUbVpKWnE4MG5mdkZfaVNHWnhRRWxBWnF0dHpuRmJDZ2l2UEc0SUd3Y1Y5?oc=5",
           "pubDate": "Sat, 05 Sep 2026 18:43:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Greek air force jet crashes at an annual aerial show, killing 2 pilots - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmJIdGJzdkhLMUJybzF4SHU5U2VfMUpJSXRIMC1TdlozSUVnZlllX1dINEV0U1ZxUlFoUjFndkpGTGtzNWItSEp6OTFETGwxY3ZKY2l4enhVTXl6anpkbENFeVJhRkZqM3BfWk9EUk15S2hFcVdrUy13Skh4WmpaMWR3LTRhRzJWNVBkaDhkT25OM3RyNjE4?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 18:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Putin meets with US envoys at the Kremlin for renewed talks on ending the war in Ukraine - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
-          "pubDate": "Sat, 05 Sep 2026 18:32:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T21:00:17.883Z"
+      "updatedAt": "2026-09-05T21:25:13.020Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-05T21:00:18.395Z"
+      "updatedAt": "2026-09-05T21:25:13.438Z"
     }
   ]
 }
