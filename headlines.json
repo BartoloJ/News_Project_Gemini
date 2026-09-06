@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-06T19:00:22.005Z",
-  "lastChecked": "2026-09-06T19:00:22.005Z",
-  "lastUpdated": "2026-09-06T19:00:22.005Z",
-  "generatedAt": "2026-09-06T19:00:22.005Z",
+  "fetchedAt": "2026-09-06T19:25:12.253Z",
+  "lastChecked": "2026-09-06T19:25:12.253Z",
+  "lastUpdated": "2026-09-06T19:25:12.253Z",
+  "generatedAt": "2026-09-06T19:25:12.253Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "German far-right set for big win in eastern state, projections show",
+          "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 06 Sep 2026 19:13:51 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
           "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
@@ -14,9 +20,9 @@
           "source": "BBC News"
         },
         {
-          "title": "German far-right set for big win in eastern state - projections",
-          "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 06 Sep 2026 18:15:11 GMT",
+          "title": "Germany's far-right AfD celebrate projected win in state election",
+          "link": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 06 Sep 2026 18:32:53 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 06 Sep 2026 08:05:22 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
-          "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 06 Sep 2026 06:04:51 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T19:00:20.970Z"
+      "updatedAt": "2026-09-06T19:25:11.229Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T19:00:21.061Z"
+      "updatedAt": "2026-09-06T19:25:11.389Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "German far-right party set for regional election triumph but uncertain of governing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0lvaTZsMkMxOVpwN0RmdnBiY2VWaGJPM0FZaG5rclBjajFLZWlCZmZ3d0hyRmdnWHA4cUt3OW5YOTNCZUZwMVF3d2pmR1g4bWhHdlg0OVdiMmg5X29YalRaRXp4OUdHQnM1bTBzZW9Yak1Ed1VaZUtjS2tmTllGSnRkMmpxcGxYUU5NMFFpTWV6NU1EeGxzYWZxSzFqRml0aUVRVHJFVQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 19:01:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
           "pubDate": "Sun, 06 Sep 2026 18:58:34 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran claims a strike on a US ship in the Strait of Hormuz but the US denies it - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXpPTUJjVll0WEd0Wk90aXMyTzltVWQwNXk2Y0hXZ1JsWVZmeFpLMTN0VG9CdlVrdjFKRXlRWWpkczdkOVk4blJKOVZNYUYtbi1fLUpqOXBnN25hdFZDQWN1S3BtWGxJM3NRdHg2a3VPTUVYZzkzUjFTc1JGQkZPd0FwR3dRdUFXeV91UWJyZURPTFZwWXJTYjRXNS1hdw?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 18:46:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS2JFTzhuNzJSX1pYMC1KU0dCWTd5dnRXY3Q5VXVCbHdoaVhlaHJaYW11SmRUSDN5NG9ucl8xN1RxYTZYdFFYNkx1ZmZxX1c5YzJjVlY2U1Q4TnhHdHoyQzlobzhPVG1lTS1KTUlaelZ6YlBlV0V4RXc0c2ZlUWp5R0pMRllobkJSNXZFaHRLYUI1cjNkMlIwc3NsaFEwYXJL?oc=5",
           "pubDate": "Sun, 06 Sep 2026 16:05:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A whiplash election year enters its final stretch as Trump holds wild cards - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnRIVTdVTmNLVDFTbUN2eUUyYzVfVFFmcU44UHlObXlqUlNfeFVXdG4xcEp4N3ROUEVHMXRBcVp6bldYWkJYNkV0WkRCMlk1Q2p4YWRGM2Nfb09rdEtFbGZqWTY3S2F3cTdNakFybkV2MGtoNW5iUUJLZHdEVEFPXy1yZGt5SVZtOGlMUk1DbEt5bzd1UExGRUhrOXBDR1F5OEE?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 16:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Volcanic island in Indonesia erupts, forcing the cancellation of hundreds of flights - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYV9LY1JLSHlZeDl1dXA5cTJZeXFCdUdaREphR2NJNVBXLUE1NXlzRnV0d1JCVlVqSkF2LThqcFJZVVlNTzVFYV90N2RYQnh3QzFQVmNtOHkzVUktNUNiR2xIak9oYXhNNXlWQVNKdlNIUWltYW54NS00eXZQQ1hydVdaYjJpZG5wZmhDek1VTjhQVWhyU0JZTUVTQnBNeUdtVkE1b3dSMVRPeFBGSHc?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 15:06:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T19:00:21.569Z"
+      "updatedAt": "2026-09-06T19:25:11.858Z"
     },
     {
       "name": "Reuters",
@@ -182,6 +182,12 @@
           "title": "Israel's Netanyahu orders West Bank settler outposts to be removed, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN2c0azRZQ0hqbEdRWlhzYlBWRGxQUU9NUmdOUVVtSm1WemlRVnRXd05VT0U4MkcyQjJGWVpHV0hvZHdLb0dIc1FIVDZyYUZ6SjlTYlV0NUtGZnBWckhpaHVYX1JGd3ZNZ1pCRVF4Z213dXk4ZGFNNVZtV19nNDNQOHZVX21Kei16R3pOZzVwS2Y2Zng2eVloNTVmSUx3RnZ2U09Mc1pNTWJGVjFsZ2N5Tm1IVzdOWnU5WWNXOC11SEY1a0poMG53?oc=5",
           "pubDate": "Sun, 06 Sep 2026 17:39:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israeli strike kills a man and his daughter in Gaza, medics say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXNmc1lpWkNYV0VUaVR4bDNpWTNMcTQ1VkFPYk5tZGFHbzk3Q3pOX0JtRW9Gc01kVnJ4RjRRVVl2aVpfSU1jN1JtelYxZUNIZV9Qb3M1U3J5Y0FMdkN6SV9sd3dPckdaWFFMWktOejFtUldxdUFDd0tMbjBzRzE5R0ZsQ1pPMG1ZNHJWTXQwNWVTT05PNmNFMElJbGVLenhLbEJ3?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 17:34:51 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2VGVDNuZElSX284cF9IRWJ0cnFVSHBuTGZEV2RCcXJXWEdhdU93UzlEWVdvdjN1cEFqVC00blJfWTlMNGRGbUx0X2lkNjdfWDNScjJUZDRDdFV5ZlhkaDBjblN6ZXl3Y00ySFRxSWJZMVdPSE1IekhqVXhQc0pCbndSbEF3U1VzNno2ckFkOEFsR3hjd2VGUXk2Qng4dzFCZXRIbmZB?oc=5",
           "pubDate": "Sun, 06 Sep 2026 14:04:39 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Iran to tackle economic issues, says further attacks will be 'more painful' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2JCeUZJRmd5UEhfaFJjQ2U3UDRValp0Y0ZVOVBiWXE0YzBVZHhTd3RlR0FQMlZHMFRadXJvS01XOHBvb0p2Qzg0V1FYeDdUWC1uMDBFZU5JNnZCRVh1M1lLLWZCQ2Jhb1djdlJxTGEtNGNHWk96czEzUm13VE9wMVp1YjhEQ21WSVZwUlZOMEpBbkJVRm1tRV9wTy13Z0RaMXpvd29RMFdRUkg5ZjVUaTRuRkhCZ3doLTJtWnRoZFU?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 14:04:02 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T19:00:22.005Z"
+      "updatedAt": "2026-09-06T19:25:12.253Z"
     }
   ]
 }
