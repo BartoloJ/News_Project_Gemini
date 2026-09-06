@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-06T17:25:16.602Z",
-  "lastChecked": "2026-09-06T17:25:16.602Z",
-  "lastUpdated": "2026-09-06T17:25:16.602Z",
-  "generatedAt": "2026-09-06T17:25:16.602Z",
+  "fetchedAt": "2026-09-06T17:50:15.033Z",
+  "lastChecked": "2026-09-06T17:50:15.033Z",
+  "lastUpdated": "2026-09-06T17:50:15.033Z",
+  "generatedAt": "2026-09-06T17:50:15.033Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,13 @@
         {
           "title": "German far-right set for big win in eastern state - projections",
           "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 06 Sep 2026 17:13:15 GMT",
+          "pubDate": "Sun, 06 Sep 2026 17:42:19 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+          "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 06 Sep 2026 17:00:56 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 06 Sep 2026 06:04:51 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-          "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 06 Sep 2026 01:54:29 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T17:25:15.388Z"
+      "updatedAt": "2026-09-06T17:50:13.997Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T17:25:15.659Z"
+      "updatedAt": "2026-09-06T17:50:14.246Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Trump administration makes another appeal to the Supreme Court to allow mail ballot restrictions - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2h4QWg0bEhGZGEzdENsamhDdFR1ZzNxMU5jVlN0R19iRUkzUG13ZlYtMGFiZFFMa3ZmMXlqMm4zbUdKbXRzLXl5aVZSSlFSVHh0U3AwUkZDQzhlM3dJRmMyTFhVcXN2RE56WC1nOG9TczBBTUpNUDlNdXE2akFvYzZCS0cyelVpbEVEN0xoUkE3Um56NmZnWjFOaU9LT2lxNnNz?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 17:28:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 17:05:26 GMT",
+          "pubDate": "Sun, 06 Sep 2026 17:27:20 GMT",
           "source": "AP News"
         },
         {
@@ -139,12 +145,6 @@
           "title": "A whiplash election year enters its final stretch as Trump holds wild cards - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnRIVTdVTmNLVDFTbUN2eUUyYzVfVFFmcU44UHlObXlqUlNfeFVXdG4xcEp4N3ROUEVHMXRBcVp6bldYWkJYNkV0WkRCMlk1Q2p4YWRGM2Nfb09rdEtFbGZqWTY3S2F3cTdNakFybkV2MGtoNW5iUUJLZHdEVEFPXy1yZGt5SVZtOGlMUk1DbEt5bzd1UExGRUhrOXBDR1F5OEE?oc=5",
           "pubDate": "Sun, 06 Sep 2026 16:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump administration makes another appeal to the Supreme Court to allow mail ballot restrictions - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2h4QWg0bEhGZGEzdENsamhDdFR1ZzNxMU5jVlN0R19iRUkzUG13ZlYtMGFiZFFMa3ZmMXlqMm4zbUdKbXRzLXl5aVZSSlFSVHh0U3AwUkZDQzhlM3dJRmMyTFhVcXN2RE56WC1nOG9TczBBTUpNUDlNdXE2akFvYzZCS0cyelVpbEVEN0xoUkE3Um56NmZnWjFOaU9LT2lxNnNz?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 15:17:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T17:25:16.167Z"
+      "updatedAt": "2026-09-06T17:50:14.656Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T17:25:16.602Z"
+      "updatedAt": "2026-09-06T17:50:15.033Z"
     }
   ]
 }
