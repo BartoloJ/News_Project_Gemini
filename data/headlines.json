@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-09-06T16:00:19.543Z",
-  "lastChecked": "2026-09-06T16:00:19.543Z",
-  "lastUpdated": "2026-09-06T16:00:19.543Z",
-  "generatedAt": "2026-09-06T16:00:19.543Z",
+  "fetchedAt": "2026-09-06T16:25:17.774Z",
+  "lastChecked": "2026-09-06T16:25:17.774Z",
+  "lastUpdated": "2026-09-06T16:25:17.774Z",
+  "generatedAt": "2026-09-06T16:25:17.774Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "German far-right set for big win in eastern state - exit polls",
+          "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 06 Sep 2026 16:21:19 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+          "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 06 Sep 2026 16:00:21 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
           "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
@@ -26,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-          "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 06 Sep 2026 09:56:39 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
           "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 06 Sep 2026 08:05:22 GMT",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 06 Sep 2026 01:54:29 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
-          "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 06 Sep 2026 00:17:05 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T16:00:18.144Z"
+      "updatedAt": "2026-09-06T16:25:16.394Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T16:00:18.530Z"
+      "updatedAt": "2026-09-06T16:25:16.843Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,13 @@
         {
           "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 15:48:17 GMT",
+          "pubDate": "Sun, 06 Sep 2026 16:22:24 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A whiplash election year enters its final stretch as Trump holds wild cards - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnRIVTdVTmNLVDFTbUN2eUUyYzVfVFFmcU44UHlObXlqUlNfeFVXdG4xcEp4N3ROUEVHMXRBcVp6bldYWkJYNkV0WkRCMlk1Q2p4YWRGM2Nfb09rdEtFbGZqWTY3S2F3cTdNakFybkV2MGtoNW5iUUJLZHdEVEFPXy1yZGt5SVZtOGlMUk1DbEt5bzd1UExGRUhrOXBDR1F5OEE?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 16:00:00 GMT",
           "source": "AP News"
         },
         {
@@ -130,15 +136,21 @@
           "source": "AP News"
         },
         {
+          "title": "Volcanic island in Indonesia erupts, forcing the cancellation of hundreds of flights - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYV9LY1JLSHlZeDl1dXA5cTJZeXFCdUdaREphR2NJNVBXLUE1NXlzRnV0d1JCVlVqSkF2LThqcFJZVVlNTzVFYV90N2RYQnh3QzFQVmNtOHkzVUktNUNiR2xIak9oYXhNNXlWQVNKdlNIUWltYW54NS00eXZQQ1hydVdaYjJpZG5wZmhDek1VTjhQVWhyU0JZTUVTQnBNeUdtVkE1b3dSMVRPeFBGSHc?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 15:06:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "The Iranian school struck in the war’s earliest attacks is now a memorial for children - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmVWR3VKRGlScmN6ZEtGUU5IelBhbmFENGJwd2VSMnV1bDBoTy02M1oydnBmQ2V4S20zbnRZeWM2NXY2TDJvbTFQU25DRThRSTlPREk1YmpPZTl2aWdEXzg5elpTenNMNEN0V0gxLU1sTFd1WDRhQUtXNXBWTzNLdDJEUUg3VnN0SXJBSVU0TG03MEJnN2NpLQ?oc=5",
           "pubDate": "Sun, 06 Sep 2026 13:35:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Indonesia cancels flights at Jakarta airport and others as Anak Krakatau volcano erupts - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYV9LY1JLSHlZeDl1dXA5cTJZeXFCdUdaREphR2NJNVBXLUE1NXlzRnV0d1JCVlVqSkF2LThqcFJZVVlNTzVFYV90N2RYQnh3QzFQVmNtOHkzVUktNUNiR2xIak9oYXhNNXlWQVNKdlNIUWltYW54NS00eXZQQ1hydVdaYjJpZG5wZmhDek1VTjhQVWhyU0JZTUVTQnBNeUdtVkE1b3dSMVRPeFBGSHc?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 12:39:00 GMT",
+          "title": "US denies Iran’s claim to have struck an unmanned ship, and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVktrNjVBTENONHRoZVB6OGRsQUxBSUdhZkFydmlOM3ZvVWRCRXVUUW85dGxNZ2VrMXkxZUpnVnpVMlNLZkpMWkRVTFJ2VVhSYXZCT1RmcEtYRTRjQmU5dTdCSzA4TDk4WkhJOWRiVUNxSFRKdHJmcTgxYWNEQy01eUVpY2Z5bHZpYl9sakVNcDBLal9BMkpCWWlKSEpMdw?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 13:19:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbjlaLXBxbVRNZVJ3dFRxZWxMSk9BbGdDQ0VRVEJGd1g4U1Z0aW1QQjhXVEUtMjFCVDNHQWJ4T1NEa0FjWHMxWU1ndXkwNTkwd1dLZzBoaE5NT0V5WnEzNFR4ZmN1aDlzdlhsZ1NXRlRTaWFxdDVsUFlRTndKNWJnaTZBYWZLMzV2eUFXbTRUZHV1SHdSblhQV0hWSmU0Y19MYnFFVg?oc=5",
           "pubDate": "Sun, 06 Sep 2026 12:14:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 11:56:26 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Months after Venezuela earthquakes, a family refuses to give up search for their missing relative - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHBfVGhjWVlwZzR3S3ZmSEJ1U0pNV1FFOVQ1aHJhZ0diWmZ1SVhBOEUtMU0tazZ5UE1BY0xNLXZiUGxHRlJJYnZZUDBSSVpkRUR6aXY0a1Z4RmFsUktIekhKMS1FcGFWSTJXc3ktaHZmbC13eV9qUjlxcGlHcWhfS1hxU20tRVgwdE5OcmRjdDVqR3JUTjc3QVhhUUJYUXVrTGp2MXgzSjVqdEczNWpZMTQzVVVScWJma2Z2OEZIZw?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 11:30:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T16:00:19.090Z"
+      "updatedAt": "2026-09-06T16:25:17.338Z"
     },
     {
       "name": "Reuters",
@@ -175,7 +175,25 @@
         {
           "title": "US envoys make first Kyiv visit amid Ukraine war peace push - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnlRblpUWUNHMjMteEdBa0JYZk5MeFJQRjlEa3dUdGtDY0xfZEs5Y2dCcV8yNEhSTHYzem9SVVVYS1NBZnc4U29BSEcydHp4cUx5bFZSUmZ1QXFsNHlFRGgtbGJ2WmZMRTZzdjhrTWY1b1BDMlFnQTlWXzRLU056OGV2TUlRdkdTdjRkMFpTNi02X1Y4MU5sMEF4WF8wcVpDNmNJUmFvXzRZeV91N2dKUDNJN1FWdkg3RHpReHVoNA?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 15:54:54 GMT",
+          "pubDate": "Sun, 06 Sep 2026 16:05:46 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nepali woman found alive days after family began mourning rites - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGJhTEdnY3M5SW14Zl9NREdqbGZZNzZnRVVfcFZ3UUVHQXBJZXFRMVBJd1NHQXZfR3RxYWxPSmtXdmJMSmJ4QnNmSFA2eU9Wd0s2TVhWZXB5bVc3aHgzVFRaUWVmQWkzWlRubjNHODRLdmhwZXFIZFd4N09vWTExVlRyLXprd1BULTJuT3J2UjB0OG94eGk5b3RYTkgzT3l4blkwemxkcW9PVVRYbFBzYQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 16:01:17 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Antonelli takes sensational home Italian GP win from back of grid - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdTlKSVhMVEhIUTlaWUluWkprc2t3emw5c3pKLW5YS1JUQXRqUW1MalRBQzdxZ01vbUo0eFpYOU1ZZ280aEFQS1hBRlF4WTlwUWk2NGdkVDNybm53VGl3RGw3ckhhZ1dtTzJEWU9LRjVJRXpHZVJqQzhoSUs3NDA0MnFBbmxtcnoyQmVOUWJvWEdWZlBQZ1UyVXR4UlVMMzktbHktVHJ4M1R1MGRnNXc?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 15:05:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israel's Netanyahu orders West Bank settler outposts to be removed, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN2c0azRZQ0hqbEdRWlhzYlBWRGxQUU9NUmdOUVVtSm1WemlRVnRXd05VT0U4MkcyQjJGWVpHV0hvZHdLb0dIc1FIVDZyYUZ6SjlTYlV0NUtGZnBWckhpaHVYX1JGd3ZNZ1pCRVF4Z213dXk4ZGFNNVZtV19nNDNQOHZVX21Kei16R3pOZzVwS2Y2Zng2eVloNTVmSUx3RnZ2U09Mc1pNTWJGVjFsZ2N5Tm1IVzdOWnU5WWNXOC11SEY1a0poMG53?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 15:03:45 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORkdaTTdQcUYwZTFzUm1OdFRGTGpYN012MkM3R0ZzZVZnV2dfTUxLbmF3RGdzakZiNWhhVEpqQzhyemo0am1yaDRmMlRJenQ5VzNJWmxGeWhOWVo5bW5FT1laODBqUkhGRlNCaWNLTHROWEVyVlk2Tmtxa3laLVJ4LVUwWTFXWlZrby13Vl95NVo4VDNCQkNmdHkyeXhIWU54NlNQc0Q0WXc?oc=5",
           "pubDate": "Sun, 06 Sep 2026 13:46:13 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "At flood-destroyed border, China teams scour ruins of once-busy port - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbndid2VJNko4cVpiOGlLdFlhX0JEN0trbG1oWjh0cTlsdml4SVF1TWNtTFY0Vlp2ckhTb2JOR3NaZ0hoTThOeG9JRWlTVVd3djNKRFpwWnk3eGxEYTM5bkVKSmloRm4wQnptWUlyTGE3a1FpOEpyQ1pRbFFSX2V2VE5iN2ZTN2EyRzdwaUh0R0d4cFI3NFMyWjhSNTJWOGQ2RnVsM2FZcmtIZmNzQXpCUk9vblhPOUw4WXNBd1V5LTI?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 13:28:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nepali woman found alive days after family began mourning rites - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGJhTEdnY3M5SW14Zl9NREdqbGZZNzZnRVVfcFZ3UUVHQXBJZXFRMVBJd1NHQXZfR3RxYWxPSmtXdmJMSmJ4QnNmSFA2eU9Wd0s2TVhWZXB5bVc3aHgzVFRaUWVmQWkzWlRubjNHODRLdmhwZXFIZFd4N09vWTExVlRyLXprd1BULTJuT3J2UjB0OG94eGk5b3RYTkgzT3l4blkwemxkcW9PVVRYbFBzYQ?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 13:26:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "At least 25 killed in bus crash on Cape Verde's Fogo island, agency says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdS1pLU5lZ2t0OVdmLTlYbjA2QzlpOWhNOVdVampxQVNMWWhERU11UnB3RlBkWUtnUDhXVUhEX0t2SERmSjB2NnUxVTVaYzZ5SWZjZEFVRGREOVYzWlRTYndMSFZqX1VSa2dzMTVoZHlyVUM5elNKaXlCRmFndThaSGwyb2ZSYmlENHNxZUpUWEVPd25mWVZKZFd1MThJN2E5VHluVl9R?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 12:21:12 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T16:00:19.543Z"
+      "updatedAt": "2026-09-06T16:25:17.774Z"
     }
   ]
 }
