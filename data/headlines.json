@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-06T14:00:20.151Z",
-  "lastChecked": "2026-09-06T14:00:20.151Z",
-  "lastUpdated": "2026-09-06T14:00:20.151Z",
-  "generatedAt": "2026-09-06T14:00:20.151Z",
+  "fetchedAt": "2026-09-06T14:25:14.142Z",
+  "lastChecked": "2026-09-06T14:25:14.142Z",
+  "lastUpdated": "2026-09-06T14:25:14.142Z",
+  "generatedAt": "2026-09-06T14:25:14.142Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Dozens feared trapped in collapsed building in Delhi",
+          "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 06 Sep 2026 14:07:35 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
           "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 06 Sep 2026 00:17:05 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
-          "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 23:54:07 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T14:00:19.189Z"
+      "updatedAt": "2026-09-06T14:25:13.164Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T14:00:19.280Z"
+      "updatedAt": "2026-09-06T14:25:13.260Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 14:09:03 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Indonesia cancels flights at Jakarta airport and others as Anak Krakatau volcano erupts - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYV9LY1JLSHlZeDl1dXA5cTJZeXFCdUdaREphR2NJNVBXLUE1NXlzRnV0d1JCVlVqSkF2LThqcFJZVVlNTzVFYV90N2RYQnh3QzFQVmNtOHkzVUktNUNiR2xIak9oYXhNNXlWQVNKdlNIUWltYW54NS00eXZQQ1hydVdaYjJpZG5wZmhDek1VTjhQVWhyU0JZTUVTQnBNeUdtVkE1b3dSMVRPeFBGSHc?oc=5",
@@ -130,15 +136,15 @@
           "source": "AP News"
         },
         {
-          "title": "Iran says it hit a US ship in a week of renewed hostilities, and other Mideast news - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVktrNjVBTENONHRoZVB6OGRsQUxBSUdhZkFydmlOM3ZvVWRCRXVUUW85dGxNZ2VrMXkxZUpnVnpVMlNLZkpMWkRVTFJ2VVhSYXZCT1RmcEtYRTRjQmU5dTdCSzA4TDk4WkhJOWRiVUNxSFRKdHJmcTgxYWNEQy01eUVpY2Z5bHZpYl9sakVNcDBLal9BMkpCWWlKSEpMdw?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 12:32:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Iran claims a strike on a US ship in the Strait of Hormuz but the US denies it - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXpPTUJjVll0WEd0Wk90aXMyTzltVWQwNXk2Y0hXZ1JsWVZmeFpLMTN0VG9CdlVrdjFKRXlRWWpkczdkOVk4blJKOVZNYUYtbi1fLUpqOXBnN25hdFZDQWN1S3BtWGxJM3NRdHg2a3VPTUVYZzkzUjFTc1JGQkZPd0FwR3dRdUFXeV91UWJyZURPTFZwWXJTYjRXNS1hdw?oc=5",
           "pubDate": "Sun, 06 Sep 2026 12:29:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US tourism groups want to win Canadian visitors back. A testy trade war isn’t helping - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV2ppQXE4Mm1JWll4UVNwbERpUzVDNzQxbU04cld4ZU02cnVCSDMwZ20ySE9SRXBrWjJZdTJfaU9Xb3lBS2Znc3ZHY2EtdTBsZ01sby11MGlVbGdyU2x5cU13QVp4SURSRXNvajExam5OMl85Vl9HZ3NiTXVkRTJHQXB4eWtVbjY2eDI3ZVRvekgtWl9kRnBxLWpQa2JnUkk?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 11:42:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,30 +164,30 @@
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzNxS1k2VmZvdEdOSlprX2Nwc084cEF6Q1dfRm9UdGNMZUllVUNLQ1MyQXpxUXBGcHd0S3lKd05XUWhXUkRmZzhGRi1HNlM5M0RwX1FMYWkzdnp0cWlfZVBLVmk5a3ZWVXdiN2lJYThERVg5VFhHcnI3V2ZrcmxhTTQtaXhpdWM?oc=5",
           "pubDate": "Sun, 06 Sep 2026 10:34:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 09:57:40 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T14:00:19.739Z"
+      "updatedAt": "2026-09-06T14:25:13.692Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "At flood-destroyed border, China teams scour ruins of once-busy port - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbndid2VJNko4cVpiOGlLdFlhX0JEN0trbG1oWjh0cTlsdml4SVF1TWNtTFY0Vlp2ckhTb2JOR3NaZ0hoTThOeG9JRWlTVVd3djNKRFpwWnk3eGxEYTM5bkVKSmloRm4wQnptWUlyTGE3a1FpOEpyQ1pRbFFSX2V2VE5iN2ZTN2EyRzdwaUh0R0d4cFI3NFMyWjhSNTJWOGQ2RnVsM2FZcmtIZmNzQXpCUk9vblhPOUw4WXNBd1V5LTI?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 13:28:51 GMT",
+          "title": "China to pump $54 billion into state banks, insurers in capital-boosting push - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPang2d09TQ3Q1cEd0QVJXaWc5aWpIcVh5MUQ5UEhud1R1OVFKV2lYSXEtb2hGMHNqR0xjUWx1cXJNZ3NFcTV3RmR5LXliVHNuWEJDdUVLVld1OU5mMURmLWFieGxGZzdYbTdhMUZkeXk2UTM2QS1QRWt2M2JJelM4VUlXZ2pxd2I5ZFZyX1k2TmJLNHVURHNwTEVQOHNuOV9rZTM1UFh6d1c0RFAwVFBLaG1yQVAzSEpRQWptMg?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 13:48:04 GMT",
           "source": "Reuters"
         },
         {
-          "title": "China to pump $54 billion into state banks, insurers in capital-boosting push - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPang2d09TQ3Q1cEd0QVJXaWc5aWpIcVh5MUQ5UEhud1R1OVFKV2lYSXEtb2hGMHNqR0xjUWx1cXJNZ3NFcTV3RmR5LXliVHNuWEJDdUVLVld1OU5mMURmLWFieGxGZzdYbTdhMUZkeXk2UTM2QS1QRWt2M2JJelM4VUlXZ2pxd2I5ZFZyX1k2TmJLNHVURHNwTEVQOHNuOV9rZTM1UFh6d1c0RFAwVFBLaG1yQVAzSEpRQWptMg?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 13:26:19 GMT",
+          "title": "US envoys make first Kyiv visit amid Ukraine war peace push - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnlRblpUWUNHMjMteEdBa0JYZk5MeFJQRjlEa3dUdGtDY0xfZEs5Y2dCcV8yNEhSTHYzem9SVVVYS1NBZnc4U29BSEcydHp4cUx5bFZSUmZ1QXFsNHlFRGgtbGJ2WmZMRTZzdjhrTWY1b1BDMlFnQTlWXzRLU056OGV2TUlRdkdTdjRkMFpTNi02X1Y4MU5sMEF4WF8wcVpDNmNJUmFvXzRZeV91N2dKUDNJN1FWdkg3RHpReHVoNA?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 13:40:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "At flood-destroyed border, China teams scour ruins of once-busy port - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbndid2VJNko4cVpiOGlLdFlhX0JEN0trbG1oWjh0cTlsdml4SVF1TWNtTFY0Vlp2ckhTb2JOR3NaZ0hoTThOeG9JRWlTVVd3djNKRFpwWnk3eGxEYTM5bkVKSmloRm4wQnptWUlyTGE3a1FpOEpyQ1pRbFFSX2V2VE5iN2ZTN2EyRzdwaUh0R0d4cFI3NFMyWjhSNTJWOGQ2RnVsM2FZcmtIZmNzQXpCUk9vblhPOUw4WXNBd1V5LTI?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 13:28:51 GMT",
           "source": "Reuters"
         },
         {
@@ -191,9 +197,9 @@
           "source": "Reuters"
         },
         {
-          "title": "US envoys make first Kyiv visit amid Ukraine war peace push - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnlRblpUWUNHMjMteEdBa0JYZk5MeFJQRjlEa3dUdGtDY0xfZEs5Y2dCcV8yNEhSTHYzem9SVVVYS1NBZnc4U29BSEcydHp4cUx5bFZSUmZ1QXFsNHlFRGgtbGJ2WmZMRTZzdjhrTWY1b1BDMlFnQTlWXzRLU056OGV2TUlRdkdTdjRkMFpTNi02X1Y4MU5sMEF4WF8wcVpDNmNJUmFvXzRZeV91N2dKUDNJN1FWdkg3RHpReHVoNA?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 12:27:12 GMT",
+          "title": "Iran's Hormuz leverage wanes as US economic squeeze bites - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORkdaTTdQcUYwZTFzUm1OdFRGTGpYN012MkM3R0ZzZVZnV2dfTUxLbmF3RGdzakZiNWhhVEpqQzhyemo0am1yaDRmMlRJenQ5VzNJWmxGeWhOWVo5bW5FT1laODBqUkhGRlNCaWNLTHROWEVyVlk2Tmtxa3laLVJ4LVUwWTFXWlZrby13Vl95NVo4VDNCQkNmdHkyeXhIWU54NlNQc0Q0WXc?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 12:49:03 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc25LWXEwUFU4bnJKZk1QZWVPMHV4NjlMcDUydTJCTFd1RzYtTG5qM0xsa1M5dW1WOVZqYlFlRXVRYWFrMldheHQ1a0RUMXNLRUZrbzU4clpaVFoycWVicDh1TmloUDdDVm9VNEtaRTlvd080Y1liekQwQVYxM0RjczlOSXA2RXFhc1V6dGR0R1g5aXpXX0NoMDlGZ2VqQ0RTNnlLV2NaTHpsOHJoSVFiU29ONXNqcVRq?oc=5",
           "pubDate": "Sun, 06 Sep 2026 11:29:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Moscow not ruling out trilateral meeting of Russian, US and Chinese leaders, agencies report - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPelNvcTNadU4zdzk5UEF0bUZNQTZTRDhJdDN2WnA4cEhWUi10QXJveUpzdmZEQi13bDhjNl91d2l5N3o4NEZWa0JqTm5kT0FOMTRHZzVTWWRFSnk5UmdPdjhlMnY1VDRSc0VFa2RoN3k0OWdVbkI2aTUwUE16WEhLY0pQTS1PRm5meWJCUVJUSFhmVEZZVUhQT3JYWHVUUkNGZ2dJTkVtLUQxMUVNMm9SZkJocjg1aVdsTWhmdDNMd1hteVpr?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 11:14:27 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T14:00:20.151Z"
+      "updatedAt": "2026-09-06T14:25:14.142Z"
     }
   ]
 }
