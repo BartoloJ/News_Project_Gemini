@@ -1,14 +1,20 @@
 {
-  "fetchedAt": "2026-09-06T05:00:20.575Z",
-  "lastChecked": "2026-09-06T05:00:20.575Z",
-  "lastUpdated": "2026-09-06T05:00:20.575Z",
-  "generatedAt": "2026-09-06T05:00:20.575Z",
+  "fetchedAt": "2026-09-06T05:25:11.788Z",
+  "lastChecked": "2026-09-06T05:25:11.788Z",
+  "lastUpdated": "2026-09-06T05:25:11.788Z",
+  "generatedAt": "2026-09-06T05:25:11.788Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+          "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+          "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 06 Sep 2026 05:04:04 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
           "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 06 Sep 2026 02:24:16 GMT",
           "source": "BBC News"
@@ -44,12 +50,6 @@
           "source": "BBC News"
         },
         {
-          "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-          "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 05 Sep 2026 21:29:38 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Prince William to attend King Harald's funeral in Norway",
           "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 05 Sep 2026 21:00:02 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T05:00:20.220Z"
+      "updatedAt": "2026-09-06T05:25:10.939Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T05:00:20.500Z"
+      "updatedAt": "2026-09-06T05:25:11.011Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,7 @@
         {
           "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 04:23:38 GMT",
+          "pubDate": "Sun, 06 Sep 2026 05:02:12 GMT",
           "source": "AP News"
         },
         {
@@ -133,12 +133,6 @@
           "title": "Ukraine - AP News",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
           "pubDate": "Sun, 06 Sep 2026 02:29:29 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Cardinals, Rockies players tilt caps a day after umpire Eddings' comments to St. Louis rookie - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcDJDVjZRMTdOSXR2RTRXZjZnLWRMODBOYlFYRmRnRGgtMXdCcFZZZ2U5amlIV2JSdUNpVGFFTUhqVmc1N0M3Q3R4dnBPRjlxMzBHQXQ2UjZFSWFBZ0wtYXkzZlBVQlJOcnFlODZfcW84bVFuLXlnRkw4U0g3eGRkQU5YQldYQ2xpZWxZOE9ULUZQNkU?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 02:29:00 GMT",
           "source": "AP News"
         },
         {
@@ -162,12 +156,18 @@
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 01:43:16 GMT",
+          "pubDate": "Sun, 06 Sep 2026 01:07:37 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Putin meets with US envoys at the Kremlin for renewed talks on ending the war in Ukraine - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 22:33:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T05:00:20.564Z"
+      "updatedAt": "2026-09-06T05:25:11.430Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T05:00:20.575Z"
+      "updatedAt": "2026-09-06T05:25:11.788Z"
     }
   ]
 }
