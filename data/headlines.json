@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-06T22:00:20.707Z",
-  "lastChecked": "2026-09-06T22:00:20.707Z",
-  "lastUpdated": "2026-09-06T22:00:20.707Z",
-  "generatedAt": "2026-09-06T22:00:20.707Z",
+  "fetchedAt": "2026-09-06T22:25:13.690Z",
+  "lastChecked": "2026-09-06T22:25:13.690Z",
+  "lastUpdated": "2026-09-06T22:25:13.690Z",
+  "generatedAt": "2026-09-06T22:25:13.690Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T22:00:19.462Z"
+      "updatedAt": "2026-09-06T22:25:12.695Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T22:00:19.775Z"
+      "updatedAt": "2026-09-06T22:25:12.882Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "At least 5 dead after Amazon cargo plane barreled off runway at Miami airport - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzhrenNJUmd1VHZoVl9jcTFRYUljSjNuWExOTjFlaTZ5WFhyVFpaYnI2dTVSa3NwSkc2RXlfWjdiN1g4TW9zeV9za1I4TnFhZG5IUWlLeG8wZHZsRFJKOVJrQnlxWEhzejZvUzVXUVRUNWRaZF9tTmd1UkZESFhMRUJfLXYzVU85U3VQdWp6akJpcDdxLXVB?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 21:45:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
@@ -124,15 +130,15 @@
           "source": "AP News"
         },
         {
-          "title": "US denies Iran’s claim to have struck an unmanned ship, and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVktrNjVBTENONHRoZVB6OGRsQUxBSUdhZkFydmlOM3ZvVWRCRXVUUW85dGxNZ2VrMXkxZUpnVnpVMlNLZkpMWkRVTFJ2VVhSYXZCT1RmcEtYRTRjQmU5dTdCSzA4TDk4WkhJOWRiVUNxSFRKdHJmcTgxYWNEQy01eUVpY2Z5bHZpYl9sakVNcDBLal9BMkpCWWlKSEpMdw?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 21:21:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Giants sign backup QB Jameis Winston to a 2-year, $13 million extension, AP source says - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTnFMSWxqcjZ0d3QzX1VkVXVtOXFsOGNEc21fUWZBQWd6SE9FRS1lODBza0JkeHdxdTROSUJMVmg4YUtDQUVJVDhFWnlpZnktd2wtUEpkZW90SHlKZUxhWEdBQnQ5LWtqT01KVS0zZG92am1vQ1JFOGhwS3JwdzRoREYxZlVTaGV2TVpNZGJEQWlVTDEzUVE?oc=5",
           "pubDate": "Sun, 06 Sep 2026 21:10:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Defending champions Aryna Sabalenka and Carlos Alcaraz reach the US Open quarterfinals - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNWEtNEs0NnpTWVBCNkRVcnpjcHFaNEpvRUp0N1VqMnMxZ3c1bnNPdmZfM2NwMF9aZS1DQkxQSkpNc0UxM2VqZkZqOHdnSk1SMTlIenhKRUhPMFVhdWFOemI4ei1ic1FRT2huWGxKNDhEeHdkcU5DeWFVQ2dLM09XUFVNM2pZcHhEbFNSbUVB?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 21:06:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,26 +154,20 @@
           "source": "AP News"
         },
         {
+          "title": "German far-right party set for regional election triumph but uncertain of governing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0lvaTZsMkMxOVpwN0RmdnBiY2VWaGJPM0FZaG5rclBjajFLZWlCZmZ3d0hyRmdnWHA4cUt3OW5YOTNCZUZwMVF3d2pmR1g4bWhHdlg0OVdiMmg5X29YalRaRXp4OUdHQnM1bTBzZW9Yak1Ed1VaZUtjS2tmTllGSnRkMmpxcGxYUU5NMFFpTWV6NU1EeGxzYWZxSzFqRml0aUVRVHJFVQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 20:07:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "US envoys Witkoff and Kushner hold talks in Ukraine after meeting with Putin - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3FNdm13NVd2bmJkY3V1YUFNSk52amNNb2otakJHclc2SEhtRTRaRG5xX3FfdHN4S0JtTjZGdV9HYndObkhRbHZxNzc1aGUwdjNQN3VDYWZnbFZ6RnYtRUVXNWd3ZExub3dzanB3WlVGLVNEeW9NanBsTlN3ZV9IZlhhZEZ0ZkYyakt4czZnRFNkT3lwLVA5WjdoYTlGRk1CUWM3WlBVT1QxdlJHemtB?oc=5",
           "pubDate": "Sun, 06 Sep 2026 19:41:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Amazon cargo plane sends up billowing cloud of smoke after overrunning runway at Miami airport - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzhrenNJUmd1VHZoVl9jcTFRYUljSjNuWExOTjFlaTZ5WFhyVFpaYnI2dTVSa3NwSkc2RXlfWjdiN1g4TW9zeV9za1I4TnFhZG5IUWlLeG8wZHZsRFJKOVJrQnlxWEhzejZvUzVXUVRUNWRaZF9tTmd1UkZESFhMRUJfLXYzVU85U3VQdWp6akJpcDdxLXVB?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 19:37:38 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "German far-right party set for regional election triumph but uncertain of governing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0lvaTZsMkMxOVpwN0RmdnBiY2VWaGJPM0FZaG5rclBjajFLZWlCZmZ3d0hyRmdnWHA4cUt3OW5YOTNCZUZwMVF3d2pmR1g4bWhHdlg0OVdiMmg5X29YalRaRXp4OUdHQnM1bTBzZW9Yak1Ed1VaZUtjS2tmTllGSnRkMmpxcGxYUU5NMFFpTWV6NU1EeGxzYWZxSzFqRml0aUVRVHJFVQ?oc=5",
-          "pubDate": "Sun, 06 Sep 2026 19:01:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T22:00:20.277Z"
+      "updatedAt": "2026-09-06T22:25:13.276Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-06T22:00:20.707Z"
+      "updatedAt": "2026-09-06T22:25:13.690Z"
     }
   ]
 }
