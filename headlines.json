@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-07T14:00:23.111Z",
-  "lastChecked": "2026-09-07T14:00:23.111Z",
-  "lastUpdated": "2026-09-07T14:00:23.111Z",
-  "generatedAt": "2026-09-07T14:00:23.111Z",
+  "fetchedAt": "2026-09-07T14:25:15.906Z",
+  "lastChecked": "2026-09-07T14:25:15.906Z",
+  "lastUpdated": "2026-09-07T14:25:15.906Z",
+  "generatedAt": "2026-09-07T14:25:15.906Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+          "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 07 Sep 2026 14:04:01 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Israeli strikes in southern Lebanese village kill 12",
           "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Kenya minister warns foreigners against 'misusing' visas to trade",
           "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 07 Sep 2026 13:06:04 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-          "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 07 Sep 2026 12:22:39 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T14:00:21.534Z"
+      "updatedAt": "2026-09-07T14:25:14.874Z"
     },
     {
       "name": "NPR",
@@ -75,14 +75,14 @@
           "source": "NPR"
         },
         {
-          "title": "The first day of school: Bells, bikes, buses and big feelings",
-          "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
+          "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
+          "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
           "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
-          "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+          "title": "The first day of school: Bells, bikes, buses and big feelings",
+          "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
           "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,11 +112,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T14:00:21.952Z"
+      "updatedAt": "2026-09-07T14:25:14.937Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Germany's Merz shocked by far-right state election triumph but doubles down on unpopular reforms - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM29qLVk4UUFIa1hOSHdIWVd1VWxZb1JVNGpRSXhoalhNU1NYMDJCRTZKc2tnMVdaajktRm5xME9DX1BuWVplZXBGWExHWlJOYjhEeXV4SUdmeVBERHZFMlZnU0FocDRySk5FWVNpOS1LalpKb1dMWGNZeWZkS1NEZHpjYzdRR1ZvdHE4YnIwcE8yWExibUNLd0V3?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 13:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "War criminal Mladic is buried as a hero in Serbia despite EU warnings - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTF0c19ZZUlPT1RaakxDV0hhTFoxQndCQmNreVU1OTBMTjdpTE1mams1bDdCdHAxOWVCRDJIbWJwMTFFYjdHXzktUmlsTWhPY3lKME5KYWpFMXBvUi1zN3R5WVpEVWlVOVNCT3lWVnhnNktnTFk5OXFsYUtYeGhMX29SVm9QMndjNTJSMHl6WjRrSTBMTS1weUE5bkxScUJGbS1mTkdvNGdrNGxl?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 13:33:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "First female administrator in the Panama Canal’s history takes the helm - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2VMSjhtQnJaa3JpNnJ1a3IwTVUwa0tHc0FKNkF4UkVqNnNrazJQMFpUY1h4VEhQUi1jUGtNeEt5Nnk1b1Z5Sm1SaDdZdnhXZEpfWkxXRGM3V0ZYZGVyVHpYTW81eGF6X0JTR1FrNzlmd25Ta3FQS0ZwQ1FMRUZGdWZvNFBkRkVxeDlpdTFFTlB1YmYydE9jSQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 13:04:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Israeli airstrikes on Lebanese village kill 9, plus other key Mideast developments - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzFGcTR4d3dmZ2JzQlJCcWNlR3JOUGJ5TW9YVHFDX0J0djhXeFRncFFkUWJXMXhISnFsWTFJNEZwYmhqQzZpV1Fva0VUSElfVVFKWXlsb2ZON3luRTVYLTdKaDdoQ2hINDdFQl9oZGMzMWU5THhEZXE3bWUyZXFxZFdVemlzUFlJNG9NOWJjLU9VZFc3TlpkOWJDdlNndw?oc=5",
@@ -130,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "One attack, many Americas: Why 9/11 and its many griefs land differently 25 years later - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdUZyaGhReXk2bmlDcjBJSU1sQjB1TGtqbmNWOHVQOGlLZmxsZUdrdlJNQXM3WkE0MzY3SXlfSW1aQjgxRkQyeHlVX0hWWWVsZTkxQnh0QXZNTUN0MEFVN1FsR0Zrb253Zy1KSHdyOHBKV2tvYWV1MUg2RUw1WW1nNnctY0pFcUc4NWZDNEltTUxwU0RWT294V2Vka3U?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 12:47:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "AfD party’s landslide win in eastern Germany tests country’s ‘firewall’ against the far right - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd0pZc0FRQktCRTdNYndUQk1nN2FqX2I5dEhYRlM0Y25nbGtuazhZN3UtTGE0YW1XZHFsSTBHaFA5NnIxTVkycXNWRUV6eDItM09uYkg4UHNDRlptbkRHSUFQc1dTeG1zOV9mUXkyVTBVZDY2aTFnelg3SHhIdmxpTnVCVi0xQmNtejJrTGdXajdXM2haVDFXOEtLU0RpWmw1Tjk1RXR3?oc=5",
           "pubDate": "Mon, 07 Sep 2026 12:41:00 GMT",
@@ -140,89 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
           "pubDate": "Mon, 07 Sep 2026 12:37:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Tale of conquest and symbol of friendship, the Bayeux Tapestry is a hot ticket at the British Museum - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeWt3c2VsX1FpYjJ3RG9Ld0lHTzhYS3BYUVY4QmxxMFJFZXRNZVh0TU5IUFZiRFBxN1IyX0F4dl9VZWNpaGc5NHo3WFBGelk2VHR0endOcXMzbUF2Z2YyTDBJZlpvZEFHdUhvblhhXzg1VTFSMVJkeFhwdDE2cFg5WHZMZTl4MGhwZG1jZnlIWVJvR2pKbEFESzNTaXVVYVJwN3Ew?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 12:20:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Chinese theater, promoter fined for altered patriotic song in a comedy show - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNkI5RV9QMkVSZTVlTkt4RXh4TXJKSDRkTkctR3pTTkJXMUFwQkd4bDVDblFjajNwNDFSbFdTOVdCbkJSbzVBVEY5SkhZbG9SVnRsZ0VWMW1Mb0paaG40MExOY1pKS3dWZWdHbHE3WHFOa1RXVmJSU1hTd3ZlNGpVb3NrT2dhblFnbkY0dTNlbXl6V00?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 11:58:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "‘Widow’s Bay’ dominates with 8 Emmys at early ceremony and ‘The Pitt’ takes 4 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSV9md0toZTJUNGt6b21uT205OU9mN05mYnVWQjB1bDZjVkgwZnprcEkxRV9GYm11YXJicG5KOUlScS1SOS1YcS1zRzNVcXJ0d1RsVkRtVDRQc2RqSFJua0psbktkZVB3MWk3WXNYZHJHUVdpQTBUcnlsSmp5Znl6d0tnQV9mRXNIRC1KTGJBMTZtTURuWUYtZjQzOHp4aG5jUmZUdjNn?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 11:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Landslide victory for Germany's far-right AfD in state election piles pressure on Chancellor Merz - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM29qLVk4UUFIa1hOSHdIWVd1VWxZb1JVNGpRSXhoalhNU1NYMDJCRTZKc2tnMVdaajktRm5xME9DX1BuWVplZXBGWExHWlJOYjhEeXV4SUdmeVBERHZFMlZnU0FocDRySk5FWVNpOS1LalpKb1dMWGNZeWZkS1NEZHpjYzdRR1ZvdHE4YnIwcE8yWExibUNLd0V3?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 11:13:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T14:00:22.656Z"
+      "updatedAt": "2026-09-07T14:25:15.405Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "North Korea and Russia open their first road bridge, a symbol of expanding ties - Reuters",
+          "title": "TotalEnergies to lower stake in Papua LNG, hand operatorship to Exxon - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRmpmbnE2TXNjc2Z4dXI0YjNuOUdjSktYaDM1V1ZSNzBOWkNaa0FvRFlsX0NXRUdjNkwwZGxVVzlnamJxM1VKbTRZSFhQNXhHR0pscS0wNHhKd21pa3doVkMybF9vQ2paWDRaWVNPaFF2YUdLcGhqUm5JNWZVa051OFlPek95OVQzeGdTcXJQWWl5TV9pYlcxZ0xvOW1jZV9HMEM4RjdSYTExSTlNT1NwTS1kZVl1V0RCVGdRdTNhYWZINlZaN2FZ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 14:00:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "North Korea and Russia open their first road bridge, a symbol of expanding ties - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSDhSOTZweXB2RS1xNmJldmEzczJ4VGRMQUxBWW5ZTkpUUFdNZlVSWGc0MnluLTlpSEFNMC1sTEdPTFBHTHg0a3g0UnJ3dWVoMlUzSUdwWHR0YVE4YU9nclZBMzJnaFFJSURNTW00bS1CQUtnZXhvUm9SSmVibVozQ19xN2hEMFhheDVST0JITW4zMENXSGxscC1SVGtWVXM3YXNTMnpubkx1cDRZS3lBY3ROVEwtUklmR3lpcTM0eGU3QmlJSElLeQ?oc=5",
           "pubDate": "Mon, 07 Sep 2026 13:41:10 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Austrian headscarf ban for under-14s faces first test as schools reopen - Reuters",
+          "title": "Austrian headscarf ban for under-14s faces first test as schools reopen - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnlwUEpBSW9LTGRPdFp6YmtoQ2gtbXFYOERnQ1NYRlNCUTVTaVdVWmtOMnptcE8tNTE1ZHB5SkgySXB0bm5WYWpUVlhUTWZVeHVhcmpJUmlzcGZ4U0pYaU16Wmc2TWJsdThiZUZuSHg0TW0yWjBTZ05pbDhwTi1xZ2lJQ1NieWJWTVhWM0lEcDg2dHFNV1BPMXJOY1VTR01fZmVPVDE0R28wdw?oc=5",
           "pubDate": "Mon, 07 Sep 2026 13:39:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "UAE says its energy exports will not be 'held hostage' by Iran war - Reuters",
+          "title": "Far-right win leaves Germany's Merz shaken as AfD plots path to power - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0tYMlJiSnROMHFKX3dJV04wTU50bkdYWHdheVdTN0dJRHJDbUZMYkhEX0JFa2pxNFNadzdEWW95bndCQ1ByRGhUZzQ1T0pJQWhFSWVmSU5IOUY2MEJTaWF5bl90N2JrdGxxMVJ2MWdoTHlpVEJJWWY1dGl2TGlDanZ3MXMxUGJnR3RPMmRMSjlEdVVVdFlIWlRpdDZodHF0Ym1uTlJFZEJmTGFIN0lKT1hXVWFRdW9XU1VHbmk3OGZQcGZEX0E?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 13:24:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UAE says its energy exports will not be 'held hostage' by Iran war - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2k1aEFKNWUzaXRzZXlkTVZNb3MyOTZoSjBoa2N5Zmtpd1Z2VVRWbV9JcnNHN0hkS1ZPRXEyb1UxdGMzN1pFNUFCUmpPVTNvQndsa3c1TzBwNEVvVXNLVXZjNGVnbzF6TUdGS2N5SVdLT2k2Nlk1TmREb0ZlTVp1cGlLRzJTMWJqLTN4VVRiY2s1emV6YldrQnJHQWRmZFBKRUdDalJjb1lFM1NxaHI2eDdWWFN1R0tydFJYOUh3Z0phb0paZUNRMw?oc=5",
           "pubDate": "Mon, 07 Sep 2026 13:13:23 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Saxony-Anhalt election delivers a blow to Merz and a warning to Europe - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmdkeWFmV2FTc2lKQlRsS3YxZ3Fkbjg1Q1VMY25hZ0ViWmdGUGRjSk45QU5Zbmg1aVk5UjZZVlVaTU9KX0pCRDVTSDdIZVhtM2d3ZEdJQ1RQVW9VSy1FUTNTT04yemtkaXFXMV9vUl80R0Rhend5bkM5UGZudkRGaWlQMGR4Z0duc0pXME4tUWF1NHkxQnhNbUZsMWp4cjg?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 13:11:34 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "UK's Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan - Reuters",
+          "title": "UK's Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRG1leHh6LUdMenZscjYwWnJhamJoaW9xVkV2SUJUeHUtejZGNTNPUDZFTGdkby02c2Y2Wmp0UXNPMUtzYlNzS1VwVXZOYlc4c1d4Vk9IV3VJX2F3VG0wYnFySE5nVzR6eDZ4MTlvcXJzVm5ESUsyeFViUFRVQW1hMjRDQ2c4dUUyWkxaQVYwMWJBODdGeGt2V2JwVG1rUHlVa2VPMFhwWVJOVW1NNWl5N203U3d3bWpGbVBV?oc=5",
           "pubDate": "Mon, 07 Sep 2026 13:10:52 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Tech explores Argentina's Patagonia for mega data centers - Reuters",
+          "title": "Tech explores Argentina's Patagonia for mega data centers - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRkVISjNZRzJIQ2xhRks4c21WN0ZvNE1LSHBjMDhldFdwN0ExVjcxem9JLVJkSUk1ODdYQ0RhT1hrMDctX19HSXFXUW40c1hINDh0VDh6cjdMNHMyWFFsYmFIU0NrRzFSNzBPekRGX3lHYkNKMDRCRHE2MkEyalBoekw1cXU3aWxuZTY3Q2dudWFKc0trTnJVOTFSd2hKZVFOLVZwWnRSOUFXRHlfaHRObExwN3Z6dDNyME9RekRnZFhYMFAyOTVveA?oc=5",
           "pubDate": "Mon, 07 Sep 2026 13:00:29 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia slams US dispatch of missile system to Norway as another blow to idea of arms talks - Reuters",
+          "title": "Russia slams US dispatch of missile system to Norway as another blow to idea of arms talks - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ0lVVUFrZ2pCZXlwX1lpbDg1d3l3VGtmQ2MxcXVLTWZQeF9ndVJSczJ4cXRmUmlWU3VjTFdJSzdIR0Jxazg1aEtOWDFOOHRoQnpMdlBnRFdTaUNmVGM1ZFg0YWVtUEZnUm5SRXFVdVFmaVZlakZEVkVOOUlNMlNDTEVEUzRnMDNsc09OTUNFRjNYaG9iNkc5Z2dldnlqaU5JbGZ1aWNzbDZKbVFfTmxKbGR3SFM1T3MzN05rN3dqemtRQmZSYnBZOUNmRUN0Z0JUS1dNRmtuME8?oc=5",
           "pubDate": "Mon, 07 Sep 2026 12:47:26 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "AI could pose 'existential' risk to humanity, UN rights chief warns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3llNF9IYW5jOC1zYWZwY2hlYVR4RndlVWkxemtJNjlOSVhuZkhZR3d1TnE4c2sxcFlvSEd2YmJaQXBTeHpJV1NqQ0t6OGgtOGVRWXRTTDJmdHFFd0tvZ2VYZzJUU3BGTzVqZHJqRV9CUHN6VkpSWkZsdUZJV0p5ZDR0TlFSZ2dqNkRvdWMzSG44bTZFV3B4QW9pcmhmN1lmUlNtSmRvdWVuX2Fo?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 12:35:35 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T14:00:23.111Z"
+      "updatedAt": "2026-09-07T14:25:15.906Z"
     }
   ]
 }
