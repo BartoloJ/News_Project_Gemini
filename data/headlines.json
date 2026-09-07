@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-07T08:00:18.127Z",
-  "lastChecked": "2026-09-07T08:00:18.127Z",
-  "lastUpdated": "2026-09-07T08:00:18.127Z",
-  "generatedAt": "2026-09-07T08:00:18.127Z",
+  "fetchedAt": "2026-09-07T08:25:18.011Z",
+  "lastChecked": "2026-09-07T08:25:18.011Z",
+  "lastUpdated": "2026-09-07T08:25:18.011Z",
+  "generatedAt": "2026-09-07T08:25:18.011Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T08:00:17.063Z"
+      "updatedAt": "2026-09-07T08:25:16.883Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T08:00:17.357Z"
+      "updatedAt": "2026-09-07T08:25:17.123Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Iran war - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 08:21:15 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Tennis Scores, News & Stats - AP News",
           "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1EbzBXMF9LTzNjVndrTjNjcVkwZFdxclRGRzFrVUFQcHJ2NXhUbDhCUnVFZzR5UHNSeGtsbmRxQTNDbkE?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 07:53:20 GMT",
+          "pubDate": "Mon, 07 Sep 2026 08:21:15 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 08:15:22 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Auto Racing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qekN5SGJkSzNLUkszajRtNDl4MTVkWWlqc3JqbTl6VmIwdTFuRUZxQ29xOVhJY3gtOUJxLVFQTm1RZVI2a3kyMVdn?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 08:09:20 GMT",
           "source": "AP News"
         },
         {
@@ -146,36 +164,42 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDVCS2Q3d3B1R2FBU0c5Umt6M2VMTUNZS0s4XzhkNHl4ZFoxeDVxOXdzeG9OQ0VsRXRJaTFoWXhQLXpKcXBYREd2dkNEV001cFBlLTZNSUszTVlmOWQ4YXh3Zy10N2V5bzYzVF9DQ2Z6ZXQ2d1BHYS1ZSWtkdG1HUFo4bHRJeFJuMWJSMVV6dXdpVmM0c3VRMW5MWFdjcWI3?oc=5",
           "pubDate": "Mon, 07 Sep 2026 07:33:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 07:16:35 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iranian soccer players who sought asylum in Australia say anthem silence was protest against Tehran - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2RDMzNfdjdKeDlScmk0N0tDUXhnckNyVmxIWVdwU2lGMURrU2o2cnlSc19qcTNrdkZRanM2SnYtd1Z0NGt3U05uUTRIbnZLNVFNRzJSWExjdjhmUWk2WXZPOEVtN3p6ZGd6V0xzdGZ0TjRpMl9lTHU0ZU80aUUxLV9aN08tcEdsT3NhS3VWcG02TnVycEVtandn?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 06:23:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "College football | Latest News & Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 05:39:40 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T08:00:17.749Z"
+      "updatedAt": "2026-09-07T08:25:17.602Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Huawei launches new foldable smartphone as competition with Xiaomi, Apple heats up - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVS1jR3lPTW1TQVB1Y3owVjhXcWx1aTBvdzZIOTY1SnFLTVhSLVRwbEkyMUhIZXRaSWd4UjllLXV4alo1MjhRemwyUjZ4elQ5MGhNOEhTUHhZVnBPNXZGaHpfTkZPdkc3cEFtNXJ1ejBUbms0U1doa0tXVjJLQnViNE5xczgybk5yTi1zYk5sdmdBazQ3WnVvWDJJMHY1WmcwSmJmYmdmX1IxYjFCanhyY09hTXNSalB5SV9obHJydUYzcXM?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 07:41:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "At least 11 killed after avalanche hits climbers in Russia's North Caucasus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGpPMGhQR2tHMGlJZmF1Q3JHMnNQMU1qaFNPU2M1Y2NYRmJqYzJlWTdLOWg4N2ZQWmFBend0ck01TmpNVGgwdUFTVlVYQjVsbVRGdEt4NWFNU2NESTJKdl8zUVJJTHQ0VzFxamQ1c0FQWDliZXJJOGFGUjR3MDZYbXVOUkpuMWxldVlCTlJjWFdWZjlrWTdtZ25uckJYX1l6bWVyeWZPT3RYU19UWVc0?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 07:17:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran to announce new restricted zone in the Gulf in the coming days - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 06:57:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "France worried by victory of far-right's AfD in German state election - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQmo2Q2FXWm1LbTFCMjI1ckhoRDYyeTh2Z2VrNC14WFlidU9ZdGpkVDlKcDZYcGEyZGhUYnpDZ0U4MmltTC1XZFFFblNBQm8xT3RDalRWWVdYTTBJTmNsM29VLURBLWJZRUxCRjZ5R2dYdDNhQ0YzUktnaHEydEU4cmUxQXpUTGluVGU1Z1dBYWFBUDFFUFpKbmt4QXB5dF9CekJSaVA3aw?oc=5",
           "pubDate": "Mon, 07 Sep 2026 06:28:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nepal marks national mourning day after deadly flood - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlJveGVZS095QW9DNThLWGh4dlU1MzJMeWtwRHBRTzlOMXRKeklkVl8wNEh6aVlfdzNRajJlQ2JmekkteGRxbjBCV3hyOWU2VEpXc2k4RklPZFJSdFZtZTZQR2xBM3ZfLUN3cERMcGk0bVdYNDNKb3Y4bXZneGNNTGdaSXdYWTB3Vmt6LWZsa1U1M1JjU0dCcWV0UElyUnFuU2FvWkNuUW56TEtQLXc?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 06:16:00 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "UK's finance minister Healey walks fiscal tightrope before first budget - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb21rLUY5UHFRSXBkQW1zU1lXZDFGRk1TR2JJc2RLUk9WV29EaGQyOUZBUXZ6YzhIQkFQWWgydzlyQWdIdEZsMkRYejZnem5qeUVpaHZkbHpDSmFwYmIzc29vMnlpYzRJOWlWV3h2VWdycTh3dzFmcVFvN2ZQeVgzUVpVclhVMWl5WkhDX0ZncDYtR2NfUzhCOGNkS1dFYzhtNHZlcVAyS0lFd2RZWXYtb3lyMWs3Zw?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 05:21:04 GMT",
+          "title": "Goldman sees $120/bbl oil risk if attacks on Middle East vessels intensify, Bloomberg reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR01kWlp4MnIxcG5yY0dWZ2NNX3FRVHV5Ny0yNG5kNGFQdVFYbmxoaXZIZ2t1WjExSU8zTDUzNXI4RDY0VVlVZ2RXSTZpSmFjWHRyMWcwdERLSl8weTEydUwyb0pHM3E3S3NKalpHUVdHR3R0ZUlRZDZjZzRRc1dqRWQ2cEpGMFVwMk0xNDRTZ2ZaemlwanlWeENGU2VNSjQ3cFBxLXZ1blhrSU4xS3ctRFc5RlJnb19LVVM5MTZHY0R0NE8wdHljTmlTaw?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 05:49:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Explainer: Options for UK finance minister Healey to tax wealth in October's budget - Reuters",
+          "title": "Options for UK finance minister Healey to tax wealth in October's budget - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnhzanYybHBIYU43cVpPb1BWTUlETF9wc3o0WGdyNlZhVFhnYWQ3QWRJa1FmREI1cXdvOU93cmt6bklkWWhRS1V5eXQ2dmZ0dnF6Y1BGRlRyZ1M5Y3BvZmx1OWZPbFhnUXk1d2RET0dwNm9ncGtJMkwxQk1zbmJOdFNSd19pVzd2WnByQ25wTzV5UHhSYVdwa2t6NkxtNlQta2xZWnVHTEJuQQ?oc=5",
           "pubDate": "Mon, 07 Sep 2026 05:03:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China pauses approvals for battery storage manufacturing projects, Cailianshe reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUktHTlBXbS1YOE5lNFhESXgzVTFTQnFYd0tmNkY1N0dHSjBUTEtTMS1tM2NILXB6NWpwWXBycWt5RXFrSGhOdGh0UzB4aEQwcVZwTjVUM3NMTktCNGRISlItV2czRFNFcThpQmc1NU80UW1aZ1RUV2JsMkFmN3o2TVZHRExFdkZYdGtWU2huSUZrWGJoMVpmNGd5WjRIUGNYcFgxZXhrYVlHaGdYSno3OXJHR3BmSDBsWXJKUXZidWh2YWdmYTRNVjluZnc?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 04:55:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Diesel the real spoiler for US inflation doves - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVEpMZWxDcWdjVkVYRGdtakVZSGxsWVZfR2N5eFR4UTBRTzZWTmxMZXF3REFZeHBkelU2YXJQb21JZEtGNVNqQld1eTYxV3VpLXFzT1VEVEtQVUNxa3VQTW5mdE1OQ2JocmNrdW80bktWQWxfY2w2SmoxV2dfOWs?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 04:34:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Alternative-fuel car sales in India top petrol on cost, E20 concerns, dealers' body says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVoxeEhSeXlubXdWMV9CbTQ0b25DU1RXb2pzMG1Hay1fZU1HUXlrTmozX3JzU0dZcE1weno2X2lxcXZPcEtiY1lCSW93M3Q2bS14QUFTblBFdDRjWER5dkY5UzVxMHJBbkd0MWlONnB4MzBwNFNDV2doVm92UlBLUEJzVVpVbm9DeUFIRDZxc2dPUENEcGhOcnI2a2VtMGpoQ2FVR2wzVFE3U3dOd3EzcWQ2Z0hUQVpCT1M1ZHY1MUp3dEpGUmRn?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 04:34:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bitcoin-based Liquid Network says $320 million withdrawn in hack - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1lpQVdhRENMSUQ3NnJWZkxyRlRjN0hHS2xsek1XbFo2ZEVCNnJ6RGRsNUZubmRCUURNbl9hbk5WSXJ4X0ZrTVJ3YW4wdHl5d05lOER2a1JZRUtkQmxKcy1DVjFGdFJfTGF5b1JtbE5BLVNoMGhGVEZKdm5ZZlcwQU9EQ2U4MWlmZEtNbEdxb1d1cWtSQzlLckJsdHRpWEM2TlJ2S0JYVnNySXM?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 04:05:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T08:00:18.127Z"
+      "updatedAt": "2026-09-07T08:25:18.011Z"
     }
   ]
 }
