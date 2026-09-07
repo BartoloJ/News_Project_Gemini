@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-07T21:50:16.776Z",
-  "lastChecked": "2026-09-07T21:50:16.776Z",
-  "lastUpdated": "2026-09-07T21:50:16.776Z",
-  "generatedAt": "2026-09-07T21:50:16.776Z",
+  "fetchedAt": "2026-09-07T22:00:22.343Z",
+  "lastChecked": "2026-09-07T22:00:22.343Z",
+  "lastUpdated": "2026-09-07T22:00:22.343Z",
+  "generatedAt": "2026-09-07T22:00:22.343Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T21:50:15.851Z"
+      "updatedAt": "2026-09-07T22:00:21.337Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T21:50:15.893Z"
+      "updatedAt": "2026-09-07T22:00:21.526Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Host Germany avoids early exit from women’s FIBA World Cup, France sets 3-pointer record - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSU1HYWRjSXh2TnRGUm85bnpyY0NSNHRkMEk5Q1I1ZzM0bmVrVFFVdndlMU96bTZDb1Nad2xEYnpIN0lmNXhnUEllQ3dWaFltMUF4VGk2Nm5yTW1zZ3NyMXZQNEd1NjBVRU5NazJ3Rnk3RVh4N2tMdHB3dU0xWFlFRi1XTWNveXU5clRNN3E0NnBRQVBNWEhZ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 21:46:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
           "pubDate": "Mon, 07 Sep 2026 21:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran says improved ballistic missile shows it will take preemptive action against threats - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaW9PNHFnZGJneDI2Zk5KQUdybFlKMWJzcjhpcGpTN29VQjg0RlB0N0MybWRqeDA2eGtWZ0pkNWNyS3REMVlzMjg3UE5lbGczMzRnM21iVnpxMDZFRlAtRTRYdTlGdzlyMXdETFl6bi10Qjl2Rjg1YUlxRDc1QVo1RXh4OFRDMkVQUDk2cVpnYVRuYlk0OVN3TF9xcWkwcmRwRkRBUzY4S01ZaGRIZHZR?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 21:24:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,12 +154,6 @@
           "source": "AP News"
         },
         {
-          "title": "Host Germany avoids early exit from women’s FIBA World Cup, France sets 3-pointer record with 22 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSU1HYWRjSXh2TnRGUm85bnpyY0NSNHRkMEk5Q1I1ZzM0bmVrVFFVdndlMU96bTZDb1Nad2xEYnpIN0lmNXhnUEllQ3dWaFltMUF4VGk2Nm5yTW1zZ3NyMXZQNEd1NjBVRU5NazJ3Rnk3RVh4N2tMdHB3dU0xWFlFRi1XTWNveXU5clRNN3E0NnBRQVBNWEhZ?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 19:10:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Israeli airstrikes on Lebanese village kill 12, plus other key Mideast developments - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzFGcTR4d3dmZ2JzQlJCcWNlR3JOUGJ5TW9YVHFDX0J0djhXeFRncFFkUWJXMXhISnFsWTFJNEZwYmhqQzZpV1Fva0VUSElfVVFKWXlsb2ZON3luRTVYLTdKaDdoQ2hINDdFQl9oZGMzMWU5THhEZXE3bWUyZXFxZFdVemlzUFlJNG9NOWJjLU9VZFc3TlpkOWJDdlNndw?oc=5",
           "pubDate": "Mon, 07 Sep 2026 18:45:00 GMT",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTBfZVpuWEZhdTNBM3ByZFpOazRsWHltczliNF8wdk1MeUF6RlloZWJHM2FwM3VJT2RKNExnYk5MLWxoMmNPVDZlUnoya0ZKeUhNOTJva21TRzFLWGxVTll5NmhmanhRaWlYcW1oQlpqd29ZblJYbW9vcjNzTTdNZDFNWWVLalRsTkE?oc=5",
           "pubDate": "Mon, 07 Sep 2026 18:17:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "UK government condemns anti-migrant protests at ports over Channel boat crossings - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamx1N1dneVVhRHAwRWNwZVFMN0QxOHpjdC1HNHQxU3FyV0VGcUc3d0tyazlaRHM5d2FYOWFiRGtzZEdVVW1fLUN1bnp4Ull0NW9IT2xSNDItSzVjQkZNYzVLaWhpX215UlpTVUZzV19UWVg5VGRZMmNsT3RaSUhOWklVdV9zeE8xaml5TlBMeEdjcGNSd1FQcTgzUm9VVWh3VEJGR0R4UQ?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 18:08:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T21:50:16.325Z"
+      "updatedAt": "2026-09-07T22:00:21.969Z"
     },
     {
       "name": "Reuters",
@@ -215,14 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Saxony-Anhalt election delivers a blow to Merz and a warning to Europe - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmdkeWFmV2FTc2lKQlRsS3YxZ3Fkbjg1Q1VMY25hZ0ViWmdGUGRjSk45QU5Zbmg1aVk5UjZZVlVaTU9KX0pCRDVTSDdIZVhtM2d3ZEdJQ1RQVW9VSy1FUTNTT04yemtkaXFXMV9vUl80R0Rhend5bkM5UGZudkRGaWlQMGR4Z0duc0pXME4tUWF1NHkxQnhNbUZsMWp4cjg?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 17:26:30 GMT",
+          "title": "Airbus aircraft deliveries to end-August rose 9% - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTUtKaE1mVlBISnpuZW1raGRVRV9LNkRRbXBCaEpUMkJIbE51ZEViU0FsYnM0bGhkeER0aDZUeVREdEtBdmVyOFBXT0huMHVJRUJ6ZnJITWlQNXdPR1hFcWlJN0M3ZU1uUFV2NDd3YjBwTjN1TEpucFAtQXN5cUgyZldnOHBPUGdrakxhaTBNdUxMUmJ6UHpqQ1dFaHM4R1NGeHc0TDlqZlFSNnM?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 17:51:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T21:50:16.776Z"
+      "updatedAt": "2026-09-07T22:00:22.343Z"
     }
   ]
 }
