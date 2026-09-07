@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-07T16:00:21.307Z",
-  "lastChecked": "2026-09-07T16:00:21.307Z",
-  "lastUpdated": "2026-09-07T16:00:21.307Z",
-  "generatedAt": "2026-09-07T16:00:21.307Z",
+  "fetchedAt": "2026-09-07T16:25:12.654Z",
+  "lastChecked": "2026-09-07T16:25:12.654Z",
+  "lastUpdated": "2026-09-07T16:25:12.654Z",
+  "generatedAt": "2026-09-07T16:25:12.654Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Tanzanian President Samia's husband dies in hospital",
+          "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 07 Sep 2026 16:23:02 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
           "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
@@ -26,6 +32,12 @@
           "source": "BBC News"
         },
         {
+          "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+          "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 07 Sep 2026 14:50:50 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
           "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 07 Sep 2026 14:04:01 GMT",
@@ -38,26 +50,14 @@
           "source": "BBC News"
         },
         {
-          "title": "Tanzanian President Samia's husband dies in hospital",
-          "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 07 Sep 2026 12:03:56 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
           "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 07 Sep 2026 10:31:01 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Probe begins into why cargo plane overran Miami runway",
-          "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 07 Sep 2026 09:54:40 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T16:00:20.077Z"
+      "updatedAt": "2026-09-07T16:25:11.667Z"
     },
     {
       "name": "NPR",
@@ -75,14 +75,14 @@
           "source": "NPR"
         },
         {
-          "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
-          "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+          "title": "The first day of school: Bells, bikes, buses and big feelings",
+          "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
           "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "The first day of school: Bells, bikes, buses and big feelings",
-          "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
+          "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
+          "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
           "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,21 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T16:00:20.312Z"
+      "updatedAt": "2026-09-07T16:25:11.768Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "North Korea adds second destroyer as US, South Korea and Japan hold military exercise - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDVCS2Q3d3B1R2FBU0c5Umt6M2VMTUNZS0s4XzhkNHl4ZFoxeDVxOXdzeG9OQ0VsRXRJaTFoWXhQLXpKcXBYREd2dkNEV001cFBlLTZNSUszTVlmOWQ4YXh3Zy10N2V5bzYzVF9DQ2Z6ZXQ2d1BHYS1ZSWtkdG1HUFo4bHRJeFJuMWJSMVV6dXdpVmM0c3VRMW5MWFdjcWI3?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 14:57:00 GMT",
+          "title": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 15:59:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 14:51:00 GMT",
+          "title": "North Korea adds second destroyer as US, South Korea and Japan hold military exercise - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDVCS2Q3d3B1R2FBU0c5Umt6M2VMTUNZS0s4XzhkNHl4ZFoxeDVxOXdzeG9OQ0VsRXRJaTFoWXhQLXpKcXBYREd2dkNEV001cFBlLTZNSUszTVlmOWQ4YXh3Zy10N2V5bzYzVF9DQ2Z6ZXQ2d1BHYS1ZSWtkdG1HUFo4bHRJeFJuMWJSMVV6dXdpVmM0c3VRMW5MWFdjcWI3?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 14:57:00 GMT",
           "source": "AP News"
         },
         {
@@ -136,9 +136,21 @@
           "source": "AP News"
         },
         {
+          "title": "Nepal holds a day of mourning after floods kill at least 1,300 people - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ0Rrc0pHNkZJeFFyX1lUZVVRdHpuN1VKR0dpTU9tNTI0QU1penRaT2s2SzVaYkhiRlNVeHk2Yjc4aUFZNTBmS3B2SkRNUFByc09uU1dtNmNZdzJRLTF1OVQwY2FYUVFiZWQ0MjBUQjcyNEtmTEJ1NkxaV2E0RDNWTk9UcGZYVVZTUGFzX1dFYXk?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 14:28:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Paris trial into the fatal shooting of former rugby player Federico Martín Aramburú has begun - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTTJHSGFmdkJ3djlkUDFvSmR1SmpScC02enI1c2k5eE9qekhEM2w2cjNlUEU1THdFQVZyRFh0N0lmT3hwUzZUS2luMmxzZ0pCM21mX0hOVlBrY3V2VDdLcHhJVl8teHJwOE16QmliWjdDMlhpa0VHSlh4NnRBckZnYmlkZ2pkUDN5aFhqNWdDX0pqeC1OczQ0?oc=5",
           "pubDate": "Mon, 07 Sep 2026 14:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Indonesia keeps several airports closed though volcanic eruption is easing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWGhDUFh5dHpIOWdMZU0yeGVUUDVqS1VPWldqcEc5WUhBSTZpSjN5TGNkb05KTmNVVUthdmFpN2Z5MzQzYXpRSWFFOEJMR1hXYVpUMTZVM01ILUM1SUJYNGFlTThyTGJZb3BlendyMXYxUE1UZjFGdlBCZTlOWnJscGpMOW1nZjVGeE54cTRCWTNzSjE0R1VHNDhrZE12SXFhZFhJYVhYa21HQmM4anR5cElYVUJONmRm?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 13:52:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTFYb1YxeVRIcHphazF4MHA5U0FVQ3lTcVNyOGNIbkduWW8zX2xORWIxcjNIbE14WVl6UFFPMHZBVzlNc0JJd2hqWEtRb2ZkeTZVRmVVeDk5NmhiNHBtRy12bF94TEo0Qkc5U2dJYVdaamM0UWZOMTNBZ2hHaFM1S0w2NUd5cDFSSU5SaW5VZmhacFQteVVFcg?oc=5",
           "pubDate": "Mon, 07 Sep 2026 13:47:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "War criminal Mladic is buried as a hero in Serbia despite EU warnings - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTF0c19ZZUlPT1RaakxDV0hhTFoxQndCQmNreVU1OTBMTjdpTE1mams1bDdCdHAxOWVCRDJIbWJwMTFFYjdHXzktUmlsTWhPY3lKME5KYWpFMXBvUi1zN3R5WVpEVWlVOVNCT3lWVnhnNktnTFk5OXFsYUtYeGhMX29SVm9QMndjNTJSMHl6WjRrSTBMTS1weUE5bkxScUJGbS1mTkdvNGdrNGxl?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 13:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Jamaica takes its case for reparations for Britain’s role in slavery to King Charles III - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVTR4eW92Uk8wX3JVTTZjZk5RN01kQ1lEcVJGd0lUNFJweWJQLWIwMjNoREZQRGc4TDZXZmtfN29xTjlYSzg0Y1QyUllKWk11QTYtUk1ZYjdBMjdLemx5OGpWWHZrek0zZVZIbTUxU1Vub0hfUVJEcUR4RXczOGJOUXJ1RTdQaE9lTlNMSjF1MGJYR3lFRUQtaXYtd1g4UmNrVEE?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 13:14:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T16:00:20.866Z"
+      "updatedAt": "2026-09-07T16:25:12.178Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T16:00:21.306Z"
+      "updatedAt": "2026-09-07T16:25:12.654Z"
     }
   ]
 }
