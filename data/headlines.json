@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-07T07:50:26.331Z",
-  "lastChecked": "2026-09-07T07:50:26.331Z",
-  "lastUpdated": "2026-09-07T07:50:26.331Z",
-  "generatedAt": "2026-09-07T07:50:26.331Z",
+  "fetchedAt": "2026-09-07T08:00:18.127Z",
+  "lastChecked": "2026-09-07T08:00:18.127Z",
+  "lastUpdated": "2026-09-07T08:00:18.127Z",
+  "generatedAt": "2026-09-07T08:00:18.127Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T07:50:25.455Z"
+      "updatedAt": "2026-09-07T08:00:17.063Z"
     },
     {
       "name": "NPR",
@@ -112,33 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T07:50:25.503Z"
+      "updatedAt": "2026-09-07T08:00:17.357Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Tennis Scores, News & Stats - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1EbzBXMF9LTzNjVndrTjNjcVkwZFdxclRGRzFrVUFQcHJ2NXhUbDhCUnVFZzR5UHNSeGtsbmRxQTNDbkE?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 07:53:20 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 07:49:13 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Weather, Hurricanes and Storms | Latest News & Updates - AP News",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GMXV4dG1uemVFQU4tR1liSktIVXRORUNuQkRUbnl1TTZGdmJqaUpMYlVHMmxad1otUDhrU0RmRURzWWxY?oc=5",
           "pubDate": "Mon, 07 Sep 2026 07:47:13 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Africa News Reports | Latest News in Africa - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBJQmVmQkNENXZhMGRlTFh2Mkh6cUhHc2REN3prU2RDdkNlSHZ5bDRoZDVrUG9ieVpGMXM5VmZVMWFhWXM?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 07:47:12 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "College football | Latest News & Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 07:47:12 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Tennis Scores, News & Stats - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1EbzBXMF9LTzNjVndrTjNjcVkwZFdxclRGRzFrVUFQcHJ2NXhUbDhCUnVFZzR5UHNSeGtsbmRxQTNDbkE?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 07:44:19 GMT",
           "source": "AP News"
         },
         {
@@ -154,24 +148,36 @@
           "source": "AP News"
         },
         {
-          "title": "Germany fights Gaza genocide claims at the UN’s top court - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMUM4VTlUZ0owTGV1aDBLYzVqMzBQbnM3N1BTSTZ5SDlBQTZKOEo1RWxpX3RkeUpITExneXU1UmhkdGhIRndyRjFmN21DZm05UTFXYjZ4TlhseHVNa0F3UnZRQzJGbjRKcURBUlI1SjB4YUdPZGd5MHlSa0Jfc3BSM1FGVUt0RGpHdTVxWUJnRnRabTg2QkhyYlFmY3VBSzhVcGl1YzgySm9NYllqbm13?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 05:06:00 GMT",
+          "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 07:16:35 GMT",
           "source": "AP News"
         },
         {
-          "title": "Documentarian Alex Gibney on the power and influence of Elon Musk - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZlQtV2NWN2pNUFFNejE3d3BBVjRJZmpGbzdOb0Q1LUU3S2Z6UENkbUVjMlgyQ1Z6LVZGSGVHUlF6dDc1MEVpY1BpMnY0OWZ3blp2SGxwZDh0WFVkMklwTFplVV9zbDN2SW1TRk5zZEJPVERhajJtUWx3TXBvTnlmODY1dV8tVlVCMkpRQVRYZkZBTzQ0cUk0eHM2WkhFR0diTGtkQQ?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 04:13:00 GMT",
+          "title": "Iranian soccer players who sought asylum in Australia say anthem silence was protest against Tehran - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2RDMzNfdjdKeDlScmk0N0tDUXhnckNyVmxIWVdwU2lGMURrU2o2cnlSc19qcTNrdkZRanM2SnYtd1Z0NGt3U05uUTRIbnZLNVFNRzJSWExjdjhmUWk2WXZPOEVtN3p6ZGd6V0xzdGZ0TjRpMl9lTHU0ZU80aUUxLV9aN08tcEdsT3NhS3VWcG02TnVycEVtandn?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 06:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 05:39:40 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T07:50:25.941Z"
+      "updatedAt": "2026-09-07T08:00:17.749Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "France worried by victory of far-right's AfD in German state election - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQmo2Q2FXWm1LbTFCMjI1ckhoRDYyeTh2Z2VrNC14WFlidU9ZdGpkVDlKcDZYcGEyZGhUYnpDZ0U4MmltTC1XZFFFblNBQm8xT3RDalRWWVdYTTBJTmNsM29VLURBLWJZRUxCRjZ5R2dYdDNhQ0YzUktnaHEydEU4cmUxQXpUTGluVGU1Z1dBYWFBUDFFUFpKbmt4QXB5dF9CekJSaVA3aw?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 06:28:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "From dance floor to war: China readies humanoid robots for combat - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5",
@@ -203,7 +209,7 @@
           "source": "Reuters"
         },
         {
-          "title": "India's alternative-fuel car sales top petrol on cost, E20 concerns, dealers' body says - Reuters",
+          "title": "Alternative-fuel car sales in India top petrol on cost, E20 concerns, dealers' body says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVoxeEhSeXlubXdWMV9CbTQ0b25DU1RXb2pzMG1Hay1fZU1HUXlrTmozX3JzU0dZcE1weno2X2lxcXZPcEtiY1lCSW93M3Q2bS14QUFTblBFdDRjWER5dkY5UzVxMHJBbkd0MWlONnB4MzBwNFNDV2doVm92UlBLUEJzVVpVbm9DeUFIRDZxc2dPUENEcGhOcnI2a2VtMGpoQ2FVR2wzVFE3U3dOd3EzcWQ2Z0hUQVpCT1M1ZHY1MUp3dEpGUmRn?oc=5",
           "pubDate": "Mon, 07 Sep 2026 04:34:00 GMT",
           "source": "Reuters"
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1lpQVdhRENMSUQ3NnJWZkxyRlRjN0hHS2xsek1XbFo2ZEVCNnJ6RGRsNUZubmRCUURNbl9hbk5WSXJ4X0ZrTVJ3YW4wdHl5d05lOER2a1JZRUtkQmxKcy1DVjFGdFJfTGF5b1JtbE5BLVNoMGhGVEZKdm5ZZlcwQU9EQ2U4MWlmZEtNbEdxb1d1cWtSQzlLckJsdHRpWEM2TlJ2S0JYVnNySXM?oc=5",
           "pubDate": "Mon, 07 Sep 2026 04:05:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Another rate hike, just for insurance: Five questions for the ECB - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUFuUFh6VTdaUzh1amJOYk43S256U1ZCVzJ1aXhBTE9UdkN4TTJLTG1LcUZKYURQd0RLRThKNzBzQkFaOE5pdmRZbUpLRWEwa09lX2xDLTlGNlJvVk1PSDA3dG15SUg1Qk5aejlNSGp2dmxYemRzeFZFdXQ0WjIyakFRYkUzT2kwcHR2a3BBZXNCRzFKUFRVN2FybzVmSFB4bEI5VWJLcw?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 04:03:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T07:50:26.331Z"
+      "updatedAt": "2026-09-07T08:00:18.127Z"
     }
   ]
 }
