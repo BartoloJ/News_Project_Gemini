@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-07T09:00:19.561Z",
-  "lastChecked": "2026-09-07T09:00:19.561Z",
-  "lastUpdated": "2026-09-07T09:00:19.561Z",
-  "generatedAt": "2026-09-07T09:00:19.561Z",
+  "fetchedAt": "2026-09-07T09:25:14.720Z",
+  "lastChecked": "2026-09-07T09:25:14.720Z",
+  "lastUpdated": "2026-09-07T09:25:14.720Z",
+  "generatedAt": "2026-09-07T09:25:14.720Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T09:00:18.461Z"
+      "updatedAt": "2026-09-07T09:25:13.650Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The first day of school: Bells, bikes, buses and big feelings",
+          "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
+          "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
+          "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+          "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
+          "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
+          "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Morning news brief",
           "link": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
@@ -75,8 +93,8 @@
           "source": "NPR"
         },
         {
-          "title": "German exit polls suggest far-right party has big lead in regional election",
-          "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
+          "title": "Germany's far-right achieves an electoral breakthrough in key state election",
+          "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
           "pubDate": "Sun, 06 Sep 2026 12:36:48 -0400",
           "source": "NPR"
         },
@@ -91,54 +109,42 @@
           "link": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
           "pubDate": "Sun, 06 Sep 2026 05:51:04 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?",
-          "link": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
-          "pubDate": "Sun, 06 Sep 2026 05:01:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well",
-          "link": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
-          "pubDate": "Sun, 06 Sep 2026 04:44:48 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
-          "link": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
-          "pubDate": "Sat, 05 Sep 2026 17:01:10 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T09:00:18.705Z"
+      "updatedAt": "2026-09-07T09:25:13.858Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Iran war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 08:56:25 GMT",
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 09:22:38 GMT",
           "source": "AP News"
         },
         {
-          "title": "College football | Latest News & Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 08:56:24 GMT",
+          "title": "Iran war - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 09:20:56 GMT",
           "source": "AP News"
         },
         {
           "title": "Africa News Reports | Latest News in Africa - AP News",
           "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBJQmVmQkNENXZhMGRlTFh2Mkh6cUhHc2REN3prU2RDdkNlSHZ5bDRoZDVrUG9ieVpGMXM5VmZVMWFhWXM?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 08:54:19 GMT",
+          "pubDate": "Mon, 07 Sep 2026 09:20:54 GMT",
           "source": "AP News"
         },
         {
           "title": "Tennis Scores, News & Stats - AP News",
           "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1EbzBXMF9LTzNjVndrTjNjcVkwZFdxclRGRzFrVUFQcHJ2NXhUbDhCUnVFZzR5UHNSeGtsbmRxQTNDbkE?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 08:52:28 GMT",
+          "pubDate": "Mon, 07 Sep 2026 09:10:31 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Auto Racing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qekN5SGJkSzNLUkszajRtNDl4MTVkWWlqc3JqbTl6VmIwdTFuRUZxQ29xOVhJY3gtOUJxLVFQTm1RZVI2a3kyMVdn?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 09:08:31 GMT",
           "source": "AP News"
         },
         {
@@ -156,73 +162,67 @@
         {
           "title": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 08:37:22 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Auto Racing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qekN5SGJkSzNLUkszajRtNDl4MTVkWWlqc3JqbTl6VmIwdTFuRUZxQ29xOVhJY3gtOUJxLVFQTm1RZVI2a3kyMVdn?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 08:09:20 GMT",
+          "pubDate": "Mon, 07 Sep 2026 07:44:20 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T09:00:19.120Z"
+      "updatedAt": "2026-09-07T09:25:14.301Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Austrian headscarf ban for under-14s faces first test as schools reopen - Reuters",
+          "title": "Novartis falls as failed cholesterol drug study raises stakes for pipeline - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT3JLc3pSdzFRemdkQjZYMFBtVDNCLVlLSi1qWmEzQ3ZWMldHdEZBOVpLUjJhcXBJZ3pjNWFTY0xpOFNHVVpZVjI3S1dIVHRNRk93bEtPRjc0NTdFTWlpTUJXTngxQ3lCMkxGbW5JTDhMSnhjaVQ1ckZGTm1DbnFYRDh4ck8xOEJPZGJNU0NiZi01Sk1mYnBta2M1ZmlnMV9mRGpJVnlDdkV4c3VuM2J4U0xITGthT3hzNjN0a05hQURpUV90Q1JhMVFsTQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 08:12:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Austrian headscarf ban for under-14s faces first test as schools reopen - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnlwUEpBSW9LTGRPdFp6YmtoQ2gtbXFYOERnQ1NYRlNCUTVTaVdVWmtOMnptcE8tNTE1ZHB5SkgySXB0bm5WYWpUVlhUTWZVeHVhcmpJUmlzcGZ4U0pYaU16Wmc2TWJsdThiZUZuSHg0TW0yWjBTZ05pbDhwTi1xZ2lJQ1NieWJWTVhWM0lEcDg2dHFNV1BPMXJOY1VTR01fZmVPVDE0R28wdw?oc=5",
           "pubDate": "Mon, 07 Sep 2026 07:41:57 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Huawei launches new foldable smartphone as competition with Xiaomi, Apple heats up - Reuters",
+          "title": "Huawei launches new foldable smartphone as competition with Xiaomi, Apple heats up - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVS1jR3lPTW1TQVB1Y3owVjhXcWx1aTBvdzZIOTY1SnFLTVhSLVRwbEkyMUhIZXRaSWd4UjllLXV4alo1MjhRemwyUjZ4elQ5MGhNOEhTUHhZVnBPNXZGaHpfTkZPdkc3cEFtNXJ1ejBUbms0U1doa0tXVjJLQnViNE5xczgybk5yTi1zYk5sdmdBazQ3WnVvWDJJMHY1WmcwSmJmYmdmX1IxYjFCanhyY09hTXNSalB5SV9obHJydUYzcXM?oc=5",
           "pubDate": "Mon, 07 Sep 2026 07:41:38 GMT",
           "source": "Reuters"
         },
         {
-          "title": "North Korea and Russia open their first road bridge, a symbol of expanding ties, TASS reports - Reuters",
+          "title": "North Korea and Russia open their first road bridge, a symbol of expanding ties, TASS reports - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSDhSOTZweXB2RS1xNmJldmEzczJ4VGRMQUxBWW5ZTkpUUFdNZlVSWGc0MnluLTlpSEFNMC1sTEdPTFBHTHg0a3g0UnJ3dWVoMlUzSUdwWHR0YVE4YU9nclZBMzJnaFFJSURNTW00bS1CQUtnZXhvUm9SSmVibVozQ19xN2hEMFhheDVST0JITW4zMENXSGxscC1SVGtWVXM3YXNTMnpubkx1cDRZS3lBY3ROVEwtUklmR3lpcTM0eGU3QmlJSElLeQ?oc=5",
           "pubDate": "Mon, 07 Sep 2026 07:37:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "At least 11 killed after avalanche hits climbers in Russia's North Caucasus - Reuters",
+          "title": "At least 11 killed after avalanche hits climbers in Russia's North Caucasus - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGpPMGhQR2tHMGlJZmF1Q3JHMnNQMU1qaFNPU2M1Y2NYRmJqYzJlWTdLOWg4N2ZQWmFBend0ck01TmpNVGgwdUFTVlVYQjVsbVRGdEt4NWFNU2NESTJKdl8zUVJJTHQ0VzFxamQ1c0FQWDliZXJJOGFGUjR3MDZYbXVOUkpuMWxldVlCTlJjWFdWZjlrWTdtZ25uckJYX1l6bWVyeWZPT3RYU19UWVc0?oc=5",
           "pubDate": "Mon, 07 Sep 2026 07:17:36 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran says to announce new restricted zone in the Gulf in the coming days - Reuters",
+          "title": "Iran says to announce new restricted zone in the Gulf in the coming days - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5",
           "pubDate": "Mon, 07 Sep 2026 06:57:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Six killed in Delhi building collapse, rescuers search through rubble - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTExsWHRaZmQ3T0JIcEJQeEpGbEdKQXN3a2ZmU3RYNFZhTlJiMnRrY2ViR3ptQnZObGJ4bGI0WldwR25vaEppRWkxQkVTNTVYNVJpcXVhSFF5Z1hwUDlTbHNvUlZCdGh6b1dGT2dRSU1saVNJNFdVWDRVVkJVUkVlN3hmQk9mSDRpSUZJTGNkd0hrRlJ3ZS1pUUkwZ3BZRWFqU084Q1M3azNjSS1aOW9aQXh6YWFsTTVFc18tUA?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 06:30:00 GMT",
+          "title": "Indian health activists lodge concerns about food warning proposal in court - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2pSdDBXOTd0bFI3MmNXLTlQWW5MWDRmN096R0x3T0MxSjh3d3ozRjJmcWlLVEdZSW91dnFza3J2WEQ3NEp0ZzFUek1HaUtxQjg3OWE1b3doUXdSSDVmV3FfUEE3NWNvZEhYLV9BVTR3RHJPaVQ3dk9PQVc4Uk1rbjlKSzdnbXBvV1p2TUJYSTR4Umw0TEJBM1NNX2QxNTRkMU1qZmFvS09HbHFNMDY2c2VZMXc?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 06:54:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "France worried by victory of far-right's AfD in German state election - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQmo2Q2FXWm1LbTFCMjI1ckhoRDYyeTh2Z2VrNC14WFlidU9ZdGpkVDlKcDZYcGEyZGhUYnpDZ0U4MmltTC1XZFFFblNBQm8xT3RDalRWWVdYTTBJTmNsM29VLURBLWJZRUxCRjZ5R2dYdDNhQ0YzUktnaHEydEU4cmUxQXpUTGluVGU1Z1dBYWFBUDFFUFpKbmt4QXB5dF9CekJSaVA3aw?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 06:28:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nepal marks national mourning day after deadly flood - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlJveGVZS095QW9DNThLWGh4dlU1MzJMeWtwRHBRTzlOMXRKeklkVl8wNEh6aVlfdzNRajJlQ2JmekkteGRxbjBCV3hyOWU2VEpXc2k4RklPZFJSdFZtZTZQR2xBM3ZfLUN3cERMcGk0bVdYNDNKb3Y4bXZneGNNTGdaSXdYWTB3Vmt6LWZsa1U1M1JjU0dCcWV0UElyUnFuU2FvWkNuUW56TEtQLXc?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 06:16:00 GMT",
+          "title": "Israeli strikes on southern Lebanese town kill 11, state news agency says - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSDNtVzFxN3MtVEs4UWxoWnA0ekJKVC1EWThJR1hiQ2FvN1d2LU40NXRDaUJGMGRLeF9KaHY1R3dTSmdTRHhHdG9uNTIzZXRRRWVoWW43d0dxM3ZoSTNMM2xEQlhlV011OWlpSHdxTDlmWjl4MW9VQ1ktN3hqU3lEU3dnVUV3XzQzWGZjU3ZBNnNBQVhOek9OeHZ1WnFZb2RacWhmVXdiSGM5Q3FwbmFtcGN6OTJpZF9kNk5YWGladzg?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 06:48:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-07T09:00:19.561Z"
+      "updatedAt": "2026-09-07T09:25:14.720Z"
     }
   ]
 }
