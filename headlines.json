@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-08T12:50:35.904Z",
-  "lastChecked": "2026-09-08T12:50:35.904Z",
-  "lastUpdated": "2026-09-08T12:50:35.904Z",
-  "generatedAt": "2026-09-08T12:50:35.904Z",
+  "fetchedAt": "2026-09-08T13:00:20.306Z",
+  "lastChecked": "2026-09-08T13:00:20.306Z",
+  "lastUpdated": "2026-09-08T13:00:20.306Z",
+  "generatedAt": "2026-09-08T13:00:20.306Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T12:50:35.052Z"
+      "updatedAt": "2026-09-08T13:00:19.408Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T12:50:35.089Z"
+      "updatedAt": "2026-09-08T13:00:19.456Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "UK government bans goods from Israeli settlements in the West Bank in a toughening of its stance - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQnNUUkpEenk1MDJhTHpGbXp6VER2bDhydkpYa3BmQVhtR3A3MDcwOTNHSUwwX1J3aTQxeVA1NG9YTDhiNkdORk85UUpaTHE3RUNOSk5fMWRVNENmQ0poSlp3dXZyNXJocndqMkdOTVhPSDJlbFBqTE0wLThJc1dWMUxFTjQ1OXdKZUtOTEJiTl9Bd0pNTHNSUzlJWWYwN013WGc?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 12:44:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "One of Jerry Sandusky's accusers is to appear for hearing on recanting allegations of sexual abuse - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOenBBczJWUVlwQWlLemh2WGo2U2cwVVk2bkhXSld0dlI4bmtmTjZncjlnQ1JpN0VqdXVsNnJHVWMtTXNZTDFuNnF0X3RyNElMRTQtc3Ztajg5Zjh0QTFWZEVaeG0tUTE1QVlhNjI3SDM4MFFyVkFsMFotVnhNUm1IZEZCa0VMSUdUQU9WbXBEUmR6OE9GdWc2MUJPV0dSaDJXRy05WVhSM1lzWlE?oc=5",
           "pubDate": "Tue, 08 Sep 2026 12:10:37 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Harry and Meghan surprised by the way Buckingham Palace released letter on non-working royal status - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3ZZaTNTQnRXUkEyN01vS2xmWEM2VEFnZElrQllVTkp6VDJCNEFtWkg4bGcyVzJCZElQNzVST1dUSHllUmZGOEYzczR0LTRpWGxJSmFWamRGd2hEWUpTS1IybGlYMERGUEkyeVF2YlVNcVQ1dHNRdXFKUzJ4T2RrZjlGS3NTWnNkTnRSN3hNRk9IcU9pUl9GMHdLbl8?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 12:09:00 GMT",
           "source": "AP News"
         },
         {
@@ -136,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "Thieves steal 4 Renoir paintings from French Riviera museum, 2 still missing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlpjeEJ2Q3FpMFpvbXlmSFFkLVMxOUlHS1hweTZTUjZUa0FjOG5aSXg2ajN5TnJ6Z0ZhalVTam43VTJxZy1ybHdrQVpvV3B2QTRyZkxHeEZhX2p6YlFQWGpsQ2E0cUVQaUt4cC1wd2RZNjB3M3cyTTV2Q0lzaERva1drZlZmVlFFdlcyNDdtTnZXcFBaNllUaHNGZ1lEUQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 11:35:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Trump threatens Canadian jetmaker Bombardier, which has an extensive US footprint - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVmRxSDVSaGtVRFo4OG1zYjJXOVpUa2t6QTFvWTVKYmUxQ0J4UTRlRUVPSGlKRC1TVHkxaWIxSEsyZnExYmh5WUhJRW53ZDYxVWlBNjg5SVRZNmUxcVRveVdnRkRZNE9leDlTZ2ZnNXRnWTZoSG4xWmVfMkNtbV9PbEJuRldIMFNFbDliTFFjMERBeVY2aWhienpCcUhqb0FvS3lkWDBoVEo?oc=5",
           "pubDate": "Tue, 08 Sep 2026 11:33:00 GMT",
@@ -146,32 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXNRRGFTQnNLUGt3SEFycjJldlNBOFVoOWhjT1lDUDlNSnNnVHMwZVhVVHhWeXlKdk5wNzVleUJDcl9XZjctWFZMNWNnRmtFeDdVQXlRY05TQXhpamttYklQWlliYnhHeFJMUDU4WndNai1NY2RRMXFjQTlOUE1NZV9GVi1xQ3lnVHptaGFXQmtSUllFbEFDenBySE1pMGthZXB6azVR?oc=5",
           "pubDate": "Tue, 08 Sep 2026 10:25:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Flights to and from Indonesia’s capital resume after volcanic eruption forced a 2-day closure - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1FWNHFVODFpNThKSld2SC1rc2otX2E2WTRmS05mZTVxNGN2dWg1eDdOU0ZGWHNTc3Z4cnYyUGtKYTNNbUM1UEt5ZFF1MFl6T05FVGFVc2hpQmpGekZHRHJVQzBLb0pENzktbFdXdS04OEZWUlVUakhZbjJDdFRHenVaWlA1NVNhS0N2R2lIYXR1RmtiRVhMZ2I2T184Q3N0djJwd1V1UXpNSnR2ZUNIVUFLOFhLMUJ6?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 10:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "UK government will ban goods from Israeli settlements in the West Bank in a toughening of its stance - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQnNUUkpEenk1MDJhTHpGbXp6VER2bDhydkpYa3BmQVhtR3A3MDcwOTNHSUwwX1J3aTQxeVA1NG9YTDhiNkdORk85UUpaTHE3RUNOSk5fMWRVNENmQ0poSlp3dXZyNXJocndqMkdOTVhPSDJlbFBqTE0wLThJc1dWMUxFTjQ1OXdKZUtOTEJiTl9Bd0pNTHNSUzlJWWYwN013WGc?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 10:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Hungary orders 10 Russian diplomats to leave the country over activities deemed unacceptable - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXhUSm92S2lPWFZrTHdETVd1clVYb0dOcW1vQnNnYTE5OFJMWXRrOE5Qb00zdkxmTmpvOUhpeTBscmdVVERzb1duSVdQSkZ2V0t1N2VVM1VQcEd2aWFqR0pvelRSYVo2Y3hoMHBuS25hVDdDWnRyRFB5M3N2ekIzUjQ3LTZIWEFTMWhGNUw1RnMxbDlETldwakJsZGlQWFFxd1Y1OEMzMUlGOUxuNDRyemtR?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 09:53:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T12:50:35.510Z"
+      "updatedAt": "2026-09-08T13:00:19.908Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "UK, France and Canada sanction Israeli West Bank settlements, in support for two-state solution - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmlBQXFvaFZkMk1ZeXQ3VUU4VUJJc2oxWWxUWGp1YVFwdXNKNko2OUM4OC1mUmExUmFsc0pxOWRDOWxqbFE4dTI1X1B3SWY1TDQ5eWotM1NhczFqeVI0NkthNmY1SWVkR1NwbEJTV3dCbS1SR2lMcTBZbVpOZTZicnBXdTQ5dEppd1dFbnM4OXlrNzJU?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 12:50:48 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "How two Israeli brothers are driving a West Bank settler land grab - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQTF3TDVzSnZXZkRQaUc1cFpZdktRRGQ1R2JvcVNJQmFtbnZBUThubGFkS21MVHp1clVROTFGX05GUFQzZGVWTFV0TVpNSkI0RU5KSU9XZjQxVkQ5NUozM2FBSTl3eHVibzB2TUJnRDgxTXJRYXRYRmI1Y01zWHhrVUMyTUxLdVpnajRQOUFSR2J2czAxemMtazhWX0JuNnJfV2VMR3p5ZXN4LU9FVk1sMXh6OTlGdzFUakE?oc=5",
@@ -182,6 +188,12 @@
           "title": "Iran-backed Houthis attack four Saudi cities in expansion of Middle East war, 73 hurt - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5",
           "pubDate": "Tue, 08 Sep 2026 12:15:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "GE Aerospace to buy castings maker CPP for nearly $12 billion - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWThkdUhhV0Y3cUZ0c1ZpcHlGd29DaFlhdEdlTlJPVmU1TEY2TmV5TkVlOS1UeFVZLS1nZENLa3B0bnR6MTd2R1g2ZTVYN0FKZ2RjVHlXbXRiMVVvVTV0UVhsTXBYWnZpTVQteUFHa0ZyLTc1QnZlbTZCWHFGdVJoSnhYWVFfVjB1OGhoVDlNX2NjOXo3Yk54cGZfN1U2aHpId2wyMWtkVDFUc1kxTHc?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 12:12:48 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CUFk1czBwVHg4X0ZrMHhVdlk0NVlKcVNYWm1pTkc0cWdFMWlaS3RrWDVHaE1iaE5RVWJYS25Fc0RkZHFrNnJXaG1kM1hGYmhLWDkzdTFuSERyTnpDQXk5SzVwemxVNnB3bEI0UWtzQkNTU1R6WUVZTVVOUHRwdw?oc=5",
           "pubDate": "Tue, 08 Sep 2026 11:26:07 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US seeks more access to Venezuela's mineral wealth after tapping its oil, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTV9HYUdSSlNYVFMwd3dUdUpFamtYakxkTEhMM09TS282djJLOTlTQTdaMGZzb19UdnlQeXc0RmQ3MzhDNFBNY0dBSEZwaHNUckprd1dabm1kdGhjNDlQVTNSYnFuREw5YzZpcVlGeTdjTG91S2cyQXdYS04tOElVNlV5OXZaTU1TM1FzN3FUREtvaUJVUHlJRTJVSkU5RE5RRVFiLUpVcFRITmVCcVo5OWNzUTBLZ0NTd2RnR3Fjd1pTRUhXbzd2Qk9RWQ?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 11:23:38 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Thieves steal Renoir paintings from French Riviera museum - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVF9NZ2J0MlphUFRFcXNIX1BPa1pJQXI0RV9ibDJOcmZJTUdHcm9VcmNMQndKY0NmTEZzaThwN3RadGdpWnVVd3JVRkF2SEg3a0FOMk5pRjRMVzhkQnVzVXF5Zk00WEdBUDVjME1NZHgtUjVma3E4b3NKYWJrZFQtOFdPZTVMQi1DNXNqT0lpcVNFaHlEZ2NSYjh5VWZCZUhw?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 11:22:48 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T12:50:35.903Z"
+      "updatedAt": "2026-09-08T13:00:20.306Z"
     }
   ]
 }
