@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-08T07:25:14.985Z",
-  "lastChecked": "2026-09-08T07:25:14.985Z",
-  "lastUpdated": "2026-09-08T07:25:14.985Z",
-  "generatedAt": "2026-09-08T07:25:14.985Z",
+  "fetchedAt": "2026-09-08T07:50:15.836Z",
+  "lastChecked": "2026-09-08T07:50:15.836Z",
+  "lastUpdated": "2026-09-08T07:50:15.836Z",
+  "generatedAt": "2026-09-08T07:50:15.836Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T07:25:13.772Z"
+      "updatedAt": "2026-09-08T07:50:14.858Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T07:25:13.947Z"
+      "updatedAt": "2026-09-08T07:50:14.959Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 07:47:45 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Africa News Reports | Latest News in Africa - AP News",
           "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBJQmVmQkNENXZhMGRlTFh2Mkh6cUhHc2REN3prU2RDdkNlSHZ5bDRoZDVrUG9ieVpGMXM5VmZVMWFhWXM?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 07:16:22 GMT",
+          "pubDate": "Tue, 08 Sep 2026 07:42:11 GMT",
           "source": "AP News"
         },
         {
           "title": "China’s exports pick up in August, jumping 25% as its trade surplus widens - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObHZITmVCeWxybnNhVVVxNmJHNGZoTVF4aGxNaXJ2U3FobzdXY1haaUticWMzQmJmekNYMEFVaS04UVE0VzR2QjB4Tzd6WVZkZ3Rzd3JDX3ZJejZYSmNsMWczNkdYSDY3VEZzTjlfVlpJSTVMT0d5MC1qeG9RTW1WLWp0dnpsU2I1QTIzbEVvSTlCdjFrUl9HaWpMYkF1TGd6M3Bv?oc=5",
           "pubDate": "Tue, 08 Sep 2026 06:28:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2xsZzlRWW5pdlh4dTJoajN2OTNFVWpjYmFvRkI1MEdiSHh5ZzYzODE5MzkxckFwQzFuOEVmd1FOLXNJbkdWb2h0MnZjUFEydkswUUpZOHhxQ1dWUVotLVBGbk1IbTdEVlp6bDBPVVhYeFVkTVAwcVFITjhFclZtZW1NMlhpd0dYTHJudWV1SQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 06:08:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,12 +154,6 @@
           "source": "AP News"
         },
         {
-          "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people, officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2xsZzlRWW5pdlh4dTJoajN2OTNFVWpjYmFvRkI1MEdiSHh5ZzYzODE5MzkxckFwQzFuOEVmd1FOLXNJbkdWb2h0MnZjUFEydkswUUpZOHhxQ1dWUVotLVBGbk1IbTdEVlp6bDBPVVhYeFVkTVAwcVFITjhFclZtZW1NMlhpd0dYTHJudWV1SQ?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 04:51:25 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Aaron Judge activated from 60-day injured list by New York Yankees - AP News",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdnQycDlueE9JOFJfMUxUSm5BX2k5M2lobGU4WWNKcUpQVTluMXhiaWNaUU5wWWRTclpKMUQ5dHgzSEhNaHhSRTBxNEZQbjhtcFpTVFR3Q2dIZFY5eEN6UVdRSUZQaFF4dlE2WTdiSXZiTVFQWnR5Z2R0OE9taUZXQ3FjNG50UQ?oc=5",
           "pubDate": "Tue, 08 Sep 2026 04:31:00 GMT",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1FWNHFVODFpNThKSld2SC1rc2otX2E2WTRmS05mZTVxNGN2dWg1eDdOU0ZGWHNTc3Z4cnYyUGtKYTNNbUM1UEt5ZFF1MFl6T05FVGFVc2hpQmpGekZHRHJVQzBLb0pENzktbFdXdS04OEZWUlVUakhZbjJDdFRHenVaWlA1NVNhS0N2R2lIYXR1RmtiRVhMZ2I2T184Q3N0djJwd1V1UXpNSnR2ZUNIVUFLOFhLMUJ6?oc=5",
           "pubDate": "Tue, 08 Sep 2026 04:23:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "30 years after her death, Gilda embodies Argentina’s enduring faith in folk saints - AP News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRC1BNXZGb3lRdUlKMUtETUpUZ0xVdjhKNHdlLVU1QWhrNDRmNlhTalBTRWp4aHl6c2pBY2Y2aE04VW1TMlp6UDhtMl9mdXBXVExHd2l4U2lzQm5OWDFGb0hSdm9oLXdJNndJM1ZIeFgxV0k1ZVVLYmtTN3UxcThlWm1PR2dUYUp6VmtSMWZaYUYwUXk5ZWI4aUJSdF9kejdIX2ZDU1o2RkljNjlOZzgwcTMwUW1JbVlyWEdEYkdVdk9qRTdW?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 04:23:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T07:25:14.558Z"
+      "updatedAt": "2026-09-08T07:50:15.410Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Iceland summons US ambassador after Trump posts map showing island under American flag - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTFZqbTh6aW5ES3JOQ05yZ0k4Tk1Xc0dEd3FRTl9mZ0JQV05xc1RzQXExZVR6em5rMXhrZS1fNmFfcTdDaVNwZUFXTTNaVElmYlNfWEYzM2FqTy1FTGVrOURnTHpVeWFTY25oNVMxdkFkOTBqQWJxdlgxbDlkY081SVE1U0ZGNkc1a2pIMGNlTVZNWkNVbXhIOXFSNWQxNWZ0U1FIdXcxRXFtU2dBVFBLdTF3djl5aDd2VWVFRXdfRkc?oc=5",
           "pubDate": "Tue, 08 Sep 2026 06:44:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nepal rescue focused on workers trapped in three tunnels - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYnZVXzVfbzMwSU9tX2tTTTBISFZ5eE44QmF0YlIzVEZMY2lxOVpnS0VJeVd5bWktRHVScEM4T283MjBKdFlVMXVGSUNEbk9nY2l1Zk1ZUGVmakNobV9yRl9kZ3hDR1lOMjhXNDRPNXVxZk1qLTBGbC1aYnlVZ2xZY2phcGdvQVJISFUzTjNpN3Y0bHhPNnlsYVNLOTZ4VWRfRzA3Rm1ReWRtaFdIb193?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 06:11:00 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Hormuz traffic slows after Iran threatens retaliation for US attacks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVZqbU1CYlBIcWpOcEhmWWNHbk1PaUxMa1REWVpsUnpHcEgySUVnWDZ5cFJJbG9tZ1IyV1A1UXFocFEzQkRZVmNNWVNkVlEzZWc4TExyVnNvdWJ2Tjg3a0swQUlKbXo3VzlncDNqZ2w2MUJVLVpJRVBFcXdlR3lpSW5CMVZneGtYcG51MWJZSkpLZmhpSzlrLUNoUXFXTlhQSm8xS25kdEhKM1VOa2pFdV85dnBRNENqWXc?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 04:43:29 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Global diesel supply to stay tight through winter, industry execs say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbE9jTUR2MDZ5WkRkbkcyUzZ4ZU5FSGdxelEzbjltaVNKZ1RaTjRvZF9NSWRaV3gycXpydENmdXdITGE4eGFQMW9ZYTAyV21fSldhYjlYWG5vN0NSa0J0OXhXWXA2WDFMY3d0WG1tRFliVVNNSzRSYnoxMU8zVi1yQXUyNDZzOFRqTkhINVVjZGhiLWZnek9KcDItWUZRWGNzQzVPT3p3T2EyMzZnaVRnb09ZSE83X2dT?oc=5",
           "pubDate": "Tue, 08 Sep 2026 04:42:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Indian shares fall as persistent Middle East risks push up oil prices - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTlsdDdCYlVfZ1VEeEUxRlczcDRrYkVhc2pQclVYTmpod3hUWmRWa01RbkhIVlQ1LXhVN3VZYW5ZWldxODFFSXU1NGhCV3NIczRnOXFrVFQ1dk5CbDV4c3FPMDFWN2hheGpzYVQ2c1dqeFE3LWtCX3o2ZldLR3lqcm1SLTczWXBFSXVNcFl3WkdQUzZxemsxaThrUmNXdlhsMFEzLXdleUgyaWdOd29n?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 04:41:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: The yen also rises - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEU0NHBtaXJmZE1oRFZ0cVhYQXlZRHhZdXdLUGtja3ZLdFVVeDZxYmlzcmMyVEllcVBfVmhQR1NadDFrVlk1M3Jya3ZoYTFaaC1mN21pSkVDX01qS2hZQlc3VDVtS0ZTcnlVS1gwcDN6aldFY2hQRGJhTGVza2haZlg2TENxRU1yc01VWU84YUE?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 04:31:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T07:25:14.985Z"
+      "updatedAt": "2026-09-08T07:50:15.836Z"
     }
   ]
 }
