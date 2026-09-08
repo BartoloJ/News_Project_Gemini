@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-08T05:25:12.540Z",
-  "lastChecked": "2026-09-08T05:25:12.540Z",
-  "lastUpdated": "2026-09-08T05:25:12.540Z",
-  "generatedAt": "2026-09-08T05:25:12.540Z",
+  "fetchedAt": "2026-09-08T05:50:20.832Z",
+  "lastChecked": "2026-09-08T05:50:20.832Z",
+  "lastUpdated": "2026-09-08T05:50:20.832Z",
+  "generatedAt": "2026-09-08T05:50:20.832Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T05:25:11.564Z"
+      "updatedAt": "2026-09-08T05:50:19.934Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Russia and North Korea open the first road across their shared border",
+          "link": "https://www.npr.org/2026/09/08/g-s1-142285/russia-north-korea-border",
+          "pubDate": "Tue, 08 Sep 2026 01:40:44 -0400",
+          "source": "NPR"
+        },
         {
           "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
           "link": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
           "pubDate": "Sun, 06 Sep 2026 15:54:28 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Germany's far-right achieves an electoral breakthrough in key state election",
-          "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
-          "pubDate": "Sun, 06 Sep 2026 12:36:48 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T05:25:11.723Z"
+      "updatedAt": "2026-09-08T05:50:20.094Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,19 @@
         {
           "title": "Nepal - AP News",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBIXzBaaFNydjNXWnZnc0tzQm54RFd2ak5PSUtEdFp3dEhBZk15cW1qb2x6TThiS0F2NHVfQW9iN0xCQQ?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 04:14:31 GMT",
+          "pubDate": "Tue, 08 Sep 2026 04:36:31 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Flights to and from Indonesia’s capital resume after volcanic eruption forced a 2-day closure - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1FWNHFVODFpNThKSld2SC1rc2otX2E2WTRmS05mZTVxNGN2dWg1eDdOU0ZGWHNTc3Z4cnYyUGtKYTNNbUM1UEt5ZFF1MFl6T05FVGFVc2hpQmpGekZHRHJVQzBLb0pENzktbFdXdS04OEZWUlVUakhZbjJDdFRHenVaWlA1NVNhS0N2R2lIYXR1RmtiRVhMZ2I2T184Q3N0djJwd1V1UXpNSnR2ZUNIVUFLOFhLMUJ6?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 04:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "China’s Huawei Technologies faces racketeering trial in New York - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ1gzVGJsbFFiZlRvLU1ZVi1SdmhYRzc2cmJTSnpyN2ZzMFdfbzZFNXNjUThCci13cWh0c0taTzUwc3dTYU1hSTM4NnJoNEtjYlJEWjVHWHY5aVducmhjNmJkZFJwUFBCeFRBUUZHTVlfY2JVdmFJeG12SGpBV0tGVTFjZk01S3czNVBDT0Q2TUVxMjhHRHdV?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 04:19:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPam4xcVhHQmlSYktKclN5RDB2ZndxMy1Hb0VBcmJmRml3RVlaNlZ0QXlmSlJqRjV2UHk3ZTlZa1ZOUTVGbThtbEV4U084dlpLS0dBQmtkUVh1akhVcHlqcGlvOTVnTUVNUlZ2UXE2N1hwa0hqcVczWE5ubXZ1VHlTcTl4YWpUcFZvak1DUw?oc=5",
           "pubDate": "Tue, 08 Sep 2026 03:59:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Russia and North Korea open the first road across their shared border - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaTRhU181U3FuelZ6LXE5YlZwRXFaWHpRZl9FNklleFd4NEk3MHJpa3FuTGlyNDdNaHphVU4tZk5fWHNOcEdTd2NadWhVM3k2LXRncVNxT3IzTEprN2J3bWZ4LVhrSjVNWlp2TEIxenZKVm1xaDNLNEUxbjV3TkcwWFlfUzhVSi1fOEE1bFZKRUVfYnVqU2hkbzJTcw?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 03:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Naomi Osaka exits US Open, but not before displaying one more swaggy fashion ensemble - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcVp2Y2tCV3BJR01ZX2otcUJ6VjUzLWdpOVpieF9BQkdlVkN4bkVGUWdEcFhLZTlVYW1kNk1seEwzamlzYWt0bGY5MHF4Rk1qMnB0RVdWSzlRMlR6RUZXUzhobGY3c194UGdkMUtPUk5xQ1A1V0hFQXlLa2NwZ3pMdUJMd0F1d0M5MWNtc2VxOTI?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 02:35:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T05:25:12.171Z"
+      "updatedAt": "2026-09-08T05:50:20.494Z"
     },
     {
       "name": "Reuters",
@@ -197,12 +197,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Indian shares open lower as oil climbs on rising Mideast risks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTlsdDdCYlVfZ1VEeEUxRlczcDRrYkVhc2pQclVYTmpod3hUWmRWa01RbkhIVlQ1LXhVN3VZYW5ZWldxODFFSXU1NGhCV3NIczRnOXFrVFQ1dk5CbDV4c3FPMDFWN2hheGpzYVQ2c1dqeFE3LWtCX3o2ZldLR3lqcm1SLTczWXBFSXVNcFl3WkdQUzZxemsxaThrUmNXdlhsMFEzLXdleUgyaWdOd29n?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 03:49:25 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "China's exports surge as demand for high-tech, AI help prop up economic growth - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmQ2cXNneko5R0o0eDZ1MUVmY25oRkhpeVNDUXJFNVdhMDV1eDg1TnFFWjg4Z1pqUk9lYTZoWHUyblNqT1NZRDlhMEFjN2REVm9CWFBhM2hIbkVLd2lOQ1otRUtpNlFLNmkxeEdYUzRVbUs0MGF5R1VfOHZjMkJzUllpODZja01aZWdDM2R4cl82WHZldExHcV9IN2x2S3d5eFZjYmVn?oc=5",
           "pubDate": "Tue, 08 Sep 2026 02:45:00 GMT",
@@ -215,14 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "Why isn't oil above $100 despite supply disruptions? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEwxQTVrUWVzenpNQVoxdkFTWDRCckVzNmNFR1B4bTJoSDhOVTZZZVlFb2FjMHdGWFU2WlpfbmE2eksxeXBSM1hhcnZwSDUyTVJ3M2dJaUtqejdmY3FBSWRvZmFkOVVGeVdZbmFrTUlpZ0lIWTdCYTdpcUx5MHV3ZFBnSFE3dGV4cG9JYWlpR2J5MDE0WjdueUV3V1FkaEc5ZUlR?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 02:00:00 GMT",
+          "title": "Russia to strip contract soldiers of one-off payment if laws violated at home - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOGZrOFlCMEVFaXBnLVZYd2VYbWZ0ZHY5NnNNVVZDa2MtWkxjaTYxQWVLR0Y4eXRBTC1tblc5WmtPa0phZjBOdU1pWWFpU1ZLS2ZJWkR3WEFvZmhVNjlNSXRaYlBTVXdnbGNtdS1yY0Rxa2V2SDEwV0x4bW9wcWVPclV5Tk5DQU1qWTFpV3JLTW82WmkzTmFwaGUxN2NaNm1HaW5GYU9TOEIwZW4zOFhOdFlQcG1GelBm?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 02:24:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Indian shares fall as persistent Middle East risks push up oil prices - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTlsdDdCYlVfZ1VEeEUxRlczcDRrYkVhc2pQclVYTmpod3hUWmRWa01RbkhIVlQ1LXhVN3VZYW5ZWldxODFFSXU1NGhCV3NIczRnOXFrVFQ1dk5CbDV4c3FPMDFWN2hheGpzYVQ2c1dqeFE3LWtCX3o2ZldLR3lqcm1SLTczWXBFSXVNcFl3WkdQUzZxemsxaThrUmNXdlhsMFEzLXdleUgyaWdOd29n?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 02:15:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T05:25:12.540Z"
+      "updatedAt": "2026-09-08T05:50:20.831Z"
     }
   ]
 }
