@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-08T08:00:19.012Z",
-  "lastChecked": "2026-09-08T08:00:19.012Z",
-  "lastUpdated": "2026-09-08T08:00:19.012Z",
-  "generatedAt": "2026-09-08T08:00:19.012Z",
+  "fetchedAt": "2026-09-08T08:25:14.896Z",
+  "lastChecked": "2026-09-08T08:25:14.896Z",
+  "lastUpdated": "2026-09-08T08:25:14.896Z",
+  "generatedAt": "2026-09-08T08:25:14.896Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T08:00:17.946Z"
+      "updatedAt": "2026-09-08T08:25:13.654Z"
     },
     {
       "name": "NPR",
@@ -93,6 +93,12 @@
           "source": "NPR"
         },
         {
+          "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
+          "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+          "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
           "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
           "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
           "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
-          "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
-          "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T08:00:18.102Z"
+      "updatedAt": "2026-09-08T08:25:14.013Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Africa News Reports | Latest News in Africa - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBJQmVmQkNENXZhMGRlTFh2Mkh6cUhHc2REN3prU2RDdkNlSHZ5bDRoZDVrUG9ieVpGMXM5VmZVMWFhWXM?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 08:17:50 GMT",
+          "source": "AP News"
+        },
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
@@ -124,15 +130,15 @@
           "source": "AP News"
         },
         {
-          "title": "Africa News Reports | Latest News in Africa - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBJQmVmQkNENXZhMGRlTFh2Mkh6cUhHc2REN3prU2RDdkNlSHZ5bDRoZDVrUG9ieVpGMXM5VmZVMWFhWXM?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 07:42:11 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "China’s exports pick up in August, jumping 25% as its trade surplus widens - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObHZITmVCeWxybnNhVVVxNmJHNGZoTVF4aGxNaXJ2U3FobzdXY1haaUticWMzQmJmekNYMEFVaS04UVE0VzR2QjB4Tzd6WVZkZ3Rzd3JDX3ZJejZYSmNsMWczNkdYSDY3VEZzTjlfVlpJSTVMT0d5MC1qeG9RTW1WLWp0dnpsU2I1QTIzbEVvSTlCdjFrUl9HaWpMYkF1TGd6M3Bv?oc=5",
           "pubDate": "Tue, 08 Sep 2026 06:28:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russia and North Korea open the first road link across shared border - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaTRhU181U3FuelZ6LXE5YlZwRXFaWHpRZl9FNklleFd4NEk3MHJpa3FuTGlyNDdNaHphVU4tZk5fWHNOcEdTd2NadWhVM3k2LXRncVNxT3IzTEprN2J3bWZ4LVhrSjVNWlp2TEIxenZKVm1xaDNLNEUxbjV3TkcwWFlfUzhVSi1fOEE1bFZKRUVfYnVqU2hkbzJTcw?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 06:20:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,24 +164,18 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEZyQ2h5eVdKTEwzM1JOWHB5WldWVVNlcmhqOVVtNk9Sd054STBTQ1F4anI2cWNoV1o3SG5fd0lDaDRfWEpFVTdnU1NuZG1RQ2hKOHlYa1N2V05FU3drclBiSDRnLXU4dW04Rms4N2pmdElHVjl5OVREYmk3aVhmOXdQSjVqcmQ2SzJhRm4tY01rcjBTMHprS3l6VWQ2dXNZSG9STklHcHR5MnZZM0ZkLTBkMzVuR1g3VzE4?oc=5",
           "pubDate": "Tue, 08 Sep 2026 05:08:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Aaron Judge activated from 60-day injured list by New York Yankees - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdnQycDlueE9JOFJfMUxUSm5BX2k5M2lobGU4WWNKcUpQVTluMXhiaWNaUU5wWWRTclpKMUQ5dHgzSEhNaHhSRTBxNEZQbjhtcFpTVFR3Q2dIZFY5eEN6UVdRSUZQaFF4dlE2WTdiSXZiTVFQWnR5Z2R0OE9taUZXQ3FjNG50UQ?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 04:31:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T08:00:18.618Z"
+      "updatedAt": "2026-09-08T08:25:14.508Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Thieves rob three paintings from French Riviera's Renoir Museum - Reuters",
+          "title": "Thieves steal three paintings from Renoir Museum on French Riviera - Reuters",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVF9NZ2J0MlphUFRFcXNIX1BPa1pJQXI0RV9ibDJOcmZJTUdHcm9VcmNMQndKY0NmTEZzaThwN3RadGdpWnVVd3JVRkF2SEg3a0FOMk5pRjRMVzhkQnVzVXF5Zk00WEdBUDVjME1NZHgtUjVma3E4b3NKYWJrZFQtOFdPZTVMQi1DNXNqT0lpcVNFaHlEZ2NSYjh5VWZCZUhw?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 07:11:37 GMT",
+          "pubDate": "Tue, 08 Sep 2026 08:00:34 GMT",
           "source": "Reuters"
         },
         {
@@ -185,9 +185,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Germany risks potential winter gas shortage due low storage levels, lobby group says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnBOWVQ4SDZrTUZweEJWTHFQUTJFTFNNM3ZXaHVPa0VNLXA0ZUdiRkczZ1VybUtob2RXS1hlR2k4NHNrengyM2RrcGRfN0FRUzROUWRObG84dXh6VVEtLXF6dC1BbjhtYk9YZXVlN0w4cnF6c09YVlM3ME85OFhJR3hNN2o3Q0lWcEwxN2lPYkNjdFhSOVhGSGV2YnVveEFoWUcyMmduWlowZE55NGpvMVJzTW1qek9TcWN5T1kxdG1hR3F5eDZxT0Rn?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 06:14:06 GMT",
+          "title": "South Korea's power demand set to soar on AI boom as nation weighs expanding nuclear energy - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbDRHQ2lNc29oTV9XNHhGY3RFZ0szbDFQOGV1akd4d1FnYk5ORmF3ZUw0VDQwTHdzdVFndjBYMHg0MzM2NDA2X2xiZml4WnV0X3ZOMndrM1NERFloVjJYZVZHSnFLSm5ENG5vVkVQVy1LTExwWkN1SkttQ3BSdHZFYVJ1XzVJc21mZ0dzajlnUTBIV18tYkp0a3VybW9oN0hlTFM2R2lCM0JBdFgya1JyUjlaX2IxdVQ3NllGZTFzLWNxZ2lr?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 06:26:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UK to announce a trade ban on Israeli West Bank goods - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmlBQXFvaFZkMk1ZeXQ3VUU4VUJJc2oxWWxUWGp1YVFwdXNKNko2OUM4OC1mUmExUmFsc0pxOWRDOWxqbFE4dTI1X1B3SWY1TDQ5eWotM1NhczFqeVI0NkthNmY1SWVkR1NwbEJTV3dCbS1SR2lMcTBZbVpOZTZicnBXdTQ5dEppd1dFbnM4OXlrNzJU?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 06:13:00 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "ASML to work with major chipmakers to use latest tools for larger chips - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGlERHBBRHI0TlBlczZQVGdMT2Z6b1RHdV9ZV2VXTkNfcWpmVkl5alFIMTBVaHppb3BNZTZTUHNCUmthLWNUNGhpekpCUVdKUE94TFozMEMxMVNiYzdsNFlZbHFmNkRFRWlTVEs2SkJpQ2dHeDdybkxjNG01X2xuNWVPSEd3MlJzX2dnbEhLYlZxZHkta0NPc1dJS1RNMkYxTDI2WWMydUpraHZnMEhSc1d2V2hwajNfMVBj?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 06:06:35 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "The yen's sudden surge is upsetting the carry trade faithful - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1plbXFDY3pySVZaY2JrN2JYWUdTWFZGcGFucGMteXpiT1lKTkUtNlcySkpXYlNVZE1jLXNiQlgzOTAtNGlwdy1UUFNoN203NGRYbURYaEdpZjVpdmxNUkhXdm9IalR1YmU0VVBZR1ZyaWU4MkhoQUJ2eDJLei10UlVUR29LQzVHdXJSNTlDOW1MYUhubTVjTlF1S2VpdkgwcmxiNkJLMGhIQQ?oc=5",
           "pubDate": "Tue, 08 Sep 2026 05:17:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "French AI company Mistral hits $24 billion valuation in funding round - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzZndFBZYk1SQ19xOVJYSXR1ZHdKa2p2a0RSYTVfeWVicHRLZ2JOdG5zc3hibHhJYWh1V3pIVEhDaV9Wc2xQV2RlYkNkTEZJSDV2V1V6aGloYXVPcFNtMHlCU1ZsTnR5UEZTNTI5WTExa1A4Vy0xZjN4ZFE3TVUzN2tUWFNnc3V2aXNBRldFWXlGYnFwcGtGVkFtRE9HTDktVUhJR09HVUwtdHZmNHdjWGZCTkw?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 05:03:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Congo extends state control over mining with bid to lock down geological data - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTFl4Y3RaTV9fZGhuWnB2NjZmaGVGWUs1eVBPR0llVmZQSlRpOGFBWllBaGFoQ0s1WmNIWUFTY1lKYk1zVEU3ZGcwbnQ0dkhuSS1XOGRSUUpMRlBXZ0lheVZiYklxLVF0Nklnai1HZ1l3ZFd6bjlNYTBkTW4yblZ0b3BrZEJhWWY1NVFHMUJWLWxTS1ZFd0kzdXJ2WF94ZnFjX1h2TXlzMW1lc0o3bFZhZ1BMVkxKMlZ6a3R0NGJUNkU?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 05:03:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Singapore PM proposes big salary increase for ministers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa0FKc2JkVmcyeWxMbnB5NnQ4OEhNUTNNSVJfeV9zZnJjMW5yelowYjJ3bXVTZV9zdmlTSEQwS0oyV3prN1FOZzZ0anJvdmtnU2lpOFBkd3pDTTdkdGVoTWtSUXlYdVpSdjQyQ2dvejl6YzZ4cUdCNU4xVFZJZ0VVRkJpQ1lDWWlRQW9IZDY1RnZXdUlUR2FKTDE5eHJBVkVyNnFYaW5MZm1FZw?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 04:56:00 GMT",
+          "title": "China's car exports stay strong in August while domestic sales decline worsens - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ2VEOFBFc3FIc0xlQVlKbUd3UjRSTE92NUFlQXI5c3Jlb0pMVk9CUGl4R2czaDNTak9rSHNmYVJRVjVtRmdDTnZPQ3kzUHBkdnJBSnhYaW1jVjQ4YkNNNl9uRHppNi00c0tzcy0zUHlSU2o3Zkd3V2Vvd2tzVGFGa2hDcFNqdzMzQ0hYNzFubUpyUEx0aDJlUjZSb1lzcXBlRk92cFFtN24xN1dNak5GV2RJanc0cDVBRTlXWV9uVWt0NV8wMFplVUhFOFIydw?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 05:09:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T08:00:19.012Z"
+      "updatedAt": "2026-09-08T08:25:14.896Z"
     }
   ]
 }
