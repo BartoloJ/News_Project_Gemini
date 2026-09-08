@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-08T10:25:13.197Z",
-  "lastChecked": "2026-09-08T10:25:13.197Z",
-  "lastUpdated": "2026-09-08T10:25:13.197Z",
-  "generatedAt": "2026-09-08T10:25:13.197Z",
+  "fetchedAt": "2026-09-08T10:50:15.249Z",
+  "lastChecked": "2026-09-08T10:50:15.249Z",
+  "lastUpdated": "2026-09-08T10:50:15.249Z",
+  "generatedAt": "2026-09-08T10:50:15.249Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T10:25:12.001Z"
+      "updatedAt": "2026-09-08T10:50:14.309Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Has the economy gone C-shaped?",
+          "link": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
+          "pubDate": "Tue, 08 Sep 2026 06:30:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
           "link": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
@@ -103,24 +109,36 @@
           "link": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
           "pubDate": "Mon, 07 Sep 2026 09:31:16 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
-          "link": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
-          "pubDate": "Mon, 07 Sep 2026 07:11:51 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T10:25:12.290Z"
+      "updatedAt": "2026-09-08T10:50:14.423Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Africa News Reports | Latest News in Africa - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBJQmVmQkNENXZhMGRlTFh2Mkh6cUhHc2REN3prU2RDdkNlSHZ5bDRoZDVrUG9ieVpGMXM5VmZVMWFhWXM?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 10:39:57 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2xsZzlRWW5pdlh4dTJoajN2OTNFVWpjYmFvRkI1MEdiSHh5ZzYzODE5MzkxckFwQzFuOEVmd1FOLXNJbkdWb2h0MnZjUFEydkswUUpZOHhxQ1dWUVotLVBGbk1IbTdEVlp6bDBPVVhYeFVkTVAwcVFITjhFclZtZW1NMlhpd0dYTHJudWV1SQ?oc=5",
           "pubDate": "Tue, 08 Sep 2026 10:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "UK government will ban goods from Israeli settlements in the West Bank in a toughening of its stance - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQnNUUkpEenk1MDJhTHpGbXp6VER2bDhydkpYa3BmQVhtR3A3MDcwOTNHSUwwX1J3aTQxeVA1NG9YTDhiNkdORk85UUpaTHE3RUNOSk5fMWRVNENmQ0poSlp3dXZyNXJocndqMkdOTVhPSDJlbFBqTE0wLThJc1dWMUxFTjQ1OXdKZUtOTEJiTl9Bd0pNTHNSUzlJWWYwN013WGc?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 10:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Hungary orders 10 Russian diplomats to leave the country over activities deemed unacceptable - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXhUSm92S2lPWFZrTHdETVd1clVYb0dOcW1vQnNnYTE5OFJMWXRrOE5Qb00zdkxmTmpvOUhpeTBscmdVVERzb1duSVdQSkZ2V0t1N2VVM1VQcEd2aWFqR0pvelRSYVo2Y3hoMHBuS25hVDdDWnRyRFB5M3N2ekIzUjQ3LTZIWEFTMWhGNUw1RnMxbDlETldwakJsZGlQWFFxd1Y1OEMzMUlGOUxuNDRyemtR?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 09:53:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,36 +164,42 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjZpdk5lamRFN2N3Zzhram5OR2c3R0NwYno1dTZ6TnoyTnpZalJzanpYTXlBNGZzTHBKU25PZm5rTGlLUS1CRjVZZ1hKeHpoMGlMWjMxQ1Fta0hsdEFKNnBTaWVtNER4NUE3THprSmp1VWpUV2w0QU5GbDJZTXdUUF9zYjZLUDI5aDFYeXNHQXdJdTV3UWsycXRmRG1Nb0Y1b0E?oc=5",
           "pubDate": "Tue, 08 Sep 2026 07:20:29 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Most states prompt schools to teach about 9/11, but the details differ, AP finds - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTJ1dGtaOVVEWldzUWE0QjEzMU1wYmR1bGlibW1jWXB1anFHdkMya3ZrLWpnQ1NMckF6ZU1lVzh4cnlhamI3OS1vaDVZdFBSM3lISi15S3dLUWRlbUluZF9JVkZNUDJGUzV6bENvbDdqRnJHcWdySFl2X2tIQjl1dWtFaUtKazBod0d4dlAtTmMtTERoM0NBWTJ5N2Y2LVN5M3h0bA?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 07:11:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russian barrage and Ukrainian strike kill 4 people, ending pause in attacks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanJSdVc3RmFTc0NYRVNXX3hwa2FLLUtvTE9pNDZVX0oxSmczbFJYOThqcF94QS1QY0NwTzdOWmVjSzQ2LUpMelEyM3hMVENBX21CYmpNR2JpQXNOMzhTQXVUdmFoMjZuY01FRjFMN2JYMmVnczZ3c2s5S2xBNFFCSzR3VUpJVFRMSGhpNmxLUlhiSjJvYk5IZm9TU2NpR3dPQ0lVWWkxdG1qVTg?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 07:08:20 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Parched summer in the Rockies sends hungry bears into urban areas and confrontations with people - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmdLdUU1UnZXcS0xeGlDajBWMHlqdDU2cGFIY0xhTzVYWWE5U0F3emthN2dKNEtxTFg1cy1mZnRmUVRhNGM4eDdqdEY1eDg5d0VNam5Cb29LWmlfaWlpWUcyazdNbFZPRE5DRHpHeElLWTJ3SHNKQkF2UXVhZm5zX0M3NmU5YmpmNVFJbF9Ma2ZYMjJrWEVOalJVNUpUWms?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 06:50:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T10:25:12.746Z"
+      "updatedAt": "2026-09-08T10:50:14.873Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Russia does not seek 'de-dollarisation', open to payment methods, Kremlin says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2FPbUZjWHM2R3FYTWNrUkhIeXNlX1lEdjNXVkNfVlM2MTYyNVBaY3oyV1BySjlZcXdkM05VMlZSamktVDFDdUgwSllWMHh4UnhCc0c5QU4zZE54N3k2YXNhWW4tZy1lMWowV3NQT3lqYnlzdkFpX21aV3pRUUhHc3FBeTJwcTJoczc0OVdMd2xFLURDdVpiMkJGSEF0Yi1tQVNYY1d3ZGF2czZFRHZSdHhpbG1hT3JsQVFfQXdyRThmUQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 10:13:15 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Apple's Ternus faces AI test as foldable iPhone takes center stage - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmV4NTJaYXg0aHhFODItdnhNd292QjhkM1RvMGFmTlJ5cEhkc2VfU1I2Y3BqNHZpdDJmeWZaNlRVdTlGczJTZXZQLXY5RFBIX2xCYlpCaGFaN05DY1BJbmdQTm9DckJuaXJLSmtXSE45Zm90RlR5NEJJX2g2YUdLV1k0S1M1bnByX2VOUC1JeU9iQUFkQnVfbHFYWlNvNncxNXFfdDdYNExiUDg4TnlyUlZfcEF6T2dJc0ZXTlpzSGI?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 10:11:47 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Thieves steal Renoir paintings from museum on French Riviera - Reuters",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVF9NZ2J0MlphUFRFcXNIX1BPa1pJQXI0RV9ibDJOcmZJTUdHcm9VcmNMQndKY0NmTEZzaThwN3RadGdpWnVVd3JVRkF2SEg3a0FOMk5pRjRMVzhkQnVzVXF5Zk00WEdBUDVjME1NZHgtUjVma3E4b3NKYWJrZFQtOFdPZTVMQi1DNXNqT0lpcVNFaHlEZ2NSYjh5VWZCZUhw?oc=5",
           "pubDate": "Tue, 08 Sep 2026 10:04:47 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Harry and Meghan surprised by King Charles' letter on their status - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNE5DUWtIN2NzdlVmbE5QS0VWZkVxc1ZWaW5qdmFFM0F0dXJZRnphTkFGUGllVGh0bEZCbGZSRWw2TE5NTTdrZXhtU19jYmxyM0RiWWlXMWltbXJmNE9lclZCZEt1U0Q5bEJDMnVDM25DeHJXZW1ocXhYNmU3SWMtM0puSGxiZnJ4RGNFTkdoaHBFX3N0cWhCdU8wSWRKNm9fSEJfa2Rn?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 10:02:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Raids, shutdowns, warning labels - India's unprecedented food safety push - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaWJrbWRuQ0x3SUhKNDd5ZWdqRzVwdnNfcDgtYnhwUklvMnZFXy1SRVVIYUYwMVVGT3EzNEh5TFV5dWtGUnYyQnJzRzd1VmRoVkYtLTBxYnZDd005QklEaWpVM1h6c3dpV2pDX2xXUWJpdmlMZl9SaUo3cDJEa0VISlpfYzh2bG1mSHRZWVhhekZqZFJPYndlMTRaT3pKRm45cGhrLXNlNTdYMEFxXy1vU0lUVGhGTE5KcC1ySGNB?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 09:41:19 GMT",
           "source": "Reuters"
         },
         {
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQVRWUzFSOEpqd3BuRml4Zk96RVU0QWFzdEx3SV9sU0dLSm4yUWJ6aThoczY1aF9EdGxJZk94M0FEekI0ZVVpRkI4bmZiWk5jWWE2T2FrNjFFVVFCWXcwZkNBbjBKM2N4S1kyYUFkSldOcWs2SkUzUDhSSjRxZHdONFh0bFE1dTFSclpwbU9FR0xXdWtwRjB0bU5QUmo2S0tHa1VkSmNmUno5RzNHMk5hTXh4MDhBZzQ?oc=5",
           "pubDate": "Tue, 08 Sep 2026 09:08:56 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Argentina to file criminal charges against Navitas Petroleum over Falklands drilling - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU2Zody1sdEM2d000VW1iTzVuRlhxRlppU2l0anVYdUZrei0wam5iX0RKV0ZQNG1VWENWVHViM2RfSnNhZFhiT3h5bkR4SkR1ZEhiTzgzZUtzNXE0aW5PbjdrNFdLeklkR3I1aW9HVDQtYnVxX09sTFlBaHBUMXVXZjNOSjJyckRIYVhnUUJiaXVVdnVMdDhyamEzRDhmZ1FrZV82WU5xcW5wV3NuREF2bzIwWFVhMDgzMXg0bU4wQXQ?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 09:05:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "How two Israeli brothers are driving a West Bank settler land grab - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQTF3TDVzSnZXZkRQaUc1cFpZdktRRGQ1R2JvcVNJQmFtbnZBUThubGFkS21MVHp1clVROTFGX05GUFQzZGVWTFV0TVpNSkI0RU5KSU9XZjQxVkQ5NUozM2FBSTl3eHVibzB2TUJnRDgxTXJRYXRYRmI1Y01zWHhrVUMyTUxLdVpnajRQOUFSR2J2czAxemMtazhWX0JuNnJfV2VMR3p5ZXN4LU9FVk1sMXh6OTlGdzFUakE?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 09:00:48 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Suspected migrant smugglers go on trial in Paris over mass drowning in Channel - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb081WXZKM05zdUxFYUVjSy1iS1VNVXpZUllvdDZLY2VlSF9SaEM3TlExWlFhYzZZUDVCR0JoRTRTbkpRLVEtMlVIdGVMQ2JiOXBsSmROMjhMbi1FanR3d202aXRTQ19QYXdLanR3R0Y4VXo1Rmp2dmFZb1FXSm16WVozcjhFZHNIUkdnSlRUVWZid1lPY09WT1cyREsyNVRpbGJadlZVQzB3RTRudGl4Mg?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 09:00:29 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "UK to sanction Israeli West Bank settlements in support for two-state solution - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmlBQXFvaFZkMk1ZeXQ3VUU4VUJJc2oxWWxUWGp1YVFwdXNKNko2OUM4OC1mUmExUmFsc0pxOWRDOWxqbFE4dTI1X1B3SWY1TDQ5eWotM1NhczFqeVI0NkthNmY1SWVkR1NwbEJTV3dCbS1SR2lMcTBZbVpOZTZicnBXdTQ5dEppd1dFbnM4OXlrNzJU?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 08:32:29 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T10:25:13.197Z"
+      "updatedAt": "2026-09-08T10:50:15.249Z"
     }
   ]
 }
