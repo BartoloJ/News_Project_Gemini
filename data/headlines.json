@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-08T22:25:12.664Z",
-  "lastChecked": "2026-09-08T22:25:12.664Z",
-  "lastUpdated": "2026-09-08T22:25:12.664Z",
-  "generatedAt": "2026-09-08T22:25:12.664Z",
+  "fetchedAt": "2026-09-08T22:50:22.385Z",
+  "lastChecked": "2026-09-08T22:50:22.385Z",
+  "lastUpdated": "2026-09-08T22:50:22.385Z",
+  "generatedAt": "2026-09-08T22:50:22.385Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T22:25:11.221Z"
+      "updatedAt": "2026-09-08T22:50:21.228Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T22:25:11.462Z"
+      "updatedAt": "2026-09-08T22:50:21.504Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Brazil Supreme Court removes federal police chief, Lula appeals the decision - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXNmTl93NVNpaXE4emtReFdSb0RWWVBsU2FITl9yWF9iZUhZMFRSTmJfa3pqb2xNUmt4VHl5OGxWNGp0SFNod0ViRjFBaXJQaFVFT0FBUDhjaHd0a0JsNERUWmZpeU9XMHFzNDJ0Y0ZVMWw3RDJLYlV5VWdtSGdMTkhNbDFlT0J0RnI1S1ljOG9IcE1IQWRUV21CVVdZT3dOTWRoNQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 22:44:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "All 5 killed in Miami cargo jet crash were in a van used by plane cleaners - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzhRUkhJNTh0V0lUSFlIMFVDVk9oeVdMUUJveE95Y2E2bGo3RW8tXzVXMTNiR3ptZ05XUmNwWVR5WklxMGNkamhORnRGQThOUENyR1NpbS03SUVvb2ZuLTk2ckFrQXRvSzN6X3A3RHprYnpQSmp3dnV5WGlNTHBubU9iNVczVVdXcVRiR0ZIRnBQdGJ3ZndBZEUyX2lpY2ItaE5ReThPTHVYZw?oc=5",
@@ -142,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "US strikes Iranian tankers after more attempted missile attacks on Navy warship - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlN5b1FuNFl6ajd5T0Z0MVppWHZ5Y2hFOHJ4dkd0X1dqMGljMHlOX0FZNE9HSXU4SmoxVUVQVEs5OUg2OG8yM1NyazNZQ1VPU1dCS3p0NmNsUk5rVjBMY0xONjRQWGRtTk1vZkNFOC1PWElwcGZmbk9SUzVRS3JCeTlhN25heDc1b0dWbA?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 21:13:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "US hits remaining parts of Iran's aviation sector with sanctions in latest move to isolate Tehran - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakJ2NUxyYjhUX1hndHdnUG4wS09xRFhjM1JXVkNET3hidmk5ejdlX1hJZ2o0MG41bG5ncDlqWGpROUlFR3F1dC1hQ3loSlN0cXZFWDBqNXVPSXFycUk5OTlmckV3ZDlwdlFodmZVQmF4Y3ZUZ0xPMEVHNUcwVXg2Qkw5Nzk0cUFEaWV1cUU4V1pnaDg?oc=5",
           "pubDate": "Tue, 08 Sep 2026 21:10:00 GMT",
@@ -152,30 +164,42 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU19jOVJvYzdtdnBYd2Z3RVQ0UnUxbmNZdG9KMHVhOWhFc1RUUXlXRVBBOXNTSXQ3bmZmTk53c20tdXptaVZxN0liaHd1OVp2RTVFa1NPZTFjWVRDc3RDbjdvbHYxTnhkOGU5dWoyN3JMZklyd1pxYkNiUXpxejFVbzBzRU9Tc3dVeGhQandvSQ?oc=5",
           "pubDate": "Tue, 08 Sep 2026 21:08:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Oil prices keep rising and weigh on Wall Street - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNjVfWE5UYVpZZGgtaVlLWVhNRUU3dFREYjMyWk1QWGpDZjlIb2pmVkhXcmVsSDJGNm1hNGxTMFpBYnl1MFBIOFFOU3hZcWdvd0swT01GSndGLVlXRDhVbnl0cnhPa3p3TVMwR1ZldUVIUlhtU1M4enRTTnc2czl4Zk55ZzZib2taYVNXWi1GRl9MeFFTZ3hEcQ?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 20:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Patriots make Christian Gonzalez the NFL’s highest-paid cornerback, AP sources say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFBKMnBVUW1YbFVGRzBLcXNocTZoLU5EQ0J0Yi1ZSXpuV054Z1FZakxZYlhINjNBbFVfRjZ3U0txdTE4bU1XMnNfeGFYY0JPY3ROLURDWVR5U3oyX2NPa1VEbGRGUGU2djJyTjM0b1ZoN01qcFlVYWFpZnBPZXRoc2djck16WkV0djd6aGRMcW8?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 20:20:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T22:25:12.102Z"
+      "updatedAt": "2026-09-08T22:50:21.962Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Canada's retaliatory tariffs take effect as US trade talks stall - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV2tRQzNWVFljd0NSczFNTXlWRXI0WWtzV1BFNFBURXlDcHRjSHNOcXNzVVMzNFBYbmZpY0l6UU05OU9HSWxVeGRkSlNLS1kxa3J6OXZPcXFCc1RFN1dDdERRakxPaGloYWZqNDFkWEdhOWVZOEdvaF9TWFlEa2dSeHF2LWgzZGttdC1jMDQ4aXpUNDZkT0V0MHlHdnNnTzQxM2l5eUIzWnY5Qjd4bUxDeUNzSUZNVGk0NEx3R1c1SzNOaWZx?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 22:17:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Who are the Houthis, Iran’s allies in Yemen? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN212czZZNnNEYmF3UzlicUQwSG1haUt0SDZLd3pQeHJTWTVmWHZ6NjBFQ0FlYUxyLXU5ZmJiaGpMMHVONXJrcHM5SV9GZVJiY25xdkw0SVB6cElieWJfckgzTGhYOG5XYXFvcjlvWkhhaUU5a0l1TUotVkczc2FCRXkzNHRVaXZCNVcwd1A1dUUtSEY2RnZvTUc0ZmNMM2xTWHhHNmIzd21EbUY3?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 22:16:12 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Air traffic control issue disrupts flights at major UK airports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjFUM1NiblY2enh0S3E5UEZUV0hXby1vNTM3T2twdTVlSEtZeDAyclZmR2dNWHlJdXpDUzVVWXRkWWRLUTZ2WnNYazlQSHRpSU5icjEtZXR0T3A4MW8ySjZCY1ZkNlZ4TGdWOVdseWZ2cXZ4V0lPWjFTV2JlUnVIQnZ0cHdCa3Z6Q05zZHlpUXZuM0dSQU9YV0RyWVF5dnkyRGF2NFczVktWM0lvUHF0dUgwc2ZlZ19VS0E?oc=5",
           "pubDate": "Tue, 08 Sep 2026 21:45:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Supreme Court won't reinstate Republican-drawn congressional map in Missouri - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcUx0Zmh4ajhXNU5ZTVRoeFppNUN4b3NTRHpMRm1iSV9ZTU83ak9mT3otNWNlSXl4UnVfZFVlNjZKeTBYVTRJSV9ZeUFVM2oxRWF2UVhESnd5REREcV93NXVXN1NBLTlldVRxUVpJQ2xURWd1c1R1ZHVGcm5KLTFSZjgtQ3lDZDNtM3ExRXhVdTR2R0NjeTd0d2h2M0ZPdms5WUYxcXEydXpsc1l5dXM0aGFOR2Q0S05O?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 21:38:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 21:31:44 GMT",
           "source": "Reuters"
         },
         {
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLU5LT2VyMl95SlRhUnVCekhEVUlxdC1mdnoyVnR4Sms3bWlsVGdfeFlaTEFTMl9JT1FVTnhqUTZrLXRVUm4zZ1BiV2JtVlRhVDI4cGtkNG1EU2xCQWlhNExUY2tTUWVETFJIZkhlY2Rxb29IR25qb1hSMmlaUmc4cU9DQ1VnT2N0dDh0NGhVam03QnpubzU4LWFqeFFvSUY4TUU1ZlNUT0g1b1l3dEtTN00wV3Y3ME8xX1Z5alVSV3VoTk96OWlGejJR?oc=5",
           "pubDate": "Tue, 08 Sep 2026 21:20:01 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump administration blasts Ford's business deals with Chinese firms - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUxxT0xDWVRud1VVVzV3eXRFTDR2eXRmalJ4Uk1qTmNkWmRBYnl6LVBTTUdDMVFJWllPTVlPQm90Y3JMUE5lZF9MMHI1dG4xQ3dpWmhDblFQbUVRek1HYndoSlV6dXgwUEtFYXllb2xvUDZSTTRkLV9nU043bXlQQmozSlotNTExRGxmbUhHZUtMcDVjeTFlaU9hLTdKMktvc0FNSGZFUU9SMFJLRnBQV0dvOXo4T3A4OHlWSENPdU8yWUVkNTFYUWJtWVY?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 21:04:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "German police detain suspect after sabotage attacks on power grid - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXR3NlBTckZLc3c2Q0NRcmJhVGRycnExeThlUjZCTHpWWFR5M1VRTUIzVWdzenF5NTdZaVQ5U2g4c0dKQmo3d1kyMFQxbVlYX0lYZjJIUGtJQXB2NEpOYkhzOWw0Q1FSdC1ocWtCRDZPYWM4QTRoWmE0ZS1rUEoydURPUmRZOFloM0dNLWdBOU1NQ2ZTdDg5MDN6clVtak9seXVQMnZhMA?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 20:55:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Mexican border shelters empty as Trump crackdown deters migrants heading north - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQREdnVzd3UlRYX3lWX09TTG1yLXJ4ai1wNHpRdTRrNzJXaVZEcXBmS1k3cnVTOHNSb2lZc2tRZ1cwUHMyazkxMjhxU1JPV19sZWNqWi1iMWdlcFNsdHlHanFsMjc5RUh3Vk9POFEyeThEbWNOUTM2WWNUWWFKUHJOa3dpYjRSSjFJVEdneFFsYVFxT0Rvek11eVVwbUJqOWJSbXdFYkd6OGpjWVpNZjJjLThHcjlhX1hzWUdFNWJiQ3l4YkFjdXk4?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 20:53:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "SEC schedules vote on ousting LSU from conference - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWlRjczJ5ZkY3dlllZktUcXZKWWJfalZkNzQySjhndkVOWFRUNEFjck9kU1ZYMGFKdk5mTEdpejlRc1JXdjRfZjVqRTBFTG5QN0ZiU0lqcW1DUF9fc3loUnVsYkIyZGxYQkN5cmFHTVRZbTdWYnNQOUt3UjUzV3FwTDNFc1ZkQlhrUHdRaExtR0x6YTQ?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 20:50:49 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T22:25:12.664Z"
+      "updatedAt": "2026-09-08T22:50:22.385Z"
     }
   ]
 }
