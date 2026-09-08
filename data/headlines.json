@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-08T04:25:16.017Z",
-  "lastChecked": "2026-09-08T04:25:16.017Z",
-  "lastUpdated": "2026-09-08T04:25:16.017Z",
-  "generatedAt": "2026-09-08T04:25:16.017Z",
+  "fetchedAt": "2026-09-08T04:50:17.597Z",
+  "lastChecked": "2026-09-08T04:50:17.597Z",
+  "lastUpdated": "2026-09-08T04:50:17.597Z",
+  "generatedAt": "2026-09-08T04:50:17.597Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T04:25:14.783Z"
+      "updatedAt": "2026-09-08T04:50:16.670Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T04:25:15.095Z"
+      "updatedAt": "2026-09-08T04:50:16.817Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "What to know about Canada’s escalating trade war with the US as Carney retaliates with tariffs - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUHRWc2I4elJ6Ukh6TzhHcF9IUEFEbnZFUkRiYTQ5Nnh2cUUxU3pQYXR0eml3UFFNWGt2bHFBdzJXeEIxRV96dXdBOUY2VzFYZXhVY2hhRmlEcVF0Y0xGNVAwX0ZzZGloOURMTzZ4bERjbDlmWnBzRWoxbVRqYUt4OWJEanc2V3YyTlNGSURSQjlpblJIV2FIT3A3bzBhQQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 04:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Hurricane Lowell expected to pass near one Hawaiian island and cause major rains statewide - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSThYdTJ5Wm5IYnBHcTY4a0I0Y0gzYXlBaWpzRm1SNTdVLUtDWm9BNTM5VHhZdHZhZllBWXlSWV9CUjZ3anlxSFRXdkpfWG1QTXRpRU5tTE4temZqem1weTA4YXhaOVlJR1RjenRKLUlBT2FMejctWDhMbHB2dkhwUWtmbHVuZXYzWkFzcnhuMVR3SHJfS1E?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 04:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "The GOP was confident about keeping its Senate majority. Now the fight for control is wide open - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYndvZEIwTm9zamhwR19hNThHZEhfektqOHlEeVRjbGhTckdCbXJQRFNzc3RmX0dQVW9uSDNMTUxtemNmZ1R1MXpycFVzN0pIS3lma1NNeWxxQzZFcDFrY29pY3c2TUQ3T2lmeTU5UFNHeTI2aTFORWZia3FIUmQwcmdWYjBBUVZOeWZwc1JnaGtad0RtNEdGTWUzZkNfQmgza0ZSU3cxdUttUQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 04:00:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Rybakina overpowers Osaka, will face Zheng in US Open quarterfinals with a chance to become No. 1 - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPam4xcVhHQmlSYktKclN5RDB2ZndxMy1Hb0VBcmJmRml3RVlaNlZ0QXlmSlJqRjV2UHk3ZTlZa1ZOUTVGbThtbEV4U084dlpLS0dBQmtkUVh1akhVcHlqcGlvOTVnTUVNUlZ2UXE2N1hwa0hqcVczWE5ubXZ1VHlTcTl4YWpUcFZvak1DUw?oc=5",
@@ -146,36 +164,36 @@
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTBfZVpuWEZhdTNBM3ByZFpOazRsWHltczliNF8wdk1MeUF6RlloZWJHM2FwM3VJT2RKNExnYk5MLWxoMmNPVDZlUnoya0ZKeUhNOTJva21TRzFLWGxVTll5NmhmanhRaWlYcW1oQlpqd29ZblJYbW9vcjNzTTdNZDFNWWVLalRsTkE?oc=5",
           "pubDate": "Tue, 08 Sep 2026 02:10:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Russia and North Korea open the first road link across shared border - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaTRhU181U3FuelZ6LXE5YlZwRXFaWHpRZl9FNklleFd4NEk3MHJpa3FuTGlyNDdNaHphVU4tZk5fWHNOcEdTd2NadWhVM3k2LXRncVNxT3IzTEprN2J3bWZ4LVhrSjVNWlp2TEIxenZKVm1xaDNLNEUxbjV3TkcwWFlfUzhVSi1fOEE1bFZKRUVfYnVqU2hkbzJTcw?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 01:48:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Houthis accuse Saudi Arabia of a strike on a prison in northern Yemen, killing 7, including a child - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3I0bEdyWHZPdGRnMVRRZ29uRHktMF90VklvUmpfZVpkZWk2X1pTOGhrUWhoQm83ZlJReEozYUgxQWJqX2I3XzNUSE10WXRKMUVycENNWlVGeWtwVUF3QWMyQ3JaQ1l0WVJnRWx5VjZkRHJ4cC1yMVdOU185cHk4V3lGRGsyQmp2T1pjMmluaUptNGZmeHpYT01XRV8tTDRzRmN2SHgtS3RkNm4tWE1FajZR?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 01:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Flights to and from Indonesia’s capital resume after volcanic eruption forced a 2-day closure - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1FWNHFVODFpNThKSld2SC1rc2otX2E2WTRmS05mZTVxNGN2dWg1eDdOU0ZGWHNTc3Z4cnYyUGtKYTNNbUM1UEt5ZFF1MFl6T05FVGFVc2hpQmpGekZHRHJVQzBLb0pENzktbFdXdS04OEZWUlVUakhZbjJDdFRHenVaWlA1NVNhS0N2R2lIYXR1RmtiRVhMZ2I2T184Q3N0djJwd1V1UXpNSnR2ZUNIVUFLOFhLMUJ6?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 01:36:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T04:25:15.604Z"
+      "updatedAt": "2026-09-08T04:50:17.194Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Russian ballistic missiles hit Kyiv as US envoys leave - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbm4tanFsdGRTc1RZb1pRRzE1QkdQR19JUGtmcWdEUWFLUVBXZGljd0xWWXFCSWt5TW1QT0tqRm1Fa2dzS2tibEt2NFdIUldHMHJDSTZ2Mk9McERpVTAxM1hab1dqS0RKekFmaXB5ank1R3VqX3lhTGVlZHMzU0dmZkhpUWhITFBzREQyVWNKTnk0ODlyV0dGc2xHdEt3Y1c5YXc?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 04:10:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Canada's retaliatory tariffs take effect as US trade talks stall - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV2tRQzNWVFljd0NSczFNTXlWRXI0WWtzV1BFNFBURXlDcHRjSHNOcXNzVVMzNFBYbmZpY0l6UU05OU9HSWxVeGRkSlNLS1kxa3J6OXZPcXFCc1RFN1dDdERRakxPaGloYWZqNDFkWEdhOWVZOEdvaF9TWFlEa2dSeHF2LWgzZGttdC1jMDQ4aXpUNDZkT0V0MHlHdnNnTzQxM2l5eUIzWnY5Qjd4bUxDeUNzSUZNVGk0NEx3R1c1SzNOaWZx?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 04:03:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China's exports surge as demand for high-tech, AI help prop up economic growth - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmQ2cXNneko5R0o0eDZ1MUVmY25oRkhpeVNDUXJFNVdhMDV1eDg1TnFFWjg4Z1pqUk9lYTZoWHUyblNqT1NZRDlhMEFjN2REVm9CWFBhM2hIbkVLd2lOQ1otRUtpNlFLNmkxeEdYUzRVbUs0MGF5R1VfOHZjMkJzUllpODZja01aZWdDM2R4cl82WHZldExHcV9IN2x2S3d5eFZjYmVn?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 02:45:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Gold gains as dollar eases with US inflation data on radar - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZVFOMG93MEp4ZjJ0VUtRcWQxVTRKYTJOb3RwbTZpMnNyZlJ5eFdCRGhNTXF4b2MyRGpXWTh0T1N1d28tUGRfSW80bmFNT1RNelFYMTlLU2ctZEZpYmsyNjZRb2ROTnVqMkVuX2Z3UU12UDlCV2cxSmd1MzR2dktuNUtOR3ZXdjR2YnAyUlJDYjFtWmwybURmNEdLMHk3SFBQNVE?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 02:29:43 GMT",
+          "pubDate": "Tue, 08 Sep 2026 02:28:00 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzJTNlNmRkk4ZlAxN0diYXoyblUyaE41UTRRRFpZbURGSk9pZGlTVDc5QkpJSHpqWlRWY0ZjR1M1ZW1sdU5KNmJqUGZ6eTRleGRfektFaDFlMmprZW14T2RodGJMcVlfNG5fMmZTbFhqNERNeGZvVW1CcHQ5MUZ4R0pGbTF3WllEN2hqQkpTVUZrUmVlUnh2UWIwOTJSQU5IZ2pxRGJNelRPdU8wd0dYS0Q4QXB0bWNRSnc?oc=5",
           "pubDate": "Tue, 08 Sep 2026 00:56:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Oil rises as risks of prolonged Mideast conflict heighten supply worries - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTBHazRJMEhoZks2V2o5M2loY0UtV3pnUjMweXB6cXZuVjQtYmhTWV9oSnF0cDhRZGVybzBuNk9fYWRJU1diemp5VDFxZWdHYy16a0ctWG9ob0JfMUZqRTIwRnoyeHhxckI4NFZCVmM1MGVRaDFPeWh0MVFKTXYyVURKSWdJZGJ5ZWZWYzdHanhyQTBNTGYyRWF6bXVWSDRZdXdYN0pWdURYU0p6Z1lkVzlRWlF4UEIyY1E?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 00:50:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indonesia reopens Jakarta airport as Anak Krakatau ash clears; new eruptions being monitored - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbEtSRElVbnpqS2tCYkhsVk5NTV9hNlpaWVRCSzA2NGVRVkhxTkhtUkZTa2R0SUNtYnlUSDVrTE1JLWgwZnpiY01nZ2N6NWVhaUdtX3ZqMW1mNGRyZ2c2TVNIaGtGTGFaWW1sM3BhbTBGOFJiTzBTdnBrNER6cF8xWWdNQjJfbmRjWGZzN29hMlFpaVZqcWVIaFZ1Z1VEbGFKelN0TGM4ZVZqVWMzRlBCQ2xqVWdrTVV3M0IyRDJ0T3U1MzFCU2pYcWdWZU15UQ?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 00:44:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: How two men survived nine days in a Nepal flood tunnel - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDNVSGFNakxmWDZzWmJRVW9XQTFlNk1nYWphVld1bmtEdEM3ZU9pZ1N5cGNTcG9Db1pYVy1CLUVZQmYwczhhOEtKTlphc2JlRThwdXdlLWNNbnhZODVhTW5wYWN5OXBBSVVoMHpTNVZQTUFmS0V6Q1lWZVdTQ0JqbUxvZEQ5SUlSTGJLc2tkTDdGMENiNFZBSjlpTm4wdHdBam12VW1kTjNuMU0zN2RVSlhEeHI?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 00:30:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T04:25:16.017Z"
+      "updatedAt": "2026-09-08T04:50:17.597Z"
     }
   ]
 }
