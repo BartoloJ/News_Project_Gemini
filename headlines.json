@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-08T13:25:15.496Z",
-  "lastChecked": "2026-09-08T13:25:15.496Z",
-  "lastUpdated": "2026-09-08T13:25:15.496Z",
-  "generatedAt": "2026-09-08T13:25:15.496Z",
+  "fetchedAt": "2026-09-08T13:50:16.207Z",
+  "lastChecked": "2026-09-08T13:50:16.207Z",
+  "lastUpdated": "2026-09-08T13:50:16.207Z",
+  "generatedAt": "2026-09-08T13:50:16.207Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "New York City releases documents about air quality after 9/11",
+          "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 08 Sep 2026 13:35:43 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
           "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 08 Sep 2026 09:20:05 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-          "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 08 Sep 2026 09:17:48 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T13:25:14.287Z"
+      "updatedAt": "2026-09-08T13:50:15.662Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Australian social media users to be offered choice to opt out of algorithms",
+          "link": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
+          "pubDate": "Tue, 08 Sep 2026 09:24:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "U.K. bans goods from occupied West Bank as Israel and U.S. warn of repercussions",
           "link": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
@@ -103,26 +109,14 @@
           "link": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
           "pubDate": "Tue, 08 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "What to know about Canada's escalating trade war with the U.S.",
-          "link": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
-          "pubDate": "Tue, 08 Sep 2026 02:04:43 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T13:25:14.351Z"
+      "updatedAt": "2026-09-08T13:50:15.719Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "UK government bans goods from Israeli settlements in the West Bank in a toughening of its stance - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQnNUUkpEenk1MDJhTHpGbXp6VER2bDhydkpYa3BmQVhtR3A3MDcwOTNHSUwwX1J3aTQxeVA1NG9YTDhiNkdORk85UUpaTHE3RUNOSk5fMWRVNENmQ0poSlp3dXZyNXJocndqMkdOTVhPSDJlbFBqTE0wLThJc1dWMUxFTjQ1OXdKZUtOTEJiTl9Bd0pNTHNSUzlJWWYwN013WGc?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 12:44:00 GMT",
-          "source": "AP News"
-        },
         {
           "title": "One of Jerry Sandusky's accusers is to appear for hearing on recanting allegations of sexual abuse - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOenBBczJWUVlwQWlLemh2WGo2U2cwVVk2bkhXSld0dlI4bmtmTjZncjlnQ1JpN0VqdXVsNnJHVWMtTXNZTDFuNnF0X3RyNElMRTQtc3Ztajg5Zjh0QTFWZEVaeG0tUTE1QVlhNjI3SDM4MFFyVkFsMFotVnhNUm1IZEZCa0VMSUdUQU9WbXBEUmR6OE9GdWc2MUJPV0dSaDJXRy05WVhSM1lzWlE?oc=5",
@@ -148,15 +142,15 @@
           "source": "AP News"
         },
         {
-          "title": "Thieves steal 4 Renoir paintings from French Riviera museum, 2 still missing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlpjeEJ2Q3FpMFpvbXlmSFFkLVMxOUlHS1hweTZTUjZUa0FjOG5aSXg2ajN5TnJ6Z0ZhalVTam43VTJxZy1ybHdrQVpvV3B2QTRyZkxHeEZhX2p6YlFQWGpsQ2E0cUVQaUt4cC1wd2RZNjB3M3cyTTV2Q0lzaERva1drZlZmVlFFdlcyNDdtTnZXcFBaNllUaHNGZ1lEUQ?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 11:35:00 GMT",
+          "title": "Police arrest suspect in Germany power grid attacks after dayslong search - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVE4U0JWTFlDYmt3M29fQWU0NXpSMFM5S191NW83V0h2WkJ3Q2ZOTkJKLWhiYXVjQkxoMmU3QlFpQzdnOUs1WFY0dVBxWHRZWGpjd0JKcVA4UDFDRVI4WVgwUWNpSHRvQWwxeUtnUnR4WEFqemlqWVhSdFRqOF9tMXhCY1N4TWZheWJOSjFwcHZ6NTRDaFhMR0dR?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 11:42:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump threatens Canadian jetmaker Bombardier, which has an extensive US footprint - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVmRxSDVSaGtVRFo4OG1zYjJXOVpUa2t6QTFvWTVKYmUxQ0J4UTRlRUVPSGlKRC1TVHkxaWIxSEsyZnExYmh5WUhJRW53ZDYxVWlBNjg5SVRZNmUxcVRveVdnRkRZNE9leDlTZ2ZnNXRnWTZoSG4xWmVfMkNtbV9PbEJuRldIMFNFbDliTFFjMERBeVY2aWhienpCcUhqb0FvS3lkWDBoVEo?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 11:33:00 GMT",
+          "title": "Thieves steal 4 Renoir paintings from French Riviera museum, 2 still missing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlpjeEJ2Q3FpMFpvbXlmSFFkLVMxOUlHS1hweTZTUjZUa0FjOG5aSXg2ajN5TnJ6Z0ZhalVTam43VTJxZy1ybHdrQVpvV3B2QTRyZkxHeEZhX2p6YlFQWGpsQ2E0cUVQaUt4cC1wd2RZNjB3M3cyTTV2Q0lzaERva1drZlZmVlFFdlcyNDdtTnZXcFBaNllUaHNGZ1lEUQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 11:35:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXhUSm92S2lPWFZrTHdETVd1clVYb0dOcW1vQnNnYTE5OFJMWXRrOE5Qb00zdkxmTmpvOUhpeTBscmdVVERzb1duSVdQSkZ2V0t1N2VVM1VQcEd2aWFqR0pvelRSYVo2Y3hoMHBuS25hVDdDWnRyRFB5M3N2ekIzUjQ3LTZIWEFTMWhGNUw1RnMxbDlETldwakJsZGlQWFFxd1Y1OEMzMUlGOUxuNDRyemtR?oc=5",
           "pubDate": "Tue, 08 Sep 2026 11:28:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Flights to and from Indonesia’s capital resume after volcanic eruption forced a 2-day closure - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1FWNHFVODFpNThKSld2SC1rc2otX2E2WTRmS05mZTVxNGN2dWg1eDdOU0ZGWHNTc3Z4cnYyUGtKYTNNbUM1UEt5ZFF1MFl6T05FVGFVc2hpQmpGekZHRHJVQzBLb0pENzktbFdXdS04OEZWUlVUakhZbjJDdFRHenVaWlA1NVNhS0N2R2lIYXR1RmtiRVhMZ2I2T184Q3N0djJwd1V1UXpNSnR2ZUNIVUFLOFhLMUJ6?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 10:19:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T13:25:15.044Z"
+      "updatedAt": "2026-09-08T13:50:16.189Z"
     },
     {
       "name": "Reuters",
@@ -191,6 +191,12 @@
           "source": "Reuters"
         },
         {
+          "title": "German police detain suspect after sabotage attacks on power grid - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXR3NlBTckZLc3c2Q0NRcmJhVGRycnExeThlUjZCTHpWWFR5M1VRTUIzVWdzenF5NTdZaVQ5U2g4c0dKQmo3d1kyMFQxbVlYX0lYZjJIUGtJQXB2NEpOYkhzOWw0Q1FSdC1ocWtCRDZPYWM4QTRoWmE0ZS1rUEoydURPUmRZOFloM0dNLWdBOU1NQ2ZTdDg5MDN6clVtak9seXVQMnZhMA?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 12:34:48 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Iran-backed Houthis attack four Saudi cities in expansion of Middle East war, 73 hurt - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5",
           "pubDate": "Tue, 08 Sep 2026 12:15:31 GMT",
@@ -209,20 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "UK publishes legislation for tougher sanctions on Iran over nuclear programme - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbHhqMGdpaWtLcy1Pb3ExcFhZSmd4MUtieGtkb0tiLUtpeWhGZVNwRVJOR2FSTnBCLWFVSDdRSUpaS083WHNWZUk2ZDQ4SU1sSG9UNDFIYW9wSk5RUW1PRlhud3plZFdUdjBPeVRPRDVGWm5RYzh1d05lRnltVmNneXBNbkpUaFZwRzJaX0dvYWxSY1V1bkFibzcyRFkzWDBPV1U1ZDZ2blB1NkZObUZJ?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 11:57:23 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Asia is poised to take up 70% of Canadian oil exports, pipeline executive says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZjRXVHBMNlE4VzlVSVVrMXdtamM1dnhqQkRIWENmdzNWTWRYSS1wZ2VXMnlTRFVXeUxZZ0pZWjFMa0JzMWN0ZG5kTmhQUkh5czJVYzFheUpwb3ZmSjFheHhINURkT2tjaHVwdUNOZHpFTE1jVVk3RHYtZ21MZ0V4cklsSjRrdjJaOXNBc19PbHFVVHhkbVRNZkFGWjhQX3VUWTVaOU5ySXdlNFR2cW0xNUwtVlRxVDhnSUJvRlp4bw?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 11:43:44 GMT",
+          "title": "Slovenia clears Tesla's FSD driver assistance ahead of EU vote - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYTVkbDIxb1lLNFJodGc3dExQRVZJSzNVcXlxMm9JMWZodmx2dXNxSXBJMU94elBWZHJ6UHdOQlZyQW90c0xlNVZuTGFqTlZNbEJvWlpWSkkxOFVVeW5Kb1BtNi1WdHhzem5EQkt1MkVXRFJ3bFd4MXkzTFFyczJTNXRmbnQyRi1Vb05XTElwY3RYdzdqdzRZeGdmemRzRlJYeGtsX2tR?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 12:04:28 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T13:25:15.496Z"
+      "updatedAt": "2026-09-08T13:50:16.207Z"
     }
   ]
 }
