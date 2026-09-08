@@ -1,14 +1,20 @@
 {
-  "fetchedAt": "2026-09-08T00:25:13.361Z",
-  "lastChecked": "2026-09-08T00:25:13.361Z",
-  "lastUpdated": "2026-09-08T00:25:13.361Z",
-  "generatedAt": "2026-09-08T00:25:13.361Z",
+  "fetchedAt": "2026-09-08T00:50:19.000Z",
+  "lastChecked": "2026-09-08T00:50:19.000Z",
+  "lastUpdated": "2026-09-08T00:50:19.000Z",
+  "generatedAt": "2026-09-08T00:50:19.000Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Eiffel Tower shut by staff protest after women moved for religious visit",
+          "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+          "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 08 Sep 2026 00:48:43 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
           "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 07 Sep 2026 23:46:44 GMT",
           "source": "BBC News"
@@ -17,12 +23,6 @@
           "title": "A food safety officer has become a social media star in India - why?",
           "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 07 Sep 2026 23:40:39 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-          "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 07 Sep 2026 23:29:12 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T00:25:12.105Z"
+      "updatedAt": "2026-09-08T00:50:18.118Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T00:25:12.371Z"
+      "updatedAt": "2026-09-08T00:50:18.155Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlhneGFtOUZTMmRuYTJSRi04bG85SHpoTkRCZjVNN2ZpYUIxbW4zV0lCd2xkV2FnRWFKc0tBZkVyd1AxeUlXUkFjU1JFaFUzS0F5aDZESTh0MjV4T2ZLRGdCZU5OT08xNXRTek9QYUVXQjJMRUh4RmNZQzlvVFNiRm9DcVl6YmdUOW9RT0hvMnNRZVFMR2I4Mg?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 00:18:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Pope returns to sanctuary where he prayed after election and unveils a fresco depicting the event - AP News",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTBfZVpuWEZhdTNBM3ByZFpOazRsWHltczliNF8wdk1MeUF6RlloZWJHM2FwM3VJT2RKNExnYk5MLWxoMmNPVDZlUnoya0ZKeUhNOTJva21TRzFLWGxVTll5NmhmanhRaWlYcW1oQlpqd29ZblJYbW9vcjNzTTdNZDFNWWVLalRsTkE?oc=5",
@@ -154,12 +160,6 @@
           "source": "AP News"
         },
         {
-          "title": "Cowboys guard Tyler Smith will miss at least a month with thumb injury that needs surgery - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGdhU1laWnVhNkdicm56ZExPa2lSR3BfZ2drYUhsMDVuQUgwdUktWkJXR093UXMyTmZ5bVZXY284ZkVnUDFoS0R1MGh5cUE1c2NmMEZwUmtoLUdqY0xETC1vNF9RM2I0OUxXRTFxLXNTZnZYQmhxeGkySFc5LW1NSHNsel94ZmJKTlE1Wi02SQ?oc=5",
-          "pubDate": "Mon, 07 Sep 2026 20:45:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Breanna Stewart sparks US to 105-64 rout of Czech Republic after a scare vs Italy - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWFuTm5HcGI4M3pfeEEwR1lOUjF5bzBXZFVzdVNiT2lEWVpzMnlmTmhPa19iU3dqLU1YeEk0OUN5NGQ2MVRyQUhZUjA4YVROVUhWNXNjeGhUdm1Ra0dUN3VpbEprRVN1LVhhY3NEa2dyNzRjSjhXUWFZcWZXZC1hcmVDOTFmcTZobGE1Sg?oc=5",
           "pubDate": "Mon, 07 Sep 2026 20:36:00 GMT",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T00:25:12.919Z"
+      "updatedAt": "2026-09-08T00:50:18.582Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T00:25:13.361Z"
+      "updatedAt": "2026-09-08T00:50:19.000Z"
     }
   ]
 }
