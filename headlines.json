@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-08T06:00:22.584Z",
-  "lastChecked": "2026-09-08T06:00:22.584Z",
-  "lastUpdated": "2026-09-08T06:00:22.584Z",
-  "generatedAt": "2026-09-08T06:00:22.584Z",
+  "fetchedAt": "2026-09-08T06:09:22.123Z",
+  "lastChecked": "2026-09-08T06:09:22.123Z",
+  "lastUpdated": "2026-09-08T06:09:22.123Z",
+  "generatedAt": "2026-09-08T06:09:22.123Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T06:00:21.404Z"
+      "updatedAt": "2026-09-08T06:09:20.866Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "What to know about Canada's escalating trade war with the U.S.",
+          "link": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
+          "pubDate": "Tue, 08 Sep 2026 02:04:43 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "King Charles III clarifies status of Prince Harry and his wife, Meghan",
+          "link": "https://www.npr.org/2026/09/08/g-s1-142289/king-charles-prince-harry",
+          "pubDate": "Tue, 08 Sep 2026 02:00:57 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Russia and North Korea open the first road across their shared border",
           "link": "https://www.npr.org/2026/09/08/g-s1-142285/russia-north-korea-border",
@@ -97,30 +109,18 @@
           "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
           "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
-          "pubDate": "Mon, 07 Sep 2026 04:44:02 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Scene at Miami airport where five died described as 'utter devastation'",
-          "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
-          "pubDate": "Sun, 06 Sep 2026 15:54:28 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T06:00:21.625Z"
+      "updatedAt": "2026-09-08T06:09:21.147Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Nepal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBIXzBaaFNydjNXWnZnc0tzQm54RFd2ak5PSUtEdFp3dEhBZk15cW1qb2x6TThiS0F2NHVfQW9iN0xCQQ?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 04:57:18 GMT",
+          "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2xsZzlRWW5pdlh4dTJoajN2OTNFVWpjYmFvRkI1MEdiSHh5ZzYzODE5MzkxckFwQzFuOEVmd1FOLXNJbkdWb2h0MnZjUFEydkswUUpZOHhxQ1dWUVotLVBGbk1IbTdEVlp6bDBPVVhYeFVkTVAwcVFITjhFclZtZW1NMlhpd0dYTHJudWV1SQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 04:51:25 GMT",
           "source": "AP News"
         },
         {
@@ -142,12 +142,6 @@
           "source": "AP News"
         },
         {
-          "title": "Houthi attacks on Saudi Arabia wound 73 people, officials say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2xsZzlRWW5pdlh4dTJoajN2OTNFVWpjYmFvRkI1MEdiSHh5ZzYzODE5MzkxckFwQzFuOEVmd1FOLXNJbkdWb2h0MnZjUFEydkswUUpZOHhxQ1dWUVotLVBGbk1IbTdEVlp6bDBPVVhYeFVkTVAwcVFITjhFclZtZW1NMlhpd0dYTHJudWV1SQ?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 04:03:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Hurricane Lowell expected to pass near one Hawaiian island and cause major rains statewide - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSThYdTJ5Wm5IYnBHcTY4a0I0Y0gzYXlBaWpzRm1SNTdVLUtDWm9BNTM5VHhZdHZhZllBWXlSWV9CUjZ3anlxSFRXdkpfWG1QTXRpRU5tTE4temZqem1weTA4YXhaOVlJR1RjenRKLUlBT2FMejctWDhMbHB2dkhwUWtmbHVuZXYzWkFzcnhuMVR3SHJfS1E?oc=5",
           "pubDate": "Tue, 08 Sep 2026 04:02:00 GMT",
@@ -164,24 +158,30 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPam4xcVhHQmlSYktKclN5RDB2ZndxMy1Hb0VBcmJmRml3RVlaNlZ0QXlmSlJqRjV2UHk3ZTlZa1ZOUTVGbThtbEV4U084dlpLS0dBQmtkUVh1akhVcHlqcGlvOTVnTUVNUlZ2UXE2N1hwa0hqcVczWE5ubXZ1VHlTcTl4YWpUcFZvak1DUw?oc=5",
           "pubDate": "Tue, 08 Sep 2026 03:59:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Nepal - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBIXzBaaFNydjNXWnZnc0tzQm54RFd2ak5PSUtEdFp3dEhBZk15cW1qb2x6TThiS0F2NHVfQW9iN0xCQQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 03:57:18 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T06:00:22.165Z"
+      "updatedAt": "2026-09-08T06:09:21.716Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Saudi-led coalition in Yemen says 73 injured in Houthi attacks on the kingdom - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXB6MGlpMW50OElMY1FiZ2hXYlNmbmI0ZG8xT2RLc0FOWG9IazNMVDdfdTdILUJINFYweFF5VFFOQldXU3k2T0NSekpIOVhyT050UXR3TzRGTEk4TGlnLVhJQ2s2LWRmamNyRGwyT3ZyU1gwQVlSYU5hQ3hBUHo2bTBwckJNQXlqSTQySzhhUV9WR0laNjZJVEktLXpiMF93N3hrYmRRejBXRFlPVmNrTTJJZ0w1NlhITEE?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 04:19:43 GMT",
+          "title": "French AI company Mistral hits $24 billion valuation in funding round - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzZndFBZYk1SQ19xOVJYSXR1ZHdKa2p2a0RSYTVfeWVicHRLZ2JOdG5zc3hibHhJYWh1V3pIVEhDaV9Wc2xQV2RlYkNkTEZJSDV2V1V6aGloYXVPcFNtMHlCU1ZsTnR5UEZTNTI5WTExa1A4Vy0xZjN4ZFE3TVUzN2tUWFNnc3V2aXNBRldFWXlGYnFwcGtGVkFtRE9HTDktVUhJR09HVUwtdHZmNHdjWGZCTkw?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 05:03:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russian ballistic missiles hit Kyiv as US envoys leave - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbm4tanFsdGRTc1RZb1pRRzE1QkdQR19JUGtmcWdEUWFLUVBXZGljd0xWWXFCSWt5TW1QT0tqRm1Fa2dzS2tibEt2NFdIUldHMHJDSTZ2Mk9McERpVTAxM1hab1dqS0RKekFmaXB5ank1R3VqX3lhTGVlZHMzU0dmZkhpUWhITFBzREQyVWNKTnk0ODlyV0dGc2xHdEt3Y1c5YXc?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 04:10:09 GMT",
+          "title": "Saudi-led coalition in Yemen says 73 injured in Houthi attacks on the kingdom - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXB6MGlpMW50OElMY1FiZ2hXYlNmbmI0ZG8xT2RLc0FOWG9IazNMVDdfdTdILUJINFYweFF5VFFOQldXU3k2T0NSekpIOVhyT050UXR3TzRGTEk4TGlnLVhJQ2s2LWRmamNyRGwyT3ZyU1gwQVlSYU5hQ3hBUHo2bTBwckJNQXlqSTQySzhhUV9WR0laNjZJVEktLXpiMF93N3hrYmRRejBXRFlPVmNrTTJJZ0w1NlhITEE?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 04:19:43 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +197,32 @@
           "source": "Reuters"
         },
         {
+          "title": "Russia hits Kyiv after brief pause for US envoys' visit, killing two - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbm4tanFsdGRTc1RZb1pRRzE1QkdQR19JUGtmcWdEUWFLUVBXZGljd0xWWXFCSWt5TW1QT0tqRm1Fa2dzS2tibEt2NFdIUldHMHJDSTZ2Mk9McERpVTAxM1hab1dqS0RKekFmaXB5ank1R3VqX3lhTGVlZHMzU0dmZkhpUWhITFBzREQyVWNKTnk0ODlyV0dGc2xHdEt3Y1c5YXc?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 02:57:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hormuz traffic slows after Iran threatens retaliation for US attacks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVZqbU1CYlBIcWpOcEhmWWNHbk1PaUxMa1REWVpsUnpHcEgySUVnWDZ5cFJJbG9tZ1IyV1A1UXFocFEzQkRZVmNNWVNkVlEzZWc4TExyVnNvdWJ2Tjg3a0swQUlKbXo3VzlncDNqZ2w2MUJVLVpJRVBFcXdlR3lpSW5CMVZneGtYcG51MWJZSkpLZmhpSzlrLUNoUXFXTlhQSm8xS25kdEhKM1VOa2pFdV85dnBRNENqWXc?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 02:53:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "China's exports surge as demand for high-tech, AI help prop up economic growth - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmQ2cXNneko5R0o0eDZ1MUVmY25oRkhpeVNDUXJFNVdhMDV1eDg1TnFFWjg4Z1pqUk9lYTZoWHUyblNqT1NZRDlhMEFjN2REVm9CWFBhM2hIbkVLd2lOQ1otRUtpNlFLNmkxeEdYUzRVbUs0MGF5R1VfOHZjMkJzUllpODZja01aZWdDM2R4cl82WHZldExHcV9IN2x2S3d5eFZjYmVn?oc=5",
           "pubDate": "Tue, 08 Sep 2026 02:45:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Gold gains as dollar eases with US inflation data on radar - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZVFOMG93MEp4ZjJ0VUtRcWQxVTRKYTJOb3RwbTZpMnNyZlJ5eFdCRGhNTXF4b2MyRGpXWTh0T1N1d28tUGRfSW80bmFNT1RNelFYMTlLU2ctZEZpYmsyNjZRb2ROTnVqMkVuX2Z3UU12UDlCV2cxSmd1MzR2dktuNUtOR3ZXdjR2YnAyUlJDYjFtWmwybURmNEdLMHk3SFBQNVE?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 02:28:00 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Russia to strip contract soldiers of one-off payment if laws violated at home - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOGZrOFlCMEVFaXBnLVZYd2VYbWZ0ZHY5NnNNVVZDa2MtWkxjaTYxQWVLR0Y4eXRBTC1tblc5WmtPa0phZjBOdU1pWWFpU1ZLS2ZJWkR3WEFvZmhVNjlNSXRaYlBTVXdnbGNtdS1yY0Rxa2V2SDEwV0x4bW9wcWVPclV5Tk5DQU1qWTFpV3JLTW82WmkzTmFwaGUxN2NaNm1HaW5GYU9TOEIwZW4zOFhOdFlQcG1GelBm?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 02:24:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indian shares fall as persistent Middle East risks push up oil prices - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTlsdDdCYlVfZ1VEeEUxRlczcDRrYkVhc2pQclVYTmpod3hUWmRWa01RbkhIVlQ1LXhVN3VZYW5ZWldxODFFSXU1NGhCV3NIczRnOXFrVFQ1dk5CbDV4c3FPMDFWN2hheGpzYVQ2c1dqeFE3LWtCX3o2ZldLR3lqcm1SLTczWXBFSXVNcFl3WkdQUzZxemsxaThrUmNXdlhsMFEzLXdleUgyaWdOd29n?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 02:15:00 GMT",
+          "pubDate": "Tue, 08 Sep 2026 02:38:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-08T06:00:22.584Z"
+      "updatedAt": "2026-09-08T06:09:22.122Z"
     }
   ]
 }
