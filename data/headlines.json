@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-09T21:14:04.541Z",
-  "lastChecked": "2026-09-09T21:14:04.541Z",
-  "lastUpdated": "2026-09-09T21:14:04.541Z",
-  "generatedAt": "2026-09-09T21:14:04.541Z",
+  "fetchedAt": "2026-09-09T21:25:15.936Z",
+  "lastChecked": "2026-09-09T21:25:15.936Z",
+  "lastUpdated": "2026-09-09T21:25:15.936Z",
+  "generatedAt": "2026-09-09T21:25:15.936Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T21:14:03.282Z"
+      "updatedAt": "2026-09-09T21:25:14.820Z"
     },
     {
       "name": "NPR",
@@ -111,12 +111,18 @@
           "source": "NPR"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-09T21:14:03.478Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 21:18:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
@@ -127,12 +133,6 @@
           "title": "Republicans begin two-day midterm convention billed as a ‘Trump-a-Palooza’ - AP News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0ZpRE1lUUNOMTJHYzZ2UjRuVTlLbEgweXZ1bEV0Uk82QS12RzM3SGstLTd0dzNjcC16N1VIQnRoUndpcmF2RVFrLVYyQnBkS0JDZ1I5bGNLMDNsMTdWS2lrRGxoQ3VtV2lDNmNGZnBaZEFnNDJNUDFyOGt3MGdRT2VDS3VMdExFUS1kLWdaWFh6b2RUcHY5cG1rWkIzUHQ5cDZIRDNXYW14WVpSdkl6MTdTWTA?oc=5",
           "pubDate": "Wed, 09 Sep 2026 20:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 20:30:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 19:33:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Rubio hails Ecuador as an ‘aggressive’ partner in the US counterdrug push - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeU1kOWhWRnlwSlJDMTg0SWhDN0FiVG1LY29HdkNRb3AwUERZVWFXekpxRXREeHE5Y2xzRlN5dFA2cUhFZmRqbVJkaFBoZnp3Z1VGSWstZkVfc3NiSTlMSjRvQXdZc0xYQ0xLVHJCOTZHNmRuNW8xZXQ4ZzlLaWJEcTNLTHhaSFpkYjFfNHo1UkJUV2s1Y19QUkQyVnZDaGVKMnlfYg?oc=5",
           "pubDate": "Wed, 09 Sep 2026 19:33:00 GMT",
@@ -158,20 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmpkbnFlb1F3eEdNLTVkMjA0cEtGOTAzNGc4cVpoVnFsRGJKZGhuU3l4R1ViVDN2UExGLVVkUUZTRHNUNnltbkxKSmRPNjEtcXB5V0pyQV8xZUlMRHEzT1ZFX18zQmd2M25MX0lkRkV2Qkw3dzRqR3Jza1R6Q0dFSGtKYXEzM0lHd0ZNekZOckRpVzZHU2c?oc=5",
           "pubDate": "Wed, 09 Sep 2026 18:53:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 18:46:30 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T21:14:04.072Z"
+      "updatedAt": "2026-09-09T21:25:15.519Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump administration proposes dropping huge swath of immigrants from US census - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNG0wcjFjbEdBUkRUS3ROYTUxbVpDRWxyc2lUR21fbkV1eXdvMTd2eU0xV1lvMC02cEY0Z2o3ZTZlT0c0dE5SbGJMNW1RZjU4YTVZMFlKYzYzbEZuQnpyenlGZHU1R3VJdWN3dUtZTUtxRlZOZXhIRVlpYnV2cmF2cHFVejR2c0k0dDdrUXRrMGFiWWtvTVRKUjg4YVZDV2xCdm14RFZZVzJMd21hQUcxOWYxcFZxTVJLeFpKc3cyTTE?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 20:53:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Anthropic reports fourth cybersecurity incident with early version of Claude - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaU1ZZ0ZRWnBaSnRlakoxVTU1SE9aZTEySkNZU2N2eU5XWG9remJKT29feUVoNlhhQVpfWnNFd1NKZ0xnb3lobTExTXE5dXZud0tCbGVLMzR4Y0NFRkRRUUlnWUllbjVTcXBWeHJzMDJVamFBQjJveC1PNThKSGUzNlRfUlVEVkJPbHhtendZdXdsSmdva0RvT3NidFdSb3BWSmd6R1lFb1NxYXdjR0xKeVVnZWY4c3JlbHlycFhkcXlmQ1Jv?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 20:46:33 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US states sue Trump administration for weakening endangered species protections - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM01RdHFrNjZmQ3hTNFRpQ01rTkVhTmUySGdxVjNsMzhtdWxneVJXclVvU0NuVWszSWVadk10NF9CRmVHN0hDSF9ZSl8zbzdtUmdwYThyXzhEdFNsRVdjUDZRRzQxR242eEJ0RTZ3cXRyUnN5X2JGVlNDeWNuNWNlb19HbUt1UUEzX24yLWwtdGkzMGJBc3R4UzJrTXJqa1FjNVV5YzNRWUYyOHlGZ2phc1ZFMFd6X2Zw?oc=5",
@@ -197,32 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "US regulator says credit scoring firm FICO increasing prices for borrowers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSFBxTF9XSjVLSTM5bWNrWEFRSFpSQjdKTVdiM2owRGZZZUlYb1A5eUJsWXVGVkhvaF9fZHNWTGpMVGlOaFFnTU9yRWtrOHpBbGk3LWNNTEtuUmlxZ3BLd1FRUTVCVVFNY2VrLVh6SldEUTBLOTE1ZU8zME9mS3pWQm9JZ2NraDNoTHdRa3B1VXpkekxQeWM3MEVtSjhSb0tOZ25LbXlXcWp0SUt0aExMVnhFblhIdw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 20:00:39 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Brent settles at over $100 a barrel as Middle East conflict intensifies - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
           "pubDate": "Wed, 09 Sep 2026 19:56:09 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump says Putin wants to make a deal in Ukraine - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTNtY0FRMUh3Y1dBNENBWG1zeEYtWUxiajFIX09mX1NoWG04TERuVlptWi1FMEpyMEhJamtmRlYteE5OaVBFc01UbHNTZ09YcmFBQlYzZ3hQUVQ2dEdSaWhodTFoOXNWRDVETUprXzl3NTU1SUN4QkRWTFNWVzYyWUg3aGkySHo5Wkl6cjhrUUlRRTg?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 19:55:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 19:53:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Pakistan warns Iran to rein in Houthis as Riyadh strikes back - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjRjUTJjbW9GMXo2aGNZTXVJTmxOQWhON20ycG5GTGxhcjlSZWJqOWFkSGdCZDVTTldYMnBSeHpYT09GTU5fS0ZVSTVLamF3cDFXc21KTzJaTE56cEdZc2JjNFk4WG53UTQ2OURwMTFrTUE5SHFjQS03M084UExUZlRTOWlURlpDVm1aRzBBc0QxeV9pQy1IUVlGN0xaVW5KMFc0Nm90VFhWNlk?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 19:36:55 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T21:14:04.541Z"
+      "updatedAt": "2026-09-09T21:25:15.936Z"
     }
   ]
 }
