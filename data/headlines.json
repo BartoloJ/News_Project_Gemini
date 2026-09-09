@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-09T13:25:18.652Z",
-  "lastChecked": "2026-09-09T13:25:18.652Z",
-  "lastUpdated": "2026-09-09T13:25:18.652Z",
-  "generatedAt": "2026-09-09T13:25:18.652Z",
+  "fetchedAt": "2026-09-09T13:50:24.451Z",
+  "lastChecked": "2026-09-09T13:50:24.451Z",
+  "lastUpdated": "2026-09-09T13:50:24.451Z",
+  "generatedAt": "2026-09-09T13:50:24.451Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+          "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 09 Sep 2026 13:29:33 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
           "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
@@ -20,9 +26,9 @@
           "source": "BBC News"
         },
         {
-          "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-          "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 09 Sep 2026 11:24:10 GMT",
+          "title": "Colombia's new president loosens gun control rules",
+          "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 09 Sep 2026 11:01:41 GMT",
           "source": "BBC News"
         },
         {
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 09 Sep 2026 09:47:39 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
-          "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 09 Sep 2026 08:21:39 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T13:25:17.676Z"
+      "updatedAt": "2026-09-09T13:50:23.292Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy",
+          "link": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
+          "pubDate": "Wed, 09 Sep 2026 09:34:48 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Whatever happened to the measles outbreak that shocked a country this year?",
           "link": "https://www.npr.org/2026/09/09/g-s1-141466/measles-outbreak-vaccination-bangladesh",
@@ -103,79 +109,91 @@
           "link": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
           "pubDate": "Wed, 09 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Republicans kick off a 'Trumpapalooza' of a midterm convention Wednesday in Texas",
-          "link": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
-          "pubDate": "Wed, 09 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T13:25:17.727Z"
+      "updatedAt": "2026-09-09T13:50:23.474Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "US markets point lower as crude prices breach $100 with the conflict around Iran intensifying - apnews.com",
+          "title": "US markets point lower as crude prices breach $100 with the conflict around Iran intensifying - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
           "pubDate": "Wed, 09 Sep 2026 12:09:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "College football | Latest News & Updates - apnews.com",
+          "title": "It's 'Pitt' vs 'Pluribus' in drama and 'Hacks' vs 'Widow's Bay' in comedy at the upcoming Emmys - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUU0xWU5mWjdVcWdsYlQ2Tm5GUGJQck1jVW5qTW9FM1JTYlR4OEdoSG4xbFNENHZ1S2I5NWJadFNkX0plSUZTMVpMTF9seXg0SUNkOC1tX0ludUpfeUZTc3A1dFBIb3ExanlaSHpSeFhYWDR4aTJiaUdMOXV3SzJLUnFFV0RPdjV5Mjk4Z1Bkdmp1RHR6RHNOdi04bHp1MmJPWmRj?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 12:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "College football | Latest News & Updates - AP News",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
           "pubDate": "Wed, 09 Sep 2026 11:36:55 GMT",
           "source": "AP News"
         },
         {
-          "title": "Oil rises past $100 a barrel after the latest wave of Middle East attacks - apnews.com",
+          "title": "Oil rises past $100 a barrel after the latest wave of Middle East attacks - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
           "pubDate": "Wed, 09 Sep 2026 11:22:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Mistrust of US government information is rising across major issues, new poll shows - apnews.com",
+          "title": "Mistrust of US government information is rising across major issues, new poll shows - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3FxUlZNb3gzMFhxRmxJYW5PbjhBMlZ6SlMxZ1U1cGRfdllTc2p0emVHcXh3dmYwYlV5cGhFVmtvQlJEeE53UXV6RDJreGtrOGpGT19SenJFcnM3LXp4U0NxblFpM0hGY1ZwNGNNalVJajJHSnpNUHVWelBBdEptdFVmMGxfdHctaXU2bHFkdDdJcE9ZekxpS2xySG03TGlUUUstR3JqaHNMRmlReXc?oc=5",
           "pubDate": "Wed, 09 Sep 2026 10:39:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Pills are keeping abortion accessible even where it's banned. A court is considering restrictions - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVFRnRzFqUVc3bHNhemdyR2FOMTFmLWF1NU4zTXUxcVRTaG5wd2JWV25pZ2R2cFc3cEZDcEZ4UXltQ2J1c2NWUXlPamJ3dk8tMGhwYkFNV3dOTzRxdXE1TGp3N3lBZUtHRmxTcjJTS0hldzZJWWkxV05PUnpNZXNEdVpQUFRSaklKWkZ3MjBn?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 10:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Shelton ends Alcaraz’s title reign in late-night marathon, will face Tiafoe in US Open semis - apnews.com",
+          "title": "Shelton ends Alcaraz’s title reign in late-night marathon, will face Tiafoe in US Open semis - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHZFU09TYnJLbTg4b09scUVlWTVKNElsM2lFekFmbHFRUElPUWVFLThqVUlZN19GQlBNZkZFN0hSZDhEUXk5dmVpdlpBNzc1SVdrVlZqTXAwbkViWThvUFZpZGpyeVVFa3dtUjN2U215TjExb1RsUlBvS3A0elZsVHEwOHpBdUxCU2FGRTZEVmtmUjF6NHBmalZ4SkphMjVSRU9TLWI3VWV6aDVWWmc?oc=5",
           "pubDate": "Wed, 09 Sep 2026 08:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Thieves steal 4 Renoirs from a French museum. 2 of the paintings are still missing - apnews.com",
+          "title": "Thieves steal 4 Renoirs from a French museum. 2 of the paintings are still missing - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlpjeEJ2Q3FpMFpvbXlmSFFkLVMxOUlHS1hweTZTUjZUa0FjOG5aSXg2ajN5TnJ6Z0ZhalVTam43VTJxZy1ybHdrQVpvV3B2QTRyZkxHeEZhX2p6YlFQWGpsQ2E0cUVQaUt4cC1wd2RZNjB3M3cyTTV2Q0lzaERva1drZlZmVlFFdlcyNDdtTnZXcFBaNllUaHNGZ1lEUQ?oc=5",
           "pubDate": "Wed, 09 Sep 2026 08:29:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Aryna Sabalenka edges Linda Noskova to keep three-peat hopes alive in a marathon day at the US Open - apnews.com",
+          "title": "Aryna Sabalenka edges Linda Noskova to keep three-peat hopes alive in a marathon day at the US Open - AP News",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFRaRXpTakEzNUg0SndMUFdCbmIwaWZsQ2tEekxXVzg1MWR1QXc0N0hiVjNBQlFoaDhvLW82NzczTDVfR1o1X0QyYnVSUjRLTkwxSEo5UW1pbkl5cnk1SmJfUW9PVWxGLXJKWmhDdnZfZHRiSEkwY293eHJxZmFCZENaVF9JbXBkTUE?oc=5",
           "pubDate": "Wed, 09 Sep 2026 08:18:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T13:25:18.192Z"
+      "updatedAt": "2026-09-09T13:50:24.001Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 13:34:59 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran and US hit tankers in biggest wave of attacks on shipping since war began - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2FPaUNRYjRBWnd2cmxkT044cmZYbENZYnhTWXAzUGxadUpEZ3N3aHpVSEtodVVsWUt6djBaeFhjUm5JOGVrNEE1SXlaUkxoSzBVaUpaWjZTdkdXZzItRTFOaGtMZWVtbEhpdUFSUWgwczNXa2VqZ3ktdzVhajBmYllFNVJIaUxnMDBLazE4S0VSTzZSbVFxMDZSUVY4aHIxVmhkcUpZeF85TzZYV2tqWkE5bVNWM29qWlE?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 13:21:12 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Apple expected to unveil first folding phone, with new CEO Ternus in command - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWlNdDREU0FXTWdNYTAyajJUNHR3NFVDd3dVVV92Y2dXSGpkZ1RKVGE3RVduaWtLX3piNElOQm1BWlV5RGFrNlJpSHZYQ2lHakU3T0NrVmVFNWhsVXJSazlEakQwZkN1blVSdEFZSWVnUmZZWFFmcm5KRUZ2TXFaY3ZJT0U3ckhVLWhvQ3lIalBZWXRSMzNORXV2YnBUT2dORVZFYWw1aHJWbl9MdFBpcGoyb2hOcG10VXVzZ0k0SzM4b0h5RnhMOTJB?oc=5",
           "pubDate": "Wed, 09 Sep 2026 13:11:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St set for lower open as oil hovers near $100 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZExkRWJ1dThFMjNOZWdHdkJuSFd4UENUUko1cUI2aWJNMkQzb3FtYm5kNWUza3hVRVQ2Qlk0WjFGRnlGZWRhbzVMckNacFc4NDRXbzRqTmdyWWxTdVZoQ3pYNjY2Nm9pNHJRTUo0dlhkNkFzN2NSZ3BYR2Rqb1dfYkFjWHI1eW5USFlQd200RzI1cVVYY0VsdEZMbDdNQnZrLThZ?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 12:49:59 GMT",
           "source": "Reuters"
         },
         {
@@ -185,9 +203,9 @@
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: China's DeepSeek taps CITIC Securities for domestic IPO, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNek1sMFNoNUdTTkFsT0lPdmU1dTIweFppQjJhZ2lBWDV4VTFkTmdDbGpmVDlCQW1pRkpIZWpzNC04S2tKNlZReGdKdzhlclc2dUZnelBTN0RxSmV5X1JXU3J6cU9WaWc3UHJRejVIc2ZxODRzVXByMk00LTE1WHg1SUZNSWstNU1Wazgzcjk4YjU5b3BWRGJGNnBYTFgwb0I1ZFJxR2U3Yw?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 12:21:28 GMT",
+          "title": "Rising energy costs lift China's producer, consumer inflation in August - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZDFLd1BDaVVNS01JdGxKYmQ5QVNtYlh3QlJEMTRUaWRHUUw1OTJqWnNTME94LUFkZk1BQU1GcnlaRmswN2gtTDYzeUduZjF3bi03QUlYUGRJR2Zqd1ptR0Ftek5kNGVXaFRZSE5HTE90YnA1ZDM4T0FPN2VOeDVfeDBzQVdaRjI4ajhEUFp2dHdnVXRWejYtLTBQOE8tSTNxcW1iTlU3MA?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 12:40:38 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEotZFlXVDdDeG05cmdnOVhQN0xrYXBpeUhaNDg2ZkQxNkdEZ0k2aVp6ZThfRWMwaHk4TUVPcTh1NHJ2S2VmQk1hZWdqM1Y2cXpqeGwtdHgxN291b0F2OGc3SGZMV0F2RUktY2g3RE1uVzhLSXVQMWc1OE9hSXhjNmxSTktoY2o3Uy01SjRYUVg1NjUxVHRPMndmODlpWW5OdEpPaUFpQjd3MHhfcmIxWGpZWFFhRnBSeEtIRFdDTTI?oc=5",
           "pubDate": "Wed, 09 Sep 2026 12:02:04 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Brent oil tops $100 as Middle East conflict intensifies, stoking supply fears - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 12:01:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US stock futures dip as oil breaches $100 mark for the first time since mid-year - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZExkRWJ1dThFMjNOZWdHdkJuSFd4UENUUko1cUI2aWJNMkQzb3FtYm5kNWUza3hVRVQ2Qlk0WjFGRnlGZWRhbzVMckNacFc4NDRXbzRqTmdyWWxTdVZoQ3pYNjY2Nm9pNHJRTUo0dlhkNkFzN2NSZ3BYR2Rqb1dfYkFjWHI1eW5USFlQd200RzI1cVVYY0VsdEZMbDdNQnZrLThZ?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 11:46:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "With large crowds attending, Norway lays King Harald to rest - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVk1peGpMbXZ5Vlcydm1xMTYyYzBwbC0wazMydVR6LWhBX3dweFl3UzVWbmxFMVpZNmE0dEVyc0k4NWYtRTZTVzh1STVySVpuOVVNNVBnQ1NJTjFYMjFTTEcxSkJvaThhRlpzZm5HeVh5QmZvZGo0YkRBdk1EQ2NMcUJidEQ3cVBKemlMVzJnWUwxQS0xUWwwZ21QLWo?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 11:33:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T13:25:18.652Z"
+      "updatedAt": "2026-09-09T13:50:24.451Z"
     }
   ]
 }
