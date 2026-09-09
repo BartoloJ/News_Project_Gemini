@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-09T11:00:22.818Z",
-  "lastChecked": "2026-09-09T11:00:22.818Z",
-  "lastUpdated": "2026-09-09T11:00:22.818Z",
-  "generatedAt": "2026-09-09T11:00:22.818Z",
+  "fetchedAt": "2026-09-09T11:25:15.756Z",
+  "lastChecked": "2026-09-09T11:25:15.756Z",
+  "lastUpdated": "2026-09-09T11:25:15.756Z",
+  "generatedAt": "2026-09-09T11:25:15.756Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T11:00:21.623Z"
+      "updatedAt": "2026-09-09T11:25:14.685Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
+          "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
+          "pubDate": "Wed, 09 Sep 2026 07:12:27 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
           "link": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
@@ -87,14 +93,14 @@
           "source": "NPR"
         },
         {
-          "title": "Judges may face unprecedented decisions this election. A new guide seeks to help",
-          "link": "https://www.npr.org/2026/09/09/nx-s1-5954189/2026-midterm-election-ballot-security-search-warrant-judge",
+          "title": "Citing the 'Deep State,' Trump overhauls the intelligence community",
+          "link": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
           "pubDate": "Wed, 09 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Citing the 'Deep State,' Trump overhauls the intelligence community",
-          "link": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
+          "title": "Judges may face unprecedented decisions this election. A new guide seeks to help",
+          "link": "https://www.npr.org/2026/09/09/nx-s1-5954189/2026-midterm-election-ballot-security-search-warrant-judge",
           "pubDate": "Wed, 09 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
           "pubDate": "Wed, 09 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/09/09/nx-s1-5955573/morning-news-brief",
-          "pubDate": "Wed, 09 Sep 2026 04:46:34 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T11:00:21.872Z"
+      "updatedAt": "2026-09-09T11:25:14.756Z"
     },
     {
       "name": "AP News",
@@ -136,15 +136,15 @@
           "source": "AP News"
         },
         {
-          "title": "College football | Latest News & Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 08:33:03 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Thieves steal 4 Renoirs from a French museum. 2 of the paintings are still missing - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlpjeEJ2Q3FpMFpvbXlmSFFkLVMxOUlHS1hweTZTUjZUa0FjOG5aSXg2ajN5TnJ6Z0ZhalVTam43VTJxZy1ybHdrQVpvV3B2QTRyZkxHeEZhX2p6YlFQWGpsQ2E0cUVQaUt4cC1wd2RZNjB3M3cyTTV2Q0lzaERva1drZlZmVlFFdlcyNDdtTnZXcFBaNllUaHNGZ1lEUQ?oc=5",
           "pubDate": "Wed, 09 Sep 2026 08:29:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 08:22:46 GMT",
           "source": "AP News"
         },
         {
@@ -167,62 +167,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T11:00:22.317Z"
+      "updatedAt": "2026-09-09T11:25:15.297Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Brent crude rises above $100 a barrel as Middle East conflict intensifies - Reuters",
+          "title": "Two seriously injured in explosion at hydroelectric plant in Switzerland - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQkJaQnBwa3dCSXY5NkZZUThSYXVtNENWTGVIcG9UbHlNakV5blBiS1lfZkxKNUw4cTNSdW9OcVhobmItZld1bjgyMmZaUlM2Y1h2bUVJQzgybW84bnNFWDRKOEtDcWFDOWdBZDlxeDZ4TUNqNEFLcHJvMWlyXzllNlBmSWh6LW9aak5JNWQyVDhvYW5TOEx3Wkh6dE51RlRERDNQWWYwNkVMSmlmLWNzLUk0NElFZw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 11:19:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Brent crude rises above $100 a barrel as Middle East conflict intensifies - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
           "pubDate": "Wed, 09 Sep 2026 10:51:59 GMT",
           "source": "Reuters"
         },
         {
-          "title": "COMMENTARY: In a global economic heatwave, beware financial wildfires: Mike Dolan - Reuters",
+          "title": "COMMENTARY: In a global economic heatwave, beware financial wildfires: Mike Dolan - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWEM0dzdnbGhzdFJRRUdQVkFya0g4SU5DQVp5d1dybVNBZlhoQnVCd2JLRUNsemJhOC1wd0JvYmE2a2thT2NFZ2w1clhSUy1MUHd4UkhmTm5VNXlLWUpaMmwxUUVZU0ZCTXRwMUNaNEhaV1ZNbWhtUXpwM1RtQVVTd3FJbXR3WThjM1lhOWVwRUN1NFY0SllLcHNraHByVGM1TXpnT29SN1h1TWJwaW1oSUNxU0dvakQ1dDNPdlRja2FSOFdyeXN5dlh1OA?oc=5",
           "pubDate": "Wed, 09 Sep 2026 10:41:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Amazon starts selling first sterling bonds, lead managers say - Reuters",
+          "title": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHg4WTBWRU9RMm16bXRLQnA2WHZfYm9ydEdPNnBXdHpKSEpRQi1rVS1hcW5VUk9DdlA3SE9ZWXpLMVZFNDUydzBYM2ROdmRqeEZfMmZtN0MxWDNRTnA3UklLYjNfTDlNNzcyY3Etb2JaSVZ2TGpIYVJWQWhsbGhTY0ZHdFNrS3FtYmdBN0pwU053OUZLU1NLT2ttZDM1emJ3VE10N3d6NF96UUxkLTFWUVV3elpNMTRLdjdjaV9MbHZDa2s3eTIxTEdrMk9CNl9oa0E?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 10:00:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Amazon starts selling first sterling bonds, lead managers say - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdlZhMHZ0RkVhaWNCVWdOa3N1aXVYdXJ1LS1tUTFFWU5hMlJYYTJaQkQ3SWc5RGhMcklmZkxrQlNZV0ozd1lnWTdZbjFVT1hYYzFRTkJYZVZiTEFNRjBlNWkxVGprb29nRnVEeHBlZ3dkVl9HdkNhcUg1bjBpYlo0dFVDbTl4YXA2MEllSXo5bS16N3lzYUh0TThldUJhci1jYTJiWXFOdU1teDAxZmVhbTRBOA?oc=5",
           "pubDate": "Wed, 09 Sep 2026 09:58:57 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread - Reuters",
+          "title": "Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzVQbDljaXVGc3FMQ192cjE5aGJrZjIzWGdLd0pjcUdSQVRkS3pLRGRPdk5veFUyQV9EWldST1lZUXNicGROYWFMYlg5RXdvbDE1UlZMLXNwWUJVVEJpTzZCN2F1RkNSeWw5SFJkWG42dHItblBXMWlhTU1qZGlQbmgzbFF5RTNWdk1iUUt1RGc5YTF5SEJWQWNIbF9Ybi1qS2RDNTlCOHlLZWsyRjRIaWxyV296dS1FQXFuRHltMkUydlZsWnVTcGQxWkFSQTR5NklmVl85RVpsZWpjRUhLejZR?oc=5",
           "pubDate": "Wed, 09 Sep 2026 09:58:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Oil tops $100, European stocks drop on fresh Gulf attacks - Reuters",
+          "title": "Oil tops $100, European stocks drop on fresh Gulf attacks - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV3luYTZkUFBsUEhrV1ByVUg5eTcwT0c4ODVwXzJZTHNvVzlhR1hwNVpLSzJ5MmVCT3VqV2wzMTdXb0ZZM00wY194Z3VCV2R2TUNxcGpVNVJrSk9JSS1XMllpQ0hrbEtFTFhaazN6NzFEaGxELW1NUnFFUFVvR1NjWkRrbw?oc=5",
           "pubDate": "Wed, 09 Sep 2026 09:57:36 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Israel tells Britain to close East Jerusalem consulate within 30 days, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVBIZHl1MUMxTUtJRldJbUNCTnBMejE5akQ1aVNzYVFYczZaZEZ1bnluRF9jeVBvZDQ5Y21tV0VaQ2ZiN1FLYlQxcGMtTy1rZC1PLUw3X0x6bnk2QmVMZl9QanVJWXVoTGtNbE80REJzSWE5UkVEdllzSjJXVi1naG04Zk9kanJmTXVMTlpsQ29EWkxPdm5pZ0Y1NWg1S3F6dFZoSW9FanBDN3BkZ2RCSUhFdk41THkzVF9hejNGSWJYVkV6clE?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 09:37:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Shipping traffic via Strait of Hormuz stays below 10-day average, data shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbXlWYlQ0MW1KT1g0U01lVldVbGtRWFU5U1FNVDllbEIwU3U2WElRSmw5QUg2Q2w3TUVUNDBUdWRSNWx1emlYRXdjLXY2NFk2VVgzTWExUHM0TTBHRGxKdlJ6Y0tPSUlvTXFoQzU5THV6b2dLbExKbkxaV1VtamZkRkdkMnpZTlAwNXlxVUxnNkZOdzRwX0MyTUNvN1lWVTV5WmtCX01iSmR2QkdESzl4VWlwbndRVkNfQUVBZm9DdDFFc1BK?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 09:35:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "PODCAST: Banned in the USA - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0tGQ3V2RFVJekJ6TkdPREtLMUF2SFFSaDRkWTZfaDVtNEhrLTJkMlMzRVBDY0FBVENvYzg4TnVqSjRnVG1MSW5nYTk0ODBNSnlNM3hDU2hZTmNxTEI2M21zQTllZkdLQWxvSWhWSkkzVFJmSmlGelhRdWQzY1Z4Qg?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 09:30:07 GMT",
+          "title": "Landslide hits Japan's Mount Fuji after heavy rain - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY1hzRVU4Qnp0dkNPQlVfa1lOVlpQV3ZSd3g1THBmRVlLSk5QcFl4QVpHR1JaOHNDM0x0dkluR1JqTDBDVlN5d2V4TnNLMkZhZEdVT2dUVncxS09hWXFWZ0JsT0FPRU5BclVFVHNKVjFsbURDUGVVMG5sTGxFY0JsTExSc0h0bi14aERMblUyVG1pcTlzbWgwVHhsd2xldVc4cXhfWDVrdjY4Zw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 09:39:30 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T11:00:22.817Z"
+      "updatedAt": "2026-09-09T11:25:15.756Z"
     }
   ]
 }
