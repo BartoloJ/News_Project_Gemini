@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-09T06:15:13.165Z",
-  "lastChecked": "2026-09-09T06:15:13.165Z",
-  "lastUpdated": "2026-09-09T06:15:13.165Z",
-  "generatedAt": "2026-09-09T06:15:13.165Z",
+  "fetchedAt": "2026-09-09T06:25:17.838Z",
+  "lastChecked": "2026-09-09T06:25:17.838Z",
+  "lastUpdated": "2026-09-09T06:25:17.838Z",
+  "generatedAt": "2026-09-09T06:25:17.838Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T06:15:12.260Z"
+      "updatedAt": "2026-09-09T06:25:16.667Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T06:15:12.306Z"
+      "updatedAt": "2026-09-09T06:25:16.959Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "World News: Top & Breaking World News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 04:16:21 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 04:09:58 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Apple to unveil latest iPhone lineup with as John Ternus steps up as CEO - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZnNEUHIyS2lzSmJQbndlYkJTcnJtNEdnTlRVNU5rTGJUVU9zOTcxNU9keURpVE40eHgzSExCYzRxcTM4bDdzMVBLSmdtRVYwRWczZU4xbDEwN090dkhiMEF6OG1VMWtPcFdhX20xVTQ0QTBSLVJQZTNjVzN3dDRGTzlyeUlUV1JUMk9NOUhlZFFXUQ?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 04:03:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Cargo jet tried to abort unsteady landing before Miami crash that killed 5, flight data indicates - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzhRUkhJNTh0V0lUSFlIMFVDVk9oeVdMUUJveE95Y2E2bGo3RW8tXzVXMTNiR3ptZ05XUmNwWVR5WklxMGNkamhORnRGQThOUENyR1NpbS03SUVvb2ZuLTk2ckFrQXRvSzN6X3A3RHprYnpQSmp3dnV5WGlNTHBubU9iNVczVVdXcVRiR0ZIRnBQdGJ3ZndBZEUyX2lpY2ItaE5ReThPTHVYZw?oc=5",
@@ -146,28 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQXZtTnpUb3duUUhzb2Z3cnY4TUZhTEJtWDlKRF9ac3BFUUhuMEFWUTlEVHJDQVJQd29zYkR4SFpUaW9pcUhfTlhKX2I2VkJXZVBPUGVpTC1tWWFicGxZOEJoQ3NUN2g5d3FTdUlpQVB5NThEaXJRLWtuVzB5TmN4YUxGbw?oc=5",
           "pubDate": "Wed, 09 Sep 2026 03:40:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Tung Chee-hwa, Hong Kong’s first post-colonial leader, dies at age 89 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMGRJNGZ2Yk95RXMwLWlLeWVRekg0cm4weFcyMjB1TnBLekJHOHMxTFhJLTZhaGxhRzB4OHJLRWtCSU81YTZiWXl4VEdySHF3V3NXR19BSi1USW9qbmtBV2dGeDN0M0QtZC1mYVlHekplTDJuUm4wMzlTeUl2cGJ3ZmVUWQ?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 03:25:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump gave $45,000 holiday gifts to Natalie Harp and two other White House aides - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTVDb1U0YVQyc0JmOGhGcHdIWGxOU21aUGN5ZVJVS0JzU1NQVV96VEVsWDA2Y0NCbjBnMVNsOHRhZTFXUmloN1JiWVJnZlJRd2kwS2xjam83aHRsejIyeHpQU0JwTmViME1fQWlqazFULTJ4Q0dvYXNsRlJrdUhCblZBQ3RrNFZQalJLVm5RS3M4XzRrb0xsWldjdFFyc2lZVTg4WWUtYw?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 03:20:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NCAA says it can't overturn Michigan's win over Western Michigan after MAC appeals outcome - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU19jOVJvYzdtdnBYd2Z3RVQ0UnUxbmNZdG9KMHVhOWhFc1RUUXlXRVBBOXNTSXQ3bmZmTk53c20tdXptaVZxN0liaHd1OVp2RTVFa1NPZTFjWVRDc3RDbjdvbHYxTnhkOGU5dWoyN3JMZklyd1pxYkNiUXpxejFVbzBzRU9Tc3dVeGhQandvSQ?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 03:16:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T06:15:12.770Z"
+      "updatedAt": "2026-09-09T06:25:17.435Z"
     },
     {
       "name": "Reuters",
@@ -175,19 +175,13 @@
         {
           "title": "Russian drones kill two at Ukraine-Moldova border crossing, authorities say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNel9TelVvajNuRnZKSjZnck5pUmxRbzU5N1hPeTBUSUpEQ04tMEpTUENVMEc4bHRfbGFfZTlNYWpLZFE3allZSkFoX0NZZm1FT0owekhQZEViLTd0SHVZb2NneWFiS19xMnhtd1JCenkwelFKRV81LVU3R2lrT2tXMV93Y1NOeHJ1cU1XRFYtMThLZHBYUWYydjBVbDF1LUl4M1ZtYlI4QWxTeElZOHFLbEx4bmc?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 05:43:09 GMT",
+          "pubDate": "Wed, 09 Sep 2026 04:35:00 GMT",
           "source": "Reuters"
         },
         {
           "title": "Iran attacks US base in Jordan, ships near Hormuz after tankers sunk - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2FPaUNRYjRBWnd2cmxkT044cmZYbENZYnhTWXAzUGxadUpEZ3N3aHpVSEtodVVsWUt6djBaeFhjUm5JOGVrNEE1SXlaUkxoSzBVaUpaWjZTdkdXZzItRTFOaGtMZWVtbEhpdUFSUWgwczNXa2VqZ3ktdzVhajBmYllFNVJIaUxnMDBLazE4S0VSTzZSbVFxMDZSUVY4aHIxVmhkcUpZeF85TzZYV2tqWkE5bVNWM29qWlE?oc=5",
           "pubDate": "Wed, 09 Sep 2026 04:07:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Shipping traffic via Strait of Hormuz stays below 10-day average, data shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbXlWYlQ0MW1KT1g0U01lVldVbGtRWFU5U1FNVDllbEIwU3U2WElRSmw5QUg2Q2w3TUVUNDBUdWRSNWx1emlYRXdjLXY2NFk2VVgzTWExUHM0TTBHRGxKdlJ6Y0tPSUlvTXFoQzU5THV6b2dLbExKbkxaV1VtamZkRkdkMnpZTlAwNXlxVUxnNkZOdzRwX0MyTUNvN1lWVTV5WmtCX01iSmR2QkdESzl4VWlwbndRVkNfQUVBZm9DdDFFc1BK?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 03:54:32 GMT",
           "source": "Reuters"
         },
         {
@@ -219,10 +213,16 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNGdPcmx6b1hqWkp2bVg1eThPNUJRMnd5U0J4WTJoNFlBYzM3ZDEySEpia1RlRVNfQmZCRjJrSmh1bGJTelI0RUJDeWZBQk1pVEY4d0gwR3FSVlo1Z0JWTkNFNE9PR1VNbXg0NGEzMml3bWxxZUR6N3Z0dDloU2hPbzdDY2d1UG8zU1RVclNIZWhVb1doeEVuWHg5WXhmRFVJRXRJMzl3YUxfRnhqUlpVUENiZlRJcGs?oc=5",
           "pubDate": "Wed, 09 Sep 2026 02:07:00 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "Yen stands tall as dollar wobbles, oil's run towards $100 chills sentiment - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEotZFlXVDdDeG05cmdnOVhQN0xrYXBpeUhaNDg2ZkQxNkdEZ0k2aVp6ZThfRWMwaHk4TUVPcTh1NHJ2S2VmQk1hZWdqM1Y2cXpqeGwtdHgxN291b0F2OGc3SGZMV0F2RUktY2g3RE1uVzhLSXVQMWc1OE9hSXhjNmxSTktoY2o3Uy01SjRYUVg1NjUxVHRPMndmODlpWW5OdEpPaUFpQjd3MHhfcmIxWGpZWFFhRnBSeEtIRFdDTTI?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 01:59:00 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T06:15:13.165Z"
+      "updatedAt": "2026-09-09T06:25:17.838Z"
     }
   ]
 }
