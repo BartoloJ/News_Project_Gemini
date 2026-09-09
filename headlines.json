@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-09T08:50:20.309Z",
-  "lastChecked": "2026-09-09T08:50:20.309Z",
-  "lastUpdated": "2026-09-09T08:50:20.309Z",
-  "generatedAt": "2026-09-09T08:50:20.309Z",
+  "fetchedAt": "2026-09-09T09:00:21.376Z",
+  "lastChecked": "2026-09-09T09:00:21.376Z",
+  "lastUpdated": "2026-09-09T09:00:21.376Z",
+  "generatedAt": "2026-09-09T09:00:21.376Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T08:50:19.052Z"
+      "updatedAt": "2026-09-09T09:00:20.457Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/09/09/nx-s1-5955573/morning-news-brief",
+          "pubDate": "Wed, 09 Sep 2026 04:46:34 -0400",
+          "source": "NPR"
+        },
         {
           "title": "TSA brings back gate access for some people without plane tickets 25 years after 9/11",
           "link": "https://www.npr.org/2026/09/09/g-s1-142480/tsa-gate-access-25-years-after-9-11",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/08/g-s1-142038/taliban-afghanistan-public-flogging",
           "pubDate": "Tue, 08 Sep 2026 09:01:58 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect",
-          "link": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs",
-          "pubDate": "Tue, 08 Sep 2026 07:20:05 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T08:50:19.394Z"
+      "updatedAt": "2026-09-09T09:00:20.765Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,12 @@
           "title": "Shelton ends Alcaraz’s title reign in late-night marathon, will face Tiafoe in US Open semis - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHZFU09TYnJLbTg4b09scUVlWTVKNElsM2lFekFmbHFRUElPUWVFLThqVUlZN19GQlBNZkZFN0hSZDhEUXk5dmVpdlpBNzc1SVdrVlZqTXAwbkViWThvUFZpZGpyeVVFa3dtUjN2U215TjExb1RsUlBvS3A0elZsVHEwOHpBdUxCU2FGRTZEVmtmUjF6NHBmalZ4SkphMjVSRU9TLWI3VWV6aDVWWmc?oc=5",
           "pubDate": "Wed, 09 Sep 2026 08:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 07:54:02 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzhRUkhJNTh0V0lUSFlIMFVDVk9oeVdMUUJveE95Y2E2bGo3RW8tXzVXMTNiR3ptZ05XUmNwWVR5WklxMGNkamhORnRGQThOUENyR1NpbS03SUVvb2ZuLTk2ckFrQXRvSzN6X3A3RHprYnpQSmp3dnV5WGlNTHBubU9iNVczVVdXcVRiR0ZIRnBQdGJ3ZndBZEUyX2lpY2ItaE5ReThPTHVYZw?oc=5",
           "pubDate": "Wed, 09 Sep 2026 03:58:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Southeastern Conference leaders to discuss expelling LSU, which backs off rostering pro players - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFBkeExTRXJmUjhhUGVUZXFWa3FuSXJLc3FpQ05DWkpWMXZwUy1mY0puUF80cHQ3dWVRTlQ3dlR5aV9haDVqMzlxY3FEU0lXOGdxR2VpX2FycjByQmRGTVVPcU5ZcGw5VGxEbmZWWFhRTXVHSHhialoyaTBGTmhmdW42ZWVsd2JqV3E5dlc0QzREdkE?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 03:57:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T08:50:19.903Z"
+      "updatedAt": "2026-09-09T09:00:21.355Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T08:50:20.309Z"
+      "updatedAt": "2026-09-09T09:00:21.375Z"
     }
   ]
 }
