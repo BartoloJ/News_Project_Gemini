@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-09T05:00:23.108Z",
-  "lastChecked": "2026-09-09T05:00:23.108Z",
-  "lastUpdated": "2026-09-09T05:00:23.108Z",
-  "generatedAt": "2026-09-09T05:00:23.108Z",
+  "fetchedAt": "2026-09-09T05:25:14.194Z",
+  "lastChecked": "2026-09-09T05:25:14.194Z",
+  "lastUpdated": "2026-09-09T05:25:14.194Z",
+  "generatedAt": "2026-09-09T05:25:14.194Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T05:00:22.205Z"
+      "updatedAt": "2026-09-09T05:25:13.140Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
+          "link": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
+          "pubDate": "Wed, 09 Sep 2026 01:20:45 -0400",
+          "source": "NPR"
+        },
         {
           "title": "New report shows the economic toll of ICE raids",
           "link": "https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids",
@@ -103,71 +109,65 @@
           "link": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
           "pubDate": "Tue, 08 Sep 2026 06:46:03 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Has the economy gone C-shaped?",
-          "link": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
-          "pubDate": "Tue, 08 Sep 2026 06:30:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T05:00:22.286Z"
+      "updatedAt": "2026-09-09T05:25:13.362Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Cargo jet tried to abort unsteady landing before Miami crash that killed 5, flight data indicates - AP News",
+          "title": "Cargo jet tried to abort unsteady landing before Miami crash that killed 5, flight data indicates - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzhRUkhJNTh0V0lUSFlIMFVDVk9oeVdMUUJveE95Y2E2bGo3RW8tXzVXMTNiR3ptZ05XUmNwWVR5WklxMGNkamhORnRGQThOUENyR1NpbS03SUVvb2ZuLTk2ckFrQXRvSzN6X3A3RHprYnpQSmp3dnV5WGlNTHBubU9iNVczVVdXcVRiR0ZIRnBQdGJ3ZndBZEUyX2lpY2ItaE5ReThPTHVYZw?oc=5",
           "pubDate": "Wed, 09 Sep 2026 03:58:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Southeastern Conference leaders to discuss expelling LSU, which backs off rostering pro players - AP News",
+          "title": "Southeastern Conference leaders to discuss expelling LSU, which backs off rostering pro players - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFBkeExTRXJmUjhhUGVUZXFWa3FuSXJLc3FpQ05DWkpWMXZwUy1mY0puUF80cHQ3dWVRTlQ3dlR5aV9haDVqMzlxY3FEU0lXOGdxR2VpX2FycjByQmRGTVVPcU5ZcGw5VGxEbmZWWFhRTXVHSHhialoyaTBGTmhmdW42ZWVsd2JqV3E5dlc0QzREdkE?oc=5",
           "pubDate": "Wed, 09 Sep 2026 03:57:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Competing court orders add confusion to Missouri congressional elections - AP News",
+          "title": "Competing court orders add confusion to Missouri congressional elections - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1ZDS3N5MDJQT0Jmbk54M0xueW14RkhNeDRBRzRVd2RKYXQwU2tnU3BiOC1hRmhBcFJYdEFDU1pIZVQta1Z6UTN2elVxQnFMVGVtM1FwendfZ3pxbTFIWG9jbGNwbjE3OXpRa2s1T3VlT1I3VmhxcEJKY0V0OFNYdFpBNmt1UmRWOFhTWFpEMGlNQTlfTUZUaVpZUFV3bUdIX3lJTDdlZEp5aHdGUFE?oc=5",
           "pubDate": "Wed, 09 Sep 2026 03:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Aaron Judge goes 0 for 3 with 2 Ks in return to Yankees after 99-day absence caused by broken rib - AP News",
+          "title": "Aaron Judge goes 0 for 3 with 2 Ks in return to Yankees after 99-day absence caused by broken rib - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRVBfVUppbkJma1FaOUE3WnhiMlQ4eWM4b0NCT0pZeWFVMHlzVnpzT0pXYlNjVEY1ZVRfdVBUek02YnlRa2FvUTM0NERUY2cxVVlMbjhXbWZoNUg5XzcxdWFCUTlGdEY2ajlIdE9pNFplQnNMbjlQbFMzeE9fbVo4bzI4aTNxUQ?oc=5",
           "pubDate": "Wed, 09 Sep 2026 03:43:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Ancient Rome's biggest fresco and mosaic open to public for first time since discovery 3 decades ago - AP News",
+          "title": "Ancient Rome's biggest fresco and mosaic open to public for first time since discovery 3 decades ago - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQXZtTnpUb3duUUhzb2Z3cnY4TUZhTEJtWDlKRF9ac3BFUUhuMEFWUTlEVHJDQVJQd29zYkR4SFpUaW9pcUhfTlhKX2I2VkJXZVBPUGVpTC1tWWFicGxZOEJoQ3NUN2g5d3FTdUlpQVB5NThEaXJRLWtuVzB5TmN4YUxGbw?oc=5",
           "pubDate": "Wed, 09 Sep 2026 03:40:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump gave $45,000 holiday gifts to Natalie Harp and two other White House aides - AP News",
+          "title": "Trump gave $45,000 holiday gifts to Natalie Harp and two other White House aides - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTVDb1U0YVQyc0JmOGhGcHdIWGxOU21aUGN5ZVJVS0JzU1NQVV96VEVsWDA2Y0NCbjBnMVNsOHRhZTFXUmloN1JiWVJnZlJRd2kwS2xjam83aHRsejIyeHpQU0JwTmViME1fQWlqazFULTJ4Q0dvYXNsRlJrdUhCblZBQ3RrNFZQalJLVm5RS3M4XzRrb0xsWldjdFFyc2lZVTg4WWUtYw?oc=5",
           "pubDate": "Wed, 09 Sep 2026 03:20:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NCAA says it can't overturn Michigan's win over Western Michigan after MAC appeals outcome - AP News",
+          "title": "NCAA says it can't overturn Michigan's win over Western Michigan after MAC appeals outcome - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU19jOVJvYzdtdnBYd2Z3RVQ0UnUxbmNZdG9KMHVhOWhFc1RUUXlXRVBBOXNTSXQ3bmZmTk53c20tdXptaVZxN0liaHd1OVp2RTVFa1NPZTFjWVRDc3RDbjdvbHYxTnhkOGU5dWoyN3JMZklyd1pxYkNiUXpxejFVbzBzRU9Tc3dVeGhQandvSQ?oc=5",
           "pubDate": "Wed, 09 Sep 2026 03:16:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump widens trade war with Canada beyond tariffs. Here’s what to know - AP News",
+          "title": "Trump widens trade war with Canada beyond tariffs. Here’s what to know - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUHRWc2I4elJ6Ukh6TzhHcF9IUEFEbnZFUkRiYTQ5Nnh2cUUxU3pQYXR0eml3UFFNWGt2bHFBdzJXeEIxRV96dXdBOUY2VzFYZXhVY2hhRmlEcVF0Y0xGNVAwX0ZzZGloOURMTzZ4bERjbDlmWnBzRWoxbVRqYUt4OWJEanc2V3YyTlNGSURSQjlpblJIV2FIT3A3bzBhQQ?oc=5",
           "pubDate": "Wed, 09 Sep 2026 02:57:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T05:00:22.730Z"
+      "updatedAt": "2026-09-09T05:25:13.796Z"
     },
     {
       "name": "Reuters",
@@ -185,9 +185,21 @@
           "source": "Reuters"
         },
         {
+          "title": "Oil nears $100 as fresh Middle East strikes raise supply risks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzVwcURFOW5QT2VTVW5YdFV2a2NPRGh1YkFoaTV2VUE0MXhES2gwR1ptSldNN29OZUZOLUQ2NlFUZUNpYjRFV25nTTR5cW03ZEFmX1BzMzViNGI5VXhWMWhtZHU1SDNxQ1Iyc2lDcEZOYnVpU3JMUVE4Uk9IUkVyYUdjd2ppV01LbDZESEQzWDBaZHZyOEpCem9yRkw0YUhnTVpuSVlzc01jVWszdVJSWg?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 02:28:22 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV3luYTZkUFBsUEhrV1ByVUg5eTcwT0c4ODVwXzJZTHNvVzlhR1hwNVpLSzJ5MmVCT3VqV2wzMTdXb0ZZM00wY194Z3VCV2R2TUNxcGpVNVJrSk9JSS1XMllpQ0hrbEtFTFhaazN6NzFEaGxELW1NUnFFUFVvR1NjWkRrbw?oc=5",
           "pubDate": "Wed, 09 Sep 2026 02:27:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US judge dismisses suit by British anti-disinformation activist against deporting him - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNODV4cElOcTRQX0RSM0RiQThlVGtnRnBDaWpQZGVXczhCcDN2aTBMRGhwdGgxQkh4aU8xTXBxMFloT3ZTVGYzT3h2ekcwV2w2MloyMDZCZnl1bUtyazNieGlEdy1mTTdRcHR4Y1hrdW1BdjU4YkNZNHRxNWROdUw0eUQwYkF4bE40d0x6UWxaR0pwejZUZGpRX3Q4bk9LendOYjhiNkV4azdteW55MWtyWHpNMl9NNmZUekdrUFF4YVp0dw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 02:18:00 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Oil nears $100 as fresh Middle East strikes raise supply risks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzVwcURFOW5QT2VTVW5YdFV2a2NPRGh1YkFoaTV2VUE0MXhES2gwR1ptSldNN29OZUZOLUQ2NlFUZUNpYjRFV25nTTR5cW03ZEFmX1BzMzViNGI5VXhWMWhtZHU1SDNxQ1Iyc2lDcEZOYnVpU3JMUVE4Uk9IUkVyYUdjd2ppV01LbDZESEQzWDBaZHZyOEpCem9yRkw0YUhnTVpuSVlzc01jVWszdVJSWg?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 00:23:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump attributes state election win of Germany's far-right AfD to immigration rules - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFk4VHhGWVN5QldkZnQ3R1RRWXJtMzcxOFlNZGNCUWFmYnpQY2pyTXRCSVhLNk9PSnpCcXJKUndJTXA0blhTREJhS2VpME1mUUYySkpjLVlPUmFRWXRqQ1h0ZVdkNzhRYm56R3FsSHg0UjYtaXJ5WWxvNjNRaGxXOFZrN3JnMXdUZktkYXIzVEs3cHhTWTFHdnFrQWxtem1sSENON1NpSjRUck5GWmRQUlE2SUY1czNBN1IzQXU4ZzVDU0U?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 23:55:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US to ban Canadian dairy, alcohol, motor vehicle imports on September 29 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUYwWFIyd1Y1Y2FfSnVUSnNiVzFJSlV2Zzg0QjF2U2NJb2M5VDJRMkRCbG5BXzBmWVA3WkIydnNBNHdTZHQzbTRtT3hfcHZ6MW1oYjFMeWVDQmREUEdabDBsZFZMeHQtYU5sck1BbG5NNTFwemxyVmxOaEpWYXJIa0RZbkVWc1BHdTdyZXRtdDBaTDhYM3VtNUVrV3UwV1R6RlJzRXFxQ0xDRXVJQUE?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 23:49:44 GMT",
+          "title": "Pilots considered aborting landing after touchdown in Miami cargo crash, NTSB says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOFFTRHY4RnFqaFFMQmJ3d2UzdkpBd2x0ZXVUeG16N2NWTUVrNzBlYWlrQmQ2SDVJbGJmckNkaU40QUxjSV8tcFpaOG1kaWdhaXdodDlCMjc5UG10cm8tZjNoNERFX2tmdG14alFEZlRyblk2RmhVN3dDZWlJVXRITjdqV25TNlFfLUlBMkVvdWpYbi1FeTVlSmhiYjRITEs1VTd1OW9UMGF6QU1zWmQzZWRKSXI4eDM3elladFpITmNGS0R3azc5SWxKV2dlQWRxaUJtbVRB?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 01:45:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T05:00:23.108Z"
+      "updatedAt": "2026-09-09T05:25:14.193Z"
     }
   ]
 }
