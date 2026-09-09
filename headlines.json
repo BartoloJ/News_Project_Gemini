@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-09T19:00:22.494Z",
-  "lastChecked": "2026-09-09T19:00:22.494Z",
-  "lastUpdated": "2026-09-09T19:00:22.494Z",
-  "generatedAt": "2026-09-09T19:00:22.494Z",
+  "fetchedAt": "2026-09-09T19:25:13.296Z",
+  "lastChecked": "2026-09-09T19:25:13.296Z",
+  "lastUpdated": "2026-09-09T19:25:13.296Z",
+  "generatedAt": "2026-09-09T19:25:13.296Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T19:00:21.661Z"
+      "updatedAt": "2026-09-09T19:25:12.178Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T19:00:21.860Z"
+      "updatedAt": "2026-09-09T19:25:12.337Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 19:08:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "As midterms approach, new poll finds that few Americans trust campaigns or Trump - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3FxUlZNb3gzMFhxRmxJYW5PbjhBMlZ6SlMxZ1U1cGRfdllTc2p0emVHcXh3dmYwYlV5cGhFVmtvQlJEeE53UXV6RDJreGtrOGpGT19SenJFcnM3LXp4U0NxblFpM0hGY1ZwNGNNalVJajJHSnpNUHVWelBBdEptdFVmMGxfdHctaXU2bHFkdDdJcE9ZekxpS2xySG03TGlUUUstR3JqaHNMRmlReXc?oc=5",
@@ -136,6 +142,18 @@
           "source": "AP News"
         },
         {
+          "title": "Yemen's Houthi rebels say Saudi-backed forces launched airstrikes, and other key Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPczdJRnExQ1FLTzA5RlBFWnNlWmIwVFpfd0tWd1ZWT3dyd2FWSmp5NlRxd0lGVHhhdkE4SmNqMS0wQng1QjBBRV84ZThNdGRBekVuN09PeHhvNDJGSWlFX3JFMzFEVkZuYXg5WVdyOU16b1BqRkloVExfTi10M2JJMDJIZVpVa2FhWFdOR2JHeGVockIwY25qS243RE9UdTFIUHRMV05IeHdMdw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 17:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Temporary protections for about 200,000 Salvadoran immigrants are in limbo as deadline nears - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmt4d0dMbHNLb1REbFVFVV9PLWg4b05TUmZTTUhCWVJTaFZ2el9nWi1MbUt1eFh6YTJFcEpEZWhMTHMtNFE4ZUw2Mk1oVkRlZm5TWHhEZEJkYXZ4dnRwYjY4bnRwdmlNZjc5dUR6TDNRQThEMVFHUnVBdm05NFlrMWlMOFAyMkE0Y0Y2SHNiRFhsTWgySFZKN3NieEhnb2F2Wm1ya2NBRHZST295SXc?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 17:44:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Zelenskyy urges more international pressure on Russia for civilian deaths - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVptWDlGOFQ4OUpVelNYVXVMNXZwOUYzaTVuUlhhcV9iR0pnMGdRZnJtdVkzSkxsMnlQUlJjYTJIYkk5cTJxWUpRbjU4eUJJV2NfTm5hZnRUSFJxdjkxazdIR2tSR2VkN1dMZW1SaWVUV1F0TFdaSWJDNXh4c3lweVE4TjA3WGM2aENCbGprLWM4T0NRY2R4OE9TWFNYeWVpdnFF?oc=5",
           "pubDate": "Wed, 09 Sep 2026 16:04:00 GMT",
@@ -146,32 +164,32 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1BOQjh6RzR3NkhUTWNocHc3U2RzckMzVGdyMFVwR0JqS3JocTgtbFFwTkwtUU1pTURKNGNma3VpZmYtUExvaHZuYU8wZTlDSEFqemRLc0U0NzhyWUxtaDVxUUp1TW45TFU2MnY5WGhqNFVWd0RPWG1sV1J0N2x3LUFweTlPb0pjcm9YcW9oSS1uTk14cWVIWUJ2Z202Zw?oc=5",
           "pubDate": "Wed, 09 Sep 2026 15:51:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "China hits back at US claims of ‘malicious’ AI distillation ahead of planned Trump-Xi talks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEZmdXg5dmdiazZrczJsNzNOLUpwNnlON0hJVHFNYXczcGFFM1VkVFJTMXRNWGdUeGlsVDl0dVpIcHkzb3VSV1JaeERBY3RSRG5HbmRaaTVjcjhRYmRPQ3UxNkx3RGRESWhyVDBNdXNCandRTnIzajlabUx4c2ttTWptam1PN3FwYTFuanpiaFFhQzNBc0NyLU1n?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 15:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 15:08:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 14:10:19 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T19:00:22.474Z"
+      "updatedAt": "2026-09-09T19:25:12.832Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump boards Qatar-gifted Air Force One after saying slide being checked - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDFmbU9kUFlkTGo3Qmg3SzFVajhJVVRYdnF4UWdWU3VId1c1TnJCZFpQZ1BTYzlMak94eFZ0WlhnMGxaVGEtWTctRUNmbV85cjhldmpSVDN4Y2hrbEJ1SWdaNzl2ODlZTE1vc0h5MlNDQ2xzbDRrNUc2RHRyMmRrQ1JsenFIUV9DQU1zUUk1TnlLOHh2QVoyajExU1I3ak1JZ2I3R21SeWtackpsYTgweEZR?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 18:50:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 18:42:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Apple debuts $1,999 passport-shaped foldable phone, called Duo - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWlNdDREU0FXTWdNYTAyajJUNHR3NFVDd3dVVV92Y2dXSGpkZ1RKVGE3RVduaWtLX3piNElOQm1BWlV5RGFrNlJpSHZYQ2lHakU3T0NrVmVFNWhsVXJSazlEakQwZkN1blVSdEFZSWVnUmZZWFFmcm5KRUZ2TXFaY3ZJT0U3ckhVLWhvQ3lIalBZWXRSMzNORXV2YnBUT2dORVZFYWw1aHJWbl9MdFBpcGoyb2hOcG10VXVzZ0k0SzM4b0h5RnhMOTJB?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 18:41:57 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Republican lawmakers criticize Ford business ties to China - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlBwY0xWY25vMW5KUmhIc3BjbVp0bUhyTnpXOGRuOXhKWVFVSlZrMWRXc2VsWHFRLWJ3UU14VmFrLWJTenNJa2NiNm52SWpTc2cyM0RrcG14el9TOVdFNkFDYkZKcGNPeWtqM19OYlZOTjFUaS1TYXJFZElMM0JHREo1SjhabVROTllGQzBnLXRuQml0cnZlWGRVOUFmX3IwN3lLNGpYSC11aEJmMFVqRWF3YUtDSHQ4amJueXhn?oc=5",
@@ -185,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Suno releases new AI music models in partnership with Warner Music, BMG - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUU2OHhzTDE2cXROTGVBNkRiR2g1bWZSRUZDeXlDQjhidWkyVHBYeXJ2NUxfdlRhS0dxdzM1LTdiSnlHUTl5V0tzdnRGYW5DajVqWE9DaFhOckF6b2l0N2lwVmVVYWgtVmQwMmdhVWh3UWVfaWpfVTVXbDVyeDVTMEhQaXZPX3ZrUVUwZmx5a0h6NFFUeWg2RmxjcEcyOXRlSHl3RUVzMGRYNDFqV2hVZ19GUGFpU3RGR1lBWQ?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 18:33:46 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Oil tanker hit in Iraqi waters, as vessels get caught in US-Iran attacks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNckd4WVFmZEhoNEFkVzRzdE9JMVJ2QVUwMmk3MDRuUTA3NHc3N0xrY2VLZl9GY2Q2WU1ybzBodjhINEQwaV9GQmpKS3FSdXpSY3B3M0VUY3V6NUJvSU1zR1NPYmpLMUtvN3ZrYlZEVlZVNmhZTWZhdnhpM2dEaEZJZzBlbDN3cE42cXNsbDdnYmNkT3ROZTVzVjdBZUJ0NjRCYW4tQUdQQk5NNTV4NFIw?oc=5",
           "pubDate": "Wed, 09 Sep 2026 18:10:03 GMT",
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
           "pubDate": "Wed, 09 Sep 2026 17:45:32 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Tate brothers lose bid for release from US jail pending extradition - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeDlqbVVWZnI4dkx2TGlmWW5LRU1aNTBqTnk4MXRQdjE3UGMyQlFPY1NjS3p2eVZ1X1ZpeUhYXzUtNVFIaE11RldBSzF1bGZHczdTd2FCdm1Wcnp4TkF1NFo5S1hGamttZ2oyZzJjYkUzd1NhczRKUEgxWGs5eWppem80c0JvaGVqRTZ5MFM5WWotNm5HcnY2NU9MWnJCSEF3TFZPUldyOTFxZ292eGU5Mg?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 17:38:29 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Apple shows off iPhone 18 Pro at start of event expected to debut folding phone - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWlNdDREU0FXTWdNYTAyajJUNHR3NFVDd3dVVV92Y2dXSGpkZ1RKVGE3RVduaWtLX3piNElOQm1BWlV5RGFrNlJpSHZYQ2lHakU3T0NrVmVFNWhsVXJSazlEakQwZkN1blVSdEFZSWVnUmZZWFFmcm5KRUZ2TXFaY3ZJT0U3ckhVLWhvQ3lIalBZWXRSMzNORXV2YnBUT2dORVZFYWw1aHJWbl9MdFBpcGoyb2hOcG10VXVzZ0k0SzM4b0h5RnhMOTJB?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 17:34:21 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 17:05:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Treasury to buy up to $6 billion in Sept 10 buyback operation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMVFtZW9VYi1jWGlldTlubUM4OU9MS0ozbXlHc0E3dEVDQjktaHhXdWhGVFlLMjRnaXZqanp6RnM1YndSUzdZN2s1SUNvZzlJSmNKclRnbmRaN19GeGxGeHV6eGtQd0JkNWVSMVg1SFZMNkN3Mkl4Nk9SaGpVd29mZXNJTEIyUnF1eG9yRkZtRlRTeFdtSTh3LTA2NEg?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 16:59:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T19:00:22.494Z"
+      "updatedAt": "2026-09-09T19:25:13.296Z"
     }
   ]
 }
