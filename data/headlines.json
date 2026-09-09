@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-09T03:25:12.730Z",
-  "lastChecked": "2026-09-09T03:25:12.730Z",
-  "lastUpdated": "2026-09-09T03:25:12.730Z",
-  "generatedAt": "2026-09-09T03:25:12.730Z",
+  "fetchedAt": "2026-09-09T03:50:16.016Z",
+  "lastChecked": "2026-09-09T03:50:16.016Z",
+  "lastUpdated": "2026-09-09T03:50:16.016Z",
+  "generatedAt": "2026-09-09T03:50:16.016Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T03:25:11.538Z"
+      "updatedAt": "2026-09-09T03:50:14.802Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T03:25:11.778Z"
+      "updatedAt": "2026-09-09T03:50:15.132Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Southeastern Conference leaders to discuss expelling LSU, which backs off rostering pro player - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFBkeExTRXJmUjhhUGVUZXFWa3FuSXJLc3FpQ05DWkpWMXZwUy1mY0puUF80cHQ3dWVRTlQ3dlR5aV9haDVqMzlxY3FEU0lXOGdxR2VpX2FycjByQmRGTVVPcU5ZcGw5VGxEbmZWWFhRTXVHSHhialoyaTBGTmhmdW42ZWVsd2JqV3E5dlc0QzREdkE?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 03:33:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Cargo jet tried to abort unsteady landing before Miami crash that killed 5, flight data indicates - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzhRUkhJNTh0V0lUSFlIMFVDVk9oeVdMUUJveE95Y2E2bGo3RW8tXzVXMTNiR3ptZ05XUmNwWVR5WklxMGNkamhORnRGQThOUENyR1NpbS03SUVvb2ZuLTk2ckFrQXRvSzN6X3A3RHprYnpQSmp3dnV5WGlNTHBubU9iNVczVVdXcVRiR0ZIRnBQdGJ3ZndBZEUyX2lpY2ItaE5ReThPTHVYZw?oc=5",
@@ -136,18 +142,6 @@
           "source": "AP News"
         },
         {
-          "title": "Southeastern Conference leaders to discuss expelling LSU over player eligibility dispute - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFBkeExTRXJmUjhhUGVUZXFWa3FuSXJLc3FpQ05DWkpWMXZwUy1mY0puUF80cHQ3dWVRTlQ3dlR5aV9haDVqMzlxY3FEU0lXOGdxR2VpX2FycjByQmRGTVVPcU5ZcGw5VGxEbmZWWFhRTXVHSHhialoyaTBGTmhmdW42ZWVsd2JqV3E5dlc0QzREdkE?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 02:22:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US military says it destroyed 5 more Iranian oil tankers after missile attacks on Navy warship - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlN5b1FuNFl6ajd5T0Z0MVppWHZ5Y2hFOHJ4dkd0X1dqMGljMHlOX0FZNE9HSXU4SmoxVUVQVEs5OUg2OG8yM1NyazNZQ1VPU1dCS3p0NmNsUk5rVjBMY0xONjRQWGRtTk1vZkNFOC1PWElwcGZmbk9SUzVRS3JCeTlhN25heDc1b0dWbA?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 02:16:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Competing court orders add confusion to Missouri congressional elections - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1ZDS3N5MDJQT0Jmbk54M0xueW14RkhNeDRBRzRVd2RKYXQwU2tnU3BiOC1hRmhBcFJYdEFDU1pIZVQta1Z6UTN2elVxQnFMVGVtM1FwendfZ3pxbTFIWG9jbGNwbjE3OXpRa2s1T3VlT1I3VmhxcEJKY0V0OFNYdFpBNmt1UmRWOFhTWFpEMGlNQTlfTUZUaVpZUFV3bUdIX3lJTDdlZEp5aHdGUFE?oc=5",
           "pubDate": "Wed, 09 Sep 2026 01:57:00 GMT",
@@ -164,14 +158,32 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTUgxSWZaOWhTSTVEbEFLYURrY3Rac2FMMll6dk1rTDZFbThMc24yY3FNWHlLcks1dXV6cl9mWEIxdUxGUmx6NlUyek1lWFFISXFpSUxEY2Ixbzg5b3J2ZVZtemN0eTd5bHgxRzNzOG5MMUltajZvSmU3UlNSb3VwMFR2TTlnTFhlNGplRzVld2hBODMyb2p1eFl3TTZ0ZWZOUTNHV0k3UzZVSTBmVWNwNzgtcDdraWc?oc=5",
           "pubDate": "Wed, 09 Sep 2026 01:43:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Travel chaos at UK airports as over 1,000 flights canceled due to air traffic control issue - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQalgtcVdScXdZR1gySE55eG1fd2dYRHNacEVNN01FeVVWOS0tOEJnYkYtajR0S1luMnpRVG56Y0Y0aXlZRHJ4M3FQU3E5LVVtdGRaZVVXSUlRX09uOW1SUWM3bVQ0cUx3eGZ4MWZxdS1NdUlzYVZieGZpU0JMZ3VxSjEyWDZ6UGxvVS1JVXdqSlVmeGZrRU1jekNPSVN4Y2df?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 01:28:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T03:25:12.263Z"
+      "updatedAt": "2026-09-09T03:50:15.597Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV3luYTZkUFBsUEhrV1ByVUg5eTcwT0c4ODVwXzJZTHNvVzlhR1hwNVpLSzJ5MmVCT3VqV2wzMTdXb0ZZM00wY194Z3VCV2R2TUNxcGpVNVJrSk9JSS1XMllpQ0hrbEtFTFhaazN6NzFEaGxELW1NUnFFUFVvR1NjWkRrbw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 02:27:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Who are the Houthis, Iran’s allies in Yemen? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN212czZZNnNEYmF3UzlicUQwSG1haUt0SDZLd3pQeHJTWTVmWHZ6NjBFQ0FlYUxyLXU5ZmJiaGpMMHVONXJrcHM5SV9GZVJiY25xdkw0SVB6cElieWJfckgzTGhYOG5XYXFvcjlvWkhhaUU5a0l1TUotVkczc2FCRXkzNHRVaXZCNVcwd1A1dUUtSEY2RnZvTUc0ZmNMM2xTWHhHNmIzd21EbUY3?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 02:18:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Oil nears $100 as fresh Middle East strikes raise supply risks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzVwcURFOW5QT2VTVW5YdFV2a2NPRGh1YkFoaTV2VUE0MXhES2gwR1ptSldNN29OZUZOLUQ2NlFUZUNpYjRFV25nTTR5cW03ZEFmX1BzMzViNGI5VXhWMWhtZHU1SDNxQ1Iyc2lDcEZOYnVpU3JMUVE4Uk9IUkVyYUdjd2ppV01LbDZESEQzWDBaZHZyOEpCem9yRkw0YUhnTVpuSVlzc01jVWszdVJSWg?oc=5",
@@ -182,6 +194,12 @@
           "title": "Trump attributes state election win of Germany's far-right AfD to immigration rules - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFk4VHhGWVN5QldkZnQ3R1RRWXJtMzcxOFlNZGNCUWFmYnpQY2pyTXRCSVhLNk9PSnpCcXJKUndJTXA0blhTREJhS2VpME1mUUYySkpjLVlPUmFRWXRqQ1h0ZVdkNzhRYm56R3FsSHg0UjYtaXJ5WWxvNjNRaGxXOFZrN3JnMXdUZktkYXIzVEs3cHhTWTFHdnFrQWxtem1sSENON1NpSjRUck5GWmRQUlE2SUY1czNBN1IzQXU4ZzVDU0U?oc=5",
           "pubDate": "Tue, 08 Sep 2026 23:55:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US to ban Canadian dairy, alcohol, motor vehicle imports on September 29 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUYwWFIyd1Y1Y2FfSnVUSnNiVzFJSlV2Zzg0QjF2U2NJb2M5VDJRMkRCbG5BXzBmWVA3WkIydnNBNHdTZHQzbTRtT3hfcHZ6MW1oYjFMeWVDQmREUEdabDBsZFZMeHQtYU5sck1BbG5NNTFwemxyVmxOaEpWYXJIa0RZbkVWc1BHdTdyZXRtdDBaTDhYM3VtNUVrV3UwV1R6RlJzRXFxQ0xDRXVJQUE?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 23:49:44 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXIxVTFQOUJmN3FqeU5HY0RxcTJvaDg4UmJ2V1ZNU0YzRWpheEhxRlRCLTdUYU5qZjRIWnlHNG96ZEV1SllyTWg0cUlPOXdlZktNT3BNZXVXTVBRWmQ0UHlGZXRJLU1jeFJjeVcyVWVRVVNJaV9vZ2xpb21XMHVqVnROOEdTVXdrWDV2ZXR3UDlYMWNWNUgxRUY4d0VPcDlha2RFVVpGc1U5cWRmcFdVWUkzOXZ6c050T0h0WnVwYw?oc=5",
           "pubDate": "Tue, 08 Sep 2026 23:29:13 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US DOJ widens probe into Fox's Roku deal, Semafor reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmlZUFhXOW05YWNRRVpUbGFOU0ljRFpBSWYwQk5mcTFzSXhSSldMcW9PeVRhWTFBM1RYRnp2ZG9OcDI2NHBWaU9lb05hOVFHT0lIVW5tMnp2TUJLdHNieEhmczJvd09PcW9zeWFydGpWQUVhLXJ1aGhPWDVublVYcFJiVGxxNzdvaGh0MG14cHRmU0lHLUZGMl9kdHUxcm9yT185VW5tSzJQUkdkaUlTa3dmSno3NHJOMG96TlNGVDk?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 23:08:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US military says it destroyed five Iranian oil carriers after attempted missile attacks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYkRzd0JMdW1lbUtzRVk1dFpYWGFpVEYwZkVnaVBYd0hINnRNSVdiUXlrVHBBbkExXzNpZTdTT1NFaHpMSVA1Slk1aUl0bFZPc3VhbUVyUE9rZFkzOFZqU0VoQ2ZaZ2lwNm1rNmZEUTU5REZ6WWJmSEp3TWlGLXliZTU4S2pQMVFFY0V0MHQzS1BSa3FJUlJ3RzlqaV9GLVluYzd4MTQ5Yms1eDg5aWM1Mmp1bi1aNk0tS2lJSW40dlJ5cmhkeVd6bWxERQ?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 23:05:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "S&P 500 falls as AI worries hit software makers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjZqc0tNY1VPMHZtRldqOUxwQzJYN0JtWEpoUVNoNGw4U3I5UnVCYXVjd0ZEUUw1SnZhc1JkWnFoTmFoYlVrZ0R3ZlFaQVQ3cmR6ZDVURG1vU1VoR09EcXI4Sl8wemY1RlU2WFJOQ1h6TXpSbUIzdS1WTDhXZnRONzFjRlI0UGIwQTVkeUxWN3YyMkhHeHd6ag?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 22:35:11 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-09T03:25:12.730Z"
+      "updatedAt": "2026-09-09T03:50:16.016Z"
     }
   ]
 }
