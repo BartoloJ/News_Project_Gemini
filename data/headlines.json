@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-10T19:25:13.094Z",
-  "lastChecked": "2026-09-10T19:25:13.094Z",
-  "lastUpdated": "2026-09-10T19:25:13.094Z",
-  "generatedAt": "2026-09-10T19:25:13.094Z",
+  "fetchedAt": "2026-09-10T19:50:15.774Z",
+  "lastChecked": "2026-09-10T19:50:15.774Z",
+  "lastUpdated": "2026-09-10T19:50:15.774Z",
+  "generatedAt": "2026-09-10T19:50:15.774Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T19:25:11.950Z"
+      "updatedAt": "2026-09-10T19:50:15.164Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T19:25:12.035Z"
+      "updatedAt": "2026-09-10T19:50:15.273Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,12 @@
           "title": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
           "pubDate": "Thu, 10 Sep 2026 18:50:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Kimmel says interview with James Talarico won’t air on TV under pressure from the FCC - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmtpU2NVcWtRdHBUMFN3RDBkLUt3dlItUDNWZFZQeUZaX0paRnV0TEUydkhGNm5NMnNPcWZzdWw4UGdzcFVJVlVuSmtyaUZrUWtsX2QwZkdOUTBlZ2xKLXVVaXl0VDM2d3dldWNnSUR6cUhVczdaSlBpYmdqTzl1T3NOQWtiTG15WGpsdktheEEyaGpKc3RFQw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 18:32:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,34 +154,58 @@
           "source": "AP News"
         },
         {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 16:49:08 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Oil prices climb back to where they were in May and drag Wall Street lower - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
           "pubDate": "Thu, 10 Sep 2026 16:32:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZW5iMVdUY2k3QldGeFFOM3hnbWg4NnVlbFcxMml2aWZuUDZ0ZmY2clJlR2tEdHZybmhib3l4Qkt3dENZMGUwamxpSEVTVlhlZF92WXNvNUEwNDlFU2xlVDRhQW40YTM5QnlLUjRuQ1JzUHNzWjlNVGNzejI2dGdsM0ZuaTRCc29pYlFVci16MnRlQU1RSUtNNl9zbTJkZzBxMFBPVG9vZHlGcDAtNnc?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 16:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump wants to make this midterm year 'special' to avoid losing Republican control of Congress - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjVQOUJSUU5LbHFrTVNpY1pmVktmWGxod3hSYjI4dTlXV0FRUklwZy15ZkNRRFllUXJuLVhYSG9CUTVJWTVXb0MwRW5hWGo4Vm1EQVlXd2dXUTNleEo3cld6cVY0U2kzZXpfdDR5R0Zma29iT01MWHRCV0I5aWM0ZUczMkNvNUQwdWRUOXNwakdmejBfQkR2X3Z4TWdWZDZfNkRWa1Z3?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 16:02:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T19:25:12.495Z"
+      "updatedAt": "2026-09-10T19:50:15.764Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Finland risks strained power supply after Google AI deal, opposition warns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQUhBNXFscDg4QVlfbDFuT2IxYzFXRnNId0ZJXzA2YzlNNC1zMHVmcncxd0x2enBGQ3ZVRjFEX29pTGJoODdlcGxFb2NPQWFBUVotY0pqZ0VuWkczaV9MdTQybmtpWXdqNlBNMkxOanBleUhEVmh6OV9ISkc4Z0pJTk1nanZPb2FCc3hqdXE4TmN6RXdmbjl2ZzlQUmQ4MjBpd1pxSGxCS3hmd2g1NVNSZzJtVTY4TUdBMFFuVmhuYWNXQkhXTHZzZFQ1MkY?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 19:29:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "ABC's Jimmy Kimmel says interview with Senate candidate Talarico will not air on network - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSWJrNnkwcXF3M2tBZFQ1TW9abFhLOUREenRPTHZqVmlzc3BNTnV2VktLcENMTTZvNWt2MENWUWVLLXZxdEZpTXBESm5nNXBzYzgtc09iS1JNc2VzY1d1Q0hPYk5FUHBUSTg3ZG1kaXcwSk1Qenk0SDNwTUNOcGJsLWpWSWxCS0VycHNCUDB3RE9XLXVqM1k0UnYzc3Z5VE42LXJsZTFtMks3QXMyRU5RVy0wVHVkdw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 19:12:07 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump touts $5,000 payout if Republicans win as Vance waits in wings - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObTBDWU8wZ01YSnowWGVWbUFZQ0ozZlZaSzRYWFhuaUdxajB6T05JS29iX180anZIUWdKUUE4SjZGdzN1cmc3Tmx2bjMtT0Z4TE55bGQ1NjYxUThlU21OTnZvbVJxeTNXVjZZcXJrdG1pQzRMTnVqeGUzcVY5aGluV1V0YTh0UlN1eVBScUZTajd4S0tCaFNEWGltbE9jRHk5eS1rTFVkRHg?oc=5",
           "pubDate": "Thu, 10 Sep 2026 19:08:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Several killed in coach crash in Swiss Alpine village - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcC11dGVZOFhyS19xTy1ndTdoWklGeGNZcm80UXAwa3ZhRUk2emd5ejVqQlhmZzBFc3pfMC1uVkd2dXptaTBvS3F1TlhCS3B6bHBXd2dYemZpekpfTEpwUUFSeE1wNE1VWTRIcDdmTE81RV9aVkdwdFNSZEp6M0d2N0ZFVjFvVE1aNzhOOHJMOXcwSDZXYWQycGFB?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 19:06:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russian strikes kill seven in Ukraine industrial hub of Pavlohrad - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEVtQVJxa3hqaktCVV9ValNCTzFSNGRORVhUcTRMcUxnLUh6RHZNeDkyWlNpbTFxRUxETVoyajVzZi1IaHQ1SGNldW5QWXZRLWRrTjZ6WC02ZndibmpqU0t4VXVXTmF1QUJVZ0pyV3dFVWh3Qm5oTU8zMWVUZGRzTVhzUXlYNUhHZ1FVa1hVcF9wUThDTjJmaGtzQ21sc3E2bXN3?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 18:59:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wipro's AI push frees capacity equivalent to 20,000 workers, CTO says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUZqYW42N1U0V0Nwcy0tclBNM0NETGhYRXdidmZmdWxxWWtlOHZKRUp6alpTSlZYWk1JaWt3ZGdQNkVEc2tQMGpUWnlHZXFTcVc3b2NxcHEyWTR2eVJPVmNieTBVbFhLdE5FWGRxVHlUbXdKdWtGRm9IN3pIZWJMUVFEcE1oMmsxeXowY0dKcV9GaGhRVDl4MTlVMDY1VWd4b3BmaHU1aXEtZHdBaEo5cA?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 18:56:13 GMT",
           "source": "Reuters"
         },
         {
@@ -189,40 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
           "pubDate": "Thu, 10 Sep 2026 18:20:18 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Israeli whistleblowers detail Gaza civilian toll in Venice film - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3YwMVozSG9aYk5BZDkybFJFMFMxUF9nNGtNdm1mN2w3VVpwc3lYOWFWbnZoTmNFUEVFM3owWHRZSVBJdTRucFh3ckFpZUh5TW1BanFOdE1DT1lSMGFsVzhsRFZkemgtRnJPQWk2WlFJMVVmaV9KS2FrQWVBMHJhSzFzQmZHUEttOHZCSW52SEROVmVGNjFOZHdpcUZCTmd5Szl0UGFLRmE2WGpfS0FFdnNoeDI?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 18:09:48 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US to issue $500 Obamacare refunds to nearly a million Americans - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzF5MGFTdDhQYm1BcVVSODJISXc5b1FrV2dpWEZyTm54TlF4dWxXQzQ0M0VoSDBUYVRlVFFnRElHM2tWWFFoUGtmY0VIaFdhZVEzd0R5WmNSZEdtM2wtYkxXU3h0SnFQNU8zSG1fYnEyTXEzSE96akF5UUU5ekhJeUc1c1k1VXluaEhFQUxKX0doTkZnX3J4dndqTUw2QQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 18:05:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Algeria cuts diplomatic ties with the UAE - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaW5YdHFlZ2U0Sll2VTZQeGxweXUtTk8zSUt4UGdNQ2ljcTRzeG84SEdzcWlFOUpXNGFhekVfcXc3dEU0Y0UtQnBpRnZwWmVqVXl1TWpDQlhRRjZnbWRoT0JFaUdZcVkxdU9BU3NfSjNMeW5zR2I1M20wTHlvS3N0MXBIWWVLUTNIR0RFS2ctWWJJLS1nVXhyRnhIakpKd3ZUS1pmeld6MTVBNl9KVnVpaWFMTzI?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 18:01:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ugandan kingdom gripped by succession battle after monarch's death - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMGphTmlHYko5Q2JDRVdxTm4yR0diYmFHdmZHTGw4a0pNMW5nRDVRSGVTMzlSYjUweUkxVU1WUWtoZWRCNFNWSGVNSWpmdG5oSlFYS3Z6V3AwYTRSZUUtUEVUZmR4YWV1dGVMdENJWDNpVTJnU3Bqb1RKNWZPZU9HQXNxVEdFX3Y4bUowSWVSZzZQY2t4aHR6cDFuT0pkbGpQUkNrT2tqOU5UVFhCaWFQM2RnSXJ2cV82Z25BcEs5SjFrQQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 17:56:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bolsonaro, Lula statistically tied in simulated Brazil runoff, Atlas/Bloomberg poll shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYTlEVmtuNGNhLTc4U2pGV0w1bXN0eEVLb0JTQkExbWtxemxldXZnV280MTN5cHZoZUVoN3RqekNYdXF0TEI4X1RWekN5RWt6d2V4ZkJmTEZpQnFqR2dCY0dSbkNsdEp1X0RnWDJQbjdMd2d1b3N3Q1d0REVHbWdkNVFEM2luOXhxaWRlQndKNVBINEI3QlVtR3lYUE5YdmRCWEZHS3dwNTV3UzYtMTRIYXkyLTROTlhjQVlVMGJvTzdtcVVONXpj?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 17:56:42 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T19:25:13.093Z"
+      "updatedAt": "2026-09-10T19:50:15.774Z"
     }
   ]
 }
