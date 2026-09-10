@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-10T11:25:15.373Z",
-  "lastChecked": "2026-09-10T11:25:15.373Z",
-  "lastUpdated": "2026-09-10T11:25:15.373Z",
-  "generatedAt": "2026-09-10T11:25:15.373Z",
+  "fetchedAt": "2026-09-10T11:50:18.796Z",
+  "lastChecked": "2026-09-10T11:50:18.796Z",
+  "lastUpdated": "2026-09-10T11:50:18.796Z",
+  "generatedAt": "2026-09-10T11:50:18.796Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,7 @@
         {
           "title": "At least 20 dead after fire on cargo ship in eastern China, state media report",
           "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 10 Sep 2026 10:59:22 GMT",
+          "pubDate": "Thu, 10 Sep 2026 11:49:25 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T11:25:14.259Z"
+      "updatedAt": "2026-09-10T11:50:18.195Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
+          "link": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
+          "pubDate": "Thu, 10 Sep 2026 07:27:14 -0400",
+          "source": "NPR"
+        },
         {
           "title": "A year after Charlie Kirk was killed, young conservatives navigate a divided movement",
           "link": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material",
           "pubDate": "Wed, 09 Sep 2026 16:42:19 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Fold the phone: Apple's new CEO unveils a foldable iPhone",
-          "link": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus",
-          "pubDate": "Wed, 09 Sep 2026 14:39:57 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T11:25:14.466Z"
+      "updatedAt": "2026-09-10T11:50:18.261Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,12 @@
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
           "pubDate": "Thu, 10 Sep 2026 09:01:15 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 08:58:14 GMT",
           "source": "AP News"
         },
         {
@@ -133,12 +139,6 @@
           "title": "China’s car exports in first 8 months surpass 2025 total, as EV sales soar - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzRDZFRjV2lBVXg5YjVuMTJXZmZqaHgwcXB3SGE2NHFMMDNlejh6Wlg5ZExIdjNoRmlnUWlkTDR3T2ZkUG44OEtqWXJ5X3hhNlJrU2U2TndCSnYxSHhyZy14Vk5VakRVaHlEWTN0U1hrWU41ZVFlNjF6V3lmbTAwOEhtZV9XOWs5U29lOFRFcEU2dw?oc=5",
           "pubDate": "Thu, 10 Sep 2026 08:14:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 08:10:15 GMT",
           "source": "AP News"
         },
         {
@@ -167,15 +167,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T11:25:14.925Z"
+      "updatedAt": "2026-09-10T11:50:18.785Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Algeria cuts diplomatic ties with the UAE - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaW5YdHFlZ2U0Sll2VTZQeGxweXUtTk8zSUt4UGdNQ2ljcTRzeG84SEdzcWlFOUpXNGFhekVfcXc3dEU0Y0UtQnBpRnZwWmVqVXl1TWpDQlhRRjZnbWRoT0JFaUdZcVkxdU9BU3NfSjNMeW5zR2I1M20wTHlvS3N0MXBIWWVLUTNIR0RFS2ctWWJJLS1nVXhyRnhIakpKd3ZUS1pmeld6MTVBNl9KVnVpaWFMTzI?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 11:09:37 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "COMMENTARY: Asia's oil industry wants Trump to leave the Gulf, but expects he won't - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMm1IdXZwdFBoY28xel9yZ3VNRGs3a0RTbDhTb3ZDWEw0VFZqZE5mNVJ6b2theVp3Q2p0emhIWmZwLXc4ako5eDl3UzVWZkRaQ3RHX05VbkNhVkVxbk9ISXhLMjVaLTRHc1FDdHAxb1QxN2hYSldJUzVGYVhmeWNiRVV0UjNtcHdubFpKWVFYWDZ4OVBJRFRSREhvcVlYVjV0YnFwUTNKeDBvU2hYMEE5SWFubFFCZlhSMTFaUnJMY19oYnI5?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 11:09:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ryanair CEO says winter fares may rise after slight upturn - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU3B1ZGVDZGxNLWNIc0dGelJCVGhWQlhDb1RJalRjNjczME03T3h3eUxJRWdrYjg2VW4zeE1vcGVTU0t0Q1lLVWczb3NTS0Fjb2JrYmpQclZQWHpOTmJXWlpBUnpqcFM2Vjc0aGMweVNRTWZIcG9Hb0tUbjN0eVhJdFF5MEhjSkxCbW80Yzk1SjZtYmh4NExlSXlfcU9QT0pKX2JXOWRIMkJrZlBDUXhycHdwdzAzS2syNG1VeWxpb19VWWpfRktFd0NpVW16QW04bUpGQUFfd28?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 10:57:22 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Volkswagen earmarks €16 bln for job cuts, plant closures, source says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYlItTVNOdkdyZ09EbmhrVE12enZrb2RSbTVSVjdvV3EwN1I4dk12VU9yMUc0SXBWVU8xbC0tb2pZMGt3LThsZV9CU1dZcGp1ZVBWSHJkNHdTZWt5amtrM0lDNjhfQmhoNmU4ajBOWk5wUkI0WTVzWkJYV0JyRmZ1SmgzVTJYN2duNEMxVkY1Uk52cUVVUWlxWEVwSnZIWUs1cFJPdU9hSDJ5VXJOOTdvaWdtN1NhTUNjWG9Jcl83MnhsMndwVHZVLUFTT3R6eUNS?oc=5",
           "pubDate": "Thu, 10 Sep 2026 10:50:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Major Novartis shareholder calls for board shake-up after drug trial setbacks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXkycUxwWU1iSXF2SUJuVWxOTHZ6ZDVlYW5aZS1wdlhDUzBlSHNqZkQtbFlvZ1dhYkRkNmpobW9pT0NPeE82MmJfdVFnaUlNZ1J3emlGc3dDdHhpUTBGTFhTdFg1R0hnRTR5a3FnUjI5Wnh5d2d0R0llaUNoNHJfMXpUSmVsc2VlM0swd1lpQU91T0pGanZGZ1gxSTBpY3B3NVpoSlppVk1Ob1ZqODRXNExtT01RQQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 10:32:05 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "COMMENTARY: Asia's oil industry wants Trump to leave the Gulf, but expects he won't - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMm1IdXZwdFBoY28xel9yZ3VNRGs3a0RTbDhTb3ZDWEw0VFZqZE5mNVJ6b2theVp3Q2p0emhIWmZwLXc4ako5eDl3UzVWZkRaQ3RHX05VbkNhVkVxbk9ISXhLMjVaLTRHc1FDdHAxb1QxN2hYSldJUzVGYVhmeWNiRVV0UjNtcHdubFpKWVFYWDZ4OVBJRFRSREhvcVlYVjV0YnFwUTNKeDBvU2hYMEE5SWFubFFCZlhSMTFaUnJMY19oYnI5?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 09:29:54 GMT",
+          "title": "White House copper tariff plan stalls amid affordability concerns, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNURGbmRQdjJaanFqS0VBQUVyTjZCNkZyeTBrV2NVcWtGLVRQdk5jaG9pYU5FejR3REpqdHJSQWM0NlRUSVdnclJOR0RiWEpUNlV1ZXRUU1RPSTFlNF90elZIZWFxbFhDYm1nUlFjQ3l0UjRMbGstTmItU3BiOVZDYi0tRUxPelM0V1J6TmhVTnJJQkdxdUFBemtkdWxTdUNScndiZlNiQm1rQXRsMlh6ZFhxNnRmemFLN2ZfMnk2UQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 10:18:42 GMT",
           "source": "Reuters"
         },
         {
-          "title": "India to push BRICS digital currency link despite hurdles, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNGFTYnhPbjNiSlZaLWpwYUE1aEJpdUViQjlnOF83UWx2UXdEYkF5VzdqWU5GX3pRemRhWVhuWUdGUkpUWmRvNTRYb0ZLMkJZSll2dTB1Wm9XWnlIV3BIUWZadHBBYmtXTmZyaVJ1Rnhrd0tlWkl2OWx0aHFxdXJyYVJQbkJhMnUxOGo1V2RFcGk2cWZCbVlQaDVUSjR2d3QzWkVGMFdOU3BBMk5RUEhSOUZvT08?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 09:16:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Israeli strike kills parents and two children in Gaza, medics say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1BVbUJWZ3BnTEl4XzBYMjByVm0zb3dncFFidmQ4TWlrRVVOTkZYUGpzQllwVzQyUWZKUjBjQk12ZUxTM2FJTFRlb292d1JRZHZXMWREZ2Y4bVdMUGVXczRJa0NuYjZXQXd3dDJrajZFazAtcXNlQld6c0RjekV0N09RSU51Z3Fld1EwdFI5dm5tLU5aMERvTEVtcWlsOE5pS3BGQnRrZUt1U1FVSUZ1Xw?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 09:07:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iceland to propose whaling ban, leaving Norway and Japan isolated - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTZtQl8yWG1DZ3pCM3FnRkM1SmNkN3N3X0FaY1M5Q1k0QXBnWkJscy1fd1A4TXBhMFdzbkNSREhxZjFOeXVsNVNJRXZPRWh4bHp2dDE5Z0ExSGFFTkdjbGZkTjZlZjcyV0pEWnVWOHM0ZGliVEZkdklhUFhtcGYyX1RLbFVweXFaMThKa1lTMExqYTZSaUlLeFhONVgwRFBuaGNXRXRyN1dGVlNyMVAtaVRBblM?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 08:53:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Vietnam's Grab drivers call for two-day app boycott over falling earnings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1FWTVhCdFJQZ0lXaFFXNEYyR3JnSmlXS0xIM0NnV3NIMGVvZlg4eTRFRVVHYjM3dVNhV0hLX3hUS1ZYNXlaY0o3VVdxbl9LRkhqZmx0OV9GZUpLMlhwNmE4SE9qS1NjM2lBVVBvOVF5WTAxYTdEQnlrZk1oVEh0cGNLV3JkVm05OWhHMFpaRDZBbzR1ellzZ0dFakVRT1E2clJlbDB3bzZ6bC0tNWZRWGZBSDZQdktZRjUxM3E3SUE?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 08:45:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ryanair CEO sees 'significant' rise in airfares if oil prices remain high into 2027 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU3B1ZGVDZGxNLWNIc0dGelJCVGhWQlhDb1RJalRjNjczME03T3h3eUxJRWdrYjg2VW4zeE1vcGVTU0t0Q1lLVWczb3NTS0Fjb2JrYmpQclZQWHpOTmJXWlpBUnpqcFM2Vjc0aGMweVNRTWZIcG9Hb0tUbjN0eVhJdFF5MEhjSkxCbW80Yzk1SjZtYmh4NExlSXlfcU9QT0pKX2JXOWRIMkJrZlBDUXhycHdwdzAzS2syNG1VeWxpb19VWWpfRktFd0NpVW16QW04bUpGQUFfd28?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 08:15:39 GMT",
+          "title": "A year after Charlie Kirk's death, Turning Point USA grows but Trump slips with young voters - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOHpUcWNtNXREbnhzblktM2l6a2luRS1zeENZa2tPNGJ0dC1veUdLWVZCM3MzYmJDN1I4YUtoYllMV3EyckZtUl9IQURlbnVNZW51VVJhRWdZQXVGLWs2THZleXIyNlZ2QjJCTElvUE02Zy1zNTlZVktsT0dnenZPbjRuSzBCLVhFY3VzdFNPV1M3blB3eFY2MXM1a3dNT0E3T0h5MURDNDdwY2VMNjhwMmZrMFg1M0FLeG9aUDB6Zw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 10:07:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T11:25:15.373Z"
+      "updatedAt": "2026-09-10T11:50:18.796Z"
     }
   ]
 }
