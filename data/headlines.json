@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-09-10T17:25:15.472Z",
-  "lastChecked": "2026-09-10T17:25:15.472Z",
-  "lastUpdated": "2026-09-10T17:25:15.472Z",
-  "generatedAt": "2026-09-10T17:25:15.472Z",
+  "fetchedAt": "2026-09-10T17:50:26.799Z",
+  "lastChecked": "2026-09-10T17:50:26.799Z",
+  "lastUpdated": "2026-09-10T17:50:26.799Z",
+  "generatedAt": "2026-09-10T17:50:26.799Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
+          "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 10 Sep 2026 17:13:53 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Can Trump really pay $5,000 to every American adult?",
+          "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 10 Sep 2026 16:48:37 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
           "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
@@ -32,12 +44,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-          "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 10 Sep 2026 13:23:37 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
           "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 10 Sep 2026 13:12:40 GMT",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 10 Sep 2026 12:24:54 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Iran war won't end until after crucial November elections, says Trump",
-          "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 10 Sep 2026 10:43:53 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T17:25:14.090Z"
+      "updatedAt": "2026-09-10T17:50:13.825Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "How the WNBA became a political prop in the culture wars",
+          "link": "https://www.npr.org/2026/09/10/nx-s1-5957546/wnba-culture-wars",
+          "pubDate": "Thu, 10 Sep 2026 13:22:34 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Barbara Keating died in the 9/11 attack. She's finally being laid to rest",
           "link": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
           "pubDate": "Thu, 10 Sep 2026 04:54:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "A pilot of the Amazon cargo plane in Miami crash warned it was coming in too fast",
-          "link": "https://www.npr.org/2026/09/10/g-s1-142664/cargo-plane-miami-crash",
-          "pubDate": "Thu, 10 Sep 2026 01:45:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T17:25:14.227Z"
+      "updatedAt": "2026-09-10T17:50:14.081Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-10T17:25:14.967Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-10T17:25:15.472Z"
     }
   ]
