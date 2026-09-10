@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-10T01:14:52.029Z",
-  "lastChecked": "2026-09-10T01:14:52.029Z",
-  "lastUpdated": "2026-09-10T01:14:52.029Z",
-  "generatedAt": "2026-09-10T01:14:52.029Z",
+  "fetchedAt": "2026-09-10T01:25:14.130Z",
+  "lastChecked": "2026-09-10T01:25:14.130Z",
+  "lastUpdated": "2026-09-10T01:25:14.130Z",
+  "generatedAt": "2026-09-10T01:25:14.130Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T01:14:50.778Z"
+      "updatedAt": "2026-09-10T01:25:12.838Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Fetterman, already at odds with his party, makes surprise video for GOP convention",
+          "link": "https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump",
+          "pubDate": "Wed, 09 Sep 2026 21:17:28 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
           "link": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material",
@@ -103,71 +109,65 @@
           "link": "https://www.npr.org/2026/09/09/g-s1-141466/measles-outbreak-vaccination-bangladesh",
           "pubDate": "Wed, 09 Sep 2026 09:04:43 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump officials propose sweeping changes to the census that would reshape voting maps",
-          "link": "https://www.npr.org/2026/09/09/nx-s1-5845147/trump-us-census-citizenship-question-race-categories",
-          "pubDate": "Wed, 09 Sep 2026 08:58:43 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T01:14:51.138Z"
+      "updatedAt": "2026-09-10T01:25:13.107Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Rubio says US is working with allies to counter drugs but will ‘still blow up ships if need be’ - apnews.com",
+          "title": "Rubio says US is working with allies to counter drugs but will ‘still blow up ships if need be’ - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeU1kOWhWRnlwSlJDMTg0SWhDN0FiVG1LY29HdkNRb3AwUERZVWFXekpxRXREeHE5Y2xzRlN5dFA2cUhFZmRqbVJkaFBoZnp3Z1VGSWstZkVfc3NiSTlMSjRvQXdZc0xYQ0xLVHJCOTZHNmRuNW8xZXQ4ZzlLaWJEcTNLTHhaSFpkYjFfNHo1UkJUV2s1Y19QUkQyVnZDaGVKMnlfYg?oc=5",
           "pubDate": "Thu, 10 Sep 2026 00:48:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - apnews.com",
+          "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
           "pubDate": "Thu, 10 Sep 2026 00:35:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Republicans slam Democrats and declare devotion to Trump during unusual midterm convention - apnews.com",
+          "title": "Republicans slam Democrats and declare devotion to Trump during unusual midterm convention - AP News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0ZpRE1lUUNOMTJHYzZ2UjRuVTlLbEgweXZ1bEV0Uk82QS12RzM3SGstLTd0dzNjcC16N1VIQnRoUndpcmF2RVFrLVYyQnBkS0JDZ1I5bGNLMDNsMTdWS2lrRGxoQ3VtV2lDNmNGZnBaZEFnNDJNUDFyOGt3MGdRT2VDS3VMdExFUS1kLWdaWFh6b2RUcHY5cG1rWkIzUHQ5cDZIRDNXYW14WVpSdkl6MTdTWTA?oc=5",
           "pubDate": "Thu, 10 Sep 2026 00:26:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 23:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Girl Scouts’ first cookies for dogs will go on sale in January - apnews.com",
+          "title": "Girl Scouts’ first cookies for dogs will go on sale in January - AP News",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWtNcXB3OGVKYU5CY3FUUnBrUHozd2dEc2tUZXY0ZWJCTmxGTUtieEFXa0NKS3gzRTRRNzF1Z0pQRW1KY1Q1TzRhUjZkTVMxSDh2c2V4b1VVaTBtaTBkUWxYZ3R4YmZBSFZKRkxGeWVTM1hsVFBGXzl0NW5NbDUtMjZEMTZrUEQ3WExUSVBRelNQWGxzd1pnQmNsdkZ5eGQ4WjRfN1o1ZlNFOC1QYTZpQmFRU1lodw?oc=5",
           "pubDate": "Wed, 09 Sep 2026 22:18:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "It's 'Pitt' vs 'Pluribus' in drama and 'Hacks' vs 'Widow's Bay' in comedy at the upcoming Emmys - apnews.com",
+          "title": "It's 'Pitt' vs 'Pluribus' in drama and 'Hacks' vs 'Widow's Bay' in comedy at the upcoming Emmys - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUU0xWU5mWjdVcWdsYlQ2Tm5GUGJQck1jVW5qTW9FM1JTYlR4OEdoSG4xbFNENHZ1S2I5NWJadFNkX0plSUZTMVpMTF9seXg0SUNkOC1tX0ludUpfeUZTc3A1dFBIb3ExanlaSHpSeFhYWDR4aTJiaUdMOXV3SzJLUnFFV0RPdjV5Mjk4Z1Bkdmp1RHR6RHNOdi04bHp1MmJPWmRj?oc=5",
           "pubDate": "Wed, 09 Sep 2026 21:51:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Alcohol, whey and motorcycles are in the crosshairs of the US import ban on Canada products - apnews.com",
+          "title": "Alcohol, whey and motorcycles are in the crosshairs of the US import ban on Canada products - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUd1QUVKZnpkam94ekNMR0lzQkYyRkRHR2J3WGdqV1Z4TE5yNzM4b1ZMWDY2Si13N1EyWkFlcFRLMWFVaThzZE1YR0o5ZkM3Z1NlbGJIa2trTmo2dkNuRV8wQlppWkp1cVRvRlVORjl0OTR0eVZDYm83Ymx3WlIwT2NaZHdfT1E3aVNGZWQyRQ?oc=5",
           "pubDate": "Wed, 09 Sep 2026 21:43:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "The Tate brothers must stay locked up during their UK extradition fight, US judge says - apnews.com",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 21:28:54 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "The Tate brothers must stay locked up during their UK extradition fight, US judge says - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRUlEZVdVUDA1YkJNRGdfTmVidlVtWkJDRDdaY0tjQlVPY1hIMlVDUl9vRVJhbTJ6ZEVBQlhET1l4dzJFU21OaTZYTkxlVTNsd3BfUDlTNmFZODQySmRobU5JTkpmaFEweVhQeW1xSTQ5ZjlXVnJkaHFHTkk3eUJwZmJDNmdhVTlaZ0ZyYl9YanRSeW1HemRKSHc1el85YTVFX0E?oc=5",
           "pubDate": "Wed, 09 Sep 2026 21:25:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T01:14:51.599Z"
+      "updatedAt": "2026-09-10T01:25:13.694Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T01:14:52.029Z"
+      "updatedAt": "2026-09-10T01:25:14.130Z"
     }
   ]
 }
