@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-10T15:50:16.790Z",
-  "lastChecked": "2026-09-10T15:50:16.790Z",
-  "lastUpdated": "2026-09-10T15:50:16.790Z",
-  "generatedAt": "2026-09-10T15:50:16.790Z",
+  "fetchedAt": "2026-09-10T16:00:19.866Z",
+  "lastChecked": "2026-09-10T16:00:19.866Z",
+  "lastUpdated": "2026-09-10T16:00:19.866Z",
+  "generatedAt": "2026-09-10T16:00:19.866Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T15:50:15.689Z"
+      "updatedAt": "2026-09-10T16:00:18.610Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Barbara Keating died in the 9/11 attack. She's finally being laid to rest",
+          "link": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial",
+          "pubDate": "Thu, 10 Sep 2026 11:44:12 -0400",
+          "source": "NPR"
+        },
         {
           "title": "'I've never seen anything like this' -- A U.S. doctor treats Ebola's youngest victims",
           "link": "https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/10/g-s1-142664/cargo-plane-miami-crash",
           "pubDate": "Thu, 10 Sep 2026 01:45:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Fetterman, already at odds with his party, makes surprise video for GOP convention",
-          "link": "https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump",
-          "pubDate": "Wed, 09 Sep 2026 21:17:28 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T15:50:15.716Z"
+      "updatedAt": "2026-09-10T16:00:18.818Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,7 @@
         {
           "title": "Oil prices climb back to where they were in May and drag Wall Street lower - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 14:28:00 GMT",
+          "pubDate": "Thu, 10 Sep 2026 15:38:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,12 +142,6 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 12:43:36 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
           "pubDate": "Thu, 10 Sep 2026 12:34:44 GMT",
@@ -160,69 +154,75 @@
           "source": "AP News"
         },
         {
-          "title": "Seahawks pick off Drake Maye 3 times to beat Patriots 13-10 in Super Bowl rematch - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcmpkOGJ4Y203VmctbUV1d0xuV2FweC0xVjJRRDRJNTFVMkpLdkVWVThGNmxieFlTZEFtdjY0MTlYZm1MVF9HYXFFMmJ4dnlhV0wwQXZISlpaUFRlaVdzQnJQdFFsRFphOUFyQWhjRzhQRVQwUjBDcEY4NlhySFNXelhnSVNRblpnRjlB?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 11:04:00 GMT",
+          "title": "Zelenskyy visits Canada to seek further military support for Ukraine - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaHJoci1DWE1jNkFQTUprejJCTGR1cWxtMjB0TVprVnN4VmRqZHpOZGV2LTlzUjI2dzVOaGxIOHY4enEzVV96QWc3aUliYnB4TkNLWW9FMXpORGwySmlJMnlZZWtWMmpYeFk0QzZXNXEweXRDVUNxTGw1bzB0MW5DX3N1d3VJaG1yYl9JRC1Sc0ZBd2Q0UWpqblpNbw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 11:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 11:43:40 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T15:50:16.291Z"
+      "updatedAt": "2026-09-10T16:00:19.334Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "ECB raises interest rates to fight off inflation jump - reuters.com",
+          "title": "Russia strikes petrol station in Kyiv, global agribusiness in Dnipro - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEVtQVJxa3hqaktCVV9ValNCTzFSNGRORVhUcTRMcUxnLUh6RHZNeDkyWlNpbTFxRUxETVoyajVzZi1IaHQ1SGNldW5QWXZRLWRrTjZ6WC02ZndibmpqU0t4VXVXTmF1QUJVZ0pyV3dFVWh3Qm5oTU8zMWVUZGRzTVhzUXlYNUhHZ1FVa1hVcF9wUThDTjJmaGtzQ21sc3E2bXN3?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 15:44:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "ECB raises interest rates to fight off inflation jump - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGdaa19kT2JiMm9NaWdRRnFjUlhvSDBlUF9IbjZQbjZ5dUFPOVdnMlRSSUFPcjRsdXRHdWFsZkxCSEZXSEc1SERmWWE3Q1JCOHZFZl9UU3NBdGhyZkhTcFFrR3BCYVd0XzNTNGFPcHFaLS1mWm5OajlZMDNSRzBoaXpDTXVCWmJtMGwxa1Zqazcwb0t4UUtIUTZvQQ?oc=5",
           "pubDate": "Thu, 10 Sep 2026 15:13:37 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - reuters.com",
+          "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ?oc=5",
           "pubDate": "Thu, 10 Sep 2026 15:00:45 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US Supreme Court blocks Republican-drawn congressional map in Missouri - reuters.com",
+          "title": "Lagarde comments at ECB press conference - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXpTVnllTXpGQU5QaWxJdnVicjV3MnV2VGVFU2IwXzJiWXBrdDdyc0F3a0NRVkl2ZUNxbWdjLXB0YU41QlRvcmFfUW5lSmhWNTJEX2M1Qjc3bVVfN3p5S1RZSFcyU2dRcTNPdU9GeVYwRl9kdHpYZHZ5aUFoY1dScGlpRUJYRGt5SzlOMQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 14:49:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Supreme Court blocks Republican-drawn congressional map in Missouri - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzhNVFBiOTdvaDJwUXAzX3JOem1PQ1RhNmF5R0sxTjZtRXZSc1E1NWZzbGpmMlp6TEhyVk9JWUtRY3UtZ3FTSk1ZY3RoX3VFMnB4ZnZBY0RrbjZkNEFuY1BEWldvMmpOSExaWE01ZVA2UzhGS2E5UlNLYWlpa2tiVEpVei04ZWlPZUVhbDRhT1J5d3dRNi04bDdaN0JYbjNvb3JRTGE2NjNndGtxSnc?oc=5",
           "pubDate": "Thu, 10 Sep 2026 14:46:39 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Fire in rebel-held east Congo kills 24 schoolchildren, official says - reuters.com",
+          "title": "Wall St slips after hotter-than-expected producer inflation data - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 14:38:33 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Fire in rebel-held east Congo kills 24 schoolchildren, official says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXFta3lOeGEzN29FeHJUUkF2RlVFamFCeWppaEQwZmljVThqRzlHbV9fQktHaWQtcnJsd1NUdWhVZ3BSQlVJZmxkMVplTDA5dGl6OEhybTk3RnFNQ3g3QnF2RmNyTkpYeHh4eEo2SnU0T3piRHRpb2tZWjhpVG9rTTdNZ2RMOXQtMU1wYlptaFhMTDBuMWthNXVLYlRUT2RqY3FVdmx4bnlZNnFmLWs4TWxndU1ERjd5V3EzalJ6Y2M?oc=5",
           "pubDate": "Thu, 10 Sep 2026 14:37:23 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump touts $5,000 payout if Republicans win as Vance waits in wings - reuters.com",
+          "title": "Trump touts $5,000 payout if Republicans win as Vance waits in wings - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObTBDWU8wZ01YSnowWGVWbUFZQ0ozZlZaSzRYWFhuaUdxajB6T05JS29iX180anZIUWdKUUE4SjZGdzN1cmc3Tmx2bjMtT0Z4TE55bGQ1NjYxUThlU21OTnZvbVJxeTNXVjZZcXJrdG1pQzRMTnVqeGUzcVY5aGluV1V0YTh0UlN1eVBScUZTajd4S0tCaFNEWGltbE9jRHk5eS1rTFVkRHg?oc=5",
           "pubDate": "Thu, 10 Sep 2026 14:35:24 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ryanair CEO says winter fares may rise after slight upturn - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU3B1ZGVDZGxNLWNIc0dGelJCVGhWQlhDb1RJalRjNjczME03T3h3eUxJRWdrYjg2VW4zeE1vcGVTU0t0Q1lLVWczb3NTS0Fjb2JrYmpQclZQWHpOTmJXWlpBUnpqcFM2Vjc0aGMweVNRTWZIcG9Hb0tUbjN0eVhJdFF5MEhjSkxCbW80Yzk1SjZtYmh4NExlSXlfcU9QT0pKX2JXOWRIMkJrZlBDUXhycHdwdzAzS2syNG1VeWxpb19VWWpfRktFd0NpVW16QW04bUpGQUFfd28?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 14:18:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Edgy bond investors unconsoled by Bessent's big buyback - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2N3dTlTV3YtRHd0WmhTRE4tTDh6TzBNZW1MWHdaUHhPUzRnakxadDdCWUgwRjM1X3o0S3lmVFR4dV9JSl9uR2hEbzFFWG9rcGx4WDdwMFlNSU8wR25QWjBEUUpBd3F0Z2VlemZ0ODVQbWZxVktsYjRUd3QyOE82M1VDN0tTRU92OGdySlFUalVST1hldjVSNVMwMjJrVlJTd2RlZ1NVb1BkT1psQnow?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 14:16:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "IBM, NASA launch AI model to help map ice, craters on Moon - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHVoaUpvT3dtcTlFZHJyUWV2TWUtSU5xcmpMTVNkTzN2dHF6ZGpzMzZrbThHUmNXU3hRV2IxNk5XQVFFMFVJMDBTZUpsWThDdXNscnFyTW5IREtyYi1vSEFGQ2hOdFJSbTBPUXBUMURiSnRvbzFmTlRCTXpFY3B0cXR3UXVGclJWa1JyenNJYjRPZGNUd0JvQldR?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 13:50:51 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T15:50:16.790Z"
+      "updatedAt": "2026-09-10T16:00:19.866Z"
     }
   ]
 }
