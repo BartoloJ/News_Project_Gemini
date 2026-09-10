@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-10T13:25:14.447Z",
-  "lastChecked": "2026-09-10T13:25:14.447Z",
-  "lastUpdated": "2026-09-10T13:25:14.447Z",
-  "generatedAt": "2026-09-10T13:25:14.447Z",
+  "fetchedAt": "2026-09-10T13:50:15.717Z",
+  "lastChecked": "2026-09-10T13:50:15.717Z",
+  "lastUpdated": "2026-09-10T13:50:15.717Z",
+  "generatedAt": "2026-09-10T13:50:15.717Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T13:25:13.439Z"
+      "updatedAt": "2026-09-10T13:50:14.670Z"
     },
     {
       "name": "NPR",
@@ -69,14 +69,14 @@
           "source": "NPR"
         },
         {
-          "title": "After Trump promised to pay $5,000 if Republicans win, here's what to expect Thursday",
-          "link": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
+          "title": "One year after Charlie Kirk's death, Turning Point USA faces an uncertain future",
+          "link": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
           "pubDate": "Thu, 10 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "One year after Charlie Kirk's death, Turning Point USA faces an uncertain future",
-          "link": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
+          "title": "After Trump promised to pay $5,000 if Republicans win, here's what to expect Thursday",
+          "link": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
           "pubDate": "Thu, 10 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T13:25:13.518Z"
+      "updatedAt": "2026-09-10T13:50:14.779Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,12 @@
           "title": "Trump, hoping to salvage midterms, makes a dubious pledge to give every US adult $5,000 if GOP wins - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaFo2NjdHMEdacGhHTW9UOHZCaTNiQ0p5dTBuNDVjUFJNOWlibzNWRElyT0c1c1I4MjZNdWJVTGk4Z3pGbjBrOHNYaURqZlJTd3ZPbm14MXZWZ2FuUE0xek1sTWtYNW1ZalM2SjIzNjhYSGRVM0xCbkhKVWlfc1dWYmw1bThDbjctc0Q5VXgzTHhkNjc5akZFZkkxeGxIcjZKWGc?oc=5",
           "pubDate": "Thu, 10 Sep 2026 11:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 11:43:40 GMT",
           "source": "AP News"
         },
         {
@@ -142,12 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 10:25:58 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "China’s car exports in first 8 months surpass 2025 total, as EV sales soar - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzRDZFRjV2lBVXg5YjVuMTJXZmZqaHgwcXB3SGE2NHFMMDNlejh6Wlg5ZExIdjNoRmlnUWlkTDR3T2ZkUG44OEtqWXJ5X3hhNlJrU2U2TndCSnYxSHhyZy14Vk5VakRVaHlEWTN0U1hrWU41ZVFlNjF6V3lmbTAwOEhtZV9XOWs5U29lOFRFcEU2dw?oc=5",
           "pubDate": "Thu, 10 Sep 2026 08:55:00 GMT",
@@ -160,18 +160,24 @@
           "source": "AP News"
         },
         {
-          "title": "Trump defends Iran war, slams Democrats and promises cash at Republicans' midterm convention - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0ZpRE1lUUNOMTJHYzZ2UjRuVTlLbEgweXZ1bEV0Uk82QS12RzM3SGstLTd0dzNjcC16N1VIQnRoUndpcmF2RVFrLVYyQnBkS0JDZ1I5bGNLMDNsMTdWS2lrRGxoQ3VtV2lDNmNGZnBaZEFnNDJNUDFyOGt3MGdRT2VDS3VMdExFUS1kLWdaWFh6b2RUcHY5cG1rWkIzUHQ5cDZIRDNXYW14WVpSdkl6MTdTWTA?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 04:23:00 GMT",
+          "title": "Foulkes defeats Rhode Island's Gov. McKee. He's the first governor in 8 years to lose a primary - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1dXbW52Qmo0dmNzdk0tTUZUc1V1SjBveEZBUjFTVHNQa3AtZE5iUVR6ZHRqaG0xc1dtYUozZE9uNDA3S0pDcHBIZGRmei02U196MnFEVkh6WS1xOFhZQWpWOTN0aDVVdGxPSWYzMVBFbWpWLUxWWTIzOXFkaGFOQzNmUk9peUhPVUV2WlpSWWNlOTdMT0lDNHhUT196ZGpnOXNVMXI2OXVBdw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 04:47:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T13:25:13.998Z"
+      "updatedAt": "2026-09-10T13:50:15.281Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Israeli strike kills parents and two children in Gaza, medics say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1BVbUJWZ3BnTEl4XzBYMjByVm0zb3dncFFidmQ4TWlrRVVOTkZYUGpzQllwVzQyUWZKUjBjQk12ZUxTM2FJTFRlb292d1JRZHZXMWREZ2Y4bVdMUGVXczRJa0NuYjZXQXd3dDJrajZFazAtcXNlQld6c0RjekV0N09RSU51Z3Fld1EwdFI5dm5tLU5aMERvTEVtcWlsOE5pS3BGQnRrZUt1U1FVSUZ1Xw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 13:29:09 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Wall St set for lower open after hotter-than-expected producer inflation data - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
@@ -179,21 +185,27 @@
           "source": "Reuters"
         },
         {
-          "title": "Oil jumps to $105 a barrel after Middle East tanker attacks escalate - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTlKVk5vOWlpYndFb2Flck9IczhtU2k5X1I3a0tlMjA2dkRmMEJncVFZdWctZW9wX05NaU9vUzNwMU5ld3UycklJMjhHaHB3WDdZVF81Z0t1WWNZak8tTFFwdDZtTHZvUnozMnVpUmtEanVsN2ZxM1A2QkxZS3IydDByTlQtd3RFYThzVnlwVmR0eGMyT1RQQldPZVp4VE1oSm5TcHBXVTd1dXM?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 13:05:50 GMT",
+          "title": "EXCLUSIVE: Major Novartis shareholder calls for board shake-up after drug trial setbacks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXkycUxwWU1iSXF2SUJuVWxOTHZ6ZDVlYW5aZS1wdlhDUzBlSHNqZkQtbFlvZ1dhYkRkNmpobW9pT0NPeE82MmJfdVFnaUlNZ1J3emlGc3dDdHhpUTBGTFhTdFg1R0hnRTR5a3FnUjI5Wnh5d2d0R0llaUNoNHJfMXpUSmVsc2VlM0swd1lpQU91T0pGanZGZ1gxSTBpY3B3NVpoSlppVk1Ob1ZqODRXNExtT01RQQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 12:54:23 GMT",
           "source": "Reuters"
         },
         {
-          "title": "COMMENTARY: Asia's oil industry wants Trump to leave the Gulf, but expects he won't - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMm1IdXZwdFBoY28xel9yZ3VNRGs3a0RTbDhTb3ZDWEw0VFZqZE5mNVJ6b2theVp3Q2p0emhIWmZwLXc4ako5eDl3UzVWZkRaQ3RHX05VbkNhVkVxbk9ISXhLMjVaLTRHc1FDdHAxb1QxN2hYSldJUzVGYVhmeWNiRVV0UjNtcHdubFpKWVFYWDZ4OVBJRFRSREhvcVlYVjV0YnFwUTNKeDBvU2hYMEE5SWFubFFCZlhSMTFaUnJMY19oYnI5?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 13:00:20 GMT",
+          "title": "Russia strikes petrol station in Kyiv, global agribusiness in Dnipro - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEVtQVJxa3hqaktCVV9ValNCTzFSNGRORVhUcTRMcUxnLUh6RHZNeDkyWlNpbTFxRUxETVoyajVzZi1IaHQ1SGNldW5QWXZRLWRrTjZ6WC02ZndibmpqU0t4VXVXTmF1QUJVZ0pyV3dFVWh3Qm5oTU8zMWVUZGRzTVhzUXlYNUhHZ1FVa1hVcF9wUThDTjJmaGtzQ21sc3E2bXN3?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 12:48:58 GMT",
           "source": "Reuters"
         },
         {
           "title": "India gets one of world's steepest iPhone price hikes - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnhfQVE1WmxxZnVYMkpLX0F6RnhGM2Y1RVVMa0EzR1ZaMWNGLWdVT0pHTS1iaEpnUU9uQUxmYkdUM2UtVDVpQlZjV3k0cjdPQkdLaHJUWE9tV0FYVlhtVlFOQXV0YjRvcURvSWpKRXRXb19vd1BTWXZCdnREejdNdm1FbjZ4RHhraHJHNmpDTGcxNXotVTFFRlpoVmZVd2xySXdQam44QWdXWnNPOUhj?oc=5",
           "pubDate": "Thu, 10 Sep 2026 12:47:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "French Football Federation withdraws support for FIFA president Infantino - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHJQcko0RkdvczNzUTFGSlEwb294MHhQRWQyOXdsUm5Yb1ZweEc2Y2ZHdkdSeEdJRFJyR1NXU2poZTlBLTFBcENTMkZnMXlsMXVBNE9DSVZuTzEwWjRHN2M3b2o0ejNlaXZ0X0tEUW5xUVBCTlUzT3Z2aHdJMXUtRlFHZERabGdlNFYxaEhHU0ZQbDZlM0ZNa2g1eTJqVnU1OWk2YmhHOGhhOHc3RFZCZ05CZjJlMTQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 12:39:51 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHNrYzNHZmZuSE9lVTJZT1kyRHFpYlVPc3NFUEg3WmNNSkV0eWhMMVVfdG55MlVvRjZ5cGkySjN0V2o2VjBFdTFJcU5xNFBWV3o3QTN5ZkpUU1pHWkNQOGd3WnBxQmxXZTVGNHN1OUU2NWlsQnBVelF6SGlwODMxUlBlcGZZMXFMb2JZMEMxWGI3QXVlNnNJY0w1MEVETnRwT0ZUVXVNY0NrWWZTdC1MNjhDNmhTMVg3REE?oc=5",
           "pubDate": "Thu, 10 Sep 2026 12:26:26 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump touts $5,000 payout if Republicans win as Vance waits in wings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObTBDWU8wZ01YSnowWGVWbUFZQ0ozZlZaSzRYWFhuaUdxajB6T05JS29iX180anZIUWdKUUE4SjZGdzN1cmc3Tmx2bjMtT0Z4TE55bGQ1NjYxUThlU21OTnZvbVJxeTNXVjZZcXJrdG1pQzRMTnVqeGUzcVY5aGluV1V0YTh0UlN1eVBScUZTajd4S0tCaFNEWGltbE9jRHk5eS1rTFVkRHg?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 12:19:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Algeria cuts diplomatic ties with the UAE - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaW5YdHFlZ2U0Sll2VTZQeGxweXUtTk8zSUt4UGdNQ2ljcTRzeG84SEdzcWlFOUpXNGFhekVfcXc3dEU0Y0UtQnBpRnZwWmVqVXl1TWpDQlhRRjZnbWRoT0JFaUdZcVkxdU9BU3NfSjNMeW5zR2I1M20wTHlvS3N0MXBIWWVLUTNIR0RFS2ctWWJJLS1nVXhyRnhIakpKd3ZUS1pmeld6MTVBNl9KVnVpaWFMTzI?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 12:11:34 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T13:25:14.447Z"
+      "updatedAt": "2026-09-10T13:50:15.717Z"
     }
   ]
 }
