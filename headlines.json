@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-10T21:00:21.982Z",
-  "lastChecked": "2026-09-10T21:00:21.982Z",
-  "lastUpdated": "2026-09-10T21:00:21.982Z",
-  "generatedAt": "2026-09-10T21:00:21.982Z",
+  "fetchedAt": "2026-09-10T21:25:15.532Z",
+  "lastChecked": "2026-09-10T21:25:15.532Z",
+  "lastUpdated": "2026-09-10T21:25:15.532Z",
+  "generatedAt": "2026-09-10T21:25:15.532Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T21:00:20.956Z"
+      "updatedAt": "2026-09-10T21:25:14.239Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Lawsuit challenges intimidation of DHS observers across the country",
+          "link": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit",
+          "pubDate": "Thu, 10 Sep 2026 17:07:38 -0400",
+          "source": "NPR"
+        },
         {
           "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived",
           "link": "https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction",
@@ -103,20 +109,32 @@
           "link": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
           "pubDate": "Thu, 10 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Democrats blast $5,000 payment promise ahead of Trump, Vance speeches in Dallas",
-          "link": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
-          "pubDate": "Thu, 10 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T21:00:21.020Z"
+      "updatedAt": "2026-09-10T21:25:14.538Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Republican midterm convention provides Vance center stage moment as party faces midterm verdict - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjVQOUJSUU5LbHFrTVNpY1pmVktmWGxod3hSYjI4dTlXV0FRUklwZy15ZkNRRFllUXJuLVhYSG9CUTVJWTVXb0MwRW5hWGo4Vm1EQVlXd2dXUTNleEo3cld6cVY0U2kzZXpfdDR5R0Zma29iT01MWHRCV0I5aWM0ZUczMkNvNUQwdWRUOXNwakdmejBfQkR2X3Z4TWdWZDZfNkRWa1Z3?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 20:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Zelenskyy visits Canada to seek further military support for Ukraine - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaHJoci1DWE1jNkFQTUprejJCTGR1cWxtMjB0TVprVnN4VmRqZHpOZGV2LTlzUjI2dzVOaGxIOHY4enEzVV96QWc3aUliYnB4TkNLWW9FMXpORGwySmlJMnlZZWtWMmpYeFk0QzZXNXEweXRDVUNxTGw1bzB0MW5DX3N1d3VJaG1yYl9JRC1Sc0ZBd2Q0UWpqblpNbw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 20:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Associated Press journalists who witnessed Sept. 11 remember what they saw, 25 years later - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa29UeHJRVGRBN3B3SGtRMVpySFp5RkhGWDVoU01rMUNoeWhCU0JIRm8zYmIxVThfVjA2QWhwUTRWU0ZhSTRxOVVkYkdGYS0waWllYzNKVlg5MHNuUGJ3cVB6R2dHd2ViWkpaRGl5ZS12YjdlMm9YVkhUMURrdWE1OU4zcVktdTdvbzQ5UUhPNWhsbE0?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 20:27:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
@@ -142,87 +160,69 @@
           "source": "AP News"
         },
         {
-          "title": "Associated Press journalists who witnessed Sept. 11 remember what they saw, 25 years later - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa29UeHJRVGRBN3B3SGtRMVpySFp5RkhGWDVoU01rMUNoeWhCU0JIRm8zYmIxVThfVjA2QWhwUTRWU0ZhSTRxOVVkYkdGYS0waWllYzNKVlg5MHNuUGJ3cVB6R2dHd2ViWkpaRGl5ZS12YjdlMm9YVkhUMURrdWE1OU4zcVktdTdvbzQ5UUhPNWhsbE0?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 19:20:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZW5iMVdUY2k3QldGeFFOM3hnbWg4NnVlbFcxMml2aWZuUDZ0ZmY2clJlR2tEdHZybmhib3l4Qkt3dENZMGUwamxpSEVTVlhlZF92WXNvNUEwNDlFU2xlVDRhQW40YTM5QnlLUjRuQ1JzUHNzWjlNVGNzejI2dGdsM0ZuaTRCc29pYlFVci16MnRlQU1RSUtNNl9zbTJkZzBxMFBPVG9vZHlGcDAtNnc?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 18:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Kimmel says interview with James Talarico won’t air on TV under pressure from the FCC - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmtpU2NVcWtRdHBUMFN3RDBkLUt3dlItUDNWZFZQeUZaX0paRnV0TEUydkhGNm5NMnNPcWZzdWw4UGdzcFVJVlVuSmtyaUZrUWtsX2QwZkdOUTBlZ2xKLXVVaXl0VDM2d3dldWNnSUR6cUhVczdaSlBpYmdqTzl1T3NOQWtiTG15WGpsdktheEEyaGpKc3RFQw?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 18:32:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Zelenskyy visits Canada to seek further military support for Ukraine - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaHJoci1DWE1jNkFQTUprejJCTGR1cWxtMjB0TVprVnN4VmRqZHpOZGV2LTlzUjI2dzVOaGxIOHY4enEzVV96QWc3aUliYnB4TkNLWW9FMXpORGwySmlJMnlZZWtWMmpYeFk0QzZXNXEweXRDVUNxTGw1bzB0MW5DX3N1d3VJaG1yYl9JRC1Sc0ZBd2Q0UWpqblpNbw?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 17:58:00 GMT",
+          "title": "Trump promises $500 Obamacare rebate checks for 1M enrollees in 30 states - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS09rbXc1SGd2dUpqQS1teTQ2OUJzVmpLVFdLczVhSWpTVGJuM2NEWEJaWGtZYjFSSE8yVG9mWS1pQmVBNVJ1azZUUG1laTR3Z3NQMlBtcXh1eU1NOTZ3NkhIdkhqaElSeGZMZ1JTbDJJWUR6aDIydGhhUV9xcXR2NmtoR0M1VC1jRXlTcW5mZ2J0Q3JGcVU0SlBVTnNJZ2c?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 19:05:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T21:00:21.571Z"
+      "updatedAt": "2026-09-10T21:25:15.069Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Several killed in coach crash in Swiss Alpine village - Reuters",
+          "title": "Yemen's Houthis close in on Bab el-Mandeb Strait in new threat to shipping - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUNHSEc4V2xmVVpPcmx6cE1GaF85MVB3Tnl5ZzdyWVBlYy0zcnNzOTQ1R2ZyNFdzbmp6c2xodVlOallDQTAyeUFodEUwa0dkOFFCN3ZIcmg0V3Iyc0NiUGczTklDSzhUOGNkUUd5ZWlRME5LRGhBdHFvSDdVUm9WdjZacC0zcFdkM0xZY09LUHFDR3lua1ZXMW1GN0NxT21CTFRYNkFOVGRNMzFsTjJXS1hnejFfVTdUZHBvMEJoMmJGU2xLQnc?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 21:08:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Several killed in coach crash in Swiss Alpine village - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcC11dGVZOFhyS19xTy1ndTdoWklGeGNZcm80UXAwa3ZhRUk2emd5ejVqQlhmZzBFc3pfMC1uVkd2dXptaTBvS3F1TlhCS3B6bHBXd2dYemZpekpfTEpwUUFSeE1wNE1VWTRIcDdmTE81RV9aVkdwdFNSZEp6M0d2N0ZFVjFvVE1aNzhOOHJMOXcwSDZXYWQycGFB?oc=5",
           "pubDate": "Thu, 10 Sep 2026 20:30:01 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Yemen's Houthis close in on Bab el-Mandeb Strait in new threat to shipping - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUNHSEc4V2xmVVpPcmx6cE1GaF85MVB3Tnl5ZzdyWVBlYy0zcnNzOTQ1R2ZyNFdzbmp6c2xodVlOallDQTAyeUFodEUwa0dkOFFCN3ZIcmg0V3Iyc0NiUGczTklDSzhUOGNkUUd5ZWlRME5LRGhBdHFvSDdVUm9WdjZacC0zcFdkM0xZY09LUHFDR3lua1ZXMW1GN0NxT21CTFRYNkFOVGRNMzFsTjJXS1hnejFfVTdUZHBvMEJoMmJGU2xLQnc?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 20:21:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump's $5,000 dividend plan draws some Republican skepticism - Reuters",
+          "title": "Trump's $5,000 dividend plan draws some Republican skepticism - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3hSaXcyODlUWTloWG5HNGFVcDd2MWxsYjFaM0pQLTFSbFBIZVJhMU8yaVh6eHlGSHFkaGtMaGYtMkU2cUlTQWc1UjRFOXZpaFNYUWxnU1BlT2NaZV9KQ0tsZXJlblRYbUdkRDNBdEIwQk5FU2hhS2xEZVZodEhOdWJKUjdvQVFad1VnZm95ZmdiRTIzSTNDVjRsNHMyZkxXcVc3OXlObVpUMXBxV0ZZSA?oc=5",
           "pubDate": "Thu, 10 Sep 2026 20:20:49 GMT",
           "source": "Reuters"
         },
         {
-          "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation - Reuters",
+          "title": "Oracle's quarterly revenue beats estimates as AI boom drives cloud demand - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYzUyN0FuOGI1QWEwbUFheXRzLW1aTlZvVVBxWkRzSmpBZjhQQmRJMnlkenRiYldtT1VSRnh3c0FnYW9RaVY0ZGtJVmVIWGU0aW9saEV0TUdaWmNXUlhidUQ4SEY2VHpNVUJPVEpVYWFZc1dLUmJlbGZ6Q2pua1F0aVUyU2hMQU4wS0U3cUpJT0J1ckMydVVvMTRtU2VnTmg0VVNYNWRUcVNpd1lWVWRUNTVNRjBZYWs?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 20:20:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
           "pubDate": "Thu, 10 Sep 2026 20:16:48 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - Reuters",
+          "title": "EXCLUSIVE: Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWlhfdjkzd3dXZ3dqYVIxSW5HemVEb0EwdGUzWFBIUGJmWHpUN1dVWXBPeUJpQXh1SzJnQzhkbDJLSklhNlFZV1pZZFNPLXNMWVRXN0ZJeEF3eEw3ZnBDa0NHY3R3V1F2bTM0QU54TVFLMHZWdUo1WFNRMHg1NWJYbnFvMzlVODlndUhLcFR3X2c4WXNRdHRRbUowdEczWjl4Z0t0VDROWkl3TmdwdDNmNk1mRzlRWk9fbXc?oc=5",
           "pubDate": "Thu, 10 Sep 2026 20:01:57 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Explainer: Is Trump's $5,000 'dividend' legal and how would it work? - Reuters",
+          "title": "Explainer: Is Trump's $5,000 'dividend' legal and how would it work? - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeU13MnNSZkJSaUhJNGZYY3o3ckVBZm5JYUR2Z0lHUzRBV1FTZWs3WmFzX2I5aS1xTDF6aDFyalVwQkEtbmNMOV94UzctaDlMcU0yVmVTYWpNNnNsbl83ZzVibi1lVlNCVDRlSklZT0NPVkRUaFJDWTdsLWduYlVzOXJ6UmpPZ21kQWRYMk1VdU1BRUdtYk1VZ3lHbGZ2SmMzUEE?oc=5",
           "pubDate": "Thu, 10 Sep 2026 19:53:14 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - Reuters",
+          "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ?oc=5",
           "pubDate": "Thu, 10 Sep 2026 19:48:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Children of 9/11 to finally get a major health study - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRWpnZE9ETTFMeTRkSVREYVAzM1h2THd4Njd5SEtYb2dzOXRZMFJVbkZjZ0xqS3Z0T0pZcHE3c2RZemNvUmhZTmdlUTdMT0RIa2xaQ0QzM2cwb19IZm1QdHlPMFFhYWF2b2JpU2FoMHJLWi1nV3pPNXZvenRhQS1wNndNUTVuWDBLcnhOYkd4NW83WGVWdms5UkVtU1ppNHhOUEVlMjllb0wwNVJZdFN1Z1ZkdDJoQQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 19:40:31 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T21:00:21.982Z"
+      "updatedAt": "2026-09-10T21:25:15.532Z"
     }
   ]
 }
