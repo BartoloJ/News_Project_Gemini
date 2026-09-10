@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-10T09:25:15.671Z",
-  "lastChecked": "2026-09-10T09:25:15.671Z",
-  "lastUpdated": "2026-09-10T09:25:15.671Z",
-  "generatedAt": "2026-09-10T09:25:15.671Z",
+  "fetchedAt": "2026-09-10T09:50:21.326Z",
+  "lastChecked": "2026-09-10T09:50:21.326Z",
+  "lastUpdated": "2026-09-10T09:50:21.326Z",
+  "generatedAt": "2026-09-10T09:50:21.326Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,11 +10,11 @@
         {
           "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
           "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 10 Sep 2026 09:21:02 GMT",
+          "pubDate": "Thu, 10 Sep 2026 09:32:34 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
+          "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
           "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 10 Sep 2026 09:00:05 GMT",
           "source": "BBC News"
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T09:25:14.593Z"
+      "updatedAt": "2026-09-10T09:50:20.101Z"
     },
     {
       "name": "NPR",
@@ -112,66 +112,78 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T09:25:14.794Z"
+      "updatedAt": "2026-09-10T09:50:20.321Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - apnews.com",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 06:50:46 GMT",
+          "pubDate": "Thu, 10 Sep 2026 07:15:19 GMT",
           "source": "AP News"
         },
         {
-          "title": "Asian shares fall and oil prices trade above $100 a barrel - apnews.com",
+          "title": "Asian shares fall and oil prices trade above $100 a barrel - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
           "pubDate": "Thu, 10 Sep 2026 06:25:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - apnews.com",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 06:00:14 GMT",
+          "pubDate": "Thu, 10 Sep 2026 05:34:46 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump, hoping to salvage midterms, makes dubious pledge to give every US adult $5,000 if GOP wins - apnews.com",
+          "title": "Trump, hoping to salvage midterms, makes dubious pledge to give every US adult $5,000 if GOP wins - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaFo2NjdHMEdacGhHTW9UOHZCaTNiQ0p5dTBuNDVjUFJNOWlibzNWRElyT0c1c1I4MjZNdWJVTGk4Z3pGbjBrOHNYaURqZlJTd3ZPbm14MXZWZ2FuUE0xek1sTWtYNW1ZalM2SjIzNjhYSGRVM0xCbkhKVWlfc1dWYmw1bThDbjctc0Q5VXgzTHhkNjc5akZFZkkxeGxIcjZKWGc?oc=5",
           "pubDate": "Thu, 10 Sep 2026 05:14:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump defends Iran war, slams Democrats and promises cash at Republicans' midterm convention - apnews.com",
+          "title": "Trump defends Iran war, slams Democrats and promises cash at Republicans' midterm convention - AP News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0ZpRE1lUUNOMTJHYzZ2UjRuVTlLbEgweXZ1bEV0Uk82QS12RzM3SGstLTd0dzNjcC16N1VIQnRoUndpcmF2RVFrLVYyQnBkS0JDZ1I5bGNLMDNsMTdWS2lrRGxoQ3VtV2lDNmNGZnBaZEFnNDJNUDFyOGt3MGdRT2VDS3VMdExFUS1kLWdaWFh6b2RUcHY5cG1rWkIzUHQ5cDZIRDNXYW14WVpSdkl6MTdTWTA?oc=5",
           "pubDate": "Thu, 10 Sep 2026 04:23:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Foulkes defeats Rhode Island's Gov. McKee. He's the first governor in 8 years to lose a primary - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1dXbW52Qmo0dmNzdk0tTUZUc1V1SjBveEZBUjFTVHNQa3AtZE5iUVR6ZHRqaG0xc1dtYUozZE9uNDA3S0pDcHBIZGRmei02U196MnFEVkh6WS1xOFhZQWpWOTN0aDVVdGxPSWYzMVBFbWpWLUxWWTIzOXFkaGFOQzNmUk9peUhPVUV2WlpSWWNlOTdMT0lDNHhUT196ZGpnOXNVMXI2OXVBdw?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 03:02:00 GMT",
+          "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 02:27:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Yemen's Houthi rebels say Saudi-backed forces launched airstrikes, and other key Mideast news - apnews.com",
+          "title": "Yemen's Houthi rebels say Saudi-backed forces launched airstrikes, and other key Mideast news - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPczdJRnExQ1FLTzA5RlBFWnNlWmIwVFpfd0tWd1ZWT3dyd2FWSmp5NlRxd0lGVHhhdkE4SmNqMS0wQng1QjBBRV84ZThNdGRBekVuN09PeHhvNDJGSWlFX3JFMzFEVkZuYXg5WVdyOU16b1BqRkloVExfTi10M2JJMDJIZVpVa2FhWFdOR2JHeGVockIwY25qS243RE9UdTFIUHRMV05IeHdMdw?oc=5",
           "pubDate": "Thu, 10 Sep 2026 02:12:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "It's 'Pitt' vs 'Pluribus' in drama and 'Hacks' vs 'Widow's Bay' in comedy at the upcoming Emmys - apnews.com",
+          "title": "It's 'Pitt' vs 'Pluribus' in drama and 'Hacks' vs 'Widow's Bay' in comedy at the upcoming Emmys - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUU0xWU5mWjdVcWdsYlQ2Tm5GUGJQck1jVW5qTW9FM1JTYlR4OEdoSG4xbFNENHZ1S2I5NWJadFNkX0plSUZTMVpMTF9seXg0SUNkOC1tX0ludUpfeUZTc3A1dFBIb3ExanlaSHpSeFhYWDR4aTJiaUdMOXV3SzJLUnFFV0RPdjV5Mjk4Z1Bkdmp1RHR6RHNOdi04bHp1MmJPWmRj?oc=5",
           "pubDate": "Thu, 10 Sep 2026 01:36:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T09:25:15.281Z"
+      "updatedAt": "2026-09-10T09:50:20.812Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "India to push BRICS digital currency link despite hurdles, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNGFTYnhPbjNiSlZaLWpwYUE1aEJpdUViQjlnOF83UWx2UXdEYkF5VzdqWU5GX3pRemRhWVhuWUdGUkpUWmRvNTRYb0ZLMkJZSll2dTB1Wm9XWnlIV3BIUWZadHBBYmtXTmZyaVJ1Rnhrd0tlWkl2OWx0aHFxdXJyYVJQbkJhMnUxOGo1V2RFcGk2cWZCbVlQaDVUSjR2d3QzWkVGMFdOU3BBMk5RUEhSOUZvT08?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 09:16:58 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iceland to propose whaling ban, leaving Norway and Japan isolated - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTZtQl8yWG1DZ3pCM3FnRkM1SmNkN3N3X0FaY1M5Q1k0QXBnWkJscy1fd1A4TXBhMFdzbkNSREhxZjFOeXVsNVNJRXZPRWh4bHp2dDE5Z0ExSGFFTkdjbGZkTjZlZjcyV0pEWnVWOHM0ZGliVEZkdklhUFhtcGYyX1RLbFVweXFaMThKa1lTMExqYTZSaUlLeFhONVgwRFBuaGNXRXRyN1dGVlNyMVAtaVRBblM?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 08:35:57 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump touts $5,000 payout if Republicans win as Vance waits in wings - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObTBDWU8wZ01YSnowWGVWbUFZQ0ozZlZaSzRYWFhuaUdxajB6T05JS29iX180anZIUWdKUUE4SjZGdzN1cmc3Tmx2bjMtT0Z4TE55bGQ1NjYxUThlU21OTnZvbVJxeTNXVjZZcXJrdG1pQzRMTnVqeGUzcVY5aGluV1V0YTh0UlN1eVBScUZTajd4S0tCaFNEWGltbE9jRHk5eS1rTFVkRHg?oc=5",
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Hong Kong court convicts Wall Street Journal publisher for blocking ex-reporter from union role - Reuters",
+          "title": "Hong Kong court convicts Wall Street Journal publisher for seeking to block reporter from union role - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFdlLWQ0QXJMNV9rekNWRE5YcXJ5akF4ZE9WY0JVVzBENWQ2dm1fUUgta21VeWtxZUVpYzRCOWVnZFZSbHdZMS1RNXNUVjhSSXUwQ2wzLWNVSjBJZHFpSk83THRCX1FsQ25LM3N4R2tQcmFUcWplTnhPc0tkdmtIY2RvYXVtajdqTlB0Y3B2Tktzbzh2ekRVdzhia1lNWTZ4eC00ZmY0UDJTaTV2aGFyaHlCM3Y4Q1dQNEFQbXNpcmgxLWljWGdyekpRdFk0ajg?oc=5",
           "pubDate": "Thu, 10 Sep 2026 06:21:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says Iran war to end after US midterm elections, threatens to attack Pickaxe Mountain - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX1VBYmFiQnhuQWRpWDFRNjQ3ZzBFUTEzUmxneFZQTmtfOHducTVIZlU3LXFwRjVSbS1EYTNjMVY1dGlzODdfblBPSzFqWm90bWhfeFBUVVlDdjN2YUFoS1VNekY4U1VHcW1WTXQzS1ZTYjI2YzZ1OFFaZzJMZm9DTEpWY25jMlJsOHNUYklSbkR3Z2pNc1ZUcUNhN3VnWHdIV2U5RklKVldodktsWE5rczRlMVFfZzJZV3VJSzlhdEpRV1VzLXc2Sw?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 06:13:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Global clean hydrogen investment tops $130 billion amid energy security push, council says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTF8xODFtSDN6ajM4Q2lacHhGUFZraDZPV0IwQWJ5T1dkTVBiZ1ZaeFJsSjNtQmRFVDBGOVZwN0l2Z0doWlVKSTR6aDV0Ty1QYml6MThnSDNjcW9KUmxMbV9SUnd3SUdCOC01dm9QZWY0VUY1Tzk0UFgyNzJiMlJBbjVZbjNRZ2tyMVIyaHNUZXludUItV2FGMUFtbnZZdUMwenNBOXNzMEVhcXZPWFA4TzdvUF9CcFdMSGpLaktYYlpHOXJPZXc?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 06:06:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T09:25:15.671Z"
+      "updatedAt": "2026-09-10T09:50:21.326Z"
     }
   ]
 }
