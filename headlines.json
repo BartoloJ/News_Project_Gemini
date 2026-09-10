@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-10T14:50:16.965Z",
-  "lastChecked": "2026-09-10T14:50:16.965Z",
-  "lastUpdated": "2026-09-10T14:50:16.965Z",
-  "generatedAt": "2026-09-10T14:50:16.965Z",
+  "fetchedAt": "2026-09-10T14:58:09.797Z",
+  "lastChecked": "2026-09-10T14:58:09.797Z",
+  "lastUpdated": "2026-09-10T14:58:09.797Z",
+  "generatedAt": "2026-09-10T14:58:09.797Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T14:50:15.680Z"
+      "updatedAt": "2026-09-10T14:58:09.186Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "How did 9/11 reshape national security?",
+          "link": "https://www.npr.org/2026/09/10/nx-s1-5910729/how-did-9-11-reshape-national-security",
+          "pubDate": "Thu, 10 Sep 2026 10:53:37 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
           "link": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/09/nx-s1-5891555/a-huge-11th-century-tapestry-of-the-norman-conquest-has-carefully-traveled-to-engla",
           "pubDate": "Wed, 09 Sep 2026 17:43:51 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
-          "link": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material",
-          "pubDate": "Wed, 09 Sep 2026 16:42:19 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T14:50:15.772Z"
+      "updatedAt": "2026-09-10T14:58:09.232Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T14:50:16.497Z"
+      "updatedAt": "2026-09-10T14:58:09.784Z"
     },
     {
       "name": "Reuters",
@@ -191,6 +191,18 @@
           "source": "Reuters"
         },
         {
+          "title": "Edgy bond investors unconsoled by Bessent's big buyback - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2N3dTlTV3YtRHd0WmhTRE4tTDh6TzBNZW1MWHdaUHhPUzRnakxadDdCWUgwRjM1X3o0S3lmVFR4dV9JSl9uR2hEbzFFWG9rcGx4WDdwMFlNSU8wR25QWjBEUUpBd3F0Z2VlemZ0ODVQbWZxVktsYjRUd3QyOE82M1VDN0tTRU92OGdySlFUalVST1hldjVSNVMwMjJrVlJTd2RlZ1NVb1BkT1psQnow?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 14:16:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "IBM, NASA launch AI model to help map ice, craters on Moon - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHVoaUpvT3dtcTlFZHJyUWV2TWUtSU5xcmpMTVNkTzN2dHF6ZGpzMzZrbThHUmNXU3hRV2IxNk5XQVFFMFVJMDBTZUpsWThDdXNscnFyTW5IREtyYi1vSEFGQ2hOdFJSbTBPUXBUMURiSnRvbzFmTlRCTXpFY3B0cXR3UXVGclJWa1JyenNJYjRPZGNUd0JvQldR?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 13:50:51 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ?oc=5",
           "pubDate": "Thu, 10 Sep 2026 13:45:19 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSllzbWpfQ2xZcDA5eExQYUxKdVRwdEdUdFFpMzJPWW1ib29Ocm85Z3ZDaVFpMkZGQnpUQ1Z2Zy1pelQ5Tk5TY0lKSUJ5RlZiUDhoeU5jWHpRX3dZQzFqcWtfT3J2UTM3Q2doaTdRUHEtczI1TDVkOE5jN2V1b2h1S01fYktSLV9yTERENnpxeHVLdw?oc=5",
           "pubDate": "Thu, 10 Sep 2026 13:43:17 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Major Novartis shareholder calls for board shake-up after drug trial setbacks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXkycUxwWU1iSXF2SUJuVWxOTHZ6ZDVlYW5aZS1wdlhDUzBlSHNqZkQtbFlvZ1dhYkRkNmpobW9pT0NPeE82MmJfdVFnaUlNZ1J3emlGc3dDdHhpUTBGTFhTdFg1R0hnRTR5a3FnUjI5Wnh5d2d0R0llaUNoNHJfMXpUSmVsc2VlM0swd1lpQU91T0pGanZGZ1gxSTBpY3B3NVpoSlppVk1Ob1ZqODRXNExtT01RQQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 13:42:48 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall St opens lower after hotter-than-expected producer inflation data - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 13:40:25 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T14:50:16.964Z"
+      "updatedAt": "2026-09-10T14:58:09.797Z"
     }
   ]
 }
