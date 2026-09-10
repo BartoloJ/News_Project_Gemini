@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-10T15:00:22.504Z",
-  "lastChecked": "2026-09-10T15:00:22.504Z",
-  "lastUpdated": "2026-09-10T15:00:22.504Z",
-  "generatedAt": "2026-09-10T15:00:22.504Z",
+  "fetchedAt": "2026-09-10T15:25:53.487Z",
+  "lastChecked": "2026-09-10T15:25:53.487Z",
+  "lastUpdated": "2026-09-10T15:25:53.487Z",
+  "generatedAt": "2026-09-10T15:25:53.487Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T15:00:21.942Z"
+      "updatedAt": "2026-09-10T15:25:52.311Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "'I've never seen anything like this' -- A U.S. doctor treats Ebola's youngest victims",
+          "link": "https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo",
+          "pubDate": "Thu, 10 Sep 2026 11:06:20 -0400",
+          "source": "NPR"
+        },
         {
           "title": "How did 9/11 reshape national security?",
           "link": "https://www.npr.org/2026/09/10/nx-s1-5910729/how-did-9-11-reshape-national-security",
@@ -103,75 +109,81 @@
           "link": "https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump",
           "pubDate": "Wed, 09 Sep 2026 21:17:28 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "A huge 11th-century tapestry of the Norman Conquest has (carefully) traveled to England",
-          "link": "https://www.npr.org/2026/09/09/nx-s1-5891555/a-huge-11th-century-tapestry-of-the-norman-conquest-has-carefully-traveled-to-engla",
-          "pubDate": "Wed, 09 Sep 2026 17:43:51 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T15:00:22.002Z"
+      "updatedAt": "2026-09-10T15:25:52.384Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Oil prices climb back to where they were in May and drag Wall Street lower - AP News",
+          "title": "US Supreme Court again rejects push to use Trump-backed congressional map in Missouri - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 14:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Oil prices climb back to where they were in May and drag Wall Street lower - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
           "pubDate": "Thu, 10 Sep 2026 14:28:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "title": "Israeli strike in Gaza kills at least 4, including children, and other Mideast developments - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMi1lNm91a2VNZ2pET3pySXpRdExjT01OZ2dTbmxRblk4ME5ZZko0aElVbFdrV1gyY2VWcmJPUkREbWZBdGNJYmZyQmIwOVVJWmdyT3J1cHhhTzNCTFlTZzN5UEk1bE5DVVl5bDhaVkh6Q0xDcEtkVWM5SEtGb05XcUc3dGh6dUZEOWQ3czNqWndFelg3ZEJtSXZlcXNPalFCSF9LbWtR?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 14:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
           "pubDate": "Thu, 10 Sep 2026 12:43:36 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
           "pubDate": "Thu, 10 Sep 2026 12:34:44 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump, hoping to salvage midterms, makes a dubious pledge to give every US adult $5,000 if GOP wins - AP News",
+          "title": "Trump, hoping to salvage midterms, makes a dubious pledge to give every US adult $5,000 if GOP wins - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaFo2NjdHMEdacGhHTW9UOHZCaTNiQ0p5dTBuNDVjUFJNOWlibzNWRElyT0c1c1I4MjZNdWJVTGk4Z3pGbjBrOHNYaURqZlJTd3ZPbm14MXZWZ2FuUE0xek1sTWtYNW1ZalM2SjIzNjhYSGRVM0xCbkhKVWlfc1dWYmw1bThDbjctc0Q5VXgzTHhkNjc5akZFZkkxeGxIcjZKWGc?oc=5",
           "pubDate": "Thu, 10 Sep 2026 11:55:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Seahawks pick off Drake Maye 3 times to beat Patriots 13-10 in Super Bowl rematch - AP News",
+          "title": "Seahawks pick off Drake Maye 3 times to beat Patriots 13-10 in Super Bowl rematch - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcmpkOGJ4Y203VmctbUV1d0xuV2FweC0xVjJRRDRJNTFVMkpLdkVWVThGNmxieFlTZEFtdjY0MTlYZm1MVF9HYXFFMmJ4dnlhV0wwQXZISlpaUFRlaVdzQnJQdFFsRFphOUFyQWhjRzhQRVQwUjBDcEY4NlhySFNXelhnSVNRblpnRjlB?oc=5",
           "pubDate": "Thu, 10 Sep 2026 11:04:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Travel scams are getting harder to spot. Here’s how to stay safe - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUF8tb2NuVExqOEt5Mmltc2lKbWNxbWhGYVZ1QmVNYmhwX1VJYXNuMEdFU29aTWxHOGJDczBCb1BQWVdrVWNOd3c3R1dkLXg2ODd4U2UxZy1RM1R6cDJGX3Vnb3pKRjBVWkJ5cFFoSmU2SXdlclFRSFIwcFFnMWhDQ0dQTGZkWjRyMWNqRlJDVkpXd2hsX2dWUkZZVWZKV0U?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 10:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "China’s car exports in first 8 months surpass 2025 total, as EV sales soar - AP News",
+          "title": "China’s car exports in first 8 months surpass 2025 total, as EV sales soar - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzRDZFRjV2lBVXg5YjVuMTJXZmZqaHgwcXB3SGE2NHFMMDNlejh6Wlg5ZExIdjNoRmlnUWlkTDR3T2ZkUG44OEtqWXJ5X3hhNlJrU2U2TndCSnYxSHhyZy14Vk5VakRVaHlEWTN0U1hrWU41ZVFlNjF6V3lmbTAwOEhtZV9XOWs5U29lOFRFcEU2dw?oc=5",
           "pubDate": "Thu, 10 Sep 2026 08:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Foulkes defeats Rhode Island's Gov. McKee. He's the first governor in 8 years to lose a primary - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1dXbW52Qmo0dmNzdk0tTUZUc1V1SjBveEZBUjFTVHNQa3AtZE5iUVR6ZHRqaG0xc1dtYUozZE9uNDA3S0pDcHBIZGRmei02U196MnFEVkh6WS1xOFhZQWpWOTN0aDVVdGxPSWYzMVBFbWpWLUxWWTIzOXFkaGFOQzNmUk9peUhPVUV2WlpSWWNlOTdMT0lDNHhUT196ZGpnOXNVMXI2OXVBdw?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 04:47:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T15:00:22.483Z"
+      "updatedAt": "2026-09-10T15:25:52.962Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 15:00:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Supreme Court blocks Republican-drawn congressional map in Missouri - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzhNVFBiOTdvaDJwUXAzX3JOem1PQ1RhNmF5R0sxTjZtRXZSc1E1NWZzbGpmMlp6TEhyVk9JWUtRY3UtZ3FTSk1ZY3RoX3VFMnB4ZnZBY0RrbjZkNEFuY1BEWldvMmpOSExaWE01ZVA2UzhGS2E5UlNLYWlpa2tiVEpVei04ZWlPZUVhbDRhT1J5d3dRNi04bDdaN0JYbjNvb3JRTGE2NjNndGtxSnc?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 14:46:39 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Fire in rebel-held east Congo kills 24 schoolchildren, official says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXFta3lOeGEzN29FeHJUUkF2RlVFamFCeWppaEQwZmljVThqRzlHbV9fQktHaWQtcnJsd1NUdWhVZ3BSQlVJZmxkMVplTDA5dGl6OEhybTk3RnFNQ3g3QnF2RmNyTkpYeHh4eEo2SnU0T3piRHRpb2tZWjhpVG9rTTdNZ2RMOXQtMU1wYlptaFhMTDBuMWthNXVLYlRUT2RqY3FVdmx4bnlZNnFmLWs4TWxndU1ERjd5V3EzalJ6Y2M?oc=5",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHVoaUpvT3dtcTlFZHJyUWV2TWUtSU5xcmpMTVNkTzN2dHF6ZGpzMzZrbThHUmNXU3hRV2IxNk5XQVFFMFVJMDBTZUpsWThDdXNscnFyTW5IREtyYi1vSEFGQ2hOdFJSbTBPUXBUMURiSnRvbzFmTlRCTXpFY3B0cXR3UXVGclJWa1JyenNJYjRPZGNUd0JvQldR?oc=5",
           "pubDate": "Thu, 10 Sep 2026 13:50:51 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 13:45:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Cargo vessel fire at east China shipyard kills 25 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2dYQUF5NjNabk9Ldk1LRVV0Q3NmQlJTLVNLNXVRVk5SNXpQV3dld054WVNuRkZWU3RDalZBYmpkeEtCcVZQcS10Q2IxdE5DS2NpSkh0U1dxV2ZReGhHeGNTTmpTaHBvYTI0ZUxlX1hEa2NNcExXbVhseXNGbWxTaGxidlYxWk1BbnhKanRmaXcyeHpldkNUOHZNSVFvMkJtSjEwb2lHLS1OY2t2dUwwX1JMLWpKbzZUamptSkpvVEsxYkZwcnZYUmVBSQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 13:43:46 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T15:00:22.504Z"
+      "updatedAt": "2026-09-10T15:25:53.487Z"
     }
   ]
 }
