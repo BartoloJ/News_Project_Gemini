@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-10T06:00:20.461Z",
-  "lastChecked": "2026-09-10T06:00:20.461Z",
-  "lastUpdated": "2026-09-10T06:00:20.461Z",
-  "generatedAt": "2026-09-10T06:00:20.461Z",
+  "fetchedAt": "2026-09-10T06:25:13.633Z",
+  "lastChecked": "2026-09-10T06:25:13.633Z",
+  "lastUpdated": "2026-09-10T06:25:13.633Z",
+  "generatedAt": "2026-09-10T06:25:13.633Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T06:00:19.722Z"
+      "updatedAt": "2026-09-10T06:25:12.596Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T06:00:19.814Z"
+      "updatedAt": "2026-09-10T06:25:12.769Z"
     },
     {
       "name": "AP News",
@@ -120,13 +120,19 @@
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 04:58:23 GMT",
+          "pubDate": "Thu, 10 Sep 2026 04:53:28 GMT",
           "source": "AP News"
         },
         {
           "title": "Trump defends Iran war, slams Democrats and promises cash at Republicans' midterm convention - AP News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0ZpRE1lUUNOMTJHYzZ2UjRuVTlLbEgweXZ1bEV0Uk82QS12RzM3SGstLTd0dzNjcC16N1VIQnRoUndpcmF2RVFrLVYyQnBkS0JDZ1I5bGNLMDNsMTdWS2lrRGxoQ3VtV2lDNmNGZnBaZEFnNDJNUDFyOGt3MGdRT2VDS3VMdExFUS1kLWdaWFh6b2RUcHY5cG1rWkIzUHQ5cDZIRDNXYW14WVpSdkl6MTdTWTA?oc=5",
           "pubDate": "Thu, 10 Sep 2026 04:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 04:07:50 GMT",
           "source": "AP News"
         },
         {
@@ -142,18 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 02:42:38 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 02:27:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Yemen's Houthi rebels say Saudi-backed forces launched airstrikes, and other key Mideast news - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPczdJRnExQ1FLTzA5RlBFWnNlWmIwVFpfd0tWd1ZWT3dyd2FWSmp5NlRxd0lGVHhhdkE4SmNqMS0wQng1QjBBRV84ZThNdGRBekVuN09PeHhvNDJGSWlFX3JFMzFEVkZuYXg5WVdyOU16b1BqRkloVExfTi10M2JJMDJIZVpVa2FhWFdOR2JHeGVockIwY25qS243RE9UdTFIUHRMV05IeHdMdw?oc=5",
           "pubDate": "Thu, 10 Sep 2026 02:12:00 GMT",
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUU0xWU5mWjdVcWdsYlQ2Tm5GUGJQck1jVW5qTW9FM1JTYlR4OEdoSG4xbFNENHZ1S2I5NWJadFNkX0plSUZTMVpMTF9seXg0SUNkOC1tX0ludUpfeUZTc3A1dFBIb3ExanlaSHpSeFhYWDR4aTJiaUdMOXV3SzJLUnFFV0RPdjV5Mjk4Z1Bkdmp1RHR6RHNOdi04bHp1MmJPWmRj?oc=5",
           "pubDate": "Thu, 10 Sep 2026 01:36:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Street acrobats entertain motorists stuck in the Kenyan capital’s notorious traffic - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV0dRX3RlSEZoVWNfQVVha2IwcVhFV2FMdjVMNTBKdVdYb1RsVXJhN3owZjRVb0JUWFpiSnhSRjRLRmJ4THJBZ09jY2k5Sm9DZm5aWGgzRlVhbjlqX3VwQ0toNEZhTC1CQWcyZHpYclNBcFMyRWNtT3ZQREM5NnU0R3RldzRqMlRNUDZSY095ME5pUXM?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 00:50:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T06:00:20.440Z"
+      "updatedAt": "2026-09-10T06:25:13.271Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-10T06:00:20.461Z"
+      "updatedAt": "2026-09-10T06:25:13.633Z"
     }
   ]
 }
