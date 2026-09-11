@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-11T12:25:16.898Z",
-  "lastChecked": "2026-09-11T12:25:16.898Z",
-  "lastUpdated": "2026-09-11T12:25:16.898Z",
-  "generatedAt": "2026-09-11T12:25:16.898Z",
+  "fetchedAt": "2026-09-11T12:50:15.467Z",
+  "lastChecked": "2026-09-11T12:50:15.467Z",
+  "lastUpdated": "2026-09-11T12:50:15.467Z",
+  "generatedAt": "2026-09-11T12:50:15.467Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T12:25:15.549Z"
+      "updatedAt": "2026-09-11T12:50:14.872Z"
     },
     {
       "name": "NPR",
@@ -87,12 +87,6 @@
           "source": "NPR"
         },
         {
-          "title": "On the 25th anniversary of 9/11, a divided U.S. gathers to remember and grieve",
-          "link": "https://www.npr.org/2026/09/11/nx-s1-5961366/9-11-memorial-events",
-          "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Empty seats, socialism and Trump dominate the Republican midterm convention",
           "link": "https://www.npr.org/2026/09/11/nx-s1-5962848/republican-convention-trump-dividend-vance-midterms",
           "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
@@ -109,69 +103,99 @@
           "link": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
           "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
           "source": "NPR"
+        },
+        {
+          "title": "Trump administration allows TPS to continue for Salvadorans – for now",
+          "link": "https://www.npr.org/2026/09/11/nx-s1-5963930/tps-salvadorans-immgiration",
+          "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T12:25:15.833Z"
+      "updatedAt": "2026-09-11T12:50:14.939Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods - apnews.com",
+          "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnU4cGVXdlJCSlQ1T0xGcnpIbVVMRVhFdVpzRVczZWJXWEpxOWJUaUZWOGp3NzdIMHlnemtfNkVVZks2eGpRdlZqMjdkZzBLSUxPLXRvTlNUTmNVTnNvRExOQUhxa3VzZlRDT2ZNLTlBUDFDSjZWTTRPYVFMdHctWTZnZTdGVjhaUm5uSy1CSDBmUFE?oc=5",
           "pubDate": "Fri, 11 Sep 2026 12:01:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US futures up, oil prices down ahead of one of the more crucial reads on inflation in years - apnews.com",
+          "title": "US futures up, oil prices down ahead of one of the more crucial reads on inflation in years - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
           "pubDate": "Fri, 11 Sep 2026 11:49:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US marks 25 years since the Sept. 11 attacks - apnews.com",
+          "title": "Emma Bonino, leader of abortion and divorce battles that changed Italy, dies at 78 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGJNNnUzLU91WTE1ZG9iQ0V0bHd5NV90Ymg5SFRpQ3U1MWZDRjZFcG9tWndpWnllb1R5b25QX1Q3UUtnYkVTNU92Sk1TUG1zcnEyeDB6X1lXUll3ZWVCTlcyZFY2OGdNMW52Qm1MWnBtMGRRUVdkaWJNaHFZWF9lWVB6a1ZiNlVhUVNUQzAyZmFRaXh4Z0k1ZE5rVUxPTjhLWlF1emV3?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 11:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US marks 25 years since the Sept. 11 attacks - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWm9MbFdWc1lrNENJaU56cE8xMF9UdkRXdHIwZ0xkamZpM3BLRDkwVkFoeEFQX2M1cU1QcmdtU2VmYmtwYnhJVTY2bmt2OFY1TVYyR3UwdlJJaWhVbjJ2OWtyWFU2amdEdC1pdll0RGo3MEtVQmxQQWw1elFNZW93clRNbVdCXzFLQ1FtQUluR042T3VVbnRYZGZPSmM?oc=5",
           "pubDate": "Fri, 11 Sep 2026 10:41:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - apnews.com",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
           "pubDate": "Fri, 11 Sep 2026 10:37:08 GMT",
           "source": "AP News"
         },
         {
-          "title": "Saudi airstrikes hit Yemen's rebel-held Mokha airport as Houthis take an island near a key strait - apnews.com",
+          "title": "Saudi airstrikes hit Yemen's rebel-held Mokha airport as Houthis take an island near a key strait - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
           "pubDate": "Fri, 11 Sep 2026 10:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Inflation report lands in a time of spiking oil prices, rising interest rates and Fed on fence - apnews.com",
+          "title": "Inflation report lands in a time of spiking oil prices, rising interest rates and Fed on fence - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONWM0aThybmN6MTZaLWFwUmx1UFJabXpuaDhNWVVHYTljanpwdFFuYWx1T1FKZmlBMHdsWDNsLXRubjcxRGk0anhWai1wYnUtQVFjZ2FWNGFxOE5nWlpXbXBzSHV2ZGN1Y2xMeGkzaUhtaGdqNUNNVVdMYkREbjVvd1BMTnBrcHNRc1F0MDhlallMZFJfVTA1MFF5cFBNaHhwMUdtRGMzdw?oc=5",
           "pubDate": "Fri, 11 Sep 2026 10:31:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trial remains elusive for purported mastermind accused of plotting 9/11 attacks - apnews.com",
+          "title": "Trial remains elusive for purported mastermind accused of plotting 9/11 attacks - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZW41anhoeGNGU1JRa1JfYXJSemFtVnNEM0xUbkpIZWJCY3BuOUNHbXJjb2k1UlRxTFA0SElaeURVa1c3dzhkRUtJa0RtSlZQUWF1R1ozMjlnVmlDbkJsb0ZfdjQtUWR1OUN0U1pjRkliTUdNbEY5Wm54UHNPTURneFZsNXBETjRUMzJlcVBhT083SGtSODRMNHNn?oc=5",
           "pubDate": "Fri, 11 Sep 2026 10:12:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "What to know about Sunday’s election in Sweden, NATO’s newest member - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHdvT0c2UG1sRDc1WFZfMkRPQU90MVc1dzNGWHo4RWM0X1VHLUJqU2E3ZFRqOWRWdHBoNV9oVlFqM1JKQlduMmxuSTdJdkNoWVpaWGlXdm56Umc4QmxXVnhBZVBwNWY5XzNlWmtPR1JnS0Q1MXdmcC1JMnVoSlYxZHNjdTlOdTJKSGpnWllTZTA4Z3FiYUhxOW5VUVltU2RacWk0cXpYNXUtU1It?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 09:33:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T12:25:16.438Z"
+      "updatedAt": "2026-09-11T12:50:15.447Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Yemen's Houthis reach strategic island at mouth of vital shipping lane - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUk9oUjNYejhGeW1YblJUVWdfQ0JaZU52dHNPZUZVdnpMSkxYS3pKTWhLdjU0REdNUGdubUhnRl9KUXZabHRfbEQyOUJZeXUxQzZfcGFlbFV5V1BlSTVmRkhzdGJaNkpQa3p3OG9LZUt3Q3VXYkdrc2ZRWW9fcWQ4TkYxNFgxNFI0dlhIV0UyUU5Dbk44blJMempZVFVqVm5XbUlfV2dqSlN3YXBNUDlUQmVxS3JQMUxQ?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 12:30:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Modi, Putin hold talks in New Delhi on trade, defence - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFAxREMtVW5qaWVJY2JtNVowUjlwSmlkal9XMW1LLW5HYTVXMUNqempxWFZjeWszdEd0UmFzV2NWNjhxczhiRXpjbjlpTUd5VkI2NzNTeVA5X3BfcXZTUFRGOWUtMDZmbDVDYXJQc2hUa0pxUGVzM2ZKMHMxbUs2WGxDcmxlOFN0Q1lBYUJyXzFoNk9MTEplWm9TdFozNFZkUkwxSkQwUVM0dFZs?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 12:18:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oracle climbs as AI-fueled backlog growth deflects spending worries - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWJSSTdqOGtkTkZWLU1xNDNtZEtldTd2QnU0Vy1iR0w1dGl1bVJEdXBDbWNxeWVZR1ZnemZRSEFVT1B0UVhqVEF1dEl4cUN1MkQ1U1N2SFFSRUpKeW5FT2pNUXF6ZUgtRmFBTDExR0MzVW85S1k1OWpzYmNhNHM3d2pwREVQOGVMWlAwZXFPcW1HOERNZzIydFhseWEyUFNWUUthSXdHaWlReVMtbU1LMDJB?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 12:09:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Princess Kate says three peak challenge was her 'small' way to thank cancer hospital - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcGdDRk8xb0llbkk4WU1jdm9NeDB0OEhNRXBaT2FoNUpSSWVXcVphR2VlS2VTbmpONUI3UmstczZuN0xBV2ZmdHRLY0JodWNLb3dqMTFCM1Z2b1lUT3FiUzUyVzdWbzJsRzhnZUdRX0ZnSlAxRHRjZEFtbGlnYlRHZndVeU9qUXVESTdNd1R2cDBqc0lNNHhzQW5YdDFneEdCMXk3YlhXaVB4d1hKOHN1Z0lyTUtFM29idnZkd2wtX2NaUQ?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 11:47:34 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Wall St futures recover as oil slides ahead of inflation test - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTZpMXRyVmxGMjJTRmVVOV91TnZIWlJsZS1BNlE3bENxRlRlVnh2RFZKQmdwUVNydUJQd1RvZlZLam1KbnR2ZS1Vd2VNaWhrN3lNZ3hETUtvcTVxYTFEOENQQ292eWk0YXJYYjBrekoycE5sU0FqdloxRXNZcTcyd1dnYkFEdGpmMV9Pd0lwemdYWmd0aHZaYmpkWmlLOFgxdnc?oc=5",
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORFd1blJBUktBWW1qbVVNeTcxRWN4NmFRQ1BsNExrZmk3aDhlaTdLeUExVnRmWWFEMlg3RnU0SmxZNlFnTzFqcHJ1TkZCWEtKQi1WTVFURElGRWR0emtRVnQ0ZmFaZk5waG45TGJJNkVkRlg2WjFDVFpIMXJZcjBRS3FKZmdveHV2clNjUXdTbmRTRTBJTVFXMDdQcUtCVW1RNjAySXBKYkgxemFEZnBNXzVUcEo5aFE?oc=5",
           "pubDate": "Fri, 11 Sep 2026 10:57:32 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "IEA warns 2026 oil supply gap will widen on delayed return of normal Gulf flows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcURZNjNnNmxfaFduMXFwQS1HZjZqZC0zODRHZ1k2TzRqczc0cUlUWFgyTl9wNnNQNXJNQmNsYVlrc2h1MC1SS1dEN1JPelRjSFVtZUgxTlVwTDRBNmJMVkYwRTh1RER5VTVDTEU3b1pMQmlBdXlXZGpZdDRSYndDWmJQR3J5b21EcjZpc0lSMFVzU2FiRnFjNTNTczhqeFp4N01VLVhNWTNBM1JaSkR0Zy00YUs4cGtaREpxenRrQXJteFppR0E?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 10:48:33 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "COMMENTARY: Morning Bid: Take a hike - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSU9CbFZHQ3lERUYxd1YyMmdlY3kzSGZ4bFpDamVkMUhqZVRVdXRHX0thb3FLYWYwX2xhUDhsRjZHSDZTVEJ2SFE0UTg3U3V6eEhzYlZIemZFYUdxNE5wVGo5UktZMWt5WFo2cWdhSGhNa0RPY0twMDZUU09tY004THY1Ri1KQk5NNkJocF9HZWJYLXNPeHZr?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 10:45:22 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Yemen's Houthis reach strategic island at mouth of vital shipping lane - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUk9oUjNYejhGeW1YblJUVWdfQ0JaZU52dHNPZUZVdnpMSkxYS3pKTWhLdjU0REdNUGdubUhnRl9KUXZabHRfbEQyOUJZeXUxQzZfcGFlbFV5V1BlSTVmRkhzdGJaNkpQa3p3OG9LZUt3Q3VXYkdrc2ZRWW9fcWQ4TkYxNFgxNFI0dlhIV0UyUU5Dbk44blJMempZVFVqVm5XbUlfV2dqSlN3YXBNUDlUQmVxS3JQMUxQ?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 10:40:22 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Mexico, Washington sprint toward bilateral trade deal before US elections - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeDdUSXMwLWNhY0JhRXAtUjVJamcyeFhTckRjbWNfelI0ajc1THAweTBRbW9faGR3cHVTeGI5RnNnbDhDSjZ3YzFQMEtzZnZaaGlBU1Y1UGFXSHE4NGwtRkFwV1VMWDlQSkpRakVHVlNVcU9qRHp6bm5JeDF2VlliM0VOeFNsaEwzX3FEWTMtUnM5d2lEUVRUdjZETzY1YXloWi1sbEt1dGRSTzNYM1VkaUtpcTZCcTZmNDFhYjd2bjdtQTNSeVlJMkZJR1A2Mm82WTVoNg?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 10:32:05 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T12:25:16.897Z"
+      "updatedAt": "2026-09-11T12:50:15.467Z"
     }
   ]
 }
