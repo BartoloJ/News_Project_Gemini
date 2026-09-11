@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-11T18:00:20.950Z",
-  "lastChecked": "2026-09-11T18:00:20.950Z",
-  "lastUpdated": "2026-09-11T18:00:20.950Z",
-  "generatedAt": "2026-09-11T18:00:20.950Z",
+  "fetchedAt": "2026-09-11T18:25:15.053Z",
+  "lastChecked": "2026-09-11T18:25:15.053Z",
+  "lastUpdated": "2026-09-11T18:25:15.053Z",
+  "generatedAt": "2026-09-11T18:25:15.053Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T18:00:19.921Z"
+      "updatedAt": "2026-09-11T18:25:13.709Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T18:00:20.022Z"
+      "updatedAt": "2026-09-11T18:25:14.032Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "US stocks jump after oil prices ease and inflation update comes in near expectations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 18:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ebola outbreak in Congo spreads to a 7th province - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2pqczFpS3lxb0czam90bVFGUTBiQUdjTEoxS09JalpvV3MtUklXSDlDRUJ4TFVsUTZ1OHdibmxkSVV4azAwUUQyUkEzVUgyNUwxdy1PUUV3dWh4OWZUa2Y2WmI4eldXMXNYWEdyc3NqX3dlTG1SR0tNMHpXUHQ2cFZYc2lDTlVvMU5PRUFvTjR1Ni1feXc?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 17:47:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Emma Bonino, leader of the abortion battle that changed Italy, dies at 78 - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGJNNnUzLU91WTE1ZG9iQ0V0bHd5NV90Ymg5SFRpQ3U1MWZDRjZFcG9tWndpWnllb1R5b25QX1Q3UUtnYkVTNU92Sk1TUG1zcnEyeDB6X1lXUll3ZWVCTlcyZFY2OGdNMW52Qm1MWnBtMGRRUVdkaWJNaHFZWF9lWVB6a1ZiNlVhUVNUQzAyZmFRaXh4Z0k1ZE5rVUxPTjhLWlF1emV3?oc=5",
@@ -130,15 +142,9 @@
           "source": "AP News"
         },
         {
-          "title": "US stocks jump after oil prices ease and inflation update comes in near expectations - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 16:54:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ebola outbreak in Congo spreads to a 7th province - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2pqczFpS3lxb0czam90bVFGUTBiQUdjTEoxS09JalpvV3MtUklXSDlDRUJ4TFVsUTZ1OHdibmxkSVV4azAwUUQyUkEzVUgyNUwxdy1PUUV3dWh4OWZUa2Y2WmI4eldXMXNYWEdyc3NqX3dlTG1SR0tNMHpXUHQ2cFZYc2lDTlVvMU5PRUFvTjR1Ni1feXc?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 16:46:00 GMT",
+          "title": "A pilot of the Amazon cargo plane that careened off Miami runway warned it was coming in too fast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOG9va2w4anRzU013blpNaUdsX043WlFZQ2tidFJ0aEZzbk5KdWVraElKeXRhTzdQOU01UWJTZmE3SWhjX2pJNkh5QmdHS2d0VkRrWXpSZUtrSnlQXzkyZFM0bW1rTnRBYy1BeGhRcERtZmpXWmdWRWNjak15UE5LV2lNZjllZEgwMm4wdTgzQQ?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 17:15:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,9 +154,9 @@
           "source": "AP News"
         },
         {
-          "title": "U.S. News: Top U.S. News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 16:12:49 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 15:24:02 GMT",
           "source": "AP News"
         },
         {
@@ -158,24 +164,42 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVVrTHdGZGh4a2VWNHlfeWxkdlQtVkVJQzNaMUFpTTJwTWtfZlpUeVktX3g3NVBsYVFlbjdHOHZsaUZHTWhwQXo1eE9RaUowWnJYVlBJYXJWOTBYSHhCd0dJSWM5T2xJV0hJRWw5b0ZBZy1OSlcxY2VkTkszMUxGMl9fOS1MVldRajgtMFF1V0dYNTJJWHVN?oc=5",
           "pubDate": "Fri, 11 Sep 2026 15:19:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Yemen's Iranian-backed Houthis seize an island in a key strait, opening a new front in the Iran war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 15:17:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T18:00:20.533Z"
+      "updatedAt": "2026-09-11T18:25:14.591Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Yemen's Houthis reach strategic island at mouth of vital shipping lane - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUk9oUjNYejhGeW1YblJUVWdfQ0JaZU52dHNPZUZVdnpMSkxYS3pKTWhLdjU0REdNUGdubUhnRl9KUXZabHRfbEQyOUJZeXUxQzZfcGFlbFV5V1BlSTVmRkhzdGJaNkpQa3p3OG9LZUt3Q3VXYkdrc2ZRWW9fcWQ4TkYxNFgxNFI0dlhIV0UyUU5Dbk44blJMempZVFVqVm5XbUlfV2dqSlN3YXBNUDlUQmVxS3JQMUxQ?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 18:04:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US 10-year borrowing costs pull back from 5% in reprieve for Bessent - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXdFU1JwNmpyVFVfRzltQlQwcVJDUmFOWHVzNGdjWlZfZmJSd2FFQ2VpbFdOVTFQRHJtMlhremRVa2JSeWc5Smptc2J4Mmp0QnZoMTQ4NGdLaVBiekNRYlNqdWRtOTV2TUdIbmFkaTdCNmlRams2emVUc2Nsb244bW1hNHIwSHdDRm93M25LZGJlT3p0LTNaTE1kSTk5SHRSVFVkdXNuQjhHQ29UZm4yeHNqeEg2RkVwYVA3clpR?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 17:43:09 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Twenty-five years after September 11, Americans reflect on attack that changed a nation - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUV1QV9MNGlUbTdkanZIUUEwY0x1UlRXaXViVFlMVi14NW1aMkwwUjMzOUdnclVJSWFCQ3p6SGYtQ1NtY3NDMlVvUmZ3bk42bUdjVDAwNHpaLUVGTkFqak40WTlrdFhJX2RRdjZDTV9sUmRYSXU5V3dtM09hOVpmT3hwbzRxbDlCZFFqUnY3dGZNZ0VraWR5WC1qeFNEM0ZmRWFwZUd3ZjZlYWRfWjBfZEprWE5MZw?oc=5",
           "pubDate": "Fri, 11 Sep 2026 17:15:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St bounces as oil cools, inflation risks keeps Fed in focus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTZpMXRyVmxGMjJTRmVVOV91TnZIWlJsZS1BNlE3bENxRlRlVnh2RFZKQmdwUVNydUJQd1RvZlZLam1KbnR2ZS1Vd2VNaWhrN3lNZ3hETUtvcTVxYTFEOENQQ292eWk0YXJYYjBrekoycE5sU0FqdloxRXNZcTcyd1dnYkFEdGpmMV9Pd0lwemdYWmd0aHZaYmpkWmlLOFgxdnc?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 17:12:12 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Lawyer cites fake witnesses in murder case and blames ChatGPT - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmhINTM0ai1SSk9LTVNmUk1SUVRpeUF1bnRGQkRMTVE4RVBCM01KdFpHZ3VJN1ZvUmNUakFlZmNUYWdjakxERkNobmhSVmVZWWpTSVpyLTNLV1VMLXJQNU9EOGd3RE1MVTYydm10VHZLVWJGMU4tYjRZU1Awa19NOWpzWXhJbjNaTDAtaTUyVGczWkJTN05DRkljRGhmLVNPNVhCVkZpam9fcEQ0MGwxcXh3TGFwRTRaelo1eFhkQU9tWVNGN0pmYWJ0dGw?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 17:08:23 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Brazil election challenger Bolsonaro under investigation over alleged corruption in Banco Master case - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaFFPLU1nTmZ4YVltTnMwSmhpNE1fVHFGZ0puQlY0XzJkUWNER252RjhzNkFMczFoNFk5M3gtalBkRGcwTklDVUN0alZMWngzZVZVX2wtYTl5Rl80eDlKaDlncHhnM1p0Y251RFJnbm1MOHlteHpTRy1pd2ZaSnVaMVd1T3JPYjdRVFp4S0xldG9DYTRpcGNVVkJ5TVhSR2RBR3BneXNqZVdOdy01ZGxtWU9VbnN6TEhLTUxwdEJGYw?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 17:02:08 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US consumer inflation picks up in August - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5",
           "pubDate": "Fri, 11 Sep 2026 16:58:23 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: White House weighs how to use Defense Production Act to expand US oil refining capacity, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0ZqSUthcUJzTkJ2dzNRelh0akJQaS1LaGYxMjRzQUEyMktJalJWTkJXTVhFYy12ZzhPc2xEZXlHLVpjQzRrTzBQemxMMWV5RjROYzVTbGxMMGVhUjhkVi1NQXdaNGkxRFVrdkFBdnhRWDFCNG9UaFF3d1B1eEVicmJiNS11bmJIMkwyeU9uOTNhVlFpOVdoeUJ2WTFUREE3OTJMY2xOaEdGaW9sUENWY0ViTkM0UlhsM0ozdGt0MFhBUQ?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 16:54:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Yemen's Houthis reach strategic island at mouth of vital shipping lane - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUk9oUjNYejhGeW1YblJUVWdfQ0JaZU52dHNPZUZVdnpMSkxYS3pKTWhLdjU0REdNUGdubUhnRl9KUXZabHRfbEQyOUJZeXUxQzZfcGFlbFV5V1BlSTVmRkhzdGJaNkpQa3p3OG9LZUt3Q3VXYkdrc2ZRWW9fcWQ4TkYxNFgxNFI0dlhIV0UyUU5Dbk44blJMempZVFVqVm5XbUlfV2dqSlN3YXBNUDlUQmVxS3JQMUxQ?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 16:39:23 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bayer faces pivotal test of $7.25 billion Roundup settlement in Missouri court - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTzA1dzFHamtxWk1iaUI3S0lNVXJ5YmlFckdkNTlBUk5oYnNlZlBORlBscm1RT1N3cWFyYkRNZG5SdXlwamloTGEtTTllVzYyYUMyRWJnTnN6YnpkOU9VQUxhQjdCLUtPNDIxUnhzSThJM3FVdGZKaFFpdGJEQU5TeDhTVlVJOERFNVJPZ3ZYeUhrQW5NMWVFQkVUVktBNnZpcHZaOWZOdExlR3MxelpmSVZvTEh1Y1VsVVc3SGhZYzFmRU9oREhDRFBFSUcwNUNFanYwVVVRZUt2QQ?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 16:38:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall St bounces as oil cools, inflation risks keeps Fed in focus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTZpMXRyVmxGMjJTRmVVOV91TnZIWlJsZS1BNlE3bENxRlRlVnh2RFZKQmdwUVNydUJQd1RvZlZLam1KbnR2ZS1Vd2VNaWhrN3lNZ3hETUtvcTVxYTFEOENQQ292eWk0YXJYYjBrekoycE5sU0FqdloxRXNZcTcyd1dnYkFEdGpmMV9Pd0lwemdYWmd0aHZaYmpkWmlLOFgxdnc?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 16:30:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US House to vote on Russia sanctions backed by late Senator Graham - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXo0TE8tLVZ2VzF0TjRlTFJBbEZIRDVqWndXMTNMb0VlT1lxd1JBMEdpNGJmaVE2a2Q2emtmTUZ2NVdvOUloVEdrdnVrOVRnSTRWbmd4MGNSUzFXR3JUR0o5ZHloaU5JRzd5TVNtenpjd3ZBNk5aZU9ubVE5aTRlTUtFM0M1dWFCUGVZcEp0b01SejVmS0p4Z2RHV2YyRm1PQUR0UzUxeUtJM2NmQzJVdTVsRQ?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 16:26:49 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T18:00:20.950Z"
+      "updatedAt": "2026-09-11T18:25:15.053Z"
     }
   ]
 }
