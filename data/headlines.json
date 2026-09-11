@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-11T15:00:22.816Z",
-  "lastChecked": "2026-09-11T15:00:22.816Z",
-  "lastUpdated": "2026-09-11T15:00:22.816Z",
-  "generatedAt": "2026-09-11T15:00:22.816Z",
+  "fetchedAt": "2026-09-11T15:25:13.892Z",
+  "lastChecked": "2026-09-11T15:25:13.892Z",
+  "lastUpdated": "2026-09-11T15:25:13.892Z",
+  "generatedAt": "2026-09-11T15:25:13.892Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T15:00:21.530Z"
+      "updatedAt": "2026-09-11T15:25:12.534Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T15:00:21.843Z"
+      "updatedAt": "2026-09-11T15:25:12.878Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Yemen's Iranian-backed Houthis seize an island in a key strait, opening a new front in the Iran war - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 15:17:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US stocks jump after oil prices ease and inflation update comes in near expectations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 15:13:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump commemorates the 25th anniversary of the 9/11 attacks at the Pentagon - AP News",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY3Y0NFRsRkc3X1ZHQ1BMZ3h0R21RMjNQeXBSX2xCcWRtcjFraHFoQXhDWFVRVzZFbm1XZmtKdWpRNXdVaDFHMkxuLUlZei12OE8yNzhZUVVmeTNQck44TlMwZDdtV3ZFcGhQcm1hdk40Q2dQWkY1VGJBRDBOUEpoeDBRNUZ6QVBRZmc?oc=5",
@@ -127,18 +139,6 @@
           "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnU4cGVXdlJCSlQ1T0xGcnpIbVVMRVhFdVpzRVczZWJXWEpxOWJUaUZWOGp3NzdIMHlnemtfNkVVZks2eGpRdlZqMjdkZzBLSUxPLXRvTlNUTmNVTnNvRExOQUhxa3VzZlRDT2ZNLTlBUDFDSjZWTTRPYVFMdHctWTZnZTdGVjhaUm5uSy1CSDBmUFE?oc=5",
           "pubDate": "Fri, 11 Sep 2026 14:18:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Yemen's Iranian-backed Houthis seize an island in a key strait, opening a new front in the Iran war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 14:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US inflation accelerated last month as gas prices spiked, squeezing Americans’ finances - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONWM0aThybmN6MTZaLWFwUmx1UFJabXpuaDhNWVVHYTljanpwdFFuYWx1T1FKZmlBMHdsWDNsLXRubjcxRGk0anhWai1wYnUtQVFjZ2FWNGFxOE5nWlpXbXBzSHV2ZGN1Y2xMeGkzaUhtaGdqNUNNVVdMYkREbjVvd1BMTnBrcHNRc1F0MDhlallMZFJfVTA1MFF5cFBNaHhwMUdtRGMzdw?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 13:58:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T15:00:22.371Z"
+      "updatedAt": "2026-09-11T15:25:13.406Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-11T15:00:22.816Z"
+      "updatedAt": "2026-09-11T15:25:13.892Z"
     }
   ]
 }
