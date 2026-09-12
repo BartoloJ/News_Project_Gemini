@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-12T07:00:20.476Z",
-  "lastChecked": "2026-09-12T07:00:20.476Z",
-  "lastUpdated": "2026-09-12T07:00:20.476Z",
-  "generatedAt": "2026-09-12T07:00:20.476Z",
+  "fetchedAt": "2026-09-12T07:25:13.987Z",
+  "lastChecked": "2026-09-12T07:25:13.987Z",
+  "lastUpdated": "2026-09-12T07:25:13.987Z",
+  "generatedAt": "2026-09-12T07:25:13.987Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T07:00:19.555Z"
+      "updatedAt": "2026-09-12T07:25:12.768Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
+          "link": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
+          "pubDate": "Sat, 12 Sep 2026 03:18:55 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
           "link": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/11/nx-s1-5965794/the-voices-of-sept-11-my-first-thought-was-i-cant-believe-that-i-survived",
           "pubDate": "Fri, 11 Sep 2026 09:37:18 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
-          "link": "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting",
-          "pubDate": "Fri, 11 Sep 2026 07:55:49 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T07:00:19.605Z"
+      "updatedAt": "2026-09-12T07:25:13.090Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T07:00:20.071Z"
+      "updatedAt": "2026-09-12T07:25:13.585Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T07:00:20.476Z"
+      "updatedAt": "2026-09-12T07:25:13.987Z"
     }
   ]
 }
