@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-12T20:00:22.374Z",
-  "lastChecked": "2026-09-12T20:00:22.374Z",
-  "lastUpdated": "2026-09-12T20:00:22.374Z",
-  "generatedAt": "2026-09-12T20:00:22.374Z",
+  "fetchedAt": "2026-09-12T20:25:12.688Z",
+  "lastChecked": "2026-09-12T20:25:12.688Z",
+  "lastUpdated": "2026-09-12T20:25:12.688Z",
+  "generatedAt": "2026-09-12T20:25:12.688Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T20:00:21.134Z"
+      "updatedAt": "2026-09-12T20:25:11.650Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T20:00:21.378Z"
+      "updatedAt": "2026-09-12T20:25:11.787Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "'Woman Unknown' wins Golden Lion, Malkovich 'humbled' by best actor award at Venice Film Festival - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU0Y0NTRUVGpySE9LZ2NEVGZXM1lGWDdsZ1NocGNsaFpzaWk3NU9FTVlubDYyWnd0U3BValJkSlpiSkM0S045SEdzYkhjNW9vUVI5R0ZwcGVtNmlKbGF4SVRVRl9vNUNleHcydmU4Y1E0aFExT1pYUGV0U1M0VUFOQzNJNUlJb09xT3IzS3A0aTE?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 19:48:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOUJiN1dOV3FIZXZvbVNWRXlnYXhiT01xMGV4VERWd095cldKWVR6MzBvWEtoVno3S214Y0VDSTVUZ0FXTHl2RjhkTzh4aHRBdktkOEJRd0Rhc2d2MFdwdUFJWDVoY215MTEyTk13d3FOd0laTThYM00yUkhHdG1YLTR0N0VoUWk0Tm9vMHNLeVlhU2gwb214ZklSQQ?oc=5",
@@ -127,6 +133,12 @@
           "title": "Where have all the Atlantic hurricanes gone? El Nino might bring record slow storm season - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3lrZmticlFqRjA0aTBYNHMyT1JRRWpnejdYZ1ZqV2hkemZCdUVaWkpJVXlVNUJETEtWS3Z1RnkzMGkzd1FqeFJhZkVkaDBUVzA5NEh2NU8xNTZaUklTUEdLWDFJS29fSnc5VFlBSV91eFgxUkxMQksyRUFnWl9aMVpYNlNuNDBFRXpaMzQ3VlUyMXgtZEtIWURIeFdSMlB5U0x4NQ?oc=5",
           "pubDate": "Sat, 12 Sep 2026 19:09:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFdaU1djaC1FZjNRY0hrTVpVcWNmU0h0WXZjaTJNaEtZLTlMUDc1M3ZaRnVNcExhc3lVWEx4MXhqV2FuTElDTkN1SnFIUlB1QUdmdFJFbTlKYlY3S2xqZEtvb0Y4SmdYVDV2LWJIN2NOdEtWOWZscXowQmtzbVZENDVxTjdXZC03ZDVmNWJn?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 18:26:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSUpYUUlad1c2MWpiMUZxZjdhOVhtSEhBRVFyWG03a3Vfd2ZQRnlxLWtaT0FuVUwyWm5oT2NiMWlUM0FjRlYyUi1PZ29xbEJzZWZDLXQyZ043UG5raVJqSV9Rd25OMS1CbjJXcE1oM1FIMXd3WGNETms1bkdsQVVOSktlWU03YklGVVNDQnd6WHNaZ1JJSlFpOWs5bXkzTGExMFByRXdaN3U1QUlEV2c?oc=5",
           "pubDate": "Sat, 12 Sep 2026 16:57:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Attack that closed key Saudi pipeline is blamed on Iran-backed militias in Iraq - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0hKblZsWDdXODVsQUN2V2V6c3dSODhwQm9pVHlwTmxpX3dQRnEyM3BLNTdBYy1OV2ZqNTE3M2pfQ1pKLWI2ZEdxZXE5QU1vWUR5WnI5bkdDalpxeVRtU3l6Zmp3UnVCUFFMbVdLQUR3RlFqQThBOUQ0UWZDYWozV1RSLWhWWUdTcEgyV2g5dUs3QQ?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 16:51:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Anthropic CEO Dario Amodei says AI industry needs to slow down for safety - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFdaU1djaC1FZjNRY0hrTVpVcWNmU0h0WXZjaTJNaEtZLTlMUDc1M3ZaRnVNcExhc3lVWEx4MXhqV2FuTElDTkN1SnFIUlB1QUdmdFJFbTlKYlY3S2xqZEtvb0Y4SmdYVDV2LWJIN2NOdEtWOWZscXowQmtzbVZENDVxTjdXZC03ZDVmNWJn?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 16:37:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T20:00:21.977Z"
+      "updatedAt": "2026-09-12T20:25:12.267Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Xi urges BRICS peace role in Middle East, courts Modi on India visit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2hwaW9IeTRsWlZUMXI0TnRSYUhSM0ZNZVRXUHpQM0NKMHJIMlhJaFZZUUJYRE5PbEpvSjg4bDFxT0FVQUp1X0hHSUhOcXJjOFZpaDY3RmRMeFpFT0VaZVlQWG12ZlZJQ3BjdF9MMVJXYUxHV0xwQjVJWGstZWpJYWxlM2pmMzBCdFc5d1NCeE5IWENOUC1Id1ZfZGJDMkMwckY5Y082T2NLOEk?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 19:16:35 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US judge rules that Trump plan to halve FEMA workforce violated law - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWdsd2ZWR24waE95b3NaLUtKbTQzOTJOSm91NjdBY3hnOUExLXpvZVBTWGw1eXFxTFVYOTdjd3Q2UXkycEZEMTI5elFuSDZOSmotdWJoX254Um9JckVrbWFNQm05VHhUcVU4bWlONlExMzNBeTgtLWwzWldmNjdmRGRNeUpJbllyczJSX1dmaE1CeUhxUWRhOVBNNEUyRWJKNDJXLUE3RUdEaDBQOUY5M2RhY19WalAx?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDhWQzZ1XzNhR29sQnlqci1HYVJBcW9CM0RuMl9MVHRZbzJVSE1tLXllUGRVYUlVZjhfYS0xbmxfM0lGSEQwUHNsaE1YMDJWNFhHTDZwQ2VYS0JOTzAzd2lVTXFhUWJLTEc4blVyQjVNdUFuOG52M0VUV1oyTGY5aGlCUUJqYy16Z3REaHdJZ295UUxXNmREMElhcEJIUQ?oc=5",
           "pubDate": "Sat, 12 Sep 2026 17:21:36 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Revolut confirms sensitive customer data breach, falling for fake government requests - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM3JjTjR3RnhTRnZfNXlINGFtMGJPbTBxd0NzX2NmaUlsWHVmQjZBeTc5MlR4WDFPQXZQUjlmbTE0SldNS2w2T0cteTJIbnFsUGdILThMVjZ5ZnIzbmJRaHlwdndrMXJEbjFoUXhVRlk2Q214dUdNd1U3N05Tbkh2ejM2R3k2WGh4aXFZQmtKRXpGZzdTQXpjaURVSXF5eFVodHRZcjRqWmxOVTFZRHlIV3ZYQUlUTUh0dHcxRFpPQnFxTm1VZ1VCYVN3YUlXQQ?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 16:59:45 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T20:00:22.374Z"
+      "updatedAt": "2026-09-12T20:25:12.688Z"
     }
   ]
 }
