@@ -1,16 +1,22 @@
 {
-  "fetchedAt": "2026-09-12T10:00:55.771Z",
-  "lastChecked": "2026-09-12T10:00:55.771Z",
-  "lastUpdated": "2026-09-12T10:00:55.771Z",
-  "generatedAt": "2026-09-12T10:00:55.771Z",
+  "fetchedAt": "2026-09-12T10:25:13.951Z",
+  "lastChecked": "2026-09-12T10:25:13.951Z",
+  "lastUpdated": "2026-09-12T10:25:13.951Z",
+  "generatedAt": "2026-09-12T10:25:13.951Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Trump meeting Irish leader Micheál Martin during visit",
+          "title": "US and Ireland's relationship 'stronger than ever'",
           "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 12 Sep 2026 09:52:19 GMT",
+          "pubDate": "Sat, 12 Sep 2026 10:02:45 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+          "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 10:00:05 GMT",
           "source": "BBC News"
         },
         {
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/crk3n5z60pvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 12 Sep 2026 01:04:49 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-          "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 12 Sep 2026 00:43:00 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T10:00:54.577Z"
+      "updatedAt": "2026-09-12T10:25:12.893Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
+          "link": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
+          "pubDate": "Sat, 12 Sep 2026 06:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
           "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
           "pubDate": "Fri, 11 Sep 2026 15:39:35 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "In photos: Remembering the Sept. 11 attacks, 25 years later",
-          "link": "https://www.npr.org/sections/the-picture-show/2026/09/11/g-s1-142913/in-photos-remembering-the-sept-11-attacks-25-years-later",
-          "pubDate": "Fri, 11 Sep 2026 15:05:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T10:00:54.849Z"
+      "updatedAt": "2026-09-12T10:25:12.954Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "BRICS leaders meet in India as wars and US tensions test the bloc - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREdaZmR6TnMxUGFHT280OUlwV1VleHUzc0MzSDc0X2Z6Y3hEdF9aLUZRaVpYNmIwYmtOSGdjWWltTjkyanJhM2NWRUZnMVdnMFJMSVlRMjRuWVZMajVpQ2lOck5McHRYNzJLYmR4R2hkc3M2YzRBTTM2NjlOaHVhcFB0YTZhWkVDVUNpMEZxZDViTjhWWXZGVVhqbFpkR045?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 10:05:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "New Hampshire Primary Results 2026: Senate, House and Governor - AP News",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WZnFBLVh4VmRjWnhCTUFNUEgyUVMtd056Um5aVDZ5clZnUy1mQ3dneE1HVjNRUjZfRXBwb210V3ZSeDFlRXpNU1EzSTk2RmpyeHlGT3pONEF4bGE3aEVPSjRJb0I3Ml9vQk9ZV1ZZV0l1Tm1BN0Rrc0RQRHdPZw?oc=5",
@@ -124,9 +130,15 @@
           "source": "AP News"
         },
         {
-          "title": "BRICS leaders meet in India as wars and US tensions test the bloc - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREdaZmR6TnMxUGFHT280OUlwV1VleHUzc0MzSDc0X2Z6Y3hEdF9aLUZRaVpYNmIwYmtOSGdjWWltTjkyanJhM2NWRUZnMVdnMFJMSVlRMjRuWVZMajVpQ2lOck5McHRYNzJLYmR4R2hkc3M2YzRBTTM2NjlOaHVhcFB0YTZhWkVDVUNpMEZxZDViTjhWWXZGVVhqbFpkR045?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 05:44:00 GMT",
+          "title": "For the US news industry, a tough summer draws to a close with McClatchy chain’s cuts - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOG9uRk9KanVFWGhCTW5YU29mNWJtaW13NFJ1ZGFndElBbU9JenhIMVU3Q1BCeXotNl9GOEtNYUo3ZDBCOWFFU25wXzFTSG54WmFDbW93aHFDbVFVdkpGeVFmT2VyRUc1c0tDUDhVTDNtTjkwMl9Tc1NJYkFsUndqTl9KNWJIRDVXRFJkTkZ4M2dYZ2JR?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 04:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Venice Film Festival ends with Golden Lion at stake after ‘NAZA’ draws record ovation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU0Y0NTRUVGpySE9LZ2NEVGZXM1lGWDdsZ1NocGNsaFpzaWk3NU9FTVlubDYyWnd0U3BValJkSlpiSkM0S045SEdzYkhjNW9vUVI5R0ZwcGVtNmlKbGF4SVRVRl9vNUNleHcydmU4Y1E0aFExT1pYUGV0U1M0VUFOQzNJNUlJb09xT3IzS3A0aTE?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 04:00:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGxfVEtRZ0lZUlBsS19yN1BQVTdfMTBGTm5EMHRQQS1pdEQ3NG1ubzdTS3F2Q3RmbjdwUXJWaXY3aTl4ZEw2YXZCem1PQldXdzR5SDZaSldZY3dCdWthTnFYTk1UeC00MjlNYzVKWlloQ3dMT0pJMjBEekl1WWpMOWllQVRqVUVYbkhIYjhOd25KV2RpMGRIZk13?oc=5",
           "pubDate": "Sat, 12 Sep 2026 01:36:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Federal court rejects Trump order keeping Michigan coal plant open - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX1V6ZTB5Y2FWZnU1VTVKYnRwQnBGUE12VjlRYVNmMGxoNm1Od0R3TDVSSk4zT1pnei1udGhwSnp0VkFBdDEyTEI4YW93cFVMS094OUNvTjZBcWZiX2ZENEp0alBuU2JIcGFqaFRpTlo5QVlsSTdTaTFUSG92bjg1R1l4QlJoX3BXa3VaZWNqWVBwS0FPUFdnaVh2TEstaE9UM2c?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 00:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Republicans made El-Sayed a top midterm target. The Democrat wants to talk about Michigan voters - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmhnMzk0R0g4VkRWMXJ0S2JCQi02WU5naEFaYzg0eVU1QkJBTWJzdTBSUGNPTjRqRlRWZ19SbHZwRllGd0dGdV9fdUtCb29WaTdRcVo0MVNSZ0FocjBzdXFhNG03MW4zdzFXNDNibmFtUFRpV3pkeU11U0E5c2Yya2NaZENweDFhNC1mTWhRWXlsaUdIMHVnRUhtODBVbm9IdUhkSENn?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 22:44:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T10:00:55.362Z"
+      "updatedAt": "2026-09-12T10:25:13.558Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T10:00:55.771Z"
+      "updatedAt": "2026-09-12T10:25:13.951Z"
     }
   ]
 }
