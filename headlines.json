@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-12T18:25:14.241Z",
-  "lastChecked": "2026-09-12T18:25:14.241Z",
-  "lastUpdated": "2026-09-12T18:25:14.241Z",
-  "generatedAt": "2026-09-12T18:25:14.241Z",
+  "fetchedAt": "2026-09-12T18:50:15.281Z",
+  "lastChecked": "2026-09-12T18:50:15.281Z",
+  "lastUpdated": "2026-09-12T18:50:15.281Z",
+  "generatedAt": "2026-09-12T18:50:15.281Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T18:25:13.040Z"
+      "updatedAt": "2026-09-12T18:50:14.071Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
+          "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
+          "pubDate": "Sat, 12 Sep 2026 14:29:18 -0400",
+          "source": "NPR"
+        },
         {
           "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
           "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
@@ -99,20 +105,14 @@
           "source": "NPR"
         },
         {
-          "title": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
-          "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
-          "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Why are the people building the most powerful AI so worried about what it could do?",
+          "title": "Anthropic and OpenAI CEOs call for AI development to slow down",
           "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
           "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T18:25:13.390Z"
+      "updatedAt": "2026-09-12T18:50:14.400Z"
     },
     {
       "name": "AP News",
@@ -167,21 +167,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T18:25:13.823Z"
+      "updatedAt": "2026-09-12T18:50:14.876Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Explosion hits another EMCO weapons site in Bulgaria; probe underway - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRW5TNjNTcmZYblVha2ZGQmNCREdQSERKcEhzWkFFQ2JCLTUtWU14a2gwU1RoTXhIeHJBQkZLUHAxNEFsZ2M2NDZodnNHVi1DbDlPNE5taU9Cb3J3NzNkTmFEMnc3Q2NYazE5NU5LblJyZGhXckNDMmIycHAyUWRCZEQwdVJ2cmgwcU5raGp6MA?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 18:04:56 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Iran and UAE back joint BRICS statement urging restraint in war - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0hxYi1hRXRlN01ldlJFSmk4ZDVnS1c0NE8xMm5PWXJFT3Vpd2prTWI4TGl5UTd6c1JKS24xVXpvOGpRY1VsYUUxQVk0TDVmNElEMUxLYnB4c2NfUWxmQWN0N21LWUY1TkZNc1pQWHczRUdhYTVJbEpiZXZPVi16SnZCdVN5eWotZ2dJaGt3UkNFdGF2NzUtTTFMU1dsR2EzcEpiQVRvRFFmaE1HdWZXSko1bVl3d2YyTGZPRUpGTEE5MW92SjJJNA?oc=5",
           "pubDate": "Sat, 12 Sep 2026 17:42:37 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russian attacks kill six, injure dozens in Ukraine, Moscow says it hits ships, plants - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcjF5NXdIeXlKQWY5RXRJTmlfVjFfWlNwZm9TOVNOREUxcmUwTk9MRmFUbWZzQnhNZTY1V3d2R2hBZGhlU1ZOT1licGJRdzUwcXhEbmJGTEdkNi1xRUlQUGJ0VnN0MjFLMWJGem1Ta0hGZ21ILXQybi1nS0xuUGo0Wjkta0dzZjhNOUVGTFZNcWJqTURPRzI2bngtdjg1dnZSVUZ4WjZLeF9DWU91M1ZlQjRUZ1FaMjNBc0pEMUhTMnR2Mnh1b0dZ?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 17:28:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukraine braces for harsh winter as Russian attacks hit economy - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDhWQzZ1XzNhR29sQnlqci1HYVJBcW9CM0RuMl9MVHRZbzJVSE1tLXllUGRVYUlVZjhfYS0xbmxfM0lGSEQwUHNsaE1YMDJWNFhHTDZwQ2VYS0JOTzAzd2lVTXFhUWJLTEc4blVyQjVNdUFuOG52M0VUV1oyTGY5aGlCUUJqYy16Z3REaHdJZ295UUxXNmREMElhcEJIUQ?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 17:21:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Revolut confirms sensitive customer data breach, falling for fake government requests - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM3JjTjR3RnhTRnZfNXlINGFtMGJPbTBxd0NzX2NmaUlsWHVmQjZBeTc5MlR4WDFPQXZQUjlmbTE0SldNS2w2T0cteTJIbnFsUGdILThMVjZ5ZnIzbmJRaHlwdndrMXJEbjFoUXhVRlk2Q214dUdNd1U3N05Tbkh2ejM2R3k2WGh4aXFZQmtKRXpGZzdTQXpjaURVSXF5eFVodHRZcjRqWmxOVTFZRHlIV3ZYQUlUTUh0dHcxRFpPQnFxTm1VZ1VCYVN3YUlXQQ?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 16:59:45 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5",
           "pubDate": "Sat, 12 Sep 2026 15:32:35 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Houthi advance in Yemen puts U.S. in a new bind - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkd2T3JFYkQtX1BpRFMwdUY5V0tXY0xuX1JpY3cwa2hEZmxKRWVSdGtNQkR5dFBIT2JPanlxM0N3WjA5YVVpZExUOFJIWG1MZTNLUXNrTXZaZDRLRnFac2Vkclp3eWhkaTFUNEZrdGk4RzBYTmVVV1kwMHRJWHdXbGs3Z3U5VlZ1eldGOGJXLTU5d3B2NUE?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 15:22:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US judge rules that Trump plan to halve FEMA workforce violated law - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWdsd2ZWR24waE95b3NaLUtKbTQzOTJOSm91NjdBY3hnOUExLXpvZVBTWGw1eXFxTFVYOTdjd3Q2UXkycEZEMTI5elFuSDZOSmotdWJoX254Um9JckVrbWFNQm05VHhUcVU4bWlONlExMzNBeTgtLWwzWldmNjdmRGRNeUpJbllyczJSX1dmaE1CeUhxUWRhOVBNNEUyRWJKNDJXLUE3RUdEaDBQOUY5M2RhY19WalAx?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 15:19:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T18:25:14.241Z"
+      "updatedAt": "2026-09-12T18:50:15.281Z"
     }
   ]
 }
