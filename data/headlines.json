@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-12T00:37:33.141Z",
-  "lastChecked": "2026-09-12T00:37:33.141Z",
-  "lastUpdated": "2026-09-12T00:37:33.141Z",
-  "generatedAt": "2026-09-12T00:37:33.141Z",
+  "fetchedAt": "2026-09-12T00:50:14.333Z",
+  "lastChecked": "2026-09-12T00:50:14.333Z",
+  "lastUpdated": "2026-09-12T00:50:14.333Z",
+  "generatedAt": "2026-09-12T00:50:14.333Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T00:37:32.081Z"
+      "updatedAt": "2026-09-12T00:50:13.185Z"
     },
     {
       "name": "NPR",
@@ -112,14 +112,26 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T00:37:32.181Z"
+      "updatedAt": "2026-09-12T00:50:13.365Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Well-preserved tooth from Pacific mastodon found in a creek in San Francisco Bay Area - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbnV0VnMzcWQ5bHlBSTZIU0dFTzZPZlcyQUFoQ2xvNXBPbjZHeHo0RFVPRlJ4ZndVN0hZdjk4RGl6ZW9XYmlXbmg4MS1YLVRQd3o1RWMwUENHOUtiN3cxRl8yQjhfWWZCdWMwLWI1aURsSW83NW5IWF9wSDBiTmxOamxHN0ltU1JTZ1hTNnh0WVBQYzJEUVFUN081bUlWcFFBR2lINFhJYWczUQ?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 23:39:47 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Yemen's Houthis capture a Red Sea island in a threat to shipping, and other Mideast developments - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVVrTHdGZGh4a2VWNHlfeWxkdlQtVkVJQzNaMUFpTTJwTWtfZlpUeVktX3g3NVBsYVFlbjdHOHZsaUZHTWhwQXo1eE9RaUowWnJYVlBJYXJWOTBYSHhCd0dJSWM5T2xJV0hJRWw5b0ZBZy1OSlcxY2VkTkszMUxGMl9fOS1MVldRajgtMFF1V0dYNTJJWHVN?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 23:21:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Mississippi police arrest a man in the death of Tasia Fortune - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVd0aDl5d0xqRWJxeHppODBCN2ZPSzZ1bFpLRVFfMFF1NUpTVXF3VU5KT1hhY2VzSG9yYmZSNlJmYlhHcWl5OFRwWTJycWluN3pheWhZWWRLcnVVN3ZZN0tNbmtYNzdZZUs4M19ZdXJ2VjZlUWt0QWRjXzZ4aGo1NU8wcGxBdk5DYk9STmdiYTZpWUNKcS15RzQyRW1GZm1WVEE?oc=5",
           "pubDate": "Fri, 11 Sep 2026 23:21:00 GMT",
           "source": "AP News"
         },
@@ -142,12 +154,6 @@
           "source": "AP News"
         },
         {
-          "title": "U.S. News: Top U.S. News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 22:06:11 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Ebola outbreak in Congo spreads to a 7th province - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2pqczFpS3lxb0czam90bVFGUTBiQUdjTEoxS09JalpvV3MtUklXSDlDRUJ4TFVsUTZ1OHdibmxkSVV4azAwUUQyUkEzVUgyNUwxdy1PUUV3dWh4OWZUa2Y2WmI4eldXMXNYWEdyc3NqX3dlTG1SR0tNMHpXUHQ2cFZYc2lDTlVvMU5PRUFvTjR1Ni1feXc?oc=5",
           "pubDate": "Fri, 11 Sep 2026 22:02:00 GMT",
@@ -158,20 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNekpRT2pRT0lBdnpyVEpVNUlJOWU1X0x1czVfU1RkOVlTWHNNckZMSWpxLVpmVUNqNWlqSGN2YlpjNDJ6bFJ1emllaEVOZkVPRTdkWjFqVHBGVVUwdG9MNVNEVko5Zk1GeVFWdlpvVXJad3Z5MWtLb1UzX3VmREYyS1U3Y0VLR1U3SURWNWdMS1VzN2k1WTV0QWNHVFI0c0R6?oc=5",
           "pubDate": "Fri, 11 Sep 2026 21:51:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Convicted sex offender offered opening prayer at rally for GOP Senate nominee in North Carolina - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONy1wSS1EUGRjS0RCdExUQlJVX1V0VkZhVHltNDNCclNoYkNxV2dMcC1Nc3RycndkX2NjOTc5d3JnNFZEUmtkbjdqVUVpMnNDZ0Q5cHlZWVhXUWo3RnhBcFduT2VSOGZLdXhNMTdCSklXZEZ6Z203dHdPcTd3NW1vbHJVWFFuLXNkNUNjd0lJb2J2SWhXSWs4MlJvakdoUFZ2dEE?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 21:47:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T00:37:32.693Z"
+      "updatedAt": "2026-09-12T00:50:13.868Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "US 10-year borrowing costs pull back from 5% in reprieve for Bessent - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXdFU1JwNmpyVFVfRzltQlQwcVJDUmFOWHVzNGdjWlZfZmJSd2FFQ2VpbFdOVTFQRHJtMlhremRVa2JSeWc5Smptc2J4Mmp0QnZoMTQ4NGdLaVBiekNRYlNqdWRtOTV2TUdIbmFkaTdCNmlRams2emVUc2Nsb244bW1hNHIwSHdDRm93M25LZGJlT3p0LTNaTE1kSTk5SHRSVFVkdXNuQjhHQ29UZm4yeHNqeEg2RkVwYVA3clpR?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 23:48:49 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Ebola infections top 7,000 in Congo as virus spreads to new province - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekp2Sm9XTHh0RXBjaHc2XzBLMVJkUVlMdkhmNm0zVm5hSmJkZWdJdDR0S1QtX0RFcXI2cU04ZVUwQ3dpWEkyYnRsVDh1bDlxU2hNYlVqWEd6TmlMT2FHZHBDWmJvVGotdExVdjYtMzFhb1UyLWFCSzNzUnMyYTZpSTZEUEpveEZSUEt6OGNjYUJDOVVIV09vUVVtOTJWeUR4WHpNTzFlZ0RCUERpVkVBZE9SdUhxTm9yNXNtNU53SzhZWTc0VWI5VXJn?oc=5",
@@ -193,19 +199,13 @@
         {
           "title": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmduYjZNYlh4TmVDd3dMTzZmU21ud1Q5WVVaYXBOM2hUQ201U2tjeDhoWHd6ZjhlQzdtUWxiNmFibkRpc2VlcmxjbWMzTWljZ0ZZSkF6VHFPWnJVUFQwc2g4RDNtb1FCWjN1R3BBcFRzUHkyTXJiRXZpa0NxV29IWFc1LV9lUXh0bXc3TWNrSHZhT0lPTVU2dEswYWhSVUw2SzFkRkVmSHU0S3c?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 23:13:59 GMT",
+          "pubDate": "Fri, 11 Sep 2026 23:01:00 GMT",
           "source": "Reuters"
         },
         {
           "title": "Arizona accuses L'Oreal of concealing cancer risks linked to hair relaxers - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVzE0WHI0cVN3UDNUcXgxM0RLVVFjb2pLaGtCd2E0eGNXTFFOZ1UtTC1UV1Eta0RRQWd5dl83aF83ZzZpdFZra2lsOGhjenV5aE4tWnd6OFJtRHo2aFNDNlV4RjV4LWJUWXJoRzdodm5HZEdJQWJ1eEFtdTE0R2d4cG5fbTJzenBVNlU2UGZwck9neHIzdHRJUThKRVFPbUtMdnBnQ0hFN2pjdjFJRzJqSVQ2MS11YlBDZUlYbg?oc=5",
           "pubDate": "Fri, 11 Sep 2026 22:47:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US declares end of largest recorded cyclosporiasis outbreak - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR09VN1ZRWGprdy1ndG9qTEVXVVkxVXN0SE96eDZJU1BDVFF5T1RHR2I2TGU1Z3lsc1FIWU9vdTgtanZ5VlZOZkYtQWVubkNHMDFBR0F1SUwzbUxIMnJjUmFEU2xWQ3dIZEx6UlRhcmhkQXZhUEtucEk5dzlpV0dIUGZNemxzY0l4U1luTlpTRklTYjQ3X2VhQXRlaTV4UjAxYUVxblNodGduX2o0WExvSFdhQWxKNXJMZGRKR0NCVHZOR1FwYldr?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 22:42:09 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T00:37:33.141Z"
+      "updatedAt": "2026-09-12T00:50:14.333Z"
     }
   ]
 }
