@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-12T20:25:12.688Z",
-  "lastChecked": "2026-09-12T20:25:12.688Z",
-  "lastUpdated": "2026-09-12T20:25:12.688Z",
-  "generatedAt": "2026-09-12T20:25:12.688Z",
+  "fetchedAt": "2026-09-12T20:44:15.228Z",
+  "lastChecked": "2026-09-12T20:44:15.228Z",
+  "lastUpdated": "2026-09-12T20:44:15.228Z",
+  "generatedAt": "2026-09-12T20:44:15.228Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+          "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 20:27:25 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Fire at nursing home in Chile kills 16 residents",
           "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 12 Sep 2026 15:05:53 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-          "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 12 Sep 2026 13:56:20 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T20:25:11.650Z"
+      "updatedAt": "2026-09-12T20:44:14.164Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T20:25:11.787Z"
+      "updatedAt": "2026-09-12T20:44:14.223Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T20:25:12.267Z"
+      "updatedAt": "2026-09-12T20:44:14.752Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "'Woman Unknown' wins Venice top prize as lone female contender triumphs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNS1KQzUwQkhZVjRVS09iZ3NLWVUyTU1ZaW4zRnhiTnRWaG9sd3VSOTAxaUhQNVVIc09KUWRoWm1tcjdmSWpTbl95eWZyZFR2ZE1fcnVqQUJxdWlNRVQtRXp6NkdoOUY1OGpQbTZlN2RweVlvc3NNRVpWa1pkMUxvb3EtNTNCWjZ0Y0w4UkRPb2lqX1lYVGt6aWRKWG5iLUJvbG1WZlhB?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 20:29:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 19:38:30 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Xi urges BRICS peace role in Middle East, courts Modi on India visit - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2hwaW9IeTRsWlZUMXI0TnRSYUhSM0ZNZVRXUHpQM0NKMHJIMlhJaFZZUUJYRE5PbEpvSjg4bDFxT0FVQUp1X0hHSUhOcXJjOFZpaDY3RmRMeFpFT0VaZVlQWG12ZlZJQ3BjdF9MMVJXYUxHV0xwQjVJWGstZWpJYWxlM2pmMzBCdFc5d1NCeE5IWENOUC1Id1ZfZGJDMkMwckY5Y082T2NLOEk?oc=5",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYWtMYlBMQkZoRHN1bzl5cmZvZE1fd1ZIMzZiUFlVYU02SFFlSC05dlNCNDlJc29kOEpZU2gyT2lsWkdxb2R2eXdhWFNqRkg4MU1BZWpCYWlOSTMyTmtsRUdPWDJ6TEpuYUI0RmFRZzlwMGp4V0FYbFZRdGU2QUtaQ0JxcE5rZkVjNllYanEyZEsxZ2hsWFVHTHgyOEVOdWp0U2xuYlc5ZXhSdm80bExTZnByaHBER1JHNnhYS2dvMUtHSDVkYjNiUTVoMi05bUpqU21N?oc=5",
           "pubDate": "Sat, 12 Sep 2026 18:09:11 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 18:00:01 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukraine braces for harsh winter as Russian attacks hit economy - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDhWQzZ1XzNhR29sQnlqci1HYVJBcW9CM0RuMl9MVHRZbzJVSE1tLXllUGRVYUlVZjhfYS0xbmxfM0lGSEQwUHNsaE1YMDJWNFhHTDZwQ2VYS0JOTzAzd2lVTXFhUWJLTEc4blVyQjVNdUFuOG52M0VUV1oyTGY5aGlCUUJqYy16Z3REaHdJZ295UUxXNmREMElhcEJIUQ?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 17:21:36 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T20:25:12.688Z"
+      "updatedAt": "2026-09-12T20:44:15.228Z"
     }
   ]
 }
