@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-12T19:00:19.983Z",
-  "lastChecked": "2026-09-12T19:00:19.983Z",
-  "lastUpdated": "2026-09-12T19:00:19.983Z",
-  "generatedAt": "2026-09-12T19:00:19.983Z",
+  "fetchedAt": "2026-09-12T19:25:14.812Z",
+  "lastChecked": "2026-09-12T19:25:14.812Z",
+  "lastUpdated": "2026-09-12T19:25:14.812Z",
+  "generatedAt": "2026-09-12T19:25:14.812Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T19:00:19.070Z"
+      "updatedAt": "2026-09-12T19:25:12.658Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T19:00:19.106Z"
+      "updatedAt": "2026-09-12T19:25:12.751Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOUJiN1dOV3FIZXZvbVNWRXlnYXhiT01xMGV4VERWd095cldKWVR6MzBvWEtoVno3S214Y0VDSTVUZ0FXTHl2RjhkTzh4aHRBdktkOEJRd0Rhc2d2MFdwdUFJWDVoY215MTEyTk13d3FOd0laTThYM00yUkhHdG1YLTR0N0VoUWk0Tm9vMHNLeVlhU2gwb214ZklSQQ?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 19:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Where have all the Atlantic hurricanes gone? El Nino might bring record slow storm season - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3lrZmticlFqRjA0aTBYNHMyT1JRRWpnejdYZ1ZqV2hkemZCdUVaWkpJVXlVNUJETEtWS3Z1RnkzMGkzd1FqeFJhZkVkaDBUVzA5NEh2NU8xNTZaUklTUEdLWDFJS29fSnc5VFlBSV91eFgxUkxMQksyRUFnWl9aMVpYNlNuNDBFRXpaMzQ3VlUyMXgtZEtIWURIeFdSMlB5U0x4NQ?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 19:09:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iraq says Saudi pipeline attack originated from its territory, and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONEdJUjhTN0ZoaHN2R1U0eEZvV2pOb2tOTGVjX2NxbjF6RTg5SDFyLXRhVlF2enBCV2ctSXFjVEZaeXdqTjNSeXVjcEszem9kUTRxaFR1T0pUQ3M4aEVaT2NwMjl3WC1mbi01bTVIZmRMWXJSUml4X3QyM0tYamRXbDc2T3h3dG9JbGtZZHVyZVBRMTVvaHFSdGhCci1jLXBMTnRnYWlZNHRnTzRjTGMw?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 18:10:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "India’s Modi and China’s Xi seek to reset ties on BRICS sidelines - AP News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHJRZ08yZnluclFkNUNTNHNWUjc2TkNBdTAwaXFlemFuSDFvbk4xbmxaQ2JtVGhUMWsyZUxFMG10UTdRTUhfQXMyM3hDdk80UUhsdjQtS09QZ3g0Nm9raXE1NTdVTWxRaHRFcjF0am9KQVdEUGdRdFZEdkNNbXVUY1cxSQ?oc=5",
@@ -146,83 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ3hLMTAtQkxDU19GS1NxaHlZWDlyOUhodmM5emszYWc3TXBKU29UcHpQcEpWMGF2M0tsSkd6STJoV0l6MGtZUDBZTlUxVWpYRGt5RUtCcHltYWdGYjNvRU41Y29OQzhTNTRhY003OHFkS1hFR3hJZC1KcHhTbC1TNHNVczM3YXpkM2IyM0NDRQ?oc=5",
           "pubDate": "Sat, 12 Sep 2026 16:06:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Photos show President Trump’s two-day visit to Ireland that combines work and pleasure - AP News",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2tWU204M2x3M1RkRTU4U3VueEZJQ2FjdnpIMzBEMUttNVpNR2hCSXBnbENMSHRVNVFVek5DanpWQVJPbGI0TnJJTnVadi1qT2R6Q3JoRGE1ay1VNkg5bkt5YlhIQVEyaE5jY2ZlNWs2TGVZUG1GaE1QVXRvMFJnc2JpVkg4Y3IycWJsOERJVUVCRTh1U2FwbUJoT1c4WktUQndtdEtwMHlVMzFNenM2Tjl1dTdBZ3JISHBKT2d3Y3kwTEkzS0NKaEd2d0VlNEd2T2dZMW5CWkN0WVQ0VWc?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 16:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "8 killed in Russian strikes on Ukraine as Putin warns Europe against sending troops - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXFjaTAzbzF5OENhS0txZjFxd1dGYXJkT1h2V3ZnR3EtMi11Zk45YWZ0eXFhWmo2NmticUpJM3lqdnZ3WWtwcE51NEF0c2J2VzNuMmVONGxGVVNCbUU1b0hsNTlDYWctb1NlU1dRdFhKb2hPb2UxenZUZFMwNkxzRDF2SmtMYXpxRy1FdWthUkkzWkJRaXc?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 15:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Where have all the Atlantic hurricanes gone? El Nino might bring record slow storm season - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3lrZmticlFqRjA0aTBYNHMyT1JRRWpnejdYZ1ZqV2hkemZCdUVaWkpJVXlVNUJETEtWS3Z1RnkzMGkzd1FqeFJhZkVkaDBUVzA5NEh2NU8xNTZaUklTUEdLWDFJS29fSnc5VFlBSV91eFgxUkxMQksyRUFnWl9aMVpYNlNuNDBFRXpaMzQ3VlUyMXgtZEtIWURIeFdSMlB5U0x4NQ?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 15:39:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T19:00:19.555Z"
+      "updatedAt": "2026-09-12T19:25:14.338Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Iran and UAE back joint BRICS statement urging restraint in war - reuters.com",
+          "title": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYWtMYlBMQkZoRHN1bzl5cmZvZE1fd1ZIMzZiUFlVYU02SFFlSC05dlNCNDlJc29kOEpZU2gyT2lsWkdxb2R2eXdhWFNqRkg4MU1BZWpCYWlOSTMyTmtsRUdPWDJ6TEpuYUI0RmFRZzlwMGp4V0FYbFZRdGU2QUtaQ0JxcE5rZkVjNllYanEyZEsxZ2hsWFVHTHgyOEVOdWp0U2xuYlc5ZXhSdm80bExTZnByaHBER1JHNnhYS2dvMUtHSDVkYjNiUTVoMi05bUpqU21N?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 18:09:11 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 18:00:01 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran and UAE back joint BRICS statement urging restraint in war - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0hxYi1hRXRlN01ldlJFSmk4ZDVnS1c0NE8xMm5PWXJFT3Vpd2prTWI4TGl5UTd6c1JKS24xVXpvOGpRY1VsYUUxQVk0TDVmNElEMUxLYnB4c2NfUWxmQWN0N21LWUY1TkZNc1pQWHczRUdhYTVJbEpiZXZPVi16SnZCdVN5eWotZ2dJaGt3UkNFdGF2NzUtTTFMU1dsR2EzcEpiQVRvRFFmaE1HdWZXSko1bVl3d2YyTGZPRUpGTEE5MW92SjJJNA?oc=5",
           "pubDate": "Sat, 12 Sep 2026 17:42:37 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russian attacks kill six, injure dozens in Ukraine, Moscow says it hits ships, plants - reuters.com",
+          "title": "Russian attacks kill six, injure dozens in Ukraine, Moscow says it hits ships, plants - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcjF5NXdIeXlKQWY5RXRJTmlfVjFfWlNwZm9TOVNOREUxcmUwTk9MRmFUbWZzQnhNZTY1V3d2R2hBZGhlU1ZOT1licGJRdzUwcXhEbmJGTEdkNi1xRUlQUGJ0VnN0MjFLMWJGem1Ta0hGZ21ILXQybi1nS0xuUGo0Wjkta0dzZjhNOUVGTFZNcWJqTURPRzI2bngtdjg1dnZSVUZ4WjZLeF9DWU91M1ZlQjRUZ1FaMjNBc0pEMUhTMnR2Mnh1b0dZ?oc=5",
           "pubDate": "Sat, 12 Sep 2026 17:28:39 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Ukraine braces for harsh winter as Russian attacks hit economy - reuters.com",
+          "title": "Ukraine braces for harsh winter as Russian attacks hit economy - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDhWQzZ1XzNhR29sQnlqci1HYVJBcW9CM0RuMl9MVHRZbzJVSE1tLXllUGRVYUlVZjhfYS0xbmxfM0lGSEQwUHNsaE1YMDJWNFhHTDZwQ2VYS0JOTzAzd2lVTXFhUWJLTEc4blVyQjVNdUFuOG52M0VUV1oyTGY5aGlCUUJqYy16Z3REaHdJZ295UUxXNmREMElhcEJIUQ?oc=5",
           "pubDate": "Sat, 12 Sep 2026 17:21:36 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Revolut confirms sensitive customer data breach, falling for fake government requests - reuters.com",
+          "title": "Revolut confirms sensitive customer data breach, falling for fake government requests - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM3JjTjR3RnhTRnZfNXlINGFtMGJPbTBxd0NzX2NmaUlsWHVmQjZBeTc5MlR4WDFPQXZQUjlmbTE0SldNS2w2T0cteTJIbnFsUGdILThMVjZ5ZnIzbmJRaHlwdndrMXJEbjFoUXhVRlk2Q214dUdNd1U3N05Tbkh2ejM2R3k2WGh4aXFZQmtKRXpGZzdTQXpjaURVSXF5eFVodHRZcjRqWmxOVTFZRHlIV3ZYQUlUTUh0dHcxRFpPQnFxTm1VZ1VCYVN3YUlXQQ?oc=5",
           "pubDate": "Sat, 12 Sep 2026 16:59:45 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran-Oman understanding does not provide for immediate reopening of Strait of Hormuz, Tasnim reports - reuters.com",
+          "title": "Iran-Oman understanding does not provide for immediate reopening of Strait of Hormuz, Tasnim reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNXzF6RlhPNHFNSGk2RzFzNnNVc3ZaT0RWYldmaWNGaDNQWkE1ZTl2MDQ2VnpKN0xuMENvc05KaG1xdjFVaEpPQWN1cXFjMk1IdVcxRkN0YzI5cEtHdjNUeUVfUUxHTVVfbGxfejVnZVFnVHZTWjNTa0RiQWhud2F0RmZJZExhOEZBa0xmaUxoaHF4YXk4bWN5VllHRFlSQ21wekM0Ri1aR1p5V2pEbkYyLTJzQWxBa0p6Ri1IVktiVnE1MkZieXpR?oc=5",
           "pubDate": "Sat, 12 Sep 2026 16:45:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Hungary PM Magyar says to scrap Orban-era restriction on gay adoption - reuters.com",
+          "title": "Hungary PM Magyar says to scrap Orban-era restriction on gay adoption - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbnNNQmo4TzJxd3p0NTF6alU4ZmI5NmpMOFprZEhCQzJTdkhsWjdtdzFWNnR0TTNsWGZKRmQ5YUR5cGh5V00wQ2FvNERYWTE2QzVUall1T3EtUHBxZzM4ZmdxQUlMR2dmSTJvWERuTzhrc1JwU2wtY1E4UjR2ejQ5WFpCVDl0bDdSWWhCQ2wyMTdSRDN6ckJ2Sk5YWllBM1RRNVhFUkp3NHU?oc=5",
           "pubDate": "Sat, 12 Sep 2026 16:15:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYWtMYlBMQkZoRHN1bzl5cmZvZE1fd1ZIMzZiUFlVYU02SFFlSC05dlNCNDlJc29kOEpZU2gyT2lsWkdxb2R2eXdhWFNqRkg4MU1BZWpCYWlOSTMyTmtsRUdPWDJ6TEpuYUI0RmFRZzlwMGp4V0FYbFZRdGU2QUtaQ0JxcE5rZkVjNllYanEyZEsxZ2hsWFVHTHgyOEVOdWp0U2xuYlc5ZXhSdm80bExTZnByaHBER1JHNnhYS2dvMUtHSDVkYjNiUTVoMi05bUpqU21N?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 16:03:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 15:32:35 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T19:00:19.983Z"
+      "updatedAt": "2026-09-12T19:25:14.812Z"
     }
   ]
 }
