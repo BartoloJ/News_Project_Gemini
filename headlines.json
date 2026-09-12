@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-12T05:01:55.629Z",
-  "lastChecked": "2026-09-12T05:01:55.629Z",
-  "lastUpdated": "2026-09-12T05:01:55.629Z",
-  "generatedAt": "2026-09-12T05:01:55.629Z",
+  "fetchedAt": "2026-09-12T05:25:12.911Z",
+  "lastChecked": "2026-09-12T05:25:12.911Z",
+  "lastUpdated": "2026-09-12T05:25:12.911Z",
+  "generatedAt": "2026-09-12T05:25:12.911Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+          "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 04:43:10 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
           "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 11 Sep 2026 19:44:58 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-          "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 11 Sep 2026 17:32:44 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T05:01:54.678Z"
+      "updatedAt": "2026-09-12T05:25:11.778Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T05:01:54.731Z"
+      "updatedAt": "2026-09-12T05:25:12.125Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T05:01:55.191Z"
+      "updatedAt": "2026-09-12T05:25:12.543Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T05:01:55.629Z"
+      "updatedAt": "2026-09-12T05:25:12.911Z"
     }
   ]
 }
