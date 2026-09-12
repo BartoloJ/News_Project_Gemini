@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-12T15:25:14.374Z",
-  "lastChecked": "2026-09-12T15:25:14.374Z",
-  "lastUpdated": "2026-09-12T15:25:14.374Z",
-  "generatedAt": "2026-09-12T15:25:14.374Z",
+  "fetchedAt": "2026-09-12T15:50:14.645Z",
+  "lastChecked": "2026-09-12T15:50:14.645Z",
+  "lastUpdated": "2026-09-12T15:50:14.645Z",
+  "generatedAt": "2026-09-12T15:50:14.645Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 15:37:39 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
           "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 12 Sep 2026 10:00:05 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
-          "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 12 Sep 2026 08:04:16 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T15:25:13.278Z"
+      "updatedAt": "2026-09-12T15:50:14.142Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T15:25:13.351Z"
+      "updatedAt": "2026-09-12T15:50:14.180Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T15:25:13.863Z"
+      "updatedAt": "2026-09-12T15:50:14.635Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Iran and UAE back joint BRICS statement urging restraint in war - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0hxYi1hRXRlN01ldlJFSmk4ZDVnS1c0NE8xMm5PWXJFT3Vpd2prTWI4TGl5UTd6c1JKS24xVXpvOGpRY1VsYUUxQVk0TDVmNElEMUxLYnB4c2NfUWxmQWN0N21LWUY1TkZNc1pQWHczRUdhYTVJbEpiZXZPVi16SnZCdVN5eWotZ2dJaGt3UkNFdGF2NzUtTTFMU1dsR2EzcEpiQVRvRFFmaE1HdWZXSko1bVl3d2YyTGZPRUpGTEE5MW92SjJJNA?oc=5",
           "pubDate": "Sat, 12 Sep 2026 15:08:58 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Anthropic CEO urges AI companies to slow model development - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 14:23:24 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU3JWY0h1VnVaSWl6MW5nYnlmcktHNS1uTVM0WHNnYnVPREdhalFjSnRNWUpsV3pXdGVCWjltLUttTW5qbXZLZjZQaDZwVENpY3JkbjhRSEZCRXZjOHpURjdsVmZLbEZoaHVLYXdXemE1QlpCWG5kc0lDWWVNem84ZjRWOVM4ZEZaeHRfMFFCeDVlWjhSN185U0ZaR2N6cVBxb0tiT0swU0xBRDczU2x2cWR2R0poQjRi?oc=5",
           "pubDate": "Sat, 12 Sep 2026 12:20:22 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "BRICS adopts joint declaration, urges 'maximum restraint' in Mideast - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZERlSkNRYWwycnZ4Y1Nwc1RXSXU3WTFLbmFLVnJGOWhfWjdvTzZiTGJVWVpSWHFWWXB1TTh0STE5QkM2VUlabV9DaENCYXJ2djY1OUhfVjUzbTZWdVVHbjRLTlBNLURPYnNlQU1WSzdYZWxzSk51b0ZQS0Y2N0hndGJPMnF3bW9MUjJSWk80cFkxZVUyXzRFVTdwVGtIQVF0S2Z6RkdqQWFOSGdWZnVV?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 12:13:53 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T15:25:14.374Z"
+      "updatedAt": "2026-09-12T15:50:14.645Z"
     }
   ]
 }
