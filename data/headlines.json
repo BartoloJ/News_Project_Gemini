@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-12T03:00:19.483Z",
-  "lastChecked": "2026-09-12T03:00:19.483Z",
-  "lastUpdated": "2026-09-12T03:00:19.483Z",
-  "generatedAt": "2026-09-12T03:00:19.483Z",
+  "fetchedAt": "2026-09-12T03:27:21.809Z",
+  "lastChecked": "2026-09-12T03:27:21.809Z",
+  "lastUpdated": "2026-09-12T03:27:21.809Z",
+  "generatedAt": "2026-09-12T03:27:21.809Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+          "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 12 Sep 2026 03:02:28 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
           "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 11 Sep 2026 17:32:44 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "How global trade and oil prices could be hit by Houthi advance",
-          "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 11 Sep 2026 16:13:39 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T03:00:18.462Z"
+      "updatedAt": "2026-09-12T03:27:20.880Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T03:00:18.626Z"
+      "updatedAt": "2026-09-12T03:27:20.950Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 03:21:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Mississippi police arrest a man in the death of Tasia Fortune - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVd0aDl5d0xqRWJxeHppODBCN2ZPSzZ1bFpLRVFfMFF1NUpTVXF3VU5KT1hhY2VzSG9yYmZSNlJmYlhHcWl5OFRwWTJycWluN3pheWhZWWRLcnVVN3ZZN0tNbmtYNzdZZUs4M19ZdXJ2VjZlUWt0QWRjXzZ4aGo1NU8wcGxBdk5DYk9STmdiYTZpWUNKcS15RzQyRW1GZm1WVEE?oc=5",
           "pubDate": "Sat, 12 Sep 2026 01:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Federal court rejects Trump order keeping Michigan coal plant open - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX1V6ZTB5Y2FWZnU1VTVKYnRwQnBGUE12VjlRYVNmMGxoNm1Od0R3TDVSSk4zT1pnei1udGhwSnp0VkFBdDEyTEI4YW93cFVMS094OUNvTjZBcWZiX2ZENEp0alBuU2JIcGFqaFRpTlo5QVlsSTdTaTFUSG92bjg1R1l4QlJoX3BXa3VaZWNqWVBwS0FPUFdnaVh2TEstaE9UM2c?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 00:57:00 GMT",
           "source": "AP News"
         },
         {
@@ -133,12 +145,6 @@
           "title": "U.S. News: Top U.S. News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
           "pubDate": "Fri, 11 Sep 2026 23:10:36 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 22:52:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2pqczFpS3lxb0czam90bVFGUTBiQUdjTEoxS09JalpvV3MtUklXSDlDRUJ4TFVsUTZ1OHdibmxkSVV4azAwUUQyUkEzVUgyNUwxdy1PUUV3dWh4OWZUa2Y2WmI4eldXMXNYWEdyc3NqX3dlTG1SR0tNMHpXUHQ2cFZYc2lDTlVvMU5PRUFvTjR1Ni1feXc?oc=5",
           "pubDate": "Fri, 11 Sep 2026 22:02:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "15-year-old rescued after clinging to capsized boat for days in Alaska’s Bering Sea - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNekpRT2pRT0lBdnpyVEpVNUlJOWU1X0x1czVfU1RkOVlTWHNNckZMSWpxLVpmVUNqNWlqSGN2YlpjNDJ6bFJ1emllaEVOZkVPRTdkWjFqVHBGVVUwdG9MNVNEVko5Zk1GeVFWdlpvVXJad3Z5MWtLb1UzX3VmREYyS1U3Y0VLR1U3SURWNWdMS1VzN2k1WTV0QWNHVFI0c0R6?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 21:51:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T03:00:19.097Z"
+      "updatedAt": "2026-09-12T03:27:21.403Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-12T03:00:19.483Z"
+      "updatedAt": "2026-09-12T03:27:21.809Z"
     }
   ]
 }
