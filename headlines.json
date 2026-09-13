@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-13T07:50:22.213Z",
-  "lastChecked": "2026-09-13T07:50:22.213Z",
-  "lastUpdated": "2026-09-13T07:50:22.213Z",
-  "generatedAt": "2026-09-13T07:50:22.213Z",
+  "fetchedAt": "2026-09-13T08:00:34.131Z",
+  "lastChecked": "2026-09-13T08:00:34.131Z",
+  "lastUpdated": "2026-09-13T08:00:34.131Z",
+  "generatedAt": "2026-09-13T08:00:34.131Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "One dead, 102 rescued from Indonesian ferry that went missing in Java Sea",
+          "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 13 Sep 2026 07:54:28 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
           "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 12 Sep 2026 20:27:25 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Fire at nursing home in Chile kills 16 residents",
-          "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 12 Sep 2026 19:36:50 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T07:50:21.472Z"
+      "updatedAt": "2026-09-13T08:00:19.392Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T07:50:21.696Z"
+      "updatedAt": "2026-09-13T08:00:19.782Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-13T07:50:22.191Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-13T07:50:22.213Z"
     }
   ]
