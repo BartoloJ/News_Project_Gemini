@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-13T14:00:20.434Z",
-  "lastChecked": "2026-09-13T14:00:20.434Z",
-  "lastUpdated": "2026-09-13T14:00:20.434Z",
-  "generatedAt": "2026-09-13T14:00:20.434Z",
+  "fetchedAt": "2026-09-13T14:24:29.195Z",
+  "lastChecked": "2026-09-13T14:24:29.195Z",
+  "lastUpdated": "2026-09-13T14:24:29.195Z",
+  "generatedAt": "2026-09-13T14:24:29.195Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T14:00:19.282Z"
+      "updatedAt": "2026-09-13T14:24:28.118Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Actor Tatyana Ali advocating for Black and Indigenous maternal health",
+          "link": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
+          "pubDate": "Sun, 13 Sep 2026 10:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Can you imagine a universe without a new 'Star Trek' on the horizon?",
           "link": "https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/12/nx-s1-5958560/opinion-25-years-on-a-nation-still-mourns",
           "pubDate": "Sat, 12 Sep 2026 08:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "A cancer survivor hoped to work — then she lost her Medicaid disability coverage",
-          "link": "https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid",
-          "pubDate": "Sat, 12 Sep 2026 07:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T14:00:19.608Z"
+      "updatedAt": "2026-09-13T14:24:28.392Z"
     },
     {
       "name": "AP News",
@@ -127,12 +127,6 @@
           "title": "Iran-backed Houthis in Yemen claim new attacks on Saudi Arabia - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmtucHBpX1JrQVh4ZVl5UDVCMER5bjYtb2NPcUVPZzFrZlZSZERNTjN3YTVKTDhxc3BzbkdMRS05YllDZ3VJeW03c2pRSHNmYkxKTnBWNE1IVm9VYndFdjZlQS0zck1zeUM0QTA4S0p5cUM5MTYxRjNxX052S2xOaXE1Ql9zYXBpc19SZThRR1VwVWpEbkFoNE1YMA?oc=5",
           "pubDate": "Sun, 13 Sep 2026 12:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Turkish authorities launch crackdown on LGBTQ+ and HIV support groups - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlpZeGIyT1VsLUhmN01MUlNmaS1HT3VEMDJ3dlByZ3lvOTNvUzlfckQ3RzZYTTVramRqbmttdWtGRWxBSjdKWXBxVHVPRlU5WEktVnIwMGJkN05SeXFlLVlMM0ZGd3h0NV9MeUJWc2FFNmtPbF8yaElWRERxQ1FtSWRoWm5aYUgtV1cySkdzSQ?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 12:17:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,24 +158,42 @@
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
           "pubDate": "Sun, 13 Sep 2026 07:40:07 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Arch Manning gets his moment in No. 4 Texas’ historic rally over No. 1 Ohio State - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFU2X05XYVB0Z18wdmMwTWo4NHQtb0xUMlFqV2t6cEhLaDdnakNRZ1VPemdwTTZyZWFKaWREZmtUemlqd3ZaRlFuT0daTlFHcGpDekR3aDhzelNDUVo3dlo2UWVyN0UwbVpqWGp1MHFrUkhOTGJSNGRvRG4wenFIV0tqQWRsLU9JTmJrYnJkbkRjMWs?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 05:14:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T14:00:20.033Z"
+      "updatedAt": "2026-09-13T14:24:28.790Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Saudi pipeline outage threatens loss of 4% of global oil supply - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3FTbnBqRHlWOWIwM29yRVE2dmJnTlJOcVY0RV9oMFdYRm1WcXhCZThObGp5d1lHdE9GQVBkM080dlhZT0VleG1BUm1kOHpWbEJPZUcwTnNIaEJ2ZnpsZWJyd0RpWjdMcUpGMFotNnRmQ3lMeFRpMC1mUnlxbm1nVlFMSGdMWC1LU3lBMGZlOGoyN21QZWh3dU0yM3hVUU1pMDQ2RDdWRUJFcy0t?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 12:54:28 GMT",
+          "title": "At least 129 missing after Indonesian passenger ship capsizes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeG1Da244T0lHMENCalZmSktXZjd2UU1DLVFJdlktZjNTU0NHRVR4OHI2YnFPU2VwWFUzOHRDOTdTYmVBeFYwZC0wVERfcmUzSFdlcG1yMWdycDVyWDhZT1dpN1VCWEFReDQ2VWFnalQ1dGY3cjI0ZWYzd0pPTF9yRTBuNXRmTjN4cDk2YWlWNWRGYlpTaWdVdWItcmVUR2hiZEZWQXhFZ0FQLUNvQlRQNHBaU3ZqTVhIZkdSakctZTJfcDZMR2JZ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 13:43:20 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Turkey detains 26 people after raids targeting LGBTQ+ groups - Reuters",
+          "title": "Turkey detains dozens after sweeping raids targeting LGBTQ+ groups - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmw3N3gxSDF1TmZtV1BQY2s3cVUxZGRjbW1FdlBMelhLbUYtblpJc3dDa2thTjNUUkJCdXFINm96VVl3dlh5QWFYVlp2cjVnUnowTVJYWmhlUGlOZEtYUzNBOUlpM3o2MUJPNDBySDh5VFBic2Mta3R1YTJKNFkyUFBMcXZOd1hVaXZDMTVHaGxVZW96WkJzem8wR3pSY3EwQzBVTEVhUi1waTlfQl9KQVVfYw?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 12:43:43 GMT",
+          "pubDate": "Sun, 13 Sep 2026 13:37:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Saudi shares drop after pipeline attack, leading Gulf decline - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOel9YQnZiN2dhLU1ROHQtdHR3WHlDN2gxakJzdUZIaTlBa19JNVM2RlNHcVdiRG5EQ1pQRmlRemQ5S2RLVUt6MGw5eU92YjYwWHNfQnk2c1k5bktpNGlhaGx0a0kwX0lzeVZTaHE5ekdneFlYbVhGOXgtMklVZzFWT1prTzFjYlpDWW1zQXltUEt4ZlRGOUlpQW9zclFYaVR3NnlLalAwZ2xZb3dYWUFxa2ttSWdrdw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 13:21:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Saudi pipeline outage threatens loss of 4% of global oil supply - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3FTbnBqRHlWOWIwM29yRVE2dmJnTlJOcVY0RV9oMFdYRm1WcXhCZThObGp5d1lHdE9GQVBkM080dlhZT0VleG1BUm1kOHpWbEJPZUcwTnNIaEJ2ZnpsZWJyd0RpWjdMcUpGMFotNnRmQ3lMeFRpMC1mUnlxbm1nVlFMSGdMWC1LU3lBMGZlOGoyN21QZWh3dU0yM3hVUU1pMDQ2RDdWRUJFcy0t?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 12:54:28 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSFYySWw1NWJ0UTM5Nk9pckRNeE5Ka3JIcHVuN0JFZEtmTUJKekZyT2NXSlBVdTJPeUZrc1Q5R0o3V0hPS3dlbkZHNUpxckFJZEQ3VWVQNFVnMVYwN0dXR0lBNXpkcEdJTlVoZG9yVi1aUmoyUDdrN3VDWmxkRnF6TDZNdm9TLUhha3d3R1cySFpWd0lBMmlPcTAxZktuZFVOc1cxZExwUFBLVHNRaG1YLWZkS0JWalU0V0JJWkE1T2xDOXR4Z3p4LTR3?oc=5",
           "pubDate": "Sun, 13 Sep 2026 09:14:25 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Boeing and engineers' union reach tentative contract agreement - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWh3OUYycjN3QnMzRkZxT0taMm9IalN2SHoxNnpyWE1HWTJabnVCYng1VWpnZXVoQ1ZnT2xqTmlsdm96TFVMYVpNVXFyeS1ueUkyNjhhU3F4ZnZyQTY2b1h1cGw0MENlb1RQS09pZ0x1SDhXYXBwOVZSSGpWN0hlYmhvRTk1ZHpBYjFieEhnUF9ybkRPR1JaYThhWlhTUE5ZMlNvZE9lcWlnajFrc1dhZnNWWUtEZUE?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 09:08:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US consumer prices accelerate in August, push Fed closer to rate hike - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 09:08:45 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T14:00:20.434Z"
+      "updatedAt": "2026-09-13T14:24:29.195Z"
     }
   ]
 }
