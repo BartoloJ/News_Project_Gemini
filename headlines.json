@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-13T21:00:19.390Z",
-  "lastChecked": "2026-09-13T21:00:19.390Z",
-  "lastUpdated": "2026-09-13T21:00:19.390Z",
-  "generatedAt": "2026-09-13T21:00:19.390Z",
+  "fetchedAt": "2026-09-13T21:25:14.402Z",
+  "lastChecked": "2026-09-13T21:25:14.402Z",
+  "lastUpdated": "2026-09-13T21:25:14.402Z",
+  "generatedAt": "2026-09-13T21:25:14.402Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Swedish party blocs tied after Sunday vote, projections say",
+          "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 13 Sep 2026 21:17:15 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
           "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 13 Sep 2026 14:01:44 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-          "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 13 Sep 2026 13:30:38 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T21:00:18.357Z"
+      "updatedAt": "2026-09-13T21:25:13.084Z"
     },
     {
       "name": "NPR",
@@ -78,6 +78,12 @@
           "title": "Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk",
           "link": "https://www.npr.org/2026/09/13/nx-s1-5964863/politics-chat-trumps-5-000-promise-to-voters-vance-invokes-charlie-kirk",
           "pubDate": "Sun, 13 Sep 2026 08:04:27 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "From fracking to data centers: Hearing from people on both sides of the opposition",
+          "link": "https://www.npr.org/2026/09/13/nx-s1-5946724/from-fracking-to-data-centers-hearing-from-people-on-both-sides-of-the-opposition",
+          "pubDate": "Sun, 13 Sep 2026 08:04:24 -0400",
           "source": "NPR"
         },
         {
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
           "pubDate": "Sat, 12 Sep 2026 19:54:06 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
-          "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
-          "pubDate": "Sat, 12 Sep 2026 14:29:18 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T21:00:18.467Z"
+      "updatedAt": "2026-09-13T21:25:13.330Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,18 @@
           "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
           "pubDate": "Sun, 13 Sep 2026 20:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 20:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iranian media say 1 killed in ship strike on the Strait of Hormuz, and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcjNIT1RidThMRGRHRnBoLTVUM2RPd2dtdm81a1N6cW9SNlB2SFlnaXhYMU5LTVluWnc2TlZfcXlmX2JBM21MdWFVQjl4YTF1WUhJeXBYdWxHSm5tRWtWbzEtQnE2aVdpWXFib0FaRFJycmdmc3RBOTk3V2pRWnVJQkdsWDAwSkJzOFMzcjRDSWIzdDhMU0FqWkxUOVVKNVBUSzRNVzRVUQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 19:32:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,30 +160,24 @@
           "source": "AP News"
         },
         {
-          "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 18:48:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Arch Manning and Texas made history with late rally to beat Ohio State: How they did it - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ21KT1F1Vks1bmp4ZDFJa3hDeDN4QXhIV1NqRS1iNlc2eW9GWUdPMzltSE9ITEI4OVk5QVE0ZFRoSVVRbEJnTUw1UWlWZVFMWU1jYldSQ0FNSG93ZXNyY1JOQ0NpQWhWZklmclcwUXVuTl80ZXN2ZzBQeVZRQ1Q1d3ZCOXdrMHdKbWNYRjIxa3ZzdDQ?oc=5",
           "pubDate": "Sun, 13 Sep 2026 18:33:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Photos show President Trump’s visit to Ireland that combines work and pleasure - AP News",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2tWU204M2x3M1RkRTU4U3VueEZJQ2FjdnpIMzBEMUttNVpNR2hCSXBnbENMSHRVNVFVek5DanpWQVJPbGI0TnJJTnVadi1qT2R6Q3JoRGE1ay1VNkg5bkt5YlhIQVEyaE5jY2ZlNWs2TGVZUG1GaE1QVXRvMFJnc2JpVkg4Y3IycWJsOERJVUVCRTh1U2FwbUJoT1c4WktUQndtdEtwMHlVMzFNenM2Tjl1dTdBZ3JISHBKT2d3Y3kwTEkzS0NKaEd2d0VlNEd2T2dZMW5CWkN0WVQ0VWc?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 18:07:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T21:00:18.965Z"
+      "updatedAt": "2026-09-13T21:25:13.904Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump says he is removing U.S. tariffs on Irish whiskey - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYklDSUc1YlRDQTRiWXR1SV9lMzFqenBWQ2tSV3ozeDJlbGYzT0lTU09pWHVSUDZQSWZMRVpnal9KTHhuLUNuandYaDBuMUlvaU9pa0l5dmg3S3JXRmVxc3c3NWR6MXlGVkpmNnJrUE90bU5GcmU0SDM3NUV0RTEwWXZlZ2hVQ2RBUTFETkl1QlgzSHJKcWc?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:01:32 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump says he will consider request to release more 9/11 records - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYVpvSjF5YkNleDZJaTA3TkVFZ2gtSUQ2TEVWWnBqOE5iUjRwRzNtSTdTbFBYUnR6YkhqdU0wQV9aZUNrSXAzTG1GTnM1dnNUZHRxbTdTZ0lWd1BROEo4Rjg4d3NvREJUTDloQUJzLVJmU3NzUHBnMjFtU0NlNTQtQ19XMkhLc0ZDRU5QS2dmSWRXNlBudjdtVXRHUWtNaDhGVlhrMQ?oc=5",
@@ -197,12 +203,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Trump says he is lifting tariffs on Irish whiskey - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYklDSUc1YlRDQTRiWXR1SV9lMzFqenBWQ2tSV3ozeDJlbGYzT0lTU09pWHVSUDZQSWZMRVpnal9KTHhuLUNuandYaDBuMUlvaU9pa0l5dmg3S3JXRmVxc3c3NWR6MXlGVkpmNnJrUE90bU5GcmU0SDM3NUV0RTEwWXZlZ2hVQ2RBUTFETkl1QlgzSHJKcWc?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 19:06:51 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Haaland strike gives 10-man Man City contentious 1-0 derby win over Man United - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUZwU1lRVnQtMEpmcXlLYTJpM054OUtxcUd5RFliTnFKSXNFZHc1Sy1Xdy1YT2E0T0xGMHozc1RGXzlZVU1Ha2xnOFpIa0t1ek1SLU90X0gwR0YwVFVvVU9obU5UX1FxeWJjTEhnMnFJTk80S29YWGFmSEJ0UjlxSTdlTU9MYTFoellHalN3b0ZxZGR6YlNlNmJCdWJhdmFoRFFUeHc4NHRrR1dlbG12cklFbF9YQnpiNlRWZERMZGg1dw?oc=5",
           "pubDate": "Sun, 13 Sep 2026 18:33:00 GMT",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T21:00:19.390Z"
+      "updatedAt": "2026-09-13T21:25:14.402Z"
     }
   ]
 }
