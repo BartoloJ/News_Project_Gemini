@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-13T16:25:13.749Z",
-  "lastChecked": "2026-09-13T16:25:13.749Z",
-  "lastUpdated": "2026-09-13T16:25:13.749Z",
-  "generatedAt": "2026-09-13T16:25:13.749Z",
+  "fetchedAt": "2026-09-13T16:50:14.661Z",
+  "lastChecked": "2026-09-13T16:50:14.661Z",
+  "lastUpdated": "2026-09-13T16:50:14.661Z",
+  "generatedAt": "2026-09-13T16:50:14.661Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,13 @@
         {
           "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
           "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 13 Sep 2026 16:05:41 GMT",
+          "pubDate": "Sun, 13 Sep 2026 16:33:57 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+          "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 13 Sep 2026 16:29:27 GMT",
           "source": "BBC News"
         },
         {
@@ -23,12 +29,6 @@
           "title": "US congressman swims to safety after his plane is forced to land on a lake",
           "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 13 Sep 2026 15:30:43 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 13 Sep 2026 14:53:40 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T16:25:13.209Z"
+      "updatedAt": "2026-09-13T16:50:14.097Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T16:25:13.248Z"
+      "updatedAt": "2026-09-13T16:50:14.167Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Fighting in Yemen intensifies, and Houthis launch more attacks on Saudi Arabia - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmtucHBpX1JrQVh4ZVl5UDVCMER5bjYtb2NPcUVPZzFrZlZSZERNTjN3YTVKTDhxc3BzbkdMRS05YllDZ3VJeW03c2pRSHNmYkxKTnBWNE1IVm9VYndFdjZlQS0zck1zeUM0QTA4S0p5cUM5MTYxRjNxX052S2xOaXE1Ql9zYXBpc19SZThRR1VwVWpEbkFoNE1YMA?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 16:35:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump calls on Ukraine to halt strikes on Russian diesel, saying attacks are causing a shortage - AP News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLS1ZV0kyb2w5c2szWC15SGgxZGVsMXM4dDNiVkdTdmRPcV9kQ001dnpkODMya0xkTWQtLWhoYzZsdlFUVFV5SnJaVGpUbUNaaW4xNEN0VTVGdDlRempoRzhMYV9PcGo0UWhjUkhlZnJMRHVVVzB6WDBybXVMY1dfM181b3JYXzZIclJpU0xHbjRPdVpmUUJpbHFvdTYwdHFOWUVVYmp2M3hsN1hhcGJSbGRSV1Vqak0?oc=5",
@@ -127,6 +133,12 @@
           "title": "Indonesia continues search for at least 129 missing after ferry capsizes, 6 bodies recovered - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHc5VVA1ZE8yZnB0VWlLbS1MdlM3UEhHaDhzYWJuZG11eW82eDRpdjVNYWF5aE1hQzVmZ21WMG5LZl95Y3BxTFc1OW5maGdCNHJTOEFrZHBVNkplV3R6UXM2T2RLYnFnSDZ3R0VsVjQzUXhDaDR1U1JLbG9mTHg2TmVCMElDNzFYUGx0WkdZcTJCV3l3UUVjWA?oc=5",
           "pubDate": "Sun, 13 Sep 2026 14:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "GOP congressman from Wisconsin swims to safety after plane makes emergency landing in a lake - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSi1MWjIxVEdEOGRaalhNcXVWN1gzUVdZai1HX1BiQzJLeVFvYjd1RC1xZlU4SHJjOFpFUDE0aDE5eU5INWFpRzFLWjQxLXIwN3V0ZVhYSDgxZkIzdjRTN3BVNDZaQkxFTVhtYUJvSEhXeTVTWVZQVVE2bkJNZXo1RlRQeTZmMEt1TXNvdlBIUVdNcUEyQnBaejd4bXVXOUpjbmdn?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 13:54:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,32 +154,20 @@
           "source": "AP News"
         },
         {
-          "title": "Iran-backed Houthis in Yemen claim new attacks on Saudi Arabia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmtucHBpX1JrQVh4ZVl5UDVCMER5bjYtb2NPcUVPZzFrZlZSZERNTjN3YTVKTDhxc3BzbkdMRS05YllDZ3VJeW03c2pRSHNmYkxKTnBWNE1IVm9VYndFdjZlQS0zck1zeUM0QTA4S0p5cUM5MTYxRjNxX052S2xOaXE1Ql9zYXBpc19SZThRR1VwVWpEbkFoNE1YMA?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 12:38:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Turkish authorities launch crackdown on LGBTQ+ and HIV support groups - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlpZeGIyT1VsLUhmN01MUlNmaS1HT3VEMDJ3dlByZ3lvOTNvUzlfckQ3RzZYTTVramRqbmttdWtGRWxBSjdKWXBxVHVPRlU5WEktVnIwMGJkN05SeXFlLVlMM0ZGd3h0NV9MeUJWc2FFNmtPbF8yaElWRERxQ1FtSWRoWm5aYUgtV1cySkdzSQ?oc=5",
           "pubDate": "Sun, 13 Sep 2026 12:17:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "At BRICS, India's Modi warns geopolitical tensions and supply chain shocks threaten global stability - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZExrNlZaeERENWNmaHFtMERIUTVLVl9GWXJJbnBIZ3B3c2dhNTZUQTRnTjlHSVhjWElrdmNuaEJWcEJJNjU4RkszVXNLQWdJNmtPaDN6bjBDX1JrTTB2NmFJNGdXNGpxQmtscTJFeWlOZU1tVWVSaDdKeGJpb3QyMnFEbWFtdEdQZmpoZlpKVkdoTjhRS3FGZVl4WUludzBH?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 10:50:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 08:58:50 GMT",
+          "pubDate": "Sun, 13 Sep 2026 11:54:20 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T16:25:13.737Z"
+      "updatedAt": "2026-09-13T16:50:14.652Z"
     },
     {
       "name": "Reuters",
@@ -179,9 +179,21 @@
           "source": "Reuters"
         },
         {
+          "title": "GE HealthCare in talks over possible $1 billion deal for Sofie Biosciences, FT reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX2tDZE9QeExxdUU4cEk3NFQ3cWtfWnd1ZkpjXzFZWnJ0OG9TWmpmVXBSOHhycXlpRWQ3SzhPdWlFcGtFXzBIdjlIc2dmeTdBTXBZQjR6empXXy03dnVab2RnbTd5WEVLX2ZWb1JxeGdSVWdpaFNpTFhUWVk2aFF0Z0lIRWpzZVRXNFJZNjdxNThkUkZISXR0MWl0Y1RjLVBnMEswYzhmLVVBX3l0dHRQUmx6ekhKV0puRDMtTWlFZ2pncUdEemYyZUZJV3dTZw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 15:40:46 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump says 'very negative forces' raising exaggerated concerns over AI - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObThfSFpBRlQ0d1ZsVDV4SnZQdlJkYWZnRTlQRlpKWmRud283dWJQclhHQUUxM1dHSzVJakIxVnVBc2pYU0R2TmdUT01PSkJiY3I3WFRHUGNZNUh5RVdtRGk4QUppT1hVV0dHbDdwdGQzc0ZyZlRxeTUzNjg1UUY3RHpiR0JUOUpCdlV4b2xNd01FaEluMXhZZTA4eV9Gd0gxYW02eWprV05hRUREYWVGZUZLcHZWZWpa?oc=5",
           "pubDate": "Sun, 13 Sep 2026 15:34:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says US could stay in Iran and keep oil, like Venezuela deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc3NKNXdjMkx2Q2ZXOWVWU25Oa1hXRGFZcWJLRktNQWdoclBWVEJQdXhLMS1ZQV9TWHhmNlZSMTlIVXlSZWlWRGdrWXN2a2gxNzZiOWJlTUtVd2xIbW5tb0pJVVNGNFdmNWdEZktuV0JuT3pmaUF3VHYtZXotVklQWGt2YlEzN2Uwa21ac1I1bjlHRi1iM1VpMF90bFhJZk5wNl9aaG9rVmNsVkpUUUdF?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 15:28:53 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1Y5U2xFbGpBM1ppYU9rcmhrdVk5b2hKTkNNZHdyakV6Y0UzS2lJenNKS0s2SjFZdVY0cDBDUm42MnNib1BlYzZLWENheHpobzhOanc1LXVnblVHNFo1MDNtUEFjcE93T0ZIOW85VmcwWk1zOEMtcGh4NXpOSk94dVowaVlya1IzWkJxX2NOcDhtZWhVRURzeGRCWUhHV1FuNGRzSUI0bS1ERVZ3TUdhbUZGOWpwZw?oc=5",
           "pubDate": "Sun, 13 Sep 2026 14:42:11 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Kosovo parliament re-elects Albin Kurti as prime minister, political crisis persists - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYUJlelpFdUZqRVRxdDJ6c3ZhQzE5RmNXTmp2ME8tWG80WWxPcGhDU194V2lyM2tNXzhxY1c5clo4dUZOdmItRk5jTGdMRXlwR3dNS25uZk5pejNDVGFTbzlRc2V3Y0ZQSDlYRUcyaFA4OGhMOVMzcXlSUlhSMlZCeThPX0ozTVhWQW1lYmpHMWJmejB2YVN0T1BLV0s?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 14:15:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Turkey detains dozens after sweeping raids targeting LGBTQ+ groups - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmw3N3gxSDF1TmZtV1BQY2s3cVUxZGRjbW1FdlBMelhLbUYtblpJc3dDa2thTjNUUkJCdXFINm96VVl3dlh5QWFYVlp2cjVnUnowTVJYWmhlUGlOZEtYUzNBOUlpM3o2MUJPNDBySDh5VFBic2Mta3R1YTJKNFkyUFBMcXZOd1hVaXZDMTVHaGxVZW96WkJzem8wR3pSY3EwQzBVTEVhUi1waTlfQl9KQVVfYw?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 13:37:57 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T16:25:13.749Z"
+      "updatedAt": "2026-09-13T16:50:14.661Z"
     }
   ]
 }
