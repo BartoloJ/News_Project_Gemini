@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-13T22:00:20.616Z",
-  "lastChecked": "2026-09-13T22:00:20.616Z",
-  "lastUpdated": "2026-09-13T22:00:20.616Z",
-  "generatedAt": "2026-09-13T22:00:20.616Z",
+  "fetchedAt": "2026-09-13T22:25:11.841Z",
+  "lastChecked": "2026-09-13T22:25:11.841Z",
+  "lastUpdated": "2026-09-13T22:25:11.841Z",
+  "generatedAt": "2026-09-13T22:25:11.841Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T22:00:19.691Z"
+      "updatedAt": "2026-09-13T22:25:10.805Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T22:00:19.776Z"
+      "updatedAt": "2026-09-13T22:25:11.002Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Haaland’s disputed goal wins Manchester derby for 10-man City against United - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHYzV0hYekt5X3loMW5EV1lXZERBaHV5am1aWkRydG42X2VGYldCSk84S3Vibml1ZVl1MHBTNjJmb29ZWVFZbGZoSnNEeE1XeTNJYjN0ck1JNjhLckc2NnprVDYwWUVwNzlpWkRETENqNTNRYkxRcDB6Zkx1Qlc4X0lPSUdheFAta1NjMXFNVkJMX2pQdDJOOGlENkthVGhpNk5lTA?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:31:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Trump says he's lifting a 10% tariff on Irish whiskey because 'everybody's been bugging me' about it - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGxnLXB4NGxDZEpHdHRsSGVZaTlqTTJZYkRJc3NSLVFkQmJRNUxDTmxfSC1lR2FIWW5RRUlkckN1OExobThVWkdxLVZGU3FwblBxci1qWFVyR3NxOHFBZVJxbFRZVjcwSGx4MjJla0VySTlPWmVWdkNLbkdGUkYwTmNIMk0wX2VvWDl5dGwtdUk?oc=5",
           "pubDate": "Sun, 13 Sep 2026 21:24:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 20:43:04 GMT",
           "source": "AP News"
         },
         {
@@ -148,26 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Trump says he’ll consider releasing 9/11 records after families’ request - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0RGYmZfOUVaSy1VSm05cU9ZeXBFME9mOTZXUjNFbnQ4ZUhwTzJPVDZMZkswakVuNjQ3UUpodkY2Tzk1T2M4ZXYyZzFlR0VjUGRJRnZmSTlnUW96Z1lzbENRNWh3Q3R1aEJpNGlJWGZFc2M3bTdadVB3X0xfUUJOLUdPTWEtWklXYVdsWVh2OHRqSzZJa3BOelVSYWVidlhaMHc4?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 19:54:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iranian media say 1 killed in ship strike on the Strait of Hormuz, and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcjNIT1RidThMRGRHRnBoLTVUM2RPd2dtdm81a1N6cW9SNlB2SFlnaXhYMU5LTVluWnc2TlZfcXlmX2JBM21MdWFVQjl4YTF1WUhJeXBYdWxHSm5tRWtWbzEtQnE2aVdpWXFib0FaRFJycmdmc3RBOTk3V2pRWnVJQkdsWDAwSkJzOFMzcjRDSWIzdDhMU0FqWkxUOVVKNVBUSzRNVzRVUQ?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 19:32:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "GOP congressman from Wisconsin swims to safety after plane makes emergency landing in a lake - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSi1MWjIxVEdEOGRaalhNcXVWN1gzUVdZai1HX1BiQzJLeVFvYjd1RC1xZlU4SHJjOFpFUDE0aDE5eU5INWFpRzFLWjQxLXIwN3V0ZVhYSDgxZkIzdjRTN3BVNDZaQkxFTVhtYUJvSEhXeTVTWVZQVVE2bkJNZXo1RlRQeTZmMEt1TXNvdlBIUVdNcUEyQnBaejd4bXVXOUpjbmdn?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 19:28:00 GMT",
+          "title": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, saying attacks are causing a shortage - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLS1ZV0kyb2w5c2szWC15SGgxZGVsMXM4dDNiVkdTdmRPcV9kQ001dnpkODMya0xkTWQtLWhoYzZsdlFUVFV5SnJaVGpUbUNaaW4xNEN0VTVGdDlRempoRzhMYV9PcGo0UWhjUkhlZnJMRHVVVzB6WDBybXVMY1dfM181b3JYXzZIclJpU0xHbjRPdVpmUUJpbHFvdTYwdHFOWUVVYmp2M3hsN1hhcGJSbGRSV1Vqak0?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 19:59:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T22:00:20.210Z"
+      "updatedAt": "2026-09-13T22:25:11.446Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Trump says he is removing U.S. tariffs on Irish whiskey - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYklDSUc1YlRDQTRiWXR1SV9lMzFqenBWQ2tSV3ozeDJlbGYzT0lTU09pWHVSUDZQSWZMRVpnal9KTHhuLUNuandYaDBuMUlvaU9pa0l5dmg3S3JXRmVxc3c3NWR6MXlGVkpmNnJrUE90bU5GcmU0SDM3NUV0RTEwWXZlZ2hVQ2RBUTFETkl1QlgzSHJKcWc?oc=5",
           "pubDate": "Sun, 13 Sep 2026 21:33:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTFWNE1wQVNQdkFJRm1zVXZ1bHgzSTlxVTM5OTVPVVF2ZW9Gb3FFSXlwWXdfVUF6U2RZYVpucVBHcGxfaGIySEt5YW5KczRCT1VXdW1YZVFMZDUxR3hPTW9LQ3VIM2pRci02ZzBtTGxHWE9JOVgxd3o5dklha0sydUlRMTc1RGdRcnRUXy1lS1VRUTRKOTlLUGIwQ1p1SUhLeDVRdGF6aVN2R0NQMVBoNlNtLUc1djg?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:32:30 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT01mN2pHSkgtLWNGSFhGWm9vSDBvNjlLVVB5N2lFRnczZ012SW1pZDdxTXRmY2NZWmw2MmRiOEJPZ1ZNdklvMkgxbXlEQXd6a3ozbWNrLTNaLWlMekNhalBBQjZTSXhEZEItM0s5WUM2cGN5akN6SXRVZVJseUR1M2Q1X2RoM2VBMEFMZHNrdVU0VUZyU2k5eWEtalNvbGVjQk5sS1NkbUV1QThfaUxocWV5NkVmRDBLQmdrNXJBQmp1ckhHTDBOdQ?oc=5",
           "pubDate": "Sun, 13 Sep 2026 19:14:32 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Haaland strike gives 10-man Man City contentious 1-0 derby win over Man United - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUZwU1lRVnQtMEpmcXlLYTJpM054OUtxcUd5RFliTnFKSXNFZHc1Sy1Xdy1YT2E0T0xGMHozc1RGXzlZVU1Ha2xnOFpIa0t1ek1SLU90X0gwR0YwVFVvVU9obU5UX1FxeWJjTEhnMnFJTk80S29YWGFmSEJ0UjlxSTdlTU9MYTFoellHalN3b0ZxZGR6YlNlNmJCdWJhdmFoRFFUeHc4NHRrR1dlbG12cklFbF9YQnpiNlRWZERMZGg1dw?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 18:33:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T22:00:20.616Z"
+      "updatedAt": "2026-09-13T22:25:11.841Z"
     }
   ]
 }
