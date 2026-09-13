@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-13T19:00:21.213Z",
-  "lastChecked": "2026-09-13T19:00:21.213Z",
-  "lastUpdated": "2026-09-13T19:00:21.213Z",
-  "generatedAt": "2026-09-13T19:00:21.213Z",
+  "fetchedAt": "2026-09-13T19:25:12.923Z",
+  "lastChecked": "2026-09-13T19:25:12.923Z",
+  "lastUpdated": "2026-09-13T19:25:12.923Z",
+  "generatedAt": "2026-09-13T19:25:12.923Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+          "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 13 Sep 2026 19:14:21 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump downplays warnings of AI risks, citing rivalry with China",
           "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Questions mount over what an AI 'slowdown' would look like",
           "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-          "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 13 Sep 2026 17:38:29 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T19:00:19.946Z"
+      "updatedAt": "2026-09-13T19:25:11.786Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T19:00:20.153Z"
+      "updatedAt": "2026-09-13T19:25:12.021Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump says he plans to remove a 15% tariff on Irish whiskey - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGxnLXB4NGxDZEpHdHRsSGVZaTlqTTJZYkRJc3NSLVFkQmJRNUxDTmxfSC1lR2FIWW5RRUlkckN1OExobThVWkdxLVZGU3FwblBxci1qWFVyR3NxOHFBZVJxbFRZVjcwSGx4MjJla0VySTlPWmVWdkNLbkdGUkYwTmNIMk0wX2VvWDl5dGwtdUk?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 18:14:00 GMT",
+          "title": "Fighting in Yemen intensifies, and Houthis launch more attacks on Saudi Arabia - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmtucHBpX1JrQVh4ZVl5UDVCMER5bjYtb2NPcUVPZzFrZlZSZERNTjN3YTVKTDhxc3BzbkdMRS05YllDZ3VJeW03c2pRSHNmYkxKTnBWNE1IVm9VYndFdjZlQS0zck1zeUM0QTA4S0p5cUM5MTYxRjNxX052S2xOaXE1Ql9zYXBpc19SZThRR1VwVWpEbkFoNE1YMA?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 19:10:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Fighting in Yemen intensifies, and Houthis launch more attacks on Saudi Arabia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmtucHBpX1JrQVh4ZVl5UDVCMER5bjYtb2NPcUVPZzFrZlZSZERNTjN3YTVKTDhxc3BzbkdMRS05YllDZ3VJeW03c2pRSHNmYkxKTnBWNE1IVm9VYndFdjZlQS0zck1zeUM0QTA4S0p5cUM5MTYxRjNxX052S2xOaXE1Ql9zYXBpc19SZThRR1VwVWpEbkFoNE1YMA?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 18:06:00 GMT",
+          "title": "Trump says he plans to remove a 10% tariff on Irish whiskey - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGxnLXB4NGxDZEpHdHRsSGVZaTlqTTJZYkRJc3NSLVFkQmJRNUxDTmxfSC1lR2FIWW5RRUlkckN1OExobThVWkdxLVZGU3FwblBxci1qWFVyR3NxOHFBZVJxbFRZVjcwSGx4MjJla0VySTlPWmVWdkNLbkdGUkYwTmNIMk0wX2VvWDl5dGwtdUk?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Exit polls show left-wing opposition ahead in Swedish vote, projected to win majority - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOanNaU2dOb0c3MzZHbjdEeTc5ODdNOWhXOXJzNU5aNm56elRKSlo5UmRwdndlaTdKSkkySmxDVmdtaXJ3cmNzYzNIX0xrOHRNVmRwWHI0ZmM2SFlVMWQ1UVFkTVNjeUpEVnBMaXVuV1BMSDh3ZWxyTzBIRndTUDJmSlFOa0F1Y2RrbWtmc1ppWU9qSDZ3ZkRtX2dUWWdzcF9tTEJoVXp2TQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:48:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,20 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXNPenNfdFpMalNUZEJJZ0Q3U3BtOFhnQmE3RVc4b190eFdheTd1aEZxbnBSYXNMb3BrN0ZkVXRLRk00RTRkZHB4MF9kZDN4YWdYX2NydTRlaVFsU04xY2dOSFBZR1d6QkRyWjlZSXR3M2JkYTlMbUxoanVoOUFEMnBtekFKTzBfZ3BtYncxWTQ?oc=5",
           "pubDate": "Sun, 13 Sep 2026 17:00:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Mourners in Rome pay last respects to Italian activist Emma Bonino - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa0xhRVFsQkdpOWFzamFGTTVFQTBzUURPcWZWblpTaHM5LTdSUHd2aXh6MFkyd3NxMkI5NnA1UW9Hci00YS1LWVZ3bXBKMmd2dlNBdVZ0N19KaXh1SVAzNVhpekIyeVFQdG9WLVFXczc2MkdSZndqMWNHc09KNW9wREpWdWRfTEpPRXk5WHFZVWJRRjlEc3BNZmg4MFI?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 16:16:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T19:00:20.732Z"
+      "updatedAt": "2026-09-13T19:25:12.491Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Haaland strike gives 10-man Man City contentious 1-0 derby win over Man United - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUZwU1lRVnQtMEpmcXlLYTJpM054OUtxcUd5RFliTnFKSXNFZHc1Sy1Xdy1YT2E0T0xGMHozc1RGXzlZVU1Ha2xnOFpIa0t1ek1SLU90X0gwR0YwVFVvVU9obU5UX1FxeWJjTEhnMnFJTk80S29YWGFmSEJ0UjlxSTdlTU9MYTFoellHalN3b0ZxZGR6YlNlNmJCdWJhdmFoRFFUeHc4NHRrR1dlbG12cklFbF9YQnpiNlRWZERMZGg1dw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:33:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump says he is lifting tariffs on Irish whiskey - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYklDSUc1YlRDQTRiWXR1SV9lMzFqenBWQ2tSV3ozeDJlbGYzT0lTU09pWHVSUDZQSWZMRVpnal9KTHhuLUNuandYaDBuMUlvaU9pa0l5dmg3S3JXRmVxc3c3NWR6MXlGVkpmNnJrUE90bU5GcmU0SDM3NUV0RTEwWXZlZ2hVQ2RBUTFETkl1QlgzSHJKcWc?oc=5",
@@ -179,15 +185,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Russian nuclear head says Ukraine attacked fuel trucks, endangered Zaporizhzhia plant - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSFYySWw1NWJ0UTM5Nk9pckRNeE5Ka3JIcHVuN0JFZEtmTUJKekZyT2NXSlBVdTJPeUZrc1Q5R0o3V0hPS3dlbkZHNUpxckFJZEQ3VWVQNFVnMVYwN0dXR0lBNXpkcEdJTlVoZG9yVi1aUmoyUDdrN3VDWmxkRnF6TDZNdm9TLUhha3d3R1cySFpWd0lBMmlPcTAxZktuZFVOc1cxZExwUFBLVHNRaG1YLWZkS0JWalU0V0JJWkE1T2xDOXR4Z3p4LTR3?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 17:26:28 GMT",
+          "title": "Trump calls $5,000 payouts 'easy' to fit into federal budget - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXRfMWRzLWtaTEtyejBKWURMbDZyVFI3Mm5Ud1BucVVDVkctM0pHQmtFWjVYUnVNeVAxWW95dlJ1eDAzU1pON0ZNNmg2SnczT0R3ZHRfOWhLYXp4NmFxR21CWEtaVGNLYkRmOW9ObHoyTVA4cndXREZNOHpOaDZqb1Rjazh3MGJEdlk4RlllV1FvUlBqZVRsR1cwaThQYVk?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 17:48:02 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGlUbF9PYnU0Q05JZW03V3BDSW1EcUp2djVmYXZjdWxXcmsyUWREY2M5MHpSNkU4ZERvQWlmV0d3bThhdmx2RUQtU3VockNIRTVmWGltUmllOUJuTHdrYUJqRU02cHdBUlNlb1dwSGZhWWtKejlDakkxUWhqR3RJRFc5TWRFdDFabTNUbEJfNU9aZlMzUkI0S0dqNkZYSXFYMndoNlR4c2R2SzdxZVEycDlIMHBaXzg?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 17:24:54 GMT",
+          "title": "Russian nuclear head says Ukraine attacked fuel trucks, endangered Zaporizhzhia plant - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSFYySWw1NWJ0UTM5Nk9pckRNeE5Ka3JIcHVuN0JFZEtmTUJKekZyT2NXSlBVdTJPeUZrc1Q5R0o3V0hPS3dlbkZHNUpxckFJZEQ3VWVQNFVnMVYwN0dXR0lBNXpkcEdJTlVoZG9yVi1aUmoyUDdrN3VDWmxkRnF6TDZNdm9TLUhha3d3R1cySFpWd0lBMmlPcTAxZktuZFVOc1cxZExwUFBLVHNRaG1YLWZkS0JWalU0V0JJWkE1T2xDOXR4Z3p4LTR3?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 17:26:28 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObThfSFpBRlQ0d1ZsVDV4SnZQdlJkYWZnRTlQRlpKWmRud283dWJQclhHQUUxM1dHSzVJakIxVnVBc2pYU0R2TmdUT01PSkJiY3I3WFRHUGNZNUh5RVdtRGk4QUppT1hVV0dHbDdwdGQzc0ZyZlRxeTUzNjg1UUY3RHpiR0JUOUpCdlV4b2xNd01FaEluMXhZZTA4eV9Gd0gxYW02eWprV05hRUREYWVGZUZLcHZWZWpa?oc=5",
           "pubDate": "Sun, 13 Sep 2026 16:58:17 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Houthis' Yemen advance leaves Gulf states with uncomfortable choice - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0JoY2VGb08xV0N2bWR6cnNzaFZoVm9MMGZ4WW1aa292SHNWTVBoVERfLW96ZVllX2thQjdUU1RMOTBvRkRoMGpDd2ZyMXVyb0t2bEFabVBJczM2SnhwM0w5c3diVnZiT1E4QnBxZ3YxaEVnYjE1cVJndExhaUloWENHQjlWdmtvUHRmNG1sSWtWQ3ZIRTJQUU5wQTFDaEw0MDVIdThHdnl5NnVCSTdHUmUwR3RPU0tXalFfSA?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 16:58:09 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-13T19:00:21.213Z"
+      "updatedAt": "2026-09-13T19:25:12.923Z"
     }
   ]
 }
