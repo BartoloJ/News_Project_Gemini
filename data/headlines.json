@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-09-14T15:00:22.317Z",
-  "lastChecked": "2026-09-14T15:00:22.317Z",
-  "lastUpdated": "2026-09-14T15:00:22.317Z",
-  "generatedAt": "2026-09-14T15:00:22.317Z",
+  "fetchedAt": "2026-09-14T15:25:17.068Z",
+  "lastChecked": "2026-09-14T15:25:17.068Z",
+  "lastUpdated": "2026-09-14T15:25:17.068Z",
+  "generatedAt": "2026-09-14T15:25:17.068Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Flash flooding interrupts half-marathon, submerges cars",
+          "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 14 Sep 2026 15:01:28 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Body of missing runner found in South Africa: 'It is very scary'",
+          "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 14 Sep 2026 14:58:48 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Wild dogs record 2,500-mile trek across Africa in search of a mate",
           "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 14 Sep 2026 11:20:07 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
-          "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 14 Sep 2026 08:58:27 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-          "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 14 Sep 2026 08:36:09 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T15:00:21.184Z"
+      "updatedAt": "2026-09-14T15:25:16.037Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T15:00:21.413Z"
+      "updatedAt": "2026-09-14T15:25:16.118Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Trump dismisses new AI guardrails, says there is a 'SICK conspiracy' against AI and data centers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeFRySlBKNy1PVjJIYndUZHZKcTB4ZVFhOU1JN0t2QzlrbWtYaTZBRjctQWFKaWJBbjdnWFFzN2JJejJKZkZlOG5fN2s5U01fRE9JVGgxemxPUUhiV3VIcGpLdzFFc2w5ZjRoWEt3MTZ4dlJobnBNaDhNbXZFZ2JVamFlTnY2b3JnNjJPTWFudmJ6azh3bnVn?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 15:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 14:57:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Africa's biggest oil refinery opens to public ownership, sparking excitement among retail investors - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWZMcnJidWlQN3NjYlh3TWtDN1RYVS1GbmxaMGExRUpXMG9KV1l0clVSbk9YQS0yMktOemtkakxvNmZlTjktQ3hheDBCRWhkMHNDbWtJT0c1M09BblduNlRraTRObEF3a0lZY3pVLVRoM0dwSGx0SFdVUXRsWEFpd1lmUWdvSktMbDNMdQ?oc=5",
@@ -124,9 +136,15 @@
           "source": "AP News"
         },
         {
-          "title": "Trump EPA is to eliminate rule that limits planet-warming greenhouse gas emissions from power plants - AP News",
+          "title": "EPA is set to eliminate rule that limits planet-warming greenhouse gas emissions from power plants - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODQ5dWRzamlZYU0ydVJCdVZpd1M0QjNFWVpIYm5Za0JxT2thaDByZU1LZnhhdm1PaU9lMVdkYU9BOEoxcEVPSXJGTUhGSHRsTDExY3gycHVIOG1RdEd1Y2R3TlBzV1kyRFJ2ZmZ2bVRvMHlOZkVnMlRQUk10bDJnT2lRVkVrSnBITUNzeUd0RFdxVTY2aVR3TjdZd1ZSZFRv?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 13:46:00 GMT",
+          "pubDate": "Mon, 14 Sep 2026 14:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "AI stocks drop on calls for a global slowdown as jumping oil prices send the 10-year yield to 5% - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 14:41:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,32 +164,32 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc2FqWENuMjhXNklFZGU3UkhILVYwYmdCS2NBX2VwM3RKcXFoUkVicHNxcXZHZklsMG1xMlZGT0l1RF8zQk0yLW96azBKaEdFaG1CM09JWkFRbG9fUGc5RHdNNThFb0ZWcEVRR1NhcEx3YUZzYTVSWFFGVTNTaGVydTRDVzd0LWdDU01OeVRnR3JJRkZBaF9DTQ?oc=5",
           "pubDate": "Mon, 14 Sep 2026 13:21:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A Christian pastor called Arapaho ceremonies 'idol worship.' Now the tribe wants her church gone - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZnpSQ2pEVmNGMDMyYlE3NE55eWpYUnBVQTVIanFDTWJQdGlwbHctb3RGVDlGT2VPdjJpcTVTREpWbkJRcml6aFpqd0VPcVVZRkE0WlhzQklLWWpyRVdxMWxkaXdWaUs3RThQdVVRZVhCVHNOMlYwZXk1NWRrUmZRU2MwdWl1ZGZtNTNFR29oZmdlRko3UzV6M1ZEVmNrdzAyRlhQUmMtVk93SjhqblE?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 13:09:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 12:58:50 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 12:56:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T15:00:21.891Z"
+      "updatedAt": "2026-09-14T15:25:16.610Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "How China is preparing for the risk of AI escaping human control - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 15:10:33 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Germany says halting AI development not 'viable' as Europe weighs safety of new tech - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMUxwdHN5dDgxNEpDZFYzNVJtZFFrSHhmRkYweEpkUVd5N3BuY0UxQ0gtYkl4bGZIRWVQLUhlbG5PVE9vT0FBSlZBWFplM3RVLUhxbkoxaUtjcC1xdXdEam1IZHFPbUlDUVB5Y2VXNVRRX2tEY05sRDYtbVFlY0hycG9NRXgtZ2FGd1NIZ1dTekhYN3VwUE0yUkpDZHVYbmdvNXEwZDJkLW5KLUNDODBaZWU5VHk4OThNZi05MEVsN1RFMmJP?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 14:38:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "King Charles to host AI executives as threat fears mount - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2RHR1kteU9kT1lsd3NHU0lpTXZyZWJKYTI4cW93ZENtdVFyNkNjWDBLWWF5YXIxQk9JcjFfYk02NFpuTzhBd0VseFl4NFRoV3BPclc0RURUV3V4ZTEwQmNhd2M5UlJyS3pwdUcySkhTZXQyTjdBbHN5RjdKUkhNT3NQcmttVnpJdExTQWVoVExfam5KTVFnQnpoak1KblV0MmdyVXh3?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 14:36:03 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Finland joins France's nuclear deterrent initiative - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcktHNEV1ZlFSZURLbU84bjA5bVZQX2c2dTBSaE5jNjZ6MHZaek9GV3hfaHktN25Xb19qYVNqVnFKUUd1alZfQVZDa2FZZ2V6TGZmdzhRcjA0eFZsa1RFa0dEX3ZfUEQ5LVJTS052YnNoWXdPVWE2S2hCS2c4aTNkZmlST3lYUmtLT2ZIOVNKS0w3NVpHbXJz?oc=5",
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMm04dVBfRldsLWZON3hSZHphNFdSWnBfOENSb2Y4dmNrNVVncU1PNXF3ekJRUkdULVpXTU1mWUx5YU50TXV4bkRTQThkS2gyUXdkc1dJc2REWmxoTHJEaWR1UUVzSDRCck5fTFpjbmhwem5WeFJjT3J1dWU5VDdpN2NibGRaVTEyLVJQNmV0bUk1b1hRazFkVWQ0REhBbmp6SFpJbE1uY0l2QkpVOTZ6TkJfSmNsN3UtTGNN?oc=5",
           "pubDate": "Mon, 14 Sep 2026 14:20:15 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Unwanted in the US, old oil equipment finds a new home in Venezuela - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVmgtV0piZDBLUGtOM21nQ18yRkdqUUFpMzlKWXVESjBFWFVZT2FEcFFaYXNLRGtjY0RsaGZreUpUN2dsSGdobVladGVsUklvbWxzS2xqSk15SE83MFJJYjlza2s0WWpRX2Q3eFJreWFISjZ0Sl9lM20wcUduQll3VE9OMWRPOEEtQ1ktbk5KbEUtdzcteUFlR1hEV2lsbEZYNUNVZkpPaS1tZw?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 14:08:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "S&P 500 and Nasdaq open lower as AI jitters hit Nvidia, chipmakers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 13:37:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "How China is preparing for the risk of AI escaping human control - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 13:27:53 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T15:00:22.317Z"
+      "updatedAt": "2026-09-14T15:25:17.068Z"
     }
   ]
 }
