@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-14T05:00:23.889Z",
-  "lastChecked": "2026-09-14T05:00:23.889Z",
-  "lastUpdated": "2026-09-14T05:00:23.889Z",
-  "generatedAt": "2026-09-14T05:00:23.889Z",
+  "fetchedAt": "2026-09-14T05:25:14.877Z",
+  "lastChecked": "2026-09-14T05:25:14.877Z",
+  "lastUpdated": "2026-09-14T05:25:14.877Z",
+  "generatedAt": "2026-09-14T05:25:14.877Z",
   "sources": [
     {
       "name": "BBC News",
@@ -17,6 +17,12 @@
           "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
           "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 14 Sep 2026 01:58:59 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+          "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 14 Sep 2026 01:12:20 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 13 Sep 2026 14:25:56 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
-          "link": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 13 Sep 2026 14:01:44 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T05:00:22.733Z"
+      "updatedAt": "2026-09-14T05:25:13.469Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T05:00:22.968Z"
+      "updatedAt": "2026-09-14T05:25:13.796Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T05:00:23.479Z"
+      "updatedAt": "2026-09-14T05:25:14.423Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXBVbWdJVHFtcDF3SHNDTUx5dV8yeGJDbXRsMmFNY2RmTHZodXo2NUFtU19nNF9NY0JEVURiQ0pockxyNGgxTkdKMVlDaWZSb0tnMUVHSV9sQXIzZGEtR2RCalV4a1Y3ZkRXb1RrR1ZuTFRscHNXYk5EZUpMNjA4c2FQbDdJd1ZWMXpRd3huRkgzT1lLYUxZX0RKSDNsemJ6b3Ftb01XZEFwMUtvV00yd0NVNFVhQlFW?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 04:04:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "AI-linked Asian stocks slump after top lab CEOs call for slowing down technology's development - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTRDc1JSdWVDTmE5WmI2MEFCWGgxWUdvcGRNNlNjNXNiMmlaRGhLYmpOUGhFbGNQQzI0cks4Wjk3a0JFaE4wdUVDdFJUangyS1ZOWFRZOUU3VmdjblNOb29feDFwRkRQNDR6WGw5Z0xxMUhTeEhqNGxYanNuSHBDcjRhRVRSYjhQTHBTTXBjZnF3MnA5NnR1TkNLWFZLNXJrd19VRUNaMTg1ZzlKbTB1RnV0VVM2cG84aTdEWGZ3bHRVY2M?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 04:00:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Goldman Sachs flips forecast, now sees September Fed rate hike - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTnlqS1c0ZUI3VGExTWl4c3VCbXVLUi1NMFZZNUNaMmdLYzR2RnRDZjFPbGhPVG83M2ZBSms4YTc0b04wMUtNTG9GWmJnM29BU1ZzOWpHTjVxWXhjNHd6TmhndFV0VWJEc2ZkVm45OWtTMEktQ2NBMEdsd3J0XzNTWE1SNXVUQ3hKWFQ1WUJKLVc1bjRVWlg5NnFyaw?oc=5",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSXVQb003c3NqTXJ5ZGFhdS1sUkhFU3VsNXppbEtYY0lzQjMxdHNvRm44aEM4SlE2SFhCYm8xNXBQc29ZOTE3MGxiR2xkTlZ3YlU5MHVKbVRWLUhXbko5UFdHR3F3THZLYTJuVTZndXpZTHQ5RGNKODF0cTdJMzUzelhVWERER0RGcUdoa0ZhTEE0MDdSY29IUzFLZ0VKNFNCZ0ludjdITlE0RjlyaDhHcUFRM3VOZw?oc=5",
           "pubDate": "Mon, 14 Sep 2026 00:47:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Dollar grinds higher, yen near 7-month high ahead of Fed, BOJ meetings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzNkV09NNEdQWTNoSFp6dGI0bWxzUU82ZWQ4TjZfWVI4bWZibFBJNVVBRmZpMC00WWVKdExyZUhKTEttU3pRTWczSEhMbVR4RzdSeHhBd0tnQy04aGVzMTcwZEJjenRKNGRhcDZQeWx3YTVhTkUxZC1tbnNud3ZyS1JYTmpFTDU4OXRjcWdaeTd0ZXRzaUxMM2VQUy11YXZidmRHVDU4VkJQbHExRHVXUUh5dw?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 00:29:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Kennedy Center on brink of bankruptcy, could close as early as Tuesday, Washington Post reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0REdkNSSWNNc2twQ3U5NW1Sbjl3bUF5dS1abzJaM19rbHdQNnNYbFNQamVKbm44RF9uWTV2Ml90ckFSaUkyRDZMTDNnZ1pkd2NFa0FjMzZ1Vm5TS0RUWks1NDJNVmludGNzOFRjdXVMamVwMS1YR1hROVI4SUVINjVoUXp1WE0zMktPcGVxRXBUUVJmVUh2NF9SU1lDb1JFVjE1cFotcllwWjlxdlM1RGVQRkdfNmZ3b3c?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 00:10:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T05:00:23.889Z"
+      "updatedAt": "2026-09-14T05:25:14.877Z"
     }
   ]
 }
