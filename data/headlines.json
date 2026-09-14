@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-14T16:00:18.876Z",
-  "lastChecked": "2026-09-14T16:00:18.876Z",
-  "lastUpdated": "2026-09-14T16:00:18.876Z",
-  "generatedAt": "2026-09-14T16:00:18.876Z",
+  "fetchedAt": "2026-09-14T16:25:13.376Z",
+  "lastChecked": "2026-09-14T16:25:13.376Z",
+  "lastUpdated": "2026-09-14T16:25:13.376Z",
+  "generatedAt": "2026-09-14T16:25:13.376Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T16:00:17.836Z"
+      "updatedAt": "2026-09-14T16:25:11.685Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T16:00:17.975Z"
+      "updatedAt": "2026-09-14T16:25:11.779Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 16:17:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump dismisses new AI guardrails, says there is a 'SICK conspiracy' against AI and data centers - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeFRySlBKNy1PVjJIYndUZHZKcTB4ZVFhOU1JN0t2QzlrbWtYaTZBRjctQWFKaWJBbjdnWFFzN2JJejJKZkZlOG5fN2s5U01fRE9JVGgxemxPUUhiV3VIcGpLdzFFc2w5ZjRoWEt3MTZ4dlJobnBNaDhNbXZFZ2JVamFlTnY2b3JnNjJPTWFudmJ6azh3bnVn?oc=5",
@@ -124,15 +130,21 @@
           "source": "AP News"
         },
         {
-          "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 14:57:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Africa's biggest oil refinery opens to public ownership, sparking excitement among retail investors - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWZMcnJidWlQN3NjYlh3TWtDN1RYVS1GbmxaMGExRUpXMG9KV1l0clVSbk9YQS0yMktOemtkakxvNmZlTjktQ3hheDBCRWhkMHNDbWtJT0c1M09BblduNlRraTRObEF3a0lZY3pVLVRoM0dwSGx0SFdVUXRsWEFpd1lmUWdvSktMbDNMdQ?oc=5",
           "pubDate": "Mon, 14 Sep 2026 14:56:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Some Russians are fleeing abroad, citing draft fears and a loss of freedom - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0doTlJTMWhqbzFNQ2RndnBiT2gzdlhqU2taaThFSGVfenVmdVNoWlRITE1YeDROTW9fYXctMk5CLUNLanctdXlUcUtvNHctZ0hUQy1LM2RQaW4wSDZsa3JUdkJfRXhGSkFrVnJ4QXg3X3FNb0doQ1VfVXFUcEYzYWZON3ZSWGVHNGc5c2pTazlyUlFQRmtMdWYtZ3F3WFMwc0plbnUwMDVwcDQ2?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 14:56:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Houthis seize 2 strategic Red Sea islands, and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZTVVOUtmY054UGF0NGRfUC1CQXlDSnZ1MjFudGh0Um1YZjJ5ZEg5MFIxaENub2dVeXl3TjEycUJrekk5clFUSFRwY1NZQ3F3WnExOEtxLVRZdWI4XzJTSnk5eGJOMFhJRUxmMS0tUVV6bmhfcy1zektLY1U3SGNNakpaa29LX3YxNVpBSWppLVZGYzBzXzdjdmRKTUlZdkJ0elBRREtB?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 14:51:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,77 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZnpSQ2pEVmNGMDMyYlE3NE55eWpYUnBVQTVIanFDTWJQdGlwbHctb3RGVDlGT2VPdjJpcTVTREpWbkJRcml6aFpqd0VPcVVZRkE0WlhzQklLWWpyRVdxMWxkaXdWaUs3RThQdVVRZVhCVHNOMlYwZXk1NWRrUmZRU2MwdWl1ZGZtNTNFR29oZmdlRko3UzV6M1ZEVmNrdzAyRlhQUmMtVk93SjhqblE?oc=5",
           "pubDate": "Mon, 14 Sep 2026 14:24:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "European leaders meet as Arctic thaw opens shipping routes and Russian buildup stokes security fears - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRjRmamdackJVaTFrNXNKQkxteFVHRnZPNko3OHpHTjV0dUMzYWRMOGo0eDhzTXJ3bFB2ZjU4TEdxOWJaTWNBbmVudEtuZnpoNjRsUFFfc3F5bXpFYXNMLVlCZFFFU2tsMjV4WUtWM2VDVW4xSzR5em9xZlVTNW9Uc1hFa0Mzek93RTk5bDY3cmFmcTNYN2hvQjZVeVpsRHFhUmdR?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 14:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Muslim region in Philippines votes in its first parliamentary election after decades of insurgency - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZktXOEtaNERGbC1McWZMazBsVXNiWDJOVllqUndvbFZlRVhXd1UybDBJVGJ5eFFYUlRyN2JBUWYyckc0ZzdfWVpQZThIR05IRS05S05TbzB5NEFvTnNvalhELTkxRVBJUFNOWnVrX3ZlU0l1Y2VXbUVFZ2t1eWNIV2NoUnptaE9CN2VnU1diQk5PZ1hHQ3JLT2NVVHpoQQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 13:42:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T16:00:18.459Z"
+      "updatedAt": "2026-09-14T16:25:12.941Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US Senate Republicans release new crypto bill text ahead of critical vote - Reuters",
+          "title": "US 10-year yields reach 5%, highest since 2023 - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSEVEbDgzNEZ0Ri1EVEo0el9wd0lZZFh1TExjMU16amxsbzluZG5fVXFhemhldzhYSVVFd2ZvWlJXMElMQU8tM1FhMTBDbm5GS0tkcU44aGZFVDNoUmlpQ0owN0R5dXdsZ042UGZ3Y0Y2YzQyczRoajRhYjFDSFFvVW1qdWoyeDg3V25MdkowbDdxeWM?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 16:02:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Crypto data firm Kaiko secures $110 million funding round led by S&P Global - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWkI5aGljZE4zRG9EdFJuNEs4bmVINHVRSkY5Zmp4alhsc2JyVkJKSW42R2VWdFdxbG96aF8xQzZ3dXdPMXNoVG1xelh0QlRfMjRjOEJ6Z0ZCSkZDMjlmNnVseHlSQlh3NG5IcGRILVBEYm9TRDhOOFBNeEoyY1Z1TUEyUjhVY2ZsTThYZVR3SmdqdE5ialR6UV9mZWpyc2F2dkFhQ2dneUZJY0tuMWQySGtOOWt4Y3FQX2ZnWFh0bmNGZzJD?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 15:45:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Bitcoin's late summer rally set to face off against the Fed, Congress - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEV1dXlZWDh3VTJpMHVvclNtOWY1WVZXSGFIM3JZa1h0bDYyNVUzd0lvcUFpdVJtVjFZemVZSGotMnJmR3Q5aDN5MzVaenluWUhseElqVEltb2RBQU8zTnktd3hOaWZnQ20yTG5OY3ltMjlXZU9ta0tvTkpnTlhncW1DcEg0bl9BNWdnVEdJOFc5THpPZmZYNjFNZEhPdEVvU1ZtWW5vWUlVMFp5VDd2RXpBcw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 15:45:30 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Senate Republicans release new crypto bill text ahead of critical vote - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTUd0QXl4cFJlZFQ1SXRIdkhVMFVOZEZpNXpfNDgwbGU3ZTZlTV9vU0UyT0o1RUdsQm5HLTdsYm1hYmJSUVk3dURLSWFzTkY3QVkxX3hRWXpHYVhUeHUzWmRZNTJIWnRjRWo1RjYtT093aEQ5SmVRMmo1aldpcWk3Yk5DUG5TX2szYWlyUlpoVUlPeXNPQXNYRUFocld1NTZGNXc1OFFpV3FLem5sNU44YlB2RUtsNDBU?oc=5",
           "pubDate": "Mon, 14 Sep 2026 15:43:19 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump's mail-in voting restrictions blocked by a second judge - Reuters",
+          "title": "Sweden's centre-left ahead as far-right stumbles in tight election - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNF82STlxaHhSdXNSOE9GbjlTLTR2RFJPelVUblRjOEp5YURhWTZuNE5YMmRlT1MtcWhuNzU2eVhNY3BtSjdXcUo4VDBSb0VpQXNIQVkxZHZSY3V6VTNQd3lGc0tfeHI4MVZZRDRpbUN6bXgzSzdQUlNVaHA1TzJtYUlzZm82MDVfSHZrQzJLdXBTaWhUVXBDR292Y3pPUENiVWk0dFhwTEJzbjZlTTJNaFNIaUVBSU1jNzh2S3V4SW9VWUE?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 15:42:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump's mail-in voting restrictions blocked by a second judge - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdGVuSUJVaFZzWlRVTmI4VTBJQWlnam1UNlc4N1NVWkhBUGQxb25vdTRIcDZMUTRZU09HYTVIeFlJM0drdkJiUmxPcjhjZUZlTm42bVp3cWdhOExVWVVqa3IxamUwT0lZeVFBNExuVTZVd0UzMm5INi13bG1ERk5hbDRRcFpOYm40eXczeUVEZlJpemNWbU9hTm4zM3lxenJVbGc?oc=5",
           "pubDate": "Mon, 14 Sep 2026 15:42:11 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US 10-year yields reach 5%, highest since 2023 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSEVEbDgzNEZ0Ri1EVEo0el9wd0lZZFh1TExjMU16amxsbzluZG5fVXFhemhldzhYSVVFd2ZvWlJXMElMQU8tM1FhMTBDbm5GS0tkcU44aGZFVDNoUmlpQ0owN0R5dXdsZ042UGZ3Y0Y2YzQyczRoajRhYjFDSFFvVW1qdWoyeDg3V25MdkowbDdxeWM?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 15:15:06 GMT",
+          "title": "Exxon Mobil shuts down Joliet refinery after power outage - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczY1S0dabWl4V3hFOWdJd3J6N1Z1UENYbjJnbm1DeFlteW1ZM3lLUkxBUzMwRFRjaHZGN21fS29zR25xMTFWY2NTa2ZVejh1ZGxHYWhFWXdTUjlhNzViT0ZaY0RQcm9CdkZmS0pVZnRUNU5OelJkajNIVTV4ck5Kc0RYSDBzRTZPN25BaVExR2RiYld5bzhJT3FCQklVYlVhRlRTcm9nQlNQajFqUnEzYg?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 15:36:03 GMT",
           "source": "Reuters"
         },
         {
-          "title": "How China is preparing for the risk of AI escaping human control - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 15:10:33 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Kimberly-Clark prepares asset sales to win EU nod for Kenvue deal, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVllQzdsaXNMUGJlWWpYdmZyLUZ6SWdIUENRS2NxdDUzY1Mzc093Z2twd3MzUEhGNUlBMWNqVVhHZWZWTnlZNFdiZFVNTTU5a3FpbGZsX2RHTmdIUHlZYlFIdU14bGF5REZkX2RpYWhWYmx1b0hGOFdQUEpJWmh6WEc0TkxtQUlqU21MTTFCekNBcUJjMEZ2NzYzT3YtZm9KT3RUZlkxNA?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 15:07:34 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says US has tools to keep AI safe, concerns part of 'sick conspiracy' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUtaZjljMHRad2I0OEcxUUxHTlhNM1laeGo1TlFPb08yVWdWYnRuLWQwMXhzWTc2N3hBdkwyTmtqSmsyaFBMVjZPdnl5eGtKNnJFdzdBaGQ2cThlckVEOHloT2dDODRDTzlMakFqY3NGblFxbUZXMkVXclJ5ZGlmT2ZNYkx3M3A1ZmxsUnI2TElVTExPaTRxQ3o5cDdramw0SS1F?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 15:06:34 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Germany says halting AI development not 'viable' as Europe weighs safety of new tech - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMUxwdHN5dDgxNEpDZFYzNVJtZFFrSHhmRkYweEpkUVd5N3BuY0UxQ0gtYkl4bGZIRWVQLUhlbG5PVE9vT0FBSlZBWFplM3RVLUhxbkoxaUtjcC1xdXdEam1IZHFPbUlDUVB5Y2VXNVRRX2tEY05sRDYtbVFlY0hycG9NRXgtZ2FGd1NIZ1dTekhYN3VwUE0yUkpDZHVYbmdvNXEwZDJkLW5KLUNDODBaZWU5VHk4OThNZi05MEVsN1RFMmJP?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 14:38:42 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "King Charles to host AI executives as threat fears mount - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2RHR1kteU9kT1lsd3NHU0lpTXZyZWJKYTI4cW93ZENtdVFyNkNjWDBLWWF5YXIxQk9JcjFfYk02NFpuTzhBd0VseFl4NFRoV3BPclc0RURUV3V4ZTEwQmNhd2M5UlJyS3pwdUcySkhTZXQyTjdBbHN5RjdKUkhNT3NQcmttVnpJdExTQWVoVExfam5KTVFnQnpoak1KblV0MmdyVXh3?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 14:36:03 GMT",
+          "title": "Carney, locked in US trade war, pitches Canada to global investment titans - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3JPQXNDM2tRbmo0bHhxcE5yaHVkZ2txeVd5T2IzUFpYWkFYZTNsWmloNEUybWhxa3ZPVDdlZ0F0VnBnTmRzM09TekhtRHV3WGRQc0QwSmZuTy10R3BGbUdUc2dkOW5PRGpfRWdpblRtRHZYcnFHMy1HOGljNVFzcW8yOEY5VXg1d3BQY3d5ZWZJRU1JZEQtNTl2bW85NEhCckZpeWRPYlNrY09FckpjbA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 15:35:01 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T16:00:18.876Z"
+      "updatedAt": "2026-09-14T16:25:13.376Z"
     }
   ]
 }
