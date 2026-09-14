@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-14T20:00:37.008Z",
-  "lastChecked": "2026-09-14T20:00:37.008Z",
-  "lastUpdated": "2026-09-14T20:00:37.008Z",
-  "generatedAt": "2026-09-14T20:00:37.008Z",
+  "fetchedAt": "2026-09-14T20:25:12.972Z",
+  "lastChecked": "2026-09-14T20:25:12.972Z",
+  "lastUpdated": "2026-09-14T20:25:12.972Z",
+  "generatedAt": "2026-09-14T20:25:12.972Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T20:00:20.043Z"
+      "updatedAt": "2026-09-14T20:25:11.817Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T20:00:20.130Z"
+      "updatedAt": "2026-09-14T20:25:12.081Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump calls AI risks a ‘hoax,’ says there is a ‘SICK conspiracy’ against AI and data centers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeFRySlBKNy1PVjJIYndUZHZKcTB4ZVFhOU1JN0t2QzlrbWtYaTZBRjctQWFKaWJBbjdnWFFzN2JJejJKZkZlOG5fN2s5U01fRE9JVGgxemxPUUhiV3VIcGpLdzFFc2w5ZjRoWEt3MTZ4dlJobnBNaDhNbXZFZ2JVamFlTnY2b3JnNjJPTWFudmJ6azh3bnVn?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 19:12:00 GMT",
+          "title": "AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 20:16:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 19:11:00 GMT",
+          "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 20:15:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "EPA eliminates rule that limits planet-warming greenhouse gas emissions from power plants - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODQ5dWRzamlZYU0ydVJCdVZpd1M0QjNFWVpIYm5Za0JxT2thaDByZU1LZnhhdm1PaU9lMVdkYU9BOEoxcEVPSXJGTUhGSHRsTDExY3gycHVIOG1RdEd1Y2R3TlBzV1kyRFJ2ZmZ2bVRvMHlOZkVnMlRQUk10bDJnT2lRVkVrSnBITUNzeUd0RFdxVTY2aVR3TjdZd1ZSZFRv?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 20:05:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump calls AI risks a ‘hoax,’ says there is a ‘SICK conspiracy’ against AI and data centers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeFRySlBKNy1PVjJIYndUZHZKcTB4ZVFhOU1JN0t2QzlrbWtYaTZBRjctQWFKaWJBbjdnWFFzN2JJejJKZkZlOG5fN2s5U01fRE9JVGgxemxPUUhiV3VIcGpLdzFFc2w5ZjRoWEt3MTZ4dlJobnBNaDhNbXZFZ2JVamFlTnY2b3JnNjJPTWFudmJ6azh3bnVn?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 19:53:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,15 +154,9 @@
           "source": "AP News"
         },
         {
-          "title": "EPA eliminates rule that limits planet-warming greenhouse gas emissions from power plants - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODQ5dWRzamlZYU0ydVJCdVZpd1M0QjNFWVpIYm5Za0JxT2thaDByZU1LZnhhdm1PaU9lMVdkYU9BOEoxcEVPSXJGTUhGSHRsTDExY3gycHVIOG1RdEd1Y2R3TlBzV1kyRFJ2ZmZ2bVRvMHlOZkVnMlRQUk10bDJnT2lRVkVrSnBITUNzeUd0RFdxVTY2aVR3TjdZd1ZSZFRv?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 18:58:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 18:39:00 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 17:58:05 GMT",
           "source": "AP News"
         },
         {
@@ -158,20 +164,44 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3BvakNYQ19LeGNaeEk0WTRkLVRMWDAwdnZNcjRIYWZyV1ZpNXFaV0NRVXBqckI1bVVfZ0RlN3pQbktRVVUtUVNKNVhJSGFHT0lGbGRGbGJqcVJlTXlyN3JEaVFocy10QlFoYjJ5bmtvMVVVQjhsbzRXb0l4MmpqdzVhaURaM0w0U1hBcExOQWViUnRaQ0Rr?oc=5",
           "pubDate": "Mon, 14 Sep 2026 17:58:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Texas landowners ask a court to stop Trump’s Big Bend wall plans - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXgxeG1IUm9VTjRoYlUtamZENzZ5Zmt2UFVqWlF5dWtPMVE0akM3MEdNcnkxbzd6NlhBeXdhM096SFVORzQ1UktXU2d0VjRvMS1xUHg0aTc3NUhwUEV4MHNGemREZXpIeFRLTklnZjNEZ3NBdGYzSjFJTDFpTl9TbGRFcmV3bnMzRnhkam5yaUphc1RVR3B3QzJVbVZHNkNkdm0tN0p3?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 17:43:00 GMT",
-          "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-09-14T19:50:13.612Z"
+      "ok": true,
+      "updatedAt": "2026-09-14T20:25:12.548Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump dismisses AI safety alarm, says US already has tools to police industry - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUtaZjljMHRad2I0OEcxUUxHTlhNM1laeGo1TlFPb08yVWdWYnRuLWQwMXhzWTc2N3hBdkwyTmtqSmsyaFBMVjZPdnl5eGtKNnJFdzdBaGQ2cThlckVEOHloT2dDODRDTzlMakFqY3NGblFxbUZXMkVXclJ5ZGlmT2ZNYkx3M3A1ZmxsUnI2TElVTExPaTRxQ3o5cDdramw0SS1F?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 20:04:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US senators weigh requiring AI giants to commit to preventing catastrophe - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOajQ3blBOeUpzdkljZFFjVWZySFdmLUpqZjdVQWl2STV0U3ZJaERkWmtSU1FoOU53NEpyeWRsVng4aHZ0M1lNM1cwQWpITk96cEtKOS1heWFBVjEzUFVGa3d5aE9WVDEtbEpYOEdnQmw1aGdscnR0SU5EVXJCY0lVbEdWNjdYelQyVlExQ19SeDd5RTVtZEt0NTRIX2FIU1ZPWjJJTDdkdE9EMC1oMkE?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 19:43:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "States, cities sue to block Trump immigration rule on public benefits - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGk1MVlTS3ZZWUE1MTJ2bTNJeDZKQTV6X0ZPZVFxMXhzVEo4Y05KR0lVRHQ2Q0Q2YUsxUFdOM3pJUXRMaG9zRS1wZm9hLWZqQ0ZQdGgtYmJJRE03Yk4wZVp0ZDljcW5wWkw0c2lGOENpTXFfVEhvdTlyekNva1Vrb19lZDctRW1TQTJOOGlRVk9Mcl9sWkE0T1NscUx5aFNiTHdqOEFUMDdEQndUSER2ck1ib1JHdw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 19:36:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EU is set to propose ban on social media and AI chatbots for under-15s - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2c3UFlUVUZxUm9MVUZMeGxuSURsX0RsNC1KSDVCZTZURnNWZVAwbUcwWk5sNUdTbGdzTEZ6MWRoV1RtRVF3eDF2bnp3aF9MNF9mR0dqd0NkTThNdVFQSzBqUGZfRFlJYkY1ZFh0VEF4NkN2QVFKMlUtUXo4eUFxUVBpUTBzbi1WN1pJWTcyZFBSY1dIcXROcjhiQ0d5TFJleUdZc0dwUmVnTlBPWHc?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 19:35:33 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Billionaire Dangote launches oil refinery 'people's IPO', Africa's biggest - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNm15SzdOekVDNV9rUTlPanJOckRvYlVjbzNtRU1BVFlWLV9DUVFBRHIxQWwzbzZJNHNuUWt4VXpyM0piZVZCTjRXelNxMUN3ZHB4WXNuZmdoeTJvZkI5Mmp5azBwVGxRNU1qdEEwelJ4c3lCUGxORXRGUFkxckEwZFkwMjRIR3pUbnZhQnllUXp6ZVN2QllZeEg5LUhuVm9tdDhHZmhlTEt5RV8temxtSTJqb0RYWENfckZLTVV1RmlzNjQwdjBj?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 19:34:10 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Exxon Mobil shuts down Joliet refinery after power outage - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczY1S0dabWl4V3hFOWdJd3J6N1Z1UENYbjJnbm1DeFlteW1ZM3lLUkxBUzMwRFRjaHZGN21fS29zR25xMTFWY2NTa2ZVejh1ZGxHYWhFWXdTUjlhNzViT0ZaY0RQcm9CdkZmS0pVZnRUNU5OelJkajNIVTV4ck5Kc0RYSDBzRTZPN25BaVExR2RiYld5bzhJT3FCQklVYlVhRlRTcm9nQlNQajFqUnEzYg?oc=5",
@@ -179,50 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "U.S. imposes Iran-related sanctions on Russia's VTB - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUV9iZ1hvNXptVGtUeEZ2X3Q1bkxtdm93Zm1neUNFdjlKM3Y2eElENzhEbHNpMFRRUXlGaWtUakU1al9wM3gtanR4R05saV9fWXVmNXlOWFUtQkpvRnJBbDdybE5CdVJtUmFRVDdLazdXRGljQUVVa0xpcUEzWHNpUEd5ZEhjOUlQMVMzY2hnamY1endIa0RZbFRlM3pKOUUx?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 19:04:23 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "How China is preparing for the risk of AI escaping human control - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5",
           "pubDate": "Mon, 14 Sep 2026 19:02:37 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Fed's table is set for a rate hike, a first under Warsh - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmR4eUlzVVZXLUFSSEpiLUs3UkxJMDYwVVpsU2o1REJIOUFSTlN3U2VBV2NRZ3hUTUNzSy1KRTNlODFaTmh6bGgtTFpCM3BCWE13c250dlBDTW5XaS1rWHpUMjV0cFJiSkxqN3g4OTVVZmJKN1dKSXZhRHZ2bW1Lbndrc3UxRGhjNG9LY01lZklaajE4?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 18:25:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EU is set to propose ban on social media and AI chatbots for under-15s - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2c3UFlUVUZxUm9MVUZMeGxuSURsX0RsNC1KSDVCZTZURnNWZVAwbUcwWk5sNUdTbGdzTEZ6MWRoV1RtRVF3eDF2bnp3aF9MNF9mR0dqd0NkTThNdVFQSzBqUGZfRFlJYkY1ZFh0VEF4NkN2QVFKMlUtUXo4eUFxUVBpUTBzbi1WN1pJWTcyZFBSY1dIcXROcjhiQ0d5TFJleUdZc0dwUmVnTlBPWHc?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 18:25:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall Street drops as AI worries pummel chipmakers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 18:23:21 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Senate Republicans release new crypto bill text ahead of critical vote - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTUd0QXl4cFJlZFQ1SXRIdkhVMFVOZEZpNXpfNDgwbGU3ZTZlTV9vU0UyT0o1RUdsQm5HLTdsYm1hYmJSUVk3dURLSWFzTkY3QVkxX3hRWXpHYVhUeHUzWmRZNTJIWnRjRWo1RjYtT093aEQ5SmVRMmo1aldpcWk3Yk5DUG5TX2szYWlyUlpoVUlPeXNPQXNYRUFocld1NTZGNXc1OFFpV3FLem5sNU44YlB2RUtsNDBU?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 17:59:15 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump dismisses AI safety alarm, says US already has tools to police industry - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUtaZjljMHRad2I0OEcxUUxHTlhNM1laeGo1TlFPb08yVWdWYnRuLWQwMXhzWTc2N3hBdkwyTmtqSmsyaFBMVjZPdnl5eGtKNnJFdzdBaGQ2cThlckVEOHloT2dDODRDTzlMakFqY3NGblFxbUZXMkVXclJ5ZGlmT2ZNYkx3M3A1ZmxsUnI2TElVTExPaTRxQ3o5cDdramw0SS1F?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 17:57:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukraine wants specifics from partners on halting strikes, Zelenskiy says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOVNFQ1g2OHVHZ2dKdEVraENQbDVtV0xnTDBmUzNqaEd6YmJiSG9EWE43V2ZCWEdzUlBOVjVPTGRmdi1uajU1c1VrdXNuQlVPS2c1am9TNzJzMEo4bERnUnlfMEdUNjZjaWc0QmRsR1E1TEotekZyUWZuZ052QXowT2tuUFlOcWE1dzVNMDhVOERueXZ5ZG9RNVFLdVN2N3N5dVVGRXlsV3NrQmwwM1V0MTlR?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 17:50:36 GMT",
-          "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-09-14T19:50:14.009Z"
+      "ok": true,
+      "updatedAt": "2026-09-14T20:25:12.972Z"
     }
   ]
 }
