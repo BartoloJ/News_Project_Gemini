@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-14T11:00:19.709Z",
-  "lastChecked": "2026-09-14T11:00:19.709Z",
-  "lastUpdated": "2026-09-14T11:00:19.709Z",
-  "generatedAt": "2026-09-14T11:00:19.709Z",
+  "fetchedAt": "2026-09-14T11:25:15.734Z",
+  "lastChecked": "2026-09-14T11:25:15.734Z",
+  "lastUpdated": "2026-09-14T11:25:15.734Z",
+  "generatedAt": "2026-09-14T11:25:15.734Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 14 Sep 2026 11:20:07 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
           "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Bali police investigate after Australian man and children found dead in home",
           "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 14 Sep 2026 07:15:35 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Hyrox athlete sparks debate for continuing race after soiling herself",
-          "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 14 Sep 2026 05:34:13 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T11:00:18.754Z"
+      "updatedAt": "2026-09-14T11:25:14.407Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "This city led the way on reparations for Black people. Trump is trying to stop it",
+          "link": "https://www.npr.org/2026/09/14/nx-s1-5869793/evanston-illinois-reparations-trump-administration",
+          "pubDate": "Mon, 14 Sep 2026 07:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "The powerful millionaires hiding in plain sight",
           "link": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight",
@@ -103,24 +109,36 @@
           "link": "https://www.npr.org/2026/09/14/g-s1-143138/amazon-suspends-21-air-cargo-carrier",
           "pubDate": "Mon, 14 Sep 2026 01:26:01 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Pennsylvania says an unvaccinated woman has died from measles-related complications",
-          "link": "https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications",
-          "pubDate": "Sun, 13 Sep 2026 19:23:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T11:00:18.800Z"
+      "updatedAt": "2026-09-14T11:25:14.565Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3BvakNYQ19LeGNaeEk0WTRkLVRMWDAwdnZNcjRIYWZyV1ZpNXFaV0NRVXBqckI1bVVfZ0RlN3pQbktRVVUtUVNKNVhJSGFHT0lGbGRGbGJqcVJlTXlyN3JEaVFocy10QlFoYjJ5bmtvMVVVQjhsbzRXb0l4MmpqdzVhaURaM0w0U1hBcExOQWViUnRaQ0Rr?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 10:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Mouthfeel joins flavor as a food industry focus to satisfy consumers craving extra texture - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2JoSmFiYU9KSnpDNGw4aU05bGJldjU1QnpkODVFYkV4VnN5cUJSVWxWaVJPOS1lcm9qQ3Jxa1FLMlVsREpUeDZGbTRMaUN4Wno3WDRXRTVobUFLTTdTSnJ5aml4eTVjaG15WmFvOUlPTFIzRFgtTWR1a2ZmenBvSU5TUXc5bXJmelVnSTNtRXhHem5oNnJEcERESXNaRDdpb1ZnSzBqSWQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 10:35:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Electric mobility brings Africa’s energy transition into the wild - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYkYtVkxjMEUyczRtaFFBZnhQMk5OWHk1LXRtbHFSU2tuZFo3NFpjVnlFeWI4ZGVIT3hFS0lkN0pmUkhzbkMtaTRCU3dYSDdUWnN2dXZ6NFdCWW1lMkNqT29oNTN5czZxWFh4U1NaWXIyaUQwU1UtSEJaWlV2QlBGdnRBT2dnV3FNLWxQckJLVTFuOUxEMFdrN1N3N0lVYjA?oc=5",
           "pubDate": "Mon, 14 Sep 2026 10:31:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Global shares mostly decline and AI stocks plunge after calls to slow AI industry - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 10:09:00 GMT",
           "source": "AP News"
         },
         {
@@ -130,21 +148,15 @@
           "source": "AP News"
         },
         {
-          "title": "New warnings about the risks of AI to humanity revive a long-running debate - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3RtcEE3SVFlTXAycXRkTkFmUjBzN0MtWGQwajY2ZjhpZjFLelF2TzFhN2Z4T25fanRuZ01aQ05MY3dzQzUycjc1eG5Vc0EzMmNfZ21FTU9nT2xnSzVHQW56eE9Rdl90Wk9DcGpCNWtoUFE5TGhWelFma01rOFZJT0hlTFdzd0dTQ2FSMWNBTUE3NGkzd0Rkc3ZtRGhOZ0xmRTVuX0FXUGQydkp4V1MzOUludm5KdXpz?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 09:39:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Indonesia intensifies search effort for 129 people missing after ferry capsized in Java Sea - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWNnZFhMa2h2T1NjYy00WThJeGl4VjlhRmtrSU12MEtyQTRYRnF1a1BQQks5SGNwS2xSTlNidzVzLVJWVUJtSG4yMTdkRERKcVNsWlk1Q3gtN2tEZUo5UzFvQW5TbkVHMW9EUmt5dnlCZUJ1WndQZGlXUkhRc2ZnTHVWUGR4MHBzbUQxMWZ6VDJYMHZkRDREYl9xR3VqU0JJX0duZWs5Uzg?oc=5",
           "pubDate": "Mon, 14 Sep 2026 09:16:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 07:56:30 GMT",
+          "title": "A Muslim region in the southern Philippines votes in first elections - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZktXOEtaNERGbC1McWZMazBsVXNiWDJOVllqUndvbFZlRVhXd1UybDBJVGJ5eFFYUlRyN2JBUWYyckc0ZzdfWVpQZThIR05IRS05S05TbzB5NEFvTnNvalhELTkxRVBJUFNOWnVrX3ZlU0l1Y2VXbUVFZ2t1eWNIV2NoUnptaE9CN2VnU1diQk5PZ1hHQ3JLT2NVVHpoQQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 09:14:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLS1ZV0kyb2w5c2szWC15SGgxZGVsMXM4dDNiVkdTdmRPcV9kQ001dnpkODMya0xkTWQtLWhoYzZsdlFUVFV5SnJaVGpUbUNaaW4xNEN0VTVGdDlRempoRzhMYV9PcGo0UWhjUkhlZnJMRHVVVzB6WDBybXVMY1dfM181b3JYXzZIclJpU0xHbjRPdVpmUUJpbHFvdTYwdHFOWUVVYmp2M3hsN1hhcGJSbGRSV1Vqak0?oc=5",
           "pubDate": "Mon, 14 Sep 2026 07:55:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "GOP congressman from Wisconsin tearfully recounts surviving emergency plane landing in lake - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSi1MWjIxVEdEOGRaalhNcXVWN1gzUVdZai1HX1BiQzJLeVFvYjd1RC1xZlU4SHJjOFpFUDE0aDE5eU5INWFpRzFLWjQxLXIwN3V0ZVhYSDgxZkIzdjRTN3BVNDZaQkxFTVhtYUJvSEhXeTVTWVZQVVE2bkJNZXo1RlRQeTZmMEt1TXNvdlBIUVdNcUEyQnBaejd4bXVXOUpjbmdn?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 07:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A Muslim region in the southern Philippines votes in its first elections - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZktXOEtaNERGbC1McWZMazBsVXNiWDJOVllqUndvbFZlRVhXd1UybDBJVGJ5eFFYUlRyN2JBUWYyckc0ZzdfWVpQZThIR05IRS05S05TbzB5NEFvTnNvalhELTkxRVBJUFNOWnVrX3ZlU0l1Y2VXbUVFZ2t1eWNIV2NoUnptaE9CN2VnU1diQk5PZ1hHQ3JLT2NVVHpoQQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 07:51:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T11:00:19.259Z"
+      "updatedAt": "2026-09-14T11:25:15.259Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump's mail-in voting restrictions blocked by a second judge - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdGVuSUJVaFZzWlRVTmI4VTBJQWlnam1UNlc4N1NVWkhBUGQxb25vdTRIcDZMUTRZU09HYTVIeFlJM0drdkJiUmxPcjhjZUZlTm42bVp3cWdhOExVWVVqa3IxamUwT0lZeVFBNExuVTZVd0UzMm5INi13bG1ERk5hbDRRcFpOYm40eXczeUVEZlJpemNWbU9hTm4zM3lxenJVbGc?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 11:10:07 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Indonesia president appoints his third finance minister in under two years - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTXk2ODI0TWUxUDZCM0FULXNEWlJoY0lGSGxhZndSREZYM0RjaVUzYTlJRmtRNVpCVzlqeGtyUzFVRU9OUDNQekZaR1Vfc2laYkQwY0t6TVNWRHNRenFaZlNhV2Y3M25tN19SNlNsZWd3NHVTWDBsNWVBc2JFS0MyejUzaEExWXo2SzVFd3d2WjZzejI1N1lKajlfQ3N0UUM4RlZkT0hnT1plUFk3bkQwa3BBdk5oRnhaQ1NKNFB4bHFubm13N2c?oc=5",
@@ -191,38 +197,32 @@
           "source": "Reuters"
         },
         {
+          "title": "How does Aliko Dangote's oil refinery fit into his conglomerate? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHR0V2xiZ2R6RC1PTW95SlNYUzNwX2JoZUE3TU9NbXlvRVgwckxkNDNmWVdvRVZ4ZGJ6SVZhcVZ3UXdzN05FZ2hNWU9jX3lyUkNybS12YXlRcEhQdVZDZHFCVzJCVGZlTkcwektCTEk4Z0pMYWRObkRBSWtIdkdhMTNYNFI4UzFOQnZrejVDN2tha0JLcjZoWVY3ZTZER1BsRkV0VGdxbC1XRU9FNEgzSg?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 09:43:59 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Dollar rallies as oil prices jump and AI fears knock markets - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzNkV09NNEdQWTNoSFp6dGI0bWxzUU82ZWQ4TjZfWVI4bWZibFBJNVVBRmZpMC00WWVKdExyZUhKTEttU3pRTWczSEhMbVR4RzdSeHhBd0tnQy04aGVzMTcwZEJjenRKNGRhcDZQeWx3YTVhTkUxZC1tbnNud3ZyS1JYTmpFTDU4OXRjcWdaeTd0ZXRzaUxMM2VQUy11YXZidmRHVDU4VkJQbHExRHVXUUh5dw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 09:25:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Italy's Catania airport shuts again as Etna ash halts flights - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHNMTXFOVUhsb3lrcVFMeU9tMnhxTzg4WTV1OHdxQ3pSLTA2NnNMMC1jOVNDQkcwaTBVZ1JnU1ZfNk5OWmpvNGxqZFN4aW9CT0J5eXExcEF2RFREbk5qcW03OGVkYlJiY3B6bFdKbXczNTFFTEp0Y3FHajVHVXAwSTlnb2xLQkJRRkNCM013WTFWdjFKTTlTNC1CaWo4RURkWDdWNzlFRlduZklRZzZweXMwWlM?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 09:21:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "King Charles to host AI executives as threat fears mount - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2RHR1kteU9kT1lsd3NHU0lpTXZyZWJKYTI4cW93ZENtdVFyNkNjWDBLWWF5YXIxQk9JcjFfYk02NFpuTzhBd0VseFl4NFRoV3BPclc0RURUV3V4ZTEwQmNhd2M5UlJyS3pwdUcySkhTZXQyTjdBbHN5RjdKUkhNT3NQcmttVnpJdExTQWVoVExfam5KTVFnQnpoak1KblV0MmdyVXh3?oc=5",
           "pubDate": "Mon, 14 Sep 2026 09:17:54 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "How China is preparing for the risk of AI escaping human control - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 09:07:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Opposition set to halt Sweden's slide to right - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNF82STlxaHhSdXNSOE9GbjlTLTR2RFJPelVUblRjOEp5YURhWTZuNE5YMmRlT1MtcWhuNzU2eVhNY3BtSjdXcUo4VDBSb0VpQXNIQVkxZHZSY3V6VTNQd3lGc0tfeHI4MVZZRDRpbUN6bXgzSzdQUlNVaHA1TzJtYUlzZm82MDVfSHZrQzJLdXBTaWhUVXBDR292Y3pPUENiVWk0dFhwTEJzbjZlTTJNaFNIaUVBSU1jNzh2S3V4SW9VWUE?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 08:54:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chevron eyes Argentina, Mediterranean for global LNG growth, deal with India - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU0cyVE82aUNZNkxxRFJka3FjNjdyU3UtWXgtSGx3ZWw0ZXUyeWZuMFlsdldfcE5yZGY1WE85VDd6U1lSX3hyVnJCaXNSSjFvWUZKTkFkd09STk4xYnVXT3lnT2hFSjIyenNTQnYzVGs0SzRFNUVTbGJJcVBweXB4TEFTcUhyT1dDLVpBeTBJZHlDNEtxMlVUNEdpaHh2ckU0Y05GYWhGc1dQejZWUWpoMFVvXzNCR2J3aHFMZC1KRQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 08:44:38 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indonesian president names Suahasil Nazara as new finance minister, official says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlUtTWI0V28xeDlKSFRLbHdwXzVYdGw1Mmswdi0yclQ2aFdkQTlMWW1sb3RLeU1hRTVyUWRpWUZJUUx3aHJ6cTdUTWs3dWtBNTd1NVZvQUFpZU5rTGVnVkItWVlmMUlTOG5iZF9xRWJJc29lRllpend5RVVwd1VBSkNsMzR1bWgxRTVncGtPWHhQVDljVnhvQV9GX1dvWkJvOVNQRXdsNm1yWmhQUWpKb3RpY0NpUGgzWTlPRllfNzdobkZIOThRY2NVOXQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 08:42:16 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T11:00:19.709Z"
+      "updatedAt": "2026-09-14T11:25:15.734Z"
     }
   ]
 }
