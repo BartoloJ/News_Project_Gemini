@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-14T09:00:19.792Z",
-  "lastChecked": "2026-09-14T09:00:19.792Z",
-  "lastUpdated": "2026-09-14T09:00:19.792Z",
-  "generatedAt": "2026-09-14T09:00:19.792Z",
+  "fetchedAt": "2026-09-14T09:25:16.037Z",
+  "lastChecked": "2026-09-14T09:25:16.037Z",
+  "lastUpdated": "2026-09-14T09:25:16.037Z",
+  "generatedAt": "2026-09-14T09:25:16.037Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+          "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 14 Sep 2026 08:58:27 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
           "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Questions mount over what an AI 'slowdown' would look like",
-          "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T09:00:18.809Z"
+      "updatedAt": "2026-09-14T09:25:14.306Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "ChatGPT has a feature to help those in crisis. But where can you find it?",
+          "link": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
+          "pubDate": "Mon, 14 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
           "link": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
           "pubDate": "Sun, 13 Sep 2026 13:45:33 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
-          "link": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
-          "pubDate": "Sun, 13 Sep 2026 10:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T09:00:18.991Z"
+      "updatedAt": "2026-09-14T09:25:14.574Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "GOP congressman from Wisconsin tearfully recounts surviving emergency plane landing in lake - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSi1MWjIxVEdEOGRaalhNcXVWN1gzUVdZai1HX1BiQzJLeVFvYjd1RC1xZlU4SHJjOFpFUDE0aDE5eU5INWFpRzFLWjQxLXIwN3V0ZVhYSDgxZkIzdjRTN3BVNDZaQkxFTVhtYUJvSEhXeTVTWVZQVVE2bkJNZXo1RlRQeTZmMEt1TXNvdlBIUVdNcUEyQnBaejd4bXVXOUpjbmdn?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:52:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "A Muslim region in the southern Philippines votes in its first elections - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZktXOEtaNERGbC1McWZMazBsVXNiWDJOVllqUndvbFZlRVhXd1UybDBJVGJ5eFFYUlRyN2JBUWYyckc0ZzdfWVpQZThIR05IRS05S05TbzB5NEFvTnNvalhELTkxRVBJUFNOWnVrX3ZlU0l1Y2VXbUVFZ2t1eWNIV2NoUnptaE9CN2VnU1diQk5PZ1hHQ3JLT2NVVHpoQQ?oc=5",
@@ -132,7 +138,7 @@
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 06:51:58 GMT",
+          "pubDate": "Mon, 14 Sep 2026 07:13:49 GMT",
           "source": "AP News"
         },
         {
@@ -158,20 +164,32 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlVJRVg5MFNUSW9yZTRUN3BZaXpzY0dRRzhHTndZZGV2QmR0TzdCUGVMcTZIcnBRcXI4OGhiTjBsQmpWUGtyTmtpUzFBbFM0d1k5dm14WnRZUVNjT1BQUHBWUUlPTHZIUTRrZkJwcDI3VVhVTXUyODJXemRHemZiNXZPYTl4UGxzWFdDUXY3NkEtWlJpdkg0QndiQXk?oc=5",
           "pubDate": "Mon, 14 Sep 2026 04:56:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Fighting in Yemen intensifies, and Houthis launch more attacks on Saudi Arabia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmtucHBpX1JrQVh4ZVl5UDVCMER5bjYtb2NPcUVPZzFrZlZSZERNTjN3YTVKTDhxc3BzbkdMRS05YllDZ3VJeW03c2pRSHNmYkxKTnBWNE1IVm9VYndFdjZlQS0zck1zeUM0QTA4S0p5cUM5MTYxRjNxX052S2xOaXE1Ql9zYXBpc19SZThRR1VwVWpEbkFoNE1YMA?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 04:41:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T09:00:19.403Z"
+      "updatedAt": "2026-09-14T09:25:15.548Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Indonesian president names Suahasil Nazara as new finance minister, official says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlUtTWI0V28xeDlKSFRLbHdwXzVYdGw1Mmswdi0yclQ2aFdkQTlMWW1sb3RLeU1hRTVyUWRpWUZJUUx3aHJ6cTdUTWs3dWtBNTd1NVZvQUFpZU5rTGVnVkItWVlmMUlTOG5iZF9xRWJJc29lRllpend5RVVwd1VBSkNsMzR1bWgxRTVncGtPWHhQVDljVnhvQV9GX1dvWkJvOVNQRXdsNm1yWmhQUWpKb3RpY0NpUGgzWTlPRllfNzdobkZIOThRY2NVOXQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 08:42:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nigerian billionaire Dangote launches oil refinery IPO, Africa's biggest share sale - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNm15SzdOekVDNV9rUTlPanJOckRvYlVjbzNtRU1BVFlWLV9DUVFBRHIxQWwzbzZJNHNuUWt4VXpyM0piZVZCTjRXelNxMUN3ZHB4WXNuZmdoeTJvZkI5Mmp5azBwVGxRNU1qdEEwelJ4c3lCUGxORXRGUFkxckEwZFkwMjRIR3pUbnZhQnllUXp6ZVN2QllZeEg5LUhuVm9tdDhHZmhlTEt5RV8temxtSTJqb0RYWENfckZLTVV1RmlzNjQwdjBj?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 08:23:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Companies left China to dodge tariffs. Now some are heading back - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXZhYnM4LUVqMVptczRMSnVLLUp2YVVfRm9kNGh2MnZmWVlYUEtERkowb0xsb2drVG12aTd1SVlPNUFiRW9HQjJRNEhVR1hBWjZKem4xTjBaaVZ2anhqdTRscDYwcVZZUmp5V0FncDRPXzhhQ3BZWjc1ZlkyWXFaM0pDTFM0eUU2S0FYaUhvVzFVeUhyREZJZm85V0IzWTBnaGFFM2ZRam4wY1lkTlVTMnBYV2xVclBuTHJTSGZR?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 08:18:05 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Swedish centre-left opposition in pole position to take power after tight election - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNF82STlxaHhSdXNSOE9GbjlTLTR2RFJPelVUblRjOEp5YURhWTZuNE5YMmRlT1MtcWhuNzU2eVhNY3BtSjdXcUo4VDBSb0VpQXNIQVkxZHZSY3V6VTNQd3lGc0tfeHI4MVZZRDRpbUN6bXgzSzdQUlNVaHA1TzJtYUlzZm82MDVfSHZrQzJLdXBTaWhUVXBDR292Y3pPUENiVWk0dFhwTEJzbjZlTTJNaFNIaUVBSU1jNzh2S3V4SW9VWUE?oc=5",
@@ -191,38 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Facts about Nigeria's Dangote oil refinery Initial Public Offering - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkdiZlZGd2FuZ05TaF9qcDQtTkpZNkJWaGZoTXZVcWE3M1FWWU4wUlo5a3FQMHU1REFLWnhSczRZdlJFUGRkRXZ2Q3pBTUI4Uzl2dUR5MTVwV0pmam1NTFhRakxHSjl5QUxxUjE4VDE0ZUhQZHE0aTVseHNFYWJqbzRiMTByeHg2SUFoR0J4Zm5ydG5mQkhVVlVPNnFLQWYxNTAtRmJCaUhrU054QkNZT24xMkdUR2l6?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:03:46 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Germany eyes fresh start with Hungary as foreign minister makes first visit since Orban ouster - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMGhjaXBuRkxYUHdSQmN6VTNTWjJ1YXhMeTdlZElQZGRxX0t5QmJxQ3FyX0xBQUduamdqRmpuZGs5VDdxcEFmbDJQOGwwdGJHMVJfaWl2REtHV1pfNGtnWVNDRXNZX2FSb0ZfZi05UVgtWUl6dllNb0NJeHJNSWlscHp6SWxMcTJ3S0s4bnVYdVhXVkRFMDJFNlgtSFQ4d0ozR3drZjZWa3FKWnJKMkRUODlkV1dTZGtCbEUtOQ?oc=5",
           "pubDate": "Mon, 14 Sep 2026 06:54:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Tesla sets up Vietnam unit, registration filing shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVlhjekljQ29vcFQzX1dHelBYeWJHUTdQNTd4U1FGZ1Vsc25FTkNKMVpLalBzZTZmOXdIWkEwRWkzSm50Y0h3bmV5ZWN6dlhSRVgtTnhkOUhrdVVfb2pqVUduNjA2c1FwRHU5X2ZXdGp6Z2lSNlZ2ZGtFMVdIOWVJQ1k2Z3dWeGpZQWJyRmJwRmY4c0g4MGo2c0R1dG5LRXNCS2JGQUpTSDZDNjQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 06:11:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Himalayas approaching tipping point, millions of livelihoods at stake - report - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2tTdmlLTEY1Z09ndW01LWl3dDRCU1hzY1lIandTZjVaUm1KRTEyQzFmTi1mZlZqMEREbVJGb0lqd1d1d2h3N3RObFBKdnJXUlBkaGQtMGY0SVZDNlNJcXNOTGZ2dGF6SnVudUpnMmktRTU3TnROTWRHWDVMdmZZb25oSEp2MEc5YWl2VlFRN19qYTNQMHlOckdtaXR1dF9MMkl6QmhGOHVEVll1Tm9ib1NYN1ptbUlsY1ZEb1BuSUtCUQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 05:57:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "BOJ executive saw need for vigilance to 'non-linear' inflation spikes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ2MwVUROLWxqWGdIUWNvMW83cnh4ZjJ0ZnpLSmFqRkF3U0RLRjQ5NWRIMUZEX0VPQzE4UUlsT19xLVl6TGg0MmNOTWJrZUxXQmZvX3dtZ1I3MEo1VnNRWHViMFpQNll5TThHZy1VU0I1Rjk2eUZQQUdrOFlJWU5iNS10YldGN3J2QXU1cmNJbGdMTEZBQWZtVG5WcVpLNWtXbmZXbXpCdllKNmJ5MEhjSFJTNURIZw?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 05:11:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Shipping oil gets ever harder, costlier - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmJCUUMxaW05Wm0yazVud3pVRFlHLTJKai13QUcxaUhtX2dlTEJPcV9XOWZGSnRzdFRXejctZE1sUGZrcEd3Sy1JOUZxVktnQW9hVl9vbTVSdEhldXBEaUxQTlJRanQyWDFpQXNaTlE1UWUwaVgzMU8yTmF2dzFGYUNuUQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 04:33:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T09:00:19.792Z"
+      "updatedAt": "2026-09-14T09:25:16.037Z"
     }
   ]
 }
