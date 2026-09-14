@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-14T18:25:18.474Z",
-  "lastChecked": "2026-09-14T18:25:18.474Z",
-  "lastUpdated": "2026-09-14T18:25:18.474Z",
-  "generatedAt": "2026-09-14T18:25:18.474Z",
+  "fetchedAt": "2026-09-14T18:50:18.734Z",
+  "lastChecked": "2026-09-14T18:50:18.734Z",
+  "lastUpdated": "2026-09-14T18:50:18.734Z",
+  "generatedAt": "2026-09-14T18:50:18.734Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T18:25:17.413Z"
+      "updatedAt": "2026-09-14T18:50:17.612Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
+          "link": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
+          "pubDate": "Mon, 14 Sep 2026 14:45:21 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
+          "link": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
+          "pubDate": "Mon, 14 Sep 2026 14:25:04 -0400",
+          "source": "NPR"
+        },
         {
           "title": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one",
           "link": "https://www.npr.org/2026/09/14/nx-s1-5968566/francesca-moody-fleabag-producer-hits-edinburgh",
@@ -97,36 +109,24 @@
           "link": "https://www.npr.org/2026/09/14/nx-s1-5968442/on-the-equality-of-all-things-physics-carlo-rovelli",
           "pubDate": "Mon, 14 Sep 2026 05:44:44 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "NPR looked for ChatGPT's new crisis feature. It's hard to find",
-          "link": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
-          "pubDate": "Mon, 14 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Lawmakers home in on midterm messages as Congress returns to session",
-          "link": "https://www.npr.org/2026/09/14/nx-s1-5966873/lawmakers-hone-in-on-midterm-messages-as-congress-returns-to-session",
-          "pubDate": "Mon, 14 Sep 2026 04:43:06 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T18:25:17.459Z"
+      "updatedAt": "2026-09-14T18:50:17.816Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "EPA eliminates rule that limits planet-warming greenhouse gas emissions from power plants - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODQ5dWRzamlZYU0ydVJCdVZpd1M0QjNFWVpIYm5Za0JxT2thaDByZU1LZnhhdm1PaU9lMVdkYU9BOEoxcEVPSXJGTUhGSHRsTDExY3gycHVIOG1RdEd1Y2R3TlBzV1kyRFJ2ZmZ2bVRvMHlOZkVnMlRQUk10bDJnT2lRVkVrSnBITUNzeUd0RFdxVTY2aVR3TjdZd1ZSZFRv?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 18:04:00 GMT",
+          "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 18:39:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 17:43:00 GMT",
+          "title": "EPA eliminates rule that limits planet-warming greenhouse gas emissions from power plants - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODQ5dWRzamlZYU0ydVJCdVZpd1M0QjNFWVpIYm5Za0JxT2thaDByZU1LZnhhdm1PaU9lMVdkYU9BOEoxcEVPSXJGTUhGSHRsTDExY3gycHVIOG1RdEd1Y2R3TlBzV1kyRFJ2ZmZ2bVRvMHlOZkVnMlRQUk10bDJnT2lRVkVrSnBITUNzeUd0RFdxVTY2aVR3TjdZd1ZSZFRv?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 18:04:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,62 +167,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T18:25:17.986Z"
+      "updatedAt": "2026-09-14T18:50:18.326Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "How China is preparing for the risk of AI escaping human control - Reuters",
+          "title": "Trump dismisses AI safety alarm, says US already has tools to police industry - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUtaZjljMHRad2I0OEcxUUxHTlhNM1laeGo1TlFPb08yVWdWYnRuLWQwMXhzWTc2N3hBdkwyTmtqSmsyaFBMVjZPdnl5eGtKNnJFdzdBaGQ2cThlckVEOHloT2dDODRDTzlMakFqY3NGblFxbUZXMkVXclJ5ZGlmT2ZNYkx3M3A1ZmxsUnI2TElVTExPaTRxQ3o5cDdramw0SS1F?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 17:57:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "How China is preparing for the risk of AI escaping human control - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5",
           "pubDate": "Mon, 14 Sep 2026 17:54:02 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Drone strike on train is calculated escalation by Putin, German minister says - Reuters",
+          "title": "Drone strike on train is calculated escalation by Putin, German minister says - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSlFpU29qaEEtX2JOVTNyM19aY3VuN2NYQmtPUHRqS1hvOEZ5NG9MajZOcWxBbEtIVmkweXZjMkNwNWhKcjNucHBiZVNUanNwZjdUNWctOFdNXzZYVTdkcENKcVlxdnN1eElDbEVfUk1tN3hwUDg2bjN3Z3o2Vm1wUVFxTjdHYW5qSGZjeGRRd1hOMDd2cWMtZ0d4aXN4djVtSnJjZGFCMjVlNWpKVGd1ZVZ4c0N6OV82SXdjVlhLUDgzVFVKdEdoVHM2YzZZVjUtTEE?oc=5",
           "pubDate": "Mon, 14 Sep 2026 17:43:36 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Carney, locked in US trade war, pitches Canada to global investment titans - Reuters",
+          "title": "Carney, locked in US trade war, pitches Canada to global investment titans - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3JPQXNDM2tRbmo0bHhxcE5yaHVkZ2txeVd5T2IzUFpYWkFYZTNsWmloNEUybWhxa3ZPVDdlZ0F0VnBnTmRzM09TekhtRHV3WGRQc0QwSmZuTy10R3BGbUdUc2dkOW5PRGpfRWdpblRtRHZYcnFHMy1HOGljNVFzcW8yOEY5VXg1d3BQY3d5ZWZJRU1JZEQtNTl2bW85NEhCckZpeWRPYlNrY09FckpjbA?oc=5",
           "pubDate": "Mon, 14 Sep 2026 17:25:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US Senate Republicans release new crypto bill text ahead of critical vote - Reuters",
+          "title": "US Senate Republicans release new crypto bill text ahead of critical vote - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTUd0QXl4cFJlZFQ1SXRIdkhVMFVOZEZpNXpfNDgwbGU3ZTZlTV9vU0UyT0o1RUdsQm5HLTdsYm1hYmJSUVk3dURLSWFzTkY3QVkxX3hRWXpHYVhUeHUzWmRZNTJIWnRjRWo1RjYtT093aEQ5SmVRMmo1aldpcWk3Yk5DUG5TX2szYWlyUlpoVUlPeXNPQXNYRUFocld1NTZGNXc1OFFpV3FLem5sNU44YlB2RUtsNDBU?oc=5",
           "pubDate": "Mon, 14 Sep 2026 17:20:46 GMT",
           "source": "Reuters"
         },
         {
-          "title": "ICE arrests keep soaring. Here’s why they are not leading to more deportations. - Reuters",
+          "title": "ICE arrests keep soaring. Here’s why they are not leading to more deportations. - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3dabWl0MjZjcTRnanhHRlVySnpmNFU2ZUxIeEFaV1cyWUQweGVZY3JVRGJZOGRqcmhESWJPZ2RfSXFVeGt6Zng5dWcyeVlFSWhoYUZDLVh6TEtCbElUTmg0WWZpRkhISVFaTUo5d1JiOVotd2xTWU5tTHNndGhlZlNyemlkVnQ5by13eXVpa3BNb2NlRXFHU05LV1VaUkIxMnI0S1A1eWtvcGJiYkhUTEJaWkZ6U3FsZ2NtYnNzb2otN3Jr?oc=5",
           "pubDate": "Mon, 14 Sep 2026 17:20:41 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wall St falls as AI anxiety batters Nvidia, chipmakers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 17:03:38 GMT",
+          "title": "British man admits drugging and raping wife over more than two decades - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX19BSzI4LS1zdmNOM2tGTktsWVJMOXBvX1dUc2w0ZWhwX1Qwc2YwclpRWElkWUJtRUdJdWVqWktacTZIWHlRRjRvcGNXRklNaGwwOGJhc0NyTVNoMEV2XzF1RV9rLUlqY0hVNTVHaHFMeXI4MWltb3p0M0J0YWJUTkZoQkdSQ3N1UDVnek9rdEVuZV9yUmhFcG1MMWdDamg1X3lVNXBBMGdsSVAwTkVUelNXQlU4YTBKT2hF?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 17:17:05 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Netanyahu says Gaza documentary 'NAZA' is 'shocking incitement' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNnl2S3ozdURidW9XY0Q5dVZib2d6QS14aWtTdnJPT1djVnRqamJrMmtNZVllTU5WY1BIWmhyby1mXzRpM09VM1lndWRLVkZseFFCNVh3bmN1ZTh5OFVfcmpHNFh2R3Y2VFZQZGxkaUZiWnNudTZoXzBuRFBBR1E4OWRoZm91R2laaDhMSDFvLWY0SjBpUVBnWjNEeGpyd3JBaVJrdlNVQnJwMFVxOTVVT3Nzcw?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 16:53:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Musk's X Corp and SpaceXAI resolve antitrust lawsuit against Apple - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMDlqV0V1WnBGSk9WemJuZHB2WXhUMTlSMVFRYzltVmxfUjF1bzdycXZqMnVOUGFTTHJYbkxVc0JnTXB4NS1lMmllZmlYQWwzVFE5MWFLaURvcDJDNDRfMFQ4WmpwOENoX3ZXVG9oMXcycjlZN3dNc3BUNmt0R2FBNlVTSEVCZUlxaGJJaWtmLTg5RU1GMDR6SmFudlVtcHZCTGo3RG1n?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 16:40:42 GMT",
+          "title": "EU envoys extend Russia sanctions by seven days to debate six-month renewal, EU presidency says - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTYxSXhDTll0eGRna0pBbVlLRFM5VU1lMms4U2VSc3RhR1VVZUxyN0VXRmZKRkRLUkR6VFhlMmNNeDVSeTNnaDlyVVRkR0Z6ZUZZc1d2VmUxR0hvQXU0bU5QVWg3ZlVlRjNPMjRxaGFYY3V6VkljZWJvVHNFRTZVRGRHN3VUWURHMThrNk9sMGlhaElpUzhfaUZOaUcwUHd3VUJ5bnU2amlFYXJiNUdhU0hGVzJIVEMySjg0UHBpZmxkUQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 17:13:01 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T18:25:18.474Z"
+      "updatedAt": "2026-09-14T18:50:18.734Z"
     }
   ]
 }
