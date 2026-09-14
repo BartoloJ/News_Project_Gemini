@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-14T06:25:13.257Z",
-  "lastChecked": "2026-09-14T06:25:13.257Z",
-  "lastUpdated": "2026-09-14T06:25:13.257Z",
-  "generatedAt": "2026-09-14T06:25:13.257Z",
+  "fetchedAt": "2026-09-14T06:50:19.585Z",
+  "lastChecked": "2026-09-14T06:50:19.585Z",
+  "lastUpdated": "2026-09-14T06:50:19.585Z",
+  "generatedAt": "2026-09-14T06:50:19.585Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T06:25:12.044Z"
+      "updatedAt": "2026-09-14T06:50:18.847Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T06:25:12.435Z"
+      "updatedAt": "2026-09-14T06:50:19.136Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Steve Ballmer backs down on NBA punishment, apologizes as Clippers accept $30 million fine - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlVJRVg5MFNUSW9yZTRUN3BZaXpzY0dRRzhHTndZZGV2QmR0TzdCUGVMcTZIcnBRcXI4OGhiTjBsQmpWUGtyTmtpUzFBbFM0d1k5dm14WnRZUVNjT1BQUHBWUUlPTHZIUTRrZkJwcDI3VVhVTXUyODJXemRHemZiNXZPYTl4UGxzWFdDUXY3NkEtWlJpdkg0QndiQXk?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 04:51:00 GMT",
+          "title": "Second federal judge freezes Trump mail ballot order with US Supreme Court poised to weigh in - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjBDdzh4RjVfSHgyVUQ2dUlIbVN6MlNkNUdjRXRIQmxmcEttcm0yU0NQbHJTOGdiTm5zVVk3eGRheXQxbVJvNndsZFBEOE9MTGhKNjdmVEJSN2VjMmUwSExST1JmbEdUc2J6SFRZV2ViTExURTRDcEFzaFo1eExCdVdPY0JxOG9iRkhIWDU3MUdSTHI5QTh2LVVTcGwwRXIzUWtyRg?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 05:16:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Fighting in Yemen intensifies, and Houthis launch more attacks on Saudi Arabia - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmtucHBpX1JrQVh4ZVl5UDVCMER5bjYtb2NPcUVPZzFrZlZSZERNTjN3YTVKTDhxc3BzbkdMRS05YllDZ3VJeW03c2pRSHNmYkxKTnBWNE1IVm9VYndFdjZlQS0zck1zeUM0QTA4S0p5cUM5MTYxRjNxX052S2xOaXE1Ql9zYXBpc19SZThRR1VwVWpEbkFoNE1YMA?oc=5",
           "pubDate": "Mon, 14 Sep 2026 04:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 04:35:43 GMT",
           "source": "AP News"
         },
         {
@@ -142,42 +148,30 @@
           "source": "AP News"
         },
         {
+          "title": "What to Stream: ‘Dancing with the Stars,’ Carly Rae Jepsen, ‘Tony’ and ‘Marvel’s Wolverine’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTF9MWjV2YkMwQ241NHNoZ0dLRm40aWFkTGJKcnFzTWJkR29uNE1uVG9uQmlWUzlHYmo5b3ZkNHNPOW9GaFF3MVpzUzhpbjVxTEVmR3YyQkVHbW5FblpxNEUwcjY3c2VQQ1M1Yk9mU1FhQks5UjV5OTBpMFhCTHI2TzFJRUMwbi1XamktYXJjUXpGQXl3TTFFQTdwOGZwZEctS3c?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 04:01:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Russian drone hits train near Ukraine-Poland border soon after visiting dignitaries passed through - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRHZfY0FzWW9wU014clRQMGs0bEFxS1A3bU4wekR4UF9ubF9ua0VWV3ZyaVZYSXVSenp5SFFmbW5vdkpSOU1iQW1Cb0dPX2JsdFM1S0V4ZUprNTlqaE5JaW5FOGRFYzhpMGRKZkJ5SVJ1SEcyZi1FV3g0aGNFd0VzMEFKOUlickZEZ25kT0VZRTVWZnFKYTlVWXlCLXl4ekVPTFRvaFVB?oc=5",
           "pubDate": "Mon, 14 Sep 2026 03:50:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Japan’s biomass energy boom threatens further deforestation in Indonesia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd2tEY0Y4Mnl6cFlMUm84a3h3c2NZSko3OEZGODB1dFNJNTdTLXNvbFJJS3RMaThXYVRYaVJLNFplcEJqYkJ5S3YzS3FmNHBRRHJfOG9xdHItbnZYV3hzc2ktQVJ3VjdXREJ2Z0RHT2hiNzNORnRvR3dXZzBkVThpUjJ3NmIzQWRNTGxNVjY4cXBGb1FFcndqZUtIN2o5Z1dTbE8xeVIzNDZudEZ3ak9PazNUR1dNQ0k?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 03:08:20 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Stephen Root confirms role in ‘Grand Theft Auto VI’ - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONEJNTFUzRkJTVXhCbjNNS0xKNFJiMENwZ3F6UmVrZFo2RVhLWnI3ZlRpLUpUNGVnYW1vSWFyaVNJZDhydHNTWGRkWDE1VDg1WGU4OVM2VTVpeTYtREQ2RlpCcW1WU283ZTRMc1A3azJXNFlfMGRHTWh3WE02ZmVFT0YxZ25sZ2VmLXFoczU2bTBqX1M3VXlXSWRMQlh0SmdPSlRCcGtxUjUwTm8?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 02:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 02:51:05 GMT",
+          "title": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, citing a global shortage - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLS1ZV0kyb2w5c2szWC15SGgxZGVsMXM4dDNiVkdTdmRPcV9kQ001dnpkODMya0xkTWQtLWhoYzZsdlFUVFV5SnJaVGpUbUNaaW4xNEN0VTVGdDlRempoRzhMYV9PcGo0UWhjUkhlZnJMRHVVVzB6WDBybXVMY1dfM181b3JYXzZIclJpU0xHbjRPdVpmUUJpbHFvdTYwdHFOWUVVYmp2M3hsN1hhcGJSbGRSV1Vqak0?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 03:44:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T06:25:12.878Z"
+      "updatedAt": "2026-09-14T06:50:19.577Z"
     },
     {
       "name": "Reuters",
       "items": [
-        {
-          "title": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkNyZjhwWkFHcjR0aVV2b3lPNFROSy0tNDZBQVJpWE9JelJyVWhtNFJjWlY3OW56NmdXY2s3Q0luV1h1cGZnRXJiM0VzMWxqVDFROENnOEFFMHpPN2VfWXJYTjZ3TW1EWlZLdU16clZBN28wVlI4SXJYeWR1U3kzZlAyempIWXVhaC1LdWNKbVo3QS1YMjZucjZnd3FTdnNaWmpNd2phODkxTlFwcng2aWo3WjZhdUdCOXZBejRyaW5kdw?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 06:02:49 GMT",
-          "source": "Reuters"
-        },
         {
           "title": "Morning Bid: Shipping oil gets ever harder, costlier - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmJCUUMxaW05Wm0yazVud3pVRFlHLTJKai13QUcxaUhtX2dlTEJPcV9XOWZGSnRzdFRXejctZE1sUGZrcEd3Sy1JOUZxVktnQW9hVl9vbTVSdEhldXBEaUxQTlJRanQyWDFpQXNaTlE1UWUwaVgzMU8yTmF2dzFGYUNuUQ?oc=5",
@@ -215,14 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "Goldman Sachs flips forecast, now sees September Fed rate hike - Reuters",
+          "title": "Goldman Sachs, JP Morgan expect September Fed hike as inflation lingers - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTnlqS1c0ZUI3VGExTWl4c3VCbXVLUi1NMFZZNUNaMmdLYzR2RnRDZjFPbGhPVG83M2ZBSms4YTc0b04wMUtNTG9GWmJnM29BU1ZzOWpHTjVxWXhjNHd6TmhndFV0VWJEc2ZkVm45OWtTMEktQ2NBMEdsd3J0XzNTWE1SNXVUQ3hKWFQ1WUJKLVc1bjRVWlg5NnFyaw?oc=5",
           "pubDate": "Mon, 14 Sep 2026 02:49:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Samsung, SK Hynix reject KEPCO's $19 billion power prepayment proposal, document shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQjJHWHN4NlplMGhFY2FHN0tkOURPOEFjSlRzZFhZaDB1bWpEcFRKam93VnNscllYSkxHT1lKcVJhZVBpSkN4VlNRZG1CazRCMjZkUkFhYkcwV29kU1BzR3NLeTV5MU1BdDd2SHpMQnhYR0llVVFreXpTVXZsX3hvUkNXX0J6NnFzYktONVRNVWE5eDlNN0hGQ1JYaEZvUFJOcmJLUVBoTkVNQ3JObFFFQ0MydFpBZHJUdFU0dy1LLVFqd1NydjZ6M3dTdw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 02:45:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T06:25:13.257Z"
+      "updatedAt": "2026-09-14T06:50:19.585Z"
     }
   ]
 }
