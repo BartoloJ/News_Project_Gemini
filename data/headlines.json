@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-14T00:25:14.482Z",
-  "lastChecked": "2026-09-14T00:25:14.482Z",
-  "lastUpdated": "2026-09-14T00:25:14.482Z",
-  "generatedAt": "2026-09-14T00:25:14.482Z",
+  "fetchedAt": "2026-09-14T00:50:18.457Z",
+  "lastChecked": "2026-09-14T00:50:18.457Z",
+  "lastUpdated": "2026-09-14T00:50:18.457Z",
+  "generatedAt": "2026-09-14T00:50:18.457Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T00:25:13.108Z"
+      "updatedAt": "2026-09-14T00:50:17.316Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T00:25:13.362Z"
+      "updatedAt": "2026-09-14T00:50:17.581Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Trinity Rodman makes it from her soccer game to watch boyfriend Ben Shelton in the US Open final - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOelNuaUZlUm54YUZpZ0JnUUJaR1F1eXNMODlabmJlY3JKVFh3MVJmY2pDM2lveVJ3RmJuTnhkTUdkYTYyekttd2xyWE9Ea0hSLUxzSmFTT1h5S19SYkJIcjh2QjdqR1ZCcE9uUkc0Q20xdkY1eGlWdzUxY294cFZRdDhWd3NMSWRGMHdOT1hITjVxT1R5Vi1SZ2l3?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 23:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Alexander Zverev beats Ben Shelton to win the US Open title and extend a drought by American men - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVY4V2tRb2J6d3pfaDRmOVhyazVfMkVpaXpqZTV5WmdxRlAzQzEtaTYzMjVvMkh0X2E1OVRQa1U0NkE5SEVOU1J0dnRmakpxalQydWpaWlQzOHAxaXNITjVYNkdyU1RZLV9PdXlmZHpYRDNORGs5Z3FmZVBUcVJZQU8yZDZJb0xSX2xFd2ItSU9idlFLaWdjaA?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 23:25:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China - AP News",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5",
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGxnLXB4NGxDZEpHdHRsSGVZaTlqTTJZYkRJc3NSLVFkQmJRNUxDTmxfSC1lR2FIWW5RRUlkckN1OExobThVWkdxLVZGU3FwblBxci1qWFVyR3NxOHFBZVJxbFRZVjcwSGx4MjJla0VySTlPWmVWdkNLbkdGUkYwTmNIMk0wX2VvWDl5dGwtdUk?oc=5",
           "pubDate": "Sun, 13 Sep 2026 21:24:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Partial returns show close race between Sweden's conservative government and left-wing opposition - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOanNaU2dOb0c3MzZHbjdEeTc5ODdNOWhXOXJzNU5aNm56elRKSlo5UmRwdndlaTdKSkkySmxDVmdtaXJ3cmNzYzNIX0xrOHRNVmRwWHI0ZmM2SFlVMWQ1UVFkTVNjeUpEVnBMaXVuV1BMSDh3ZWxyTzBIRndTUDJmSlFOa0F1Y2RrbWtmc1ppWU9qSDZ3ZkRtX2dUWWdzcF9tTEJoVXp2TQ?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 21:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "GOP congressman from Wisconsin tearfully recounts surviving emergency plane landing in lake - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSi1MWjIxVEdEOGRaalhNcXVWN1gzUVdZai1HX1BiQzJLeVFvYjd1RC1xZlU4SHJjOFpFUDE0aDE5eU5INWFpRzFLWjQxLXIwN3V0ZVhYSDgxZkIzdjRTN3BVNDZaQkxFTVhtYUJvSEhXeTVTWVZQVVE2bkJNZXo1RlRQeTZmMEt1TXNvdlBIUVdNcUEyQnBaejd4bXVXOUpjbmdn?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 21:21:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T00:25:13.971Z"
+      "updatedAt": "2026-09-14T00:50:18.036Z"
     },
     {
       "name": "Reuters",
@@ -209,20 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "North Korea held live-fire drills involving artillery and missiles, KCNA says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVlRiVDh2ZmtPT2hPNkYzbGctSWQ5VjBXM1ZpVGh3OHUzSkUxZ3otYWtLTHVwSlhqdkNGaTZfNERJMUpPMTdvTWJab3VOSUZOdVNMTlhkWEVXTU8zbnV2b0pLVHlBMVd3T2haNVFkOTdfaWdscWFjRDhUNUpwU2R4NFhvUkhOUkZ4c0NMclpsMFE4TWNwMC1yOGpzTDZWbGtxS2ZqZnAwd0tXVzRLOUFBVS1tV2Ntc1pqT3J6eHdQZEpRTDhLdFE?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:40:33 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTFWNE1wQVNQdkFJRm1zVXZ1bHgzSTlxVTM5OTVPVVF2ZW9Gb3FFSXlwWXdfVUF6U2RZYVpucVBHcGxfaGIySEt5YW5KczRCT1VXdW1YZVFMZDUxR3hPTW9LQ3VIM2pRci02ZzBtTGxHWE9JOVgxd3o5dklha0sydUlRMTc1RGdRcnRUXy1lS1VRUTRKOTlLUGIwQ1p1SUhLeDVRdGF6aVN2R0NQMVBoNlNtLUc1djg?oc=5",
           "pubDate": "Sun, 13 Sep 2026 21:32:30 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Lamine Yamal double helps Barcelona beat Levante - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMU5fTzhIMjBkZWVOeEY4SlhDVFVtNm9Vb3I3cWxoSUZhd0Q0a1lQNmJjWGZkQ1FwREdxMnlBM1lwMDRyZ3Y0LWpWMHhlaVB5eVp5aDByemZaYjBJZ2ZPVkJyQVhWT1JqeFZTSWJHVC1tZHZwY093cF9oRVYtS2JzZVhTb1c3eUxEOEJhTFQ3Y3hvZEtzRk5qeGpHNU9pOFE?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 21:28:32 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T00:25:14.482Z"
+      "updatedAt": "2026-09-14T00:50:18.457Z"
     }
   ]
 }
