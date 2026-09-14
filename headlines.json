@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-14T07:25:15.238Z",
-  "lastChecked": "2026-09-14T07:25:15.238Z",
-  "lastUpdated": "2026-09-14T07:25:15.238Z",
-  "generatedAt": "2026-09-14T07:25:15.238Z",
+  "fetchedAt": "2026-09-14T07:50:15.681Z",
+  "lastChecked": "2026-09-14T07:50:15.681Z",
+  "lastUpdated": "2026-09-14T07:50:15.681Z",
+  "generatedAt": "2026-09-14T07:50:15.681Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Bali police investigate after Australian man and children found dead in home",
+          "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 14 Sep 2026 07:15:35 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Hyrox athlete sparks debate for continuing race after soiling herself",
           "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
@@ -48,22 +54,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "US congressman swims to safety after his plane is forced to land on a lake",
-          "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 13 Sep 2026 15:30:43 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T07:25:12.888Z"
+      "updatedAt": "2026-09-14T07:50:14.646Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "Indonesia searches for 129 people missing after ferry capsizes",
+          "title": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
           "link": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
           "pubDate": "Mon, 14 Sep 2026 02:20:28 -0400",
           "source": "NPR"
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T07:25:13.226Z"
+      "updatedAt": "2026-09-14T07:50:14.689Z"
     },
     {
       "name": "AP News",
@@ -121,12 +121,6 @@
           "title": "Second federal judge freezes Trump mail ballot order with US Supreme Court poised to weigh in - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjBDdzh4RjVfSHgyVUQ2dUlIbVN6MlNkNUdjRXRIQmxmcEttcm0yU0NQbHJTOGdiTm5zVVk3eGRheXQxbVJvNndsZFBEOE9MTGhKNjdmVEJSN2VjMmUwSExST1JmbEdUc2J6SFRZV2ViTExURTRDcEFzaFo1eExCdVdPY0JxOG9iRkhIWDU3MUdSTHI5QTh2LVVTcGwwRXIzUWtyRg?oc=5",
           "pubDate": "Mon, 14 Sep 2026 05:16:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 04:58:16 GMT",
           "source": "AP News"
         },
         {
@@ -142,21 +136,15 @@
           "source": "AP News"
         },
         {
-          "title": "Mouthfeel joins flavor as a food industry focus to satisfy consumers craving extra texture - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2JoSmFiYU9KSnpDNGw4aU05bGJldjU1QnpkODVFYkV4VnN5cUJSVWxWaVJPOS1lcm9qQ3Jxa1FLMlVsREpUeDZGbTRMaUN4Wno3WDRXRTVobUFLTTdTSnJ5aml4eTVjaG15WmFvOUlPTFIzRFgtTWR1a2ZmenBvSU5TUXc5bXJmelVnSTNtRXhHem5oNnJEcERESXNaRDdpb1ZnSzBqSWQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 04:14:00 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 04:35:43 GMT",
           "source": "AP News"
         },
         {
           "title": "Russians are still fleeing abroad, citing fears of a new mobilization and a loss of freedom - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0doTlJTMWhqbzFNQ2RndnBiT2gzdlhqU2taaThFSGVfenVmdVNoWlRITE1YeDROTW9fYXctMk5CLUNLanctdXlUcUtvNHctZ0hUQy1LM2RQaW4wSDZsa3JUdkJfRXhGSkFrVnJ4QXg3X3FNb0doQ1VfVXFUcEYzYWZON3ZSWGVHNGc5c2pTazlyUlFQRmtMdWYtZ3F3WFMwc0plbnUwMDVwcDQ2?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 04:13:37 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "New warnings about the risks of AI to humanity revive a long-running debate - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3RtcEE3SVFlTXAycXRkTkFmUjBzN0MtWGQwajY2ZjhpZjFLelF2TzFhN2Z4T25fanRuZ01aQ05MY3dzQzUycjc1eG5Vc0EzMmNfZ21FTU9nT2xnSzVHQW56eE9Rdl90Wk9DcGpCNWtoUFE5TGhWelFma01rOFZJT0hlTFdzd0dTQ2FSMWNBTUE3NGkzd0Rkc3ZtRGhOZ0xmRTVuX0FXUGQydkp4V1MzOUludm5KdXpz?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 04:09:00 GMT",
+          "pubDate": "Mon, 14 Sep 2026 04:07:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,14 +152,38 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTF9MWjV2YkMwQ241NHNoZ0dLRm40aWFkTGJKcnFzTWJkR29uNE1uVG9uQmlWUzlHYmo5b3ZkNHNPOW9GaFF3MVpzUzhpbjVxTEVmR3YyQkVHbW5FblpxNEUwcjY3c2VQQ1M1Yk9mU1FhQks5UjV5OTBpMFhCTHI2TzFJRUMwbi1XamktYXJjUXpGQXl3TTFFQTdwOGZwZEctS3c?oc=5",
           "pubDate": "Mon, 14 Sep 2026 04:01:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Russian drone hits train near Ukraine-Poland border soon after visiting dignitaries passed through - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRHZfY0FzWW9wU014clRQMGs0bEFxS1A3bU4wekR4UF9ubF9ua0VWV3ZyaVZYSXVSenp5SFFmbW5vdkpSOU1iQW1Cb0dPX2JsdFM1S0V4ZUprNTlqaE5JaW5FOGRFYzhpMGRKZkJ5SVJ1SEcyZi1FV3g0aGNFd0VzMEFKOUlickZEZ25kT0VZRTVWZnFKYTlVWXlCLXl4ekVPTFRvaFVB?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 03:50:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, citing a global shortage - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLS1ZV0kyb2w5c2szWC15SGgxZGVsMXM4dDNiVkdTdmRPcV9kQ001dnpkODMya0xkTWQtLWhoYzZsdlFUVFV5SnJaVGpUbUNaaW4xNEN0VTVGdDlRempoRzhMYV9PcGo0UWhjUkhlZnJMRHVVVzB6WDBybXVMY1dfM181b3JYXzZIclJpU0xHbjRPdVpmUUJpbHFvdTYwdHFOWUVVYmp2M3hsN1hhcGJSbGRSV1Vqak0?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 03:44:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T07:25:14.743Z"
+      "updatedAt": "2026-09-14T07:50:15.259Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Swedish centre-left opposition in pole position to take power after tight election - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNF82STlxaHhSdXNSOE9GbjlTLTR2RFJPelVUblRjOEp5YURhWTZuNE5YMmRlT1MtcWhuNzU2eVhNY3BtSjdXcUo4VDBSb0VpQXNIQVkxZHZSY3V6VTNQd3lGc0tfeHI4MVZZRDRpbUN6bXgzSzdQUlNVaHA1TzJtYUlzZm82MDVfSHZrQzJLdXBTaWhUVXBDR292Y3pPUENiVWk0dFhwTEJzbjZlTTJNaFNIaUVBSU1jNzh2S3V4SW9VWUE?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:02:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tesla sets up Vietnam unit, registration filing shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVlhjekljQ29vcFQzX1dHelBYeWJHUTdQNTd4U1FGZ1Vsc25FTkNKMVpLalBzZTZmOXdIWkEwRWkzSm50Y0h3bmV5ZWN6dlhSRVgtTnhkOUhrdVVfb2pqVUduNjA2c1FwRHU5X2ZXdGp6Z2lSNlZ2ZGtFMVdIOWVJQ1k2Z3dWeGpZQWJyRmJwRmY4c0g4MGo2c0R1dG5LRXNCS2JGQUpTSDZDNjQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 06:11:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Dollar firms, yen wobbles near 7-month high ahead of Fed, BOJ decisions - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzNkV09NNEdQWTNoSFp6dGI0bWxzUU82ZWQ4TjZfWVI4bWZibFBJNVVBRmZpMC00WWVKdExyZUhKTEttU3pRTWczSEhMbVR4RzdSeHhBd0tnQy04aGVzMTcwZEJjenRKNGRhcDZQeWx3YTVhTkUxZC1tbnNud3ZyS1JYTmpFTDU4OXRjcWdaeTd0ZXRzaUxMM2VQUy11YXZidmRHVDU4VkJQbHExRHVXUUh5dw?oc=5",
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "AI-linked Asian stocks slump after top lab CEOs call for slowing down technology's development - Reuters",
+          "title": "AI-linked stocks slump after top lab CEOs call for slowing technology's development - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTRDc1JSdWVDTmE5WmI2MEFCWGgxWUdvcGRNNlNjNXNiMmlaRGhLYmpOUGhFbGNQQzI0cks4Wjk3a0JFaE4wdUVDdFJUangyS1ZOWFRZOUU3VmdjblNOb29feDFwRkRQNDR6WGw5Z0xxMUhTeEhqNGxYanNuSHBDcjRhRVRSYjhQTHBTTXBjZnF3MnA5NnR1TkNLWFZLNXJrd19VRUNaMTg1ZzlKbTB1RnV0VVM2cG84aTdEWGZ3bHRVY2M?oc=5",
           "pubDate": "Mon, 14 Sep 2026 04:00:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Gold slips as oil rally fans rate hike bets ahead of Fed meeting - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmx1T0lGQjE3MEJmVkdNRXl5eXpxRzNrQk0zQUJzdGNqcXhEWTA3TW5iZVFIVDBuTVZ3ZU5EWHVRektNVVlXUFpfV29tNmlPcHZtVXQzOF9Oa055ZEloY3p6UEpvMTAtNWtHekV1MTVUbzNnZVhqU25aZjQ2aW1UZDB4aktQdjI0MGlZRnZueUN4eGRJWEdreWJXdF9fMTNhTVNOVTdKQ1JKQQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 03:48:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "French extreme candidates steam ahead in 2027 presidential race, poll shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXNmWngyTU42TUVWT2padmJfQ0xjRnNacVhIdFhGX205a3RKcU5oQkNoYm9JU2xoVFFoTURNTlc1WUNZUk9fSlFJbTNWdElOY0pNRk9BZDItcHdJQThGTFNWUERCNl9KcUpvT0F1bDF6ZWhwQ3NKWmI5VW11dHRYMElFRmg0cU1iQXc0Y2RhRVdHLURCUEVabWdOWkNCbkl3NW1lZXdZUEFHdGRnU2t4YVlKZw?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 03:05:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T07:25:15.238Z"
+      "updatedAt": "2026-09-14T07:50:15.680Z"
     }
   ]
 }
