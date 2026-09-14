@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-14T06:00:21.790Z",
-  "lastChecked": "2026-09-14T06:00:21.790Z",
-  "lastUpdated": "2026-09-14T06:00:21.790Z",
-  "generatedAt": "2026-09-14T06:00:21.790Z",
+  "fetchedAt": "2026-09-14T06:25:13.257Z",
+  "lastChecked": "2026-09-14T06:25:13.257Z",
+  "lastUpdated": "2026-09-14T06:25:13.257Z",
+  "generatedAt": "2026-09-14T06:25:13.257Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T06:00:20.433Z"
+      "updatedAt": "2026-09-14T06:25:12.044Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Indonesia searches for 129 people missing after ferry capsizes",
+          "link": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
+          "pubDate": "Mon, 14 Sep 2026 02:20:28 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
           "link": "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
           "pubDate": "Sun, 13 Sep 2026 10:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk",
-          "link": "https://www.npr.org/2026/09/13/nx-s1-5964863/politics-chat-trumps-5-000-promise-to-voters-vance-invokes-charlie-kirk",
-          "pubDate": "Sun, 13 Sep 2026 08:04:27 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T06:00:20.864Z"
+      "updatedAt": "2026-09-14T06:25:12.435Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T06:00:21.344Z"
+      "updatedAt": "2026-09-14T06:25:12.878Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkNyZjhwWkFHcjR0aVV2b3lPNFROSy0tNDZBQVJpWE9JelJyVWhtNFJjWlY3OW56NmdXY2s3Q0luV1h1cGZnRXJiM0VzMWxqVDFROENnOEFFMHpPN2VfWXJYTjZ3TW1EWlZLdU16clZBN28wVlI4SXJYeWR1U3kzZlAyempIWXVhaC1LdWNKbVo3QS1YMjZucjZnd3FTdnNaWmpNd2phODkxTlFwcng2aWo3WjZhdUdCOXZBejRyaW5kdw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 06:02:49 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Morning Bid: Shipping oil gets ever harder, costlier - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmJCUUMxaW05Wm0yazVud3pVRFlHLTJKai13QUcxaUhtX2dlTEJPcV9XOWZGSnRzdFRXejctZE1sUGZrcEd3Sy1JOUZxVktnQW9hVl9vbTVSdEhldXBEaUxQTlJRanQyWDFpQXNaTlE1UWUwaVgzMU8yTmF2dzFGYUNuUQ?oc=5",
           "pubDate": "Mon, 14 Sep 2026 04:33:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hormuz shipping traffic remains below 10-day average at weekend, data shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLUFxSXdtaTdhRlc0cWc5b3VuTU5MNEMtdXVGTk1aeGcxQndiaEJOVC1BVjNfLVJRSmhqamgxUVhrc2JBcXRxSnNoNzNDbk5jUGROOUduSkR1MjduOTMtZFRCV190WEhTaGNOMEcxZVEtYjVVcnNMMmktYnhwWTdwcDRrMEJKcW9WOHpxUXFkZTBMRnFhZUVWbm05bm1kUDBBZm1jY01La1E2SHhlUmhsS09EUE1kTU0?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 04:18:00 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTnlqS1c0ZUI3VGExTWl4c3VCbXVLUi1NMFZZNUNaMmdLYzR2RnRDZjFPbGhPVG83M2ZBSms4YTc0b04wMUtNTG9GWmJnM29BU1ZzOWpHTjVxWXhjNHd6TmhndFV0VWJEc2ZkVm45OWtTMEktQ2NBMEdsd3J0XzNTWE1SNXVUQ3hKWFQ1WUJKLVc1bjRVWlg5NnFyaw?oc=5",
           "pubDate": "Mon, 14 Sep 2026 02:49:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Samsung, SK Hynix reject KEPCO's $19 billion power prepayment proposal, document shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQjJHWHN4NlplMGhFY2FHN0tkOURPOEFjSlRzZFhZaDB1bWpEcFRKam93VnNscllYSkxHT1lKcVJhZVBpSkN4VlNRZG1CazRCMjZkUkFhYkcwV29kU1BzR3NLeTV5MU1BdDd2SHpMQnhYR0llVVFreXpTVXZsX3hvUkNXX0J6NnFzYktONVRNVWE5eDlNN0hGQ1JYaEZvUFJOcmJLUVBoTkVNQ3JObFFFQ0MydFpBZHJUdFU0dy1LLVFqd1NydjZ6M3dTdw?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 02:45:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Amazon pauses operations with 21 Air after Miami cargo plane crash - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcnJsa05Bbzd5N2N0ZGpYZjRYWkVWSDV2SGRMUjQtXzdmYUh2cWV5cDk1c3VsM1N0QlpJcHRuX0pNVHozUGNGSzRmNzFCWUV4Z3BVS0JNeWs2NzhzZkd2Z1RMUUgtTEZlcFY2QlY0TGt0bWd6R2lHaURGMU9ScHRBQVZHcTNySWRWQnZFV0VtVWRJZlVndzdkMjcyLWpGTFpkVWxXV0d4WDF2cXNTYVY5a080alB5ZUNxUjl0TEN6WQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 01:07:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T06:00:21.790Z"
+      "updatedAt": "2026-09-14T06:25:13.257Z"
     }
   ]
 }
