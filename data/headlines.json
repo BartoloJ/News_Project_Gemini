@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-14T09:25:16.037Z",
-  "lastChecked": "2026-09-14T09:25:16.037Z",
-  "lastUpdated": "2026-09-14T09:25:16.037Z",
-  "generatedAt": "2026-09-14T09:25:16.037Z",
+  "fetchedAt": "2026-09-14T09:50:19.234Z",
+  "lastChecked": "2026-09-14T09:50:19.234Z",
+  "lastUpdated": "2026-09-14T09:50:19.234Z",
+  "generatedAt": "2026-09-14T09:50:19.234Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T09:25:14.306Z"
+      "updatedAt": "2026-09-14T09:50:18.206Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "New Carlo Rovelli book challenges science's understanding of reality and the universe",
+          "link": "https://www.npr.org/2026/09/14/nx-s1-5968442/on-the-equality-of-all-things-physics-carlo-rovelli",
+          "pubDate": "Mon, 14 Sep 2026 05:44:44 -0400",
+          "source": "NPR"
+        },
         {
           "title": "ChatGPT has a feature to help those in crisis. But where can you find it?",
           "link": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
@@ -103,79 +109,91 @@
           "link": "https://www.npr.org/2026/09/13/nx-s1-5966920/what-to-expect-from-talks-between-iran-and-gulf-states-in-oman",
           "pubDate": "Sun, 13 Sep 2026 17:03:12 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Wisconsin congressman survives emergency plane landing, swims to safety",
-          "link": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
-          "pubDate": "Sun, 13 Sep 2026 13:45:33 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T09:25:14.574Z"
+      "updatedAt": "2026-09-14T09:50:18.248Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "GOP congressman from Wisconsin tearfully recounts surviving emergency plane landing in lake - AP News",
+          "title": "Indonesia intensifies search effort for 129 people missing after ferry capsized in Java Sea - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWNnZFhMa2h2T1NjYy00WThJeGl4VjlhRmtrSU12MEtyQTRYRnF1a1BQQks5SGNwS2xSTlNidzVzLVJWVUJtSG4yMTdkRERKcVNsWlk1Q3gtN2tEZUo5UzFvQW5TbkVHMW9EUmt5dnlCZUJ1WndQZGlXUkhRc2ZnTHVWUGR4MHBzbUQxMWZ6VDJYMHZkRDREYl9xR3VqU0JJX0duZWs5Uzg?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 09:16:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, citing a global shortage - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLS1ZV0kyb2w5c2szWC15SGgxZGVsMXM4dDNiVkdTdmRPcV9kQ001dnpkODMya0xkTWQtLWhoYzZsdlFUVFV5SnJaVGpUbUNaaW4xNEN0VTVGdDlRempoRzhMYV9PcGo0UWhjUkhlZnJMRHVVVzB6WDBybXVMY1dfM181b3JYXzZIclJpU0xHbjRPdVpmUUJpbHFvdTYwdHFOWUVVYmp2M3hsN1hhcGJSbGRSV1Vqak0?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "GOP congressman from Wisconsin tearfully recounts surviving emergency plane landing in lake - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSi1MWjIxVEdEOGRaalhNcXVWN1gzUVdZai1HX1BiQzJLeVFvYjd1RC1xZlU4SHJjOFpFUDE0aDE5eU5INWFpRzFLWjQxLXIwN3V0ZVhYSDgxZkIzdjRTN3BVNDZaQkxFTVhtYUJvSEhXeTVTWVZQVVE2bkJNZXo1RlRQeTZmMEt1TXNvdlBIUVdNcUEyQnBaejd4bXVXOUpjbmdn?oc=5",
           "pubDate": "Mon, 14 Sep 2026 07:52:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "A Muslim region in the southern Philippines votes in its first elections - AP News",
+          "title": "A Muslim region in the southern Philippines votes in its first elections - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZktXOEtaNERGbC1McWZMazBsVXNiWDJOVllqUndvbFZlRVhXd1UybDBJVGJ5eFFYUlRyN2JBUWYyckc0ZzdfWVpQZThIR05IRS05S05TbzB5NEFvTnNvalhELTkxRVBJUFNOWnVrX3ZlU0l1Y2VXbUVFZ2t1eWNIV2NoUnptaE9CN2VnU1diQk5PZ1hHQ3JLT2NVVHpoQQ?oc=5",
           "pubDate": "Mon, 14 Sep 2026 07:51:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Asian shares decline and OpenAI investor SoftBank shares plunge after calls to slow AI industry - AP News",
+          "title": "Asian shares decline and OpenAI investor SoftBank shares plunge after calls to slow AI industry - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
           "pubDate": "Mon, 14 Sep 2026 07:41:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "title": "Sweden's next government uncertain with thin lead for left-wing opposition after tight election - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlZ1SWd6X2txTlBEck5wcW5TM19ic1Rrb0hLSDhHcXpCN29wa29hMGYzT0J6WUhlMjJVbXBIWTZVN0hSUVRMMzFHMjMyQV9IMXZDRUlnekk2LU1jSTEydV9ia0JSSjdZZ0RzSzJOX1dtMm9WeFEzd29QQ3pvUEhYalNxNkhuZG9OYXhTR1ZWcW1yeHFKUWhhU1ZtcHJwdVlHX1lsX2d4Z3pzeGg2?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:31:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Electric mobility brings Africa’s energy transition into the wild - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYkYtVkxjMEUyczRtaFFBZnhQMk5OWHk1LXRtbHFSU2tuZFo3NFpjVnlFeWI4ZGVIT3hFS0lkN0pmUkhzbkMtaTRCU3dYSDdUWnN2dXZ6NFdCWW1lMkNqT29oNTN5czZxWFh4U1NaWXIyaUQwU1UtSEJaWlV2QlBGdnRBT2dnV3FNLWxQckJLVTFuOUxEMFdrN1N3N0lVYjA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 07:13:49 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWNnZFhMa2h2T1NjYy00WThJeGl4VjlhRmtrSU12MEtyQTRYRnF1a1BQQks5SGNwS2xSTlNidzVzLVJWVUJtSG4yMTdkRERKcVNsWlk1Q3gtN2tEZUo5UzFvQW5TbkVHMW9EUmt5dnlCZUJ1WndQZGlXUkhRc2ZnTHVWUGR4MHBzbUQxMWZ6VDJYMHZkRDREYl9xR3VqU0JJX0duZWs5Uzg?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 06:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Swedish election ends in tight finale. Preliminary results give opposition a 3-seat majority - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOanNaU2dOb0c3MzZHbjdEeTc5ODdNOWhXOXJzNU5aNm56elRKSlo5UmRwdndlaTdKSkkySmxDVmdtaXJ3cmNzYzNIX0xrOHRNVmRwWHI0ZmM2SFlVMWQ1UVFkTVNjeUpEVnBMaXVuV1BMSDh3ZWxyTzBIRndTUDJmSlFOa0F1Y2RrbWtmc1ppWU9qSDZ3ZkRtX2dUWWdzcF9tTEJoVXp2TQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 05:58:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Second federal judge freezes Trump mail ballot order with US Supreme Court poised to weigh in - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjBDdzh4RjVfSHgyVUQ2dUlIbVN6MlNkNUdjRXRIQmxmcEttcm0yU0NQbHJTOGdiTm5zVVk3eGRheXQxbVJvNndsZFBEOE9MTGhKNjdmVEJSN2VjMmUwSExST1JmbEdUc2J6SFRZV2ViTExURTRDcEFzaFo1eExCdVdPY0JxOG9iRkhIWDU3MUdSTHI5QTh2LVVTcGwwRXIzUWtyRg?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 05:16:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Steve Ballmer backs down on NBA punishment, apologizes as Clippers accept $30 million fine - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlVJRVg5MFNUSW9yZTRUN3BZaXpzY0dRRzhHTndZZGV2QmR0TzdCUGVMcTZIcnBRcXI4OGhiTjBsQmpWUGtyTmtpUzFBbFM0d1k5dm14WnRZUVNjT1BQUHBWUUlPTHZIUTRrZkJwcDI3VVhVTXUyODJXemRHemZiNXZPYTl4UGxzWFdDUXY3NkEtWlJpdkg0QndiQXk?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 04:56:00 GMT",
+          "pubDate": "Mon, 14 Sep 2026 06:22:22 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T09:25:15.548Z"
+      "updatedAt": "2026-09-14T09:50:18.709Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Indonesia's president sacks finance minister, promotes deputy - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTXk2ODI0TWUxUDZCM0FULXNEWlJoY0lGSGxhZndSREZYM0RjaVUzYTlJRmtRNVpCVzlqeGtyUzFVRU9OUDNQekZaR1Vfc2laYkQwY0t6TVNWRHNRenFaZlNhV2Y3M25tN19SNlNsZWd3NHVTWDBsNWVBc2JFS0MyejUzaEExWXo2SzVFd3d2WjZzejI1N1lKajlfQ3N0UUM4RlZkT0hnT1plUFk3bkQwa3BBdk5oRnhaQ1NKNFB4bHFubm13N2c?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 09:04:54 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Indonesian president names Suahasil Nazara as new finance minister, official says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlUtTWI0V28xeDlKSFRLbHdwXzVYdGw1Mmswdi0yclQ2aFdkQTlMWW1sb3RLeU1hRTVyUWRpWUZJUUx3aHJ6cTdUTWs3dWtBNTd1NVZvQUFpZU5rTGVnVkItWVlmMUlTOG5iZF9xRWJJc29lRllpend5RVVwd1VBSkNsMzR1bWgxRTVncGtPWHhQVDljVnhvQV9GX1dvWkJvOVNQRXdsNm1yWmhQUWpKb3RpY0NpUGgzWTlPRllfNzdobkZIOThRY2NVOXQ?oc=5",
           "pubDate": "Mon, 14 Sep 2026 08:42:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China Gas signs 20-year LNG import deal with US-based Venture Global - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWxlM2NTeFhjVlduRnZUZldDRFIwbzQtX21QY1hTNjdmZEp5MG9XdWNJRWlwZlowQkstYkQwV2ljbl9TeW1vemZ3M19GOF8tanFocjZQTDNjRmVGbmZtVlJkZkdSRWlSVDJiWm5qUnlJa2ZqMUZ1U1FBTFJ4Q05OeXRMN3U3R3l4NEpoMlFlMHBrVldTaWRtWkllaVlfdnZPNlZ4aUxtaVpTYm1ONUhJbFctV2JwQ25NOVNMRA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 08:36:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hugo Boss chairman to step down as Frasers pursues takeover - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeWd6NDN0Uk0xSVlxN2ZjS2dFTnpYSkF4Q29jZHpBX0N5cUFzX0Z5cHgzZGxsSUhmNmMyNDl2M2ptcHZ1eDZQMWdzMkN4dlJkZVE0bGxPbDB3dWZLTnlPU05nSGo2UXFyQ1lNWURITlN1YVk3V1hDa0RDV3dRWHI0elhLdmZKWXhLMTJ1ZUJLNEZjcTVWQUZFTXNnZV9yd2RzRElHeXVZWFlic0NLYkZKT1ZFT1A5X2VETnRQRGRR?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 08:25:41 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTBsQlVVMThMRmZ6a3gxOE5lRG1fbENPRnEwUmlWN3pXNUdGT1ZhMDZOQnFMbGZWZUk5ZTQzYUd0VVByOXdZVy01ZE85UTJ2dVBIZW1EX0ZzZjVaRjRyc09PTkpGQlJQc0JGQmh3b1J0NkllWFItWHhaNTVIRUxrbEJVaWQyVkpfcm0zcks0X1ZZdw?oc=5",
           "pubDate": "Mon, 14 Sep 2026 07:49:59 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: IPO for humanoid robot maker Boston Dynamics unlikely in 2027, executive says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9xNjNSb3NaNnQtX1dBNzV0WmJFTFdCRS1uLXkzQUt3OTJFTmxzWUZ0c2l2RFUxZGU1R1lKcHgydDBURVozRmlZTU41aXZvVTBuQmFfM2RUSFJFVmRnY2w4Qm1fWEFUdnpoVVFCd3o5RFRncjhaNGN3NHNVaHNqUFhFMnBJanJHM1lCSHlmTzN3dFJqT2RKY3N0TG9keUo3al94SEJCSGlnT3drTjU0UF85Rkt3YU14U21TTXZqcURKY09XUF9V?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 07:13:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Facts about Nigeria's Dangote oil refinery Initial Public Offering - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkdiZlZGd2FuZ05TaF9qcDQtTkpZNkJWaGZoTXZVcWE3M1FWWU4wUlo5a3FQMHU1REFLWnhSczRZdlJFUGRkRXZ2Q3pBTUI4Uzl2dUR5MTVwV0pmam1NTFhRakxHSjl5QUxxUjE4VDE0ZUhQZHE0aTVseHNFYWJqbzRiMTByeHg2SUFoR0J4Zm5ydG5mQkhVVlVPNnFLQWYxNTAtRmJCaUhrU054QkNZT24xMkdUR2l6?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 07:03:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Germany eyes fresh start with Hungary as foreign minister makes first visit since Orban ouster - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMGhjaXBuRkxYUHdSQmN6VTNTWjJ1YXhMeTdlZElQZGRxX0t5QmJxQ3FyX0xBQUduamdqRmpuZGs5VDdxcEFmbDJQOGwwdGJHMVJfaWl2REtHV1pfNGtnWVNDRXNZX2FSb0ZfZi05UVgtWUl6dllNb0NJeHJNSWlscHp6SWxMcTJ3S0s4bnVYdVhXVkRFMDJFNlgtSFQ4d0ozR3drZjZWa3FKWnJKMkRUODlkV1dTZGtCbEUtOQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 06:54:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T09:25:16.037Z"
+      "updatedAt": "2026-09-14T09:50:19.234Z"
     }
   ]
 }
