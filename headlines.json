@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-14T14:00:21.795Z",
-  "lastChecked": "2026-09-14T14:00:21.795Z",
-  "lastUpdated": "2026-09-14T14:00:21.795Z",
-  "generatedAt": "2026-09-14T14:00:21.795Z",
+  "fetchedAt": "2026-09-14T14:25:15.789Z",
+  "lastChecked": "2026-09-14T14:25:15.789Z",
+  "lastUpdated": "2026-09-14T14:25:15.789Z",
+  "generatedAt": "2026-09-14T14:25:15.789Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Wild dogs record 2,500-mile trek across Africa in search of a mate",
+          "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 14 Sep 2026 14:08:12 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
           "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 14 Sep 2026 08:36:09 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Bali police investigate after Australian man and children found dead in home",
-          "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 14 Sep 2026 07:15:35 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T14:00:20.554Z"
+      "updatedAt": "2026-09-14T14:25:14.574Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one",
+          "link": "https://www.npr.org/2026/09/14/nx-s1-5968566/francesca-moody-fleabag-producer-hits-edinburgh",
+          "pubDate": "Mon, 14 Sep 2026 10:03:14 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
           "link": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
@@ -103,20 +109,32 @@
           "link": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
           "pubDate": "Mon, 14 Sep 2026 02:20:28 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
-          "link": "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train",
-          "pubDate": "Mon, 14 Sep 2026 01:46:26 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T14:00:20.883Z"
+      "updatedAt": "2026-09-14T14:25:14.848Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "New warnings about the risks of AI to humanity revive a long-running debate - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3RtcEE3SVFlTXAycXRkTkFmUjBzN0MtWGQwajY2ZjhpZjFLelF2TzFhN2Z4T25fanRuZ01aQ05MY3dzQzUycjc1eG5Vc0EzMmNfZ21FTU9nT2xnSzVHQW56eE9Rdl90Wk9DcGpCNWtoUFE5TGhWelFma01rOFZJT0hlTFdzd0dTQ2FSMWNBTUE3NGkzd0Rkc3ZtRGhOZ0xmRTVuX0FXUGQydkp4V1MzOUludm5KdXpz?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 13:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Pope celebrates his 71st birthday but it’s Vatican employees who get the gift - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc2FqWENuMjhXNklFZGU3UkhILVYwYmdCS2NBX2VwM3RKcXFoUkVicHNxcXZHZklsMG1xMlZGT0l1RF8zQk0yLW96azBKaEdFaG1CM09JWkFRbG9fUGc5RHdNNThFb0ZWcEVRR1NhcEx3YUZzYTVSWFFGVTNTaGVydTRDVzd0LWdDU01OeVRnR3JJRkZBaF9DTQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 13:21:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A Christian pastor called Arapaho ceremonies 'idol worship.' Now the tribe wants her church gone - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZnpSQ2pEVmNGMDMyYlE3NE55eWpYUnBVQTVIanFDTWJQdGlwbHctb3RGVDlGT2VPdjJpcTVTREpWbkJRcml6aFpqd0VPcVVZRkE0WlhzQklLWWpyRVdxMWxkaXdWaUs3RThQdVVRZVhCVHNOMlYwZXk1NWRrUmZRU2MwdWl1ZGZtNTNFR29oZmdlRko3UzV6M1ZEVmNrdzAyRlhQUmMtVk93SjhqblE?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 13:09:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
@@ -136,38 +154,20 @@
           "source": "AP News"
         },
         {
+          "title": "New York Yankees say Legionella bacteria found in stadium cooling tower not linked to outbreak - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUpyRTlSajFCT0hmd3BrYkJ1Rm00YTMyYlhEUF9neEJhanE2dUNYYzhPam5CSkJhYlpBY3R6bkljVjBHVkxUTlloUW0zaXpkNXZLWlFlYjhaVURhZ3RQcjNGenJ2UzBEZUs4eDJHenZRcm55cUdtVEIzemR4UFctMEVDaUVXN1hCZFB5cmpxbXd5c3oydk43RWoxaEo5c0xT?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 12:28:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "US futures slide on AI blowback; oil and gas jump after Houthis intensify campaign - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
           "pubDate": "Mon, 14 Sep 2026 12:18:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Africa's biggest oil refinery opens to public ownership, sparking excitement among retail investors - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWZMcnJidWlQN3NjYlh3TWtDN1RYVS1GbmxaMGExRUpXMG9KV1l0clVSbk9YQS0yMktOemtkakxvNmZlTjktQ3hheDBCRWhkMHNDbWtJT0c1M09BblduNlRraTRObEF3a0lZY3pVLVRoM0dwSGx0SFdVUXRsWEFpd1lmUWdvSktMbDNMdQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 11:35:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran denounces Austria for blocking its nuclear chief from a meeting in Vienna - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbENBOFRuNGZxZ1hDbVJweTBSZUhLS3NyZVhUeExqczVwVmM4TWowZnBpWEZDUVVqY1ByMWFMeUNVeVFkcHJWWk51NHV4X0RHOVJvVy1mRU9mNWx4MG5PZFU5Tm9qaU1XajlPallLOVl0SjBqaUhua1Q0Smt6QmVwamIzVlFnUWdwR19IN3gxV2djY0RmVVp6TXFyMnMxRm01V2wxb2ZB?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 11:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 11:28:50 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Democrats and activist groups plan to push back if Trump tries to interfere in midterm elections - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmpnZDNuY1NGY3RsRmNPOFllZlNuMnlLaVRYRVlVZC1vZGNwcTlIbEVRMlRHalAyUy1XeDQtYkV3eko0MXZxcGdXZ2RZbmNQZm44YXYzWnIxdjJvTFJXY1l3d3BxZldSSFYtaFhNNnM2OUxXUFhPcmFEYVBwOEdQMllnQnl0SWNMaEhIWVo0NEtzT3RhNGlWVWlKajdDRWY1OGtNWVJKaUc0NDBoRkVyNkpWa2I?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 11:09:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T14:00:21.376Z"
+      "updatedAt": "2026-09-14T14:25:15.335Z"
     },
     {
       "name": "Reuters",
@@ -188,6 +188,12 @@
           "title": "How China is preparing for the risk of AI escaping human control - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5",
           "pubDate": "Mon, 14 Sep 2026 13:27:53 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "BYD to produce trucks in Europe in bid to become \"European company\" - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSk9sU2JTLXY3NTc2LXdCX3NYOE1nZ0RzajdoUFh6cXZ6MXJKNUZScVJoTUExTm9tdEtsRWJOSm9OenJNd1VMeDlGNWtBc1l4VDkta0NtQV9lUnZ4TmVuMDdOakVTUWdmYzM1WFZudGh6NGNtVFVvam5vdVRmbUtxVnhTZml0VnFpX2ZIVFR3ck8zRXpKRjBaSjdGbTJvZ0Z2YjVTamJkZ0VtVDJtMXJiajJGajBGbHU4N0t3?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 13:24:30 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTUd0QXl4cFJlZFQ1SXRIdkhVMFVOZEZpNXpfNDgwbGU3ZTZlTV9vU0UyT0o1RUdsQm5HLTdsYm1hYmJSUVk3dURLSWFzTkY3QVkxX3hRWXpHYVhUeHUzWmRZNTJIWnRjRWo1RjYtT093aEQ5SmVRMmo1aldpcWk3Yk5DUG5TX2szYWlyUlpoVUlPeXNPQXNYRUFocld1NTZGNXc1OFFpV3FLem5sNU44YlB2RUtsNDBU?oc=5",
           "pubDate": "Mon, 14 Sep 2026 12:52:51 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Companies left China to dodge tariffs. Now some are heading back - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXZhYnM4LUVqMVptczRMSnVLLUp2YVVfRm9kNGh2MnZmWVlYUEtERkowb0xsb2drVG12aTd1SVlPNUFiRW9HQjJRNEhVR1hBWjZKem4xTjBaaVZ2anhqdTRscDYwcVZZUmp5V0FncDRPXzhhQ3BZWjc1ZlkyWXFaM0pDTFM0eUU2S0FYaUhvVzFVeUhyREZJZm85V0IzWTBnaGFFM2ZRam4wY1lkTlVTMnBYV2xVclBuTHJTSGZR?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 12:40:33 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T14:00:21.795Z"
+      "updatedAt": "2026-09-14T14:25:15.789Z"
     }
   ]
 }
