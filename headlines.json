@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-14T10:25:15.153Z",
-  "lastChecked": "2026-09-14T10:25:15.153Z",
-  "lastUpdated": "2026-09-14T10:25:15.153Z",
-  "generatedAt": "2026-09-14T10:25:15.153Z",
+  "fetchedAt": "2026-09-14T10:50:14.503Z",
+  "lastChecked": "2026-09-14T10:50:14.503Z",
+  "lastUpdated": "2026-09-14T10:50:14.503Z",
+  "generatedAt": "2026-09-14T10:50:14.503Z",
   "sources": [
     {
       "name": "BBC News",
@@ -50,18 +50,24 @@
           "source": "BBC News"
         },
         {
-          "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-          "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT",
+          "title": "Questions mount over what an AI 'slowdown' would look like",
+          "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T10:25:14.143Z"
+      "updatedAt": "2026-09-14T10:50:13.317Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The powerful millionaires hiding in plain sight",
+          "link": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight",
+          "pubDate": "Mon, 14 Sep 2026 06:30:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
           "link": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development",
@@ -103,20 +109,26 @@
           "link": "https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications",
           "pubDate": "Sun, 13 Sep 2026 19:23:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump downplays calls for AI slowdown",
-          "link": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
-          "pubDate": "Sun, 13 Sep 2026 18:32:39 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T10:25:14.374Z"
+      "updatedAt": "2026-09-14T10:50:13.611Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3BvakNYQ19LeGNaeEk0WTRkLVRMWDAwdnZNcjRIYWZyV1ZpNXFaV0NRVXBqckI1bVVfZ0RlN3pQbktRVVUtUVNKNVhJSGFHT0lGbGRGbGJqcVJlTXlyN3JEaVFocy10QlFoYjJ5bmtvMVVVQjhsbzRXb0l4MmpqdzVhaURaM0w0U1hBcExOQWViUnRaQ0Rr?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 10:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Electric mobility brings Africa’s energy transition into the wild - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYkYtVkxjMEUyczRtaFFBZnhQMk5OWHk1LXRtbHFSU2tuZFo3NFpjVnlFeWI4ZGVIT3hFS0lkN0pmUkhzbkMtaTRCU3dYSDdUWnN2dXZ6NFdCWW1lMkNqT29oNTN5czZxWFh4U1NaWXIyaUQwU1UtSEJaWlV2QlBGdnRBT2dnV3FNLWxQckJLVTFuOUxEMFdrN1N3N0lVYjA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 10:31:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Beijing hits back at Anthropic CEO’s call to curb China’s AI development - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1hUdWtVT3RlWE4yUGZLeE52YXpQczNrR012eHJGcVlfd0xhWU5UTTVHeUx2aU1UVjBaSlRIUW10TGh1cE1TbVMzVnNENVBfN0hncjF3bXVFOUJBc3d6MWpxWlFxWnBiSE1kTDNoNjBkZ1JSLUZyWXlqbU5PVk9veDJOd21iZGRIREQtRlBBeU1HZw?oc=5",
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZktXOEtaNERGbC1McWZMazBsVXNiWDJOVllqUndvbFZlRVhXd1UybDBJVGJ5eFFYUlRyN2JBUWYyckc0ZzdfWVpQZThIR05IRS05S05TbzB5NEFvTnNvalhELTkxRVBJUFNOWnVrX3ZlU0l1Y2VXbUVFZ2t1eWNIV2NoUnptaE9CN2VnU1diQk5PZ1hHQ3JLT2NVVHpoQQ?oc=5",
           "pubDate": "Mon, 14 Sep 2026 07:51:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Asian shares decline and OpenAI investor SoftBank shares plunge after calls to slow AI industry - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 07:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Sweden's next government uncertain with thin lead for left-wing opposition after tight election - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlZ1SWd6X2txTlBEck5wcW5TM19ic1Rrb0hLSDhHcXpCN29wa29hMGYzT0J6WUhlMjJVbXBIWTZVN0hSUVRMMzFHMjMyQV9IMXZDRUlnekk2LU1jSTEydV9ia0JSSjdZZ0RzSzJOX1dtMm9WeFEzd29QQ3pvUEhYalNxNkhuZG9OYXhTR1ZWcW1yeHFKUWhhU1ZtcHJwdVlHX1lsX2d4Z3pzeGg2?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 07:31:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T10:25:14.796Z"
+      "updatedAt": "2026-09-14T10:50:14.091Z"
     },
     {
       "name": "Reuters",
@@ -179,15 +179,27 @@
           "source": "Reuters"
         },
         {
-          "title": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXBVbWdJVHFtcDF3SHNDTUx5dV8yeGJDbXRsMmFNY2RmTHZodXo2NUFtU19nNF9NY0JEVURiQ0pockxyNGgxTkdKMVlDaWZSb0tnMUVHSV9sQXIzZGEtR2RCalV4a1Y3ZkRXb1RrR1ZuTFRscHNXYk5EZUpMNjA4c2FQbDdJd1ZWMXpRd3huRkgzT1lLYUxZX0RKSDNsemJ6b3Ftb01XZEFwMUtvV00yd0NVNFVhQlFW?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 09:56:31 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Nigerian billionaire Dangote launches oil refinery IPO, Africa's biggest share sale - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNm15SzdOekVDNV9rUTlPanJOckRvYlVjbzNtRU1BVFlWLV9DUVFBRHIxQWwzbzZJNHNuUWt4VXpyM0piZVZCTjRXelNxMUN3ZHB4WXNuZmdoeTJvZkI5Mmp5azBwVGxRNU1qdEEwelJ4c3lCUGxORXRGUFkxckEwZFkwMjRIR3pUbnZhQnllUXp6ZVN2QllZeEg5LUhuVm9tdDhHZmhlTEt5RV8temxtSTJqb0RYWENfckZLTVV1RmlzNjQwdjBj?oc=5",
           "pubDate": "Mon, 14 Sep 2026 09:45:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "AI warnings knock Nasdaq futures, pressure tech stocks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 09:44:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "King Charles to host AI executives as threat fears mount - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2RHR1kteU9kT1lsd3NHU0lpTXZyZWJKYTI4cW93ZENtdVFyNkNjWDBLWWF5YXIxQk9JcjFfYk02NFpuTzhBd0VseFl4NFRoV3BPclc0RURUV3V4ZTEwQmNhd2M5UlJyS3pwdUcySkhTZXQyTjdBbHN5RjdKUkhNT3NQcmttVnpJdExTQWVoVExfam5KTVFnQnpoak1KblV0MmdyVXh3?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 09:17:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "How China is preparing for the risk of AI escaping human control - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 09:07:11 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Chevron eyes Argentina, Mediterranean for global LNG growth, deal with India - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU0cyVE82aUNZNkxxRFJka3FjNjdyU3UtWXgtSGx3ZWw0ZXUyeWZuMFlsdldfcE5yZGY1WE85VDd6U1lSX3hyVnJCaXNSSjFvWUZKTkFkd09STk4xYnVXT3lnT2hFSjIyenNTQnYzVGs0SzRFNUVTbGJJcVBweXB4TEFTcUhyT1dDLVpBeTBJZHlDNEtxMlVUNEdpaHh2ckU0Y05GYWhGc1dQejZWUWpoMFVvXzNCR2J3aHFMZC1KRQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 08:44:38 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Indonesian president names Suahasil Nazara as new finance minister, official says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlUtTWI0V28xeDlKSFRLbHdwXzVYdGw1Mmswdi0yclQ2aFdkQTlMWW1sb3RLeU1hRTVyUWRpWUZJUUx3aHJ6cTdUTWs3dWtBNTd1NVZvQUFpZU5rTGVnVkItWVlmMUlTOG5iZF9xRWJJc29lRllpend5RVVwd1VBSkNsMzR1bWgxRTVncGtPWHhQVDljVnhvQV9GX1dvWkJvOVNQRXdsNm1yWmhQUWpKb3RpY0NpUGgzWTlPRllfNzdobkZIOThRY2NVOXQ?oc=5",
           "pubDate": "Mon, 14 Sep 2026 08:42:16 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "China Gas signs 20-year LNG import deal with US-based Venture Global - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWxlM2NTeFhjVlduRnZUZldDRFIwbzQtX21QY1hTNjdmZEp5MG9XdWNJRWlwZlowQkstYkQwV2ljbl9TeW1vemZ3M19GOF8tanFocjZQTDNjRmVGbmZtVlJkZkdSRWlSVDJiWm5qUnlJa2ZqMUZ1U1FBTFJ4Q05OeXRMN3U3R3l4NEpoMlFlMHBrVldTaWRtWkllaVlfdnZPNlZ4aUxtaVpTYm1ONUhJbFctV2JwQ25NOVNMRA?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 08:36:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hugo Boss chairman to step down as Frasers pursues takeover - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeWd6NDN0Uk0xSVlxN2ZjS2dFTnpYSkF4Q29jZHpBX0N5cUFzX0Z5cHgzZGxsSUhmNmMyNDl2M2ptcHZ1eDZQMWdzMkN4dlJkZVE0bGxPbDB3dWZLTnlPU05nSGo2UXFyQ1lNWURITlN1YVk3V1hDa0RDV3dRWHI0elhLdmZKWXhLMTJ1ZUJLNEZjcTVWQUZFTXNnZV9yd2RzRElHeXVZWFlic0NLYkZKT1ZFT1A5X2VETnRQRGRR?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 08:25:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russian strike on train Ukraine-Poland border sought to intimidate, divide Europeans, says France's Barrot - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV3YwTFlZNHl1RC0yZDZPMU1iWU5BUUNwSE9yOFREYnFVNlF4cC1qekNSQm5yZktUQXVvRk9JQXhiWXhhYm5uODdTRGhxU0xFSHVJMzNpTkJ4Y2dzYzE3cDlzZC1peGMyUEdCQkdqTy1Ra3daNkZHcGhucUI3WEYzRDVjM0c0Q0Nkc0tGTzhJcm85WGJ1bDZRMmh0TkRWaERpb2lWQWlpbUVvaC1kN3JteXNnLWxwb1FXMncw?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 08:22:49 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T10:25:15.153Z"
+      "updatedAt": "2026-09-14T10:50:14.503Z"
     }
   ]
 }
