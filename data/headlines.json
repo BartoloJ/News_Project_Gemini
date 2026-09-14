@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-14T22:29:02.551Z",
-  "lastChecked": "2026-09-14T22:29:02.551Z",
-  "lastUpdated": "2026-09-14T22:29:02.551Z",
-  "generatedAt": "2026-09-14T22:29:02.551Z",
+  "fetchedAt": "2026-09-14T22:50:15.955Z",
+  "lastChecked": "2026-09-14T22:50:15.955Z",
+  "lastUpdated": "2026-09-14T22:50:15.955Z",
+  "generatedAt": "2026-09-14T22:50:15.955Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T22:29:01.228Z"
+      "updatedAt": "2026-09-14T22:50:14.716Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Mitch McConnell returns to Senate after fall that led to an extended medical absence",
+          "link": "https://www.npr.org/2026/09/14/nx-s1-5968909/mitch-mcconnell-senate-return",
+          "pubDate": "Mon, 14 Sep 2026 18:36:33 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
           "link": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/14/nx-s1-5869793/evanston-illinois-reparations-trump-administration",
           "pubDate": "Mon, 14 Sep 2026 07:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "The powerful millionaires hiding in plain sight",
-          "link": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight",
-          "pubDate": "Mon, 14 Sep 2026 06:30:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T22:29:01.492Z"
+      "updatedAt": "2026-09-14T22:50:14.829Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,13 @@
         {
           "title": "Trump calls AI risks a ‘hoax,’ says there is a ‘SICK conspiracy’ against AI and data centers - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeFRySlBKNy1PVjJIYndUZHZKcTB4ZVFhOU1JN0t2QzlrbWtYaTZBRjctQWFKaWJBbjdnWFFzN2JJejJKZkZlOG5fN2s5U01fRE9JVGgxemxPUUhiV3VIcGpLdzFFc2w5ZjRoWEt3MTZ4dlJobnBNaDhNbXZFZ2JVamFlTnY2b3JnNjJPTWFudmJ6azh3bnVn?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 22:22:00 GMT",
+          "pubDate": "Mon, 14 Sep 2026 22:42:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "McConnell say he’ll vote in Senate for the first time since his hospitalization in June - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR1E1RkR0MDJhRUZZeHRxeFNYTXlTRjhUbEVDZWNOelk2bVdZZHMyQTRuVExEM1NRLTB5NUZmRDJxZ1BHY2Vza3lqX3YwYTVaeUEzOFdNY2c4OU8teGhYeFF2VUV2MUJJS0d2WlJ2RFRHZWduSEVqNGllSEw2NWFFTGRJUDZBaVRzUW85TzV0TUE5Zjg?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 21:57:00 GMT",
           "source": "AP News"
         },
         {
@@ -136,6 +142,18 @@
           "source": "AP News"
         },
         {
+          "title": "Man pleads not guilty in the hanging death of a Mississippi woman - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGVXUmRDU2VicjIyQXFIbGl3V1JyOFJoWXRULWxOMWhHZ000WnVNMWVRejJXVVB5Qk9uQzl5NU9yZWo5c3JOV1dzTXZkeXBmZXNTTWhzd005YjBKTUphSHktUmZMYXgtUWFUVFFLNUdLeVhWWFVWVFNrcGJuNkswT0E2WDJwamZ5Ti1TTU4yUnhjTmw3aUExZA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 20:58:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 20:32:39 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
           "pubDate": "Mon, 14 Sep 2026 20:15:00 GMT",
@@ -146,28 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZTVVOUtmY054UGF0NGRfUC1CQXlDSnZ1MjFudGh0Um1YZjJ5ZEg5MFIxaENub2dVeXl3TjEycUJrekk5clFUSFRwY1NZQ3F3WnExOEtxLVRZdWI4XzJTSnk5eGJOMFhJRUxmMS0tUVV6bmhfcy1zektLY1U3SGNNakpaa29LX3YxNVpBSWppLVZGYzBzXzdjdmRKTUlZdkJ0elBRREtB?oc=5",
           "pubDate": "Mon, 14 Sep 2026 20:05:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Donald Trump Jr.'s wedding celebration was partially funded by Russian oligarch, the couple confirms - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONHNWQWs2NUJSX0hQMlBpbTV0SVo3b0lyU1hwMi1GYjFMdjFJcEZJdUVsOUpyZW1SbDUwZS04Tm13SGwzMnN2VDhqSGh0Q1UxdE1aM083bk5JUGdsbkJub1YwVlJaWXpFOVJaVFpKdlZSQTA5UXhpa3d3UHVqZl9lRzNKWjNBdXBlWGl0cldURzc0NlY5ZmhzeE5ENklEOGRWRWdycGhLUHBmTC00MUZybGdEcHVlYXdr?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 20:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "States, cities sue over Trump rule seeking to deny green cards to immigrants using public benefits - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDZPOXIxVElJd1hOOWRuZ2JJSV9wRFVKajRqcnFzN3RjTnpzS0RWeEVFQXVqOFVMZHB0UlRsOVlWSGQtVXFQVHQ5WFl5TGQ2d0ZGMnhBdEVvVWNlaEU2dXVjcUFlRzRTR3dLdUFhMHh6UG5CcHlKX1VUTnlTTUlOZmxXV09NWFJrN1JwczZxQXB4S2tLZHZaN2lSUmYyRmFXNnBnY0NDQl9FaVp3NjRQZVliYmVpN1JLVmsxYm1POA?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 20:04:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Texas landowners ask a court to stop Trump’s Big Bend wall plans - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXgxeG1IUm9VTjRoYlUtamZENzZ5Zmt2UFVqWlF5dWtPMVE0akM3MEdNcnkxbzd6NlhBeXdhM096SFVORzQ1UktXU2d0VjRvMS1xUHg0aTc3NUhwUEV4MHNGemREZXpIeFRLTklnZjNEZ3NBdGYzSjFJTDFpTl9TbGRFcmV3bnMzRnhkam5yaUphc1RVR3B3QzJVbVZHNkNkdm0tN0p3?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 20:01:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T22:29:02.119Z"
+      "updatedAt": "2026-09-14T22:50:15.447Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,18 @@
           "title": "Trump's mail-in voting restrictions blocked by a second judge - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdGVuSUJVaFZzWlRVTmI4VTBJQWlnam1UNlc4N1NVWkhBUGQxb25vdTRIcDZMUTRZU09HYTVIeFlJM0drdkJiUmxPcjhjZUZlTm42bVp3cWdhOExVWVVqa3IxamUwT0lZeVFBNExuVTZVd0UzMm5INi13bG1ERk5hbDRRcFpOYm40eXczeUVEZlJpemNWbU9hTm4zM3lxenJVbGc?oc=5",
           "pubDate": "Mon, 14 Sep 2026 22:21:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 22:19:24 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US judge blocks Trump limits on duration of visas for foreign students and journalists - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWQtY0pmajVTQ1p5SkFGaDZ4dFVRaUZPVkNRSWdrSVJaZWlzZjRPN25QWW51QUtqMTFSZ1V0Q28wbnFVWjFxVlZXTVgxTXV0VjNxanRHMGoxeXFEcGxPSG03OVQ2YkNTa0tsMVpoVnA1NElNcmJyLTludGQzYUdlU3h6UHJ2R2RzR1dnOE5aLXB5ZVhULUVmQkk4U1BJSHhsMk5Cd1hiWGtINHo3bkN1WndEcG0?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 22:19:06 GMT",
           "source": "Reuters"
         },
         {
@@ -188,12 +200,6 @@
           "title": "ICE arrests keep soaring. Here’s why they are not leading to more deportations. - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3dabWl0MjZjcTRnanhHRlVySnpmNFU2ZUxIeEFaV1cyWUQweGVZY3JVRGJZOGRqcmhESWJPZ2RfSXFVeGt6Zng5dWcyeVlFSWhoYUZDLVh6TEtCbElUTmg0WWZpRkhISVFaTUo5d1JiOVotd2xTWU5tTHNndGhlZlNyemlkVnQ5by13eXVpa3BNb2NlRXFHU05LV1VaUkIxMnI0S1A1eWtvcGJiYkhUTEJaWkZ6U3FsZ2NtYnNzb2otN3Jr?oc=5",
           "pubDate": "Mon, 14 Sep 2026 22:00:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US judge blocks Trump limits on duration of visas for foreign students, journalists - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWQtY0pmajVTQ1p5SkFGaDZ4dFVRaUZPVkNRSWdrSVJaZWlzZjRPN25QWW51QUtqMTFSZ1V0Q28wbnFVWjFxVlZXTVgxTXV0VjNxanRHMGoxeXFEcGxPSG03OVQ2YkNTa0tsMVpoVnA1NElNcmJyLTludGQzYUdlU3h6UHJ2R2RzR1dnOE5aLXB5ZVhULUVmQkk4U1BJSHhsMk5Cd1hiWGtINHo3bkN1WndEcG0?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 21:46:03 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXlMcDd2a09vanQ5eW1fdVU1d1kzUzU1ck0xQ29mX2Jtb0pmRk5fa29JZ3JrNHRHbGUzUXI1cHJPUnVqeHNEcGFGRkhqcXlyQ2t1NmppZm94c0tGRlZWUnRreHlTdU8yWWNVcEJXUjYzdEV5WW1GSFJJd3pDQkZid1R4aTdHaDJUVk94amYtZGR0aXlBdTFKRFp2WWQ3MGlONWQ4eEV3?oc=5",
           "pubDate": "Mon, 14 Sep 2026 21:23:16 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Carney, locked in US trade war, pitches Canada to global investment titans - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3JPQXNDM2tRbmo0bHhxcE5yaHVkZ2txeVd5T2IzUFpYWkFYZTNsWmloNEUybWhxa3ZPVDdlZ0F0VnBnTmRzM09TekhtRHV3WGRQc0QwSmZuTy10R3BGbUdUc2dkOW5PRGpfRWdpblRtRHZYcnFHMy1HOGljNVFzcW8yOEY5VXg1d3BQY3d5ZWZJRU1JZEQtNTl2bW85NEhCckZpeWRPYlNrY09FckpjbA?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 21:22:45 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-14T22:29:02.551Z"
+      "updatedAt": "2026-09-14T22:50:15.955Z"
     }
   ]
 }
