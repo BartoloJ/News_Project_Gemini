@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-09-15T08:25:15.439Z",
-  "lastChecked": "2026-09-15T08:25:15.439Z",
-  "lastUpdated": "2026-09-15T08:25:15.439Z",
-  "generatedAt": "2026-09-15T08:25:15.439Z",
+  "fetchedAt": "2026-09-15T08:50:17.475Z",
+  "lastChecked": "2026-09-15T08:50:17.475Z",
+  "lastUpdated": "2026-09-15T08:50:17.475Z",
+  "generatedAt": "2026-09-15T08:50:17.475Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+          "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 08:49:31 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "US confirms for first time it has deployed space weapons",
+          "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 08:48:28 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "China tightens travel restrictions for citizens",
           "link": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
@@ -38,26 +50,14 @@
           "source": "BBC News"
         },
         {
-          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-          "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 03:47:27 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "AI regulation faces political deadlock as calls grow for Congress to act",
           "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 15 Sep 2026 02:50:36 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "US confirms for first time it has deployed space weapons",
-          "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 01:52:02 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T08:25:14.378Z"
+      "updatedAt": "2026-09-15T08:50:16.126Z"
     },
     {
       "name": "NPR",
@@ -112,66 +112,72 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T08:25:14.479Z"
+      "updatedAt": "2026-09-15T08:50:16.417Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "World News: Top & Breaking World News Today - apnews.com",
+          "title": "World News: Top & Breaking World News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA?oc=5",
           "pubDate": "Tue, 15 Sep 2026 07:29:30 GMT",
           "source": "AP News"
         },
         {
-          "title": "Supreme Court rejects Trump mail ballot restrictions ahead of midterms - apnews.com",
+          "title": "Supreme Court rejects Trump mail ballot restrictions ahead of midterms - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXZkb09iUnM3WFdTT1BXbXB1OGw1ZUlBTV9jZld2eGZiVHBvVHAzMHpTYTlURjZCUEktNnRtUjJiSUp0ZzZ6UDVHU1lXV182ZFJtRnppc1ltY1RBX2ZJUHN3WnhmNl9XRXlMM3Jtal9CRXVsQWRRaDhTWFFUdXpRQ3ZzOVRvRFFFLTB4QUhsSGpJdFZuV0RYNFlySndacGZ5MFRZ?oc=5",
           "pubDate": "Tue, 15 Sep 2026 07:13:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - apnews.com",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 05:03:14 GMT",
+          "pubDate": "Tue, 15 Sep 2026 05:56:17 GMT",
           "source": "AP News"
         },
         {
-          "title": "‘Widow’s Bay’ breaks Emmys record with 14 wins including best comedy series, 'Pitt' wins best drama - apnews.com",
+          "title": "In parts of Africa, rainmakers face cruel violence by farmers as climate change vexes many - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEc4TEI0WDlVT193eklBaFBkVDlaWHg0YU1WcWxkU2Q0X21nOENHRjUzUGQtLU52MVJjdU9mQ2dZYnR6Z244TmxpOEREZENkSDJEa2MzaDMwbThCSm52OE5hS09pakhBaTExLUhicFNDak14RHlnRlZvT04tbWhaT0xwMVQ3MDg4aThsb1N2UkJXVE5YNUhBQ0ZvYktaQjZYbDJj?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 05:15:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "‘Widow’s Bay’ breaks Emmys record with 14 wins including best comedy series, 'Pitt' wins best drama - AP News",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ2hDMVN1X1ppSUl5T2EtcDNuSWxQaWtBUjFLeVlCY0toTklUcXQwV1lqQ0g5V1hFVjNWWkxhQVhYV21YYjBUQUxOSW1rOHJUdFpKOWlReGdDM1pJQ0Jxa01ZdHRubEk0NTkwMnI0SnhKV25Wa00tV3hHbkFNM2lWSWFR?oc=5",
           "pubDate": "Tue, 15 Sep 2026 04:30:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Walker runs all over Denver, Mahomes looks healthy as Chiefs beat up Broncos 31-10 - apnews.com",
+          "title": "Walker runs all over Denver, Mahomes looks healthy as Chiefs beat up Broncos 31-10 - AP News",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGVWRWVLbGhTS2lQQzJYRVBYNDQwTWpxeF9fOTJYODU0SXBoamIwNUZfOUhudlE5eDhHOXc2QlpDZTZuWVJSNjZjLWZzcVZqeVlCdUhFTXFYZl9pMlJKblFBMTNqZHZBbFhoWk04QUQ1Z3lQLWZzYWJRbGpMc1RvTFRSSEZVckU?oc=5",
           "pubDate": "Tue, 15 Sep 2026 04:25:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Carney heads to Europe for high-stakes speech and deeper EU ties as Canada clashes with Trump - apnews.com",
+          "title": "Carney heads to Europe for high-stakes speech and deeper EU ties as Canada clashes with Trump - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWE1ROHI4c3BZTndaaTJZeDE5WnVkc0FPU0pNUUo1MldJRlNZbWhsVU51Y2NkMHM0bGM1OVVmYXFGb2w2Z1MzUnFZZVNETHdfYnN0UVM5aFJWWXdHWnZxYkJreUpScXB6ZFpmbTJ3MUJPbjYxZWJfdWowZVAxREktOUJmbHRHQ2NnM1JBekhpNG4wLWM?oc=5",
           "pubDate": "Tue, 15 Sep 2026 04:23:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - apnews.com",
+          "title": "Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcW93ckZBY1Y1bHJDS243bGlJbXlENGFaTmQzS08zTWxtQmEwYjlFRkhuQk9WZ1plVjNac2JRSjY4Zk1uLUdlT2p2VHh4WWxfanFHaDNWa3NRWUktMEhsZ0trcWcyTWNMb0RmN05aT2pJV2I1S25nejFtOXNvRjhTVjU4VTFrcTctSzNqWHFCOXpkSmtGNnhadU1EVEdSd19kUllsWA?oc=5",
           "pubDate": "Tue, 15 Sep 2026 04:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Emmy Awards highlights: Mariska Hargitay sings, Taylor Swift jokes in a skit and 'Buffy' alum unite - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVWlsQTBYYkZkVnF5bF9FVUVMTG1iY1ZnV1VqQi1uTlBsSTFFWXdOaG9WYjEzdmxhdnhpbHJaLV9MYVJQVGhDemNHZ1YwU3pEcmcwNWxfUXdlLXdMUnFBd0wtWThFUFJ5MU9WbEdPd1BKQWp6V25OdGZWdFFGVG9LN0hLeGp3R1V6UzJpcEN2amk?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 03:49:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T08:25:15.015Z"
+      "updatedAt": "2026-09-15T08:50:17.013Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Russian frigate fires flares towards Danish military helicopter, Denmark says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeTZQR2xvY2xFSktmUlp3aTg5RkNyY21BZmc2dnVYUmExU1J3YVVscHAzT3FlbG5XcE1xS0ZLaDFWMmVMQXNxMXNPbnpHa25Vd0hWcll3MkhuWlU3aXZ3YXRTVTlNNEs2bHNpdC1Odk84dU1jTEE5SVpGQUpzNFoyUkMteU9NZ2M2ZGZzZmJ6ZHRxbzd1X1JsME0zNy1pUkpHYUhoX2FNNlJLNkR2eHl6MENkN1dGN09mOVhzS2JyRUlZN3BvMEZYcHBla01oSm1TZ1dKZDZ3?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 06:58:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Micron Taiwan union presses profit-sharing demand, keeps strike preparations alive - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSW41bXEwMXBobUIzMXBSM1lVblhNdGpQalhJaDBudVhBODI5eTVGVlY4SzJZcjFOYno2YzNxZ0ZFX1h6V0tLeE1TSHMtQ0VvTFN4cVU1X2xyaVV1WGtQbFROeWFNdmVGZ0NrRlZZRTRuSERoVDlkUlhHZUhCQkhGQjZGSy1TTERlVWRhaGhvMldMT01hNU9HdXZ0RWVLWjdiVG1YRWlUVzNIeXhOeGVOcmo1cG93UF8yRzlYTThPM2xqTkZqWDJQcG1RWi1fSE0?oc=5",
@@ -191,7 +197,7 @@
           "source": "Reuters"
         },
         {
-          "title": "Gold holds ground as investors await Fed policy cues - Reuters",
+          "title": "Gold slips as oil gains strengthen case for elevated interest rates - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUtaVGZLb1VLWXI1QlhvSGNHeThxbkxfa3NIdk1SZFA3LWZta2JmdnBUTEtKV0dUSGg4OGVQSHYyV0w5RGY1QXEwaG02OVVoVlJmRG9xc3VwQ2RZSFh2V25neWVqS01jVm9pTFg0U29TcXdueHBXbnRuTmRuOFA0TzlyNEppVUJldE9KVFE4c3FlS04zRXRsaXNCQWhqQQ?oc=5",
           "pubDate": "Tue, 15 Sep 2026 05:29:00 GMT",
           "source": "Reuters"
@@ -209,20 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Vietnam considering first sovereign dollar bond sale since 2014, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRHRBeVl4dlUxcmFXUDhOVC1FOURnamdvdGxyd3pIXzY4TWVuSnVqMkxwa092TlF2TFBmd192Z09IRmE2M1RLbVgxTk9JYTFucUxZUm5KWjZEV3NoeEFyb0ZSYlRQSXhYYnc0a0l1cDNadlBMVXpueWQ2THY4NjJKWktvelZMNWFKeFNpcVhGNkZJdzExUENJMU9zclRpNWE5dVR4UFJNblhKUDhvOHNicU1DUGlTeUg0VHdxa0VPb0RJQ1JwSE9JSzVR?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 04:38:06 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Trump says hit that brake; no, not that one - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWszOHhxYkNLWGFQTm5ta3VvRThobVlJYnIzekdWMC1raTFFbEoxSEdXMkFibnlJQkY1eUYtb0V1Wkdaak9IZ2RTWHdwLXFwQXVMUC02bm96VVZnbWk5bnJmaXpZb3lPdXVRY1ZIZVZHcUpnRWgwNk5BOEZLcjlqejdDOA?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 04:32:00 GMT",
+          "title": "Indian shares ease as elevated oil, bond yields weigh - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 04:58:33 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T08:25:15.439Z"
+      "updatedAt": "2026-09-15T08:50:17.475Z"
     }
   ]
 }
