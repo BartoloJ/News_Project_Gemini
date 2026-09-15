@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-09-15T06:26:22.746Z",
-  "lastChecked": "2026-09-15T06:26:22.746Z",
-  "lastUpdated": "2026-09-15T06:26:22.746Z",
-  "generatedAt": "2026-09-15T06:26:22.746Z",
+  "fetchedAt": "2026-09-15T06:50:16.469Z",
+  "lastChecked": "2026-09-15T06:50:16.469Z",
+  "lastUpdated": "2026-09-15T06:50:16.469Z",
+  "generatedAt": "2026-09-15T06:50:16.469Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "China tightens travel restrictions for citizens",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 06:43:09 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Nato jets down drone that entered Lithuanian airspace",
+          "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 06:29:17 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Superstars and broken records: 2026 Emmy highlights",
           "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
@@ -32,21 +44,9 @@
           "source": "BBC News"
         },
         {
-          "title": "China tightens travel restrictions for citizens",
-          "link": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 03:25:41 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "AI regulation faces political deadlock as calls grow for Congress to act",
           "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 15 Sep 2026 02:50:36 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Nato jets down drone that entered Lithuanian airspace",
-          "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 02:22:07 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T06:26:21.347Z"
+      "updatedAt": "2026-09-15T06:50:15.274Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T06:26:21.557Z"
+      "updatedAt": "2026-09-15T06:50:15.544Z"
     },
     {
       "name": "AP News",
@@ -167,62 +167,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T06:26:22.284Z"
+      "updatedAt": "2026-09-15T06:50:16.026Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Morning Bid: Trump says hit that brake; no, not that one - reuters.com",
+          "title": "Dollar inches higher as 10-year Treasury yield climbs to highest since 2007 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGtqRlJ4LWF3TVM5VklxS09fMU16eHE3bWRLZ3lRS3NuS18wWGcyY3cwRWg2eEtzS3dFRVZGWHB6Z21NNGpzUUcydm10VXpIU29Ca3RnRDRrRUxsVWlNbE5yV0x6ejVQUTZXR1FHRHgtTUExOC1VazhaaGo0b3p0dTNVcDJ5YWdjeWkyQVZRRlhOUUZYUkpmdWsyeHJjNTF6QjlYdEtRcy1NVUg2RWNmOA?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 06:10:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "All the styles from the Emmys blue carpet - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iLXdvNXJqclI3M0xmUjdFSW9nTVN3UldWODRnNVE5d1IzMFFoakdEcEx4Ml9nRFhXS09aY2NwbFVHa2xDaER0UFhXaXhmSUFCakFpNU9QNzdJMFNGME1kRS15V1NHWEpNcnVZWnV1NV9qemlibnlCWWY2Mkg?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 05:34:58 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFU5RG1vWUx4LW5tTnVlWmxVaExUb1JiYks2N01JbTJFWl9NY3ZFRUpxaGc3LURuZ2xST2VkZ1hFNFROcjM4U0RPeGFqczRCamt4Z3FqWFBteC1seWxSdUJLRE9HUDlqeGxlczE4M0JJTEp1WC1VWGJXcmpJUjgzU0g1OGxHN0N6RWZtTjJBNktPTUJqU2Y0N2J2QTR1ZHRjQTNQZVk1UU4weXRvZGJvMDRYZkh0VkNvMXQtVg?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 05:20:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Investors nervous about AI spending slowdown after industry warnings - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzVYeGFhZVhKUVVIZjBFWEF4ck1qZ2p2cUxaYmNMTzkycW9TUXJsbUFXOV80RF9Kb1BQamFzejg0enZFaHRlRGdUaGgzeUpUUGpsbW1BNnNJVWFOanVmZFJDMjBQYWYtT0hPSG5MUUlTYlZweWN5VDFyWndKWl9WNVBLWFFHUVl6dkJhem5EdGduY1ZpcjhuVjd6NDF1TXN5T1REdUZrYUhrajQ1aXdvd2EzcUNMTFBidmVJR0FtLTRWZw?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 05:03:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Morning Bid: Trump says hit that brake; no, not that one - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWszOHhxYkNLWGFQTm5ta3VvRThobVlJYnIzekdWMC1raTFFbEoxSEdXMkFibnlJQkY1eUYtb0V1Wkdaak9IZ2RTWHdwLXFwQXVMUC02bm96VVZnbWk5bnJmaXpZb3lPdXVRY1ZIZVZHcUpnRWgwNk5BOEZLcjlqejdDOA?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 04:32:00 GMT",
+          "pubDate": "Tue, 15 Sep 2026 04:38:11 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGZNVlpqdGZqMGlsa1lSR2IyWU0tbmd2R1ZkY2o5VDNlb0VsMEdhbWlZVzJBLXJ0WU9MTm13WnN2R0M0Slg4TzFkb1VSYVRxQXE5ejQ5eTNRbGcxdUVSNTFKYlk2WmxYbkdPMTJIUEZJRVdBUmFKVHVCamlsUzB2NFJLbkNGbkJFSjR3TTlhNF9vT2g4MXk0MjlzOHhVaWNGX3U3RGlUS0JzekpCb0VBbU8zMGdUbFpIaGlCVHlwcEtoR0U?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 04:25:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Governments worldwide are way behind on AI, says Bill Gates - reuters.com",
+          "title": "Governments worldwide are way behind on AI, says Bill Gates - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnE4S3JkY1VydWx3RkhxYnhhWG12dFA4Yy1aZVBLVDB6cWdQYWtzckhvZWVHc053YVg2Q3pLR0hFOGFYeVBlMTdQSlR1R1o5OGxTZWp4cUw3OG0wWEtJbWE4V1d4djBvcE5jb3lCb3FqbGNNcjh1MjAzSE44YVdNRW85YnhQRWRnZ0ZIaU1tOGF5UlhNalg5TkNYSTRlRTVwVmw2UUh0LWwyVGVsNzFR?oc=5",
           "pubDate": "Tue, 15 Sep 2026 04:05:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia hits petrol station, warehouse facilities in Kyiv, mayor says - reuters.com",
+          "title": "Russia hits petrol station, warehouse facilities in Kyiv, mayor says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXZWZkxjRTRuRlgyd3VCTEVHeE53UjBhdDB0NUtVdEdlSTdiSGhjQ1F1NHhhZDBhN3NYWWp1QmVzaS05Ukw1TS1xR3VWWWFqdnJUYzNnRzBaT285eGRGSHBVUnJOdDdQdjRoNEdhMGtMMUx4Y0c1YXpScWlzZ3NMRkhZV2NwazNJR0pleG43aTgzWlZuakU1U3Vpb1FmSTcxNENIQ0F0eUhjMzA4QUsta1Nn?oc=5",
           "pubDate": "Tue, 15 Sep 2026 03:36:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Hormuz traffic dwindles after Middle East attacks intensify - reuters.com",
+          "title": "Hormuz traffic dwindles after Middle East attacks intensify - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUTFPRnZDMlUxdmU3RmpseHVGS2laWk4tZU0ySUhOSUdDMGlfQ3loQTBQZktUdW96ck0yNlctUWxVV2NYSHpDclc2YnI4cVFISWZXbjdlM1BDSC1vejJmR2Qtc0NjTTlxLVpxRmZXck5nQU9US1JUalB2cTNZd1Z4Y1Q1QkVQUkEySXNqZUxYV1VWLV8wbVJYTU85X3U0bmk3SXFnNm1uMDQ4TkYwMjV3a3ItZw?oc=5",
           "pubDate": "Tue, 15 Sep 2026 02:59:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China's new tech, national security exit rules take effect - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU9BOGpkbUk0UVhJRjlsRVNXdUZtNUw4ZGR4RGxqWW94OEF1T184SWh4bmhCX2hMTmJCa2dNZGpsSWlSOEhwaUtrUlVpUm5Nd3g1blU1UkxOZkU3MDhYQ2MyRUVMR1EyMXdPbzVFLW5SQ2pKcktpMmpLcl9PcDIyXzdhMERQcjd5X3gzUjFPcEdvandGSlg2aXFLZnZEcTBOV3ZWNVNZMA?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 02:43:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indian shares ease as elevated oil, bond yields weigh - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 02:35:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Saudi civil defence says danger has passed in six cities including Yanbu - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTW44Q2VNT0ZLUS1feUlvTE90dTdwZ0NCVVhZY0RQeHBCRlItRGcwVldPaF9jTTdlcXJjSG1hdHNuN2FzdjZUMEtITnExdHZzYk5hR0RLdmZnRHZtRG1ubXdvZllyQXRzRjlpallqZlNJdWYzWHRLNXVtdk5lZDVMY3dnYWNaakJscW5fTVVzMkdrZEk4X253SFlwM05HblB5d21BSnh2UmpyMGxXeGRfbS0wRGZwN2Z0VXFvZTdTeHc?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 02:28:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T06:26:22.746Z"
+      "updatedAt": "2026-09-15T06:50:16.468Z"
     }
   ]
 }
