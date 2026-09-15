@@ -1,16 +1,22 @@
 {
-  "fetchedAt": "2026-09-15T11:25:12.801Z",
-  "lastChecked": "2026-09-15T11:25:12.801Z",
-  "lastUpdated": "2026-09-15T11:25:12.801Z",
-  "generatedAt": "2026-09-15T11:25:12.801Z",
+  "fetchedAt": "2026-09-15T11:50:14.698Z",
+  "lastChecked": "2026-09-15T11:50:14.698Z",
+  "lastUpdated": "2026-09-15T11:50:14.698Z",
+  "generatedAt": "2026-09-15T11:50:14.698Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+          "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 11:49:33 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Denmark says Russian warship fired flares at military helicopter",
           "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 10:12:49 GMT",
+          "pubDate": "Tue, 15 Sep 2026 11:40:00 GMT",
           "source": "BBC News"
         },
         {
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 15 Sep 2026 05:14:24 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Ukraine's postal workers deliver lifeline under Russian fire",
-          "link": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 05:01:46 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T11:25:11.795Z"
+      "updatedAt": "2026-09-15T11:50:13.692Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
+          "link": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
+          "pubDate": "Tue, 15 Sep 2026 07:35:49 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
           "link": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
@@ -75,8 +81,8 @@
           "source": "NPR"
         },
         {
-          "title": "For thousands of Haitians in the U.S., end of protected status brings fear, grief and defiance",
-          "link": "https://www.npr.org/2026/09/15/nx-s1-5961154/for-thousands-of-haitians-in-the-u-s-end-of-protected-status-brings-fear-grief-and-defiance",
+          "title": "Get ready for yet another cost when buying a home: Junk fees",
+          "link": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
           "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -87,32 +93,26 @@
           "source": "NPR"
         },
         {
-          "title": "This  bill could reshape crypto in America -- and it's sparking a major battle",
-          "link": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
-          "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Get ready for yet another cost when buying a home: Junk fees",
-          "link": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
-          "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
           "link": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
           "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Supreme Court refuses to allow Trump's mail voting restrictions for the midterms",
-          "link": "https://www.npr.org/2026/09/15/nx-s1-5968937/scotus-rejects-trumps-restrictions-on-mail-in-ballots",
-          "pubDate": "Tue, 15 Sep 2026 04:44:26 -0400",
+          "title": "This  bill could reshape crypto in America -- and it's sparking a major battle",
+          "link": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
+          "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "For thousands of Haitians in the U.S., end of protected status brings fear, grief and defiance",
+          "link": "https://www.npr.org/2026/09/15/nx-s1-5961154/for-thousands-of-haitians-in-the-u-s-end-of-protected-status-brings-fear-grief-and-defiance",
+          "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T11:25:11.886Z"
+      "updatedAt": "2026-09-15T11:50:13.813Z"
     },
     {
       "name": "AP News",
@@ -148,30 +148,42 @@
           "source": "AP News"
         },
         {
+          "title": "Muslim region in southern Philippines holds first elections - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVg1VV94cFVFWXpPYXpiWTlYaHhrYnh5b1RYUDR2SXpRTE5wNThrQlZYcUw1X0ozOGpySk5MaExtZE45Y0RVOGxBaDZtX0pHZnZTUk9fZHFmWjFRQkFMY0Z4c0FZUFE2RldPRUJlaTFhbEtCNC1JdEU5TnNjOTVVekNwVUx2cGo5QklnVnp4NWM5ZTIxZUhsb3RPSXZfQQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 05:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "As the last US troops pack up in Iraq, militias signal their weapons will stay - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzFnTlFhdEdBV1BDMVRPbWEtN1NDYVBPeUhWZ2xWcEFXRW5pendBQlBJQjgxUlRzdnJMSXN5NjNFUkZLcW5mS3MxRFZXZ0ozT3ZpWHRIeUs1aFN5UmRJUlF1Yi1PcGQtd3VUc3d4Rm9MZVJHWjVSamZkRzRvcmFOU3hxaVFLTTFzUU9CM25Zc2c0UVJNdGpjdDFZcF8?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 05:13:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Walker runs all over Denver, Mahomes looks healthy as Chiefs beat up Broncos 31-10 - AP News",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGVWRWVLbGhTS2lQQzJYRVBYNDQwTWpxeF9fOTJYODU0SXBoamIwNUZfOUhudlE5eDhHOXc2QlpDZTZuWVJSNjZjLWZzcVZqeVlCdUhFTXFYZl9pMlJKblFBMTNqZHZBbFhoWk04QUQ1Z3lQLWZzYWJRbGpMc1RvTFRSSEZVckU?oc=5",
           "pubDate": "Tue, 15 Sep 2026 04:25:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Carney heads to Europe for high-stakes speech and deeper EU ties as Canada clashes with Trump - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWE1ROHI4c3BZTndaaTJZeDE5WnVkc0FPU0pNUUo1MldJRlNZbWhsVU51Y2NkMHM0bGM1OVVmYXFGb2w2Z1MzUnFZZVNETHdfYnN0UVM5aFJWWXdHWnZxYkJreUpScXB6ZFpmbTJ3MUJPbjYxZWJfdWowZVAxREktOUJmbHRHQ2NnM1JBekhpNG4wLWM?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 04:23:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcW93ckZBY1Y1bHJDS243bGlJbXlENGFaTmQzS08zTWxtQmEwYjlFRkhuQk9WZ1plVjNac2JRSjY4Zk1uLUdlT2p2VHh4WWxfanFHaDNWa3NRWUktMEhsZ0trcWcyTWNMb0RmN05aT2pJV2I1S25nejFtOXNvRjhTVjU4VTFrcTctSzNqWHFCOXpkSmtGNnhadU1EVEdSd19kUllsWA?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 04:01:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T11:25:12.410Z"
+      "updatedAt": "2026-09-15T11:50:14.257Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:28:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Senate to vote on advancing landmark crypto bill - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUU1MGZBRTU0UUZMWkhzdWlzbVNvV2tSeFBVVnFSczhrM0VSdHd6cFhBRFY0UWxZcmxXZU81MGprbzBvUlFpV2E3TXUxSFExRXFxYnhXSkN0ZHVOb28tVmdKTm0xTGNlNWZLOWV3UGpKSFlnbTI5QnBuRmZKNnNsUF9KMXdHY2FMS3lhdU5vTUFsQVo0ZFUzV0ZoSGVZWmc?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:26:14 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Sabotage disrupts Dutch train services ahead of state opening of parliament - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXU1WXNmWXJZWXg5d3JwSGUyZFpRM3U0YmNhSWpmMzJiZ2kwYUlFRjkySFp0RVhac1hWamFVS3V4MXNnUGZEdlk4T3REQV9RZVFvTVgxejhNRk13YlVUdXRyRTY0MWMwV1ZZTlFQeUpvelRINmJQSjZqeGp1eExEVk5wM2ptNm03NjhOUENQenNiV29BajhBVW1HSGphUHc?oc=5",
@@ -185,21 +197,9 @@
           "source": "Reuters"
         },
         {
-          "title": "LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb19XZTBOamlRdWRZa2xJc2F1b0g2ZmlzU1BObHJlSXpldVdQVHR3T2JSWFVvUDEyWTk1Zm9RU3dCUmVmQXIyWjVBTkVpam8xVndOTTNjS3k3c0R1LVlDN09taHZHNDVTUU84TF9fZmNKWTZhQVVpeFJpVXBqb0w3TjB0V0ZDM3Q5aWFpZ1R3WVdaUl9hZURqcG5tOVhiaXIwQ3c4S2I2Q1lCMmZ6OGtqSzhVOA?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 10:57:50 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Russia and Ukraine press on with energy strikes despite Trump - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXZWZkxjRTRuRlgyd3VCTEVHeE53UjBhdDB0NUtVdEdlSTdiSGhjQ1F1NHhhZDBhN3NYWWp1QmVzaS05Ukw1TS1xR3VWWWFqdnJUYzNnRzBaT285eGRGSHBVUnJOdDdQdjRoNEdhMGtMMUx4Y0c1YXpScWlzZ3NMRkhZV2NwazNJR0pleG43aTgzWlZuakU1U3Vpb1FmSTcxNENIQ0F0eUhjMzA4QUsta1Nn?oc=5",
           "pubDate": "Tue, 15 Sep 2026 10:36:25 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Senate to vote on advancing landmark crypto bill - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUU1MGZBRTU0UUZMWkhzdWlzbVNvV2tSeFBVVnFSczhrM0VSdHd6cFhBRFY0UWxZcmxXZU81MGprbzBvUlFpV2E3TXUxSFExRXFxYnhXSkN0ZHVOb28tVmdKTm0xTGNlNWZLOWV3UGpKSFlnbTI5QnBuRmZKNnNsUF9KMXdHY2FMS3lhdU5vTUFsQVo0ZFUzV0ZoSGVZWmc?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 10:36:15 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T11:25:12.800Z"
+      "updatedAt": "2026-09-15T11:50:14.698Z"
     }
   ]
 }
