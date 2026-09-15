@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-15T19:50:21.247Z",
-  "lastChecked": "2026-09-15T19:50:21.247Z",
-  "lastUpdated": "2026-09-15T19:50:21.247Z",
-  "generatedAt": "2026-09-15T19:50:21.247Z",
+  "fetchedAt": "2026-09-15T20:00:20.406Z",
+  "lastChecked": "2026-09-15T20:00:20.406Z",
+  "lastUpdated": "2026-09-15T20:00:20.406Z",
+  "generatedAt": "2026-09-15T20:00:20.406Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T19:50:20.361Z"
+      "updatedAt": "2026-09-15T20:00:19.071Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T19:50:20.604Z"
+      "updatedAt": "2026-09-15T20:00:19.407Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Kennedy Center board votes to close over financial woes, Trump branding dispute, AP sources say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWEljNzZHRXBiT0xvOGtWcjJlUVg3WkJGVXRleUhVb0FQLXYzYi1vV2Jvb3ppaWJETk9EZ2FJNmJaamVWMEhIaGRKVXY3dGl2YXJOTUxfZ24taDRmRHhNSDd6R29UXzFqTnZFbEFmYTZjUFp0WGo0WVJGMGxHWnlUNTEwZHFuSzVsYTYyOVpEVV81N2dER0p0a1BwU3pIUVlTbmZ3?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 19:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Senate blocks cryptocurrency regulation as Democrats push back on Trump investments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeXdoSFh5N1BoSHFEVHJRVUVnRXpXV1ZaMG1aMHJnT3lFczVCZHU1Y2tuclFOVWtQangxbVVXZEpLc3p3MWZYc2ROZnpiaFlvcFhkbGI5dzhrMG44UUF0bnQ5am1GXzFwVkJFeUo3Qm5kNGcwM05tbGdpVi15QUtHSW9vXy1uTjgyLWpjVEEtaTA3Uml3VGJ2R2xmbzhqWlExMHc?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 19:12:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Nick Reiner avoids death penalty over his parents’ killings but still faces life in prison - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQak1QUHVSeENKNGhfYkczM3VxSFcxQ043NURtWDJNX0hvRFlGQWtaSDl6b2FhR0c4c3VuVzF3aVFNNXRlbU1HQWhJLUdmaTBlZllscm5GRndCOFk2VTdpXzc1UG5UVjVxdERvbjFyQkREOXdOWUVtQlpncGFSaE1XQ29lMFZldkh1a0FSWkZvTEs2bzdMdjRlZkN3UU1CVkRBYlFiTFNhRQ?oc=5",
@@ -130,15 +142,15 @@
           "source": "AP News"
         },
         {
-          "title": "Kennedy Center board votes to close over financial woes, Trump branding dispute, AP sources say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWEljNzZHRXBiT0xvOGtWcjJlUVg3WkJGVXRleUhVb0FQLXYzYi1vV2Jvb3ppaWJETk9EZ2FJNmJaamVWMEhIaGRKVXY3dGl2YXJOTUxfZ24taDRmRHhNSDd6R29UXzFqTnZFbEFmYTZjUFp0WGo0WVJGMGxHWnlUNTEwZHFuSzVsYTYyOVpEVV81N2dER0p0a1BwU3pIUVlTbmZ3?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 18:50:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
           "pubDate": "Tue, 15 Sep 2026 18:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Saudi crown prince goes to Egypt for support amid Houthi strikes, and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmhBTVJCOWN1MkF2Z1pLRDEybEtVcm5fbnRWVl9ERF9NQ1VqZnltZmp5dVU5RnFvbjV6TmxuMkFEb3FMTXBsay15VlRjVGxBVnpheHJjbE1qSnFqa1FNU2NRcnlNMHpkaDVxNTZwZGtqTVZFQXhOS0E4bnJyYW9tMVdLWFVNb09FdHgyRGNrMjNlRl9iSDEzVHNhTWZxN3JzVjVDOVQ3Znl2X1VWalE?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 18:28:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaTA1b21Gd0FmOUU2Z0pROU1nZGlhTlgwZmJ3eHBTWjZzRUh0bmd1UC1xdFpGLVdWTjFJOS1RMzBFbFdIREVqbUNZOWJTb0NyaUUtSEc5MGVSbTNHQWlmY3owNHhXUENhamZYZ2I1aFBqUDhoanh3bTBPb29ReURHRENFRW10QW5xOVpF?oc=5",
           "pubDate": "Tue, 15 Sep 2026 18:04:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Judge blocks Kennedy Center board from putting Trump's name on the building or grounds in any way - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTGZJbllUN3pmOEVmZFpoeG1ZQndmVWZXYkhwZGsxTkVRa295dG5jcm9pakR5d2lEbkxLZXVvYTNHODZYa09iQXdnNUFfam11SnZiRDlkN1BjdzYzSlpEWTJ1aEFsbkJNXzRpY2JXa2lqdzljc19SMDFQTXF5Qnh5RTJsYTRneFhfYVpGWkVONA?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 17:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US strips millions in military aid from Europe and Mideast to back Trump-aligned nations in Americas - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmhJTzhsazJOQU4zbnU4Q2RKQ0RhSVE1WmJ0aTNsSWF2b0U3amFoVW5hM2VMUWROeEY5Y0p2V0dnNU5GUDFibWpzTzJwdDhId2VpVDEtNjIzVEVZZWFWY2FqZHpwc3BwLUNHVS14ZFVmRjhfS2dNS1RsREdNamVXM1YxWUJrbUlsME0xM2h0UVBoMWFQYTNTXzlMSm1tMGM?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 16:56:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T19:50:21.212Z"
+      "updatedAt": "2026-09-15T20:00:19.884Z"
     },
     {
       "name": "Reuters",
@@ -188,6 +188,12 @@
           "title": "US Senate fails to advance sweeping cryptocurrency bill in blow for industry - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUU1MGZBRTU0UUZMWkhzdWlzbVNvV2tSeFBVVnFSczhrM0VSdHd6cFhBRFY0UWxZcmxXZU81MGprbzBvUlFpV2E3TXUxSFExRXFxYnhXSkN0ZHVOb28tVmdKTm0xTGNlNWZLOWV3UGpKSFlnbTI5QnBuRmZKNnNsUF9KMXdHY2FMS3lhdU5vTUFsQVo0ZFUzV0ZoSGVZWmc?oc=5",
           "pubDate": "Tue, 15 Sep 2026 19:22:53 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump lashes out at Supreme Court justices after ballots ruling - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTldnMGVzZVl5ZGRaNW9EU2E2Z08tOUJVNEdqa05iSnNNNm54MFVHU0o4aUhZRUJjTDV1UENNN0dvaHQ2S09oX0RGb2lWYTlxNTBRaThsZ3pySW9SN2dBS0FZUm9pR181OUVwbEZ2TmVBY3g1bWwtN05FeFFZd0RjSGhBT2xHMndqVEJSX1NBTWRuQjFsWWhIdWxkaEFSM3NoUkdub3phWQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 18:51:02 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTVZSbVNvTElHbUZ2VVFiNUZ2LTBBM1ZjSW1MOWlpRmpZcHJSMHFqbVM2aXRFTVc3Sl9zYU5COTNvWm9YUklDcFZseUJaRDE2NWxyMUJMU1JPeTBTTVpQSl9oTGk3OWhBSTRaSTFfaGQwRHRmcHNRTng5cWVGUjJZWFhxc3l3czZ5d2prbTlQeklLZ29ZNU43MG1QSEhDWEVvOXVtdTFsOUpVSmotbG5ybnk2cXpLdnRkWF81cnppOA?oc=5",
           "pubDate": "Tue, 15 Sep 2026 18:32:09 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wall Street dips as oil spikes and benchmark Treasury yields breach 5% - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 18:31:27 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T19:50:21.247Z"
+      "updatedAt": "2026-09-15T20:00:20.406Z"
     }
   ]
 }
