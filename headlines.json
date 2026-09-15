@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-15T13:50:16.150Z",
-  "lastChecked": "2026-09-15T13:50:16.150Z",
-  "lastUpdated": "2026-09-15T13:50:16.150Z",
-  "generatedAt": "2026-09-15T13:50:16.150Z",
+  "fetchedAt": "2026-09-15T14:00:23.951Z",
+  "lastChecked": "2026-09-15T14:00:23.951Z",
+  "lastUpdated": "2026-09-15T14:00:23.951Z",
+  "generatedAt": "2026-09-15T14:00:23.951Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "More than 100,000 people in Japan are now aged 100 or older",
+          "link": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 15 Sep 2026 13:43:15 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Suspected sabotage causes major Netherlands rail disruption",
           "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 15 Sep 2026 08:49:31 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "US confirms for first time it has deployed space weapons",
-          "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 15 Sep 2026 08:48:28 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T13:50:14.770Z"
+      "updatedAt": "2026-09-15T14:00:22.621Z"
     },
     {
       "name": "NPR",
@@ -112,23 +112,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T13:50:14.995Z"
+      "updatedAt": "2026-09-15T14:00:22.811Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 12:47:52 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Associated Press News: Breaking News | Latest News Today - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 11:52:03 GMT",
-          "source": "AP News"
-        },
         {
           "title": "‘Widow’s Bay’ breaks Emmys record with 14 wins including best comedy series, 'Pitt' wins best drama - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ2hDMVN1X1ppSUl5T2EtcDNuSWxQaWtBUjFLeVlCY0toTklUcXQwV1lqQ0g5V1hFVjNWWkxhQVhYV21YYjBUQUxOSW1rOHJUdFpKOWlReGdDM1pJQ0Jxa01ZdHRubEk0NTkwMnI0SnhKV25Wa00tV3hHbkFNM2lWSWFR?oc=5",
@@ -148,6 +136,12 @@
           "source": "AP News"
         },
         {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:15:26 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Suspected sabotage triggers a major Dutch rail outage during the morning rush hour - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1lmY1J6LUwzRVdITkttdl9JYW8yLTZIZExhZUEySG1sNkJpRmEzMmFmUU9qbjU3MGI5UTFtTFRzem16LU1UcXpZa1JRZFNZTzhqMzZRQXRhY3RHdTF0RmJyNGlOZ1otRllWbVpOMWs1Nl9qeXZnM0g1b2RuRm9oZFg1eTRLa3B1RzdEczM0M1pMd21TUlFvSTBCVUtVTE5vb3BN?oc=5",
           "pubDate": "Tue, 15 Sep 2026 08:48:00 GMT",
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzZwZE9udlVENVNDT3VzamJfbVRIS2lDM2RzcVVVRlUzUkVOb19rNVhQRWRiTjJ1aDFtSkl3MlpGa0ZFTTJyTjg4UFBRZUVuSm9CelRON0dXWk53Mi1yblpLVkkxVzd5SERRRFlZV1VTTUROUHNKWVpaYWJUWU9ZLUc0R2xRdmNJWWxNU1NLMlpEMXExeEcyQ0tFQUZ0dw?oc=5",
           "pubDate": "Tue, 15 Sep 2026 06:02:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Muslim region in southern Philippines holds first elections - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVg1VV94cFVFWXpPYXpiWTlYaHhrYnh5b1RYUDR2SXpRTE5wNThrQlZYcUw1X0ozOGpySk5MaExtZE45Y0RVOGxBaDZtX0pHZnZTUk9fZHFmWjFRQkFMY0Z4c0FZUFE2RldPRUJlaTFhbEtCNC1JdEU5TnNjOTVVekNwVUx2cGo5QklnVnp4NWM5ZTIxZUhsb3RPSXZfQQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 05:36:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T13:50:15.662Z"
+      "updatedAt": "2026-09-15T14:00:23.475Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T13:50:16.149Z"
+      "updatedAt": "2026-09-15T14:00:23.951Z"
     }
   ]
 }
