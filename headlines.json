@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-15T07:25:15.777Z",
-  "lastChecked": "2026-09-15T07:25:15.777Z",
-  "lastUpdated": "2026-09-15T07:25:15.777Z",
-  "generatedAt": "2026-09-15T07:25:15.777Z",
+  "fetchedAt": "2026-09-15T07:50:13.919Z",
+  "lastChecked": "2026-09-15T07:50:13.919Z",
+  "lastUpdated": "2026-09-15T07:50:13.919Z",
+  "generatedAt": "2026-09-15T07:50:13.919Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T07:25:14.554Z"
+      "updatedAt": "2026-09-15T07:50:12.958Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T07:25:14.731Z"
+      "updatedAt": "2026-09-15T07:50:13.093Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Supreme Court rejects Trump mail ballot restrictions ahead of midterms - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXZkb09iUnM3WFdTT1BXbXB1OGw1ZUlBTV9jZld2eGZiVHBvVHAzMHpTYTlURjZCUEktNnRtUjJiSUp0ZzZ6UDVHU1lXV182ZFJtRnppc1ltY1RBX2ZJUHN3WnhmNl9XRXlMM3Jtal9CRXVsQWRRaDhTWFFUdXpRQ3ZzOVRvRFFFLTB4QUhsSGpJdFZuV0RYNFlySndacGZ5MFRZ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 07:13:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzZwZE9udlVENVNDT3VzamJfbVRIS2lDM2RzcVVVRlUzUkVOb19rNVhQRWRiTjJ1aDFtSkl3MlpGa0ZFTTJyTjg4UFBRZUVuSm9CelRON0dXWk53Mi1yblpLVkkxVzd5SERRRFlZV1VTTUROUHNKWVpaYWJUWU9ZLUc0R2xRdmNJWWxNU1NLMlpEMXExeEcyQ0tFQUZ0dw?oc=5",
@@ -148,36 +154,24 @@
           "source": "AP News"
         },
         {
-          "title": "NFL offenses provide one of the highest-scoring opening weeks in history - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWhnYjJkNnVxSGJHM0ZBTkIwcklkdFYyN1lHZTlfVmxPXzQ4OWtVbnlvV1BYTUY2b2VpRjdRd0JlT01USDRwcENBMGJZNng1eTAweml3THdzdDZrOUFnVFlOeDYwRmNXZ016UnJEeWJOUk9Qa0RhNWx3TXFLZkpETW5UU1didVR6Z0pfRXhZU0x5M1BrUjMyNFFmNmJqUVk?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 03:49:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Emmy Awards highlights: Mariska Hargitay sings, Taylor Swift jokes in a skit and 'Buffy' alum unite - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVWlsQTBYYkZkVnF5bF9FVUVMTG1iY1ZnV1VqQi1uTlBsSTFFWXdOaG9WYjEzdmxhdnhpbHJaLV9MYVJQVGhDemNHZ1YwU3pEcmcwNWxfUXdlLXdMUnFBd0wtWThFUFJ5MU9WbEdPd1BKQWp6V25OdGZWdFFGVG9LN0hLeGp3R1V6UzJpcEN2amk?oc=5",
           "pubDate": "Tue, 15 Sep 2026 03:49:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Complete list of winners at the 2026 Primetime Emmy Awards - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPalkxQTRndWd3Tzh0THhjMXRvWmZmNE5fZUhLZl9GamdRbVc1U0QzakV4Q2pNNzU5WWswNFNoYXpKd3NVdEFrX092ZnNkalNKeXdjZ2NYVTN2aHFLaDc4MEZtem9hWXJFM25FRUxIRXdRLTcxNUEwdWtuNlFDeDg2bjVNOXN5S0pqdXlr?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 03:44:00 GMT",
+          "title": "NFL offenses provide one of the highest-scoring opening weeks in history - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWhnYjJkNnVxSGJHM0ZBTkIwcklkdFYyN1lHZTlfVmxPXzQ4OWtVbnlvV1BYTUY2b2VpRjdRd0JlT01USDRwcENBMGJZNng1eTAweml3THdzdDZrOUFnVFlOeDYwRmNXZ016UnJEeWJOUk9Qa0RhNWx3TXFLZkpETW5UU1didVR6Z0pfRXhZU0x5M1BrUjMyNFFmNmJqUVk?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 03:49:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T07:25:15.320Z"
+      "updatedAt": "2026-09-15T07:50:13.526Z"
     },
     {
       "name": "Reuters",
       "items": [
-        {
-          "title": "Dollar inches higher as 10-year Treasury yield climbs to highest since 2007 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGtqRlJ4LWF3TVM5VklxS09fMU16eHE3bWRLZ3lRS3NuS18wWGcyY3cwRWg2eEtzS3dFRVZGWHB6Z21NNGpzUUcydm10VXpIU29Ca3RnRDRrRUxsVWlNbE5yV0x6ejVQUTZXR1FHRHgtTUExOC1VazhaaGo0b3p0dTNVcDJ5YWdjeWkyQVZRRlhOUUZYUkpmdWsyeHJjNTF6QjlYdEtRcy1NVUg2RWNmOA?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 06:10:00 GMT",
-          "source": "Reuters"
-        },
         {
           "title": "Ukraine races to counter Russia's jet-powered drone attacks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObFJrTlJsU1AwaE9oTEpza3ZNVDhUcXFrTHFhWjZXbWxuaG9ZSTFNbWxtSktUamJkOU9oS1VGMl9QX0FiVG1tQnpfZ0c1d1NPckM4RDVpQmZoN0U1blpmNUJOUkhMNHRGbWY2bXA3NXJpbFZHQnhjeTZhQTFUSFp0RUVsbDNaWVd0VEVXY1BiSjQ5ZXpabXNZQVNiWlh6RlpnQ3RFc2tXODhDblk5aDVRRGtaYjRvbko0Smc?oc=5",
@@ -193,7 +187,7 @@
         {
           "title": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFU5RG1vWUx4LW5tTnVlWmxVaExUb1JiYks2N01JbTJFWl9NY3ZFRUpxaGc3LURuZ2xST2VkZ1hFNFROcjM4U0RPeGFqczRCamt4Z3FqWFBteC1seWxSdUJLRE9HUDlqeGxlczE4M0JJTEp1WC1VWGJXcmpJUjgzU0g1OGxHN0N6RWZtTjJBNktPTUJqU2Y0N2J2QTR1ZHRjQTNQZVk1UU4weXRvZGJvMDRYZkh0VkNvMXQtVg?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 05:20:05 GMT",
+          "pubDate": "Tue, 15 Sep 2026 05:16:00 GMT",
           "source": "Reuters"
         },
         {
@@ -219,10 +213,16 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnE4S3JkY1VydWx3RkhxYnhhWG12dFA4Yy1aZVBLVDB6cWdQYWtzckhvZWVHc053YVg2Q3pLR0hFOGFYeVBlMTdQSlR1R1o5OGxTZWp4cUw3OG0wWEtJbWE4V1d4djBvcE5jb3lCb3FqbGNNcjh1MjAzSE44YVdNRW85YnhQRWRnZ0ZIaU1tOGF5UlhNalg5TkNYSTRlRTVwVmw2UUh0LWwyVGVsNzFR?oc=5",
           "pubDate": "Tue, 15 Sep 2026 04:05:00 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "Russia hits petrol station, warehouse facilities in Kyiv, mayor says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXZWZkxjRTRuRlgyd3VCTEVHeE53UjBhdDB0NUtVdEdlSTdiSGhjQ1F1NHhhZDBhN3NYWWp1QmVzaS05Ukw1TS1xR3VWWWFqdnJUYzNnRzBaT285eGRGSHBVUnJOdDdQdjRoNEdhMGtMMUx4Y0c1YXpScWlzZ3NMRkhZV2NwazNJR0pleG43aTgzWlZuakU1U3Vpb1FmSTcxNENIQ0F0eUhjMzA4QUsta1Nn?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 03:36:00 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T07:25:15.777Z"
+      "updatedAt": "2026-09-15T07:50:13.919Z"
     }
   ]
 }
