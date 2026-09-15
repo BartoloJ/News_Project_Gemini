@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-15T15:50:16.467Z",
-  "lastChecked": "2026-09-15T15:50:16.467Z",
-  "lastUpdated": "2026-09-15T15:50:16.467Z",
-  "generatedAt": "2026-09-15T15:50:16.467Z",
+  "fetchedAt": "2026-09-15T16:00:21.841Z",
+  "lastChecked": "2026-09-15T16:00:21.841Z",
+  "lastUpdated": "2026-09-15T16:00:21.841Z",
+  "generatedAt": "2026-09-15T16:00:21.841Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T15:50:15.151Z"
+      "updatedAt": "2026-09-15T16:00:20.533Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T15:50:15.462Z"
+      "updatedAt": "2026-09-15T16:00:20.862Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Houthi official says Saudi airstrikes leave 3 dead, and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmhBTVJCOWN1MkF2Z1pLRDEybEtVcm5fbnRWVl9ERF9NQ1VqZnltZmp5dVU5RnFvbjV6TmxuMkFEb3FMTXBsay15VlRjVGxBVnpheHJjbE1qSnFqa1FNU2NRcnlNMHpkaDVxNTZwZGtqTVZFQXhOS0E4bnJyYW9tMVdLWFVNb09FdHgyRGNrMjNlRl9iSDEzVHNhTWZxN3JzVjVDOVQ3Znl2X1VWalE?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 15:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "FBI chief Kash Patel defends loosening of employment standards on bestiality, prostitution - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1diM0piQ1BnZkF1dW9mM0w3ZnQ5eDBoV3BKLXFvLXA4Si1wT0pYLU91RDF1X2lEZ0JvcnZ1SzJLYXc4eVhhVUVSdE1jYjBvZktkQkRwd0FYUWxFRXFkMWtDaGthRjRQLUJzNnVFdTJGMlpHY2NjRzBiUDdTSGlUeE1EMnVjY2NTbkE3SG1MdnBPX3o5VG40?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 15:14:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG9fSlBNMF83anJ5cU1odGllV2JVS3BENUxkaTZrSlo5MF9HLW5KaTF0UWxnM2REYWRSX21NaklvVGMxVER2aTJBZ3BuRmNzdGg4STFTOVhpQ1VCMjMycUl0elRnaHlmSEJzRXFKSTljSDE2YWxzajZEY1dxdWUxalppNktfVXNfMFc5cGRaeTJOclVobDJFS3FuMzRQOGNyN3JTQXdDeFJOQQ?oc=5",
@@ -126,13 +138,7 @@
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 14:43:18 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Houthi official says Saudi airstrikes leave 3 dead, and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmhBTVJCOWN1MkF2Z1pLRDEybEtVcm5fbnRWVl9ERF9NQ1VqZnltZmp5dVU5RnFvbjV6TmxuMkFEb3FMTXBsay15VlRjVGxBVnpheHJjbE1qSnFqa1FNU2NRcnlNMHpkaDVxNTZwZGtqTVZFQXhOS0E4bnJyYW9tMVdLWFVNb09FdHgyRGNrMjNlRl9iSDEzVHNhTWZxN3JzVjVDOVQ3Znl2X1VWalE?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 14:33:00 GMT",
+          "pubDate": "Tue, 15 Sep 2026 13:39:14 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEg4dFhUa0hYYzZsdXJhRTVFZ09rQUl5ems3Z0JuTE8zdlZJb3Z4bC1QUjZ3d0MzZG1KazlSenRUT20wSGFCMm9ya3AzQjJQeFBVZXB1enM4SDd5akRpNmgwT3RuOXRhSWZvVDYtZ3BOdkx1OWVkWmRCd292c1ItVDVVcmZKV1VPMWtjSU9IVF8tWEpUYm1pRnJacE1JbE5DbHJLbQ?oc=5",
           "pubDate": "Tue, 15 Sep 2026 11:09:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Suspected sabotage triggers a major Dutch rail outage during the morning rush hour - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1lmY1J6LUwzRVdITkttdl9JYW8yLTZIZExhZUEySG1sNkJpRmEzMmFmUU9qbjU3MGI5UTFtTFRzem16LU1UcXpZa1JRZFNZTzhqMzZRQXRhY3RHdTF0RmJyNGlOZ1otRllWbVpOMWs1Nl9qeXZnM0g1b2RuRm9oZFg1eTRLa3B1RzdEczM0M1pMd21TUlFvSTBCVUtVTE5vb3BN?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 08:48:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T15:50:15.979Z"
+      "updatedAt": "2026-09-15T16:00:21.397Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-15T15:50:16.467Z"
+      "updatedAt": "2026-09-15T16:00:21.841Z"
     }
   ]
 }
