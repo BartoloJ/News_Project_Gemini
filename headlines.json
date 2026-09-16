@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-16T00:50:13.868Z",
-  "lastChecked": "2026-09-16T00:50:13.868Z",
-  "lastUpdated": "2026-09-16T00:50:13.868Z",
-  "generatedAt": "2026-09-16T00:50:13.868Z",
+  "fetchedAt": "2026-09-16T01:00:21.823Z",
+  "lastChecked": "2026-09-16T01:00:21.823Z",
+  "lastUpdated": "2026-09-16T01:00:21.823Z",
+  "generatedAt": "2026-09-16T01:00:21.823Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T00:50:12.743Z"
+      "updatedAt": "2026-09-16T01:00:20.780Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
+          "link": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
+          "pubDate": "Tue, 15 Sep 2026 20:55:41 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Turks often keep gold as a hedge against inflation. It may be hurting Turkey's future",
           "link": "https://www.npr.org/2026/09/15/nx-s1-5949212/turks-often-keep-gold-as-a-hedge-against-inflation-it-may-be-hurting-turkeys-future",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/15/nx-s1-5968643/antarctic-krill-hydrothermal-vent-south-pole",
           "pubDate": "Tue, 15 Sep 2026 12:53:39 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Geopolitics and grain don't mix, say these Montana farmers",
-          "link": "https://www.npr.org/2026/09/15/nx-s1-5964930/canada-tariffs-hurting-montana-farmers",
-          "pubDate": "Tue, 15 Sep 2026 08:33:19 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T00:50:12.928Z"
+      "updatedAt": "2026-09-16T01:00:20.892Z"
     },
     {
       "name": "AP News",
@@ -136,9 +136,15 @@
           "source": "AP News"
         },
         {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 22:54:05 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Donald Trump - AP News",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 22:39:29 GMT",
+          "pubDate": "Tue, 15 Sep 2026 22:51:35 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcW93ckZBY1Y1bHJDS243bGlJbXlENGFaTmQzS08zTWxtQmEwYjlFRkhuQk9WZ1plVjNac2JRSjY4Zk1uLUdlT2p2VHh4WWxfanFHaDNWa3NRWUktMEhsZ0trcWcyTWNMb0RmN05aT2pJV2I1S25nejFtOXNvRjhTVjU4VTFrcTctSzNqWHFCOXpkSmtGNnhadU1EVEdSd19kUllsWA?oc=5",
           "pubDate": "Tue, 15 Sep 2026 21:44:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 21:37:14 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T00:50:13.406Z"
+      "updatedAt": "2026-09-16T01:00:21.376Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T00:50:13.868Z"
+      "updatedAt": "2026-09-16T01:00:21.823Z"
     }
   ]
 }
