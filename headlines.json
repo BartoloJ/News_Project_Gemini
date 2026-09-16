@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-16T07:25:14.651Z",
-  "lastChecked": "2026-09-16T07:25:14.651Z",
-  "lastUpdated": "2026-09-16T07:25:14.651Z",
-  "generatedAt": "2026-09-16T07:25:14.651Z",
+  "fetchedAt": "2026-09-16T07:50:15.534Z",
+  "lastChecked": "2026-09-16T07:50:15.534Z",
+  "lastUpdated": "2026-09-16T07:50:15.534Z",
+  "generatedAt": "2026-09-16T07:50:15.534Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T07:25:13.480Z"
+      "updatedAt": "2026-09-16T07:50:14.436Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "U.S. acknowledges for the first time that it has deployed weapons in space",
+          "link": "https://www.npr.org/2026/09/16/nx-s1-5970937/us-weapons-space",
+          "pubDate": "Wed, 16 Sep 2026 03:26:28 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Ed Sheeran's tour in trouble after opening acts drop out in solidarity with rapper Macklemore",
           "link": "https://www.npr.org/2026/09/16/g-s1-143549/ed-sheeran-tour-trouble",
@@ -69,7 +75,7 @@
           "source": "NPR"
         },
         {
-          "title": "NBC news helicopter crashes and kills at least 3 in LA neighborhood",
+          "title": "3 people killed when news helicopter crashes while covering LA bus accident",
           "link": "https://www.npr.org/2026/09/16/nx-s1-5970477/helicopter-crash-los-angeles",
           "pubDate": "Wed, 16 Sep 2026 00:06:00 -0400",
           "source": "NPR"
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/15/nx-s1-5968648/census-poverty-income-health-insurance-report",
           "pubDate": "Tue, 15 Sep 2026 14:29:49 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Kennedy Center board votes to close it, as judge again keeps Trump's name off",
-          "link": "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-closing-trump-name",
-          "pubDate": "Tue, 15 Sep 2026 13:49:07 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T07:25:13.722Z"
+      "updatedAt": "2026-09-16T07:50:14.741Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,45 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T07:25:14.210Z"
+      "updatedAt": "2026-09-16T07:50:15.163Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "US, Vietnam firms to sign agreements as To Lam travels to New York, documents show - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQai1iRmYyOHYyREhQWjhvNjRqYUdEWWJwSUVSRndtWWN4bDdOenlvZjlTRnhqbDJYT28tbnUxSzV3U0VCM1Y2c0dzdUFnQk9jdjF0emo5RHo1ZzdMbllqcEE2dHdrOU5WY1FlTWx1YmVQWnIxT01ma0ZRNU9WOUR2LVdyOWNNckVZM1ZmVXNuaXlMMFVib0hHYkxVUFRaWGYxak90YmZibE5QR296M1JVRUhqTU43bGttYk00MA?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 06:29:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Smaller phone and laptop makers dig in for years of memory scarcity - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0xfbWlSV2ozZE5iSnhaTGFFanlQbFNFTTZqVjY0a0thWW5aUElrMi13ZGxtSnBHXzlBR3hwRWdrb3Q0cktJRmlBNEF5MEtlemcwWGt0VEY0ak4zYmw0aVZSekpTd1RZSzdJdWs3a2Y2OVdZYlpON01ISnlDanRiWWttSHJqaXhlcS1kUFlNaVlTOTFMWjJoZHVfTTVRcjR6UWR1MTdXdkRiWXg4aF9sdVpLRXo?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 06:08:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China defence minister urges an end to 'provocative acts' to open security forum - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN3Z4aTk4b1VkSXZjX0VtdktUeVYxcVVjT1U0OV9lRFN1WnRTV2w3TFRYalZQZnN2REg4eTZoZk1RQWI4dnBkNUVuWlhZWnQ5d2RTU0dBcDZrS0h5cjdKVW5vekdEcXJfTEJpOUYtNDNCUzNkWXBndm5jZzFPdXNfX1BXRDVWUVV2SHFzSEZzWEVQRTdWaTFXNThrZXFxcmNTS1l2ZTh5N3Z6VFNCM1ZiemxyY1ZqRUZJX1JSMg?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 05:38:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "EXCLUSIVE: SK Hynix in talks with Intel about deal to make memory chips in the US for the first time, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVW1TN09JajVCZlllYVppOUxpX1RKbnVZOEpHNlA5ZkxFaElCd3h2czNacjJ6QlRyM2NPM1A4Y2tUVmNUTzlRSVJhX29oUk9ZTjFnYjFLOE9NWm5jaTVGOWo1Mnc1VHBOMTRKYXR0NURtUlltQV9ZVlgybWNSWmlDbjdVOGxLTTRlWFhGcUNNcjhYZXA2Q3BocGFpUF9sZXhYdXNURk5CVkZ2UVptUlUxOVQ1UmdOY1RUT2FvZDVBQ2EtNWRRbnpaMHlEYl9XQ2Ny?oc=5",
           "pubDate": "Wed, 16 Sep 2026 05:32:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China warns US space weapons could fuel arms race - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcjRYR1FBVkNoeU9oRzM4dlozU1owdjViN3hjZ1lIR1VfTnZFUDBDUnZ4aDFYelNqeVItcklZZU83WmtUYUtpbk9ndEZ6ejVSQ2JhVkRkRXczM0lyQlNmMzJIQW44cmNsMnNXSy13LVRTQS1CcTJHWXFRUzd3NmNZT0tyMGVXVE1QcWNyMHpZMlZQeG4xLTFyN05xaUxFSWl4V2xVemV3TjZDT1FSWmpiSVpB?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 05:19:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "German minister plans market incentives to boost gas storage, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUV6SnZJQWx5TU1vQmJId1dra3ZnREd3blczZlAwR3RVU1lKY0UzS0pfbXExUjR3d0VHbmRzam1tZU1aT2hsZkxESHFzWUg2elN0WjF3S2k5aVVlSnh0U3hCaUREbDI3X3djdzNkV0Vsd2VDemFQWUhCNlNfQWJvUlBzeXNoWHQ3dlc3dzFCV08ta1lUU0ZEWmZqLWNhS3NWclFHQ0VteDhpUDRXQXRFRmlXSWttRXE3d2w3cFVn?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 05:04:00 GMT",
           "source": "Reuters"
         },
         {
@@ -189,40 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTlEd0c1Vk1iejBnX0dLbk9mbDhrdWRULUYySUJCc2sxWERUWGdlUEktbm12aVRXOE9zTTR1ekl5M0dqSkZnYjJxenQ3MVlmT3JhTndFLUZlV3Mwb2RqYWx2YzVjXzBMNkc3UGZPVzUyZzNtS2JSMG1FVGZSZ3VOdDRIZjdlX1RkdEdjUkNndVJhWHFGTlRnSXJkU3FLbDhNbTFETnRFQVJTVE5pM00tazB2Z2g?oc=5",
           "pubDate": "Wed, 16 Sep 2026 04:24:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Hong Kong's first five-year plan aims to add jobs, homes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekRvWXNvZ0xVT2x3Szg1V0pQMUZvazJYVHh4eUxpQ1hpNC1CTU1kdmF1UU5WYmx1V0d6TTBQWnhNa2JZLTZieWp1MnNldV9vRVBJQVhwZGVvTGFVUGdGSTZHd29mczlBUmRoTHowajh1SEhXNWVjZnlZaG5PMzFQUmpYS3ZBVjRwVzFFNmltaVRpaVJiWDk0WU1MeEtfWXVkb2pQckhyMFAwYkpPeTNydzI2RDhBUHRFLTdZRXNGNEVNT0Z5eDN2Q2p3?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 04:05:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chinese investors rush into US stocks as Beijing opens wider path overseas - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnFfckp5VnNfN2dzRlRkQkl2cnlnZzhwTE5Qd2MySzUtTjBOb2VkQTRGcGlGZjBBbXdxR1VIWjhMRFlzQnZZMU9ESWFmQzBVVXRPRUlXZE9KaUZRUWY2Vmx5T1lsOEF0QWhVQ0s5VWJWSG1wa21nb25NUG95SW9zTktfOGVHWEFLR1pqbTlTYlZQa3dhLVh3RmwybFJwbTcyVW9Ua0x2b04yNm1hUV9MUVRIYkRfSUZBVnRv?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 03:37:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Strait of Hormuz ship crossings remain in single digits, data shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelJ4cHN6djhZQmdNUTcyTmwyNjRycVF0NVZrSkwtRFJwUUVLMVRidVJzODlKME1ITFJiQ1RWNzVxWThEWWlJY1A4LVNUWkVucU9oMlp5ZDZCVUlVeDRGYnQ2blhNb2dKSUdMUjZGVzhPc1dNTnJnaERnS1VpQ3dNcHB1d2wyOHgxaEh1clRwenliU00zWWgzVS1MVnRCTTJMT3Q3d1VFTFF2a2JjYkVhTUdKdDA?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 03:33:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "NBC local news helicopter crashes in Los Angeles, killing three - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnBCcExub2NSdkEteUtWTkd5ZmZseTMxdjhPb3hSQ3VRSlRDMUVJTElPWDY4ZHhZYnN6SkN0elJ0bkh2QVhfMENlUHZBVUEzNjlXdXBVdUpuSS1MUmJPV3ZvazdBYll0dXdua0hKMi1famNuOXpSWWlQa1hYdVlVcm9RUlEtTWJkRWVDazVWaGp3SEZ3SmhBREpUd2xzTDR4ZFZ3MnY3YlN1aWFkNTRtRQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 03:13:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indian shares tad higher after selloff; elevated oil, Fed caution cap gains - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTGZwNnhJd2VnRFVFRzkxTlFVSl9CM2NDVXduY3V6c21DMnFjNThSTkR2OFFTNUR6aVdabVBybkZ0TEVCTS1yR0p5YlZCYlR6dTl2NnhVRnRvcVJPeXU1NWFNVWNESW8yRld2c1JLanJsdXh2d1V1R0lId2RuQXU0cUVIb1g4RW1rMUJHZ1hSMGM1Y2JXTnhnLURBTkRKNlFzM3JqVmlZU21xRXlReG5GdG5sMFhCX0czb2ZNSmlsT0ZKX3lfNVVn?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 02:32:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T07:25:14.651Z"
+      "updatedAt": "2026-09-16T07:50:15.534Z"
     }
   ]
 }
