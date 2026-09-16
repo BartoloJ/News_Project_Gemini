@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-16T16:00:22.973Z",
-  "lastChecked": "2026-09-16T16:00:22.973Z",
-  "lastUpdated": "2026-09-16T16:00:22.973Z",
-  "generatedAt": "2026-09-16T16:00:22.973Z",
+  "fetchedAt": "2026-09-16T16:25:14.556Z",
+  "lastChecked": "2026-09-16T16:25:14.556Z",
+  "lastUpdated": "2026-09-16T16:25:14.556Z",
+  "generatedAt": "2026-09-16T16:25:14.556Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T16:00:21.732Z"
+      "updatedAt": "2026-09-16T16:25:13.395Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
+          "link": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
+          "pubDate": "Wed, 16 Sep 2026 12:14:19 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Mice with human brain cells offer a tool to study disease. Ethicists ask: What's next?",
           "link": "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes",
           "pubDate": "Wed, 16 Sep 2026 05:57:03 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it",
-          "link": "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
-          "pubDate": "Wed, 16 Sep 2026 05:04:27 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T16:00:21.902Z"
+      "updatedAt": "2026-09-16T16:25:13.504Z"
     },
     {
       "name": "AP News",
@@ -136,6 +136,18 @@
           "source": "AP News"
         },
         {
+          "title": "Donald Trump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 13:10:26 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 12:57:02 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "EU chief Ursula von der Leyen says she wants Canada to become the bloc's 1st associate member - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWR4THFwSEZWZWEzV1RCLWh1bFZieGlkR0VGMmNKNm15RE8zMnI1YzlqQmFFYjhvWWU5UDJIWVFWOXU3RF9zZEFIUUZUWnRqQTJUQkRBdWx2NWl2c2pOS3hSYkw5aFlMUVhkSHNtdzA0ZE9reFd6RGVDQ1Z3QUN1cTFFREJFWnFsT2V2Skw4WDEyRFpHTzEyRWxsZjZOUQ?oc=5",
           "pubDate": "Wed, 16 Sep 2026 12:53:00 GMT",
@@ -148,30 +160,48 @@
           "source": "AP News"
         },
         {
-          "title": "Donald Trump - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 12:49:37 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
           "pubDate": "Wed, 16 Sep 2026 12:46:35 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 12:10:44 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T16:00:22.530Z"
+      "updatedAt": "2026-09-16T16:25:14.045Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ195M0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 16:00:23 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Robust US retail sales underscore economy's resilience; inflation pressures building - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdndU5ZZ1lnT0pkMEZEVG4zTjdERHB1Z1Vwem1aUURBS3pxOUpDWXh3Tkd1NDFfWWp1eDJQNWdQanlhcHBJZTJJaWs3U1JXQTluNDV2dUp2QlFNZ1ZFU1Y5T295QXM1akRDdnM4UTBjR09XUjhYV0FUWUZCM3dldUJoTHloMWk1QlFzbjNxeWxRNktyOFVyb3AzYndmMGg1?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 15:57:59 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Crypto bill's defeat shows limits of industry's political machine - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHphX25vNHpSYXNOQVlwZDdwc1ZxbW81RkN1V0hTdzRoeGx5MGY2b3k0alhVRkVtYjN0ZHBLWEFZVDdZUGs0NWJ3dkVUUk9qc3hvbFpoY3F1WUdLc0tzd25ySWNCeHlWZFlYd0piek41a3ZBUGtnaFI3bVV4RTM2OEtJREZYN2FJclRvTXViQ0hXOUlwWDJtLVotWXRzSm1KeHB4cjZwbUw2bUwtQ0p4UHlOTTRjbWc?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 15:52:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Sweden's centre-left opposition maintains election lead as count nears end - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1dDeUQ3Vl9LOW9OMDd6MG1TWFhnQ0IweFk5X0oxZXlzSVBORlF2QWhJbGJRMDRrTjlTRTBvOExiSjFpRlpIMUdsM1gxa2otWTVfcGpMa0dHTWRZRnljdVZQM0hpMTM0TWJQNGlKbzRBVVhSRXlvd2R1SFROU2ZKNWttU3Z2cUo3UWo3V1BaZ3hiN3MxM3RCeU9rR1lZdnViT0I4S3VvV0xpQVB4RG1wakdR?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 15:48:12 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Deep in Trump country, a revolt against corporate money could reshape political spending - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONm1zTi1iSndsdnl1UXVQem02SWpGN21qUWhiMFNuTGZNSUstZGVsUkNIbU5HNlVROVl1UEl1Q0xuNG9sdnRUaWRybWgxNU1jaWJWWk9SemQ3c21oMWlTbEZ0UWdCUDNTTk1EWTdQbW9kZ0JtbU9MTXJYS01QYXJIUS1nUFE2cFVzUkw0ZzRKaU15MTlUZ0pEVnZiSXJXM1VwVldSRk1rNUhSY04tWFNnZ2Jaa0JySmc0VVRua3YtZTVKT1Vj?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 15:48:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Italy's Meloni scraps road tax for most cars as election nears - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2t6dWdxN3FocnRRQjRfY0REUlZhMm1NdWw1WnRSTmRrVzJVU09uMUFCeXQ2QnBtRkM5Uy13QTRUSXU1R0xRbVlKY25PODczeVlZd2Z5QW03NXRQNGVwOWlEUUFNSDFORXl5YlEyVElBT1lqX0llRVlVQzVlQXdzdmRpdVA5V2plUGhMeE1vVWVGaGJKdUE?oc=5",
@@ -179,50 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "US retail sales rebound more than expected in August; import prices surge - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdndU5ZZ1lnT0pkMEZEVG4zTjdERHB1Z1Vwem1aUURBS3pxOUpDWXh3Tkd1NDFfWWp1eDJQNWdQanlhcHBJZTJJaWs3U1JXQTluNDV2dUp2QlFNZ1ZFU1Y5T295QXM1akRDdnM4UTBjR09XUjhYV0FUWUZCM3dldUJoTHloMWk1QlFzbjNxeWxRNktyOFVyb3AzYndmMGg1?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 15:18:32 GMT",
+          "title": "UK PM Burnham to welcome Canada's Carney to Everton soccer game - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTXZLb0dGQWw4NlUwQllLOEJzVVptU3VGNEdvUXBrR2tyM2xNeUtLREQ1bVBaUkVWRWFJSW5HeVVIYVNOa3Jjb0pWT1hnVTBCUmNfaUszOUdGbWxhSVR5Qy1HNUhnb2E5N1MyNnRUVHVlX0ZnYndWS3Q4RkY4cUo0VUZxWkU0STRYVHpaNHdBcUUyYW9aSmtpNzlCRHFfUm5qRjdvc29tSWhLQQ?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 15:22:05 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Crypto bill's defeat shows limits of industry's political machine - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHphX25vNHpSYXNOQVlwZDdwc1ZxbW81RkN1V0hTdzRoeGx5MGY2b3k0alhVRkVtYjN0ZHBLWEFZVDdZUGs0NWJ3dkVUUk9qc3hvbFpoY3F1WUdLc0tzd25ySWNCeHlWZFlYd0piek41a3ZBUGtnaFI3bVV4RTM2OEtJREZYN2FJclRvTXViQ0hXOUlwWDJtLVotWXRzSm1KeHB4cjZwbUw2bUwtQ0p4UHlOTTRjbWc?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 15:09:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Houthi blitz leaves Saudi Arabia exposed, Iran emboldened - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU210dG1ONGRhN0FKOXF3WUpTLVowR3hJTGlsMVA2LVUtXzlacGVGbE5Hd3VLYktLOEgzYXdBZ3llMzFBdW1RMGJJaUxjRWJHSHRNZmh5T3l5RW9qTDE3Y1NRSFhnVjlEQXR0QzY4Ym0zdUc4MGxNdkZMT2NYVVU1eEtxcUtWYS0tdHpCcmJVXzdXRDZFQU1PeHVuc3I2bnUzb3NBR2pSN1V1YmhMSFFz?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 15:07:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump's envoy wins release of 25 Belarus prisoners, expects hundreds more soon - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeEF4X3lkbmdETWZ4S3A5a19qUDlUNG1BS240WVlVMFRWWkFNU2FsRk5MUDdqSUVUQWsxMkFqNzd6THdDT0RIQWg1MkhHUnEwZ29uemExN21FTGZwcFBiZmRyaThEYXA3b3htaWZEb0hRRndrYzFWSWdDYTUxU3YtNjR2YTkwcnF3ZzUwTHAzZU9xN1QxOTcw?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 15:05:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Yemen offensive elevates enigmatic Houthi commander's standing - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa0FZY0J4cFN1dGZjZEsxUXc5aVlrd2ZJdHF5LWtEcWU2bnJ6aFZ4X1I5WHhRQ3pfZUNfVzJUYlEzbW9lSTdINmtnVFYyUXNBZW5LcXlYQS0zVUNlTllVTUhkR29xaWFhZFlsSTgzU1p5Z3FTSzJtMEpka0lHS0VoZHltRXMxME40Zldtb0xOcWxEekxIOGN5WG5vV2I5NHpZbGd6X21kTzMzT3hnWjVLUDZFejNYeEgzcEJnRFFuQlN5UQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 14:58:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Sweden's centre-left opposition maintains election lead as count nears end - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1dDeUQ3Vl9LOW9OMDd6MG1TWFhnQ0IweFk5X0oxZXlzSVBORlF2QWhJbGJRMDRrTjlTRTBvOExiSjFpRlpIMUdsM1gxa2otWTVfcGpMa0dHTWRZRnljdVZQM0hpMTM0TWJQNGlKbzRBVVhSRXlvd2R1SFROU2ZKNWttU3Z2cUo3UWo3V1BaZ3hiN3MxM3RCeU9rR1lZdnViT0I4S3VvV0xpQVB4RG1wakdR?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 14:41:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "War-damaged Gaza building collapses, killing 20 people sheltering inside - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPajdBSGppODJmQklfVWJDc0xQcGkzOHlBbEV1NnJ1TkNBZmtsWFN4NHhXN3JXLUNZZjdFUVZ2ZHVRLXRwRVBlNVpweUl4YVl1eWNqZ2NueEI5RURlVTQ5X04zV0xoMEtFRzdVS2liZElfYVR4WlNuTlIxWWVqUjNmLUpMQ3VHOHZvVGtXcHYxanNMSVFjU3I0TFpKcnhEMkowcVFpUTlMa1ZzRE9HTTJ4czlReUsxb09oU3ZQWjZiYlpBMXAxWG02UUhB?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 14:39:44 GMT",
+          "title": "Bond market woes likely a factor for Fed, but intervention seen as unlikely - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHQzSC11Z3EtOUFVMG9sQnYwOHhnZkJGM2VoVWtFNWp1Y0ZlM2lIMEhoSnkzaExSQlZ4SzVFRkk0aHR3S0NUWC1ZdWQ0MXdJNmxoYWdxdGJJcmtDWENDa0JvNE9fQjFCTFhqTVZZR0NuQmNDNE03dHVEcUVmZDdpaUhXUTFWdzdmeXJUVkxGdThDaG8wNGRWSXl3V09DZVNDN1BzbllrN0tSZw?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 15:19:50 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T16:00:22.972Z"
+      "updatedAt": "2026-09-16T16:25:14.556Z"
     }
   ]
 }
