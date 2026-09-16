@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-16T22:25:12.596Z",
-  "lastChecked": "2026-09-16T22:25:12.596Z",
-  "lastUpdated": "2026-09-16T22:25:12.596Z",
-  "generatedAt": "2026-09-16T22:25:12.596Z",
+  "fetchedAt": "2026-09-16T22:50:15.887Z",
+  "lastChecked": "2026-09-16T22:50:15.887Z",
+  "lastUpdated": "2026-09-16T22:50:15.887Z",
+  "generatedAt": "2026-09-16T22:50:15.887Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T22:25:11.494Z"
+      "updatedAt": "2026-09-16T22:50:14.615Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
+          "link": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
+          "pubDate": "Wed, 16 Sep 2026 18:30:46 -0400",
+          "source": "NPR"
+        },
         {
           "title": "You'd expect homeowners to save their stuff. Federal policy pays them to leave it",
           "link": "https://www.npr.org/2026/09/16/g-s1-143708/video-houses-collapse-north-carolina-ocean",
@@ -99,20 +105,14 @@
           "source": "NPR"
         },
         {
-          "title": "DOJ charges Russian agents with plotting attacks, including in US",
+          "title": "DOJ charges Russian agents with plotting attacks, including in the U.S.",
           "link": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
           "pubDate": "Wed, 16 Sep 2026 13:19:49 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "A tumultuous congressional primary season closes with record departures and defeats",
-          "link": "https://www.npr.org/2026/09/16/nx-s1-5971264/congress-retirement-2026-house-senate-primary-defeat",
-          "pubDate": "Wed, 16 Sep 2026 13:05:41 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T22:25:11.650Z"
+      "updatedAt": "2026-09-16T22:50:14.891Z"
     },
     {
       "name": "AP News",
@@ -130,6 +130,12 @@
           "source": "AP News"
         },
         {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 20:51:06 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "US troops must prepare to fight around the moon, Trump’s top military adviser says - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZUtPSlhUMGRwX3RyZW5lbVpEUE52Q0lDVDJnM1NaZWlKTDY2dnZWRVZMdWpDbHk2STRNVzZLc0xiem9pcDdJVXRTaURhclRkWXNYak1WS1hVbTMyeVlKZG8ySFhCTENyVFloYkRPdHEtTEFTZU9kQU1IOGxwSENpZ1F2dmhGYzFFS1E3UzhobVBSZnlG?oc=5",
           "pubDate": "Wed, 16 Sep 2026 20:42:00 GMT",
@@ -139,6 +145,12 @@
           "title": "There's one issue where Republicans and Democrats are unified before the midterms, a new poll finds - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXRuY2Jucy1oTW9YNF9ZaXEybXMtMENxZGQ3Y3ItU2JSTW5DNlJ5VzV4S0Fua2EzZ1dKLWtTS3JTQjdUaEozNGQ1U2E3cnpzSzllaE1oaVlIZW9rT1dMM1AtR2RyWFBqdjdWTk8tcmw4VVk1TmM3TUxYelV3bURteGwzX2tRSDFodC1kYURZeFVJaEFPbUV0QktQdUxDR2wteXo1NQ?oc=5",
           "pubDate": "Wed, 16 Sep 2026 20:42:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 20:11:58 GMT",
           "source": "AP News"
         },
         {
@@ -152,77 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObC10Q2xCdEtYZzZHVElOamk3X19QVGtfYi1LS3BlanhOT1hMWmJ2REZBZWtQYWlmaXFfRUF4ZzdzU3dDalFFbHpxZ3E4M1BLakRsT0dZWS1zRTFDRWdGbFlNZ0hlc0o4RTBEbHU1clpSYy1TLV82YmgxSTZ5eGRuaGJZVmRmQkh1eS1IMkNYaEotNDU4ZTZCR0ttQnVfQ1V1RkZ0YQ?oc=5",
           "pubDate": "Wed, 16 Sep 2026 19:45:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "House holds billionaire Leon Black in contempt of Congress over Epstein investigation - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTlDaEdualRxdzhKQ2tPZ3VtLUEtSnZqSFNIU1F2aVgzVkFhOTdLemVBR0RkWDRUaGo2ZHdibFBsay1fMDAxTUlFWnlycFQxV0k1aVBlTUZnS1kzelZYSzhUN1laalpocVU5YjJHUU1WOTVydktXQ2Zsd3BFQTNqUGN1T25CSUpBX056clhfUVZUNWtwajFoWVl6ckQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 19:35:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 19:06:23 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T22:25:12.121Z"
+      "updatedAt": "2026-09-16T22:50:15.434Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ195M0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 22:07:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Fed raises rates in search of 'timelier' drop in inflation, sees more tightening ahead - Reuters",
+          "title": "Fed raises rates in search of 'timelier' drop in inflation, sees more tightening ahead - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0VZMTZPMGRVWVVTY0lVRERxMHhQdlNnb2NBOHROMDJETXBLVmJFTW12SmFybUloWGRfYm1ueDhEZHJuOWNPQXh3RHpDVllhRVpSUVFVeDJmMGFNNTM2RTRqMkVFaXdwTmM1eG1UeVhqLXNuYW5LMjZGYUFCYUV0djFqUTUxRkF2Vk9NeTh5VU44bENZYi1kaTBnS1NuVngtX1dIeEVtaw?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 22:04:06 GMT",
+          "pubDate": "Wed, 16 Sep 2026 22:38:52 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Canada applies to join UK-led military coalition - Reuters",
+          "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ195M0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 22:25:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Canada applies to join UK-led military coalition - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaGFtd2NJNW14SnBQWHp2aWlFSnhzelJIVHljN1RMVEZjYjF1bWRhNE5mNTRuTGxuMTQ2MVhET0UyeXdLdnk4dldqanpfMWhFdkZJOGRmNnp4eFZmb3JYc1FKSXBXaVd2cUxtZG5mLUhXOTRIbkhhOWlGZU5tWFRsNmVmQ1dMLUpyLVF5ZTRKWnlVNUxCOWp6MzVnd0cyVDZ6SENBVFhaWEU5UUk?oc=5",
           "pubDate": "Wed, 16 Sep 2026 21:47:48 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: US Postal Service chief told associates he wants to quit, sources say - Reuters",
+          "title": "EXCLUSIVE: US Postal Service chief told associates he wants to quit, sources say - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVJuc21tc3RDMVpiTzVpdlFLQlV6cHp1YXFUU0JWc19xRDlOYk9jRGFFS2JuQ1RfRDEtOUd2V0NXZGdXMnRaLUpWYmxCYV8wN2JtMDVhVVFacmh1UE1hNTVkTThkZjhIZjFBZlZDTDBxbEZsWDhraHRNVEFzaTdxeXREVlBXMU1iTEduTFNhWFl0YUVEMEI4SWo0WDhxZFB4emgwRmlMUmhoQWs?oc=5",
           "pubDate": "Wed, 16 Sep 2026 21:47:15 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Israel, Morocco agree to upgrade diplomatic ties, Israeli government says - Reuters",
+          "title": "Revolut says no direct demand received over alleged data breach - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaE5teWViRVcxc1pSRzV0Mk1TMG1HbE03cEU2SG5scjBaYUhtdl80SEw4VFNsYXk1RmRQeERqRVlxU0s3WGtmTENiMGxVcUktS1RFSTVHNzBoRUg4TVA2WUNjZlB0ZHRJQV9PSk56TE11WVRlWlhVeUg4eFRTRTltWlJkMDlwNThSY0JCbnRhSS1HX3k3d0NDU3BfLWZXanRVdTdhN1RB?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 21:26:01 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "COMMENTARY: Trading Day: Lift off! - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRnVEVW9JZ2tKNmNES3RWYUlXTjJhOVFad0JhMjJXM1JsbHJwTVpUNmltQ3l3Z1dLclFEOTkwNXQwVG1mZjFwRE1lcjZDWl90VF83YkllMElYRU1aNXhWYVQyZWlENERVa2xRNmNLR1pOMmx5ZnZfUVNqSTBXT0VYdm9ocEtESEVPRHpsVFoyVVJaMnVTYlpBMm1RdkdDZ2VkQ2htYmpB?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 21:18:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israel, Morocco agree to upgrade diplomatic ties, Israeli government says - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUktRelVFeVlmRUh4NjlTNU5vVFNRZDBsaE9Wd2YybUlQYTNSY0NONXhUMjJEcTJzSnRjaWZNM2pNN0E4YnVyTVdLZVhOX2FmM0l1MXU2SU01NXR2aWw3bC1IY2lZM3BZbzZQQ01kN3loX09KU2x5dTd4RXl6cXU0TUd5eVppY3NSbXpibXBnRmxyeHJyUUtjME5FU2tBaHZyMDB4RXgyQ3E0dnh5X1lZY2oxOWpqQTdCQlJiZFZtYw?oc=5",
           "pubDate": "Wed, 16 Sep 2026 21:15:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Fed policymakers forecast one more rate hike this year - Reuters",
+          "title": "Fed policymakers forecast one more rate hike this year - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQm5zRF9jbzFRTVF1RkwxbTBpNGJmeHhRR3RNZU9DMHk5c1pndDJveEhwd2RrZHhRMXBFMGV3cHR4OXlJZUJBdWtjRXhFVkUyYUpRd0F5QWs2Y1NtTllTQzJGdkM4UFBVSzRfa01FQjFuS1Ixc2E0NGJ6Q3Z3a2owYUowN21RM0QwWDBuQzJsZW13bVJzTkJqNGE5aklZWWwzbHBERGNBdWUxZE1BT1M4?oc=5",
           "pubDate": "Wed, 16 Sep 2026 21:11:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "COMMENTARY: TRADING DAY Lift off! - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRnVEVW9JZ2tKNmNES3RWYUlXTjJhOVFad0JhMjJXM1JsbHJwTVpUNmltQ3l3Z1dLclFEOTkwNXQwVG1mZjFwRE1lcjZDWl90VF83YkllMElYRU1aNXhWYVQyZWlENERVa2xRNmNLR1pOMmx5ZnZfUVNqSTBXT0VYdm9ocEtESEVPRHpsVFoyVVJaMnVTYlpBMm1RdkdDZ2VkQ2htYmpB?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 21:07:29 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EU chief wants Canada to become an 'associate member'. What does that mean? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkN2VVBPTnB4ZS0zYmRGMzA3VVREbVE5LUQ1Qkdka2NUenpnUzVPc3NMWWlBWGJfR3oxOHdiVkptUzNzcWJjVjJNejQwQkhOV3N6TTdFY1Z6LTM3RDBoUXc5ZmhCOTlDVF80blRFdm1wYnVqeFN1aG94Mk8tdFo0LVVmWWE5VG9kTWk3a2R6WWg5NVI5cWptaFcydTJDMGVCTF9FUWF6aVZOR3pESkpR?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 20:58:03 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T22:25:12.596Z"
+      "updatedAt": "2026-09-16T22:50:15.887Z"
     }
   ]
 }
