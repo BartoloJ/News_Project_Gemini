@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-16T02:25:17.334Z",
-  "lastChecked": "2026-09-16T02:25:17.334Z",
-  "lastUpdated": "2026-09-16T02:25:17.334Z",
-  "generatedAt": "2026-09-16T02:25:17.334Z",
+  "fetchedAt": "2026-09-16T02:50:15.605Z",
+  "lastChecked": "2026-09-16T02:50:15.605Z",
+  "lastUpdated": "2026-09-16T02:50:15.605Z",
+  "generatedAt": "2026-09-16T02:50:15.605Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T02:25:15.917Z"
+      "updatedAt": "2026-09-16T02:50:14.024Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,35 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T02:25:16.247Z"
+      "updatedAt": "2026-09-16T02:50:14.329Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Ed Sheeran’s tour in trouble after opening acts drop out in solidarity with rapper Macklemore - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc0VZLU5QYjdHVUd4UW5OQUNTV1V3YlQ1YkMyTG1ldExKVktqcEtpX0JLbzk3bFVfdVpvTlI5UGhDMEstbWFOVlFZbVQ2WWgyaTR6THFob1NaLV91ZW1jZllqNmRvVzg2bmMxWFgzMlFZUTFtblFiYjR1UzNMbTJVX0NQY0F2dHBOYV95VlZ5ZDJKTWFrRVVEUmpTYw?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 02:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A crisis is shaking Brazil’s Supreme Court. Here’s what to know - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnhiNkVYX09MQWl5SmM2ZjBITllaOUUtdEFLRDlYZlkxREFDVk80RmI2eC0xSTFES2tMdkdadHdxNXRnSzBRR2daemNpbVY5REEzemU3TnoxYU5jel9QS1lBeUUyR1hnN0JLZ3lwQ0JZVXFBVzZUXzRXTDNHX2xVTkVFTlFKUlppcklEbHdwaDhkS3MzYlZTOUFxNA?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 00:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 00:20:49 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 00:05:09 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Kennedy Center will close for renovations after judge blocks returning Trump's name to building - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWEljNzZHRXBiT0xvOGtWcjJlUVg3WkJGVXRleUhVb0FQLXYzYi1vV2Jvb3ppaWJETk9EZ2FJNmJaamVWMEhIaGRKVXY3dGl2YXJOTUxfZ24taDRmRHhNSDd6R29UXzFqTnZFbEFmYTZjUFp0WGo0WVJGMGxHWnlUNTEwZHFuSzVsYTYyOVpEVV81N2dER0p0a1BwU3pIUVlTbmZ3?oc=5",
@@ -136,42 +160,30 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 22:38:38 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ed Sheeran’s tour in trouble after opening acts drop out in solidarity with rapper Macklemore - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc0VZLU5QYjdHVUd4UW5OQUNTV1V3YlQ1YkMyTG1ldExKVktqcEtpX0JLbzk3bFVfdVpvTlI5UGhDMEstbWFOVlFZbVQ2WWgyaTR6THFob1NaLV91ZW1jZllqNmRvVzg2bmMxWFgzMlFZUTFtblFiYjR1UzNMbTJVX0NQY0F2dHBOYV95VlZ5ZDJKTWFrRVVEUmpTYw?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 22:33:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Inquiry blasts hospital for failure to protect babies after nurse Lucy Letby convicted of 7 murders - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTlsSjF5UHIxbEtVbnVIMEt0b1VUajloWmxBSDlKMThiVUQtOUhVUW1SelRyajF1dEJORUZ3U0h6VlVtV0tkYzhVTllfaHI1QnozVGw1Y1d6c0FBTHpFWXkwSTBTM3huZndiVENXb0NmQWpGZ0FDX3UyV3UwRUZYNFZpdkJpRUhYOWY3bmlzR01PSDdiVE5MMVM5eFRkQV9oc2NOUDdmay1uUEE?oc=5",
           "pubDate": "Tue, 15 Sep 2026 21:50:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "U.S. Supreme Court - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84czdFZGpPd2ptRDVXUlp1YXFnbXVyalFpZHc2cVoxeUtaM0tLNndBMmxQQ21PUndCQ1RrZ0VoUmtHX1NQcGpMVkpyR1hsTjhl?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 21:44:23 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The push for AI regulation gains unlikely allies. Trump and Congress aren’t among them - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcW93ckZBY1Y1bHJDS243bGlJbXlENGFaTmQzS08zTWxtQmEwYjlFRkhuQk9WZ1plVjNac2JRSjY4Zk1uLUdlT2p2VHh4WWxfanFHaDNWa3NRWUktMEhsZ0trcWcyTWNMb0RmN05aT2pJV2I1S25nejFtOXNvRjhTVjU4VTFrcTctSzNqWHFCOXpkSmtGNnhadU1EVEdSd19kUllsWA?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 21:44:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T02:25:16.878Z"
+      "updatedAt": "2026-09-16T02:50:15.148Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Asian markets make nervous start ahead of Fed decision - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EZTFQYXAzY01LTC1UX2J5X2FjVEgta19TLV9QZF9LNXFQYm9CTjNkOV9YOFJ6aXJpQzFqYUc4c2JzVHpzUlFzYjBNbEthX0kxcDJWazgxR3R5TjNUQl9xcXY5ano5Wl9ETEw2VDJZOFpndVBVMFY1VElhZw?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 01:23:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Dollar girded by bets on a US hiking cycle - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWFHQ1hoSVRaSzc4anZCS1Rpekx5UTA2d2d2VmRfeXRGaWpGS2tTNi1YaDBRRlhKZmNjcldfdVhOVU9sRG9yMlg4TVB5SkhzTHIzaGFLZFVRWlkwOFg0QVROVnVIcGlCMkM2YVNTUlc4WU9sMkhnSF9mUVd3S0lUS210by1uSWlaUE9iRjQ3ZkVQMDhOWmhN?oc=5",
+          "pubDate": "Wed, 16 Sep 2026 00:58:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Oil falls as US crude inventories rise despite Saudi supply concerns - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUw2WF9wc1NsbDZJRTlsTzlIOFYzZWtQMEJUS0tNT3VPUEhJUnhIZTZBTlJTcG50M0IxOXNLYTFSQVZRb2VIWllBT2ZzNC14RnAwUkhWYW91MlJrVm5TX3BZR3RSeVU3dUtjZmJuWm1hZWNyd29LLUUyY3BIekxROHllS0xoME02UUNDWnJlakRUU3hnOFg2aUV3X0FVVWd3SUpkRkZUTjdoX3VTRm95UE5CTWQxVXk1?oc=5",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbG1sTzZ4d21xMVU0WlpXa3RaMWNuQjU1NUhqeUh2YjZfV2JSUDE5U2EwY1k5OVgwZGJzbUMyR2Q4anc5MzJaVVVldU5zeE1YZURGc3VnbDljSDlIYzJrQWVwMzhaUkk3VWNjeVBaLVVwVUo5OVF6ckpjVkxWRHhRQ3JoMjhqbGRQazdFSm5nOUluWUoyM19nS3RhZXNoVjAySndoTXJIVFNoanYzemFPOHo1NA?oc=5",
           "pubDate": "Tue, 15 Sep 2026 23:10:45 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Attempted Trump assassin ordered packages using Bob Dole's name, new records show - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWU3b0h3MzNsWHJzOHdiUEhobEZwTUtsalVJVTh6Wkhac25EZXVfZF91cE5LVDBnc3lBVW42WjEzWTRxanM5X00tQzFHaGt0VTRnNC1Qbldzc0hvVXVYZ0xQbWg3TWNnNG43RDBHR3dnV3BaOVJ1aFRHLW1qOTZhUlUzclVrUUhPVG40WWVqYV9hTWpNcXk4UWRtbEZTd29vUlM2ajBYeWxHVjJmWGlqMzNZQkI5Mnhl?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 23:01:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "South Korean workers challenging Trump administration over Georgia raid, CNN reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYzZoOUVJekVneHFOTGZ6aC1xNktFLWZlUTE0dEd2ZTYzTXphX0oxRE1NZWhUNWNGWXNnVkJZeDZzRlNZUm9BY1RCTGJTZ3JUOXZ2ODRWRUJSaW5uQTFwTVZhSElvUVhFQWNkLXl4ZWlua3JsUGlzTElHNk92b2Q5LUxLM0NPa3FnM3dzQkpFbW9iRWxjcWFqYXhXSGJFejhSN2dtSEVwVk92LTNkUkVqYnByTlJIQzFpNTU5b2dsYWJtZ056QmVn?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 22:55:50 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-16T02:25:17.334Z"
+      "updatedAt": "2026-09-16T02:50:15.605Z"
     }
   ]
 }
