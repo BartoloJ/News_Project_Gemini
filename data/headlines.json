@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-17T10:00:27.489Z",
-  "lastChecked": "2026-09-17T10:00:27.489Z",
-  "lastUpdated": "2026-09-17T10:00:27.489Z",
-  "generatedAt": "2026-09-17T10:00:27.489Z",
+  "fetchedAt": "2026-09-17T10:25:13.619Z",
+  "lastChecked": "2026-09-17T10:25:13.619Z",
+  "lastUpdated": "2026-09-17T10:25:13.619Z",
+  "generatedAt": "2026-09-17T10:25:13.619Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "EU announces plan to restrict social media access for under-15s",
+          "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 17 Sep 2026 10:00:14 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Ninth woman's body found as South African police investigate string of deaths",
           "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
           "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 17 Sep 2026 09:48:40 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "EU announces plan to restrict social media access for under-15s",
-          "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 17 Sep 2026 09:11:32 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T10:00:26.171Z"
+      "updatedAt": "2026-09-17T10:25:12.648Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes",
+          "link": "https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes",
+          "pubDate": "Thu, 17 Sep 2026 06:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Why reshaping memories may hold the key to raising self-esteem",
           "link": "https://www.npr.org/2026/09/17/nx-s1-5971141/boost-self-worth-self-esteem",
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/09/17/nx-s1-5966387/morning-news-brief",
           "pubDate": "Thu, 17 Sep 2026 04:45:53 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "OpenAI flags new concerning AI behavior, to track model misalignment regularly",
-          "link": "https://www.npr.org/2026/09/17/g-s1-143774/openai-concerning-ai-behavior",
-          "pubDate": "Thu, 17 Sep 2026 02:44:49 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T10:00:26.418Z"
+      "updatedAt": "2026-09-17T10:25:12.708Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "UN-backed experts cite possible US war crimes in Iran strikes - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkRYakxnTVBrT3p0Q1RaTEc3QVk5UThSRlNpOXF3ZkhrbXVRRlRwOVEycmVpM1FhdGRRbGlkeDVWQ2tTSzNubFFlWTNkdDhQTUNRNHlsdWpud08tYzZSM2k3a2VmZDVZZS1DUjYySWJ2VDBIVlZUZ25xMnM5TktQT3Fvb1hCVExPcXdn?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 09:23:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "A Hague court convicts Kosovo’s former President Thaci of war crimes and sentences him to 25 years - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcG5kUDZnVlhBR21QQ0hMeU41Rjc2d01aZDByenE0TzJiUmhwblNId1dHLU80U3ItSXcxSUVXSG1FZ2NOUmJWX3BaUUZnU0RLVHN3LWhhZ19PWXlRMGlvNzhNOUh4bkNUOGxkVE9wdWF5V2tkMjkxY3BkVF84LWdUbGRkclNJWWlXRkg2VkdzRjNtc1VM?oc=5",
@@ -127,12 +133,6 @@
           "title": "What to know about the deaths of 8 women in South Africa that have sparked fear and anger - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUUzNEcweTBMb1JQZUJxaXprVmduWWh3eHNGVVpWTHVDQTNpU29qQ3JyOGlMa2hwQnc2d0p0empwV1E4emJIeEZndUFOWHRBdzFDTkRGMktnRXMyNUNBVDVTcWdVQzN4eW43QVBxX2hmSGhTZnAyV0ZqQzZrVElXakdxejB1OFlLWGx6dVpMRXFnODZvSzZDQVhDdGI5MXQx?oc=5",
           "pubDate": "Thu, 17 Sep 2026 04:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "OpenAI flags concerning new AI behavior and vows to track it more closely - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzBMbjczYWt1SGJLdVUwYlppSnhRNGc2amRmbjZLQlBGS3ZzdTVXYUM5ZXViQXQ4clFkZXZ2cERxc3NmdENzRTRqRno0Q3pxM0ozTExsSXJGYmY0RkNzUFlFX21FOUtpODA2V0phX3k4OXZaZktpUy1WUjZKb3p5WV9DWUhzejBoazBKdmVuQQ?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 04:07:23 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T10:00:27.004Z"
+      "updatedAt": "2026-09-17T10:25:13.178Z"
     },
     {
       "name": "Reuters",
@@ -182,12 +182,6 @@
           "title": "Impoverished by war in Iran, Afghan migrants return to Taliban rule - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUtnR01KbXZwRU1yS09FNXhXdnFRaXRXR1YyaWwyOWFvYWl1VC1MbVJFb1dvVWgxNGVFR0xKV3pCQkNycmVDaUJpVjFLYmt4MTVhSmR5dXRlVU54MWFRTG9LY2V4a1g3d2cyblNlVkU2MjNUTWJXaEY0MFNpNG9uZ3dWMWFEZ0ZIZ1dGMFdQby1jd1A5RzZ2TXNsQlJzdEFER2ZjRHE2SWstblhoVFRWWVhGcXFMZw?oc=5",
           "pubDate": "Thu, 17 Sep 2026 09:17:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Gold rises as traders reassess positions after Fed rate hike, oil rally eases - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRrQzlscmZjQ08wVi1BSUZCTEU4d0xkdFpFelAzQURMS0VyS21Gb1VWUkV2OEIzRTVUWmJQTXkxRXJnTEltLXR6dWJiWW9UV1pzZWJQOEdJRGpkMnhXV0lIWUlHUEdHNVIzYmU2UTY3OHAwczNsVmpuRDNUVlpkeVl5emEtTlJoWFJrUnhWSUxFTkZqMGxSYUd5M05GVHA0bGZ6eWZ5YWpLWFMy?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 09:04:51 GMT",
           "source": "Reuters"
         },
         {
@@ -219,10 +213,16 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV2R6ekhkRHVUTU95d042blJ6bWlXZEFxcEhPWTV5S3JtVXI0emlsaVdyb1BURWJzZk5ySWdyVGNKcEJldUg5Q3BaNF9wdUxWVzZyZHA2RWpjVWJVU1hRa2c2dmtMX3FOOGVKWFlBU0dfcjU0R1AtTjFURmpUOHo5LTFVRXBlaWx6OHktNHJiQUZ6a0NOdElKVHNIZnlTVW5hc0RTMTVnSE95NnExaEdJNWplNjdUdjQ?oc=5",
           "pubDate": "Thu, 17 Sep 2026 06:59:00 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "From quarantine boxes to luxury cabins, China's prefab home factories pivot to exports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUjFlTHZzbnlfMGxOLVJEa213eVo2VHpkU19aQmNyVmVMdUoxWlIyLTFkc216eFRTb0lRdndXTks0LU1UWjNWNUh3a3RUSV9OR09XOEZENWNxajgxSlBKUklOWlc0NGJ3VVVsNURmVFBCdG1fM0ZrcGpxRE5Bd3JORGg5aWplZk9YVDhsV3hWZEFoODVGUktJTjVvT2x6d1FTVUpOX19kU2dZRVNkY1J5akNrc2x3ZDZoeUNkTm16a3NLUzZUSENn?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 06:31:00 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T10:00:27.489Z"
+      "updatedAt": "2026-09-17T10:25:13.618Z"
     }
   ]
 }
