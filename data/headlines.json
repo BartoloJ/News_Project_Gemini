@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-17T11:50:14.933Z",
-  "lastChecked": "2026-09-17T11:50:14.933Z",
-  "lastUpdated": "2026-09-17T11:50:14.933Z",
-  "generatedAt": "2026-09-17T11:50:14.933Z",
+  "fetchedAt": "2026-09-17T12:00:19.105Z",
+  "lastChecked": "2026-09-17T12:00:19.105Z",
+  "lastUpdated": "2026-09-17T12:00:19.105Z",
+  "generatedAt": "2026-09-17T12:00:19.105Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Ninth woman's body found as South African police investigate string of deaths",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 17 Sep 2026 11:58:54 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
           "link": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Aztec document goes on display in Mexico after 186 years abroad",
           "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 17 Sep 2026 11:00:41 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ninth woman's body found as South African police investigate string of deaths",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 17 Sep 2026 10:40:31 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T11:50:13.692Z"
+      "updatedAt": "2026-09-17T12:00:17.872Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T11:50:13.961Z"
+      "updatedAt": "2026-09-17T12:00:18.026Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Carney embraces a proposal for Canada to become the European Union’s first associate member - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObklwd2xpNktxT1dkcF9LZjhsUHhfOTQ1YVRBRWNIMXNDZGg2MWxnZUtVQTUxTFowcHI0TGRZM2RHUDE2SGhsYXRFZUlvR1lfZXY1NnhDb1p0R3h2QTA0STRndmQ0MHpoa1BhSXByOGdyWW5wa3IyVXhRc2YzMHhPc3FfQnRYWFV0QnNIWk1feFhMNTJJdUN0Rl94V2Q1emJPMWc?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 11:26:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "UN-backed experts cite possible US war crimes in Iran strikes - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkRYakxnTVBrT3p0Q1RaTEc3QVk5UThSRlNpOXF3ZkhrbXVRRlRwOVEycmVpM1FhdGRRbGlkeDVWQ2tTSzNubFFlWTNkdDhQTUNRNHlsdWpud08tYzZSM2k3a2VmZDVZZS1DUjYySWJ2VDBIVlZUZ25xMnM5TktQT3Fvb1hCVExPcXdn?oc=5",
@@ -136,6 +142,12 @@
           "source": "AP News"
         },
         {
+          "title": "OpenAI flags concerning new AI behavior and vows to track it more closely - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzBMbjczYWt1SGJLdVUwYlppSnhRNGc2amRmbjZLQlBGS3ZzdTVXYUM5ZXViQXQ4clFkZXZ2cERxc3NmdENzRTRqRno0Q3pxM0ozTExsSXJGYmY0RkNzUFlFX21FOUtpODA2V0phX3k4OXZaZktpUy1WUjZKb3p5WV9DWUhzejBoazBKdmVuQQ?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 06:57:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "What to know about the deaths of 8 women in South Africa that have sparked fear and anger - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUUzNEcweTBMb1JQZUJxaXprVmduWWh3eHNGVVpWTHVDQTNpU29qQ3JyOGlMa2hwQnc2d0p0empwV1E4emJIeEZndUFOWHRBdzFDTkRGMktnRXMyNUNBVDVTcWdVQzN4eW43QVBxX2hmSGhTZnAyV0ZqQzZrVElXakdxejB1OFlLWGx6dVpMRXFnODZvSzZDQVhDdGI5MXQx?oc=5",
           "pubDate": "Thu, 17 Sep 2026 04:19:00 GMT",
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSGNtUG5YckxIWUg2VzBIQjN3OHJaRTc5S2pwWlE2MmZPenZ1M3pyZTROUmxYcnJTMWxib0FqcUxLc3I4V3A2aTdTZUF3NWM0X0I3dXpjUUdlb2ROdDktdklWSEd3MlMzM1diemtoMEtLSHJaR0NwRUU4cGdQaURYTXZKYkxiVjJJQkhhUUp2OV8?oc=5",
           "pubDate": "Thu, 17 Sep 2026 02:22:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Building damaged by strikes collapses in Gaza, killing 21 as perilous living conditions persist - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3lqZkMxREp6UW9yYVJuODAxQW96LXRiejVPakNpNXFxc2ZTWmItNEVhQW5UeWdaWTNlN19QaVRqOXh5T1hETXp3cW0td3Q4QU96UEIwQjNuSjE4ZkZLcDVFQmxTMDZLVVlMWHlqSmFIWjdBeE5BbHdUNWtIMS1Nemd5NzRJeWVuTzFTM2ZMRmpfaVhLWDVXbA?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 01:50:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Jets suspend goalie Connor Hellebuyck for failing to report to training camp - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX0hza0V2UHlXM0ZvTU5zY2s1SWtkN2tsOEVCRDc5dG1CaFVORi1YMHk4TzcxbmlJcUhjUWllSlJUdUVaN0F2djRpVWtVSjdCZV9qZllOTk1zejlGZzlNNnJiUHoyUWhIOUl3UmNkbU80X0Vnc3B3WFFqcFpveWdYblpVRk9fM00yclRVamk4WUFodVN6b3hCZGtn?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 01:29:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T11:50:14.505Z"
+      "updatedAt": "2026-09-17T12:00:18.568Z"
     },
     {
       "name": "Reuters",
@@ -182,6 +182,12 @@
           "title": "UN mission finds grounds to believe US committed war crimes in Iran, and Tehran crimes against humanity - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmJVNS1uc3FDVDUwbUJ5bjJkZzRwbTdzNFZYUW00SEloak4wZl9yeXJhWlQ2bEExbjZBSzh6T2lRVjNjQ2VvR1lNZGNBc3BwLXZ6QXJCTmZ3M3BfQVdURWZaaUVOV2k0VkNOTFMwcnhsdXR1VU5IWFRWYlVYNDgzeGNwTDB6d3FURHV4YnZZdFpibE45Qm1tTVJxMi1QZG9lbFFqVW16M1ZzQzRLQW1PVkhud2RLeWtxUVV6OFJweE0wOXZuVG5RRg?oc=5",
           "pubDate": "Thu, 17 Sep 2026 11:22:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "German court rules Meta liable for fake ads on Instagram, Facebook - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM09RTklwQzB4RFFiUEhqLTVOcHd4dlJJMmlrbFdTejBLYmNKWjFUR3BIVVlqS0NvVktZeUlpQ1FBb0gwN0dIQnhSR1l1Wkd0OWh4OHA2Nm1uTzZMQ1pYdTB0SzJoY2cyR3dCUC1ybFdfbzJ6ZVVocHNTTmpaZzVJUVBka1ZPZ3dvWHY1RHpZRjFrT016RDVFaVFneDF5RnNLakVScVVHbDJiVS1DYWYwTw?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 11:06:31 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Europe's low gas stocks pile on the economic and political pressure - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT3ZaaXBVeVNMSm9TdlAzaWhnMDdTRTZIdENoSHBiVW1QQUx3eGxlOFk5cWJtcl91VVBud284a2N4OVM5dXJmMWZlb2NfLXdvMkswNVFmR0lmX3NzaUEzdmp1aWYtVjAxangtdGoxM2dXUUFZcm96NnMyVW0xOVY0NTB1aDVMbUdSTDlpVG9jSDhtcGZMUC02cTNVNGRhWnlmNktCR3dCZ0F4eE0?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 10:36:05 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Huawei's Xu says Chinese AI not powerful enough yet to see frontier risks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaUE3YTRDUXE4UEcxSGc4VDdtb241MHBPMkhtWHk5a1Qzcm9vOTZuMmlpcUJqX2ZFTF9QU25FSnh2TW5IUWozX1FMSHZ1ck8xUUxEQzlkeUp2aU13VGZidkgxcEgtZlRteEM1OHZMV0V2bHl6b2J6dFJ4bHRfWkMzbjFhMHJvU2NveTNjU1ZaeU5oREtYcE83aC1pQXllekdjUWpzcnZmaDBqQUF0N282Zm10a3VxdVBS?oc=5",
           "pubDate": "Thu, 17 Sep 2026 10:26:04 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "King Charles to urge AI leaders to protect humanity at Scottish meeting - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFdPV3JrbjNYMUd3RXlUY3NwOU5RMTVheVM2eHRUQ2VFWnBVU2w2SnFqR05iaHBiZzE5MHlyc1ZhX1NSeWxHMmNLMEx4YkxBQjVZY1A4MllpU19lM0c5RHhnV3JTRkQzWGlDME1Cam9WdlVzTTVNclhxZm90akpuUHFkeW9INXdGbmdiUTBTNHBnZEVSNmxtRDNLUWNPQTh4N05qVmh4c01JUWM?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 10:13:31 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Is NATO ready to fight? The Ukraine war is raising doubts among military analysts - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTJ5OFk4WGtia1NNbkZCUV9MVklIOVNfUF9QcVpfTV9QS3VacG1GbHQ5QnlLbkhfbi0zNjZPZFhnVjF0Ry1UaWtTbC1ETmdyT29WeUY3R01HODhPQTFVNHhHN3REZS1aMVZpX2xhUXJUT2FGZ2VVMzMwWnFBRHY4UU0yQzdzRHdsbXZITXRydTQ4TmxDLUZRY3UzX0xiT3lCdTB0NEhSaUN0NFkwUmEwOGVoTjJHc0ZkQWt3dVY0ay15YWhreTJtcGhjVkdwZGZDUkE?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 10:12:34 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T11:50:14.932Z"
+      "updatedAt": "2026-09-17T12:00:19.105Z"
     }
   ]
 }
