@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-17T16:00:21.443Z",
-  "lastChecked": "2026-09-17T16:00:21.443Z",
-  "lastUpdated": "2026-09-17T16:00:21.443Z",
-  "generatedAt": "2026-09-17T16:00:21.443Z",
+  "fetchedAt": "2026-09-17T16:25:14.090Z",
+  "lastChecked": "2026-09-17T16:25:14.090Z",
+  "lastUpdated": "2026-09-17T16:25:14.090Z",
+  "generatedAt": "2026-09-17T16:25:14.090Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T16:00:20.372Z"
+      "updatedAt": "2026-09-17T16:25:12.976Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "'American Scoundrel' traces Roy Cohn's playbook from McCarthyism to Trump",
+          "link": "https://www.npr.org/2026/09/17/nx-s1-5965831/american-scoundrel-traces-roy-cohns-playbook-from-mccarthyism-to-trump",
+          "pubDate": "Thu, 17 Sep 2026 12:14:06 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Greetings from Beijing, where baozi are worth the wait in line",
           "link": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
@@ -103,20 +109,32 @@
           "link": "https://www.npr.org/2026/09/17/nx-s1-5971866/truck-driver-attack-wyoming-sikh-south-asian",
           "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "People's houses are collapsing into the ocean. FEMA gives them no other option",
-          "link": "https://www.npr.org/2026/09/17/nx-s1-5844642/fema-homes-collapse-ocean-climate-north-carolina-maine",
-          "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T16:00:20.426Z"
+      "updatedAt": "2026-09-17T16:25:13.036Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "After the border: Exclusive data reveals how unprecedented border crossings reshaped America - AP News",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yUUg5eTNIejZ4ZC15TGpQMzRRX0NfQ1BCMzcxeHlHbGl3SUN0UnlKYU1iWk9ZekpUbE9zV2o1d0lERmdFa1c5RF80WTlBdTRZT2w2cldBUmxqbVZrZEJRaG9GWFZvZzNwdXZLWU9fZVVjLVVxblB1ZzU5QQ?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 15:55:55 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "UN-backed experts cite possible US war crimes in Iran strikes - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkRYakxnTVBrT3p0Q1RaTEc3QVk5UThSRlNpOXF3ZkhrbXVRRlRwOVEycmVpM1FhdGRRbGlkeDVWQ2tTSzNubFFlWTNkdDhQTUNRNHlsdWpud08tYzZSM2k3a2VmZDVZZS1DUjYySWJ2VDBIVlZUZ25xMnM5TktQT3Fvb1hCVExPcXdn?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 15:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "At least 48 dead in Nigeria after consuming drink suspected to contain methanol, authorities say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbUlsSmRleTBkMVBILTJ6c2ZlY3NIVHdXTHg2dDdGbU9DaklMR0pGV2hZT2cwa3l0UGlqTE5LeWtwZEJtS3VFOW9KYncwamQ1M08zMS1vY0VtQmdPSEp1VjJCNHJFdUJHdXM0OXJOakhqVlVidEpaMklUdUJFbHMzMndOd3VhS0RLai1OSXNLWGNxQQ?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 15:37:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1pxWVhPQ09jRmt4Zjg5VFV6Yko5MEFRU1ZJUnhCdnVwRG1GOFFFQ3NuR1hLTEQ2N1FEZnJ1Q3hHQ2pUTl9xQlJyZmZFTS00RTRuQ05FLTltZ3pGdUFmQWJ4TUt4SHJzbnFXMGlJV3FZWmI1UEhTZGkzekxZcFVKZnhVZDRWem5oS3ZPdnhDMkNkU20t?oc=5",
@@ -126,31 +144,13 @@
         {
           "title": "UNC defensive coordinator Steve Belichick resigns, probe into conduct in football program concludes - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlljY1Z6bkhtckJzX3o0Tno1Z2E0NjkwZVZNLU40RVBGaWZMdDBJSFFlWWJ0NTdhTElrY24zSW5vdnEyblRNNDd4ZWNuTzJ5NC03Wkg1RHE2VEV2SHVHQTJMZmdxbjduMlI1Y0lTQTFCYW9kQnZRRXhzS0lqZHJ4X2pHeWJudVJYbUI3bVp5SnI4dkl1WWpuSVRZVWdRSFlPdkw5cA?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 14:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "At least 48 dead in Nigeria after consuming drink suspected to contain methanol, authorities say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbUlsSmRleTBkMVBILTJ6c2ZlY3NIVHdXTHg2dDdGbU9DaklMR0pGV2hZT2cwa3l0UGlqTE5LeWtwZEJtS3VFOW9KYncwamQ1M08zMS1vY0VtQmdPSEp1VjJCNHJFdUJHdXM0OXJOakhqVlVidEpaMklUdUJFbHMzMndOd3VhS0RLai1OSXNLWGNxQQ?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 13:04:00 GMT",
+          "pubDate": "Thu, 17 Sep 2026 14:19:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Carney embraces EU associate membership proposal as Trump pushes Canada closer to Europe - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObklwd2xpNktxT1dkcF9LZjhsUHhfOTQ1YVRBRWNIMXNDZGg2MWxnZUtVQTUxTFowcHI0TGRZM2RHUDE2SGhsYXRFZUlvR1lfZXY1NnhDb1p0R3h2QTA0STRndmQ0MHpoa1BhSXByOGdyWW5wa3IyVXhRc2YzMHhPc3FfQnRYWFV0QnNIWk1feFhMNTJJdUN0Rl94V2Q1emJPMWc?oc=5",
           "pubDate": "Thu, 17 Sep 2026 12:54:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "UN-backed experts cite possible US war crimes in Iran strikes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkRYakxnTVBrT3p0Q1RaTEc3QVk5UThSRlNpOXF3ZkhrbXVRRlRwOVEycmVpM1FhdGRRbGlkeDVWQ2tTSzNubFFlWTNkdDhQTUNRNHlsdWpud08tYzZSM2k3a2VmZDVZZS1DUjYySWJ2VDBIVlZUZ25xMnM5TktQT3Fvb1hCVExPcXdn?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 12:12:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "After the border: Exclusive data reveals how unprecedented border crossings reshaped America - AP News",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yUUg5eTNIejZ4ZC15TGpQMzRRX0NfQ1BCMzcxeHlHbGl3SUN0UnlKYU1iWk9ZekpUbE9zV2o1d0lERmdFa1c5RF80WTlBdTRZT2w2cldBUmxqbVZrZEJRaG9GWFZvZzNwdXZLWU9fZVVjLVVxblB1ZzU5QQ?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 12:05:03 GMT",
           "source": "AP News"
         },
         {
@@ -167,15 +167,45 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T16:00:21.008Z"
+      "updatedAt": "2026-09-17T16:25:13.579Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "King Charles warns AI leaders of 'existential dangers' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFdPV3JrbjNYMUd3RXlUY3NwOU5RMTVheVM2eHRUQ2VFWnBVU2w2SnFqR05iaHBiZzE5MHlyc1ZhX1NSeWxHMmNLMEx4YkxBQjVZY1A4MllpU19lM0c5RHhnV3JTRkQzWGlDME1Cam9WdlVzTTVNclhxZm90akpuUHFkeW9INXdGbmdiUTBTNHBnZEVSNmxtRDNLUWNPQTh4N05qVmh4c01JUWM?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 15:53:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US labor market on solid footing; rising mortgages pressuring housing sector - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZl9MV2lRQVlhSGNPcS1Db0RCY05rTnJtS3VENVN2RjNvLUp4eW8yMWxVbFN2T003WUFITzZsVWJMa054RXVNSUxfdnBmRmdOWUg5dF8xWlViQWJGY2pVSjBKNV84RF9rRGRSWXRtZWt2NmJsX0xYek5SaTlBdEFSRk5WQ3l3bGJPTllKM0dlMmQ?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 15:47:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Sweden's prime minister steps down after losing election - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOE03WWgtcW00SlpMdnI5VEg4OHRTRVYxdHQ2YU9EN2dKR0VGLXIzZi1ZcFIyblJGSzdUaG81V0dlTlcwOTN4MDhzTE1Dd1Z0QnVDTDNsdWhaNER2VnpMUF82RXRBSFRYeGN0UjVrVExvNUUxTlFYLXJFclkzc3BCb0JkNHlKam1tYVdCNzRyUG9mc04tbVptSG9yYTB2anFKdTd4MW44cjJxcGNWVnc?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 15:19:55 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Bank of England shifts tone toward rate hikes as inflation set to top 4% - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWQxa3d0cG05Tmpfck4tZm5ZLTRLMUQ1bzRpVUNlbDg0ZDlNemp5d0hPbDVkcjBJdENvbFdldlA3a0h1VkZfOUt2NUE5eVNSaHlMbWZLUTBhNGZoOWEzNDZ6QVFYR095Wmt1dndTak1SaDJHbXBTZzdwWWlmZW16MjBRV3ZTanNaQm00M1VxdXE2OE5JUkdKczBSWTNVNkpJQzl6dTlXaGtHRXNWS21z?oc=5",
           "pubDate": "Thu, 17 Sep 2026 15:19:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "'I'm not a doomer': US Senator Mark Warner makes the case for acting fast on AI guardrails - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1lEN29UQk1ESlNaOTRHVzFSVktUWExVNzdlYUt0TW1YcnZXbG42QjhreHdnd1NWVTZOdmtNclk5VlJibzc2ODkzSUI3cFJyNWdsSll4aTZDT1BzUExrZ0dkdG5zRmJBdXpJNTlPOTc1NmlGMzVDcVR6dE9uUTN6dUN6RW1qYkQ5ZjV2Q2xEdVQxMVoyWHRCOTNFTDMwWm9HUXRpa3BLT2RscW9iMkZjZFMweEdaRUtKUHpmSUZxMC1UME5F?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 15:14:37 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "India's Tata reappoints chairman, backs listing in rift with controlling charity - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3FUc19DTEt4cXNLYUh4VW8wOXR4cm4wY3VvaVZlOERqQ1hmajFmSlZBQnIxb1Z0anZRSVpvYzJPd2hJd0J1dUFTSWhFclFxeV9mcVU2NzRITjg0VVBwSGg2dEN5TTNuZ2Jsam9kTFVtU2Q4RENtNzlSa2puY2dnRG56d1pwdGdpQjNmcEpRTkp1dW5mdDZpYTRKVmE3WGd4bm1KUDlod0V5V1JhVzV1eUg1Mlh6V0pjSFVZY1kxTmNWdw?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 15:13:06 GMT",
           "source": "Reuters"
         },
         {
@@ -189,40 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEpTSXdZaXJKZU1mRkFwczRkakJpbXNpdWhTVWMwbGpzZ0hxaVJzcXE2QlZwOTEyOWVhZFQxVml4RjZFRVNYYS1OdG1IQk8yeFh4TXVGeHBDY3IydFRhUnRMMUtRX1ZJanJ0c21Nanp1VHltRWpmTHlXMUlJaTktVzRzSzFYaFdmWHlDRDhyZG1kSjc4NFRNb1VuUGltTENTSmlnNHJnU2M0Zw?oc=5",
           "pubDate": "Thu, 17 Sep 2026 15:06:27 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US securities regulator rolls out five-year exemption for tokenized stock trading - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMGJTTHZsX1M4S3BWWjZkQXZZOWs4aU13T0VXRVB4QTVYdGF3QWRYMUh2LVJzYjhObm9YV3pkdFZnRmRya05xQ09VWm9od1U5OTBTRXZJTjZsc0tEV2hfUUVJSS1xMWF0STluTGZuTVdVQ3IxaTRuXzNMS3FOT216bFduaGVGQnlleG1XNkQxTU14aTNsTHlHWHlEbVlVTkFacTJtLTFJUnJQNXJyOTdZcWxLTFlIWlJBRzZJ?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 14:19:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "'I'm not a doomer': US Senator Mark Warner makes the case for acting fast on AI guardrails - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1lEN29UQk1ESlNaOTRHVzFSVktUWExVNzdlYUt0TW1YcnZXbG42QjhreHdnd1NWVTZOdmtNclk5VlJibzc2ODkzSUI3cFJyNWdsSll4aTZDT1BzUExrZ0dkdG5zRmJBdXpJNTlPOTc1NmlGMzVDcVR6dE9uUTN6dUN6RW1qYkQ5ZjV2Q2xEdVQxMVoyWHRCOTNFTDMwWm9HUXRpa3BLT2RscW9iMkZjZFMweEdaRUtKUHpmSUZxMC1UME5F?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 14:13:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US allies fret over how Trump might play his Taiwan hand with Xi - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3hVM1dFSVFMbUpibXh4OWtYdWFBRnNkN0JhREtSNFZ0R2hVMnN1T0lUTHlneVdReE1kd1YzSENaY2xpWXh5SGVjY09qSXNack9RQkN2VFBYQUxCcE5sUExGNzJxRDJzRXYzX0pZU3NTX3RNOTZ0WEZWZ01oSUp2dHh3SkNZSERMc0tFempuV3RSaXF6OXlGaUhCZGNUZlRvMEhaRWRKcUVMSVN6aVJRcmZ3?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 14:10:38 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Court filing cites Trump comments, photo reading \"Kennedy Center DEMOLISHED\" - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMVQ3WGJRc2Y4NmFxcERFSjNfRWNSVFZ4czVBckpPdmZhVUJtaTBTdkNoaGRoSDZrOEZsQUNVUkhfWWxkNC1ndkNTbUZFWmJEekNaZ2NaOVpSR2xPZXN5dWdpejdVZkFOV2dwTGhNUEZha2hoSURQWjFMMzdnbGthZlFmLS15VVBVUzlxVDJ3Y1F2OUk1cVpScmFHOHF4WWNVUVlBOHRvV3NqQU9CUTQyWTlTOFB4NVJQbWtaVjNIaGROZHdy?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 14:10:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Impoverished by war in Iran, Afghan migrants return to Taliban rule - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUtnR01KbXZwRU1yS09FNXhXdnFRaXRXR1YyaWwyOWFvYWl1VC1MbVJFb1dvVWgxNGVFR0xKV3pCQkNycmVDaUJpVjFLYmt4MTVhSmR5dXRlVU54MWFRTG9LY2V4a1g3d2cyblNlVkU2MjNUTWJXaEY0MFNpNG9uZ3dWMWFEZ0ZIZ1dGMFdQby1jd1A5RzZ2TXNsQlJzdEFER2ZjRHE2SWstblhoVFRWWVhGcXFMZw?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 14:05:08 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T16:00:21.443Z"
+      "updatedAt": "2026-09-17T16:25:14.090Z"
     }
   ]
 }
