@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-17T03:50:17.590Z",
-  "lastChecked": "2026-09-17T03:50:17.590Z",
-  "lastUpdated": "2026-09-17T03:50:17.590Z",
-  "generatedAt": "2026-09-17T03:50:17.590Z",
+  "fetchedAt": "2026-09-17T04:00:22.518Z",
+  "lastChecked": "2026-09-17T04:00:22.518Z",
+  "lastUpdated": "2026-09-17T04:00:22.518Z",
+  "generatedAt": "2026-09-17T04:00:22.518Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T03:50:16.340Z"
+      "updatedAt": "2026-09-17T04:00:21.705Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T03:50:16.616Z"
+      "updatedAt": "2026-09-17T04:00:21.915Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T03:50:17.134Z"
+      "updatedAt": "2026-09-17T04:00:22.491Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Gold rises over 1% as investors digest Fed hike, oil rally stalls - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRrQzlscmZjQ08wVi1BSUZCTEU4d0xkdFpFelAzQURMS0VyS21Gb1VWUkV2OEIzRTVUWmJQTXkxRXJnTEltLXR6dWJiWW9UV1pzZWJQOEdJRGpkMnhXV0lIWUlHUEdHNVIzYmU2UTY3OHAwczNsVmpuRDNUVlpkeVl5emEtTlJoWFJrUnhWSUxFTkZqMGxSYUd5M05GVHA0bGZ6eWZ5YWpLWFMy?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 02:27:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Fiji declares HIV a national crisis as diagnoses surge - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcHhCOVBrYllORUh3bzdIS243Nk1WTFU1OEhjaFBlSmx4cTI3dGk0TDFMRHllZkdXcDlZZnkxUHo4S3lkbkVtRzNQUms1R1Y1Y2dBN3dpazRUOWN1aFM4dHJUVjNNT3dYRDZoSkVac083WXVKcGM4WC1MRHJYYnZoenN5WE9qSWd1NjdTYnFuZjhOWjA5SmpNSHdkWG1QX3ZJRGNvX1VOYkRNR2pQS3g5eFJrdkR3ZEx1eElnM05n?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 02:24:42 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "North Korea says US-led arms buildup justifies expanding nuclear force - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNU0zRU9hZ181OVZyTUp5OFNoY2NmUGlmZ2o0dGhXU3dKSG5oeC0wU1dpSEY3OHZtTkVDODNBUEhkcUl5XzVyWUlGNnlHdkV6VXBDSHV4QW8wbC0tZkxJV2xuS21QVjFmaGd6OHNhV0xhVTZTZHBmakdvTWQ1UjZpVXNqRGU4Z1ZtM3A4aHcyR25DTnNnOFgxZk94RjEybGVtQ1M0N20wamNYUFBHWnlNOTJCNU9QdDJQbndtcDkzbkVzQWhITjYtUW1TQkVQN2lYcnJR?oc=5",
           "pubDate": "Thu, 17 Sep 2026 01:34:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "ICE agent charged with assault, lying about shooting, arrested in Minnesota - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdm45YThycFpZRFhfdFpPWDU0NzFnWmtaNXdEV0o4SHpfQU5zQlRoLVh5OWMtYTk1RlVvT2J1cUhZQlVkWVliLWFRNmRGb3U2MDRIN25wZFRKSEpnQ3dDcmVBZk5DZmpDTTUxdnpNOXZiVHpxZWpQVnhrRWN3UnYxUkIxRUtxZHdVaXkzSWxhX21obl9EaDZMLWRfTC1xTmZQZnczY0MydlJiRkxIdFFYUGxYYjFmMDltZVFqd1dHZFA?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 01:25:00 GMT",
           "source": "Reuters"
         },
         {
@@ -191,12 +209,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Russian strikes injure 18 across Ukraine, officials say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWtudWtEM0RTMFRMMVBsX1dMZkJERGF3R0NueTVGaV9pTDAyLXJtS2dFWUdiM2dxdDRYYjJWTm1UeGxhYU1rSFI4V1BZcUM4Q1RoWDNfLUw0N2tjdVowRjF0T2JvMldXMlBHSGZWTkQyZHRuRTZCQ0E2WlVCM0o1NHd2Yjg0SkQwNVVVQTZOamhCT1NZSmlhUTk5eTNDcUNTVXZWbzJ5a25xQnpkdHFEYQ?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 00:17:00 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Snap targets enterprises with Salesforce, Nvidia AI tools for augmented-reality glasses - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWdJN3lyVDJYTXJvazd5M1h4dlNJWlc3WDh2eDlsV2dGVGNNMU1ObnNDSmMzNHB1NnRzWDNaQ0V6MVlGRGY1YkJHdnY4REpFWE1KRzZsZ0g3cHpaemI3RTFORG9qMFJFdnc2NjRpNXM4Rk9oVDh3Sk0wTFd5Rk1hUHFpNTdDTll2RU04SW02cVhuVFZ5YTZhdFhEVEdRQjNDLTdmbGw3WGc4Sk5PNjZHUFF6aDBrbmdNSDdB?oc=5",
           "pubDate": "Wed, 16 Sep 2026 23:52:50 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONm1zTi1iSndsdnl1UXVQem02SWpGN21qUWhiMFNuTGZNSUstZGVsUkNIbU5HNlVROVl1UEl1Q0xuNG9sdnRUaWRybWgxNU1jaWJWWk9SemQ3c21oMWlTbEZ0UWdCUDNTTk1EWTdQbW9kZ0JtbU9MTXJYS01QYXJIUS1nUFE2cFVzUkw0ZzRKaU15MTlUZ0pEVnZiSXJXM1VwVldSRk1rNUhSY04tWFNnZ2Jaa0JySmc0VVRua3YtZTVKT1Vj?oc=5",
           "pubDate": "Wed, 16 Sep 2026 23:52:36 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Exxon advances talks to return to Venezuela's Orinoco Belt, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGRFQUlmajBpemU1S1NOTFBUQmh4TVk1TklWMUJpb0dEY3FZR0MwS3BIRVliOVVRMHdSel9VaFVhMjN6c0l1UkYyeUt1UF8tdEVLVlNHRUtZTFRjRzFQSmNKNVBWSHdJd1N5N0swWFo1VFR5aUZ0ZEFrQTlBczJKYWs2Ujhmb0huT0E5OW85SHZxNXFVREZqWVpVMnk2UHhZbGhlSXhrNG9YTTQ0cXBYblBOMThIUQ?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 23:33:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EU's von der Leyen wants Canada to become bloc's first associate member - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5",
-          "pubDate": "Wed, 16 Sep 2026 23:32:04 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T03:50:17.590Z"
+      "updatedAt": "2026-09-17T04:00:22.518Z"
     }
   ]
 }
