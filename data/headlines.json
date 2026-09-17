@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-17T23:25:13.318Z",
-  "lastChecked": "2026-09-17T23:25:13.318Z",
-  "lastUpdated": "2026-09-17T23:25:13.318Z",
-  "generatedAt": "2026-09-17T23:25:13.318Z",
+  "fetchedAt": "2026-09-17T23:50:24.557Z",
+  "lastChecked": "2026-09-17T23:50:24.557Z",
+  "lastUpdated": "2026-09-17T23:50:24.557Z",
+  "generatedAt": "2026-09-17T23:50:24.557Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
+          "link": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 17 Sep 2026 23:29:17 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
           "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Canadians welcome closer ties with Europe as tensions simmer with US",
           "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 17 Sep 2026 19:59:54 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
-          "link": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 17 Sep 2026 19:35:23 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T23:25:12.242Z"
+      "updatedAt": "2026-09-17T23:50:13.601Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T23:25:12.333Z"
+      "updatedAt": "2026-09-17T23:50:13.705Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-17T23:25:12.860Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-17T23:25:13.318Z"
     }
   ]
