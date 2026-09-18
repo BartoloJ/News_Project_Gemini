@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-17T23:50:24.557Z",
-  "lastChecked": "2026-09-17T23:50:24.557Z",
-  "lastUpdated": "2026-09-17T23:50:24.557Z",
-  "generatedAt": "2026-09-17T23:50:24.557Z",
+  "fetchedAt": "2026-09-18T00:00:21.324Z",
+  "lastChecked": "2026-09-18T00:00:21.324Z",
+  "lastUpdated": "2026-09-18T00:00:21.324Z",
+  "generatedAt": "2026-09-18T00:00:21.324Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T23:50:13.601Z"
+      "updatedAt": "2026-09-18T00:00:20.173Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-17T23:50:13.705Z"
+      "updatedAt": "2026-09-18T00:00:20.251Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Tens of thousands flee as Iran-backed rebels draw Yemen into the wider war - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEJrazQ1WlJrelROX1NZTzZ5dTRvX0g5QXpRWEdZbWxwR1NLRnFQajctT2tDa3FibzhVTmE0LXJWRHVGZVhSM1Zna2VoR1FNdElZN2lyN0JVb09LcWJFSFpGNXE1ajg0QmtYaVF3MlNYQktseW5rX3FCN3VqdmdsbGplOE1XbXE3V3RocVJ5dW56T0VZY0xKUEQtSQ?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 23:21:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "OpenAI flags concerning new AI behavior and vows to track it more closely - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzBMbjczYWt1SGJLdVUwYlppSnhRNGc2amRmbjZLQlBGS3ZzdTVXYUM5ZXViQXQ4clFkZXZ2cERxc3NmdENzRTRqRno0Q3pxM0ozTExsSXJGYmY0RkNzUFlFX21FOUtpODA2V0phX3k4OXZaZktpUy1WUjZKb3p5WV9DWUhzejBoazBKdmVuQQ?oc=5",
           "pubDate": "Thu, 17 Sep 2026 22:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Military: An F-16 crashes during training in Michigan; pilot ejects safely - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnBOOXlWVHlRR0F2Y1BlQ05nbWh4ODd0NEloQktkVi1lTURybmNoMHhaa1ZCbldPZE5sbEJhU3EtcE8wWUZxTEZWTUJfNDZYLXRKamJ4QmFNYXE1dFl6dTlvX05Jem15RmRpYXlhVWkzUmhpWlNPYURSeGJhQ0RvbW80RUw3cXFSVVJDSU0yeDJPQmlJTktndExPMWU3YlBYY2hr?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 22:28:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,44 @@
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkRYakxnTVBrT3p0Q1RaTEc3QVk5UThSRlNpOXF3ZkhrbXVRRlRwOVEycmVpM1FhdGRRbGlkeDVWQ2tTSzNubFFlWTNkdDhQTUNRNHlsdWpud08tYzZSM2k3a2VmZDVZZS1DUjYySWJ2VDBIVlZUZ25xMnM5TktQT3Fvb1hCVExPcXdn?oc=5",
           "pubDate": "Thu, 17 Sep 2026 20:39:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Michigan authorities advise shelter in place after small plane crash in Grand Traverse County - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnBOOXlWVHlRR0F2Y1BlQ05nbWh4ODd0NEloQktkVi1lTURybmNoMHhaa1ZCbldPZE5sbEJhU3EtcE8wWUZxTEZWTUJfNDZYLXRKamJ4QmFNYXE1dFl6dTlvX05Jem15RmRpYXlhVWkzUmhpWlNPYURSeGJhQ0RvbW80RUw3cXFSVVJDSU0yeDJPQmlJTktndExPMWU3YlBYY2hr?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 19:36:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ex-Connecticut official flees to Greece before sentencing for corruption - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZmNHUHIxMENGN3RnOTE5dTRDdmZncUI0QVYzZS1rTU9mTHhoY0NwcEx4NHBOR0ZPQjFEUWdMenJmWnFqSWZwNXl5OFEwbEVtRTZvTmhXd1NYazdlOXNENG9VcHo4UWxFU1VSWG9PZG5kOVNtcTNWVGZWUEhCdzZMa1Y5a0xJSE9Zd3BlVUY5WmhFcGYyNmFFajktWFB5dXJHSUVucA?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 19:35:44 GMT",
-          "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-09-17T23:25:12.860Z"
+      "ok": true,
+      "updatedAt": "2026-09-18T00:00:20.787Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "US allies fret over how Trump might play his Taiwan hand with Xi - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3hVM1dFSVFMbUpibXh4OWtYdWFBRnNkN0JhREtSNFZ0R2hVMnN1T0lUTHlneVdReE1kd1YzSENaY2xpWXh5SGVjY09qSXNack9RQkN2VFBYQUxCcE5sUExGNzJxRDJzRXYzX0pZU3NTX3RNOTZ0WEZWZ01oSUp2dHh3SkNZSERMc0tFempuV3RSaXF6OXlGaUhCZGNUZlRvMEhaRWRKcUVMSVN6aVJRcmZ3?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 23:44:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Impoverished by war in Iran, Afghan migrants return to Taliban rule - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUtnR01KbXZwRU1yS09FNXhXdnFRaXRXR1YyaWwyOWFvYWl1VC1MbVJFb1dvVWgxNGVFR0xKV3pCQkNycmVDaUJpVjFLYmt4MTVhSmR5dXRlVU54MWFRTG9LY2V4a1g3d2cyblNlVkU2MjNUTWJXaEY0MFNpNG9uZ3dWMWFEZ0ZIZ1dGMFdQby1jd1A5RzZ2TXNsQlJzdEFER2ZjRHE2SWstblhoVFRWWVhGcXFMZw?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 23:33:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Pennsylvania asks for CDC measles help amid Kennedy dispute - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR040WVpTSC1HTG5WV0IwMzRWb2VMQmdJT1k3Ui1rVWlqV08xYkgzRzhBQ3lfUk4tSGNHWU54VXdhZnVfb1Rta3BVMnM5VUxGbUpRRnB6RXN1MmFXb1NEU1hTeW1uSnhKR25jVEdkNmNCYVBvblBFaU9Wc1dCdDNiQS1Xcm5FWkRqcG4yQm9DVTFHRE5TWWNhQzVqZEEwZ1Vtd3p1bktPQmptYVNKRmVXQ0g4M1Q1SHE1TWc?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 23:27:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Goldman's October hike call underscores renewed Fed tightening risks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnA4bVp0ZlNGeVVZRGJvNmIwcVdmSHN3N1I1WlpaYldOaDdGUEoxUkxJNjd3ZkFkNkxhN09iR0RJbzU0VnQxdHdqUHhhVHRsZ3B4cnl0dHE5VHh1WHFBbjRFNnhpQ2NtRjlNQXRtUUVHN0w3azFuS2VxMEJ1NHB3SG5MVWl0NzVDcGNNVmlwYXJsMzZoNWpr?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 23:08:14 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnJncHUxLTNvV25NTHFxQzVwcnljdzdsTkJCNFNjSlJybF95bFBhcW9DTWV1dnlYQ0prMkI0SmdnNjBrdXNLV0ZNM1pQNW1FcUxuaWpqd3NnRXJ6U2lkQWFqQlR0UVE2X3lYU0RXNXlBdno3QkRkSzB2SEwxUzdYV2NZWlc3SGhZdGRMbUFCVDJZeXZsTy0zOHF4R013c2xyMl8zNmVkaHlFOXM1MmtuZHJRREI3UQ?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 22:45:37 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
@@ -185,44 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Floodwater overwhelmed pump at Exxon Mobil's Joliet, Illinois refinery; facility remains offline following outage - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzdPX2ViTG81M19sQUpjMS1xZUhzOGJJYWxnb0oxenVXcW1GWmd0QWtHV1JTX0tNd0NubUxSdXRHWnNud3MwT0FPYkp4OFRGbXFuTDFzTk5jNTlsc0xWVTExc2FPRDBtamJUeE9DWHpiM2FRLUt3SHRHQkJBRVZDRzBTNDFYNHg2X2xGcWEybmxYdTFVUktYQWZnZjVFdjQtSFVpMmxjZEd3aXUtbWtOTGt4cE9JX3FoYXFub2pqbHRRZw?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 21:11:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Canada and EU should ally to protect democracies, Carney says, after 'associate member' proposal angers Trump - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUNDUDhTVm9zSHU1TGloUjMzQV9KVW5NMU9QQzcyV01UcGM1dkRWTDBEd01YdEtqbHFWLU0yNUI0V3FSUWQtVjYxb005MEVTTTNNbmxMb29heDlwaVRWcTcyMnJlNG1PSVZHcGJhMGFHLWNOTVBzYzRXbkFmUWNJTGxJR0VnaTQ5OFR1d2d3dHppRU9nenJ6VUpJWXZnd19XN01iUy1WbVEyb1lZQVp3QkZFUlpPZUI2clBLaFhWR0IxOUJP?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 21:09:15 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US to allow Iranian leaders to attend UN General Assembly - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMlRxdXlUU25MV1Q5ZThqV29lYjBpb1Y0V2MwV3RqZFNoR25hS2ZUX0VpR0hENmZIMlRPWWxGS1p1WUJmNktPZ0ZMWE8xSGRQYmFOUHkwamNjVTFhZFdpSkUxUEhROGl4Y0Y4X05kcTM5QmxqRXVnRm9hSzNCWGZza2RNX1JqYmJiLUJ3UUFFeHFlZVNQQ2QxbzEtbkF5MzlKSktFV3ZUaEdMdTdOdy1rMU9CYWxlRG81SlM0Zg?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 21:08:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Prince Harry makes first public appearances 'back on British soil' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2tiZ1NkdklibndFU2RlUHBIcHNGUXBKNnNVQTRsb3lHOHFaSGIyTlZ2ZkRnTXNBNEVuWFFlbUI0WEdNX3lCRzRNMUw4Q19CaFVxVGdPRzM4RXJJTVpNTzhhT2NhOFZmcmU3MV8xeFo2WkIwbExQV3gxTzZwenlVNGstMklnQU8yVFJoTVEzZDAtZjFocVktM3lBeHZZbndzMkEtM0Itbw?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 20:32:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Australia considers banning the use of smart glasses in government buildings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTWZZY3hhTVhiOWVZRkNzM3BudDg4Mk44R1AzTVdBdWlEQnBqRUZLVWJTaW8xV3EzNFp1RDFXb2h1RkVxdEE5N0p3U3JWMHM4YlpPSDQ5bVZ3a2dOVTctR1RmMGVKWnpkbGZabFlOeDV4UTVkTDhHbDBlMWFpRm9HdnBJbGExdlBuZG1SdlpmZ0d5VF9QU3ZFM2FvT1lqOHdhQUtQNW4xSkN1bEpxZGhzTlgzbHpHZXZPTXhnUDNCVi1ucmM?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 20:28:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnJncHUxLTNvV25NTHFxQzVwcnljdzdsTkJCNFNjSlJybF95bFBhcW9DTWV1dnlYQ0prMkI0SmdnNjBrdXNLV0ZNM1pQNW1FcUxuaWpqd3NnRXJ6U2lkQWFqQlR0UVE2X3lYU0RXNXlBdno3QkRkSzB2SEwxUzdYV2NZWlc3SGhZdGRMbUFCVDJZeXZsTy0zOHF4R013c2xyMl8zNmVkaHlFOXM1MmtuZHJRREI3UQ?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 20:28:35 GMT",
+          "title": "UN mission finds grounds to believe US committed war crimes in Iran, and Tehran crimes against humanity - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmJVNS1uc3FDVDUwbUJ5bjJkZzRwbTdzNFZYUW00SEloak4wZl9yeXJhWlQ2bEExbjZBSzh6T2lRVjNjQ2VvR1lNZGNBc3BwLXZ6QXJCTmZ3M3BfQVdURWZaaUVOV2k0VkNOTFMwcnhsdXR1VU5IWFRWYlVYNDgzeGNwTDB6d3FURHV4YnZZdFpibE45Qm1tTVJxMi1QZG9lbFFqVW16M1ZzQzRLQW1PVkhud2RLeWtxUVV6OFJweE0wOXZuVG5RRg?oc=5",
+          "pubDate": "Thu, 17 Sep 2026 21:20:28 GMT",
           "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-09-17T23:25:13.318Z"
+      "ok": true,
+      "updatedAt": "2026-09-18T00:00:21.324Z"
     }
   ]
 }
