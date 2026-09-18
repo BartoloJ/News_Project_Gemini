@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-18T17:25:17.497Z",
-  "lastChecked": "2026-09-18T17:25:17.497Z",
-  "lastUpdated": "2026-09-18T17:25:17.497Z",
-  "generatedAt": "2026-09-18T17:25:17.497Z",
+  "fetchedAt": "2026-09-18T17:39:57.222Z",
+  "lastChecked": "2026-09-18T17:39:57.222Z",
+  "lastUpdated": "2026-09-18T17:39:57.222Z",
+  "generatedAt": "2026-09-18T17:39:57.222Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 18 Sep 2026 17:31:30 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Dozens of suspected illegal miners die in Nigerian custody",
           "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Russian hybrid attacks against Europe intensifying, says Macron",
           "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 18 Sep 2026 15:14:35 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "At least 17 killed after vehicle loaded with explosives rams Pakistan mosque",
-          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 15:08:12 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T17:25:16.277Z"
+      "updatedAt": "2026-09-18T17:39:55.815Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T17:25:16.526Z"
+      "updatedAt": "2026-09-18T17:39:56.107Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T17:25:17.036Z"
+      "updatedAt": "2026-09-18T17:39:56.735Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 17:18:30 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: US weighs allowing most pharma licensing deals with China, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNTc4RFF3TFZDRlpmb200LUdkeXRFemdreEZ2RHEweHdaM0pPMXc1MVlzU0FHV2dMV05yZ0xRdEM2SHNOUnpPaTRiVXNMc0I5c250TjRUTkFYSmpvVWdDR0FPcURpOFBaVUlULWlYWHZNQktlWlZ3MzhzOUd1X3h2aFc1TDg4OFlWd2ZxVnZMY2EyU3pfT1JUblVBekJJYmthWE1VSHNhNGZIOEV3ZmRpXw?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 16:54:37 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Curfew imposed in Nigerian city after protests over deaths of detained miners - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTh5Ym5aOW4taU85VGpHcGlsV0p2N1FzUEo4bm1IZFZzaDAyNlA5aDh3NjZKek9uYVlhRHdRd2VVOGprSEZucjBvMmNIdjFfMHFZTGQwT3VXMVBTVTUxRHZXam9qSHVEeGZ0Uk9IbkJxWExLb3RpUXMxd1F0OWI1ZzhUNlF6eGFoZWI5UFV4bkZlU2w5MDBjdGV0Y0MzNUN3Q3JMT1Y3SG1tRFhSUVpHSGRIUFFoX205eUE4?oc=5",
           "pubDate": "Fri, 18 Sep 2026 16:52:46 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Volkswagen crisis worsens with profit warning over Porsche-led $11.5 billion hit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOE5LV2xQSHM0XzdrcDdhVGVXVkcwRkRGYno2YllaUlg0T0Y2Z3BDSHpheGhPSS1RcnJqOWN1YWpwbUljYWZqX1Q2RHoya1RJNEc3Yko0QTlsUUZsdXQ1ZUR0RlNudUllVi1SMTF0WXNyVWtuX3Fkb3ZvYzdYczBZX1hGdEg3WlZlck1RejlZWQ?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 16:32:52 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "France's EDF plans 10 small nuclear plants in Europe by 2035 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2dvaUVUUnduTlNRc0hqNUdBaTRDMEkwa1pGdzFWdTZsOFQxU2tjS2pSVnlxdXNUcjhFS2RFQUVpX2tRdnJKUU1vd1ZISkZGX3Y4OWhIUk9Lb0RmNTdHeC1vZnpGT1lWeWFfV2NTeFFWbFI4UGRFMW96S3AxSmxVWDB1NEE5bUNJUXQyWFBKTmU0LUozbXkzZnNoODhaYlZDYUs4Z0dxR3ltX1VE?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 16:06:12 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "US factory production falls in August; outlook clouded by rising costs - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQekwzelo0S3RpaVZiQXFlQmZPSDVVSXNUMXo2N1JjTW1oTHUzbU1FZVljOHlZZ0R1WlRUdUVnWkFaTUJlTFZUQ3FaYVlxbHR0UEVQTXVlUk8wU05MSEtQbDFKbEVxY1lXUGZxR3VoVFkyTFNqZU93MUViajNyZm5sbDNUQVlBRHVMdzFncWJzcUI2Tkg4RFdHVUZsTlBwaXlQd0MtRHlvNy1PTkR0YmtBLTdCOUxIUmM?oc=5",
           "pubDate": "Fri, 18 Sep 2026 16:05:12 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wall St slips as higher Treasury yields weigh on sentiment - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2p6dkpCd0xfbVRBMnhySFRVbm5OSElMZXRXc0NpaGhoRmw2MzNfSUstaC1RVFFnUU1DNUM0MEpHTmxhbHJxOC1Ec2lMWU0xMFVaSVdsZGdVSi1JaWpDX093SHhBdlBkdFdGZnFpd05yYW9LRXk2NkdOMnRWSzJ2dkhuTFpDN01LM1JvNjhyamFZM2dLRFRzM24xSUZwRGVBakhwM3N3em1ycFBuWVg2UVB2OTQ?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 15:49:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "UK air traffic control outage caused by software defect, says operator - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWZ1dFpTYVRsRkJiTDM2clcteEJ4eGpOcHNBOFdJbFBrNWRibGo1SnQ0X0tXdXl1UzlPbVBETlVfcDZhQlRRcGNfZG9iLXloS2pWX2trenFfWDh4SllHanVUcTRTYzFpdVFUTnZWeG9Jci1oSjB3eVFfY25Sb3UySjZsZXNTc0V3TVpzcWZkSWZGSTNLaTZOVUY4LTd5Q2JyaklIYUpJRlBVTGxSaE9MUVhwVXI?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 15:40:42 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T17:25:17.497Z"
+      "updatedAt": "2026-09-18T17:39:57.222Z"
     }
   ]
 }
