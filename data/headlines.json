@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-18T05:27:04.027Z",
-  "lastChecked": "2026-09-18T05:27:04.027Z",
-  "lastUpdated": "2026-09-18T05:27:04.027Z",
-  "generatedAt": "2026-09-18T05:27:04.027Z",
+  "fetchedAt": "2026-09-18T05:50:14.095Z",
+  "lastChecked": "2026-09-18T05:50:14.095Z",
+  "lastUpdated": "2026-09-18T05:50:14.095Z",
+  "generatedAt": "2026-09-18T05:50:14.095Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T05:27:02.953Z"
+      "updatedAt": "2026-09-18T05:50:13.085Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T05:27:03.110Z"
+      "updatedAt": "2026-09-18T05:50:13.155Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Second federal judge freezes Trump mail ballot order with US Supreme Court poised to weigh in - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjBDdzh4RjVfSHgyVUQ2dUlIbVN6MlNkNUdjRXRIQmxmcEttcm0yU0NQbHJTOGdiTm5zVVk3eGRheXQxbVJvNndsZFBEOE9MTGhKNjdmVEJSN2VjMmUwSExST1JmbEdUc2J6SFRZV2ViTExURTRDcEFzaFo1eExCdVdPY0JxOG9iRkhIWDU3MUdSTHI5QTh2LVVTcGwwRXIzUWtyRg?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 04:18:40 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Military: An F-16 crashes during training in Michigan; pilot ejects safely - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnBOOXlWVHlRR0F2Y1BlQ05nbWh4ODd0NEloQktkVi1lTURybmNoMHhaa1ZCbldPZE5sbEJhU3EtcE8wWUZxTEZWTUJfNDZYLXRKamJ4QmFNYXE1dFl6dTlvX05Jem15RmRpYXlhVWkzUmhpWlNPYURSeGJhQ0RvbW80RUw3cXFSVVJDSU0yeDJPQmlJTktndExPMWU3YlBYY2hr?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbUlsSmRleTBkMVBILTJ6c2ZlY3NIVHdXTHg2dDdGbU9DaklMR0pGV2hZT2cwa3l0UGlqTE5LeWtwZEJtS3VFOW9KYncwamQ1M08zMS1vY0VtQmdPSEp1VjJCNHJFdUJHdXM0OXJOakhqVlVidEpaMklUdUJFbHMzMndOd3VhS0RLai1OSXNLWGNxQQ?oc=5",
           "pubDate": "Thu, 17 Sep 2026 23:22:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Tens of thousands flee as Iran-backed rebels draw Yemen into the wider war - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEJrazQ1WlJrelROX1NZTzZ5dTRvX0g5QXpRWEdZbWxwR1NLRnFQajctT2tDa3FibzhVTmE0LXJWRHVGZVhSM1Zna2VoR1FNdElZN2lyN0JVb09LcWJFSFpGNXE1ajg0QmtYaVF3MlNYQktseW5rX3FCN3VqdmdsbGplOE1XbXE3V3RocVJ5dW56T0VZY0xKUEQtSQ?oc=5",
-          "pubDate": "Thu, 17 Sep 2026 23:21:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T05:27:03.618Z"
+      "updatedAt": "2026-09-18T05:50:13.616Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Malaysia king permits ex-PM Najib Razak to serve term under house arrest - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZmY5RC1LNzNwTUd4S0dOZWFCUUhOYVh4VC1hTkhXbXdLRzhFck9XUzV6eFBlUFQ1alpNYzJyUWZGaldiRkJSLWlMNE52SzMtdmFCSVhza29CSUxLNEVvRW5DTHRKQ0RhYlQwdk1QSG9rVmdzZjVNSzJGSXZYNms4azRZM3NEcC1WV3lBUXoxM0xGOW1SZUt6MW1JVXppSF9STUdCd2lNbDRkV1NtTV92WA?oc=5",
           "pubDate": "Fri, 18 Sep 2026 04:25:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Indian shares open higher as oil eases; IPO rush limits gains - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVRkSXFwRVNyZDNJMC1tdGE3bmhadGdUT21fOExqblBPZkdpVFVoa21kWmswNlVJdWw1Yk1xYlA5Z2k0Q3RKVVdXRWJHT3BLcHJMU2JGSE12QzFnTGhMWkZfUFByVWZTNzMyYVR5Y3M4bnFRM2RubXMtdkI4Qk5ldkx5NDcwWDAyek52R1I1bXhZQnQ0QTd5NTZpLUl6RDRwcmxLRGtKdTgyb00?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 03:04:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDVrUGNRTzdTOG1wQ1ljY2w0Y002MjMxSVNvM2RrLTBhM3B1dEJVS1B6bnJWTjhydS1BUHpfTVFtbHh2QkdMdFU1ZVo3MDJtQ01kbldpa0lfWFM0QXFWbmVsN1RqcjcxMHczN3JGSHItelVZMzQtYklTN1kwVlJxLU5RVzAwc3BEQV9iVFI1N0xhRXluaGZxN0NrWkxFMDk5Q0pYZw?oc=5",
           "pubDate": "Fri, 18 Sep 2026 01:01:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Yen slumps after BOJ hikes rates as expected - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTZWMHVPOWZ5RDBIc2NmX2tmcE5pODNpeGhnaGJhZ0RrVkRtVTVud1FUY2NhNkttREN4QjNtTlZRTGtPNTFZVUIzWm1XNU5xNEdqTnNILXhybG1oMXVJV3N6YmxpRjFIX01sZWVEQ2xiRW1weUpEWjFfU1NCOXZuU0Vjc2xtMGpacjFGZ2ZZLXpnN1R3YWphMDcta0VyYjEyYU40?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 00:59:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T05:27:04.027Z"
+      "updatedAt": "2026-09-18T05:50:14.095Z"
     }
   ]
 }
