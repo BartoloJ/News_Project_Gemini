@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-18T06:50:14.139Z",
-  "lastChecked": "2026-09-18T06:50:14.139Z",
-  "lastUpdated": "2026-09-18T06:50:14.139Z",
-  "generatedAt": "2026-09-18T06:50:14.139Z",
+  "fetchedAt": "2026-09-18T07:00:22.069Z",
+  "lastChecked": "2026-09-18T07:00:22.069Z",
+  "lastUpdated": "2026-09-18T07:00:22.069Z",
+  "generatedAt": "2026-09-18T07:00:22.069Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T06:50:13.005Z"
+      "updatedAt": "2026-09-18T07:00:21.000Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T06:50:13.290Z"
+      "updatedAt": "2026-09-18T07:00:21.189Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 05:06:57 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Japan’s central bank raises benchmark interest rate to 1.25% - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFZVMzlCMTR3aWVFV2pMdW9NZHp0bFJqYnZDSHhOZVNFWlp4TFl0dHZRclFCd2V0UXY3UHptV2tzX3hRQTB5M2hYMkVMSFJOTDNSaHFmcTE3azZpbnhyMmU5bWl5Yl9RMmRKVXE3UGlQUXVmeUtwNURteENVOUxseGR0blp5bTdCM2d3Y0o5d0otd1BKZ25mZERvU05WWXc?oc=5",
@@ -127,12 +133,6 @@
           "title": "Military: An F-16 crashes during training in Michigan; pilot ejects safely - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnBOOXlWVHlRR0F2Y1BlQ05nbWh4ODd0NEloQktkVi1lTURybmNoMHhaa1ZCbldPZE5sbEJhU3EtcE8wWUZxTEZWTUJfNDZYLXRKamJ4QmFNYXE1dFl6dTlvX05Jem15RmRpYXlhVWkzUmhpWlNPYURSeGJhQ0RvbW80RUw3cXFSVVJDSU0yeDJPQmlJTktndExPMWU3YlBYY2hr?oc=5",
           "pubDate": "Fri, 18 Sep 2026 03:12:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 02:16:10 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T06:50:13.720Z"
+      "updatedAt": "2026-09-18T07:00:21.635Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T06:50:14.139Z"
+      "updatedAt": "2026-09-18T07:00:22.069Z"
     }
   ]
 }
