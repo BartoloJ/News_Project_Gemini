@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-18T08:50:15.690Z",
-  "lastChecked": "2026-09-18T08:50:15.690Z",
-  "lastUpdated": "2026-09-18T08:50:15.690Z",
-  "generatedAt": "2026-09-18T08:50:15.690Z",
+  "fetchedAt": "2026-09-18T09:00:20.064Z",
+  "lastChecked": "2026-09-18T09:00:20.064Z",
+  "lastUpdated": "2026-09-18T09:00:20.064Z",
+  "generatedAt": "2026-09-18T09:00:20.064Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T08:50:14.505Z"
+      "updatedAt": "2026-09-18T09:00:18.894Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/09/18/nx-s1-5966388/morning-news-brief",
+          "pubDate": "Fri, 18 Sep 2026 04:46:02 -0400",
+          "source": "NPR"
+        },
         {
           "title": "What to know after a week of Houthi attacks that threaten Saudi oil",
           "link": "https://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
           "pubDate": "Thu, 17 Sep 2026 15:33:30 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened?",
-          "link": "https://www.npr.org/2026/09/17/nx-s1-5971066/trump-rx-medicaid-generous-drug-prices-pfizer-favored-nation",
-          "pubDate": "Thu, 17 Sep 2026 12:45:58 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T08:50:14.772Z"
+      "updatedAt": "2026-09-18T09:00:19.107Z"
     },
     {
       "name": "AP News",
@@ -126,7 +126,7 @@
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 06:03:29 GMT",
+          "pubDate": "Fri, 18 Sep 2026 05:06:57 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T08:50:15.272Z"
+      "updatedAt": "2026-09-18T09:00:19.590Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "One killed, four injured in Philippines school shooting, provincial governor says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb1FVZlFWOGJET1lKMlJiaHg5QnpEaE1rMWFMdVlqN005Wk1FdUt6TV82MEVfbUItZThtQmN5OGsxeG5MLTRPYno2eG5yUmlNTEZYMFpPRE5JUWViZmJfNXFzWDZ6MURHd2l2cTB0eFZGQlhhcE1hNG5seDhLU2RhNzYxbnV1aVA1dnhWNGtiQzZjTnV6ZXhpY2l4UzFtRG42T1FOZ1JJQTU1dFE3cE80NkRvRFo1b2swX0c4STBhU1B5YkkxMWxZWVlPTQ?oc=5",
           "pubDate": "Fri, 18 Sep 2026 07:15:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "At least one dead, four injured in school shooting in southern Philippines - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHZVaG9hVl9JY1dIVnlHWFplOFhfSnBJZVUyMkVKVkJzUklwNkRQY0tuODJFdUoyZy1QbHZmcjZEWlNhNXhlVS1YSmp3MklOWFBGVWRJX1BrdzZtdmdOaXVNemQ5aXFsVDFGd2dDM1lZNzI0NnEwWlFsN1BoNkw1cEJkOVlELUdnWEdtbG5ad3V5QWNjc0pIQ0RsMG1GVHVaVllBdy1UTjFlUmx4bnJUaw?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 06:55:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXhCUnlwalg0dVppb2Y3dDVQNUFsUUlsLTZ2c2NJckZ2UjBxWXE0TC1QdFRSY0Q3VFA4QWctMzZSMHd6NFQ4Q1pDTy1UZTlVNE12ZGlmMGpFdXkzMXMxOWV4UWE0Z1REeHRMNzQ1NkFmd1hmQWc5d3FWdTUzYWM4ejhZc2IwSXprb3gtZzJxWmpTVFA4ZlFTSGhDN3J1ZWl1dWJVNkxVRVVTVkFjTS1LQXg2Y0RJZ1JTSms1VzJ4enppek4xMWFYRUxjMzA3dw?oc=5",
           "pubDate": "Fri, 18 Sep 2026 05:23:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Nestle weighing all options after Kremlin moves to seize Russia business - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTVlPeFV6MGxJSDN5b2VWcENqbmN1bFhNaDFaUEE4ZjJYa1ZsQW9kRGE3Q2dWc3FfdVVjc0pyUWEtejhyX0tvbE8xWHRGTEo0ZXJmV20zSllEdmpDdlFuMnRCRndzM2tDZXNSanZleG85c252aWk3SW1IRl9maXJZT24zWlNFSTRlX2tyRmpJU0VNdTdZU2hvaTBZOXFzdWxoOTFHUTZScHFLVGxCUE1mdHZwMXhMdFRrMnF2RGJGblExQm5ILXR6cS0tLVk?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 05:12:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T08:50:15.690Z"
+      "updatedAt": "2026-09-18T09:00:20.064Z"
     }
   ]
 }
