@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-18T09:25:13.197Z",
-  "lastChecked": "2026-09-18T09:25:13.197Z",
-  "lastUpdated": "2026-09-18T09:25:13.197Z",
-  "generatedAt": "2026-09-18T09:25:13.197Z",
+  "fetchedAt": "2026-09-18T09:50:17.931Z",
+  "lastChecked": "2026-09-18T09:50:17.931Z",
+  "lastUpdated": "2026-09-18T09:50:17.931Z",
+  "generatedAt": "2026-09-18T09:50:17.931Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T09:25:12.157Z"
+      "updatedAt": "2026-09-18T09:50:17.241Z"
     },
     {
       "name": "NPR",
@@ -75,12 +75,6 @@
           "source": "NPR"
         },
         {
-          "title": "Google is helping write AI chatbot safety laws — while pushing for loopholes",
-          "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
-          "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "A DHS email raises new questions about the Trump administration's election plans",
           "link": "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language",
           "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
@@ -89,6 +83,12 @@
         {
           "title": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
           "link": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
+          "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Google is helping write AI chatbot safety laws — while pushing for loopholes",
+          "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
           "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T09:25:12.333Z"
+      "updatedAt": "2026-09-18T09:50:17.435Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,19 @@
         {
           "title": "Japan’s central bank raises benchmark interest rate to 1.25%, the highest in 31 years - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFZVMzlCMTR3aWVFV2pMdW9NZHp0bFJqYnZDSHhOZVNFWlp4TFl0dHZRclFCd2V0UXY3UHptV2tzX3hRQTB5M2hYMkVMSFJOTDNSaHFmcTE3azZpbnhyMmU5bWl5Yl9RMmRKVXE3UGlQUXVmeUtwNURteENVOUxseGR0blp5bTdCM2d3Y0o5d0otd1BKZ25mZERvU05WWXc?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 09:00:00 GMT",
+          "pubDate": "Fri, 18 Sep 2026 09:02:30 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Asian shares finish higher, cheered by easing oil prices, but European benchmarks are slipping - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOblR6c3AydHhyUC1oMVNJUWpVT0YwN2FJUHU0RF96U1JrNm5Xdk0zMmpuNjgycjBKMXBQR2JMWmtXRFo0ZVRhNFBHWWUwbXFWOFVQa3JQZUxMYlUxdDVqZ0hkQ09STUd2MDRxQnB2NE5BWnpwbkVxR1phMzRpZldUVlZJUFpOV3VOQ0hadDhtY1c2VVhlcy1YT0xCaWJ5UQ?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 08:51:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Centenarians living in Japan exceed 100,000 for the first time - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFR3cy1GWllpc19xemxPbjFpTnhwd21YQ3V2c1Y1LUhVYl9SYTlvVzBHSHRWZHhMS3gtS0wxY3hpR1kyNVF1d1FNSjZVLUEtYnNKeUtKZ0xyNkg5SXJMNXppdi1Qd3luMVBtY3BSMFdGNFpxVDMxV1h6bWtaT2RYSlp1N0Y3aG5nOUJ4RWtoSm9TMV9scnpmcFJPUG84OEpOWWNRUEMtZVgzU21iSTdv?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 06:31:42 GMT",
           "source": "AP News"
         },
         {
@@ -152,36 +164,42 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZlBFRjIzVTNNR056S3dBck45UTFwS0ZxMEZtcEYxMG9BM0c4dE0yRVI2NHpqWWlHb2p2b2VVMVlscmR1YTZsWTVMdGRDS2dKeWNobktYaC1YNzNfQjgtT0tLTE5CQV9zc1BHM1ctRllxYUtRYktXcDQtN0xkZFNIQ1lPeDN0cjZqbllNWUhuZ1Uyb280U2JVbURDQnlsUnBYUkxJQjRsSnJTS09YMGl3bFhKbEdtVjYtek93UXR2ZlJNZw?oc=5",
           "pubDate": "Fri, 18 Sep 2026 02:14:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Carney embraces EU associate membership proposal as Trump pushes Canada closer to Europe - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObklwd2xpNktxT1dkcF9LZjhsUHhfOTQ1YVRBRWNIMXNDZGg2MWxnZUtVQTUxTFowcHI0TGRZM2RHUDE2SGhsYXRFZUlvR1lfZXY1NnhDb1p0R3h2QTA0STRndmQ0MHpoa1BhSXByOGdyWW5wa3IyVXhRc2YzMHhPc3FfQnRYWFV0QnNIWk1feFhMNTJJdUN0Rl94V2Q1emJPMWc?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 01:58:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1pxWVhPQ09jRmt4Zjg5VFV6Yko5MEFRU1ZJUnhCdnVwRG1GOFFFQ3NuR1hLTEQ2N1FEZnJ1Q3hHQ2pUTl9xQlJyZmZFTS00RTRuQ05FLTltZ3pGdUFmQWJ4TUt4SHJzbnFXMGlJV3FZWmI1UEhTZGkzekxZcFVKZnhVZDRWem5oS3ZPdnhDMkNkU20t?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 01:06:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T09:25:12.762Z"
+      "updatedAt": "2026-09-18T09:50:17.912Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Protests erupt in Nigeria after 33 miners die in custody of paramilitary agency - Reuters",
+          "title": "Protests erupt in Nigeria after 37 miners die in custody of paramilitary agency - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTh5Ym5aOW4taU85VGpHcGlsV0p2N1FzUEo4bm1IZFZzaDAyNlA5aDh3NjZKek9uYVlhRHdRd2VVOGprSEZucjBvMmNIdjFfMHFZTGQwT3VXMVBTVTUxRHZXam9qSHVEeGZ0Uk9IbkJxWExLb3RpUXMxd1F0OWI1ZzhUNlF6eGFoZWI5UFV4bkZlU2w5MDBjdGV0Y0MzNUN3Q3JMT1Y3SG1tRFhSUVpHSGRIUFFoX205eUE4?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 08:03:24 GMT",
+          "pubDate": "Fri, 18 Sep 2026 09:34:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Toyota estimates factory automation could cost $6.4 billion per year from 2028 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc0Y2aEI5NHpNZ2pXUTl4VmhvZUVoekVCUW5lNFR2RW90RXFLWGRPTTRGdUtBZFFTQTFreWgycll1MFBCTTA3UWliMHVJNGVVZ0xRRmlGLTJILWl6dk92cUMwUnJ1cU5YSE5lMmdJanFxVlVYVlplT3ZBVzEzR2tNLVVOSUFwcXA3YjdqWXZhcWN0NmluUERISko0ZEJnNzdkdHg1LXdJT2lRQi1lZXlGY2p3SXBZM21ZLXNvMk9idzlBYUFUa3RBN0VYd3VtRTZjampF?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 08:03:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWVORmo3eC1SRjlfVnVWMWw5aXlPb01wMk5vSlI2NU1ZenFHdHRRXzhQQTJ2T2RhQkV4QlZQOGc0ajRhLXctMDNaRWZfaEk4bmhzSG9kdXpKcmR2NGI5M2Z1Wnl5alNjUnA0Ym1ZSlhxMU51alhzcGdaUS1fV3FZT1FDb1MxYlJtUWU5VnZ2S0FNU25WRzRlLWtlMlBCaEZVRHhZN0NqdzNGUUxKdTJIOVNmUFhMNlg0SC1sOW12eFNfakFl?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 07:26:58 GMT",
           "source": "Reuters"
         },
         {
           "title": "One killed, four injured in Philippines school shooting, provincial governor says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb1FVZlFWOGJET1lKMlJiaHg5QnpEaE1rMWFMdVlqN005Wk1FdUt6TV82MEVfbUItZThtQmN5OGsxeG5MLTRPYno2eG5yUmlNTEZYMFpPRE5JUWViZmJfNXFzWDZ6MURHd2l2cTB0eFZGQlhhcE1hNG5seDhLU2RhNzYxbnV1aVA1dnhWNGtiQzZjTnV6ZXhpY2l4UzFtRG42T1FOZ1JJQTU1dFE3cE80NkRvRFo1b2swX0c4STBhU1B5YkkxMWxZWVlPTQ?oc=5",
           "pubDate": "Fri, 18 Sep 2026 07:15:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "At least one dead, four injured in school shooting in southern Philippines - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHZVaG9hVl9JY1dIVnlHWFplOFhfSnBJZVUyMkVKVkJzUklwNkRQY0tuODJFdUoyZy1QbHZmcjZEWlNhNXhlVS1YSmp3MklOWFBGVWRJX1BrdzZtdmdOaXVNemQ5aXFsVDFGd2dDM1lZNzI0NnEwWlFsN1BoNkw1cEJkOVlELUdnWEdtbG5ad3V5QWNjc0pIQ0RsMG1GVHVaVllBdy1UTjFlUmx4bnJUaw?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 06:55:00 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWJDUGZRYnpZYjNzVjhCNDJ6LTMzOC1BQk8wVFhEWGU1SVpuVmJrZUJJMzQ5bkhxLVg5cFo0a1RaRjBabWp1ME91WG95UFBNV1k5UHVubmpfTVNzTkU1WW9CSVRjVGc5aTl1VmZtOU1PSzY5SFlscWswQlZGY1Q1dWI5dDZSOGx0MlVpZmp0STdRU0ZyanVvM1RFY04wRUI5RUEzQWlGY0cyYnVZdnNFRGRzaWJ3cG1lSWtTdTB4eWlXcTVUeGxUcVE1Yw?oc=5",
           "pubDate": "Fri, 18 Sep 2026 06:39:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "France probes misuse of smart glasses in sexual harassment cases - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNektBQWp6ZnpTQ25yWXRMV0ktaXQ1YzBnUktZX0xtSFJzQkZxMVp5QUszNXpvZHRPMlZuN29vUmYzd0JrMHpjbzNFaEI3MjdfbVhSTnV6OU5peFNsZ3pJSjVOQllYTUNSOURWM3pFOURpX0t0NDZRbTN3b0MtcnRMNC1BMEdleGt6RWRUa1Bqb19CS00yOW9GMHQxYlpjYnVrVmo2cThoalpYWUk?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 06:03:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "SK Hynix's Solidigm unit is weighing NAND memory chip factory in US, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNVVtN2pfeEs4R2NCcG9sdEpkTHB3MUMyNHdXdkZCQThtbm16WHNoQWhUUmZEN3ZFM2RFU0QzS2Z6WXB3VVNkdmNJbV9EdnA5ZlQteUpseWhuRzlOMnlFNmR1cE9oVWM4Zjl3OGpRMjdVVV9pYUxKRXZ1dlZIaXVCZ2dYWTliQWxWNHNoWTRiMm9PTGQ3TGtsTGtIZ1B0NzZJaldGcHZhUF8tXzRpU2FvWWJhZnBONk56QnFzVExnYmx0Z1UyU0xjeWlR?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 05:59:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China vessel rams and damages Philippine boat on refueling mission, coast guard says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeklWT3lWMURtQ050cXZHMHdiTWdHM3ZkN29oeVh2dG1ZdUZWbC1HajN6aXlVMDhpaUw4blpwSDBGTW9VUmtsdUwzZkd3N2xpa3BkbGx1QWFtVnBTT1FZcHhIZm11RUZ2STdaeWt5M1gzNkRacEUyZ0FNbzhmbl9YeFg2VUVlOHhuVFdOQTNzTTJvVGs4d1lCNXBVSFJqRURUWnJ3bHNWQ280VlBsM0d5MC1kWGg?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 05:47:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T09:25:13.196Z"
+      "updatedAt": "2026-09-18T09:50:17.931Z"
     }
   ]
 }
