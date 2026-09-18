@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-18T20:00:21.449Z",
-  "lastChecked": "2026-09-18T20:00:21.449Z",
-  "lastUpdated": "2026-09-18T20:00:21.449Z",
-  "generatedAt": "2026-09-18T20:00:21.449Z",
+  "fetchedAt": "2026-09-18T20:25:15.244Z",
+  "lastChecked": "2026-09-18T20:25:15.244Z",
+  "lastUpdated": "2026-09-18T20:25:15.244Z",
+  "generatedAt": "2026-09-18T20:25:15.244Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,13 @@
         {
           "title": "Donald Trump says he is banning CNN and Politico from White House",
           "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 19:54:41 GMT",
+          "pubDate": "Fri, 18 Sep 2026 20:22:07 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 18 Sep 2026 20:17:50 GMT",
           "source": "BBC News"
         },
         {
@@ -23,12 +29,6 @@
           "title": "Russian hybrid attacks against Europe intensifying, says Macron",
           "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 18 Sep 2026 18:04:38 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 17:31:30 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T20:00:20.285Z"
+      "updatedAt": "2026-09-18T20:25:13.903Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump says he is banning CNN, MSNOW and Politico from the White House",
+          "link": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
+          "pubDate": "Fri, 18 Sep 2026 16:15:53 -0400",
+          "source": "NPR"
+        },
         {
           "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
           "link": "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks",
@@ -103,26 +109,14 @@
           "link": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
           "pubDate": "Fri, 18 Sep 2026 06:58:49 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "South Africa 'feels like a prison' for women amid spate of femicides",
-          "link": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
-          "pubDate": "Fri, 18 Sep 2026 06:39:14 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T20:00:20.402Z"
+      "updatedAt": "2026-09-18T20:25:14.233Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "Trump says he is banning CNN, MSNOW and Politico from the White House - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmJvU3QxRHMzN3h2Umc4M3RyNFMtell5WGNTV1d2ampGY25aLUZjLVgxWlRmWS1JWVItZ3RoVXFtOUhlX01zdEhGbzhrN1VMUndiekJxOG1MZFNPTE1TZkJsZHRZb0doZUNid1NXVS1NTmtpV1FyQ3FGM0VLWDFnOWRjVXc5YnFsYTJiM3cwM21acFNYV3RieUYtcw?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 19:35:00 GMT",
-          "source": "AP News"
-        },
         {
           "title": "Russia begins 3 days of voting in a parliamentary election set to cement the Kremlin’s power - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUFqYVVGeUo1RkFUYXVSZVNtWU5wU0ViN1c3eE90aEJ4dHduTjRhazI0VWpscUJzTXUwQkNzVzl0UC0xMnlVa0c3azRCTmtqbFc3bldOWjQxOWxkbDFMaTUxb1AyTVFRMm9wVGoxcFZ1RVJhSDYxX0FLYzFNNVF6VHY1NkR2WF82QmozeGFXaFh2cjdHSWJaY0tub3lybVJ4c1FfME41ZUdoSUFCeHc?oc=5",
@@ -130,9 +124,9 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 18:13:04 GMT",
+          "title": "Trump says he is banning CNN, MS NOW and Politico from the White House - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmJvU3QxRHMzN3h2Umc4M3RyNFMtell5WGNTV1d2ampGY25aLUZjLVgxWlRmWS1JWVItZ3RoVXFtOUhlX01zdEhGbzhrN1VMUndiekJxOG1MZFNPTE1TZkJsZHRZb0doZUNid1NXVS1NTmtpV1FyQ3FGM0VLWDFnOWRjVXc5YnFsYTJiM3cwM21acFNYV3RieUYtcw?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 19:18:48 GMT",
           "source": "AP News"
         },
         {
@@ -164,24 +158,36 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjE2N1ZNUEE5THNqMG5XQ2QxdlZVRlpqM29zWW9LUHJhXzNfWnRvbXBpd1NqVHVMQ2x2ZGQtTWNTNUFLcG9idkpzZnYyOXRmTDc0Ml9sa2dUWGRHYkprbHE5RXBGdW9yMnJNcjVISFR3NklQRU5pU3lZWE5qZjE4MTdWY0xBX2hJNUgyeHlURQ?oc=5",
           "pubDate": "Fri, 18 Sep 2026 16:43:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Trump refers to Black man from racially offensive 1988 campaign ad while stumping in North Carolina - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkJDZFVyT2pQamsydTlRb3RlcU5jZllJNDhadzVidjNpNmNxWktyU0ZmNFdjc0NiS2U2OVp2Q092ajFXalpuS1hUZjMwOFBpVk1vVU9Eckx0SUtZaXVySHItczRlWkh4SVR0S2RZZEJIRzg4cVNzaVhSSnJhYmd2ZnBGeFdORmlaaUxIOEJXQmlYZk90X0ExUXJVSUlxaGNpY3ZZ?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 16:40:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T20:00:20.950Z"
+      "updatedAt": "2026-09-18T20:25:14.783Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Trump bans media outlets CNN, MS NOW, Politico from White House - Reuters",
+          "title": "Trump says he is banning media outlets CNN, MS NOW, Politico from White House - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMlVWa0ZnX0VIQWsxTUVRTnRrSV9SLVFKd19wQ2FGRGx0QlNtSUZfd3JBbDRZZ2hNU2lXa1haT0dESVZoMWp4UnF5UDFTRllIQ19Ibno2QVVndW1yODN3VUdvV3RpN21Sd2R6dUZyLUFGSGtnd2hrS1FNVTNDajlVNG9TRDVxa0lyN2s3NTgtXzBTMktpU0dQcTFwdmlZX0dEcWc?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 19:27:43 GMT",
+          "pubDate": "Fri, 18 Sep 2026 19:37:45 GMT",
           "source": "Reuters"
         },
         {
           "title": "Volkswagen to recall over 208,700 US vehicles over steering rack bolt defect, NHTSA says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1dLdnVpTGd0WmY3amd3Sng5cWV4OWlDUjlzOFRlaENuNHVXRUp0VXM4LVk2LUFfUlNDVGhyZkRmWVNGZl85Z0o3LVp4Sk1ycHVXMXh3NFA4UWVvNGxzU291QkMzTEN3c3ViaXF2WDZoaExYaG0zRXpDNnlleTlWNGxReWdrSWc3MjB2STFJbUhuNnk1Vy1XVnJTbzg0UkZwbE9YWEZNUXA4THRkR2NneW1XZWdrcVZlRHltT1hQZHhJeTdLSllUTWxZbw?oc=5",
           "pubDate": "Fri, 18 Sep 2026 19:17:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Warren Buffett steps down as Berkshire chairman, son Howard succeeds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGNSTzVqLUNZQjdoWnZWMENFaUo1cGNMSkNwVC1DNVdYVUNFWnNIVV9MR2VKUllvTDcyaXVuSXdYT1hKZkdRbWZRTFJacFoyV0VNcXpQZWJ5dDZyUFY3OGdnQi0xVklKcGJOUllOSDNwakh5Ym02c29OUjd1VUFqam90TDhzM0hOdkR3WFREWUFzNHl6N0ljbDg3LWVEOUdnajdVdnVuQkNJbmV6akZUby15U2hwd0JSQnc?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 19:15:25 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSmUtajNxbzBGUUVwOG40OHh5NlY2aXVWamw5eWVuYkprTWNqMFdpbDh6QjE5V1ljUHdzaVdRcFJmMjloUzd4WEpyZVVfcXM2UmZNOUI2WDVqZlRNcnVjbEpCTlprenlfZVVrUV9MSlpGdXFka2JPc1VJanp2ODdqNndRdU9POGdQSlNXd3FaWVZNVW5PVEV4UXNFZG9xOWpaZnFadjVWXzU0a3k4bUo4VUZ6UnFGRFBGcVZlUmtjeG1hZw?oc=5",
           "pubDate": "Fri, 18 Sep 2026 18:42:46 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US troop deaths in Iran war exceed Pentagon count by at least four, Washington Post reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWTJWTFE3dlFIRDVOVDZiY01XQXNxNDI0Z1RiWlFybTFpaEFEQUtpcVRnaEVNUUxPSkl3eFpLc1JzakdRWHNFQWZSUHhQMmQ0T0MtOHBrUjFYTGIzM0dMUmFwNGZPdWhkZUdUSmR1Q29mTHZXNDJuY2d6MllvMXNTM3pGM1BHQmVvQkstdEd2SDE2ZjJ4dXpxdmVSa25KcWJxaUV5eUFrNGFLSUJoT21wNDRieGxuQjFzTXNxU1dFZFlCT3R3aEJESmRR?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 18:36:03 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T20:00:21.449Z"
+      "updatedAt": "2026-09-18T20:25:15.244Z"
     }
   ]
 }
