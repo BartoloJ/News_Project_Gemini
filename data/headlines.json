@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-18T11:50:14.309Z",
-  "lastChecked": "2026-09-18T11:50:14.309Z",
-  "lastUpdated": "2026-09-18T11:50:14.309Z",
-  "generatedAt": "2026-09-18T11:50:14.309Z",
+  "fetchedAt": "2026-09-18T12:00:24.526Z",
+  "lastChecked": "2026-09-18T12:00:24.526Z",
+  "lastUpdated": "2026-09-18T12:00:24.526Z",
+  "generatedAt": "2026-09-18T12:00:24.526Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Dozens of suspected illegal miners die in Nigerian custody",
+          "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 18 Sep 2026 11:56:16 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
           "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Three dead and eight injured in Philippines school shooting",
           "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 18 Sep 2026 11:01:46 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Dozens of suspected illegal miners die in Nigerian custody",
-          "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 10:35:59 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T11:50:13.129Z"
+      "updatedAt": "2026-09-18T12:00:23.367Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T11:50:13.374Z"
+      "updatedAt": "2026-09-18T12:00:23.612Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T11:50:13.874Z"
+      "updatedAt": "2026-09-18T12:00:24.077Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Warren Buffett steps down as Berkshire chairman, son Howard succeeds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGNSTzVqLUNZQjdoWnZWMENFaUo1cGNMSkNwVC1DNVdYVUNFWnNIVV9MR2VKUllvTDcyaXVuSXdYT1hKZkdRbWZRTFJacFoyV0VNcXpQZWJ5dDZyUFY3OGdnQi0xVklKcGJOUllOSDNwakh5Ym02c29OUjd1VUFqam90TDhzM0hOdkR3WFREWUFzNHl6N0ljbDg3LWVEOUdnajdVdnVuQkNJbmV6akZUby15U2hwd0JSQnc?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 11:48:09 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Record US diesel prices squeeze farmers; food prices may rise - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXFFeEk2NVZjZU9WbTQ3QUZObDgyZ2JZdVlPRjd5dzNVdk13OFNCN2tiR0c1MElNMFFZVGdRelI5UnZkNnlMNmRQZXM1Um1sQUZQRkh2R3JvSHNkZnhtV2JzVFB4SDVoam0tZUE3WHljQWdSbXFPTEdOTkxSQXdvcTZQdXloOEpXMlVWUnprbS0ycUJ3aU1qRkVKZTc0UTFxa2h0bG43TlpCRnM5N1pVN09R?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUV3UzJ5MVVnR0c2b0hlQ0s4OGZEWS01alZ1TldLbmR1ZFMtZFE1S0V6WFVTOEFnSXVfMlNmSWpYRl9LVDhha2dydmkyaGlUckpYVUxEdWgzWUNjMkx3ZmxQdGRFQ2ZDdHNUZzFkNWNQZU82RHRiSjYwUmlscjdVQmhxbktkdU94SEJub1hYUDBqNUtIY1M4bjl0a2lUV3U5Q09jbmpTRVNVQlAtNUlGY2RPMTFDdExuSzlWYU5vbkJZdGhwbmtV?oc=5",
           "pubDate": "Fri, 18 Sep 2026 09:37:54 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Toyota estimates factory automation could cost $6.4 billion per year from 2028 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc0Y2aEI5NHpNZ2pXUTl4VmhvZUVoekVCUW5lNFR2RW90RXFLWGRPTTRGdUtBZFFTQTFreWgycll1MFBCTTA3UWliMHVJNGVVZ0xRRmlGLTJILWl6dk92cUMwUnJ1cU5YSE5lMmdJanFxVlVYVlplT3ZBVzEzR2tNLVVOSUFwcXA3YjdqWXZhcWN0NmluUERISko0ZEJnNzdkdHg1LXdJT2lRQi1lZXlGY2p3SXBZM21ZLXNvMk9idzlBYUFUa3RBN0VYd3VtRTZjampF?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 08:03:31 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T11:50:14.309Z"
+      "updatedAt": "2026-09-18T12:00:24.526Z"
     }
   ]
 }
