@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-18T21:25:13.908Z",
-  "lastChecked": "2026-09-18T21:25:13.908Z",
-  "lastUpdated": "2026-09-18T21:25:13.908Z",
-  "generatedAt": "2026-09-18T21:25:13.908Z",
+  "fetchedAt": "2026-09-18T21:50:14.301Z",
+  "lastChecked": "2026-09-18T21:50:14.301Z",
+  "lastUpdated": "2026-09-18T21:50:14.301Z",
+  "generatedAt": "2026-09-18T21:50:14.301Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,13 @@
         {
           "title": "Trump says he is banning CNN and Politico from White House",
           "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 21:05:49 GMT",
+          "pubDate": "Fri, 18 Sep 2026 21:45:19 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
+          "link": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 18 Sep 2026 20:35:03 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 18 Sep 2026 17:15:02 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-          "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 17:10:58 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T21:25:12.522Z"
+      "updatedAt": "2026-09-18T21:50:13.904Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T21:25:12.708Z"
+      "updatedAt": "2026-09-18T21:50:14.262Z"
     },
     {
       "name": "AP News",
@@ -138,7 +138,7 @@
         {
           "title": "Trump says he is banning CNN, MS NOW and Politico from the White House - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmJvU3QxRHMzN3h2Umc4M3RyNFMtell5WGNTV1d2ampGY25aLUZjLVgxWlRmWS1JWVItZ3RoVXFtOUhlX01zdEhGbzhrN1VMUndiekJxOG1MZFNPTE1TZkJsZHRZb0doZUNid1NXVS1NTmtpV1FyQ3FGM0VLWDFnOWRjVXc5YnFsYTJiM3cwM21acFNYV3RieUYtcw?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 19:44:00 GMT",
+          "pubDate": "Fri, 18 Sep 2026 19:18:48 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T21:25:13.416Z"
+      "updatedAt": "2026-09-18T21:50:14.289Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "EXCLUSIVE: US and Denmark close in on a Greenland deal, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXUxU0wtWHlQT1lrMjB0b2Q5c080QTY4SmJDSkF3c1R1SUNkVVV5TmUxeVBaRk56ZTV4SWtqaXNBQzBfUnRiNWN5NmVQNGFTNGNGNFJqMjd5WTB3cGxhQ1p3UDdSemxwQXdYYkpjS1ktV2hkVzZRR1R4Tmw0M2VEZjQxZ0JWU0ptVlBha00tckVhSFBzclE?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 21:13:43 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump says he is banning media outlets CNN, MS NOW, Politico from White House - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMlVWa0ZnX0VIQWsxTUVRTnRrSV9SLVFKd19wQ2FGRGx0QlNtSUZfd3JBbDRZZ2hNU2lXa1haT0dESVZoMWp4UnF5UDFTRllIQ19Ibno2QVVndW1yODN3VUdvV3RpN21Sd2R6dUZyLUFGSGtnd2hrS1FNVTNDajlVNG9TRDVxa0lyN2s3NTgtXzBTMktpU0dQcTFwdmlZX0dEcWc?oc=5",
@@ -185,9 +191,27 @@
           "source": "Reuters"
         },
         {
+          "title": "EXCLUSIVE: OpenAI's Sam Altman to brief UN Security Council next week - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUFnSGpyQWtoZEdZY3IzTTEzZ2Npd2JTc0MtVUxfMW1LeWgwX0xBWXdXVmNHQ1p0NjF6Y1pPdFl6RnNtZTZjZEZfcW5FX2tWSE1ETHZxTmQyNWFIYzJGWHNoLVJxSFZ5SFFZdklHYWZvd0RMWk4tc3FuelVyck9LWDRzMUFmY2tpNDFlVmhIbVBGV2thR2N5UjlUM2pnMFlYT0FEOWhIVzRTaDRlZnc?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 20:33:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2p6dkpCd0xfbVRBMnhySFRVbm5OSElMZXRXc0NpaGhoRmw2MzNfSUstaC1RVFFnUU1DNUM0MEpHTmxhbHJxOC1Ec2lMWU0xMFVaSVdsZGdVSi1JaWpDX093SHhBdlBkdFdGZnFpd05yYW9LRXk2NkdOMnRWSzJ2dkhuTFpDN01LM1JvNjhyamFZM2dLRFRzM24xSUZwRGVBakhwM3N3em1ycFBuWVg2UVB2OTQ?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 20:21:11 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Warren Buffett steps down as Berkshire chairman, replaced by his son Howard - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGNSTzVqLUNZQjdoWnZWMENFaUo1cGNMSkNwVC1DNVdYVUNFWnNIVV9MR2VKUllvTDcyaXVuSXdYT1hKZkdRbWZRTFJacFoyV0VNcXpQZWJ5dDZyUFY3OGdnQi0xVklKcGJOUllOSDNwakh5Ym02c29OUjd1VUFqam90TDhzM0hOdkR3WFREWUFzNHl6N0ljbDg3LWVEOUdnajdVdnVuQkNJbmV6akZUby15U2hwd0JSQnc?oc=5",
           "pubDate": "Fri, 18 Sep 2026 19:52:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Republican China committee chair urges tough Trump line with Xi - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVHE0eGdjejdPVC0wcEJESG1KY3hhNU1DMUZmOHZJUTFjZHRpM1BsLVcwbzVlOUJpVHFxZnBPNzJlTldZelp1WlcwVU5fQ2d2MXZCZS1NSm9uWkQ4MlpHRUQwY21BdU5BRUs2a3ZBODhETlZNd1pTMk94a1NWN3BMaGNHMVl0MWVIeTdWQk9KWVFvS0ZnVnZ1RWJQSlFMcjNVRm1TYkFfMTRvSUY2?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 19:34:31 GMT",
           "source": "Reuters"
         },
         {
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1dLdnVpTGd0WmY3amd3Sng5cWV4OWlDUjlzOFRlaENuNHVXRUp0VXM4LVk2LUFfUlNDVGhyZkRmWVNGZl85Z0o3LVp4Sk1ycHVXMXh3NFA4UWVvNGxzU291QkMzTEN3c3ViaXF2WDZoaExYaG0zRXpDNnlleTlWNGxReWdrSWc3MjB2STFJbUhuNnk1Vy1XVnJTbzg0UkZwbE9YWEZNUXA4THRkR2NneW1XZWdrcVZlRHltT1hQZHhJeTdLSllUTWxZbw?oc=5",
           "pubDate": "Fri, 18 Sep 2026 19:17:51 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "UK air traffic control outage caused by software defect, says operator - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWZ1dFpTYVRsRkJiTDM2clcteEJ4eGpOcHNBOFdJbFBrNWRibGo1SnQ0X0tXdXl1UzlPbVBETlVfcDZhQlRRcGNfZG9iLXloS2pWX2trenFfWDh4SllHanVUcTRTYzFpdVFUTnZWeG9Jci1oSjB3eVFfY25Sb3UySjZsZXNTc0V3TVpzcWZkSWZGSTNLaTZOVUY4LTd5Q2JyaklIYUpJRlBVTGxSaE9MUVhwVXI?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 19:11:01 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US removes sanctions on Eritrean Defense Forces, Treasury website shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVNWSkxBR2ExRTZDVW43YWFBZV9CbmZ0TUlEdEtTaWNaTmpHOWhiMTZMbllxWXotZjdETnJJd3FxT2VpMXhjOHVWVHZiekhucThObVJsYUdCZVhpNzlUQmR5WllsTmlUdkt0dW9fWFB4UXo0MXZWajd3RlNDemgzVnB3cGFYWU84S3prR2xudl9oazVmaVhmTWQxWFdBaHBUQUxKeVd2clAtVWNvUm0xd0FWME10N3M?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 19:06:36 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Record US diesel prices squeeze farmers; food prices may rise - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXFFeEk2NVZjZU9WbTQ3QUZObDgyZ2JZdVlPRjd5dzNVdk13OFNCN2tiR0c1MElNMFFZVGdRelI5UnZkNnlMNmRQZXM1Um1sQUZQRkh2R3JvSHNkZnhtV2JzVFB4SDVoam0tZUE3WHljQWdSbXFPTEdOTkxSQXdvcTZQdXloOEpXMlVWUnprbS0ycUJ3aU1qRkVKZTc0UTFxa2h0bG43TlpCRnM5N1pVN09R?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 19:02:31 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Volkswagen crisis worsens with $11.5 billion profit warning, largely due to Porsche struggles - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOE5LV2xQSHM0XzdrcDdhVGVXVkcwRkRGYno2YllaUlg0T0Y2Z3BDSHpheGhPSS1RcnJqOWN1YWpwbUljYWZqX1Q2RHoya1RJNEc3Yko0QTlsUUZsdXQ1ZUR0RlNudUllVi1SMTF0WXNyVWtuX3Fkb3ZvYzdYczBZX1hGdEg3WlZlck1RejlZWQ?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 18:59:53 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T21:25:13.908Z"
+      "updatedAt": "2026-09-18T21:50:14.301Z"
     }
   ]
 }
