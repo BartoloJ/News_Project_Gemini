@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-18T10:25:14.892Z",
-  "lastChecked": "2026-09-18T10:25:14.892Z",
-  "lastUpdated": "2026-09-18T10:25:14.892Z",
-  "generatedAt": "2026-09-18T10:25:14.892Z",
+  "fetchedAt": "2026-09-18T10:50:14.861Z",
+  "lastChecked": "2026-09-18T10:50:14.861Z",
+  "lastUpdated": "2026-09-18T10:50:14.861Z",
+  "generatedAt": "2026-09-18T10:50:14.861Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "At least 16 killed in attack on mosque in Pakistan",
+          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 18 Sep 2026 10:39:31 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Three dead and eight injured in Philippines school shooting",
           "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 17 Sep 2026 21:41:19 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-          "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 17 Sep 2026 20:34:30 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T10:25:13.676Z"
+      "updatedAt": "2026-09-18T10:50:13.704Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "South Africa 'feels like a prison' for women amid spate of femicides",
+          "link": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
+          "pubDate": "Fri, 18 Sep 2026 06:39:14 -0400",
+          "source": "NPR"
+        },
         {
           "title": "True or false: Trump's name is now on the Kennedy Center. The quiz has the answer",
           "link": "https://www.npr.org/2026/09/18/g-s1-143768/celine-dion-trump-kennedy-center-emmys-news-quiz",
@@ -71,6 +77,12 @@
         {
           "title": "Republican 'cavalry' arrives with a Trump-backed $150 million ad blitz in key races",
           "link": "https://www.npr.org/2026/09/18/nx-s1-5971202/trump-super-pac-midterm-spending-republicans-democrats",
+          "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Google is helping write AI chatbot safety laws — while pushing for loopholes",
+          "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
           "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -87,32 +99,20 @@
           "source": "NPR"
         },
         {
-          "title": "Google is helping write AI chatbot safety laws — while pushing for loopholes",
-          "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
-          "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Morning news brief",
           "link": "https://www.npr.org/2026/09/18/nx-s1-5966388/morning-news-brief",
           "pubDate": "Fri, 18 Sep 2026 04:46:02 -0400",
           "source": "NPR"
         },
         {
-          "title": "Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies",
-          "link": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia",
-          "pubDate": "Fri, 18 Sep 2026 04:44:08 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "What to know after a week of Houthi attacks that threaten Saudi oil",
-          "link": "https://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets",
-          "pubDate": "Fri, 18 Sep 2026 04:02:41 -0400",
+          "title": "Couple shares how chance encounter brought them together after meeting online",
+          "link": "https://www.npr.org/2026/09/18/nx-s1-5971450/couple-shares-how-chance-encounter-brought-them-together-after-meeting-online",
+          "pubDate": "Fri, 18 Sep 2026 04:44:14 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T10:25:13.890Z"
+      "updatedAt": "2026-09-18T10:50:13.925Z"
     },
     {
       "name": "AP News",
@@ -136,21 +136,21 @@
           "source": "AP News"
         },
         {
-          "title": "Centenarians living in Japan exceed 100,000 for the first time - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFR3cy1GWllpc19xemxPbjFpTnhwd21YQ3V2c1Y1LUhVYl9SYTlvVzBHSHRWZHhMS3gtS0wxY3hpR1kyNVF1d1FNSjZVLUEtYnNKeUtKZ0xyNkg5SXJMNXppdi1Qd3luMVBtY3BSMFdGNFpxVDMxV1h6bWtaT2RYSlp1N0Y3aG5nOUJ4RWtoSm9TMV9scnpmcFJPUG84OEpOWWNRUEMtZVgzU21iSTdv?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 06:31:42 GMT",
+          "title": "Malaysia's king allows former leader Najib to serve rest of his graft sentence under house arrest - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLW4wZHV3Z2xaSHN5dG00aFlydXFyaWp2OEJzYi04bXF3NnpyRlYzOWNld2hDRDBlM3pUcm1xcjdFUWFKcVRPVTB4NjYwZm9HOHYwM1A0Y0haWG5wVXlIWS1DUEhyN0FSTFZ3bjY2c29NNTRTVHQ4dmkycXgxSDYzZFJDYnRzQzJaRHBma0Z2c3B2QXRUUWJXMEY5ME84elk?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 08:51:00 GMT",
           "source": "AP News"
         },
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 06:03:29 GMT",
+          "pubDate": "Fri, 18 Sep 2026 07:29:33 GMT",
           "source": "AP News"
         },
         {
-          "title": "Malaysia's king allows former leader Najib to serve rest of his graft sentence under house arrest - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLW4wZHV3Z2xaSHN5dG00aFlydXFyaWp2OEJzYi04bXF3NnpyRlYzOWNld2hDRDBlM3pUcm1xcjdFUWFKcVRPVTB4NjYwZm9HOHYwM1A0Y0haWG5wVXlIWS1DUEhyN0FSTFZ3bjY2c29NNTRTVHQ4dmkycXgxSDYzZFJDYnRzQzJaRHBma0Z2c3B2QXRUUWJXMEY5ME84elk?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 04:28:00 GMT",
+          "title": "Centenarians living in Japan exceed 100,000 for the first time - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFR3cy1GWllpc19xemxPbjFpTnhwd21YQ3V2c1Y1LUhVYl9SYTlvVzBHSHRWZHhMS3gtS0wxY3hpR1kyNVF1d1FNSjZVLUEtYnNKeUtKZ0xyNkg5SXJMNXppdi1Qd3luMVBtY3BSMFdGNFpxVDMxV1h6bWtaT2RYSlp1N0Y3aG5nOUJ4RWtoSm9TMV9scnpmcFJPUG84OEpOWWNRUEMtZVgzU21iSTdv?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 06:31:42 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T10:25:14.418Z"
+      "updatedAt": "2026-09-18T10:50:14.414Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 10:09:18 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Protests erupt in Nigeria after 37 miners die in custody of paramilitary agency - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTh5Ym5aOW4taU85VGpHcGlsV0p2N1FzUEo4bm1IZFZzaDAyNlA5aDh3NjZKek9uYVlhRHdRd2VVOGprSEZucjBvMmNIdjFfMHFZTGQwT3VXMVBTVTUxRHZXam9qSHVEeGZ0Uk9IbkJxWExLb3RpUXMxd1F0OWI1ZzhUNlF6eGFoZWI5UFV4bkZlU2w5MDBjdGV0Y0MzNUN3Q3JMT1Y3SG1tRFhSUVpHSGRIUFFoX205eUE4?oc=5",
@@ -182,12 +188,6 @@
           "title": "India finds Nestle baby food sample substandard, takes legal action - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVY5c0JVeURVNG9wbm95eDNFT2p5Y3BUT1VOakJkbnVZRjJyM3RXTlZrazJCRWYxMkh5X0FORUlBRTMyQURrSjh6d2NtUVZhalR2T2hHVDdGWUkzZnBvUUhjSHZTdzRzQ1ByM2R5eVNvMmRaY1Njem9uemlBWENfb2oycTBXSjE1QjlkRU5yT1o0Si1qaTVlaXVFclJaTnJrcmhrWHN1a3RiZnc?oc=5",
           "pubDate": "Fri, 18 Sep 2026 09:11:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Swimmer killed in shark attack at popular Western Australia beach - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXg3VDFXcFI3Mll5M2lSVFA0dG1Kb0xIWDVKekhucE9GQnpkMUlLTGpZc3ZncnZxelhuZzFteU92Z0lwZmJrTGV6bDZSV0FBUzFSZFloMDBWN01PRlNsNlJ5Ynk3eFFReVdZdHh1VDhWWG9oTHZkekpTOFZPMU1ualZSVzdHNFBWckw0LWZXNlRaNm1XVjluVUduZ2hraGg4SVFVUnoycHFlSFR3SjNpYmVyVEo?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 08:26:25 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-18T10:25:14.892Z"
+      "updatedAt": "2026-09-18T10:50:14.861Z"
     }
   ]
 }
