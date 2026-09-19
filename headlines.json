@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-19T04:25:17.758Z",
-  "lastChecked": "2026-09-19T04:25:17.758Z",
-  "lastUpdated": "2026-09-19T04:25:17.758Z",
-  "generatedAt": "2026-09-19T04:25:17.758Z",
+  "fetchedAt": "2026-09-19T04:50:16.529Z",
+  "lastChecked": "2026-09-19T04:50:16.529Z",
+  "lastUpdated": "2026-09-19T04:50:16.529Z",
+  "generatedAt": "2026-09-19T04:50:16.529Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Google's Gemini AI hacked three companies in security test",
+          "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 19 Sep 2026 04:27:11 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
           "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 18 Sep 2026 23:03:38 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-          "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 22:58:55 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T04:25:16.733Z"
+      "updatedAt": "2026-09-19T04:50:15.465Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "US and Denmark reach deal to build US military presence in Greenland",
+          "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
+          "pubDate": "Sat, 19 Sep 2026 00:44:46 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
           "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
           "pubDate": "Fri, 18 Sep 2026 07:09:24 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Ms. Rachel has entered her album era, and she is so happy about it",
-          "link": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
-          "pubDate": "Fri, 18 Sep 2026 07:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T04:25:16.800Z"
+      "updatedAt": "2026-09-19T04:50:15.643Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T04:25:17.301Z"
+      "updatedAt": "2026-09-19T04:50:16.104Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T04:25:17.758Z"
+      "updatedAt": "2026-09-19T04:50:16.529Z"
     }
   ]
 }
