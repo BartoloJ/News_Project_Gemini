@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-19T05:25:15.049Z",
-  "lastChecked": "2026-09-19T05:25:15.049Z",
-  "lastUpdated": "2026-09-19T05:25:15.049Z",
-  "generatedAt": "2026-09-19T05:25:15.049Z",
+  "fetchedAt": "2026-09-19T05:50:21.978Z",
+  "lastChecked": "2026-09-19T05:50:21.978Z",
+  "lastUpdated": "2026-09-19T05:50:21.978Z",
+  "generatedAt": "2026-09-19T05:50:21.978Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump says he is banning CNN and Politico from White House",
+          "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 19 Sep 2026 05:36:36 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Google's Gemini AI hacked three companies in security test",
           "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
           "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 19 Sep 2026 00:03:53 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump says he is banning CNN and Politico from White House",
-          "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 23:26:48 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T05:25:13.948Z"
+      "updatedAt": "2026-09-19T05:50:20.793Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T05:25:14.169Z"
+      "updatedAt": "2026-09-19T05:50:21.106Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T05:25:14.629Z"
+      "updatedAt": "2026-09-19T05:50:21.518Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T05:25:15.049Z"
+      "updatedAt": "2026-09-19T05:50:21.977Z"
     }
   ]
 }
