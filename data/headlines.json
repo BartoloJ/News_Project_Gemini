@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-19T17:25:13.676Z",
-  "lastChecked": "2026-09-19T17:25:13.676Z",
-  "lastUpdated": "2026-09-19T17:25:13.676Z",
-  "generatedAt": "2026-09-19T17:25:13.676Z",
+  "fetchedAt": "2026-09-19T17:50:16.041Z",
+  "lastChecked": "2026-09-19T17:50:16.041Z",
+  "lastUpdated": "2026-09-19T17:50:16.041Z",
+  "generatedAt": "2026-09-19T17:50:16.041Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T17:25:12.723Z"
+      "updatedAt": "2026-09-19T17:50:14.694Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T17:25:12.772Z"
+      "updatedAt": "2026-09-19T17:50:14.981Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T17:25:13.241Z"
+      "updatedAt": "2026-09-19T17:50:15.604Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "White House turns away CNN, MS NOW, Politico reporters after Trump's ban - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlJsM3I5a1ZRT3VKVlJvVkNNNHo4Z29nLU5wN2tZTzItaTJRTW9ncmkyME1iM1hsMnpLWl9FN2lCdl96aHFvRXhxN0xxV082RVpoM2dwZS1icFI5ME13V0VPaW9DMlFKSm1wci0zMGlVYjV1UWxXd2dZRDRmb0RmWXJRbnk3ekhHQ0ZkMUc1U0U1bW1GN1Z4NV83VmlfNDBaTVB2OGhOdTN4SDVXcEF2czQ5bktSc1pVVWtQbA?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 17:35:43 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "After deaths of nine women, South Africans gather to run, mourn and demand change - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEpTSXZWdWs5T0FDYlc3VTZnSjctUXdkdzd4MnRoclAxSWJLRTJhYWFBUWowQzdKbHRuZGhvSmRDMG1INEtVTEdsakprS1ZHRlBaNzdWWFVneUFJX0dsVE5nWVVJNnI0dkpQQzFIMDVOZkFjbW5vVC1KcnAtLXRSM0xSdTFXVGtzMjJ0SGRmV3BwSW1DdFpETk8yZkJJcHlYRHREOVF6bFA3aVRRcndYS1Q5M1I5aXFyOXc?oc=5",
@@ -179,9 +185,9 @@
           "source": "Reuters"
         },
         {
-          "title": "White House turns away CNN, MS NOW, Politico reporters after Trump announces ban - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlJsM3I5a1ZRT3VKVlJvVkNNNHo4Z29nLU5wN2tZTzItaTJRTW9ncmkyME1iM1hsMnpLWl9FN2lCdl96aHFvRXhxN0xxV082RVpoM2dwZS1icFI5ME13V0VPaW9DMlFKSm1wci0zMGlVYjV1UWxXd2dZRDRmb0RmWXJRbnk3ekhHQ0ZkMUc1U0U1bW1GN1Z4NV83VmlfNDBaTVB2OGhOdTN4SDVXcEF2czQ5bktSc1pVVWtQbA?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 16:23:51 GMT",
+          "title": "Arsenal crash to defeat at Brighton, Tottenham gloom deepens - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSm1fblVwNG9kdW15NGlqRF96VGdFUFlXMDBYcF9sTE9yOWhJcHpSSzVMMHRUZlhrd3pGWTA3eDhDY0RZemN1OFJHbEZqZ3hCV05Ba0dKZmw0QUZ2dFlQZFZSSU5mWVlLOFZxenplZHpPUjYyZ3dHVHpFWHoyYzNWck5FaGhoQ1hTR21FbDFJejFUdkdNQmZsSDFpOE8wQkFpWUpLMzhXV1IxUDJTRXFBWXFkQUxSMk0tTHRrUjFFVmFJTm5xOVlKaUFB?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 17:08:24 GMT",
           "source": "Reuters"
         },
         {
@@ -209,20 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Russia-backed South Ossetia elects leader close to Moscow - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFpRNWhMWWdRdmhBdWZWTURhbFlCN0xYaUhHdzRDV3RMckRyRENTRFZaclF4cndVTFJVNjcyT1Zld3FzQmtsRC1wQzctM3U1WFAyTGs4SDkzS0kyY2pDanU4SGo2LVZLYzBQQzRmUDNsY09XQkhFenpNdldnQkxJT0FHdjJSSFV4THgzUVNPYW1yMHVqbU9SRTJheFc?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 13:01:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNnM0NScnlDOXNDY25xQjhZVlRHUUtMOEV3YVZSOW5xekdVelcycGI1VHl3dWpqVGhNM2s1N05NamZxV0hoNVBFN204OHM5dVlQemMySkJGMlpCaURybUY4TVZfd0RDUUxzb3RTeWJVVEI4blFQZFhJekptSHRFUVdqb1pDai1VQ1hPS1JHWk92MEpZYWtESDduUmpwUEg4Nzc4bFp3VDQzM2JMTnRZXzgzbVBvUDk0clU4a3dHMlhuQk0?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 12:46:48 GMT",
+          "title": "US judge signals rejection of part of TikTok privacy settlement - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSnBGVERDNWVhWllSTG51NkpYTmtjcGhrWlVtanhqMHdkN0NFNXNJaHVlWloyaUQyRmM0ZnhkdkxCTU9jTm81Y1I0Q0s3cHFuUFBhZjhLUkExaTlKWDNycl8wZXUyQnNiOEgzbk9hSGVxMnVFVWxvc053d244eDB3RHdXZGxTOFVlbnU3RDI5bXhJTnMtQl82Q3prYUNPUWV0cjB0U19XTjE5ZkstV2FZ?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 13:59:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T17:25:13.675Z"
+      "updatedAt": "2026-09-19T17:50:16.041Z"
     }
   ]
 }
