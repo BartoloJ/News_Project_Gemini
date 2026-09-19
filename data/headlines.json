@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-19T05:00:23.109Z",
-  "lastChecked": "2026-09-19T05:00:23.109Z",
-  "lastUpdated": "2026-09-19T05:00:23.109Z",
-  "generatedAt": "2026-09-19T05:00:23.109Z",
+  "fetchedAt": "2026-09-19T05:25:15.049Z",
+  "lastChecked": "2026-09-19T05:25:15.049Z",
+  "lastUpdated": "2026-09-19T05:25:15.049Z",
+  "generatedAt": "2026-09-19T05:25:15.049Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T05:00:21.383Z"
+      "updatedAt": "2026-09-19T05:25:13.948Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "As Europe warms, Italy sees West Nile virus spread",
+          "link": "https://www.npr.org/2026/09/19/g-s1-144162/as-europe-warms-italy-sees-west-nile-virus-spread",
+          "pubDate": "Sat, 19 Sep 2026 01:13:18 -0400",
+          "source": "NPR"
+        },
         {
           "title": "US and Denmark reach deal to build US military presence in Greenland",
           "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
           "pubDate": "Fri, 18 Sep 2026 12:07:51 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation",
-          "link": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
-          "pubDate": "Fri, 18 Sep 2026 07:09:24 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T05:00:21.770Z"
+      "updatedAt": "2026-09-19T05:25:14.169Z"
     },
     {
       "name": "AP News",
@@ -150,7 +150,7 @@
         {
           "title": "Trump says his son’s wedding party being bankrolled by a Russian oligarch is ‘totally allowed’ - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDRJS19CQVB3QVhucmVfWHgxY3BxSGFRYVRMUmtFbTYzRXhwcDVMc3RtV2dvTmpvVVZKb0xkUnRfSUkxLWdSWnhtcTZyTHA4LWZMZG1VMGZUQ3hfY2xoWkt2VHRJcE15aWNtZEM3RVVVdllieTNxNXdUdjlXVV9ZUWFlY1IwOU9TaVBDOEVR?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 22:47:32 GMT",
+          "pubDate": "Fri, 18 Sep 2026 22:28:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,15 +167,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T05:00:22.573Z"
+      "updatedAt": "2026-09-19T05:25:14.629Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Death toll at 31 in Pakistan police compound attack, AFP reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbl9oRmowV1pPZzBrOFVqdU5jZ1QxR3BJRXZqc2h3TFRPdTROWjZGVjR2dzVaTFdvZzFXUEY5YnBlSWg3SEF5R0kwSzFiRzItdS1Sbmp2bTlLMnhiN3hGMXNtZFhTQ2h2TjM4ZEh0T2RibVZnaXBNUFBmNlJnOF9aaDRac0lnMEF1czM3YW9TTGtWeDRqamJfMld1MkRfRXMyNDhfUFVncVZKV2FjLU5QX3hB?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 04:07:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US clears way for $2.7 billion sale to Ukraine of air-defense development upgrades - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFphMEFsdXBIdGF5VFAxeWFrV3g4OGFVMWJySWhZcTFycXZ3bVB2VjdTZlFVNVVpbWtEMHQ1MTEwb0laQTA4cUFkZkktcU1kbWhqM2VlNDlaMDdzaVJXY29WUUF0MC1Cd3ZhaU8xSkkyQzZGSUpSTEhBRGJQZVNKTHRhSzRSNkxLVDJJMF9yTTZERWZ2djI5ckFnOGE5ajNMT2x4b2g5NFJEbmpEOV9kdGFvRWxNWjhSSEhR?oc=5",
           "pubDate": "Sat, 19 Sep 2026 02:17:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Saudi civil defence sends all-clear after alerts issued for capital Riyadh - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNnM0NScnlDOXNDY25xQjhZVlRHUUtMOEV3YVZSOW5xekdVelcycGI1VHl3dWpqVGhNM2s1N05NamZxV0hoNVBFN204OHM5dVlQemMySkJGMlpCaURybUY4TVZfd0RDUUxzb3RTeWJVVEI4blFQZFhJekptSHRFUVdqb1pDai1VQ1hPS1JHWk92MEpZYWtESDduUmpwUEg4Nzc4bFp3VDQzM2JMTnRZXzgzbVBvUDk0clU4a3dHMlhuQk0?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 00:42:00 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmx6RU9kREhhaHRjaVpOblpSazFaSTdKQVlxT2ZIQ09YNE5Fci1wV1NQX21mMWxzbnRWbDZ4bFd1UGtCVHV2WnMzc2NpY3hVY0ppOEh2NXl5NEFFTUxCM1BmUGl2cTM3RkRxbmJydjA3QmlaTm5UTlRfY1l5bE56cU96cE5PNmk4WHRyaThXUEo2ZjZ6WDJMSXJPR1JjaEZTWmFpTkRHZVIzN1RkUWd6VC1R?oc=5",
           "pubDate": "Fri, 18 Sep 2026 23:27:51 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump to meet with Venezuela's interim president Rodriguez in New York on Tuesday - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWJ2Z05USUhlbVBCQTUxam5rTDViaHFUVS1WQV9iSXkwTTc1V2k5dUw1YVpyc0dwcVV0NXA1TmdDVHVld1NobkFOdGphZUx2QUx4R0xXWHZ3djhxYWFNQWVMUXNvLUhOeUYwNWVtWWFYRzdGMFB1aGh6aGdtcDJSWDV6emxUVmVlMkV4dFJFYnB6X2kzdEliYS1pV1pWalBBS3gyalRwWlR4RHREZHJhc0Rrd2xMM0JRVEt5bXZZMA?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 23:27:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "What we know about Russia's move to take control of Nestle, Auchan assets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3dMRjFnaENKQVpUa0QzSWF0Z090LTdKZ1ZqMnpINTVxazFWaW9jZXVUaVlUeHBvcTFHUHdPTHYwTmxvcTNyR2ZLUG1fM0JlNktBZ0ZGN29UM1hlbUU3V01VQUJ1R0M1RENXckxnSWNyc3V1c2ZndkF2XzVoMmZ2VW9vUlNZNVhlTWd2RFc2UUZYVF8zYVR3UEtYbWZLbFl0eWJ6b2xtOTZ3WjVOYlRXckFkQmtId1VfN2wxQlk2Q3E0RXpS?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 23:24:47 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T05:00:23.108Z"
+      "updatedAt": "2026-09-19T05:25:15.049Z"
     }
   ]
 }
