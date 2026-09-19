@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-19T09:25:14.912Z",
-  "lastChecked": "2026-09-19T09:25:14.912Z",
-  "lastUpdated": "2026-09-19T09:25:14.912Z",
-  "generatedAt": "2026-09-19T09:25:14.912Z",
+  "fetchedAt": "2026-09-19T09:50:15.966Z",
+  "lastChecked": "2026-09-19T09:50:15.966Z",
+  "lastUpdated": "2026-09-19T09:50:15.966Z",
+  "generatedAt": "2026-09-19T09:50:15.966Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Deadly shark attack prompts rare kill order in Western Australia",
+          "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 19 Sep 2026 09:19:12 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump says he is banning CNN and Politico from White House",
           "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 18 Sep 2026 23:04:41 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-          "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 23:03:38 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T09:25:13.732Z"
+      "updatedAt": "2026-09-19T09:50:15.045Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T09:25:14.010Z"
+      "updatedAt": "2026-09-19T09:50:15.141Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T09:25:14.477Z"
+      "updatedAt": "2026-09-19T09:50:15.569Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T09:25:14.912Z"
+      "updatedAt": "2026-09-19T09:50:15.966Z"
     }
   ]
 }
