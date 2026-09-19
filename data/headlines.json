@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-19T00:00:20.498Z",
-  "lastChecked": "2026-09-19T00:00:20.498Z",
-  "lastUpdated": "2026-09-19T00:00:20.498Z",
-  "generatedAt": "2026-09-19T00:00:20.498Z",
+  "fetchedAt": "2026-09-19T00:25:16.028Z",
+  "lastChecked": "2026-09-19T00:25:16.028Z",
+  "lastUpdated": "2026-09-19T00:25:16.028Z",
+  "generatedAt": "2026-09-19T00:25:16.028Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+          "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 19 Sep 2026 00:03:53 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump says he is banning CNN and Politico from White House",
           "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 18 Sep 2026 20:35:03 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 18 Sep 2026 20:17:50 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T00:00:19.275Z"
+      "updatedAt": "2026-09-19T00:25:14.801Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T00:00:19.635Z"
+      "updatedAt": "2026-09-19T00:25:15.106Z"
     },
     {
       "name": "AP News",
@@ -136,15 +136,15 @@
           "source": "AP News"
         },
         {
-          "title": "Donald Trump - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 21:52:37 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Ban on selling handguns to young adults under 21 is unconstitutional, Justice Department says - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFdGLUJaaG9ESUpUSWFWd2lBNl9fZ0pqMnk0R21qZVBzYXcySTRCOHFGdkV2R3llTkdFcDZueFFZUnhsZ3dZQkNHejdKRzVCT2VyblVkcl9sVkRnZlRrUW53aHd6aXBsVTh0RFB6dGlVcUR4SUNwb2w4T19HS2wwbExzTW5tVUNBdDhWSWp2cE9rWHJyck01WENOVG5ya083a1E?oc=5",
           "pubDate": "Fri, 18 Sep 2026 21:50:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Donald Trump - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 21:44:34 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T00:00:20.084Z"
+      "updatedAt": "2026-09-19T00:25:15.601Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Gemini hacked three companies in first known breakout by Google's AI - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 23:56:23 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "What we know about Russia's move to take control of Nestle, Auchan assets - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3dMRjFnaENKQVpUa0QzSWF0Z090LTdKZ1ZqMnpINTVxazFWaW9jZXVUaVlUeHBvcTFHUHdPTHYwTmxvcTNyR2ZLUG1fM0JlNktBZ0ZGN29UM1hlbUU3V01VQUJ1R0M1RENXckxnSWNyc3V1c2ZndkF2XzVoMmZ2VW9vUlNZNVhlTWd2RFc2UUZYVF8zYVR3UEtYbWZLbFl0eWJ6b2xtOTZ3WjVOYlRXckFkQmtId1VfN2wxQlk2Q3E0RXpS?oc=5",
@@ -185,9 +191,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 22:58:28 GMT",
+          "title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2p6dkpCd0xfbVRBMnhySFRVbm5OSElMZXRXc0NpaGhoRmw2MzNfSUstaC1RVFFnUU1DNUM0MEpHTmxhbHJxOC1Ec2lMWU0xMFVaSVdsZGdVSi1JaWpDX093SHhBdlBkdFdGZnFpd05yYW9LRXk2NkdOMnRWSzJ2dkhuTFpDN01LM1JvNjhyamFZM2dLRFRzM24xSUZwRGVBakhwM3N3em1ycFBuWVg2UVB2OTQ?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 23:10:24 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Mural of rapper Macklemore painted in Gaza after Sheeran tour furore - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3llQ2FzaGFiSG5aNXd2SUpSS3JQYTF0c1dodmhsc01GNHhQSWUyZ2laVjBuMUVYQVRPc0ozMGh6WVhWTzZNM0MwLVVkQlBjZHhLVWhLbnlLbGJkdTk1Q2gwQ3hSc3A1czFrVkw0Mm5BN2hlN0ZZM0JzSUxZZGVtcm5KZ2lpQ0NPYlo4ZkJ4QW52N0FEbzUzUW5BVVlGOGE0cHBTWDNESzh6S0M5UEtiMTVveE05bUpIRzBkNG9n?oc=5",
+          "pubDate": "Fri, 18 Sep 2026 22:56:39 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEtRUVNvYVIwTTZqQ3pmak0zd0NlNjZEcmxxQ3FUWTJKVUZjTHdjUmt1SThTNVFmZWl5OXVLUmljaWJoSFRQbU5qVnZDUjcyWEhJNk5yWjZDOTNzazlrenItWHdvODFNbE5Ka3ZoMGF4ZFRGcEFFeVhlWF8tWGZYYU1XWWttR3BuR0hmdF9iY0Z2WGQwbFJfV2lOT2FwSExyT21yUE80ZVM?oc=5",
           "pubDate": "Fri, 18 Sep 2026 22:38:44 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: US and Denmark reach deal on Greenland, Trump says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXUxU0wtWHlQT1lrMjB0b2Q5c080QTY4SmJDSkF3c1R1SUNkVVV5TmUxeVBaRk56ZTV4SWtqaXNBQzBfUnRiNWN5NmVQNGFTNGNGNFJqMjd5WTB3cGxhQ1p3UDdSemxwQXdYYkpjS1ktV2hkVzZRR1R4Tmw0M2VEZjQxZ0JWU0ptVlBha00tckVhSFBzclE?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 22:32:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says he is banning media outlets CNN, MS NOW, Politico from White House - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMlVWa0ZnX0VIQWsxTUVRTnRrSV9SLVFKd19wQ2FGRGx0QlNtSUZfd3JBbDRZZ2hNU2lXa1haT0dESVZoMWp4UnF5UDFTRllIQ19Ibno2QVVndW1yODN3VUdvV3RpN21Sd2R6dUZyLUFGSGtnd2hrS1FNVTNDajlVNG9TRDVxa0lyN2s3NTgtXzBTMktpU0dQcTFwdmlZX0dEcWc?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 22:17:44 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T00:00:20.498Z"
+      "updatedAt": "2026-09-19T00:25:16.028Z"
     }
   ]
 }
