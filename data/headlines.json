@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-19T12:00:22.708Z",
-  "lastChecked": "2026-09-19T12:00:22.708Z",
-  "lastUpdated": "2026-09-19T12:00:22.708Z",
-  "generatedAt": "2026-09-19T12:00:22.708Z",
+  "fetchedAt": "2026-09-19T12:25:17.736Z",
+  "lastChecked": "2026-09-19T12:25:17.736Z",
+  "lastUpdated": "2026-09-19T12:25:17.736Z",
+  "generatedAt": "2026-09-19T12:25:17.736Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T12:00:21.368Z"
+      "updatedAt": "2026-09-19T12:25:16.536Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Opinion: Remembering Annie Dillard, nature writer",
+          "link": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
+          "pubDate": "Sat, 19 Sep 2026 08:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Ancient teeth pose a mystery: What made those strange grooves?",
           "link": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
           "pubDate": "Fri, 18 Sep 2026 17:13:14 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
-          "link": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
-          "pubDate": "Fri, 18 Sep 2026 16:15:53 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T12:00:21.661Z"
+      "updatedAt": "2026-09-19T12:25:16.768Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Denmark's leaders are cautiously optimistic about Trump's announcement of a Greenland deal - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWmw2bGhWR1ZlemVQbEdTSXNDR0lZVTdUX3VmdWgzb2NteEx0SmhIRmpxTU4xT1V5aWhuQW1aZmszemRtTkh6andTcDNWcUZyc2Y3Q2hwX25hMlUyVVliaElXSzluQVJZMkJsemVXZEVFeF9xM0xFNGJyZndBUDNpUmJMQUJUU21RcVBodUNYNE1ibTJnVE8w?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 10:35:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWdlRjU5QTRNU0tfUUpTVW1iYUNBQ3hWejBlMVBaWTFEbFh1MkVtM1QzamhsY240NFQ3aW1vTUdMb0JaVUk2QWY1WE9SZWNqLUpzWVI4OFpyWlN1b0pXTW5vZzNEc3ZqZV9wdVowMGpzeHJub1ZFTWtoZGRyRklIbnR2d19mOVhhWG5GdkxTdTB1bktBRHFMSlVGbEZ5Mk0?oc=5",
@@ -154,20 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Trump says he is banning CNN, MS NOW and Politico from the White House - AP News",
+          "title": "Trump targets more news outlets, saying he will ban CNN, MS NOW and Politico from the White House - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmJvU3QxRHMzN3h2Umc4M3RyNFMtell5WGNTV1d2ampGY25aLUZjLVgxWlRmWS1JWVItZ3RoVXFtOUhlX01zdEhGbzhrN1VMUndiekJxOG1MZFNPTE1TZkJsZHRZb0doZUNid1NXVS1NTmtpV1FyQ3FGM0VLWDFnOWRjVXc5YnFsYTJiM3cwM21acFNYV3RieUYtcw?oc=5",
           "pubDate": "Fri, 18 Sep 2026 23:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Cuba hit with another blackout as millions across the island are left without electricity - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlRHRlNqMVRhVWRVWkRnVUNGV0RJX0pSZHRtX3N5TnNyODloaEJTeXpqUjlKbEZmQkt6dFJCMjlVd2Z2dG1SZG90eXVYNTd1TmRHYmV2QTktNkY5aV9TR3p3QjhoQV8tOGVzZzFpRC0ydVh3NEdLWF9QQTBEVThMMFpzUQ?oc=5",
-          "pubDate": "Fri, 18 Sep 2026 22:50:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T12:00:22.270Z"
+      "updatedAt": "2026-09-19T12:25:17.284Z"
     },
     {
       "name": "Reuters",
@@ -188,6 +188,12 @@
           "title": "Greenland, Denmark say US deal will not cede sovereignty - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUswdG5RR3A3czVTQV82SzUwWDh1ZDZrYjNXcld1cUQwOW9nZENwVlhQRVpfMXRQY2RXZ1pLcVlnal9jeGJxelREVVpWeTZyTTI2bnJKUXlIYUNtNklZQnkyWHNPX1NzZ1lIRVB2SVFfWkJTWkg4ZFM5WE5rdTVISldEczdQX1BIdkRyd21lYVhibzVLRkwwOGVIWXdfODNPRzloNWhEWQ?oc=5",
           "pubDate": "Sat, 19 Sep 2026 11:24:56 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Flames, black smoke seen near Riyadh airport, eyewitness says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVhEVEhONEZLVTN1Q0NyUzZwOXdIS3JLY0VVMVhabU40LV96QjY3d3A5M3NNTElCTy1SdzFFSVIyOEhxWW1OMUxKM1hHUFc0UDNnaXpLRlBPR2VhZkdsWVktOWtCSWxTUWhYV1FFcnN6c3A1WVVoc192OWNJSWhJQnc0U1QwZ1ZtRXd2a0hlNkJJMVVrckJpSXFlZzJDNVhUTVI5RWtGcVd6SW01UHNEWk9lMA?oc=5",
+          "pubDate": "Sat, 19 Sep 2026 11:21:11 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUS1zbnlmMUNZQU8teS1FUnNoOE1EMVNycDNJUVcyQ25QRGpyQk9WaVZPRG8zbzJCWlJSS3RDNHlqWmgzZkJibklPaVpGanBMQWc4LUFrN2s3NC1ieGpFVEMwY0w0eHhZckJ5NGNSZzQ3QnJPel9LeGdWclh0allIZDFHVTVta3k5Z1pwVlEzRlZSQzduNF9zNXhVaVlDQnFFX2VlTExZNnVrODVJUE9RbkJGZ0hzaV9MN1hkU3FxU0I?oc=5",
           "pubDate": "Sat, 19 Sep 2026 04:26:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Death toll at 31 in Pakistan police compound attack, AFP reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbl9oRmowV1pPZzBrOFVqdU5jZ1QxR3BJRXZqc2h3TFRPdTROWjZGVjR2dzVaTFdvZzFXUEY5YnBlSWg3SEF5R0kwSzFiRzItdS1Sbmp2bTlLMnhiN3hGMXNtZFhTQ2h2TjM4ZEh0T2RibVZnaXBNUFBmNlJnOF9aaDRac0lnMEF1czM3YW9TTGtWeDRqamJfMld1MkRfRXMyNDhfUFVncVZKV2FjLU5QX3hB?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 04:07:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-19T12:00:22.708Z"
+      "updatedAt": "2026-09-19T12:25:17.736Z"
     }
   ]
 }
