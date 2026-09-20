@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-20T18:00:18.758Z",
-  "lastChecked": "2026-09-20T18:00:18.758Z",
-  "lastUpdated": "2026-09-20T18:00:18.758Z",
-  "generatedAt": "2026-09-20T18:00:18.758Z",
+  "fetchedAt": "2026-09-20T18:25:14.011Z",
+  "lastChecked": "2026-09-20T18:25:14.011Z",
+  "lastUpdated": "2026-09-20T18:25:14.011Z",
+  "generatedAt": "2026-09-20T18:25:14.011Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T18:00:17.566Z"
+      "updatedAt": "2026-09-20T18:25:12.656Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T18:00:17.725Z"
+      "updatedAt": "2026-09-20T18:25:12.882Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T18:00:18.243Z"
+      "updatedAt": "2026-09-20T18:25:13.462Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Trump wants to use Washington arch as military complex for drones and snipers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZyRjFxR1hVQQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 18:05:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Atletico ride derby storm to beat 10-man Real Madrid 2-1 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRW51c2Njb1p0eEpuRnA2REVWblZzRzBlY2dPZWMtQjFTYno3RDVSLW9yWUh0OVJDNVJjX2gwQTFYUDFaY2FIRHhvaWllbVRXNUJBMkdEdnhGTzR6TlRZSFNFVnJVdFh4WDNMTGtYRmZSRGZ3bzlxS1NuXzhDaVFDYW15cUJWQXl2NlcyVi1XTU0wSUVxalZfWjhTbTBleVZQS2ZyS3RR?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 17:59:34 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Iran and US trade threats after Houthi attacks escalate regional conflict - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJkS01sRHBUcXZGZVVoTy1zVU04amJ0VUc3WnZ4UkVZd25TTTR6RGY1ZkV5OUtGZzFULVNDcEo4MzlZMmNkamt0VjR5VHg3YzRDaWhEOFAtZklDbFpGSXpCeE9BeGR3UWp3aFN1MVp2aUMyZE93ZnFUN0VTdzdkZGJnMDdrOFNtc1lhZC1UQlNDWFl3dGRWdjZwYkc2SHJGelBn?oc=5",
           "pubDate": "Sun, 20 Sep 2026 17:46:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Diana's brother compares media treatment of Harry, Meghan to late princess' ordeal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcHFKeUZSeUJjTk5kd1RVQ1pOZjg1dmJERV8wYUZvcjJXM3lMT0J6MGxvWlJQalR6U0ZMQzdyeXBOWFhOeFNsZ2REa1JpakIwRHJwRTR3c0NfeUUxRFVMcHB2bHBCTVJGLVJXd3laYklFYlhkcGRVTHV4UngtcFc4bWsyTTJPOXVhR2thZ3BmcWhtTERZRDJuLXhWNGxNbDRvS29sakVTc1ZXd0owX2gzSXFVdGFPdXVtLTNvT1Z6d3d4a1FyRjdVa1B4cUU?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 17:14:15 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hVd3hZZmFPOEVudnRhdFpDczA0Qkg4TmxpeDFYN1NuWnFkYVNSLTdrRU42dGdXV21YcmlsM1RVREw1amRxQWV5aWVZZTRPRy1paTNiT2o3M0syblIxdkMtR2xKLVgzUEstZ01CcXRKd0dNbUpLZUxkV1hhS0cwcDZYRXdmYjJrTTc4RERBQWNyeXdHb0ZoVjhPMkQzVDJodDBoc3c0RTc4ckFJeGJ6WDlLTDVzM05rN3k5VWNXVVFlTWM?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 17:09:32 GMT",
           "source": "Reuters"
         },
         {
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHN0dkVIZGRKZjYxeTMxV2RiY1JnSFh3WmtwTmZUR1Q4Y3dCd3htZkVLMG1BTkp1Z1ZqRzdqLUxFLTRHT01RX1g5TWlJSU8taXNMbTlNZUc5NjFTdGNWak4wN3E2Yjd0SnUtNGV5UjFwbjEyZG1RU3AycXdEZDFMcjFvS1NpSkRScU9ZWDRhSG85ZmdnbzVCd0lJTXR3M1lY?oc=5",
           "pubDate": "Sun, 20 Sep 2026 15:51:55 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump to use Washington arch as military complex for drones and snipers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZyRjFxR1hVQQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 15:48:15 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chile's Bachelet withdraws from race to lead UN - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRzhZdGE4SFV2V2pRdXU1OGxhZXp6MGl6aHRNdVVna3VLcGgtbVNwRmdBUFhlaUxhblpwLTFRUDB3VmJGeDJ3QnFoWjR1MnZLby1hd1RkbVNYZkpxLXIyaTlwNm80eFdnclZydFhXTHdpenlHOHpxX01UdXh5QWlDNmhmMjNNVUR3Ym9IT1JyVkJIRnc?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 15:39:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Fed's Kashkari says inflation is still too high across US economy, in Fox News interview - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hVd3hZZmFPOEVudnRhdFpDczA0Qkg4TmxpeDFYN1NuWnFkYVNSLTdrRU42dGdXV21YcmlsM1RVREw1amRxQWV5aWVZZTRPRy1paTNiT2o3M0syblIxdkMtR2xKLVgzUEstZ01CcXRKd0dNbUpLZUxkV1hhS0cwcDZYRXdmYjJrTTc4RERBQWNyeXdHb0ZoVjhPMkQzVDJodDBoc3c0RTc4ckFJeGJ6WDlLTDVzM05rN3k5VWNXVVFlTWM?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 15:33:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Volvo Cars appoints Skoda chief Klaus Zellmer as new CEO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEJfOVNKYWwzX3Z5cXN1bXVFNFBENVpGZ25Md0pGQnB0Y1k0RjQ5b3pXTVl1M2ZXZUg2MU1vY0ZyNW1La2pPMnFPMDJpbHd2REdTeFlvT3lWMzM3bjZCZ193b0duUXBoZ1lnOHRuZzREV2sxa1R3X2g1eFE5UnFGRWNmTDBtaC00YXc?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 15:15:21 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T18:00:18.758Z"
+      "updatedAt": "2026-09-20T18:25:14.011Z"
     }
   ]
 }
