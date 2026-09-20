@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-20T22:25:13.119Z",
-  "lastChecked": "2026-09-20T22:25:13.119Z",
-  "lastUpdated": "2026-09-20T22:25:13.119Z",
-  "generatedAt": "2026-09-20T22:25:13.119Z",
+  "fetchedAt": "2026-09-20T22:50:15.596Z",
+  "lastChecked": "2026-09-20T22:50:15.596Z",
+  "lastUpdated": "2026-09-20T22:50:15.596Z",
+  "generatedAt": "2026-09-20T22:50:15.596Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:25:12.076Z"
+      "updatedAt": "2026-09-20T22:50:14.285Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:25:12.140Z"
+      "updatedAt": "2026-09-20T22:50:14.595Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "An Israeli is shot dead in the occupied West Bank, and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeU81dDZnbW5CVWJaQTlBWXpfcGxXd2xJSlAyT3FwX182SDQxenhzdVI2cEpKMC1CbEVtUVJkN3UweGpCbHFTMHM2a0QyejJ3S1o3YVdOVVBMZm85SFpfZXBaOVVDMG9ZdlRhQ21KMXlsSlZOdXlnNUdCXzh2S0NBdm1WVWtITWxJTEhwM3E0TWU1SUhrSkVTRmNkNXRWelE?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 22:32:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "ICE agent shoots and wounds man in Austin, Texas, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaV8xUmhlQWYzdm00cHB5S0xveXRhNml5eG85YlI4bXpyMEMyU3RCUVdQS25oUHRVQTNWd21rTTJ2a3ZZUlgzZUFwcENkcXE3QTh1b1JtcUc2Q1hoRHVWQWoyYXJGRklNUjNBODdDODFHdVE3UTFDWUdNOFh0b2dyRklQVHVXTmo0cHZkenpTejBQNXVjdnp1UVNpLUlOZw?oc=5",
           "pubDate": "Sun, 20 Sep 2026 21:23:25 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Carney and Macron deepen ties as Canada turns toward Europe and away from US dependence - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTm9KMTZzbXpJVUZnellLVURXTW1veHdKejRLYkpYcTdscWwxd2dMdEJObEVFNGJzc3d5YXV2bmQyellxbV9WRmtiN3ExZ0ZySTBvWFE3YWdGeGhkTldnMzRld3Y4QjFDSm00eDltVXBlZ0pqWjZWcDQ1WkNmT2lpN3ZQMmJxZFBaYlFnUGNpRHJyUHZFSG9hZllkRQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 21:22:00 GMT",
           "source": "AP News"
         },
         {
@@ -133,12 +145,6 @@
           "title": "18 suspects accused in the July 2021 killing of Haiti's president being extradited from Haiti to US - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQendtZ0hLeGJDOG5iOGl1Q3U2OXBkYjZoSXpPbHJqOW15cjFhRzdDNnVaOTJNQnowNERkWHNXbXFiM2FhN2x0TndfZkUzc0w1aV9iVWNMQldUVWJUWEMzQnJNVUt4WnpQTEp5ZWJNZjFsRkhUVGJ6MFpjOWdVSl9oc3BQbmVPSlRIcUx3aWkwVzBpUzBfbWtFMzZNenY2cVU?oc=5",
           "pubDate": "Sun, 20 Sep 2026 20:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Carney and Macron deepen ties as Canada turns toward Europe and away from US dependence - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTm9KMTZzbXpJVUZnellLVURXTW1veHdKejRLYkpYcTdscWwxd2dMdEJObEVFNGJzc3d5YXV2bmQyellxbV9WRmtiN3ExZ0ZySTBvWFE3YWdGeGhkTldnMzRld3Y4QjFDSm00eDltVXBlZ0pqWjZWcDQ1WkNmT2lpN3ZQMmJxZFBaYlFnUGNpRHJyUHZFSG9hZllkRQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 20:37:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,24 +164,36 @@
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUmloY0hUeEk4VlZfc2pZWEZneUo4M0R4N2ZmUFVuN3N1M2ZJbnpDS0ZBTERjT044SGZlNGtaMkEyRlI1bm4yRmoxT3pQdy0yNmdDRUhQbHlWMGIxQjlCLWU2dERBNlJtNExRMHBfMGZPTVp6SkRzclhId24yc1JaVVhBVWdaT1JCd2UtVFdnakdlUQ?oc=5",
           "pubDate": "Sun, 20 Sep 2026 19:47:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 19:41:11 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:25:12.664Z"
+      "updatedAt": "2026-09-20T22:50:15.058Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Macron, Carney pledge closer ties in Atlantic island meeting amid strains with Trump - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkVYa2s0a1hldGZKYmpHQS1XdWkyNDZZSkR6UkNGUGRFWnFOMHJvQ1plRXRZanlQSFgwN09iMEliYmdQZm1lWENhNERBVkVaYjJiSUxrc25pVUFkWnpCRm9rYmxUU3N4Q0xXVHQwNFpLcXVyU2l2dHBxVFRGQkluNnZyY0NMRGJpMXFJTHo0X3AzaWV5SUU2ampSanpLN3MzRHNBRHc5ZjZyOV9XaGEw?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 21:59:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "AfD leads as Merz rues 'disaster' in worst state election result in postwar Germany - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzV1OGZScHpSaFBvZVZuV2RwNFJzdV9GOVNuT0s1b1N0dlU5RXVQdGh5ZHpneWloTWNOU01GMVgxZjlVTVFtTG5Ock0xZWcwQ21iaWVObjNKeTdBY3MzcDU0RGNNanRHNG1LbWlkeUh1RUY0QW5TM2JfbkJ5bFFwcmMzdDZkQTd0STVXRGJkMjA5bkZWVGN6Q3kteHJMZTQ1dnc?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 21:28:31 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump administration prepares sanctions against International Criminal Court, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzVOcmJ4eEtjbkl2RklqSHpWQUVfbHJWTE9fbl95b0ZaajRqbXJYLWxmUExfYUpBcDNuSEVlWGN3djQtbXNCbENmMkJqaDgyWjMtaElIcXpxNkpTdElHZTVNSkUtU3ZYSUdJLVF3WUszZUlSSXJSU1JYS19ZM05HOEJyLWlTZk10bEhYTWRGUGR3ZFlld0tVR0EyYThkaTBOWHRtbFBZUnVaTXZ5WEVPTzVTTXlFYTBDUUx0M1ZB?oc=5",
           "pubDate": "Sun, 20 Sep 2026 21:24:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Germany's far-right AfD leads race in north-east state, exit poll shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGtvQWVGZHl5UFp3Y29tTC1qMHZZR3dlV2otZTRWM2NYRVBKdElmY3JmMV9OdEQySWtRS3JoUk9CT0xPY05RS0FKRi1ydVJpUlRfVTdsV3lJRmJsVlpvNFhsMFRncXplbm9iSGo1N3gwRVBybzlRS0dmaUh5V0VzR0UwMXV3aDlsN2I1d0pQLVNEMzdrM3Q2Q0VHeEptdFo5LUlFUHcwQUhDRzVf?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 20:41:37 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcHFKeUZSeUJjTk5kd1RVQ1pOZjg1dmJERV8wYUZvcjJXM3lMT0J6MGxvWlJQalR6U0ZMQzdyeXBOWFhOeFNsZ2REa1JpakIwRHJwRTR3c0NfeUUxRFVMcHB2bHBCTVJGLVJXd3laYklFYlhkcGRVTHV4UngtcFc4bWsyTTJPOXVhR2thZ3BmcWhtTERZRDJuLXhWNGxNbDRvS29sakVTc1ZXd0owX2gzSXFVdGFPdXVtLTNvT1Z6d3d4a1FyRjdVa1B4cUU?oc=5",
           "pubDate": "Sun, 20 Sep 2026 18:20:05 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump wants to use Washington arch as military complex for drones and snipers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZyRjFxR1hVQQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 18:05:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Atletico ride derby storm to beat 10-man Real Madrid 2-1 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRW51c2Njb1p0eEpuRnA2REVWblZzRzBlY2dPZWMtQjFTYno3RDVSLW9yWUh0OVJDNVJjX2gwQTFYUDFaY2FIRHhvaWllbVRXNUJBMkdEdnhGTzR6TlRZSFNFVnJVdFh4WDNMTGtYRmZSRGZ3bzlxS1NuXzhDaVFDYW15cUJWQXl2NlcyVi1XTU0wSUVxalZfWjhTbTBleVZQS2ZyS3RR?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 17:59:34 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Manchester City beat Sunderland in humdinger to maintain 100% start, Man Utd scrape draw - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVJHR0xVdk9mSlZwZjlndTdNZWdBSVlIYTNWZ0UyTmRvSjhiM29zblFRZm8zaHh4eXpPbF9UeGM3ZXozc0taVWtjMXhnTzg1T1pQaklkeUNkU3JUdVNiaWVKTk1WQVRqdGN2WEtaTEpjekxCNUlXQmdEdnRqRlY2OTZxbU82OTBXS1Fzck42ZW1pSUh0VjI4NzMyakZLT3I0SFZCWnBOdHd0aTZVLXpBclhTSEFpaU1o?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 17:58:39 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T22:25:13.119Z"
+      "updatedAt": "2026-09-20T22:50:15.595Z"
     }
   ]
 }
