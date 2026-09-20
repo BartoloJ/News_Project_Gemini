@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-20T12:25:12.322Z",
-  "lastChecked": "2026-09-20T12:25:12.322Z",
-  "lastUpdated": "2026-09-20T12:25:12.322Z",
-  "generatedAt": "2026-09-20T12:25:12.322Z",
+  "fetchedAt": "2026-09-20T12:50:17.692Z",
+  "lastChecked": "2026-09-20T12:50:17.692Z",
+  "lastUpdated": "2026-09-20T12:50:17.692Z",
+  "generatedAt": "2026-09-20T12:50:17.692Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T12:25:10.952Z"
+      "updatedAt": "2026-09-20T12:50:16.541Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "PHOTOS: The precarious life of fisherfolk",
+          "link": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
+          "pubDate": "Sun, 20 Sep 2026 08:24:02 -0400",
+          "source": "NPR"
+        },
         {
           "title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
           "link": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
@@ -87,14 +93,14 @@
           "source": "NPR"
         },
         {
-          "title": "How the NPR College Podcast Challenge changed lives",
-          "link": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
+          "title": "NPR's College Podcast Challenge is back for 2026",
+          "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
           "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "NPR's College Podcast Challenge is back for 2026",
-          "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
+          "title": "How the NPR College Podcast Challenge changed lives",
+          "link": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
           "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -103,126 +109,120 @@
           "link": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
           "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Saudi Arabia says Houthis tried to attack its capital",
-          "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
-          "pubDate": "Sat, 19 Sep 2026 23:57:23 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T12:25:11.359Z"
+      "updatedAt": "2026-09-20T12:50:16.754Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump used to slam China. Here’s why he’s now rolling out the red carpet for Xi - apnews.com",
+          "title": "Trump used to slam China. Here’s why he’s now rolling out the red carpet for Xi - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmY1N25RRnlzbndnTndEbFN0aU1iWXFGaXFhaXZ2R3lJZWFvcW9rTWViMWVFU1ZHLTk1UHI1eHNzeUFsTmFxckxVeklqOXNZWW5jMFZVeTdkdnEza0FPUzVIR0NKNWlZSVZrLXhhRENCRFRBRE1CVFI3TExiV0NDQUlwcldZTkN5dnpMMUJGUHlTRjVTWWVWUFdHQndRSUJHZjI3QVdn?oc=5",
           "pubDate": "Sun, 20 Sep 2026 11:35:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow - apnews.com",
+          "title": "North Korea launches 2 ballistic missiles toward the sea and dials up pressure on the US - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVVYclhGeTgxaDh5T2dZVGJFbTRELUFsdGFvM1A1UGZFSkFIcnRkTTFxVUtvQy1lUmM1WlZxM0FEU3I3NHc3dXJaZDlaLWFqNktIRFZtcGZ5WUJxQWlsT3hQN1lwZFhoNFpGX0dVT3RXRng5TEhEVzg4OTF3cmo0R01yMVFFVGRoQmwwVA?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 11:33:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3?oc=5",
           "pubDate": "Sun, 20 Sep 2026 10:40:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - apnews.com",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 10:23:40 GMT",
+          "pubDate": "Sun, 20 Sep 2026 09:19:40 GMT",
           "source": "AP News"
         },
         {
-          "title": "South Korea says North Korea launched a ballistic missile and another projectile toward the sea - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVVYclhGeTgxaDh5T2dZVGJFbTRELUFsdGFvM1A1UGZFSkFIcnRkTTFxVUtvQy1lUmM1WlZxM0FEU3I3NHc3dXJaZDlaLWFqNktIRFZtcGZ5WUJxQWlsT3hQN1lwZFhoNFpGX0dVT3RXRng5TEhEVzg4OTF3cmo0R01yMVFFVGRoQmwwVA?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 09:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ed Sheeran says situation in Gaza is ‘catastrophic and unjustifiable’ as he opens concert - apnews.com",
+          "title": "Ed Sheeran says situation in Gaza is ‘catastrophic and unjustifiable’ as he opens concert - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3o0V1lsZ2NpZEo4ZUFUYXJpSTRPWncyYktqOVVJQ09XblgydWdTdDY0V3AzazJlU1R6RmVHSFhvZlBKY2RYR1JOdWd3TG80em91NEdpMi1EQkNjN0lsdVJDaE9xVHc1ajgyMndpSFA0T1MzUDJJQWJDUjl3SjNyN1FhNVprS1MwODBjU0V5bFhkdHNJNTRObVAwQVBhSWFjbHlseA?oc=5",
           "pubDate": "Sun, 20 Sep 2026 07:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Pakistani forces kill 5 militants and free 23 hostages in operation in the southwest - apnews.com",
+          "title": "Pakistani forces kill 5 militants and free 23 hostages in operation in the southwest - AP News",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS2NoMWZZMURmVzNHdHZxdTYwVDlMSVFDTXlIMEVhcS0xWFJNS0s2MlhYeDIzSXozY25ILWdIdTI1LTRLTm9na2g1RFg3TTJNTXhFUmI2bHJ1bGNUbTF3RFh1eWhOUXpOdnZnTVlvQXFrUmZOdHBPM0Vmd1pOc1V0VFItTGhFenZnWFNiaWdBVFhKMzNMWjN0WnlBejFaRlRGRTRlSlgxTGRlWDVLcnBSNjdnNA?oc=5",
           "pubDate": "Sun, 20 Sep 2026 07:28:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - apnews.com",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 07:17:11 GMT",
+          "pubDate": "Sun, 20 Sep 2026 06:56:29 GMT",
           "source": "AP News"
         },
         {
-          "title": "Fans in Ole Miss’ Grove mock Lane Kiffin but tout their ‘hospitality’ as he returns with LSU - apnews.com",
+          "title": "Fans in Ole Miss’ Grove mock Lane Kiffin but tout their ‘hospitality’ as he returns with LSU - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmxtLWx1U2VhcElVMzBTanVFaFlwWUt3Uk00eW9tVEwzNzZySmpVcFBUazAxZ29VbVZzS095eHl0R2tid0w5TEVVZ19RZjc3QWlGR2pHTzROODM5cHF3SlhScmFWLXFRa1Z1TkkyUWtJQWpMdlI5Z3lPdWhQSkhhdEZfd2l5WE5Fd3BkRg?oc=5",
           "pubDate": "Sun, 20 Sep 2026 06:48:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T12:25:11.920Z"
+      "updatedAt": "2026-09-20T12:50:17.231Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Police arrest Pakistan ex-PM Imran Khan's sister in Lahore ahead of party's planned march - Reuters",
+          "title": "Police arrest Pakistan ex-PM Imran Khan's sister in Lahore ahead of party's planned march - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQnY5clJYNDQyOXpSMHZvay1mcGsteXNBZkd6S3BBNkUxeVRuNnBKT1RtSUk4Qm1WSlZrcE1zeHg3X2JGQTU3Z1F2V1YwbzIzQUlYYUtNZXJ5VmhQM3hDRVRobWNXaXNFVjI5eWZMVlNndkl1LXU1QWExSE1wcXV0bEJUR0lDX21HXy1ZYUVlZU1leDBmbTc2R1hhNC1Ebm1MRkgyTU9HTXU0RzY4X093SFhqVzNSaTB1MkFQeFRNZXBVUlFZS0ZmVkdR?oc=5",
           "pubDate": "Sun, 20 Sep 2026 11:09:57 GMT",
           "source": "Reuters"
         },
         {
-          "title": "From dressing as a man to competing with the elite, no backpedalling for Afghan Hashimi - Reuters",
+          "title": "Billionaires abound in California. Why not tax their wealth? - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeHYwcDdKcVdSRFJhVGhSWlNJYmJIb2UwdUtxa2xjOTFuN3ZWWFc0NEpaVEhqZmlGbk94cWdXdGFyWDl2VGtfQUhCcGlyOWJWbFZBYm0zZC1vby1iMlU2djBjVTdOUDZrSzc5cTNFckZfRzRScEptTE5OMHZhYjBiOXhtQ1FYSkJHQUhXc0FJTmE4Q0JPaDVOSGt5VVBmX1pQaWUtQWROS21KR19XZHYzUk1IQWVvOVU?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 10:34:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "From dressing as a man to competing with the elite, no backpedalling for Afghan Hashimi - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSDlYZkNzVGNmMVBlQTkyVDZnTWhkQTFFeFJNVlFiUWhiLV9XRUZmWFZQOHdJUFllU280ZEVGYXlFU0x1UzJmZWZaaVN2RWlUelJEZ1dDdUNraThja3Y2bXAwTkloU2x3dlRTbmlBX3hYeThJZFVaWHJralNkMFdKWEdMSWlJWWFfVTdRRjI4OS1YZFF2WGpybUpacVhyRm5YMlNHWXRQZUVwNXhV?oc=5",
           "pubDate": "Sun, 20 Sep 2026 10:22:25 GMT",
           "source": "Reuters"
         },
         {
-          "title": "World leaders return to UN amid wars in Middle East and Ukraine - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3lDRHRlTWN1YnNJaGtha3IwWGxCV0w1QlVNNWpGQ2habE9mTUJpN2tqT2RvRkJqai15TGVhTTRnbmNCX1o5a2NGaXRVWXpnYXF6SlFodGJLYmZDUjNrVmR3ZXgxQ1hua1c3ZnFfeGE3S1ZGb0REWV9DWWRQNFFEazBWSjVPb1VzMExOYWVKOTJ3SlZaRlRyZWkwVHNOQVpxY3J3?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 10:04:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indonesia rescue agency recovers another victim from capsized ship, authorities say - Reuters",
+          "title": "Indonesia rescue agency recovers another victim from capsized ship, authorities say - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSGRNX1RUUzViS3pqektQTlFyRjRVNURxb2lNUzBfaDc3aDlGUjZlQW9wRDZRLW5vUkJHQk84eU5rb0t2eGNDOEVJb1RCRFZVaVdsR093cDZkbTc5SGFSeERTUElOR1ZCTnpIOTFLODAzUTFvalllSWhVSmh2NktrQnJ4Wjc3aExmNFBOSkJUa2tOa2FVN09wd0JUTnROLXVwazhQVnRVYnlwYXZsMXFNTkp1V2dQYjhLQ0JVWlBwWkVvS1pKdDNDcFc2QQ?oc=5",
           "pubDate": "Sun, 20 Sep 2026 09:05:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks - Reuters",
+          "title": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZnFXQ1lvNTg5TnJvazhfY3VXa0hrVms4RW1mdVBpR0k4QXZkempjX0h4Y2JIaGNvSm04YVJkTHRDTWpESVFDakhJMExiNGZSSktLcVFsM3VlM3ZibDQwVlE3czF4OEdLdXdnU0FPaUN1aHFLVWN3cW9uVHRTTDdDU1BNaUNMd3NQMlY5VGZPYzA5ODlMQi1rcWVDXzhFZHJWUF9tQjJqUUtzQW1yc0tYNw?oc=5",
           "pubDate": "Sun, 20 Sep 2026 08:11:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russian drone attack kills three children and a woman in Kyiv region - Reuters",
+          "title": "Russian drone attack kills three children and a woman in Kyiv region - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2VHSUIyQ3pINUdyakNEOEE1ZWpJZzZOMUxjUXJvekhrNkJINzZlY3J5MFVfVUFFdW1sZ09SY19EQ3JqM0MxR1NrQVEwOVFxSDlBazZ4VlBhMEF5eFFma0NhMHR3amg1TnJtdi1qaFIybHdEZW1DUVV6SUNVSEFXeWttbnF6N0Y5dFRWYnlkbnVPaU1VVWozTjBUc3hlSDRjQlcxYUh6Z1d4NjUz?oc=5",
           "pubDate": "Sun, 20 Sep 2026 06:30:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "North Korea fires two missiles off east coast in three hours - Reuters",
+          "title": "North Korea fires two missiles off east coast in three hours - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDFuRjFrR3lVU05OakZFWFlOdWFSTGsyelUxZmZrMkZvamthRHNRVkx0ZG95NnRIdXlWUFVhX2pfaUo2M1haY1B5RXNzVjJTRDZ3bXN6MUpYWUxiZThYbE9FWHBUemMtbC1SMHRQeWdBdC00YmxUWEZkXzljNm9PTnBCNS14WGFUOUFQRVZEN25feWZLNkRmcFN4M0pyM3pBZDF2cktnVGF6OXM?oc=5",
           "pubDate": "Sun, 20 Sep 2026 06:18:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Tung Chee-hwa, Hong Kong's first leader under Chinese rule, laid to rest - Reuters",
+          "title": "Tung Chee-hwa, Hong Kong's first leader under Chinese rule, laid to rest - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGFkUmE1MlVEYlEwSWJNTHBQcE1YV1Bqel9URU1rRl9BOEpYbmxQUW1YNDFZbHV2RU5uLUF6amFQMjQxdWV6ZkpTaTRTWnBIQzJYUEgzdjFFY183SllrUHRCTTdhNmV0TjFMQUhJV0pxVHZmMnp0RFdJWDE1ZWFiUnVmRFAtRl96RFBOYlZJTmZ6ZzV3VDdhcXRVdXhfd29Idm9RaXJFMm9WdkMxMWNwTW44Vlg?oc=5",
           "pubDate": "Sun, 20 Sep 2026 06:06:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T12:25:12.322Z"
+      "updatedAt": "2026-09-20T12:50:17.692Z"
     }
   ]
 }
