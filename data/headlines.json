@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-09-20T05:00:20.063Z",
-  "lastChecked": "2026-09-20T05:00:20.063Z",
-  "lastUpdated": "2026-09-20T05:00:20.063Z",
-  "generatedAt": "2026-09-20T05:00:20.063Z",
+  "fetchedAt": "2026-09-20T05:25:16.537Z",
+  "lastChecked": "2026-09-20T05:25:16.537Z",
+  "lastUpdated": "2026-09-20T05:25:16.537Z",
+  "generatedAt": "2026-09-20T05:25:16.537Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+          "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 20 Sep 2026 05:04:54 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: Fans cheer as Ed Sheeran speaks out over Macklemore controversy at show",
+          "link": "https://www.bbc.co.uk/news/videos/ck980m0pr1e0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 20 Sep 2026 05:01:47 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
           "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 19 Sep 2026 23:01:57 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
-          "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 19 Sep 2026 23:01:45 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-          "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 19 Sep 2026 23:01:38 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T05:00:18.996Z"
+      "updatedAt": "2026-09-20T05:25:15.456Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T05:00:19.174Z"
+      "updatedAt": "2026-09-20T05:25:15.587Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Ed Sheeran says situation in Gaza is ‘catastrophic and unjustifiable’ as he opens concert - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3o0V1lsZ2NpZEo4ZUFUYXJpSTRPWncyYktqOVVJQ09XblgydWdTdDY0V3AzazJlU1R6RmVHSFhvZlBKY2RYR1JOdWd3TG80em91NEdpMi1EQkNjN0lsdVJDaE9xVHc1ajgyMndpSFA0T1MzUDJJQWJDUjl3SjNyN1FhNVprS1MwODBjU0V5bFhkdHNJNTRObVAwQVBhSWFjbHlseA?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 03:50:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Trinidad Chambliss leads No. 8 Mississippi past No. 7 LSU 32-24 in Lane Kiffin's return to Ole Miss - AP News",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZDJFUDFmd1ZuUnBjY1d6V01IVDV4M1pBT1lfQ21wTmNyNXZ5NVhaUUtlZXVLZ21UeWhIUm5KU2ZScEQ3aXpIYy1HNGtBdHBKUmVRTUs1Z1hXMXRzQ2xHVjRSV00xMWtmRVFQaUJTaXNXUGswNURoU0JyUU80RVBkZDBveEk?oc=5",
           "pubDate": "Sun, 20 Sep 2026 03:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 02:21:02 GMT",
           "source": "AP News"
         },
         {
@@ -133,18 +145,6 @@
           "title": "No. 9 Texas A&M loses at home to Kentucky, meaning SEC will have 2 top-10 teams tumble - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQV9BWENnOVRZZEZJOTVVVWZkdTVqcmN3OGxFQ3VQSWlXdTBRRi1wQ0F0Ym4tUXRTUzhaWGlUTEtwVHhKMnJ2SWs0WFVJX1lZUWV1dUFEaDVFSDBCRVY0R1FkUERWMDR5cGZpOTluMXFVaFQzRkcyb21MN1BpYkpUMUZnbzljQjdzLTZYQg?oc=5",
           "pubDate": "Sun, 20 Sep 2026 01:36:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3o0V1lsZ2NpZEo4ZUFUYXJpSTRPWncyYktqOVVJQ09XblgydWdTdDY0V3AzazJlU1R6RmVHSFhvZlBKY2RYR1JOdWd3TG80em91NEdpMi1EQkNjN0lsdVJDaE9xVHc1ajgyMndpSFA0T1MzUDJJQWJDUjl3SjNyN1FhNVprS1MwODBjU0V5bFhkdHNJNTRObVAwQVBhSWFjbHlseA?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 01:26:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 01:19:35 GMT",
           "source": "AP News"
         },
         {
@@ -167,13 +167,19 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T05:00:19.636Z"
+      "updatedAt": "2026-09-20T05:25:16.118Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Ed Sheeran's fans back singer after controversy over Macklemore, Palestinians - Reuters",
+          "title": "China's CXMT says new memory-chip platform enters mass production - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXQwT0R1TTBfLVJQNVRFbHdPV0hVRk9XTy1QVXRLZDhMbkFBazRWVzE0NXYzUVdJX0J3YTdCSzU1Q3FMVjVZTjJuUGIwT3lRTldsVTRfNi00eDVNU1JDTFNLaks0Z0M0dTlYb010S0I5RkVoc1prLXFnQkoxeEUwcmd2WWdZR2otbVBybEhKVlRjbkkzRF9mWFdZTUlUYjBMZW1BYXpxa3JXRS1WUHBQNUw3VDR0YjJvRkNv?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 04:19:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ed Sheeran calls Israel's treatment of Gazans 'unjustifiable,' apologizes for Macklemore controversy - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObjF0SWxoajFDdXhWT1U5M1QxbE9BXzJIT3dpVVhoUE51LUh2c3FBQ1IzQ3Y3Mm5mb25yWGZhbXRIUjhlZHNQUGUwdUE3OTRPSndaWk5SZ0tKY1d1Y08zNVZ1OWhnUTU1OXpuQnVyNkxBRVYyYTZQYkNsTTl5NzR6LWpsUWp0aEdUNnRfRTk2ZW82LUZia3VkRHJ5LVRqY3NXb3c0M29MM1VZZEVPNGt6cTFNNmY4Q3NMS0VlRjQ1NDZTT2NCTEl1Z1V4MW10Rmc?oc=5",
           "pubDate": "Sun, 20 Sep 2026 01:37:00 GMT",
           "source": "Reuters"
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSm1fblVwNG9kdW15NGlqRF96VGdFUFlXMDBYcF9sTE9yOWhJcHpSSzVMMHRUZlhrd3pGWTA3eDhDY0RZemN1OFJHbEZqZ3hCV05Ba0dKZmw0QUZ2dFlQZFZSSU5mWVlLOFZxenplZHpPUjYyZ3dHVHpFWHoyYzNWck5FaGhoQ1hTR21FbDFJejFUdkdNQmZsSDFpOE8wQkFpWUpLMzhXV1IxUDJTRXFBWXFkQUxSMk0tTHRrUjFFVmFJTm5xOVlKaUFB?oc=5",
           "pubDate": "Sat, 19 Sep 2026 19:24:39 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Turkey says it could help meet Saudi military needs under defence pact - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFRETlRnejhZT205SG1jcTdjVXczcElRSUxEam5NemVkeWdYaEdkU0hjSFlrMGkxd0JoV1YzMHlRUWl4TnJSSy14aFJUemp3bm55X0dqcXdEN0o4aUdScDE0M3ZsRzlEQ0lhWm4yX0NDVE02aUl6djZneTMxMWxsYnVlYTltMmVhMlVXdU5vZjY1Z3B3aVpCU0NVb1Y0ZmI1V3FJUi1EaGt1d1AwUV9JeTR0RWZVeFRZbUsyS2lTUUJUd1hfOFg4NEtMcWhUQQ?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 19:21:47 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T05:00:20.063Z"
+      "updatedAt": "2026-09-20T05:25:16.537Z"
     }
   ]
 }
