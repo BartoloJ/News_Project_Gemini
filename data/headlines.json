@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-20T13:25:13.847Z",
-  "lastChecked": "2026-09-20T13:25:13.847Z",
-  "lastUpdated": "2026-09-20T13:25:13.847Z",
-  "generatedAt": "2026-09-20T13:25:13.847Z",
+  "fetchedAt": "2026-09-20T13:50:16.042Z",
+  "lastChecked": "2026-09-20T13:50:16.042Z",
+  "lastUpdated": "2026-09-20T13:50:16.042Z",
+  "generatedAt": "2026-09-20T13:50:16.042Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T13:25:12.431Z"
+      "updatedAt": "2026-09-20T13:50:14.629Z"
     },
     {
       "name": "NPR",
@@ -93,14 +93,14 @@
           "source": "NPR"
         },
         {
-          "title": "NPR's College Podcast Challenge is back for 2026",
-          "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
+          "title": "How the NPR College Podcast Challenge changed lives",
+          "link": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
           "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "How the NPR College Podcast Challenge changed lives",
-          "link": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
+          "title": "NPR's College Podcast Challenge is back for 2026",
+          "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
           "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T13:25:12.770Z"
+      "updatedAt": "2026-09-20T13:50:14.945Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "This truth emerges as political situations change fast: Maps show us our world, but not neutrally - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR25VcTFzRzY5VVhxd0daMUZWZ2RsaUR1clpqdzJ0WlkxSUlqS3pyRzlKTUJuNmVUTlRTSGluNGpnRTdXNmwxbkpYWGFPYzNyVXRZdHZWTnlqT1k2Ylgxb09lajFpR3RNVWZmTi1jd2pRVEhuOVFyVVZ6WkRtRW90M255S2xVLVFHRkhBVU9lS0hKYmpS?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 12:29:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump used to slam China. Here’s why he’s now rolling out the red carpet for Xi - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmY1N25RRnlzbndnTndEbFN0aU1iWXFGaXFhaXZ2R3lJZWFvcW9rTWViMWVFU1ZHLTk1UHI1eHNzeUFsTmFxckxVeklqOXNZWW5jMFZVeTdkdnEza0FPUzVIR0NKNWlZSVZrLXhhRENCRFRBRE1CVFI3TExiV0NDQUlwcldZTkN5dnpMMUJGUHlTRjVTWWVWUFdHQndRSUJHZjI3QVdn?oc=5",
@@ -130,15 +136,21 @@
           "source": "AP News"
         },
         {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 11:23:01 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3?oc=5",
           "pubDate": "Sun, 20 Sep 2026 10:40:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 10:23:40 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 08:42:12 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS2NoMWZZMURmVzNHdHZxdTYwVDlMSVFDTXlIMEVhcS0xWFJNS0s2MlhYeDIzSXozY25ILWdIdTI1LTRLTm9na2g1RFg3TTJNTXhFUmI2bHJ1bGNUbTF3RFh1eWhOUXpOdnZnTVlvQXFrUmZOdHBPM0Vmd1pOc1V0VFItTGhFenZnWFNiaWdBVFhKMzNMWjN0WnlBejFaRlRGRTRlSlgxTGRlWDVLcnBSNjdnNA?oc=5",
           "pubDate": "Sun, 20 Sep 2026 07:28:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 06:56:29 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Fans in Ole Miss’ Grove mock Lane Kiffin but tout their ‘hospitality’ as he returns with LSU - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmxtLWx1U2VhcElVMzBTanVFaFlwWUt3Uk00eW9tVEwzNzZySmpVcFBUazAxZ29VbVZzS095eHl0R2tid0w5TEVVZ19RZjc3QWlGR2pHTzROODM5cHF3SlhScmFWLXFRa1Z1TkkyUWtJQWpMdlI5Z3lPdWhQSkhhdEZfd2l5WE5Fd3BkRg?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 06:48:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T13:25:13.407Z"
+      "updatedAt": "2026-09-20T13:50:15.601Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump to use Washington triumphal arch as military complex - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZyRjFxR1hVQQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 13:25:07 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Indonesia rescue agency recovers another victim from capsized ship, authorities say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSGRNX1RUUzViS3pqektQTlFyRjRVNURxb2lNUzBfaDc3aDlGUjZlQW9wRDZRLW5vUkJHQk84eU5rb0t2eGNDOEVJb1RCRFZVaVdsR093cDZkbTc5SGFSeERTUElOR1ZCTnpIOTFLODAzUTFvalllSWhVSmh2NktrQnJ4Wjc3aExmNFBOSkJUa2tOa2FVN09wd0JUTnROLXVwazhQVnRVYnlwYXZsMXFNTkp1V2dQYjhLQ0JVWlBwWkVvS1pKdDNDcFc2QQ?oc=5",
@@ -179,9 +185,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Trump to convert triumphal arch into military complex - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZyRjFxR1hVQQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 12:28:06 GMT",
+          "title": "Italy to ban veils in schools, limit foreign students per class, Meloni says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVnJxcWRhcWRjZE9vWi1pTnBRdFpkTlE4NUNnekx2WkdBSXNxSjg2SzA1VnZwRDlieXJnTGR1dlB3UWJYbWRaV0dHVG02UW9JbTFpQUtxNHJLQWJuekN4b1FidWVCX0w2a1dZV0hDZnNkU1VXSnJyQnExTG1ZYnoyakg3QVI4NHhiVkE2clRBa21jd3BqN195YXBBUVJiNkpzNVBiSXA4ZS1OdGhOYkI4?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 12:48:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Merz under pressure as two more German states go to the polls - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzV1OGZScHpSaFBvZVZuV2RwNFJzdV9GOVNuT0s1b1N0dlU5RXVQdGh5ZHpneWloTWNOU01GMVgxZjlVTVFtTG5Ock0xZWcwQ21iaWVObjNKeTdBY3MzcDU0RGNNanRHNG1LbWlkeUh1RUY0QW5TM2JfbkJ5bFFwcmMzdDZkQTd0STVXRGJkMjA5bkZWVGN6Q3kteHJMZTQ1dnc?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 12:42:48 GMT",
           "source": "Reuters"
         },
         {
@@ -197,12 +209,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Police arrest Pakistan ex-PM Imran Khan's sister in Lahore ahead of party's planned march - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQnY5clJYNDQyOXpSMHZvay1mcGsteXNBZkd6S3BBNkUxeVRuNnBKT1RtSUk4Qm1WSlZrcE1zeHg3X2JGQTU3Z1F2V1YwbzIzQUlYYUtNZXJ5VmhQM3hDRVRobWNXaXNFVjI5eWZMVlNndkl1LXU1QWExSE1wcXV0bEJUR0lDX21HXy1ZYUVlZU1leDBmbTc2R1hhNC1Ebm1MRkgyTU9HTXU0RzY4X093SFhqVzNSaTB1MkFQeFRNZXBVUlFZS0ZmVkdR?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 11:09:57 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Billionaires abound in California. Why not tax their wealth? - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeHYwcDdKcVdSRFJhVGhSWlNJYmJIb2UwdUtxa2xjOTFuN3ZWWFc0NEpaVEhqZmlGbk94cWdXdGFyWDl2VGtfQUhCcGlyOWJWbFZBYm0zZC1vby1iMlU2djBjVTdOUDZrSzc5cTNFckZfRzRScEptTE5OMHZhYjBiOXhtQ1FYSkJHQUhXc0FJTmE4Q0JPaDVOSGt5VVBmX1pQaWUtQWROS21KR19XZHYzUk1IQWVvOVU?oc=5",
           "pubDate": "Sun, 20 Sep 2026 10:34:34 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSDlYZkNzVGNmMVBlQTkyVDZnTWhkQTFFeFJNVlFiUWhiLV9XRUZmWFZQOHdJUFllU280ZEVGYXlFU0x1UzJmZWZaaVN2RWlUelJEZ1dDdUNraThja3Y2bXAwTkloU2x3dlRTbmlBX3hYeThJZFVaWHJralNkMFdKWEdMSWlJWWFfVTdRRjI4OS1YZFF2WGpybUpacVhyRm5YMlNHWXRQZUVwNXhV?oc=5",
           "pubDate": "Sun, 20 Sep 2026 10:22:25 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZnFXQ1lvNTg5TnJvazhfY3VXa0hrVms4RW1mdVBpR0k4QXZkempjX0h4Y2JIaGNvSm04YVJkTHRDTWpESVFDakhJMExiNGZSSktLcVFsM3VlM3ZibDQwVlE3czF4OEdLdXdnU0FPaUN1aHFLVWN3cW9uVHRTTDdDU1BNaUNMd3NQMlY5VGZPYzA5ODlMQi1rcWVDXzhFZHJWUF9tQjJqUUtzQW1yc0tYNw?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 08:11:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T13:25:13.847Z"
+      "updatedAt": "2026-09-20T13:50:16.042Z"
     }
   ]
 }
