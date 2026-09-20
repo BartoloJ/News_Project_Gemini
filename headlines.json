@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-20T08:00:20.815Z",
-  "lastChecked": "2026-09-20T08:00:20.815Z",
-  "lastUpdated": "2026-09-20T08:00:20.815Z",
-  "generatedAt": "2026-09-20T08:00:20.815Z",
+  "fetchedAt": "2026-09-20T08:25:12.568Z",
+  "lastChecked": "2026-09-20T08:25:12.568Z",
+  "lastUpdated": "2026-09-20T08:25:12.568Z",
+  "generatedAt": "2026-09-20T08:25:12.568Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "German elections under way which could decide fate of Chancellor Merz",
+          "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 20 Sep 2026 07:57:32 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
           "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 19 Sep 2026 23:18:06 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Not all AI workers think the tech could kill everyone",
-          "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 19 Sep 2026 23:01:57 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T08:00:19.543Z"
+      "updatedAt": "2026-09-20T08:25:11.521Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T08:00:19.854Z"
+      "updatedAt": "2026-09-20T08:25:11.672Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Ed Sheeran says situation in Gaza is ‘catastrophic and unjustifiable’ as he opens concert - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3o0V1lsZ2NpZEo4ZUFUYXJpSTRPWncyYktqOVVJQ09XblgydWdTdDY0V3AzazJlU1R6RmVHSFhvZlBKY2RYR1JOdWd3TG80em91NEdpMi1EQkNjN0lsdVJDaE9xVHc1ajgyMndpSFA0T1MzUDJJQWJDUjl3SjNyN1FhNVprS1MwODBjU0V5bFhkdHNJNTRObVAwQVBhSWFjbHlseA?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 07:54:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Fans in Ole Miss’ Grove mock Lane Kiffin but tout their ‘hospitality’ as he returns with LSU - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmxtLWx1U2VhcElVMzBTanVFaFlwWUt3Uk00eW9tVEwzNzZySmpVcFBUazAxZ29VbVZzS095eHl0R2tid0w5TEVVZ19RZjc3QWlGR2pHTzROODM5cHF3SlhScmFWLXFRa1Z1TkkyUWtJQWpMdlI5Z3lPdWhQSkhhdEZfd2l5WE5Fd3BkRg?oc=5",
@@ -124,9 +130,9 @@
           "source": "AP News"
         },
         {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 05:02:33 GMT",
+          "title": "Trinidad Chambliss leads No. 8 Mississippi past No. 7 LSU 32-24 in Lane Kiffin's return to Ole Miss - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZDJFUDFmd1ZuUnBjY1d6V01IVDV4M1pBT1lfQ21wTmNyNXZ5NVhaUUtlZXVLZ21UeWhIUm5KU2ZScEQ3aXpIYy1HNGtBdHBKUmVRTUs1Z1hXMXRzQ2xHVjRSV00xMWtmRVFQaUJTaXNXUGswNURoU0JyUU80RVBkZDBveEk?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 06:47:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,21 +148,15 @@
           "source": "AP News"
         },
         {
-          "title": "Trinidad Chambliss leads No. 8 Mississippi past No. 7 LSU 32-24 in Lane Kiffin's return to Ole Miss - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZDJFUDFmd1ZuUnBjY1d6V01IVDV4M1pBT1lfQ21wTmNyNXZ5NVhaUUtlZXVLZ21UeWhIUm5KU2ZScEQ3aXpIYy1HNGtBdHBKUmVRTUs1Z1hXMXRzQ2xHVjRSV00xMWtmRVFQaUJTaXNXUGswNURoU0JyUU80RVBkZDBveEk?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 03:50:32 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ed Sheeran says situation in Gaza is ‘catastrophic and unjustifiable’ as he opens concert - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3o0V1lsZ2NpZEo4ZUFUYXJpSTRPWncyYktqOVVJQ09XblgydWdTdDY0V3AzazJlU1R6RmVHSFhvZlBKY2RYR1JOdWd3TG80em91NEdpMi1EQkNjN0lsdVJDaE9xVHc1ajgyMndpSFA0T1MzUDJJQWJDUjl3SjNyN1FhNVprS1MwODBjU0V5bFhkdHNJNTRObVAwQVBhSWFjbHlseA?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 03:50:00 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 04:01:49 GMT",
           "source": "AP News"
         },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 03:02:09 GMT",
+          "pubDate": "Sun, 20 Sep 2026 02:57:52 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T08:00:20.387Z"
+      "updatedAt": "2026-09-20T08:25:12.099Z"
     },
     {
       "name": "Reuters",
@@ -185,6 +185,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Tung Chee-hwa, Hong Kong's first leader under Chinese rule, laid to rest - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGFkUmE1MlVEYlEwSWJNTHBQcE1YV1Bqel9URU1rRl9BOEpYbmxQUW1YNDFZbHV2RU5uLUF6amFQMjQxdWV6ZkpTaTRTWnBIQzJYUEgzdjFFY183SllrUHRCTTdhNmV0TjFMQUhJV0pxVHZmMnp0RFdJWDE1ZWFiUnVmRFAtRl96RFBOYlZJTmZ6ZzV3VDdhcXRVdXhfd29Idm9RaXJFMm9WdkMxMWNwTW44Vlg?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 06:06:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Two dead in Moscow region, drones hit oil refinery in Russian capital - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVNJbGZEQXkzaEQ0UGs4U192Sks0X1UtRWtrYXhIbG0tdDhKLU4xYU1kZTFTY2g3VG4xSUE1b3MxVUNzLXlNUjZrSnRiQy1jeWo2bmJhNElYME1DUWxKdHBtbktxSUpNUkNJcjRkc1NMUmtkT2hKOWpZRGdfdDRiV0JaZVNnTWd5Sk1qbnA3N0oyWEFULTVBcllkZGsyOHZLenl4ZHNLbHRIX1B0RDRJdA?oc=5",
           "pubDate": "Sun, 20 Sep 2026 05:44:00 GMT",
@@ -193,7 +199,7 @@
         {
           "title": "US Treasury's Bessent, China's He to launch talks on AI, trade, critical minerals - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 05:06:00 GMT",
+          "pubDate": "Sun, 20 Sep 2026 05:07:43 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzV1OGZScHpSaFBvZVZuV2RwNFJzdV9GOVNuT0s1b1N0dlU5RXVQdGh5ZHpneWloTWNOU01GMVgxZjlVTVFtTG5Ock0xZWcwQ21iaWVObjNKeTdBY3MzcDU0RGNNanRHNG1LbWlkeUh1RUY0QW5TM2JfbkJ5bFFwcmMzdDZkQTd0STVXRGJkMjA5bkZWVGN6Q3kteHJMZTQ1dnc?oc=5",
           "pubDate": "Sun, 20 Sep 2026 04:14:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Russian election enters final day after Ukraine targets Moscow in massive drone attack - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWF9NeWpBYnEyU1JJdWppTldhbFJ1RDR0emoxZ1ZyNTE0WF8xTW1VTE5lb2dDYkFyUS1BVU9NdzRxYnpqdXNHVk1KWU42RTZvVy1uQXBoaDBNQ2pWQVJUY2xtTGtyMDdMMjhYdG1jbHVkYUhOaEhXcDVmYlo5Q2NWcVRfZHlmZnRKamd1YlRPOFN3VlE5OFlfWEVHbmFDenU3VzFZVWNGQVlhbkxXWjZmc25R?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 04:03:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T08:00:20.815Z"
+      "updatedAt": "2026-09-20T08:25:12.567Z"
     }
   ]
 }
