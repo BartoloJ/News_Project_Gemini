@@ -1,14 +1,14 @@
 {
-  "fetchedAt": "2026-09-20T11:00:20.141Z",
-  "lastChecked": "2026-09-20T11:00:20.141Z",
-  "lastUpdated": "2026-09-20T11:00:20.141Z",
-  "generatedAt": "2026-09-20T11:00:20.141Z",
+  "fetchedAt": "2026-09-20T11:23:51.762Z",
+  "lastChecked": "2026-09-20T11:23:51.762Z",
+  "lastUpdated": "2026-09-20T11:23:51.762Z",
+  "generatedAt": "2026-09-20T11:23:51.762Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+          "title": "'Massive' drone attack on Moscow region sees Ukraine hit oil refinery",
           "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 20 Sep 2026 10:45:39 GMT",
           "source": "BBC News"
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T11:00:18.829Z"
+      "updatedAt": "2026-09-20T11:23:50.111Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
+          "link": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
+          "pubDate": "Sun, 20 Sep 2026 07:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
           "link": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
@@ -103,79 +109,85 @@
           "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
           "pubDate": "Sat, 19 Sep 2026 23:57:23 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert",
-          "link": "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
-          "pubDate": "Sat, 19 Sep 2026 23:34:12 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T11:00:19.199Z"
+      "updatedAt": "2026-09-20T11:23:50.462Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow - apnews.com",
+          "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3?oc=5",
           "pubDate": "Sun, 20 Sep 2026 10:40:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "South Korea says North Korea launched a ballistic missile and another projectile toward the sea - apnews.com",
+          "title": "Iran war - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 10:01:31 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "South Korea says North Korea launched a ballistic missile and another projectile toward the sea - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVVYclhGeTgxaDh5T2dZVGJFbTRELUFsdGFvM1A1UGZFSkFIcnRkTTFxVUtvQy1lUmM1WlZxM0FEU3I3NHc3dXJaZDlaLWFqNktIRFZtcGZ5WUJxQWlsT3hQN1lwZFhoNFpGX0dVT3RXRng5TEhEVzg4OTF3cmo0R01yMVFFVGRoQmwwVA?oc=5",
           "pubDate": "Sun, 20 Sep 2026 09:57:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iran war - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 08:38:57 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 08:17:38 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ed Sheeran says situation in Gaza is ‘catastrophic and unjustifiable’ as he opens concert - apnews.com",
+          "title": "Ed Sheeran says situation in Gaza is ‘catastrophic and unjustifiable’ as he opens concert - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3o0V1lsZ2NpZEo4ZUFUYXJpSTRPWncyYktqOVVJQ09XblgydWdTdDY0V3AzazJlU1R6RmVHSFhvZlBKY2RYR1JOdWd3TG80em91NEdpMi1EQkNjN0lsdVJDaE9xVHc1ajgyMndpSFA0T1MzUDJJQWJDUjl3SjNyN1FhNVprS1MwODBjU0V5bFhkdHNJNTRObVAwQVBhSWFjbHlseA?oc=5",
           "pubDate": "Sun, 20 Sep 2026 07:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Pakistani forces kill 5 militants and free 23 hostages in operation in the southwest - apnews.com",
+          "title": "Pakistani forces kill 5 militants and free 23 hostages in operation in the southwest - AP News",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS2NoMWZZMURmVzNHdHZxdTYwVDlMSVFDTXlIMEVhcS0xWFJNS0s2MlhYeDIzSXozY25ILWdIdTI1LTRLTm9na2g1RFg3TTJNTXhFUmI2bHJ1bGNUbTF3RFh1eWhOUXpOdnZnTVlvQXFrUmZOdHBPM0Vmd1pOc1V0VFItTGhFenZnWFNiaWdBVFhKMzNMWjN0WnlBejFaRlRGRTRlSlgxTGRlWDVLcnBSNjdnNA?oc=5",
           "pubDate": "Sun, 20 Sep 2026 07:28:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Fans in Ole Miss’ Grove mock Lane Kiffin but tout their ‘hospitality’ as he returns with LSU - apnews.com",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 06:56:29 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Fans in Ole Miss’ Grove mock Lane Kiffin but tout their ‘hospitality’ as he returns with LSU - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmxtLWx1U2VhcElVMzBTanVFaFlwWUt3Uk00eW9tVEwzNzZySmpVcFBUazAxZ29VbVZzS095eHl0R2tid0w5TEVVZ19RZjc3QWlGR2pHTzROODM5cHF3SlhScmFWLXFRa1Z1TkkyUWtJQWpMdlI5Z3lPdWhQSkhhdEZfd2l5WE5Fd3BkRg?oc=5",
           "pubDate": "Sun, 20 Sep 2026 06:48:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 05:25:38 GMT",
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 05:58:35 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T11:00:19.700Z"
+      "updatedAt": "2026-09-20T11:23:51.306Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "From dressing as a man to competing with the elite, no backpedalling for Afghan cyclist Hashimi - Reuters",
+          "title": "Merz under pressure as two more German states go to the polls - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzV1OGZScHpSaFBvZVZuV2RwNFJzdV9GOVNuT0s1b1N0dlU5RXVQdGh5ZHpneWloTWNOU01GMVgxZjlVTVFtTG5Ock0xZWcwQ21iaWVObjNKeTdBY3MzcDU0RGNNanRHNG1LbWlkeUh1RUY0QW5TM2JfbkJ5bFFwcmMzdDZkQTd0STVXRGJkMjA5bkZWVGN6Q3kteHJMZTQ1dnc?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 10:24:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "From dressing as a man to competing with the elite, no backpedalling for Afghan Hashimi - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSDlYZkNzVGNmMVBlQTkyVDZnTWhkQTFFeFJNVlFiUWhiLV9XRUZmWFZQOHdJUFllU280ZEVGYXlFU0x1UzJmZWZaaVN2RWlUelJEZ1dDdUNraThja3Y2bXAwTkloU2x3dlRTbmlBX3hYeThJZFVaWHJralNkMFdKWEdMSWlJWWFfVTdRRjI4OS1YZFF2WGpybUpacVhyRm5YMlNHWXRQZUVwNXhV?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 09:33:43 GMT",
+          "pubDate": "Sun, 20 Sep 2026 10:22:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Indonesia rescue agency recovers another victim from capsized ship, authorities say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSGRNX1RUUzViS3pqektQTlFyRjRVNURxb2lNUzBfaDc3aDlGUjZlQW9wRDZRLW5vUkJHQk84eU5rb0t2eGNDOEVJb1RCRFZVaVdsR093cDZkbTc5SGFSeERTUElOR1ZCTnpIOTFLODAzUTFvalllSWhVSmh2NktrQnJ4Wjc3aExmNFBOSkJUa2tOa2FVN09wd0JUTnROLXVwazhQVnRVYnlwYXZsMXFNTkp1V2dQYjhLQ0JVWlBwWkVvS1pKdDNDcFc2QQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 09:05:00 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVNJbGZEQXkzaEQ0UGs4U192Sks0X1UtRWtrYXhIbG0tdDhKLU4xYU1kZTFTY2g3VG4xSUE1b3MxVUNzLXlNUjZrSnRiQy1jeWo2bmJhNElYME1DUWxKdHBtbktxSUpNUkNJcjRkc1NMUmtkT2hKOWpZRGdfdDRiV0JaZVNnTWd5Sk1qbnA3N0oyWEFULTVBcllkZGsyOHZLenl4ZHNLbHRIX1B0RDRJdA?oc=5",
           "pubDate": "Sun, 20 Sep 2026 05:44:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US Treasury's Bessent, China's He to launch talks on AI, trade, critical minerals - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 05:06:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "World leaders return to UN amid wars in Middle East and Ukraine - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3lDRHRlTWN1YnNJaGtha3IwWGxCV0w1QlVNNWpGQ2habE9mTUJpN2tqT2RvRkJqai15TGVhTTRnbmNCX1o5a2NGaXRVWXpnYXF6SlFodGJLYmZDUjNrVmR3ZXgxQ1hua1c3ZnFfeGE3S1ZGb0REWV9DWWRQNFFEazBWSjVPb1VzMExOYWVKOTJ3SlZaRlRyZWkwVHNOQVpxY3J3?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 05:05:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T11:00:20.141Z"
+      "updatedAt": "2026-09-20T11:23:51.762Z"
     }
   ]
 }
