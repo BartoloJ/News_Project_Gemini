@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-20T21:50:15.312Z",
-  "lastChecked": "2026-09-20T21:50:15.312Z",
-  "lastUpdated": "2026-09-20T21:50:15.312Z",
-  "generatedAt": "2026-09-20T21:50:15.312Z",
+  "fetchedAt": "2026-09-20T22:00:20.241Z",
+  "lastChecked": "2026-09-20T22:00:20.241Z",
+  "lastUpdated": "2026-09-20T22:00:20.241Z",
+  "generatedAt": "2026-09-20T22:00:20.241Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T21:50:14.231Z"
+      "updatedAt": "2026-09-20T22:00:19.090Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Federal immigration agent shoots and injures man in Austin, Texas",
+          "link": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
+          "pubDate": "Sun, 20 Sep 2026 17:53:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
           "link": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/20/nx-s1-5963506/us-childcare-costs-astronomical-families-turning-to-grandparents",
           "pubDate": "Sun, 20 Sep 2026 06:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
-          "link": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
-          "pubDate": "Sun, 20 Sep 2026 05:16:42 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T21:50:14.350Z"
+      "updatedAt": "2026-09-20T22:00:19.242Z"
     },
     {
       "name": "AP News",
@@ -142,6 +142,18 @@
           "source": "AP News"
         },
         {
+          "title": "Bears quarterback Caleb Williams leaves with right leg injury - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUmloY0hUeEk4VlZfc2pZWEZneUo4M0R4N2ZmUFVuN3N1M2ZJbnpDS0ZBTERjT044SGZlNGtaMkEyRlI1bm4yRmoxT3pQdy0yNmdDRUhQbHlWMGIxQjlCLWU2dERBNlJtNExRMHBfMGZPTVp6SkRzclhId24yc1JaVVhBVWdaT1JCd2UtVFdnakdlUQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 19:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 19:41:11 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Converse apologizes and pulls sneaker ad that critics said included racist imagery - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQW0tZ2EzcS15dFpDUEZsMDQ0MFhUTEpYS3Q1R3RPZnNpeHROMXJkNDhXc1JSczVCUEp3UnFPcWVEOE9maVBIdlE0N1JpSDdpVnhkNHpEQ2wtQ0tGS21PcHNteUdEWmZKbzc1aF9jT2pyaFRSYzE1R3R3UW1wb1JMRUU3c0ZJaU1uWEVPejB1dmM3UQ?oc=5",
           "pubDate": "Sun, 20 Sep 2026 19:39:00 GMT",
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHhpM0laRi15RUZNNHNvMnRlLUJzSWhpaWNIVWY3WkJ1b3NScV9ZaWtJbFRueUdhZUNwRDFYeXNDZnFpTElweEZ5V3RrM3l6TnRxQ0dVNGpuLTFfS2U0cm16cEF1eFlfV0tMZGZfdXYwci1oT3haQ0xra1JrZU9XNGVfS0h6STJ0VXlqaTVldEV1U1oyWllOVlJOSy1aYkVfdWtnQjJsQTRGM25GaVVmdw?oc=5",
           "pubDate": "Sun, 20 Sep 2026 19:20:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Russia wraps up first wartime parliamentary election with Kremlin dominance all but assured - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTdMN1ZGRTNNQy1IQUk3RXhDYklxaHlDV2ptNHZfMWFQaGpaQmd6QkpwVUxpSjlBc0ZGWV9fMkFWeGQ0UEpnWGZONEZLc214amFHX3BnWUwtRTBKQTlScWVWRmFsNkxucWNCOFpJWXg0dVNWOFNabG1ObWlkRS1nbUhFRlU4Wl9HRVN6SGxDU19JUlUyenlIUl9MRWpsbUs3NEZFRGpGU3Y?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 19:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ukraine fires over 1,000 drones at Russia, including ‘largest ever’ attack on Moscow - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 19:00:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T21:50:14.825Z"
+      "updatedAt": "2026-09-20T22:00:19.796Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Lightning suspends Bucs-Browns at 2-minute warning - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORi1pYUc5d29iQmc5c3lld1U2VS03OG14RHZJMHlZT3V6aV9hTkVYWXJodTNFZFpUMVdLdHVTR25pLW5lSEp1aWYzY2xMMjcxOXRfT3dUTGhQNHJoeWZxdWoyTHMyVHBQaXI1cjdjbUR3bTdDWUJJVGlxZ0pXSi05a1JlbEc2V0JOOEZ1ZFZnNWRoT1JvNXVwNEdyQQ?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 20:38:10 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Ukraine's Zelenskiy says he and Trump agree to meet in New York - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnpuUzhvbURvMlJhal83Q29DTVpxNHFLVzlHeWtvY21qTG0wakVyZVdoTHpNYXBkb3piRTRBajVaME1ZZDV1bUJ0SDQxZ1lEWjcwR2pnbkJFbEFNVGoyZW1DZG5kbHpWVlhBOGJrbFoxVkhRQ3JzLVRPM0EybFk4U3VDdXhHZmw5dXlHQmtvVHNuZzd2M3BXT2RvN2trQQ?oc=5",
@@ -182,12 +188,6 @@
           "title": "Trump administration prepares to sanction the International Criminal Court, WSJ reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzVOcmJ4eEtjbkl2RklqSHpWQUVfbHJWTE9fbl95b0ZaajRqbXJYLWxmUExfYUpBcDNuSEVlWGN3djQtbXNCbENmMkJqaDgyWjMtaElIcXpxNkpTdElHZTVNSkUtU3ZYSUdJLVF3WUszZUlSSXJSU1JYS19ZM05HOEJyLWlTZk10bEhYTWRGUGR3ZFlld0tVR0EyYThkaTBOWHRtbFBZUnVaTXZ5WEVPTzVTTXlFYTBDUUx0M1ZB?oc=5",
           "pubDate": "Sun, 20 Sep 2026 18:46:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "AfD ahead as Merz rues 'disaster' in worst state election result in postwar Germany - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzV1OGZScHpSaFBvZVZuV2RwNFJzdV9GOVNuT0s1b1N0dlU5RXVQdGh5ZHpneWloTWNOU01GMVgxZjlVTVFtTG5Ock0xZWcwQ21iaWVObjNKeTdBY3MzcDU0RGNNanRHNG1LbWlkeUh1RUY0QW5TM2JfbkJ5bFFwcmMzdDZkQTd0STVXRGJkMjA5bkZWVGN6Q3kteHJMZTQ1dnc?oc=5",
-          "pubDate": "Sun, 20 Sep 2026 18:29:06 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T21:50:15.312Z"
+      "updatedAt": "2026-09-20T22:00:20.241Z"
     }
   ]
 }
