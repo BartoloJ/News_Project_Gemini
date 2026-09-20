@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-20T03:50:14.279Z",
-  "lastChecked": "2026-09-20T03:50:14.279Z",
-  "lastUpdated": "2026-09-20T03:50:14.279Z",
-  "generatedAt": "2026-09-20T03:50:14.279Z",
+  "fetchedAt": "2026-09-20T04:00:23.819Z",
+  "lastChecked": "2026-09-20T04:00:23.819Z",
+  "lastUpdated": "2026-09-20T04:00:23.819Z",
+  "generatedAt": "2026-09-20T04:00:23.819Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T03:50:12.831Z"
+      "updatedAt": "2026-09-20T04:00:22.480Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Saudi Arabia says Houthis tried to attack its capital",
+          "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+          "pubDate": "Sat, 19 Sep 2026 23:57:23 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert",
           "link": "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
           "pubDate": "Sat, 19 Sep 2026 05:01:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Ever wonder how the Fed's interest rate actually works? We've got answers",
-          "link": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
-          "pubDate": "Sat, 19 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T03:50:13.162Z"
+      "updatedAt": "2026-09-20T04:00:22.774Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T03:50:13.719Z"
+      "updatedAt": "2026-09-20T04:00:23.358Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Ed Sheeran's fans back singer after controversy over Macklemore, Palestinians - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObjF0SWxoajFDdXhWT1U5M1QxbE9BXzJIT3dpVVhoUE51LUh2c3FBQ1IzQ3Y3Mm5mb25yWGZhbXRIUjhlZHNQUGUwdUE3OTRPSndaWk5SZ0tKY1d1Y08zNVZ1OWhnUTU1OXpuQnVyNkxBRVYyYTZQYkNsTTl5NzR6LWpsUWp0aEdUNnRfRTk2ZW82LUZia3VkRHJ5LVRqY3NXb3c0M29MM1VZZEVPNGt6cTFNNmY4Q3NMS0VlRjQ1NDZTT2NCTEl1Z1V4MW10Rmc?oc=5",
           "pubDate": "Sun, 20 Sep 2026 02:03:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China keeps benchmark lending rates unchanged for 16th month in September - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDU1MlBxV3pIckRnemgzc1dvTlVHRUJOWkh4M2JQTElsR19PUW9FYVV4ME5ScDlyREdSOTI5QlRDSkNiMlRDTHBTaVJBOFRjblBzRnZfSHVYMFljYTRVQzJSMXFFWTEtU2xUNDVIV1NHclBwd0tWWjd0Vlk1RFdRZDVUVUFNS2pSRW55LTY2b0R0b1pBTkpEVm0yMllGYUlKVkQ0bmJZcVJYcUg0RGotdVJWTlB0NWJYTTdj?oc=5",
+          "pubDate": "Sun, 20 Sep 2026 01:34:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSm1fblVwNG9kdW15NGlqRF96VGdFUFlXMDBYcF9sTE9yOWhJcHpSSzVMMHRUZlhrd3pGWTA3eDhDY0RZemN1OFJHbEZqZ3hCV05Ba0dKZmw0QUZ2dFlQZFZSSU5mWVlLOFZxenplZHpPUjYyZ3dHVHpFWHoyYzNWck5FaGhoQ1hTR21FbDFJejFUdkdNQmZsSDFpOE8wQkFpWUpLMzhXV1IxUDJTRXFBWXFkQUxSMk0tTHRrUjFFVmFJTm5xOVlKaUFB?oc=5",
           "pubDate": "Sat, 19 Sep 2026 19:24:39 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Turkey says it could help meet Saudi military needs under defence pact - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFRETlRnejhZT205SG1jcTdjVXczcElRSUxEam5NemVkeWdYaEdkU0hjSFlrMGkxd0JoV1YzMHlRUWl4TnJSSy14aFJUemp3bm55X0dqcXdEN0o4aUdScDE0M3ZsRzlEQ0lhWm4yX0NDVE02aUl6djZneTMxMWxsYnVlYTltMmVhMlVXdU5vZjY1Z3B3aVpCU0NVb1Y0ZmI1V3FJUi1EaGt1d1AwUV9JeTR0RWZVeFRZbUsyS2lTUUJUd1hfOFg4NEtMcWhUQQ?oc=5",
-          "pubDate": "Sat, 19 Sep 2026 19:21:47 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-20T03:50:14.279Z"
+      "updatedAt": "2026-09-20T04:00:23.819Z"
     }
   ]
 }
