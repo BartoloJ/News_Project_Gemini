@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-21T14:00:20.769Z",
-  "lastChecked": "2026-09-21T14:00:20.769Z",
-  "lastUpdated": "2026-09-21T14:00:20.769Z",
-  "generatedAt": "2026-09-21T14:00:20.769Z",
+  "fetchedAt": "2026-09-21T14:25:18.026Z",
+  "lastChecked": "2026-09-21T14:25:18.026Z",
+  "lastUpdated": "2026-09-21T14:25:18.026Z",
+  "generatedAt": "2026-09-21T14:25:18.026Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T14:00:19.352Z"
+      "updatedAt": "2026-09-21T14:25:17.115Z"
     },
     {
       "name": "NPR",
@@ -105,22 +105,28 @@
           "source": "NPR"
         },
         {
-          "title": "CNN, MS NOW and Politico will sue Trump after being barred from White House",
+          "title": "CNN, MS NOW and Politico sue Trump after being barred from White House",
           "link": "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets",
           "pubDate": "Mon, 21 Sep 2026 04:39:38 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T14:00:19.572Z"
+      "updatedAt": "2026-09-21T14:25:17.181Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "CNN, MS NOW, Politico say they've notified Trump they're suing over denied White House access - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE9ZY3hqOG5XR0ZGUkR6cHNrV3BNRUhtTDljRUZBdzhXUDVoSk1HeHRtRHltR3hpSXFkbG1qVndtUkJmVTFPOUU4VVVOUG9hcWx5X2x4NnhKRml3aThkQllIVWFaT04xTGh6UE4yZHdFanVQTDJkQ2NwczQ1N1VYYnlQdnU2UWlZT1k0aHBzVW5PN19lNkkxcnJydw?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 14:10:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Russia targets Zaporizhzhia after Ukraine launches 1,000-drone weekend barrage - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2E0aW9GSXJtb3RpeW9sWTNOVUxsQVpsZ2V1d1lFZkFubTFSMzhNMENTTnVXVlFaU3k2ZnFDbm1WRTVERkNycmwwLV9LU1cxLVkwRnBGbkc1cTRkamE1ZVVaYVpzLXA3Qlhjckh6YTQxR3RHNzJkNmRkaTBMOE1mb0ZZMWlNV1VydXlDQUJld1lkT2dyU3E0bW1fbTczMlJ4UlE?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 13:09:00 GMT",
+          "pubDate": "Mon, 21 Sep 2026 13:52:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,14 +148,8 @@
           "source": "AP News"
         },
         {
-          "title": "War, runaway AI and climate shocks to take center stage as world leaders meet at UN - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 12:51:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "CNN, MS NOW, Politico say they've notified Trump they're suing over denied White House access - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE9ZY3hqOG5XR0ZGUkR6cHNrV3BNRUhtTDljRUZBdzhXUDVoSk1HeHRtRHltR3hpSXFkbG1qVndtUkJmVTFPOUU4VVVOUG9hcWx5X2x4NnhKRml3aThkQllIVWFaT04xTGh6UE4yZHdFanVQTDJkQ2NwczQ1N1VYYnlQdnU2UWlZT1k0aHBzVW5PN19lNkkxcnJydw?oc=5",
+          "title": "A projectile hits a tanker as it enters the Strait of Hormuz, and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUdHOElkcmlob3ZfZ0RHajFkdG1DYzRXbDQ0eERkQ0gyMTNHbXkyVWJGZmhyTWcyV0ZaMXRuNS1lUnBmZmlSY0JhSWVkVGFBb1lrQXhWMFRTWThqTFV3WTJ1Snp1d255TnFqUFN5X3VtQ2F1MVFHQVgzV21LSkQyN0JRSXItejZqemtPWlRmeWpVWkV5VUtOSWxXTjhsTHlPaFpsNlBJVDBCcV82UHBtbUFn?oc=5",
           "pubDate": "Mon, 21 Sep 2026 12:46:00 GMT",
           "source": "AP News"
         },
@@ -167,15 +167,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T14:00:20.248Z"
+      "updatedAt": "2026-09-21T14:25:17.645Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Fed's Goolsbee says strong demand may be adding to US inflation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0hYN2ZsV3h2enhYZkdSaVlTUFRLQnFaNnRmYVJ6LTZxdGN1SGowVDdHUUNRR3pCdXExRG9MdGFRN0dlWEdnWTVfd0NaWnRDRFo5T0pZSnZmRnJWdWxqdEljUVV3LUItRjdjbF9uUzBucjNUeWNBdlZXMDdWbE42elpySFJ6eURzTm02S0xqQWQ3bVFrVU4xLUp4MlpicnN6c19Qc1JTQzVUc1ZBVkVYV2wwS3BwRHNyZXZsZw?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 14:14:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Denmark says NATO shares responsibility for Arctic security under Greenland deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3B2X0hTRmlsNkhMcVZYRF8zOEZWMFpQLUtPMkExQzJ1UUEwdS16S2h0bklnNDIzcm9NTC1Ja0thVllkTmJad21EM3ZjQjUzVGtUZ2p4VDBZRHd0QmNWMWhmRTQwR2N4QnhYaUpsVXVBd2E2bEZQeXN2Z0pzYWc2cVY2dE1ZNGFyUUJfMFdGTHRYRzdPMElNOS02SFhwU0w3djlaOGhDUlEwRUFEVHFkN0xXdGNHZFBha0dmTmhLc01ic00?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 14:00:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold inches down on rising odds of Fed rate hike, stronger dollar - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUtKdjloRHZCamhPWmFUa00yUkQwRWZJNFVpbUFiRl9KQmNWbmViLTJQN1hvUmphTzVuMm9ubU5VaXNoQ2NPdVgzM3JPd0t6Qk5XOHQ4ZG96bDRkMlhEMG1kN09OaElGdGxsOEpYdzA2eE53aXBsZm1ZaWhXR1JJY0FSN2NPdzFaX2d6UjY4VU5aWTJOcDNRZC1kTURhRWFPUVNoeU9NTEVUcFRuQmc?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 14:00:29 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Warner Bros, Paramount rise on report California settlement talks could clear merger hurdle - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbEUwclZPazRvRlB5dHQzNkNGVUhicFZBam5neXMySTM1cFR2QmJGMXg1OU9uVnN6ckxHWWNRT2toWDZCekNZUGpiem5ZVnhBU3E1NDBaTkJ2ODhQUW5BZ1FHQS1FWnh4WXY4SDNsYmpKcnNLanhBdnROcGxYbFpEdFJfSjk0amNFMDVhdXhaRmVZQ0FmbktaLUdKbE5kY0NyU1N6WUxxRHdNanhyVWVWTDNlVFFBdGJ1XzNrQTUwQnBTMlJ6MFY4ajFWM1FPb2hmdkE?oc=5",
           "pubDate": "Mon, 21 Sep 2026 13:47:11 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Merz clings on after German election 'disaster' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGNFNDVTLUwwZDdXdnpDaU5McG16Z1lmVHFuSUxZamw0Qi1OUnF1QkRfZzNxb1VoVDhFOUhTY2h5ODFuZnI4bTg5YWJiUWlWWTFFU3lQR3JwYkhzOE5xSFdrWk9qY0FBcVRFUXMzbHlfY3MyTGtGaEhUeUljWktmaWVrMzZfNS1RNTBoTQ?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 13:45:19 GMT",
           "source": "Reuters"
         },
         {
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWVdfNThTY1JLTGswZXZGa0hSV0RoVnNOOTRoTUpNRUtXd3loTkpnVnBUMWJkaE5KMzNvMXFaanZnODI4XzNxYkFRUDlIaXB0blY2cUZONVVHNDl0UHBnQ2FzOGRyZkNxbnV5eVpWU3R0RF9CRkVMVlZiYU1yYTRDbFNYQjFTWFBxSjlWWC1tZHM4dk1Hbk05djBCeXp0ODVpbzRpRU5RbC1ieldwNEpyOUltVEJhdzNEdnpYQ2lTckZnVkFIS1E?oc=5",
           "pubDate": "Mon, 21 Sep 2026 13:21:20 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wall St set for higher open as AI stocks rise, oil slides - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 12:57:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Venice considering raising tourist entry fee to $34 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZWQtZDVPMmZ5Z1piWUVIclg1NFd4LUxiNlFUZFc4VEJGTkdTWEF5RUhRYUNBNTRVaDBreVphNXU1TmdxM2RhakIzbUFaR3VuVnZYaS1qNUZMT3VHTUE0UncxMGNjM19ZRDE0N1V3TUZpcjI4bm9VdG9JTUd6MmpNV3I2by1DY0w2RkJMYkUzVTNRT1U?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 12:17:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "How one millennial is building wealth by buying assets, not stuff - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV2d2eDd5aGxTV0VyOW5RS1JnaWpaejBHMDhQc3NqdkIyVjNnSVFGX09aUVIyazRMbklncVdOb1plOUdUMjZqRUNIU2FpNnU5b2I2ZEhNbUdqRjdZYWpjLUNSRXVkMVFmQ2lPaVg4aDdKRnNhM2RMZlR4bzJ0UlBxODMyZ1pZRV83OVlLOW1MWjBHaGo1WWxZVjZQSHUteGh3R0lmVjRYOEV0Z0R0bDM4Szdlc2VXcDIzR1d4QkFB?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 12:08:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump's favorite 2026 campaign target is Biden: nearly 900 mentions and counting - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWno0QS0wT0lLX3p2S1owR2lyOEhtR1FoZTBmX3NBNnYwYkNHQjhNaUtHbFlhNTRmMlI4UGtaOEhGR25mSk9MVjI1U1IycENiWDVodUUwTERMWE16OWEwaHVnbXVfSGExZS1pX29CZTFxdDlkb1VaTEpuZ2tqMzAyUkxSYTdTQTRHQ0ZjYXJmMWlFRTM3WTFFbWxiaERlaE1haGMwOTYzdFRlR0UtQUQ5YnA0SmhRZ295a2Z3YTA4UDhkSzZBREE?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 11:59:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T14:00:20.768Z"
+      "updatedAt": "2026-09-21T14:25:18.026Z"
     }
   ]
 }
