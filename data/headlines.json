@@ -1,38 +1,32 @@
 {
-  "fetchedAt": "2026-09-21T11:25:17.216Z",
-  "lastChecked": "2026-09-21T11:25:17.216Z",
-  "lastUpdated": "2026-09-21T11:25:17.216Z",
-  "generatedAt": "2026-09-21T11:25:17.216Z",
+  "fetchedAt": "2026-09-21T11:50:32.066Z",
+  "lastChecked": "2026-09-21T11:50:32.066Z",
+  "lastUpdated": "2026-09-21T11:50:32.066Z",
+  "generatedAt": "2026-09-21T11:50:32.066Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-          "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 21 Sep 2026 11:15:41 GMT",
+          "title": "Seven Ethiopian rebel groups form new alliance",
+          "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 21 Sep 2026 11:46:39 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Three arrested in South Africa over one of nine women's bodies",
+          "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+          "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 21 Sep 2026 11:42:35 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Three arrested in South Africa over one of nine women's body finds",
           "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 21 Sep 2026 10:35:01 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Seven Ethiopian rebel groups form new alliance",
-          "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 21 Sep 2026 10:29:34 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-          "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 21 Sep 2026 10:00:31 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Inside a camp for Yemeni refugees who have fled to Djibouti",
           "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 21 Sep 2026 10:00:31 GMT",
           "source": "BBC News"
@@ -54,14 +48,26 @@
           "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 21 Sep 2026 07:01:25 GMT",
           "source": "BBC News"
+        },
+        {
+          "title": "'No surprises' as results emerge in Russian parliamentary election",
+          "link": "https://www.bbc.co.uk/news/videos/cjp30pq0rx6ro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 21 Sep 2026 06:58:30 GMT",
+          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T11:25:15.940Z"
+      "updatedAt": "2026-09-21T11:50:31.201Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
+          "link": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
+          "pubDate": "Mon, 21 Sep 2026 07:24:27 -0400",
+          "source": "NPR"
+        },
         {
           "title": "The data center backlash is reshaping American politics — one community at a time",
           "link": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
           "pubDate": "Sun, 20 Sep 2026 17:53:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
-          "link": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
-          "pubDate": "Sun, 20 Sep 2026 17:39:24 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T11:25:16.223Z"
+      "updatedAt": "2026-09-21T11:50:31.521Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,7 @@
         {
           "title": "CNN, MS NOW, Politico say they've notified Trump they're suing over denied White House access - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE9ZY3hqOG5XR0ZGUkR6cHNrV3BNRUhtTDljRUZBdzhXUDVoSk1HeHRtRHltR3hpSXFkbG1qVndtUkJmVTFPOUU4VVVOUG9hcWx5X2x4NnhKRml3aThkQllIVWFaT04xTGh6UE4yZHdFanVQTDJkQ2NwczQ1N1VYYnlQdnU2UWlZT1k0aHBzVW5PN19lNkkxcnJydw?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 10:35:00 GMT",
+          "pubDate": "Mon, 21 Sep 2026 11:25:00 GMT",
           "source": "AP News"
         },
         {
@@ -130,9 +130,21 @@
           "source": "AP News"
         },
         {
+          "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDNDazNXMFFxamlNa0U3eGdIWUROLTlNZU5lSElwaXhMdEpQUm5yV3VLWnFlbi1RM0hNTHpKMHB4MXEweDZ6empja0c3cHE4dzlPWm4xek13QXZsMlF0MVZxYWNmZ3pRZ0oxQWFNZW9rSW9oM3hUNjJYUld4SURDclhxYkJETzhGYTNPdzl6SlVKOGtvM2lSaWplTDlBUXpmdXc?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 10:13:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Can 'A Different World' sequel change lives like the original series? Hillman is back in session - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWW1mWlV6Q01ISmJ3S2ljaEUxOUwtS1Nid2xCRkJIZklTSEZNdTU5LW44ZmpBUzdMSjVhZTZqTmpwVDRIZ3pSZHAyZ1dnM1ZXaTVoQ01nOFJiSEI2dzNIdVJnMzA3dm9aQTBHT1BkQ29XMUhnekdON2ozUkJ5dXFHZ0pCZ0VpdjNSWTJ3Sg?oc=5",
           "pubDate": "Mon, 21 Sep 2026 10:13:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Germany’s Merz struggles to stay on track after humiliating regional election defeat - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaURPdk9VeXV2WGUxVjZTVjdtOEZqZm9oNzJFeG04U1RsSlNzWTNEcVF1R2JmcEVlbmNJV3F4OEZrNzkzWkYwbkxTaGFPd0Zlb05zM040TzlOblQ0RW9MRlFPRXVtUmlpal94RDVfSVRwQ2VkUFg3U0VIM1lrSVNiTVZXV2xBclpOaF9NZ2JQX2dFZFZVcWVSelZMSEFfejNncUE?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 10:06:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnkwWDdOcUZPdjNXTjlTbWVwUUxzUTBVVklabDZtS3p3MTJ4SjhHdW45aGhCdndPSjFqRW9zVk1HYk9lZElLcGs4clBoaWlzWjhZc2FjUUdLVVhLcDhybVRaeXNFaEJKSTRCTmZqYU9JdXBhaEp5WlFHUTRWMDBlNHhIQ2RmNEo2Y2lqaVR0SjY2YllzWHVTT1BQWDQ0MUpOY0dmY3gtMnRwUkU?oc=5",
           "pubDate": "Mon, 21 Sep 2026 09:45:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFhmWUhBTDJYenBSd1lHMVNabkFQVG12Q2lVQ21hNDdKUl9jRE5ZMW5GcXc3UHhobnE4cHdqblpaRjN5d3h1eDFZUktaYmkyNEREMGpkaVZtY2Y0R2lYU1dwZVJxdy1sS1UtaFZGQW0yWDVqa3VsTERsWnRsTWFqNFhhd1NIWlAyZU5qRzc0dmljcGtzLXFR?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 08:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "As Russian strikes destroy millions of books, Ukraine’s literary future hangs in the balance - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV08zM3UxQ1oxcXV3UlBWZzlVX1pUZDNtSFlrRS1hMnBLOEhLa1JwaGd3ajJHdTJxY3dRekNLVWpHZkxsLWpKb1BJT19EQzl2QlJyUVBqTEVLUEZqMHZGM1A5RllfdG9OcmRSY2hNSThNd0xiNEVoNFIxNFZ1aG1STmRsalkxMVpjaDJXSFVuM2VVVHU4dTBF?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 08:30:35 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T11:25:16.755Z"
+      "updatedAt": "2026-09-21T11:50:32.046Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Denmark says NATO shares responsibility for Arctic security under Greenland deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3B2X0hTRmlsNkhMcVZYRF8zOEZWMFpQLUtPMkExQzJ1UUEwdS16S2h0bklnNDIzcm9NTC1Ja0thVllkTmJad21EM3ZjQjUzVGtUZ2p4VDBZRHd0QmNWMWhmRTQwR2N4QnhYaUpsVXVBd2E2bEZQeXN2Z0pzYWc2cVY2dE1ZNGFyUUJfMFdGTHRYRzdPMElNOS02SFhwU0w3djlaOGhDUlEwRUFEVHFkN0xXdGNHZFBha0dmTmhLc01ic00?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 11:07:19 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "New air traffic control failure delays flights at some UK airports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMEd1cUpBNXFYeDhkcWdXWWFuX1o1cDVkZmRDUzVxRkowMEdkaWN1OVpNS1ZMOEdxRlo1V3p6ejF0VXljbUlKeUlzTm4ycldLTmtGVmZicHJxRU9tYUFaZy05eXNvRzZiS0VfQVNUdUNkdV8zdzR3WlAyRF9JVm0yb1FjSkRYb1h3c2g3X0hpVXZjN1pObEJXRHEyN3E2LWJjZjVZTVI2YU9hRktZc2Z0Q3RsRVZxOU9BdC0wY2tieWtoeEk?oc=5",
@@ -191,15 +197,15 @@
           "source": "Reuters"
         },
         {
-          "title": "SoftBank launches $11 billion bonds to fund OpenAI investment - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFpJSWkxMGJsX2cyM3pnVGxFdi0yU3BIRHd0RUM0MUZwWE42WTJhVmwwLUNQUkNhakRLQW1xZWlSMTRWZElIZXNQWFZEbWdpX1Z0aXctRzkxT1VvdlhxZFBSclJNQzlFSUM1cXc4by0yOU51bmZDYUxhdi1GS0RLbzB1VUpqMVRoeGpVTkRjSTltcEdtdldZVldpQ1RtcFJmdkl3VGowWll5cmxFSHE4SnVzOGVYWGEzZDhPOTNDSzNUZ2MxeExISmVyS1FwY01pc1dlcDdR?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 10:28:03 GMT",
+          "title": "ECB opens blockchain link to financial markets - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZUplN3d1UkJIeE40bnNjTHZjNk5qcThPM3JXSW8wNU9QSnhWLXRGTFpsZnVvV1dpZ0h5WFA2Qlk1MndSLXExVlBDeHN2eUxIV0szTFN0bUlGM3FOa09pek92S1haR2lRRHRYd0NJQXRlUXhLQ3NnTWJ2Tks1TEhyaGhvSEU4UVVkOXJmZ3pnNUhvR1FFVnBvSmRkcVc?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 10:26:51 GMT",
           "source": "Reuters"
         },
         {
-          "title": "COMMENTARY: Hormuz shuttles keep oil flowing, but at a high cost - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1ZqYkdEeGVjVmotcmtLNWlndkR4bTgzYzlVVThwZ184TG9oX2U2a0ZhYXp1QXZKSnNiT0ZrTngzS1N3OUczT2ZSSFNYUjRPb0VuaEZTcnpDQ0JYTldvMXBlaVRXbU1laHpPUlpSanNXb0pNZnRPcktpVGFtc1h0WG9RMlhMSndOelVoQzBXQmZKbjd5SUZIZEl0ZEl1S0R3VEV4aUd6VlVqMmJQVjE3Wg?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 10:02:16 GMT",
+          "title": "Global diesel shortage likely to last into 2027 as storage tanks drain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUROTUZDbzRZN3VncG9haUs0bGR6TFhhQ3JZTEYzZzUtVE5BV3c2SGE3dVFzN2JRS0xfYUcxdW9zay1yXzBXakItRDM4SnhYb3FudmdISGlhVGsycDhhY0FxazdVU21HdW9oQXFSckF6YlVETl9wSzJhbEM1LVlFZGM2VEpJbUZlcVY4bGs4aV94Qmh4Z3ZpTFRibVItNHFfWk8tSXhlb3hMRng2VHlmdHBMYnEwVWs?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 10:17:57 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGNFNDVTLUwwZDdXdnpDaU5McG16Z1lmVHFuSUxZamw0Qi1OUnF1QkRfZzNxb1VoVDhFOUhTY2h5ODFuZnI4bTg5YWJiUWlWWTFFU3lQR3JwYkhzOE5xSFdrWk9qY0FBcVRFUXMzbHlfY3MyTGtGaEhUeUljWktmaWVrMzZfNS1RNTBoTQ?oc=5",
           "pubDate": "Mon, 21 Sep 2026 09:51:09 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "China's Xi chairs Politburo; Central Committee plenum set for October 26-29 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOF9pcllELUZ5ZUd4b3BRRE9DaEVKeW5SbHdZRUxmelZnaEIzRzItYmhPcXQ3NDFrR3VfdFlKd2d4dnc3OWR3TjBobXFBSjd0Um95c05oaE12OTA0ZUFjUzJBSWJGcVBzWVFleXJHRDhaZll3ZEo0VkZHVlczUWM0OURVb3NQMkdaMXgwSzlvVHpLZmxqZkhMTG9JNkVjb2phTDJSZTdfRzNWWjdfVURKeXJxV0pFNGs3QzNyQWQ5X19yQQ?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 09:49:08 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T11:25:17.216Z"
+      "updatedAt": "2026-09-21T11:50:32.065Z"
     }
   ]
 }
