@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-21T15:25:17.019Z",
-  "lastChecked": "2026-09-21T15:25:17.019Z",
-  "lastUpdated": "2026-09-21T15:25:17.019Z",
-  "generatedAt": "2026-09-21T15:25:17.019Z",
+  "fetchedAt": "2026-09-21T15:50:16.626Z",
+  "lastChecked": "2026-09-21T15:50:16.626Z",
+  "lastUpdated": "2026-09-21T15:50:16.626Z",
+  "generatedAt": "2026-09-21T15:50:16.626Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,13 @@
         {
           "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
           "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 21 Sep 2026 15:19:27 GMT",
+          "pubDate": "Mon, 21 Sep 2026 15:28:07 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Xhaka under investigation over Covid-19 certificate",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 21 Sep 2026 15:24:51 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 21 Sep 2026 13:30:45 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
-          "link": "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 21 Sep 2026 12:30:54 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T15:25:16.002Z"
+      "updatedAt": "2026-09-21T15:50:15.457Z"
     },
     {
       "name": "NPR",
@@ -112,70 +112,100 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T15:25:16.085Z"
+      "updatedAt": "2026-09-21T15:50:15.658Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "CNN, MS NOW, Politico sue over denied White House access, citing First Amendment - apnews.com",
+          "title": "CNN, MS NOW, Politico sue over denied White House access, citing First Amendment - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE9ZY3hqOG5XR0ZGUkR6cHNrV3BNRUhtTDljRUZBdzhXUDVoSk1HeHRtRHltR3hpSXFkbG1qVndtUkJmVTFPOUU4VVVOUG9hcWx5X2x4NnhKRml3aThkQllIVWFaT04xTGh6UE4yZHdFanVQTDJkQ2NwczQ1N1VYYnlQdnU2UWlZT1k0aHBzVW5PN19lNkkxcnJydw?oc=5",
           "pubDate": "Mon, 21 Sep 2026 15:01:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Stock markets climb worldwide after oil prices and bond yields give back some of last week's jumps - apnews.com",
+          "title": "Pakistan says airstrikes in Afghanistan kill 28 militants; Kabul reports 3 civilians killed - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVh3aU1udV9wY1RJQzlCTGhUSjE0NmplSjdvTDhmN3phXzZ4ZUdDcFpIQVNKQlVhSm04eE1aWVBHeXp2RExjWDNiaDRfcDM3dDkzcGZpSWxJblF0LTNQeGJWVFR0dFFHTUtyVEdUQmtFYTN4MVRUMU1UOWljNzNQVFNXNldQVmhMYlFBc2ZIOHQ3QlZSU0hyTndRRk84bzgtZFJUYTNNNEIwR3M?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 14:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Second technical issue in 2 weeks afflicts UK's air traffic controller, prompting more travel chaos - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnkwWDdOcUZPdjNXTjlTbWVwUUxzUTBVVklabDZtS3p3MTJ4SjhHdW45aGhCdndPSjFqRW9zVk1HYk9lZElLcGs4clBoaWlzWjhZc2FjUUdLVVhLcDhybVRaeXNFaEJKSTRCTmZqYU9JdXBhaEp5WlFHUTRWMDBlNHhIQ2RmNEo2Y2lqaVR0SjY2YllzWHVTT1BQWDQ0MUpOY0dmY3gtMnRwUkU?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 14:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Stock markets climb worldwide after oil prices and bond yields give back some of last week's jumps - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDNDazNXMFFxamlNa0U3eGdIWUROLTlNZU5lSElwaXhMdEpQUm5yV3VLWnFlbi1RM0hNTHpKMHB4MXEweDZ6empja0c3cHE4dzlPWm4xek13QXZsMlF0MVZxYWNmZ3pRZ0oxQWFNZW9rSW9oM3hUNjJYUld4SURDclhxYkJETzhGYTNPdzl6SlVKOGtvM2lSaWplTDlBUXpmdXc?oc=5",
           "pubDate": "Mon, 21 Sep 2026 14:19:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Russia targets Zaporizhzhia after Ukraine launches 1,000-drone weekend barrage - apnews.com",
+          "title": "Russia targets Zaporizhzhia after Ukraine launches 1,000-drone weekend barrage - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2E0aW9GSXJtb3RpeW9sWTNOVUxsQVpsZ2V1d1lFZkFubTFSMzhNMENTTnVXVlFaU3k2ZnFDbm1WRTVERkNycmwwLV9LU1cxLVkwRnBGbkc1cTRkamE1ZVVaYVpzLXA3Qlhjckh6YTQxR3RHNzJkNmRkaTBMOE1mb0ZZMWlNV1VydXlDQUJld1lkT2dyU3E0bW1fbTczMlJ4UlE?oc=5",
           "pubDate": "Mon, 21 Sep 2026 13:52:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "There’s an easy way to get rid of all the reusable bags piling up in your home - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzN3LVFpejJYSUxkNEk4S0Rjcm5MWGt6VURpcHlObGREUmdJQjdsU3M4UXdJTWtVMHlVQmdmci1iMEdPa3k3ODcyVkNzSGxOTzRHc2VXdG4xRkdMSnE0U2FvcVVfR0F5NlljTTI1STlPbjQxOXZiVTdWTElLdjh0aEdrTmtYUnR0WjdoT2tXWHg0VXFFM3BUaVJoMU9lUjNXR2JTR2JlZXV0Ui1TcVdUQlF5ZU8?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 13:45:00 GMT",
+          "title": "Ethiopian opposition groups unite to mount challenge to prime minister Abiy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkNWOXVlUENaT05HbUEzTlhSSnZXUXpJSklsZjY1U0I1cDlWZ2hqUGJpX2p0UmNZdXFRdXRwTl9iakdMWkVydWxDSTZKdW02T1FtZHpQbGNnc3dxdEE2TmIyZXRBMVRvLW1kTU5RZEN3QlM4QXlMZUFBQWJzQVdCYWk1RGwxQnZLNFUxVzdpMGhMNGxUTTQ0QUx1SXd2dkRMal9Ud28tQW1pWTBM?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 13:32:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "German leader faces tough time ahead after election defeats, but no sign of leadership challenge - apnews.com",
+          "title": "German leader faces tough time ahead after election defeats, but no sign of leadership challenge - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaURPdk9VeXV2WGUxVjZTVjdtOEZqZm9oNzJFeG04U1RsSlNzWTNEcVF1R2JmcEVlbmNJV3F4OEZrNzkzWkYwbkxTaGFPd0Zlb05zM040TzlOblQ0RW9MRlFPRXVtUmlpal94RDVfSVRwQ2VkUFg3U0VIM1lrSVNiTVZXV2xBclpOaF9NZ2JQX2dFZFZVcWVSelZMSEFfejNncUE?oc=5",
           "pubDate": "Mon, 21 Sep 2026 13:28:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "World leaders in New York to grapple with climate. Fuel prices, AI and disasters complicate things - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaEE1bjlaME9fOXRpcmJBNGpnUFpWZmM5R1U3SDdTQTJRSzVvaTRZLXEyU21GekYzYjdqYTRjUFJHM3gyRU5vcFpVZWFhbXZHMEZOaEc0WWd6eGJOek9MYk53TmdmaXM3cHl3bmJwQTB2bEFLUmZIbkJjcHZFZFl1NjY3bFFYb09LbkhXb3ZFZzNwVExfMmI3Vm96Z2w?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 13:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Tiny wild cat newly identified as a species draws curious visitors in Bolivia - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHVWM2xHWk1uTnZ2OWhzcWxiOFVycXFKbXJHRlJBNkFadzVRUERMZWxBNGlsY1VzNUVCSkpWelFGUnY1UU00M1pISXVudjlsdUJwcjN4OVFpMDU1Wlg5MC1ZVEt1MXJNbjMtZWx0LVJ5V1lWRUZmZ05yM3M2aG9QeGgtalFuczZ0X1BjSEw1T1BVRnJtanpZTG9xOVcxeFN3NDJGTEg5OA?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 12:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Second technical issue in 2 weeks afflicts UK's air traffic controller, prompting more travel chaos - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnkwWDdOcUZPdjNXTjlTbWVwUUxzUTBVVklabDZtS3p3MTJ4SjhHdW45aGhCdndPSjFqRW9zVk1HYk9lZElLcGs4clBoaWlzWjhZc2FjUUdLVVhLcDhybVRaeXNFaEJKSTRCTmZqYU9JdXBhaEp5WlFHUTRWMDBlNHhIQ2RmNEo2Y2lqaVR0SjY2YllzWHVTT1BQWDQ0MUpOY0dmY3gtMnRwUkU?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 12:57:00 GMT",
+          "title": "The main Kremlin party keeps control of Russian parliament after a carefully orchestrated vote - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ05fR0hrZmxXLTdfUkNHTGFMeG50YUhiR05RSzB1aGZNcXd4dUdXSWQyQXpyM3NydjZBX2JidGdyMU9uVzhYZEtTOWlUMGNpdnVTSnp5Y3BwRjc3RWlVMEFuVHdhNXFJaXlnWEd2RW44V1JOSU1kcERCc2hOb0diQW1ReXA3MzVoOWhvalEzUW85RzBN?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 12:54:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T15:25:16.593Z"
+      "updatedAt": "2026-09-21T15:50:16.181Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Erosion of Germany's political centre exposes Merz's weakening grip on power - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOF9NaTFKQU94aFgwRVlnX3ZGclFlN2pCaDRKUzhDOXdQOHF6V09uWlhhLWl0UzFGTEpUOFA5MlZKMmVfdXVReG5OS080RmktOXRtWFZHMVdQeVVENGRYQVFzR0NLb253TzRjVVBRMlhISFVaRVZ2eVMxY2oxckZUcVJoejhUN2k1bF9rSHBSelZ5SFpLZ3ZUZV9pZ2xrYWlJTmsxZTd3dmUwSmo1Zmx4ZjhvR1huaTQt?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 15:40:23 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Houthis push for control of Yemen highlands as Trump is said to have called off strikes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbHBmWjNkMFR2Skw0MWVFaENxamFwbXN0RGxRei1RenlFVk11R1loSlZtdm16SW5ITGFMalY1bkNBOUVONnVVdENtbDZSdzByT0l0NkJiZUlSSzBvRHBBNWxKd01ja09Eb1Nla205aW5oQkxGVGpiUjZQUTJVYy1EWGx6R2JPN2pGWXVUU29CQ1ZyQmpSMWlzQ1VYUzhidC1SZ3VSMFhyVndUYUZYTXItOGgyTktsQnV1QW1ETzN4NnI2eWhZMXhoZ1h4eEU?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 15:26:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Paramount settles with US states in big step towards closing Warner Bros merger, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPenhoaTR3UW55VHltMmhpTEhhZmNHN0FJQ0VNSTBzLUVlVXozLTVSc012RlNUZG5tbk1NVXBqOXhmVU9wN2N4V0Q2ZWY1OW9HSXFVLVZjSG8tYnlhcXRxcGhOajR2SVh6TEZSM1k0QnZpam53bnAzd0Q1Q2s2N1VxanJnWk9zdWRTZkxiekJ4LWtkTzA5VFFmMzA0SU0tVzFBX3RzZHBPN1FFZWhxYmE2ODIzLVAyY0JBa0dkSVlxU1hpUnFpUzZvREJWeHRPUQ?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 15:04:06 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Warner Bros, Paramount rise on report California settlement talks could clear merger hurdle - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbEUwclZPazRvRlB5dHQzNkNGVUhicFZBam5neXMySTM1cFR2QmJGMXg1OU9uVnN6ckxHWWNRT2toWDZCekNZUGpiem5ZVnhBU3E1NDBaTkJ2ODhQUW5BZ1FHQS1FWnh4WXY4SDNsYmpKcnNLanhBdnROcGxYbFpEdFJfSjk0amNFMDVhdXhaRmVZQ0FmbktaLUdKbE5kY0NyU1N6WUxxRHdNanhyVWVWTDNlVFFBdGJ1XzNrQTUwQnBTMlJ6MFY4ajFWM1FPb2hmdkE?oc=5",
           "pubDate": "Mon, 21 Sep 2026 14:42:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "AMD joins $1 trillion club as chipmakers rally on AI-driven demand - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJSWFBacFZ6Y2xjRGFmeFBLLS02aTN5LWV1RWpLbWNtSXpQS3dGRF9OZUVYendmWTNxQnJqdHh6dEpIRWcxTnlFY0JXeVM2YXF3cTgwTmFxRjlYWm1oWFN5bFJFM3p2Y2twQ0xvTVFZb2NMQmNtdF9lX3dNNG1nR3l3dXg0OU1XX19pckx1cnBNNXlfeDJfTnVkSVhJbEpyTXY4dVdWalBQVkdSWDhn?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 14:41:11 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "AI stocks lift Wall St as oil falls, Treasury yields decline - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 14:31:38 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "AMD becomes latest chipmaker to reach $1 trillion valuation on AI demand - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJSWFBacFZ6Y2xjRGFmeFBLLS02aTN5LWV1RWpLbWNtSXpQS3dGRF9OZUVYendmWTNxQnJqdHh6dEpIRWcxTnlFY0JXeVM2YXF3cTgwTmFxRjlYWm1oWFN5bFJFM3p2Y2twQ0xvTVFZb2NMQmNtdF9lX3dNNG1nR3l3dXg0OU1XX19pckx1cnBNNXlfeDJfTnVkSVhJbEpyTXY4dVdWalBQVkdSWDhn?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 14:21:44 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "New air traffic control failure delays flights at some UK airports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMEd1cUpBNXFYeDhkcWdXWWFuX1o1cDVkZmRDUzVxRkowMEdkaWN1OVpNS1ZMOEdxRlo1V3p6ejF0VXljbUlKeUlzTm4ycldLTmtGVmZicHJxRU9tYUFaZy05eXNvRzZiS0VfQVNUdUNkdV8zdzR3WlAyRF9JVm0yb1FjSkRYb1h3c2g3X0hpVXZjN1pObEJXRHEyN3E2LWJjZjVZTVI2YU9hRktZc2Z0Q3RsRVZxOU9BdC0wY2tieWtoeEk?oc=5",
           "pubDate": "Mon, 21 Sep 2026 14:20:22 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Fed's Goolsbee says strong demand may be adding to US inflation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0hYN2ZsV3h2enhYZkdSaVlTUFRLQnFaNnRmYVJ6LTZxdGN1SGowVDdHUUNRR3pCdXExRG9MdGFRN0dlWEdnWTVfd0NaWnRDRFo5T0pZSnZmRnJWdWxqdEljUVV3LUItRjdjbF9uUzBucjNUeWNBdlZXMDdWbE42elpySFJ6eURzTm02S0xqQWQ3bVFrVU4xLUp4MlpicnN6c19Qc1JTQzVUc1ZBVkVYV2wwS3BwRHNyZXZsZw?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 14:14:26 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wegovy maker Novo shares slump as management grilled on pricing, M&A - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWVdfNThTY1JLTGswZXZGa0hSV0RoVnNOOTRoTUpNRUtXd3loTkpnVnBUMWJkaE5KMzNvMXFaanZnODI4XzNxYkFRUDlIaXB0blY2cUZONVVHNDl0UHBnQ2FzOGRyZkNxbnV5eVpWU3R0RF9CRkVMVlZiYU1yYTRDbFNYQjFTWFBxSjlWWC1tZHM4dk1Hbk05djBCeXp0ODVpbzRpRU5RbC1ieldwNEpyOUltVEJhdzNEdnpYQ2lTckZnVkFIS1E?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 14:10:25 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Pro-Putin party gets record 355 parliamentary seats, anti-war party a tiny regional foothold - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTU1fNXJKdjF2TkdlSEtWS1hEXzBTM2JIR2lSUHVhZTdBWmNnWk9yLTV4aG9HbFdtTU4weHRxakoxSUJQd2tCT3NadjZQTUdZbHBPQlFUaVRfM2VxU3NweTlJZThveGhJT1JVcFpzN20tMzJKcjVPUEpabVhkNlFBNDdjc1o4ZkRLdzlSWllkdk1ESlRILUdzdVFNOGxCLTI2OHhSdUd3cHhkeWcyejEzOXBOUVVKNmJkenI2MGRn?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 14:09:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Houthis push for control of Yemen highlands as Trump is said to have called off strikes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbHBmWjNkMFR2Skw0MWVFaENxamFwbXN0RGxRei1RenlFVk11R1loSlZtdm16SW5ITGFMalY1bkNBOUVONnVVdENtbDZSdzByT0l0NkJiZUlSSzBvRHBBNWxKd01ja09Eb1Nla205aW5oQkxGVGpiUjZQUTJVYy1EWGx6R2JPN2pGWXVUU29CQ1ZyQmpSMWlzQ1VYUzhidC1SZ3VSMFhyVndUYUZYTXItOGgyTktsQnV1QW1ETzN4NnI2eWhZMXhoZ1h4eEU?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 14:08:19 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T15:25:17.019Z"
+      "updatedAt": "2026-09-21T15:50:16.626Z"
     }
   ]
 }
