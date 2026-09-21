@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-21T09:00:21.283Z",
-  "lastChecked": "2026-09-21T09:00:21.283Z",
-  "lastUpdated": "2026-09-21T09:00:21.283Z",
-  "generatedAt": "2026-09-21T09:00:21.283Z",
+  "fetchedAt": "2026-09-21T09:25:23.587Z",
+  "lastChecked": "2026-09-21T09:25:23.587Z",
+  "lastUpdated": "2026-09-21T09:25:23.587Z",
+  "generatedAt": "2026-09-21T09:25:23.587Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Three arrested in South Africa over one of nine women's bodies found",
+          "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 21 Sep 2026 09:18:19 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
           "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
@@ -48,20 +54,44 @@
           "link": "https://www.bbc.co.uk/news/articles/cq5yme200n8go?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 21 Sep 2026 05:52:57 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-          "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 21 Sep 2026 05:50:56 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T09:00:20.306Z"
+      "updatedAt": "2026-09-21T09:25:22.118Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Many GOP candidates still echo Trump's 2020 claims. Lots of voters want to move on",
+          "link": "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026",
+          "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The data center backlash is reshaping American politics — one community at a time",
+          "link": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai",
+          "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "What to know as world leaders converge at the United Nations this week",
+          "link": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
+          "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "German chancellor stands his ground after his party loses in state elections",
+          "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
+          "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "This farm raised thousands of pigs for slaughter. Now it's growing mushrooms instead",
+          "link": "https://www.npr.org/2026/09/21/nx-s1-5944503/iowa-hog-farm-growing-specialty-mushrooms",
+          "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "18 suspects accused in the 2021 killing of Haiti's president being extradited to U.S.",
           "link": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited",
@@ -79,48 +109,36 @@
           "link": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
           "pubDate": "Sun, 20 Sep 2026 17:39:24 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
-          "link": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
-          "pubDate": "Sun, 20 Sep 2026 13:29:29 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
-          "link": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones",
-          "pubDate": "Sun, 20 Sep 2026 11:05:47 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "PHOTOS: The precarious life of fisherfolk",
-          "link": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
-          "pubDate": "Sun, 20 Sep 2026 08:24:02 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "The capture of Western Yemen is making the country's humanitarian crisis worse",
-          "link": "https://www.npr.org/2026/09/20/nx-s1-5973884/the-capture-of-western-yemen-is-making-the-countrys-humanitarian-crisis-worse",
-          "pubDate": "Sun, 20 Sep 2026 08:05:42 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
-          "link": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
-          "pubDate": "Sun, 20 Sep 2026 07:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T09:00:20.352Z"
+      "updatedAt": "2026-09-21T09:25:22.276Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFhmWUhBTDJYenBSd1lHMVNabkFQVG12Q2lVQ21hNDdKUl9jRE5ZMW5GcXc3UHhobnE4cHdqblpaRjN5d3h1eDFZUktaYmkyNEREMGpkaVZtY2Y0R2lYU1dwZVJxdy1sS1UtaFZGQW0yWDVqa3VsTERsWnRsTWFqNFhhd1NIWlAyZU5qRzc0dmljcGtzLXFR?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 08:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Pakistan says airstrikes target militant hideouts in Afghanistan, killing 28. Kabul says 3 killed - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVh3aU1udV9wY1RJQzlCTGhUSjE0NmplSjdvTDhmN3phXzZ4ZUdDcFpIQVNKQlVhSm04eE1aWVBHeXp2RExjWDNiaDRfcDM3dDkzcGZpSWxJblF0LTNQeGJWVFR0dFFHTUtyVEdUQmtFYTN4MVRUMU1UOWljNzNQVFNXNldQVmhMYlFBc2ZIOHQ3QlZSU0hyTndRRk84bzgtZFJUYTNNNEIwR3M?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 08:20:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDNDazNXMFFxamlNa0U3eGdIWUROLTlNZU5lSElwaXhMdEpQUm5yV3VLWnFlbi1RM0hNTHpKMHB4MXEweDZ6empja0c3cHE4dzlPWm4xek13QXZsMlF0MVZxYWNmZ3pRZ0oxQWFNZW9rSW9oM3hUNjJYUld4SURDclhxYkJETzhGYTNPdzl6SlVKOGtvM2lSaWplTDlBUXpmdXc?oc=5",
           "pubDate": "Mon, 21 Sep 2026 08:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Germany’s Merz struggles to stay on track after humiliating regional election defeat - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaURPdk9VeXV2WGUxVjZTVjdtOEZqZm9oNzJFeG04U1RsSlNzWTNEcVF1R2JmcEVlbmNJV3F4OEZrNzkzWkYwbkxTaGFPd0Zlb05zM040TzlOblQ0RW9MRlFPRXVtUmlpal94RDVfSVRwQ2VkUFg3U0VIM1lrSVNiTVZXV2xBclpOaF9NZ2JQX2dFZFZVcWVSelZMSEFfejNncUE?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 07:31:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,40 +160,34 @@
           "source": "AP News"
         },
         {
-          "title": "Explosion injures 3 South Korean military officers in border area with North Korea - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFhmWUhBTDJYenBSd1lHMVNabkFQVG12Q2lVQ21hNDdKUl9jRE5ZMW5GcXc3UHhobnE4cHdqblpaRjN5d3h1eDFZUktaYmkyNEREMGpkaVZtY2Y0R2lYU1dwZVJxdy1sS1UtaFZGQW0yWDVqa3VsTERsWnRsTWFqNFhhd1NIWlAyZU5qRzc0dmljcGtzLXFR?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 05:42:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Christian McCaffrey joins elite company with his 100th career touchdown - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlExWmJoTS1fR05mR0lxd1lJOVo3LWVSdzJBUVE4WFhDMXpacnRFTHFiLU1jMF9MbDA1N0hPalBNdHFkc1NoMFktZVdEWC1QaGU3ZXlsTnQtaUpLM2N3X0piSXZEU0lHNlFyUlI3TWdtcTByZjFtTHZHR2VTUU1ZTk1SelV5aEppWFdQNnp3?oc=5",
           "pubDate": "Mon, 21 Sep 2026 05:39:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Pakistan says airstrikes target militant hideouts in Afghanistan, killing 28. Kabul says 3 killed - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVh3aU1udV9wY1RJQzlCTGhUSjE0NmplSjdvTDhmN3phXzZ4ZUdDcFpIQVNKQlVhSm04eE1aWVBHeXp2RExjWDNiaDRfcDM3dDkzcGZpSWxJblF0LTNQeGJWVFR0dFFHTUtyVEdUQmtFYTN4MVRUMU1UOWljNzNQVFNXNldQVmhMYlFBc2ZIOHQ3QlZSU0hyTndRRk84bzgtZFJUYTNNNEIwR3M?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 05:35:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Germany’s Merz faces struggle to stay on track after humiliating regional election defeat - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaURPdk9VeXV2WGUxVjZTVjdtOEZqZm9oNzJFeG04U1RsSlNzWTNEcVF1R2JmcEVlbmNJV3F4OEZrNzkzWkYwbkxTaGFPd0Zlb05zM040TzlOblQ0RW9MRlFPRXVtUmlpal94RDVfSVRwQ2VkUFg3U0VIM1lrSVNiTVZXV2xBclpOaF9NZ2JQX2dFZFZVcWVSelZMSEFfejNncUE?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 05:35:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T09:00:20.847Z"
+      "updatedAt": "2026-09-21T09:25:23.149Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "German auto workers stage protests as Volkswagen profit warning rocks sector - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbERrR3paS0tzd3Q2LWVEendteThyV0dSeF9qQk9rbUZUY3EzMFE1WjhNV2E5b1JCNjBBaU4wNEx5WWtrS2NtRjJQTGNQT2ZKWm1Pd3NVbWtKMEZaR195Rjl3cGZJRkNXY0hZZ1BJR081anZDSmpFazJvQzA0cU1TRmpBS19EVjZpWWdqQWRIOFFUREtTMnZ3Y3lRelYwbTN6WGJFMGxjUlBsWTJWSHc?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 08:31:44 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "At least three killed in Pakistani airstrikes on Afghanistan, officials say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUnNNQ0pjRUhkOVRfZ2EwNWN1WDBXWmgxNXlweDlWRzVqMTBfemRWT2x0NG5hRVdtSFowS0QwVld3MkdqZ2RLSWVuWE5KNjRxWVFlMXR1emZyTTZ4UFlkS2tQWmF0T0xlRExmQktSN2xha3hIZ0JPWTFJUUNORjc5LXloMWV6QS1SeE5oR2tzU01jNExMdXVTYVBDb1l6NzM3bF9SVWplQW1aZ1ZYcXdBMTdLdEhTNW5WV2g4U2hUQnA?oc=5",
           "pubDate": "Mon, 21 Sep 2026 08:06:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Denmark says NATO shares responsibility for Arctic security under Greenland deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3B2X0hTRmlsNkhMcVZYRF8zOEZWMFpQLUtPMkExQzJ1UUEwdS16S2h0bklnNDIzcm9NTC1Ja0thVllkTmJad21EM3ZjQjUzVGtUZ2p4VDBZRHd0QmNWMWhmRTQwR2N4QnhYaUpsVXVBd2E2bEZQeXN2Z0pzYWc2cVY2dE1ZNGFyUUJfMFdGTHRYRzdPMElNOS02SFhwU0w3djlaOGhDUlEwRUFEVHFkN0xXdGNHZFBha0dmTmhLc01ic00?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 08:01:31 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "COMMENTARY: Hormuz shuttles keep oil flowing, but at a high cost - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1ZqYkdEeGVjVmotcmtLNWlndkR4bTgzYzlVVThwZ184TG9oX2U2a0ZhYXp1QXZKSnNiT0ZrTngzS1N3OUczT2ZSSFNYUjRPb0VuaEZTcnpDQ0JYTldvMXBlaVRXbU1laHpPUlpSanNXb0pNZnRPcktpVGFtc1h0WG9RMlhMSndOelVoQzBXQmZKbjd5SUZIZEl0ZEl1S0R3VEV4aUd6VlVqMmJQVjE3Wg?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 06:00:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bangladesh raises fuel prices as Middle East conflict drives up costs - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUVJYzB5aVJ2VU1DelhrTTlyZ0hoY3NTTllWTlc0TE9JM3dxd0JVZ3NlS2hIUmw4cnN5VDE5STR5UjNpSDhxYWpWQXFuTVk2WS1JMFpoVVhoVlMxbEdNZ3hybnQ1UWkyaUlWQVVxcE1xZ2ZDMk0zQ3lRbndQX2Z2aEVfalJuY1BMbFMxV0gwY2RrZlFTQWV2MThMTWdUeXQ2WXRWREIzcVlOVmU5RFNPZ05RRG1QRXRzWHc?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 05:44:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China slows humanoid robot IPO rush as hype outruns reality - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSll2MnZ6OEFUQ3RlRERmYlhlSFcyaldhWEVGRlR2ZlF2UW8wQ09qdmc5NnFhQ3c4M296Q0F1aXRyRm11dnVqc2FlTkVybGZBQTJfZkY1NmQ2dW8zSGNrdm5VWUZXTmdaSzdLdVJRMWJuemM3VC15bU1CQ05YNHE5VXRmRjI4YkxocVZGTHpTVXRLajFkaVZra29qdXdxVnBOeXVHbzJ1aV81czBtV2c?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 05:14:44 GMT",
+          "title": "US coffee chain Starbucks plans tech centre in India, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV1Qyd2lOTk5VUDdnRzU2VU1RTEM5SlJ4MHloOGhjRlM2bUtUTkROb0J4V3JvNFA4U3N6VmM5U3laVFJqZUt1Mm9YRnZodWk3WkowOXoxaWk1dlFuWWdXM0h5emxlamItX3hHcTEzNVFKRGNRU1VPN0c1SDJPN1UySWFieDZ3ekxKQ21EQlJkdEVya29reHdLbXZTU3JRMFQtV1huYUxTalkxRkM1eU5MWVQxZmhxVGxnYXJGV3g1UQ?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 06:36:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T09:00:21.283Z"
+      "updatedAt": "2026-09-21T09:25:23.587Z"
     }
   ]
 }
