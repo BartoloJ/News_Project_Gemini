@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-21T20:26:21.621Z",
-  "lastChecked": "2026-09-21T20:26:21.621Z",
-  "lastUpdated": "2026-09-21T20:26:21.621Z",
-  "generatedAt": "2026-09-21T20:26:21.621Z",
+  "fetchedAt": "2026-09-21T20:35:52.507Z",
+  "lastChecked": "2026-09-21T20:35:52.507Z",
+  "lastUpdated": "2026-09-21T20:35:52.507Z",
+  "generatedAt": "2026-09-21T20:35:52.507Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 21 Sep 2026 20:26:41 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
           "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/videos/cm0j3224p6j8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 21 Sep 2026 16:52:12 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "London Fashion Week 2026: The five trends we'll see in spring",
-          "link": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 21 Sep 2026 16:23:25 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T20:26:20.182Z"
+      "updatedAt": "2026-09-21T20:35:51.374Z"
     },
     {
       "name": "NPR",
@@ -87,12 +87,6 @@
           "source": "NPR"
         },
         {
-          "title": "What to know as world leaders converge at the United Nations this week",
-          "link": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
-          "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Many GOP candidates still echo Trump's 2020 claims. Lots of voters want to move on",
           "link": "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026",
           "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
@@ -109,10 +103,16 @@
           "link": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai",
           "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
           "source": "NPR"
+        },
+        {
+          "title": "Germany's leader stands his ground after his party loses in state elections",
+          "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
+          "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T20:26:20.423Z"
+      "updatedAt": "2026-09-21T20:35:51.563Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T20:26:21.029Z"
+      "updatedAt": "2026-09-21T20:35:52.070Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Thousands of US flights snarled due to FAA telecom problem - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVk3MmpJODlBb0YxWTRJZ3I1V3BjOUpSOVd3ZWQwUVVHS3pmM1k0aEp5Znd0a21uRUVheW9PZHpOMzQweGd3djJTQVBLWGhFNEp1TnZCbGs0bHZzYzJrNVVIWUVOSDZwSDNKTWJWcjhfbHR5N0NWREgzb2NWX1VQYjhBY2kzVy1Ec3hSVXl3MWdrM1BIWkZKNzVXWEVKdFRveVE3R2hiMmZnZw?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 20:18:12 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Wall Street ends sharply higher as AI optimism reignites and Treasury yields retreat - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
           "pubDate": "Mon, 21 Sep 2026 20:01:13 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Grail rallies as FDA staff flags no major concerns for multi-cancer test - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONWRtR2NMaUZoaEItMzgydkNBejlKLTRFSGV3Z3lVU2lmZXlMdWctVE1wNnppLTBncXNSb1ZDWWhjV2p0VDhpR2RNRjJqc1Bpbm9DMUYwZ3R0SkFxdk8wdFE5ZmtHbndRT2tjRVZxZEdNZ3ZvY0Yxb0pPMlpLLVNObDNrbUU5MHUteXBqdzF3QWtWZUZoeEJ5V09lbW0xUlZYOWlQTGY2S0dKMmhSS2s5Zkxxem9OaTFaMlE?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 19:57:03 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkNGRnRoUWpnVUZ0dlktUGpKZmJDQ1J0Z1VwVFlJcjFmSWIwM0hGd0VRcU1kUXlDcXUxbGloZW9KZEVkY0VnVXQzMFc3SzJfZ0h3NlpYNUNMcFVVc3FmVVg5NlpKZEVQVnhlUXFnd1ZpaTJMTkxhaGxFRXRFZE9jNFJQcV9oTVQ0MWlXdEJWcXp5UTI3MXpnd0FnNTRia3JYUGxaYUJwbWV2TDVKUkdsSUZEMW9EMm1iQW1aUEFiUDc?oc=5",
           "pubDate": "Mon, 21 Sep 2026 19:19:44 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "OpenAI calls for US to take lead in global efforts to develop technical standards - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY1F1UlF0ZWNKMTNmQkF4d3JKTGsyU3liQUt4YkhCaHRrNDdnNnFPbWNrbVpwS0U0REV6SnRIenZmU3hndndTTG1ia0lHemR1RDIwcWo5aXBmcGlIUzdIZkd5VGNrUnlqSHduTmlXUGlKb3JmRC1URWpOVXFyY0NlVF9sa0RSWms1TEZLQVlxclBqNV9PS2V0VnpMNmNoNUg3NXJmQmtaZHdGYlkyaGV0SEZvRmZnMzQzUlJzem13?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 19:16:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says US is working on deal to purchase potash from Belarus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdnRicjFqSjZQb05wc0hHTUFFZXRxTk03VlRXMll4bnpJSXJXQ3ZXaHNEZlAtYWZvdDZ1RjVWT2M2RTNRX0VmZ3RSMW94VmNMbVllcVJCSmdYeXB4TWFZallWZV9yTHpBWE5lRW9uc3J3QmY1WDg4aF95NU1CNGNpWXZDYV9nWWtYTXdwZmdGQnVVbEtza1lwSVR6clVlaUp6ZTB4alk2WQ?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 19:15:27 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T20:26:21.621Z"
+      "updatedAt": "2026-09-21T20:35:52.507Z"
     }
   ]
 }
