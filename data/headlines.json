@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-21T06:25:16.095Z",
-  "lastChecked": "2026-09-21T06:25:16.095Z",
-  "lastUpdated": "2026-09-21T06:25:16.095Z",
-  "generatedAt": "2026-09-21T06:25:16.095Z",
+  "fetchedAt": "2026-09-21T06:50:14.666Z",
+  "lastChecked": "2026-09-21T06:50:14.666Z",
+  "lastUpdated": "2026-09-21T06:50:14.666Z",
+  "generatedAt": "2026-09-21T06:50:14.666Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T06:25:14.722Z"
+      "updatedAt": "2026-09-21T06:50:13.448Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T06:25:15.028Z"
+      "updatedAt": "2026-09-21T06:50:13.730Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "ICE agent shoots and wounds man in Austin, Texas, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaV8xUmhlQWYzdm00cHB5S0xveXRhNml5eG85YlI4bXpyMEMyU3RCUVdQS25oUHRVQTNWd21rTTJ2a3ZZUlgzZUFwcENkcXE3QTh1b1JtcUc2Q1hoRHVWQWoyYXJGRklNUjNBODdDODFHdVE3UTFDWUdNOFh0b2dyRklQVHVXTmo0cHZkenpTejBQNXVjdnp1UVNpLUlOZw?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 06:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Christian McCaffrey joins elite company with his 100th career touchdown - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlExWmJoTS1fR05mR0lxd1lJOVo3LWVSdzJBUVE4WFhDMXpacnRFTHFiLU1jMF9MbDA1N0hPalBNdHFkc1NoMFktZVdEWC1QaGU3ZXlsTnQtaUpLM2N3X0piSXZEU0lHNlFyUlI3TWdtcTByZjFtTHZHR2VTUU1ZTk1SelV5aEppWFdQNnp3?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 05:39:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Germany’s Merz faces struggle to stay on track after humiliating regional election defeat - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaURPdk9VeXV2WGUxVjZTVjdtOEZqZm9oNzJFeG04U1RsSlNzWTNEcVF1R2JmcEVlbmNJV3F4OEZrNzkzWkYwbkxTaGFPd0Zlb05zM040TzlOblQ0RW9MRlFPRXVtUmlpal94RDVfSVRwQ2VkUFg3U0VIM1lrSVNiTVZXV2xBclpOaF9NZ2JQX2dFZFZVcWVSelZMSEFfejNncUE?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 05:35:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDNDazNXMFFxamlNa0U3eGdIWUROLTlNZU5lSElwaXhMdEpQUm5yV3VLWnFlbi1RM0hNTHpKMHB4MXEweDZ6empja0c3cHE4dzlPWm4xek13QXZsMlF0MVZxYWNmZ3pRZ0oxQWFNZW9rSW9oM3hUNjJYUld4SURDclhxYkJETzhGYTNPdzl6SlVKOGtvM2lSaWplTDlBUXpmdXc?oc=5",
@@ -136,93 +154,75 @@
           "source": "AP News"
         },
         {
+          "title": "Tiny wild cat newly identified as a species draws curious visitors in Bolivia - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHVWM2xHWk1uTnZ2OWhzcWxiOFVycXFKbXJHRlJBNkFadzVRUERMZWxBNGlsY1VzNUVCSkpWelFGUnY1UU00M1pISXVudjlsdUJwcjN4OVFpMDU1Wlg5MC1ZVEt1MXJNbjMtZWx0LVJ5V1lWRUZmZ05yM3M2aG9QeGgtalFuczZ0X1BjSEw1T1BVRnJtanpZTG9xOVcxeFN3NDJGTEg5OA?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 04:38:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "China and the US are competing for AI dominance but have shared concerns over safety - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWNPS1J5MWVTNGkyTjdFaVZReGZES1E1VFk3MHI0dEhZQkFPSnh0NWlnQkU4Y1I4QXZ5X0hGOW04czgwbFNtdGZqcHhCc29IcS0yQWdYQWxnczNUVXpETVJ4S1BPUXVxZWxPaTdFalNUWWZvTmFMcW5wRGVydUtBSmxkY1lSSHVwLWc2bjJxVm5Tdw?oc=5",
           "pubDate": "Mon, 21 Sep 2026 04:32:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Man critically injured, police officer wounded in gunfire near Ontario synagogue on Yom Kippur - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNjZpWmhITm02RnVadTR3UDhqUElpQV90dUo1b0JQUTZfUDFja1hMeUFsZWxyQVhJVGNuc09kOE9Cbmxhdld1ZXFJVVJSbzJBbXVRRWtvM0tOYU1ZVlR5Qkl1RDA2S3AyWnNkM1VOM3RXSGZwemVlamRBeGwwZEEtMTcyaTh2Yi1hYjFwbHNNb3hGOXR1c0dlOUJ0Vkg0SXhqVGZQVURjOW41VTNP?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 04:21:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump shattered Canada’s old US relationship. Carney is building a new one in Europe - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObExGbzF2UEZnNWlUR25FSk9GUGFxY3RJR19MRHZzNENUUkhLc21yVmpPT3VWVVR5eFg0UkxVRGJSMTFhWUFLZkc4MEhFdE1TTkxPOE1SRVZnd29ReXFNWHJTblRTZU1ZZzZ4dkJtZzZnQjF2NjBLR21iYTFsa0syeDdPMWMybVdoRHBfZFlmZU9Wek5nM2w2X2wtTkRrd2pfTnNTanFXRQ?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 04:04:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "World leaders meet at UN as their planet grapples with war, division, runaway AI and climate shocks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 04:03:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump decries Democrats as 'communists,' even as he looks to impress China's communist leader - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXBDLXBQSEhxbllSQndoODRGWl9TMk9SaFA0V2xDekF2RDhSMHVLeWEwRjNjdmdadjRSMWltemhiTlJTZEhhMXNSVU1DUzlZbEwzdHhkcXZqMEZFTjhGaGVMSHhDX251ODFvNlBqZTNxSDZIRkVzajVPN2JpVG1uangybm1HOWlaX3pmUTlyajlWSV9WMXBpRWpR?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 03:58:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T06:25:15.650Z"
+      "updatedAt": "2026-09-21T06:50:14.225Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Three South Korean soldiers injured in blast at DMZ, military says - Reuters",
+          "title": "Five takeaways from Germany's regional elections - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbUxkYmlMWkpzRGU5bndEaWJKMGpfbUl2QWk2UDRzb2tnRnFqTGhYQzFEM3FKMnNoWS0zNDZieTIybXByQUdqRGdoV3Q3cVUtRGVseU5DT3NwTy1TV3RqWWRRMnZaa3BoZTJZZTJvYXRZeHRsaWFHamtRQkNiSmdXOTl4SzJ2SWJpdkxfdHdYRDFrbEJrMkE?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 05:07:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wegovy-maker Novo faces calls to map out strategy beyond weight-loss drugs - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNekJHT3lsN3JVUXUzTUg3R24xS0pySkxoRjQzclAwNWo0SFJfR1lwQUhEZWFUbG9kQmFyY1pMeGxvRmo2TWhBX0luTkkxRTZLOTk1a3JLb1p4ZTJsV1RFNWpDOFhYSHMwNWFxaXpPZUFfaW5DN1JldDhuN0ZiTUIzMUFIQi1YdkFNUFpWV0pVbm5tYzZ5NVRETGhDZ3Y5TW1LRFdlMlNfMXNLMTk5NWszS0pwQVVSVk53NmtpZHFjbFNXUQ?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 05:02:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "New Zealand's Peters urges strong US role in Pacific - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQmtfYU9BQVZGZ19IVk5IYUx5eTFqTzdWZDNKY2h1UmZlVGk1YVNTRGRrckl4LWxwbHlpWDJoU05rNGtzV3R0ajlnaWpBQ2MxNHVyZm5jd0NmbEV3UWt6T1NFMFlVNERZY3pfd1BvU0JjMlpuM0RkdTA5WEpQX242c2pQQy1ZTWl3b3dOcjludFBraFkyNkFULU1JcHNZRmR4RUt0ek1n?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 04:46:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Three South Korean soldiers injured in blast at DMZ, military says - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSi1xRjVYVlJCeTZWZUUzNldFc2xjYlpNTVVnSjVudVZXRi04VVloaUYtdXVEay01eTM5Q0J3VF9USXAyUGp0UU5QVXZBUGNsZUNJNDhwZG5ONDBLZ1RMclJJeXBOTDNUbkxkaVZEanU0SVVUWENWa2wtNWFFNDgzbkxGV213VmdtTEp6M191NEpGeDJNM1VTbllBLUZiWHNhN2ViVHBSMW0xNjlMLTRiek1LWjY?oc=5",
           "pubDate": "Mon, 21 Sep 2026 04:38:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Morning Bid: More oil is flowing, depending on who you ask - Reuters",
+          "title": "Morning Bid: More oil is flowing, depending on who you ask - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Jd0l3UTB2OW9fa0lvYXhMTkFmSjdHaTdPR3VweEhxQ0J1bTgtb1lsZlhkVjBTbXJLYU9qRGdtbk9QUWc5dXFCRldlM0Jrd1VrQVFFY0xjdFhjNGJ2Z2JVY01sTUJJNGd0T0dNdDQ1Z1pNaXUyamdoME13UTRYVnc?oc=5",
           "pubDate": "Mon, 21 Sep 2026 04:35:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Yuan hits fresh multi-year peak as PBOC eases curb ahead of Trump-Xi summit - Reuters",
+          "title": "Yuan hits fresh multi-year peak as PBOC eases curb ahead of Trump-Xi summit - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFFpVEZVVTl5VlVUN2VCcnZIWExvUG5ZZ201LTgtdmVUQ1kzVi1BN2dROUtKZHc2RDl4U216NWdCUUlDbVVkZUt3MkhpMlg0bGw3WGY0bjQtNDZoeW82elFGMVF1LUJyVml4bDVfekVWMzBlS1NnQ2FVbTJFaG9ka19hTDd2QzF2WXJhVVk2TUFtNXBfQ3FxN3ZGckE0RWZmU2FKY1lsejZqV3pNdFZfcWQ0QzVrMHRaS0ZFT1hWUTBvQQ?oc=5",
           "pubDate": "Mon, 21 Sep 2026 03:51:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "How Trump and Xi went from tariff war to trade truce - Reuters",
+          "title": "How Trump and Xi went from tariff war to trade truce - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZExFRzNrdTZtWHdwRU9FLXpibVg1dVByZ2Y0aklMcW5YcjdkVkl1ME1tdUhvVFA2dHlHWS1BSDhIekNkMTJFWS1iTnVHZE0yOTlxX2RHREswSDlIMTVDbVR4VGFRQVlNRURGX1kzWVdBdk80ZmVOWEJ4eXBVQmlsal9XM3JjNkVKN1FPbElDRmpSbGJWSTNuWWdXZ2VVOGVsNG44eGZ3?oc=5",
           "pubDate": "Mon, 21 Sep 2026 03:43:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "At least three killed in Pakistani airstrikes on Afghanistan, officials say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUnNNQ0pjRUhkOVRfZ2EwNWN1WDBXWmgxNXlweDlWRzVqMTBfemRWT2x0NG5hRVdtSFowS0QwVld3MkdqZ2RLSWVuWE5KNjRxWVFlMXR1emZyTTZ4UFlkS2tQWmF0T0xlRExmQktSN2xha3hIZ0JPWTFJUUNORjc5LXloMWV6QS1SeE5oR2tzU01jNExMdXVTYVBDb1l6NzM3bF9SVWplQW1aZ1ZYcXdBMTdLdEhTNW5WV2g4U2hUQnA?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 03:27:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Softbank Group launches over $10 billion in bonds for OpenAI investment, term sheet shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFpJSWkxMGJsX2cyM3pnVGxFdi0yU3BIRHd0RUM0MUZwWE42WTJhVmwwLUNQUkNhakRLQW1xZWlSMTRWZElIZXNQWFZEbWdpX1Z0aXctRzkxT1VvdlhxZFBSclJNQzlFSUM1cXc4by0yOU51bmZDYUxhdi1GS0RLbzB1VUpqMVRoeGpVTkRjSTltcEdtdldZVldpQ1RtcFJmdkl3VGowWll5cmxFSHE4SnVzOGVYWGEzZDhPOTNDSzNUZ2MxeExISmVyS1FwY01pc1dlcDdR?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 03:09:26 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China slows humanoid robot IPO rush as hype outruns reality - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSll2MnZ6OEFUQ3RlRERmYlhlSFcyaldhWEVGRlR2ZlF2UW8wQ09qdmc5NnFhQ3c4M296Q0F1aXRyRm11dnVqc2FlTkVybGZBQTJfZkY1NmQ2dW8zSGNrdm5VWUZXTmdaSzdLdVJRMWJuemM3VC15bU1CQ05YNHE5VXRmRjI4YkxocVZGTHpTVXRLajFkaVZra29qdXdxVnBOeXVHbzJ1aV81czBtV2c?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 03:05:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Xi rolls into Trump summit with China's trade engine roaring - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTjdmUF9fTEcySTFqT2t2NUZsd1prTmZjTjJVbmZwOVVVQzVCYV9mem5YNGRVUUdYT05uRTlXTWFheEh5azN5blpURFI1YXItOEJBZWZRRDlLQkx3aGJsdkZia0M2WEpaNHRhTTVmOEpUeU5FdWRPYVN1dUV1bVZrbHpzVEhZZzBrRXNXMTYzOTZzQTVETVkxM1pJT3JIZlpucUJoQTVFaE5LX28?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 02:50:00 GMT",
+          "title": "New Zealand naval ships transit contested Taiwan Strait - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaVVqaUxoUmlvVEN6Z3NJYjZrV1AtLW4tbXdsNjBHUHV5TzE0eDNtY0xBeFVzWE53c19wdDdEc011STNwM1g0bUlOMEtQMzVuX0RnY1lKTXA1RFFQZmRSb0FKVkZuN3NTRE95OVdSQjAxVDdhVjZqdTYta1I5eUY0MmFYNk13bl8wekRwSHF3NUJYOVRfMDRmQk1BREVPZGllVUN5ZFBB?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 03:38:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-21T06:25:16.095Z"
+      "updatedAt": "2026-09-21T06:50:14.666Z"
     }
   ]
 }
