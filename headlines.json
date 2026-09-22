@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-22T10:00:26.688Z",
-  "lastChecked": "2026-09-22T10:00:26.688Z",
-  "lastUpdated": "2026-09-22T10:00:26.688Z",
-  "generatedAt": "2026-09-22T10:00:26.688Z",
+  "fetchedAt": "2026-09-22T10:25:13.809Z",
+  "lastChecked": "2026-09-22T10:25:13.809Z",
+  "lastUpdated": "2026-09-22T10:25:13.809Z",
+  "generatedAt": "2026-09-22T10:25:13.809Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
+          "link": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 22 Sep 2026 10:01:29 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "British man missing after diving into Lake Como to rescue teenager",
           "link": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
@@ -38,12 +44,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
-          "link": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 22 Sep 2026 08:10:21 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
           "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 22 Sep 2026 07:14:12 GMT",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T10:00:25.577Z"
+      "updatedAt": "2026-09-22T10:25:12.552Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "New DNA analysis adds evidence Jefferson fathered children with Sally Hemings",
+          "link": "https://www.npr.org/2026/09/22/nx-s1-5791513/thomas-jefferson-sally-hemings-dna-hair-smithsonian",
+          "pubDate": "Tue, 22 Sep 2026 06:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "AI solved one of math's hardest problems. Humanity learned nothing (so far)",
           "link": "https://www.npr.org/2026/09/22/nx-s1-5968588/openai-navier-stokes-problem-mathematicians-learn-little",
@@ -103,20 +109,26 @@
           "link": "https://www.npr.org/2026/09/22/nx-s1-5911804/nolan-wells-investigation-grand-jury",
           "pubDate": "Tue, 22 Sep 2026 04:31:47 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "New book by Princess Diana's brother prompts war of words with King Charles III",
-          "link": "https://www.npr.org/2026/09/22/g-s1-144505/princess-diana-brother-book",
-          "pubDate": "Tue, 22 Sep 2026 04:03:27 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T10:00:25.627Z"
+      "updatedAt": "2026-09-22T10:25:12.633Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Shooter opens fire near a high school in Turkey, wounding at least 11 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlRNbm80TUZNMTNQNmYyeEN5SV9tMVlmTnJrWkpRREt1RW5zM04xTWVGSTBEdXlRTmp6TGctZXZ1emlFQjY5TjJYS1hLcmx3djlvX2dRbVh5MzUtQ1ZPOW9lR1U3RzdRSDh2QkNSOEk0MEhBejNpRTMtdXZEczgyVHNHcXpxdm9McGJGMlFwaE9DWXM?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 09:13:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "New book by Princess Diana’s brother prompts war of words with King Charles III - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUU4WjE1QTZra2x2U1d2NGVVNEtxZGd1X0ttNTVHQnItX00xMlhzWHZoWjJTalZEMzRRM0ZlR1hXQWtaa3BrcWpydWFCZUVQbVJoWDI2NjJ1MTlzOUNpNll6LVlWX2VKT2lmaktoNnJnckctRXladFRTWlZxQWhNY1E3aDNjUmQ3ZGtHZ25WVkExd1BrTzhiVWxHb3NjOGs?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 08:48:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWozMlFPbDVrMzF0N0RjV2ZkNDRhVGU4TUZVeDlHLUZRSV9MR0JzcE5aSXpTWlpuMWU1RDFCRXkxTnhWVjZfOURBRlh6Q0hDU3FTc29hQTlzZ28tX2RGSFdveWthNzVYcHhzaHdYOGc1eTFLMklPX3FLemV6WS0xZEhINDRUREtGT0ptTExQaGdSeW56MXJ1cmRn?oc=5",
@@ -126,19 +138,13 @@
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 07:48:59 GMT",
+          "pubDate": "Tue, 22 Sep 2026 07:04:43 GMT",
           "source": "AP News"
         },
         {
           "title": "Hurricane Polo grows into a Category 4 storm in the Pacific off Mexico - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUzcyRTlURFk0LXQ2dDVPN19KLXFHcXdURktEbjhmeGVNWUZfcHh2cjVDV2N2OHdhbUJCMzRibl8zZHU5emtYeVU0d2xxSERVX29mVGh3SThMbnhubVhUanBvS1J0eVp6TDBHbzcwOElWUTBvcGZjYjVlUzdXN1B0bjZ5RnA5QVp2?oc=5",
           "pubDate": "Tue, 22 Sep 2026 06:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A gunman opens fire near a high school in Turkey, at least 4 wounded, reports say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlRNbm80TUZNMTNQNmYyeEN5SV9tMVlmTnJrWkpRREt1RW5zM04xTWVGSTBEdXlRTmp6TGctZXZ1emlFQjY5TjJYS1hLcmx3djlvX2dRbVh5MzUtQ1ZPOW9lR1U3RzdRSDh2QkNSOEk0MEhBejNpRTMtdXZEczgyVHNHcXpxdm9McGJGMlFwaE9DWXM?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 06:38:00 GMT",
           "source": "AP News"
         },
         {
@@ -154,12 +160,6 @@
           "source": "AP News"
         },
         {
-          "title": "Aaron Donald charges out of retirement, overcoming excitement in Rams' blowout win over Giants - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdTJZZFM4RjlXN09sdUpVMmpSaTUxdmZxR0tEd1piU2p4LXhQXzRhZy1hYW96aG5FWkVIbEQxamlrWUU5X2pLZUs3aDltaWtiQ2JuUll5cE9raWR3QzVUcWZrbEFIT3BWNUh3WTZheE82SHJtZkh6QWhBSlppcUVZcHZEVQ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 05:19:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "A timeline of US President Donald Trump’s interest in Greenland - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTEo5MF9SSU5NbWhPTlpPNjRVRndLREM3WTB6MFJGLXZFbnp4TWpFdk5BLTJzVzVKRGFEejFScXR5N01QYVJLa2h4M0kxNGZNTE9jdnpnLTJYYXFqTkVUeHRudFp3Qjk4Z2xMb0dOWmRaeE85YjZXZXpiOUF6aGUxZWdmMFJsTG9XQktfcWpRRm1fcGVQTm1V?oc=5",
           "pubDate": "Tue, 22 Sep 2026 05:13:00 GMT",
@@ -167,11 +167,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T10:00:26.156Z"
+      "updatedAt": "2026-09-22T10:25:13.303Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "EXCLUSIVE: DeepSeek to brief UN Security Council on AI this week, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2ZLc3FkMFBGdGM0Mno4QmV0ZFJtVWZ2X3RyLUp6SmFUX0tQQ0FPRHlLRmdJVmU5dy11SlE3SXFJUVlySDNQOXlmZTFkV3JNc19nSDlyUlhJZzgyMDY1d0VRaV9IT054T2stSTd5VWNOVVJNa0w3VHctTW9GdUJjYkRkQXdmSW1pOWllUVV4OVdOU003ckJBaWloZ0JKUmdtVTFiLVRhajY2N2pKUHhiYXV1Z3Y?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 09:35:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Pope Leo heads to France as Church confronts shock of abuse crisis - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3p5V1NpNFlpMHZNZFZ5VDJqOTc1NEl3MmRSNlMxam43akdUU1BINnQwMnpYanVfU29nWEh6aUwzZWhPZ1lLTVRYekZZcVRDV2RIWktOWmRDNm1mTy1QTG1pUkJLb0xVQlprRkxfNEpKbzZvZk9ESGpmak5XRmNPbTBNWFp6TDI4c0IySUlFckJPTXh0aUpVMHdYaWVrOGc1?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 09:09:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China expands export control list for drug precursor chemicals ahead of Trump-Xi summit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUW01Z2w5SlFzQ3VXT3g1cGUzbWlMU2FNM25rVEJFZkZQTzFHampOdUI3NU56aUxVem5oM3dhVXdPN1JxRFpOWmZublhkaEVrUmc5UTNVU3E2cVVVbE1uV3pTWFEzX1R6bmZ2Yjlyc1ZiUEQ2YlZFZHpTQWR3aFBWcUgtWGdNYXRqNmY2UzBkRkdOY2tmWGQyWVJQMEl6WjhWb0dJeGUwbTdvNURreElseVJjZUxBdXdjY2VON2QxU3dSQU5URlFjcy0zbWJWS0xtTlpJdmJ0TW54VFVaTEpGaUFyUHFlVWc?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 07:43:43 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Latvian PM opposes deal to lift sanctions on Russia-linked billionaires Usmanov and Fridman - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSG1IejIzR3VCUzFJOWFYYXhFWUN2VWgyVjU4UWlXS0h6eUJjZ1M2UXU0NDA2ekR4OGFxZzE3SUpyTWNoN19PNGs1TFVnOEVmUmU3TUFCR2xoc0RfQVMxTElDR0dkQnZkNWx4RlpiZks2Q1kwc1VFZElsb3lkVVN2cnVoUG52bTZyQkJMemhGZWxHTHJiZmtxV181TElzVU1SMlRrZ3F3S0l4Z1JfM0FOVTM5SmhaUkpObXZnVWl3dw?oc=5",
@@ -179,13 +197,7 @@
           "source": "Reuters"
         },
         {
-          "title": "Pope Leo heads to France as Church confronts shock of abuse crisis - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3p5V1NpNFlpMHZNZFZ5VDJqOTc1NEl3MmRSNlMxam43akdUU1BINnQwMnpYanVfU29nWEh6aUwzZWhPZ1lLTVRYekZZcVRDV2RIWktOWmRDNm1mTy1QTG1pUkJLb0xVQlprRkxfNEpKbzZvZk9ESGpmak5XRmNPbTBNWFp6TDI4c0IySUlFckJPTXh0aUpVMHdYaWVrOGc1?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 07:21:29 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Student opens fire outside school in Turkey, eight pupils wounded, NTV reports - Reuters",
+          "title": "Student opens fire outside school in Turkey, 11 pupils wounded - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0dUNnh1d2VCalpwUGNrVHg1RUMzTlZ1T0h4SzEzbWlSemRFWC10Z2czUUZXeVZNSVcxWndDQ2d5WWNtWmFnOFlkQ3I4SUZYYjdET0tkelE5VDctN0hOM1hYUHdCNVBFeEhQU0lheS1ubkpxcXdxdm10a2h6dXI2bjQxb3hiN2k1ZmpaRWJNeXVIb1ZOYm5sVFh1LWtVVTQ?oc=5",
           "pubDate": "Tue, 22 Sep 2026 06:54:00 GMT",
           "source": "Reuters"
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZjJpbHFIa3pVc0V0UkZ5dHJTeDdYMFBucXNDRzFJSWpxdnFab2FhQVFKbjJSUW1vZlctQzh2dm9KZ0ZWMFpVTUR3TU1WWkk0SUZkZjB5Q0JPU2cyVHBUcWZ6dVotNkZCQlU0QS1taml6Zk5ZQ25UcEJCZFlvRTB2cXJxNFZfVnRQTjUzUE1GWHdNYWNEc29mUERCN19VTHVUbzZlVWxnVnhySXFmT0lZd3c5cGdTVlJaZkx6UThERHA3akNGSVR2YVM1VGRpOHV5?oc=5",
           "pubDate": "Tue, 22 Sep 2026 06:17:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "South Sudan's president signs election law changes ahead of December vote - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHRaMFV0OGhCR1BQWnFyUTUtZno4Z09ORVMwNUNrSFRWc3EyTlRMWDRlTkxYV3Y4NktXQ0E0ZGlYQkxrbW5RQ3p2Y0FfOE1Md2d6Q1JacmRQT3I0QmJRUXd5ZkJCMXVFUVB3bVF5WDMzTFpoYUJYRzV2ZkdiSE14RHBZLW45aFJEcEVxTlBXXzdUSHY4WW4yakZiT3R6ZTBCWnM3V2N5UU15ZHFnU2Zkd00xNUZlcWZXdWc?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 06:16:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: China's Xi expected to press Trump to halt Taiwan arms sales under 1982 agreement, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdXROSDh1OUkxaUdBMjBrV21MM0JKLVVGZTNENlQzVjZIQmFXQk9nUkY1b0hVM3IwcEN4cnVMTmhKQ2pHaWgtZHY0RnhvNnNPaVllSk8tWV9NZm9vR3diS0djb2J5azJxa3F6WWhWMEMxbWpzVjBTWUoyMmZYZ2d3OWNVR3BodklUeUJCYVZ2MUNFTVI1REE2X2lLbUxuVFUxdHNQN3dYMHhMNFhZZkZUVi1JenVURXpqWmlGUzRucw?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 06:03:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T10:00:26.687Z"
+      "updatedAt": "2026-09-22T10:25:13.808Z"
     }
   ]
 }
