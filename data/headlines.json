@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-22T08:25:15.382Z",
-  "lastChecked": "2026-09-22T08:25:15.382Z",
-  "lastUpdated": "2026-09-22T08:25:15.382Z",
-  "generatedAt": "2026-09-22T08:25:15.382Z",
+  "fetchedAt": "2026-09-22T08:50:16.781Z",
+  "lastChecked": "2026-09-22T08:50:16.781Z",
+  "lastUpdated": "2026-09-22T08:50:16.781Z",
+  "generatedAt": "2026-09-22T08:50:16.781Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T08:25:14.412Z"
+      "updatedAt": "2026-09-22T08:50:15.529Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Grand jury finds no evidence of criminal conduct in the death of Nolan Wells",
+          "link": "https://www.npr.org/2026/09/22/nx-s1-5911804/nolan-wells-investigation-grand-jury",
+          "pubDate": "Tue, 22 Sep 2026 04:31:47 -0400",
+          "source": "NPR"
+        },
         {
           "title": "New book by Princess Diana's brother prompts war of words with King Charles III",
           "link": "https://www.npr.org/2026/09/22/g-s1-144505/princess-diana-brother-book",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/21/nx-s1-5944503/iowa-hog-farm-growing-specialty-mushrooms",
           "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Germany's leader stands his ground after his party loses in state elections",
-          "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
-          "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T08:25:14.446Z"
+      "updatedAt": "2026-09-22T08:50:15.870Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,7 @@
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 05:33:54 GMT",
+          "pubDate": "Tue, 22 Sep 2026 06:41:10 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T08:25:14.891Z"
+      "updatedAt": "2026-09-22T08:50:16.376Z"
     },
     {
       "name": "Reuters",
@@ -179,7 +179,7 @@
           "source": "Reuters"
         },
         {
-          "title": "Shooting wounds at least five outside school in western Turkey - Reuters",
+          "title": "Student opens fire outside school in Turkey, eight pupils wounded, NTV reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0dUNnh1d2VCalpwUGNrVHg1RUMzTlZ1T0h4SzEzbWlSemRFWC10Z2czUUZXeVZNSVcxWndDQ2d5WWNtWmFnOFlkQ3I4SUZYYjdET0tkelE5VDctN0hOM1hYUHdCNVBFeEhQU0lheS1ubkpxcXdxdm10a2h6dXI2bjQxb3hiN2k1ZmpaRWJNeXVIb1ZOYm5sVFh1LWtVVTQ?oc=5",
           "pubDate": "Tue, 22 Sep 2026 06:54:00 GMT",
           "source": "Reuters"
@@ -194,6 +194,12 @@
           "title": "US battery startup that ditched Kentucky for China opens factory as Trump and Xi meet - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMTdtVnF3djJ1TExiZFZPRkx6V2hwWUcwNl9sRU9pblg3TnJveTNEajVHSlRDMXdfbmtXRUlhelpqOEZ2eUFrZWpkUWNNblZOWk1sTERLdjZYM2U5aUhqLTRwUFIyUXZXal8xSmk4czJDb18za1lqcTJabU9ORHN2cm1TanFxTnlHSjkzNjhfYU5CaUtpMURnd2J1dEtwM3E5OUlJZGJKcjZ6bTNBZS1VRXJWUXloTzBoVm5IOTFOOA?oc=5",
           "pubDate": "Tue, 22 Sep 2026 06:32:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "South Sudan's president signs election law changes ahead of December vote - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHRaMFV0OGhCR1BQWnFyUTUtZno4Z09ORVMwNUNrSFRWc3EyTlRMWDRlTkxYV3Y4NktXQ0E0ZGlYQkxrbW5RQ3p2Y0FfOE1Md2d6Q1JacmRQT3I0QmJRUXd5ZkJCMXVFUVB3bVF5WDMzTFpoYUJYRzV2ZkdiSE14RHBZLW45aFJEcEVxTlBXXzdUSHY4WW4yakZiT3R6ZTBCWnM3V2N5UU15ZHFnU2Zkd00xNUZlcWZXdWc?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 06:16:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVUZMbzlXREpFZjZKblVrT3BRVWVNQlpBOUpLUXVVaDJsQmllcGZvTDBuR3lHOFNYTHlSVGREeGdiR3RPMXBnSEJTcThVY01XeHFPZjR6VTR6SWQ2dDk1UTlaVjhydUJTcUM2SFpzRDF5VUpXSjRNUFVfcGNJWVJEZDVWVjdmSWwydmp6Tk5URVJvdkp5aGM3TEc4dnFMOGU1bk9rc1Q5V1VuTktnYVZ2ZzFDanFyMDg?oc=5",
           "pubDate": "Tue, 22 Sep 2026 05:44:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Yen squeezed as hawkish turn grips central banks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFUzRjA0NWVBcXQ2Z1Z3WGVOdGQ0XzNQbll4OGRTbnd4T1dxRnFXSzB1d19zNDM1dWFKdE9JTHRDZzlVYlpWT3FpUFFqNUVWVlFmMDM5eXE0UGZXUnpmWjh3SnpWMzJaSTEtUmJMNmZzTGpMODNYNUFlQm5pMXR1VU9fVlZNUEZQOUpMUEVzc2pVcXA0bEQ5amdQUUEzT2VLWXc?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 05:28:08 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T08:25:15.382Z"
+      "updatedAt": "2026-09-22T08:50:16.781Z"
     }
   ]
 }
