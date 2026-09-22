@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-22T01:00:24.419Z",
-  "lastChecked": "2026-09-22T01:00:24.419Z",
-  "lastUpdated": "2026-09-22T01:00:24.419Z",
-  "generatedAt": "2026-09-22T01:00:24.419Z",
+  "fetchedAt": "2026-09-22T01:25:20.007Z",
+  "lastChecked": "2026-09-22T01:25:20.007Z",
+  "lastUpdated": "2026-09-22T01:25:20.007Z",
+  "generatedAt": "2026-09-22T01:25:20.007Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T01:00:23.508Z"
+      "updatedAt": "2026-09-22T01:25:18.809Z"
     },
     {
       "name": "NPR",
@@ -87,12 +87,6 @@
           "source": "NPR"
         },
         {
-          "title": "The data center backlash is reshaping American politics — one community at a time",
-          "link": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai",
-          "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Many GOP candidates still echo Trump's 2020 claims. Lots of voters want to move on",
           "link": "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026",
           "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
@@ -109,24 +103,36 @@
           "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
           "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
           "source": "NPR"
+        },
+        {
+          "title": "What to know as world leaders converge at the United Nations this week",
+          "link": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
+          "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T01:00:23.538Z"
+      "updatedAt": "2026-09-22T01:25:19.081Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "News outlets sue Trump over lost White House access, citing 'blatant violation' of First Amendment - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE9ZY3hqOG5XR0ZGUkR6cHNrV3BNRUhtTDljRUZBdzhXUDVoSk1HeHRtRHltR3hpSXFkbG1qVndtUkJmVTFPOUU4VVVOUG9hcWx5X2x4NnhKRml3aThkQllIVWFaT04xTGh6UE4yZHdFanVQTDJkQ2NwczQ1N1VYYnlQdnU2UWlZT1k0aHBzVW5PN19lNkkxcnJydw?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 23:47:00 GMT",
+          "title": "Flights disrupted across the US Northeast due to technical problems at a key air traffic center - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFJZMDZvZHd6UVJfTXh3c3V6U1Y2cm1mRXItWlJEMU9NbVZaZFhyTHNxd21HdFRsN1BtSlgtRDNOMUNnc0ZjSUhQRVVCR0taME5qV3JoTnNxT0lpUUdlZzVCNVhEVG1ET0k4bThmSlNBdWRQbmFMOTVxYnpfMmJDVi05Vl9RRVdBMVhaMlNNWU82STk3M3JhWXU3UlgxYjVsb2c?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 00:41:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 23:46:19 GMT",
+          "title": "Ex-Haitian official, 17 others appear in US court involving 2021 plot to kill Haitian president - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXJPN21HUUttMHhkWV90UXJBakZIWndZdm9jaXJxcjcwNks5ZnIxeVY4bWZEdEpRQmt4VGFWUzBmVURlbnlqYnkzakxIX2pkQnZhVDkzWElaUGNUamlzQTFVWWg0bER1SXpDSU5BZHY2ZVIyWTlVLTdDbWFXdlJCUVlvUzJNTV9mb0gxUG54ZV82bFRx?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 23:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "News outlets sue Trump over lost White House access, citing 'blatant violation' of First Amendment - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE9ZY3hqOG5XR0ZGUkR6cHNrV3BNRUhtTDljRUZBdzhXUDVoSk1HeHRtRHltR3hpSXFkbG1qVndtUkJmVTFPOUU4VVVOUG9hcWx5X2x4NnhKRml3aThkQllIVWFaT04xTGh6UE4yZHdFanVQTDJkQ2NwczQ1N1VYYnlQdnU2UWlZT1k0aHBzVW5PN19lNkkxcnJydw?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 23:47:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,24 +164,30 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVW9aS2g3cmZYWldfNkJIYmhvV3dkVXlMWXZvNXBaSGUxNDJ3Nk5HYk1CWlJJdm5lVmV2WEVMRC0waGxza05nT1VhZE91MWZaa0U2RFNWZXB3QzJQUm9rMTJ2enk3Y3RHelJmT3l3VFBtWmk2Q0g2ZlBYN1dYWHZ4cE5PM1haOVpIb3NXOE91Y1VydXFIR0tkenI0c1A2YXY0M2c?oc=5",
           "pubDate": "Mon, 21 Sep 2026 22:30:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Appeals court favors Trump-backed Missouri congressional map, but Supreme Court will have final say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0w4RmpmZFdPVndBNzh0M19ZT1gwZW5ZeTY3cmdLcjU2Y09fTktGM1l3QWc0c01jek9NRlRxN2hEMmxfWDFFdWxTVGVNZVA3UFBmYzJBeWNUUXZVYzF1WmtXTll5MVQ4Z0d0dmNvTVFwWm1ZNmZkbktpRW91dG94V3E3NlVjV1cySEk4VTc3VEQ4ZWphLTRacVRZX1c4NmQ4a3FtSG9adVozVmdPRDI0c0Z3?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 22:11:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T01:00:23.969Z"
+      "updatedAt": "2026-09-22T01:25:19.573Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Seoul's green space a battleground for mayor and South Korea's president - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ2tKTDRYRU5RUkJpYldLQU03YzI2Vl93NkhORll6QnBmUEYtQTRpSWJOS25YTm5hRUVsME4wV3puVWYtQTl4eUJjUWVZMWRPc0VjTER1OGFLMG8tRVBjcmZ5M0VYZmZfU3JCZUhyTjZXbTJtel9EQ1IwSFRZalc4emtkb2VLYjJiRFJhaHA5aDlfclZmb3JwZmZZQ1BJbVNFTG1PaTZqTV9BNUNzb0pIQUdwV1oyUQ?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 00:03:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "EXCLUSIVE: US to open two new military bases in Greenland, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTI3eU92Z3FoaElJN24tR3JUS1F2bFFoYUh6X3ItQjV4T0s1M0FiV0Z6dTB2aU1MX1pxamNJOVpUa0RvbkNVMnR5M0hCeEVsSGVMTlVZazhpOXRPcXB2ZDltTTZKSTRPSm8zNkFVelh2RUVyVHZPdTZJRlpmamxucjRaeGVuOFVmZlE2NmRUY0Z6Q0Q3N0Y1cHFabWZDVG1JM2F3?oc=5",
           "pubDate": "Mon, 21 Sep 2026 23:51:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China and Europe should not fight trade wars, Chinese foreign minister says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONWlPYzR3TnE0Y3pMaHdObVprdjJZb3dVZGZ4X2VsaFhPbUhJSmdQclM4X0pDMGg1NzdzN1BIalN4VEVJMEhpQ0RHWTFNUVR1YV9xLUl4dkYyRjhGNjVCUGJEZFg2R05CZ200Z09LMkhySzlVcU1wcEZ0S1FrbTNUV1Z0VDdtcS1wRlotR1BIQmowQmpzRldzMTJBSFNLci05MXp0UTRwOGtVTFNlem9JVUxxSTFWY25lQ0E?oc=5",
+          "pubDate": "Mon, 21 Sep 2026 23:48:53 GMT",
           "source": "Reuters"
         },
         {
@@ -197,12 +209,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Humanoid robot sales tally hit 7,000 globally last year - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUx2Vk9IdU9aTEdTRWZwOVZKbFB5MWVXZ1Fqa3BCRk03Sk9QNVVFYlVEM1phZWhHZTN6MU5NOVR3MGFhQk40SjR2X1NxM09JMEx1TkZNLWN4SGlXTzVZc2NEa3NKcl9jaElHU1RCVGRHQmh6aG1WX243Y0ZGQUJMOUNSU2V1MFItRzlmdjFwWXBXWENUWUV2b1hzX3dxT0pFNEs0?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 23:06:34 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Thousands of US flights snarled before FAA resolves telecom problem - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVk3MmpJODlBb0YxWTRJZ3I1V3BjOUpSOVd3ZWQwUVVHS3pmM1k0aEp5Znd0a21uRUVheW9PZHpOMzQweGd3djJTQVBLWGhFNEp1TnZCbGs0bHZzYzJrNVVIWUVOSDZwSDNKTWJWcjhfbHR5N0NWREgzb2NWX1VQYjhBY2kzVy1Ec3hSVXl3MWdrM1BIWkZKNzVXWEVKdFRveVE3R2hiMmZnZw?oc=5",
           "pubDate": "Mon, 21 Sep 2026 22:41:56 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFFHZFJFc2pid0VBT2lxVEVmMWZfMDFJeVVhM1NKLVdDMERCQi1RcFNKWkxzT0F6MDgtWm1vSGl5bEQ2TXplVGdhZERjX2syQTR1dy1UakNTOFhhYmpkWnRBX082VVc2U2I4aV9kU1RxbTJTV2tKVGNUSjFicjYtQnBVeHljUDVuV3lHNmsweWVUOFppemNhY3hXS3RScnl0WE10ajdsb3A4UUdHTXpIbzNIQXBxTFVzQm1LVWFJMA?oc=5",
           "pubDate": "Mon, 21 Sep 2026 22:32:37 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US appeals court backs Missouri’s Republican-drawn congressional map, sets up return to Supreme Court - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUUN3d3NrR2lwYlZZc053eGZ0ZmUxczNpZEpQVk9DaTRMdE4yNWpOc1dTdElCcEg1MFhYc1U4MS15U1RwRUdMQW42Vmp5TVNSZVhaZ2F5UDR0ZVRBLVRUVEtPckdnUldvUjNRVWhQR1NZelFHMVhLRUkzdHp0MlVkMmJRTGZMM3laX2pLUlQxeVBnNU05WkVBVnZReUxPY2VaajJMVjlDVlBvQWtYLUt3eGJSWWROdVRvV0Z5cFRMNUY5N0JaVm0w?oc=5",
-          "pubDate": "Mon, 21 Sep 2026 22:29:21 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T01:00:24.419Z"
+      "updatedAt": "2026-09-22T01:25:20.007Z"
     }
   ]
 }
