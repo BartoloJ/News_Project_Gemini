@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-22T23:25:13.294Z",
-  "lastChecked": "2026-09-22T23:25:13.294Z",
-  "lastUpdated": "2026-09-22T23:25:13.294Z",
-  "generatedAt": "2026-09-22T23:25:13.294Z",
+  "fetchedAt": "2026-09-22T23:50:14.874Z",
+  "lastChecked": "2026-09-22T23:50:14.874Z",
+  "lastUpdated": "2026-09-22T23:50:14.874Z",
+  "generatedAt": "2026-09-22T23:50:14.874Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US judge blocks deportation of DoorDash driver shot by ICE",
+          "link": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 22 Sep 2026 23:36:12 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Watch: Threats, deals and passionate speeches at UNGA event",
           "link": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "US to build two military bases in Greenland under new deal with Denmark",
           "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 22 Sep 2026 21:36:55 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "US judge blocks deportation of DoorDash driver shot by ICE",
-          "link": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 22 Sep 2026 21:09:25 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T23:25:12.229Z"
+      "updatedAt": "2026-09-22T23:50:13.465Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T23:25:12.359Z"
+      "updatedAt": "2026-09-22T23:50:13.711Z"
     },
     {
       "name": "AP News",
@@ -130,9 +130,27 @@
           "source": "AP News"
         },
         {
+          "title": "Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFJIam9pcjZKcURZYTYycm1tX3FuZDhIZmFPNEhxUTIyR3VMQzdkWEZiTTFrMTRMOUs5R1ZzMGFCSzBJNzFMY0ZDVkRRVzhHU0JoeW5paHdrVk5mSmlxNTRDcWItWjNSQmV2RmpONDhxN2I0Wmk0UVV4UWRtaHlCTEJOalVGbVNGd3gyZ1pTTTVZaGc4bzlXMHE2bFM5Ql9EcFE?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 22:51:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 22:18:21 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "How Ella Langley’s ‘Choosin’ Texas’ became the longest-running No. 1 hit of all time - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2hQRkNSOXpmeERBT2N2eHNjTHZUTmJFWUtINFJKd1Y5Y2VfcVVOZ0UtS0lEM1ZFRHdCSzJrTVczRWM1aFpCVTF5Nl95TFpIamJ6eUkxVXl4VEViSnMxQjBoWldTNHV1NDluRGJ1SDhoS1g1SVByUDgwZlpFRmNaM0FrSnlUdWlwTnZTY2U1WGI5YUVH?oc=5",
           "pubDate": "Tue, 22 Sep 2026 22:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "FACT FOCUS: Trump made multiple false and misleading claims in front of the UN General Assembly - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkJXbzFjVjM1MnFTUk5xeHJtNG14b0dIekd0enVXdW4tbVBmUXhaUTRuR0tUUVV5a3Y3VTVHZWhhamg4NmlZVUxRb2ZiOHNKVlZ2VU9Wb2hxVkZBU3lUZVA5WGNPVl9XSUVLb2dIcGJCSXdudFV0RVRheE5wc291N21ZV2loejhIYm5xcFc3SUlvZHByMkdBeENVWVljVjg?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 22:06:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,32 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security after prolonged tensions - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0lZX3FlTXk4M2NIbnVBaWVGQ25TdVlOYTM3V3pzQkVuOTRkYmNFemYyNGVrYVdNT19oOUtBMGZRU3ZiUzVqWTNkVDBTUWJHQjNUSjVacTNoMFhwYS1hbEhrdDdDOTFoTmxtSk1xdVhJZk9xSW0zZlNBQXNIX1FSR1N0bnFkNGVKOTJFU1RfbU9hY2V2cTRQaldfSzZPb2Q1ZGFqRg?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 21:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 21:39:54 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Hurricane Polo churns off Mexico’s Pacific coast as ‘one of the strongest storms ever’ - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUzcyRTlURFk0LXQ2dDVPN19KLXFHcXdURktEbjhmeGVNWUZfcHh2cjVDV2N2OHdhbUJCMzRibl8zZHU5emtYeVU0d2xxSERVX29mVGh3SThMbnhubVhUanBvS1J0eVp6TDBHbzcwOElWUTBvcGZjYjVlUzdXN1B0bjZ5RnA5QVp2?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 21:36:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "New York, California sue to block Trump administration deals canceling offshore wind projects - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVcxVnNwT1BpbzNaNzd6clNKck1ndldrYjIxQ0FNTWltS1R5YlVqd2I4TWFVQm50MWQ1RWZZbVp4YVM5MkV0QWpZWGU1bTNLeHNYZTRYTlhHZTdSUXh2dThucUd2Y29pNDc3YzV5a2V2UXRta0ltM0hkcS1obVRzUzZlREl5d1AwYUpzeG5vX2E1UzRoOEE5X1J1NGo1RUV4?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 21:36:00 GMT",
+          "title": "Senior NATO commander warns Putin is becoming more cavalier and open to risk as Ukraine war drags on - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFRCNGc0VG9kTExITWJ4RXNhLWt5Wkh1WnlqOEM5UkRlSGxnU29XS0JFNlBNN1RGWjZHb3g5QzBMbldwUjhLekVKQVg2UnY3WkZLQ2RqbDZFNk91N3RsTW5jUy11MFBIYjZTemtkQmpZLV9ydUd1bmhGYk9pRUhMVW05OWptaktLTHV2amtrNE44TGc?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 21:44:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T23:25:12.856Z"
+      "updatedAt": "2026-09-22T23:50:14.422Z"
     },
     {
       "name": "Reuters",
@@ -185,9 +185,33 @@
           "source": "Reuters"
         },
         {
+          "title": "Republican senator calls for probe of Trump family business dealings - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1VINWFaTnNHOU1IY3ZueVY0UjMwWXFVTmx1bnA3RjlxT0t4Q0tUcEtpVFRqWVZpUF9JZk1kWkNPNmk0TV9UVVlfMW1sMnBHVzFLRGhpOXBlMU1EYzBrbE1jZzB4dzgtNDFUemg3ZnVpT1B1a1VJWXkwZ0tGMmtCRk80cWFoRVJVdUxPc190dGFkUzk3aUtNT1U5U2lpOW9rVXloYlA5WUhMQWd6OG9tVXhvUXM3VjZSZ0lkRA?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 22:51:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "ShinyHunters hackers say they breached FBI, stole data on bureau employees - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUtFWTRZNVBNcVdtQTFFZTlJN1JBcVhOT09PdDZQRTRqWU5YbWcwSTEzWHJWT2l1dVB3T1hYcUwzYm9DYUtWazd0dWRWbE0tRHdfRWpmakVZcTlrOUR2ZHVBNmFYTTVqVU0xdzZBdTl0YU0yUHBlUHhiS3VQckl2eFNzNW5DdmdkZjhyTjdtS3ZwdWVkYW9aVDV4enBoeXVSSkdCQ21abjdPUHBzN2xkRHE4bFdFTEM1M01oeEk0cw?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 22:50:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ex-Google safety chief warns AI could harm children more than social media did - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3M3dS1XSU9ra3NOc2lNdURNcl9ReGRaRWJXMy01NnJzWHNJNWdYU2FYd2psVjhUSEV2dTNOTjlJZlFJUllzMThDM3RUR1M2VGVBYWw5dVNoaE92SzE3WC12RC1JcWNWNjFkWVJQdGltd01tRl9yb1Z4dzRoMk1zWlRUUUJnczdBQWp0YVBCNThKejZOYUpDUS1YR1gwZlZsZXN5VEhNdFB2Y0JmVjE5RTg4Y1VYSE83RERoM3VxbzI0RE5ZYmtuMndURQ?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 22:45:59 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "EXCLUSIVE: Microsoft to keep shareholder proposal rights through 2027, even as SEC reduces oversight - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1lrc1pyMmMyNkhnZWQyRmZEbDVEcmdHODFMR0tIYVRiVHZmZmE2U1dpdVVJeFJDci1mN1A0cklyWXQ2Z0VtZXpNWXpZdDVzYkFoTUlXdWxxX0dBQ1FTaUNBR0VsS3did3M1cWduLXBITGJwNmoxSVdzcm54VUVxUm9YT1BVcG1xMXpfcTRYV3hCSW1mcWxoeFg1eDZFckJEcWMxbEJ0TlVOa3dTaGR2c1A0RTIxcHlrb0VZQ2J4aU85T2s?oc=5",
           "pubDate": "Tue, 22 Sep 2026 22:34:56 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump bought and sold shares in Musk's SpaceX in July, financial disclosure shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdzhnVngxUmJueEVxdFFBX3JwR3RsNFpkZjE3UmdpX1ljWlJMc1ZHUFpuZnppMnJZRE9VR1pMSUJQNzFuaDVIMTFsZGlycDdjaUNqVjJ0NVBYdUVYcUlYNTZVWkNlYjBPdm9QY3VlNXBvNEhhaVBxVWZFaTRzS3JJb0Zqb2hkdkVaSjVCVUdYV3pYTlBDeHNSSWVyQmRKQWRaWVF0VE9uSUFZaWVFU0NjYk04UzZxdUM5M2lLMkFycw?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 22:34:17 GMT",
           "source": "Reuters"
         },
         {
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkFwcnFpOFFycEx0SEwwNUxZazVuTTh6aUNKZ0pUUHlPU2toMkk2WXAyc3RkYTdKWlVsTEVoTmR5VGJaZlhaU21OdHp2aXRWZ0VGNGtJdERKVGUtWXBiMWdKRm9JY04zTnZ3YXp5akdBU2RsS0tHZG9ESTVmR0hOWUYyaWpjYVNCcFF3c3RBVk53NC1SanNTaXpxOHdMei1SNUJPWnhLLTkzU2VOaUE?oc=5",
           "pubDate": "Tue, 22 Sep 2026 22:32:04 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "CNN, CBS News oversight board will be 'toothless,' experts warn - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0V6RFFQbHhrYTJDSVdvUFlrZlpHS21vT1RyaTBWNVN6NDBEVUl6Uk5jX1pzNnYwYUFPZVJiUGR6U3p4ZDhJUG9iellWV1Fpd0NSRkdWX09aVFdTNUhLV040eVZ6dUsxSERUNkJSeW1RREJzQnVqUWtISDFfUWIzSW1TQTU3cDdnaUFwNzg4empLTjhyc2RhX3lBakQ0T0hZREM3dWN6TGpwbUpQWi1RWS1VUjJtdw?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 22:30:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "In UN farewell, Macron denounces Trump's Gaza diplomacy as spectacle of shame - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2JxU1lEYzdqQzRSTmRPbUJMSWd2WTJqSWlReHpJb1A0bXJLcThQV0JGR2xIOHZsVHVucmRvSGhiOHIwMFpPWWtRVUdiWlc2OWNPNWZFOGluUkpqdlFTRS12ZDZ6Mi1mdWNIMWFxcDNZU01CaVBJalhEeHJhV1liTXFsWm1ER0hZOGFaSjdCOGpUYW13alFZakxJSTVfak53UWlwbVp1RGNHekxfYThBYkVrYXo1UQ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 22:29:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nasdaq reaches record high close, AI stocks rally - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUI2bTZ5ZFhnZUozYjg5LXM1WHhuT24xUS0zYmRRZkViWVBreE05ZTNMWFBDSGhHTXUyQ3ZyMWhsUFdxSUlxUXVUUXVHWGRVelg3Z2RuVXo3bndwaXJfRXhEUEFERFNSUVZoaDNERnFxdnhuNkxLdVhnNDRpRGhxYndETzVJdVNnZXJESmpMNmw5QVFQODFGY2w2NzVCcFl0bXBSNjRaTQ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 22:25:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: IDB head working on $2.5 billion Venezuela loan, faces board pushback, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOEFoYWI5aHRBSUR1OGpRRFhtMS0zMzY4XzY1VVlrcnczck5LMjdocXY3Sm1wSXg0NDBCVWFCTzNoUzM3aUhoMWZXdGd6eVJPOUM5VDFBbURQaUpuTGxNdTJ2V2RwN2lMcXRGeVFORF9udmhqUmFuUzd6QTZRenhxbHN5WGYyczVFZ0tPMDBUZ01Tb2pScFMtM0RaeUVDQWg5UGJYWjJtYVJSdkdEQS04aWJURHhFWkdIWlJfS29RRzBxdHJp?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 22:15:40 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T23:25:13.294Z"
+      "updatedAt": "2026-09-22T23:50:14.874Z"
     }
   ]
 }
