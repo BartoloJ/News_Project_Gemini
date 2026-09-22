@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-22T16:25:15.436Z",
-  "lastChecked": "2026-09-22T16:25:15.436Z",
-  "lastUpdated": "2026-09-22T16:25:15.436Z",
-  "generatedAt": "2026-09-22T16:25:15.436Z",
+  "fetchedAt": "2026-09-22T16:50:21.438Z",
+  "lastChecked": "2026-09-22T16:50:21.438Z",
+  "lastUpdated": "2026-09-22T16:50:21.438Z",
+  "generatedAt": "2026-09-22T16:50:21.438Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T16:25:14.215Z"
+      "updatedAt": "2026-09-22T16:50:20.108Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Inside a 'modern slavery situation' where cyber scammers are victims themselves",
+          "link": "https://www.npr.org/2026/09/22/nx-s1-5977731/inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves",
+          "pubDate": "Tue, 22 Sep 2026 12:29:37 -0400",
+          "source": "NPR"
+        },
         {
           "title": "This 'fire amoeba' pushes the limit of what's possible for complex life",
           "link": "https://www.npr.org/2026/09/22/nx-s1-5977044/fire-amoeba-extremophile-eukaryote-life",
@@ -103,24 +109,24 @@
           "link": "https://www.npr.org/2026/09/22/nx-s1-5974318/election-voting-abortion-policies-roe",
           "pubDate": "Tue, 22 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "How unarmed 911 teams are reshaping public safety in nearly 100 cities",
-          "link": "https://www.npr.org/2026/09/22/nx-s1-5973302/unarmed-911-responders-police-reform",
-          "pubDate": "Tue, 22 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T16:25:14.422Z"
+      "updatedAt": "2026-09-22T16:50:20.392Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump in address to world leaders at the UN defends his decision to start the war against Iran - AP News",
+          "title": "Trump in address to world leaders at UN defends his decision to start war against Iran - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 15:43:00 GMT",
+          "pubDate": "Tue, 22 Sep 2026 16:40:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Mississippi grand jury finds no cause for charges in the July death of Nolan Wells - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlgwYUJwNWRGZ082WTh4TDBuWV9mMzEyUFhmWTNuaHVxQTJYcXBrMXp2eVprcDkxOXpUN2NwYTg4SUdMUlhBd204cTBOeVlEWVhPNW05UVAzRkxBVENaUjc0VnNDVFVxT1UzckVPTXBLaDRIRjVWaE1tSUN3X3BfNEZMaXBtVXo4Zmc?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 15:57:00 GMT",
           "source": "AP News"
         },
         {
@@ -136,6 +142,12 @@
           "source": "AP News"
         },
         {
+          "title": "Category 5 Hurricane Polo is an ‘extremely dangerous’ storm off the coast of Mexico - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUzcyRTlURFk0LXQ2dDVPN19KLXFHcXdURktEbjhmeGVNWUZfcHh2cjVDV2N2OHdhbUJCMzRibl8zZHU5emtYeVU0d2xxSERVX29mVGh3SThMbnhubVhUanBvS1J0eVp6TDBHbzcwOElWUTBvcGZjYjVlUzdXN1B0bjZ5RnA5QVp2?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 15:26:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence' - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
           "pubDate": "Tue, 22 Sep 2026 15:23:00 GMT",
@@ -148,81 +160,69 @@
           "source": "AP News"
         },
         {
-          "title": "Mississippi grand jury finds no cause for charges in the July death of Nolan Wells - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlgwYUJwNWRGZ082WTh4TDBuWV9mMzEyUFhmWTNuaHVxQTJYcXBrMXp2eVprcDkxOXpUN2NwYTg4SUdMUlhBd204cTBOeVlEWVhPNW05UVAzRkxBVENaUjc0VnNDVFVxT1UzckVPTXBLaDRIRjVWaE1tSUN3X3BfNEZMaXBtVXo4Zmc?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 15:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "GOP Sen. John Curtis calls for probe of Trump Jr. after wedding party bankrolled by Russian oligarch - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQjFDV1YzVlR2emowbUh3U3FSSG9pZXVOTEFya3dMcHpveU90c3N6LWs2a3I5OTlROGNnb0dsSVJhMDZ0Z3V4Z1N4T2JlM1FsQzdDWmZYMjJEdXZCcjA1U2NybjBybENwbklTUWNUY2JwTTRoUW15am1SaHFUY2tyaUdYbXVWZl94M2NJN0VpakpDLU5WekxJOW9yTHNFWlRzWnFPOQ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 14:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 13:47:23 GMT",
+          "title": "UNGA lingo: A guide to UN General Assembly meeting acronyms, buzzwords and more - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUXJ4TjNTZ1M3U1pHcmE2bkJnUGdZTnE4ZldXY1ZMSkNnZndFUHNfTW8yTXhBMkF1cjAwS2I1N3FTd1BLU1NiX0h5NXd1d29WRFdmT1BCVDl6MEVYbi1BVnU2ZHZaaF9Wekg5TXVWMG11NHNqN3VxVzdZMWdsSTI4bkVvOXFGRnc4T0FseHRvemY0b2FaM19oR1h1ZjFxZ0tpTzV2Z254Rmg1VXNnOE02cnB3?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 14:47:17 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T16:25:14.958Z"
+      "updatedAt": "2026-09-22T16:50:20.975Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Trump urges compete isolation of Iran, expects deal after election - reuters.com",
+          "title": "Trump urges compete isolation of Iran, expects deal after election - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMHFVWHVmRkJDV09JMHNSQ2RvNk5zS2NwN3lwZ3lNOFNLd0tUdjZHS09lMUhZdHBCWXZUQ1NJUHh5cUxmYlU4NjNTRGRtWDJ3UkFpb05jS1U2R2huempndzFvVEtqZmV1RjN2cTRJWWYybEpQSkptR2NjLWFySUtUeDdXMmdBd0N4dktqeGN6WjdTOGVfQXZJLVgyX2k1RTlzbDZncmktWlI?oc=5",
           "pubDate": "Tue, 22 Sep 2026 15:59:21 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US says it canceled Obamacare policies for 760,000 people last month - reuters.com",
+          "title": "Trump administration asks US Supreme Court to allow detention of pro-Palestinian scholar - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV25sTnNMLXVjNjRZMEVyamxreFd0b0E1ZURlR1UzOVJyNnREQXRCWkstc0QwZGczdGdnQU1oVklRMzVLNGNHeFN3VU92MWlVVHotM0RaeEU4V1pqaU1scm1KeVBJamFpMEJKaDBzbkFVMDY3cGlvX3ZqVEE4T25zNHY5c3RrRGVVZTFVU3pidW9NNUN0N0pRQnYxdEQtSzljVDByLWRMUkFZY0lDTTY2TnhNZTRDZ25tNEJmNUdELVF2UzdYM0E?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 15:58:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says freedom will be coming to Cuba in UN speech - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1ZfWXo2Vjc4Z1k3WHVVMTd3NTJ5eWpoOERzajNfd3paVmI0WnRseGxWamFiSzZ4czY1YmJDLUF5eFJxSFp2anJBT2Y0OHVfSXpDZ2xZOUpkVjE2UlVfMUxSUW1PdEttczRZRzlTWnhTbE9MVm8tX0ktc0o5ekNRQTNRUUJOWUlhRVYzSFZKc1lsNmJ0S0RLQkE1WHQ1Y0dC?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 15:44:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US says it canceled Obamacare policies for 760,000 people last month - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2p2ZVlLTUdVUmo3aWtZRDhIbjJYQkxyYjc0R0hsRmRzMUw5M3hZNlE5a1M1SE9hZ2ZIRXFXUnV3bWp6SGx6RjRETWZ3MFNhWG50SjBwOThJemdpcldyNXRlVDNadXUzZktoc1gtLVhMbmk5UWpPM1VOY045Sks1c19YNk5YY2ZRWXRPMHQwZkdzRE5XeG44MVlJMktkbEZ0aGhfb3EzOUtPV210NXc?oc=5",
           "pubDate": "Tue, 22 Sep 2026 15:39:32 GMT",
           "source": "Reuters"
         },
         {
-          "title": "From smart glasses to AI pins, privacy fears challenge tech's next big bet - reuters.com",
+          "title": "From smart glasses to AI pins, privacy fears challenge tech's next big bet - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUgyOXZwdDA0cWZ2dk1tOU0tcHBBZG95TXFOLUwydXpqem4xZDRfYVJvMkhocFVldVp1cXNOX01zd1Z4YnJGZmxQYWFjY044VlQ2Z1V0UlNhUkU1bEVycUlMX3ZOVGhfMEh3SHRkNlVCTzkyc0w1MXR6RXF3bmJaak1tbXRTMEVNejBTWXFPeDVNQXNPWm1TdW5TTkhGakxMUHJWZURrdVoyanhQRENfc1pTdE5YMll4YjRqNzBNWG8?oc=5",
           "pubDate": "Tue, 22 Sep 2026 15:22:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds - reuters.com",
+          "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5",
           "pubDate": "Tue, 22 Sep 2026 15:21:51 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - reuters.com",
+          "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDlYaXB6UFVtWndZUGJsNy1FQzRrM203TUc1RDA0VTZ5Y0FaZ0JHVnV0dzVKMHJkSGowOUFYVUs5N1Y2QWJibzhJZEJpbk8xUmxja1o2ME9tY0hfZjRCOGFGWjVVcmVza2F2VGdvNzJjRnVlY2tzeTdIWWUxREVrNkJYRWRPazhzcG00b0NNYzJDRjlQRmhFV3JlQWNZS2lJWFZfeV9VMmdrdmJiZ0xWNlVkblM2Qk0?oc=5",
           "pubDate": "Tue, 22 Sep 2026 15:20:52 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Binance buys $100 million stake in Circle, expands partnership - reuters.com",
+          "title": "Binance buys $100 million stake in Circle, expands partnership - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1o1SzhDUHo1NFB4VjhYdE5KNFdHWFJ1d0JwR2R6c2xLRzZmOTI1MGJ4cmx0QlY3YTZvRDlUMVJhaG4wS2cyVmVWS045WUxkZE51TjRqbW95UGczdloxMlRSTmVQVEprSFZDN0JRdnRzN0pzVFNxWDRUOXVMZU9RX0xuSmpXbGtGMTRnbDBxZ0dQSy1mRDdFY1QybkhQeGR6bUJ0U2o1enlSSkp4QXdmYVJwTQ?oc=5",
           "pubDate": "Tue, 22 Sep 2026 15:20:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "IELTS English-language exam co-owner IDP spurns Blackstone’s sweetened bid - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXg5RnRaMk1LTEJqZ29tVjlGYV95aEkwMUpDM0JKTHBuRUVuak1NS1RfWk15MHFkeGRmRl9zRWZQcGU2MWZMOTd3SDRUT3Q1WFFHdzljajZIdzVmcXhQX21NWThPSnVQMTZsOUoxaTU5VXlVa2gydnRZV1ZBcHBSeW01SG8xY2R5MEpneFo3T3RxWjFma2l4cG1yLUJfSWMtVmZlc2YxMDB1M1VJTGxhdHZnWTJicW8?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 15:19:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump warns in UN speech he could 'annihilate' Iran without peace deal - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 15:15:54 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T16:25:15.436Z"
+      "updatedAt": "2026-09-22T16:50:21.437Z"
     }
   ]
 }
