@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-22T13:00:27.570Z",
-  "lastChecked": "2026-09-22T13:00:27.570Z",
-  "lastUpdated": "2026-09-22T13:00:27.570Z",
-  "generatedAt": "2026-09-22T13:00:27.570Z",
+  "fetchedAt": "2026-09-22T13:25:19.639Z",
+  "lastChecked": "2026-09-22T13:25:19.639Z",
+  "lastUpdated": "2026-09-22T13:25:19.639Z",
+  "generatedAt": "2026-09-22T13:25:19.639Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,13 @@
         {
           "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
           "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 22 Sep 2026 12:59:22 GMT",
+          "pubDate": "Tue, 22 Sep 2026 13:17:39 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+          "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 22 Sep 2026 12:54:14 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 22 Sep 2026 10:42:47 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "To Kill A Mockingbird first edition found in London charity shop",
-          "link": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 22 Sep 2026 10:11:36 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T13:00:26.410Z"
+      "updatedAt": "2026-09-22T13:25:18.042Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T13:00:26.649Z"
+      "updatedAt": "2026-09-22T13:25:18.271Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence' - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 13:16:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Polo strengthens to a Category 5 hurricane off Mexico’s Pacific coast - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUzcyRTlURFk0LXQ2dDVPN19KLXFHcXdURktEbjhmeGVNWUZfcHh2cjVDV2N2OHdhbUJCMzRibl8zZHU5emtYeVU0d2xxSERVX29mVGh3SThMbnhubVhUanBvS1J0eVp6TDBHbzcwOElWUTBvcGZjYjVlUzdXN1B0bjZ5RnA5QVp2?oc=5",
           "pubDate": "Tue, 22 Sep 2026 12:31:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 12:23:53 GMT",
           "source": "AP News"
         },
         {
@@ -136,18 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 11:29:03 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "With war, climate change and AI, it's a troubled world as leaders convene at the United Nations - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 11:24:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "New book by Princess Diana’s brother prompts war of words with King Charles III - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUU4WjE1QTZra2x2U1d2NGVVNEtxZGd1X0ttNTVHQnItX00xMlhzWHZoWjJTalZEMzRRM0ZlR1hXQWtaa3BrcWpydWFCZUVQbVJoWDI2NjJ1MTlzOUNpNll6LVlWX2VKT2lmaktoNnJnckctRXladFRTWlZxQWhNY1E3aDNjUmQ3ZGtHZ25WVkExd1BrTzhiVWxHb3NjOGs?oc=5",
           "pubDate": "Tue, 22 Sep 2026 11:06:00 GMT",
@@ -160,14 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "What to know about Greenland's flag as a potentially perilous fight with US appears to be averted - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRW1qNU1LMC1HSDZ6cXZQMU5CLWpBYUJEakZXbEZVT1dSRmJyMnlZQVY4LVFqcGNuZlVmQ0NxVzBTWFZqVDhhV09WMWZBaEVjb2ppaF9CbVEwY0dCY2JSXzBOVmNIdHdrZjlnSUNTMms0RkFtUDhVd3NORElHRmlXMTJxb0xMRC1TTXJ3a2ZzS2w2a0ZRaUE?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 10:22:00 GMT",
+          "title": "World News: Top & Breaking World News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 10:29:17 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T13:00:27.096Z"
+      "updatedAt": "2026-09-22T13:25:19.617Z"
     },
     {
       "name": "Reuters",
@@ -175,7 +175,19 @@
         {
           "title": "DoorDash reaches $131.5 million settlement with NYC over delivery workers' pay - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2VOWXprWGNXT09Kc041Y3VuSktibTJtQ2UtMTljSjAzMkY3TWJOQmFZOHhDSmZZWVdNVlhHUWFCVDBCOHZ4b2xFbzVaVlRBSmxpUVA0ajU5MWhLUEhUZm91ejJLeWhyZzZtOEw4RHJ5TzBENEtnbDg3cEt1Z1hzaEVlbkl2bWQwZHNWeDMzMjhJVExObFZBS25Hb29NQ0pPeTRLWEV3dGpTNmVYRkhQWmxIODBrLXV6?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 12:36:29 GMT",
+          "pubDate": "Tue, 22 Sep 2026 13:10:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "S&P 500, Dow set for higher open with focus on Mideast developments - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUI2bTZ5ZFhnZUozYjg5LXM1WHhuT24xUS0zYmRRZkViWVBreE05ZTNMWFBDSGhHTXUyQ3ZyMWhsUFdxSUlxUXVUUXVHWGRVelg3Z2RuVXo3bndwaXJfRXhEUEFERFNSUVZoaDNERnFxdnhuNkxLdVhnNDRpRGhxYndETzVJdVNnZXJESmpMNmw5QVFQODFGY2w2NzVCcFl0bXBSNjRaTQ?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 12:50:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "ECB, EU central banks suggest dropping stablecoin deposits rule - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXByZ1dMUmEtUkNYT0FyXzRxTVhhUWZJS0RRYU54WlNnaDRFc2lqYWF0MllMOVp1OVVEUm5OQk9yV0FCcENvZldNN1p2MGJCNWlydVpCc3lqaWI3dkFITjFjLUY5d3d0anpSU2pQWVEycUJJMTRzaGNLOUt3c3dueXA0Q0RDbkI4cnVqa05fSFZQM1l3SXRUWUVtT3p1N2JTRy14c3lOaFRMSWYtd3c?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 12:30:23 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "As resistance mounts, Trump reaches for a familiar shield: national security - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMmFXeXlvZzdyejc4Vk9VWEhlc2s2UkVrbWNNQllsZzBBTEZTbndVcUZmZFZjcGVzcF8yYktra1hDbXppTVRwNzhJc1NyUDFFOGktUTZGXzVOcW5Jbm12TzlFYVhyY1VWNDMwV3JuNVFKckhtWGp1YWRtbDdlVDJJWWZOUFkxbXlxNS1yczJvYU42NjFoUUF3YmU3Q2FYaXY0MmtoRlh2VEhRRENiSTJCVm9rY0ZIMTdkYnc?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 11:27:39 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump set for whirlwind UN meetings with wars in Iran, Ukraine on agenda - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5",
           "pubDate": "Tue, 22 Sep 2026 11:27:07 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "COMMENTARY: Morning Bid: As oil swoons, AI recharges - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWDg3N3o3aUpOS0JUNnBBVjZhOF9hendQRFd4aXNzV0ZIa1Q5Z3piVkc5NUt0ZWItMHdHeEk2ZGRaR240dFVOaHBKMVhUdXZKX3JlSFdxSktEenNrRkV1R3BWdWRINkJfVDZ1Z0lwMGtoSG9PWG9mM0xTamcyY2l3c0d4Yjg5cjBfNzFQS18ydlplWmdlcXdR?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 11:13:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "As Trump and Xi meet, investors play both sides of AI divide - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQW45WkNOV0lEcDRQOFUxcGJRanlYNURFV2ZuNVg1MUk2dk4wMEhmMUp4VVd3NjBWN1RuOHY4c0QtQ3hxcWVITnpOblZJWl9KSTBWUUVDQUgycjdlRk9lMUhvVDAxN25hVHZXM09HOGZYdE1qdDRUX19DeVpwWXlwV2JNcmdpRDROMGVlNm95NFEyaEpTN1FDYk1CazdaOXNXWkZIekRMN2lCOUN5ZXFZ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 10:56:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Kremlin says UN Security Council should add new permanent members, keep veto power that Erdogan urged scrapping - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzF5dU5XaXgyekJyZTA2NUwxNVdtQVhQeGJFaEN0RjFiT2k2NzZob3ItUUxPWVZKSTJCX3pwOEttVWJndHVyN1FTbDVNQS1aNElPTzJQQXo2MjhYWkhMMzR2U2tJb25BUkdyY3FrNXQ0VHU3d2dhRHFUWm5qMGFYSFhCWGdxVjY5VDdPQTkzQlBuWnJtNTlhdF95Mml6c3FsaHNOMVR6UHZmbVhxT2UyUGw0NWdCd3FaUGhSZDh2VVI?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 10:40:03 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T13:00:27.570Z"
+      "updatedAt": "2026-09-22T13:25:19.639Z"
     }
   ]
 }
