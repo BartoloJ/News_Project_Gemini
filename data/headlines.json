@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-22T20:00:22.535Z",
-  "lastChecked": "2026-09-22T20:00:22.535Z",
-  "lastUpdated": "2026-09-22T20:00:22.535Z",
-  "generatedAt": "2026-09-22T20:00:22.535Z",
+  "fetchedAt": "2026-09-22T20:19:00.746Z",
+  "lastChecked": "2026-09-22T20:19:00.746Z",
+  "lastUpdated": "2026-09-22T20:19:00.746Z",
+  "generatedAt": "2026-09-22T20:19:00.746Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T20:00:21.117Z"
+      "updatedAt": "2026-09-22T20:18:59.413Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T20:00:21.423Z"
+      "updatedAt": "2026-09-22T20:18:59.731Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence' - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 20:12:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTBMZ0ppZk41VENvQnJNNVU5Tmk3anJCdEJrcGRrb3dfb2dJMVRaSXNWQnhjY0wxX2Z4NHlKRXdaSXZfc2cxOHNLM1hwRGJ4WDhGNTdBb1pjTDBmVzQ1VE95SHJlYUtSVm1KdUdyYURwaGpScDBmam56OFlUZ25aaWlaczhnUzN6SkV3Y3NNTVVtblZtd183Rg?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 19:26:00 GMT",
+          "pubDate": "Tue, 22 Sep 2026 20:07:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security after prolonged tensions - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0lZX3FlTXk4M2NIbnVBaWVGQ25TdVlOYTM3V3pzQkVuOTRkYmNFemYyNGVrYVdNT19oOUtBMGZRU3ZiUzVqWTNkVDBTUWJHQjNUSjVacTNoMFhwYS1hbEhrdDdDOTFoTmxtSk1xdVhJZk9xSW0zZlNBQXNIX1FSR1N0bnFkNGVKOTJFU1RfbU9hY2V2cTRQaldfSzZPb2Q1ZGFqRg?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 19:27:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Jaxson Dart’s knee injury is still being evaluated, Giants coach John Harbaugh says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSGtXYXFCcGc1Q1FyUzFJMGwxWUEzeWNTMHozNEYwZEpPQmNNQ1R5bFJrTUUxMDUtUHphRjIzVzN5VnlTR2RqbTVxSmxYS3FTb3hqWEdCbDc3TDVqYnVLaEl3YVpRYlo1RzlMdlV1WkJwaXkwb1JrQzZYaVlBRVRPdlJ5ZDc0R3VOeG1Hb1NB?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 19:17:00 GMT",
           "source": "AP News"
         },
         {
@@ -130,99 +148,81 @@
           "source": "AP News"
         },
         {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 18:52:06 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump praises new British PM Andy Burnham but slams UK deal on Indian Ocean islands - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEVsWFoyS1p5V0doSkxXdFo1alpmRDJLQ0w2Y2NXZDhwSDR3TzJFNTUtb0xvbmlWcmF6R09OYjNRMWxhUmNRZ3VOYXluMTRoUjZtcjQ0UXFkWVBYTWNqYnhCMHhJVG1yVXh2Z29zczFFSC1qMmU4VnlucmppMnpPMkJGMlVUZ3lXRzVhME96ZU90TUhvQ0JCaVI5bnlUcENoeDNN?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 18:42:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Category 5 Hurricane Polo is an ‘extremely dangerous’ storm off the coast of Mexico - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUzcyRTlURFk0LXQ2dDVPN19KLXFHcXdURktEbjhmeGVNWUZfcHh2cjVDV2N2OHdhbUJCMzRibl8zZHU5emtYeVU0d2xxSERVX29mVGh3SThMbnhubVhUanBvS1J0eVp6TDBHbzcwOElWUTBvcGZjYjVlUzdXN1B0bjZ5RnA5QVp2?oc=5",
           "pubDate": "Tue, 22 Sep 2026 18:38:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Brazil’s Lula warns against foreign interference in electoral processes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcG1QSi1CSlVUa09NdHZXNDF6VW9GWjlxS1NSQmZBVmUzOHRtTGhsYkR5REpubmxXVFRab0JhRHV1SjdIZTJKRUVVLWU5WHphLWVKRW5CN2ctc3dCZk1qb3JoVXRlM3RzV0h4dUY5STJpbkk1T25UWGVzRU43YlNIUlk1Z3RIRUNGSHU4OGNWUHM3RkpkbFJHQWgwN3Jnc2J5NWVLdHptUzVyQQ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 18:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "UN chief says power has polarized the world and urges leaders to cooperate - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcjFxRHJVV0JVWE9udEg5eTZJSXVhT0pMNmd5Q2JIeTFPcUZONW50WGY5V3Fhekx5R1hZSXVFcE9ramYwTVVSX1g4aXNxVEl5N3hYMEYxTG5PY3F6ODRub1NMQnIzYXRqel80Y0lCaXlHWVVPTzRzd2cxcGR3bncyV1RwMmtleHp4Y2FiYkVRTV9UcVhiQ1F3?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 18:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 18:17:17 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security after prolonged tensions - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0lZX3FlTXk4M2NIbnVBaWVGQ25TdVlOYTM3V3pzQkVuOTRkYmNFemYyNGVrYVdNT19oOUtBMGZRU3ZiUzVqWTNkVDBTUWJHQjNUSjVacTNoMFhwYS1hbEhrdDdDOTFoTmxtSk1xdVhJZk9xSW0zZlNBQXNIX1FSR1N0bnFkNGVKOTJFU1RfbU9hY2V2cTRQaldfSzZPb2Q1ZGFqRg?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 18:03:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "GOP Sen. John Curtis calls for probe of Trump Jr. after wedding party bankrolled by Russian oligarch - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQjFDV1YzVlR2emowbUh3U3FSSG9pZXVOTEFya3dMcHpveU90c3N6LWs2a3I5OTlROGNnb0dsSVJhMDZ0Z3V4Z1N4T2JlM1FsQzdDWmZYMjJEdXZCcjA1U2NybjBybENwbklTUWNUY2JwTTRoUW15am1SaHFUY2tyaUdYbXVWZl94M2NJN0VpakpDLU5WekxJOW9yTHNFWlRzWnFPOQ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 17:54:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T20:00:22.104Z"
+      "updatedAt": "2026-09-22T20:19:00.258Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Venezuelan man shot by ICE agent is hospitalized for paralysis treatment, lawyer says - Reuters",
+          "title": "Nasdaq reaches record high close, AI stocks rally - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUI2bTZ5ZFhnZUozYjg5LXM1WHhuT24xUS0zYmRRZkViWVBreE05ZTNMWFBDSGhHTXUyQ3ZyMWhsUFdxSUlxUXVUUXVHWGRVelg3Z2RuVXo3bndwaXJfRXhEUEFERFNSUVZoaDNERnFxdnhuNkxLdVhnNDRpRGhxYndETzVJdVNnZXJESmpMNmw5QVFQODFGY2w2NzVCcFl0bXBSNjRaTQ?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 20:01:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UK's Burnham buoyed by Trump meeting - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQakxzMjBKTVRJSzN2ZXZOQU9ralRZd2lVb2RwLUdjZnBsaC1IWFQtUEt2R1p4cmxIQ1hwbmxscThkUExXdHdUSUo1NmpXWEFSTV9EUGl2VmZTR0RJcmpaZ3dRZktYanlKblNmLUlTaUc5Y08tX0VqaVIweTJsQ25hRUZ3YmZic0hFVGpXX2RqcGV4ZE92TFUxd09RRlc1VFh0bU81QTRRTmhEeHR1OWFqRE5paGpSOEFsUVFZUG5UZw?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 20:00:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump supports diesel export ban as fuel prices hit records - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVVYazU2NVBYOUFueHpwS0lxNDJzbFgzYVhRZ1ZjcjRyTGdESUlaT0UzQ0MtbDcyYklsVkk0TVRseTZHUjI0dlU4UmhfVmhQNzEwVVAwY1FTMVFaSHByTDNXd19NUHc5bXRuMWYyaGhmbXBsRUo0TkQ5LVRBQm5ZbndBSEc1amtZR3BrN21XWkFsZw?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 19:58:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Venezuelan man shot by ICE agent is hospitalized for paralysis treatment, lawyer says - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYk0yTFBrMGQ0MzJDaEs3a2htak1LVzNpaGZ0Wk1RU2JMWHBvV293NmxHWmdiX2FtSDNJb0FFS1ltQlBRRTBHUl9abUhyYXp0azFqWUxtLTJLd0Vjc3MxZUVvLUxzLTR1bmh2TFptM1Rsd3d4YnEtWkJyUE5aMktQRnlubi1LaUFKa3Uxa2hJVFphV0JteFY5ZEtxbWNOS2F2UDlDdm9JSlNJYnB6cVRSNVdndlJia1JLTFlF?oc=5",
           "pubDate": "Tue, 22 Sep 2026 19:35:24 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump says US Justice Department could rein in AI companies if needed - Reuters",
+          "title": "Trump calls on all ICC members to resign immediately - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXRNVVJaZXRXRER3cjgyUlU1UkxJeXNCU25Zb2pZdHE1OFFTMjI0RFpveWxqS2ZiWWxpTnRMQUJQWEg3emNLTnEwRVl6VHN5SnRVZS04NVZ0dnRZTWRCWFpwa1ZBbmZIZWxzUWFRbjFaNml5bElqZEFab3M0YS1UTDhCOTNXdXcyNTJ5T2R5Q2l0Nl9vNUpka2pB?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 19:15:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says US Justice Department could rein in AI companies if needed - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkFwcnFpOFFycEx0SEwwNUxZazVuTTh6aUNKZ0pUUHlPU2toMkk2WXAyc3RkYTdKWlVsTEVoTmR5VGJaZlhaU21OdHp2aXRWZ0VGNGtJdERKVGUtWXBiMWdKRm9JY04zTnZ3YXp5akdBU2RsS0tHZG9ESTVmR0hOWUYyaWpjYVNCcFF3c3RBVk53NC1SanNTaXpxOHdMei1SNUJPWnhLLTkzU2VOaUE?oc=5",
           "pubDate": "Tue, 22 Sep 2026 19:14:11 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump says freedom will be coming to Cuba in UN speech - Reuters",
+          "title": "Trump says freedom will be coming to Cuba in UN speech - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1ZfWXo2Vjc4Z1k3WHVVMTd3NTJ5eWpoOERzajNfd3paVmI0WnRseGxWamFiSzZ4czY1YmJDLUF5eFJxSFp2anJBT2Y0OHVfSXpDZ2xZOUpkVjE2UlVfMUxSUW1PdEttczRZRzlTWnhTbE9MVm8tX0ktc0o5ekNRQTNRUUJOWUlhRVYzSFZKc1lsNmJ0S0RLQkE1WHQ1Y0dC?oc=5",
           "pubDate": "Tue, 22 Sep 2026 19:11:58 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump at UN: Threats, diplomacy and 'super intelligence' - Reuters",
+          "title": "Trump at UN: Threats, diplomacy and 'super intelligence' - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb05jNXUydzFHZ2tRUzBGUndIZFAxTW1jYUtVU3U5NzI1ZjRsckp2YXJuOG9KRE9hOTg1Q3B3b3U1ZC1jWmN1d2J0VU1OMkVfbElFRGhONElJd3I4UklnbVZHTExmT1g2dHFESmJhQWplNWlYUzZsU1ctMW9HRVBXVDJGazNhd1JDbWltQ0hEYmttU2hh?oc=5",
           "pubDate": "Tue, 22 Sep 2026 19:09:42 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: US ties Sudanese army leader's UN visa to ceasefire plan, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHBLcDVNc2R4eEVLY19UV2t5QThiQUtBYzdtVC1IRUphZm5BejJmUnN5SXB2T0hTLUVfcDcwc083aS1hYUtpRVI3VVdtNFVwc2xSTjVDdVZPY3pqbXlpSDFwRlZWLTc1M056Wi03cGFoV3pBVHFldGNNY0xmRElLTjR5amRYdEYzLXllQjhXUDdJQTdpd0tfMHlqUlNtcTlSSnlVMUJxWjAwa3diXzlKRlliQUM1ekYx?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 18:50:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump administration halts Obamacare enrollment for over 760,000 people, claiming fraud - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2p2ZVlLTUdVUmo3aWtZRDhIbjJYQkxyYjc0R0hsRmRzMUw5M3hZNlE5a1M1SE9hZ2ZIRXFXUnV3bWp6SGx6RjRETWZ3MFNhWG50SjBwOThJemdpcldyNXRlVDNadXUzZktoc1gtLVhMbmk5UWpPM1VOY045Sks1c19YNk5YY2ZRWXRPMHQwZkdzRE5XeG44MVlJMktkbEZ0aGhfb3EzOUtPV210NXc?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 18:47:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "ShinyHunters hackers say they breached FBI - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUtFWTRZNVBNcVdtQTFFZTlJN1JBcVhOT09PdDZQRTRqWU5YbWcwSTEzWHJWT2l1dVB3T1hYcUwzYm9DYUtWazd0dWRWbE0tRHdfRWpmakVZcTlrOUR2ZHVBNmFYTTVqVU0xdzZBdTl0YU0yUHBlUHhiS3VQckl2eFNzNW5DdmdkZjhyTjdtS3ZwdWVkYW9aVDV4enBoeXVSSkdCQ21abjdPUHBzN2xkRHE4bFdFTEM1M01oeEk0cw?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 18:44:15 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says he backs the idea of a ban on diesel exports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVVYazU2NVBYOUFueHpwS0lxNDJzbFgzYVhRZ1ZjcjRyTGdESUlaT0UzQ0MtbDcyYklsVkk0TVRseTZHUjI0dlU4UmhfVmhQNzEwVVAwY1FTMVFaSHByTDNXd19NUHc5bXRuMWYyaGhmbXBsRUo0TkQ5LVRBQm5ZbndBSEc1amtZR3BrN21XWkFsZw?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 18:39:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T20:00:22.535Z"
+      "updatedAt": "2026-09-22T20:19:00.746Z"
     }
   ]
 }
