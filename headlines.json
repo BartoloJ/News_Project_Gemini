@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-22T16:00:26.390Z",
-  "lastChecked": "2026-09-22T16:00:26.390Z",
-  "lastUpdated": "2026-09-22T16:00:26.390Z",
-  "generatedAt": "2026-09-22T16:00:26.390Z",
+  "fetchedAt": "2026-09-22T16:25:15.436Z",
+  "lastChecked": "2026-09-22T16:25:15.436Z",
+  "lastUpdated": "2026-09-22T16:25:15.436Z",
+  "generatedAt": "2026-09-22T16:25:15.436Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T16:00:25.650Z"
+      "updatedAt": "2026-09-22T16:25:14.215Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "This 'fire amoeba' pushes the limit of what's possible for complex life",
+          "link": "https://www.npr.org/2026/09/22/nx-s1-5977044/fire-amoeba-extremophile-eukaryote-life",
+          "pubDate": "Tue, 22 Sep 2026 12:17:37 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Sri Lanka court convicts 15 over deadly 2019 Easter bombings",
           "link": "https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/22/nx-s1-5973302/unarmed-911-responders-police-reform",
           "pubDate": "Tue, 22 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "The best and biggest games of September",
-          "link": "https://www.npr.org/2026/09/22/nx-s1-5971441/review-control-resonant-silent-hill-best-biggest-september-games",
-          "pubDate": "Tue, 22 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T16:00:25.787Z"
+      "updatedAt": "2026-09-22T16:25:14.422Z"
     },
     {
       "name": "AP News",
@@ -127,6 +127,12 @@
           "title": "Hayden Panettiere died from accidental overdose involving fentanyl, coroner says - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFlkOXowRTd0eF9jUFkyY0N6cGRTR2NwUWZCZkF1Z1RoV0VmY1FZb3MxR0Q2Q0UwN0Fmc3haWGYxVDVlbExydmhXa1lvblB6SDdHTFgwby1TUEZQbm5Ld0pqTVJkQ2s4alcyUVRKUXUybWI2XzFJM0xZaDhPT01tT25nbUQ1U2xiMExiTURhcjcwTFljTzBLbmp6TDdFUUQ2WWVjLVZzaWNWa0U?oc=5",
           "pubDate": "Tue, 22 Sep 2026 15:31:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "New book by Princess Diana’s brother prompts war of words with King Charles III - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUU4WjE1QTZra2x2U1d2NGVVNEtxZGd1X0ttNTVHQnItX00xMlhzWHZoWjJTalZEMzRRM0ZlR1hXQWtaa3BrcWpydWFCZUVQbVJoWDI2NjJ1MTlzOUNpNll6LVlWX2VKT2lmaktoNnJnckctRXladFRTWlZxQWhNY1E3aDNjUmQ3ZGtHZ25WVkExd1BrTzhiVWxHb3NjOGs?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 15:27:00 GMT",
           "source": "AP News"
         },
         {
@@ -154,75 +160,69 @@
           "source": "AP News"
         },
         {
-          "title": "Holdout juror in Clancy trial didn't have 'any doubts' that she was responsible for killing her kids - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JJeHBURkg5QkhXVGVSUkJHbGhKUm1MNWE1ZDhyNWJtWWVfMThyZThQWlFyNzVFS0VqOWVxNkZKZTRhQUZHQlVWbFlYNkQ2NlQ2eWE3Y1pPM2NEMFlCeWpIT3V2clVYSmJfSUx1eXZCQURNem4zUXU4NzIxaHFnQ1VxM3hEbG9rSVV1Ynp0V3MxRkhsVHM1dnFSVlBucFR4Zm9FeTdnSWgtMGV6UTk1TnVPYw?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 13:50:22 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "UNGA lingo: A guide to UN General Assembly meeting acronyms, buzzwords and more - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUXJ4TjNTZ1M3U1pHcmE2bkJnUGdZTnE4ZldXY1ZMSkNnZndFUHNfTW8yTXhBMkF1cjAwS2I1N3FTd1BLU1NiX0h5NXd1d29WRFdmT1BCVDl6MEVYbi1BVnU2ZHZaaF9Wekg5TXVWMG11NHNqN3VxVzdZMWdsSTI4bkVvOXFGRnc4T0FseHRvemY0b2FaM19oR1h1ZjFxZ0tpTzV2Z254Rmg1VXNnOE02cnB3?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 13:24:40 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 13:47:23 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T16:00:25.817Z"
+      "updatedAt": "2026-09-22T16:25:14.958Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Binance buys $100 million stake in Circle, expands partnership - Reuters",
+          "title": "Trump urges compete isolation of Iran, expects deal after election - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMHFVWHVmRkJDV09JMHNSQ2RvNk5zS2NwN3lwZ3lNOFNLd0tUdjZHS09lMUhZdHBCWXZUQ1NJUHh5cUxmYlU4NjNTRGRtWDJ3UkFpb05jS1U2R2huempndzFvVEtqZmV1RjN2cTRJWWYybEpQSkptR2NjLWFySUtUeDdXMmdBd0N4dktqeGN6WjdTOGVfQXZJLVgyX2k1RTlzbDZncmktWlI?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 15:59:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US says it canceled Obamacare policies for 760,000 people last month - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2p2ZVlLTUdVUmo3aWtZRDhIbjJYQkxyYjc0R0hsRmRzMUw5M3hZNlE5a1M1SE9hZ2ZIRXFXUnV3bWp6SGx6RjRETWZ3MFNhWG50SjBwOThJemdpcldyNXRlVDNadXUzZktoc1gtLVhMbmk5UWpPM1VOY045Sks1c19YNk5YY2ZRWXRPMHQwZkdzRE5XeG44MVlJMktkbEZ0aGhfb3EzOUtPV210NXc?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 15:39:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "From smart glasses to AI pins, privacy fears challenge tech's next big bet - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUgyOXZwdDA0cWZ2dk1tOU0tcHBBZG95TXFOLUwydXpqem4xZDRfYVJvMkhocFVldVp1cXNOX01zd1Z4YnJGZmxQYWFjY044VlQ2Z1V0UlNhUkU1bEVycUlMX3ZOVGhfMEh3SHRkNlVCTzkyc0w1MXR6RXF3bmJaak1tbXRTMEVNejBTWXFPeDVNQXNPWm1TdW5TTkhGakxMUHJWZURrdVoyanhQRENfc1pTdE5YMll4YjRqNzBNWG8?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 15:22:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 15:21:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDlYaXB6UFVtWndZUGJsNy1FQzRrM203TUc1RDA0VTZ5Y0FaZ0JHVnV0dzVKMHJkSGowOUFYVUs5N1Y2QWJibzhJZEJpbk8xUmxja1o2ME9tY0hfZjRCOGFGWjVVcmVza2F2VGdvNzJjRnVlY2tzeTdIWWUxREVrNkJYRWRPazhzcG00b0NNYzJDRjlQRmhFV3JlQWNZS2lJWFZfeV9VMmdrdmJiZ0xWNlVkblM2Qk0?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 15:20:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Binance buys $100 million stake in Circle, expands partnership - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1o1SzhDUHo1NFB4VjhYdE5KNFdHWFJ1d0JwR2R6c2xLRzZmOTI1MGJ4cmx0QlY3YTZvRDlUMVJhaG4wS2cyVmVWS045WUxkZE51TjRqbW95UGczdloxMlRSTmVQVEprSFZDN0JRdnRzN0pzVFNxWDRUOXVMZU9RX0xuSmpXbGtGMTRnbDBxZ0dQSy1mRDdFY1QybkhQeGR6bUJ0U2o1enlSSkp4QXdmYVJwTQ?oc=5",
           "pubDate": "Tue, 22 Sep 2026 15:20:05 GMT",
           "source": "Reuters"
         },
         {
-          "title": "IELTS English-language exam co-owner IDP spurns Blackstone’s sweetened bid - Reuters",
+          "title": "IELTS English-language exam co-owner IDP spurns Blackstone’s sweetened bid - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXg5RnRaMk1LTEJqZ29tVjlGYV95aEkwMUpDM0JKTHBuRUVuak1NS1RfWk15MHFkeGRmRl9zRWZQcGU2MWZMOTd3SDRUT3Q1WFFHdzljajZIdzVmcXhQX21NWThPSnVQMTZsOUoxaTU5VXlVa2gydnRZV1ZBcHBSeW01SG8xY2R5MEpneFo3T3RxWjFma2l4cG1yLUJfSWMtVmZlc2YxMDB1M1VJTGxhdHZnWTJicW8?oc=5",
           "pubDate": "Tue, 22 Sep 2026 15:19:19 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump warns in UN speech he could 'annihilate' Iran without peace deal - Reuters",
+          "title": "Trump warns in UN speech he could 'annihilate' Iran without peace deal - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5",
           "pubDate": "Tue, 22 Sep 2026 15:15:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnhFeHB1dlJzNUFaZkYzM0d3cFNyaDI3bFo3VjJFYW5wc0dhandneXlLVkstbVhfd0REaXJrUmx2TF9tRTd0QzdoTExocDNHSFhwVTlVRkZ6RzhKMU4yckMwNzEzS0xtalhQQl9vSkpBdjRxbUFVczFVc1NEQVJQM3R0NEdaQThjX0owTkdxbUcxb3JuM1c3XzNCVGN4dXV4OTNBeEQ3bURQWGxnRmdaVw?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 15:10:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China names new top official for Tibet in regional reshuffle - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGFKVnhQN2tVX01XZXJKUk1MalJ6QVhwQ3pwMVp6VUdMMExuQlBDdFBRX3RVN1BnQnA4NFAwa042QnFNTUV5ZVl1TUdaNWlCb1h6OE9IaFBiTlRTNkoyRHE2Q0xBTnpYR0pnOXBuVmFrNzhmUXpvcjBuVzFEV0FJZ1lQMnlqbzBZUXFTOXhndDYzaXhkTHVoZnd0WQ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 15:03:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Traders push for discounts for Venezuelan oil as shipping costs soar, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOVVMaFBzbF9UZE5pd2VoZlZnclpPTjU3SVRDTkFzSjFOWk04VzREVjRnSlFCZTBJV1g0SXRMT3hJeFRwVjNwM2JuLTBVOHJZcndDZTc0bEt6NFlweElqQ3oyWGFtTzBUVDE1dEV4NFE5UnVDbV9IelEzU2dHNzhSQ3lKbVVBNW1pMTdSbTFqV0RCOXd6Z3FfU2NBMU1tUWZPOXItX3d5Z1RQZnRlU3VzLXVveFN2LThhSjdxaXp3?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 14:48:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Swedish prosecutors probe election fraud allegation casting shadow over vote - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQjhVVi1qNGdFZFNFVEkyVnpIV0xDNFd3VDk2VHJfb2VaNzlTa2ZzV3lLZ2xWei1LMGR6bFpBb1pwME8xN0s4akNfTVFDcEFnZ0JFZXdGMXNoOXhLSU53QUp2MEdRUWF3Zk5xOFhOLXNucmZydVlJa2ZXZ0ZTSFNhTlZheUZpTV9MQkJ1LVJfYzg4MFVZZmRUWTVwSjdwOHkybUJmcWN5dVRXdmo2NC1mTkhBX3hTUU9nUXpHbW5lc2VNVjZDc3lwampmQWVnTHBp?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 14:40:29 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Lithuania says Trump deploys fresh US troops to the country - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2hkNDhERVk5MC02LW84MnA5QllIYWNuRzc3TjhYTEMwSHFlaHd5R3UxNzhpOVRxRTV3dTdCQnRyT1JwYzliMmxXVG5LUXFRd2F3TjI1SFQ3X0VPVk5WM0NiZTE1SzdaeG9DZDh1ZUZVQUFwVklkejgxR3ltY0FPOUd1M1lpZG5NMjVZQ3lvbENQVmFNbUIzbnJtOTF2cVNsWHFPRmh0X1k0LVc5SzMzNU9VdS11UQ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 14:39:42 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T16:00:26.390Z"
+      "updatedAt": "2026-09-22T16:25:15.436Z"
     }
   ]
 }
