@@ -1,14 +1,14 @@
 {
-  "fetchedAt": "2026-09-22T22:00:24.195Z",
-  "lastChecked": "2026-09-22T22:00:24.195Z",
-  "lastUpdated": "2026-09-22T22:00:24.195Z",
-  "generatedAt": "2026-09-22T22:00:24.195Z",
+  "fetchedAt": "2026-09-22T22:25:13.816Z",
+  "lastChecked": "2026-09-22T22:25:13.816Z",
+  "lastUpdated": "2026-09-22T22:25:13.816Z",
+  "generatedAt": "2026-09-22T22:25:13.816Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Trump tells UN he has 'big decision' on whether to 'annihilate' Iran or make peace deal",
+          "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
           "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 22 Sep 2026 21:50:31 GMT",
           "source": "BBC News"
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:00:22.700Z"
+      "updatedAt": "2026-09-22T22:25:12.542Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:00:23.138Z"
+      "updatedAt": "2026-09-22T22:25:12.847Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Hayden Panettiere died from an overdose involving fentanyl. She had just gone to rehab, coroner says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFlkOXowRTd0eF9jUFkyY0N6cGRTR2NwUWZCZkF1Z1RoV0VmY1FZb3MxR0Q2Q0UwN0Fmc3haWGYxVDVlbExydmhXa1lvblB6SDdHTFgwby1TUEZQbm5Ld0pqTVJkQ2s4alcyUVRKUXUybWI2XzFJM0xZaDhPT01tT25nbUQ1U2xiMExiTURhcjcwTFljTzBLbmp6TDdFUUQ2WWVjLVZzaWNWa0U?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 21:57:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security after prolonged tensions - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0lZX3FlTXk4M2NIbnVBaWVGQ25TdVlOYTM3V3pzQkVuOTRkYmNFemYyNGVrYVdNT19oOUtBMGZRU3ZiUzVqWTNkVDBTUWJHQjNUSjVacTNoMFhwYS1hbEhrdDdDOTFoTmxtSk1xdVhJZk9xSW0zZlNBQXNIX1FSR1N0bnFkNGVKOTJFU1RfbU9hY2V2cTRQaldfSzZPb2Q1ZGFqRg?oc=5",
@@ -127,12 +133,6 @@
           "title": "Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFJIam9pcjZKcURZYTYycm1tX3FuZDhIZmFPNEhxUTIyR3VMQzdkWEZiTTFrMTRMOUs5R1ZzMGFCSzBJNzFMY0ZDVkRRVzhHU0JoeW5paHdrVk5mSmlxNTRDcWItWjNSQmV2RmpONDhxN2I0Wmk0UVV4UWRtaHlCTEJOalVGbVNGd3gyZ1pTTTVZaGc4bzlXMHE2bFM5Ql9EcFE?oc=5",
           "pubDate": "Tue, 22 Sep 2026 21:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Hayden Panettiere died from an overdose involving fentanyl. She had just gone to rehab, coroner says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFlkOXowRTd0eF9jUFkyY0N6cGRTR2NwUWZCZkF1Z1RoV0VmY1FZb3MxR0Q2Q0UwN0Fmc3haWGYxVDVlbExydmhXa1lvblB6SDdHTFgwby1TUEZQbm5Ld0pqTVJkQ2s4alcyUVRKUXUybWI2XzFJM0xZaDhPT01tT25nbUQ1U2xiMExiTURhcjcwTFljTzBLbmp6TDdFUUQ2WWVjLVZzaWNWa0U?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 21:26:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,15 +167,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:00:23.726Z"
+      "updatedAt": "2026-09-22T22:25:13.422Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "EXCLUSIVE: Snorkel AI valued at $3.5 billion amid surging demand for complex AI training data - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnpTdVJoYlBubmcxZzZDSGlkaHAwemtyWEVFaWZ4TGtQVkFhNVZ2VlViVGRXQkFTYUhQVlREVmxxcGhTYmNxMW5YbFd2TUt4Y0NVTkgtWWZjcnhYNmJQREhYTkk4elNZX0Q3STRGNG51eV81NGNaZXV1ZnR1MTBmeXhoOUt2Y3lmNEgzMFd2a184Mk5NdVo4UUVFbGlzSGhvOEJuR1ZCZ09pMFVGZk9MYnZTUWRJaEFlQ2VtVzd2bDlsQUVHbHBtSA?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 21:58:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "ShinyHunters hackers say they breached FBI, stole data on bureau employees - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUtFWTRZNVBNcVdtQTFFZTlJN1JBcVhOT09PdDZQRTRqWU5YbWcwSTEzWHJWT2l1dVB3T1hYcUwzYm9DYUtWazd0dWRWbE0tRHdfRWpmakVZcTlrOUR2ZHVBNmFYTTVqVU0xdzZBdTl0YU0yUHBlUHhiS3VQckl2eFNzNW5DdmdkZjhyTjdtS3ZwdWVkYW9aVDV4enBoeXVSSkdCQ21abjdPUHBzN2xkRHE4bFdFTEM1M01oeEk0cw?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 21:37:13 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "From smart glasses to AI pins, privacy fears challenge tech's next big bet - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUgyOXZwdDA0cWZ2dk1tOU0tcHBBZG95TXFOLUwydXpqem4xZDRfYVJvMkhocFVldVp1cXNOX01zd1Z4YnJGZmxQYWFjY044VlQ2Z1V0UlNhUkU1bEVycUlMX3ZOVGhfMEh3SHRkNlVCTzkyc0w1MXR6RXF3bmJaak1tbXRTMEVNejBTWXFPeDVNQXNPWm1TdW5TTkhGakxMUHJWZURrdVoyanhQRENfc1pTdE5YMll4YjRqNzBNWG8?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 21:35:29 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump supports diesel export ban as fuel prices hit records - Reuters",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVVYazU2NVBYOUFueHpwS0lxNDJzbFgzYVhRZ1ZjcjRyTGdESUlaT0UzQ0MtbDcyYklsVkk0TVRseTZHUjI0dlU4UmhfVmhQNzEwVVAwY1FTMVFaSHByTDNXd19NUHc5bXRuMWYyaGhmbXBsRUo0TkQ5LVRBQm5ZbndBSEc1amtZR3BrN21XWkFsZw?oc=5",
           "pubDate": "Tue, 22 Sep 2026 21:30:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "As resistance mounts, Trump reaches for a familiar shield: national security - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMmFXeXlvZzdyejc4Vk9VWEhlc2s2UkVrbWNNQllsZzBBTEZTbndVcUZmZFZjcGVzcF8yYktra1hDbXppTVRwNzhJc1NyUDFFOGktUTZGXzVOcW5Jbm12TzlFYVhyY1VWNDMwV3JuNVFKckhtWGp1YWRtbDdlVDJJWWZOUFkxbXlxNS1yczJvYU42NjFoUUF3YmU3Q2FYaXY0MmtoRlh2VEhRRENiSTJCVm9rY0ZIMTdkYnc?oc=5",
+          "pubDate": "Tue, 22 Sep 2026 21:24:55 GMT",
           "source": "Reuters"
         },
         {
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0FlV0xFS2dRb3p2QnVVUWYweUhEUDhzWUZSRElLbllxZ2VDM0ZxcnpQb1hzbUZjNjBrdmtWRW9WOExGR0t5TTcteGJuWjZfZUljaTdXWjk2c3VISWVKSmxyZUpKZmhHQWViSm9BV3RwTmRpbTFIRlFra0taRWRxeG1qUGx0ajdyZExTUm1ZaVhVYzdNX2FJTVVPOUJ0N0RRenMweUhDVGE3cUk4OVNFVW9TeHhzQQ?oc=5",
           "pubDate": "Tue, 22 Sep 2026 21:10:25 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump says Iran deal nearing, Tehran offers Hormuz reopening - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMHFVWHVmRkJDV09JMHNSQ2RvNk5zS2NwN3lwZ3lNOFNLd0tUdjZHS09lMUhZdHBCWXZUQ1NJUHh5cUxmYlU4NjNTRGRtWDJ3UkFpb05jS1U2R2huempndzFvVEtqZmV1RjN2cTRJWWYybEpQSkptR2NjLWFySUtUeDdXMmdBd0N4dktqeGN6WjdTOGVfQXZJLVgyX2k1RTlzbDZncmktWlI?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 21:08:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "In UN farewell, Macron denounces Trump's Gaza diplomacy as spectacle of shame - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2JxU1lEYzdqQzRSTmRPbUJMSWd2WTJqSWlReHpJb1A0bXJLcThQV0JGR2xIOHZsVHVucmRvSGhiOHIwMFpPWWtRVUdiWlc2OWNPNWZFOGluUkpqdlFTRS12ZDZ6Mi1mdWNIMWFxcDNZU01CaVBJalhEeHJhV1liTXFsWm1ER0hZOGFaSjdCOGpUYW13alFZakxJSTVfak53UWlwbVp1RGNHekxfYThBYkVrYXo1UQ?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 21:03:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "ShinyHunters hackers say they breached FBI, stole data on bureau employees - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUtFWTRZNVBNcVdtQTFFZTlJN1JBcVhOT09PdDZQRTRqWU5YbWcwSTEzWHJWT2l1dVB3T1hYcUwzYm9DYUtWazd0dWRWbE0tRHdfRWpmakVZcTlrOUR2ZHVBNmFYTTVqVU0xdzZBdTl0YU0yUHBlUHhiS3VQckl2eFNzNW5DdmdkZjhyTjdtS3ZwdWVkYW9aVDV4enBoeXVSSkdCQ21abjdPUHBzN2xkRHE4bFdFTEM1M01oeEk0cw?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 21:02:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump pledges 'unmatched military might' against drug cartels - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3ZiLV9yeVlIX0gzQ2dPLUp0QVVZMVFhcVJ4Uy16TktGdjBXdDkzQ2RkVDRIVXUwVHE5TE5mTzY0Y3RQU1ZIcEkxSGVjekN3M1RGc1FLRzgyOHRYWW43bVpsX0FzM3gzbDdBREhBQXRSOHdjSnpsd3E1MFItY3JhcTRlRUJaR09ORWZhQ3NnandqNDNSV1hpRFJvbDZuak9vc216VzM3aVJnc2JSUmJhX3l0VjdRZ0FqTERxQlEtVVNySUE?oc=5",
-          "pubDate": "Tue, 22 Sep 2026 20:59:05 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-22T22:00:24.195Z"
+      "updatedAt": "2026-09-22T22:25:13.816Z"
     }
   ]
 }
