@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-23T17:00:19.448Z",
-  "lastChecked": "2026-09-23T17:00:19.448Z",
-  "lastUpdated": "2026-09-23T17:00:19.448Z",
-  "generatedAt": "2026-09-23T17:00:19.448Z",
+  "fetchedAt": "2026-09-23T17:25:13.764Z",
+  "lastChecked": "2026-09-23T17:25:13.764Z",
+  "lastUpdated": "2026-09-23T17:25:13.764Z",
+  "generatedAt": "2026-09-23T17:25:13.764Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T17:00:18.495Z"
+      "updatedAt": "2026-09-23T17:25:12.476Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T17:00:18.539Z"
+      "updatedAt": "2026-09-23T17:25:12.701Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T17:00:19.007Z"
+      "updatedAt": "2026-09-23T17:25:13.286Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "US Energy Secretary Wright says diesel export ban won't work - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLURJYzl4V3RkZXJGQmlKRmZCb242YXJ2RlRBbkJxMWlzVkZyYlh6SkRrWlFWUGJ0V19yU2FSdHhrUkxzN0xBR2p5OWx5ZmVUN3ZDTDRJUENPUWQ4a2M0RThCbDl6b0FVUzhpa3EwNENCYUYtc3N5RWgxX3lFMWY1MWMtWjdtb0U1X1lwamNaNjJtMEVZSm5rMEJtSm5HWUo0V1haSXB5UjBNX05pdFZJaVk1ckNpTHFy?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 16:37:27 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump plans grand spectacle for potentially tense Xi talks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5",
           "pubDate": "Wed, 23 Sep 2026 16:34:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall Street falls as oil rebounds, Middle East tensions simmer - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEU4dTJoZV9XeFR4cENDYXhRMG1Tb3E4aHFNc1RoUEpHeVJNYmtnS1RHb0lVdzg5S1BKelZiUkR4eER2bkFZc0tjcWxlRFEyODRlVlRoNlNmblFabUhsZnJwTllqbmd2RUQ5NmI0M0JVc3B3aVkwcmt0SE9vTERyLVhFRzIybV9OMU94QlF6UGdORGhJZldzTUJ6X1F2TjhTRVpLNDZWeVN6WU1hR0ZLRw?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 16:29:30 GMT",
           "source": "Reuters"
         },
         {
@@ -191,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "NYSE and Blockchain.com to explore selling tokenised stocks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFgzaTZudUxoaXQ0TFAxVDRVdDEtZmR3MWVaYkVaeG9nUGhVLTlxbGpFY1FJQTlucHFjbmxJTTl1OEFFNTFkckQ5akprN1BZRzRHcWNWdVM4RVg3NXBIYk5pN0tkb2lna3UzR0drMXNqUUFnbk5xMi16NTV0SE1VdnpITHRobnZHR2lacEFsZVBWZmVlRzZzNjl3bHJPMUNFSndfOHN2Yw?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 15:53:50 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Iran's Pezeshkian accuses Trump of 'bullying mentality,' vows no surrender - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMjhvWl9UZXFUYjJ2MHhOTWJvdFgxYUN2b1NuVXYtYTNwVXEzS0J6cVVrZTVBYWxmNHJTLUZ6SG55eFE4azRCZVZDUloyUnVtNE85dGp5Q2xDUmtOVEdVUl8wenVVdUZpWm5ONE5OQUhSYjd1VWNfNm9Ib3g0VjBqdXItY1pTdW5XekI5MFJOWGpoazl2Y29Zb2dMSWx6S2VRckFRVm1WVUlYUkQ1S0dGM3piVGZ6TjgyNGZXcWNFVWFxN2M?oc=5",
           "pubDate": "Wed, 23 Sep 2026 15:52:40 GMT",
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3hnQVkwT1lhMVd1SElZWm1aUFYzWXdxSzZGVFBpbTJ4Tk5vT2cwWkpiWWxfbVUxak9YZjZlUWljQWNGcldnQUp5dXF2MUF0X2IyR21Zc3Z1UEJCd1lkVUJLMTBrLWVKcjQyeTJfbVhTSGVFOXl6TlNUTEI3QmJMQ2tBcmV2ZG5LWDZGNTBhdFdjUWhZUW5TSDZjNFhySkxyd2p4SkM4YUhZeDZaVHNWMVBlRjVWYmtlTnc?oc=5",
           "pubDate": "Wed, 23 Sep 2026 15:27:19 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "McDonald's warns traffic recovery may lag; unveils $8.5 billion investment plan - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVHhkRnVkWDlGdWZ1M29DQlhGTUFFMHlUUUFhTllEWHJ2WU5SQ2FidGxiSGFQVElKcFpFa1FZSUtRWDZMWFJmRFluU055WU9FMFo5R2ZlSzFWclRDN1RUQXRwS0Y2dmd3THAyVk9vaG56QUNfUVh6VXNhRkcxc1I5VXBYcm5uSkRNb0h2MjlmblZmSFVQVUJrTm1CR1FzZGlw?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 15:24:16 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Tigrayan leaders say new war with Ethiopian government has begun, as fighting erupts - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlp4SFJVZ3ZuYXdueWZPdmJaOHFNbHlFYTJELWRhMm9mQWVkN2o5Yjd2dTJFSXJkWkhfV1R5OFdxTEw3blFQMzBlV1hudkV3eGJaeHNnNmdWVnZ6S0VyenNqMU9FbXdrQXljWEF1UU1VVmZjdGRuQ3Q4LVp2cERDa0FXbUlGZkNhVENUNHZ2VXRvVU5LYVZyTXl5UmVtbDA?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 15:02:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Pezeshkian says Iran won't surrender, after Trump's annihilation threat - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjBhV01rbEcwcTJwZjdTbjF1ekxtTnZiRzc2b3p3d1NRVjZZWEUyM0gtQlFPeXBWX0hRdlVpMS11d01GVHpiQmdVY1FlN3dIZUQ4eDRTcTZBRFJxYjRMeVp3eWg5M0Q1YWw5a2N3cEhOUHlhOWRxNmZQTjVLenl2MjRrSENSaUYyTkFhc0ZNdnNoNnN0VXZOM2NhRGRLOWcyUEtXUk9wbThsdXBzc1ZYQW5iRQ?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 15:00:05 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T17:00:19.448Z"
+      "updatedAt": "2026-09-23T17:25:13.764Z"
     }
   ]
 }
