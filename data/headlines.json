@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-23T12:50:20.011Z",
-  "lastChecked": "2026-09-23T12:50:20.011Z",
-  "lastUpdated": "2026-09-23T12:50:20.011Z",
-  "generatedAt": "2026-09-23T12:50:20.011Z",
+  "fetchedAt": "2026-09-23T13:00:21.988Z",
+  "lastChecked": "2026-09-23T13:00:21.988Z",
+  "lastUpdated": "2026-09-23T13:00:21.988Z",
+  "generatedAt": "2026-09-23T13:00:21.988Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 23 Sep 2026 12:31:31 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
           "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 23 Sep 2026 09:48:50 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Eleven killed in mass shooting at house in South Africa",
-          "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 23 Sep 2026 07:02:52 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:50:18.701Z"
+      "updatedAt": "2026-09-23T13:00:20.705Z"
     },
     {
       "name": "NPR",
@@ -93,12 +93,6 @@
           "source": "NPR"
         },
         {
-          "title": "There's growing concern that Trump may deploy the National Guard ahead of elections",
-          "link": "https://www.npr.org/2026/09/23/nx-s1-5978015/national-guard-election-military-midterms",
-          "pubDate": "Wed, 23 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools",
           "link": "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
           "pubDate": "Wed, 23 Sep 2026 05:00:00 -0400",
@@ -109,120 +103,126 @@
           "link": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
           "pubDate": "Wed, 23 Sep 2026 05:00:00 -0400",
           "source": "NPR"
+        },
+        {
+          "title": "There's growing concern that Trump may deploy the National Guard ahead of elections",
+          "link": "https://www.npr.org/2026/09/23/nx-s1-5978015/national-guard-election-military-midterms",
+          "pubDate": "Wed, 23 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:50:19.104Z"
+      "updatedAt": "2026-09-23T13:00:20.831Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "FACT FOCUS: Trump made multiple false and misleading claims in front of the UN General Assembly - AP News",
+          "title": "FACT FOCUS: Trump made multiple false and misleading claims in front of the UN General Assembly - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkJXbzFjVjM1MnFTUk5xeHJtNG14b0dIekd0enVXdW4tbVBmUXhaUTRuR0tUUVV5a3Y3VTVHZWhhamg4NmlZVUxRb2ZiOHNKVlZ2VU9Wb2hxVkZBU3lUZVA5WGNPVl9XSUVLb2dIcGJCSXdudFV0RVRheE5wc291N21ZV2loejhIYm5xcFc3SUlvZHByMkdBeENVWVljVjg?oc=5",
           "pubDate": "Wed, 23 Sep 2026 11:01:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iranian advisers played a key role in the stunning advance by Yemen’s Houthis, sources tell AP - AP News",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 09:45:02 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iranian advisers played a key role in the stunning advance by Yemen’s Houthis, sources tell AP - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdmhYTnJZRmkyTG1YSmJTSDhzVkhteTFOaUIxcHBQREtBTEhpdzNZeVVVV3hGajVlc3FoYk1fUGdqSExDQ2x1QmFfUXBnZHRROWo2ZFIyY01DU011djZ2dXp0U0ZIY0s5Rjl0X0tsUmNDaXZoaVZEeU9CX2pOclBieGZZQ1dTOF9FbnRCMHh3TlREZzZFQThfN3A4SzdXQQ?oc=5",
           "pubDate": "Wed, 23 Sep 2026 09:06:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "A mass shooting at a house party in South Africa kills 11, including a pregnant woman - AP News",
+          "title": "A mass shooting at a house party in South Africa kills 11, including a pregnant woman - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWVGZzhzaVpaYVc0Yy1QVmdGeHlJN0NsU3VoZ1c4cml2Q2kwbDhYemtoSmxFeEV4Wm4tcEJaLTd0a3BqMFlvTllmR3kyYU1IX3dXd2dyemczakRYNUtyOHJseExQNG1KVUNkbWJDdnczc0ZETTREbTJ4eWlkVzhuMjZ5bDVPOEZoT3BhckxfWlJSWHhkUFpXSA?oc=5",
           "pubDate": "Wed, 23 Sep 2026 08:54:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 08:46:16 GMT",
+          "title": "A timeline of US President Donald Trump’s interest in Greenland - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTEo5MF9SSU5NbWhPTlpPNjRVRndLREM3WTB6MFJGLXZFbnp4TWpFdk5BLTJzVzVKRGFEejFScXR5N01QYVJLa2h4M0kxNGZNTE9jdnpnLTJYYXFqTkVUeHRudFp3Qjk4Z2xMb0dOWmRaeE85YjZXZXpiOUF6aGUxZWdmMFJsTG9XQktfcWpRRm1fcGVQTm1V?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 08:10:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Dolly Parton’s estate accuses her nephew of threatening violence and to destroy his aunt’s legacy - AP News",
+          "title": "Dolly Parton’s estate accuses her nephew of threatening violence and to destroy his aunt’s legacy - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFRaOWhTanBqcDFiM2twNnlFRmc2eXg2dHdxWTdrVUJtSGNUNmFCNzNjVGNMc2pORTE1NUhvRzMzNmlKMFlLOWF0cHJQY18xLXZuY3BESnRPUmVtZ0ZBT2JPSmY2RURnVTJtSWJuN3BOMGp3dXJGbktQM1lWYmN3aUFBUUtDdjBqX2xXSGZsUTk0YmtJcFBwTmUyWktNUQ?oc=5",
           "pubDate": "Wed, 23 Sep 2026 05:40:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security after prolonged tensions - AP News",
+          "title": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security after prolonged tensions - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0lZX3FlTXk4M2NIbnVBaWVGQ25TdVlOYTM3V3pzQkVuOTRkYmNFemYyNGVrYVdNT19oOUtBMGZRU3ZiUzVqWTNkVDBTUWJHQjNUSjVacTNoMFhwYS1hbEhrdDdDOTFoTmxtSk1xdVhJZk9xSW0zZlNBQXNIX1FSR1N0bnFkNGVKOTJFU1RfbU9hY2V2cTRQaldfSzZPb2Q1ZGFqRg?oc=5",
           "pubDate": "Wed, 23 Sep 2026 05:23:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Senior NATO commander warns Putin is becoming more cavalier and open to risk as Ukraine war drags on - AP News",
+          "title": "Senior NATO commander warns Putin is becoming more cavalier and open to risk as Ukraine war drags on - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFRCNGc0VG9kTExITWJ4RXNhLWt5Wkh1WnlqOEM5UkRlSGxnU29XS0JFNlBNN1RGWjZHb3g5QzBMbldwUjhLekVKQVg2UnY3WkZLQ2RqbDZFNk91N3RsTW5jUy11MFBIYjZTemtkQmpZLV9ydUd1bmhGYk9pRUhMVW05OWptaktLTHV2amtrNE44TGc?oc=5",
           "pubDate": "Wed, 23 Sep 2026 04:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump-backed Missouri congressional map returns to the Supreme Court for the third time - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0hhbFlEVXkySldGd0J4Sm94bFU4RGUtUjlicjRVVXBBZnkyVFVDUDEyekdZWlByWUtLTFA5cEwtMTFFNTBDeUlwQlBJcXdIdEtleE93TGRnYWNUazlzUVdaSjAwNnRRTEFNOGpDaXl6aFd4TEFiY0RZYkh0c3hOc1NHcmU4a3FPVFpOWGJfeU05U1lJaEJfektrUHZqX0hvVng2UHJMRnNkTkFiYVpsU0RzRUo?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 03:55:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:50:19.599Z"
+      "updatedAt": "2026-09-23T13:00:21.446Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Oil holds near two-week lows while diesel cracks hit record peak - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFhpNFFXWGZ2azRGVllBNXpwLXZQeTFySkY3Vi12SmpTNmMyY09oU3RMa3Rqb21pNUl0ZGhSbVBWQnZBOXdOb19xSlU3TnNra0F6OWowVHp5RHlSblJGTVhXandWeEFJaDBOTi1VcjdrSjVNeGVJZnVjeUJXM3NVYUgxZ28yQkVuWXNhc1pxd093NVVBTHZnWm40c01OS00zZHAwRWVR?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 12:09:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Tigrayan leaders say new war with Ethiopian government has begun, as fighting erupts - reuters.com",
+          "title": "Tigrayan leaders say new war with Ethiopian government has begun, as fighting erupts - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlp4SFJVZ3ZuYXdueWZPdmJaOHFNbHlFYTJELWRhMm9mQWVkN2o5Yjd2dTJFSXJkWkhfV1R5OFdxTEw3blFQMzBlV1hudkV3eGJaeHNnNmdWVnZ6S0VyenNqMU9FbXdrQXljWEF1UU1VVmZjdGRuQ3Q4LVp2cERDa0FXbUlGZkNhVENUNHZ2VXRvVU5LYVZyTXl5UmVtbDA?oc=5",
           "pubDate": "Wed, 23 Sep 2026 11:44:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Dollar at 2-month highs as Fed outlook 'dominant' - reuters.com",
+          "title": "Dollar at 2-month highs as Fed outlook 'dominant' - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ09vVklTVy1TeFR1N3AzZE9MUHJnb0dWeTVVUXJOS1N1dE1lT0ZSX1BSZ3RnMzVoVTdXTHhldmxGZkhCYkVTaHRMLWFrU2FUQVJhbzZHWld6TnZ5OFdXTGNDWXNUbTl1NE9qSmV5a3ZiQ0FUa3laZUdZVjRZZmNwazFoNDlKVHlkdEVQdzVLM01pb3M0S0x2VkFqN0dJRzhOLVZkenlmQzNxTVRVVm9reFRUN1psM1ZkbW1ycUhYU0VMM28?oc=5",
           "pubDate": "Wed, 23 Sep 2026 11:43:01 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Meta expected to unveil smart glasses without camera as privacy concerns grow - reuters.com",
+          "title": "Meta expected to unveil smart glasses without camera as privacy concerns grow - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObE05WERqVUVFa0UtVllxdVlwckduNFR2RGNDQ0Y4ZmJFVW4xOW8ybWR0bGwza3dMbnFzSFFmQWdmTnJDM1o4RDZZN21Zajk0aDJIcHFnZlRGZXJxYXkxaXBBR2dVZXM3ZUN1R1pjdW1faTIzOE9ucEQ2d1lFOEVkT0FuZlBrd0YxNUplS1htRXFGVVNwQTZENVl3S3JHWGVEb1N5eWxQbUo4REJLOUtMTjNOdklDUWc?oc=5",
           "pubDate": "Wed, 23 Sep 2026 11:34:22 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia pounds Kyiv with drone strikes after Zelenskiy-Trump talks - reuters.com",
+          "title": "Russia pounds Kyiv with drone strikes after Zelenskiy-Trump talks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOTZWQVc0Z0NRMVp5VkdLOXk4RWM3TjBZZzNiaXk2djBNUl9wZm0yWHhJaC1iaTNxSDU4SUtxUk9tZ1ZEbjRGRklUcVRJMVFUcFFBT000NWlZUGZnNU1mU01KUnI0VE9tUjd0TExPR3JUdWFEaGNkSURjbHduMHVYdVNlT0kyYVRxQ0lTVW1Id1J1d0dFeWc?oc=5",
           "pubDate": "Wed, 23 Sep 2026 11:25:38 GMT",
           "source": "Reuters"
         },
         {
-          "title": "AI leaders to brief UN amid warnings the technology could slip beyond human control - reuters.com",
+          "title": "AI leaders to brief UN amid warnings the technology could slip beyond human control - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5",
           "pubDate": "Wed, 23 Sep 2026 11:18:01 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump plans grand spectacle for potentially tense Xi talks - reuters.com",
+          "title": "Trump plans grand spectacle for potentially tense Xi talks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5",
           "pubDate": "Wed, 23 Sep 2026 11:09:46 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Ethiopia's Tigray region government announces it has entered a defensive war - reuters.com",
+          "title": "Ethiopia's Tigray region government announces it has entered a defensive war - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWXgyNzdQSUwwRi1hR3pkWnhvWnlJbHdaYlpFVmZGMzE5MXRuNlo2cndkdmJmMGlwVkEwN3hqOWhmUVFBUmVBVi0yR3YyMklmM2diNkFHTjhmdV83TGVXUy04VFY4cDBCbXZ2bFdlLU51azA2Y2VYcjEtcFVEMnNobEI1LXI5UHd5anhZLTJEeU96ZnFyUFZsWHJUUHdzN01sSjNucTlIMm1idlJrT2YyRDBZYzJCUTVqbndoeFBIRQ?oc=5",
           "pubDate": "Wed, 23 Sep 2026 11:07:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Russia cuts natural gas output, export forecasts - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS25VTjlhTHoyaGRuQl9lMDAyeTAtWkpKSUdpaE92WnM3UnAtcTZFYUl3akg5M2Z0a2xUeHRkMUwzanU1VlV3N192VEgwWHVWU2twRWx2X2tJRkQwR0RZWlFET3F1eU43dE1uMDdOZUVucE9SYzhldjM0YnlocHdyejZkZnZOMnJJWGtYM3VNRWtNTVR2eDVBRTdUV19JS2NH?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 10:54:34 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T12:50:20.011Z"
+      "updatedAt": "2026-09-23T13:00:21.988Z"
     }
   ]
 }
