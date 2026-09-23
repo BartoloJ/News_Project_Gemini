@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-23T09:25:14.344Z",
-  "lastChecked": "2026-09-23T09:25:14.344Z",
-  "lastUpdated": "2026-09-23T09:25:14.344Z",
-  "generatedAt": "2026-09-23T09:25:14.344Z",
+  "fetchedAt": "2026-09-23T09:50:34.810Z",
+  "lastChecked": "2026-09-23T09:50:34.810Z",
+  "lastUpdated": "2026-09-23T09:50:34.810Z",
+  "generatedAt": "2026-09-23T09:50:34.810Z",
   "sources": [
     {
       "name": "BBC News",
@@ -26,9 +26,27 @@
           "source": "BBC News"
         },
         {
+          "title": "Reports of violence against women in Gaza surge, UN agency finds",
+          "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 23 Sep 2026 05:02:26 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Hurricane Polo intensifies into rare category 5 storm off the coast of Mexico",
+          "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 23 Sep 2026 02:54:56 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Watch: Key moments from Andy Burnham's first UN speech",
           "link": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 23 Sep 2026 01:25:47 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+          "link": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 23 Sep 2026 00:05:34 GMT",
           "source": "BBC News"
         },
         {
@@ -36,28 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 22 Sep 2026 23:36:12 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Watch: Threats, deals and passionate speeches at UNGA event",
-          "link": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 22 Sep 2026 22:33:44 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Rare look at the remote engine rooms powering China's AI ambitions",
-          "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 22 Sep 2026 22:03:48 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "US to build two military bases in Greenland under new deal with Denmark",
-          "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 22 Sep 2026 21:36:55 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T09:25:13.152Z"
+      "updatedAt": "2026-09-23T09:50:18.582Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T09:25:13.518Z"
+      "updatedAt": "2026-09-23T09:50:18.884Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-23T09:25:13.969Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-23T09:25:14.344Z"
     }
   ]
