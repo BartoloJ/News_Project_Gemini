@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-09-23T17:25:13.764Z",
-  "lastChecked": "2026-09-23T17:25:13.764Z",
-  "lastUpdated": "2026-09-23T17:25:13.764Z",
-  "generatedAt": "2026-09-23T17:25:13.764Z",
+  "fetchedAt": "2026-09-23T17:50:25.716Z",
+  "lastChecked": "2026-09-23T17:50:25.716Z",
+  "lastUpdated": "2026-09-23T17:50:25.716Z",
+  "generatedAt": "2026-09-23T17:50:25.716Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
+          "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 23 Sep 2026 17:40:59 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Iran's president tells Trump it will never 'bend the knee'",
+          "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 23 Sep 2026 17:34:44 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
           "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +29,6 @@
           "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
           "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 23 Sep 2026 16:40:19 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Iran's president tells Trump it will never 'bend the knee'",
-          "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 23 Sep 2026 15:58:13 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 23 Sep 2026 14:32:37 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Eleven killed in mass shooting at house in South Africa",
-          "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 23 Sep 2026 14:02:55 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T17:25:12.476Z"
+      "updatedAt": "2026-09-23T17:50:24.395Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T17:25:12.701Z"
+      "updatedAt": "2026-09-23T17:50:24.584Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "In defiant speech, Pezeshkian calls out Trump and says Iran will fight ‘until our last breath’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc0pMRGZqMDVlNVJhb2lGU3NkelRrNlVQeTlNa1h1NDc4NWVuaUdwSTVDNFNnWDhUUlV1S1VpbDFUTU03SXlmRUJIX2o2R0gxbTNPRWY4dDZNYzBOTy1PTi13MkNsbHE5cmF5VnhZSlRwWGVjQWRqUUo4NGIwQloxQU5BazBHSXpDLWc0aFFyN0hhU1BCNHBncHJTM0JxRW1KZ1A3SzNSd2JlSmxFYmRhNDIzclNHWGF2?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 17:27:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Mississippi police make 2nd arrest in death of Black woman found hanging from tree, seek 3rd suspect - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1VjQW1MczRsU3VON2Q1TXhiMkUzakNGaHJJaU5yUGltOFgwbS1fVzJoVTBvUUVsVjJRRElZdWRmRFdGR2xDREdoUkVqN3JxVEcySnU3RHp0WEZZU2ltNUlaWTdyckZlXzJYOWpqeFVpNWY1cGRRNVBMVlFOZkp6YzF4Y01LbVRuVzVfNHNUNU5IVEpEQjQ4dA?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 16:56:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Harvey Weinstein is sentenced to 15 years in prison for 2006 sex crime in New York - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMm43NThiZEJyWnlzMmg4eUlpZEZ0VklENVdDQ202em1IenY0X2N0RGZfSlhMMkx4MUk3SHhQVUFtQWdfQkl4M2Y4S1hkLXVZa0tEWXc0b2RTMHh6bG1lR3NZSlRmamhVTUpmY0E5eEhOUGd0ZV9mUEQ2TmlUTGxVdW5xM3BrelMxaWpBeTh0WEMzRTJQa0cyeTlUMkdUT2hOUGpKNXRDUkJLbEE?oc=5",
@@ -124,21 +136,15 @@
           "source": "AP News"
         },
         {
+          "title": "Dolly Parton’s estate accuses her nephew of threatening violence and to destroy his aunt’s legacy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFRaOWhTanBqcDFiM2twNnlFRmc2eXg2dHdxWTdrVUJtSGNUNmFCNzNjVGNMc2pORTE1NUhvRzMzNmlKMFlLOWF0cHJQY18xLXZuY3BESnRPUmVtZ0ZBT2JPSmY2RURnVTJtSWJuN3BOMGp3dXJGbktQM1lWYmN3aUFBUUtDdjBqX2xXSGZsUTk0YmtJcFBwTmUyWktNUQ?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 15:16:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "How rural voters are feeling about Trump as the midterms approach, according to a new AP-KFF poll - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzd3RF8wZ2lvNFVmUUNCZVZ1Nk0wemxXNlVLY2d4QjNEMTc2SVJ2eDRGVU9NR3V6aXIzT204dFc4NllueVljTjNwSmwzSFQ2OXFCWjMxb05zSjhpZXZuTU5TcVZGVUJWc2NXSnFzeF9ERC1RaS1jU2JWN1VrSmZFRUJLUmdvb3BQM0x3LWREU2ltR3NyeGswUGotNFFJYmNidV8tSnRUWHdKcEVkNFF4RA?oc=5",
           "pubDate": "Wed, 23 Sep 2026 15:12:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Mississippi police make 2nd arrest in death of Black woman found hanging from tree, seek 3rd suspect - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1VjQW1MczRsU3VON2Q1TXhiMkUzakNGaHJJaU5yUGltOFgwbS1fVzJoVTBvUUVsVjJRRElZdWRmRFdGR2xDREdoUkVqN3JxVEcySnU3RHp0WEZZU2ltNUlaWTdyckZlXzJYOWpqeFVpNWY1cGRRNVBMVlFOZkp6YzF4Y01LbVRuVzVfNHNUNU5IVEpEQjQ4dA?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 14:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran’s president in wartime address at UN: We have been ‘victims of terrorism’ - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc0pMRGZqMDVlNVJhb2lGU3NkelRrNlVQeTlNa1h1NDc4NWVuaUdwSTVDNFNnWDhUUlV1S1VpbDFUTU03SXlmRUJIX2o2R0gxbTNPRWY4dDZNYzBOTy1PTi13MkNsbHE5cmF5VnhZSlRwWGVjQWRqUUo4NGIwQloxQU5BazBHSXpDLWc0aFFyN0hhU1BCNHBncHJTM0JxRW1KZ1A3SzNSd2JlSmxFYmRhNDIzclNHWGF2?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 14:24:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,71 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY1RRd0dhejBhZzI4ODRpdFFzSUtTSTFXTms4U2xLdjlPb01TWHFNTmxZeEc5SE5sUl9fYmRxTkpmS1FCYW5vUkQ3MjdKd3plTUZ6T3ljeXh1NDNXTndYV1ZMM0dYcU5fN00yNG5STmtXa2lMTGpTbVlDTEctakVzVlMtblhPWFZ4UmxQcC1wOGcxM2dCX3h6Yl9ySHZudw?oc=5",
           "pubDate": "Wed, 23 Sep 2026 13:14:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A mass shooting at a house party in South Africa kills 11, including a pregnant woman - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWVGZzhzaVpaYVc0Yy1QVmdGeHlJN0NsU3VoZ1c4cml2Q2kwbDhYemtoSmxFeEV4Wm4tcEJaLTd0a3BqMFlvTllmR3kyYU1IX3dXd2dyemczakRYNUtyOHJseExQNG1KVUNkbWJDdnczc0ZETTREbTJ4eWlkVzhuMjZ5bDVPOEZoT3BhckxfWlJSWHhkUFpXSA?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 11:48:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T17:25:13.286Z"
+      "updatedAt": "2026-09-23T17:50:25.227Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "US Energy Secretary Wright says diesel export ban won't work - Reuters",
+          "title": "Iran's Pezeshkian accuses Trump of 'bullying mentality,' vows no surrender - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMjhvWl9UZXFUYjJ2MHhOTWJvdFgxYUN2b1NuVXYtYTNwVXEzS0J6cVVrZTVBYWxmNHJTLUZ6SG55eFE4azRCZVZDUloyUnVtNE85dGp5Q2xDUmtOVEdVUl8wenVVdUZpWm5ONE5OQUhSYjd1VWNfNm9Ib3g0VjBqdXItY1pTdW5XekI5MFJOWGpoazl2Y29Zb2dMSWx6S2VRckFRVm1WVUlYUkQ1S0dGM3piVGZ6TjgyNGZXcWNFVWFxN2M?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 17:37:55 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "How US states mistakenly added 30,000 non-citizens to voter rolls - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2luSUFBQU8teXZBeVp0bGtvWTFPckRXNmpabWpzRUdfRjBsSjVqb0Mzbng5b1kwTVZIVmRJMkMwX2g4M2ZxMElkdzRxWFdJamcyemRUUGdWejVwTDdLam81ODhuY2FSQjg1c21DdmxTcGVtSlN5ZWNYV3ZJTHB6SVptbGhjUDVtckVHLUtuZFdtcV9OQzlXU1VweHNTX2M3QkE2MWRFSjhsZWJIYjhjWmZmTVRVaWYzSnFhOUowQi1zc184NmF0TDg3VQ?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 17:24:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Argentina accuses UN of ignoring rising tensions over Falkland Islands - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNjlQN1lfWE5sNnlsRDk5SUpoeHBuci1MSWk5N0FCbnE5MVBCeF9haDhhR0NMbi0zVk9yTnJ1alJPM0tiNHJmS0Flc182N1VGR0RFZGFYSF8xclhBNl9rNEZpMEhSR3Bnemt3M3YwUWxfUURFZWwwbWJNRzlfcVY5eUJoV0hCV0JfT0dmbHROSkwtYUJRZjNZMjV4MVNZTm9JLUJGT21GLW03N282X21vTUctWHlqVEE?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 17:10:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "News outlets will ask judge to end Trump's White House ban at hearing - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHZCTDh5UkxYMTBaTFJxcElhNlpvemdJMmYxUnRleHFwTWNRdDBoNjRmcEoyMmJMWVluLVZOelE5ek9oQ2EydlpVcUp4aUQ4TF9DTGtOSnhDVFJlSmU0cUhFY2ZNQzJLUzhJaVBQUDkyLS1lbGlCSXNPMzVsWVF3c3NkNjQ0QzJuVDFMd0xDaENVNmRHbGxlMUhIem1ESXN1Z1kzaHVoZXhCSE9KVGV4dnlBNUEtUQ?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 17:10:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US business activity at more than five-year high; inflation pressures building - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc19nQ3NuN0drQVpfdkdyMmt3UjJSQ0xHODV5UFdYSjlvUXpNdFI0eHo5MEpMemJuUHBCaU9yQ09qVXlka0RxeEF5WW05MmhNYzVZTmM4ZXVrTVJTTmJ2Z3gxZE9BcWcwM2cyWXlZMVNtTlM3YzBTWTJzMGJZcjgwbWJ3bzlZVFktSnNGeEdGNGxETDVZVUgwVml0S2M3M3QtSHp4UTJYV1dnOXd0ZkNWRTV2bnY4YklOM2FJ?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 17:08:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump plans grand spectacle for potentially tense Xi talks - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 17:07:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tigrayan leaders say new war with Ethiopian government has begun - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlp4SFJVZ3ZuYXdueWZPdmJaOHFNbHlFYTJELWRhMm9mQWVkN2o5Yjd2dTJFSXJkWkhfV1R5OFdxTEw3blFQMzBlV1hudkV3eGJaeHNnNmdWVnZ6S0VyenNqMU9FbXdrQXljWEF1UU1VVmZjdGRuQ3Q4LVp2cERDa0FXbUlGZkNhVENUNHZ2VXRvVU5LYVZyTXl5UmVtbDA?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 16:45:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Energy Secretary Wright says diesel export ban won't work - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLURJYzl4V3RkZXJGQmlKRmZCb242YXJ2RlRBbkJxMWlzVkZyYlh6SkRrWlFWUGJ0V19yU2FSdHhrUkxzN0xBR2p5OWx5ZmVUN3ZDTDRJUENPUWQ4a2M0RThCbDl6b0FVUzhpa3EwNENCYUYtc3N5RWgxX3lFMWY1MWMtWjdtb0U1X1lwamNaNjJtMEVZSm5rMEJtSm5HWUo0V1haSXB5UjBNX05pdFZJaVk1ckNpTHFy?oc=5",
           "pubDate": "Wed, 23 Sep 2026 16:37:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump plans grand spectacle for potentially tense Xi talks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 16:34:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall Street falls as oil rebounds, Middle East tensions simmer - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEU4dTJoZV9XeFR4cENDYXhRMG1Tb3E4aHFNc1RoUEpHeVJNYmtnS1RHb0lVdzg5S1BKelZiUkR4eER2bkFZc0tjcWxlRFEyODRlVlRoNlNmblFabUhsZnJwTllqbmd2RUQ5NmI0M0JVc3B3aVkwcmt0SE9vTERyLVhFRzIybV9OMU94QlF6UGdORGhJZldzTUJ6X1F2TjhTRVpLNDZWeVN6WU1hR0ZLRw?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 16:29:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Rubio says Russia and Ukraine have both voiced interest in 'limited ceasefire' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3MzYlZCZEgzcUlDYjZORWhrZEFaczhhdjlTV2tXYW9lcjk0V1BIZlpqNVM1d21rQU1GYi1vX1p2QWtLV2MtRFNUZ2VuZzRmSkNCUGZibHFPVjF1NjdBUkhrU2NmR3pzZk4wdDFSdFdfWkJfX19wdll1LUROTGVVTkF6RUQzSmZ2NXBsRi14WHJnZkJiajIxUXVfbnc5Wk5zRXBncjZhRHNveHl2Yl9MeE9GWHliX0dW?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 16:16:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Disney to raise prices on Disney+, Hulu subscriptions, Bloomberg News reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaUhucTVTbTBiR2FIcmVsa3F1MXBaZ28wa1R5SnZsbzdINzZqeE90WmVpV3hDTHBEZjZlN2tuNkwyRWRmYkZYVWlNeTVicDUydkpsTFVkR1l4MFdKaXFUVVNYZ1VFWHVNV2djdllVb2dSY0ctRkppbjJvSlY3TTlDWkI5ajhYbU1Qa0l6clhIVnpZNWdHZ015ZzF2MDMxekxKOHh1TUNydDhLV3JobGFYZ1htODRRYzVjcjZwckxDSkFfcFFZdnc?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 15:55:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "NYSE and Blockchain.com to explore selling tokenised stocks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFgzaTZudUxoaXQ0TFAxVDRVdDEtZmR3MWVaYkVaeG9nUGhVLTlxbGpFY1FJQTlucHFjbmxJTTl1OEFFNTFkckQ5akprN1BZRzRHcWNWdVM4RVg3NXBIYk5pN0tkb2lna3UzR0drMXNqUUFnbk5xMi16NTV0SE1VdnpITHRobnZHR2lacEFsZVBWZmVlRzZzNjl3bHJPMUNFSndfOHN2Yw?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 15:53:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran's Pezeshkian accuses Trump of 'bullying mentality,' vows no surrender - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMjhvWl9UZXFUYjJ2MHhOTWJvdFgxYUN2b1NuVXYtYTNwVXEzS0J6cVVrZTVBYWxmNHJTLUZ6SG55eFE4azRCZVZDUloyUnVtNE85dGp5Q2xDUmtOVEdVUl8wenVVdUZpWm5ONE5OQUhSYjd1VWNfNm9Ib3g0VjBqdXItY1pTdW5XekI5MFJOWGpoazl2Y29Zb2dMSWx6S2VRckFRVm1WVUlYUkQ1S0dGM3piVGZ6TjgyNGZXcWNFVWFxN2M?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 15:52:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "'Super' El Niño could cause 451,000 excess deaths, researchers say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3hnQVkwT1lhMVd1SElZWm1aUFYzWXdxSzZGVFBpbTJ4Tk5vT2cwWkpiWWxfbVUxak9YZjZlUWljQWNGcldnQUp5dXF2MUF0X2IyR21Zc3Z1UEJCd1lkVUJLMTBrLWVKcjQyeTJfbVhTSGVFOXl6TlNUTEI3QmJMQ2tBcmV2ZG5LWDZGNTBhdFdjUWhZUW5TSDZjNFhySkxyd2p4SkM4YUhZeDZaVHNWMVBlRjVWYmtlTnc?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 15:27:19 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-23T17:25:13.764Z"
+      "updatedAt": "2026-09-23T17:50:25.715Z"
     }
   ]
 }
