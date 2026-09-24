@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-09-24T02:00:20.637Z",
-  "lastChecked": "2026-09-24T02:00:20.637Z",
-  "lastUpdated": "2026-09-24T02:00:20.637Z",
-  "generatedAt": "2026-09-24T02:00:20.637Z",
+  "fetchedAt": "2026-09-24T02:25:14.448Z",
+  "lastChecked": "2026-09-24T02:25:14.448Z",
+  "lastUpdated": "2026-09-24T02:25:14.448Z",
+  "generatedAt": "2026-09-24T02:25:14.448Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-          "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 24 Sep 2026 00:50:24 GMT",
+          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 24 Sep 2026 02:23:54 GMT",
           "source": "BBC News"
         },
         {
-          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 24 Sep 2026 00:28:46 GMT",
+          "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+          "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 24 Sep 2026 00:50:24 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:19.242Z"
+      "updatedAt": "2026-09-24T02:25:13.204Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:19.559Z"
+      "updatedAt": "2026-09-24T02:25:13.454Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Iran’s president delivers defiant UN speech, and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSllKd01lQ2pnMElyUmpoMnBDTjFjVEpjb0RESGV3Q3VYdEQtNHp4WVZMN3ZISVB5OHhoaEJBbC1CYVZ1NzBkeGxSU0hMbUxEWTdjeEgxSHpkR1RSdjY2SVR3cFNWdGJGd2RQUDJhSlFraU5tdVZtVjhVdzNtQV9xWGN6SEVOYmFuUWxsTHEzTFJqYUZqR3lGdXA5a1FrOUpsOEdValRuMnBPTUJkMUhUX1RsYmp2MUU?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 01:19:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump welcomes China's Xi to Washington with planeside ceremony and extension of trade truce - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0RkaG5qaGdHbDlPcmdKVDdEMG5mdTlRa0tIQ3llODRmeGtlY0xuWmV1U1Jxd3lHQzI3ZjlFMHVLSzF1ODc2YmIzcjE5aDVDTHpUUTFiYU95Unh4Z01tc29pN21Kcm1JTGRxdE9PUWlrdTFiV0hVS1dQb3VuakxyV24wNWQySlBwUFBCbEc3V3d6VnVLTFpCX05Cc1NfcGJU?oc=5",
@@ -136,6 +142,12 @@
           "source": "AP News"
         },
         {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 00:20:22 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "US diplomats told to say ‘super intelligence’ — not ‘artificial intelligence’ — after Trump’s call - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDBXSVlKYjVLV1hzNnphbmpRampOMGcxUDBCVDdfanV2QmNUWk5fTW5PMFJ1SzB1VUZUQ25GUG55YXgycE13eU5jSlNiUGk5MUZTSFhHQU9pSlJXX1g3Uk82QXc4YktHdVUycnF4OEplZWRyY2txSVZEQTBHMHU3VHhHSW9NUW9HdnUwelBYdHFFSWlhWnJyUVdTUWI4dE5IODNGY2NDZC0?oc=5",
           "pubDate": "Wed, 23 Sep 2026 23:45:00 GMT",
@@ -148,26 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Iowa judge dismisses Trump’s lawsuit against Des Moines Register and pollster - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEhlUzVLcF9GRUdVbzlVVENZcTB0NTVIdmJ4MTRHTm96TXFCUHZ4RnJQejlUSGhSZzNZX2FGbW1Mb1gxdzZjRnNpZHN4bUNQZS1jOWJpOFY2N21PSnFoTzkyOTlfd3JzYU0wUnl5R2x2Yk9zcUdURTVyMjRNUjVidEdMa1ZEd0VNcU5QWmJzOVhXUQ?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 23:08:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Judge hears arguments without immediately ruling in lawsuit over White House ban on 3 news outlets - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNalBoUWRRalVFSTdqTGFORHFXb1VoLUE4b0h3S0pWX1FlN3pvTjNjdEttQVlEbXhoaW9lTVdaZUdfRGJPU2s5X19ZdTFGLXJ4bG9DZGx0cEhPbnFmN3d5aUo3VzgxVVVaUzNHN2I5MzF5NWdweEVsWDUwSmVSd29YZ1lUVXJRVmRTY2t1VmRDdzRudEF5VTE3b2QwZkZTdw?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 22:37:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "FDA panel endorses first-of-a-kind cancer blood test from Grail - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPam4tNGpDTHp4ZVVDYVM3cVc1SC0xYzJCNFZvX3B3QjdRRjd4dFdWNUc2WGZ0dkl3VE5Xd2pMblZ5eHN1Z19wcUhNdWg4cTlMODBYa1N4X01CTXVLMnNnUWNaWjhBeU1VNldqdXV4UHpRTW9MWTIyQ3pPeWpPYnhOODZWaGJsYjFGdy1vNjZB?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 22:28:00 GMT",
+          "pubDate": "Wed, 23 Sep 2026 23:10:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:20.207Z"
+      "updatedAt": "2026-09-24T02:25:13.958Z"
     },
     {
       "name": "Reuters",
@@ -203,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Wall Street ends down as oil prices, Treasury yields rise - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEU4dTJoZV9XeFR4cENDYXhRMG1Tb3E4aHFNc1RoUEpHeVJNYmtnS1RHb0lVdzg5S1BKelZiUkR4eER2bkFZc0tjcWxlRFEyODRlVlRoNlNmblFabUhsZnJwTllqbmd2RUQ5NmI0M0JVc3B3aVkwcmt0SE9vTERyLVhFRzIybV9OMU94QlF6UGdORGhJZldzTUJ6X1F2TjhTRVpLNDZWeVN6WU1hR0ZLRw?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 23:20:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Barry Diller's People withdraws bid for MGM Resorts - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObXg2TTV3Zno3MnRraFNqZnJJSl9tQ2ZZZzhyNzNITG9oc1BfOVFLYWJ5aXdvQ3Z0MUp2YTV2X2wxcXJNclB2UlZEdTdGRHJ2RElTV1Zwc3JvczdVNnJ0ckl0bGpwMmZOMU0tZ1FtbXdrd3dsdGUyN0hObm93SHhuTmV0OHJGaWEtNUkwWkZ1SU5la3o4RFduN0R1VQ?oc=5",
           "pubDate": "Wed, 23 Sep 2026 23:19:04 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHZCTDh5UkxYMTBaTFJxcElhNlpvemdJMmYxUnRleHFwTWNRdDBoNjRmcEoyMmJMWVluLVZOelE5ek9oQ2EydlpVcUp4aUQ4TF9DTGtOSnhDVFJlSmU0cUhFY2ZNQzJLUzhJaVBQUDkyLS1lbGlCSXNPMzVsWVF3c3NkNjQ0QzJuVDFMd0xDaENVNmRHbGxlMUhIem1ESXN1Z1kzaHVoZXhCSE9KVGV4dnlBNUEtUQ?oc=5",
           "pubDate": "Wed, 23 Sep 2026 23:18:11 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Russia pounds Kyiv with drone strikes as Zelenskiy addresses the UN - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOTZWQVc0Z0NRMVp5VkdLOXk4RWM3TjBZZzNiaXk2djBNUl9wZm0yWHhJaC1iaTNxSDU4SUtxUk9tZ1ZEbjRGRklUcVRJMVFUcFFBT000NWlZUGZnNU1mU01KUnI0VE9tUjd0TExPR3JUdWFEaGNkSURjbHduMHVYdVNlT0kyYVRxQ0lTVW1Id1J1d0dFeWc?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 22:33:23 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T02:00:20.637Z"
+      "updatedAt": "2026-09-24T02:25:14.448Z"
     }
   ]
 }
