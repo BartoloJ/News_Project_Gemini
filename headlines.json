@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-24T00:43:13.687Z",
-  "lastChecked": "2026-09-24T00:43:13.687Z",
-  "lastUpdated": "2026-09-24T00:43:13.687Z",
-  "generatedAt": "2026-09-24T00:43:13.687Z",
+  "fetchedAt": "2026-09-24T00:50:50.711Z",
+  "lastChecked": "2026-09-24T00:50:50.711Z",
+  "lastUpdated": "2026-09-24T00:50:50.711Z",
+  "generatedAt": "2026-09-24T00:50:50.711Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T00:43:12.745Z"
+      "updatedAt": "2026-09-24T00:50:49.558Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T00:43:12.807Z"
+      "updatedAt": "2026-09-24T00:50:49.755Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Venezuela’s acting leader, at UN for first address, promises elections at the ‘right moment’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTRXbmF0YWQ1bm0xdDBXSEJ3WndTRzdsUS04WnNUaDUxb1RRVGJfQ0ZoMHBPZy03Tmx3OE9Fc2QydUJjdUJYSUxNSllfQzV1NWJSdFBoS0ktRlV3RXdxcjBYNEZBNTZpWDJPU1BTMkdVUEFsOW12M0hyeHc0VS1nNnNPbjRZY2Jpb0hBTHlyTGdLS2JKYkc4aWtrSlBrd3NDZDIwbW00VEg?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 00:35:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Zelenskyy, at UN, urges leaders to keep choking Russia's revenues and impede its war efforts - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFp6UGxFQ2ZuSExJX0xzaWdjNWRsWDh5MjZ3dlNfT1hFbUxSRE9LaVhlckN6UXZlTGtXU21WdEUxZFpXem1NSXYxVV9raG11X0ZxMmg4eDFwN0dOTWR5VHBERDZtOEJVM0xQeWZ5M09SamJYeE5VUE5ud3I4elRidjdvd1NlXzRQd1Axb05abkk4UndESDE1MlVBZDZ4UQ?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 00:31:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "China's Xi arrives in Washington, kicking off his state visit with rare planeside welcome from Trump - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0RkaG5qaGdHbDlPcmdKVDdEMG5mdTlRa0tIQ3llODRmeGtlY0xuWmV1U1Jxd3lHQzI3ZjlFMHVLSzF1ODc2YmIzcjE5aDVDTHpUUTFiYU95Unh4Z01tc29pN21Kcm1JTGRxdE9PUWlrdTFiV0hVS1dQb3VuakxyV24wNWQySlBwUFBCbEc3V3d6VnVLTFpCX05Cc1NfcGJU?oc=5",
@@ -136,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "Iowa judge dismisses Trump’s lawsuit against Des Moines Register and pollster - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEhlUzVLcF9GRUdVbzlVVENZcTB0NTVIdmJ4MTRHTm96TXFCUHZ4RnJQejlUSGhSZzNZX2FGbW1Mb1gxdzZjRnNpZHN4bUNQZS1jOWJpOFY2N21PSnFoTzkyOTlfd3JzYU0wUnl5R2x2Yk9zcUdURTVyMjRNUjVidEdMa1ZEd0VNcU5QWmJzOVhXUQ?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 23:08:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Judge hears arguments without immediately ruling in lawsuit over White House ban on 3 news outlets - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNalBoUWRRalVFSTdqTGFORHFXb1VoLUE4b0h3S0pWX1FlN3pvTjNjdEttQVlEbXhoaW9lTVdaZUdfRGJPU2s5X19ZdTFGLXJ4bG9DZGx0cEhPbnFmN3d5aUo3VzgxVVVaUzNHN2I5MzF5NWdweEVsWDUwSmVSd29YZ1lUVXJRVmRTY2t1VmRDdzRudEF5VTE3b2QwZkZTdw?oc=5",
           "pubDate": "Wed, 23 Sep 2026 22:37:00 GMT",
@@ -146,83 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPam4tNGpDTHp4ZVVDYVM3cVc1SC0xYzJCNFZvX3B3QjdRRjd4dFdWNUc2WGZ0dkl3VE5Xd2pMblZ5eHN1Z19wcUhNdWg4cTlMODBYa1N4X01CTXVLMnNnUWNaWjhBeU1VNldqdXV4UHpRTW9MWTIyQ3pPeWpPYnhOODZWaGJsYjFGdy1vNjZB?oc=5",
           "pubDate": "Wed, 23 Sep 2026 22:28:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "FBI investigates hackers' claim to have stolen sensitive employee data, compromised jobs website - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbnphd05odjktQV9NY2U2eWtjNFhVSlZ5aTFzVDVSdkVPUWpuM2ZuMVV0M3JqRjVWY1lvUURIRGJzdFhqTGMtaEpOQUpaZGhBWnZERjNSZXdBcGd5Zkg5RjVVUVhPYkVtVlNDMzhadVNoZEtrMXF5dnRSWTROaEJZVHk0VUNrd2lWVmZmZjZZYmU1MmlGNnFjdlBHamswRGVuVGZIUXNuVXk?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 22:09:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Harvey Weinstein is sentenced to 15 years in prison for 2006 sexual assault - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMm43NThiZEJyWnlzMmg4eUlpZEZ0VklENVdDQ202em1IenY0X2N0RGZfSlhMMkx4MUk3SHhQVUFtQWdfQkl4M2Y4S1hkLXVZa0tEWXc0b2RTMHh6bG1lR3NZSlRmamhVTUpmY0E5eEhOUGd0ZV9mUEQ2TmlUTGxVdW5xM3BrelMxaWpBeTh0WEMzRTJQa0cyeTlUMkdUT2hOUGpKNXRDUkJLbEE?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 21:48:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 21:47:33 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T00:43:13.270Z"
+      "updatedAt": "2026-09-24T00:50:50.240Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "COMMENTARY: Passive investing? That S&P 500 index fund is basically a tech fund - Reuters",
+          "title": "Four US Republicans call for Trump to release Taiwan security funds - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdFNGMkFCcDNETkhJNnowdEVGS3RQenJ1T2ZRUEZFRTlpdnROV1dGT2tPTG11OFQ3Y0xsdHJBcUFTLU9IVGswQmlqZzF5SnczeDA4SklSSk5wb203TkFaek4yS1BmS0g4SGNPenRuUXhDYVEtWVBuQ2lGcXRkLVVBMkI1eUhFSy1ERndkWFNQUm91SHBsMWdTZjh2b2IxYVpLNE5EdXdaQ2NXYkowaFRCMW1pRGJlNGlqaGxuSXRDMFY?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 23:43:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "COMMENTARY: Passive investing? That S&P 500 index fund is basically a tech fund - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcGY4UmFUZVpIMGFvTzNScC1xaXVNNGZzaXh0Y2o3a1RYRjJTNjBvY216a3paQWVSLXlodGktMEhpVlRnRGxtRV9TOXdzVjMtRFB2ajhGN0ZKU2d5azRZTnMwdFBmbElPWC1BX092cXFJTy1taTZmQ1dVdjBkZlFOeHFrNTBFVWZ6VFZEMFpxR0RUb21wMmNETHRJUktxX2RjY2V6TzJjV3ltcWt5VklKV1RSUE90VzJ1aFRYYWRPc1huSVhYZ01RLVFDVUlhMG84SktaQW9iM0c?oc=5",
           "pubDate": "Wed, 23 Sep 2026 23:40:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Australia says OpenAI agent breached government health data portal - Reuters",
+          "title": "US, China agree to extend trade truce by two months, work on bigger deal, Bessent says - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTnhVVmVJN29ISDRHWjZ5eW5ON2VoSnJvM1plbXoyUTdxX1lNUzRxVmJMMTR1dHlRVzJEVmoyMm9UeDdXZjdPOWs2VmhsZjNrRV8ydXFLcFJsWXUxeG5YWjFQVVNoZ1pFV1B0TTdPWVBTdTRfcl83dTVvQ2VNSkpjcW5MZnZOTV9KeWRXNS1zV0JsNUVTMXpuU2dDdXN6YmxVWWVhTVNUdWpxSnNYaV9UQzEyU2VTWGFfNUNxM2g4NFo4emtJTk5VVnhYSFVHZw?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 23:37:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Australia says OpenAI agent breached government health data portal - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWZud0ZEMW9uYlUwVlpoRlBIbW82Tjc4Rjl3WW5jcWxVR25wSmZCTXlOdHkwR2VrQzdzZkUwX3lNMXBGUkZMZU1sYS13dzRRb1RMRzFOVjc5RmJIbXFfNy1ob1VZY1ItYS0tQW9XVHNLc3p3UEJwNy1QRWVSYVFjQnh0ellEX2JSZkpSdXlMYVI4UkV2VE05enVnZFJuV3BaS1pVczF5VE9vaTdZOGZyU2tjTk9oVVE5RVBjTnVWNGNUZzVEZDM0?oc=5",
           "pubDate": "Wed, 23 Sep 2026 22:34:30 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia pounds Kyiv with drone strikes as Zelenskiy addresses the UN - Reuters",
+          "title": "Russia pounds Kyiv with drone strikes as Zelenskiy addresses the UN - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOTZWQVc0Z0NRMVp5VkdLOXk4RWM3TjBZZzNiaXk2djBNUl9wZm0yWHhJaC1iaTNxSDU4SUtxUk9tZ1ZEbjRGRklUcVRJMVFUcFFBT000NWlZUGZnNU1mU01KUnI0VE9tUjd0TExPR3JUdWFEaGNkSURjbHduMHVYdVNlT0kyYVRxQ0lTVW1Id1J1d0dFeWc?oc=5",
           "pubDate": "Wed, 23 Sep 2026 22:33:23 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US, China agree to extend 'the Busan agreement' until January, Bessent says - Reuters",
+          "title": "US, China agree to extend 'the Busan agreement' until January, Bessent says - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2llUUdOb0lDeW5MNDVtS01Tc3FqUXh5ZjhQTDZjbnU4Y3R2Umg3OTFSRlI0dUczV2swYkUtbVVISzM2a2I0cFhVdmMtTDlCMVVtdE1GVUFLdlppaU5rMHVIT2pZb3JUNTNDbTJDUWlvUXhkdGt6SGZfaElISXp2UDJXdHF2bVBtaFpMNDI0eURDNkNybUUyN29uN0thTmp2eXZ4VEpnT3M4cXh6ekRMc0h5VVZHQ1E?oc=5",
           "pubDate": "Wed, 23 Sep 2026 22:23:27 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump plans grand spectacle for potentially tense talks as Xi arrives in US - Reuters",
+          "title": "Trump plans grand spectacle for potentially tense talks as Xi arrives in US - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5",
           "pubDate": "Wed, 23 Sep 2026 22:12:08 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Tesla's supervised self-driving system often misreads speed limits, Belgian safety group finds - Reuters",
+          "title": "Tesla's supervised self-driving system often misreads speed limits, Belgian safety group finds - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUVNFdko3aEg5amFUWUpBT2M5a01DZXFvQTF5Q1JfalNYd2lQaW05T3JkQ3ZlUWR4Sm96cURIT2Y0SGZLeTB1RmN3WFJmVEVUTkFRNml6MTVDS0JaUlRvRjQ0X2RSV09zT2M1NGR2MHZfQzN0emlad083OTl4U2ppZ1U5Snh4b3NoT1ktZzNDTGpiX0I2NGNDNURqb1NQUEx3aFlob2VvZGJBSVZWWGN4Y0s1WElxcmI2bWJlUWNld2pEN2oyR1E?oc=5",
           "pubDate": "Wed, 23 Sep 2026 22:11:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Why new war in Ethiopia’s Tigray threatens to trigger wider conflict - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdUNJbGRWamoxZS10VnNEUkNHeHk3N08zWVlJdWFLUWpHNVBjYnBJbjlaTGw3bzVjOVZTYl82TWxDR2h6by1PSEdHTmZLeHdyY2ZtMkp4V0lDQXoxN2lZeTJqdHVhVThRSTdueWJlX3dtWUY1Wm55M2N1R2RvTFdWUTdCU1Q0a19XSU1qQ19SQnFpeGdWOWcxVE1TalkyU0FVS2NGX1l6WURMNHFnWjdZ?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 22:09:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Energy Secretary Wright says diesel export ban won't work - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLURJYzl4V3RkZXJGQmlKRmZCb242YXJ2RlRBbkJxMWlzVkZyYlh6SkRrWlFWUGJ0V19yU2FSdHhrUkxzN0xBR2p5OWx5ZmVUN3ZDTDRJUENPUWQ4a2M0RThCbDl6b0FVUzhpa3EwNENCYUYtc3N5RWgxX3lFMWY1MWMtWjdtb0U1X1lwamNaNjJtMEVZSm5rMEJtSm5HWUo0V1haSXB5UjBNX05pdFZJaVk1ckNpTHFy?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 22:05:42 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T00:43:13.687Z"
+      "updatedAt": "2026-09-24T00:50:50.710Z"
     }
   ]
 }
