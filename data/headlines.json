@@ -1,16 +1,28 @@
 {
-  "fetchedAt": "2026-09-24T15:25:13.862Z",
-  "lastChecked": "2026-09-24T15:25:13.862Z",
-  "lastUpdated": "2026-09-24T15:25:13.862Z",
-  "generatedAt": "2026-09-24T15:25:13.862Z",
+  "fetchedAt": "2026-09-24T15:50:18.549Z",
+  "lastChecked": "2026-09-24T15:50:18.549Z",
+  "lastUpdated": "2026-09-24T15:50:18.549Z",
+  "generatedAt": "2026-09-24T15:50:18.549Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 24 Sep 2026 15:42:07 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+          "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 24 Sep 2026 15:37:45 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
           "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 24 Sep 2026 14:55:34 GMT",
+          "pubDate": "Thu, 24 Sep 2026 15:31:54 GMT",
           "source": "BBC News"
         },
         {
@@ -23,12 +35,6 @@
           "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
           "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 24 Sep 2026 14:08:38 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-          "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 24 Sep 2026 12:49:32 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 24 Sep 2026 08:26:19 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 24 Sep 2026 07:10:58 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T15:25:12.517Z"
+      "updatedAt": "2026-09-24T15:50:17.340Z"
     },
     {
       "name": "NPR",
@@ -87,14 +87,14 @@
           "source": "NPR"
         },
         {
-          "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
-          "link": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
+          "title": "The Education Dept. hasn't been dismantled. It's become more inefficient, staff say",
+          "link": "https://www.npr.org/2026/09/24/nx-s1-5968605/education-department-dismantling-how-its-going",
           "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "The Education Dept. hasn't been dismantled. It's become more inefficient, staff say",
-          "link": "https://www.npr.org/2026/09/24/nx-s1-5968605/education-department-dismantling-how-its-going",
+          "title": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
+          "link": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
           "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -105,14 +105,14 @@
           "source": "NPR"
         },
         {
-          "title": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
-          "link": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
+          "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
+          "link": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
           "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T15:25:12.673Z"
+      "updatedAt": "2026-09-24T15:50:17.564Z"
     },
     {
       "name": "AP News",
@@ -120,19 +120,13 @@
         {
           "title": "Trump hails ‘truly great friendship’ with Xi Jinping as the Chinese leader begins his state visit - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUlSSmFoWUZsM1V4WlJhUkNONDJwUVRNMEpacHR2ckJUT1ltenVUc2JoSUJMejVtR2g1RkNWZTlpNTFDM1ZTZUhQb0RSbEFTNm40c0Nsc3g0X01ySTZOYWxXT1FUR1FvUmlVV3B4dGhpbDVfcG1FNjNMeXdjSW9BZG9aa1d2c1lMQkhCRDRncw?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 14:51:00 GMT",
+          "pubDate": "Thu, 24 Sep 2026 15:15:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Reporters are still blocked from the White House after judge’s order to restore their access - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFNUM3VIUEdwTndqbnFYUjk4OUYzUHNvQ0syOVNEQmNNSUxvd1FzNWdDYnpZcjJyV0xKU1BWUzc0eFVqeFRka3VNU05MeGRIT1ppWDJnbE1xMjZDbVVIc0hZT0pfUDBfNGZLUzhIOVRfU1h2N0I3SjJTajNuYUFrSFVONEVxYlpLa0F1TjcyT3diOU9nNWhhVU1zQW1XeTNSNWw1ekdMdXdQeEk?oc=5",
           "pubDate": "Thu, 24 Sep 2026 14:48:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "KFC opens a Texas restaurant to test ideas for reclaiming its fried chicken crown - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPalZyd0RaajVLMHJ6dUwxMVNDOXJ4QmlPT1NKRlRkUjdla2ZHUVZiYjBMRWJyaXZ6MWprZ2I1ZC1sdGx5QldpUFV0U0ZWZThXeDk3UXZZaFB1eGs2bjNsb3pWNEVSVHNnQk9qcEFQaFdCNjBpS215d0NXUWxNa0l5VUVHUQ?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 14:00:00 GMT",
           "source": "AP News"
         },
         {
@@ -150,13 +144,19 @@
         {
           "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 11:00:22 GMT",
+          "pubDate": "Thu, 24 Sep 2026 12:01:48 GMT",
           "source": "AP News"
         },
         {
           "title": "Turkey will hand over key base in Iraq in a gradual troop withdrawal deal - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXAxMmMwSW9sZGxkUnpfdjdqOEZBUmIxOURJS1QzQnBuWkdVUVNlNGV0RFVQT0ZjaWhVdl9CN19xTzJKSWo3VG1FZ3A3cTZ6OVdFaEEzRXZtU2JETGZYVksyTmhNWmVqQmVYYTJFcnVteDBXVFdjRG1BN2Y2dmZrOHkycjBtUWdUMXM2SVpmVHNuWkE2SGdWdXJvc2VISktJMkxz?oc=5",
           "pubDate": "Thu, 24 Sep 2026 08:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Zelenskyy, at UN, urges leaders to keep choking Russia's revenues and impede its war efforts - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFp6UGxFQ2ZuSExJX0xzaWdjNWRsWDh5MjZ3dlNfT1hFbUxSRE9LaVhlckN6UXZlTGtXU21WdEUxZFpXem1NSXYxVV9raG11X0ZxMmg4eDFwN0dOTWR5VHBERDZtOEJVM0xQeWZ5M09SamJYeE5VUE5ud3I4elRidjdvd1NlXzRQd1Axb05abkk4UndESDE1MlVBZDZ4UQ?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 07:30:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,15 +167,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T15:25:13.404Z"
+      "updatedAt": "2026-09-24T15:50:18.129Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "U.S. yields rise, 30-year bond yield hits highest since 2004 - Reuters",
+          "title": "Global bond rout rolls on, pushing US 30-year yield to highest since 2004 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOG41MExjN21pM3Z3V2JFMGkydXNYQW5YSEFfbTd2N2pOenR6R3pKQ0ZVWnVQZElXXzdBSXNLdTl4Q0ZPMzItVkIzR3hWNjZrMUNRZzJsa2xYQVNvQ1h2REJuNW1HTGpCb2lsdjdyWkZacjV6NnI1aHA4Y2JFN0sxYm5TYlBTSkhGWkd6b2dWaWNpbTVHYkhWb0lnNFo1al9scmVqT0tXZkh5ZFU?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 15:07:09 GMT",
+          "pubDate": "Thu, 24 Sep 2026 15:22:53 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "CNN, MS NOW and Politico denied access to White House despite judge's order - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGZDelJBRHdvcFBwNGNlTGwxdVNHNnk1UmhJeDZUZWd2Y3o4ZGw4QTVaM2VrT21MQWt2eUUyR2c5cnR3ckdadDZNS0RSdUpLX1FVMHpqU1B3aWVyeGs3aGp0RE44R2JoRG55QlhiUWRQOWRhUGtoZ1ZoMlhydDJOQlRPU2JkbldsaDB4UUc3TVJxU2xwMFVvbHlMNG1UOHNPWUUzSmVaVHFCR1Y0SmJvRmFSNFVDU3JyNHdhTkp0a1RuQmEzWjNrcw?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 15:21:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Democrats tee up pre-election war powers vote as some Republicans break with Trump on Iran - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU45a3FvODBzSXpndWg1QUVuQzlqUmVJWjZEWUFXNWltVUx0Sm4zbDE1X3lFSnFYd2hQeGotT1YtejB1NU9lZDJKcnJjeEZqNkJtZkQ0anhFUG92V3pWLXlyQzhIalFwTzRuVnVvd3BGQ2tfYTJ3RUxMRlhlWTdTUFE3MnAzMUxmallxcE9SZU5ldmxJeE1fYnhyT0c5eG9lVXVydVg2TFhnbnFJYUFsOE56U194eTltTnc2bGFR?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 15:21:23 GMT",
           "source": "Reuters"
         },
         {
@@ -191,38 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "New York sues Polymarket, says it ran illegal gambling operation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHBKRzNuRV9UcDlISEg4M2tsZURmLThPQW1ZbDMtRG91aDVLeWJJT2xsenpqbi11dENjOVp6TmpXWllXNTVmT1FFczRmY1U5YkVXVUZ6bTRIVUlSRWk5MnNDWWJobnoyU2dqSHAzR1pMaTJyR2NQa1QwQlBmX2pnUEx1ZG9oTGo2U3FDekFDYlJrVVltVG9TMmVleXNaNk5aLVVVS0VBSHk?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 14:47:12 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "France says ICC warrant posed no obstacle to Netanyahu overflight - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2k3Y1V3ZHVBLTh5T2VqZTE0TWFOT2J5UndDUkZhQmVaYTZEdjBvSVFxaUl4a1Q1eVBPV3NGQmw3RUtsOUJha1pTM3cyalVnWmxFcENwX0x5c1dvU19va2g4Ylg2TDdzMkpZdUpxOEN6ZjgtejN1TlU5SnFjWWF2dklxSVVxRW8wcnRzXzFFYmlOWVNXdmNSdTV1d3hvR1didF9obDJKeGRuMk8yVHMwTQ?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 14:38:09 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Infantino looks set to stay, but FIFA faces a new war over power - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ004UTM5QzNmUXhUZGRRcTZpQVRPYzltSXJaRHFlYWpLb3AyUFd6OUdxREFjRW1UcXVuaHhkRjQxc2cxX05qTDBLWXRnY1hGbEU0TG9JelZyUEpPVFpWQk00RWdNX1hjX09EZkhWMUYwb25RTkNoVGkxNXV4MFpYRlNqY3BWUUItZk15WHJjUHY4ZDZmYktyMVNKR0ZvMC1oMUlJOHJJbw?oc=5",
           "pubDate": "Thu, 24 Sep 2026 14:27:39 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wall St slips as Middle East uncertainty lifts oil; Trump-Xi talks in focus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 14:21:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Fed's Williams says it is reasonable to see another US rate hike this year - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkdqZ3lLWVItQUduVDZkZW45dEhCcmIwUEM4QlZFSVoxN0QxVEl0NTk4MmtqYVktY3JjNGFGOGZSaVRNMDJFX1QzTXRjYnVkWm0yQUFlU1hWRTNsbXRlY0pIa3RGWEtkamtjdUhERE1qLVlsQTgyNjBGSzA0ZXFLS29pQXM3QTBOTHZuYXRZT2paWlBPWk90eFM3NzFBRnBTZFZaVGF3cFA0V3lCY1I5T09FQWVhdw?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 14:17:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morgan Stanley Asia deals leaked in missent email attachment - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSlFJZXJZckJCM3Bob0VyRjMwdE9zREZUUURfck9TVmIwM3NZZ2RzQjljbFE4dndKWFdjNEVjNmtfNWxCbUlnN3JJRlVWVHJ6Tll5eE5XdmJ0d0I4M1FoUW1UeVFBeHRCNENKSFNGeFFkd21lTTVFb0NLNFpaNkEzemhzTjFTdDl5Um1HbWZnLTFacFdGSkowM2tBN3VaUDhvSXlSQWt1RkZpRUpCalhTSWl0TQ?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 14:10:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hedge funds sour on basis trade as Treasury selloff continues - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3JBNU5Xd01SNmh6MUZJdkpYR29fb1ZadV9HX1FaMVZhVVEzREVwTGZKQVVxUHNsSEUtQWF3SlJYWTc1UkxsdXQ2VnFPNk1wRjI1cWR6TWJ6QmplekltYWVBTnBBRm1BcWpFRG95MG45WVJKaHJXWE9SNG80cFZIOHBrWm12U2txZGp2YWpmbkVjMHVwcElUZ0xrVE5fc1JHcm01X3REQ0QwZFdNMUowVQ?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 14:04:18 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T15:25:13.862Z"
+      "updatedAt": "2026-09-24T15:50:18.549Z"
     }
   ]
 }
