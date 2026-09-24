@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-24T09:00:20.976Z",
-  "lastChecked": "2026-09-24T09:00:20.976Z",
-  "lastUpdated": "2026-09-24T09:00:20.976Z",
-  "generatedAt": "2026-09-24T09:00:20.976Z",
+  "fetchedAt": "2026-09-24T09:25:12.534Z",
+  "lastChecked": "2026-09-24T09:25:12.534Z",
+  "lastUpdated": "2026-09-24T09:25:12.534Z",
+  "generatedAt": "2026-09-24T09:25:12.534Z",
   "sources": [
     {
       "name": "BBC News",
@@ -17,6 +17,12 @@
           "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
           "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 24 Sep 2026 04:37:47 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 24 Sep 2026 03:52:21 GMT",
           "source": "BBC News"
         },
         {
@@ -48,20 +54,44 @@
           "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 23 Sep 2026 23:14:10 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "A red carpet and military flyover - How Trump welcomed Xi",
-          "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 23 Sep 2026 23:03:56 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T09:00:19.814Z"
+      "updatedAt": "2026-09-24T09:25:11.465Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The Education Dept. hasn't been dismantled. It's become more inefficient, staff say",
+          "link": "https://www.npr.org/2026/09/24/nx-s1-5968605/education-department-dismantling-how-its-going",
+          "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Under Trump, NIH funding disruptions have evolved. Here's what the numbers show",
+          "link": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
+          "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Warren demands Trump officials explain removing a ban on interference in census data",
+          "link": "https://www.npr.org/2026/09/24/nx-s1-5979070/department-commerce-census-bureau-elizabeth-warren",
+          "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
+          "link": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
+          "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "States threaten action against company earning millions off disabled vets",
+          "link": "https://www.npr.org/2026/09/24/nx-s1-5978816/va-mortgages-trajector-bankruptcy-investigations",
+          "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Judge orders Trump administration to restore journalists' access to White House",
           "link": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
@@ -79,40 +109,10 @@
           "link": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
           "pubDate": "Thu, 24 Sep 2026 01:14:11 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Fears of return to war grow in Ethiopia's Tigray region",
-          "link": "https://www.npr.org/2026/09/24/nx-s1-5978861/conflict-ethiopia-tigray",
-          "pubDate": "Thu, 24 Sep 2026 00:23:38 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii",
-          "link": "https://www.npr.org/2026/09/23/nx-s1-5979140/hurricane-polo-mexico-nolo-hawaii",
-          "pubDate": "Wed, 23 Sep 2026 23:19:45 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Judge considers restoring journalists' access to White House after Trump's ban",
-          "link": "https://www.npr.org/2026/09/23/nx-s1-5979101/federal-judge-hearing-trump-ban-cnn-ms-now-politico",
-          "pubDate": "Wed, 23 Sep 2026 18:40:39 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Trump and Xi meet at moment of global consequence",
-          "link": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
-          "pubDate": "Wed, 23 Sep 2026 14:23:19 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Iran's president gives a rare wartime speech at the U.N.",
-          "link": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
-          "pubDate": "Wed, 23 Sep 2026 14:14:40 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T09:00:20.003Z"
+      "updatedAt": "2026-09-24T09:25:11.611Z"
     },
     {
       "name": "AP News",
@@ -167,17 +167,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T09:00:20.493Z"
+      "updatedAt": "2026-09-24T09:25:12.121Z"
     },
     {
       "name": "Reuters",
       "items": [
-        {
-          "title": "Oil extends gains on little sign of progress in US-Iran talks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1FxSEFPZkVpeHV0LS1WTURzc3lOWWM3d0dfTG1mQ0hBWmZiLWhia1FPbnUzdm5yMVhuZE1RenYyOTNqYmFqT2d5MzVtNE1IcHJCNGJ4aXU0US1Tc09OWnJINzRpQkFTWXdsczlhcE50N25wT052OUZhS21QOG9haGV4XzFTZnQ4NzNTWFlVbU1QcDRyZC0yejVxX1dabVZmWHMyMVM0dWE5RGpNWXZNVHBn?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 08:23:58 GMT",
-          "source": "Reuters"
-        },
         {
           "title": "China's rare earths dominance to overshadow Trump's talks with Xi - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlBNcDhQbjZ1eUhlS1FRS0poeU53T0ZfZWN3c1d4Z1NFa0ItMm84bUZvQlp2ODc1ZGQ4S0hGbG85cUNmam5vUGctS29hOWE4SWVDUlh0NHIxbDJVVkhFU0xILUhEb256TG9VaFZwWkN0TEVQU0dHQzlteVkyT2VTcExNRlNYVFNFVl9QeDdBRGdRUzdDbm93V1lxSW5wT1lRazJyYlZER3l4dDBn?oc=5",
@@ -197,15 +191,27 @@
           "source": "Reuters"
         },
         {
+          "title": "Explainer: India's insurance overhaul: What changes and why it matters - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNklCOVpFMkV2X3dFOGwxTFZ4TkQ3UW9sY1lMYk1sMC15QmlTd0VuTHBtM3ZVdU0yVVJpTHBIMG9HTmdDN0dUNXZRWmhOMU5VN1N1VWRQajlCbEh0VklzT2NjQTFLVzM4YTdweU9jdllqLUtwZDJ6THF5dTdvM25GLTZEZWh3Ry00LWlGbWxTTnJoMmpWWDVhUjE3U1d3UVY1REJmTlRzYS1oZw?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 07:12:11 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Norway gives additional $13 million in aid to Palestinians - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHZxZ0hMdF9XTS0xeTRHYy12bV9kWlRBUWhjMEFIaDE5T05XTUNydDZGWGU0MGVLZUFORWFkYXlENkNvUHhHX1JKYW16NWVUVzNQbjJxRmhmby1ZZjlzcS1qaE1sZTN5M2tyMTQ2WU1oZDcxamFGUW5IeTd1UWVxc1FtUWx3dk1uRnozSGRITUsxZmRjaHRqX0xscms3ejZKRUhKQXBBWWM?oc=5",
           "pubDate": "Thu, 24 Sep 2026 06:55:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Bonds shaky, oil eases off highs amid trade, peace talks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 05:55:34 GMT",
+          "title": "Poland suspects fire at Starlink station was act of sabotage - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPREc0dTdQN0xteFFfcTZBS0FlS3cwSmM1cmk4RnEyTVZlVGN6MmpGaWFwWTJPV0hXYlFPaGdvWGlmTURGXzFOQXByWTNqaEJ3UUsxZzVQZTZaMTNDWG1iSThpbzdtUmtFeU1UeU5zazNWQVVmMGtwTmp0SmMyYnY5d2VrSWtQUkJJVTZpbWVzdFJBQ09oZVB5TFFJUUo?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 06:40:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China's DeepSeek annualised revenue run rate hits $1 billion, the Information reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGc0WFRZWVl4akx6RTdZUmJoTUpYTFk4SHRzUE9jUHl0NGI1TEptNDhibGZlWTZDVHAySENjSHBNQnpDVFlwZlp5V2U0Y2txN000SnZTVHpqQS1kN2wwMzYzV1pKUmZaX1NTRnZ0X1JaNk13T21uMXA3VkNuYXJ1b1NmVGEwYzJGaDNTVjlaaUdOdUtPNmY2LUUtN1NhMzhrOEw1NU1zczBrMTljUDZfenN0X3M3Zkl2enVucTVoX0xmQQ?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 06:31:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2V0SEZGX1dfSmIwdGdRLU4zTlFsdVlDa3dXeS1EVnczQV9yUzJIXzN3NVhvR2gzcVBMTFBkY0g2Qk1xWGladm51WVQ1ZkN6Q19MTDAySThlMjhYSzNKaFJYeXFaUnpZNUZ3SkRBcTRVaGFORElVUkdHZG16UXQxcUVuTjROUFFycnNuQi11VDNHdlVtcWZnNTk3bDE?oc=5",
           "pubDate": "Thu, 24 Sep 2026 05:07:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Netanyahu expected to berate New York's Mamdani in 'campaign speech' of UN address - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR21xaG03TDh6WUlBZVQ0RkhicmlGOFZkbTluZWh2b3E1UFJ5d2RiaFBRY0xtWkl2NjE0SHBqUWhYbElRZmFRMWU5UVExZHlCMHZZRGJKSDZsa3k5eUdJWTJvV3NMakNhdEdyaE9sQ1JLMlEta0pEMzVNbWJ6VkxqZ3lOWjliekcwa280eXl1aHFMekNVSklsTGdjNEc0dEVIcHl4TGFVakNaS1h1STRwZFFjd2NadGhQNmZ4Nl9uN0VnZw?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 05:04:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T09:00:20.976Z"
+      "updatedAt": "2026-09-24T09:25:12.534Z"
     }
   ]
 }
