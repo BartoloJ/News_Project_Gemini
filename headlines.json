@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-24T04:25:13.778Z",
-  "lastChecked": "2026-09-24T04:25:13.778Z",
-  "lastUpdated": "2026-09-24T04:25:13.778Z",
-  "generatedAt": "2026-09-24T04:25:13.778Z",
+  "fetchedAt": "2026-09-24T04:50:15.828Z",
+  "lastChecked": "2026-09-24T04:50:15.828Z",
+  "lastUpdated": "2026-09-24T04:50:15.828Z",
+  "generatedAt": "2026-09-24T04:50:15.828Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+          "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 24 Sep 2026 04:37:47 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
           "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 23 Sep 2026 23:03:56 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-          "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 23 Sep 2026 22:01:17 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T04:25:12.546Z"
+      "updatedAt": "2026-09-24T04:50:14.683Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Fears of return to war grow in Ethiopia's Tigray region",
+          "link": "https://www.npr.org/2026/09/24/nx-s1-5978861/conflict-ethiopia-tigray",
+          "pubDate": "Thu, 24 Sep 2026 00:23:38 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii",
           "link": "https://www.npr.org/2026/09/23/nx-s1-5979140/hurricane-polo-mexico-nolo-hawaii",
@@ -103,20 +109,26 @@
           "link": "https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income",
           "pubDate": "Wed, 23 Sep 2026 10:09:10 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
-          "link": "https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour",
-          "pubDate": "Wed, 23 Sep 2026 09:31:47 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T04:25:12.827Z"
+      "updatedAt": "2026-09-24T04:50:14.870Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Iran’s president delivers defiant UN speech, and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSllKd01lQ2pnMElyUmpoMnBDTjFjVEpjb0RESGV3Q3VYdEQtNHp4WVZMN3ZISVB5OHhoaEJBbC1CYVZ1NzBkeGxSU0hMbUxEWTdjeEgxSHpkR1RSdjY2SVR3cFNWdGJGd2RQUDJhSlFraU5tdVZtVjhVdzNtQV9xWGN6SEVOYmFuUWxsTHEzTFJqYUZqR3lGdXA5a1FrOUpsOEdValRuMnBPTUJkMUhUX1RsYmp2MUU?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 02:10:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "FBI investigates hackers' claim to have stolen sensitive employee data, compromised jobs website - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbnphd05odjktQV9NY2U2eWtjNFhVSlZ5aTFzVDVSdkVPUWpuM2ZuMVV0M3JqRjVWY1lvUURIRGJzdFhqTGMtaEpOQUpaZGhBWnZERjNSZXdBcGd5Zkg5RjVVUVhPYkVtVlNDMzhadVNoZEtrMXF5dnRSWTROaEJZVHk0VUNrd2lWVmZmZjZZYmU1MmlGNnFjdlBHamswRGVuVGZIUXNuVXk?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 01:52:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
@@ -127,12 +139,6 @@
           "title": "Oxford English Dictionary adds several words long used in the Caribbean and Bermuda - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVVrVi00S0JscWRMUklQYzdUN0FQRHNQdU5iRFZTeHZMdWlQUmx6a3dTS3lrS3VfdnlLZ2pZT3ZtY25vNkFjQ0laNVItMVFqaHNfdG0tQkRnVHd6cVVYQ244ZUIxVGdpdHJveE5OMWZQNXVZbk1jd1RYNVVLRmw1aGdnZmdkZUhCNGRZLVU0Rm1USGJMSFlTeXFCSjVFejgyNFhNTG1VNlA?oc=5",
           "pubDate": "Thu, 24 Sep 2026 01:28:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran’s president delivers defiant UN speech, and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSllKd01lQ2pnMElyUmpoMnBDTjFjVEpjb0RESGV3Q3VYdEQtNHp4WVZMN3ZISVB5OHhoaEJBbC1CYVZ1NzBkeGxSU0hMbUxEWTdjeEgxSHpkR1RSdjY2SVR3cFNWdGJGd2RQUDJhSlFraU5tdVZtVjhVdzNtQV9xWGN6SEVOYmFuUWxsTHEzTFJqYUZqR3lGdXA5a1FrOUpsOEdValRuMnBPTUJkMUhUX1RsYmp2MUU?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 01:19:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,20 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDBXSVlKYjVLV1hzNnphbmpRampOMGcxUDBCVDdfanV2QmNUWk5fTW5PMFJ1SzB1VUZUQ25GUG55YXgycE13eU5jSlNiUGk5MUZTSFhHQU9pSlJXX1g3Uk82QXc4YktHdVUycnF4OEplZWRyY2txSVZEQTBHMHU3VHhHSW9NUW9HdnUwelBYdHFFSWlhWnJyUVdTUWI4dE5IODNGY2NDZC0?oc=5",
           "pubDate": "Wed, 23 Sep 2026 23:45:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Tech leaders to UN: For the sake of humanity, please control the AI technology we created - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHBObE1ZM3ZSc0QwNURQWkZkS2tORVNRMHhNUUhvNjNZRjR4RHNIVWlyUE5qZV82WVowbEFFX2RhR09TeE5WMHQ4S3l0TkdZTjN3YWdvVUNfRUZYdTZVOW9jc3YtQlNHdWNjcFh4cl9jNlk4VDkxMlFJc18ybzlLN3B4NjZxZVB3cFNBTy1mSXlLVmZlbDRpdXd4WVljVEtaZGxkRHpIMTBSZw?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 23:12:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T04:25:13.316Z"
+      "updatedAt": "2026-09-24T04:50:15.355Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Oil prices fall as Iran says it is open to diplomacy to end the war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1FxSEFPZkVpeHV0LS1WTURzc3lOWWM3d0dfTG1mQ0hBWmZiLWhia1FPbnUzdm5yMVhuZE1RenYyOTNqYmFqT2d5MzVtNE1IcHJCNGJ4aXU0US1Tc09OWnJINzRpQkFTWXdsczlhcE50N25wT052OUZhS21QOG9haGV4XzFTZnQ4NzNTWFlVbU1QcDRyZC0yejVxX1dabVZmWHMyMVM0dWE5RGpNWXZNVHBn?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 04:32:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US and Indian top diplomats discuss Russia sanctions bill signed by Trump - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjNWTlhTdURkUERZUjdNQnBhQWR2bzRjOUVYNWRJUkdoX1M0NmpBRk5Dc0dHMm8wWlJKby1YNVNDb28wSnJXazJnbG9sQTNRU0RVTXk0eHJJcGQwTkVIdS00UjNRakFkUHFLTFhJdi1vMGJGZVB0dzMtR0JHUlN2RFoza1F5d3FuOWhBd09MR2RBa1I1ZU11OGotV2FwM2NOdmNydlBjeU1nMzFoVXpTQ1RuR1E?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 04:09:44 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Taiwan upgrades maritime patrol capacity for vulnerable South China Sea outpost - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVG4ydzg5OVJBakE2SkRqMW1GdFYtc19HaVhOYzFYTUNfOWp6UzA2RlJyX29xMzZ3SmNiS19oQUxOTTU5N0RKUVRtczJZbk1RVXlpNWRmLTNEMHBOUDVQcWRndXBBdWpfZ1NySFhjYlBqZ1M5OEYxZmpnLXlzNUh2ZXBTdG9rczQyMGx1V3ZMeFQzNHh5YmVFZXo2QWN3eVRzSDJDSG02aDdFMnBhXzVFd3NWeGpBUWJPY1VNdFpET1I?oc=5",
@@ -182,6 +194,12 @@
           "title": "Gold muted as Fed policy tightening prospects weigh - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenM1U09oVWJmVW8zbUtuN1ZLcWU1dGRKa1Rqdk1FU0k5QmVDSGRwcG9hR1NVVFVYOGhkSWpMdVF0aWFZMWx6TlNSWHZiajl5UWdzbWFZNmpGUW53MEhhbGgteHgtOGZGTzdlVGdWVjhWR2pMSzdJSWdCSmVTRHA4RVlCWS1tNU1NQU9QanFEQTRnNjhSSlhFQ052dEE?oc=5",
           "pubDate": "Thu, 24 Sep 2026 02:23:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Dollar perched at two-month high as hot PMI fuels inflation fears, rate hike bets - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmQ0RTlyNTJnNVVWaUx1Uk1pbTl0UWVTOXFORWhmM3dqdHJXZDdWZFlHRmNQdS1zSHhYWG1RTDVBeFlWdFhxT0N5WTBnNFQ4VFBQdFNvUk01YUFRUmZGQUZUa0h1ZUJqdkNnaWRXXzl2cWRlRE5vM1FuR1hfdnFNcnFRaVJYdGtPX081cXN5dTFSR0JwbzhYYnhHclN4UEVmU3g4X2lNWlJGMkd5S1lSZFlhUFdWMVpYUlc0?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 02:12:46 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkhtNHVWTTFnS2l0T1N6cDg4UmY0YTl3QWt4cl94dlRSeWI3cURlVy1xUlRRRU5GZ21RbHFuU1BUdjlvNENrelhGdjByV1RkUjZ2NmVBWkdibjRWRjFyNnBSZ195d0UxNjlCUWNUWTVpN0FLdjFoekhxWk83dGxWYXhjdVZRSWlNaDcwcGt5QldEQWNydk4wUlNYYVJfYnBGNWd5WElwWnVVVk5tMGQxbF9oRW1ZalpuaWY4?oc=5",
           "pubDate": "Thu, 24 Sep 2026 01:44:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Australian shares trim declines after jobless rate tops forecasts - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcHJJQ0Vva1pBZlVlZnNqeVpuWlN3YnQyQ0VjQnAtYTJrTzBUTUR0WUhtdTBLcUpyaHZrV2ppOVA3ZXp1ZjRacko2aUxPSkpHclRQVzc3aGx1dzhETlZ0bDkxVkdpQmU1VDdQdkJzcXFuYUhpM3hlM0V6RXpKNU1HMHhqVm80SW9CVzNJUWYxOF80LThUd3gxS0pHaFpJbzNXUDZiamh1U1lITzhpc2F6WTdNd2t2Vm1ZZzF4RE9WWWR0OUNVbkE?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 01:25:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil prices edge lower as Iran says it is open to diplomacy to end the war - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1FxSEFPZkVpeHV0LS1WTURzc3lOWWM3d0dfTG1mQ0hBWmZiLWhia1FPbnUzdm5yMVhuZE1RenYyOTNqYmFqT2d5MzVtNE1IcHJCNGJ4aXU0US1Tc09OWnJINzRpQkFTWXdsczlhcE50N25wT052OUZhS21QOG9haGV4XzFTZnQ4NzNTWFlVbU1QcDRyZC0yejVxX1dabVZmWHMyMVM0dWE5RGpNWXZNVHBn?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 01:17:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China's 'Lipstick King' confronts slower growth, AI disruption in livestream shopping - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ1J5ZFB5RGFkQ3BLOFlwY3BZN0ZieUp0RlduUzlrU1JySzJZTkNSM3lBaTBnclQwbG9fQjdSVzQ1Z0hDeUdQNUNKMnB3T0dvZTNOTm9jUlBGYlRRSXdCNmRGYXVQejZoWkNPZ1h0NV9mdU1VQU9uS0NpV3dPY0xnQlU2ZzVjbnhwRlR1aUd3TGlKamFmTmFick93S1AtdV95RUtoSHlsdllCSDBlOUhySTdSbXRaWUVnSkV6M0p1N3NFbzBjM1YwNDE5cWNVeEFiN1dNQ3Rn?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 01:02:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T04:25:13.778Z"
+      "updatedAt": "2026-09-24T04:50:15.828Z"
     }
   ]
 }
