@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-24T22:00:20.850Z",
-  "lastChecked": "2026-09-24T22:00:20.850Z",
-  "lastUpdated": "2026-09-24T22:00:20.850Z",
-  "generatedAt": "2026-09-24T22:00:20.850Z",
+  "fetchedAt": "2026-09-24T22:25:13.164Z",
+  "lastChecked": "2026-09-24T22:25:13.164Z",
+  "lastUpdated": "2026-09-24T22:25:13.164Z",
+  "generatedAt": "2026-09-24T22:25:13.164Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T22:00:19.563Z"
+      "updatedAt": "2026-09-24T22:25:12.054Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Long agenda, short meeting: Trump and Xi meet",
+          "link": "https://www.npr.org/2026/09/24/nx-s1-5973112/long-agenda-short-meeting-trump-and-xi-meet",
+          "pubDate": "Thu, 24 Sep 2026 18:10:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
           "link": "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
@@ -103,24 +109,42 @@
           "link": "https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence",
           "pubDate": "Thu, 24 Sep 2026 06:43:25 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
-          "link": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
-          "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T22:00:19.808Z"
+      "updatedAt": "2026-09-24T22:25:12.246Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Trump lays out the pomp for Xi but says little about the significant tensions in US-China relations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUlSSmFoWUZsM1V4WlJhUkNONDJwUVRNMEpacHR2ckJUT1ltenVUc2JoSUJMejVtR2g1RkNWZTlpNTFDM1ZTZUhQb0RSbEFTNm40c0Nsc3g0X01ySTZOYWxXT1FUR1FvUmlVV3B4dGhpbDVfcG1FNjNMeXdjSW9BZG9aa1d2c1lMQkhCRDRncw?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 21:59:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "3 US news outlets return to White House after judge orders Trump to lift ban - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFNUM3VIUEdwTndqbnFYUjk4OUYzUHNvQ0syOVNEQmNNSUxvd1FzNWdDYnpZcjJyV0xKU1BWUzc0eFVqeFRka3VNU05MeGRIT1ppWDJnbE1xMjZDbVVIc0hZT0pfUDBfNGZLUzhIOVRfU1h2N0I3SjJTajNuYUFrSFVONEVxYlpLa0F1TjcyT3diOU9nNWhhVU1zQW1XeTNSNWw1ekdMdXdQeEk?oc=5",
           "pubDate": "Thu, 24 Sep 2026 21:29:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "FBI employees in Trump Mar-a-Lago case seek clarity on subpoenas in Florida 'grand conspiracy' probe - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT1RON1NQVTBpX3N5Nmx4Undvd2dXZnc2ZXlhdGVQX1JSajRJcmhORDVubHpmWHhvYjZPRmkwQ0Zsa01UMFVPb1d1WlZVdnJjZEZxTzRueDlJV3JBVHYwSy1ZblBsNVlNY25QNjBnVWxnOHh6ZjExUzhxQ1pHamZtNHRvNFdXMElIWXRKUWtub2ZUR08zS3U0MQ?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 20:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Xi Jinping - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DS0lFMF84d0hDeko4UVVkbndGQVhTT1RaX3V3TkNYX0ZtZzg2MlVwV2FNQ1ktdTcxekhERXM2ZHF2RUZMU0lWbg?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 20:25:28 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump administration asks the Supreme Court to allow quick third-country deportations to continue - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdXFCanBmb1VsdDg0SDF2b0ktRTRPcDJaYmdQM1RWZFNQeEtIeGhLOFF2RVZpdUlnUGRhY3hnUWZycEp5NXZKQnJDd2xhSFZ4MUNzTWcxbjBtOE1WcWUtcXExR21tbVZrN2JTekVJM0puR0F5UFZmYkxRcWxCMklPRUlNUlRZR29aRVQ3a1lmeDJPTzEzQ0hKSWh2Nlp3UzNhSTQtbG1PSUdZOVEyRk4yRW05QVZsS3FJaW1F?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 20:23:00 GMT",
           "source": "AP News"
         },
         {
@@ -140,38 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
           "pubDate": "Thu, 24 Sep 2026 20:00:06 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump hails deep friendship with Xi as China's leader urges 'healthy' competition between 2 powers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUlSSmFoWUZsM1V4WlJhUkNONDJwUVRNMEpacHR2ckJUT1ltenVUc2JoSUJMejVtR2g1RkNWZTlpNTFDM1ZTZUhQb0RSbEFTNm40c0Nsc3g0X01ySTZOYWxXT1FUR1FvUmlVV3B4dGhpbDVfcG1FNjNMeXdjSW9BZG9aa1d2c1lMQkhCRDRncw?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 19:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 19:49:39 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israel's Netanyahu, at UN, calls accusations of genocide in Gaza 'the biggest lie of the century' - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONnM2WE9GdERPVTluSmVqM0pXLURSOHMxdHRHZmtCRGtoN2JTdUstTDhkVmp5b1JObVNuTVp0b3FVa0VXWkNNWW8zYTJRcGdBRDVqckItTjFCV3U3QU9nQ2VsMFUtN2p0WDhIUjc5Sy15ZzZwMS1hY1lNMHF4d1dPNlhHamNCYWNkTjhyS2hSb2d4cmxFdEgwbUFBdw?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 18:51:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Starbucks to shutter 250 stores in North America this week in 2nd wave of closings - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakxReFNDbDRFSGQwQlpHalJIWjdRZXRxcEdidEZkNklXSkR3MVdtekg3TGNwZk1QLUVNZWhQd2d2NzRFMVNvVzlETHQ2aUE0eHBOdHFBTmhrQ0xzMVV4TlBoZ29EVXQ4QXM4dF9jUW9SWmE5bUtBOUdnR1VPdGpDdklldTFTNkdOY0ZRWWIxZjlXanNiTW1QYXI2cw?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 18:48:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T22:00:20.353Z"
+      "updatedAt": "2026-09-24T22:25:12.733Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "EXCLUSIVE: BP eyes Devon Energy asset amid renewed US M&A ambitions, sources say - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVElxMVhZVUllYkRGSlFWY2JHWUpDWDhvTmxDdVZTbzdacHl1ekJyeVdhaXNaazltZ19NZEVmNGlrUHdobVRFdXBSRTdveFFGTGEwSzV5REpuRWFfN09NLWQ2aTVZN3hSTTY4UW43UlQzMkVNMXNhbTdfUzNvYnNKbGZFTEVPeEZpZXNjOER1eDFMN0FmWFpIb0hydXNXN0F2RzExN2xVNElOX05iOUlkZlZhdXNJWHJtdUcxTg?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 21:48:24 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "White House reinstates access to CNN, MS NOW and Politico following judge's order - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGZDelJBRHdvcFBwNGNlTGwxdVNHNnk1UmhJeDZUZWd2Y3o4ZGw4QTVaM2VrT21MQWt2eUUyR2c5cnR3ckdadDZNS0RSdUpLX1FVMHpqU1B3aWVyeGs3aGp0RE44R2JoRG55QlhiUWRQOWRhUGtoZ1ZoMlhydDJOQlRPU2JkbldsaDB4UUc3TVJxU2xwMFVvbHlMNG1UOHNPWUUzSmVaVHFCR1Y0SmJvRmFSNFVDU3JyNHdhTkp0a1RuQmEzWjNrcw?oc=5",
@@ -179,9 +185,15 @@
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: BP eyes Devon Energy asset amid renewed US M&A ambitions, sources say - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVElxMVhZVUllYkRGSlFWY2JHWUpDWDhvTmxDdVZTbzdacHl1ekJyeVdhaXNaazltZ19NZEVmNGlrUHdobVRFdXBSRTdveFFGTGEwSzV5REpuRWFfN09NLWQ2aTVZN3hSTTY4UW43UlQzMkVNMXNhbTdfUzNvYnNKbGZFTEVPeEZpZXNjOER1eDFMN0FmWFpIb0hydXNXN0F2RzExN2xVNElOX05iOUlkZlZhdXNJWHJtdUcxTg?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 21:12:24 GMT",
+          "title": "Finnish leader pleads with Musk to help Ukraine hit Russian missile launchers - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYVhWUGo1UzRrdV9OR0FEenhJZ0VPZ0dBT3lTRG5zSXlrbzQ2NS1fWmcxRC1GY1FWNTRGa3JuM3J3ZjFwUnRFR0Nkbm9HOWtRYVZsQ2tpc3AwYl9KbkxuenNtOFlsN0hINVFNRDZtejVsVGUxVkFRMFc4NEM0OXBCb0pZc01MZ19ERXVlYXpBYzA5aVZuZ2ZEUTZpVWtOb3FrcnE5ODRFYUpkZS1LQTJXTXVtamhDbWs0SDBNRjM0cnpZUnN3SVRWSUpBdkwzZ1FFaVZj?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 21:34:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israel's Abu Farchi sent off after gun gesture celebration - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjdreWxmdHBDSjhCWTRkTFVoXzZJVkNzQjVtUng1UFduMzVvbEZpbWhWa3dLaUVsaGFBVWl5NzN6V19nLXlFY3BVZUZ5Y0hkal9jckxCSzFaSl9rclFvWU84ZnR2dzExZ2pTdmRGRVM4ZHh6X2NsS1FkMmthVzRqX0pUd3FpaUdDem1kVmk4MnpmeVYteWpQVHV1NlRsVUMzelRpY0gzb0ZJbXM?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 21:16:22 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU45a3FvODBzSXpndWg1QUVuQzlqUmVJWjZEWUFXNWltVUx0Sm4zbDE1X3lFSnFYd2hQeGotT1YtejB1NU9lZDJKcnJjeEZqNkJtZkQ0anhFUG92V3pWLXlyQzhIalFwTzRuVnVvd3BGQ2tfYTJ3RUxMRlhlWTdTUFE3MnAzMUxmallxcE9SZU5ldmxJeE1fYnhyT0c5eG9lVXVydVg2TFhnbnFJYUFsOE56U194eTltTnc2bGFR?oc=5",
           "pubDate": "Thu, 24 Sep 2026 20:34:36 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Saudi Arabia says it intercepted Houthi missiles; group claims strikes on Riyadh, Aramco - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLW1IRmRaem1xSHEwTjd1VldSMmNqZk55VmdmZkh4QnNhU21SM0ZtWGg4RDdxSkNOM1F6ZUJ4LUYybUlzcWx6S01zbzd5N3BRSWRTc0N6eExNa2RFQXVTYlM3RmtXOFlDUk1Yc2Q0LXNkTEFPQlpCNjgzZHNlbkZXWGtXT1NRNFZ3a2lvWWNxVkk1Rng0Q2ZtNUk4TzZ0YXpNdDFaRUZQa2lBVHpnV05pV1QtZVlJSjJpTFFPTA?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 20:33:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "New York lawsuit says Polymarket's prediction markets are illegal gambling - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHBKRzNuRV9UcDlISEg4M2tsZURmLThPQW1ZbDMtRG91aDVLeWJJT2xsenpqbi11dENjOVp6TmpXWllXNTVmT1FFczRmY1U5YkVXVUZ6bTRIVUlSRWk5MnNDWWJobnoyU2dqSHAzR1pMaTJyR2NQa1QwQlBmX2pnUEx1ZG9oTGo2U3FDekFDYlJrVVltVG9TMmVleXNaNk5aLVVVS0VBSHk?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 20:32:17 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T22:00:20.850Z"
+      "updatedAt": "2026-09-24T22:25:13.164Z"
     }
   ]
 }
