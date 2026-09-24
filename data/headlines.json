@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-24T14:00:27.912Z",
-  "lastChecked": "2026-09-24T14:00:27.912Z",
-  "lastUpdated": "2026-09-24T14:00:27.912Z",
-  "generatedAt": "2026-09-24T14:00:27.912Z",
+  "fetchedAt": "2026-09-24T14:25:13.596Z",
+  "lastChecked": "2026-09-24T14:25:13.596Z",
+  "lastUpdated": "2026-09-24T14:25:13.596Z",
+  "generatedAt": "2026-09-24T14:25:13.596Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T14:00:26.282Z"
+      "updatedAt": "2026-09-24T14:25:12.402Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T14:00:26.513Z"
+      "updatedAt": "2026-09-24T14:25:12.653Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,19 @@
         {
           "title": "Judge orders White House to restore access to CNN, MS NOW and Politico. Reporters still blocked - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFNUM3VIUEdwTndqbnFYUjk4OUYzUHNvQ0syOVNEQmNNSUxvd1FzNWdDYnpZcjJyV0xKU1BWUzc0eFVqeFRka3VNU05MeGRIT1ppWDJnbE1xMjZDbVVIc0hZT0pfUDBfNGZLUzhIOVRfU1h2N0I3SjJTajNuYUFrSFVONEVxYlpLa0F1TjcyT3diOU9nNWhhVU1zQW1XeTNSNWw1ekdMdXdQeEk?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 13:23:00 GMT",
+          "pubDate": "Thu, 24 Sep 2026 14:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Pakistani airstrikes target Afghanistan after Islamabad accuses Kabul of drone attacks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNajFyY0ZsVElWbkduTGR0UUxZQ25WSEczcHNiMTFjSENoSjZ5LWZWd3AwQm1DbENhS0xFVHVzOGt1RXVhNVlMSWdQczZCdlNBYlBmSmxyN3ZrVzNSRWVqcFJ4X3ZpdURzbmd6Tl9aX09hY0xOM1JxWUUwM29sVzk1Y1VhWEp2UXY2SVpERGljVzZxMkJ3X0RxMFBHTHk?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 12:57:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Republican Mike Rogers courts Michigan Democrats and Trump voters as GOP hopes to hold the Senate - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONl9EaC16UGJIRVhRZTRVNWhNWkhfVXhDNUNmUTFZb2NSMXhCakEycW1PSkFLSmdFOUhrcVd4cTZWUFU1d3J1SVRlSjNFdnVJRzBqNzhHd193dXBlaDdWVmFCZFV2Z2NBc29vNnJaOHRRUzczaEVSOUFPMERJM1k1UHhQcjZETGpyY1R0bGhhOURSUVM1bE9id29vdTI1WmZSdWpZNw?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 12:54:14 GMT",
           "source": "AP News"
         },
         {
@@ -130,15 +142,9 @@
           "source": "AP News"
         },
         {
-          "title": "Pakistani airstrikes target Afghanistan after Islamabad accuses Kabul of drone attacks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNajFyY0ZsVElWbkduTGR0UUxZQ25WSEczcHNiMTFjSENoSjZ5LWZWd3AwQm1DbENhS0xFVHVzOGt1RXVhNVlMSWdQczZCdlNBYlBmSmxyN3ZrVzNSRWVqcFJ4X3ZpdURzbmd6Tl9aX09hY0xOM1JxWUUwM29sVzk1Y1VhWEp2UXY2SVpERGljVzZxMkJ3X0RxMFBHTHk?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 10:52:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 08:44:42 GMT",
+          "pubDate": "Thu, 24 Sep 2026 09:56:19 GMT",
           "source": "AP News"
         },
         {
@@ -158,71 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEs5ZWdVZEpDclBicnExV3ZsYktma3d4bXY3b3RmT0pqTDk5R0Z3UWlndndNVEVxZ21KX1dmNmJacElHWHItQTktZDRXU1ZydHdITUw3cC1LSzNkY0xQMjJlUkxEM0gzY2J0dWsyQS1HVWQ4TzFoZEVlWG9qOTROWGdPRHVpeVJYNlBlSXJHeW1xalRJTmZWQWw3bFhDbjVxRVlnTExyZw?oc=5",
           "pubDate": "Thu, 24 Sep 2026 05:52:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Tech leaders to UN: For the sake of humanity, please control the AI technology we created - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHBObE1ZM3ZSc0QwNURQWkZkS2tORVNRMHhNUUhvNjNZRjR4RHNIVWlyUE5qZV82WVowbEFFX2RhR09TeE5WMHQ4S3l0TkdZTjN3YWdvVUNfRUZYdTZVOW9jc3YtQlNHdWNjcFh4cl9jNlk4VDkxMlFJc18ybzlLN3B4NjZxZVB3cFNBTy1mSXlLVmZlbDRpdXd4WVljVEtaZGxkRHpIMTBSZw?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 04:46:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T14:00:27.205Z"
+      "updatedAt": "2026-09-24T14:25:13.174Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Oracle cites ‘force majeure’ to shield itself on data center, Bloomberg News reports - Reuters",
+          "title": "Trump-Xi meeting outside UN spotlight tests world body's clout - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjdDUU9HODhTcWdINGxKSE03VHRiTllZWWZRQ0pXdjFIQ3ZFTW83SFJHNF9ERmZJQVM1R0dsWFNYeTlyMWpKN0VOVnl6Z0tGbUJUTHJfMFBzaUFtSmJaYVR2RW9uYTNCbWx5bXBjU3Fia2tPdzdXbHM3UmtQUk9vekdkVk1OMXg4YVY5TEJn?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 14:03:53 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Saudi Arabia thwarts Houthi ballistic missiles, Yemen's Saudi-led coalition says - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLW1IRmRaem1xSHEwTjd1VldSMmNqZk55VmdmZkh4QnNhU21SM0ZtWGg4RDdxSkNOM1F6ZUJ4LUYybUlzcWx6S01zbzd5N3BRSWRTc0N6eExNa2RFQXVTYlM3RmtXOFlDUk1Yc2Q0LXNkTEFPQlpCNjgzZHNlbkZXWGtXT1NRNFZ3a2lvWWNxVkk1Rng0Q2ZtNUk4TzZ0YXpNdDFaRUZQa2lBVHpnV05pV1QtZVlJSjJpTFFPTA?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 13:58:01 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Bond market sell-off rumbles on ahead of Trump and XI talks - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 13:50:15 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Politico, MS NOW, CNN denied access to White House despite judge's order - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGZDelJBRHdvcFBwNGNlTGwxdVNHNnk1UmhJeDZUZWd2Y3o4ZGw4QTVaM2VrT21MQWt2eUUyR2c5cnR3ckdadDZNS0RSdUpLX1FVMHpqU1B3aWVyeGs3aGp0RE44R2JoRG55QlhiUWRQOWRhUGtoZ1ZoMlhydDJOQlRPU2JkbldsaDB4UUc3TVJxU2xwMFVvbHlMNG1UOHNPWUUzSmVaVHFCR1Y0SmJvRmFSNFVDU3JyNHdhTkp0a1RuQmEzWjNrcw?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 13:26:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "White House pushes for speedy review of voter rolls in hunt for noncitizen voters - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUZVZDRfckxidnZHVjNzUGVrcm51WmZRWFg3S0tWSlBNQ0pQNDhpbzd3eWdkRTF5Tkt2TTZPdFJ4TFYtTHVGYjFPV3hxV01QTEJ4VHhOWW9PaXN3SXhOcFVfMklKQWlDSXJaR0R1ekI0eVk5TzdTTUFfZXpqeGVEZllpMlJ3OGhOQXhQMVgxTkdrcnpSYy1hSjJDOUF2UW1zZTY3eDRka2VzQnVwRm4xMjJRVndGS08yZkpoOA?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 13:23:23 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oracle cites ‘force majeure’ to shield itself on data center, Bloomberg News reports - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbWZqSDVjdjZZaURFZ3VZNzlrRzdIZzE1MDRPNkNlQjRsbmlzLWdzUTRqTEFVdnNCS1czRkNrbVZTbzFHa1B2Nm51ZWRKSUUxMm41M05DWWw5WlQwZWhsR0duLVMzS1lXekZ1enFyS0VpcHRUTTduUVZtVnhXRDZRTVpHN0ZfUnhjUVVCbkNMeTAtZHdmOVpwUXpyZDNDY00zRVVyM1dyVG5fMTJ6RzE5XzBFTHU2YTNtMDdmdjh3?oc=5",
           "pubDate": "Thu, 24 Sep 2026 12:56:32 GMT",
           "source": "Reuters"
         },
         {
-          "title": "White House pushes for speedy review of voter rolls in hunt for noncitizen voters - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUZVZDRfckxidnZHVjNzUGVrcm51WmZRWFg3S0tWSlBNQ0pQNDhpbzd3eWdkRTF5Tkt2TTZPdFJ4TFYtTHVGYjFPV3hxV01QTEJ4VHhOWW9PaXN3SXhOcFVfMklKQWlDSXJaR0R1ekI0eVk5TzdTTUFfZXpqeGVEZllpMlJ3OGhOQXhQMVgxTkdrcnpSYy1hSjJDOUF2UW1zZTY3eDRka2VzQnVwRm4xMjJRVndGS08yZkpoOA?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 12:53:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Politico, MS NOW denied access to White House after judge's order - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGZDelJBRHdvcFBwNGNlTGwxdVNHNnk1UmhJeDZUZWd2Y3o4ZGw4QTVaM2VrT21MQWt2eUUyR2c5cnR3ckdadDZNS0RSdUpLX1FVMHpqU1B3aWVyeGs3aGp0RE44R2JoRG55QlhiUWRQOWRhUGtoZ1ZoMlhydDJOQlRPU2JkbldsaDB4UUc3TVJxU2xwMFVvbHlMNG1UOHNPWUUzSmVaVHFCR1Y0SmJvRmFSNFVDU3JyNHdhTkp0a1RuQmEzWjNrcw?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 12:51:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Netanyahu's fleeting visit to New York mirrors strained US ties - Reuters",
+          "title": "Netanyahu's fleeting visit to New York mirrors strained US ties - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU0dMX1dTN0FUMTNHM3B6Yi0zelh2NDZKR2toOTJlYmZlRktKVW91TVV2YlJ2M1E4Qy1BTmlGb2Y4NUJURWstS1J0OEhaRWg0LWt6eHBDV21hYTNfS2F3M3BUNDkzQVAwV3g1WUJxWVZZa0xfRWlUeXptSzNNTUxZenBaMEtYcXYwU1pQck1qT2NZcmw3bTFWVkJhV3lMM2w0SzNaZVMtZWFFdHY4U1o2V1UwWQ?oc=5",
           "pubDate": "Thu, 24 Sep 2026 12:46:18 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US, Japanese officials discussed China's yttrium curbs ahead of Trump-Xi meeting, document shows - Reuters",
+          "title": "US, Japanese officials discussed China's yttrium curbs ahead of Trump-Xi meeting, document shows - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc1hVbnl6bFJES19xdzFIaFgxQ1ZkTnY5dFlxaDVKUUpFNWNVczRUa0hZZEItbk9TOTU4aEZQNDhIeVJvMTZOZzhMbFRvSlpMNV91Y1FEVEJKbmV4WElzb2U5V3ZNcERzQ3dmbXEtUXkxMGlneWRkNExobmplTU9RRUQwUWxNT19PODY4LTN2WkdxUDFGbE1WeV91SXFGUEhuT1U3VnloX1RfTjVTY0V5emdFNkFlWUFGZy1qSFBQalg?oc=5",
           "pubDate": "Thu, 24 Sep 2026 12:30:33 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "AI tools generated nearly $1 billion in extra costs, Blue Cross insurers say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkNVMjNWMUhpZ2VzSU8xSzREVTF4WTBESEpTVzJ2aHU5RndfTXJZQjB1eS1KbHRaOUNKcUxjcVVBNUluZ1JuTkFoT0ZMVHlqUjYxVFhDUzlvSnNJY2YwMmhrZkVsUTRKbTZudXlsRTh3VjM5MWtRMUVJanFfV01IdVpOalBpZ0pCQ0VUU0E3QW1YR3l3cTRncmEyLVBvUUhxdXRaSnpOdG9BLWZQZDRPcHUyWmFUS2h4NnlhVG93ZzRWZw?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 12:22:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Global bond rout rolls on, pushes 30-year US Treasury yields to highest since 2004 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOG41MExjN21pM3Z3V2JFMGkydXNYQW5YSEFfbTd2N2pOenR6R3pKQ0ZVWnVQZElXXzdBSXNLdTl4Q0ZPMzItVkIzR3hWNjZrMUNRZzJsa2xYQVNvQ1h2REJuNW1HTGpCb2lsdjdyWkZacjV6NnI1aHA4Y2JFN0sxYm5TYlBTSkhGWkd6b2dWaWNpbTVHYkhWb0lnNFo1al9scmVqT0tXZkh5ZFU?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 12:07:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Greek-operated air defence system shoots down ballistic missile, drone over Saudi - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY2N6YzZlY3BwZ21GRi1FMVVZZGsxUkExb3g5eS1GRi1JTEx0SlI1bFp5VU1YcS1OWWRvOEJiRFY0ZG5rNGtERGI5MnNIdVRXNnVBaEVEcF92Zk1pSm5QOXg2YXZ4RFhjUkFIdXZyVU4xazR5U1ltSVd2VE1oRDdPWjVvUFIyaFRjNVhkUlN0T2dRbkZON05WRDJTa2hoU0pmejl2eEZFUzAzNEpqeWgwOHJHUzFNOXltYTh3bXliRm5lM0t1UWFubnpiUkVicWxGeFpNenJPb2Z5eGM?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 11:58:36 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T14:00:27.912Z"
+      "updatedAt": "2026-09-24T14:25:13.596Z"
     }
   ]
 }
