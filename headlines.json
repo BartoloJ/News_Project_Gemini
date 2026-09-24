@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-09-24T00:25:14.522Z",
-  "lastChecked": "2026-09-24T00:25:14.522Z",
-  "lastUpdated": "2026-09-24T00:25:14.522Z",
-  "generatedAt": "2026-09-24T00:25:14.522Z",
+  "fetchedAt": "2026-09-24T00:43:13.687Z",
+  "lastChecked": "2026-09-24T00:43:13.687Z",
+  "lastUpdated": "2026-09-24T00:43:13.687Z",
+  "generatedAt": "2026-09-24T00:43:13.687Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
-          "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 23 Sep 2026 23:58:50 GMT",
+          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 24 Sep 2026 00:28:46 GMT",
           "source": "BBC News"
         },
         {
-          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 23 Sep 2026 23:44:58 GMT",
+          "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+          "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 23 Sep 2026 23:58:50 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T00:25:13.450Z"
+      "updatedAt": "2026-09-24T00:43:12.745Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T00:25:13.622Z"
+      "updatedAt": "2026-09-24T00:43:12.807Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,12 @@
           "title": "China's Xi arrives in Washington, kicking off his state visit with rare planeside welcome from Trump - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0RkaG5qaGdHbDlPcmdKVDdEMG5mdTlRa0tIQ3llODRmeGtlY0xuWmV1U1Jxd3lHQzI3ZjlFMHVLSzF1ODc2YmIzcjE5aDVDTHpUUTFiYU95Unh4Z01tc29pN21Kcm1JTGRxdE9PUWlrdTFiV0hVS1dQb3VuakxyV24wNWQySlBwUFBCbEc3V3d6VnVLTFpCX05Cc1NfcGJU?oc=5",
           "pubDate": "Wed, 23 Sep 2026 23:51:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US diplomats told to say ‘super intelligence’ — not ‘artificial intelligence’ — after Trump’s call - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDBXSVlKYjVLV1hzNnphbmpRampOMGcxUDBCVDdfanV2QmNUWk5fTW5PMFJ1SzB1VUZUQ25GUG55YXgycE13eU5jSlNiUGk5MUZTSFhHQU9pSlJXX1g3Uk82QXc4YktHdVUycnF4OEplZWRyY2txSVZEQTBHMHU3VHhHSW9NUW9HdnUwelBYdHFFSWlhWnJyUVdTUWI4dE5IODNGY2NDZC0?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 23:45:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,32 +148,26 @@
           "source": "AP News"
         },
         {
+          "title": "FBI investigates hackers' claim to have stolen sensitive employee data, compromised jobs website - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbnphd05odjktQV9NY2U2eWtjNFhVSlZ5aTFzVDVSdkVPUWpuM2ZuMVV0M3JqRjVWY1lvUURIRGJzdFhqTGMtaEpOQUpaZGhBWnZERjNSZXdBcGd5Zkg5RjVVUVhPYkVtVlNDMzhadVNoZEtrMXF5dnRSWTROaEJZVHk0VUNrd2lWVmZmZjZZYmU1MmlGNnFjdlBHamswRGVuVGZIUXNuVXk?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 22:09:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Harvey Weinstein is sentenced to 15 years in prison for 2006 sexual assault - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMm43NThiZEJyWnlzMmg4eUlpZEZ0VklENVdDQ202em1IenY0X2N0RGZfSlhMMkx4MUk3SHhQVUFtQWdfQkl4M2Y4S1hkLXVZa0tEWXc0b2RTMHh6bG1lR3NZSlRmamhVTUpmY0E5eEhOUGd0ZV9mUEQ2TmlUTGxVdW5xM3BrelMxaWpBeTh0WEMzRTJQa0cyeTlUMkdUT2hOUGpKNXRDUkJLbEE?oc=5",
           "pubDate": "Wed, 23 Sep 2026 21:48:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iowa judge dismisses Trump’s lawsuit against Des Moines Register and pollster - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEhlUzVLcF9GRUdVbzlVVENZcTB0NTVIdmJ4MTRHTm96TXFCUHZ4RnJQejlUSGhSZzNZX2FGbW1Mb1gxdzZjRnNpZHN4bUNQZS1jOWJpOFY2N21PSnFoTzkyOTlfd3JzYU0wUnl5R2x2Yk9zcUdURTVyMjRNUjVidEdMa1ZEd0VNcU5QWmJzOVhXUQ?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 21:27:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 21:25:28 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A stunning early QB injury wave leaves up to 6 teams already turning to backups - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNkp3TXhNc3h2TkR0aVJKMzlJNzhZalE0STdUVU1WelVnYUw3X3ZTd1RycXNZRFphVUljTC0tb09YQ1VuZWtuXzBRM0dEVlhfaDdRRHY1dDh3cjV0ZlZfTXhkUlhMUHdTS09PaGYtaFBMNm95aHJnWDVjVldaeTVVaEdCWkFoWjdVdTFRaQ?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 21:06:00 GMT",
+          "pubDate": "Wed, 23 Sep 2026 21:47:33 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T00:25:14.075Z"
+      "updatedAt": "2026-09-24T00:43:13.270Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T00:25:14.522Z"
+      "updatedAt": "2026-09-24T00:43:13.687Z"
     }
   ]
 }
