@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-24T17:00:21.100Z",
-  "lastChecked": "2026-09-24T17:00:21.100Z",
-  "lastUpdated": "2026-09-24T17:00:21.100Z",
-  "generatedAt": "2026-09-24T17:00:21.100Z",
+  "fetchedAt": "2026-09-24T17:25:15.148Z",
+  "lastChecked": "2026-09-24T17:25:15.148Z",
+  "lastUpdated": "2026-09-24T17:25:15.148Z",
+  "generatedAt": "2026-09-24T17:25:15.148Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T17:00:19.232Z"
+      "updatedAt": "2026-09-24T17:25:13.847Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T17:00:19.509Z"
+      "updatedAt": "2026-09-24T17:25:14.131Z"
     },
     {
       "name": "AP News",
@@ -120,13 +120,19 @@
         {
           "title": "CNN, MS NOW and Politico back at the White House, hours after judge ordered Trump to lift ban - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFNUM3VIUEdwTndqbnFYUjk4OUYzUHNvQ0syOVNEQmNNSUxvd1FzNWdDYnpZcjJyV0xKU1BWUzc0eFVqeFRka3VNU05MeGRIT1ppWDJnbE1xMjZDbVVIc0hZT0pfUDBfNGZLUzhIOVRfU1h2N0I3SjJTajNuYUFrSFVONEVxYlpLa0F1TjcyT3diOU9nNWhhVU1zQW1XeTNSNWw1ekdMdXdQeEk?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 16:37:00 GMT",
+          "pubDate": "Thu, 24 Sep 2026 17:09:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Trump hails ‘truly great friendship’ with Xi Jinping as the Chinese leader begins his state visit - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUlSSmFoWUZsM1V4WlJhUkNONDJwUVRNMEpacHR2ckJUT1ltenVUc2JoSUJMejVtR2g1RkNWZTlpNTFDM1ZTZUhQb0RSbEFTNm40c0Nsc3g0X01ySTZOYWxXT1FUR1FvUmlVV3B4dGhpbDVfcG1FNjNMeXdjSW9BZG9aa1d2c1lMQkhCRDRncw?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 16:28:00 GMT",
+          "pubDate": "Thu, 24 Sep 2026 17:03:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Chinese auto companies race ahead on EV technology, achieving 5-minute ultrafast charging - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzNDbnFNTU1GNXFGZ1k5c2dBWWkwN2o0MkxoSXR6SHRoczZZVlQ4RUVPUzFnQy14OG1mN2NSeU5lWDMxVXpzMG44RThHYlJWWG9JS2ZMLW5tNmdPY1VDUG5vaTdxNW5BWHVyX0NiT21TNjVENWs4UWw1TXZERXJwNmZhYjcwTHV2ZlNMWnNNSUhHSWVGMm9N?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 16:49:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 14:14:16 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Pakistani airstrikes target Afghanistan after Islamabad accuses Kabul of drone attacks - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNajFyY0ZsVElWbkduTGR0UUxZQ25WSEczcHNiMTFjSENoSjZ5LWZWd3AwQm1DbENhS0xFVHVzOGt1RXVhNVlMSWdQczZCdlNBYlBmSmxyN3ZrVzNSRWVqcFJ4X3ZpdURzbmd6Tl9aX09hY0xOM1JxWUUwM29sVzk1Y1VhWEp2UXY2SVpERGljVzZxMkJ3X0RxMFBHTHk?oc=5",
           "pubDate": "Thu, 24 Sep 2026 12:57:00 GMT",
@@ -152,77 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTRXbmF0YWQ1bm0xdDBXSEJ3WndTRzdsUS04WnNUaDUxb1RRVGJfQ0ZoMHBPZy03Tmx3OE9Fc2QydUJjdUJYSUxNSllfQzV1NWJSdFBoS0ktRlV3RXdxcjBYNEZBNTZpWDJPU1BTMkdVUEFsOW12M0hyeHc0VS1nNnNPbjRZY2Jpb0hBTHlyTGdLS2JKYkc4aWtrSlBrd3NDZDIwbW00VEg?oc=5",
           "pubDate": "Thu, 24 Sep 2026 12:47:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 12:01:48 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Turkey will hand over key base in Iraq in a gradual troop withdrawal deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXAxMmMwSW9sZGxkUnpfdjdqOEZBUmIxOURJS1QzQnBuWkdVUVNlNGV0RFVQT0ZjaWhVdl9CN19xTzJKSWo3VG1FZ3A3cTZ6OVdFaEEzRXZtU2JETGZYVksyTmhNWmVqQmVYYTJFcnVteDBXVFdjRG1BN2Y2dmZrOHkycjBtUWdUMXM2SVpmVHNuWkE2SGdWdXJvc2VISktJMkxz?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 08:23:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T17:00:20.463Z"
+      "updatedAt": "2026-09-24T17:25:14.695Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Insight: US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say - Reuters",
+          "title": "US weekly jobless claims near 57-year lows; price reductions boost new home sales - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkFjbktqV0kzSmJtNEZPU2p1MWRCWTdKLWVySDEtTnJMbUdVR1p4VGZ1YnVlM0tkcEsxSFlsdTY4b1RodjlqVDQ5V0hoT3FubnE1N1c5U0RZOTgyZ0JsQnFWQmJQTGx2QUNTZmJROHN4dmN3VnNXNXRnTVBsQlFIZzVqb0JjMzl1MlVEeDFUNUFJQm53RVU5WkFGd3VhNjhXbHlGVUFnYWZ0VGM?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 17:01:58 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 16:53:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Democrats tee up pre-election war powers vote as some Republicans break with Trump on Iran - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU45a3FvODBzSXpndWg1QUVuQzlqUmVJWjZEWUFXNWltVUx0Sm4zbDE1X3lFSnFYd2hQeGotT1YtejB1NU9lZDJKcnJjeEZqNkJtZkQ0anhFUG92V3pWLXlyQzhIalFwTzRuVnVvd3BGQ2tfYTJ3RUxMRlhlWTdTUFE3MnAzMUxmallxcE9SZU5ldmxJeE1fYnhyT0c5eG9lVXVydVg2TFhnbnFJYUFsOE56U194eTltTnc2bGFR?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 16:53:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Insight: US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXMwQlBmRVM4WXVFeXhQVkcyYnpaUzE3dk1wUWswS3pZWDBKTGNWVEpqdFNsWXZEYm5PQ3pSVmRhVFl1empQN3p6SFY0YTVHRmxxNWpxbXFNWVlCOEF5T0tBLVp0MzNyWVlyQnpkbUtyVzNTeGtxQXZVc3hhb0E4aVV6bU5QVEdHMFhCaXRhV3hxQVJ3MWRXNF9tNG5EeUVzcTdEOUhGSExiS3F2SUlkS2xzRk1mNlg4bkRhR0FoaE5QZw?oc=5",
           "pubDate": "Thu, 24 Sep 2026 16:28:41 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Denmark expects Russia to escalate hybrid warfare in coming months, intelligence service says - Reuters",
+          "title": "Denmark expects Russia to escalate hybrid warfare in coming months, intelligence service says - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXlmNDVMNW9SNl95NVhuWERMcUV5SWZjZE5RTUtMMUpoTjdHWnVtQVQxOHNJcFRoSjRkZHZfMXpnUmZVV3hOY1ZkdjVqUEg0UWpRZEVNbzRFTm5yN3ZfWXdjV2h6X2J4UXduMzA3d0pXLWxCVTlXalZURzRXanlLSG54MzhrRVV6XzJ2SHhlRGJIYmlZd1hvM2RUdGJOdndEQnhWekEyWTNlMm0tTTRXQnZaSF9kWDI3enduSlpRUQ?oc=5",
           "pubDate": "Thu, 24 Sep 2026 16:28:32 GMT",
           "source": "Reuters"
         },
         {
-          "title": "FDA nominee Overton says all US vaccines safe as Senator Cassidy presses on shots - Reuters",
+          "title": "FDA nominee Overton says all US vaccines safe as Senator Cassidy presses on shots - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1Fybmc2dzZLTkRBN3JPVUxuZFNYV3dCb3E0d0NicUZzLWNMc2NtdHlWcUJfUnNJR213U2ZscXVFSGhYbzFMandXak1vdnVSNkZmRjFoRjhFNlJPN3g0QlF6b0xtUGFCOFNDY1NKVHhhTUNmd01RUDF0cWJrMkVScWZMMV83MEJiMVFiRHplQTg3bkNvdVpKdEY4MVpFTG0wSERjZENzc1Q3WFFJQ3RtQy12U0NraWJ6azRzWUloWE4?oc=5",
           "pubDate": "Thu, 24 Sep 2026 16:18:02 GMT",
           "source": "Reuters"
         },
         {
-          "title": "New York lawsuit says Polymarket's prediction markets are illegal gambling - Reuters",
+          "title": "MS NOW and CNN says they have been granted access to White House - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalFGTFRpbncxTmxyaFA0M1FwbF9CNHJEbTNLNzlfOFVYN1h2MXB3ZnA2ZEpCSGFtS3RVVlduWGl4dk9kVTI4RFJLRFFaeC15TXcyc3dXQ0xQUmRDOE5peUtwS3hpYWtzV2Nwcl85T2ZHS1lYREs5ekh4UlFhcHNwVmdIcnVOVXNHRHB3MDZPR2gyU0ZGdEI4QkhHQUx0dTB1blFfOUN5ZUh5SXBSTi0zaWdJRmRwbVU?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 16:14:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "New York lawsuit says Polymarket's prediction markets are illegal gambling - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHBKRzNuRV9UcDlISEg4M2tsZURmLThPQW1ZbDMtRG91aDVLeWJJT2xsenpqbi11dENjOVp6TmpXWllXNTVmT1FFczRmY1U5YkVXVUZ6bTRIVUlSRWk5MnNDWWJobnoyU2dqSHAzR1pMaTJyR2NQa1QwQlBmX2pnUEx1ZG9oTGo2U3FDekFDYlJrVVltVG9TMmVleXNaNk5aLVVVS0VBSHk?oc=5",
           "pubDate": "Thu, 24 Sep 2026 15:59:22 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Saudi Arabia thwarts Houthi ballistic missiles, Yemen's Saudi-led coalition says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLW1IRmRaem1xSHEwTjd1VldSMmNqZk55VmdmZkh4QnNhU21SM0ZtWGg4RDdxSkNOM1F6ZUJ4LUYybUlzcWx6S01zbzd5N3BRSWRTc0N6eExNa2RFQXVTYlM3RmtXOFlDUk1Yc2Q0LXNkTEFPQlpCNjgzZHNlbkZXWGtXT1NRNFZ3a2lvWWNxVkk1Rng0Q2ZtNUk4TzZ0YXpNdDFaRUZQa2lBVHpnV05pV1QtZVlJSjJpTFFPTA?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 15:42:16 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Global bond rout rolls on, pushing US 30-year yield to highest since 2004 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOG41MExjN21pM3Z3V2JFMGkydXNYQW5YSEFfbTd2N2pOenR6R3pKQ0ZVWnVQZElXXzdBSXNLdTl4Q0ZPMzItVkIzR3hWNjZrMUNRZzJsa2xYQVNvQ1h2REJuNW1HTGpCb2lsdjdyWkZacjV6NnI1aHA4Y2JFN0sxYm5TYlBTSkhGWkd6b2dWaWNpbTVHYkhWb0lnNFo1al9scmVqT0tXZkh5ZFU?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 15:22:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "CNN, MS NOW and Politico denied access to White House despite judge's order - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGZDelJBRHdvcFBwNGNlTGwxdVNHNnk1UmhJeDZUZWd2Y3o4ZGw4QTVaM2VrT21MQWt2eUUyR2c5cnR3ckdadDZNS0RSdUpLX1FVMHpqU1B3aWVyeGs3aGp0RE44R2JoRG55QlhiUWRQOWRhUGtoZ1ZoMlhydDJOQlRPU2JkbldsaDB4UUc3TVJxU2xwMFVvbHlMNG1UOHNPWUUzSmVaVHFCR1Y0SmJvRmFSNFVDU3JyNHdhTkp0a1RuQmEzWjNrcw?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 15:21:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Democrats tee up pre-election war powers vote as some Republicans break with Trump on Iran - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU45a3FvODBzSXpndWg1QUVuQzlqUmVJWjZEWUFXNWltVUx0Sm4zbDE1X3lFSnFYd2hQeGotT1YtejB1NU9lZDJKcnJjeEZqNkJtZkQ0anhFUG92V3pWLXlyQzhIalFwTzRuVnVvd3BGQ2tfYTJ3RUxMRlhlWTdTUFE3MnAzMUxmallxcE9SZU5ldmxJeE1fYnhyT0c5eG9lVXVydVg2TFhnbnFJYUFsOE56U194eTltTnc2bGFR?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 15:21:23 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T17:00:21.100Z"
+      "updatedAt": "2026-09-24T17:25:15.148Z"
     }
   ]
 }
