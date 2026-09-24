@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-24T11:00:22.479Z",
-  "lastChecked": "2026-09-24T11:00:22.479Z",
-  "lastUpdated": "2026-09-24T11:00:22.479Z",
-  "generatedAt": "2026-09-24T11:00:22.479Z",
+  "fetchedAt": "2026-09-24T11:25:13.701Z",
+  "lastChecked": "2026-09-24T11:25:13.701Z",
+  "lastUpdated": "2026-09-24T11:25:13.701Z",
+  "generatedAt": "2026-09-24T11:25:13.701Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,15 +57,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T11:00:21.334Z"
+      "updatedAt": "2026-09-24T11:25:12.755Z"
     },
     {
       "name": "NPR",
       "items": [
         {
+          "title": "Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split",
+          "link": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
+          "pubDate": "Thu, 24 Sep 2026 07:10:14 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Needy couples got cash and a spending plan. Results were good -- and bad",
           "link": "https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence",
           "pubDate": "Thu, 24 Sep 2026 06:43:25 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The Education Dept. hasn't been dismantled. It's become more inefficient, staff say",
+          "link": "https://www.npr.org/2026/09/24/nx-s1-5968605/education-department-dismantling-how-its-going",
+          "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
@@ -75,8 +87,8 @@
           "source": "NPR"
         },
         {
-          "title": "The Education Dept. hasn't been dismantled. It's become more inefficient, staff say",
-          "link": "https://www.npr.org/2026/09/24/nx-s1-5968605/education-department-dismantling-how-its-going",
+          "title": "Warren demands Trump officials explain removing a ban on interference in census data",
+          "link": "https://www.npr.org/2026/09/24/nx-s1-5979070/department-commerce-census-bureau-elizabeth-warren",
           "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -93,30 +105,24 @@
           "source": "NPR"
         },
         {
-          "title": "Warren demands Trump officials explain removing a ban on interference in census data",
-          "link": "https://www.npr.org/2026/09/24/nx-s1-5979070/department-commerce-census-bureau-elizabeth-warren",
-          "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Judge orders Trump administration to restore journalists' access to White House",
           "link": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
           "pubDate": "Thu, 24 Sep 2026 02:21:06 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Venezuela's acting leader promises elections at the 'right moment'",
-          "link": "https://www.npr.org/2026/09/24/g-s1-144837/venezuela-leader-un-general-assembly",
-          "pubDate": "Thu, 24 Sep 2026 01:40:49 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T11:00:21.543Z"
+      "updatedAt": "2026-09-24T11:25:12.810Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Pakistani airstrikes target Afghanistan after Islamabad accuses Kabul of drone attacks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNajFyY0ZsVElWbkduTGR0UUxZQ25WSEczcHNiMTFjSENoSjZ5LWZWd3AwQm1DbENhS0xFVHVzOGt1RXVhNVlMSWdQczZCdlNBYlBmSmxyN3ZrVzNSRWVqcFJ4X3ZpdURzbmd6Tl9aX09hY0xOM1JxWUUwM29sVzk1Y1VhWEp2UXY2SVpERGljVzZxMkJ3X0RxMFBHTHk?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 10:52:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Judge orders White House to restore access to CNN, MS NOW and Politico - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFNUM3VIUEdwTndqbnFYUjk4OUYzUHNvQ0syOVNEQmNNSUxvd1FzNWdDYnpZcjJyV0xKU1BWUzc0eFVqeFRka3VNU05MeGRIT1ppWDJnbE1xMjZDbVVIc0hZT0pfUDBfNGZLUzhIOVRfU1h2N0I3SjJTajNuYUFrSFVONEVxYlpLa0F1TjcyT3diOU9nNWhhVU1zQW1XeTNSNWw1ekdMdXdQeEk?oc=5",
@@ -124,15 +130,21 @@
           "source": "AP News"
         },
         {
-          "title": "Pakistani airstrikes target Afghanistan after Islamabad accuses Kabul of drone attacks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNajFyY0ZsVElWbkduTGR0UUxZQ25WSEczcHNiMTFjSENoSjZ5LWZWd3AwQm1DbENhS0xFVHVzOGt1RXVhNVlMSWdQczZCdlNBYlBmSmxyN3ZrVzNSRWVqcFJ4X3ZpdURzbmd6Tl9aX09hY0xOM1JxWUUwM29sVzk1Y1VhWEp2UXY2SVpERGljVzZxMkJ3X0RxMFBHTHk?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 08:00:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Zelenskyy, at UN, urges leaders to keep choking Russia's revenues and impede its war efforts - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFp6UGxFQ2ZuSExJX0xzaWdjNWRsWDh5MjZ3dlNfT1hFbUxSRE9LaVhlckN6UXZlTGtXU21WdEUxZFpXem1NSXYxVV9raG11X0ZxMmg4eDFwN0dOTWR5VHBERDZtOEJVM0xQeWZ5M09SamJYeE5VUE5ud3I4elRidjdvd1NlXzRQd1Axb05abkk4UndESDE1MlVBZDZ4UQ?oc=5",
           "pubDate": "Thu, 24 Sep 2026 07:30:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 07:17:03 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Tech leaders to UN: For the sake of humanity, please control the AI technology we created - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHBObE1ZM3ZSc0QwNURQWkZkS2tORVNRMHhNUUhvNjNZRjR4RHNIVWlyUE5qZV82WVowbEFFX2RhR09TeE5WMHQ4S3l0TkdZTjN3YWdvVUNfRUZYdTZVOW9jc3YtQlNHdWNjcFh4cl9jNlk4VDkxMlFJc18ybzlLN3B4NjZxZVB3cFNBTy1mSXlLVmZlbDRpdXd4WVljVEtaZGxkRHpIMTBSZw?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 04:46:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbnphd05odjktQV9NY2U2eWtjNFhVSlZ5aTFzVDVSdkVPUWpuM2ZuMVV0M3JqRjVWY1lvUURIRGJzdFhqTGMtaEpOQUpaZGhBWnZERjNSZXdBcGd5Zkg5RjVVUVhPYkVtVlNDMzhadVNoZEtrMXF5dnRSWTROaEJZVHk0VUNrd2lWVmZmZjZZYmU1MmlGNnFjdlBHamswRGVuVGZIUXNuVXk?oc=5",
           "pubDate": "Thu, 24 Sep 2026 01:52:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Oxford English Dictionary adds several words long used in the Caribbean and Bermuda - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVVrVi00S0JscWRMUklQYzdUN0FQRHNQdU5iRFZTeHZMdWlQUmx6a3dTS3lrS3VfdnlLZ2pZT3ZtY25vNkFjQ0laNVItMVFqaHNfdG0tQkRnVHd6cVVYQ244ZUIxVGdpdHJveE5OMWZQNXVZbk1jd1RYNVVLRmw1aGdnZmdkZUhCNGRZLVU0Rm1USGJMSFlTeXFCSjVFejgyNFhNTG1VNlA?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 01:28:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump welcomes China's Xi to Washington with planeside ceremony and extension of trade truce - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0RkaG5qaGdHbDlPcmdKVDdEMG5mdTlRa0tIQ3llODRmeGtlY0xuWmV1U1Jxd3lHQzI3ZjlFMHVLSzF1ODc2YmIzcjE5aDVDTHpUUTFiYU95Unh4Z01tc29pN21Kcm1JTGRxdE9PUWlrdTFiV0hVS1dQb3VuakxyV24wNWQySlBwUFBCbEc3V3d6VnVLTFpCX05Cc1NfcGJU?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 00:41:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T11:00:22.025Z"
+      "updatedAt": "2026-09-24T11:25:13.273Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Judge blocks Trump's White House media ban, orders access to be restored - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2V0SEZGX1dfSmIwdGdRLU4zTlFsdVlDa3dXeS1EVnczQV9yUzJIXzN3NVhvR2gzcVBMTFBkY0g2Qk1xWGladm51WVQ1ZkN6Q19MTDAySThlMjhYSzNKaFJYeXFaUnpZNUZ3SkRBcTRVaGFORElVUkdHZG16UXQxcUVuTjROUFFycnNuQi11VDNHdlVtcWZnNTk3bDE?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 11:00:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Republican coordinated campaign spending surges after US Supreme Court ruling - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQek1KNVZpTDBGcVEzSElkMUpGM1JpMnJLdWlmSllKLVc2NkN6SE1oWEtTQnJITFRJMm0tNlNBUlVickIyQUNudmlhS1RmejBHWWRrdTUtM1F4V1QzQkJjX2NRQjdMUWU4NWVHb0t6MWNoeTl5dVhLeFZBZzBocENjVjZQRVh5UHJibFNIdm5tWVZSRVlvMHFnRDdtTVRWNUZ2TWFFX1NuY28yZ1gteEVhZDRLdjBTc1JNRFZ6QkpNLVYxejVzMlBxcW1B?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 10:32:28 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Denmark expects Russia to escalate hybrid warfare in coming months, intelligence service says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXlmNDVMNW9SNl95NVhuWERMcUV5SWZjZE5RTUtMMUpoTjdHWnVtQVQxOHNJcFRoSjRkZHZfMXpnUmZVV3hOY1ZkdjVqUEg0UWpRZEVNbzRFTm5yN3ZfWXdjV2h6X2J4UXduMzA3d0pXLWxCVTlXalZURzRXanlLSG54MzhrRVV6XzJ2SHhlRGJIYmlZd1hvM2RUdGJOdndEQnhWekEyWTNlMm0tTTRXQnZaSF9kWDI3enduSlpRUQ?oc=5",
@@ -191,38 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "Netanyahu expected to berate New York's Mamdani in 'campaign speech' of UN address - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR21xaG03TDh6WUlBZVQ0RkhicmlGOFZkbTluZWh2b3E1UFJ5d2RiaFBRY0xtWkl2NjE0SHBqUWhYbElRZmFRMWU5UVExZHlCMHZZRGJKSDZsa3k5eUdJWTJvV3NMakNhdEdyaE9sQ1JLMlEta0pEMzVNbWJ6VkxqZ3lOWjliekcwa280eXl1aHFMekNVSklsTGdjNEc0dEVIcHl4TGFVakNaS1h1STRwZFFjd2NadGhQNmZ4Nl9uN0VnZw?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 09:50:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Bond market selloff rumbles on ahead of Trump and XI talks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 09:48:48 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Russia says no decision yet on possible Putin-Trump summit in December - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUF9RV0g2QTBmbTk3QW45Yl9VMWkxZEMxbklhdUU3WkU0WV8wRHg1LV9YUmlsRDVjc3N2UVhwVGRacXBxemJYcEJORkJ4SnVpQWcyQjJlNUp3MWFlcG9JX09iU19iXy10cEZXdDBfV0lqMmpzVmpJVlNjZkEtZEpOcWwweXZ6anpJaC13al9kWVZ6NWxPblJCZXA0ZDFsdllydGhaczhZbXlaSXhnV3FBcGZNVQ?oc=5",
           "pubDate": "Thu, 24 Sep 2026 09:40:24 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "SoftBank raises $11.1 billion in world's biggest high-yield corporate bond sale - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeldGcjFrNndNWHBkZ3ppV1hNSklkU3BNWGw5ZWFZQ1VyMWptRmJTN2pEMVBfUVFoLU0xOUhaUVN4VVR3RTNKeXNySkFGZ2tsRWVLRkY0SnhTdDUwcTZwWS1PYVBPdklXN0NLd1phMEt6Uzc3blZleGxGYUh0ZmhLY1RVREJxcE5VNFBsenVhcXpnV0R2WGVXWk9uUGdvT3BRSVRDVFFZSk1aZl92ZGxwSG1sbWg?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 09:25:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nine Kazakh military personnel dead after being washed out to sea during exercises - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTVZ1SEJ3cnNZQlNxUjZKS0ZCTW95ckJCbkY1cEt3Tnl4a3ltNjgzMHk0S2JhOTI0Q2wwcUhQY2FSXzFjT3otZFBpQlJCRUJ2QXBlZjZSUW5aU2N5dk5vSHdONGtCcWFaZUNaYXBOS1BYMklOQ1B3UEY0LUwwNl9QUUc2M00tZnlTMllhQkhhVXNnWFR0QVhMd3hvSDQwS24tSk1wclhHNWJVOFplUUVEZ0JtV0lFcmtDVlhXZGNodERRSnhWYWpOYTdFV0RFRWc?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 09:24:26 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Amazon bets $3 billion on India's fast-delivery boom, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXNMYm55TUd3bF9ScEMyTHVxZ2ZzRnVDTmZXZk5YaTdoZlVCNXhVd3NZVFZTb0c0ekJHNHpZcm83QkFoX2xxNHdndEoxU3BrVFlIVGN3TFlaTzB6RTJuREhCYmpIcTZhU01SWko3cFJjbHlxdVJrd2VfOU50MkNFSG9VRUdHSnVvNXdsNmgzeldMcF84UzZCTkQ1X2NybW1ySTUzMEZ4UHBnODcxLWdIeGx4OTBReDB4LUJCaA?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 09:23:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China's rare earths dominance to overshadow Trump's talks with Xi - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlBNcDhQbjZ1eUhlS1FRS0poeU53T0ZfZWN3c1d4Z1NFa0ItMm84bUZvQlp2ODc1ZGQ4S0hGbG85cUNmam5vUGctS29hOWE4SWVDUlh0NHIxbDJVVkhFU0xILUhEb256TG9VaFZwWkN0TEVQU0dHQzlteVkyT2VTcExNRlNYVFNFVl9QeDdBRGdRUzdDbm93V1lxSW5wT1lRazJyYlZER3l4dDBn?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 09:19:03 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T11:00:22.479Z"
+      "updatedAt": "2026-09-24T11:25:13.701Z"
     }
   ]
 }
