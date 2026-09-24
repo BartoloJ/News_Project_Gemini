@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-24T00:00:21.309Z",
-  "lastChecked": "2026-09-24T00:00:21.309Z",
-  "lastUpdated": "2026-09-24T00:00:21.309Z",
-  "generatedAt": "2026-09-24T00:00:21.309Z",
+  "fetchedAt": "2026-09-24T00:25:14.522Z",
+  "lastChecked": "2026-09-24T00:25:14.522Z",
+  "lastUpdated": "2026-09-24T00:25:14.522Z",
+  "generatedAt": "2026-09-24T00:25:14.522Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+          "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 23 Sep 2026 23:58:50 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
           "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 23 Sep 2026 21:26:14 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "UK survivor of Canadian poison seller says he exploited her despair",
-          "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 23 Sep 2026 21:16:00 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T00:00:20.516Z"
+      "updatedAt": "2026-09-24T00:25:13.450Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T00:00:20.675Z"
+      "updatedAt": "2026-09-24T00:25:13.622Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,7 @@
         {
           "title": "China's Xi arrives in Washington, kicking off his state visit with rare planeside welcome from Trump - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0RkaG5qaGdHbDlPcmdKVDdEMG5mdTlRa0tIQ3llODRmeGtlY0xuWmV1U1Jxd3lHQzI3ZjlFMHVLSzF1ODc2YmIzcjE5aDVDTHpUUTFiYU95Unh4Z01tc29pN21Kcm1JTGRxdE9PUWlrdTFiV0hVS1dQb3VuakxyV24wNWQySlBwUFBCbEc3V3d6VnVLTFpCX05Cc1NfcGJU?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 23:37:00 GMT",
+          "pubDate": "Wed, 23 Sep 2026 23:51:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "Iowa judge dismisses Trump’s lawsuit against Des Moines Register and pollster - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEhlUzVLcF9GRUdVbzlVVENZcTB0NTVIdmJ4MTRHTm96TXFCUHZ4RnJQejlUSGhSZzNZX2FGbW1Mb1gxdzZjRnNpZHN4bUNQZS1jOWJpOFY2N21PSnFoTzkyOTlfd3JzYU0wUnl5R2x2Yk9zcUdURTVyMjRNUjVidEdMa1ZEd0VNcU5QWmJzOVhXUQ?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 21:27:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
           "pubDate": "Wed, 23 Sep 2026 21:25:28 GMT",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNkp3TXhNc3h2TkR0aVJKMzlJNzhZalE0STdUVU1WelVnYUw3X3ZTd1RycXNZRFphVUljTC0tb09YQ1VuZWtuXzBRM0dEVlhfaDdRRHY1dDh3cjV0ZlZfTXhkUlhMUHdTS09PaGYtaFBMNm95aHJnWDVjVldaeTVVaEdCWkFoWjdVdTFRaQ?oc=5",
           "pubDate": "Wed, 23 Sep 2026 21:06:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "US diplomats told to use term ‘super intelligence’ not ‘artificial intelligence’ after Trump’s call - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDBXSVlKYjVLV1hzNnphbmpRampOMGcxUDBCVDdfanV2QmNUWk5fTW5PMFJ1SzB1VUZUQ25GUG55YXgycE13eU5jSlNiUGk5MUZTSFhHQU9pSlJXX1g3Uk82QXc4YktHdVUycnF4OEplZWRyY2txSVZEQTBHMHU3VHhHSW9NUW9HdnUwelBYdHFFSWlhWnJyUVdTUWI4dE5IODNGY2NDZC0?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 20:59:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T00:00:21.300Z"
+      "updatedAt": "2026-09-24T00:25:14.075Z"
     },
     {
       "name": "Reuters",
@@ -185,6 +185,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Russia pounds Kyiv with drone strikes as Zelenskiy addresses the UN - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOTZWQVc0Z0NRMVp5VkdLOXk4RWM3TjBZZzNiaXk2djBNUl9wZm0yWHhJaC1iaTNxSDU4SUtxUk9tZ1ZEbjRGRklUcVRJMVFUcFFBT000NWlZUGZnNU1mU01KUnI0VE9tUjd0TExPR3JUdWFEaGNkSURjbHduMHVYdVNlT0kyYVRxQ0lTVW1Id1J1d0dFeWc?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 22:33:23 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US, China agree to extend 'the Busan agreement' until January, Bessent says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2llUUdOb0lDeW5MNDVtS01Tc3FqUXh5ZjhQTDZjbnU4Y3R2Umg3OTFSRlI0dUczV2swYkUtbVVISzM2a2I0cFhVdmMtTDlCMVVtdE1GVUFLdlppaU5rMHVIT2pZb3JUNTNDbTJDUWlvUXhkdGt6SGZfaElISXp2UDJXdHF2bVBtaFpMNDI0eURDNkNybUUyN29uN0thTmp2eXZ4VEpnT3M4cXh6ekRMc0h5VVZHQ1E?oc=5",
           "pubDate": "Wed, 23 Sep 2026 22:23:27 GMT",
@@ -194,6 +200,12 @@
           "title": "Trump plans grand spectacle for potentially tense talks as Xi arrives in US - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5",
           "pubDate": "Wed, 23 Sep 2026 22:12:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tesla's supervised self-driving system often misreads speed limits, Belgian safety group finds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUVNFdko3aEg5amFUWUpBT2M5a01DZXFvQTF5Q1JfalNYd2lQaW05T3JkQ3ZlUWR4Sm96cURIT2Y0SGZLeTB1RmN3WFJmVEVUTkFRNml6MTVDS0JaUlRvRjQ0X2RSV09zT2M1NGR2MHZfQzN0emlad083OTl4U2ppZ1U5Snh4b3NoT1ktZzNDTGpiX0I2NGNDNURqb1NQUEx3aFlob2VvZGJBSVZWWGN4Y0s1WElxcmI2bWJlUWNld2pEN2oyR1E?oc=5",
+          "pubDate": "Wed, 23 Sep 2026 22:11:43 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLURJYzl4V3RkZXJGQmlKRmZCb242YXJ2RlRBbkJxMWlzVkZyYlh6SkRrWlFWUGJ0V19yU2FSdHhrUkxzN0xBR2p5OWx5ZmVUN3ZDTDRJUENPUWQ4a2M0RThCbDl6b0FVUzhpa3EwNENCYUYtc3N5RWgxX3lFMWY1MWMtWjdtb0U1X1lwamNaNjJtMEVZSm5rMEJtSm5HWUo0V1haSXB5UjBNX05pdFZJaVk1ckNpTHFy?oc=5",
           "pubDate": "Wed, 23 Sep 2026 22:05:42 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Zelenskiy warns of painful winter for Russia if energy truce talks fail - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3MzYlZCZEgzcUlDYjZORWhrZEFaczhhdjlTV2tXYW9lcjk0V1BIZlpqNVM1d21rQU1GYi1vX1p2QWtLV2MtRFNUZ2VuZzRmSkNCUGZibHFPVjF1NjdBUkhrU2NmR3pzZk4wdDFSdFdfWkJfX19wdll1LUROTGVVTkF6RUQzSmZ2NXBsRi14WHJnZkJiajIxUXVfbnc5Wk5zRXBncjZhRHNveHl2Yl9MeE9GWHliX0dW?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 21:44:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Dramatic eviction of 87-year-old Madrid tenant spotlights Spain's housing crisis - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNkZUeUVFa0FVc2g1SDdJc2RmZU5MUzdvYWY4UC1LcWstdlI5WkZLdHFkQ0w3NGpLUXN4QnFEUlFPV1lSYU5iRDVFUzRRWXlKZDFrRENmRHY2Zl9wRU01X1BWRVZxOXlCcFVPWXJidzNKOVF3MkV1clJiSjZiZjVEZF8tT2IyZTNfN2MxSjQycXR2enowMFVTMnRSZlNhQk5BSmZFZ3ExWTNxR0NqZnhRUjBqaGVmT0ctYkE?oc=5",
-          "pubDate": "Wed, 23 Sep 2026 21:33:04 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T00:00:21.309Z"
+      "updatedAt": "2026-09-24T00:25:14.522Z"
     }
   ]
 }
