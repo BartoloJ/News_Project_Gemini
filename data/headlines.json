@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-24T15:00:22.903Z",
-  "lastChecked": "2026-09-24T15:00:22.903Z",
-  "lastUpdated": "2026-09-24T15:00:22.903Z",
-  "generatedAt": "2026-09-24T15:00:22.903Z",
+  "fetchedAt": "2026-09-24T15:20:05.175Z",
+  "lastChecked": "2026-09-24T15:20:05.175Z",
+  "lastUpdated": "2026-09-24T15:20:05.175Z",
+  "generatedAt": "2026-09-24T15:20:05.175Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T15:00:21.134Z"
+      "updatedAt": "2026-09-24T15:20:03.974Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The economic squeeze is pushing up poverty rates for older adults",
+          "link": "https://www.npr.org/2026/09/24/nx-s1-5979857/senior-adult-poverty-affordability",
+          "pubDate": "Thu, 24 Sep 2026 11:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump rolls out the red carpet for Xi as high-stakes summit begins",
           "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-rolls-out-red-carpet-for-xi-as-high-stakes-summit-begins",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
           "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "States threaten action against company profiting off disabled vets after NPR report",
-          "link": "https://www.npr.org/2026/09/24/nx-s1-5978816/va-mortgages-trajector-bankruptcy-investigations",
-          "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T15:00:21.483Z"
+      "updatedAt": "2026-09-24T15:20:04.205Z"
     },
     {
       "name": "AP News",
@@ -142,15 +142,15 @@
           "source": "AP News"
         },
         {
-          "title": "Turkey will hand over key base in Iraq in a gradual troop withdrawal deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXAxMmMwSW9sZGxkUnpfdjdqOEZBUmIxOURJS1QzQnBuWkdVUVNlNGV0RFVQT0ZjaWhVdl9CN19xTzJKSWo3VG1FZ3A3cTZ6OVdFaEEzRXZtU2JETGZYVksyTmhNWmVqQmVYYTJFcnVteDBXVFdjRG1BN2Y2dmZrOHkycjBtUWdUMXM2SVpmVHNuWkE2SGdWdXJvc2VISktJMkxz?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 11:39:56 GMT",
+          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 11:00:22 GMT",
           "source": "AP News"
         },
         {
-          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 10:41:57 GMT",
+          "title": "Turkey will hand over key base in Iraq in a gradual troop withdrawal deal - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXAxMmMwSW9sZGxkUnpfdjdqOEZBUmIxOURJS1QzQnBuWkdVUVNlNGV0RFVQT0ZjaWhVdl9CN19xTzJKSWo3VG1FZ3A3cTZ6OVdFaEEzRXZtU2JETGZYVksyTmhNWmVqQmVYYTJFcnVteDBXVFdjRG1BN2Y2dmZrOHkycjBtUWdUMXM2SVpmVHNuWkE2SGdWdXJvc2VISktJMkxz?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 08:23:00 GMT",
           "source": "AP News"
         },
         {
@@ -160,18 +160,42 @@
           "source": "AP News"
         },
         {
-          "title": "Pentagon investigates after China obtains parts from F-35 stealth fighter jet - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNy0xSEtmUlhxZkZNaEJpV0dEaGlSM29MMUhqQnlGYlRMTVZuTVVsTWo2a0pIQS16bTZJZ2RnTGdEbm9JZ1Zwa01wQzYxaWVvd2c1dlh0cUlzaW1KYlhHRXhIVXptUldBUnkyNEZtdXBMV2F0YkNSTU1kbjFSNi1vYVBObHNuck0yYXphc2FobXAwdTE1Q3FETlk0Yw?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 02:47:00 GMT",
+          "title": "Tech leaders to UN: For the sake of humanity, please control the AI technology we created - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHBObE1ZM3ZSc0QwNURQWkZkS2tORVNRMHhNUUhvNjNZRjR4RHNIVWlyUE5qZV82WVowbEFFX2RhR09TeE5WMHQ4S3l0TkdZTjN3YWdvVUNfRUZYdTZVOW9jc3YtQlNHdWNjcFh4cl9jNlk4VDkxMlFJc18ybzlLN3B4NjZxZVB3cFNBTy1mSXlLVmZlbDRpdXd4WVljVEtaZGxkRHpIMTBSZw?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 04:46:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T15:00:22.316Z"
+      "updatedAt": "2026-09-24T15:20:04.765Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "U.S. yields rise, 30-year bond yield hits highest since 2004 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOG41MExjN21pM3Z3V2JFMGkydXNYQW5YSEFfbTd2N2pOenR6R3pKQ0ZVWnVQZElXXzdBSXNLdTl4Q0ZPMzItVkIzR3hWNjZrMUNRZzJsa2xYQVNvQ1h2REJuNW1HTGpCb2lsdjdyWkZacjV6NnI1aHA4Y2JFN0sxYm5TYlBTSkhGWkd6b2dWaWNpbTVHYkhWb0lnNFo1al9scmVqT0tXZkh5ZFU?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 15:07:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Flights suspended to Ethiopian holy town of Lalibela as fighting expands - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ0thQ2FqZmNRWUszTGE0UTA1RjNRWFI5NWs4eEFzdmFvTWxJY3UwSXBYazlacWlacnVhZmtfY3hfX2pJVmc4eXF2VGxvR3Jud0Vta3BYRmNKdnJuWU9qVURfTUtLY2k3OHcxbTFqdEhpNDRfOVJ5T2xISENyeTYyTzVkNkFYR1Q1UXRyd0tEZ1lrUWo2dVI2NVdUWTljRDkwUzlld3p1UFh0aG5qWXg0YlotUTN2UENPOFE?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 15:03:37 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US FDA approves Lilly's once-weekly insulin injection for type 2 diabetes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSEZSYmhoOGl6Z28wbjF1RjVWMEdDczVZVUIzUTJITkU0Zjllc2Zib2E5SVBTOTlPZGN1UTNOTWZtZmdIcWszNUFmLUc0dnlkb2tLOXQ0T1Q3VWVpZnJVcFlCcXVxY210WnNCVm1QWTV1eHZWUDlMT2FVSUJvR2VOczdERExGYVVaVkZ3WGtibS1CakhPNGhRQldkQmJFRTlZZlZuc2txYVFWb1VsenBYTHlMTnVjdmpTbGlVQzJR?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 14:53:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St slips as Middle East uncertainty lifts oil; Trump-Xi talks in focus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
+          "pubDate": "Thu, 24 Sep 2026 14:21:39 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Fed's Williams says it is reasonable to see another US rate hike this year - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkdqZ3lLWVItQUduVDZkZW45dEhCcmIwUEM4QlZFSVoxN0QxVEl0NTk4MmtqYVktY3JjNGFGOGZSaVRNMDJFX1QzTXRjYnVkWm0yQUFlU1hWRTNsbXRlY0pIa3RGWEtkamtjdUhERE1qLVlsQTgyNjBGSzA0ZXFLS29pQXM3QTBOTHZuYXRZT2paWlBPWk90eFM3NzFBRnBTZFZaVGF3cFA0V3lCY1I5T09FQWVhdw?oc=5",
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjdDUU9HODhTcWdINGxKSE03VHRiTllZWWZRQ0pXdjFIQ3ZFTW83SFJHNF9ERmZJQVM1R0dsWFNYeTlyMWpKN0VOVnl6Z0tGbUJUTHJfMFBzaUFtSmJaYVR2RW9uYTNCbWx5bXBjU3Fia2tPdzdXbHM3UmtQUk9vekdkVk1OMXg4YVY5TEJn?oc=5",
           "pubDate": "Thu, 24 Sep 2026 14:03:53 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Saudi Arabia thwarts Houthi ballistic missiles, Yemen's Saudi-led coalition says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLW1IRmRaem1xSHEwTjd1VldSMmNqZk55VmdmZkh4QnNhU21SM0ZtWGg4RDdxSkNOM1F6ZUJ4LUYybUlzcWx6S01zbzd5N3BRSWRTc0N6eExNa2RFQXVTYlM3RmtXOFlDUk1Yc2Q0LXNkTEFPQlpCNjgzZHNlbkZXWGtXT1NRNFZ3a2lvWWNxVkk1Rng0Q2ZtNUk4TzZ0YXpNdDFaRUZQa2lBVHpnV05pV1QtZVlJSjJpTFFPTA?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 13:58:01 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Knifeman kills priest, injures four in attack at Polish abbey - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdEE5UjA1aHhjMDBtWmVPVHNoSUJNeHBBV2M0UlloMnpiMHVINmdTVlcyQnVIVXAxX2JXQ3R0TFhHcGNsU3drS1Jja3VhaXBVakM1Tlc5ODRWNWZ4WDJ5bFpxcUpHN29iS0J4WUgxREFVeUVNbjNvWVdiSDVmdm1PWkdid3hmMy03UDVHV013RVo4WWtqRHgzYV9XYkZpNUxPUzZfOFhadjQ2Y2Zy?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 13:55:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "SNAPSHOT Wall St opens lower as oil gains on Mideast uncertainty, eyes on Trump-Xi talks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 13:35:08 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Politico, MS NOW, CNN denied access to White House despite judge's order - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGZDelJBRHdvcFBwNGNlTGwxdVNHNnk1UmhJeDZUZWd2Y3o4ZGw4QTVaM2VrT21MQWt2eUUyR2c5cnR3ckdadDZNS0RSdUpLX1FVMHpqU1B3aWVyeGs3aGp0RE44R2JoRG55QlhiUWRQOWRhUGtoZ1ZoMlhydDJOQlRPU2JkbldsaDB4UUc3TVJxU2xwMFVvbHlMNG1UOHNPWUUzSmVaVHFCR1Y0SmJvRmFSNFVDU3JyNHdhTkp0a1RuQmEzWjNrcw?oc=5",
-          "pubDate": "Thu, 24 Sep 2026 13:26:38 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-24T15:00:22.903Z"
+      "updatedAt": "2026-09-24T15:20:05.175Z"
     }
   ]
 }
