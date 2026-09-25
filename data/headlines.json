@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-25T15:00:21.397Z",
-  "lastChecked": "2026-09-25T15:00:21.397Z",
-  "lastUpdated": "2026-09-25T15:00:21.397Z",
-  "generatedAt": "2026-09-25T15:00:21.397Z",
+  "fetchedAt": "2026-09-25T15:25:14.149Z",
+  "lastChecked": "2026-09-25T15:25:14.149Z",
+  "lastUpdated": "2026-09-25T15:25:14.149Z",
+  "generatedAt": "2026-09-25T15:25:14.149Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Pope warns against 'losing humanity' to AI machines",
+          "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 25 Sep 2026 15:06:41 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
           "link": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Pope warns against 'losing humanity' to AI machines",
-          "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 25 Sep 2026 12:44:08 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
           "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 25 Sep 2026 11:44:44 GMT",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T15:00:20.343Z"
+      "updatedAt": "2026-09-25T15:25:13.011Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+          "link": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+          "pubDate": "Fri, 25 Sep 2026 10:55:12 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rain",
           "link": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
@@ -103,20 +109,26 @@
           "link": "https://www.npr.org/2026/09/25/nx-s1-5946736/voting-confusion-turnout",
           "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Years after storms, clean-up crews meticulously separate the sentimental from the wreckage",
-          "link": "https://www.npr.org/2026/09/25/nx-s1-5844641/hurricane-debris-north-carolina-texas-flood",
-          "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T15:00:20.434Z"
+      "updatedAt": "2026-09-25T15:25:13.068Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Iran proposes a deal to reopen the Strait of Hormuz in 7 days if the US meets its conditions - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNElSLUJIM2lSSWJPendCMnQ4Q252MkdGeXFPT0t2R1VHN2tIaFlzdEZPNWhWZUhfdW4ySjdnZF8tal9vblVkNERSNm5hOHlzelVYZk44VXNhSGI4TVpwcnF0Z1hrQVBsdC02OUNGLW0yeG15N2FsT3dMb29NZ1dXR2FPSU5xRW5BOHIyQ2JuMktWYXBsMlR5ZDlxM2lOeTQ?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 15:13:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Final results of Russia's tightly managed vote give a record high parliament seats to Kremlin party - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNTBlN1ByNmxWamhqSDRsdG5WSmJma04yWnRNeEdxdFh6TzdXc2RzcUpqaDVIVVpQUUZrVjFQQXNJbXpvMFQ0R0JYdnd2SDRlb1d2dmNlX0ZkNUhvdUwwRUZlTU5sR19BaTE0VWhDYzhvZ0p0eEtXUUd1SzZLdzQ1UWN2Z3o3b2RlVWpHeDJCRlJ4YzVKS0FpdVRnX1MxRVZHc3RONHpGaUM?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 14:50:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Pope warns a ‘paradise of machines’ could undermine humanity as he opens France trip - AP News",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0JDWkxQellXWFhSUEQ1QnBGOXkyQ1pHTkptZlAtYzhWbXZtMjJPSzRvRGd6MU01NF9MRE9Ya08wRmlPZEFzdW50TGJUMU9XQ0JBZGNxVVZQVnItaGNIQXVJMld0anFha1M2Z3paWFF0OXVpX1lYSWY5WTRaV1FlREp1T3I?oc=5",
@@ -124,14 +136,20 @@
           "source": "AP News"
         },
         {
-          "title": "Iran has suggested a deal to reopen the Strait of Hormuz in 7 days - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNElSLUJIM2lSSWJPendCMnQ4Q252MkdGeXFPT0t2R1VHN2tIaFlzdEZPNWhWZUhfdW4ySjdnZF8tal9vblVkNERSNm5hOHlzelVYZk44VXNhSGI4TVpwcnF0Z1hrQVBsdC02OUNGLW0yeG15N2FsT3dMb29NZ1dXR2FPSU5xRW5BOHIyQ2JuMktWYXBsMlR5ZDlxM2lOeTQ?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 13:38:00 GMT",
+          "title": "Exclusive: Board of Peace quietly met with UNRWA, ex-agency chief says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGplQ0xCNXg0TUFIQ0o1TVFITTZ6TmZwbkVRSjBNX3FGcmc0RHJrMFFWMG5TeWVGdWFUNW51eGE0Xzh3aFlqUEx4WkJQaGRqM3JHTE1sTFN6UUhyS0k4Z1M2eHdhZVpudm54VnJOMm5jQy1iZjlyVXl6YXdubHJUWGR0cGNrUzJBSFdJemhnQVNWVDYyTThVLXJqa0xDcEFocjRwVkRqemxkdw?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 13:09:00 GMT",
           "source": "AP News"
         },
         {
           "title": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbnNKUnJmZGYxUWdGczd0NU9JZWJiemlrQWtqRUJjd2w0cG43cklfUmJoRy1QcEZMZUlYX2wxUFdfa2txUUxwSHo4dGxBVVZMMVZRVnA4QlFuSmIyY1hPTUV4RFloaXVMaFhlU1loazZ5d3lsdC1qTkx5VC1CVmNxSTBManhacEhNQ25obmFJSzQwRS14YlE?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 13:04:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "With ethnic and historical considerations, rebranding nations is harder than renaming products - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSHVtcjhCb3dObVdFbG5yaXlONTZZQ1RaZG92bjZ1UF9QOGgzQkctUFN1N0JiRnV2RnUxMVBYRE9QSU9pcW9mLWxpcFFGU1EwUUs5a2t1eEtSVk1ROVY1WDJrRjd1OHZlZi1LWkp6bzBUSU9fRTFOMS1UTGMtNGZib3VlNlRibHhJNGtuS0tmd0U3cC1HV0E?oc=5",
           "pubDate": "Fri, 25 Sep 2026 13:04:00 GMT",
           "source": "AP News"
         },
@@ -142,36 +160,24 @@
           "source": "AP News"
         },
         {
-          "title": "Exclusive: Board of Peace quietly met with UNRWA, ex-agency chief says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGplQ0xCNXg0TUFIQ0o1TVFITTZ6TmZwbkVRSjBNX3FGcmc0RHJrMFFWMG5TeWVGdWFUNW51eGE0Xzh3aFlqUEx4WkJQaGRqM3JHTE1sTFN6UUhyS0k4Z1M2eHdhZVpudm54VnJOMm5jQy1iZjlyVXl6YXdubHJUWGR0cGNrUzJBSFdJemhnQVNWVDYyTThVLXJqa0xDcEFocjRwVkRqemxkdw?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 11:36:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "It’s officially Dolly Parton Day, with parades, pink lights and book drives - AP News",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3NEUlNhRDVXdFg5MHFUSlF4SjV2X3lsWEtuOFN4Tm8wNUkyZURLR0xWa1dZU3JMOGJ6OFVFVUhqNWxkNTNvYldteFpmSzlDaUdySW9pMzJxMnQtUkcyNTBVbnF1TTlQa3RRY3JfNEU5RC03M2hNVmllVlRYRGFnVlhLcC1fU28?oc=5",
           "pubDate": "Fri, 25 Sep 2026 09:44:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Bijan Robinson runs roughshod over the Packers as the Falcons breeze to a 35-14 victory - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGoyeHFMSWZMRmZ4MXdpQ3pMTkQ1VVE5NHlmVEl4a2c5cDVodzZtQlhDUWx3Mm5YMTBTT3lET1BTZHBjMllYN0J4WWhUWG5WbVp0V01kalBCdV9XWmVxelNEeTRXMjdYZExtZmJxb1BpUnktTnhUQl9hamRJMXF6blVwS1B3R01j?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 05:24:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump’s state dinner for Xi features sea bass and a long list of tech titans - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHRNd1RUc2NaeXMxMXZsbnBkZkM0dEJiQ1lRNEMxM29RdWlBeTc2V1B5dGhHN0NodlJSaGhBZTY3UGVCRk1KM2xpeFR6czB1SUxob3RPN244NFVDSkktVWxtSzduTzhmSHNxUXRKVVlSRU95VXJ6dHJ5NnF4b2ZkQzh6ZUZLYmo2VHFMMVBQem1jeVg0bWpoRzFR?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 05:23:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T15:00:20.943Z"
+      "updatedAt": "2026-09-25T15:25:13.686Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Germany's BASF approaches Evonik over potential takeover - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVTRzNmNGdnRuX1ByTm9KcTA4M3RPc2otTG5idGplY255bk9aVjJaYjJSNjAyakVvWHpjaDBpeENQTTB0dUNQNkJWckpndXB0YXY4X0lGYWNLaVFVZlFRUHNPNVIydFRxXzI2UDA3cXhYUlNMTnVrVFd3MHJoUnYtWlZjZU5SYzM5WjRzZ2M2RjhPRVk0dk5qSldSMFdvN2lCaS1nSzVHNDNlR2lZVHJtZTFXYkxVZWc?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 14:20:48 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Nanexa shares soar on €1.17 billion Novo Nordisk deal for injection technology - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYjdmc2U3RUlBUTA2U0dJRTJPZUdHeEhnLW0wekM5b2xqamJzS2dTbzV1ZlFVNzJ6THlXdzdMVVlKMXRRWXJ6cWJIcG94OVQzY0ZRTFlfWWlKdG5GMVZkbGZEcURpamxrdklBNjdDdDYwdmp0QWx0YTRHcmhMYmdlcjJmU0IyUFlvdmRZNjlvQVFXaGUwLWc3Z0o4NlVGU0dQRjFudFF0Wkduekw2MW15STljb1RrZ2ZwQkhiVUZjckZJQ2c?oc=5",
@@ -185,9 +191,15 @@
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: How firms linked to sanctioned Chinese cotton giant sell clothes to US - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzFpeWxHY0MzVFNLd1Q2aUgtbnN4bTdEc3VMbW9KczJjMmNjODRHNTZ5UTZZbWIzLVBHMWRabTFKMUxFb092ajBON3NtTWtXM3NEbmlIdVY3VHIzNVJMa1JqdU1aSFgteHkybzZiQVQ0dXhqVnkwMWJ6a09TYlBUU2FQRHJScWNYRkg2eFg2d25RLS16UzVzMTNNTDI1bWhlZnpXQVJTQy1zelpUSDVLZTdxcEhHWHZBOXhONnZHSEJVOFk?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 14:08:21 GMT",
+          "title": "ADARx Pharmaceuticals raises $446.3 million in upsized US IPO - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNDFDT0V6X2JqT3hPNkZGMFIyUjd0d3JjeTJIWFRlQl8xNS1QRjdraEFXci1VN09jMVd6WWxpRXYwckJILWREMDJGRFotcU9vNE41c2JIcnVLWVVPeURVaVRudmMtS1JzbEJRaFBxNUZQZjJ0cWFfZ3BQSzBlNGxPVnlVeXVkekJocklld19rc3V0NVlXY0F5dmJWTGFRWEtrcXJCZXlkOEROcDZKR2c?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 14:13:17 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Microsoft revamps Copilot with code generation, agentic AI tools - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 13:51:28 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI?oc=5",
           "pubDate": "Fri, 25 Sep 2026 13:34:09 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Qatar Airways retires idle A330s and sends pilots to RwandAir as Iran war drags - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZU95VVVfeElqRlJLSHBPWFg3bE0zRjdvVFNIWGxSZF8zcDB4R2poelQ2MUFWR3Y2Y2FlSEp2OVVBcjdxSC1jNWhDQVhHQlpMbnp3SlZKR0ZFT0t4LVVwTEVrOUhhN0taRkh1SHAzM2VfeG0wTjhTcG12RXJCLW9WUVltTGlFb2dUdGdINl9fUktFcGg1UEhuQlY3WlU1ZUxGdG10ZDA3RkozdmE4aW9PSC1qaFJfcFQ1M08zVERyMVJOV1BzWDFRT0NKMjk?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 13:33:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Germany's BASF approaches Evonik over potential takeover - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVTRzNmNGdnRuX1ByTm9KcTA4M3RPc2otTG5idGplY255bk9aVjJaYjJSNjAyakVvWHpjaDBpeENQTTB0dUNQNkJWckpndXB0YXY4X0lGYWNLaVFVZlFRUHNPNVIydFRxXzI2UDA3cXhYUlNMTnVrVFd3MHJoUnYtWlZjZU5SYzM5WjRzZ2M2RjhPRVk0dk5qSldSMFdvN2lCaS1nSzVHNDNlR2lZVHJtZTFXYkxVZWc?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 13:23:27 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T15:00:21.397Z"
+      "updatedAt": "2026-09-25T15:25:14.149Z"
     }
   ]
 }
