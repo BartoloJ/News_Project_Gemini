@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-25T20:00:19.019Z",
-  "lastChecked": "2026-09-25T20:00:19.019Z",
-  "lastUpdated": "2026-09-25T20:00:19.019Z",
-  "generatedAt": "2026-09-25T20:00:19.019Z",
+  "fetchedAt": "2026-09-25T20:25:13.274Z",
+  "lastChecked": "2026-09-25T20:25:13.274Z",
+  "lastUpdated": "2026-09-25T20:25:13.274Z",
+  "generatedAt": "2026-09-25T20:25:13.274Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Russia targeting 'ordinary life' with attacks on data centres, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 25 Sep 2026 20:07:43 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
           "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Trump's plans for massive arch move ahead",
           "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 25 Sep 2026 18:27:46 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Zelensky says Russia has widened attacks to hit Ukraine's data centres",
-          "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 25 Sep 2026 18:02:55 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T20:00:17.513Z"
+      "updatedAt": "2026-09-25T20:25:12.172Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T20:00:17.741Z"
+      "updatedAt": "2026-09-25T20:25:12.282Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Pope warns a ‘paradise of machines’ could undermine humanity as he opens France trip - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0JDWkxQellXWFhSUEQ1QnBGOXkyQ1pHTkptZlAtYzhWbXZtMjJPSzRvRGd6MU01NF9MRE9Ya08wRmlPZEFzdW50TGJUMU9XQ0JBZGNxVVZQVnItaGNIQXVJMld0anFha1M2Z3paWFF0OXVpX1lYSWY5WTRaV1FlREp1T3I?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 19:57:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Nor’easter to lash the East Coast with strong winds, flooding and heavy rain - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGRqdGEzMGFJUjh3UDU4cDJaaGdaWnNMYVpJS1Fid19ueFRYeXRMTGtJODdIeGE4RlYwZnpzU2JWYTdaQnk5LW5KRGluRjVjX2U5cS11UzY4Q0FDQXdWRVJENnluUHBMT1hKa0NRUDlUNU9pVVR0MXN0MFRNLV94WjduYUVkODlBNTdoQUtHUDNvNHp1REV3NWZXQ2c?oc=5",
           "pubDate": "Fri, 25 Sep 2026 19:39:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Xi says he’ll see Trump again soon as he wraps up US visit with a look at the Constitution - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmo4eGdneEJnQUFIc09MRV9CZHduSnhNRV9tbk12YXR3RUZUZHcySmxfRWxwRVJBQV9hOXQwLUtiSWRBZGREdEtqX1lJb0xYWGMyRzk2SXdTenNIUTlfblNpdVJRenZ6d2tRXzJtWGFzZEpwQ0tVQnlVd1hUdjk3UV9id05STTd6T3hSZ3ZaekdTNi1ybVlB?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 19:31:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,12 +154,6 @@
           "source": "AP News"
         },
         {
-          "title": "Pope warns a ‘paradise of machines’ could undermine humanity as he opens France trip - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0JDWkxQellXWFhSUEQ1QnBGOXkyQ1pHTkptZlAtYzhWbXZtMjJPSzRvRGd6MU01NF9MRE9Ya08wRmlPZEFzdW50TGJUMU9XQ0JBZGNxVVZQVnItaGNIQXVJMld0anFha1M2Z3paWFF0OXVpX1lYSWY5WTRaV1FlREp1T3I?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 18:45:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Hurricane Nolo threatening Hawaii with heavy rain as Polo churns near Mexico - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEhseWVSS3dZaTNWTkZoTE1jRUtRT0lvX1JfQ1V2TnlkTVJsVHdHZGc5Mi1OY2NldGJFUWhveUtPTGh1NkxwRmFPTENBYzhVczVKbnlaVXlfLXRSSjVPY21XbDRURm1KcUNUWVVoa3FpMEVPREowYTFWTXZ4NXhLSWtBOFJYVVVPUUJ5Y21iTHNaRHdWVVJaaQ?oc=5",
           "pubDate": "Fri, 25 Sep 2026 17:54:00 GMT",
@@ -158,24 +164,24 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNElSLUJIM2lSSWJPendCMnQ4Q252MkdGeXFPT0t2R1VHN2tIaFlzdEZPNWhWZUhfdW4ySjdnZF8tal9vblVkNERSNm5hOHlzelVYZk44VXNhSGI4TVpwcnF0Z1hrQVBsdC02OUNGLW0yeG15N2FsT3dMb29NZ1dXR2FPSU5xRW5BOHIyQ2JuMktWYXBsMlR5ZDlxM2lOeTQ?oc=5",
           "pubDate": "Fri, 25 Sep 2026 17:39:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Final results of Russia's tightly managed vote give a record high parliament seats to Kremlin party - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNTBlN1ByNmxWamhqSDRsdG5WSmJma04yWnRNeEdxdFh6TzdXc2RzcUpqaDVIVVpQUUZrVjFQQXNJbXpvMFQ0R0JYdnd2SDRlb1d2dmNlX0ZkNUhvdUwwRUZlTU5sR19BaTE0VWhDYzhvZ0p0eEtXUUd1SzZLdzQ1UWN2Z3o3b2RlVWpHeDJCRlJ4YzVKS0FpdVRnX1MxRVZHc3RONHpGaUM?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 16:46:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T20:00:18.385Z"
+      "updatedAt": "2026-09-25T20:25:12.799Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "EXCLUSIVE: How firms linked to sanctioned Chinese cotton giant sell clothes to US - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzFpeWxHY0MzVFNLd1Q2aUgtbnN4bTdEc3VMbW9KczJjMmNjODRHNTZ5UTZZbWIzLVBHMWRabTFKMUxFb092ajBON3NtTWtXM3NEbmlIdVY3VHIzNVJMa1JqdU1aSFgteHkybzZiQVQ0dXhqVnkwMWJ6a09TYlBUU2FQRHJScWNYRkg2eFg2d25RLS16UzVzMTNNTDI1bWhlZnpXQVJTQy1zelpUSDVLZTdxcEhHWHZBOXhONnZHSEJVOFk?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 19:25:34 GMT",
+          "title": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 20:19:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Supreme Court restores Trump's mass voter verification system - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUJNR0o2X0F6cklkVHU5T1RDYTB3WFhsWXkxT3gxRE9NbHZSbEtMZTU4UU54eURxd1VxdGJzYkVxMk43dER3a2FvSVhaeTc4UlNNdVFzV0tOMWxPeWFma0N6bzFzcFA3aGJCdXhKczJXVWh2c1A0TVlOcDlJMlJNdXZmR18xR2ZjV29ISXNuT3I0SEk4YUgxMG9WNWFRYnRqQ3FpQg?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 19:46:34 GMT",
           "source": "Reuters"
         },
         {
@@ -185,21 +191,15 @@
           "source": "Reuters"
         },
         {
+          "title": "EXCLUSIVE: Trump administration to meet Ukraine assistance deadline - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS01EWW5vNjlzUUpZOWNOeE9pRmFadmJaeTQxUVBCNjhNa2NJdENCckdKTkt0TmJOdW1jV2hSZVpTQk1aS0VHUU1hY3FxM3pMQkdyNkFjZ3JXYWllUVdNRlNPcEdyRVJiR1RCUGhqSFNBNEtiTjNrenIxQ3dQWFpFUzV1cFY3QmM3UG9aNlo4STFKMXJVSXNscGpuNA?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 19:08:18 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3NaNENZd05ESDQwSFdrTGwyLUtGX3NzT1NiR0tzbWwtM282dHRxbkxLYTk2b1Rkd01xQldYM2ItTlNRV01wbnhDMWpZVkliRnBhMlFWYVg1VHh6bjRCVkQwVGFFamhhWWpJa0p5aHlVRkJpblI1UUZJeDN6VFg1Z1hhdGFBSklFN2ZyVjZ0b1IyNUpoMU5GN0tmTlZPMExVNFppU2ZSRGFwcW1QSElZaktmS3pXSElm?oc=5",
           "pubDate": "Fri, 25 Sep 2026 18:59:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall Street climbs as investors buy AI stocks; Microsoft rallies - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 18:27:47 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Trump administration to meet Ukraine assistance deadline - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS01EWW5vNjlzUUpZOWNOeE9pRmFadmJaeTQxUVBCNjhNa2NJdENCckdKTkt0TmJOdW1jV2hSZVpTQk1aS0VHUU1hY3FxM3pMQkdyNkFjZ3JXYWllUVdNRlNPcEdyRVJiR1RCUGhqSFNBNEtiTjNrenIxQ3dQWFpFUzV1cFY3QmM3UG9aNlo4STFKMXJVSXNscGpuNA?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 18:26:49 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T20:00:19.019Z"
+      "updatedAt": "2026-09-25T20:25:13.274Z"
     }
   ]
 }
