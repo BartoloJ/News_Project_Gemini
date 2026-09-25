@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-25T10:00:20.724Z",
-  "lastChecked": "2026-09-25T10:00:20.724Z",
-  "lastUpdated": "2026-09-25T10:00:20.724Z",
-  "generatedAt": "2026-09-25T10:00:20.724Z",
+  "fetchedAt": "2026-09-25T10:25:11.971Z",
+  "lastChecked": "2026-09-25T10:25:11.971Z",
+  "lastUpdated": "2026-09-25T10:25:11.971Z",
+  "generatedAt": "2026-09-25T10:25:11.971Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+          "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 25 Sep 2026 10:05:07 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Hundreds of thousands expected in Paris for Pope's visit",
           "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Robbie Williams' surprise singalong after Peru gig cancelled",
           "link": "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 25 Sep 2026 09:20:04 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-          "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 25 Sep 2026 08:09:26 GMT",
           "source": "BBC News"
         },
         {
@@ -57,17 +57,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T10:00:19.462Z"
+      "updatedAt": "2026-09-25T10:25:10.923Z"
     },
     {
       "name": "NPR",
       "items": [
-        {
-          "title": "Fill in the blank in the quiz: Trump's says his triumphal arch will include _____",
-          "link": "https://www.npr.org/2026/09/25/g-s1-144665/trump-arch-fat-bear-media-ai-news-quiz",
-          "pubDate": "Fri, 25 Sep 2026 05:01:00 -0400",
-          "source": "NPR"
-        },
         {
           "title": "Mom! Mom! MOM! 3 ways to stay calm in stressful parenting moments",
           "link": "https://www.npr.org/2026/09/25/nx-s1-5978936/how-to-manage-mom-rage",
@@ -75,8 +69,26 @@
           "source": "NPR"
         },
         {
+          "title": "Fill in the blank in the quiz: Trump's says his triumphal arch will include _____",
+          "link": "https://www.npr.org/2026/09/25/g-s1-144665/trump-arch-fat-bear-media-ai-news-quiz",
+          "pubDate": "Fri, 25 Sep 2026 05:01:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Americans are confused and worried about elections. Will that impact turnout?",
           "link": "https://www.npr.org/2026/09/25/nx-s1-5946736/voting-confusion-turnout",
+          "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "As election enters its final stretch, some Republicans are distancing from Trump",
+          "link": "https://www.npr.org/2026/09/25/nx-s1-5978096/republicans-trump-midterm-elections",
+          "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Is Switzerland's neutrality at a crossroads?",
+          "link": "https://www.npr.org/2026/09/25/nx-s1-5978905/swiss-referendum-neutrality-russia",
           "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -93,26 +105,14 @@
           "source": "NPR"
         },
         {
-          "title": "As election enters its final stretch, some Republicans are distancing from Trump",
-          "link": "https://www.npr.org/2026/09/25/nx-s1-5978096/republicans-trump-midterm-elections",
-          "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "American farmers are hurting -- and worried about their futures",
           "link": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
-          "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Is Switzerland's neutrality at a crossroads?",
-          "link": "https://www.npr.org/2026/09/25/nx-s1-5978905/swiss-referendum-neutrality-russia",
           "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T10:00:19.681Z"
+      "updatedAt": "2026-09-25T10:25:10.985Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,12 @@
           "title": "Pope arrives in secular France with an appeal to respect the dignity of every human life - AP News",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0JDWkxQellXWFhSUEQ1QnBGOXkyQ1pHTkptZlAtYzhWbXZtMjJPSzRvRGd6MU01NF9MRE9Ya08wRmlPZEFzdW50TGJUMU9XQ0JBZGNxVVZQVnItaGNIQXVJMld0anFha1M2Z3paWFF0OXVpX1lYSWY5WTRaV1FlREp1T3I?oc=5",
           "pubDate": "Fri, 25 Sep 2026 08:22:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Board of Peace has met with UNRWA despite saying it has no Gaza role, agency's ex-chief says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGplQ0xCNXg0TUFIQ0o1TVFITTZ6TmZwbkVRSjBNX3FGcmc0RHJrMFFWMG5TeWVGdWFUNW51eGE0Xzh3aFlqUEx4WkJQaGRqM3JHTE1sTFN6UUhyS0k4Z1M2eHdhZVpudm54VnJOMm5jQy1iZjlyVXl6YXdubHJUWGR0cGNrUzJBSFdJemhnQVNWVDYyTThVLXJqa0xDcEFocjRwVkRqemxkdw?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 06:10:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUVtVnNQTENPVGtPZU03Y2R5TVZyNEFUZ3lVNlhnQkxZeHlGcmttZHJNQll0b2p1a0IwbjJjSWRpLTZzSlliMnpIVWtKZHdldkJUaXBGczkyLVdpUWxMRG5EMUM4dGc2UnkwVmlSaFZQNnFkVmFhOWxBOU9XTVZEVTBBalE5Q2N1LW5vZUpDTlBTMTVwSDRqVg?oc=5",
           "pubDate": "Fri, 25 Sep 2026 05:04:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "It’s been an intense hurricane season in the Pacific and there’s still a long way to go - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONEJuLVJfZW5PenR0enk5akl1MUwxUm5LNUhaR3hVcmg4S2NVdXBidHc0emtCYVNVcVhUSndTbzA2R2M5TUtxQnREX3A1SVRLZlBzcGdWYjZrN1Z0TTgxZDYtQjdLaUtHM0tpMUNSZHZTczAzZnZXSGZETWcwSkliRGVvQTFsbWtmZFU5X1VZTQ?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 04:18:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T10:00:20.225Z"
+      "updatedAt": "2026-09-25T10:25:11.420Z"
     },
     {
       "name": "Reuters",
@@ -191,9 +191,21 @@
           "source": "Reuters"
         },
         {
+          "title": "Airbus shares dip as best-selling jet faces quality glitch - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVldySnN6ZnE5bFFtYXdodUlVX3hKLUI4emJjcEc0YmZVMUsyaTZPMjB5aWFjQkFoZmNLOEtwWldFclJfclFmT3B1YkRJZzBYd0NfN2xWUjJJQ2N6aDQ2aE1sd2ZJQTV1LTZMYW5ITWVrMzFWTlU5YklCaE9hR1FCQ183d0cxTDFXWXlhNUEwOG1ZNGpMWUZ6c3V1ZjY0bnM3S3FDbHZrU2RxTlVoMDV6ZFpCYzJVd1k5N1E?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 07:33:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Singapore population hits record 6.21 million, driven by rise in foreign residents - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV1otSVpQQTk3Y3Jra3N6bmY4S08wcl9QVE85YkxhbEZxd0x5R2k0TUVLSHhBVmxUeFpjVzJXdERCWkVHMDI2cTFSVnUwbkRxeHJseXdCTkIwWi1DU2VsYlBCS0xLZ0FXTHhzX0l4VmVXSUlpODVhWXZQeXRYemc3d3hSSFAwSzI1MU11cDlGRm1NU0M4aWktdXJKdHU0WkdJQWxmVjZ5S3VsUkJYNVZnX0hrUEdKa0wzSEZEem52VEd6b0xHa3BSRDJSZlg?oc=5",
           "pubDate": "Fri, 25 Sep 2026 07:31:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Italy regulator closes P&G hair removal device probe after ad commitments - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0JoUkp3N1o5NW9HdHQzZUFwS182ZzNyZXVCYk96UjhPQnhIVTJfR2J5eXVpWlJxVDRudFFFWXlxNkVNN0VJT3dMRjdLdUh6dkI0UmtSUThFaFcyVXVHalNZT0JoNUZjODg1d3F3dTJycTdYaER6bEdDYTFsTVhRVjNiZUJRUGgtU2pWSG1qUWFDekx0azJkcHFmTG5xaWpSeS0tVmFrT2piblNUNGJRYXFsRkREZlpDM2pOeEcwejlnbWM?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 07:02:10 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWR5YUI1enNxN01RbG4wZ0lRMFJkNWh1ZGxWa0ZLVDg4SjVzRmdzNU9yeU9nV3FEeDcwSEpQbTEzdWhnc1prcnZZNEE4dGt4Mnp5SGJaMGdOUzhienl0UXF4U0U5VjdhVjZuYWp3LXNtWVpEbzl5clVQUTVhcUVxaW9YM21sTE1OdWFJcVd0S0xaaUJyN21YeFl2dW1uTkRtZmtVa2NGRUxCbzAxaU5EZ1ktd0ZwaTlh?oc=5",
           "pubDate": "Fri, 25 Sep 2026 06:33:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Take Five: It's Q4 already? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVNfSS1QcVBtXzBSOEVIaDZ4dGxSNnVJbV9iNGt4UTJoRjZPeTJGSzNqc3VBbkhuY0RQT0pQUHpxTXNFRkZIUFdSUHEwdjdzSGxTOTNWTWZ0MTdiN2pvaW9DYVlQemtaeG5EemEwT3hsMU42ZzZ2Yi1BZ0tjN084bjFtaDlQMVpoNURKdg?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 06:29:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russian drone hits central Kyiv killing a child, injuring at least seven people, Ukrainian officials say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcGs5a0VYcTE3alZhaENyLU5xLXowUWdNZjYxUHhfdklUbEtNMEdvUlpzQWlRdklBR1BiU2RTTVJMTGx6UVpRZ3pXTUlnby1JR1NfcFVkNGgtTWVxUEwwMGpqTnp0RjFjZGlkUUkySlBvbkxJQ05sSTdGMUdMaXhmb0E0LU83UUNnZDFoMXAzdnY0QzJ1Nmp2OTFLQ3ZTazJxY01fclVod2pSdF9pV3FkVkYweVhDLXd6MXlBRFdKTQ?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 06:26:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T10:00:20.723Z"
+      "updatedAt": "2026-09-25T10:25:11.970Z"
     }
   ]
 }
