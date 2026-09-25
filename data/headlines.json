@@ -1,16 +1,28 @@
 {
-  "fetchedAt": "2026-09-25T08:50:51.029Z",
-  "lastChecked": "2026-09-25T08:50:51.029Z",
-  "lastUpdated": "2026-09-25T08:50:51.029Z",
-  "generatedAt": "2026-09-25T08:50:51.029Z",
+  "fetchedAt": "2026-09-25T09:00:37.813Z",
+  "lastChecked": "2026-09-25T09:00:37.813Z",
+  "lastUpdated": "2026-09-25T09:00:37.813Z",
+  "generatedAt": "2026-09-25T09:00:37.813Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Hundreds of thousands expected in Paris for Pope's visit",
+          "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 25 Sep 2026 08:58:00 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
           "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 25 Sep 2026 08:09:26 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+          "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 25 Sep 2026 06:48:07 GMT",
           "source": "BBC News"
         },
         {
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 25 Sep 2026 00:44:04 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
-          "link": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 24 Sep 2026 23:41:10 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Hundreds of thousands expected in Paris for Pope's visit",
-          "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 24 Sep 2026 23:17:00 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T08:50:50.019Z"
+      "updatedAt": "2026-09-25T09:00:19.501Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T08:50:50.117Z"
+      "updatedAt": "2026-09-25T09:00:19.784Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-25T08:50:50.592Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-25T08:50:51.029Z"
     }
   ]
