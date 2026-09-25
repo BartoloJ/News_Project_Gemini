@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-25T15:50:16.011Z",
-  "lastChecked": "2026-09-25T15:50:16.011Z",
-  "lastUpdated": "2026-09-25T15:50:16.011Z",
-  "generatedAt": "2026-09-25T15:50:16.011Z",
+  "fetchedAt": "2026-09-25T16:00:33.289Z",
+  "lastChecked": "2026-09-25T16:00:33.289Z",
+  "lastUpdated": "2026-09-25T16:00:33.289Z",
+  "generatedAt": "2026-09-25T16:00:33.289Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
+          "link": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 25 Sep 2026 15:29:48 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Pope warns against 'losing humanity' to AI machines",
           "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 25 Sep 2026 10:51:28 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-          "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 25 Sep 2026 10:36:55 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T15:50:14.763Z"
+      "updatedAt": "2026-09-25T16:00:31.928Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T15:50:15.012Z"
+      "updatedAt": "2026-09-25T16:00:32.319Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,41 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T15:50:15.580Z"
+      "updatedAt": "2026-09-25T16:00:32.856Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Germany's BASF approaches Evonik over potential takeover - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVTRzNmNGdnRuX1ByTm9KcTA4M3RPc2otTG5idGplY255bk9aVjJaYjJSNjAyakVvWHpjaDBpeENQTTB0dUNQNkJWckpndXB0YXY4X0lGYWNLaVFVZlFRUHNPNVIydFRxXzI2UDA3cXhYUlNMTnVrVFd3MHJoUnYtWlZjZU5SYzM5WjRzZ2M2RjhPRVk0dk5qSldSMFdvN2lCaS1nSzVHNDNlR2lZVHJtZTFXYkxVZWc?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 15:25:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Asked about CNN White House ban, Pope Leo says all journalists are 'welcome' to cover him - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0VnbG1DbWl4dUlJYWcyYWpPMWhuZ3hpVFNNOGRhOUhfYzRoRE0zVkhXNE55LXdoWDNlTFlEMUpleGRramRGdDNHRWpLNV9HMmJmUUNWbGhlVzd5MUQ2R05ES2ZPUVVIdGZMeTJ6WkFOdzNnRHRCeXpLQVFISGxDelhacy1UdnlZV21kODZMUzBNck9oTENwTjBVN09sSXRSWW9Ld1A3MVhrdUJvTjVJaWwxS0VmSVF2alJtSXJZZzdpVXplek0xbFFUWUVyQzJuMmZBRA?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 15:14:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Data center IPO hopefuls brave tougher market as investor scrutiny grows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUI2bktTU0d4N3ZCQWY5MXJJblQtWHJvLTJJU19EZFQydzI4QWdKNDRhR0ZVVTdUQzVXYkpSMDFQTmZveThyT0NseElNd3M3UGhrWXI0bTFfSVNMaUh2UTRUZi1JYjlycmdIc1JZRFRhNUhpWUNMcmRqcUVvYjlxUldRbnlpU0ZfSmZZbjNlNE96UnIxSUw0VmtvQXIzWW45b05JTk5TNU5pZEhIODBnbmF5NXZ3a05FSmFLUG5PM2hkdDA?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 15:05:22 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UN expands list of companies linked to Israeli settlements - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUdzWEtGVmZTbFBmNGhwVFpWNWV0SUpuWG1CYThwUWlfWDh6OGZKd3VpUDVHZDJhREMwWnVYOEszVXhNeE1acnN0NTZmLVlwTEx6X0hOMHJaRDJySzh5OXNKMnI5YUlMZERaZTFIeFJfTFFGLVIyM1VFUmlVUlVyaXVLX3dfbnR5ZE9nUDhZMmdQZTdrU0NFYUY0a2c2RXd0LUlvUFpwTkRPZw?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 14:49:47 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Saudi Grand Mufti tells troops to be ready to sacrifice their lives fighting Houthis - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTXZJVk41ZE5xYUdhR0dIQjd0eVNzaWlmNVd3VmNNZTEyc2dZOWlnZm1nYW9xU19UNTNia0ZLaDUya2xYcXpYRW1tcUJVa0phSUlfOU82SXJHZjc1WHJTUFV5MkNRZUJ0LXFOSG8zRUswZGtJbHktVkZPeGJKd1lUMVBldUlwbGlXOW5qYm1VbnhJVU9QQ0x3Z1ZtNVpjMTVRNXZOZTJvbHZyNjZINzBYc3hvYVpWRndIbldwWjBCUDhJMnhyWVNmTkhxVUU?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 14:49:05 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US consumer sentiment eases to four-month low in September - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTXVLM2tfVGVKZzJNZER0cldoYnJhcE00a04zOUhFTE5IZXhNWDM2Mzk2VTVLVUNsZlYzTEYySVptTHdjd3IxUWRBZjFObUM0QU9MSzQ3WHVwb0lhbENXcHltbW40V0o0UkxObWNoWlk3Yms5M3dfbFU5d2JwM1lSOXU1QkowNTJEc1AxdnZxZ0d5S1JJWWJnYU9RR19ZQQ?oc=5",
@@ -179,9 +209,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Germany's BASF approaches Evonik over potential takeover - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVTRzNmNGdnRuX1ByTm9KcTA4M3RPc2otTG5idGplY255bk9aVjJaYjJSNjAyakVvWHpjaDBpeENQTTB0dUNQNkJWckpndXB0YXY4X0lGYWNLaVFVZlFRUHNPNVIydFRxXzI2UDA3cXhYUlNMTnVrVFd3MHJoUnYtWlZjZU5SYzM5WjRzZ2M2RjhPRVk0dk5qSldSMFdvN2lCaS1nSzVHNDNlR2lZVHJtZTFXYkxVZWc?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 14:20:48 GMT",
+          "title": "Wall St edges up as AI enthusiasm eases worries over higher oil prices, yields - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 14:25:17 GMT",
           "source": "Reuters"
         },
         {
@@ -189,40 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYjdmc2U3RUlBUTA2U0dJRTJPZUdHeEhnLW0wekM5b2xqamJzS2dTbzV1ZlFVNzJ6THlXdzdMVVlKMXRRWXJ6cWJIcG94OVQzY0ZRTFlfWWlKdG5GMVZkbGZEcURpamxrdklBNjdDdDYwdmp0QWx0YTRHcmhMYmdlcjJmU0IyUFlvdmRZNjlvQVFXaGUwLWc3Z0o4NlVGU0dQRjFudFF0Wkduekw2MW15STljb1RrZ2ZwQkhiVUZjckZJQ2c?oc=5",
           "pubDate": "Fri, 25 Sep 2026 14:14:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "India orders crackdown on nicotine pouches, citing health risks, letter shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeGNCOFNpMU5yN2RXc3pvU1BjbE1OUTVGQlB1bE9mVmRhZEFTV0YyRXY0VnhELVFGWTRiV1d3Y2NOMDVKU0N6Nk1jVHRtV3BnVDVRdHRtWjJCdHd3MzZVUGs1djRfOTdBRFlVZ3hZSWZUeVg2YUhTM3VLSzdqX2ZSclJRYUpkVjB2eE1TdFppRkZuaU1uMEFfZGNRa0ZsQWd3LVNTdldnd182N1pWXy1mTS12MmNUN1d2dW5kMmprRy1raUhOb0pTZG1XUWYybVZwUHpDdm5yektCT0tH?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 14:13:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "ADARx Pharmaceuticals raises $446.3 million in upsized US IPO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNDFDT0V6X2JqT3hPNkZGMFIyUjd0d3JjeTJIWFRlQl8xNS1QRjdraEFXci1VN09jMVd6WWxpRXYwckJILWREMDJGRFotcU9vNE41c2JIcnVLWVVPeURVaVRudmMtS1JzbEJRaFBxNUZQZjJ0cWFfZ3BQSzBlNGxPVnlVeXVkekJocklld19rc3V0NVlXY0F5dmJWTGFRWEtrcXJCZXlkOEROcDZKR2c?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 14:13:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Microsoft revamps Copilot with code generation, agentic AI tools - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 13:51:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Germany approves fuel tax discount - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYUFPVVRlLV9JNVNDOWFDNVVyYTBFcm1pUVR1OXA5bnFXTlZ0eE5BM3FlMk5EbWtHRHpEckF2ME5naDFmemQ5YXFONVlBaHYxei1pLVNSQklkSVZmSFU1YkhQNzBvZzVJaUt5WVlqQm5oZnNRYlc3ZFR0VkR4eWpYRnNYTEp6ZFViXy0zVVpJa3ZzVEpmdnF4d2Y1aWNoMWxHc3FVRjlxaGJxaHdUd1dz?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 13:51:22 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Focus: Americans navigate 'wild West' of health insurance options after dropping Obamacare plans - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYTYtOGFSaGk0eGlEek9IMkxrTTY5MVhHdzZJNl9wWjN4b3hfOEZHdy14alF1LVBZMEhJXzE4NEtkSjRwWkRKLUo1R3NTYUJNSW1EZXFFUEd0UHdZVnRrSE41c0tkd1hKTTBpNGJZT0Fpam03TURzQVo1UHNVSE5qMHlkcWotY2ZHNG1BcnRvb3NOVWtlR0tUZHk0RDVZZzBmczRyZTA5WGpySGV5d3dvZkp1bW5tSGNOWnZzSzVOSmc0UWtONXJXdkxKRQ?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 13:48:48 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-25T15:50:16.011Z"
+      "updatedAt": "2026-09-25T16:00:33.289Z"
     }
   ]
 }
