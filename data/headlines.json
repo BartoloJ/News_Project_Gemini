@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-26T17:00:26.139Z",
-  "lastChecked": "2026-09-26T17:00:26.139Z",
-  "lastUpdated": "2026-09-26T17:00:26.139Z",
-  "generatedAt": "2026-09-26T17:00:26.139Z",
+  "fetchedAt": "2026-09-26T17:25:14.254Z",
+  "lastChecked": "2026-09-26T17:25:14.254Z",
+  "lastUpdated": "2026-09-26T17:25:14.254Z",
+  "generatedAt": "2026-09-26T17:25:14.254Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T17:00:25.097Z"
+      "updatedAt": "2026-09-26T17:25:13.017Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+          "link": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
+          "pubDate": "Sat, 26 Sep 2026 13:10:04 -0400",
+          "source": "NPR"
+        },
         {
           "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
           "link": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26",
@@ -87,14 +93,14 @@
           "source": "NPR"
         },
         {
-          "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
+          "title": "The U.S. has more thalidomide survivors than the government admits",
+          "link": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
           "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "The U.S. has more thalidomide survivors than the government admits",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
+          "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
+          "link": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
           "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
           "pubDate": "Sat, 26 Sep 2026 02:59:45 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Roads flood in New Jersey, inundate some homes, as first major signs of nor'easter take shape",
-          "link": "https://www.npr.org/2026/09/26/g-s1-145146/roads-flood-in-new-jersey",
-          "pubDate": "Sat, 26 Sep 2026 01:43:38 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T17:00:25.213Z"
+      "updatedAt": "2026-09-26T17:25:13.282Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T17:00:25.719Z"
+      "updatedAt": "2026-09-26T17:25:13.794Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "China pushes back against US on Iran and Cuba in UN speech - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmFyYk05dGVubEpsSTJ2dGwxcWtFNEx0ZDNybVVaMndCOUpzOTV5SHNjdmw0eHFCQzlsSHZONU91bHVjeU9lQ1RjSTJSM0pZRDhzUUNENHl1b1daMUxkajZ2QklCNTY5bXUxV0dEczRhZTJmU0VKWHhUeWN0OG5OYWRXdWRYUHJOaFJWbjlySGpEdUQtaDdDWThfTWk?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 16:50:55 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hundreds of thousands in Paris cheer Pope Leo in largest event of French tour - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRIQjdWZjBoYmtjQnVTTkN2Z3h3NWstMHRzYlJJaHY4THJVWlVYZ1prbURoS0VHQTd3ZERGMWxLZi1GR1ZJZ0dCLXlhcVNfeUctOHlJbDZQSEhpTHNHWjlRanFLdnA1N0pfUTlSNFJjQ1pocjZWVERDNThtZUFCUTZQNExrRm1ZdWZJZkxrbnpUXy1ubGFHLVkwWlo3Tm9yLUs5TjhNc3JJdw?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 16:48:39 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "How Europe’s intensifying marine heatwaves threaten its fisheries - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOazRBRDJfTmZvQW52RkYtOWpyLXhvYzcyVmdBSDk4aDlMUWJVNTBGcEdDM1l4ZjY2NzRlVFFSVHhQYlQzVWxySlVqc19wWVVoal9ySkdKUFIxX0d3MUc0d3FoMUt6ckxKakdaSWdyczctWFVMY3hYOWhZYWZ3SFF0Znk4SW5OT1VCMFltMVRjLUtydklCM25VUFhjMmtWdGV3b3VKSjQ3SXloU3hNSGh4T2FXSQ?oc=5",
@@ -197,21 +209,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Hundreds of thousands in Paris cheer Pope Leo in largest event of French tour - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRIQjdWZjBoYmtjQnVTTkN2Z3h3NWstMHRzYlJJaHY4THJVWlVYZ1prbURoS0VHQTd3ZERGMWxLZi1GR1ZJZ0dCLXlhcVNfeUctOHlJbDZQSEhpTHNHWjlRanFLdnA1N0pfUTlSNFJjQ1pocjZWVERDNThtZUFCUTZQNExrRm1ZdWZJZkxrbnpUXy1ubGFHLVkwWlo3Tm9yLUs5TjhNc3JJdw?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 15:35:32 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "China, US agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
           "pubDate": "Sat, 26 Sep 2026 15:20:38 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China pushes back against US on Iran and Cuba in UN speech - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmFyYk05dGVubEpsSTJ2dGwxcWtFNEx0ZDNybVVaMndCOUpzOTV5SHNjdmw0eHFCQzlsSHZONU91bHVjeU9lQ1RjSTJSM0pZRDhzUUNENHl1b1daMUxkajZ2QklCNTY5bXUxV0dEczRhZTJmU0VKWHhUeWN0OG5OYWRXdWRYUHJOaFJWbjlySGpEdUQtaDdDWThfTWk?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 15:19:49 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T17:00:26.139Z"
+      "updatedAt": "2026-09-26T17:25:14.254Z"
     }
   ]
 }
