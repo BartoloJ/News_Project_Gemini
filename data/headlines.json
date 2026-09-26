@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-26T09:25:14.087Z",
-  "lastChecked": "2026-09-26T09:25:14.087Z",
-  "lastUpdated": "2026-09-26T09:25:14.087Z",
-  "generatedAt": "2026-09-26T09:25:14.087Z",
+  "fetchedAt": "2026-09-26T09:50:13.945Z",
+  "lastChecked": "2026-09-26T09:50:13.945Z",
+  "lastUpdated": "2026-09-26T09:50:13.945Z",
+  "generatedAt": "2026-09-26T09:50:13.945Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,17 +57,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T09:25:12.741Z"
+      "updatedAt": "2026-09-26T09:50:12.797Z"
     },
     {
       "name": "NPR",
       "items": [
-        {
-          "title": "The U.S. has more thalidomide survivors than the government admits",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
-          "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
         {
           "title": "The AI safety debate is confusing. Here's our guide to the different factions",
           "link": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
@@ -77,6 +71,12 @@
         {
           "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
           "link": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
+          "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The U.S. has more thalidomide survivors than the government admits",
+          "link": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
           "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T09:25:13.023Z"
+      "updatedAt": "2026-09-26T09:50:13.116Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T09:25:13.649Z"
+      "updatedAt": "2026-09-26T09:50:13.506Z"
     },
     {
       "name": "Reuters",
@@ -181,13 +181,19 @@
         {
           "title": "Thai capital Bangkok declared disaster zone amid flooding - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdzRhalF6S2pIWVFyVjA1b3hpS1EtVVJ5Z1Y4R2dHbDJNVjdzTDYxMkJzeS0wNnRNQmpXNWgzZDBlUHZwa2s4cmhxM2hqR2l6NzU3a2NORUJmQVZTcEY1YWE1UE1CVWlOLWVicVBFWU1HVTRwOU5ablJFelpoNi1Vd0JTV0F2X0lwRURlSDFIdS1aWkxfS3BrSmk5c1RlZlI2T1ZMT1I0b2xRU0JWeWFtZldzNlQ?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 07:53:23 GMT",
+          "pubDate": "Sat, 26 Sep 2026 08:16:04 GMT",
           "source": "Reuters"
         },
         {
           "title": "One dead, 5 missing after explosion destroys building in Athens - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTJpdXZYT3MyX1dFU1pNMW5raW40eUpoZWNKZFZnY3U1SFJiZjB4OVdhQ3JBN3R1eFFFaUFnUFFHZXh2R2J1ZldkVkotZW1ab1VEeFZNLVhHTnAxaXhmQnAxZ2ItOUc0U0l5TDE0ZW9OMTNUa0hGTjNWSTdoN2IxVGFINU0xVGlVdzBXSXVMYnozVHRhRWF2ZXlZMWxIN0NsSW04?oc=5",
           "pubDate": "Sat, 26 Sep 2026 07:45:47 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran awaits US move after WSJ report says Trump rejects peace plan - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTlYWmNvWG9uODA3NXdWTTQ0d1EtNnFKczBKYThkcFExSmZGWjlqb2xmc0ZsUDNsYWxUWjhLNm1ocTRCcmJDMGdhUmZ1NC1WdjVJdWFxNDRzLTA0Mk11dUN6WHkyUUVpcFMxV1A1d2RFUXljR0xlY293UldHb2ZoUDAzT294ZmVUWVdCZUEzUTlGSkp4cEhTLTVqTllkU3lDNDREeXFqVlQzSUU1VGpnXzZYZ1ZSMXZ3dmU0Tg?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 07:27:15 GMT",
           "source": "Reuters"
         },
         {
@@ -209,12 +215,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Iran awaits US move after WSJ report says Trump rejects peace plan - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTlYWmNvWG9uODA3NXdWTTQ0d1EtNnFKczBKYThkcFExSmZGWjlqb2xmc0ZsUDNsYWxUWjhLNm1ocTRCcmJDMGdhUmZ1NC1WdjVJdWFxNDRzLTA0Mk11dUN6WHkyUUVpcFMxV1A1d2RFUXljR0xlY293UldHb2ZoUDAzT294ZmVUWVdCZUEzUTlGSkp4cEhTLTVqTllkU3lDNDREeXFqVlQzSUU1VGpnXzZYZ1ZSMXZ3dmU0Tg?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 01:59:00 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Saudi coalition says it intercepts Houthi missiles, drones - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdndqUFdtd2J6b19yZlhhZjlOZXVBYkNvYjVtTjQzYUxlRTVldkZHbjdQdDQtMGI0ZFEwSEY2MTc1OHNTcWJHUXJCbFJjSlpFb0o3blUxMTRBQWZncEVZaEZiMEdJbU9ZOGZIbUFxQzB3SGduZFZ2ZGFDYWNoZEtqVTd0QXRVZUc2UHRXMnpjUi1XM0d0a3dXcDg3ZFRqd2xsWHdzVXlhOXhMMDlQeHlpcEFXWjNncEZWbnBxZ0NaLXI?oc=5",
           "pubDate": "Sat, 26 Sep 2026 01:25:00 GMT",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T09:25:14.087Z"
+      "updatedAt": "2026-09-26T09:50:13.945Z"
     }
   ]
 }
