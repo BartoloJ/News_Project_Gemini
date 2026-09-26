@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-26T07:00:16.900Z",
-  "lastChecked": "2026-09-26T07:00:16.900Z",
-  "lastUpdated": "2026-09-26T07:00:16.900Z",
-  "generatedAt": "2026-09-26T07:00:16.900Z",
+  "fetchedAt": "2026-09-26T07:25:20.496Z",
+  "lastChecked": "2026-09-26T07:25:20.496Z",
+  "lastUpdated": "2026-09-26T07:25:20.496Z",
+  "generatedAt": "2026-09-26T07:25:20.496Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Bangkok roads submerged as flood disaster declared",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 26 Sep 2026 07:21:30 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Disaster declared as heavy rains spark Bangkok flooding",
           "link": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss",
@@ -38,30 +44,30 @@
           "source": "BBC News"
         },
         {
+          "title": "Watch: Karaoke and butterflies - US cities celebrate Dolly Parton Day",
+          "link": "https://www.bbc.co.uk/news/videos/crvgyye2w772o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 26 Sep 2026 01:06:33 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Are Ethiopians marching back to war in Tigray?",
           "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 25 Sep 2026 23:42:39 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "South African white genocide does not exist, new ambassador to US tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 25 Sep 2026 23:20:48 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 25 Sep 2026 23:08:02 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T07:00:15.891Z"
+      "updatedAt": "2026-09-26T07:25:19.231Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+          "link": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+          "pubDate": "Sat, 26 Sep 2026 02:59:45 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Roads flood in New Jersey, inundate some homes, as first major signs of nor'easter take shape",
           "link": "https://www.npr.org/2026/09/26/g-s1-145146/roads-flood-in-new-jersey",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
           "pubDate": "Fri, 25 Sep 2026 11:57:35 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "The Supreme Court revives a controversial data system for citizenship checks",
-          "link": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
-          "pubDate": "Fri, 25 Sep 2026 11:40:57 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T07:00:16.070Z"
+      "updatedAt": "2026-09-26T07:25:19.483Z"
     },
     {
       "name": "AP News",
@@ -148,12 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "Supreme Court rejects a Trump-backed Missouri congressional map for the third time - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanZ2VnlQc3dDZFJVd3JpOVhqa0VtUzVvaFpLMzB0NmlzN0lNVlBid2hfMVlpck5qZThIWFZFZ3VOWTBmemtPMkpXU0hOdm9XZnZfd3J3aEZKVlVIZnRCZXRVMUIyb0xGNGVQaXhhSGlodWFkc1FYcEh4NFlvWUM4RGFzYU9zY2JaSDgxZFoxN0pwb3lETDBhcE5MN19FTlY5a3lBMUdVSG95cWlYRkR1R1QzYzE?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 02:55:29 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "France working on UN resolution for Strait of Hormuz navigation, and other Mideast developments - AP News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3pzZkZqVUUyd3JHN0pYYktoX0VWTjNnTEJ0OVlvMzlMVGVMdlVmYWFZR1ZPTVBfN2w1cmIyTFVGZHVZX2QzTWRab0JtbFZVeUxYaGdvTldWNUdxeXZhd3hDQmF4b0hFNUZvMk5hamxYSG91NXBWMXRWLVdXUS05aU1PUXZqZFdWdFJxR3BacVQ2d2NkRVF5aUw0WWE3VWRXVWNDOGhKcVBhWVlCOXZZcTBRRE4?oc=5",
           "pubDate": "Sat, 26 Sep 2026 01:51:00 GMT",
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0Zvc2VPMWZJQzlJNWlyZkVfNGI2b3ptSXhWZTUxaGV5U1BIQkpkRWhnVDZUUTloa3RFY0VjaFU0Q01RcU1UTG1YeTBnT0NCYTlGSTFlaElMeEx0YzFKS1FjLWRMaWRNd0JQZC05VTRsalVQWnJydVdrYVNKYWNNT05SMGtTLVlMcXBIVUwxN3pPUjRVRGppdlFrdWs2UVMza0MtdDF3a3JsMEJtcHc?oc=5",
           "pubDate": "Sat, 26 Sep 2026 01:00:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWFvZGl3dnM3QXZvYy1LZFYtS3JYcGROcHZtRDN3eFg2Z241SWFSSTBpUHVONW9Pb2FnVTJQakdZNW5NMDZzSFE1dXhoMU5JS2J0UDZrZlVMcmwtYzdodElTeFdsZG9KQkZXUHNjZXMzV3NSeXpoSVF6c0N1QXVFU2tKYzhlQ1NXTGlVMXdn?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 00:43:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T07:00:16.494Z"
+      "updatedAt": "2026-09-26T07:25:20.080Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Six big takeaways from a turbulent week of UN diplomacy - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFZoZDdKM2NZd3RrRFBLRGQ3VWoteUxkRFFtemw1RGVqbXdBWEdDR3FNazZ6MERQMWdCMThtVnJ5dnpmYjU0WWgzZW03OU5vWVZKLXRmS0s2c3BKV2lKbTlGLTJDRThYRW96eGJNVEhDZ3VEVVhPNGxpSkszTFc5WXNNQWh4dVRYWEJIZkhPTGN3ZDJXeW5FV2dYT3M?oc=5",
           "pubDate": "Sat, 26 Sep 2026 05:11:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Thai capital Bangkok declared disaster zone amid flooding - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdzRhalF6S2pIWVFyVjA1b3hpS1EtVVJ5Z1Y4R2dHbDJNVjdzTDYxMkJzeS0wNnRNQmpXNWgzZDBlUHZwa2s4cmhxM2hqR2l6NzU3a2NORUJmQVZTcEY1YWE1UE1CVWlOLWVicVBFWU1HVTRwOU5ablJFelpoNi1Vd0JTV0F2X0lwRURlSDFIdS1aWkxfS3BrSmk5c1RlZlI2T1ZMT1I0b2xRU0JWeWFtZldzNlQ?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 04:22:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWZtbTBkbjhUSmJpWHJCa09RSkR1RUprY1NNcXBSX3hBWnZRU1B6MlhJUE4zc1BSTGZwYlF0SzUyMWFrTDh3bXdBZktFVXpzdnAydTNhMGhack1VY2J6OTIzeEthaVZIMHVfdGZDNFFqYmZYNlU3VHZQbnZDeVVjTU5jaURmN2wyOGFqYkptRWE5SVp5TVlXdmNjRDlCT19EcDYzWXY3RFdGc20wbDlSdi1UTGlVejRiMk9ob0pKTUQzUQ?oc=5",
           "pubDate": "Sat, 26 Sep 2026 00:06:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US appeals court rules against Kalshi, says states can regulate prediction markets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWZXVWk2TzhjZzVySHppeGZuYlJOd3FjeHc0dnZ3Zk1NcnZYc3JZSTRiNTlRazZyR1FrWlh2UmI4VmFhaXhVS2RrcDlTNW05enVRbmNMaDRLSy1UWjc1b2Jkc0Fud2UxY2JleVRYWld1cjN1VU1yY0UtSVN6TjBBaTRvRkpFY3BkaU9ERjFHN3BfWWRNNC1ReFI2bFR6bXFxRzJxWi15RjRLVFNrMjI5M2t2VS1qOTBxT0J6R1d0LWxZOERK?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 23:31:55 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T07:00:16.900Z"
+      "updatedAt": "2026-09-26T07:25:20.496Z"
     }
   ]
 }
