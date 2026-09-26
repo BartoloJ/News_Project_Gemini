@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-26T05:25:12.069Z",
-  "lastChecked": "2026-09-26T05:25:12.069Z",
-  "lastUpdated": "2026-09-26T05:25:12.069Z",
-  "generatedAt": "2026-09-26T05:25:12.069Z",
+  "fetchedAt": "2026-09-26T05:50:15.290Z",
+  "lastChecked": "2026-09-26T05:50:15.290Z",
+  "lastUpdated": "2026-09-26T05:50:15.290Z",
+  "generatedAt": "2026-09-26T05:50:15.290Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T05:25:11.091Z"
+      "updatedAt": "2026-09-26T05:50:14.195Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Roads flood in New Jersey, inundate some homes, as first major signs of nor'easter take shape",
+          "link": "https://www.npr.org/2026/09/26/g-s1-145146/roads-flood-in-new-jersey",
+          "pubDate": "Sat, 26 Sep 2026 01:43:38 -0400",
+          "source": "NPR"
+        },
         {
           "title": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction",
           "link": "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
           "pubDate": "Fri, 25 Sep 2026 11:40:57 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-          "link": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-          "pubDate": "Fri, 25 Sep 2026 10:55:12 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T05:25:11.176Z"
+      "updatedAt": "2026-09-26T05:50:14.342Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T05:25:11.630Z"
+      "updatedAt": "2026-09-26T05:50:14.843Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Thai capital Bangkok declared disaster zone amid flooding - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdzRhalF6S2pIWVFyVjA1b3hpS1EtVVJ5Z1Y4R2dHbDJNVjdzTDYxMkJzeS0wNnRNQmpXNWgzZDBlUHZwa2s4cmhxM2hqR2l6NzU3a2NORUJmQVZTcEY1YWE1UE1CVWlOLWVicVBFWU1HVTRwOU5ablJFelpoNi1Vd0JTV0F2X0lwRURlSDFIdS1aWkxfS3BrSmk5c1RlZlI2T1ZMT1I0b2xRU0JWeWFtZldzNlQ?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 04:22:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump seeks to withhold $800 million in Congress-approved funds - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0NEM09wY1NMTncySWN2blBvTk9tZzhpb1FCVXMtWDdWSnFtQmpEbm5jN0dHaTA2cmxwamNuRzBRSG92Rzk2Q0tlaTV6dm1FZXV2MVhqVVhhMVlmTV9LelBGaGZ2WXZkRkZJWnJzMFVGMWdVcEdLUWh2VnEzX2dIZzBEZFpYTktfanhBZWhES0dCMFJ2LVlBZkxZUXN3b0lKMXNrS0dWZU80NHpMT0E?oc=5",
@@ -187,13 +193,7 @@
         {
           "title": "ShinyHunters hackers expanded attacks on Oracle's PeopleSoft, Google says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc0kwNk9oLVg5bWdrdkJfUXVSNkFYT2o5ODZpU3RaMjJpM0pKb19QTnM0Zlk4d2xURlJZZVF6blp1ZEk5T1ZnMEM3RmN1STc1RnFTZXpDSGRuWWpBY2NwZGZUVzJET29UY0lLYzFxU0NOQjNTV25lRUpkSzRPQTgtQlVkMVRSLWJ1TkROb0ZqaU9sa0ZtSGJ4ZWNtak9pQTQ3dUtmZXdXdWpFSGZHNlpJdGQ4QU1SNm9mYlhwd2t3?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 02:06:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Saudi coalition says it intercepts Houthi missiles, drones - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdndqUFdtd2J6b19yZlhhZjlOZXVBYkNvYjVtTjQzYUxlRTVldkZHbjdQdDQtMGI0ZFEwSEY2MTc1OHNTcWJHUXJCbFJjSlpFb0o3blUxMTRBQWZncEVZaEZiMEdJbU9ZOGZIbUFxQzB3SGduZFZ2ZGFDYWNoZEtqVTd0QXRVZUc2UHRXMnpjUi1XM0d0a3dXcDg3ZFRqd2xsWHdzVXlhOXhMMDlQeHlpcEFXWjNncEZWbnBxZ0NaLXI?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 01:57:02 GMT",
+          "pubDate": "Sat, 26 Sep 2026 02:06:36 GMT",
           "source": "Reuters"
         },
         {
@@ -209,20 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "US Supreme Court bars Republican-drawn map in Missouri for third time - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3VkNmxUVGxldnFnVmhycE5zYVRIUG1qUmNXbWRZcGp2bWZTbUp4UERnbFY1QlEwSFJzMEdUTmFuQy1ldXZONDFUWlprNFl5VlgwMlVDS0FEMjRCQUY1MXFzZTZUZG53alVsNk1ubC1rZFpGR3owWjVOOU5xOHJLLXE3VmFNaVc0R3lseDU4TV9uUlA2N2tXNUx6SkN4aGNlSTVWcHZWcw?oc=5",
-          "pubDate": "Fri, 25 Sep 2026 23:49:24 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "US appeals court rules against Kalshi, says states can regulate prediction markets - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWZXVWk2TzhjZzVySHppeGZuYlJOd3FjeHc0dnZ3Zk1NcnZYc3JZSTRiNTlRazZyR1FrWlh2UmI4VmFhaXhVS2RrcDlTNW05enVRbmNMaDRLSy1UWjc1b2Jkc0Fud2UxY2JleVRYWld1cjN1VU1yY0UtSVN6TjBBaTRvRkpFY3BkaU9ERjFHN3BfWWRNNC1ReFI2bFR6bXFxRzJxWi15RjRLVFNrMjI5M2t2VS1qOTBxT0J6R1d0LWxZOERK?oc=5",
           "pubDate": "Fri, 25 Sep 2026 23:31:55 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "Brazil's Lula bans online betting, unveils debt relief plan as reelection race tightens - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnNWTkRFTmhMWF9BQTl3aTFRaDRuR2hqZF9YcHdRSlpHdUFoanQ1NmJTV0RHa1g0SUxtdHJpSV9ubTdLSk1MLVl2cXNHaHJGRGtKOVJGcXJFUGZxU3J0WFhEOVFkanU4dVdKNWhZS0o4OTFINjlrMHd5UnNnWHlTcm5vTkU1NGxkbzZ5bUtTMmxTSGxRTmlpaXRfdi15X0JSclZqeGdRZENTSnh0YTc3dXVZRVVjclhUbm9r?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 23:31:19 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T05:25:12.069Z"
+      "updatedAt": "2026-09-26T05:50:15.290Z"
     }
   ]
 }
