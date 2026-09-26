@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-26T18:00:19.844Z",
-  "lastChecked": "2026-09-26T18:00:19.844Z",
-  "lastUpdated": "2026-09-26T18:00:19.844Z",
-  "generatedAt": "2026-09-26T18:00:19.844Z",
+  "fetchedAt": "2026-09-26T18:25:14.328Z",
+  "lastChecked": "2026-09-26T18:25:14.328Z",
+  "lastUpdated": "2026-09-26T18:25:14.328Z",
+  "generatedAt": "2026-09-26T18:25:14.328Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,13 @@
         {
           "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
           "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 26 Sep 2026 16:58:39 GMT",
+          "pubDate": "Sat, 26 Sep 2026 18:17:12 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 26 Sep 2026 17:47:09 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 26 Sep 2026 12:47:25 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 26 Sep 2026 10:44:37 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:00:18.615Z"
+      "updatedAt": "2026-09-26T18:25:13.382Z"
     },
     {
       "name": "NPR",
@@ -93,14 +93,14 @@
           "source": "NPR"
         },
         {
-          "title": "The U.S. has more thalidomide survivors than the government admits",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
+          "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
+          "link": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
           "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
+          "title": "The U.S. has more thalidomide survivors than the government admits",
+          "link": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
           "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,15 +112,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:00:18.765Z"
+      "updatedAt": "2026-09-26T18:25:13.439Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Powerful nor'easter causes coastal flooding and knocks out power to parts of the northeast US - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTRxZy15dFhRT2NCY19sbWxoNmk0bGhHcEtHUzRXZmVjc2RtTWxGV2ZyRVFwb3FUSXhwbU0zdmdrTkxqMXhEOTA1SjI2d0dESzItVmxMNk9kWG9hY2ROWEhVSVZ1bGdiMm0yVE1QYnRSanVtSU1lN002aEtsWXVuc0F1SkhHZHNqLXZ4VA?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 17:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump rejects Iran’s proposal to reopen the Strait of Hormuz and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3FURU1ld09YM0czSERoLWEtWEQwR1FSZm96NmpURkowVXNHQkRna0gzZEJXTWlKLUE5QW51U24tRFVHX2JDNUpvWVFyNWdGYVhaYThBVmJZMndzM1Z2eDVkVVViRG00M1k3YUpYdDE2azVBcmo4SmlhNDRSLW9Ra0taSTY1V0w3ektQdFpzQXhjTzNBNmxSalgxT0xGbC1y?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 17:32:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "China and US agree to establish AI safety channel and continue trade and military talks - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVpNXhQYUFNLTZHUVJkeGFXYnhyT0hFSm5CeEZxYi0wNTlxMjRxR3ZYdTNxa2I1bmVDZzRDWVRENFRkRTVmb2FxdDlweGpkOEJnODZpaXl1THFxcDQ5MDVNTWpBTVp1VEE4LU9NSjI4X0N5YjIzckFDU29HZktWWWlYWkMybTluQkZ0Mm5IY2NUSEEzeWp3OQ?oc=5",
           "pubDate": "Sat, 26 Sep 2026 17:21:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Donald Trump attends a big college football game with plan in place to protect communications - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1AzOWE4UHVlQ0JDbzhvU1JJVlBISXRYNTNhdUI1aWl3aHcyMkQzbV9hYVVtY29mazlUMzU3YWkxQjMtdGpST290RV9nTWh0RXNmYmhLRUxsa1BnRHk2cHQ1bFpRZ2lRbmREX21MS3g0d29rZ3FwMENCVTR5LVBzOGc2czR5ZUYtSUNvWF9iUDlWWWZUQU5wNmpR?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 17:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Ireland players vote to go ahead with Israel games as pressure to boycott grows, 1 player leaves - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXRmeWs4VHM3bDNMejdJMjdFMDdGM2sxX29yRmhMdTlJdHVrZTBmSFpzZ09TbkJOX1lGNGkwR0N2T2xqUmRBbnJ1WHBhcS1MUjI2X1JYMEFvUUtsQXN6UkFZdUNjY3lSNXUtZk80dU5qY1BlemxYS05vTFRUYkZEc241VUJMcU9iMEQzWFoxejJiTWU0ZlIzY1BnQ3lpcmc?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 15:45:00 GMT",
           "source": "AP News"
         },
         {
@@ -140,34 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXlKVUxEWGNGYktRN01VOE1CbVY4SDhlemprYWVZUmVkdy1BZTh4UGp1TEMwc2tRb2JJTHZtWkRreXliLTBQbDNnUlNleWNxbGZNMUlabEZXd29QUDI4aUduQ1MyVE1mLXNJcnQ1QS11UHpzYWxSdVNiWExGbG9OcFFiTEZRZldwaUduRWdlUWpDWHFSLVQtUTA0RENHNUdLUXNhVg?oc=5",
           "pubDate": "Sat, 26 Sep 2026 12:19:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Roads flood in New Jersey, inundate some homes, as major signs of nor’easter take shape - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGRqdGEzMGFJUjh3UDU4cDJaaGdaWnNMYVpJS1Fid19ueFRYeXRMTGtJODdIeGE4RlYwZnpzU2JWYTdaQnk5LW5KRGluRjVjX2U5cS11UzY4Q0FDQXdWRVJENnluUHBMT1hKa0NRUDlUNU9pVVR0MXN0MFRNLV94WjduYUVkODlBNTdoQUtHUDNvNHp1REV3NWZXQ2c?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 12:11:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump is attending a big college football game, and coaches are worried about disruptions - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1AzOWE4UHVlQ0JDbzhvU1JJVlBISXRYNTNhdUI1aWl3aHcyMkQzbV9hYVVtY29mazlUMzU3YWkxQjMtdGpST290RV9nTWh0RXNmYmhLRUxsa1BnRHk2cHQ1bFpRZ2lRbmREX21MS3g0d29rZ3FwMENCVTR5LVBzOGc2czR5ZUYtSUNvWF9iUDlWWWZUQU5wNmpR?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 11:58:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The EU moves closer to free trade deal with Philippines amid global tensions - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMzA3eFpxenhZSmdKNndLU2JNalZSZWNUWk9LMnAzaFFYZXItWWljSDE4VzZUb2NpLWozR2swQmhGNWtnVDBqYWN3VmdPZWEzSEJwTWJ4MHJaUlpKeGtoUWowMHBUYXA5QzhkdW10U2dUVy1BOXA5UVhtVFJnM1RJMUtVNzJaM0tXRVlPT0Q3NGpGUlg3ZG84Ty1kODRlMjh6dFVCb3F2dS0?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 09:12:59 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Golf - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9RUlJ6amlDc3NsdWNwM2ZpeU1OQnBiMWxWbGhWMUVHWmZSY0taVTZsRnNyWC00ZTQxd3RjcS15SzQ?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 08:24:42 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:00:19.367Z"
+      "updatedAt": "2026-09-26T18:25:13.912Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T18:00:19.844Z"
+      "updatedAt": "2026-09-26T18:25:14.328Z"
     }
   ]
 }
