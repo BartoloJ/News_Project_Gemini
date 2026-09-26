@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-26T19:25:16.079Z",
-  "lastChecked": "2026-09-26T19:25:16.079Z",
-  "lastUpdated": "2026-09-26T19:25:16.079Z",
-  "generatedAt": "2026-09-26T19:25:16.079Z",
+  "fetchedAt": "2026-09-26T19:50:15.827Z",
+  "lastChecked": "2026-09-26T19:50:15.827Z",
+  "lastUpdated": "2026-09-26T19:50:15.827Z",
+  "generatedAt": "2026-09-26T19:50:15.827Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 26 Sep 2026 19:48:06 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "White House bars CNN from travelling with Trump on Air Force One",
           "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 26 Sep 2026 16:53:32 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "German town bans 'stumbling stone' memorials to Nazi victims",
           "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 26 Sep 2026 15:48:51 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T19:25:15.402Z"
+      "updatedAt": "2026-09-26T19:50:14.646Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T19:25:15.578Z"
+      "updatedAt": "2026-09-26T19:50:14.873Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Heavy rain and flooding in Bangkok disrupts traffic and prompts evacuations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXlKVUxEWGNGYktRN01VOE1CbVY4SDhlemprYWVZUmVkdy1BZTh4UGp1TEMwc2tRb2JJTHZtWkRreXliLTBQbDNnUlNleWNxbGZNMUlabEZXd29QUDI4aUduQ1MyVE1mLXNJcnQ1QS11UHpzYWxSdVNiWExGbG9OcFFiTEZRZldwaUduRWdlUWpDWHFSLVQtUTA0RENHNUdLUXNhVg?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 18:50:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Hurricane Nolo expected to unleash powerful winds, flash flooding on Hawaii - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaFVfUjJkdUtyOVZ6SGkyOWVzYnNZLXJ3bXpScGNjVTZ2Tm9mTzY5ZU9ZQTBuS2VlNzFKbm9tRmtSSFZsQXZ2djkzNjgzVHd4TUVFQjg1ZFpzdWozdUprZi1QSjJaVEEyLUFvdUZmZTAwT2J5eHl2SlVvRHFnQXJ4Q2JGZndCLUxo?oc=5",
           "pubDate": "Sat, 26 Sep 2026 18:15:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Powerful nor'easter causes coastal flooding and knocks out power to parts of the northeast US - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTRxZy15dFhRT2NCY19sbWxoNmk0bGhHcEtHUzRXZmVjc2RtTWxGV2ZyRVFwb3FUSXhwbU0zdmdrTkxqMXhEOTA1SjI2d0dESzItVmxMNk9kWG9hY2ROWEhVSVZ1bGdiMm0yVE1QYnRSanVtSU1lN002aEtsWXVuc0F1SkhHZHNqLXZ4VA?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 17:53:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0hnaHA4Qi16THVVcFp4bUVpcHUzQjNNWGFDMldaX2pWZ1NOdE9Na29QaGx5MzVYSmVIMEx3dk1sVGRKSS0xdU9zSnlQSVhxMklvcndqUEtkakxUZXBBdjd6dDNfb01EX2V2ZGxBSzNvZWszdHZhcFVPSVpQTTVMM0RLODNWOHpkRUV1Z0dic0U?oc=5",
           "pubDate": "Sat, 26 Sep 2026 14:50:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "China expands export control on drug precursors ahead of Trump-Xi meeting - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUVRTEFzaFlBWEw3OWlhUjRWTjNOZ0tZVWhnaE90UjQ1NFo3Q05VTFBnTW1wVWZfOWpCdHVyeDFaY01WVm9GWHNVTlYyR2ttWWR6TXczWXNWN2ZQV28yeGREYzdKQlhIQkNYcjl2TF85YXhSLWltTFBnaUotU25Xd2FLOEFIX01HbEdndjFpeHdzWkJxSnpNMw?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 14:27:56 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Southern Democrats see hope for first time in years, seek to build on discontent of midterm voters - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX1N6SnJfSTBjaWRTLVNHaTBNS0JsLUZXZHZYYWRINXAwdHVLemVVMExsTXJCYVNsMnltWmMtVmFFejFiTjQyMlhXSGZfTFZtUFVUZE84ZmVfVXhoSDJvSDhXeU9hX0FVd09INXdMZjRqNlQzMU02NTFMcC1hemVTb2U2V2xBOHNydHJ2UjVXcEE0eVhZRXN4ZTB5d0xwYUU0NGRZeEplWjJ5U2ptcm1nRQ?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 12:21:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T19:25:16.072Z"
+      "updatedAt": "2026-09-26T19:50:15.364Z"
     },
     {
       "name": "Reuters",
@@ -179,6 +179,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY19kcWVrRFgwYVV3YUthaWNIMWxkdHNVbWs0d2ZRTjZPOS1pRzlYVTJUeG43WnZ1Nnd0N3NfMlZ4RkJ4a1E4TXcyQ2RXQVBYOWExYXVRTkRSdXFxRkJFSzNvRjA4VFp1WGdocjVwUDdRWVJiVldMa1JnRklDYTlLLXF6SEN4RFFqdTVfUkh2RkNVV3JuVnNUZmtIdlNOeElrNE10bGpSOFNiRkI2RUVaVVhIcEhaQnY0UFhQd05kQjFzd0dzMFNZajZFWTQ2VS1rRldmN1dyUQ?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 18:38:09 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Category 4 Hurricane Polo threatens Mexico’s coast, landfall expected Monday - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3FKRlF5WEJudldBNU5uNWpXOTJ6NWQxaFFkNDRZUFZyR2V6bWYzQmJJUlZDN015RlRPTUxOUHFDQ2VKN1lVeHRhc0dFV2t5RnB6S205U0NHbHFicUZfUjhGcTJhdjhsWkVGY29Yc2ZUM2dfeVJOc0poVXctLXRLNGVjaHBIZkRMTWl2bkpGbkFpODNCYlY3M0xMbjVScmFHWnhUbk5yeVVlNC1wM0RmeDZZdktsMmxHYWdTR3VDYVlZc0dIVTFoZVdfSQ?oc=5",
           "pubDate": "Sat, 26 Sep 2026 18:35:37 GMT",
@@ -187,7 +193,13 @@
         {
           "title": "Nor'easter leaves over 100,000 customers without power in US Northeast, over 400 flights canceled - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFhmWmpFYkY5RG1sM1JjN0ZPcUVCc3gyaVRpUVNXRnJUcEc5eGlfX2F6NVFwczZlR1MwU1ZaRnVIbUtUME9xRVlBU21mWllMdi1tQ0ptTHFLakl3bEs4U0w0aDhram5RYjRhemxaSl9iSkk5SjJxVEUzMjczX2g2c1FfS2plQ083WV9GOVRPandhbHZPSm5yR1l4QmtUeXJFcnktWjE3amF4SGczNzVzX05Pa2pLOUt2MVBVYm94UnRHMlowNkhnTVNyTQ?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 17:49:43 GMT",
+          "pubDate": "Sat, 26 Sep 2026 18:28:53 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "At UN, Russia and Germany's top diplomats hold first talks since 2022 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXVWZFVNcU52RDdIS2tpNTdtS2N3MUxjWjNIY0JUeUtyQ3ZWN0FFRmNDMTBvN1Q5ZFpJdC1USWdqT2k2azZ5MnBaRGhrdC1tdXhFcnQ0U2RsYUJ6N1FOeXZuS1BTSER6TEVjRXhJb2RqY3lyRkRGSGNLQTUtSjRkbG44M3ZPRmNJejRaNmFUVTYxai1haXVGdml6SUxxMnBRNE1EOTRQX2lieG9xanc?oc=5",
+          "pubDate": "Sat, 26 Sep 2026 17:22:20 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRIQjdWZjBoYmtjQnVTTkN2Z3h3NWstMHRzYlJJaHY4THJVWlVYZ1prbURoS0VHQTd3ZERGMWxLZi1GR1ZJZ0dCLXlhcVNfeUctOHlJbDZQSEhpTHNHWjlRanFLdnA1N0pfUTlSNFJjQ1pocjZWVERDNThtZUFCUTZQNExrRm1ZdWZJZkxrbnpUXy1ubGFHLVkwWlo3Tm9yLUs5TjhNc3JJdw?oc=5",
           "pubDate": "Sat, 26 Sep 2026 16:48:39 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "How Europe’s intensifying marine heatwaves threaten its fisheries - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOazRBRDJfTmZvQW52RkYtOWpyLXhvYzcyVmdBSDk4aDlMUWJVNTBGcEdDM1l4ZjY2NzRlVFFSVHhQYlQzVWxySlVqc19wWVVoal9ySkdKUFIxX0d3MUc0d3FoMUt6ckxKakdaSWdyczctWFVMY3hYOWhZYWZ3SFF0Znk4SW5OT1VCMFltMVRjLUtydklCM25VUFhjMmtWdGV3b3VKSjQ3SXloU3hNSGh4T2FXSQ?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 16:46:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump predicts Cuba and US will make a deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSFFrWkRIRC00VjdRZEg1UnBac2Vsb09XY1BTTUhaRVlnQU5OS1dCSVFLRFRNTkt2cmhSWWdoUF9yNWprb0NGMHRYd21sRHU3YVNYd0NxTGtTX3dtSjR0NzVMblZIM3FMNm9MWXJrODZSb09VZVZISExCQmtjVFJqOTRtbS1LMFp1SXBrSk10bjRQZw?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 16:19:13 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T19:25:16.079Z"
+      "updatedAt": "2026-09-26T19:50:15.826Z"
     }
   ]
 }
