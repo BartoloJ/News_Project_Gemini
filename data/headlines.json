@@ -1,16 +1,22 @@
 {
-  "fetchedAt": "2026-09-26T05:00:18.001Z",
-  "lastChecked": "2026-09-26T05:00:18.001Z",
-  "lastUpdated": "2026-09-26T05:00:18.001Z",
-  "generatedAt": "2026-09-26T05:00:18.001Z",
+  "fetchedAt": "2026-09-26T05:25:12.069Z",
+  "lastChecked": "2026-09-26T05:25:12.069Z",
+  "lastUpdated": "2026-09-26T05:25:12.069Z",
+  "generatedAt": "2026-09-26T05:25:12.069Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "White House bars CNN from travelling with Trump on Air Force One",
+          "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 26 Sep 2026 05:09:09 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
           "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 26 Sep 2026 04:14:30 GMT",
+          "pubDate": "Sat, 26 Sep 2026 05:03:09 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 25 Sep 2026 23:05:40 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-          "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 25 Sep 2026 22:12:48 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T05:00:17.296Z"
+      "updatedAt": "2026-09-26T05:25:11.091Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,15 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T05:00:17.502Z"
+      "updatedAt": "2026-09-26T05:25:11.176Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Thousands without power, roads flood in New Jersey as first major signs of nor'easter take shape - AP News",
+          "title": "Roads flood in New Jersey, inundate some homes, as first major signs of nor'easter take shape - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGRqdGEzMGFJUjh3UDU4cDJaaGdaWnNMYVpJS1Fid19ueFRYeXRMTGtJODdIeGE4RlYwZnpzU2JWYTdaQnk5LW5KRGluRjVjX2U5cS11UzY4Q0FDQXdWRVJENnluUHBMT1hKa0NRUDlUNU9pVVR0MXN0MFRNLV94WjduYUVkODlBNTdoQUtHUDNvNHp1REV3NWZXQ2c?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 03:49:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXotYUJaRDhtSE9salVqcGVWdUlOR1V4dnVMQzd0OXJKZEdnWWNUTG1TNXZIcG9Pb1RmSmxqeXlMajItSGZZQWpWSXRhajRuNVd0TzNsSjA4Y1FtQXhtekdlRmZsU1c2cTI1RDlXd2lBeTNIVml2Q045aF9OalZXTFgwaUpGbEM4Qm9PbDF2aTRkeGNNVTY4MkRB?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 03:42:00 GMT",
+          "pubDate": "Sat, 26 Sep 2026 05:15:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2luNUtOU0JXSE13WVUwZEJCcGpSUVdWVXU1bXpPWjJpX1d4M2NVcV9BeHlEOEoxTU5ZeTRyVEhyb1RJUUhVM2paT3hOcmpXTzY5TVlYRWQzSHBxVzZRVFpnRmVJOE5fUEo2NXBHRklrcW5WcTJRZEVybm1xRFJNTnNlSnlnaHlrRjcwbEdjUE9udWlTQjFtei1QeWpfalZicFEtX08wRQ?oc=5",
           "pubDate": "Fri, 25 Sep 2026 23:09:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "New Mexico jury finds Facebook liable for deceiving users about privacy protections - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWG40YndwZnVtdGtfVGxGd01iWWxMcUlSNEVTYzR3bVJETERWMFFlMGVoUnFUWUZZbUVLMTEtTW14VEtLQmdqbVIxQlN6OHdYQkc5ZEZkZlY4VnVzVy1Qemc5WTRIUkFtWjRra0s3UWt0ck1Bblk2WkhtWUxENXNTVTgxMmxUaEpoLTloRzV3eGFCYl9YU0RPd1ZjeFdyck9JMXc?oc=5",
+          "pubDate": "Fri, 25 Sep 2026 22:46:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T05:00:17.992Z"
+      "updatedAt": "2026-09-26T05:25:11.630Z"
     },
     {
       "name": "Reuters",
@@ -175,7 +175,7 @@
         {
           "title": "Trump seeks to withhold $800 million in Congress-approved funds - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0NEM09wY1NMTncySWN2blBvTk9tZzhpb1FCVXMtWDdWSnFtQmpEbm5jN0dHaTA2cmxwamNuRzBRSG92Rzk2Q0tlaTV6dm1FZXV2MVhqVVhhMVlmTV9LelBGaGZ2WXZkRkZJWnJzMFVGMWdVcEdLUWh2VnEzX2dIZzBEZFpYTktfanhBZWhES0dCMFJ2LVlBZkxZUXN3b0lKMXNrS0dWZU80NHpMT0E?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 03:19:43 GMT",
+          "pubDate": "Sat, 26 Sep 2026 03:18:00 GMT",
           "source": "Reuters"
         },
         {
@@ -193,13 +193,13 @@
         {
           "title": "Saudi coalition says it intercepts Houthi missiles, drones - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdndqUFdtd2J6b19yZlhhZjlOZXVBYkNvYjVtTjQzYUxlRTVldkZHbjdQdDQtMGI0ZFEwSEY2MTc1OHNTcWJHUXJCbFJjSlpFb0o3blUxMTRBQWZncEVZaEZiMEdJbU9ZOGZIbUFxQzB3SGduZFZ2ZGFDYWNoZEtqVTd0QXRVZUc2UHRXMnpjUi1XM0d0a3dXcDg3ZFRqd2xsWHdzVXlhOXhMMDlQeHlpcEFXWjNncEZWbnBxZ0NaLXI?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 01:25:00 GMT",
+          "pubDate": "Sat, 26 Sep 2026 01:57:02 GMT",
           "source": "Reuters"
         },
         {
           "title": "OpenAI's models accessed public US Census, SEC data, Bloomberg News reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3ZERzdwNHhFVVVqTDBCVF82eHRrdXpSZDNuQl92TWdZRzVKUHZsQm82dUI4MFhaN1BLRHlzTml2ODNrTEdnaWxkY0VKLUY0M3J0VGVWeDZ2RU1TZmdPV2VzTk80VGRrckdybk5za2xuZU9UUEV1dUE5dUUyYTBtVnRmOEk4NFNkaTJhVFFyb1BJOVRSeW55cTZfSWN5Q1FoWDRWTUE0b2h6ZXJTYXU1TDVmRkxrZXNH?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 00:31:52 GMT",
+          "pubDate": "Sat, 26 Sep 2026 00:29:00 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-26T05:00:18.001Z"
+      "updatedAt": "2026-09-26T05:25:12.069Z"
     }
   ]
 }
