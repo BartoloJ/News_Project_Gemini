@@ -1,12 +1,30 @@
 {
-  "fetchedAt": "2026-09-27T23:25:12.106Z",
-  "lastChecked": "2026-09-27T23:25:12.106Z",
-  "lastUpdated": "2026-09-27T23:25:12.106Z",
-  "generatedAt": "2026-09-27T23:25:12.106Z",
+  "fetchedAt": "2026-09-27T23:50:16.566Z",
+  "lastChecked": "2026-09-27T23:50:16.566Z",
+  "lastUpdated": "2026-09-27T23:50:16.566Z",
+  "generatedAt": "2026-09-27T23:50:16.566Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "One dead as nor'easter storm pummels New York and New Jersey",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 27 Sep 2026 23:37:26 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Why some Indian civil servants become heroes for doing their jobs",
+          "link": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 27 Sep 2026 23:01:37 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Inside Yemen's front-line city as Houthis battle for control",
+          "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 27 Sep 2026 21:16:31 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
           "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
@@ -36,28 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 27 Sep 2026 17:05:26 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Woman charged with stealing from patients and staff at hospitals across Ontario",
-          "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 27 Sep 2026 16:35:41 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Switzerland rejects stricter interpretation of its neutrality",
-          "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 27 Sep 2026 16:02:17 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Venezuela releases dozens of political prisoners as election calls grow",
-          "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 27 Sep 2026 15:56:25 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T23:25:10.922Z"
+      "updatedAt": "2026-09-27T23:50:15.444Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T23:25:11.148Z"
+      "updatedAt": "2026-09-27T23:50:15.618Z"
     },
     {
       "name": "AP News",
@@ -132,7 +132,13 @@
         {
           "title": "Sheriff: 12 teens wounded in a shootout at a birthday party in Georgia park - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVhwcGlWNW9yTGMyWEs0ZjJfTUxwaURTemxwN3VkQUZCVHVmbkd6TUxkOW1iOVV6ak1MMXhjWGJRalN4NFRsbGVZcUdpbmdBeVdMem1LRHZSQlUwWVZKQm1fZ1N2MlIzOURGQ3UtLTR1elprNC1XV0hGX0xZVVNWMHZDS2xxMExz?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 21:43:33 GMT",
+          "pubDate": "Sun, 27 Sep 2026 21:44:15 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Dolphins’ star RB De’Von Achane hurts knee vs. Chiefs; team awaiting word on severity - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0UxOFFnNDFyczVLMEJwR0RSbU1fcUtUbS1EUm1qdkpGM2dhbGdYblVLekw2MVk1NGFqbjl3RXRQR3Q5bTNoYnIxVklkUGJsbDhrUFFlZlpqdHpZUmdyS3RmVFNkUU1tQl82NERVcktmRnB3OGxEUlFBWVVnMnRkOFRORFRQN0lQOWJkVEE5MA?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 21:17:00 GMT",
           "source": "AP News"
         },
         {
@@ -145,12 +151,6 @@
           "title": "Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5",
           "pubDate": "Sun, 27 Sep 2026 20:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 20:24:04 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T23:25:11.661Z"
+      "updatedAt": "2026-09-27T23:50:16.170Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T23:25:12.106Z"
+      "updatedAt": "2026-09-27T23:50:16.566Z"
     }
   ]
 }
