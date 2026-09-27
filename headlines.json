@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-27T01:25:22.122Z",
-  "lastChecked": "2026-09-27T01:25:22.122Z",
-  "lastUpdated": "2026-09-27T01:25:22.122Z",
-  "generatedAt": "2026-09-27T01:25:22.122Z",
+  "fetchedAt": "2026-09-27T01:50:14.586Z",
+  "lastChecked": "2026-09-27T01:50:14.586Z",
+  "lastUpdated": "2026-09-27T01:50:14.586Z",
+  "generatedAt": "2026-09-27T01:50:14.586Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T01:25:20.623Z"
+      "updatedAt": "2026-09-27T01:50:13.271Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T01:25:21.112Z"
+      "updatedAt": "2026-09-27T01:50:13.489Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "investigations-scams - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mZXgtQlhJSkJUSjdlYmZrR0s3S1R2dEp4YVRGa0pYLWJ2bmNJMkhCZWNreGloeXZIbmZQdzRHbW82bk96QTFqOXNrWGtBZWhV?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 01:20:50 GMT",
+          "source": "AP News"
+        },
         {
           "title": "87-year-old’s eviction becomes a rallying cry for protest of Spain’s housing crisis - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTVlVWVhHMFNRb0ozNUdpdWoyUjNOQm5BVUM0X1RZNmF3Q3c4emZtWjZXNndwclliUlhVQlp1SXV6WVVxRURBN0tRYjE5WlljS01waHBXaVM2c0xEOG9POG14bXFUbExJeGVkQ0JWYUg0RzNFUk41cDhxdm5kZUVMQ2tlU3VqS3ZqUzdONUFfWlJibVM0RkU0VDZwOA?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1AzOWE4UHVlQ0JDbzhvU1JJVlBISXRYNTNhdUI1aWl3aHcyMkQzbV9hYVVtY29mazlUMzU3YWkxQjMtdGpST290RV9nTWh0RXNmYmhLRUxsa1BnRHk2cHQ1bFpRZ2lRbmREX21MS3g0d29rZ3FwMENCVTR5LVBzOGc2czR5ZUYtSUNvWF9iUDlWWWZUQU5wNmpR?oc=5",
           "pubDate": "Sat, 26 Sep 2026 23:26:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "No. 17 Iowa beats No. 18 Michigan 20-19 last play on Brown 2nd touchdown pass to Vander Zee - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ0FxX1BWTVJMU1dzS2NBVEtPcXJ2Z2ktQUkxaEpDekItajVLdm9JVktXT09yVTg0T2FpTHVNdkhJMm8wbUhuLUtoUF9zbGNRbGZTTjc2bmxuWlROOGNYSjVZbE8taHE5dEhKUTBUalRFVXVjLTg0LWZZVDc1WlQ4c2NUbFVuZw?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 23:22:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T01:25:21.709Z"
+      "updatedAt": "2026-09-27T01:50:14.119Z"
     },
     {
       "name": "Reuters",
@@ -187,7 +187,7 @@
         {
           "title": "Iran insists on diplomatic solution after Trump rejects peace plan - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVF9ZM3dkR3ZQUWpnUVNzR0lsd0tkTTZkZ1AwN1RnZzVzQXo3WjZWY0VTNVo4dU9PM3ZfUnBKWUZuTWtRa01jNUxtVHhyZW1TakhIWlhCdl9UV0gxc3BWMUdTZ2x2Z2czNEVNV3JVYkJGOEYzSU5MREtHYldqdXZDXy1jdWlsTVZKR3pZTy1qS01IT1FpZDlkZVBLUHEzTXVDSDFlRWhva1Vsdld3cVhnUXZiYnNxTUhtb2c?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 22:42:34 GMT",
+          "pubDate": "Sat, 26 Sep 2026 22:36:00 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T01:25:22.122Z"
+      "updatedAt": "2026-09-27T01:50:14.586Z"
     }
   ]
 }
