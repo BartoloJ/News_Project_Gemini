@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-27T08:50:13.176Z",
-  "lastChecked": "2026-09-27T08:50:13.176Z",
-  "lastUpdated": "2026-09-27T08:50:13.176Z",
-  "generatedAt": "2026-09-27T08:50:13.176Z",
+  "fetchedAt": "2026-09-27T09:00:20.399Z",
+  "lastChecked": "2026-09-27T09:00:20.399Z",
+  "lastUpdated": "2026-09-27T09:00:20.399Z",
+  "generatedAt": "2026-09-27T09:00:20.399Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T08:50:12.194Z"
+      "updatedAt": "2026-09-27T09:00:19.301Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T08:50:12.313Z"
+      "updatedAt": "2026-09-27T09:00:19.511Z"
     },
     {
       "name": "AP News",
@@ -130,12 +130,6 @@
           "source": "AP News"
         },
         {
-          "title": "Strait of Hormuz - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 05:02:09 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "investigations-scams - AP News",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mZXgtQlhJSkJUSjdlYmZrR0s3S1R2dEp4YVRGa0pYLWJ2bmNJMkhCZWNreGloeXZIbmZQdzRHbW82bk96QTFqOXNrWGtBZWhV?oc=5",
           "pubDate": "Sun, 27 Sep 2026 04:20:48 GMT",
@@ -145,6 +139,12 @@
           "title": "Gunmen target ambulance in Pakistan after suicide bombing at checkpoint killed 12 - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd1JTRGdCNzVjMUkzSmE4cTA3Szh6WE8zNlpLQlRmSGdIRDVoTkVSN1VvS3dqZlBQSUlXSVVwX2xwV0tOVTZ6aUlySExzR2w4RzhwZHlwQlhlVmFfdDZTTWNSSW9KdkpYdGRkeVpXcmgyNzZuZ3FxUm9qbUtCalcwaVNEcm1meS1GU1lJ?oc=5",
           "pubDate": "Sun, 27 Sep 2026 04:19:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Strait of Hormuz - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 04:10:32 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T08:50:12.778Z"
+      "updatedAt": "2026-09-27T09:00:20.036Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "South Africa police hunt suspects after 27 killed in two separate shootings - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2EyakRfYnN4VnV2MFRsWmF1MXRHQXBObVl0c29NMEJoRUFoS0JCUVlWaEF5T1dqb3VHRHNLOWsyVXFoa2ZfcGpSdE8xRWVZNmJoWGhWVUVsbWEzRF9Tb01sQmgzaHVfTFAwLWtXMWRRWGtvdUlFYlFET2Y0eHJJT2c3cUJJcU1VYnZmMEpKc2dJYlVuaEk0UnFhYzA0dDg5WTY5bFJBNVhhOEttNThlTE93Y0VLQQ?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 08:11:43 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Police declare major incident at UK's Fairford air base, used by US air forces - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOThaUHcwMHZuZEY2dldUNjhYQ29PeWRJdEYxWFBPV3NEUUdSc0l4MkdhN3liTGdyNG9XaEhwWG8xRk8xR29JVlA0ZEV2ZXM3RVZCRDlPSHhzU29Pek9tZVREdUdvOHRXS1ZuaTR0TXVGV253bkplU1lNbG85WXRjYzcwV2ZSekFCa1gtR1RtV09zM3NYeF93?oc=5",
@@ -179,15 +185,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Swiss vote on tightening neutrality rules, ending peacetime cooperation with NATO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWVA4TkVYNVNZdVQwNGlVdnh1THlUXzlrYm04SXVMeGdrOHhEZXVhMV9iZ3EyNGUwVlRkN0x0QmtQaC0zQXNjd0RYRjhnWmlDVlNLZ3pSaGlVMTFRbEtCRHg2eVhkME9VMEFncTQ0Nk5rV0ljTFdxNENxU2xiNjQ4WEhDMF9STXg1N3JXT3YwcGxQbURCeEVHSXNiTW4zNk5rc0hhamFYLWFpMkhGSFZ3TF9HbzR2NWhxZ0tZ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 06:03:00 GMT",
+          "title": "Floods, landslides kill 15 in India, four in Nepal as rivers rise - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDl0UzBQZFNRMUNTNWZpRnNkVVVILXI5Vk5RRmV1bk5UeURhMWZWbjZkVklUVktUWGlsdmFORXVIQ0pDLWFfRWlxeGhtUl81Y1BlQ21XVThzX2hUSHVualNRdFdHZFIwbk5EaDBkUlBMN3hkV0ljMVJxVklMMHhXaEpwalNGZUVzVi03QnNFaFNuMTVTVHhtaWpoWnJXWFM2YUEwNWRMVS10RXk0VTZlUQ?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 07:39:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "South Africa police launch manhunt after 17 killed in tavern shooting - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2EyakRfYnN4VnV2MFRsWmF1MXRHQXBObVl0c29NMEJoRUFoS0JCUVlWaEF5T1dqb3VHRHNLOWsyVXFoa2ZfcGpSdE8xRWVZNmJoWGhWVUVsbWEzRF9Tb01sQmgzaHVfTFAwLWtXMWRRWGtvdUlFYlFET2Y0eHJJT2c3cUJJcU1VYnZmMEpKc2dJYlVuaEk0UnFhYzA0dDg5WTY5bFJBNVhhOEttNThlTE93Y0VLQQ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 05:50:00 GMT",
+          "title": "Swiss vote on tightening neutrality rules, ending peacetime cooperation with NATO - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWVA4TkVYNVNZdVQwNGlVdnh1THlUXzlrYm04SXVMeGdrOHhEZXVhMV9iZ3EyNGUwVlRkN0x0QmtQaC0zQXNjd0RYRjhnWmlDVlNLZ3pSaGlVMTFRbEtCRHg2eVhkME9VMEFncTQ0Nk5rV0ljTFdxNENxU2xiNjQ4WEhDMF9STXg1N3JXT3YwcGxQbURCeEVHSXNiTW4zNk5rc0hhamFYLWFpMkhGSFZ3TF9HbzR2NWhxZ0tZ?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 06:03:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUVMdUFVSXdCeFZhamlaeklBVGctWmdKX3pfSmVuYkJVSFVuZ0p3SFVJT3NJaC1JRW9tLW5sVHlyWktLZ1F4NWZMVHE2cWhqSkYwRVQ1ampsTVFXUHQxb1NPb1QxSTc0Zi1faVZrV1Z5aUZqRXZCSThWZkVuT1VUSHBUaDdXMlVaMU9BX2xVbThLSUliVmc4aUowejhlaXdLVEJVWktvUjg3QXF5bDlzdm4wZ3gwOUR3?oc=5",
           "pubDate": "Sun, 27 Sep 2026 01:39:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Category 4 Hurricane Polo threatens Mexico’s coast, landfall expected Monday - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3FKRlF5WEJudldBNU5uNWpXOTJ6NWQxaFFkNDRZUFZyR2V6bWYzQmJJUlZDN015RlRPTUxOUHFDQ2VKN1lVeHRhc0dFV2t5RnB6S205U0NHbHFicUZfUjhGcTJhdjhsWkVGY29Yc2ZUM2dfeVJOc0poVXctLXRLNGVjaHBIZkRMTWl2bkpGbkFpODNCYlY3M0xMbjVScmFHWnhUbk5yeVVlNC1wM0RmeDZZdktsMmxHYWdTR3VDYVlZc0dIVTFoZVdfSQ?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 22:49:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T08:50:13.176Z"
+      "updatedAt": "2026-09-27T09:00:20.399Z"
     }
   ]
 }
