@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-27T16:25:19.811Z",
-  "lastChecked": "2026-09-27T16:25:19.811Z",
-  "lastUpdated": "2026-09-27T16:25:19.811Z",
-  "generatedAt": "2026-09-27T16:25:19.811Z",
+  "fetchedAt": "2026-09-27T16:50:21.577Z",
+  "lastChecked": "2026-09-27T16:50:21.577Z",
+  "lastUpdated": "2026-09-27T16:50:21.577Z",
+  "generatedAt": "2026-09-27T16:50:21.577Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T16:25:18.543Z"
+      "updatedAt": "2026-09-27T16:50:20.070Z"
     },
     {
       "name": "NPR",
@@ -66,6 +66,12 @@
           "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
           "link": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
           "pubDate": "Sun, 27 Sep 2026 09:01:27 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "As Congress debates college sports, athletes-turned-senators have a seat at the table",
+          "link": "https://www.npr.org/2026/09/27/nx-s1-5978973/protect-college-sports-act-senators-athletes",
+          "pubDate": "Sun, 27 Sep 2026 08:06:24 -0400",
           "source": "NPR"
         },
         {
@@ -103,85 +109,79 @@
           "link": "https://www.npr.org/2026/09/27/nx-s1-5979946/these-democrats-are-running-for-congress-on-christian-faith-will-it-pay-off",
           "pubDate": "Sun, 27 Sep 2026 06:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
-          "pubDate": "Sat, 26 Sep 2026 17:13:54 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T16:25:18.785Z"
+      "updatedAt": "2026-09-27T16:50:20.382Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "German town sparks outrage as far-right and conservatives rally against Holocaust memorial plaques - AP News",
+          "title": "5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcERWNlhSekhlZGNhNVZ4dTZra2o2b3ZEdGFOeFhYWi02T2JlZ2VPNlZ6ZUQ1ODI1MHc3WElaaVRnV2RlZTlUeHhSR1pSN1NOanZiZkEyNnNtaXhPWS1qYXNrSDlIb1M0S3dwMktBNUJUd244MlZuTHJrNk12SGNCckdRSXBCZWxQWml1MHZHdEkwYjVlSEsyX0FOLTRWYlRZ?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 16:38:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Palestinian death toll in Gaza war passes 74,000, and other Mideast news - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2lsZXMteVl2UXhnTWE4UWl6eG9FUE50RFkzN3V0cFlQZldUeDF2YTlGVlpmMmxMX0cwQUdrQ0ctVWZMaTcyeU15bnN1dXM4YmNsd2tUMnRjR0JXUWtYRGw3S1I0azUtSjQ5RnZOOTdJa3pYVzRaSmptb25xVmNlRUZOTV8tVmxJZW14S2c2c3kxVklLTUwxeFlqNFp5Q2U4ODNTLXhoRWJiQTA?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 16:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "German town sparks outrage as far-right and conservatives rally against Holocaust memorial plaques - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdzBQMGxEQU5yMW1IY29vMnIzZDVzWU40cm1aQm9EUjVZZTVNc1NhdWM1NU1LRVVGSUU1eWR2MmZkZGtIMmx0blhtZ0FSUEhvajdFallSNHZmOE5OV2hXNEhwQWhsczZKRzE1YlBTN09rS2QtbmYxZmxWeWtyeGlzU29LU0dITTFVZm1zUDJTTVlScmxVYlE2YmJn?oc=5",
           "pubDate": "Sun, 27 Sep 2026 15:33:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Palestinian death toll in Gaza war passes 74,000, and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2lsZXMteVl2UXhnTWE4UWl6eG9FUE50RFkzN3V0cFlQZldUeDF2YTlGVlpmMmxMX0cwQUdrQ0ctVWZMaTcyeU15bnN1dXM4YmNsd2tUMnRjR0JXUWtYRGw3S1I0azUtSjQ5RnZOOTdJa3pYVzRaSmptb25xVmNlRUZOTV8tVmxJZW14S2c2c3kxVklLTUwxeFlqNFp5Q2U4ODNTLXhoRWJiQTA?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 15:28:00 GMT",
+          "title": "Police hunt gunmen after 2 mass shootings in South Africa leave at least 27 dead - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1p0XzlLWkttRzh2ZTUxRlJqYXJHTHl0TDUtdDJmMXM2dFFjNnZUUFhGZnVrUXBILTVkNjNyVVRUVlc1dDdEbVh2QXVIMnFFMXh3bm5nNHhvVFp1dE1EclFjb2RTME1IRzhfbWw5VjlBZ1lWbTFzTEJYclpyZnhHc2JCV0dPZkJqMkdzQUM0LURCbHFZdTJSejRHSjJ0NUJ0SksyNw?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 15:32:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "5 men arrested near air base used by US in Iran war on suspicion of preparing a terrorist act - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcERWNlhSekhlZGNhNVZ4dTZra2o2b3ZEdGFOeFhYWi02T2JlZ2VPNlZ6ZUQ1ODI1MHc3WElaaVRnV2RlZTlUeHhSR1pSN1NOanZiZkEyNnNtaXhPWS1qYXNrSDlIb1M0S3dwMktBNUJUd244MlZuTHJrNk12SGNCckdRSXBCZWxQWml1MHZHdEkwYjVlSEsyX0FOLTRWYlRZ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 15:20:00 GMT",
+          "title": "Powerful nor’easter floods Northeast, leaves over 130,000 without power as high tides threaten coast - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 14:56:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Eviction of 87-year-old sparks encampment protest in Madrid over housing crisis - AP News",
+          "title": "Eviction of 87-year-old sparks encampment protest in Madrid over housing crisis - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPajVfLXo0QUJYM3FjWldGS25aQ2dsYnJ5QXB0NFpuQWFETmRGcVdhTFpfZTRaeENKTktaVHZ6RF8tcTBoZGozTmYtdWRTR3JkbXdoelZXblVHMEN6UlVpSmhteFV6YUx3dTByN255b0NhU2VXNjRmUkcxcC1QdWJkc3E3SkVvWmg4cjNGM1lqOXhUNkJiWkh0T21abXpKNUE?oc=5",
           "pubDate": "Sun, 27 Sep 2026 14:26:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "A'ja Wilson wins AP WNBA Player of the Year for 3rd straight year; Angel Reese top defensive player - AP News",
+          "title": "A'ja Wilson wins AP WNBA Player of the Year for 3rd straight year; Angel Reese top defensive player - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOazJpREc4aTByMzFwLV9ld29tMk9iNVRUcXJkOU1iVHhieDlpWm1OQ2pKc1BfMzZuMW9fbEdnbmJVZkFOSW9tOWc0NGxnNEVoTzJJSTlUdnZaSGpPdUVldmN3eW1IdWJ3ejFhN0xhOG9raFdLallrNHU1WUlNeEx5Y0ltbW1ubHlDTHR2ekZtLVJaeFF4RmZKMg?oc=5",
           "pubDate": "Sun, 27 Sep 2026 13:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Powerful nor’easter floods Northeast, leaves over 100,000 without power as high tides threaten coast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 13:11:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Strait of Hormuz - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 12:53:08 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Sea level rise is reshaping a California beach town and threatening a key rail line - AP News",
+          "title": "Sea level rise is reshaping a California beach town and threatening a key rail line - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUNzY1NCOVpjMkNBd3hadk5yU2hoNnhwMVYyT2g3N1dFY0lRVmtBdkxJYnE1azN3bmt6T2FxMWlLSW84NWV1NjQ4LURKQVhWcEVsTzVCd1BCT2lhZUtSSFBQd1lUSXZUaEI1LVViZWZIT3pMelh2T2ZjWENyRlIwT2hOMlc4aGkyLWg5dmc4a3NEY2hGbDhEY2dHMG5aNkVNU2h4eg?oc=5",
           "pubDate": "Sun, 27 Sep 2026 12:29:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T16:25:19.343Z"
+      "updatedAt": "2026-09-27T16:50:21.118Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Swiss voters set to reject initiative to tighten neutrality rules - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmFMQkhwSFZ2TE03R3RGVTczODdfeTdMeTM3OVF1LXZ6a0RaQWtaQ2hpSzE3d1hCYnhzanFPN21fUEVFazdiaG55NXdWY3gyUTJheXdQYjdyeWtMWFRGSl9YaDZKbTB2eVFncUdIWmhjRzFZQWNzeE9TNUFQUW9Da2UyLVluVjdZQWpKX0Q5UFZSYVU1Mk1hZS1JN3ppeTlTMG9J?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 16:17:16 GMT",
+          "title": "Trump says men arrested at UK air base used by US were looking to do 'big damage' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOThaUHcwMHZuZEY2dldUNjhYQ29PeWRJdEYxWFBPV3NEUUdSc0l4MkdhN3liTGdyNG9XaEhwWG8xRk8xR29JVlA0ZEV2ZXM3RVZCRDlPSHhzU29Pek9tZVREdUdvOHRXS1ZuaTR0TXVGV253bkplU1lNbG85WXRjYzcwV2ZSekFCa1gtR1RtV09zM3NYeF93?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 16:44:50 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump says men arrested at US air base in UK were looking to do 'big damage' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOThaUHcwMHZuZEY2dldUNjhYQ29PeWRJdEYxWFBPV3NEUUdSc0l4MkdhN3liTGdyNG9XaEhwWG8xRk8xR29JVlA0ZEV2ZXM3RVZCRDlPSHhzU29Pek9tZVREdUdvOHRXS1ZuaTR0TXVGV253bkplU1lNbG85WXRjYzcwV2ZSekFCa1gtR1RtV09zM3NYeF93?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 15:49:05 GMT",
+          "title": "Swiss voters set to reject initiative to tighten neutrality rules - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmFMQkhwSFZ2TE03R3RGVTczODdfeTdMeTM3OVF1LXZ6a0RaQWtaQ2hpSzE3d1hCYnhzanFPN21fUEVFazdiaG55NXdWY3gyUTJheXdQYjdyeWtMWFRGSl9YaDZKbTB2eVFncUdIWmhjRzFZQWNzeE9TNUFQUW9Da2UyLVluVjdZQWpKX0Q5UFZSYVU1Mk1hZS1JN3ppeTlTMG9J?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 16:17:16 GMT",
           "source": "Reuters"
         },
         {
@@ -197,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX0pMdFpwUWhaRHhFM1pvcndCTDdIX1NOQUVwV2JIX0xIcXByV3Z4UWQyblZRVWl5elZ0TkYxV3BXUEluN0llM0VnUDJvVmN4X19pcXJVX0tSNDdEUWdaNGFFVVQ3N01VaWJHQ1FXVEdVZTJJcDFvZlJ0QmE0b2JpeGM4RDdBMDh4YmNxRkhILVJDRGktQzRPdGNsV2VxWHBjZWt0Q3hRN2FwZWlhcDhMcUZ0LUJsS1FoWGVQUG1PVWp4cEpCcEtVdUJVRVQ4cjZxVUxjM1lDWFM?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 15:25:44 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Russia hits Ukraine's largest mobile provider, strikes data centres - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNYXzZmVUxfWFM4bHFTcUpnN0VKSDFxX3RtdmN6RzlSMXJOX04yQWxjOXByaGNTMmdPYnhpRGhKbEhIWGp5X0UzeFZKWnZ0S0dLVVdWTkJiX0doUkNEbjQxelIweHBIOEJmRU50TVRWLTludHN5RHh3U3Vhd1JucjNCWkZWZ0dkMEo3ZEpuLTVvdG9RdGl5MnE3T0lEaEVha1JfeGoyYU1sXzVYeml6QU11RnZ6Qnpla3NJYlhGTEpndTdnMFpB?oc=5",
           "pubDate": "Sun, 27 Sep 2026 14:25:43 GMT",
@@ -209,12 +215,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Bangkok floodwaters recede after torrential rain as residents count losses - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUk3bWh1Mm1sUEZaODJkYkRUTks5S24zSG1JNGwwZHZHQVhpMXNHZTl4aXR5QVdmWW0zVHEwc01DTVc0VUxLTG1zMVBlaTdJaEpONTRFajdpYzhnSTFTXy1iby1FQ3JuSzlsR1JyZUZzSmZ1NHZFYkpyVTJvVDJWenJrdldYWF8yLXJLRTNFMmdsLXptM1ZSc3hhX2NpRURMMHdNcm4zRGdPclEwUmxYZA?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 14:22:36 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Organisers fend off bed-size complaints in Nagoya - Reuters",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFZZZ2dndzdtLUdBQ2RBNl9kUElIajdkT1FyT0lwX0hKYldxLXQtQnZPVzNGd3J4aEdrWHo3N3NSWVVFWmRCMEFMZDBpalIzUjF3LVhMTlhDRHdaYWpwUHMwekVoZW5JbFBxRGRGOHFSY2NYODc5M3BvSHk4RzdRT3N1dnBkLXdWSU5Id19XaTlZRlE?oc=5",
           "pubDate": "Sun, 27 Sep 2026 14:16:28 GMT",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T16:25:19.811Z"
+      "updatedAt": "2026-09-27T16:50:21.577Z"
     }
   ]
 }
