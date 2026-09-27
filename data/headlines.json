@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-27T02:25:14.398Z",
-  "lastChecked": "2026-09-27T02:25:14.398Z",
-  "lastUpdated": "2026-09-27T02:25:14.398Z",
-  "generatedAt": "2026-09-27T02:25:14.398Z",
+  "fetchedAt": "2026-09-27T02:50:15.179Z",
+  "lastChecked": "2026-09-27T02:50:15.179Z",
+  "lastUpdated": "2026-09-27T02:50:15.179Z",
+  "generatedAt": "2026-09-27T02:50:15.179Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T02:25:13.285Z"
+      "updatedAt": "2026-09-27T02:50:14.045Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T02:25:13.524Z"
+      "updatedAt": "2026-09-27T02:50:14.150Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Russia's top diplomat rejects German calls to ease off its `dangerous' escalation toward the country - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSU14aTYxS3I5YTNMLVhSTEljNmc1cExlcmhSZ3hVa2NmQ0JlVkRCbEo2NFJ4QTlBXzhqU181WjBrUEFyYzc4dnpOamZDOTRNRGdDbnBCZV9xaWE0YUJBUkJQRHVxMHlHbk9aRmd1bG9LRTlxSWtRZlBOSkhtUDdOR29EVGQ3bXBPbWFjZ3pXYzhXaEl5cDkwejlOX3dpSzAyd3pPV01OMUNuQVM4RGc?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 02:14:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "investigations-scams - AP News",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mZXgtQlhJSkJUSjdlYmZrR0s3S1R2dEp4YVRGa0pYLWJ2bmNJMkhCZWNreGloeXZIbmZQdzRHbW82bk96QTFqOXNrWGtBZWhV?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ1V3cnA1WUVZa1l3Z3Jpc2F4b2lTREFuUGhVelhBbXotQXl0LVRaQkR2UGF4enJoYlJBOE1aSjNVUVpua0dXSUpoU2hDZ2UwZ3pQWnNIbV9USTBNQmVHNkZQaWZJMW54dmJ1My1fSndIMTM5a010c2JSOFg0ZWhlVmM3TDNvdjA?oc=5",
           "pubDate": "Sat, 26 Sep 2026 23:46:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "No. 1 Texas outlasts No. 14 Tennessee 20-17 in Knoxville as Simmons gets 5 sacks with Trump watching - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHFGM3JHV3huV2ZNeVM5TV9NZGkxRHZKelh5WW9nbXlWWms5NGNOQnJIY1QxNVBsZ293V1VJcE1VMEM1ZnN2TnI2NFJaUjFYODUwd0hBaFB0dC1fazFVZXJyUWRCdE1ZcG9KaFhKdV9Ed2haYWtCalhENHg5MHlpMWFiT3BHbnhI?oc=5",
-          "pubDate": "Sat, 26 Sep 2026 23:33:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T02:25:13.958Z"
+      "updatedAt": "2026-09-27T02:50:14.682Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T02:25:14.398Z"
+      "updatedAt": "2026-09-27T02:50:15.179Z"
     }
   ]
 }
