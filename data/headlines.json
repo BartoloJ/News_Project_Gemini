@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-27T11:00:18.179Z",
-  "lastChecked": "2026-09-27T11:00:18.179Z",
-  "lastUpdated": "2026-09-27T11:00:18.179Z",
-  "generatedAt": "2026-09-27T11:00:18.179Z",
+  "fetchedAt": "2026-09-27T11:25:11.026Z",
+  "lastChecked": "2026-09-27T11:25:11.026Z",
+  "lastUpdated": "2026-09-27T11:25:11.026Z",
+  "generatedAt": "2026-09-27T11:25:11.026Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T11:00:17.615Z"
+      "updatedAt": "2026-09-27T11:25:09.961Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "From professor to patient: One man's journey on the frontier of lung cancer treatment",
+          "link": "https://www.npr.org/2026/09/27/nx-s1-5981264/lung-cancer-treatment-mrna-affordability",
+          "pubDate": "Sun, 27 Sep 2026 07:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Multiple arrests on suspicion of explosives offenses near U.K. base used by U.S. forces",
           "link": "https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-east-coast-floods",
           "pubDate": "Sat, 26 Sep 2026 07:38:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Why this island paradise has the world's fastest-growing HIV epidemic",
-          "link": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
-          "pubDate": "Sat, 26 Sep 2026 07:31:18 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T11:00:17.710Z"
+      "updatedAt": "2026-09-27T11:25:10.233Z"
     },
     {
       "name": "AP News",
@@ -124,15 +124,15 @@
           "source": "AP News"
         },
         {
-          "title": "Hurricane Nolo skirts Hawaii but could still unleash powerful winds, flash flooding - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaFVfUjJkdUtyOVZ6SGkyOWVzYnNZLXJ3bXpScGNjVTZ2Tm9mTzY5ZU9ZQTBuS2VlNzFKbm9tRmtSSFZsQXZ2djkzNjgzVHd4TUVFQjg1ZFpzdWozdUprZi1QSjJaVEEyLUFvdUZmZTAwT2J5eHl2SlVvRHFnQXJ4Q2JGZndCLUxo?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 07:40:00 GMT",
+          "title": "Palestinian death toll in Gaza war rises above 74,000 since the war began and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2lsZXMteVl2UXhnTWE4UWl6eG9FUE50RFkzN3V0cFlQZldUeDF2YTlGVlpmMmxMX0cwQUdrQ0ctVWZMaTcyeU15bnN1dXM4YmNsd2tUMnRjR0JXUWtYRGw3S1I0azUtSjQ5RnZOOTdJa3pYVzRaSmptb25xVmNlRUZOTV8tVmxJZW14S2c2c3kxVklLTUwxeFlqNFp5Q2U4ODNTLXhoRWJiQTA?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 07:50:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Strait of Hormuz - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 07:24:31 GMT",
+          "title": "Hurricane Nolo skirts Hawaii but could still unleash powerful winds, flash flooding - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaFVfUjJkdUtyOVZ6SGkyOWVzYnNZLXJ3bXpScGNjVTZ2Tm9mTzY5ZU9ZQTBuS2VlNzFKbm9tRmtSSFZsQXZ2djkzNjgzVHd4TUVFQjg1ZFpzdWozdUprZi1QSjJaVEEyLUFvdUZmZTAwT2J5eHl2SlVvRHFnQXJ4Q2JGZndCLUxo?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 07:40:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,9 +142,15 @@
           "source": "AP News"
         },
         {
-          "title": "Oregon QB Dante Moore leaves field in ambulance after late hit. His Ducks rally for a stirring win - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbkp1OXU2SUc5bnotcnUzWnc3UC1UWlp4dmE5bnEzVkVqbjVPWU5NSElkVUhtZ0xIMEFVbmVMUDBwRWxSb0lYdkVaYzFlTjFFdllnSjlHZDBYdXVwb1FuTnEySldoaFg0bGZ6TlM4M3o1Qi1tLTZ6R1A0eDlxZTNlVGlzelVLajJ1Qi1yV2Zrczc1cDQ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 05:58:00 GMT",
+          "title": "Pope Leo in Lourdes: What to know about one of Catholicism’s most famous pilgrimage sites - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOenFvZHl4OVZjS3E3RmNhWVhKakZTN25fYVRmUk1DQjd2MTY4eHp0RnNUbkEwWl9xRUl2VzJTQjlJRHBVOGM5NU1QTVh1VlZ1SGhvc3k2Y2dreVVsaVd5R0hLS21mRGViSU9iRHlscFNYZGRnUHFoYnFmTW5PM25VWnhOZE15V2VaTDN1Sy1qYldlUWRzbDU4V2hGdWV5bmM?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 06:58:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Strait of Hormuz - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 06:48:30 GMT",
           "source": "AP News"
         },
         {
@@ -158,24 +164,30 @@
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mZXgtQlhJSkJUSjdlYmZrR0s3S1R2dEp4YVRGa0pYLWJ2bmNJMkhCZWNreGloeXZIbmZQdzRHbW82bk96QTFqOXNrWGtBZWhV?oc=5",
           "pubDate": "Sun, 27 Sep 2026 04:20:48 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Gunmen target ambulance in Pakistan after suicide bombing at checkpoint killed 12 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd1JTRGdCNzVjMUkzSmE4cTA3Szh6WE8zNlpLQlRmSGdIRDVoTkVSN1VvS3dqZlBQSUlXSVVwX2xwV0tOVTZ6aUlySExzR2w4RzhwZHlwQlhlVmFfdDZTTWNSSW9KdkpYdGRkeVpXcmgyNzZuZ3FxUm9qbUtCalcwaVNEcm1meS1GU1lJ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 04:19:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T11:00:18.161Z"
+      "updatedAt": "2026-09-27T11:25:10.640Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Republicans pour money into dozens of US House races previously considered 'safe' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORWtTOTRMa3ctQXdVLXRhdG9LS2ZGN001N3hldXMwSFA1WmdKQUdldDZXSl9Vb0tzeDhwb3BBdUdsOU9fUGJlSFRtUDB1Z3FZRTZJSWE1ai1UdHNNM0JsSWMtNHdNVVhYN1BDczhmTGRZaXY1SWtqVkhvazZ4QnRjQzZ0OW5nckFNMkFaUGpNeGpKc19FZ2NkcE4zcVlHS2FFY0o1VEJoVmxHcTY2VjhraDdqQ3d3Q1BjNmJVRTk2d1lFYmdDQkJqWg?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 10:34:16 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Floods, landslides kill 56 in India and 14 in Nepal - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDl0UzBQZFNRMUNTNWZpRnNkVVVILXI5Vk5RRmV1bk5UeURhMWZWbjZkVklUVktUWGlsdmFORXVIQ0pDLWFfRWlxeGhtUl81Y1BlQ21XVThzX2hUSHVualNRdFdHZFIwbk5EaDBkUlBMN3hkV0ljMVJxVklMMHhXaEpwalNGZUVzVi03QnNFaFNuMTVTVHhtaWpoWnJXWFM2YUEwNWRMVS10RXk0VTZlUQ?oc=5",
           "pubDate": "Sun, 27 Sep 2026 10:29:13 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Afghanistan says 28 fighters killed after crossing from Pakistan - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFmNzhleVFtVHNiMHZNN2JEeWxxS25BZkJGYTZ4d0lRODhZdHhKUnI3LTNMWHlMTTZiaDdkaDlabGl3Uld5dXdqVFdjMVNIRFVrNk8waXl4d1EwNF9hSEVaV2tiTGs5TjA5ZkZjNUptSi1xdFlNNG5NMnZOdXdCSDFSNmpjR0ZzdVF4bWJzZThBOFNuXy1aSndCdjZmSVFqTjc3VWVSNllOcFk4THNhb2t5OFk?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 09:55:39 GMT",
           "source": "Reuters"
         },
         {
@@ -188,12 +200,6 @@
           "title": "Iran's army voices readiness for potential renewed US attack - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbVBhbkluN19hdE9jdGtYdDdlZXNYWGd3T25HUGREMlVVb2ZZWmlrYU0tYTJreW9YcjlMeUhwdXp2UlNPMTFtUXFOWVh6enk2TG45VEtKNEw1bnZKdTUyQnhNdmZ1VmhEYXhYZkFObl9KcHROa1h0S2QyVE83MnQwMnp5bjN2UTM4NmpKeUM5eFNTQzg4RXRCWFNpZEhmdw?oc=5",
           "pubDate": "Sun, 27 Sep 2026 09:40:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Afghanistan says 28 fighters killed after crossing from Pakistan - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFmNzhleVFtVHNiMHZNN2JEeWxxS25BZkJGYTZ4d0lRODhZdHhKUnI3LTNMWHlMTTZiaDdkaDlabGl3Uld5dXdqVFdjMVNIRFVrNk8waXl4d1EwNF9hSEVaV2tiTGs5TjA5ZkZjNUptSi1xdFlNNG5NMnZOdXdCSDFSNmpjR0ZzdVF4bWJzZThBOFNuXy1aSndCdjZmSVFqTjc3VWVSNllOcFk4THNhb2t5OFk?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 09:30:03 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ3h5T1ZCaEJEeHBqOUpFdUpoOGVvTkI5Qjgxd29YdEQtYzQ4TVRuM20xQXFLVXpIdllBeGZUa24tbmNyUnFIN2I5dkE1aHBSc0ExSU5JVXdkYVJIYXUyZ3dTQUUtVWdnMHo5TzJXa2YtVjVoTDNJRmE2ZmdIQ3hTRlM5LW9pMnY3R01QellEb2xKbVJ6ZngwYlAwOGpRUDRBUTBkRkc1QmxJWHJfTm1QX2hzYXBWU3ZaTmJzUkZsWUkwdw?oc=5",
           "pubDate": "Sun, 27 Sep 2026 07:47:45 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Swiss vote on tightening neutrality rules, ending peacetime cooperation with NATO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWVA4TkVYNVNZdVQwNGlVdnh1THlUXzlrYm04SXVMeGdrOHhEZXVhMV9iZ3EyNGUwVlRkN0x0QmtQaC0zQXNjd0RYRjhnWmlDVlNLZ3pSaGlVMTFRbEtCRHg2eVhkME9VMEFncTQ0Nk5rV0ljTFdxNENxU2xiNjQ4WEhDMF9STXg1N3JXT3YwcGxQbURCeEVHSXNiTW4zNk5rc0hhamFYLWFpMkhGSFZ3TF9HbzR2NWhxZ0tZ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 06:03:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T11:00:18.179Z"
+      "updatedAt": "2026-09-27T11:25:11.026Z"
     }
   ]
 }
