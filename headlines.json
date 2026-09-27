@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-27T21:25:15.028Z",
-  "lastChecked": "2026-09-27T21:25:15.028Z",
-  "lastUpdated": "2026-09-27T21:25:15.028Z",
-  "generatedAt": "2026-09-27T21:25:15.028Z",
+  "fetchedAt": "2026-09-27T21:36:33.847Z",
+  "lastChecked": "2026-09-27T21:36:33.847Z",
+  "lastUpdated": "2026-09-27T21:36:33.847Z",
+  "generatedAt": "2026-09-27T21:36:33.847Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T21:25:13.982Z"
+      "updatedAt": "2026-09-27T21:36:32.718Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T21:25:14.066Z"
+      "updatedAt": "2026-09-27T21:36:32.858Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T21:25:14.547Z"
+      "updatedAt": "2026-09-27T21:36:33.349Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "South Korea demands apology from Ukraine over disclosure of North Korean PoW transfer - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQl9LSlRTeEV0REcwOFZIYjZJem9WMVFwQnBjREdnV2Ruek1TUURkOFdzUFdKZ21fVGRiSGh5OGNqcDcwaExoSzRSQ2s5ckZLU2djMG1OWm5lWXVVSUZYTjkxMU5KNWNtM01GRTNJTkY4YnhHYWUwRWJyeUdPMkNYdERfQTdMR2xxMW52YzNFNXZmWUZ3bTZPQ29JSU5CeGxpcnpkUl9ObDFOcHFIZzR2WUVaYzdPSEJjUUFRdDlVT0RKTUhUbXJsaktkVUJreHNCVlVhRQ?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 21:23:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Russian drones kill two in market outside Kyiv, three others in different regions, officials say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUVF1UXZ0clUzdWpxRktGWjFjUGsxajFzZFp4eVNrNlctejhTQWZxRDFuYXd6SnA0bWhrVnVaTjZRLXJMR2VxUkdweVdiZ2FJaWpzUjVfZFhBVWgzTUx2emVTSVdwYko3Yy1WOU16bWVyZmw0OHpKQzZpX1JWa2tsOXRKYUl3ekVlUzE1MEh4eU9UWktidi1Cd1pfRkN2VmZ6QTFxMDRxblR3NkxYMHhjN1NaQQ?oc=5",
           "pubDate": "Sun, 27 Sep 2026 20:42:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "South Korea demands apology from Ukraine over North Korean POW disclosure - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHdqdnFfTEZYT1kxVWlSSlZRRnRseEw0RzAzbERrM2d0S2ZVSHhtb3Uzb3lwNi13cnNHV2ZobHVnclhfRzFxR2VPWEUzMGFFQ2hEa0Rvb1oyOXgybW9wejZsSVZZTVZ5OVdjZWhOVW5xVTNfTUtrbkRKUksxNW1hZXN1VWlvOGloRjRyV1BTTG1jdGJKMUxYV1RJWXdlNDF3aWpLbzl1N2g3Zl9XUWd5WXFuSmlXWEJXUFVTSktBV29CUnd6WEJuejE5VQ?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 20:13:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israel's Netanyahu visited Abu Dhabi on Sunday, Israeli official says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0pGMVlCUkt6b01MNWJkNlc5WlA2dlV1bUs3MDl2LXhhWFU3MGVEenBLQk1SaHNSMU1LNlh1SUpDWUloTzROY0pvb3JnWjJOUmlFSXdiNDVEeXBsRDFZb3gyVUlOY1B3UWc2MVZFLXllN1BkVlV6SXNKWWx0ZVV2azFEOVRmSE84THhKX0lLZTMyanowSnNNb0ItOGc5blhxOVR6UDQwdXVpNVljMnpwbHJBRkEzYk9mQWc?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 20:01:43 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaDJBSm5PZEgyWXNtNE5iZkF2cmVCNjhOakZMczZsdHFEd3hlVDdFTU44S0JVaHVmb1ozbEpudjVncUhic3l2RnNIVHltdi16cWZSM1p5M29hZ1ZlRU85aHZvckRSdGJ0X2M3bjVtXy1WS2xQcmh4cjBmUy05MWtXa0hkV2xSSVBHWVBvb1FpeXdob2o5QzRYVmNQV1ZrMFhjRVYwN19UYmRGRXNNOGpQTzEySUZFUjQ?oc=5",
           "pubDate": "Sun, 27 Sep 2026 19:05:02 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Floods, landslides kill 56 in India and 14 in Nepal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDl0UzBQZFNRMUNTNWZpRnNkVVVILXI5Vk5RRmV1bk5UeURhMWZWbjZkVklUVktUWGlsdmFORXVIQ0pDLWFfRWlxeGhtUl81Y1BlQ21XVThzX2hUSHVualNRdFdHZFIwbk5EaDBkUlBMN3hkV0ljMVJxVklMMHhXaEpwalNGZUVzVi03QnNFaFNuMTVTVHhtaWpoWnJXWFM2YUEwNWRMVS10RXk0VTZlUQ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 18:43:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Serbia's President Vucic resigns ahead of October parliamentary elections - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmcySFNmNWFxcDFQOEl6OU1UYy1MZ2RmcE9TU2V5N1FUYVhidncyRVRHZEtxbl9yU2Rpbi1yc0pVcmtyajlhaHFkakFqZFBPTlY3UFFObnl5aDZOcmVOajRKQzNYb2FCd2JmZnJ6clNjV0d5T0tmN1o1a0hGUDFQeHFRWi1Ba01KZDdXOG1YamVNT3RBUTRnX1RDRmNaQXhscnRYcXlON3RpdjQ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 18:33:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "German foreign minister says Lavrov meeting driven by Russia security concerns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdUo5TU5IYWlBcFY4U0NfZVZrTlNQYmZ3M0ZiNDdxMmtFSFBaRjZfUy15V0ZwUG42aUhjUUNQUlNnQzA3dTBhUnhnVEZraF9vSWJqeFJOeXJ5Sm5paC1YU1JLcnI4YnpwMHhoTGszcmxRVFpEWkVlWWJkX1pEN3Z5MVRLLUhrOXNXWURNYS1UZXV3ejRmMjVaWkxoODhfeWdnTFd6SXpJN1hubjNMdk5lckF3OGI2N1hQbFItcw?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 17:21:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T21:25:15.028Z"
+      "updatedAt": "2026-09-27T21:36:33.847Z"
     }
   ]
 }
