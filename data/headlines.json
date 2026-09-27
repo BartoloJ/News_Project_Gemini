@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-27T15:50:17.625Z",
-  "lastChecked": "2026-09-27T15:50:17.625Z",
-  "lastUpdated": "2026-09-27T15:50:17.625Z",
-  "generatedAt": "2026-09-27T15:50:17.625Z",
+  "fetchedAt": "2026-09-27T16:00:17.298Z",
+  "lastChecked": "2026-09-27T16:00:17.298Z",
+  "lastUpdated": "2026-09-27T16:00:17.298Z",
+  "generatedAt": "2026-09-27T16:00:17.298Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Venezuela releases dozens of political prisoners as election calls grow",
+          "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 27 Sep 2026 15:56:25 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Two mass shootings in South Africa leave 27 dead",
           "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 27 Sep 2026 04:45:08 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Four killed in helicopter crash near Montreal",
-          "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 27 Sep 2026 02:43:10 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:50:16.474Z"
+      "updatedAt": "2026-09-27T16:00:16.163Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:50:16.622Z"
+      "updatedAt": "2026-09-27T16:00:16.315Z"
     },
     {
       "name": "AP News",
@@ -142,6 +142,12 @@
           "source": "AP News"
         },
         {
+          "title": "Strait of Hormuz - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 12:53:08 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Sea level rise is reshaping a California beach town and threatening a key rail line - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUNzY1NCOVpjMkNBd3hadk5yU2hoNnhwMVYyT2g3N1dFY0lRVmtBdkxJYnE1azN3bmt6T2FxMWlLSW84NWV1NjQ4LURKQVhWcEVsTzVCd1BCT2lhZUtSSFBQd1lUSXZUaEI1LVViZWZIT3pMelh2T2ZjWENyRlIwT2hOMlc4aGkyLWg5dmc4a3NEY2hGbDhEY2dHMG5aNkVNU2h4eg?oc=5",
           "pubDate": "Sun, 27 Sep 2026 12:29:00 GMT",
@@ -154,12 +160,6 @@
           "source": "AP News"
         },
         {
-          "title": "Strait of Hormuz - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 12:04:06 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Palestinian death toll in Gaza war rises above 74,000 since the war began and other Mideast news - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2lsZXMteVl2UXhnTWE4UWl6eG9FUE50RFkzN3V0cFlQZldUeDF2YTlGVlpmMmxMX0cwQUdrQ0ctVWZMaTcyeU15bnN1dXM4YmNsd2tUMnRjR0JXUWtYRGw3S1I0azUtSjQ5RnZOOTdJa3pYVzRaSmptb25xVmNlRUZOTV8tVmxJZW14S2c2c3kxVklLTUwxeFlqNFp5Q2U4ODNTLXhoRWJiQTA?oc=5",
           "pubDate": "Sun, 27 Sep 2026 11:40:00 GMT",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:50:17.173Z"
+      "updatedAt": "2026-09-27T16:00:16.813Z"
     },
     {
       "name": "Reuters",
@@ -175,7 +175,13 @@
         {
           "title": "Trump says men arrested at US air base in UK were looking to do 'big damage' - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOThaUHcwMHZuZEY2dldUNjhYQ29PeWRJdEYxWFBPV3NEUUdSc0l4MkdhN3liTGdyNG9XaEhwWG8xRk8xR29JVlA0ZEV2ZXM3RVZCRDlPSHhzU29Pek9tZVREdUdvOHRXS1ZuaTR0TXVGV253bkplU1lNbG85WXRjYzcwV2ZSekFCa1gtR1RtV09zM3NYeF93?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 15:24:23 GMT",
+          "pubDate": "Sun, 27 Sep 2026 15:49:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UK's Burnham pledges to fight next election on social care reform - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVZjNEFENnpUa0RvNmFIYTRuU05YWFJNdVJpX3o4VzFYRGZTVXdEYXdVeHFINUI1SzVCSE5FM3ZGWWVGRUlQTjlwZGZHNDlTYV9Vcjk4Qlh2TnA3b012SzN1X0JrWjE2SU9FMHFxeFVhNUlSb240VENjU0RyQWM5ZEFBRWdEVm9hLTJQMklzdWNUVlRnSVFVdXRZN2pPTnMya3dlVHZB?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 15:40:26 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ3h5T1ZCaEJEeHBqOUpFdUpoOGVvTkI5Qjgxd29YdEQtYzQ4TVRuM20xQXFLVXpIdllBeGZUa24tbmNyUnFIN2I5dkE1aHBSc0ExSU5JVXdkYVJIYXUyZ3dTQUUtVWdnMHo5TzJXa2YtVjVoTDNJRmE2ZmdIQ3hTRlM5LW9pMnY3R01QellEb2xKbVJ6ZngwYlAwOGpRUDRBUTBkRkc1QmxJWHJfTm1QX2hzYXBWU3ZaTmJzUkZsWUkwdw?oc=5",
           "pubDate": "Sun, 27 Sep 2026 13:19:02 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Thailand declares two-day civil service holiday due to floods - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFZuX1F6RFd5NXRYQ2dXNHBGUm5CWS1zcGJqUFZrRUFDOHJnTC05SjE5ZTBBRFpGaDBVYnlxOG1saGhFV3BONWlnNGJvWGhfanlRSmt0U3dlWUtSX1RNbmFWS2phSlRCVVlxNGhQZ3lHWFJRQlhQajZ6TUUzbFRBVThXbkFVeFR0Q1NzMFZNVENSRlp3M1UtNnA2a0RMRTRGbFJ0elpuRUw2cEMtYURFSVFyYUQ1R3oxNHZnX0hMNUZ5SEhpVEdacktRdy1LcEpM?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 12:59:08 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T15:50:17.625Z"
+      "updatedAt": "2026-09-27T16:00:17.298Z"
     }
   ]
 }
