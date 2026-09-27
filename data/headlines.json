@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-27T11:25:11.026Z",
-  "lastChecked": "2026-09-27T11:25:11.026Z",
-  "lastUpdated": "2026-09-27T11:25:11.026Z",
-  "generatedAt": "2026-09-27T11:25:11.026Z",
+  "fetchedAt": "2026-09-27T11:50:14.659Z",
+  "lastChecked": "2026-09-27T11:50:14.659Z",
+  "lastUpdated": "2026-09-27T11:50:14.659Z",
+  "generatedAt": "2026-09-27T11:50:14.659Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 27 Sep 2026 11:38:03 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Two mass shootings in South Africa leave 27 dead",
           "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
@@ -38,7 +44,7 @@
           "source": "BBC News"
         },
         {
-          "title": "Killer Christa Pike is to be executed within days - but her defence say she's a victim too",
+          "title": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
           "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 26 Sep 2026 23:04:08 GMT",
           "source": "BBC News"
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 26 Sep 2026 22:02:18 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Are claims of a white genocide in South Africa real?",
-          "link": "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 26 Sep 2026 21:20:17 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T11:25:09.961Z"
+      "updatedAt": "2026-09-27T11:50:13.759Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,15 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T11:25:10.233Z"
+      "updatedAt": "2026-09-27T11:50:13.844Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Police evacuate homes near US air base in England and detain men on suspected explosives offensives - AP News",
+          "title": "UK police evacuate homes near air base used by US and detain men on suspected explosives offensives - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcERWNlhSekhlZGNhNVZ4dTZra2o2b3ZEdGFOeFhYWi02T2JlZ2VPNlZ6ZUQ1ODI1MHc3WElaaVRnV2RlZTlUeHhSR1pSN1NOanZiZkEyNnNtaXhPWS1qYXNrSDlIb1M0S3dwMktBNUJUd244MlZuTHJrNk12SGNCckdRSXBCZWxQWml1MHZHdEkwYjVlSEsyX0FOLTRWYlRZ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 07:52:00 GMT",
+          "pubDate": "Sun, 27 Sep 2026 10:27:00 GMT",
           "source": "AP News"
         },
         {
@@ -136,21 +136,15 @@
           "source": "AP News"
         },
         {
+          "title": "Strait of Hormuz - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 07:24:31 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Ethiopians celebrate Meskel holiday with pomp, despite recent fighting in Tigray - AP News",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLXpyWTlhdmpZTU1KbnV5QkV3REZFS3ZsQVJvMjJnTHpad2RjTWNESWNKVE1xdkRweDE5aV8tRzFMWlFDdXB5ckEtUGFDaHJ4VTVTUGthRGFyRVhvdHR3SkJUa3FKRTVxRC13S3Y4ZWFEeWlSUW1pRThWRWItNlVqQnFnV29MaENPTUE?oc=5",
           "pubDate": "Sun, 27 Sep 2026 07:22:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Pope Leo in Lourdes: What to know about one of Catholicism’s most famous pilgrimage sites - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOenFvZHl4OVZjS3E3RmNhWVhKakZTN25fYVRmUk1DQjd2MTY4eHp0RnNUbkEwWl9xRUl2VzJTQjlJRHBVOGM5NU1QTVh1VlZ1SGhvc3k2Y2dreVVsaVd5R0hLS21mRGViSU9iRHlscFNYZGRnUHFoYnFmTW5PM25VWnhOZE15V2VaTDN1Sy1qYldlUWRzbDU4V2hGdWV5bmM?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 06:58:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Strait of Hormuz - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 06:48:30 GMT",
           "source": "AP News"
         },
         {
@@ -164,18 +158,30 @@
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mZXgtQlhJSkJUSjdlYmZrR0s3S1R2dEp4YVRGa0pYLWJ2bmNJMkhCZWNreGloeXZIbmZQdzRHbW82bk96QTFqOXNrWGtBZWhV?oc=5",
           "pubDate": "Sun, 27 Sep 2026 04:20:48 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Gunmen target ambulance in Pakistan after suicide bombing at checkpoint killed 12 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd1JTRGdCNzVjMUkzSmE4cTA3Szh6WE8zNlpLQlRmSGdIRDVoTkVSN1VvS3dqZlBQSUlXSVVwX2xwV0tOVTZ6aUlySExzR2w4RzhwZHlwQlhlVmFfdDZTTWNSSW9KdkpYdGRkeVpXcmgyNzZuZ3FxUm9qbUtCalcwaVNEcm1meS1GU1lJ?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 04:19:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T11:25:10.640Z"
+      "updatedAt": "2026-09-27T11:50:14.275Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Men arrested in major incident at UK air base used by US - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOThaUHcwMHZuZEY2dldUNjhYQ29PeWRJdEYxWFBPV3NEUUdSc0l4MkdhN3liTGdyNG9XaEhwWG8xRk8xR29JVlA0ZEV2ZXM3RVZCRDlPSHhzU29Pek9tZVREdUdvOHRXS1ZuaTR0TXVGV253bkplU1lNbG85WXRjYzcwV2ZSekFCa1gtR1RtV09zM3NYeF93?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 11:34:46 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Republicans pour money into dozens of US House races previously considered 'safe' - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORWtTOTRMa3ctQXdVLXRhdG9LS2ZGN001N3hldXMwSFA1WmdKQUdldDZXSl9Vb0tzeDhwb3BBdUdsOU9fUGJlSFRtUDB1Z3FZRTZJSWE1ai1UdHNNM0JsSWMtNHdNVVhYN1BDczhmTGRZaXY1SWtqVkhvazZ4QnRjQzZ0OW5nckFNMkFaUGpNeGpKc19FZ2NkcE4zcVlHS2FFY0o1VEJoVmxHcTY2VjhraDdqQ3d3Q1BjNmJVRTk2d1lFYmdDQkJqWg?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 10:34:16 GMT",
+          "pubDate": "Sun, 27 Sep 2026 11:24:46 GMT",
           "source": "Reuters"
         },
         {
@@ -191,15 +197,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Men arrested in major incident at UK air base used by US - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOThaUHcwMHZuZEY2dldUNjhYQ29PeWRJdEYxWFBPV3NEUUdSc0l4MkdhN3liTGdyNG9XaEhwWG8xRk8xR29JVlA0ZEV2ZXM3RVZCRDlPSHhzU29Pek9tZVREdUdvOHRXS1ZuaTR0TXVGV253bkplU1lNbG85WXRjYzcwV2ZSekFCa1gtR1RtV09zM3NYeF93?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 09:55:35 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Iran's army voices readiness for potential renewed US attack - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbVBhbkluN19hdE9jdGtYdDdlZXNYWGd3T25HUGREMlVVb2ZZWmlrYU0tYTJreW9YcjlMeUhwdXp2UlNPMTFtUXFOWVh6enk2TG45VEtKNEw1bnZKdTUyQnhNdmZ1VmhEYXhYZkFObl9KcHROa1h0S2QyVE83MnQwMnp5bjN2UTM4NmpKeUM5eFNTQzg4RXRCWFNpZEhmdw?oc=5",
           "pubDate": "Sun, 27 Sep 2026 09:40:11 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Pope Leo urges Church to face failings before meeting French abuse survivors - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGNfb19vNE0wR0lybVdvaHJncHRrRUZsLVpzbzdGWkhBeVNRanRfOEl4T2RmWXVSc3NlMFl6S2hzaER2c0dmZzNLcGlrTGdyMXRhOXQ3NzZfMU1hZkZNeUxReG93aWhIY0U1WUI3TGc2bEhBY2w1Z2V6OXZEN2Z5dWVNN1hFU0R2WlNZUl9sN0tuOVlkdDdnT2NaU29kOV96R1dFR0w5QkRKSko1RlYtTktmSW1ZNi1EeUtSdnpxSQ?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 09:37:43 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd0VhSHY5a2JpMDBNeDBFbDJjUmVsR0JwcVdjeXRuMWh6SEQwSWtqcVhxeFBXXzNoaDhFSUlPNENrV1FIMTNlbmozVE9xNWo1RmNFaXFLTXd3aFBObzFrVjVrWTZDbG5zUHdDdURuY1dLV2x2TkZoS21ENUdZMURTbzVLdVB3S21QZ0FDYXI4azNkM2xIYjlnRjJwdzNCZzZVRGpjc2NyZi1MUVJNU2x4d2pKUW5od09NVWN4Qmg5TkJkSzJycFlOTFloZw?oc=5",
           "pubDate": "Sun, 27 Sep 2026 08:55:42 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "UK police arrest men on explosives act offenses after air base security stepped up-Sky - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ3h5T1ZCaEJEeHBqOUpFdUpoOGVvTkI5Qjgxd29YdEQtYzQ4TVRuM20xQXFLVXpIdllBeGZUa24tbmNyUnFIN2I5dkE1aHBSc0ExSU5JVXdkYVJIYXUyZ3dTQUUtVWdnMHo5TzJXa2YtVjVoTDNJRmE2ZmdIQ3hTRlM5LW9pMnY3R01QellEb2xKbVJ6ZngwYlAwOGpRUDRBUTBkRkc1QmxJWHJfTm1QX2hzYXBWU3ZaTmJzUkZsWUkwdw?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 07:47:45 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-27T11:25:11.026Z"
+      "updatedAt": "2026-09-27T11:50:14.659Z"
     }
   ]
 }
