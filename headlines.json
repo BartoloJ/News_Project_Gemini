@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-09-28T01:25:13.236Z",
-  "lastChecked": "2026-09-28T01:25:13.236Z",
-  "lastUpdated": "2026-09-28T01:25:13.236Z",
-  "generatedAt": "2026-09-28T01:25:13.236Z",
+  "fetchedAt": "2026-09-28T01:50:14.890Z",
+  "lastChecked": "2026-09-28T01:50:14.890Z",
+  "lastUpdated": "2026-09-28T01:50:14.890Z",
+  "generatedAt": "2026-09-28T01:50:14.890Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+          "link": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 28 Sep 2026 01:16:18 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: Shipwreck uncovered on Nantucket island during nor'easter storm",
+          "link": "https://www.bbc.co.uk/news/videos/cmg497x0p4x3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 28 Sep 2026 00:52:49 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "One dead as nor'easter storm pummels New York and New Jersey",
           "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/videos/cm0e30lpngxpo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 27 Sep 2026 20:05:07 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Embattled Serbian president resigns, paving way for early elections",
-          "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 27 Sep 2026 20:04:21 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
-          "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 27 Sep 2026 19:47:21 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T01:25:11.989Z"
+      "updatedAt": "2026-09-28T01:50:13.635Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T01:25:12.238Z"
+      "updatedAt": "2026-09-28T01:50:13.763Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Americans rally in singles to win the Presidents Cup for the 11th straight time - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGhyWXlabThOV1R0czJOb0s0a1Y5UlNzQ1RCVHhfQVhOTnBpNDhIbFliMVJ2aUpock5zTkk0X1FhT3g0Skh4YWcxVVQwcGtQaU9obFVlUjROWmJQQmZaazVzd2VBYjB1RnhMY1ZoUldtWVRmWmJnN21TRFVRUHRDSGdfc0FSMEhXdnY2ZXA2UjVlWlFockQtQmY4RF85VVFSaTFV?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 00:23:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "House Democrats plan vast oversight of Trump administration. Impeachment is an option - AP News",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcy10ZFE2SGc4eGtIcnVnWUNmQ0I3YTZJc3RwX21XNV9BOUpoVFBILURqSy1PRUNxeEtmVWZSRnFDYXBCbHVCdzRKZU9CdHg2bW5qaVhTY0lqTzhDTE0ySlZqaDJnbS1jSlF5aXE1ZzNCdFhUV0xheFY1dV9zLUNJVHZQdXNZcndoV3ZJYmY2SjBSdlJXQUhIeEhJYVJTS2Y2OGt5bXE4cEFBMUdfaDRvRDg0ZzZjMHFaLVB4MDVBLWpZNTFLa29V?oc=5",
@@ -142,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 23:50:04 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Washington LB Leo Chenal carted off with a neck injury against Seattle - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVUZCWTlCazZEeUtrMy1OV1RQai10Y2x4bnM0aF83cm9TbDhMeGd2NXdSU2t4TEhJWDBFQkREdHpUOGRfTVp6TW5iVGFSREd1STU0d1JkVWMzbzgySW1JcWE1Qy1fTXFPY09NNkhSY2hIRG9sMDBlNEZ3bXJpZXhhX1RnX19HSUdHSTRjbTdqOTVsT29YTTRzTDlLOVdnSUtG?oc=5",
           "pubDate": "Sun, 27 Sep 2026 23:49:00 GMT",
@@ -152,26 +164,32 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXRCWjlBRXdzOWx5SjFQWHJXeGJXTGpreTc5TVZwRDlTaklyQTNRVjNrR194UGZDT3pkQ3UtdXJfb1BwNEJnc0xJNXBpR2FaTktZY1JldnFaaVhnR1psaEJnLV9nMzdhSDhub1BxZ3Y0VllaSGNhWlFWZHR1bFk2OU12Y2FGTldBOWpkbFRuZ19kc2la?oc=5",
           "pubDate": "Sun, 27 Sep 2026 23:39:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for major Hurricane Polo - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkVfdWVCUjVtNkdnYVNkVFNyRE5hS25qNThhZzE0YVdQdWtxMENrS0NnamF1X1htU09qQWVicWl2NEtnaW1SbXAwclpsZUg2WURCaWRNQ0M2c1NKQjBPVGZjRVV0eFc3QjRxeVRDYjdRajY5Q09KX1NsZjVSZUNWV1gxQ3d4VmwxRElOYVRCVDBSV2pkN0FzbA?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 23:09:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Calypso icon Slinger Francisco, dubbed ‘The Mighty Sparrow,’ dies at 91, his family says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMGRJc3B2QlFtdllfN3ctdHRZNGp3dlljZjF5RU1MblozcjFTUzIweUI2VzB0UGtuSUo2X3F3c2pXTjBUZ3VQeHU1cERCMUpfV2R3NUpodlNXei1jengtajJNb05Mb25pamlnVzhRY3R4dENRaldpenR3OGc2SjBTZ1pB?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 22:53:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T01:25:12.768Z"
+      "updatedAt": "2026-09-28T01:50:14.417Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Stocks cautious in Asia as oil gains, yields rise - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjVwRkxEMEdFMlBlSmpIbDZEZ3dDclNNLVVBLTBya2k1VlpyT00xM1VBeFZ2cmNheUplNXJDYy1Vam9FYWdibUxrWmFLd1ZIUU9LRGhhX09yQkQ0OXF6dW5MZ0Qwc0dXNF9fU3ZBR2NwU3R5eGNWdnpPMW1heVpsUkpGNA?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 00:50:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHV0WUlQdWJ2UVdjY2FzaFliQU1TaEEtYmJQUzVUbjUwcWJkNkhZSXYwV1BwbkFqY3Z6MVRkT21jbWhCUEg0eGY0TnFnY25XVjFiQzBMbE5yOXJlbzZVYVZ3UTJMc1BjLUFtb0FVaDRWVW9jRVFUZDQ0N2hGX19NREk0MHhZZVNSekNVb01JLWVPR0gzdm9fQ1ZTbFlHa2hYSDFBY2JpdkpmeDRFM0dpU0VmdHluNzZGbkpZ?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 00:17:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Thai court to rule on challenge to 2026 election legality - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckNmeWxmX0dtRWZsQzZFUUZIb2FVcHYtRkp4Q1JoWDRQNmJHS202UGtTY2xXQURsVEQyTkliSmljWEw3YzlIWHNKRy1iTkdYOVc3WklFXzVQelFiNjZCZ0ZCSWJqQjhSSjBXeUZfQ2c0c0JWeVdnbl95UURLeEl2VUlhNklpZ1NHSW1MR3VwUWN2THNuTC1IRGJLNEJldXJUVzl0ZkVR?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 00:04:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump confirms meeting with Anthropic's Amodei, repeats dismissal of AI fears - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmNRNTdyaGdENWhHUlEzVFpTVnRndmtXcDBfZlVmTVZpWWF2SEF6M1FwXzBtbFZRdWJWOGNKc2JfYll1aEZxamJYYTJwZ2pXMUZ0NW1wWjEyQXRObnRJa29BbzhrLWxXOTFmSVZlRlkyS1Z3endodzAyYm9Sc0NOYlE5REhwbnZQbERfdWc2Mi1LbWVyaGpiOGtjZ1dVWGQ2cTJib1FVM1ZJYkVZbmRJWA?oc=5",
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZVBWUjdTSkRRcUtpSUp6djB6M1NoZHpMQmlsRXBpU3R2Z0ZuT2dOa09tYzBoQ1hQbXFGbVJGa3c2TmFiZ0JaUF85cU15bXVOcTBKdUgyYWdoUGRJT1htcmZEN0NJMGJlT0JtWHBPQjZJeDhiMzlQWFBYWFl3WDRMNE5nem12bkFobF8yMFJMaTZ4bkZwRVVQbEUwZG5UY0lXR1VZTnRFNVhZSkcxYnkxT3hsQTZlOF9UaEt4Q1VTem1PUURnQjdFRWViN0QtSzBVb0tlcFFpUnFFSFBMMnc?oc=5",
           "pubDate": "Sun, 27 Sep 2026 22:02:38 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Pope Leo pledges action on clergy abuse after meeting French survivors - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGNfb19vNE0wR0lybVdvaHJncHRrRUZsLVpzbzdGWkhBeVNRanRfOEl4T2RmWXVSc3NlMFl6S2hzaER2c0dmZzNLcGlrTGdyMXRhOXQ3NzZfMU1hZkZNeUxReG93aWhIY0U1WUI3TGc2bEhBY2w1Z2V6OXZEN2Z5dWVNN1hFU0R2WlNZUl9sN0tuOVlkdDdnT2NaU29kOV96R1dFR0w5QkRKSko1RlYtTktmSW1ZNi1EeUtSdnpxSQ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 21:52:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Greece stun Germany 1-0 in losing home debut for Klopp - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObFhRb05qbnNkeHl3LW84WjBtcnJ3X28zNFRFM3FkcEJKYkNSMmdDWEV1d0xnYm1hTjVzT25hSFM3TXo2UElua3VOcGlob1ZJVG1na3hfNFFHUkE3NVF4QVFCNHpPUkZfYm04a3d5a1pfWUpsM3FUeWoxWTc5eVVYUF83NEl5bUZQb1JXRWk2QXpFSjZKN0R2VjdpN0I0dw?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 21:48:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "South Korea demands apology from Ukraine over disclosure of North Korean PoW transfer - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQl9LSlRTeEV0REcwOFZIYjZJem9WMVFwQnBjREdnV2Ruek1TUURkOFdzUFdKZ21fVGRiSGh5OGNqcDcwaExoSzRSQ2s5ckZLU2djMG1OWm5lWXVVSUZYTjkxMU5KNWNtM01GRTNJTkY4YnhHYWUwRWJyeUdPMkNYdERfQTdMR2xxMW52YzNFNXZmWUZ3bTZPQ29JSU5CeGxpcnpkUl9ObDFOcHFIZzR2WUVaYzdPSEJjUUFRdDlVT0RKTUhUbXJsaktkVUJreHNCVlVhRQ?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 21:23:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T01:25:13.236Z"
+      "updatedAt": "2026-09-28T01:50:14.889Z"
     }
   ]
 }
