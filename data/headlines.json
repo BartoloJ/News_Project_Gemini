@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-28T16:50:15.453Z",
-  "lastChecked": "2026-09-28T16:50:15.453Z",
-  "lastUpdated": "2026-09-28T16:50:15.453Z",
-  "generatedAt": "2026-09-28T16:50:15.453Z",
+  "fetchedAt": "2026-09-28T17:00:20.576Z",
+  "lastChecked": "2026-09-28T17:00:20.576Z",
+  "lastUpdated": "2026-09-28T17:00:20.576Z",
+  "generatedAt": "2026-09-28T17:00:20.576Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T16:50:14.264Z"
+      "updatedAt": "2026-09-28T17:00:19.250Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T16:50:14.475Z"
+      "updatedAt": "2026-09-28T17:00:19.390Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Starbucks to shutter 250 stores in North America this week in 2nd wave of closings - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakxReFNDbDRFSGQwQlpHalJIWjdRZXRxcEdidEZkNklXSkR3MVdtekg3TGNwZk1QLUVNZWhQd2d2NzRFMVNvVzlETHQ2aUE0eHBOdHFBTmhrQ0xzMVV4TlBoZ29EVXQ4QXM4dF9jUW9SWmE5bUtBOUdnR1VPdGpDdklldTFTNkdOY0ZRWWIxZjlXanNiTW1QYXI2cw?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 16:54:16 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0Zvc2VPMWZJQzlJNWlyZkVfNGI2b3ptSXhWZTUxaGV5U1BIQkpkRWhnVDZUUTloa3RFY0VjaFU0Q01RcU1UTG1YeTBnT0NCYTlGSTFlaElMeEx0YzFKS1FjLWRMaWRNd0JQZC05VTRsalVQWnJydVdrYVNKYWNNT05SMGtTLVlMcXBIVUwxN3pPUjRVRGppdlFrdWs2UVMza0MtdDF3a3JsMEJtcHc?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 16:54:15 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "SpaceX’s supersized Starship launches into orbit for the first time but flight ends early - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjNWb0xCanlSdllFdHJENU1SQ0xacUt1LUdCb2ZsQ1ljN19OQjJXMUhCSG00Wks3OVZaRHRfbEVyTkFET29YMUJZVDI5Q24xa05FUVdMeTFUekJ5OVd3RjBMQzJjSDhxZDZtUFZaSjlnUi1GX2VhVmwwa2YwZnhwdjFWRDd6QTF6?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 16:08:00 GMT",
+          "pubDate": "Mon, 28 Sep 2026 16:46:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,87 +154,75 @@
           "source": "AP News"
         },
         {
-          "title": "Pope Leo wraps up France trip by urging Europe to blunt 'desire for domination' driving today's wars - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEhHSzZUNHlMdTBNTXNwaFNVZEZZb0VSY3luRFlMbVVSelhDUnVtZmlnS2lURHJhN2pxc2s1VnZja0tlZ3FVTE9iZ3AtSGVheWRuOHRXT0VNbmxiOGtiUW4tWjRTODNYUEY2dU4wT3V1YUVTNHM0dVc4NExqTEMxeEFnekQyN3VlRF9sMm1hdUpyeHdw?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 14:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Coaching mistakes in the final seconds cost the Cowboys against the Ravens - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMC1CYVZ4VF90RXQ4akxCZVlpTjZtd1BiaC14bVBReGlDZnZBdkpjWWFlMk44T1lya1JtdW9YTVdUS3hodGg0VjE3NXNfZlpFOVZfLUZEVUlHNmJLSHZ4QUQtUmdqazFpUVFhbThYVVd5MFNfa1ZCbm9BZElyMzhLdm1IcnIzQnlrcHRodUsteFhlQm1hYWZGRFduVzBwdVk?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 14:34:00 GMT",
+          "title": "Trump’s mail voting crackdown tests Postal Service leader who says he’s ‘not political’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWFGb1ppa2QxOFFwMFRQbHpuNmtDSmJEVnItMGVWb2tHdmtyYVJScEU2TkNNMHI5aVJFU2JDOFBiN2pmQUJadXJuSmt1UnR6MXZONlhscGtkWVdPemFMbjJ6LTRfd05jVTVIYjdycW9pa0NkemlfYlV1ODRlSzRRX2tINUVCc3psRTFBRGpVSFhxSnNINWI0U2ttcXJ5cnplYnBiUjBtaw?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 15:14:00 GMT",
           "source": "AP News"
         },
         {
           "title": "College football | Latest News & Updates - AP News",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 14:33:23 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Underpaid workers building US Consulate in Milan will split multi-million payout from US firm - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVzJzbWw5U1BKenlKb3ptcGFycUNySVRodG1EU0JJcUNSXzBFUGdOczJhRkk0dlA0ZmgwcmJsSXJJaFV3VHNGZ2JUdXBpRDhBZ2k1X09GOHRnTll0c3AtbDhHRXZfX3daMHZvRTFnbzIwXzZIcWxMNE5VOEdQRmhYTUdMcENMUDZncXJ4NkZDNTE3V2NRZkFrblJPckd3QQ?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 14:23:00 GMT",
+          "pubDate": "Mon, 28 Sep 2026 14:58:11 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T16:50:14.980Z"
+      "updatedAt": "2026-09-28T17:00:20.040Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit - reuters.com",
+          "title": "Mexico's Pacific coast braces for Hurricane Polo's life-threatening landfall - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUGJZek5MU1FpT2NBbjZZWGd5dkNVd0tqZUVacWxsNi1sUUJuTUJKNy1aUmNxeUd1UEt4WWtnTzFUOU1rdzJxRDljeDFOQWw5YXo4Yk1CaEU3dlh1RUc1czZ5WWctTE0tTmNnbFVUZGsycDhkdTVYTEZKZ3JyS0VGTjkwS1JlUFRLaU1pZHZvaE5pRkFNeG9Mb0FocmVucWdHMkFqVEdYTU56a1dRZ2lqcHRiXzJ5NS1rX2R6eEcxeUxuMEZaWXc?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 16:32:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUG9naTh0N0NqVC1Qa2xGLTZsaHd4dFMxVnpUYzFEZnJqbFQwVTN1ek4yZ3k5Uzh4M1lyVWdZeWJvSDJXLVVvUTM1eTFQak1XdWlrUFBBN082czBVR0h5XzJwLVFqUndKTmsyQUV5NnhzNGRlQnFMazJ1UFVGN1U0ZE9nSlpSbmxRNjdEU3pPekJ3YlNuTXhCaTlFa2YtbHFsd3J1TUhSVzFJMEE0VFBOT0poOVlmV1dS?oc=5",
           "pubDate": "Mon, 28 Sep 2026 16:15:47 GMT",
           "source": "Reuters"
         },
         {
-          "title": "SpaceX's Starship makes orbital debut deploying Starlinks before early ending - reuters.com",
+          "title": "SpaceX's Starship makes orbital debut deploying Starlinks before early ending - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUxONEdtUHZ5SjVIV3RpTVhrdlIzVTRucmFYRThFZ014SGlwX2cxTk80MjB3UHc5c2ZmZTlkOE1kMDJLS1BCM2hyREJhdjVaMExEUXhUemw4UlB2NXJCTm1pdkphM0hXRFdVNDQ1UlBueXpYcTdtcmNwT3ZtcGpXWTlDVW0xUmowZmFpdzVFemlVbGtwckxIM3NzNkhEenhENUVkWXByU09TQW9rUlNBUUNocEtBQQ?oc=5",
           "pubDate": "Mon, 28 Sep 2026 16:14:53 GMT",
           "source": "Reuters"
         },
         {
-          "title": "China's Gotion invests $1.25 billion in Volkswagen battery plant in Spain - reuters.com",
+          "title": "China's Gotion invests $1.25 billion in Volkswagen battery plant in Spain - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYjhtWENMaGdMc2tUUkhCcFVFNXVfU1JwWmhKM2kwLUxnS2Z3X0tYNTkyamdaNzcxbUxOY2RscGtMbVJSZ3FHNHoyYlJRa0RNaUNnVXR4SWU2ODYzeG5LWHVZS3lqYXVDaS0yd0k1S2RqU2lkZmxGODczQ3B6UFRqMU91d0Jvb3BvdElyYm5xQWtwRlRlc19WT1hsVGtDdEk4THhSQnVfZm94aHMxRC0w?oc=5",
           "pubDate": "Mon, 28 Sep 2026 16:12:39 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Prediction markets' push into US stocks raises regulatory alarm bells - reuters.com",
+          "title": "Prediction markets' push into US stocks raises regulatory alarm bells - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc0pOYnNmdEpnbENUb0xvWldjT19MWmZiMmNFSXJsMDgxTEM2d1ZaNXdKeVJ0X21ZaDc2TElGX3BGdlJJV1liclo0Y1RfRUM5LWRPd3h5NE5naHd1WWhzV3UzamdtSVUzWFVBOXBRN2JLQlk4a2Fkd2REZkJ5WWdqbF9LRkIyU3JaVDB1RzhPd3JuWGh0WkhtdHAtZnZueUptMDJ4Z1drMzZjZjFmTGNHd0N1amhLUWl5cUFnUnJn?oc=5",
           "pubDate": "Mon, 28 Sep 2026 16:12:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wall St declines as oil spikes after Trump rejects Iran peace proposal - reuters.com",
+          "title": "Wall St declines as oil spikes after Trump rejects Iran peace proposal - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5ieTU4M0RYMC1lQi0wbDVONnJJbW5NS3pya2xkLXUxSFF3ajh5ZWlER3B5ZW1IR0J3ZjRxZFFCTDd2ajh4ZnVHZ2xqY1U2c0pIamh2MGhzWVlIMVVieHpOXzg0bnJwRFlTaEg4dVdycUc1X25ZQlZkUUsxUGZ3TGc1RDlNWjg2U1RFQ3JEUWx2NGIxb0ZvZXJJb0F6MjcxOER2WHFIdmtSei1fZHdBS29YcGhvUFk?oc=5",
           "pubDate": "Mon, 28 Sep 2026 16:00:56 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Germany's Evonik rejects BASF's $11.7 billion bid, sources say - reuters.com",
+          "title": "Germany's Evonik rejects BASF's $11.7 billion bid, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ2FoVmV1WGRNQU93dXd6aXdLX0p3WkdxY051LWNXRS16cUEwVWJWdVYzRTA2enM1Um1adk5VWlN0QU1mREpMeHk3MHk4ZWxVYU1od2JrMTk2dWc0d0VKTjZfdE5RaU5DbWZ5TnBfaUdBWjZtUDkzUUpUSXdCdVpNRnVZNW1za3NGUVplNGlyckQ3NFJ4XzhyYjlKQWJVRzJQeEE?oc=5",
           "pubDate": "Mon, 28 Sep 2026 15:57:31 GMT",
           "source": "Reuters"
         },
         {
-          "title": "UK diesel prices hit record highs due to impact of Iran war - reuters.com",
+          "title": "UK diesel prices hit record highs due to impact of Iran war - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMHN4d1VGcVBGY1ZfajlGSnJvbkFEakJsRzZKalQ2ZTFWQUVBMjI1MWZ4alBFVjdBSkJXUDRkeF9tVTBoczdqN1h4TXRWX0dzd3ZDd1dUck1Fa09YanhkZS12U29PckVfTkRyTUlwd09jTVJRalZ3NEJqMDZLZXNnMmhIWTZGR2lUa19sRFZtandaNmE2Mnh6MjV5bnp1bGl2b2VFZ1NzLTM?oc=5",
           "pubDate": "Mon, 28 Sep 2026 15:56:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ethiopian pro-government forces claim capture of strategic Tigray town - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUjNEWTc5Q1dFTC1VdlRWS1lFUnFOSTBSUTc4S2tfTHRvMmlhMlpzalVtb25RMW0tbnk2R0tuNThvX1J2MUZhWlZzYlpGYndqc2JaWG9Bb0RPM1FFMWRTVndwcVBicTUzMlQ1eVRSWnl3OEVSR0hCMVlyaVBYVXBRaDhLSjE2ZjNsTVByM3dGSklBMjNVdkVJdnhxcGlJQmtlVXpQcmx2LXFya3FaMnJyazliaGFTWjVwcG5J?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 15:51:19 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T16:50:15.453Z"
+      "updatedAt": "2026-09-28T17:00:20.576Z"
     }
   ]
 }
