@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-28T03:25:14.296Z",
-  "lastChecked": "2026-09-28T03:25:14.296Z",
-  "lastUpdated": "2026-09-28T03:25:14.296Z",
-  "generatedAt": "2026-09-28T03:25:14.296Z",
+  "fetchedAt": "2026-09-28T03:50:16.000Z",
+  "lastChecked": "2026-09-28T03:50:16.000Z",
+  "lastUpdated": "2026-09-28T03:50:16.000Z",
+  "generatedAt": "2026-09-28T03:50:16.000Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T03:25:12.592Z"
+      "updatedAt": "2026-09-28T03:50:14.783Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T03:25:12.831Z"
+      "updatedAt": "2026-09-28T03:50:15.016Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 03:03:51 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump to travel to Ohio to stump for Sen. Jon Husted as the Republican faces competitive challenge - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXRCWjlBRXdzOWx5SjFQWHJXeGJXTGpreTc5TVZwRDlTaklyQTNRVjNrR194UGZDT3pkQ3UtdXJfb1BwNEJnc0xJNXBpR2FaTktZY1JldnFaaVhnR1psaEJnLV9nMzdhSDhub1BxZ3Y0VllaSGNhWlFWZHR1bFk2OU12Y2FGTldBOWpkbFRuZ19kc2la?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0RpWWZ5VnRieXhDRkcyTE9ieGRNTkFCc1gxZzBiMkQ5LTZ5cUdwT1BLbTdSSGtGc042MWxUbXVzanZwTUJJcmpWN1JQTEpWOUdsNFdQdm8wTjZOUlU4eUNyMGdic3NXZG9fUV9pcHVwRi13Z3I0ZDNpdG1yWG9qUFVxczFoRlNCNEdUOE45VVM4TEEzU3Q5dQ?oc=5",
           "pubDate": "Mon, 28 Sep 2026 00:13:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Oregon QB Moore sustained concussion on late hit; USC suspends LB Stephens for 1 game for hit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmdLdW5rbERuMlBFc05BdVh6Rjd4OVplQlc0WV9QbThyQXlCNDNOdGFwN0FqejY3TGxPQ0xwNlJYMEhiZi1vVW5iWXdhdDJRM1ZuWFM4bFRMU3FkTzBDbHZnWmtWX240NWNLby0xSmFBQmgtY1FrVmtSSXhsdEQxSmpCcHhXbktWQ1FjN0RnMGs?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 00:07:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T03:25:13.815Z"
+      "updatedAt": "2026-09-28T03:50:15.570Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Gold drops more than 1% on US rate-hike bets - Reuters",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
           "pubDate": "Mon, 28 Sep 2026 01:41:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China's industrial profit growth slows further as economic imbalances deepen - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGRoN0tpc0FCRXdvTHEzV1F0ZzBzV1ZWMFFEYXl1WC0xUWxnaDdJTDNWcEtFaHh3a0dob2hwOGVNQ1ptR2c1N0QtNkRfd2UzT0VPSDFMNEdIaXJGdUZFMmRvbDd4T0pVOU9SWjlIYTNqNVJUQ2lMSmxBSVRlNS1kSzZYYTBteHpQT1FKcWZJOTBrRXY3RlM0cnpyNlFsNXAtcC1WdXZB?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 01:40:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHV0WUlQdWJ2UVdjY2FzaFliQU1TaEEtYmJQUzVUbjUwcWJkNkhZSXYwV1BwbkFqY3Z6MVRkT21jbWhCUEg0eGY0TnFnY25XVjFiQzBMbE5yOXJlbzZVYVZ3UTJMc1BjLUFtb0FVaDRWVW9jRVFUZDQ0N2hGX19NREk0MHhZZVNSekNVb01JLWVPR0gzdm9fQ1ZTbFlHa2hYSDFBY2JpdkpmeDRFM0dpU0VmdHluNzZGbkpZ?oc=5",
           "pubDate": "Mon, 28 Sep 2026 00:17:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Thai court to rule on challenge to 2026 election legality - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckNmeWxmX0dtRWZsQzZFUUZIb2FVcHYtRkp4Q1JoWDRQNmJHS202UGtTY2xXQURsVEQyTkliSmljWEw3YzlIWHNKRy1iTkdYOVc3WklFXzVQelFiNjZCZ0ZCSWJqQjhSSjBXeUZfQ2c0c0JWeVdnbl95UURLeEl2VUlhNklpZ1NHSW1MR3VwUWN2THNuTC1IRGJLNEJldXJUVzl0ZkVR?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 00:04:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T03:25:14.296Z"
+      "updatedAt": "2026-09-28T03:50:16.000Z"
     }
   ]
 }
