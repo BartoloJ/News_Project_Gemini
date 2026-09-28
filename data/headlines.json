@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-28T09:25:23.367Z",
-  "lastChecked": "2026-09-28T09:25:23.367Z",
-  "lastUpdated": "2026-09-28T09:25:23.367Z",
-  "generatedAt": "2026-09-28T09:25:23.367Z",
+  "fetchedAt": "2026-09-28T09:50:14.991Z",
+  "lastChecked": "2026-09-28T09:50:14.991Z",
+  "lastUpdated": "2026-09-28T09:50:14.991Z",
+  "generatedAt": "2026-09-28T09:50:14.991Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T09:25:22.107Z"
+      "updatedAt": "2026-09-28T09:50:13.947Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T09:25:22.337Z"
+      "updatedAt": "2026-09-28T09:50:14.116Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Trump asked China’s president if he wants to buy US arms, ambassador says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0RpWWZ5VnRieXhDRkcyTE9ieGRNTkFCc1gxZzBiMkQ5LTZ5cUdwT1BLbTdSSGtGc042MWxUbXVzanZwTUJJcmpWN1JQTEpWOUdsNFdQdm8wTjZOUlU4eUNyMGdic3NXZG9fUV9pcHVwRi13Z3I0ZDNpdG1yWG9qUFVxczFoRlNCNEdUOE45VVM4TEEzU3Q5dQ?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 08:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 08:37:23 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Residents brace for a possible Russian hybrid attack on Poland’s border with Ukraine - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWZBd1d4bTJVOVhwNzZxTHRqUE1lV3F3a1dRWnN1aEFGNUs5Um8yX3BzQlFpdTBDSk1DOVFXN012dkNMeENwd3ZDTHdFNWxTOVNlOEZ2X3JWT29fd3M0QmJRSkRXNmxVV0FtRmNfMzNzN0xIbTRSa1FUOHRKZjFXTWxkVDRIcEdQdHlPQmF1OUZwbmg4NHFfSGU2eGpDZU15dnVoUndYRjVWREtka0hiS0dB?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 08:15:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5",
@@ -130,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 06:52:15 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "World of Scams - AP News",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mZXgtQlhJSkJUSjdlYmZrR0s3S1R2dEp4YVRGa0pYLWJ2bmNJMkhCZWNreGloeXZIbmZQdzRHbW82bk96QTFqOXNrWGtBZWhV?oc=5",
           "pubDate": "Mon, 28 Sep 2026 06:35:06 GMT",
@@ -140,38 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjV2OVVsQkF6aEpLM3FOYlBlSVpybTdOenZ2X0o2clBNTF94Nm51eDY5Q08xUV9RZENjMklNdG5KMGtaSzhGNjFBUGpWLXhkZF81cTRkMkZFa2NISnU1d2VmQnd4NkdJc1JjN0hIVWVmd21hWElUbTJlOEdXWTBCdVlkVy1mNU5Vcl9LdTl5Zk4wdHhheW94S1JWWG4?oc=5",
           "pubDate": "Mon, 28 Sep 2026 06:26:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "On Poland’s border with Ukraine, residents brace for a possible Russian hybrid attack - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWZBd1d4bTJVOVhwNzZxTHRqUE1lV3F3a1dRWnN1aEFGNUs5Um8yX3BzQlFpdTBDSk1DOVFXN012dkNMeENwd3ZDTHdFNWxTOVNlOEZ2X3JWT29fd3M0QmJRSkRXNmxVV0FtRmNfMzNzN0xIbTRSa1FUOHRKZjFXTWxkVDRIcEdQdHlPQmF1OUZwbmg4NHFfSGU2eGpDZU15dnVoUndYRjVWREtka0hiS0dB?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 06:08:16 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Bo Nix and Talanoa Hufanga lead the Broncos past the Rams 30-26 in a Sunday night thriller - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzFTOC0tVko1Z1JQbzJLUlhvSFZRaGd1U01ndVpEMUlkTUJLQWFCY29zcmxaUkEyMzdUeFhuNXhEcnlyMnE2UE1DazJNRVVkNzI1VGFjbko1Rkd3MEY5eUl5aHhOUi1QWVhIQnJIRFVLZk9NV0Rla0t6ZDJjdmNnMHhLOGI?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 05:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "College football | Latest News & Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 04:59:57 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Heavy rain and flooding kill at least 62 in northern India - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUW4zelZGT2xST0hEbDdBRmxQNjl4Z2N0TGEyRUw5Sm5TbEk1MXhpN2p6TjVId19rZVFfYnRXTzlkM1BFTmlvOWlLdWN3QndXMFpKeXdTWktYd0IxQWJEZlVVdUlHbnBVaXNWODFsTFhkaklMaWk5dGxvbmdDSTd3cmE4RjRDNngzVG5adHlYTQ?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 04:55:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T09:25:22.915Z"
+      "updatedAt": "2026-09-28T09:50:14.563Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Nvidia releases AI safety software it says could have stopped Hugging Face hack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVREakRaN2V6OWo0bzNFcVBHb1VZMzRVS29mcWF4XzZwSmdxLVRublBqSTE5ZlNBaHBKb0lTU1o2SWV0V0t1U3M3TVl1ZnlJWGVJRGxKclM5RkphYzhzU3FlNkZHNDk3TUZhdW54dGtydmR3MFR2ZFVZdWItaVpsNjZYX2hIbjVHcTM0ZTVqLVd6UHV2OGY4eFM4ZW1va1pCSF90VzlZd3BSUjVkY1RJRzV2ZGFEUnlnbDY1d0ZjOFZoYXBVRU5YZEM0Zmk?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 09:12:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzFRTndpRkJHX2FfcTFFdHFvNVVrQU5MZVAxM0Z1T1p3TjRyaUtyNFRaNjRQQjQwYjJaVW5ocTlGYU1iU0w4WGNISjhWb0ZsWHpTYkZ5aEhPX1B1blRyak40X0FHMDdWdnUzSGFYczRrXzd1bXBPODRNbDdnN2NPcTZLZFpIaWhTRkQ0bVZIMGxGcFo0S1B1M3RrV0pWU1h6d0d6NC1SMkhwdl9ESGJiZFVXLWl4Mll4bUE?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 09:10:27 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "UK police question five men held at airbase used by US to attack Iran - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXYwS1pBdDdVa1JYckZZdFNGeWpwdGRUR0hOX1NuMV9vOWFBYUlDbDAzdjFVbVZ1c2J1N0xrM0hPc2RvLVhlM2d5MlZ4WnJtOW9iSzJGNEw2UTJhR25tdWZKYzhucGVKZG1sRDYyZDZudmViaGRjMmdLNVdqS1NWZERRR3EyY1JxMG5tWUNDTTJpZFJxbHZkR0FqU3BPdFBpMTdGWmVWOGQzOEJq?oc=5",
@@ -182,12 +194,6 @@
           "title": "Swedish opposition leader Andersson says she cannot form government in current situation - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0xVd08xc25HQjlSNU5kWTVzZVJ0T2FkaWtIbnR5WFVuekJObFNTdzJ4Y3dKUEVoVmZHZUpzVkZwV050WVNDeDhMZ3hjQlZaRXJDVExYSURDUGh1RFBHZHZNMDlGTW1jOVdfQWh5YlNOWEtUYzlvck00RFctVWRMNnZVU3BMSThpZldNVmpnTHVuMk9kY3JpenVqNkFYb3NvbXZCRDRmZzNFRnpKRFUxTDkzMGZZV1p2cDVPa01OYmY?oc=5",
           "pubDate": "Mon, 28 Sep 2026 08:05:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Japan top FX diplomat urges markets to heed 'very clear' warning on yen - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzFRTndpRkJHX2FfcTFFdHFvNVVrQU5MZVAxM0Z1T1p3TjRyaUtyNFRaNjRQQjQwYjJaVW5ocTlGYU1iU0w4WGNISjhWb0ZsWHpTYkZ5aEhPX1B1blRyak40X0FHMDdWdnUzSGFYczRrXzd1bXBPODRNbDdnN2NPcTZLZFpIaWhTRkQ0bVZIMGxGcFo0S1B1M3RrV0pWU1h6d0d6NC1SMkhwdl9ESGJiZFVXLWl4Mll4bUE?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 07:57:59 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNck02VWk4WGpBRkE5NHpLRXlDRmJta2d6aWszdDkwZHZKNWNOdFhDXzdDU3BRV0MtVXdHQVlRbk0xc1dRcVZYZk04LW1lcEVpamViT3FsNVVDa3V0c1dwZW9SdjJvQTV5em9KYi1YNzR5WnR3ei1rQ2locjhnR3A2RjdPMWg1Q0lDMDN3QjZBOEpaQ0d0MDlyZXZZeEU4VkJ4Tld4WkNLZ09HSEtxcWpGTTBLTQ?oc=5",
           "pubDate": "Mon, 28 Sep 2026 06:22:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Record high support for New Zealand Greens boosts chance of centre-left coalition, poll shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVGhWdEFrbWhiRjE4RFpTXzVld3E0bGcxREw4TjJMY01WMGN4dnlndmJ4YWR1cV96dUx5eXA4ckNldlcweDl5WG1SWml5OGVuU0szQUV6SzNxM3ZlVkp1OUNpazA0RFczd0V4SW9HLWl1WnhGZ0E4dVJ0WkI1MV9hcmNQZHJDYVV1MW5XS01uLXB4N3NwS0JMUWpISFIteU1vYkphbU54Z252NGk1ZkFCYUI4SEt4N01hM2NFMjBnMENtOWN4aFZPaUJfQ1BJMWM?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 06:15:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T09:25:23.367Z"
+      "updatedAt": "2026-09-28T09:50:14.991Z"
     }
   ]
 }
