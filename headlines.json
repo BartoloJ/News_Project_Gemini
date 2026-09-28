@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-28T13:25:13.524Z",
-  "lastChecked": "2026-09-28T13:25:13.524Z",
-  "lastUpdated": "2026-09-28T13:25:13.524Z",
-  "generatedAt": "2026-09-28T13:25:13.524Z",
+  "fetchedAt": "2026-09-28T13:50:16.144Z",
+  "lastChecked": "2026-09-28T13:50:16.144Z",
+  "lastUpdated": "2026-09-28T13:50:16.144Z",
+  "generatedAt": "2026-09-28T13:50:16.144Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T13:25:12.369Z"
+      "updatedAt": "2026-09-28T13:50:15.207Z"
     },
     {
       "name": "NPR",
@@ -81,15 +81,9 @@
           "source": "NPR"
         },
         {
-          "title": "5 men arrested over suspected attack at a U.S.-run air force base are British nationals",
+          "title": "5 British suspects arrested, explosives found near U.S.-run air base. Iran denies role",
           "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
           "pubDate": "Mon, 28 Sep 2026 06:51:25 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Welcome to the 'Wild West' of AI in schools: Research is scarce, but experiments abound",
-          "link": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
-          "pubDate": "Mon, 28 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
@@ -109,18 +103,36 @@
           "link": "https://www.npr.org/2026/09/28/nx-s1-5965849/screens-teens-parents-social-media-safety",
           "pubDate": "Mon, 28 Sep 2026 05:00:00 -0400",
           "source": "NPR"
+        },
+        {
+          "title": "Schools are experimenting with AI with little evidence or policy to guide them",
+          "link": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
+          "pubDate": "Mon, 28 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T13:25:12.531Z"
+      "updatedAt": "2026-09-28T13:50:15.261Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "SpaceX’s supersized Starship launches toward orbit for the first time - AP News",
+          "title": "Oil prices get back to rising and knock down US stocks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRVVRNDh4OTNhYkdoZ3J2aWdBbFpXSjRacGpDWWl0dDUwNXB5d09KMUYweEpLSURiREdvM09IZ3Zhc0k3dVp3NWo3by1UU19BY2JjOU1pdXlxa1FFTzA0NTFIdXNMQmFlS3FubzByZ1JvX1l4eWFxRWtlUzQxNy10cEFGUXFCeFdNUGV5SEFrV1MtNEZkQkE?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 13:42:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "SpaceX’s supersized Starship launches into orbit for the first time - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjNWb0xCanlSdllFdHJENU1SQ0xacUt1LUdCb2ZsQ1ljN19OQjJXMUhCSG00Wks3OVZaRHRfbEVyTkFET29YMUJZVDI5Q24xa05FUVdMeTFUekJ5OVd3RjBMQzJjSDhxZDZtUFZaSjlnUi1GX2VhVmwwa2YwZnhwdjFWRDd6QTF6?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 12:50:00 GMT",
+          "pubDate": "Mon, 28 Sep 2026 13:33:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Congo’s Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHhqY2sxMy1CdFpVTmd5SFBWTWx2eEozaFl6NFZBR01jZjY3NWdxZzlBbzVVeW05VHJUcGI1b2ZDNGgwTXBMc2VUckNfSkhsMjdweUR0a25yNmsyeTdXZXpHZXFKOG9vMVBKcnYyNGFZUmcxa0w5LUd5Mm9iVEdZWGRfd2l2WVpVVk9kZUhBRQ?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 12:56:00 GMT",
           "source": "AP News"
         },
         {
@@ -130,52 +142,58 @@
           "source": "AP News"
         },
         {
+          "title": "Hurricane Polo could cause life-threatening flooding in Mexico’s Baja California - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWVWLXFpd0pCWGx3QUhlYjJObi1JeTNDX2duSm5XSURrQkNBYndMMHp4VGdYUnQ2TDBER0NIdzkxaGtXcXVBUFVmUHEyektXRzhYZURMNnZhaC04M0RwSVNxS29IUDhXWjZkNFRtcWs0YU9GVExJQVhEa2VRN3VLb3BJTS1hT3pXY0tZaG1aMWIwRUNPUTRqLUJ3dF9yeFpkSEk3MzQ5NTR5Wml2OXc?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 12:31:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
           "pubDate": "Mon, 28 Sep 2026 12:12:48 GMT",
           "source": "AP News"
         },
         {
-          "title": "Hurricane Polo could cause life-threatening flooding in Mexico’s Baja California - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWVWLXFpd0pCWGx3QUhlYjJObi1JeTNDX2duSm5XSURrQkNBYndMMHp4VGdYUnQ2TDBER0NIdzkxaGtXcXVBUFVmUHEyektXRzhYZURMNnZhaC04M0RwSVNxS29IUDhXWjZkNFRtcWs0YU9GVExJQVhEa2VRN3VLb3BJTS1hT3pXY0tZaG1aMWIwRUNPUTRqLUJ3dF9yeFpkSEk3MzQ5NTR5Wml2OXc?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 11:32:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "College football | Latest News & Updates - AP News",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 11:18:59 GMT",
+          "pubDate": "Mon, 28 Sep 2026 11:58:41 GMT",
           "source": "AP News"
         },
         {
-          "title": "Rescue teams in Nepal search for 12 missing after avalanche kills 4 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaVpiX3RCa3c4TUo5d1VoeS0wV3RfR0VESks4ZnNKeWdkaE5aQ2NfdXItalF4ZlhYUHJ3ZjVpNVBOdFJJMG5FRmJUU1BpVllOeHZFbXY4bi1XRXhnZkQxTTBfQ2R1LVY4VmlwN2VWV2w0aU4zdVBhRW82d0dOUkx0WW9yaXZoMnNMOFNCSjVGN0VQUXJOZm94MDd0S1ZUUQ?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 11:11:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "What to know as trials over the assassination of Haiti’s president resume in Miami - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMlFFc0dnUGNTdmI5ZUdwQzNDUWt5c280WWs0MUZCb3RxQmVXcVFuQ2swTVIzeEJGcmlVcWJrTm9qaHgtdmdlRE1CRkg1c1NQa0NFT1pDdmpweVBSbWZxX3ZZSHc3UXpOQ3VIZnh5VnNYV0ZaSEJ2TU9xQ1RtQW10VF9haDFVNmhLbVk3cVp1TjkxRjFFVnF1WXZLYTFtS2s0b0dN?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 11:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Wrestler Benjamin Satterley, known as ‘Pac,’ dies at 40 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzAtTVpRZjFLMnBpWGJEZEtBQU94cFY0bjlORWxwbkdFS1JUMVJ1em9IbHNBUndOQzE0NXk3UlJMWW0xcl9jVlNSNzdJd1FrTnpBc28xZ3lZRU5IaWNfNkRaWTRwZnllRGNuUFA3N2pUZ2JsTThRdmpZa1MycEh1SGFKZ3lUbDZ5LVVpWDlSX0MtU013MnR3?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 10:20:00 GMT",
+          "title": "Trump administration set to roll out lower fuel economy standards for cars, light trucks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXVTU01hNzViNXJveldRd3hrQkoycFhOTTdrWGJ3MjcxRkU2UkdsU01zZEhySjFMbmRLWDkzTlBqQmxpQ1ZKTVNBYXNhV0pwaHJCVk5raEVLdk5LZlpRSlpKNjg3VkJrQWdxQlBvcjRMWDJwUzQ0M0tVaUZ0cm5SX2Qwd1F0b2IwV0E3RmgtM3EwZHBiX1ZSdnhFSDNuUVVBN1JMcnp3S0E?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 11:40:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T13:25:12.995Z"
+      "updatedAt": "2026-09-28T13:50:15.727Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "SNAPSHOT Wall St opens lower as oil spikes after Trump rejects Iran peace proposal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5ieTU4M0RYMC1lQi0wbDVONnJJbW5NS3pya2xkLXUxSFF3ajh5ZWlER3B5ZW1IR0J3ZjRxZFFCTDd2ajh4ZnVHZ2xqY1U2c0pIamh2MGhzWVlIMVVieHpOXzg0bnJwRFlTaEg4dVdycUc1X25ZQlZkUUsxUGZ3TGc1RDlNWjg2U1RFQ3JEUWx2NGIxb0ZvZXJJb0F6MjcxOER2WHFIdmtSei1fZHdBS29YcGhvUFk?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 13:36:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Five suspects arrested in explosives case near UK airbase were British nationals - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXYwS1pBdDdVa1JYckZZdFNGeWpwdGRUR0hOX1NuMV9vOWFBYUlDbDAzdjFVbVZ1c2J1N0xrM0hPc2RvLVhlM2d5MlZ4WnJtOW9iSzJGNEw2UTJhR25tdWZKYzhucGVKZG1sRDYyZDZudmViaGRjMmdLNVdqS1NWZERRR3EyY1JxMG5tWUNDTTJpZFJxbHZkR0FqU3BPdFBpMTdGWmVWOGQzOEJq?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 13:20:10 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "SpaceX's Starship launches on 14th flight, first headed to orbit - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUxONEdtUHZ5SjVIV3RpTVhrdlIzVTRucmFYRThFZ014SGlwX2cxTk80MjB3UHc5c2ZmZTlkOE1kMDJLS1BCM2hyREJhdjVaMExEUXhUemw4UlB2NXJCTm1pdkphM0hXRFdVNDQ1UlBueXpYcTdtcmNwT3ZtcGpXWTlDVW0xUmowZmFpdzVFemlVbGtwckxIM3NzNkhEenhENUVkWXByU09TQW9rUlNBUUNocEtBQQ?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 13:01:44 GMT",
+          "pubDate": "Mon, 28 Sep 2026 13:02:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Red Bull sues Indian regulator over 'energy drink' label ban - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3ktcm05TTdiMTNLbXdycmcxQURvWnp4X1dVc09vLUVkUG1ua0NlQVNlbzdKOFdwZ0doekFpUWp0OUpJTkFYQmNBOW5Ic0c0MDRteHZYeUROOE9qS1RnV2hqdFY3U21nck1YRk5YdHpKTHNsaENTWDNMWnZxdTljMEdkaHhZWDYzMHMxcnV4Qi1BRGFMSHVYZ1F0elNDZGFmQU9jQ2xyWlVTUlZ2ZU5XMi05djBmS0ZhUUNBX0QteEVCQ1Y2M0E?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 12:59:46 GMT",
           "source": "Reuters"
         },
         {
@@ -191,12 +209,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Wall St to open lower as oil spikes after Trump rejects Iran peace proposal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5ieTU4M0RYMC1lQi0wbDVONnJJbW5NS3pya2xkLXUxSFF3ajh5ZWlER3B5ZW1IR0J3ZjRxZFFCTDd2ajh4ZnVHZ2xqY1U2c0pIamh2MGhzWVlIMVVieHpOXzg0bnJwRFlTaEg4dVdycUc1X25ZQlZkUUsxUGZ3TGc1RDlNWjg2U1RFQ3JEUWx2NGIxb0ZvZXJJb0F6MjcxOER2WHFIdmtSei1fZHdBS29YcGhvUFk?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 12:51:45 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "UK police say five arrested at airbase are British nationals - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONk93UTV0VmU2MTRiTHp0LXBrbnI0RTVabF9XYkstWm91LTZ0aFBnT0FzeTNENUtaakYwUlloc0M1SHFhSDVsQ09jNGlwQUtVM09iejRseHY1SVkxREx6aFRyYjRNU3JreGNRNXYxNVBhblZQN19OYW44X0hYdEE4d3J1TVlVcFJBOUNrbVBOT0xXYTFHeHoxaFhRNmF3bzRzV3U4bA?oc=5",
           "pubDate": "Mon, 28 Sep 2026 12:37:19 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzg4UzFUbWw0cThEbUEwYVdsdF9WVVpuSDZ0RkJjLWd1UE5XdVJFWjRKazNRU2lyVkxiX2xIZFplVnkxTTl4QUhnV1NaM21SdFNxTFBMYXVJMlJVU2lobmtWYkpqa2wyWlRPLWxuZTMtTzhRUVpHZ1V6VkRLS0psbzlQTWQwcGNpVXNuSGRYSjlCQU9sU3lXcXVteXk2ZmZf?oc=5",
           "pubDate": "Mon, 28 Sep 2026 12:34:28 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "What is known about arrests at US airbase in Britain - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbnV2QWZzNUNIR09FaDEtTFBwU0g2SmZwZ0U3YVNNd0kyVGFQTDFLU2Y1T1FSOUFnSVNHNmtoc2hCYklVeHg4QVJ0UDJPRndqZVBiV3h1U3ZsZmpRQzdELWdMejhzazZMenlmT3FrdkVaM0dBRlBieGRlWG1DRDVnOTB0bjhiT3ppNzZSaWFwc2tGMU83U2c?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 11:55:36 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "What comes next for North Korea soldiers transferred from Ukraine to South Korea? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVEZOX3k0QUF2VklIVEVuNjdxWV8taUtPNHBfcGhCMWh3Q3dzaXNvZGlPNjZfeWllWS0ySjlDeDBJSThFWVAyZU04Z1RwMXp1SmlaWF9SWVAtRktLSko0bkhBRm5ZUlFUSGtyazRpUGh4cUF4OWpjaTBncWN0RC1SVk85ZkJ4c29UOU9fTzMyZGQ2a1VKODBKWnRMUmJRS0RXd2h5NWM0SDRyeUlWLThvdnNsWFFIX0Q3YzZSYXRFbTI?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 11:55:29 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T13:25:13.524Z"
+      "updatedAt": "2026-09-28T13:50:16.144Z"
     }
   ]
 }
