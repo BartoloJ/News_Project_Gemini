@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-28T00:25:14.572Z",
-  "lastChecked": "2026-09-28T00:25:14.572Z",
-  "lastUpdated": "2026-09-28T00:25:14.572Z",
-  "generatedAt": "2026-09-28T00:25:14.572Z",
+  "fetchedAt": "2026-09-28T00:50:15.145Z",
+  "lastChecked": "2026-09-28T00:50:15.145Z",
+  "lastUpdated": "2026-09-28T00:50:15.145Z",
+  "generatedAt": "2026-09-28T00:50:15.145Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T00:25:13.343Z"
+      "updatedAt": "2026-09-28T00:50:13.828Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T00:25:13.567Z"
+      "updatedAt": "2026-09-28T00:50:14.090Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "House Democrats plan vast oversight of Trump administration. Impeachment is an option - AP News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcy10ZFE2SGc4eGtIcnVnWUNmQ0I3YTZJc3RwX21XNV9BOUpoVFBILURqSy1PRUNxeEtmVWZSRnFDYXBCbHVCdzRKZU9CdHg2bW5qaVhTY0lqTzhDTE0ySlZqaDJnbS1jSlF5aXE1ZzNCdFhUV0xheFY1dV9zLUNJVHZQdXNZcndoV3ZJYmY2SjBSdlJXQUhIeEhJYVJTS2Y2OGt5bXE4cEFBMUdfaDRvRDg0ZzZjMHFaLVB4MDVBLWpZNTFLa29V?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 00:17:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Oregon QB Moore sustained concussion on late hit; USC suspends LB Stephens for 1 game for hit - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmdLdW5rbERuMlBFc05BdVh6Rjd4OVplQlc0WV9QbThyQXlCNDNOdGFwN0FqejY3TGxPQ0xwNlJYMEhiZi1vVW5iWXdhdDJRM1ZuWFM4bFRMU3FkTzBDbHZnWmtWX240NWNLby0xSmFBQmgtY1FrVmtSSXhsdEQxSmpCcHhXbktWQ1FjN0RnMGs?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 00:07:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump to travel to Ohio to stump for Sen. Jon Husted as the Republican faces competitive challenge - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXRCWjlBRXdzOWx5SjFQWHJXeGJXTGpreTc5TVZwRDlTaklyQTNRVjNrR194UGZDT3pkQ3UtdXJfb1BwNEJnc0xJNXBpR2FaTktZY1JldnFaaVhnR1psaEJnLV9nMzdhSDhub1BxZ3Y0VllaSGNhWlFWZHR1bFk2OU12Y2FGTldBOWpkbFRuZ19kc2la?oc=5",
@@ -136,9 +148,15 @@
           "source": "AP News"
         },
         {
+          "title": "Venezuelans rally to demand opposition leader’s safe return and presidential elections - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVhaQWJoOU9sWENtLU90VERYZUlOYTRiaTRyUjJSTzhDZjZEMV8yRWlTNDZSN0lkR2EwdFE4SkFnOWFqYU5WYllTQWdDZjVGTUJDRFR1ZG1NY0JQNmRhd2VEUm5lck5oTjZNZUp2M2NxdHdBMGNmRHd2dzhjbjY3a2NaTlZEZndWU0RUQV9vYndBNEFSSnFxYmt5LVBuYTd2Z1FDNU5rU1dUYTQ?oc=5",
+          "pubDate": "Sun, 27 Sep 2026 22:51:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Americans rally in singles to win the Presidents Cup for the 11th straight time - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGhyWXlabThOV1R0czJOb0s0a1Y5UlNzQ1RCVHhfQVhOTnBpNDhIbFliMVJ2aUpock5zTkk0X1FhT3g0Skh4YWcxVVQwcGtQaU9obFVlUjROWmJQQmZaazVzd2VBYjB1RnhMY1ZoUldtWVRmWmJnN21TRFVRUHRDSGdfc0FSMEhXdnY2ZXA2UjVlWlFockQtQmY4RF85VVFSaTFV?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 21:59:00 GMT",
+          "pubDate": "Sun, 27 Sep 2026 22:43:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,28 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUpkTUxROHJiQ01Ndm9Zc2JDUktneERoUVY5b19mazFXXzlLYXc4T05CZW54R1BFazUxVFVoSTQ2bHJIVHdJZlQ1c19NUFAtQ05wVG0weVdpZzlIaVc0RmdqSEV0anNmUDU5eEtjamJwRUt1UnJPU0o1RWxKcVdWT0VhQXVmYnpwSk9iNjJmMWUxcmw2MnVpTWxRTWtTYlZUMWk3R0FyVVZ6N2s?oc=5",
           "pubDate": "Sun, 27 Sep 2026 21:46:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Sheriff: 12 teens wounded in a shootout at a birthday party in Georgia park - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVhwcGlWNW9yTGMyWEs0ZjJfTUxwaURTemxwN3VkQUZCVHVmbkd6TUxkOW1iOVV6ak1MMXhjWGJRalN4NFRsbGVZcUdpbmdBeVdMem1LRHZSQlUwWVZKQm1fZ1N2MlIzOURGQ3UtLTR1elprNC1XV0hGX0xZVVNWMHZDS2xxMExz?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 21:44:15 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "From collapse to clinch, Phillies put last-week meltdown behind them and win final NL wild-card spot - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNnNITkhnQS16Qjlxa24yVEhrQUdPQk1OY1FqMW1xRkw0d2FVRnViZnJNSDk5dWNWd0dsY1F2NS1jVURJblNvMkwxclFPNzVzVnFYOHJqRE9pN0tqX09ZNzNCeDBxV1ZMMkI4N3NHLU5XZloyNllaVmhKRkZXbGExZklIUk1ON2dkMkgzaUJzNE1aOGNsYjdRSHRTM1hNay1qZnc?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 21:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Dolphins’ star RB De’Von Achane hurts knee vs. Chiefs; team awaiting word on severity - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0UxOFFnNDFyczVLMEJwR0RSbU1fcUtUbS1EUm1qdkpGM2dhbGdYblVLekw2MVk1NGFqbjl3RXRQR3Q5bTNoYnIxVklkUGJsbDhrUFFlZlpqdHpZUmdyS3RmVFNkUU1tQl82NERVcktmRnB3OGxEUlFBWVVnMnRkOFRORFRQN0lQOWJkVEE5MA?oc=5",
-          "pubDate": "Sun, 27 Sep 2026 21:17:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T00:25:14.125Z"
+      "updatedAt": "2026-09-28T00:50:14.643Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T00:25:14.572Z"
+      "updatedAt": "2026-09-28T00:50:15.145Z"
     }
   ]
 }
