@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-09-28T06:25:12.559Z",
-  "lastChecked": "2026-09-28T06:25:12.559Z",
-  "lastUpdated": "2026-09-28T06:25:12.559Z",
-  "generatedAt": "2026-09-28T06:25:12.559Z",
+  "fetchedAt": "2026-09-28T06:50:15.029Z",
+  "lastChecked": "2026-09-28T06:50:15.029Z",
+  "lastUpdated": "2026-09-28T06:50:15.029Z",
+  "generatedAt": "2026-09-28T06:50:15.029Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Two mass shootings in South Africa leave 28 dead",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 28 Sep 2026 06:46:03 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
+          "link": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 28 Sep 2026 06:22:52 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
           "link": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 27 Sep 2026 21:16:31 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
-          "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 27 Sep 2026 21:00:06 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Watch: The ups and downs of SpaceX's 13 Starship test flights",
-          "link": "https://www.bbc.co.uk/news/videos/cm0e30lpngxpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 27 Sep 2026 20:05:07 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T06:25:11.556Z"
+      "updatedAt": "2026-09-28T06:50:13.977Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T06:25:11.731Z"
+      "updatedAt": "2026-09-28T06:50:14.006Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "College football | Latest News & Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 04:13:42 GMT",
+          "title": "Rain eases in Bangkok but persistent flooding forces thousands to leave home - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjV2OVVsQkF6aEpLM3FOYlBlSVpybTdOenZ2X0o2clBNTF94Nm51eDY5Q08xUV9RZENjMklNdG5KMGtaSzhGNjFBUGpWLXhkZF81cTRkMkZFa2NISnU1d2VmQnd4NkdJc1JjN0hIVWVmd21hWElUbTJlOEdXWTBCdVlkVy1mNU5Vcl9LdTl5Zk4wdHhheW94S1JWWG4?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 06:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Serbia’s populist President Vucic resigns to run for prime minister at early vote - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0VYLUk5aFBhcl81NjZxZFlRVzNoMXNacDlZOGhkTVVwRkY0TDE4ekpnSVFKMnNTT09SM3pqUWctTDF1cEhycm93V0MxWUdhTmcwbGxoZUg5RU9rVnBVX01rNm4zQkUtZlc3d0xkV1FZM3loUzZLcjNZVmhZZmV4XzRUVkxoMm9INmlfYWNyYkVKU1RXUHVKMEV5a3d1Qmc?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 04:35:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Trump administration set to roll out lower fuel economy standards for cars, light trucks - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXVTU01hNzViNXJveldRd3hrQkoycFhOTTdrWGJ3MjcxRkU2UkdsU01zZEhySjFMbmRLWDkzTlBqQmxpQ1ZKTVNBYXNhV0pwaHJCVk5raEVLdk5LZlpRSlpKNjg3VkJrQWdxQlBvcjRMWDJwUzQ0M0tVaUZ0cm5SX2Qwd1F0b2IwV0E3RmgtM3EwZHBiX1ZSdnhFSDNuUVVBN1JMcnp3S0E?oc=5",
           "pubDate": "Mon, 28 Sep 2026 04:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 03:43:40 GMT",
           "source": "AP News"
         },
         {
@@ -148,30 +160,24 @@
           "source": "AP News"
         },
         {
-          "title": "Mexico's Baja California braces for major Hurricane Polo as Hurricane Nolo still threatens Hawaii - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkVfdWVCUjVtNkdnYVNkVFNyRE5hS25qNThhZzE0YVdQdWtxMENrS0NnamF1X1htU09qQWVicWl2NEtnaW1SbXAwclpsZUg2WURCaWRNQ0M2c1NKQjBPVGZjRVV0eFc3QjRxeVRDYjdRajY5Q09KX1NsZjVSZUNWV1gxQ3d4VmwxRElOYVRCVDBSV2pkN0FzbA?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 02:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump’s golf tour takes him back to the Presidents Cup - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3F5dUFmc0o1bk9CTE5OaUNTdmx3LXNmeDhkSnlQWm5nRjBka3FhMTBhZW00YnM2UFVldjVpSWJNcHRvVEp5UThHbjVadmN1eEIwbEpNRWZUUkl4ZnVjcVN2dXZmWkdIeVRKcmZTbmcxQWlDSzBtYnNEWTl2NWUtWUVuLVlWVWV1S1g1VzF5cE9kMENxUHlIeDNuQkdZM1FJa3MtSQ?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 01:56:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "New Jersey Republican Tom Kean Jr. and Democrat Rebecca Bennett clash over war in Iran, tariffs - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1hZbXQwQ081U1dwTWEwZG5zLXlZcFVMbzdvaXRVd2loUVlxVjJpN0Z2NENZamJiRmd2VFV1N3BCU0RrVnJzVE5QWTdjdFBSNmN6a2pGM3FUSjEwLUdhcFh3QmI0R1lNdkFJdHhZa1FkSzFkVjhRdUIwY0dGMllqQ2hCVUlEblctZDU4ODQ4VF9OeWVoOUhlc3FKQVhaeDFZdHc2cGl1U21WTFg5NWszNg?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 01:42:00 GMT",
+          "title": "Inside Malaysia’s gambit to make its pungent durian the most wanted - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2NHWm51dGltWE53Nk1QMHFUNHV1NEdCUi1uWjNnLV9kUkxhSGhqc2lBaXBERUc3S0VGalNGNUZvNS1pU2VETjhFWmthcVdMbTB0eFJZQjRCTTFzNmxoQ2NEOTYxRkZ1c20xWWlGSjVXdGhIMVNUREk2dzFoVEx2OF8xOXNlT3l1dG1RMU5TV2V1UDlhb0dlQWZLam9yR3lySE9KQXZOQVI?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 02:22:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T06:25:12.146Z"
+      "updatedAt": "2026-09-28T06:50:14.540Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Saudi foreign minister arrives in Washington for talks with Rubio - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVVJqTlphdG95ZW84dGEzcXFwZTNrcVZWeS04TEQ5THdTNHg4UnE5NWlxbUVqRlF3ZHVvNnVpTEhMOTV2MVhMNEMxRk9DNTFXMGQ5ZUhiXy11RzZqSUFnVUc2LVhyRF9Ia2lBM3dJT1F5LTBEUlFyV21QYmtob0pTX09hb3VTVW9hTXF3cG5pVWhfYmdESHIzREZlMmcxSEVlQ0VUNHYyVU45bDRyc3lqNVVR?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 04:38:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Morning Bid: A new neutral rate, much like a decades-old one - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLWxFSDhMT05mek9pUVAtTGpNTExJVmQ3MHYxWlE2R3h6VU9rX3JKSFJGcnRwSmJiQ2h5WDBadVNOWmYzVmtRWlYxQ2pWcGlZaFlvVTBRNTZHOXZTaTVkaTZmNW5NMXpOaW9ISHNzb0x4N3puWEZUX0RVQzJRdGFERm91dw?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemZ4LWt4bll1Q1B6OUc5VjdrMklzeFZfd0dOVW4yZGd3ZGpoTzV3S2YtVGd2LWFHcE1JamNOWUpBeHJlNTFsWXQ1US14OWp2dHpkTFZwX1NZN1pNRGV5bWtieWdONXpyUFhLaVE5d3VlRnpuYmRaeTduV3RiUG5SOE1NSVpsN000R3hVTXhLMlFpei1xODZKTGhCYzVaVy1hSGZ1S1pMYVdULUQwdU9WZHlMTGJxTkx6NjFMSjkwaTZnZGJ3cjRv?oc=5",
           "pubDate": "Mon, 28 Sep 2026 03:15:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "China says US trade truce extension creates space to advance talks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaTBqVzRGcGNNZ2M5YWVLbUQxanlOVWhxYU5lWjNuYzJSWmtHV2lQTWdSUXlpTGM3M1UzU2JUckNLUGxIc3dFVWx5WlExNnotSmtQblE4UnM0Sk1OVnQycjVkR0ozUlpzMW5MMExHNll4NDR2dXpfWTNCMVpQT0docjI1SHFDeFdwYnZGVlVocXhzTy10WWViRk54VklyNzNiRFczXy04aURCdVdmSEdNbjNrRHpXNXM5LWRCZzJQajZVMVBx?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 03:07:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T06:25:12.559Z"
+      "updatedAt": "2026-09-28T06:50:15.029Z"
     }
   ]
 }
