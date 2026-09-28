@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-28T13:00:19.897Z",
-  "lastChecked": "2026-09-28T13:00:19.897Z",
-  "lastUpdated": "2026-09-28T13:00:19.897Z",
-  "generatedAt": "2026-09-28T13:00:19.897Z",
+  "fetchedAt": "2026-09-28T13:25:13.524Z",
+  "lastChecked": "2026-09-28T13:25:13.524Z",
+  "lastUpdated": "2026-09-28T13:25:13.524Z",
+  "generatedAt": "2026-09-28T13:25:13.524Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T13:00:18.465Z"
+      "updatedAt": "2026-09-28T13:25:12.369Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "SpaceX's Starship launches on first orbital mission from Texas",
+          "link": "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa",
+          "pubDate": "Mon, 28 Sep 2026 09:15:29 -0400",
+          "source": "NPR"
+        },
         {
           "title": "What we know about the suspected U.K. terror plot. And, why the Gulf remains in limbo",
           "link": "https://www.npr.org/2026/09/28/g-s1-145248/up-first-newsletter-uk-us-air-base-iran-strait-hormuz-media-outlets-cnn-trump",
@@ -81,14 +87,14 @@
           "source": "NPR"
         },
         {
-          "title": "What to know about the $810 million in spending canceled by President Trump",
-          "link": "https://www.npr.org/2026/09/28/nx-s1-5982739/what-to-know-about-the-810-million-in-spending-canceled-by-president-trump",
+          "title": "Welcome to the 'Wild West' of AI in schools: Research is scarce, but experiments abound",
+          "link": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
           "pubDate": "Mon, 28 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Welcome to the 'Wild West' of AI in schools: Research is scarce, but experiments abound",
-          "link": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
+          "title": "What to know about the $810 million in spending canceled by President Trump",
+          "link": "https://www.npr.org/2026/09/28/nx-s1-5982739/what-to-know-about-the-810-million-in-spending-canceled-by-president-trump",
           "pubDate": "Mon, 28 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -103,24 +109,42 @@
           "link": "https://www.npr.org/2026/09/28/nx-s1-5965849/screens-teens-parents-social-media-safety",
           "pubDate": "Mon, 28 Sep 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/09/28/nx-s1-5979667/morning-news-brief",
-          "pubDate": "Mon, 28 Sep 2026 04:44:29 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T13:00:18.782Z"
+      "updatedAt": "2026-09-28T13:25:12.531Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "SpaceX’s supersized Starship launches toward orbit for the first time - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjNWb0xCanlSdllFdHJENU1SQ0xacUt1LUdCb2ZsQ1ljN19OQjJXMUhCSG00Wks3OVZaRHRfbEVyTkFET29YMUJZVDI5Q24xa05FUVdMeTFUekJ5OVd3RjBMQzJjSDhxZDZtUFZaSjlnUi1GX2VhVmwwa2YwZnhwdjFWRDd6QTF6?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 12:50:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Netanyahu meets Emirati leader in a secret weekend trip to Abu Dhabi, and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTFEOXNVSFlsb2xMS3dPWklqX1UwMEpMa1dzLXFFQWlZUHlTc0YxNy02eVJoakRuNjNMMzN3NWN0Y0p1WGlIVzZ0NWdWd2Y0dUs1TmI1bVVENmtUOGFpZUdSeVFxMzZQWmxtYm9mZk85alZ0aGtMRFh4bkkzOFQzM2lDM2ZCem9rU0o1eGpBRXhvR2VubHpqN3RjT3pyMG5uVVEyOFRGZEU0WGhy?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 12:37:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 12:12:48 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Hurricane Polo could cause life-threatening flooding in Mexico’s Baja California - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWVWLXFpd0pCWGx3QUhlYjJObi1JeTNDX2duSm5XSURrQkNBYndMMHp4VGdYUnQ2TDBER0NIdzkxaGtXcXVBUFVmUHEyektXRzhYZURMNnZhaC04M0RwSVNxS29IUDhXWjZkNFRtcWs0YU9GVExJQVhEa2VRN3VLb3BJTS1hT3pXY0tZaG1aMWIwRUNPUTRqLUJ3dF9yeFpkSEk3MzQ5NTR5Wml2OXc?oc=5",
           "pubDate": "Mon, 28 Sep 2026 11:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 11:18:59 GMT",
           "source": "AP News"
         },
         {
@@ -136,52 +160,52 @@
           "source": "AP News"
         },
         {
-          "title": "12 teens wounded in a shootout at a birthday party in Georgia park, sheriff says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVhwcGlWNW9yTGMyWEs0ZjJfTUxwaURTemxwN3VkQUZCVHVmbkd6TUxkOW1iOVV6ak1MMXhjWGJRalN4NFRsbGVZcUdpbmdBeVdMem1LRHZSQlUwWVZKQm1fZ1N2MlIzOURGQ3UtLTR1elprNC1XV0hGX0xZVVNWMHZDS2xxMExz?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 10:43:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Wrestler Benjamin Satterley, known as ‘Pac,’ dies at 40 - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzAtTVpRZjFLMnBpWGJEZEtBQU94cFY0bjlORWxwbkdFS1JUMVJ1em9IbHNBUndOQzE0NXk3UlJMWW0xcl9jVlNSNzdJd1FrTnpBc28xZ3lZRU5IaWNfNkRaWTRwZnllRGNuUFA3N2pUZ2JsTThRdmpZa1MycEh1SGFKZ3lUbDZ5LVVpWDlSX0MtU013MnR3?oc=5",
           "pubDate": "Mon, 28 Sep 2026 10:20:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Mexico’s journalists have long faced bullets. Now lawsuits against them are rising - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeEdncGtDSTFkb0pTZUpfZTU5U0ttNVI0VDRFRXZLbllmdHFSSmpaQ2JNaEFoNGJNcU5ZVklmSVcwb0JOT3FRNFVfSWM4aXVUcGIzbWozTmIwcWZ5YmRJeXJaM3N1VVk5YUJZdjFRYWtmaU9IVEFiNE9ZbUE5M25YRjdqWHV5ZzBjUGJta09HOTVudFQxSUpBR0psaS1WWDJsM0E?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 10:02:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "People with Down syndrome and other disabilities find their rhythm in Indiana dance program - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOFJIMUdodno3ZWRjOUZWSnN3VjNudzBuWll5c1JRck1melRsb1J0U2xEU0xwbUt5RjJ2VlRyaUxBWE5KYlhIbkt3dzBmQUk2UHVnUWVfUjdkSnBIVFNudFI0UWtlM1BORW8zQUh4RlJULUJrNkRmaWJrR3NJWWlOeGhJYkRkbksxWDlQYmtOYlJtSUNoZVlZbkNIcGp1YTB5MGFPNFNRUnh6NlY2Vmc?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 09:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Congo Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHhqY2sxMy1CdFpVTmd5SFBWTWx2eEozaFl6NFZBR01jZjY3NWdxZzlBbzVVeW05VHJUcGI1b2ZDNGgwTXBMc2VUckNfSkhsMjdweUR0a25yNmsyeTdXZXpHZXFKOG9vMVBKcnYyNGFZUmcxa0w5LUd5Mm9iVEdZWGRfd2l2WVpVVk9kZUhBRQ?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 09:45:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T13:00:19.435Z"
+      "updatedAt": "2026-09-28T13:25:12.995Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Nvidia boosts share buyback by record $150 billion as AI boom fuels growth - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzg4UzFUbWw0cThEbUEwYVdsdF9WVVpuSDZ0RkJjLWd1UE5XdVJFWjRKazNRU2lyVkxiX2xIZFplVnkxTTl4QUhnV1NaM21SdFNxTFBMYXVJMlJVU2lobmtWYkpqa2wyWlRPLWxuZTMtTzhRUVpHZ1V6VkRLS0psbzlQTWQwcGNpVXNuSGRYSjlCQU9sU3lXcXVteXk2ZmZf?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 12:34:28 GMT",
+          "title": "SpaceX's Starship launches on 14th flight, first headed to orbit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUxONEdtUHZ5SjVIV3RpTVhrdlIzVTRucmFYRThFZ014SGlwX2cxTk80MjB3UHc5c2ZmZTlkOE1kMDJLS1BCM2hyREJhdjVaMExEUXhUemw4UlB2NXJCTm1pdkphM0hXRFdVNDQ1UlBueXpYcTdtcmNwT3ZtcGpXWTlDVW0xUmowZmFpdzVFemlVbGtwckxIM3NzNkhEenhENUVkWXByU09TQW9rUlNBUUNocEtBQQ?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 13:01:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Apple, Amazon face revived UK consumer lawsuit over product sales - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSlNVR0NibnVhb1I5T3pCODVCVDUwTUJyeHFKdE9UYzNXcTZMYmF1Ty1LQmZaTnRSa3JNSGU0WVFwaGJtRDE0d3NDQ1lGQ2dvd3BBX3BjalVMUHdhSEptUGFYWG1CTTl2ZmlFZXlBa2d5eVY3Y2lFUHBsWVNGS21WOFJYcmtJYmFvVy1UZ0dDNWk4SDR5dFUzVmN4U3lEeWp6amJSUlZVQlZqdXA5OGNNd3B3ZVV5eWEz?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 12:56:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Democrats to probe lucrative Trump family business deals if they win midterms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVEyT3VyN0paVEEwS1hrNVlLYk13T2ZKZHB0aGFnRW5HVngtNXI0OGhWVmJCR0o4TXJTRGpfMmFxQ1I4ZkNMQzQ3ZDczd0xQNHhBWHhGZDY5TEQzWmhPTHlHLVlFaGZXTFlNeUt4cjQ0c1V0dkRCSWRMOThJbW9scmVXZTN4MWRiMXpVQTdBZEtZUDU3U2d4NllpT3ZaenpFQXBJMFFVcjRoeFNrSVE4czNjQV8tRjNzVGJHN2FUbUMwM19qNEE?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 12:55:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St to open lower as oil spikes after Trump rejects Iran peace proposal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5ieTU4M0RYMC1lQi0wbDVONnJJbW5NS3pya2xkLXUxSFF3ajh5ZWlER3B5ZW1IR0J3ZjRxZFFCTDd2ajh4ZnVHZ2xqY1U2c0pIamh2MGhzWVlIMVVieHpOXzg0bnJwRFlTaEg4dVdycUc1X25ZQlZkUUsxUGZ3TGc1RDlNWjg2U1RFQ3JEUWx2NGIxb0ZvZXJJb0F6MjcxOER2WHFIdmtSei1fZHdBS29YcGhvUFk?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 12:51:45 GMT",
           "source": "Reuters"
         },
         {
           "title": "UK police say five arrested at airbase are British nationals - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONk93UTV0VmU2MTRiTHp0LXBrbnI0RTVabF9XYkstWm91LTZ0aFBnT0FzeTNENUtaakYwUlloc0M1SHFhSDVsQ09jNGlwQUtVM09iejRseHY1SVkxREx6aFRyYjRNU3JreGNRNXYxNVBhblZQN19OYW44X0hYdEE4d3J1TVlVcFJBOUNrbVBOT0xXYTFHeHoxaFhRNmF3bzRzV3U4bA?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 11:57:30 GMT",
+          "pubDate": "Mon, 28 Sep 2026 12:37:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nvidia boosts share buyback by record $150 billion as AI boom fuels growth - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzg4UzFUbWw0cThEbUEwYVdsdF9WVVpuSDZ0RkJjLWd1UE5XdVJFWjRKazNRU2lyVkxiX2xIZFplVnkxTTl4QUhnV1NaM21SdFNxTFBMYXVJMlJVU2lobmtWYkpqa2wyWlRPLWxuZTMtTzhRUVpHZ1V6VkRLS0psbzlQTWQwcGNpVXNuSGRYSjlCQU9sU3lXcXVteXk2ZmZf?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 12:34:28 GMT",
           "source": "Reuters"
         },
         {
@@ -191,38 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Protesters demand Spanish government limit evictions after pensioner forced out - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFNVRVdoR0lmSmFhcTNjd0FUZDRtSTluNG5OMXJDLXVmTk4yWGw0WHVfQ001dS1IeHlvQmEtZXp4QW9KcU84WE1uRVEwdVdMQTJ4NGJxQTByd0ZRaWVTQ2c4RFI2dGpSVjhTalVncmpuOUxETzFBSl9BUldfeGZLZHFMbmczUzU3VVk1NldCSG01bmdOOUpCdV9mRWVQZm56aU5JcmEtZFd4NElnYnNJb29FR2k?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 11:51:24 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Macron invokes Europe’s Judeo-Christian foundation as Leo visits - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbERRRVQwNzAxb0ZpZ1lrME5OaTZSVW5fRlRBSk44SGJNamVjVGpqOWhmRnpxQWVBdUhROTh2WkhTSVp0WVV2NXB3amttUmJCSkp3UHdhYnhJQV9XekViNE5sSXhWSGl0U09qb3JSdEdsMjVwMW83ZERoSnBoM3BET1hPSDVmMm56RDNSbC1OY0NKNS1hLXdRNEVMSUZOMUw5Tk5GaQ?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 11:36:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Apple and Amazon face revived UK consumer lawsuit over product sales - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSlNVR0NibnVhb1I5T3pCODVCVDUwTUJyeHFKdE9UYzNXcTZMYmF1Ty1LQmZaTnRSa3JNSGU0WVFwaGJtRDE0d3NDQ1lGQ2dvd3BBX3BjalVMUHdhSEptUGFYWG1CTTl2ZmlFZXlBa2d5eVY3Y2lFUHBsWVNGS21WOFJYcmtJYmFvVy1UZ0dDNWk4SDR5dFUzVmN4U3lEeWp6amJSUlZVQlZqdXA5OGNNd3B3ZVV5eWEz?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 11:31:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Explainer: What comes next for North Korea soldiers transferred from Ukraine to South Korea? - Reuters",
+          "title": "What comes next for North Korea soldiers transferred from Ukraine to South Korea? - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVEZOX3k0QUF2VklIVEVuNjdxWV8taUtPNHBfcGhCMWh3Q3dzaXNvZGlPNjZfeWllWS0ySjlDeDBJSThFWVAyZU04Z1RwMXp1SmlaWF9SWVAtRktLSko0bkhBRm5ZUlFUSGtyazRpUGh4cUF4OWpjaTBncWN0RC1SVk85ZkJ4c29UOU9fTzMyZGQ2a1VKODBKWnRMUmJRS0RXd2h5NWM0SDRyeUlWLThvdnNsWFFIX0Q3YzZSYXRFbTI?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 11:29:48 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran link examined as UK police quiz five men held at airbase used by US - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXYwS1pBdDdVa1JYckZZdFNGeWpwdGRUR0hOX1NuMV9vOWFBYUlDbDAzdjFVbVZ1c2J1N0xrM0hPc2RvLVhlM2d5MlZ4WnJtOW9iSzJGNEw2UTJhR25tdWZKYzhucGVKZG1sRDYyZDZudmViaGRjMmdLNVdqS1NWZERRR3EyY1JxMG5tWUNDTTJpZFJxbHZkR0FqU3BPdFBpMTdGWmVWOGQzOEJq?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 11:29:10 GMT",
+          "pubDate": "Mon, 28 Sep 2026 11:55:29 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T13:00:19.897Z"
+      "updatedAt": "2026-09-28T13:25:13.524Z"
     }
   ]
 }
