@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-28T14:50:16.310Z",
-  "lastChecked": "2026-09-28T14:50:16.310Z",
-  "lastUpdated": "2026-09-28T14:50:16.310Z",
-  "generatedAt": "2026-09-28T14:50:16.310Z",
+  "fetchedAt": "2026-09-28T15:00:26.342Z",
+  "lastChecked": "2026-09-28T15:00:26.342Z",
+  "lastUpdated": "2026-09-28T15:00:26.342Z",
+  "generatedAt": "2026-09-28T15:00:26.342Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T14:50:15.104Z"
+      "updatedAt": "2026-09-28T15:00:20.342Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T14:50:15.355Z"
+      "updatedAt": "2026-09-28T15:00:25.379Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Coaching mistakes in the final seconds cost the Cowboys against the Ravens - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMC1CYVZ4VF90RXQ4akxCZVlpTjZtd1BiaC14bVBReGlDZnZBdkpjWWFlMk44T1lya1JtdW9YTVdUS3hodGg0VjE3NXNfZlpFOVZfLUZEVUlHNmJLSHZ4QUQtUmdqazFpUVFhbThYVVd5MFNfa1ZCbm9BZElyMzhLdm1IcnIzQnlrcHRodUsteFhlQm1hYWZGRFduVzBwdVk?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 14:34:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "SpaceX’s supersized Starship launches into orbit for the first time - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjNWb0xCanlSdllFdHJENU1SQ0xacUt1LUdCb2ZsQ1ljN19OQjJXMUhCSG00Wks3OVZaRHRfbEVyTkFET29YMUJZVDI5Q24xa05FUVdMeTFUekJ5OVd3RjBMQzJjSDhxZDZtUFZaSjlnUi1GX2VhVmwwa2YwZnhwdjFWRDd6QTF6?oc=5",
@@ -158,71 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
           "pubDate": "Mon, 28 Sep 2026 12:12:48 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "College football | Latest News & Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 11:58:41 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T14:50:15.820Z"
+      "updatedAt": "2026-09-28T15:00:25.903Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "SpaceX's Starship reaches orbit for the first time, deploys Starlink satellites - reuters.com",
+          "title": "UK police release five on bail after arrests at airbase - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONk93UTV0VmU2MTRiTHp0LXBrbnI0RTVabF9XYkstWm91LTZ0aFBnT0FzeTNENUtaakYwUlloc0M1SHFhSDVsQ09jNGlwQUtVM09iejRseHY1SVkxREx6aFRyYjRNU3JreGNRNXYxNVBhblZQN19OYW44X0hYdEE4d3J1TVlVcFJBOUNrbVBOT0xXYTFHeHoxaFhRNmF3bzRzV3U4bA?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 14:47:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump to unveil planned $15 billion Iowa steel project - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzlRa1o0d2xQUGs4MFBWWmNOVUlwYUUtbjBLTFE4Si10R0dodU1fY2QtVGxBaDRhVkx3d1RLMGhhbm9VbDM1VmhzdFU4cDFPclM3QjZKSlNUUDZpODNTTWZLRWVjeXhqZXR6SlFfQWFLTmlEbTVOWkd4REJYazhXTFFVOXlwTW5jYXV0c3dUVTFmUFdFRWVva2ZNNA?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 14:32:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "SpaceX's Starship reaches orbit for the first time, deploys Starlink satellites - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUxONEdtUHZ5SjVIV3RpTVhrdlIzVTRucmFYRThFZ014SGlwX2cxTk80MjB3UHc5c2ZmZTlkOE1kMDJLS1BCM2hyREJhdjVaMExEUXhUemw4UlB2NXJCTm1pdkphM0hXRFdVNDQ1UlBueXpYcTdtcmNwT3ZtcGpXWTlDVW0xUmowZmFpdzVFemlVbGtwckxIM3NzNkhEenhENUVkWXByU09TQW9rUlNBUUNocEtBQQ?oc=5",
           "pubDate": "Mon, 28 Sep 2026 14:27:36 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Red Bull sues Indian regulator over 'energy drink' label ban - reuters.com",
+          "title": "Red Bull sues Indian regulator over 'energy drink' label ban - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3ktcm05TTdiMTNLbXdycmcxQURvWnp4X1dVc09vLUVkUG1ua0NlQVNlbzdKOFdwZ0doekFpUWp0OUpJTkFYQmNBOW5Ic0c0MDRteHZYeUROOE9qS1RnV2hqdFY3U21nck1YRk5YdHpKTHNsaENTWDNMWnZxdTljMEdkaHhZWDYzMHMxcnV4Qi1BRGFMSHVYZ1F0elNDZGFmQU9jQ2xyWlVTUlZ2ZU5XMi05djBmS0ZhUUNBX0QteEVCQ1Y2M0E?oc=5",
           "pubDate": "Mon, 28 Sep 2026 14:25:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Mexico's Pacific coast braces for Hurricane Polo's life-threatening landfall - reuters.com",
+          "title": "Mexico's Pacific coast braces for Hurricane Polo's life-threatening landfall - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUGJZek5MU1FpT2NBbjZZWGd5dkNVd0tqZUVacWxsNi1sUUJuTUJKNy1aUmNxeUd1UEt4WWtnTzFUOU1rdzJxRDljeDFOQWw5YXo4Yk1CaEU3dlh1RUc1czZ5WWctTE0tTmNnbFVUZGsycDhkdTVYTEZKZ3JyS0VGTjkwS1JlUFRLaU1pZHZvaE5pRkFNeG9Mb0FocmVucWdHMkFqVEdYTU56a1dRZ2lqcHRiXzJ5NS1rX2R6eEcxeUxuMEZaWXc?oc=5",
           "pubDate": "Mon, 28 Sep 2026 14:22:02 GMT",
           "source": "Reuters"
         },
         {
-          "title": "From pickups to idle plants: automakers seek lifeline from defence boom - reuters.com",
+          "title": "Roche outlines plans to move towards autonomous AI labs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3ViaFhYX3l4Y3AxRWtCNG5FUjhVa1ZpRjFWQ0c1TVN1WGNMalliZWVxWGFrNGRHcGJLNENjcTBwWjkzWXVGV3hwTmFycV8wYzFsZDhtTWJTVklhZHgtQkw5NE1TaHJfdVFOX0JSenBsY3Q4ZWdHQ0hlZUtaNVZLaFlNc1c1UHU3SE0tUUZ4TE5NVjJEQS0tSk5QNDY0UTZYLWN4MWxKbnN5YjRlWFlIX0hlckY4NlBlVmFScnFNczByUQ?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 14:19:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "From pickups to idle plants: automakers seek lifeline from defence boom - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQW9jYVdEZ19vYkRWVC04bnJLU241NWtCby11TnJGMkEyX0RiT2JicGI2ZnZfM04yLWV2aW5vVjlUUTFzbmtnZnVKdk42VHkwLWZRUDlveC1LUWRqcERlX1BTUkNtT3BhUVNRUW1VMVN0a3pUb0czb0FWX1NxYk1zU19PWC12cjVub1IyVnJlTWNmQi1mcUNxVEh6OEpBMVhyUFhwb0FNeXZYTTdmdzFDa2ROc0Z2YjlVYW8xdTRaQlA?oc=5",
           "pubDate": "Mon, 28 Sep 2026 14:15:14 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wall St slips as oil spikes after Trump rejects Iran peace proposal - reuters.com",
+          "title": "Wall St slips as oil spikes after Trump rejects Iran peace proposal - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5ieTU4M0RYMC1lQi0wbDVONnJJbW5NS3pya2xkLXUxSFF3ajh5ZWlER3B5ZW1IR0J3ZjRxZFFCTDd2ajh4ZnVHZ2xqY1U2c0pIamh2MGhzWVlIMVVieHpOXzg0bnJwRFlTaEg4dVdycUc1X25ZQlZkUUsxUGZ3TGc1RDlNWjg2U1RFQ3JEUWx2NGIxb0ZvZXJJb0F6MjcxOER2WHFIdmtSei1fZHdBS29YcGhvUFk?oc=5",
           "pubDate": "Mon, 28 Sep 2026 14:06:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nvidia boosts share buyback by record $150 billion as AI boom fuels growth - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzg4UzFUbWw0cThEbUEwYVdsdF9WVVpuSDZ0RkJjLWd1UE5XdVJFWjRKazNRU2lyVkxiX2xIZFplVnkxTTl4QUhnV1NaM21SdFNxTFBMYXVJMlJVU2lobmtWYkpqa2wyWlRPLWxuZTMtTzhRUVpHZ1V6VkRLS0psbzlQTWQwcGNpVXNuSGRYSjlCQU9sU3lXcXVteXk2ZmZf?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 14:00:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Brazil's Lula widens first-round lead, remains tied with Bolsonaro in runoff polls - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUnRmazZ6aHJRa1ExSy02RWtGV2lmc1FpV2lnNk1Xa2dYZHZHRVdRVFBSbVl3V0I1NTdxbFdpNV90WHljQzFES04xUVNYOThQMFhzbmZyRlowOFVZUTU0YUZodjcxQjhHY1NiX1pLWXlKcjZsSUZuaDJGY1BYX2d1WmQtMXJzMlBkOWFSZndHeEtiUlNrU2hyM2s0YWM4Ri1qMWZsYTFtUE1DMGxPemJDX0N1NlVLZnd2X2RPSUxKRF91bHZGMU11dUpn?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 13:56:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump to unveil planned $15 billion Iowa steel project - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzlRa1o0d2xQUGs4MFBWWmNOVUlwYUUtbjBLTFE4Si10R0dodU1fY2QtVGxBaDRhVkx3d1RLMGhhbm9VbDM1VmhzdFU4cDFPclM3QjZKSlNUUDZpODNTTWZLRWVjeXhqZXR6SlFfQWFLTmlEbTVOWkd4REJYazhXTFFVOXlwTW5jYXV0c3dUVTFmUFdFRWVva2ZNNA?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 13:45:07 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T14:50:16.310Z"
+      "updatedAt": "2026-09-28T15:00:26.342Z"
     }
   ]
 }
