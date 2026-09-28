@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-28T08:25:21.777Z",
-  "lastChecked": "2026-09-28T08:25:21.777Z",
-  "lastUpdated": "2026-09-28T08:25:21.777Z",
-  "generatedAt": "2026-09-28T08:25:21.777Z",
+  "fetchedAt": "2026-09-28T08:50:15.415Z",
+  "lastChecked": "2026-09-28T08:50:15.415Z",
+  "lastUpdated": "2026-09-28T08:50:15.415Z",
+  "generatedAt": "2026-09-28T08:50:15.415Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump-Xi summit: What wasn't said might matter the most",
+          "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 28 Sep 2026 07:52:23 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Two mass shootings in South Africa leave 28 dead",
           "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 27 Sep 2026 23:01:37 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Inside Yemen's front-line city as Houthis battle for control",
-          "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 27 Sep 2026 21:16:31 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T08:25:20.634Z"
+      "updatedAt": "2026-09-28T08:50:14.251Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/09/28/nx-s1-5979667/morning-news-brief",
+          "pubDate": "Mon, 28 Sep 2026 04:44:29 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Mexico's Baja California braces for Hurricane Polo as Hurricane Nolo threatens Hawaii",
           "link": "https://www.npr.org/2026/09/28/nx-s1-5983317/hurricane-polo-hurricane-nolo",
@@ -103,71 +109,65 @@
           "link": "https://www.npr.org/2026/09/27/nx-s1-5978973/protect-college-sports-act-senators-athletes",
           "pubDate": "Sun, 27 Sep 2026 08:06:24 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
-          "link": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
-          "pubDate": "Sun, 27 Sep 2026 08:06:23 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T08:25:20.844Z"
+      "updatedAt": "2026-09-28T08:50:14.620Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - AP News",
+          "title": "Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5",
           "pubDate": "Mon, 28 Sep 2026 07:50:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Mexico's Baja California braces for major Hurricane Polo as Hurricane Nolo still threatens Hawaii - AP News",
+          "title": "Mexico's Baja California braces for major Hurricane Polo as Hurricane Nolo still threatens Hawaii - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkVfdWVCUjVtNkdnYVNkVFNyRE5hS25qNThhZzE0YVdQdWtxMENrS0NnamF1X1htU09qQWVicWl2NEtnaW1SbXAwclpsZUg2WURCaWRNQ0M2c1NKQjBPVGZjRVV0eFc3QjRxeVRDYjdRajY5Q09KX1NsZjVSZUNWV1gxQ3d4VmwxRElOYVRCVDBSV2pkN0FzbA?oc=5",
           "pubDate": "Mon, 28 Sep 2026 07:10:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Bo Nix and Talanoa Hufanga lead the Broncos past the Rams 30-26 in a Sunday night thriller - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzFTOC0tVko1Z1JQbzJLUlhvSFZRaGd1U01ndVpEMUlkTUJLQWFCY29zcmxaUkEyMzdUeFhuNXhEcnlyMnE2UE1DazJNRVVkNzI1VGFjbko1Rkd3MEY5eUl5aHhOUi1QWVhIQnJIRFVLZk9NV0Rla0t6ZDJjdmNnMHhLOGI?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 06:26:03 GMT",
+          "title": "World of Scams - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mZXgtQlhJSkJUSjdlYmZrR0s3S1R2dEp4YVRGa0pYLWJ2bmNJMkhCZWNreGloeXZIbmZQdzRHbW82bk96QTFqOXNrWGtBZWhV?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 06:35:06 GMT",
           "source": "AP News"
         },
         {
-          "title": "Rain eases in Bangkok but persistent flooding forces thousands to leave home - AP News",
+          "title": "Rain eases in Bangkok but persistent flooding forces thousands to leave home - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjV2OVVsQkF6aEpLM3FOYlBlSVpybTdOenZ2X0o2clBNTF94Nm51eDY5Q08xUV9RZENjMklNdG5KMGtaSzhGNjFBUGpWLXhkZF81cTRkMkZFa2NISnU1d2VmQnd4NkdJc1JjN0hIVWVmd21hWElUbTJlOEdXWTBCdVlkVy1mNU5Vcl9LdTl5Zk4wdHhheW94S1JWWG4?oc=5",
           "pubDate": "Mon, 28 Sep 2026 06:26:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "On Poland’s border with Ukraine, residents brace for a possible Russian hybrid attack - AP News",
+          "title": "On Poland’s border with Ukraine, residents brace for a possible Russian hybrid attack - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWZBd1d4bTJVOVhwNzZxTHRqUE1lV3F3a1dRWnN1aEFGNUs5Um8yX3BzQlFpdTBDSk1DOVFXN012dkNMeENwd3ZDTHdFNWxTOVNlOEZ2X3JWT29fd3M0QmJRSkRXNmxVV0FtRmNfMzNzN0xIbTRSa1FUOHRKZjFXTWxkVDRIcEdQdHlPQmF1OUZwbmg4NHFfSGU2eGpDZU15dnVoUndYRjVWREtka0hiS0dB?oc=5",
           "pubDate": "Mon, 28 Sep 2026 06:08:16 GMT",
           "source": "AP News"
         },
         {
-          "title": "College football | Latest News & Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 05:35:33 GMT",
+          "title": "Bo Nix and Talanoa Hufanga lead the Broncos past the Rams 30-26 in a Sunday night thriller - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzFTOC0tVko1Z1JQbzJLUlhvSFZRaGd1U01ndVpEMUlkTUJLQWFCY29zcmxaUkEyMzdUeFhuNXhEcnlyMnE2UE1DazJNRVVkNzI1VGFjbko1Rkd3MEY5eUl5aHhOUi1QWVhIQnJIRFVLZk9NV0Rla0t6ZDJjdmNnMHhLOGI?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 05:39:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Heavy rain and flooding kill at least 62 in northern India - AP News",
+          "title": "College football | Latest News & Updates - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 04:59:57 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Heavy rain and flooding kill at least 62 in northern India - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUW4zelZGT2xST0hEbDdBRmxQNjl4Z2N0TGEyRUw5Sm5TbEk1MXhpN2p6TjVId19rZVFfYnRXTzlkM1BFTmlvOWlLdWN3QndXMFpKeXdTWktYd0IxQWJEZlVVdUlHbnBVaXNWODFsTFhkaklMaWk5dGxvbmdDSTd3cmE4RjRDNngzVG5adHlYTQ?oc=5",
           "pubDate": "Mon, 28 Sep 2026 04:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Serbia’s populist President Vucic resigns to run for prime minister at early vote - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0VYLUk5aFBhcl81NjZxZFlRVzNoMXNacDlZOGhkTVVwRkY0TDE4ekpnSVFKMnNTT09SM3pqUWctTDF1cEhycm93V0MxWUdhTmcwbGxoZUg5RU9rVnBVX01rNm4zQkUtZlc3d0xkV1FZM3loUzZLcjNZVmhZZmV4XzRUVkxoMm9INmlfYWNyYkVKU1RXUHVKMEV5a3d1Qmc?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 04:35:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T08:25:21.364Z"
+      "updatedAt": "2026-09-28T08:50:15.048Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,24 @@
           "title": "UK police question five men held at airbase used by US to attack Iran - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXYwS1pBdDdVa1JYckZZdFNGeWpwdGRUR0hOX1NuMV9vOWFBYUlDbDAzdjFVbVZ1c2J1N0xrM0hPc2RvLVhlM2d5MlZ4WnJtOW9iSzJGNEw2UTJhR25tdWZKYzhucGVKZG1sRDYyZDZudmViaGRjMmdLNVdqS1NWZERRR3EyY1JxMG5tWUNDTTJpZFJxbHZkR0FqU3BPdFBpMTdGWmVWOGQzOEJq?oc=5",
           "pubDate": "Mon, 28 Sep 2026 08:08:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Swedish opposition leader Andersson says she cannot form government in current situation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0xVd08xc25HQjlSNU5kWTVzZVJ0T2FkaWtIbnR5WFVuekJObFNTdzJ4Y3dKUEVoVmZHZUpzVkZwV050WVNDeDhMZ3hjQlZaRXJDVExYSURDUGh1RFBHZHZNMDlGTW1jOVdfQWh5YlNOWEtUYzlvck00RFctVWRMNnZVU3BMSThpZldNVmpnTHVuMk9kY3JpenVqNkFYb3NvbXZCRDRmZzNFRnpKRFUxTDkzMGZZV1p2cDVPa01OYmY?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 08:05:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Japan top FX diplomat urges markets to heed 'very clear' warning on yen - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzFRTndpRkJHX2FfcTFFdHFvNVVrQU5MZVAxM0Z1T1p3TjRyaUtyNFRaNjRQQjQwYjJaVW5ocTlGYU1iU0w4WGNISjhWb0ZsWHpTYkZ5aEhPX1B1blRyak40X0FHMDdWdnUzSGFYczRrXzd1bXBPODRNbDdnN2NPcTZLZFpIaWhTRkQ0bVZIMGxGcFo0S1B1M3RrV0pWU1h6d0d6NC1SMkhwdl9ESGJiZFVXLWl4Mll4bUE?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 07:57:59 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Volcanic ash halts Italy's Catania airport for third day in a row - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNFhLcTVvVE5CMXVYb1l2U3dXanVBcmpYVnNnd3M4TWd5eFdlNDFaWEhOUTVCS2Y3Um1WazJvcWxCTHRWTVlkSzdIYlRvWFdCc1dyR0h6dWxDM2RNSl8teU5lZ1R2MGxRVnk5TzVacWVyOUxjMkZVVHFjMUt6bG53Q3lYWlVrTkE5SzlSVVZqRDN6dFZ1bmxtMU9tcWk5Z3pqLVMtX1JyU0dVV0VWRFRBMFNB?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 07:57:45 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVGhWdEFrbWhiRjE4RFpTXzVld3E0bGcxREw4TjJMY01WMGN4dnlndmJ4YWR1cV96dUx5eXA4ckNldlcweDl5WG1SWml5OGVuU0szQUV6SzNxM3ZlVkp1OUNpazA0RFczd0V4SW9HLWl1WnhGZ0E4dVJ0WkI1MV9hcmNQZHJDYVV1MW5XS01uLXB4N3NwS0JMUWpISFIteU1vYkphbU54Z252NGk1ZkFCYUI4SEt4N01hM2NFMjBnMENtOWN4aFZPaUJfQ1BJMWM?oc=5",
           "pubDate": "Mon, 28 Sep 2026 06:15:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "COMMENTARY: Cash-rich oil majors face post-Iran strategy rethink - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ21VRGFRWnc1czVkOUdJbGJ3ZmMwNGUtVTFmbkxJcFBWZWNXdnVUcUFFajJGNFJJSGkwYldyWi1PNFhzQlQtUjhaNzg4OE9QRTF1bXd5dkVGR3BzZUJCaVFweUxuSlJhRjZfank4Tl9Ec2ZveGJKdlFFWjZXbEFud0FOVVR6bmhzVmNqMm5fN2xQcnI5TEdtU25NX3p6QkxRbE5wM0RGa2pIVDZMWjhrMHV6UEZZMlNielBwLWVHWmtYWU5LTnZJ?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 06:00:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Thousands huddle in Bangkok shelters as Thai flood damages seen at $320 mln - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaTdpbHdoS0hWdy1aVkZYVVJ2M1N0QUxGS0Vva1ZwRS1RbDNwSzNJRXc2OXdOdFhzTGZiWklBbzRfdDh0bDJqSXhaWEx6Nm5vM081T3BUZlNLMlJKUl9CRjlfOXdtV01SNmZ0OTlTX25JSWtNaV9nTUYxNExTS0ZmQjJKVEg3Z3Ywa3ptOHl6X0xNeDIxN0NRLXBGQUVkY25Sa0Y4TWhlMXhRUmJObWIyYllKek5uY2ttT1YtYXdoTQ?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 05:49:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Congo's Ebola infections cross 8,000, government says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU1EwLTB4WkZhU1dMLWZTM2NfeVZOeXNOaTYwSERGR0V4N0NCUjF3Z29Cb2M5aDVJRmFYZ2h1T0JocVRmNjktTE1xb3k2MDA2azZQdVZnY3ZuSmtfUVd3TFBiZDN1RlM0Y3FkMmpvZXJNX2ljeGRFRWRlS29JSlBuUmpWcFVNM0c2U3NGRzYxa2tnZG55MzNHVkxicHNtNWRnc1J1bGtWOTFKeUxteXZTRmVRcF9zejR3dnNjTDIwNA?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 05:37:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-28T08:25:21.777Z"
+      "updatedAt": "2026-09-28T08:50:15.414Z"
     }
   ]
 }
