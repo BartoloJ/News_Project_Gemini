@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-09-29T23:25:17.948Z",
-  "lastChecked": "2026-09-29T23:25:17.948Z",
-  "lastUpdated": "2026-09-29T23:25:17.948Z",
-  "generatedAt": "2026-09-29T23:25:17.948Z",
+  "fetchedAt": "2026-09-29T23:50:17.740Z",
+  "lastChecked": "2026-09-29T23:50:17.740Z",
+  "lastUpdated": "2026-09-29T23:50:17.740Z",
+  "generatedAt": "2026-09-29T23:50:17.740Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+          "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 29 Sep 2026 23:33:34 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Chinese AI tool told researchers how to make bioweapons",
+          "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 29 Sep 2026 23:15:29 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "South Africa to clean up high-risk areas after 12 women killed",
           "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 29 Sep 2026 21:45:01 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-          "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 29 Sep 2026 21:09:00 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Journalist crowned king in Uganda after bitter succession dispute",
-          "link": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 29 Sep 2026 20:09:27 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T23:25:16.908Z"
+      "updatedAt": "2026-09-29T23:50:16.827Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T23:25:16.954Z"
+      "updatedAt": "2026-09-29T23:50:16.864Z"
     },
     {
       "name": "AP News",
@@ -130,6 +130,12 @@
           "source": "AP News"
         },
         {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 22:36:57 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Lindsay Clancy’s lawyer now questions whether there is proof she killed her 3 children - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWZZS3lCYTJxdHdYZGdBblpfMzMwaU1DaThtOUo2Q2Z1RGZLMzJyRWlFVTRkcjNRb05GZDJRNDUyeDFBVm5wZFJSdnAxSEFEM2s1d2hGQl9mT0tlTVpocjZ2SkJxcGJ3WDd1ZUljMUVuejFpUUZiUVprWV8xRlB5T0trZzZzRXRHYUZJcm9ObTd0UTFKb2J4Z2Y4b21YLWpKY3dz?oc=5",
           "pubDate": "Tue, 29 Sep 2026 22:07:00 GMT",
@@ -139,12 +145,6 @@
           "title": "Former ‘American Idol’ singer Caleb Flynn convicted of fatally shooting his wife - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWlESks1TnAxOFp2UXUtZ1JBMFMwUjlnUHVWNzU1MlBMa2RwMFk0S2xkcVlaekFLREhLUk9HZERFQzVuUUFOcVpNRTFySG9hZGlHamZNQnBJaTZNdVl2VTBtUU5rVE1CNDNaZkd1ZnRjWXdvLUdYTjM0elB0ckFJSlN0aWw5TmQwTXNXcmIzeENyQzBhTndjUHFENHc?oc=5",
           "pubDate": "Tue, 29 Sep 2026 22:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Supreme Court lets quick deportations to third countries resume for now while it weighs Trump policy - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2w1QXVuaHFPaVEyVFIxMkthZmVaZFhuVEc5Rm5aUUgxV25xVU9SVW9ad2YwMS1pX3l0Z0oyQjRPc202Zk8xNTZZNDRUUzFpb1FIRWg1b05xeDVmdmctTmlCZHZIYWhCVWI1SGFOQkZPendNeTE3amw2eGQzYVBUczRJd1pJNE15ZXlacHJtOWxTVzZSakxHZThDbWNSVXp5S3hxNUJYMFQ3WTVW?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 21:58:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T23:25:17.511Z"
+      "updatedAt": "2026-09-29T23:50:17.312Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "AI sector signed 'accord' on technology standards, US House speaker says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjZFalBsd0NoTHFrcUl4ZVQzMUMxX01hbE9mMkR6TTB3cXpCYlN5ME4ybkhwVWlhVXoySFI1SUV2WkNJYnBRVDIxb3hCVFRFekw3RDJFdzVXa2U3NThmc1F2N0pCNThkRDh5UnNpY3JER0dUbksxWEhFUnJHVF9ORndRQTdOSFdpWGFNdDhiaFpqNnZnWW13YlpxRm1Kb0NjQVRlald4TGNiUUoxdFpqZ0xYMnplZXV2TkE?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 23:25:37 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "OpenAI takes on Meta with dots agent in autonomous AI push - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHpSWDN2U2FHZk9uM2NIZVVkQjVWQXBudENFN09DM3ZWdWlBdVdCdndKTFlQa2duMmpYcDVYamdOSGNhTnBkQmQ1dG01T3ZYU2Zyb2VEXzg1VG05N1dwR0FWZlNqWDlNNldWS2VEcGlDby1TQ1JUMy1La1R1TncwQkN1OVRIN2lEeDJpQTQ2VkNXZ2lmVG12bHBPOU5sZW9sX2FvSlk5VGhTU3c?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 23:03:56 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Equities end slightly lower as bond yields hold near multi-decade highs - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU92dlh4cVhyZkhtcW9aOEZyZXAwWERYNFdFQXBZZnREZVQ5TFplZnZjMHc0TzFSUWQ1WDN6aEg4a2ROb0g2SmZEWjhENHMybG9OTGJ6cTFCNWlqczROREpCV0tQU2VKbUFXMnZYeDBNTTh0MWNYS3lPZjBhWk5rR0dYYmpDcUhNc0stakhtWkR5OXA1M09nUVFIUUJaVGQ2NnlhT0JBMXo?oc=5",
@@ -185,15 +197,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Amazon, GoodRx target US prescription subscribers as health insurance coverage slips - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR29NM1Y1RE81TUYzT3lwUEhaVWhuSkdXVDFpYVlhM1p5X3pobUhBcUJrTk44Ynhab1BIRDlQcnQwNl9fcDVqZllmWUVrTEViVzBGR05IOVBIenF4bldxb3FENnhJd2YxUE9kSVpUNUlFQlZKdEFmNGZ0OF9kaHdpSU1qeVlBN1pVa2dFbVFvX1VzMklhMEVDa1lpbmNUSHh1RW9vYnFhYVQydWZzbkN3RE94bFpLSUt1bjR4WUhyV1FlOERzdUFnRG9yc0tkdw?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 22:05:35 GMT",
+          "title": "Trump releases AI accord with tech executives - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWFxb3Vsc1pSQlJBMjF2MHFDc3VldTcyWmp6OXUtbVZUNkJqRXlnY2pmR1ZhSktTSl9QTVlLMEVoblVtSlJZMVBNZG1jTFB0clhWV1NOOGRCa2NYd2Q2WUY3X05sOFMzRnNnOVhhS0dXZm5fa05iY0NVVUZRdk1WU0JmYndpZjYwRUJFcmlyNmJkS1BO?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 22:34:24 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump releases AI accord with tech executives - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWFxb3Vsc1pSQlJBMjF2MHFDc3VldTcyWmp6OXUtbVZUNkJqRXlnY2pmR1ZhSktTSl9QTVlLMEVoblVtSlJZMVBNZG1jTFB0clhWV1NOOGRCa2NYd2Q2WUY3X05sOFMzRnNnOVhhS0dXZm5fa05iY0NVVUZRdk1WU0JmYndpZjYwRUJFcmlyNmJkS1BO?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 22:03:11 GMT",
+          "title": "Amazon, GoodRx target US prescription subscribers as health insurance coverage slips - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR29NM1Y1RE81TUYzT3lwUEhaVWhuSkdXVDFpYVlhM1p5X3pobUhBcUJrTk44Ynhab1BIRDlQcnQwNl9fcDVqZllmWUVrTEViVzBGR05IOVBIenF4bldxb3FENnhJd2YxUE9kSVpUNUlFQlZKdEFmNGZ0OF9kaHdpSU1qeVlBN1pVa2dFbVFvX1VzMklhMEVDa1lpbmNUSHh1RW9vYnFhYVQydWZzbkN3RE94bFpLSUt1bjR4WUhyV1FlOERzdUFnRG9yc0tkdw?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 22:05:35 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSXd6dU9UdV9WR2NxUF8tblJLbnVpbHhKZTMzVlRnM2dzY3hsTWdQU1EyM1FQdGlYbmZtNzlMakhSN1lPMy1YLWJuS2lfd2d4bHNHcmUyekZDOVNpbW5yWWVmWjhyWTZQX25lWGZIa0Z0NVNfaUwyQWo1a2lPUFJjRHlkVjVyMkdqMlU4THM4YXpBRzVqak5DTmhqZnM1UTlzSWloZVExS1RRNkhnbXgxWDMwekhSbmNfYmNwMg?oc=5",
           "pubDate": "Tue, 29 Sep 2026 22:02:03 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "FBI official tells hackers to get in touch, says 'we know how to find you' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkZjdWk2eHpHMEpNQnlDZmo2OFlJOE5OeEgxTm9nWFBfbjRPeFBSQWhqcUhxNWpKR0p1ZFZuVlhvS3NGd3NtTFQ1bmtOM09oQTFManZxdWJ3OUlmUVB1YVJyMzhybW5KbzdVZ3JzeXc1enJNbXJuRk5kN0hzel9nMzNVQ3JwSlVNVk85cjJLRmdoRmtQVHZ3S3FiX3NCU3J2Ny1qaTVYWDlOVG5XcEZJVHA3aXlBWVRMWHJqUGhn?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 21:57:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Disney laying off a few hundred employees, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVGJQTHNKSFFlR2tJOFl3LURqd0xxLS1YaHBRd283bjhBU0NtSklxSmpLei15ZlZvS2tXN09ZRGRUd0JlalkxbHlwNFIwckdud3ZkMlVWM1Rrc21tOHNEYTNVaUQ0WTlHSkhEWE90bXVSUEJtTkx0WXNBM2NpOEQ0QkVaQURuZjNDdFExZ3hLLUh4dXVQSlE4UnI0eEhOMlBibng4Q1AyR2ZvdENISFByNHNR?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 21:56:57 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T23:25:17.948Z"
+      "updatedAt": "2026-09-29T23:50:17.740Z"
     }
   ]
 }
