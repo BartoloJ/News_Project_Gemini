@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-29T02:37:55.412Z",
-  "lastChecked": "2026-09-29T02:37:55.412Z",
-  "lastUpdated": "2026-09-29T02:37:55.412Z",
-  "generatedAt": "2026-09-29T02:37:55.412Z",
+  "fetchedAt": "2026-09-29T02:50:14.802Z",
+  "lastChecked": "2026-09-29T02:50:14.802Z",
+  "lastUpdated": "2026-09-29T02:50:14.802Z",
+  "generatedAt": "2026-09-29T02:50:14.802Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T02:37:54.127Z"
+      "updatedAt": "2026-09-29T02:50:13.528Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T02:37:54.449Z"
+      "updatedAt": "2026-09-29T02:50:13.813Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "A man who spent decades on Utah's death row is released and awaits a new trial in a 1985 killing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVk1fTVlPWE94akhxNUhpNzdxSV9OSk5ZM1FsVXBUMlMwaFMyaDMtUklITzJtX0szanp1M2NmVFN6bWY1MjR1RllBZkJEUVlFV3dvMjY2VFRhbFFPcEtkaDh3MUNZUF9RdUVYU25Dcnd2V1d1REx5RUJzT21uVG5aZjRNTmdsUnFaeno5Sm5rY3BzaXVPLUNUcWhsN1BfMnpwUHc?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 01:58:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "5 men arrested near a US-run air base are bailed as UK police probe whether there's a link to Iran - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWGdnd212MGJiNlJRdkktS3AtYWVMUWZlSlEtWEdVOHNyUlZOTDFRQ3A4MEJ2anFQaHRvclpNTDVuZEVsTU1GNm0xMGJRUXZGWTZpZUFoQi1NS0JMdzlQbmk5UE96bHp1LW9EZmhYcDZ2MWhzeFREWTZmSUlHcEw5NjlKTTl6RlgxVnpoNEVLQnAwVm8zVm1XUUJQNXVVcnZwNDVzY1lKb1A?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 01:46:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Second prosecutor resigns from Justice Department 'grand conspiracy' probe targeting Trump foes - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQVh3LUhxRHZBdFJGSnBmcDJHa0ZoSDM5SjZIZWJvU1ZLT0RZVG9wT1hYdi1PdlM1UFZvXzljanpVYjRvcUpKamxaTUJqX21pV194clI4V1JYQzBtaGlkVE5ab0dUNllxdGEyQldDTGdURFpGVlFXanB3WXUzR0Q4OGxDQjlXcEhEcHBncS16QmZudEJyWHlxM3V5WnBYQnYyS3I5N19aeFloQQ?oc=5",
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHRfVkxxOEJKd1pjbjJaWUpMRFdiZWhtbjJpM2JsYWE2TWRYM3pwUF9hcW9iUTNCVlpUWkw1WUpFQnVIMnhrSTVmYk9DRmxJRU14RUtHamxRUXB4Qi1UWTNGaHNGTjhXR0ZSMW1HT1l6MUdsUWUxQnZxZXczeVNQSkpZZHFJaWxJWEJSNHF3U2t3cFpra0N6eXh2Z3ZjeWc?oc=5",
           "pubDate": "Mon, 28 Sep 2026 23:40:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Man ordered released on bail after decades on Utah’s death row after DNA tests show no match to him - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVk1fTVlPWE94akhxNUhpNzdxSV9OSk5ZM1FsVXBUMlMwaFMyaDMtUklITzJtX0szanp1M2NmVFN6bWY1MjR1RllBZkJEUVlFV3dvMjY2VFRhbFFPcEtkaDh3MUNZUF9RdUVYU25Dcnd2V1d1REx5RUJzT21uVG5aZjRNTmdsUnFaeno5Sm5rY3BzaXVPLUNUcWhsN1BfMnpwUHc?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 23:18:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Senate nears vote on college sports bill that would rein in athlete payments and transfers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWl1WGdfaDlGZi1ucEtoWWxwdmNEQ0NyQ0VYOC12d0lySW9Ec3ZCNWphUGFRa0RzZVNNenNvUnFFTHBEMl94WUhuNXFhcmJnMXBxRUpNZy12UHFVT3FkSHZuM0hZSWxMMlUzTTZ0MTV3TzN1QW8xWjBlQVF1Z0FsTmVhdjdxa3JTVXRCSElQczdFVmVuY1Q2Sy1xaE1KWUMxZ2x6Vm05MmNZdw?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 22:59:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T02:37:54.985Z"
+      "updatedAt": "2026-09-29T02:50:14.345Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T02:37:55.412Z"
+      "updatedAt": "2026-09-29T02:50:14.802Z"
     }
   ]
 }
