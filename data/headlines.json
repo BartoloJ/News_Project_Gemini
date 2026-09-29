@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-29T22:00:18.814Z",
-  "lastChecked": "2026-09-29T22:00:18.814Z",
-  "lastUpdated": "2026-09-29T22:00:18.814Z",
-  "generatedAt": "2026-09-29T22:00:18.814Z",
+  "fetchedAt": "2026-09-29T22:25:18.302Z",
+  "lastChecked": "2026-09-29T22:25:18.302Z",
+  "lastUpdated": "2026-09-29T22:25:18.302Z",
+  "generatedAt": "2026-09-29T22:25:18.302Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+          "link": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 29 Sep 2026 22:13:36 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "More than 400 detained as France student protests escalate",
           "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Trump rules out joint US-China venture to develop AI",
           "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 29 Sep 2026 21:45:01 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Former American Idol contestant and pastor found guilty of murdering wife",
-          "link": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 29 Sep 2026 21:34:59 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T22:00:17.683Z"
+      "updatedAt": "2026-09-29T22:25:13.489Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T22:00:17.912Z"
+      "updatedAt": "2026-09-29T22:25:13.721Z"
     },
     {
       "name": "AP News",
@@ -166,12 +166,30 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-09-29T22:00:18.416Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Amazon, GoodRx target US prescription subscribers as health insurance coverage slips - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR29NM1Y1RE81TUYzT3lwUEhaVWhuSkdXVDFpYVlhM1p5X3pobUhBcUJrTk44Ynhab1BIRDlQcnQwNl9fcDVqZllmWUVrTEViVzBGR05IOVBIenF4bldxb3FENnhJd2YxUE9kSVpUNUlFQlZKdEFmNGZ0OF9kaHdpSU1qeVlBN1pVa2dFbVFvX1VzMklhMEVDa1lpbmNUSHh1RW9vYnFhYVQydWZzbkN3RE94bFpLSUt1bjR4WUhyV1FlOERzdUFnRG9yc0tkdw?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 22:05:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "FBI official tells hackers to get in touch, says 'we know how to find you' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkZjdWk2eHpHMEpNQnlDZmo2OFlJOE5OeEgxTm9nWFBfbjRPeFBSQWhqcUhxNWpKR0p1ZFZuVlhvS3NGd3NtTFQ1bmtOM09oQTFManZxdWJ3OUlmUVB1YVJyMzhybW5KbzdVZ3JzeXc1enJNbXJuRk5kN0hzel9nMzNVQ3JwSlVNVk85cjJLRmdoRmtQVHZ3S3FiX3NCU3J2Ny1qaTVYWDlOVG5XcEZJVHA3aXlBWVRMWHJqUGhn?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 21:57:12 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Medicare Advantage premiums expected to drop more than 16% in 2027, CMS projects - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1U1Q2NNckpidjZqLV96ai1kWURaMkZ3WGxlTV85VEFnMG5pNlcwT1hKOFJ3dVZ2b011X2draGRmcmEydWZFZ1hQVndIX3pSYUlDaGxCc2VfWEpETGZTb0NSSk91VkhyTXc2MmhBNjFfUGJfNVFLeUJvakw5MzZqdkRsOGRQRjFWdzN6b3Nxa0RVbVBGTy1reUxVVVpTa1BONWpGZWMxZGd4VDVPWDNPV0ItdFUyQlFDcG81V3Z5TV9qV00?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 21:55:52 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Justice Department charges Venezuelan man shot by ICE officer in Austin - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcG5xbURkS3dLamZqRkRXUTFmMzZhX19MS256Wk1jR2UtMmdWV3BwenlTcXItR1NfSzdHZTI0TEdkaHJDMDNxRmlSY3RMLTJXeTl5ZC1iUUtGNnZuMkYwMURKeDY2a2UzQVZxejRNTlphQUloYV9JUzJ2Rk1UTUNCMGtSUUtpbzFSdFVPRVYtQTgxOHNkaFJoSEFHZ29CcklGOEwtOEMzRlV2MGh0N1JQdmxkUDZzT2JBdWJQSVV3?oc=5",
@@ -179,50 +197,32 @@
           "source": "Reuters"
         },
         {
+          "title": "EXCLUSIVE: Tiger Global, Dragoneer in talks to invest in Kalshi's new $1 billion fundraise, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQejU2dG5HWTVrdWx4cEYwWUZjZHlQb2NGSl84ZFE5VjM0NmJWZkk4SDJDeXhiXzN2QmdKQ19YMTBiVWYzLXlkLWJBRWlCSzZzc0tQTXBOVHI2VXRlMy1Qd1BSUTBGMnplNEtlUnVmTEJNREdaekhMNENtQ0FvRFlLeU56dUZoUmhhQUdlbUhwaDhIdmFyLXN1SHRLeGFZYm1wRW9nSlRxTmNqd1ZjbW1LbUhYNmxhTUhCNGFfYWlKdGs3VGN3dllaX2F0Q3F3Zw?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 21:47:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump reaffirms support for data centers after talks with AI executives - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 21:37:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tesla lines up $30 billion credit lines as capex, AI push accelerate - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNVNKTHdSTnpiNkQ2UkhyZzZsZWVyZG1mTWJqNkhpTkFRZTF1dDVLRkRPcW12V2hmT3hKRXBfYnZVME9ORmZvdVM3UGd1aGZwaGN0RV8xb2poTzd6VXB4eGJNcmpDT1BIcDZVNUFvRERjSzRhS2lHbTNvcm5oRHlfOG4zRmN0ODZreWpIcWFNeHVfNnVZZE04N0tXYWoxWDd0bXpjR1FsZm1nNTNTOGIxQ2dzdXR3NjdvVXU2VU92cWtuNHNhb3lTM0lsSmgwZV94?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 21:24:09 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "EXCLUSIVE: Anthropic IPO prospectus lays bare deep dependence on Big Tech partners - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1Q4X3lqOUdZYllBZFVuZFBIWGt6dmdua2JoVnZ0aVVnWnd0M2lscWd0UFB6c3QxRmNJdXJ2T3ppbXR5TW8wZ2lzQU5obDR2U2t0WldJUWx4MEo2V29HVldhSEtVUWVPdkdIQ1dVSUtkcG5hTE5UWDVKek9hTjhkNGU4eGNKcmRPY1JjWmRaTXJVblBoWldzNU1PalhocDRfRHdPRnhxVEV5ckRsenJZ?oc=5",
           "pubDate": "Tue, 29 Sep 2026 21:22:51 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US imposes sanctions on 13 tied to Iran weapons procurement - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWZ2NlJ3d0swV0JKWFhhREdzNmxnUlhaSlE0eFlrbUhBZ3RBMXhQeEJSS1JCTnR2UV82cTA4YW4yUDR5YnNUd1FmN2M1Z1liMWhfNEJOUnFMLVYtTzFCMjFSTWJuaWlhUFdHc3lLVE9tMHZUWkRldzJXaFd3SDdqX1NIOXJxRTBFZF9FT1Fvalg1b25FWm1RVEYySkUzZS1nNHItOXMtVUVTQjVt?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 21:03:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Fed's Williams sees no urgency for next Fed rate hike - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQW15c0ZrS2lrMUlHZDZjZlpxRG5GazRlendBenpXeWZSR3NCaXBFLXA5LVBlbWNEeDNsWnRnS25CYWwxc3AzRDhrTjhUZTNZcl8xN2VDT3JtZHk1eVpHUzFaaXpVVy1HbUk1Y3hKOEtoTmxpNTVwWkJHZXVvTWl1cm5QdWVpWXhFQkxBdmt4enRJRkF3NUlxTQ?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 20:50:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Former Trump prosecutor Jack Smith tells Senate he won't be silenced by prosecution threats - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPREhyTmwyTVctRWRwWjJyd3hDbmlZdHNXeW9IUzFGR2ItR051WVRCMFNMMHZsVzV1Ry1TWFotTS1mY0lwUkdhdWRqY3AxTXZBQzlhSndYTkRxSlI5VmdEbGRhNWVPc3BxRFhFVXZieE16U3JXQ2ZKa1RISzdkODJBeG9zU2VBTkEwZUpyakhDcThHVnZYb3FxU0dObXFFM3NiN0kzOUt1X3diaEFvMWllRkk5WkxEQjFHUW81VGpn?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 20:27:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Equities end slightly lower as bond yields hold near multi-decade highs - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU92dlh4cVhyZkhtcW9aOEZyZXAwWERYNFdFQXBZZnREZVQ5TFplZnZjMHc0TzFSUWQ1WDN6aEg4a2ROb0g2SmZEWjhENHMybG9OTGJ6cTFCNWlqczROREpCV0tQU2VKbUFXMnZYeDBNTTh0MWNYS3lPZjBhWk5rR0dYYmpDcUhNc0stakhtWkR5OXA1M09nUVFIUUJaVGQ2NnlhT0JBMXo?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 20:24:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Michigan nurse charged with helping immigrant flee ICE custody - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVFFQzZFVmNYaUFsMkNMOGdkV2I3UXRfLTViX3dGTHBvc3loX1hjY0NUZ2FadklXdmNDU3ROUF9VODRxeFVhZW1KTFJuT2hyNkR3Z1JvM0FIR2tpTE5JeTJQQ2hVaHFzUldiU29zck9XMWl0SDhuMXNnYnp0TkNNajlLdHUwdE15dnBXdmRiaEJCQnctQXNILWxaanNqd1RrbEFaOW5QMXU5NmdJYlJweklTRHNiQQ?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 20:22:21 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump considers creating committee to oversee AI sector - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 20:21:44 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T22:00:18.814Z"
+      "updatedAt": "2026-09-29T22:25:18.302Z"
     }
   ]
 }
