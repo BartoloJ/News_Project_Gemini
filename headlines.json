@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-29T12:25:20.868Z",
-  "lastChecked": "2026-09-29T12:25:20.868Z",
-  "lastUpdated": "2026-09-29T12:25:20.868Z",
-  "generatedAt": "2026-09-29T12:25:20.868Z",
+  "fetchedAt": "2026-09-29T12:50:18.965Z",
+  "lastChecked": "2026-09-29T12:50:18.965Z",
+  "lastUpdated": "2026-09-29T12:50:18.965Z",
+  "generatedAt": "2026-09-29T12:50:18.965Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T12:25:19.676Z"
+      "updatedAt": "2026-09-29T12:50:17.893Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T12:25:19.903Z"
+      "updatedAt": "2026-09-29T12:50:17.948Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Wind whips Mexico’s northern Pacific coast, and some streets flood as Hurricane Polo bears down - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWVWLXFpd0pCWGx3QUhlYjJObi1JeTNDX2duSm5XSURrQkNBYndMMHp4VGdYUnQ2TDBER0NIdzkxaGtXcXVBUFVmUHEyektXRzhYZURMNnZhaC04M0RwSVNxS29IUDhXWjZkNFRtcWs0YU9GVExJQVhEa2VRN3VLb3BJTS1hT3pXY0tZaG1aMWIwRUNPUTRqLUJ3dF9yeFpkSEk3MzQ5NTR5Wml2OXc?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 12:24:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Iran’s currency hits new record low, as war erodes Iran’s economic stability - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNTBsa0xGWmtzLU4wSkY1UGhway1HSTI0d21Gb2hHOUxNMkN5ZDgwTWNMODZfa1NJT1BqZzZkSGFzeWdkbXF0SnNuTlFpWUJVeXRDc0RxdkRiUm5HQi1heE1CaUdCdHFTWnN4dDh6VGJOVDB2YUJMOG1rLWNIQW5zMWJlNERmMHV0UHNMZng1LUdnOUFl?oc=5",
@@ -130,15 +136,15 @@
           "source": "AP News"
         },
         {
-          "title": "CNN, MS NOW and Politico ask a court to block Trump from enforcing his White House media ban - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDUwMklnSXFrUWlISkJ1ck1YY1VOT2FBSDRCYWhicEhJTmYzRWhhdjI5MWZ2WE1VbWlKbWc2bzFuWTNqT2xjZVhUMzNTZ1NnRVEyM1RneXVfZ0Q2TDMyRkxqcVdic0U5NEJxb2N4OFVjaDBPZmszQ1A2S0lMMHFpX3hMdGt0ZUVoZDlaSG53?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 05:58:00 GMT",
+          "title": "Estonia blames Russia for arson attack on defense company that provides vehicles to Ukraine - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2xSOGRNSUNHU1M5RzVHOHpYdzBya1VaOUZhcFhXa2hjUEd2T0pNZGNGRTIyVXE4U1lOc3owRGxBTFVHY3RvcTRZdDMzSElIOHlnNlJrSVVyRDdPZ255cXpIMW9xSllTQkdiOEdrRXFLT0xmWnJJRkVyQ0Q0Rjh5a0VvbFNZTnRCVzF2QWJtck1rVFlwUzVQWVZDZGwtUVU?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 10:24:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Wind whips Mexico’s northern Pacific coast, and some streets flood as Hurricane Polo bears down - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWVWLXFpd0pCWGx3QUhlYjJObi1JeTNDX2duSm5XSURrQkNBYndMMHp4VGdYUnQ2TDBER0NIdzkxaGtXcXVBUFVmUHEyektXRzhYZURMNnZhaC04M0RwSVNxS29IUDhXWjZkNFRtcWs0YU9GVExJQVhEa2VRN3VLb3BJTS1hT3pXY0tZaG1aMWIwRUNPUTRqLUJ3dF9yeFpkSEk3MzQ5NTR5Wml2OXc?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 05:19:00 GMT",
+          "title": "CNN, MS NOW and Politico ask a court to block Trump from enforcing his White House media ban - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDUwMklnSXFrUWlISkJ1ck1YY1VOT2FBSDRCYWhicEhJTmYzRWhhdjI5MWZ2WE1VbWlKbWc2bzFuWTNqT2xjZVhUMzNTZ1NnRVEyM1RneXVfZ0Q2TDMyRkxqcVdic0U5NEJxb2N4OFVjaDBPZmszQ1A2S0lMMHFpX3hMdGt0ZUVoZDlaSG53?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 05:58:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS3J6eURWbnNjOU9RellOZlVKZlR1bGk5Y0I0bTJhSTY0N0VPc3dOVzhUd2pqM1BkTkpxSFM5VkhVX1VkRWYxZ2NjRjZ2c29OQ1hWMjlvSUtUbDhxOTBBZHljVUNBRjJKeFhqSkFEcHU1Q2tLbnhieHBIa1ZPS0E0YU81eXhfbUh6d2FOczRVRi0?oc=5",
           "pubDate": "Tue, 29 Sep 2026 04:00:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Lindsay Clancy set to return to court for first time since murder trial ended with deadlocked jury - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWZZS3lCYTJxdHdYZGdBblpfMzMwaU1DaThtOUo2Q2Z1RGZLMzJyRWlFVTRkcjNRb05GZDJRNDUyeDFBVm5wZFJSdnAxSEFEM2s1d2hGQl9mT0tlTVpocjZ2SkJxcGJ3WDd1ZUljMUVuejFpUUZiUVprWV8xRlB5T0trZzZzRXRHYUZJcm9ObTd0UTFKb2J4Z2Y4b21YLWpKY3dz?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 04:00:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T12:25:20.404Z"
+      "updatedAt": "2026-09-29T12:50:18.459Z"
     },
     {
       "name": "Reuters",
@@ -182,6 +182,18 @@
           "title": "Trump to host Zuckerberg, Anthropic's Amodei, and other AI titans Tuesday - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5",
           "pubDate": "Tue, 29 Sep 2026 11:59:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "PODCAST: AI, at your own risk - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTlZULWoxUmFoUkcxOVlPRzVPQXhpUHRld3ZNaVo3aHFRSTlna1RSalVHV08xS0FFY3BVTThXY3BlbU1WbElUSU1XOW02V2V3OVFPeG5xYjVNSUVfUUhPNTFNWFBjVk1NZDM3dVFYR2R0alRVeUF5YlR6WHZwT3ZQaGVrQUxxV2FF?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 11:55:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Putin envoy, US officials discussed Ukraine war, energy initiatives, US official says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2otb2lvVXpwNDJHTmRWeEdOeGhfOTZWcU85a3JsejM5bENpOXpjU3B3TGVCeG1BOGRVWXRMOWd6YUY1RWZOQzNlM0YyaUhPZlMxbUJNb1l2T1g1R0RCaFFvUXdVSGpqN0lIdExEOVR4Si1tTUdvTVRyUDdkbDdDOWdzM3lLYlF4V1JrdU1wR2dmLTBFN296bTROLWF0V0JEUFdNRXNnTjJhTEV6cHNFUzBObGJPcWxsY2hr?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 11:48:42 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSi1tN1ZXNTdVQUMyT0d0blBucGY2TC1la3lyY1VUd1EtR0dCVWstellOQTJOTm9BLWg4a2RGTW9LaXpzbWJXeEQwaVJtb2pZdHFyU3ZISWxPMzh6amFXMVFjbDk5LWlvQ0VjbGRXQ21iSXZtVEozeFVEWDZCS0J0ZUxDMHphNTZXOWtGZWNnYmVVQkF5d1V0b3p5Z2VyMDRQeEVidg?oc=5",
           "pubDate": "Tue, 29 Sep 2026 10:35:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Lindsay Clancy returns to court for key hearing after US murder case mistrial - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWZsYldKMVZ4REtwLWd0VGF0TVlyRHRoa2RXOTJ4UjVUYV9Lb2dqMDJtWms4clpBMXRiV2NvVVVNRzNaQXIwVEF3XzB0SV91U3phaWVYRHM3dWVPdHAzcVJtUTFwVTYwUklzSFFuYVFSb2NVRUNVLThyQklFRS1XSk9GUjJ4Wm5FSnhhcTFQMHFlVi0yRFN1VVdGenFPbkdLQmZEbUx3WHVTUjZDWEZNMzVRczBERzd5a0pja0JxaUU?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 10:33:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Rubio says UK airbase incident involved a foreign state - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFpiaUU2ZUhub0d4T044ZzdtZEhwSklBLXRIMk9RWk8wMUlSUElhV0FydEMyN3R4enJjVmttUS1Cb0xoeklqQmMwOG9Rb3F4Mzd1bmtXSHRVM0ZKSWE3X2oweDN3emF0SHpnXzhGbGJpSUg2Nk0wNlZlUTlLNl9SRU4tRWdqNHp2WHFpck5ha2s3SXhfNk0yREVTak1RQWM?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 10:25:41 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T12:25:20.867Z"
+      "updatedAt": "2026-09-29T12:50:18.965Z"
     }
   ]
 }
