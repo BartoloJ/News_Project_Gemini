@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-29T20:25:13.867Z",
-  "lastChecked": "2026-09-29T20:25:13.867Z",
-  "lastUpdated": "2026-09-29T20:25:13.867Z",
-  "generatedAt": "2026-09-29T20:25:13.867Z",
+  "fetchedAt": "2026-09-29T20:50:14.703Z",
+  "lastChecked": "2026-09-29T20:50:14.703Z",
+  "lastUpdated": "2026-09-29T20:50:14.703Z",
+  "generatedAt": "2026-09-29T20:50:14.703Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+          "link": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 29 Sep 2026 20:42:10 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump rules out joint US-China venture to develop AI",
           "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 29 Sep 2026 17:14:10 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Eiffel Tower chief to quit after female staff replaced by men during religious visit",
-          "link": "https://www.bbc.co.uk/news/articles/crn8e069v7p7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 29 Sep 2026 16:56:50 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T20:25:12.951Z"
+      "updatedAt": "2026-09-29T20:50:13.410Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T20:25:12.994Z"
+      "updatedAt": "2026-09-29T20:50:13.676Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Trump says top tech firms have signed accord to ‘self-police’ AI development - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUtqYURpWThrQ2d5ZC02TTJXX2dLajBXTjdhTGJaSEJ6VlRVNkVUYWl5MzNNdmppZGtqQ3FLOEIyalhQeDFHTDNKMElZaTBRckh1aS1idWo4bnhramhObnVqQkhiUFBoLUhqeXZOeHBueUpVYWJPbjN3dmExVW1oYTh1TTgtSGR5QTBB?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 20:24:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Former ‘American Idol’ singer Caleb Flynn convicted of fatally shooting his wife - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWlESks1TnAxOFp2UXUtZ1JBMFMwUjlnUHVWNzU1MlBMa2RwMFk0S2xkcVlaekFLREhLUk9HZERFQzVuUUFOcVpNRTFySG9hZGlHamZNQnBJaTZNdVl2VTBtUU5rVE1CNDNaZkd1ZnRjWXdvLUdYTjM0elB0ckFJSlN0aWw5TmQwTXNXcmIzeENyQzBhTndjUHFENHc?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 20:08:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Florida is set to execute a 77-year-old man convicted of a 1995 murder - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEJ1elhJZkRHelRILWU5XzZJam8xRHloN1ZMZW80N1NQRjhjZ0w1ZGpueGhaVVRTSVdCRDFyZzNHenhvdEN2a0hPc0ItQXpSbjNaTWJtaHpRUUZ3Unpqa0I5bFppZjdjX19kZk5EWmYtZ1FRTGFza0syZnd5b0JHZjFMQ3NKZVFseS1LN2c1SFU4UEVmV2R3S2dzUEdPVHVZ?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 19:59:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Supreme Court lets quick deportations to third countries resume while justices weigh Trump policy - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2w1QXVuaHFPaVEyVFIxMkthZmVaZFhuVEc5Rm5aUUgxV25xVU9SVW9ad2YwMS1pX3l0Z0oyQjRPc202Zk8xNTZZNDRUUzFpb1FIRWg1b05xeDVmdmctTmlCZHZIYWhCVWI1SGFOQkZPendNeTE3amw2eGQzYVBUczRJd1pJNE15ZXlacHJtOWxTVzZSakxHZThDbWNSVXp5S3hxNUJYMFQ3WTVW?oc=5",
@@ -146,32 +164,44 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR3owZzlCak9heHhpNHRwZ0dBMjZvWnBFallRVFJ2dXlhUVg4UTk5M2tOV1RMeGFtbjhGRldRYkdfZG5pWWtRQ0xzT0x1ZTFkRUFyVWxjUS1XMHZhbkdFX3g1Q3pMMFZDb3AwTlN5WE1BcG9QZDRzaUR5V245LU9Na09LV0E1R2FVLVl4Q3dVMDRwbk1VRjNCVngxZVFMNng5RC1HdnBDT2c2d09BZkVOd0F3?oc=5",
           "pubDate": "Tue, 29 Sep 2026 18:09:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "From motorcycles to booze, US ban on $1 billion worth of Canadian imports goes into effect - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS3J6eURWbnNjOU9RellOZlVKZlR1bGk5Y0I0bTJhSTY0N0VPc3dOVzhUd2pqM1BkTkpxSFM5VkhVX1VkRWYxZ2NjRjZ2c29OQ1hWMjlvSUtUbDhxOTBBZHljVUNBRjJKeFhqSkFEcHU1Q2tLbnhieHBIa1ZPS0E0YU81eXhfbUh6d2FOczRVRi0?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 18:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 17:59:13 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "British police find no explosives but questions remain after arrests near a US-run military base - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZE5fbUV1ZTc2OGx3WEM5Wnl4RV9lOFgwT0RSVVprUGFGY0taUHpWcURLVHVsSEtVRmlGQWRRMUxYbGt3ZjM2RHEyMnAxTDgzQTlrb21tVFZnOXlUT1JSRk00X2pXcDFlbnozam5uS21xTS1pUEp4S3NJYmswQ2FXVUVfdy1NRlBLd1FURVJxa0xrVk1qZ0xEZC12VlhGaWRfRllpWjNyYWxxMFU?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 17:55:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T20:25:13.452Z"
+      "updatedAt": "2026-09-29T20:50:14.251Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Fed's Williams sees no urgency for next Fed rate hike - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQW15c0ZrS2lrMUlHZDZjZlpxRG5GazRlendBenpXeWZSR3NCaXBFLXA5LVBlbWNEeDNsWnRnS25CYWwxc3AzRDhrTjhUZTNZcl8xN2VDT3JtZHk1eVpHUzFaaXpVVy1HbUk1Y3hKOEtoTmxpNTVwWkJHZXVvTWl1cm5QdWVpWXhFQkxBdmt4enRJRkF3NUlxTQ?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 20:36:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Former Trump prosecutor Jack Smith tells Senate he won't be silenced by prosecution threats - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPREhyTmwyTVctRWRwWjJyd3hDbmlZdHNXeW9IUzFGR2ItR051WVRCMFNMMHZsVzV1Ry1TWFotTS1mY0lwUkdhdWRqY3AxTXZBQzlhSndYTkRxSlI5VmdEbGRhNWVPc3BxRFhFVXZieE16U3JXQ2ZKa1RISzdkODJBeG9zU2VBTkEwZUpyakhDcThHVnZYb3FxU0dObXFFM3NiN0kzOUt1X3diaEFvMWllRkk5WkxEQjFHUW81VGpn?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 20:27:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Equities end slightly lower as bond yields hold near multi-decade highs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU92dlh4cVhyZkhtcW9aOEZyZXAwWERYNFdFQXBZZnREZVQ5TFplZnZjMHc0TzFSUWQ1WDN6aEg4a2ROb0g2SmZEWjhENHMybG9OTGJ6cTFCNWlqczROREpCV0tQU2VKbUFXMnZYeDBNTTh0MWNYS3lPZjBhWk5rR0dYYmpDcUhNc0stakhtWkR5OXA1M09nUVFIUUJaVGQ2NnlhT0JBMXo?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 20:24:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump considers creating committee to oversee AI sector - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 20:21:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Supreme Court lets Trump resume deporting migrants to countries not their own - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLW1ERC14bXJ6YXd2cmtUMzZlVHBEZ1Z2Wi02VjNyVmJCTjI2ekpHRWtXTlVSSDFyaEgxVGE3bDdfSk9TQ1FkcWJ0MTlqM0hwSWtjR3lrblFNN2ZFRzRQa3lqeXZPcjJWODBQLW91Wi0wbTNpUFV5TmpoTDFuWUZyRVA3dlJpcTFoQ1U3cERjbDBIODFYRTllUEZ0ZlhqWGpyekE?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 20:15:35 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Somali pirates kill 5 crew members before tanker rescue, state authorities say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOXdldzduZi1RNWotR3J0Qk5rVl83RlpxYW05SGRUbmlWWFVSRVZOWlJVb0FmMHV0c3FCUVpJM3BNd3Mtd2Jvc3ppTkZ5TWhWVnRVTG41Z2dNcWVKdDhwM3Bia1BfTUlvTllFY01qaUFGWDBvbnNkWnlTU3dxV3RuOGVpSGdnLTZGYTl6c2lONDdDYlh1Tl9Da293UzlMVXRIYzU4NjVrbEUxbTNl?oc=5",
@@ -185,44 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Supreme Court lets Trump resume deporting migrants to countries not their own - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLW1ERC14bXJ6YXd2cmtUMzZlVHBEZ1Z2Wi02VjNyVmJCTjI2ekpHRWtXTlVSSDFyaEgxVGE3bDdfSk9TQ1FkcWJ0MTlqM0hwSWtjR3lrblFNN2ZFRzRQa3lqeXZPcjJWODBQLW91Wi0wbTNpUFV5TmpoTDFuWUZyRVA3dlJpcTFoQ1U3cERjbDBIODFYRTllUEZ0ZlhqWGpyekE?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 19:31:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Man City guilty of using 'sham' deals to distort finances, Premier League says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0QzWWRSUWRHcU1jbzctM0hpVXc3UW1NbEFMejJWRHJhZmFMdmFZY3MwZ2Y2elluREM5ekd1RHF4SlFXemZKNHZUb2VTLXM4bFFJQWxPcURGVWxidk9ORmlaRGF0T0tURi1CQTV6QlZQU2lQM2kxVll4eUQxS2NGMm9tWENmcWcxTDVMcEE1ajVKa2ZrNUdBMUkyVTMySzN3aUlRbkR0OVpxZ3lwRzZTR095WDhCMzVRcmJzSHhRQk5CQmpnQlJsX253?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 19:24:35 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "US sanctions 10 over allegedly procuring weapons for Iran - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWZ2NlJ3d0swV0JKWFhhREdzNmxnUlhaSlE0eFlrbUhBZ3RBMXhQeEJSS1JCTnR2UV82cTA4YW4yUDR5YnNUd1FmN2M1Z1liMWhfNEJOUnFMLVYtTzFCMjFSTWJuaWlhUFdHc3lLVE9tMHZUWkRldzJXaFd3SDdqX1NIOXJxRTBFZF9FT1Fvalg1b25FWm1RVEYySkUzZS1nNHItOXMtVUVTQjVt?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 19:21:22 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Equities dip as bond yields hold near multi-decade highs - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU92dlh4cVhyZkhtcW9aOEZyZXAwWERYNFdFQXBZZnREZVQ5TFplZnZjMHc0TzFSUWQ1WDN6aEg4a2ROb0g2SmZEWjhENHMybG9OTGJ6cTFCNWlqczROREpCV0tQU2VKbUFXMnZYeDBNTTh0MWNYS3lPZjBhWk5rR0dYYmpDcUhNc0stakhtWkR5OXA1M09nUVFIUUJaVGQ2NnlhT0JBMXo?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 19:12:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says working with Xi on AI would hurt US companies - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 19:11:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Lindsay Clancy's defense shifts strategy in bid to avert retrial - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWZsYldKMVZ4REtwLWd0VGF0TVlyRHRoa2RXOTJ4UjVUYV9Lb2dqMDJtWms4clpBMXRiV2NvVVVNRzNaQXIwVEF3XzB0SV91U3phaWVYRHM3dWVPdHAzcVJtUTFwVTYwUklzSFFuYVFSb2NVRUNVLThyQklFRS1XSk9GUjJ4Wm5FSnhhcTFQMHFlVi0yRFN1VVdGenFPbkdLQmZEbUx3WHVTUjZDWEZNMzVRczBERzd5a0pja0JxaUU?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 19:07:02 GMT",
+          "pubDate": "Tue, 29 Sep 2026 20:09:58 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T20:25:13.867Z"
+      "updatedAt": "2026-09-29T20:50:14.703Z"
     }
   ]
 }
