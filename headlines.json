@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-29T10:50:15.365Z",
-  "lastChecked": "2026-09-29T10:50:15.365Z",
-  "lastUpdated": "2026-09-29T10:50:15.365Z",
-  "generatedAt": "2026-09-29T10:50:15.365Z",
+  "fetchedAt": "2026-09-29T11:00:19.760Z",
+  "lastChecked": "2026-09-29T11:00:19.760Z",
+  "lastUpdated": "2026-09-29T11:00:19.760Z",
+  "generatedAt": "2026-09-29T11:00:19.760Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Evicted Spanish pensioner can move back home, lawyer says",
+          "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 29 Sep 2026 10:57:02 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
           "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "OpenAI scraps rollout of new model over safety concerns",
           "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 29 Sep 2026 09:14:13 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Evicted Spanish pensioner can move back home, lawyer says",
-          "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 29 Sep 2026 08:53:00 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T10:50:14.059Z"
+      "updatedAt": "2026-09-29T11:00:19.190Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T10:50:14.289Z"
+      "updatedAt": "2026-09-29T11:00:19.277Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T10:50:14.926Z"
+      "updatedAt": "2026-09-29T11:00:19.743Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Dangote says Kenya court ruling won't halt refinery launch but may affect site activities - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2tXbElSZ0o1NEJfOU9USnJrMVJpZDRBT0g2SmVoRU9SY2ZPV0JtSEJrT3drR2FGNzBtek9Vakk1SVZsbEdQSWRxa183ZWNsd3doNHVnb3BTLVpxMGtTUW82aEhPcUdUd091U3B6WlJjUWRKN3NVTGlVWnMxNXFiOTVoWG4yQ1FZUjZlNXh0SEdLcVFFenVtUWVtYjNBalprUVdweTdQdktpbUxNeHNZeEhIcEJGa0JHMkY4dlZQb3dwcUU?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 10:48:51 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Rubio says UK airbase incident involved a foreign state - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFpiaUU2ZUhub0d4T044ZzdtZEhwSklBLXRIMk9RWk8wMUlSUElhV0FydEMyN3R4enJjVmttUS1Cb0xoeklqQmMwOG9Rb3F4Mzd1bmtXSHRVM0ZKSWE3X2oweDN3emF0SHpnXzhGbGJpSUg2Nk0wNlZlUTlLNl9SRU4tRWdqNHp2WHFpck5ha2s3SXhfNk0yREVTak1RQWM?oc=5",
@@ -209,12 +215,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Dangote says Kenya court ruling won't halt refinery launch but may affect site activities - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2tXbElSZ0o1NEJfOU9USnJrMVJpZDRBT0g2SmVoRU9SY2ZPV0JtSEJrT3drR2FGNzBtek9Vakk1SVZsbEdQSWRxa183ZWNsd3doNHVnb3BTLVpxMGtTUW82aEhPcUdUd091U3B6WlJjUWRKN3NVTGlVWnMxNXFiOTVoWG4yQ1FZUjZlNXh0SEdLcVFFenVtUWVtYjNBalprUVdweTdQdktpbUxNeHNZeEhIcEJGa0JHMkY4dlZQb3dwcUU?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 07:54:07 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Safety group urges EU to reject Tesla FSD over speed offset - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ0pPYVBiQTZoVXBmNnNuWlZLWVhwd0ZJckNOVWhhT3o4Q2cwLTVxZ1RaTy0zWVNJMHViYkNfZGVqTjB1ZFVJOUhtN18tZ3dNVDZZMW5RRU1vS0ZIWkpxbDZwS243UjFjMEJHa3p2Z2s0OUFFb3kxdlhCZXEwLVlRREdLdi1jWDlJcGpGY0ZZemVVakp0eWM0QXVjcGhCWDl5UzhaWG9VUEtrM1JXUDFINk1QUnNNOE85azBtZFdDOA?oc=5",
           "pubDate": "Tue, 29 Sep 2026 07:39:43 GMT",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T10:50:15.365Z"
+      "updatedAt": "2026-09-29T11:00:19.760Z"
     }
   ]
 }
