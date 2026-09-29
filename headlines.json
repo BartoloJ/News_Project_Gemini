@@ -1,16 +1,28 @@
 {
-  "fetchedAt": "2026-09-29T20:00:22.447Z",
-  "lastChecked": "2026-09-29T20:00:22.447Z",
-  "lastUpdated": "2026-09-29T20:00:22.447Z",
-  "generatedAt": "2026-09-29T20:00:22.447Z",
+  "fetchedAt": "2026-09-29T20:22:26.838Z",
+  "lastChecked": "2026-09-29T20:22:26.838Z",
+  "lastUpdated": "2026-09-29T20:22:26.838Z",
+  "generatedAt": "2026-09-29T20:22:26.838Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Journalist crowned king in Uganda after bitter succession dispute",
+          "link": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 29 Sep 2026 20:09:27 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 29 Sep 2026 19:36:41 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "The journalist who became king in Uganda",
+          "link": "https://www.bbc.co.uk/news/videos/cry4z9jw3wvlo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 29 Sep 2026 19:35:19 GMT",
           "source": "BBC News"
         },
         {
@@ -20,7 +32,7 @@
           "source": "BBC News"
         },
         {
-          "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed",
+          "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
           "link": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 29 Sep 2026 17:31:30 GMT",
           "source": "BBC News"
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 29 Sep 2026 16:23:58 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Trump rules out joint US-China venture to develop AI",
-          "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 29 Sep 2026 16:09:26 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Dutch police arrest suspected member of group that claimed FBI hack",
-          "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 29 Sep 2026 15:40:10 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T20:00:21.155Z"
+      "updatedAt": "2026-09-29T20:22:25.804Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T20:00:21.473Z"
+      "updatedAt": "2026-09-29T20:22:25.852Z"
     },
     {
       "name": "AP News",
@@ -136,6 +136,18 @@
           "source": "AP News"
         },
         {
+          "title": "Lindsay Clancy’s lawyer now questions whether she killed her 3 children - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWZZS3lCYTJxdHdYZGdBblpfMzMwaU1DaThtOUo2Q2Z1RGZLMzJyRWlFVTRkcjNRb05GZDJRNDUyeDFBVm5wZFJSdnAxSEFEM2s1d2hGQl9mT0tlTVpocjZ2SkJxcGJ3WDd1ZUljMUVuejFpUUZiUVprWV8xRlB5T0trZzZzRXRHYUZJcm9ObTd0UTFKb2J4Z2Y4b21YLWpKY3dz?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 18:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "2 Navy aviators eject while landing plane on carrier off Virginia, 6 other sailors also hurt - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR3owZzlCak9heHhpNHRwZ0dBMjZvWnBFallRVFJ2dXlhUVg4UTk5M2tOV1RMeGFtbjhGRldRYkdfZG5pWWtRQ0xzT0x1ZTFkRUFyVWxjUS1XMHZhbkdFX3g1Q3pMMFZDb3AwTlN5WE1BcG9QZDRzaUR5V245LU9Na09LV0E1R2FVLVl4Q3dVMDRwbk1VRjNCVngxZVFMNng5RC1HdnBDT2c2d09BZkVOd0F3?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 18:09:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "From motorcycles to booze, US ban on $1 billion worth of Canadian imports goes into effect - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS3J6eURWbnNjOU9RellOZlVKZlR1bGk5Y0I0bTJhSTY0N0VPc3dOVzhUd2pqM1BkTkpxSFM5VkhVX1VkRWYxZ2NjRjZ2c29OQ1hWMjlvSUtUbDhxOTBBZHljVUNBRjJKeFhqSkFEcHU1Q2tLbnhieHBIa1ZPS0E0YU81eXhfbUh6d2FOczRVRi0?oc=5",
           "pubDate": "Tue, 29 Sep 2026 18:01:00 GMT",
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZE5fbUV1ZTc2OGx3WEM5Wnl4RV9lOFgwT0RSVVprUGFGY0taUHpWcURLVHVsSEtVRmlGQWRRMUxYbGt3ZjM2RHEyMnAxTDgzQTlrb21tVFZnOXlUT1JSRk00X2pXcDFlbnozam5uS21xTS1pUEp4S3NJYmswQ2FXVUVfdy1NRlBLd1FURVJxa0xrVk1qZ0xEZC12VlhGaWRfRllpWjNyYWxxMFU?oc=5",
           "pubDate": "Tue, 29 Sep 2026 17:55:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Stocks slip on Wall Street as rising Treasury yields pressure the market - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa3RNMzdiSWhXMF9NS2ljVHVIVG55RER4LUxseWpGT2IxOG1QeFQ0a1VSb0xiSGI2WG16Mkh2YkRFRlp5N0JSa2dhbTNGUnpqYkdtNnJTSG4yWlgxNzdWNEZvellubUZWQUhVS0lYZTZta05TNEFxTUhiTE53dXBJcjNxTmkxaEJGOW1yandQcHQ?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 17:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump touts America.gov, but its government-sourced AI answers undercut many of his statements - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelhFX2RoX01CRHhHN3g2V2RfYmY1MTk0UDI2aFNlZEFXZUdJc1FPbDJhZWU5bk00bG1tUXpudVFwUDRXb05obnRsVkJoTkVpeGhScTk3SUJMS2huVFRlWVVEOVhMSXVUR2I4TzNlLTBaUnAtRUJhaU5uakxGNXJiaHJvR3pSLUJtcFBlSm40WXRTNTJIcEN0aXQzYlVPU0xnMzNjd29BMEE?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 17:49:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T20:00:21.981Z"
+      "updatedAt": "2026-09-29T20:22:26.380Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Disney laying off a few hundred employees, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVGJQTHNKSFFlR2tJOFl3LURqd0xxLS1YaHBRd283bjhBU0NtSklxSmpLei15ZlZvS2tXN09ZRGRUd0JlalkxbHlwNFIwckdud3ZkMlVWM1Rrc21tOHNEYTNVaUQ0WTlHSkhEWE90bXVSUEJtTkx0WXNBM2NpOEQ0QkVaQURuZjNDdFExZ3hLLUh4dXVQSlE4UnI0eEhOMlBibng4Q1AyR2ZvdENISFByNHNR?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 20:11:10 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Supreme Court lets Trump resume deporting migrants to countries not their own - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLW1ERC14bXJ6YXd2cmtUMzZlVHBEZ1Z2Wi02VjNyVmJCTjI2ekpHRWtXTlVSSDFyaEgxVGE3bDdfSk9TQ1FkcWJ0MTlqM0hwSWtjR3lrblFNN2ZFRzRQa3lqeXZPcjJWODBQLW91Wi0wbTNpUFV5TmpoTDFuWUZyRVA3dlJpcTFoQ1U3cERjbDBIODFYRTllUEZ0ZlhqWGpyekE?oc=5",
@@ -191,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Equities dip as bond yields hold near multi-decade highs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU92dlh4cVhyZkhtcW9aOEZyZXAwWERYNFdFQXBZZnREZVQ5TFplZnZjMHc0TzFSUWQ1WDN6aEg4a2ROb0g2SmZEWjhENHMybG9OTGJ6cTFCNWlqczROREpCV0tQU2VKbUFXMnZYeDBNTTh0MWNYS3lPZjBhWk5rR0dYYmpDcUhNc0stakhtWkR5OXA1M09nUVFIUUJaVGQ2NnlhT0JBMXo?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 19:12:27 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump says working with Xi on AI would hurt US companies - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5",
           "pubDate": "Tue, 29 Sep 2026 19:11:45 GMT",
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Nigeria's Dangote says refinery IPO demand 'enormous' as Kenya project advances - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdjJSWDBxT0xfS1B2cGVZU0tOMnM2ZnI4T21ZbExxZkp5U0JhSFlNMXBDTkdLZkhXajNVZnQ4cm1zWXVuNW5qTi1nUjQ3TEdjYm9xalF3RmNXVWprQ3hOYzJYN3ZGWTUxR2p2SU5GdVNjcUl6dUxKS1A2Q1hob1hnZ1Q3MEZYS2gwdW1CMmpJVTZmdmNpa08zbjZhdk1zZDJQLUFpbWVSdUF1Z183ck5NTnJMc3RCNWFqYXdBenFSUDVEWm5E?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 19:03:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Supreme Court mulls immigrant detention, gambling, Ten Commandments cases - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdEdaNmw5clI4NHNLZ0UyTW5lTEFwLTg1Vmg3NGEzdHU2ajB5QUpCT1ZTbUtOMTZ6NE01blMxT2QySEZ5THZ5VF83NkFpbDBCb1JpM2txdmZBU0xwMU8tRThBY2dLTmY5YTNDeG4weDlxbGhIdVlDS3RwRDdlSTM5cG1hRkRkWGRhSEZxaEpVT0dGY290akRjR2FkTjR3REFVTExrSlZtOTVKa0JvanBpWmFCZG5uSkR3ejYycDF6LWFvSmRhc2c?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 18:58:54 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "S&P 500 flat as higher bond yields counter tech optimism - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU92dlh4cVhyZkhtcW9aOEZyZXAwWERYNFdFQXBZZnREZVQ5TFplZnZjMHc0TzFSUWQ1WDN6aEg4a2ROb0g2SmZEWjhENHMybG9OTGJ6cTFCNWlqczROREpCV0tQU2VKbUFXMnZYeDBNTTh0MWNYS3lPZjBhWk5rR0dYYmpDcUhNc0stakhtWkR5OXA1M09nUVFIUUJaVGQ2NnlhT0JBMXo?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 18:55:23 GMT",
+          "title": "Appeals court declines to pause sanctions against Trump lawyers in IRS settlement - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU2FoX2tLUDc5T3MyWTRMLS1aMEJkV203ZzNGSmJ6RkV2NDlWa1ZoakhCUENTUTRGcjd3OWJyb1BId1F1QnMxUU9Lek51cEZJSWtkX1pLSTlSTm9lWW96YkMtS3l4X0NFdnluam1lQmstcEVoOHVFcWJIQ3RGVEZYNkVfTUtfWG8zWTluYnJrVXkzbFN6SWVwN25jZWlsWjVzc2VsUDJUYmxLdGZRYmtucVZPMzFYRGhwSlNyMg?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 19:04:21 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T20:00:22.447Z"
+      "updatedAt": "2026-09-29T20:22:26.838Z"
     }
   ]
 }
