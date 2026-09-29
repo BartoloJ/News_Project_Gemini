@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-29T02:00:25.586Z",
-  "lastChecked": "2026-09-29T02:00:25.586Z",
-  "lastUpdated": "2026-09-29T02:00:25.586Z",
-  "generatedAt": "2026-09-29T02:00:25.586Z",
+  "fetchedAt": "2026-09-29T02:25:12.217Z",
+  "lastChecked": "2026-09-29T02:25:12.217Z",
+  "lastUpdated": "2026-09-29T02:25:12.217Z",
+  "generatedAt": "2026-09-29T02:25:12.217Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T02:00:24.629Z"
+      "updatedAt": "2026-09-29T02:25:10.966Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The Senate passes the Protect College Sports Act, but the bill's future is unclear",
+          "link": "https://www.npr.org/2026/09/28/nx-s1-5977851/protect-college-sports-act-senate-bill-vote",
+          "pubDate": "Mon, 28 Sep 2026 22:16:19 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Prosecutors are reopening a Cornell fraternity rape case. Here's what we know",
           "link": "https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
           "pubDate": "Mon, 28 Sep 2026 06:51:25 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "How to limit the rat numbers? Train the humans",
-          "link": "https://www.npr.org/2026/09/28/nx-s1-5980436/rats-dc-new-york-rangers",
-          "pubDate": "Mon, 28 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T02:00:24.678Z"
+      "updatedAt": "2026-09-29T02:25:11.199Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T02:00:25.148Z"
+      "updatedAt": "2026-09-29T02:25:11.795Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Oil prices rise for second session on continued Middle East supply concern - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPalFIekNtR2pWcEdaNDNsUElsMTRodXZvOVBPbFJnSFlhbDlqbldRbE1TTGVUeTJGN2NRTk4zUGFlWG1NTl9PUkVjNHVzbnZ4YVJxbXg5aVZfZXJzYWhDa3FfZl92OG5Ic3ZNWEluX0N5ZV9aRlRYYXVYeUNUR3lXVGo1dHp4dmdzaF9pZDVGMjVCUGptMU5YcmlzcEhBa2t1NTZMMmsyeFVBWnNPLVJxS2NoM0FIUEQ0Q2ZF?oc=5",
           "pubDate": "Tue, 29 Sep 2026 00:33:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVndoU28yRmZKcU1nd1MtOThsNXYtejlvampCQXFwRXIxcUJWdWZ5R0twWnM2czMyMmt3cERxQmhEYk5pWVh0UExTMVEzU3k0Tk5wa3Zkdkxkc0E3aTIzbEhOVmZrWmZPajJJaFRBb2JxUElza0puQW56MGpXM21lMDBSR1BDTkY3Ullja3pTQW1mQ20wWVhDTnMxRHB1MkFyUFQySkoxQldxNmFkNmp1dG95dndFUmZOb2c?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 00:17:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVlPeVROc0FBWTl6a0ZCZXdPVF93WjdPT1BFV2xkQmlyRE9oYS1wRF9yWk0zV1EwSlJ5Vmt0UkpucHdQWUpSbGdzUmdVeC1EWm5sMzBkTUNQMkg3ekVYMkMtemVySUxhWnRCTWRNLTA1Vl8tZVZkRU80ZVk4TjdZbE5LdjJ5VzJXbUlmM1FvMnJqTFE4TkZVeEJFVndEMmpIbGN5WDRxclhHX0JZdHp6LWlad3JTakZr?oc=5",
           "pubDate": "Mon, 28 Sep 2026 23:17:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Stocks fall as higher oil prices, Treasury yields weigh - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5ieTU4M0RYMC1lQi0wbDVONnJJbW5NS3pya2xkLXUxSFF3ajh5ZWlER3B5ZW1IR0J3ZjRxZFFCTDd2ajh4ZnVHZ2xqY1U2c0pIamh2MGhzWVlIMVVieHpOXzg0bnJwRFlTaEg4dVdycUc1X25ZQlZkUUsxUGZ3TGc1RDlNWjg2U1RFQ3JEUWx2NGIxb0ZvZXJJb0F6MjcxOER2WHFIdmtSei1fZHdBS29YcGhvUFk?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 23:16:32 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-29T02:00:25.586Z"
+      "updatedAt": "2026-09-29T02:25:12.217Z"
     }
   ]
 }
