@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-30T13:25:13.097Z",
-  "lastChecked": "2026-09-30T13:25:13.097Z",
-  "lastUpdated": "2026-09-30T13:25:13.097Z",
-  "generatedAt": "2026-09-30T13:25:13.097Z",
+  "fetchedAt": "2026-09-30T13:50:51.853Z",
+  "lastChecked": "2026-09-30T13:50:51.853Z",
+  "lastUpdated": "2026-09-30T13:50:51.853Z",
+  "generatedAt": "2026-09-30T13:50:51.853Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T13:25:12.003Z"
+      "updatedAt": "2026-09-30T13:50:50.534Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "A flight from Dubai to Tel Aviv diverts to Saudi Arabia after making distress call",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
+          "pubDate": "Wed, 30 Sep 2026 09:35:11 -0400",
+          "source": "NPR"
+        },
         {
           "title": "FBI hunting the hackers who stole its employees' sensitive data",
           "link": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
@@ -93,81 +99,75 @@
           "source": "NPR"
         },
         {
-          "title": "One year after the end of the EV tax credit, is the future still electric?",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5979915/ev-hybrid-sales-2026-federal-tax-credit",
-          "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Montana starts enforcing Medicaid work requirements on Oct 1. Patients are confused",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5946766/montana-early-medicaid-work-requirements-patients-confused",
-          "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "What's behind HHS claims that gender-affirming care 'may' radicalize",
           "link": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
+          "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
           "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T13:25:12.113Z"
+      "updatedAt": "2026-09-30T13:50:50.641Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "A fight between pilots forces a flight to Tel Aviv to land in Saudi Arabia, officials say - apnews.com",
+          "title": "A fight between pilots forces a flight to Tel Aviv to land in Saudi Arabia, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUVoWWFZd2hfb29WZ0tCQV83bTRCdFI5TTVLbWh4bHdxcWRxTTY5N2gxN0I4ZkN5TUp4YVpaVGMtSTRjTGRTMkV5cHVLeEl4a19lWXNBdzZVeXVnMGNCanJWdTRSNjVDUzRtSndzQ2ZBV3JsdlBXNkRlVGd5WXRaU2UweXFIVG1DVWpWby1sekV4Y1FBTDZtS1Z5aFVXSE9venYxdTRn?oc=5",
           "pubDate": "Wed, 30 Sep 2026 13:08:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Hedge fund CEO Ken Griffin gives record $3B to Carnegie Mellon to build Miami campus - apnews.com",
+          "title": "Hedge fund CEO Ken Griffin gives record $3B to Carnegie Mellon to build Miami campus - AP News",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0Q4TFMxWkpycGtLLTJkUkhpeElKeF9kdGY4OTRnYVdxWjlNUzNJNGRaQXVMSE5IdW5ZdndZb2hBTUlacklhRWlPX25vb2xMbldmSDVrdERvektsOTdId2R2MWtkZmc4YXZwZnBxc182di1yRkdidkNMa1BWbUFPNV96MTNaa3pxU0pqNjByR3dJdVlLNkxkQlBoRV9zRmJjc3VyLWNrR05QRlpBVUZUbnZqOA?oc=5",
           "pubDate": "Wed, 30 Sep 2026 12:27:07 GMT",
           "source": "AP News"
         },
         {
-          "title": "The US military says its withdrawal of troops from Iraq is complete - apnews.com",
+          "title": "The US military says its withdrawal of troops from Iraq is complete - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVd3ZE1qU3YyRlhnTjBFTlVSX0taT0p1MDFpQVNBNVJTSzY5U3pkVkpNVTdmMU5qLWZrMGsxLUdROFFURmFxRzFjME5fWWhhVlZGcTFZRnExRkFhcFNaeXNRYmhkQ3h4NnU3Q09mSUlteG8wZ1dVRlpQME0xQk1jcUlqeU5XMkpVdWNyaW1jN1VRNG84VExtV0NQUkJsd2ZNRUFPdmd0WFM?oc=5",
           "pubDate": "Wed, 30 Sep 2026 10:46:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Associated Press News: Breaking News | Latest News Today - apnews.com",
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
           "pubDate": "Wed, 30 Sep 2026 08:52:04 GMT",
           "source": "AP News"
         },
         {
-          "title": "Global benchmarks mostly rise despite ongoing worries about the Iran war - apnews.com",
+          "title": "Global benchmarks mostly rise despite ongoing worries about the Iran war - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmtnVHpEa0ZTdzJYcHhrUTlwRURkX2tJVVgwTHgxeTFLY3FHeTRKal9wdmVYREZueVZnclVhTnloU0pRZHp1ZEtnT3BhX0pud3NuMlVQWG4xOV9yZUJVbjY1X1RZSlp1TlVVQUZDaHB6TXotdmx6akpNdFBDUklLcU81WEt0bXNLV0xwVE4taGxYMHNqQkZUaVFUWmM?oc=5",
           "pubDate": "Wed, 30 Sep 2026 08:30:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Iran tells the US public that Trump’s war has failed, and other Mideast developments - apnews.com",
+          "title": "Iran tells the US public that Trump’s war has failed, and other Mideast developments - AP News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeW5lLTJrXzFqbTNDbGl1WURtOXlhYUVZTkN0ZFo1d0lLYVhWQl9MdzhJbmZBajhVV1dMUUM5N0kwbWxHWTRFRHBJQmozM0dEZmNwaDZRVUdvMmZYdElFelJrTVU2MEZ4TG1JRGhHOVRrUjd5dFhveEpabFFmMVlLX3FRYUdTNnkzYV9WR2xHRUtpV29TSWQ5TGxmaThkM3cxbjdZaFQzSk1Mc1RBWFp5Y0o1TUU?oc=5",
           "pubDate": "Wed, 30 Sep 2026 08:00:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Man City scandal: What to know about the controversy surrounding the Premier League soccer team - apnews.com",
+          "title": "Man City scandal: What to know about the controversy surrounding the Premier League soccer team - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzItMmhBT242RjJSSHJ0RXFadlpkMzZONDFXdThDTFI4blcyOVR6X2doRGtMblZKdVFDVjUzVEFzeXRzR2x1MmJqc2JtZnIwaGwtZURDeGllc2IzUGZ6T19EeUtOa2szUkh5aUdVM1VSS3dEUTdPandNMmVHTnNKYkk0aEV0cmFYclUwRjJRVDRrNFEydFE?oc=5",
           "pubDate": "Wed, 30 Sep 2026 07:27:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Hurricane Polo’s remnants bringing more rain to flood-struck US Southwest - apnews.com",
+          "title": "Hurricane Polo’s remnants bringing more rain to flood-struck US Southwest - AP News",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRnljY3F2dGI0ZVBVcVFxVmVjZDJDYzlHWHU3N1pTdF90cVNGODhWYlJ3LXpfVDUtOXNvRnJuX2JhUjJaV0lkN0NMMjlQMUNNVVBQbXZDRkc4LVBRZnQ2MXg1dC05YWxGaGJFTTBSZUt5anVSUjJCcjNyZmg5dmU2RVpMcmw5SFktUFppblVVMVNYSExDVWJSRUJETHVYTElYdGNMeGxGRktNNE5ZdzczOWtoSQ?oc=5",
           "pubDate": "Wed, 30 Sep 2026 05:56:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T13:25:12.631Z"
+      "updatedAt": "2026-09-30T13:50:51.302Z"
     },
     {
       "name": "Reuters",
@@ -175,13 +175,31 @@
         {
           "title": "Israeli officials say diverted flydubai incident may be attempted 'terror attack' - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 13:17:21 GMT",
+          "pubDate": "Wed, 30 Sep 2026 13:34:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "SNAPSHOT Wall St futures extend gains after economic data - Reuters",
+          "title": "Ethiopian Airlines agrees to buy 10 Boeing cargo planes, has option for 8 more - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclFjdHRUTDBXcVpNZE9LbzV3SC1rcHQyd3ZmWEhFVGtvdEhSWlFiaXN4d1Izei1rMGg3MkdLZnRTWV9iUnNWLUJnX3I5dEF1TnNkUEFrV2lfVGExcHRjaEE5TzAwVHJqRDZzc1kzZ19rNWFzdEFPLTVGS2NQVWNOM051MmhiVUtrUHlLakZKeE9LN0pCSzhPQmQ3NU1PT0t0ZGlsZTFnZ05oekl0aDlKOV9JLVg3RFVPR1RuTmY2Yw?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 13:29:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Inflation jumps across euro zone, raising pressure on ECB to hike - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNzhjNlBXdURXZEpPX1pMd09GOFFzUDBhQTNvdjJpUUQ4RG9HLXM5cTZrOXQzQU56b091OUpkOWhqVktnUWg5SGxmUDM1NGQwRXRPQzJ3cno0djZQWjJkTUFFYjJSaEVueFU4a0NPM1ZQZWt0dmxqbkR4cjExdk1WZHZXTlVtWHozRlQwM2dfaHFMODdQQ2tSeTZGY2YtQl9BclRpWnR6NmJvMHM?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 13:19:59 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St set for higher open as soft inflation data eases rate-hike fears - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 12:37:43 GMT",
+          "pubDate": "Wed, 30 Sep 2026 13:10:46 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Injuries and arrests as high school students keep up blockade of French schools - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWC1DM3ZDVTh2Y3hyMDdYWlo2OVNaUW43dWJGZ1NmQ3JZLXVLNHJkWEhHNGdsMHdfamRMbUV3Y2M1S2J5YjJsNkNpeHR4d2NJTGd0azJnZlc3cVAxUGQyRm04WmI5MjJoOTVzMkZYc2s1NkZGM1BTWGNXSkFlaTM3TjFYeWRJNGpyNUlJOFlRT1pvZzFBSWVZU3lab2RTd1dIYkkxRw?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 12:42:42 GMT",
           "source": "Reuters"
         },
         {
@@ -191,38 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "Prince Harry's children targeted by 'European paparazzi' while at school in England - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTVNyTEE5dUNkODdKVXU1V1dBZW1hZGJEYnQyU2xfZW1iRHkzYjM4QVdvcEMwM0p3SERzWEZpYXJLU1d3blJPU0JqeXNNQVlHRzFfVlJnRE5JWnI4azdHbUpCSWRKYnA3cXc5ejdWMWZpWEhaaHAzUnJDN21xWXdPOXNXNG9OMi05LXVETnZHeVYzRWNXQ1NBMUtLcmh4dF9WN1d3UXJxbjd1UXFDMHpRR2pyMVYwbGJncEpv?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 11:33:45 GMT",
+          "title": "Viruses run rampant across Havana as water, power fails - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ2xRSkdvRjlKTmF0MFozVU5tdTNMY1ZqdXM3V2JmcG1KQTRoMmZ4OGdVVFQ3ZHFXaVFLSTVDSmQ0UHNwUnJsSzRCQk4zQjU1MlZqXzRmN0FMYWs0S0c0TXdRb0xnME5WcnNvQTZac2tUQ3E0TkdObFRlN2o4RzhfVUhDQktac09aeWI1dTZZYWhZeTJIRExqVEI2VDd2cWtvQzhGMjJGVENBMnZRelJuSTRZWjhGaGl4OWt2MDhTbFY?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 11:55:37 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia sends nuclear warning to NATO as tensions rise in the Baltic - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTJVNU5aaklYSDNsWXRMMUVBd2VwaVlhYWtMUzBFSlNCM3dFM2swcENVd3hSOTA1ZEdpUjRtYmVLY0lfNWdfVmM3cW1KNUIxaURqcGNyeTB4djQ3Nkc3c2Z5ME5aN1BXNWlla1ZJQkF2US03X0lmeHNiTEJjblpYTVJMY19wSzlBenJkdGdqNnlEblFhNHItQjBXWWlya0hmQXZPY3YxbnRHVWpBM29fQjFJWUMyTzlJUkE?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 11:27:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China's Xi talks economy, Taiwan at reception marking National Day - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYkxBSTMzbVJTOWh4QzJ1MFhHTzNCUFRlazZwU1F4aURwUXp2ZnNtejRBMXk0YWFGeVVld0FPQ29Xa0hGVGJHcmVvbjZYR2lyN0tlZmFSTjM0SlJqOEVsSXVsNU1kRV9BYk1HSzRQcFR2Z1FoZTBZTXNkbzB3eTlqWHZLcUpLSEQ1MllZSmlhT3NjblFpb2pIZldnUF9FeDZDV3ZlS1BSczRoc285M1E?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 11:23:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Burundi to take third-country deportees from US - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNclJQV3cyUHNmamxyYWZiR01PUWhNNHlJWmNjay1GdVFHYmlNTlN4NzdNYWhka2gzZHl6dXFQbk5YM3ptZmNiWktKS3V4NGFURE5sMzZNajAzNUg0SnFBUHJYTzJPdmVwMlBqZXJoeVBKY1ZmSTN3UE1EdUV2TnI0WjJjc0IwbUJObHRhdWlXaUNWWXliMF9sYUFhTzA1b1U?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 11:19:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran says it receives US response to latest proposal as Washington pulls out of Iraq - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hTZHg3aFBHZnJsWE56aHhkcXdubk5JOFFvRmhzb3lWQjFrd3NVbmJDOVk4SjBTSE4tSm1pbXJVUVFGSWxKdUMwV1JhcE83TVVhWC12ZkNBZThNaGRrLXNSZE9jUWEtbWxPV3hnRDlHcFBmaldvdjNHYUxyM3NiYS1iX3BjZVZYN0hfbWdMN0Y5SDJkVHhPOHh3?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 11:19:28 GMT",
+          "title": "Dollar surges in September, leaving euro lagging - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXZZWnNiSFFfUWVOeFNjX3hjdGxCOHRmWlR4NnMxT1NZUHFLN1pVYV9MajdTTkljQWVOZm55UDR0MTdaN2hScW41Y1Y4TGoxSi1kZTZNdmNpVkFIa2VUSklhSzZPNVdVRUQ3WkNOZG8yUHBiQUVwajlCVGJ2TG1XYlY4R3ZtTmkxWEEyQUoxZmtyQ09JelJfZWlUUQ?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 11:36:25 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T13:25:13.097Z"
+      "updatedAt": "2026-09-30T13:50:51.853Z"
     }
   ]
 }
