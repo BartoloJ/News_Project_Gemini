@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-30T21:00:19.111Z",
-  "lastChecked": "2026-09-30T21:00:19.111Z",
-  "lastUpdated": "2026-09-30T21:00:19.111Z",
-  "generatedAt": "2026-09-30T21:00:19.111Z",
+  "fetchedAt": "2026-09-30T21:25:13.313Z",
+  "lastChecked": "2026-09-30T21:25:13.313Z",
+  "lastUpdated": "2026-09-30T21:25:13.313Z",
+  "generatedAt": "2026-09-30T21:25:13.313Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 30 Sep 2026 21:11:24 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "What we know about stabbing on Flydubai flight to Israel",
           "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 30 Sep 2026 14:53:02 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Dozens hurt and hundreds arrested in wave of French school protests",
-          "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 30 Sep 2026 13:18:01 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T21:00:17.965Z"
+      "updatedAt": "2026-09-30T21:25:12.321Z"
     },
     {
       "name": "NPR",
@@ -112,66 +112,84 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T21:00:18.054Z"
+      "updatedAt": "2026-09-30T21:25:12.449Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - apnews.com",
+          "title": "Copilot stabs captain on flight to Israel before passengers storm cockpit and stabilize jetliner - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUVoWWFZd2hfb29WZ0tCQV83bTRCdFI5TTVLbWh4bHdxcWRxTTY5N2gxN0I4ZkN5TUp4YVpaVGMtSTRjTGRTMkV5cHVLeEl4a19lWXNBdzZVeXVnMGNCanJWdTRSNjVDUzRtSndzQ2ZBV3JsdlBXNkRlVGd5WXRaU2UweXFIVG1DVWpWby1sekV4Y1FBTDZtS1Z5aFVXSE9venYxdTRn?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 21:16:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlpRMXBsRDNwTlRQWnhIbmFRYTJDc09vbENfWG92d3RPWl9Qb3EwYlhNTW42T1ZMWnpOUUlqTGhHb1Bta0Jva3QtT0RnVFd4cnpSWjdsOUtKV0hMMG81clBZNU1rVGJJSW5jcVpoaHN6TWpXaXI3R3BHUDRfakt2YTdZRlVFejIzT3p6YVZyeGpqMWxuY2UtUlV6OTQwd0JCaHpHclVVZ0ROeDJi?oc=5",
           "pubDate": "Wed, 30 Sep 2026 20:26:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Pilot stabs fellow pilot on flight to Israel before passengers intervene to stop attack - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUVoWWFZd2hfb29WZ0tCQV83bTRCdFI5TTVLbWh4bHdxcWRxTTY5N2gxN0I4ZkN5TUp4YVpaVGMtSTRjTGRTMkV5cHVLeEl4a19lWXNBdzZVeXVnMGNCanJWdTRSNjVDUzRtSndzQ2ZBV3JsdlBXNkRlVGd5WXRaU2UweXFIVG1DVWpWby1sekV4Y1FBTDZtS1Z5aFVXSE9venYxdTRn?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 20:14:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US economy grew a solid 2.2% in the second quarter, government says, upgrading previous estimate - apnews.com",
+          "title": "US economy grew a solid 2.2% in the second quarter, government says, upgrading previous estimate - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWXpwNmNIQjBnejM4WUNtaUpjWGdoQ09YZFFtckxWVTI2VVdval9lWDgzRUpfYk9wY3N4anZiRExiRkhESFZvay1TeTlzRE5zU1B4SkotQW9yanJGTFlxbFJDYWpLcW1waWdkendzMFZKM1l2dmZNT1paVVVMbkFORF9NcHFudjN5T0V0X01oLUtPdUdxWHU0NjZqZVNYQQ?oc=5",
           "pubDate": "Wed, 30 Sep 2026 19:50:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Republican redistricting in Texas and Florida may not turn out as Trump had hoped - apnews.com",
+          "title": "Republican redistricting in Texas and Florida may not turn out as Trump had hoped - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzJVMDNSYWJ5allnZlVZREFyMlVaZjhaeEVTWE5FWWhDbW00eFBZVmhXMHFWaGpGaVZRR21vOXdXX3h2Wk5vMFZWdHRGRHoyc2s3eWdfOUNyRkFjeDBWaTVzczdFOWpjWnNXZzFvZVAtRDMzVXNMMUhaWDJkWWFNdDBhUEN4ZEI1MXV4VjJSaEswcUJOeVZXS19JckxXdi1Nc2RBaVQxcTNMNE5Q?oc=5",
           "pubDate": "Wed, 30 Sep 2026 19:21:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Potential sanctions against Man City could range from fines to expulsion from the Premier League - apnews.com",
+          "title": "Potential sanctions against Man City could range from fines to expulsion from the Premier League - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmpYX3poc0tZNU9vdWM5ZVpaTjg0dFNyMDA5bEU2S041Wkw4NGZNOFEwSzgwYVFOVVVDcldkRmVNWGI1b25PQ3VqT3FicHFBQ0JjR2R0SnB0cVhzeUhlN2xCVzdhcjlwZG9LcDRUQ3dPUlNJcHJxdGpLamxoaEVPLXBpRlczVDFOWHhHN3c5UXBhQ0dHaWc?oc=5",
           "pubDate": "Wed, 30 Sep 2026 19:17:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US can deport the leader of Wisconsin’s largest mosque on national security grounds, judge rules - apnews.com",
+          "title": "Court halts execution of Christa Gail Pike for a Tennessee murder she committed at age 18 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnVOY1V2MzZrbzhSSC13bUxKQzU1bWJON2RhLVVwU3dSNkJZM3JOeVlhWDF1VTd5VmlsMXZBTDZzQlhrOWhrMkpQUXFtUWpvRWUzMWY1a3V4UXp0eGRIQWFyMTYtSjNQUXRzNjkyWVZFT2Ixb0lFaWJwY2h4dHlMckpTdmFxc0QxbzYzQUJVQWlWSE0tY2Iw?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 18:51:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US can deport the leader of Wisconsin’s largest mosque on national security grounds, judge rules - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaC1IV1VIWWEwR1V6UUk0MmZVT1dxOGd3X3Q5QUZyeW5pQXAzS3g3Y1NYajRlWXJJWktxTXVvaGhtWHktTjlBdFZjaF8zUGt5WndVanJ3TUJlaVNPbTJWbElKRHZwX1ZudVJER2tVckhLMnFYSmxIc3U0WFdLQUY5bU5qVTlyNmVoNHR2VG9ZbWJmdm0xS1JmYWtSaEJBNnZjUkd3VnhUU0pMUG1l?oc=5",
           "pubDate": "Wed, 30 Sep 2026 18:34:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Wall Street closes in on a winning September following an encouraging update on inflation - apnews.com",
+          "title": "Wall Street closes in on a winning September following an encouraging update on inflation - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmtnVHpEa0ZTdzJYcHhrUTlwRURkX2tJVVgwTHgxeTFLY3FHeTRKal9wdmVYREZueVZnclVhTnloU0pRZHp1ZEtnT3BhX0pud3NuMlVQWG4xOV9yZUJVbjY1X1RZSlp1TlVVQUZDaHB6TXotdmx6akpNdFBDUklLcU81WEt0bXNLV0xwVE4taGxYMHNqQkZUaVFUWmM?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 18:18:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Woman accused of firing at home of Rihanna indicted on attempted murder with assault weapon - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzhhMXhEc2xjV1NkYktwak1rYVkzWWdqWmY4Qkg2TGFrRDRwQnBlbXJSYWpjYXlwSVR1TUJ4LUZwTnVGd0RwMnBvYnVZY0E0LTQ2S2lMQ0dYN2U4UFdHa1pid21FQ2tTSnBnZmlfSENVWU9Dbmp3bUNpVll1UUtmZnh0TTJKeHFqMEJUcTJfYnpCQUNjQkRwX3F2U2ljay1qT3F3TEFnUWlkM1Mz?oc=5",
           "pubDate": "Wed, 30 Sep 2026 18:18:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T21:00:18.576Z"
+      "updatedAt": "2026-09-30T21:25:12.895Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Texas US Senate candidate Paxton said Trump hurt Republicans, New York Times says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZlgwMVdIQTJBVVY4dVFUSWp5R0lLZFBHN1RZTWdIY2ZCT1dsWF9YLXdiVnFnMHg5ZlJmNlJibmRURDVkbm05S1VoSWZ4WmtVSzNEbkVHVklKOWVBdnM4RXo3SmpLZ2RyUzY0R1hoRXpnTlJZckdFNko1ZzlybG9nUlJSbGtxZ1d2SmdlSWVVYk5Ca3llTms1eHFPUmJXX0xhMDVGXzdHeUp1d204Tzhtci1oRWdiT2g2NzNjZUN2b0hSeW8?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 21:04:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "More than 270 priests in Massachusetts abused children over decades, state probe finds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkV4SUJCYjNnQXdtSnNxM2doX3hLbEtmVkRZcU4xQjdZendid1Q1aFg3eUZCRWM4OEJFa2RDaGpoS3plclJqSnlkRkwzYnBDOVItaDZnd0VpYjZJVHdMenNLSHJaM0dHNlpld0ZEWHFPakZqR29rWmRzZHJGbTJ5eFJXY1VzNllBZ3VRdWRvWDFMc0hla1VGVzlWb2hTcmQzak5RYnMxMDJ3SnZvUFB3MDFWcHhRdkFTcnc?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 20:46:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US judge allows Paramount to close Warner Bros acquisition - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVm40VWZUeEUzZE80a0FUdENrZ0d0Q0h1c2x0SVA5WkhtRU1SVWNGSWFxcjA3c2E1UkpSM0F2RkJYYkhlVTd0RTNDSFVwZlNEQkFwMXY2YzJOUTRKV2UwY2k3c1hEUkpKZS04OVl5UUQ2U19wcW5OSWVQZTA2QTM4bmlCYlVWczBUdF91eG0zdngtbENyMHYxQi01MUxkdw?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 20:41:12 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Experimental Lilly combination drug tops Zepbound in weight-loss trial - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd091UFNjZjRoTng5cVJCUXRNblZ0ZnBOR2xtUlhXN3lEQUtkUGtGZTBRdk11SnhCT1N0WTVFYVIwNmZMeUd6RzZiSmNxMHVWdHlORDhIWDdnVjJVc2lMTTQwdERSZVYwTG5JUlpwQWxna1JDRl9fWHZIdTh3QUhYaEdITW5lczgyVnp1aTZDcVdkdVRKeGZjeTNGU1luRUJGQUYwMUwyckdVdFdIOGhYOVNYV0VTd1ZiZVlhTg?oc=5",
@@ -191,38 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "S&P 500 dips, Nasdaq higher on modest rise in inflation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 20:01:24 GMT",
+          "title": "Trump says he has done a 'bad job' explaining his economic record - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUktuMmI0YTl6TWxBaFdCSXR1VmpSanZOQ2xxWmRQR1QzRWVuNDRkcGhJNmw5RjN0OVdacjJRUmNoM3FfM1J6SVNNTzNvQnRleXNkLTV5cFRHS1ZSRVFqYklwNzVaQTZVVW51ajBCUV9zMlYxM0p4RTJaVnFxMWs4R19jQ3RuOEk3UlRwV200dkRUTTN5bFFHMGdJOUJ0REpIbTkzWXp2alp3VGZwZmZxOF9fc1M?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 20:07:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Anthropic's IPO pitch embraces AI's promise and peril - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcDlCdU9Zek0tNW81WHEzdzdUU0FMa0hrWGVlaS13ZWMtVGRRTXNqYkZuaWV0WVZlSFR0Nm1vblBwd3h4ZFI3OWdXYnlJclNxM20wUHNORlB6T3lsV0k1R1pWSlpnVmozUTM4SjhqTlNHQ3B4VlJRNUdhNFoyUzV5MWZ0azM5YzR6b211N0hJMnVKdktaR2Rv?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 19:58:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Poland to set quicker air defence procedures, defence minister says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbXpGSXF4R1huWmh3WDdVVnpudlM2NlJJaFVmVFN4MU1uTzlkaDlrcmtCVzlpN0ZiS2RkSGtqc3d4eDZoYkxYdmRUMWl4bUw4ZGhGUnluR2g2Z3VvN3FEb2Z6UkpENFVqUWhXNnNXOGFNblhxaUdwNHVkNEg5eVBYeEVfOU1BWTRpc3ZwelRHUGVyakxOMEgtUFlVcmMwbnBzUm15VzN2UmdZdFdXNmxDNGlRYmJZRk1pYXZwaFUtQ3dQWTlF?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 19:55:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot-on-pilot stabbing - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 19:49:06 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US judge allows Paramount to close Warner Bros acquisition - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVm40VWZUeEUzZE80a0FUdENrZ0d0Q0h1c2x0SVA5WkhtRU1SVWNGSWFxcjA3c2E1UkpSM0F2RkJYYkhlVTd0RTNDSFVwZlNEQkFwMXY2YzJOUTRKV2UwY2k3c1hEUkpKZS04OVl5UUQ2U19wcW5OSWVQZTA2QTM4bmlCYlVWczBUdF91eG0zdngtbENyMHYxQi01MUxkdw?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 19:44:18 GMT",
+          "title": "Google announces Gemini 4 flagship AI model after months of delays - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 20:05:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T21:00:19.111Z"
+      "updatedAt": "2026-09-30T21:25:13.313Z"
     }
   ]
 }
