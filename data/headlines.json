@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-30T07:50:19.334Z",
-  "lastChecked": "2026-09-30T07:50:19.334Z",
-  "lastUpdated": "2026-09-30T07:50:19.334Z",
-  "generatedAt": "2026-09-30T07:50:19.334Z",
+  "fetchedAt": "2026-09-30T08:00:18.456Z",
+  "lastChecked": "2026-09-30T08:00:18.456Z",
+  "lastUpdated": "2026-09-30T08:00:18.456Z",
+  "generatedAt": "2026-09-30T08:00:18.456Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Israel-bound flight diverted after fight between pilots",
+          "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 30 Sep 2026 07:51:26 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Somali pirates killed oil tanker crew before rescue, official tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 30 Sep 2026 03:21:28 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
-          "link": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 29 Sep 2026 23:39:58 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T07:50:18.254Z"
+      "updatedAt": "2026-09-30T08:00:17.320Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T07:50:18.425Z"
+      "updatedAt": "2026-09-30T08:00:17.529Z"
     },
     {
       "name": "AP News",
@@ -142,6 +142,12 @@
           "source": "AP News"
         },
         {
+          "title": "Trump says top tech firms have signed accord to ‘self-police’ AI development - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUtqYURpWThrQ2d5ZC02TTJXX2dLajBXTjdhTGJaSEJ6VlRVNkVUYWl5MzNNdmppZGtqQ3FLOEIyalhQeDFHTDNKMElZaTBRckh1aS1idWo4bnhramhObnVqQkhiUFBoLUhqeXZOeHBueUpVYWJPbjN3dmExVW1oYTh1TTgtSGR5QTBB?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 01:21:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "CNN, MS NOW and Politico ask a court to block Trump from enforcing his White House media ban - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDUwMklnSXFrUWlISkJ1ck1YY1VOT2FBSDRCYWhicEhJTmYzRWhhdjI5MWZ2WE1VbWlKbWc2bzFuWTNqT2xjZVhUMzNTZ1NnRVEyM1RneXVfZ0Q2TDMyRkxqcVdic0U5NEJxb2N4OFVjaDBPZmszQ1A2S0lMMHFpX3hMdGt0ZUVoZDlaSG53?oc=5",
           "pubDate": "Wed, 30 Sep 2026 01:18:00 GMT",
@@ -154,24 +160,30 @@
           "source": "AP News"
         },
         {
-          "title": "Sparse crowd, empty seats greet .500 Astros for wild-card opener vs White Sox - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmdwaXRPYWhweHFmMUVWR1k5emhZc21NeTZuQmxZUm1INUk2elVlTG02Q21BLUdmUFR1SkFFRDU5ekxHMVNiRzdFQkZ0ekhaN1h2VU9FUURBZEkxTzVvdDh4aGk2VG4tRE1zakxJV2UxSUx1cU5IRGJKSWZNUGI4ZUdqd2ZFZmxL?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 23:47:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Hawks? Hawkeyes? Schmitt in probing Smith mistakes basketball mascots - apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVlDOEV1MFhtUWpnY0l0QU0xTzBpUTBOYmVNNG8yRzNaY2l6eVNPeHNsOV9iQnA4OGoxNDlIVDM1ZGZ1M3hKaFNXbGg3bFhYS3V3bWFvdTZxZmJDVHZib3ItT1hlS3RRdWllQXZkUmF2eXc0M0VuZ2VKS0dQWWNuZTBXcmxFelpFWVB0dXZNa3ZEZUx2OUpNeEtFNjBLZ3pwMHZIbjMzUl9qMmZv?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 23:20:00 GMT",
+          "title": "Carney accuses US steelmaker of betraying Canadian workers after layoffs tied to Trump tariffs - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ19OZDdTMUpDdnFOQXN0d1JVS2xESlJsa1dlUjFHNVNrYnV4N2RKUlYxUnNTa2t1WV84NVVSY2Y4TGRkZW4tTUhEQW01T0d4UW5ITkhjLUFLdkxfZzY5UW5GSG9XelE1OXBScGt4WUpsX0F6cGFkM2hWM2VXdDc4ZG52UFlidXp0TnZtYmxWcS1vdTluek1OdjdwTmhRRE9zYU1nQlNwRUU1VW9nS0E?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 23:59:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T07:50:18.938Z"
+      "updatedAt": "2026-09-30T08:00:18.044Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Israel-bound flight diverted to Saudi Arabia after brawl between pilots, Israeli official says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 07:35:01 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Senate blocks measure demanding report on rights violations in West Bank - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUGhfRnlGRDR1eXJDT3ozZFo3UkRSekVkZ1BnbG91bFdpYmU0TWFxQlVUNXAzZTljYUFDYXNlWFFFLU8yOWlSdWg2X3BZY0kwWDFmaVdtTUd2U0ZBTHdyb0lLMDZrcjV6Q2RiTF91bmtPNUhibE1KSFp0MG5QSHl6dmlWaWtUY3Y1dG11bXg0aTMtb1NyTU1LSFB3VUk0d1drVHVqdlFMQ1ZxMmJpZnEySkpZcXc3TzJSWW55Tmg2OA?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 06:19:01 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Polish airports in Lublin and Rzeszow resume flights - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnVyc041eGpLa0VBYWtTcFdBTEc2YnJtV3JhSnZYUDN2ZTNrbUZIQWVRUnBrNXd3TExINUtsYS1KNzZPZW9JVmlWUmVidWh4d1JhZTlOcFo2NVVUTGJDMHVicHpVNWE3RUJNeUF6TTEwSVVTNHMyeFgxY05rU0ZsQnVPcU8zY2c4b0t3UzhvZE9qc0Zqc3lMVVQ3WkdhcUFEQWxqTjZINlV1a3Yw?oc=5",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZkRyNkIyZFFpODczb2tleEFTamJVdEM1Nlh4SUlSOEJmVXQtRHhVTHVUcWFYWFV3bFVlcmt2TF9Kc1psRGNGbVRZWmx3bHJ3em1aMFAzM0pHcldYMWZQd2FwdHFQZHBIeVpLbldrdkx4djlNWFRuWnFZaW9GV2dRX2FqM1hVSEVXNDlOVmh5U2F0Vy1hd2g1RDJ1LWJzLXJzM2Mtb2hqRnhZSko0bEdOejVQU0lLZTlzN19pOTdWX0c2QjYwX3FoRUdR?oc=5",
           "pubDate": "Wed, 30 Sep 2026 04:41:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: A cruel quarter for bonds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTzJVZ3JqZkVCS3dCbFpHclJoaTZRSzRmT2xEWHBPSjBzOGRlS3NxS1NkQnhPSFB2aVpFUmh6UnZXSzdmZkozYklGX29ieGRzTzVkRnRYa1d3U0phSEpEWDJHMldRWnRQcG1ERzQtN0R0NEMzY283Rm1fWGhQNHl4M1RwVQ?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 04:33:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China says Taiwan is 'desecrating the martyrs' with its World War Two history criticism - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV3cwUmIyN3NGS3A4Tm1CQWRzb3R0VVhfR3hHbllmMTREdXBLM3hqeXU0amdESlVvczFmRTM4dk1JNDFsX0M4RXVDZEs2SjcyVkFKb3JhU1prM3NpNkhCMEloR3F1RmVJX1BiU1JfUVlRaHNReVM4TlJydVZaZGU2ZXFJZUtKVTJmYWZzVnEyeG5HWDQ2bWdkUXlXY0tObWxPMFlFdGxPdGk4Z1EtN2tkUktKY2ZNUWRhZHBR?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 04:01:14 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T07:50:19.334Z"
+      "updatedAt": "2026-09-30T08:00:18.456Z"
     }
   ]
 }
