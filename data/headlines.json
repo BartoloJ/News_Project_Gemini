@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-09-30T05:25:12.859Z",
-  "lastChecked": "2026-09-30T05:25:12.859Z",
-  "lastUpdated": "2026-09-30T05:25:12.859Z",
-  "generatedAt": "2026-09-30T05:25:12.859Z",
+  "fetchedAt": "2026-09-30T05:50:19.388Z",
+  "lastChecked": "2026-09-30T05:50:19.388Z",
+  "lastUpdated": "2026-09-30T05:50:19.388Z",
+  "generatedAt": "2026-09-30T05:50:19.388Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+          "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 30 Sep 2026 05:24:52 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Girl has multiple surgeries to control infections after strike in Gaza",
           "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-          "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 30 Sep 2026 03:38:09 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
           "link": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 30 Sep 2026 03:21:28 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T05:25:11.792Z"
+      "updatedAt": "2026-09-30T05:50:18.240Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T05:25:12.003Z"
+      "updatedAt": "2026-09-30T05:50:18.427Z"
     },
     {
       "name": "AP News",
@@ -156,7 +156,7 @@
         {
           "title": "Hawks? Hawkeyes? Schmitt in probing Smith mistakes basketball mascots - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVlDOEV1MFhtUWpnY0l0QU0xTzBpUTBOYmVNNG8yRzNaY2l6eVNPeHNsOV9iQnA4OGoxNDlIVDM1ZGZ1M3hKaFNXbGg3bFhYS3V3bWFvdTZxZmJDVHZib3ItT1hlS3RRdWllQXZkUmF2eXc0M0VuZ2VKS0dQWWNuZTBXcmxFelpFWVB0dXZNa3ZEZUx2OUpNeEtFNjBLZ3pwMHZIbjMzUl9qMmZv?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 23:27:03 GMT",
+          "pubDate": "Tue, 29 Sep 2026 23:20:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T05:25:12.414Z"
+      "updatedAt": "2026-09-30T05:50:18.909Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Gold on track for monthly decline as investors brace for US inflation data - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTld2SXpINElrMTRxSGliajBqR3dqcC1fQkJZNTVJb3JLVEI2aWxRVXRzclZBbGtoclctUVkxZ0t2VjdtRmpjRlhHMUp2Q1c2Nm9qb01HX1ZKZnRuNk5ETWVoaHU0VFVuU3JZMUZIZXVKT1ozMTc0VHM0emdJOVJJTHZrRGZPUkJhbFRZTGFhZUlNTlFqbGhhSENMRDhJcUxxUHlGR29ocWdjeGFo?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 04:54:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Morning Bid: A cruel quarter for bonds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTzJVZ3JqZkVCS3dCbFpHclJoaTZRSzRmT2xEWHBPSjBzOGRlS3NxS1NkQnhPSFB2aVpFUmh6UnZXSzdmZkozYklGX29ieGRzTzVkRnRYa1d3U0phSEpEWDJHMldRWnRQcG1ERzQtN0R0NEMzY283Rm1fWGhQNHl4M1RwVQ?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 04:33:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUg5OUtKZEFWWE1PU3dHYURRTThhbS1fWTM2YzdIekQyTTIwU1daMl8wSW5XNTl4aklKSWlxVHRrazlhRlNjNXZDX0ZHd3RnUldXTUZmbGNuYXJYMUV2SFVvWEZsVWRuajcxazZ5WmZ3eEg5TEMtMVVIMXB1V0ppNHA4VEIyQzN0c0hmZDNjaWFLTE81d3IxLXZQeWVJWjhzWTNrUXBzU0IwYXhaX3NqUXkwNTJmMS1yZlhiaGNPRVUxcGZ0RmNKVFhRRVZrQQ?oc=5",
@@ -191,7 +203,13 @@
           "source": "Reuters"
         },
         {
-          "title": "Indian shares open flat after foreign outflows - Reuters",
+          "title": "Asia share sales poised to test 2021 record as AI boom fuels deal pipeline - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkY0S25wOTJxaVZick5aOThGRDJ3eHpWR2NJcnRrRkh3MzBYQkNZWkZxRHFtMU1yZFZNMDdFYnVURHU3a1A4Q3d1eDNDNDZVeU9MRF9xRGNSckhsd25LcjRKTWRFT2Rlaks4bU1sek81Z1ByZnF5S0dGdUYxOGlUV09XZDFDcEsyODZBUXU0dldITmRBRzZQaDR0Wm1VZFRoNmtkeUNnd21YREVHdEJYOUV6Qkw5eGtIcE9HTzhEREU?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 02:26:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Indian shares inch higher after recent slide; IT stocks lead - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
           "pubDate": "Wed, 30 Sep 2026 02:24:00 GMT",
           "source": "Reuters"
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2hBclpDSnZBY0I0SjlMLVdOb3psd0dpV3NpNERFTTB5TkE1eXEzNm43TXVHV1BqMGZIZXYyZXJ3WVFBa0lXYXc4aWxsbXItUGtkQUdzUVMzQ2lMQmtxNTJRYUROYlBZbGlPVGJJclI0YlpMcEdJVXpWakRjU3QzeFM5Sm4tNnh5VVd4MnREbHN0VkIxOG51bjNnUUI5aHJGQmdLLXZnYnBld0N1Ym84?oc=5",
           "pubDate": "Wed, 30 Sep 2026 02:16:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Bonds set for bruising September; stocks fare better - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkhETkh2bThQM2VXdlJQZHdqOHVHRTFNX2dRMVZVMGhhMzczY0xIYkRfdmVldzNlVFdEbWZTVC1aYW1fekVfOW9Db28yd0czQVk5MURaaWVfNjdTVFVGeE1Dcy16dk9vQmNZb3c2bklRd3l0cTNwQXBqemxxbWxwS3RaYw?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 01:58:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China services growth hits three-month high, private PMI shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjA4dXdpcEFnY3JRblFGOEJmOC04cTNSakJsOHY3UnBIX2NDRlIwb1Q1UF9jZGZqVGFIUWYzRDVKd2VEYmFuNFpUbU0tZEVDNmpNVHpKc3I3VFhpTWxFc2JqZ2RmNmR2bUVIVGtFYUROcEpVUlVOZlJ2LWRPcGpta1VGNjVJcFllNmhzb2RNWXJORVpGdkNUWVRpckI3R3RtNnczWktxenBVZUtOdUxsMkNsQ1E?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 01:52:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil gains after Trump denies he is willing to ease sanctions on Iran - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 01:39:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T05:25:12.859Z"
+      "updatedAt": "2026-09-30T05:50:19.388Z"
     }
   ]
 }
