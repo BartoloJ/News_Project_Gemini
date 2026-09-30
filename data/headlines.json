@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-30T02:00:20.152Z",
-  "lastChecked": "2026-09-30T02:00:20.152Z",
-  "lastUpdated": "2026-09-30T02:00:20.152Z",
-  "generatedAt": "2026-09-30T02:00:20.152Z",
+  "fetchedAt": "2026-09-30T02:25:24.251Z",
+  "lastChecked": "2026-09-30T02:25:24.251Z",
+  "lastUpdated": "2026-09-30T02:25:24.251Z",
+  "generatedAt": "2026-09-30T02:25:24.251Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T02:00:18.531Z"
+      "updatedAt": "2026-09-30T02:25:22.964Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The federal law aimed at protecting college students from sexual abuse",
+          "link": "https://www.npr.org/2026/09/29/nx-s1-5983779/investigating-sexual-abuse-on-campus",
+          "pubDate": "Tue, 29 Sep 2026 17:29:21 -0400",
+          "source": "NPR"
+        },
         {
           "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
           "link": "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
@@ -103,26 +109,14 @@
           "link": "https://www.npr.org/2026/09/29/g-s1-145422/up-first-newsletter-fuel-efficiency-standards-cornell-rape-case-terror-suspects",
           "pubDate": "Tue, 29 Sep 2026 07:36:24 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "How to hide your spending habits from retailers (so you don't get ripped off)",
-          "link": "https://www.npr.org/2026/09/29/nx-s1-5983457/4-ways-to-avoid-getting-ripped-off-according-to-a-pricing-expert",
-          "pubDate": "Tue, 29 Sep 2026 05:01:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T02:00:18.830Z"
+      "updatedAt": "2026-09-30T02:25:23.052Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "Trump says top tech firms have signed accord to ‘self-police’ AI development - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUtqYURpWThrQ2d5ZC02TTJXX2dLajBXTjdhTGJaSEJ6VlRVNkVUYWl5MzNNdmppZGtqQ3FLOEIyalhQeDFHTDNKMElZaTBRckh1aS1idWo4bnhramhObnVqQkhiUFBoLUhqeXZOeHBueUpVYWJPbjN3dmExVW1oYTh1TTgtSGR5QTBB?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 01:21:00 GMT",
-          "source": "AP News"
-        },
         {
           "title": "CNN, MS NOW and Politico ask a court to block Trump from enforcing his White House media ban - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDUwMklnSXFrUWlISkJ1ck1YY1VOT2FBSDRCYWhicEhJTmYzRWhhdjI5MWZ2WE1VbWlKbWc2bzFuWTNqT2xjZVhUMzNTZ1NnRVEyM1RneXVfZ0Q2TDMyRkxqcVdic0U5NEJxb2N4OFVjaDBPZmszQ1A2S0lMMHFpX3hMdGt0ZUVoZDlaSG53?oc=5",
@@ -136,21 +130,9 @@
           "source": "AP News"
         },
         {
-          "title": "Federal prosecutors charge Venezuelan man shot by ICE agent in Texas with assaulting an officer - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUlQaGlWVzlfWnJ2WF9ZU3J3U3BtNG5nMGd0UG5lS1lZZGhFY0o4bnAyNmU5bloyQVlCbTdDNE82U1ZzbFdmdXV5bkRuZWtOeUJYemdEMDdYd3AxMm9ZalFJdUtqeTlUdEVUdzhENFFVRm56ejBrMkhiX3FqVnBOTGU2aERXd2twaTZ3RTNlWXlFRm9vYVRxZHV4WTFHcnhndmhFS1p4dURNYzdqNTh6YQ?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 22:57:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Altman unveils ‘always-on’ AI agent after OpenAI shelves model over safety concerns - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNm9lYm05ZEFzNFk5RU45MmFLcXE2cHZnaUlzM2I1R3BZTUQ3cTBGaEkxdlZTdE5hSzBBZDhoQngyRFREaHBJVXpab0JnWVA0LWcwZlpEU0R0Wk9IQ3pJdVU3ZGhtRFhnclRFMHc5NDh1TG5oQTMzZ2FjMU5YOFpfMXpDZWtldnJ3Q25XOXBTM2RiSGVHV1N0a1VfZEFkNEst?oc=5",
           "pubDate": "Tue, 29 Sep 2026 22:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 22:41:12 GMT",
           "source": "AP News"
         },
         {
@@ -164,10 +146,28 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWZZS3lCYTJxdHdYZGdBblpfMzMwaU1DaThtOUo2Q2Z1RGZLMzJyRWlFVTRkcjNRb05GZDJRNDUyeDFBVm5wZFJSdnAxSEFEM2s1d2hGQl9mT0tlTVpocjZ2SkJxcGJ3WDd1ZUljMUVuejFpUUZiUVprWV8xRlB5T0trZzZzRXRHYUZJcm9ObTd0UTFKb2J4Z2Y4b21YLWpKY3dz?oc=5",
           "pubDate": "Tue, 29 Sep 2026 22:07:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Former ‘American Idol’ singer Caleb Flynn convicted of fatally shooting his wife - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWlESks1TnAxOFp2UXUtZ1JBMFMwUjlnUHVWNzU1MlBMa2RwMFk0S2xkcVlaekFLREhLUk9HZERFQzVuUUFOcVpNRTFySG9hZGlHamZNQnBJaTZNdVl2VTBtUU5rVE1CNDNaZkd1ZnRjWXdvLUdYTjM0elB0ckFJSlN0aWw5TmQwTXNXcmIzeENyQzBhTndjUHFENHc?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 22:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Hegseth is set to announce more cuts to the military’s general and admiral ranks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXdnZE5ReUhZdjlodzdkSlNmRFhFV3VCaWs4V192ODlpbGVEQjdUem9lT2MycHJtM2FtMmwwbVNLanhqdmoxSE42Y0E0RjRJVURBRGdsb2J1VmZNM1k2XzJIOEZ2Z2EwQWoyYnBqNU52VDVsNzM3em5hcDROSWRBRXBkQnJxTVJYNG04QlktUjdtQXM2a2JXajRR?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 22:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Austin Riley's 3-run homer off Jhoan Duran rallies Braves past Phillies 5-3 in NLWCS opener - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1daYU5BVVZWdUdQYmYxMUdSQnhSaFlRR2haQy1ya1FXalNnZ0poeEw0cnZrTkcyb0YyS1dhUVF2bU9zc0xIZEhHR0hoVXRnUWozeXUtVTBqa3BIVTlqbGRLNnlIT08xeHlPLWhsNlVtSTB3VUJ0d09jV1ljOVc2dDZxSGF1MzVP?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 22:01:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T02:00:19.628Z"
+      "updatedAt": "2026-09-30T02:25:23.537Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "US forces exit Iraq, emboldening Iran's proxies and Islamic State - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz?oc=5",
           "pubDate": "Wed, 30 Sep 2026 01:22:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Senate blocks measure demanding report on rights violations in West Bank - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUGhfRnlGRDR1eXJDT3ozZFo3UkRSekVkZ1BnbG91bFdpYmU0TWFxQlVUNXAzZTljYUFDYXNlWFFFLU8yOWlSdWg2X3BZY0kwWDFmaVdtTUd2U0ZBTHdyb0lLMDZrcjV6Q2RiTF91bmtPNUhibE1KSFp0MG5QSHl6dmlWaWtUY3Y1dG11bXg0aTMtb1NyTU1LSFB3VUk0d1drVHVqdlFMQ1ZxMmJpZnEySkpZcXc3TzJSWW55Tmg2OA?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 00:24:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjZFalBsd0NoTHFrcUl4ZVQzMUMxX01hbE9mMkR6TTB3cXpCYlN5ME4ybkhwVWlhVXoySFI1SUV2WkNJYnBRVDIxb3hCVFRFekw3RDJFdzVXa2U3NThmc1F2N0pCNThkRDh5UnNpY3JER0dUbksxWEhFUnJHVF9ORndRQTdOSFdpWGFNdDhiaFpqNnZnWW13YlpxRm1Kb0NjQVRlald4TGNiUUoxdFpqZ0xYMnplZXV2TkE?oc=5",
           "pubDate": "Tue, 29 Sep 2026 23:25:37 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trapped in inferno after Russian strike, Ukrainian scientist climbed to safety - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSXd6dU9UdV9WR2NxUF8tblJLbnVpbHhKZTMzVlRnM2dzY3hsTWdQU1EyM1FQdGlYbmZtNzlMakhSN1lPMy1YLWJuS2lfd2d4bHNHcmUyekZDOVNpbW5yWWVmWjhyWTZQX25lWGZIa0Z0NVNfaUwyQWo1a2lPUFJjRHlkVjVyMkdqMlU4THM4YXpBRzVqak5DTmhqZnM1UTlzSWloZVExS1RRNkhnbXgxWDMwekhSbmNfYmNwMg?oc=5",
-          "pubDate": "Tue, 29 Sep 2026 23:23:48 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T02:00:20.152Z"
+      "updatedAt": "2026-09-30T02:25:24.251Z"
     }
   ]
 }
