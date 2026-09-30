@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-30T06:00:17.868Z",
-  "lastChecked": "2026-09-30T06:00:17.868Z",
-  "lastUpdated": "2026-09-30T06:00:17.868Z",
-  "generatedAt": "2026-09-30T06:00:17.868Z",
+  "fetchedAt": "2026-09-30T06:25:13.866Z",
+  "lastChecked": "2026-09-30T06:25:13.866Z",
+  "lastUpdated": "2026-09-30T06:25:13.866Z",
+  "generatedAt": "2026-09-30T06:25:13.866Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T06:00:16.494Z"
+      "updatedAt": "2026-09-30T06:25:13.160Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Hurricane Polo's remnants bringing more rain to flood-struck U.S. Southwest",
+          "link": "https://www.npr.org/2026/09/30/g-s1-145590/hurricane-polo-us-southwest",
+          "pubDate": "Wed, 30 Sep 2026 02:16:44 -0400",
+          "source": "NPR"
+        },
         {
           "title": "The federal law aimed at protecting college students from sexual abuse",
           "link": "https://www.npr.org/2026/09/29/nx-s1-5983779/investigating-sexual-abuse-on-campus",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/09/29/nx-s1-5980447/macarthur-genius-grants-2026-fellows",
           "pubDate": "Tue, 29 Sep 2026 12:01:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened",
-          "link": "https://www.npr.org/2026/09/29/g-s1-145422/up-first-newsletter-fuel-efficiency-standards-cornell-rape-case-terror-suspects",
-          "pubDate": "Tue, 29 Sep 2026 07:36:24 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T06:00:16.809Z"
+      "updatedAt": "2026-09-30T06:25:13.430Z"
     },
     {
       "name": "AP News",
@@ -167,62 +167,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T06:00:17.327Z"
+      "updatedAt": "2026-09-30T06:25:13.855Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Iran appeals to US voters as American troops leave Iraq - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hTZHg3aFBHZnJsWE56aHhkcXdubk5JOFFvRmhzb3lWQjFrd3NVbmJDOVk4SjBTSE4tSm1pbXJVUVFGSWxKdUMwV1JhcE83TVVhWC12ZkNBZThNaGRrLXNSZE9jUWEtbWxPV3hnRDlHcFBmaldvdjNHYUxyM3NiYS1iX3BjZVZYN0hfbWdMN0Y5SDJkVHhPOHh3?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 05:07:37 GMT",
+          "title": "Dollar set for big rise in September, mainly at euro's expense - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXZZWnNiSFFfUWVOeFNjX3hjdGxCOHRmWlR4NnMxT1NZUHFLN1pVYV9MajdTTkljQWVOZm55UDR0MTdaN2hScW41Y1Y4TGoxSi1kZTZNdmNpVkFIa2VUSklhSzZPNVdVRUQ3WkNOZG8yUHBiQUVwajlCVGJ2TG1XYlY4R3ZtTmkxWEEyQUoxZmtyQ09JelJfZWlUUQ?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 06:06:01 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Gold on track for monthly decline as investors brace for US inflation data - Reuters",
+          "title": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUg5OUtKZEFWWE1PU3dHYURRTThhbS1fWTM2YzdIekQyTTIwU1daMl8wSW5XNTl4aklKSWlxVHRrazlhRlNjNXZDX0ZHd3RnUldXTUZmbGNuYXJYMUV2SFVvWEZsVWRuajcxazZ5WmZ3eEg5TEMtMVVIMXB1V0ppNHA4VEIyQzN0c0hmZDNjaWFLTE81d3IxLXZQeWVJWjhzWTNrUXBzU0IwYXhaX3NqUXkwNTJmMS1yZlhiaGNPRVUxcGZ0RmNKVFhRRVZrQQ?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 05:22:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tennessee due to execute woman for first time in two centuries - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNmI4TktoRGotdXc1NHo1a0kxSktmREtuc0lVaWlpandHY3RuSnVnY0doMWZXS1RaUURKUlI0LUFUNmRnd21YN0lCcDZhU2luWDdBd19lVjRsVGFwS09Ram1rNU9oQW9MdnpDUmpKVEZ5dHFIOUg2RkE0RnBvRFN1US1xSF9pbmphd3JvUmdRb0pRRXR5a21hbGp6SEMyUQ?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 05:08:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold on track for monthly decline as investors brace for US inflation data - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTld2SXpINElrMTRxSGliajBqR3dqcC1fQkJZNTVJb3JLVEI2aWxRVXRzclZBbGtoclctUVkxZ0t2VjdtRmpjRlhHMUp2Q1c2Nm9qb01HX1ZKZnRuNk5ETWVoaHU0VFVuU3JZMUZIZXVKT1ozMTc0VHM0emdJOVJJTHZrRGZPUkJhbFRZTGFhZUlNTlFqbGhhSENMRDhJcUxxUHlGR29ocWdjeGFo?oc=5",
           "pubDate": "Wed, 30 Sep 2026 04:54:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Morning Bid: A cruel quarter for bonds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTzJVZ3JqZkVCS3dCbFpHclJoaTZRSzRmT2xEWHBPSjBzOGRlS3NxS1NkQnhPSFB2aVpFUmh6UnZXSzdmZkozYklGX29ieGRzTzVkRnRYa1d3U0phSEpEWDJHMldRWnRQcG1ERzQtN0R0NEMzY283Rm1fWGhQNHl4M1RwVQ?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 04:33:00 GMT",
+          "title": "Chinese factory activity expands in September amid AI boom - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2hBclpDSnZBY0I0SjlMLVdOb3psd0dpV3NpNERFTTB5TkE1eXEzNm43TXVHV1BqMGZIZXYyZXJ3WVFBa0lXYXc4aWxsbXItUGtkQUdzUVMzQ2lMQmtxNTJRYUROYlBZbGlPVGJJclI0YlpMcEdJVXpWakRjU3QzeFM5Sm4tNnh5VVd4MnREbHN0VkIxOG51bjNnUUI5aHJGQmdLLXZnYnBld0N1Ym84?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 03:19:31 GMT",
           "source": "Reuters"
         },
         {
-          "title": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUg5OUtKZEFWWE1PU3dHYURRTThhbS1fWTM2YzdIekQyTTIwU1daMl8wSW5XNTl4aklKSWlxVHRrazlhRlNjNXZDX0ZHd3RnUldXTUZmbGNuYXJYMUV2SFVvWEZsVWRuajcxazZ5WmZ3eEg5TEMtMVVIMXB1V0ppNHA4VEIyQzN0c0hmZDNjaWFLTE81d3IxLXZQeWVJWjhzWTNrUXBzU0IwYXhaX3NqUXkwNTJmMS1yZlhiaGNPRVUxcGZ0RmNKVFhRRVZrQQ?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 03:03:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Dangote to begin construction of $16 billion East Africa refinery in Kenya - Reuters",
+          "title": "Dangote to begin construction of $16 billion East Africa refinery in Kenya - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLW04LThTcE5MdHd5LTBPYTlKb3BhLW5sRUxfcDBOMmlSaUxCLVJnaERPeHVjYURJU3dudWdLTWRUVzk1bTl4OEkxZ2d1amNzQ0VQOFBBeElJM1JXTDlxaEFoNnpPTExGM0hCQkJ4ZGZaRjBUcXROMzJLYlFRS0ZtV2tfNzc4SHlqY3FacUUxT0dDdUdkd2x5MVc4X0tieU4ycGRtRzYyenhLNnVIaG03ZTlNOVZKSkk?oc=5",
           "pubDate": "Wed, 30 Sep 2026 03:01:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Asia share sales poised to test 2021 record as AI boom fuels deal pipeline - Reuters",
+          "title": "Iran appeals to US voters as American troops leave Iraq - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hTZHg3aFBHZnJsWE56aHhkcXdubk5JOFFvRmhzb3lWQjFrd3NVbmJDOVk4SjBTSE4tSm1pbXJVUVFGSWxKdUMwV1JhcE83TVVhWC12ZkNBZThNaGRrLXNSZE9jUWEtbWxPV3hnRDlHcFBmaldvdjNHYUxyM3NiYS1iX3BjZVZYN0hfbWdMN0Y5SDJkVHhPOHh3?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 02:48:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Asia share sales poised to test 2021 record as AI boom fuels deal pipeline - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkY0S25wOTJxaVZick5aOThGRDJ3eHpWR2NJcnRrRkh3MzBYQkNZWkZxRHFtMU1yZFZNMDdFYnVURHU3a1A4Q3d1eDNDNDZVeU9MRF9xRGNSckhsd25LcjRKTWRFT2Rlaks4bU1sek81Z1ByZnF5S0dGdUYxOGlUV09XZDFDcEsyODZBUXU0dldITmRBRzZQaDR0Wm1VZFRoNmtkeUNnd21YREVHdEJYOUV6Qkw5eGtIcE9HTzhEREU?oc=5",
           "pubDate": "Wed, 30 Sep 2026 02:26:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indian shares inch higher after recent slide; IT stocks lead - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 02:24:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chinese factory activity expands in September amid AI boom - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2hBclpDSnZBY0I0SjlMLVdOb3psd0dpV3NpNERFTTB5TkE1eXEzNm43TXVHV1BqMGZIZXYyZXJ3WVFBa0lXYXc4aWxsbXItUGtkQUdzUVMzQ2lMQmtxNTJRYUROYlBZbGlPVGJJclI0YlpMcEdJVXpWakRjU3QzeFM5Sm4tNnh5VVd4MnREbHN0VkIxOG51bjNnUUI5aHJGQmdLLXZnYnBld0N1Ym84?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 02:16:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-09-30T06:00:17.868Z"
+      "updatedAt": "2026-09-30T06:25:13.866Z"
     }
   ]
 }
