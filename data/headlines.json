@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-10-01T01:25:13.573Z",
-  "lastChecked": "2026-10-01T01:25:13.573Z",
-  "lastUpdated": "2026-10-01T01:25:13.573Z",
-  "generatedAt": "2026-10-01T01:25:13.573Z",
+  "fetchedAt": "2026-10-01T01:50:17.409Z",
+  "lastChecked": "2026-10-01T01:50:17.409Z",
+  "lastUpdated": "2026-10-01T01:50:17.409Z",
+  "generatedAt": "2026-10-01T01:50:17.409Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "California bans child marriage, a practice still legal in 32 US states",
-          "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 01 Oct 2026 00:57:04 GMT",
+          "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+          "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 01 Oct 2026 01:45:09 GMT",
           "source": "BBC News"
         },
         {
-          "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-          "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 01 Oct 2026 00:19:20 GMT",
+          "title": "California bans child marriage, a practice still legal in 32 US states",
+          "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 01 Oct 2026 00:57:04 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:25:12.361Z"
+      "updatedAt": "2026-10-01T01:50:15.897Z"
     },
     {
       "name": "NPR",
@@ -112,66 +112,72 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:25:12.690Z"
+      "updatedAt": "2026-10-01T01:50:16.471Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Pilot stabs fellow pilot on flight to Israel before passengers intervene to stop attack - AP News",
+          "title": "Pilot stabs fellow pilot on flight to Israel before passengers intervene to stop attack - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUVoWWFZd2hfb29WZ0tCQV83bTRCdFI5TTVLbWh4bHdxcWRxTTY5N2gxN0I4ZkN5TUp4YVpaVGMtSTRjTGRTMkV5cHVLeEl4a19lWXNBdzZVeXVnMGNCanJWdTRSNjVDUzRtSndzQ2ZBV3JsdlBXNkRlVGd5WXRaU2UweXFIVG1DVWpWby1sekV4Y1FBTDZtS1Z5aFVXSE9venYxdTRn?oc=5",
           "pubDate": "Thu, 01 Oct 2026 00:58:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US Supreme Court clears way for Christa Gail Pike’s execution in Tennessee to go forward - AP News",
+          "title": "Potential sanctions against Man City could range from fines to expulsion from the Premier League - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmpYX3poc0tZNU9vdWM5ZVpaTjg0dFNyMDA5bEU2S041Wkw4NGZNOFEwSzgwYVFOVVVDcldkRmVNWGI1b25PQ3VqT3FicHFBQ0JjR2R0SnB0cVhzeUhlN2xCVzdhcjlwZG9LcDRUQ3dPUlNJcHJxdGpLamxoaEVPLXBpRlczVDFOWHhHN3c5UXBhQ0dHaWc?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 00:35:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US Supreme Court clears way for Christa Gail Pike’s execution in Tennessee to go forward - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnVOY1V2MzZrbzhSSC13bUxKQzU1bWJON2RhLVVwU3dSNkJZM3JOeVlhWDF1VTd5VmlsMXZBTDZzQlhrOWhrMkpQUXFtUWpvRWUzMWY1a3V4UXp0eGRIQWFyMTYtSjNQUXRzNjkyWVZFT2Ixb0lFaWJwY2h4dHlMckpTdmFxc0QxbzYzQUJVQWlWSE0tY2Iw?oc=5",
           "pubDate": "Thu, 01 Oct 2026 00:20:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump hails the US military’s exit from Iraq after 12-year mission against Islamic State - AP News",
+          "title": "Trump hails the US military’s exit from Iraq after 12-year mission against Islamic State - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVd3ZE1qU3YyRlhnTjBFTlVSX0taT0p1MDFpQVNBNVJTSzY5U3pkVkpNVTdmMU5qLWZrMGsxLUdROFFURmFxRzFjME5fWWhhVlZGcTFZRnExRkFhcFNaeXNRYmhkQ3h4NnU3Q09mSUlteG8wZ1dVRlpQME0xQk1jcUlqeU5XMkpVdWNyaW1jN1VRNG84VExtV0NQUkJsd2ZNRUFPdmd0WFM?oc=5",
           "pubDate": "Wed, 30 Sep 2026 23:38:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Former Homeland Security Secretary Kristi Noem files for divorce from her husband of 34 years - AP News",
+          "title": "Former Homeland Security Secretary Kristi Noem files for divorce from her husband of 34 years - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON00xUVlMRnMwQ3dmbU5naDMtQWZmV3F3RldPYTBaV0w4WnN4MGg4Yl9ob20xOGJMcm14bk9HNjdQX01lODFsYmc2Wl9sMnZEcTNlaUd6Zmt1R2pFX2cyQ0QtTTU1R05mdm5ib2ZLWDUwSGFQYWpwWDQxUWdQNkkwb1lTQzZDSVBLaWpScjRKbUVtZDhEcGNJcW1xdlZvTzlZekZ3bzJLbw?oc=5",
           "pubDate": "Wed, 30 Sep 2026 23:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US can deport the leader of Wisconsin’s largest mosque on national security grounds, judge rules - AP News",
+          "title": "Man fatally shoots 2 co-workers at a Virginia business before killing himself, police say - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdmdmZzR0a21CMlRRZWFJOVNIVlh6ZWU1NE9URVlDQnItQzJUQTViek9IWkp3SUllZF9fX1AyTkMzWkFSMFMtZjF0VnJXYmx2ZFRwZjNtbTZQMlNGaVM4VTJBdjhxTjFwQTNHSGkwRlZRVUVTZDhNUkZJdk11Wi1lSXcycVJQVjFRRVJPUnJwMF81OTBfVEVoNzJKN1dETmVMYkJV?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 23:11:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US can deport the leader of Wisconsin’s largest mosque on national security grounds, judge rules - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaC1IV1VIWWEwR1V6UUk0MmZVT1dxOGd3X3Q5QUZyeW5pQXAzS3g3Y1NYajRlWXJJWktxTXVvaGhtWHktTjlBdFZjaF8zUGt5WndVanJ3TUJlaVNPbTJWbElKRHZwX1ZudVJER2tVckhLMnFYSmxIc3U0WFdLQUY5bU5qVTlyNmVoNHR2VG9ZbWJmdm0xS1JmYWtSaEJBNnZjUkd3VnhUU0pMUG1l?oc=5",
           "pubDate": "Wed, 30 Sep 2026 22:12:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - AP News",
+          "title": "Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlpRMXBsRDNwTlRQWnhIbmFRYTJDc09vbENfWG92d3RPWl9Qb3EwYlhNTW42T1ZMWnpOUUlqTGhHb1Bta0Jva3QtT0RnVFd4cnpSWjdsOUtKV0hMMG81clBZNU1rVGJJSW5jcVpoaHN6TWpXaXI3R3BHUDRfakt2YTdZRlVFejIzT3p6YVZyeGpqMWxuY2UtUlV6OTQwd0JCaHpHclVVZ0ROeDJi?oc=5",
           "pubDate": "Wed, 30 Sep 2026 21:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Most US stocks fall after the bond market cranks the pressure higher - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmtnVHpEa0ZTdzJYcHhrUTlwRURkX2tJVVgwTHgxeTFLY3FHeTRKal9wdmVYREZueVZnclVhTnloU0pRZHp1ZEtnT3BhX0pud3NuMlVQWG4xOV9yZUJVbjY1X1RZSlp1TlVVQUZDaHB6TXotdmx6akpNdFBDUklLcU81WEt0bXNLV0xwVE4taGxYMHNqQkZUaVFUWmM?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 21:04:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Man fatally shoots 2 co-workers at a Virginia business before killing himself, police say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdmdmZzR0a21CMlRRZWFJOVNIVlh6ZWU1NE9URVlDQnItQzJUQTViek9IWkp3SUllZF9fX1AyTkMzWkFSMFMtZjF0VnJXYmx2ZFRwZjNtbTZQMlNGaVM4VTJBdjhxTjFwQTNHSGkwRlZRVUVTZDhNUkZJdk11Wi1lSXcycVJQVjFRRVJPUnJwMF81OTBfVEVoNzJKN1dETmVMYkJV?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 20:54:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:25:13.143Z"
+      "updatedAt": "2026-10-01T01:50:16.945Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "South Korea ordered to pay Elliott $48.49 million in Samsung merger case - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2VpQVBjR21OM3RLWTVydkpKYmVDSzVwMk5CV3FaRjdrZHhNb1NjZ241N3NpQzF3cllmbDZ6UVdYLWdaSEFxSExHWVJxbVBKVzhHT2FPUHJqRE5jdE93UlM1UG00bjZ0T0lBbm5ieEZHTWxWbXNLQnZXa1k4elg3d0g3dS1ScVd2eTZmd2FIUUxtUEJLb3NtWVRxV2ZKN3pnSW5lWTZ0WjJZZw?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 00:21:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US second-quarter GDP revised higher amid robust consumer spending - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUNjeGFUTWVjeXFTM2tZeExBbEcyLXUyMVIyZDYwV0lyOG45TDRkd0x2NUhrLWxEdVNBUmZ4LXF2clhWRW1hQ0cyalIyQTFJVzBWTG52LU5uX2J6UzVtbDMzaHhwblhxV2VpdUFoVlRrNnQ5aHk2NEVyNWFBZ3paakF5LU15NWtqNzVscVZkYzRQR0hieGFfNzlGZTZSNUxSblFhLWNXUzdaYnJ6dk9WYg?oc=5",
@@ -197,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Netanyahu hails stabbed Indian pilot of flydubai plane - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHV1SVRpbTNOMkdCZHowZWpBZG5PdUtTTWhtZnNkSXFSZlkxYzctTHdmNzVmZmYzUTROQ05JZ2I0dFRlZ0VLQTNxN2t1YkpHTFBjeFhTczBUTEhEdHp3bE1WZVc1TXQ4YXpfVS1tX0hnRlJkeDVZa2J0Z0FjVEstbVFrcEN2ckNWbjBDRk9wdEx5enlNRVBSMk1VSnhuY3Bh?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 23:22:44 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump says he has done a 'bad job' explaining his economic record - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUktuMmI0YTl6TWxBaFdCSXR1VmpSanZOQ2xxWmRQR1QzRWVuNDRkcGhJNmw5RjN0OVdacjJRUmNoM3FfM1J6SVNNTzNvQnRleXNkLTV5cFRHS1ZSRVFqYklwNzVaQTZVVW51ajBCUV9zMlYxM0p4RTJaVnFxMWs4R19jQ3RuOEk3UlRwV200dkRUTTN5bFFHMGdJOUJ0REpIbTkzWXp2alp3VGZwZmZxOF9fc1M?oc=5",
           "pubDate": "Wed, 30 Sep 2026 23:22:35 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmphT052eEZvV1JCb3JYVG43QzRHSzZURUtsRk5Lclo3VDF3bE55RTZ1bEp1UUFvTklyeWNRd0k1bXdENUFGaThfUTVQZXZTUjBYck5YYy1qNEdtV040SkZObzY5QlRYbnJ2dFBVRTBUdlB6bFZVdlZMOU9uSkxTbHR1MElGbjZUQTF1blBrc1h4OFJOUGlleEQ0aVBCUEZzQ1FtNUVYSnhwRGZtbU5Vb012YVRuZ1hlSFFGSngzSmN2bDBZVWprUg?oc=5",
           "pubDate": "Wed, 30 Sep 2026 23:20:33 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Watchdog finds no Fed misconduct in renovation; Trump calls for Powell's resignation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnN2cDczYmlxZHdIZlAxeWVkVWZPVlA4SmJ2eHB2UTVjZzhHbTRuUy1uazQyblA1UDBFbDVXOFNyUXdJUFZUVHVwR2pHR3dqSkhNbGdmQ1Iyb3k3R3A5MlZuYnhkd2ROX0xLaHVFeGVSUG0tTHhneWxJdmFTeUVPalBQQTN4elgzME1GejM5dUJ2WG5sbG1heGlCZjIxd1NtOGtTMDhoM21ZNVpOSVMwZEIxSjM3cjRYQkhzTA?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 23:15:21 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump unveils $200 billion South Korean investment in US; Seoul hedges on Alaska pipeline - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd19OMlhEUlRpYXJTY0hWUjF3MDRneXkxa0w0dzhuZ19VUGl3UlEyM0tiWnJqLWprdXByMm9lUG9paGU0Nl9VQ2I5djVaLW5rSGhLMDlCN3Y1enBXcHB3dUNoeEhybms5dmVCS3FJMFl3T20yM2ZJOEx1TGItMnNrT1FrM0RtT0xDc0VieWxkLWJidUh2a2l4V0sxS0plYVJuQi1qOW1ETzRDREdCUEE4U3lZaVpjVHlKTEhRTC1jTmNWWjZ3Zk5fZWFCQnJudw?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 23:10:24 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T01:25:13.573Z"
+      "updatedAt": "2026-10-01T01:50:17.409Z"
     }
   ]
 }
