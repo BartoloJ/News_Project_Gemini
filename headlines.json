@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-01T05:25:11.573Z",
-  "lastChecked": "2026-10-01T05:25:11.573Z",
-  "lastUpdated": "2026-10-01T05:25:11.573Z",
-  "generatedAt": "2026-10-01T05:25:11.573Z",
+  "fetchedAt": "2026-10-01T05:50:14.701Z",
+  "lastChecked": "2026-10-01T05:50:14.701Z",
+  "lastUpdated": "2026-10-01T05:50:14.701Z",
+  "generatedAt": "2026-10-01T05:50:14.701Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,7 @@
         {
           "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
           "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 01 Oct 2026 04:35:26 GMT",
+          "pubDate": "Thu, 01 Oct 2026 05:34:41 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T05:25:10.521Z"
+      "updatedAt": "2026-10-01T05:50:13.670Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
+          "link": "https://www.npr.org/2026/10/01/nx-s1-5986822/tennessee-governor-halts-executions",
+          "pubDate": "Thu, 01 Oct 2026 01:43:24 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Swiss glaciers suffer another year of record ice loss",
           "link": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
@@ -103,24 +109,18 @@
           "link": "https://www.npr.org/2026/09/30/nx-s1-5913363/how-trump-keeps-undercutting-his-anti-communist-message",
           "pubDate": "Wed, 30 Sep 2026 10:58:51 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "After failed execution, health workers say Tennessee's method flouts medical ethics",
-          "link": "https://www.npr.org/2026/09/30/nx-s1-5981250/tennessee-execution-tony-carruthers-christa-pike-medical-ethics-lethal-injection",
-          "pubDate": "Wed, 30 Sep 2026 10:30:03 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T05:25:10.798Z"
+      "updatedAt": "2026-10-01T05:50:13.915Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Tennessee governor halts executions after inmate survives lethal injection attempt - AP News",
+          "title": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection attempt - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnVOY1V2MzZrbzhSSC13bUxKQzU1bWJON2RhLVVwU3dSNkJZM3JOeVlhWDF1VTd5VmlsMXZBTDZzQlhrOWhrMkpQUXFtUWpvRWUzMWY1a3V4UXp0eGRIQWFyMTYtSjNQUXRzNjkyWVZFT2Ixb0lFaWJwY2h4dHlMckpTdmFxc0QxbzYzQUJVQWlWSE0tY2Iw?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 04:59:00 GMT",
+          "pubDate": "Thu, 01 Oct 2026 05:21:00 GMT",
           "source": "AP News"
         },
         {
@@ -133,6 +133,12 @@
           "title": "What to know about the terrifying FlyDubai flight bound for Israel - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDVnRPM016ZnBHZEIyRk9FVHpVSDlFYmNHRWxnUndFNzNmMnMtdUFCSlBSQmdNRWluYjlYUTVScVMyWHZPUUdRYjkxajREZkFIRVhfUVlmOVVlMURUNmRZbjhIdzRNVnNhTkVOeWYyWTVkSjhtZU00cFdkeHdVel8zZWxfR0ljM2tYeHREUmt0b0cteFJ4RkhmUVBJdkJCZ0JKLWEzRWNJYXIwckxn?oc=5",
           "pubDate": "Thu, 01 Oct 2026 04:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 03:39:55 GMT",
           "source": "AP News"
         },
         {
@@ -158,20 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzhhMXhEc2xjV1NkYktwak1rYVkzWWdqWmY4Qkg2TGFrRDRwQnBlbXJSYWpjYXlwSVR1TUJ4LUZwTnVGd0RwMnBvYnVZY0E0LTQ2S2lMQ0dYN2U4UFdHa1pid21FQ2tTSnBnZmlfSENVWU9Dbmp3bUNpVll1UUtmZnh0TTJKeHFqMEJUcTJfYnpCQUNjQkRwX3F2U2ljay1qT3F3TEFnUWlkM1Mz?oc=5",
           "pubDate": "Thu, 01 Oct 2026 01:22:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Potential sanctions against Man City could range from fines to expulsion from the Premier League - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmpYX3poc0tZNU9vdWM5ZVpaTjg0dFNyMDA5bEU2S041Wkw4NGZNOFEwSzgwYVFOVVVDcldkRmVNWGI1b25PQ3VqT3FicHFBQ0JjR2R0SnB0cVhzeUhlN2xCVzdhcjlwZG9LcDRUQ3dPUlNJcHJxdGpLamxoaEVPLXBpRlczVDFOWHhHN3c5UXBhQ0dHaWc?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 00:35:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T05:25:11.190Z"
+      "updatedAt": "2026-10-01T05:50:14.337Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Chinese refiners suspend Oct fuel exports, PetroChina cancels cargoes, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1hVSHNzaElkOXlpSnE5VW5DTEx5a2Z4WWt3NDFHVTd6TEhKQ3JHeFJhZDBsZXBkYy1MV29ZNjdPTGtHNlpwUEVLNEpBMUowZEItTjBraElOaGQ1U3U4NUxvWnNNM0JWeUlMVllMZkF1aHNKanVkVElwcmctX003R2dja0RsTkNXcEtZaVk5WmYzWW5KWEZpODdwUWxWOWdYYTBqVUF4SUg4ZVduWV9YdFN1RlNyZVExTWV1SGlpTE5nZnpxS3d3SmNIWVE?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 04:57:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Morning Bid: Inflation relief gives bonds little reprieve - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0Etd0dqZDdmOElyWmt1UmRTQUpyZlNEckx1Ti1rclc0V1g1QjdzaUxhckRyVTZtX2l0UWRaV2pmdW9RX01rQzhTQzdydUxYdEUtTjFVVUtGcGpLUXFHdFdSd010RTkxc29tZ0t6dDhfWDJLZHFQX1FSTHRSU2V5WEh1QQ?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 04:33:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "South Korea's Lee urges North Korea to restore dialogue, pledges military buildup - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU1ZMd3lpakxZNmdpZXV4cTM2OWR2dFlTOTI3bnJWdE0zdjU1SGxYUmhLQ2FTdUtOVjZER3FMZGs4U3VRck05bGxNNG1BeTJkNUNNOHdWNzF6d1FReU1OR3ZhbUFORzRFSnNTOGFEaVU0TVNycUJmSzdhSWpIN2JaMUZwcndlSFVGTkZtWmNrMlB5OXRaYkRSRy0xMWtXZG1BZFhRNkFBazFlWFVTZFBQRXF5eUdWNmJWbTFxWmtEbkVxSm0zcWFGclpmaw?oc=5",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVEVKelJEWmZzTDRvcHRZTkVtaHVWRkRGRmtWM092VkNLWUVkbHBrQ2RFNEV3cWpnV0pKZW1LWTNFUHdtYllZX0kxOEtmUWlqaVZfd1gzM2w2bmg3N2JoMDJjS1dWeGpFcnREcXVBbU9yaDhYS1J0TGtqMTdNcUlLNktsUTNJeFc0YXFlMDBkYTBicUxtR2cwNkFZMmIwemV3M2ZVM1AxN19pOTJ4dUI3MkEycGlaVHhfOS1haWg5N243LTFmWjE1TU5zYnJRU1E?oc=5",
           "pubDate": "Thu, 01 Oct 2026 03:02:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Greer urges G20 to back Trump tariff agenda, takes aim at China - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMFlLaTBYOV95NlJYdWUzVGRmM2hycnhicG43MWVPaklHQ1VseHV2SmV3NHZIaWlZRFJhdktYcThlcHZTamE5djNrbHlrZ0ZWWGxFcjI1d1V6ZTJQNlZaaVBaXzRXODVRSlNSZEJnNHdkd3pBck96eVdfbjlMeC04XzVqckF1S0lHZ25wQ0VmWG1QS0puaUhrWjhEN0NvZHVpUGg5YjA1Zw?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 02:57:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India shares open lower as foreign outflows dent risk sentiment - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 02:25:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T05:25:11.573Z"
+      "updatedAt": "2026-10-01T05:50:14.701Z"
     }
   ]
 }
