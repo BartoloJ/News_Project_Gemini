@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-01T21:00:19.516Z",
-  "lastChecked": "2026-10-01T21:00:19.516Z",
-  "lastUpdated": "2026-10-01T21:00:19.516Z",
-  "generatedAt": "2026-10-01T21:00:19.516Z",
+  "fetchedAt": "2026-10-01T21:25:13.870Z",
+  "lastChecked": "2026-10-01T21:25:13.870Z",
+  "lastUpdated": "2026-10-01T21:25:13.870Z",
+  "generatedAt": "2026-10-01T21:25:13.870Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T21:00:18.303Z"
+      "updatedAt": "2026-10-01T21:25:12.700Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T21:00:18.637Z"
+      "updatedAt": "2026-10-01T21:25:12.892Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Christa Pike is in critical condition after Tennessee’s failed execution attempt, her lawyers say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLW0wLTZ5T1N2WjcyMklRc3F6Wkt1Qk1FRGJWV3NqS1c1QlhiZF90eGtzOXZKWVF5dGJFWkxBNjZ4RnJ1ZkI2LUJUVFh3d3hwU0w0SFNVN1UyUEJvcXotUF9iQUdWSnJNN0hiS2FtZXZBOWdIWVlvbmxiMkR6Z3NKZUphZnYxNEFLdnNwY3hzSEZjT043dmpPMDBKNFBEQQ?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 21:07:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Swings in the bond market shake stock markets worldwide, as AI optimism supports Wall Street - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTEwb09rWU9TWmVQdGp3TkQ2b2MzRzU3bnoySi0tSUVGaFMzVFI2WmZHckpkTUlSV1JNejF6aFRTaWVlQ0tLUFBiTTNacEJSMHk1RGdyTHpMMndCU2Zyb1NuVXI3bUxCWG4yZ3NaUVQ1OHlCXy1CNEgyRVZsdDN5X0s3eXBKX2ZDLUFvdWFLb3BsNVduVUE?oc=5",
@@ -130,9 +136,21 @@
           "source": "AP News"
         },
         {
+          "title": "An Indian airline captain is hailed as a hero after a cockpit attack on a FlyDubai flight - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDNSb19Va1l3bHR0NkVQb1FCa0F1WFVhakZZZVNuSC1pMmNOc2I5b1dOeTZILVBXZF94bXZKOGFicG5OOGg3TWx2SGUtOHo0NEZmNGJnZ3ZPWmpYQlVRWUZPcjBpQWlIbHlJNmZBRGxPSlUtOXJQM3E2cjR4dV9HemNzYXpNVXV4Snd5R0J3anF1Q2ZVR05OZXJwX2ZMdk9iNmtscGJ1UXI5ZE0?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 19:10:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Trump and Vance hit the campaign trail in deep-red areas where GOP candidates seek a boost - AP News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29JVnMyNXZRMUpySjhfMXNLa0RsVXVHZnhpOFBTREZYQXBONlA3ZTZGYUV2UG5vS0xWbFJFVDJSMVNiMFdyckQyUDVOTFY1a3pPLXRvZkhrYkVGT0VLRjQxa0JCS3k5aVRCa0FTU0xqeWJwbkxpc2hXT0ItS0xKbDFHUUFvSXFBd3BpMUxkN3ZUeEVUQWFFWkw4Zzg2UW9uRm5MTFpOcWVnU0R3VnNFTUVfbzVmNmZCRnc?oc=5",
           "pubDate": "Thu, 01 Oct 2026 18:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "New ICE guidance bans high-speed car chases and sets tighter rules for traffic stops, a memo shows - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnNqWXlqZ1JVMUhlUUR5SVZSejVPMFloS2QyMnkzTEtjRjNVWUpoWDlBMG9xS3k5VElPMWE3Sy1yd0J6VHZqbmRray1CRmROMFdabEJ5VjF6OHgyd0FpS2JwZldfR1YwQWJ3dVE5Y25XTUxDUUwwaGVhOHNZX1haVXNrdmV3ZlZkRnpiT28zV2R5elZRcFNXRzBueTB2a1d0eVlTdzlNcVlTUQ?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 18:36:00 GMT",
           "source": "AP News"
         },
         {
@@ -144,34 +162,40 @@
         {
           "title": "MLB | Latest News, Stats, and Scores - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 17:56:58 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Canada fast-tracks Pacific oil pipeline to reduce US dependence as Alberta separation vote nears - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXQ3eGFneFhXeTdvbWVzZFBac3hUeFFrYkltSVR3d3N1SXo3ZFpPWHcyRG5iNkdkcUpMSUhVY1p6c1FlaXE3VUMzTFpHeVRtWjY4M3FjdDRFWFBaTTNTbU5qczdNSjlucUtQRmIwcDh3N3pFOXQ3UEtVME5TSzlsUUpJVHFOZkYxUVFFZ3A1aHhlc0It?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 17:31:27 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Tennessee governor calls Christa Pike's failed execution 'deeply disturbing' and orders a review - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLW0wLTZ5T1N2WjcyMklRc3F6Wkt1Qk1FRGJWV3NqS1c1QlhiZF90eGtzOXZKWVF5dGJFWkxBNjZ4RnJ1ZkI2LUJUVFh3d3hwU0w0SFNVN1UyUEJvcXotUF9iQUdWSnJNN0hiS2FtZXZBOWdIWVlvbmxiMkR6Z3NKZUphZnYxNEFLdnNwY3hzSEZjT043dmpPMDBKNFBEQQ?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 17:28:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "California helicopter crash kills 2 people and leaves 2 hospitalized and 1 missing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2Z4V0hpd093a2JRZEYzS1g0NzZZN2NhWTMxOV9tSElrNDFGbW16MmFtNHlIeHlwMF9CS08ydXFjSUZydkNYV05WWUJvSERFMHNpZDlldWtGSVZrX0NSLVNCZkY4ZWNSQTN4aTl5YTIxaUhJWHpRaEEwNDJPaXhUek8tY3RKbVpERW9NcVN2UGhobXNUTWY2R0tnUGN4S2R3NXlzRXdrTGlaMWZR?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 17:02:00 GMT",
+          "pubDate": "Thu, 01 Oct 2026 18:24:01 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T21:00:19.086Z"
+      "updatedAt": "2026-10-01T21:25:13.389Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Diageo defeats false labeling lawsuit over '100% agave' tequilas - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcW1hLWN2b3oxc1lfT1U2V1NOX0Z1U2x6enNZWk10Yll4WGVDWGJTa1FiMXdDX0lFVm92UUFNdVVaY1N6Y2VDS0Vta2pQaEpNa2QxQmJ4VDdNb01lNW1ucGl1OGdIVnFUbkYtMjgxZjllZmVNcVdibkd2SXlwbTlORVBsWFo4dVJyYjdPOFZ0clJyTENWNm04M3ZBZzVRdk9ILXA3R2xMMlVyNXhSQzNRMUNFQ1Q?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 21:11:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Boeing white-collar workers approve contract offer, averting strike fears - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd19DdEhGSTRqZC1hb0JqbmFsRHA5a2dQVXlIbkZ4MjJ6Q2FkSGV6RDdsWmtoMlRtQWkyc3NpNGZTRjJaUGFiTG04Vlk3bFZKN0FyM2pJVDlhbjIwcVdnbXpJb29rUkpXcEViVENySzJUdFhkZHRqXzJlZmlPbUgyd2dzVF9DbVRGN1ZpQzZGczRHUDM4T1QydUs5Rmxjb3VZaS1zU1ZsTC0zT05OcGJMMXk2U1dpT2ZUVWpjMG1nTDBKWi0tMzJqckpzZnJiSWxmd3FmWQ?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 20:44:22 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Fed officials wash away market bets on October rate increase - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcEdmemN4NUZ5RjRobklFbGFkcWZ0NENTRmZfU2hmNnFuZ1ZkRzJKY09hV3VLcjllT2V3VEVHdGg1NTFBbU1BVUJycDV1ODc5cTRxM1hCWlk5aW1RY3c0RzQ2bTNMcmsybi1VdDdoMG9RdUFrakRXSnFfb2trYmpOQzU5RmNmMXpqZlpJNUY1OEtEOGxnNXhlUjkzdmpnaWZVSVcwX1MyTHl1UQ?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 20:38:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Equities rebound to close higher as surging Treasury yields recede - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT1NWcmpRdnNhV0szWEh4QVRhcF83OVVJSy1jY1BoOFZDb2ZGanhFd3VtQWp5bFJxa2kwRUZJaWExeXF0UmE0NS1vUVpjdWpoc1N4dUUzZ1AtT0ZyNkZBTjU2bmVSSTVjZVRUMmg3YmR2V3FVWXAwWk5lUWlNLVdSSUVRc1NoZEc3R1RrUVpxcnlEOHRmaHRlUjA4ZkVfekc2UGowc2J5T1AxanRxNUNieWw5cS00U3lEaGVN?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 20:20:15 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "UK police arrest dual UK-Iranian man in Fairford air base investigation - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNXZoS0pkNjVhU0QyeEtaTFh2OU9nb2FPNVJHa1R3NENYMUx3ZGVWd0Y0UEcyTnNHdGxmSF9ndU5nSXNPUVpfV1pvMnBlTUZHYk9OUGhBWjEyTmJpcy0zNkx3TWVwQ2RzcEtnYklxRzVxOXY5M1NJSm9oVzBkSFd4aEZESFlUSmVabUN4Wm1sQmJtaFpIY2VpNFZ0ajZoWVhVN0lIMm5B?oc=5",
@@ -185,12 +209,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Fed officials wash away market bets on October rate increase - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcEdmemN4NUZ5RjRobklFbGFkcWZ0NENTRmZfU2hmNnFuZ1ZkRzJKY09hV3VLcjllT2V3VEVHdGg1NTFBbU1BVUJycDV1ODc5cTRxM1hCWlk5aW1RY3c0RzQ2bTNMcmsybi1VdDdoMG9RdUFrakRXSnFfb2trYmpOQzU5RmNmMXpqZlpJNUY1OEtEOGxnNXhlUjkzdmpnaWZVSVcwX1MyTHl1UQ?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 20:00:01 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOGxXWEZnTW1hNUtCOXY4NTJTWHQ0ZkZoUEZsYkt3c3lQTVU1NDFVbHJnSkNJbXRTdzZCSlBWY2tsc0stTk5CSGk1Ymhpb0NwaG1WUEg5Ni1pVlFxQnRMc093VGllN0c5ektIdWYyN191ZW5ZX1lrUjhVODk2TUpsRXFQT3hQdGhVUzdjdklkSENrWm8yWmgwVkE1bEd6TTB2RHBsUHpZVExmTUhkbjhINTVrZ3ZpQnNsQW9wc0FBMWk4XzF0WEI1aXZBQQ?oc=5",
           "pubDate": "Thu, 01 Oct 2026 19:55:54 GMT",
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWk1wTDJka0h4dWZaZ2dlSUUzNHN0NENEUFRPdHctQWhvZHlvSmlBOEVHcktObXItQnF1SlBONDgtQjlSNXlXZzJqenlKRWthVXZ3c2xpSlFVM1R3dEU4RkoySkdXOHZmc0V4LWVodjBXR2hWNjI3WUZ2eFZBSXZjY3kxZkpVdmZOdjBSQVNqRzFSTUZab3BLQ2NfLU1vVXJVSEl0XzF1eXFPMVk?oc=5",
           "pubDate": "Thu, 01 Oct 2026 19:55:39 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US judge finds law criminalizing noncitizen voting unconstitutional - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONHB3dWFLaTBMNExjU0dueG5WdDFmYU1VWVNYblBLbG96S054LVA1MkV5S3pLeDB0M3hDNEFSR3pGUDJHQzg4QU41UXo5VVMxMGhYdW9Mb1VoeEYzTnFVNmYydGU0NDAxTk5ia1FXZDRSeDlmQTVSTHI4aENtb3NZbzgxSlJrVnZ2NEVBS0lSTjJWZVl6aWJnN3hZUjRSZmhSdUFiZmx3bGlLWGlkTlE?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 19:49:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 19:44:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Boeing white-collar workers approve latest contract offer, averting strike fears - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd19DdEhGSTRqZC1hb0JqbmFsRHA5a2dQVXlIbkZ4MjJ6Q2FkSGV6RDdsWmtoMlRtQWkyc3NpNGZTRjJaUGFiTG04Vlk3bFZKN0FyM2pJVDlhbjIwcVdnbXpJb29rUkpXcEViVENySzJUdFhkZHRqXzJlZmlPbUgyd2dzVF9DbVRGN1ZpQzZGczRHUDM4T1QydUs5Rmxjb3VZaS1zU1ZsTC0zT05OcGJMMXk2U1dpT2ZUVWpjMG1nTDBKWi0tMzJqckpzZnJiSWxmd3FmWQ?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 19:35:24 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T21:00:19.516Z"
+      "updatedAt": "2026-10-01T21:25:13.869Z"
     }
   ]
 }
