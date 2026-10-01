@@ -1,22 +1,34 @@
 {
-  "fetchedAt": "2026-10-01T19:25:32.349Z",
-  "lastChecked": "2026-10-01T19:25:32.349Z",
-  "lastUpdated": "2026-10-01T19:25:32.349Z",
-  "generatedAt": "2026-10-01T19:25:32.349Z",
+  "fetchedAt": "2026-10-01T19:50:22.450Z",
+  "lastChecked": "2026-10-01T19:50:22.450Z",
+  "lastUpdated": "2026-10-01T19:50:22.450Z",
+  "generatedAt": "2026-10-01T19:50:22.450Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Fires break out at French schools as students protest nationwide",
-          "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 01 Oct 2026 19:19:00 GMT",
+          "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 01 Oct 2026 19:38:30 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "What happened in the failed execution of Christa Pike - and what next?",
+          "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 01 Oct 2026 19:25:58 GMT",
           "source": "BBC News"
         },
         {
           "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
           "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 01 Oct 2026 19:11:16 GMT",
+          "pubDate": "Thu, 01 Oct 2026 19:25:43 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Fires break out at French schools as students protest nationwide",
+          "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 01 Oct 2026 19:19:00 GMT",
           "source": "BBC News"
         },
         {
@@ -26,21 +38,9 @@
           "source": "BBC News"
         },
         {
-          "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-          "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 01 Oct 2026 18:09:03 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
           "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 01 Oct 2026 17:32:50 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "What happened in the failed execution of Christa Pike - and what next?",
-          "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 01 Oct 2026 17:31:06 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T19:25:31.116Z"
+      "updatedAt": "2026-10-01T19:50:20.952Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "A new California law bans child marriage. What's the global outlook on the practice?",
+          "link": "https://www.npr.org/2026/10/01/g-s1-145998/child-marriage-ban-law-california-newsom",
+          "pubDate": "Thu, 01 Oct 2026 15:44:41 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
           "link": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
@@ -103,24 +109,24 @@
           "link": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
           "pubDate": "Thu, 01 Oct 2026 07:37:10 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
-          "link": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
-          "pubDate": "Thu, 01 Oct 2026 06:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T19:25:31.201Z"
+      "updatedAt": "2026-10-01T19:50:21.086Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "An Indian airline captain is hailed as a hero after a cockpit attack on a FlyDubai flight - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDNSb19Va1l3bHR0NkVQb1FCa0F1WFVhakZZZVNuSC1pMmNOc2I5b1dOeTZILVBXZF94bXZKOGFicG5OOGg3TWx2SGUtOHo0NEZmNGJnZ3ZPWmpYQlVRWUZPcjBpQWlIbHlJNmZBRGxPSlUtOXJQM3E2cjR4dV9HemNzYXpNVXV4Snd5R0J3anF1Q2ZVR05OZXJwX2ZMdk9iNmtscGJ1UXI5ZE0?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 19:10:00 GMT",
+          "title": "Tennessee is set to execute a woman for the first time in 200 years - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHRfVkxxOEJKd1pjbjJaWUpMRFdiZWhtbjJpM2JsYWE2TWRYM3pwUF9hcW9iUTNCVlpUWkw1WUpFQnVIMnhrSTVmYk9DRmxJRU14RUtHamxRUXB4Qi1UWTNGaHNGTjhXR0ZSMW1HT1l6MUdsUWUxQnZxZXczeVNQSkpZZHFJaWxJWEJSNHF3U2t3cFpra0N6eXh2Z3ZjeWc?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 19:48:32 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Hedge fund CEO Ken Griffin gives record $3B to Carnegie Mellon to build Miami campus - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0Q4TFMxWkpycGtLLTJkUkhpeElKeF9kdGY4OTRnYVdxWjlNUzNJNGRaQXVMSE5IdW5ZdndZb2hBTUlacklhRWlPX25vb2xMbldmSDVrdERvektsOTdId2R2MWtkZmc4YXZwZnBxc182di1yRkdidkNMa1BWbUFPNV96MTNaa3pxU0pqNjByR3dJdVlLNkxkQlBoRV9zRmJjc3VyLWNrR05QRlpBVUZUbnZqOA?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 18:25:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,71 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXN2U1ZSZHAyc2JyRnNIenlVOFc2cjFWbmppZzd5OVc4WlM4bzlnY3FFZjZqRWtlNXdWdUNMSG1NYnYyaU1leEVIWFkyNS0zVkxDS2JjVnhxUU4yWkFqbGdTMFViWnNrRlVJaERMS0g3UGhBYnFSX0o0ZDBuQ0RKTnJpNk80SUd2XzYtY0d2OTg2YnpIRVhwS2hLek5HRFJNd19JSXFPLWc?oc=5",
           "pubDate": "Thu, 01 Oct 2026 16:13:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Ukraine to present ‘wish list’ for new Russia sanctions under Graham law - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRURCZ2VhdEZYeE1qU092SVA0TUNEV0xpNVFoY2RTWGd6MGR2RGtCWGxSb21oS3p1bHNiaURSTU5wUXpSR2g1T1hKTnVFbUE2Q01BQktNX0NyUTZpai1nTHAzcDBTZGo1RTdER3RLZVljU056bUYtV3U5b21sQk1CdzV6MktyWFlnVjhmREhjSnp3eDc5ckVPcW8tMlI0T2s?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 16:06:43 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T19:25:31.807Z"
+      "updatedAt": "2026-10-01T19:50:21.969Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Equities turn higher as Treasury yields drop from highs - Reuters",
+          "title": "Nvidia's bet that its chips can finance the AI boom gets a Wall Street reality check - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWFtWW9YMHUyWmxwTUs1VmZnOHZNdnJBNzB6azNFSG84M0FtS2x1SE50TDZMS0ZNS25zQ1lEZnFRdnd3UFhDRXMwLUVXaDZWRW9RZHdfQXdhNjFBdEJSd243SHlselowdWpIZ3RycmRSdUhlaTlDLUVGNjV1a3UwY2llSXpiV0dvVDN2VU1tS3NmbmQzVFNXV2FZcDJzWEI5b05NRW4zRXFPOV9NZnZUMmE5M2sycEtKVUdpNjRkLW90bGtiZnY0LWtvTHRDQQ?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 19:26:22 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Christa Pike gets \"life-saving medical care\" after surviving Tennessee execution - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWk1wTDJka0h4dWZaZ2dlSUUzNHN0NENEUFRPdHctQWhvZHlvSmlBOEVHcktObXItQnF1SlBONDgtQjlSNXlXZzJqenlKRWthVXZ3c2xpSlFVM1R3dEU4RkoySkdXOHZmc0V4LWVodjBXR2hWNjI3WUZ2eFZBSXZjY3kxZkpVdmZOdjBSQVNqRzFSTUZab3BLQ2NfLU1vVXJVSEl0XzF1eXFPMVk?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 19:13:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Equities turn higher as Treasury yields drop from highs - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT1NWcmpRdnNhV0szWEh4QVRhcF83OVVJSy1jY1BoOFZDb2ZGanhFd3VtQWp5bFJxa2kwRUZJaWExeXF0UmE0NS1vUVpjdWpoc1N4dUUzZ1AtT0ZyNkZBTjU2bmVSSTVjZVRUMmg3YmR2V3FVWXAwWk5lUWlNLVdSSUVRc1NoZEc3R1RrUVpxcnlEOHRmaHRlUjA4ZkVfekc2UGowc2J5T1AxanRxNUNieWw5cS00U3lEaGVN?oc=5",
           "pubDate": "Thu, 01 Oct 2026 18:49:16 GMT",
           "source": "Reuters"
         },
         {
-          "title": "McCormick's price hikes spice up quarterly results despite sluggish demand - Reuters",
+          "title": "McCormick's price hikes spice up quarterly results despite sluggish demand - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1IxbHBjUGNtaG5yNDRWZGFSZ19FeURma0t3Tk9uZ3BQOTZoMFhHNkhkd0J0cTVpRU85Y2pUeGNpVjd5MzdjOEphWkJOYTVLMzYwWG1BT01qbl9wVFhGTzkydE1SV01WckhBVG85SE1FQ2YxajByOXExNVBiWXhhZExTWXV0Ql9iSGwxWUtsbDZZUGVFMTJTc1BKSVZYVXFaLWk3V29QVlBFdTVDM2dlSkxyekU4ckk?oc=5",
           "pubDate": "Thu, 01 Oct 2026 18:37:41 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Explainer: What we know about the Cornell University rape investigation - Reuters",
+          "title": "Venezuela's oil exports down in September amid high freight rates, data show - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejlTR0VNeUxLUk1qY3pZMWhxTERYbEpGUG9xeng5aFRZVkNVa1NSYmktVmRsU3RranlWRlJXRDhqYVRzMzBUblhuV1BoWTRDOGt1Q1YwMkozUzFtUUdZOW9LajBubFQ1MUZtVGp1OHVjY2xCOEN3T1dMeWY0c3pXNVpScHVJX2pGekJnSHFYNktsemVkMzV6Z1Rrc2NYX2YwRl9FQXFWbzVyemN4eTU2aVVMeXpPa0hHd2c?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 18:33:58 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Journalists decry crackdown after Turkey blocks news site over 'LGBT propaganda' - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbkNEMjNkU0pYSXVYaTZINDBCXy1hNkxDYnpfbF9qQlBPSFRKd3doUEE1cWNiZlVVNWlTYmExT3BrVlNiZ3c5RjhQNHRMaXJtV1JvS2pKeDZxUVFyYnBsck8yM1UzS3MtY19pSjJWZHNTWFA3R2paZVZULTNhbENWUE1aUnAwaUMydUo4dUIxWUFTNEZxRmwwa09LM3g3cjdKajlSVmtsbldXVXA2ckw1WEVreE5DdWJhVlpyUGgycXgzME94cnlvWF91b1g5elVDaVdR?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 18:29:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Explainer: What we know about the Cornell University rape investigation - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUWEweElZZFUyME0xZmdiWWNUMVFfS0RiX0tsWlJnU2x3eUo1eEVrSGZsQkZ3UHYyYURYZkNWcFZHX0d2dk1FY3BLRUJMWjRZM2poYmdueXowRDBuYkR3TmtpS0RCZFZaZ0NTNElucHdoQS1lVXNmMW1UWEdyNy12ZnlxeXZ2Z3NnbnRHSEhzRXBsVHhsNGV4UGJpODg4a1YwUjlQRXg2ZEdjV1MtVXc?oc=5",
           "pubDate": "Thu, 01 Oct 2026 18:28:05 GMT",
           "source": "Reuters"
         },
         {
-          "title": "UK police arrest dual UK-Iranian man in Fairford air base investigation - Reuters",
+          "title": "UK police arrest dual UK-Iranian man in Fairford air base investigation - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNXZoS0pkNjVhU0QyeEtaTFh2OU9nb2FPNVJHa1R3NENYMUx3ZGVWd0Y0UEcyTnNHdGxmSF9ndU5nSXNPUVpfV1pvMnBlTUZHYk9OUGhBWjEyTmJpcy0zNkx3TWVwQ2RzcEtnYklxRzVxOXY5M1NJSm9oVzBkSFd4aEZESFlUSmVabUN4Wm1sQmJtaFpIY2VpNFZ0ajZoWVhVN0lIMm5B?oc=5",
           "pubDate": "Thu, 01 Oct 2026 18:16:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Christa Pike gets \"life-saving medical care\" after surviving Tennessee execution - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWk1wTDJka0h4dWZaZ2dlSUUzNHN0NENEUFRPdHctQWhvZHlvSmlBOEVHcktObXItQnF1SlBONDgtQjlSNXlXZzJqenlKRWthVXZ3c2xpSlFVM1R3dEU4RkoySkdXOHZmc0V4LWVodjBXR2hWNjI3WUZ2eFZBSXZjY3kxZkpVdmZOdjBSQVNqRzFSTUZab3BLQ2NfLU1vVXJVSEl0XzF1eXFPMVk?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 18:12:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Crisis meeting told France's hardleft party behind school protests, says source - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTi02ZkxUMzY1TkRkb0Uwd0Z2MTZHQmcxRkZnVlZvSGpZeFZFb1NaX0x5N0Q3bDRVcXoyMHdiVlVVT1g2TDA5dTVJTnVBZHBGME16VHBkUkktd3ZEOURPNFFRVHk5OFpIQ2h4cTBseEd4SXFnQ1ZKTlczaUIwd01fb0tLVWh3N3FmMnlHM0ZDQXlNeVZ1WHlicVcxR2xpWEd1bnpxSFpMR2g5NU5icmtYMzNjTF8tZw?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 18:12:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Syrian government officials and Hezbollah held secret talks in Turkey, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdzNSVk8xcS0weTJwZkdGVVR2OVJqSUlnRlhRaG9HVlUxVEs0dWs0R2VTSkpCUlV4alRiVENpNnc4M3ZCVF9VVVBmWW9CQzJLRzhOaC1SODlHNmNhRWdXZHBDZ0g5UEJ1c2Fkd3ltenFpSHcwRWp6VEt6YnBhX0pUdVUyMUdTTkRKV2FBRDNRb3dJdk9BQVBqdGRBd19RNHltTUtmMERiZEFYUHJ0d2dHel9CSEpYeWlmRlZWbE5uaVlWVF9MbjBj?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 18:08:26 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Renee Good's family sues Trump administration over fatal Minneapolis shooting - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDFNUUJPc2dSYzI0MURCMk9ROVdRSnBYVzdiMHNKYkhndWN5UmtfdlFvUUxwUjk1VEM0N0MxRUM2clRIS2NrSndTYlpTUE9xa3dXSUxjWjVDbkp3TGgzeFBybmw5UG1EVkx6LUJhTTJLZUEwUWYyLVFrVFJGSjBPSkpkVld3bUVuUnNPZnlXLWRDeUhRZ2tzNENoSVlRUFVYUzBDSXZLOThUR2R5djFHWW8wa0l6YXQ0c0E?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 17:57:45 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T19:25:32.349Z"
+      "updatedAt": "2026-10-01T19:50:22.450Z"
     }
   ]
 }
