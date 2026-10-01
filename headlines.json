@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-01T03:00:18.334Z",
-  "lastChecked": "2026-10-01T03:00:18.334Z",
-  "lastUpdated": "2026-10-01T03:00:18.334Z",
-  "generatedAt": "2026-10-01T03:00:18.334Z",
+  "fetchedAt": "2026-10-01T03:25:15.852Z",
+  "lastChecked": "2026-10-01T03:25:15.852Z",
+  "lastUpdated": "2026-10-01T03:25:15.852Z",
+  "generatedAt": "2026-10-01T03:25:15.852Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T03:00:17.054Z"
+      "updatedAt": "2026-10-01T03:25:14.555Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T03:00:17.400Z"
+      "updatedAt": "2026-10-01T03:25:14.899Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T03:00:17.906Z"
+      "updatedAt": "2026-10-01T03:25:15.395Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "AI agents tried to hack Canadian government website, research firm says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzhEbGpQTnhlQWp0SnozRGlpaGlBQ3Fud3lnTHB5Wi15NmJDaXhZZ2RGc2ZSUDJVYjZuY3RaQ3V5ajUtelBiU3E5UDlMVUtMY3hOUG02ZW9McXotTWdPeUVRMG9uWG00ZG1ZVTZTUTBWVm1aSUxvdVJRajZ5NTR4aGdoblF6dktQV2VSVDVENmJybDBRaldyTDRSclVVRVBLeHFfeW14Vk5pVEl3NlE?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 02:04:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Asian stocks dip, bonds in focus after torrid September - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM0FxZzFRTU1MWEFLa2QydlpyQ01TTDJoTjZKTmxxekpnam9PZUswZEtEN1RiSkVMYThjZ0Y1SE42VkZETGdIVm1Nd3J3YVlndnJTTGtWamozS1otaVlPaWwyZE92c21mN0lkbnhURWY5OWxzSXBiWlVvOGRMM21KM1Y2MA?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 01:56:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "New Zealand Parliament dissolved ahead of tight November vote - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1Bpd3BKUy1yN2YzajlSbmIxbE1vaF9USEFZSGpCNWN4dlRIZVJpbVh5SUhiSlV0cjVHWklqNUpsNUtIRXFHTzhoTTNHV19iT2RBeHlrVnVoUGJmWlozYW5STGFnOENWeUxvU0lsbUVNbzlfZmtSZ3NqYjVTWmRsZGVWTzNfYUdkRUV6SldoekdCZElhRVFTSE42eUI1U2g1MWVaUkFOQzNmNkVYYUNQSnFuYw?oc=5",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUNjeGFUTWVjeXFTM2tZeExBbEcyLXUyMVIyZDYwV0lyOG45TDRkd0x2NUhrLWxEdVNBUmZ4LXF2clhWRW1hQ0cyalIyQTFJVzBWTG52LU5uX2J6UzVtbDMzaHhwblhxV2VpdUFoVlRrNnQ5aHk2NEVyNWFBZ3paakF5LU15NWtqNzVscVZkYzRQR0hieGFfNzlGZTZSNUxSblFhLWNXUzdaYnJ6dk9WYg?oc=5",
           "pubDate": "Wed, 30 Sep 2026 23:59:39 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Pentagon creates 'Autowarcom' to expand AI and drone capabilities - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3l3OWJYclNEU1AwZWwwTGF4TU5SMXV1Sl91ekc0TE8xcDdPSFpqanc5QjRwZ2FoWkpVLURBZGhVbXFiYUJuam1kTGhtRFRUYkljZ2NCYy1GWmZZQXpva05lX1RGVFBKcHhTNEJyUXZfc0ZySHljQzQ1RWZvS1V3cGFnWVJnX1ZVem5rLURJdnFhMl96dWVRc0oyODEzeUk?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 23:41:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 23:40:02 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-01T03:00:18.334Z"
+      "updatedAt": "2026-10-01T03:25:15.852Z"
     }
   ]
 }
