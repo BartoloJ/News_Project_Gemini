@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-02T10:25:11.626Z",
-  "lastChecked": "2026-10-02T10:25:11.626Z",
-  "lastUpdated": "2026-10-02T10:25:11.626Z",
-  "generatedAt": "2026-10-02T10:25:11.626Z",
+  "fetchedAt": "2026-10-02T10:50:15.483Z",
+  "lastChecked": "2026-10-02T10:50:15.483Z",
+  "lastUpdated": "2026-10-02T10:50:15.483Z",
+  "generatedAt": "2026-10-02T10:50:15.483Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T10:25:10.576Z"
+      "updatedAt": "2026-10-02T10:50:14.321Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "San Francisco's car crime has plunged. How much credit does Flock deserve?",
+          "link": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
+          "pubDate": "Fri, 02 Oct 2026 06:30:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Failed 'torturous' execution attempt on Christa Pike reignites death penalty debate",
+          "link": "https://www.npr.org/2026/10/02/nx-s1-5988832/christa-pike-reignites-death-penalty-debate",
+          "pubDate": "Fri, 02 Oct 2026 06:25:03 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Who uttered the phrase 'the ideological clowns are out' this week? The quiz knows",
           "link": "https://www.npr.org/2026/10/02/g-s1-145638/trump-hegseth-panda-ai-beyonce-news-quiz",
@@ -69,14 +81,14 @@
           "source": "NPR"
         },
         {
-          "title": "He was banned by betting sites, and filed for bankruptcy. Then he relapsed on Kalshi",
-          "link": "https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction",
+          "title": "The U.S. Senate is up for grabs. Can this Ohio Democrat win back working class votes?",
+          "link": "https://www.npr.org/2026/10/02/nx-s1-5981096/ohio-senate-sherrod-brown-labor-workers",
           "pubDate": "Fri, 02 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "The U.S. Senate is up for grabs. Can this Ohio Democrat win back working class votes?",
-          "link": "https://www.npr.org/2026/10/02/nx-s1-5981096/ohio-senate-sherrod-brown-labor-workers",
+          "title": "He was banned by betting sites, and filed for bankruptcy. Then he relapsed on Kalshi",
+          "link": "https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction",
           "pubDate": "Fri, 02 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -97,26 +109,20 @@
           "link": "https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee",
           "pubDate": "Thu, 01 Oct 2026 15:49:45 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "A new California law bans child marriage. What's the global outlook on the practice?",
-          "link": "https://www.npr.org/2026/10/01/g-s1-145998/child-marriage-ban-law-california-newsom",
-          "pubDate": "Thu, 01 Oct 2026 15:44:41 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
-          "link": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
-          "pubDate": "Thu, 01 Oct 2026 14:41:07 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T10:25:10.774Z"
+      "updatedAt": "2026-10-02T10:50:14.527Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Iowa lawmakers to vote on raising tax incentive cap for a $15B steel plant - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUIzNGZwcmxBVDJkd25SYjhNNWcxd0ZXYnlLSE94TmJtNGh2Z3Z2cEhrX0xZR0dHT3VwSXk5ajNuY0RGSDhGaFBMMUZwR1hJQ3duMzk3b2t5aDhFX3hQc0RsTGZzNFBjMHhRRW5tcGdSZG54aGJZTV9WNXpxZG5yYU9aaHBRTEI0UFpVaWdQWExFaWFlTzg4Ylo1OVpUcUx3?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 09:34:17 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Hurricane Rachel strengthens to a Category 3 storm off Mexico’s Pacific coast - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVJhSGVobUxHZWNqZ3FDWmd1TWtHSzBZUE12amtIVXN1anBZcDVqMzBMUllfUEJNcXRIczlyZWd5Q1Q2N3VfbWYzLWZVWEN0Q09OODdlWjdGdjVNc3E5TzUyMzV6ekd2VHBxTTRWQklOZU1aUmRTT0pQcFlfYjJoT1ZYTnlmb3QtalNnR2x4eGJrTmUxa2E1MFV3?oc=5",
@@ -124,21 +130,9 @@
           "source": "AP News"
         },
         {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 06:38:43 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
           "pubDate": "Fri, 02 Oct 2026 05:31:59 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iowa lawmakers to vote on raising tax incentive cap for a $15B steel plant - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUIzNGZwcmxBVDJkd25SYjhNNWcxd0ZXYnlLSE94TmJtNGh2Z3Z2cEhrX0xZR0dHT3VwSXk5ajNuY0RGSDhGaFBMMUZwR1hJQ3duMzk3b2t5aDhFX3hQc0RsTGZzNFBjMHhRRW5tcGdSZG54aGJZTV9WNXpxZG5yYU9aaHBRTEI0UFpVaWdQWExFaWFlTzg4Ylo1OVpUcUx3?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 04:08:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,14 +158,26 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlkteU15R3RhLUJDczR6Q1Z1NWw5R2hRME5lVWpnazMwVnp5WEdDbW1UekxjVnlMYVdZVEdNeEhpclZVSGhhUHlVU052Z3hfSjg5bFVHQXBYT2ROUzFwUWpPSU4xU0FYV1JNa3doOTJZWEYzZmF1U0hiaVl5cHN4RjVtazBBaGtQaE4zXy1sVVA0bE9HaC1RRjZteDRGVUJqXy1wcXAzWldkMjQ?oc=5",
           "pubDate": "Fri, 02 Oct 2026 00:48:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Astronauts arrive at International Space Station on the quickest US express flight yet - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenA1VXU1aGRMUHdHXzNQTms1b1k1Wkl1V1B5YzdMRFdTVXRTVFlCVWs0cU16YkkwRlBNMF93WUJkdmNwaFktUExFZWdVODhvTk95OWtkSmI2eEdEOVRPOU5MdmkxeHJlOWVDRmZlQU1xNjcyZHBRUG5UTWRiZEp4QXdlZFpDS19HenJkbmJqZjI3X3Zy?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 00:07:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T10:25:11.211Z"
+      "updatedAt": "2026-10-02T10:50:15.037Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Nepal plans to drain four glacial lakes after deadly floods - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWm1uVHVkcWF4WS1tUm14dDBUd29CYUdCMUhaYW5mQVVidmV6bENpdnNLSHJYb2RVbDU2RkpvZUFLckFNVmRRZjBOTnhqM09zLXd2N1lDc2lBdkFCNXNhaHZUNXI3Qjl0cEVjZEZFZ1pNb0o2SFowdkIybzlGX2U0cWxkTUNvWFlkUW95MzZST2F1UDcyQ0pQX3ZVZ21ramlqWm42Yzd6Q1dISXZrNURUcTl2WQ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 09:32:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "EXCLUSIVE: Europe weighs new diesel stocks release after US pressure, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnMyRFpEcDhNOHlnU2NJT3F1R2M5QkEzMjJPaGRUYlZ1S2RYYmNMZ1pERlZINEtxMkJDTktfMThYeHZ0U2FDZjVoQ3l3eHViLVkyajQ0S1RfSDJ4QS1xTEgxNVlaZzJSSkVjLTJYM04tX3ZHUEVSY0VHdjJHUU45RHBRajVxQzA3emVQNXpvRG9XRVVVZUtSdUtveUN2WUp6RzhBeVQwQ0JzVk8zWWYzS1FCVUtTZ3UtNTllVzJrbTJyUC00?oc=5",
@@ -191,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "China fuel export suspension to choke supplies in Asia - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUhwdVdmMXBLa0luaVJZbnBYaC1EZk82SUhhbFVYbFpUM3p4c3lOM2VxZWlJUmlNc2RtVTZnTmM0TmktVVBsN1B4UGNJaEM3bnc2OWYxVk9jVHBCSjlycEgzdF9rZDZ5SjNsV0F0QXc3QjltVVdyMmNEQmw5N3JOaGNya1VIRkJUcFRGdy1ibEhsaDdTeWxyS1hNUDJFbG9wMXc?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 08:59:19 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "French President to hold call with G7 leaders to discuss stock releases - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2gyOWlGajNUWGdfUVhLbTIwR2N5QURDU2V1YkRUcmFxcEtfUDY2c3pZd3B1eC1sSkZ5VlBiNmVrdnlLNTB2THRGeHY4S2I5MG94V3IzWk5fOVVWWHVUQUIzbHd2NWlocEtkMVJRSEpLS0FLWUt2R2lZZEV6X3lWYWtiRXBRc1VxWlJCTWZ0Tk5pRnQtYlVBeUkyU3RrZGlNTFJWTGNTSTh4V1lTc1p5Q3lmQ0FLQ3RU?oc=5",
           "pubDate": "Fri, 02 Oct 2026 08:31:39 GMT",
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Italy scales back defence spending hike in new budget plan - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQk9FMWR2VUFlZnNHVHBWUVJ6VVYxc29ZbTdtNWNUUEx1UkwzY2c2MjhvUGVwSEM5THZKV3R5RF82VHJfRGJHSF9BT0RFalJFZ3NDeVVmT3Z3V0ZDQ183YngzN3A3R2diamNBU1RBZ1BKbldoMEVRSFRoT1M5M19mVTZxNm9VN2ZEMmkxdUszYklqNmNhVlZQdW45UXV4clZYLTRKRGpGRQ?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 08:09:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Why renewed fighting in Ethiopia's Tigray risks a regional war - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1Vib2ZuYTBsRWNFRnR5SE16MDh0Q1RYUnRtbHBYVnA5blZ1VURmcXNuVkZkUUVnb1JMbjdpcmVaQ0E1NlYxdzczb3c4akIwV2JHcl81UGM3VHk1dHdTUFFOUVhKbzVYWDc3TzNRNEYzbnlkdHlVUEZlaXJsOGt4NzN6TXh4UXRCd0ZBQkpoRlhhbnh0MHNLZ3RYZnBiWmhVblNmbTNIYks?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 08:02:33 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "September LNG shipments through Hormuz hit highest since start of US-Iran war - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV2hrU0N6b3dJbmV3dlJBZVVhbVl5cl9VcC1aNE1TRDhiS2FuZDY0V2xDMGtYUklNQ2MxODZqam5XdVhmek00dllQUnVyUUdNQUx2N0hWREJlUjJ3MWQ5N1hnbGJkdnBKNkJMV2NiT3JpYzhQQVpKOUk2cFF4TEJodnBZUmxfRnMyTHpTTWp6RE10dUdjSHU5eWhOVnNwMkx6VUU0OWJBVGZ0TVR6Tm5hWWVTZlZrU29uR3Y2OVRoMTNxWldU?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 07:47:58 GMT",
+          "title": "Take Five: Reality bites - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTZYUGk0aGlHZEJpc2FXNXVhUDNRb3M3cER6NVExNXR4MUIwYzhTczdBTERieE9SbXFiQ2dpanJ4bG11T2xMUWJ1d3VONS16RXpCWGFMQnFMSHhJVmdRcGlRZUZNTFhhNTNSSktCOEtPVWd1aERvcUE0X09NakkxRWdreWVHQ19ZbHM5eQ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 08:17:41 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T10:25:11.626Z"
+      "updatedAt": "2026-10-02T10:50:15.483Z"
     }
   ]
 }
