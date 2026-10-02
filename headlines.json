@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-02T15:25:17.715Z",
-  "lastChecked": "2026-10-02T15:25:17.715Z",
-  "lastUpdated": "2026-10-02T15:25:17.715Z",
-  "generatedAt": "2026-10-02T15:25:17.715Z",
+  "fetchedAt": "2026-10-02T15:50:15.083Z",
+  "lastChecked": "2026-10-02T15:50:15.083Z",
+  "lastUpdated": "2026-10-02T15:50:15.083Z",
+  "generatedAt": "2026-10-02T15:50:15.083Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+          "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 02 Oct 2026 15:26:37 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "What happened in the failed execution of Christa Pike - and what next?",
           "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 02 Oct 2026 09:08:06 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
-          "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 02 Oct 2026 08:46:37 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T15:25:16.374Z"
+      "updatedAt": "2026-10-02T15:50:13.822Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T15:25:16.730Z"
+      "updatedAt": "2026-10-02T15:50:13.979Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 14:41:46 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Iowa lawmakers to vote on raising tax incentive cap for a $15B steel plant - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUIzNGZwcmxBVDJkd25SYjhNNWcxd0ZXYnlLSE94TmJtNGh2Z3Z2cEhrX0xZR0dHT3VwSXk5ajNuY0RGSDhGaFBMMUZwR1hJQ3duMzk3b2t5aDhFX3hQc0RsTGZzNFBjMHhRRW5tcGdSZG54aGJZTV9WNXpxZG5yYU9aaHBRTEI0UFpVaWdQWExFaWFlTzg4Ylo1OVpUcUx3?oc=5",
           "pubDate": "Fri, 02 Oct 2026 14:21:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 13:43:27 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T15:25:17.260Z"
+      "updatedAt": "2026-10-02T15:50:14.528Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Spain faces more fury over housing after parliament rejects decree - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYlJiNXhENlJKVGRnY2ZhRmd6b19rYi1oSTRPNW1Jdmhld0tac0pXZnByQ2FQTE96VDFCNlZKelc0NW9ZYVZ3Y2xEcXBKMWRKc1JoUllCNjBUTkV5QUhoUjl2OUV5RmlCcVRSNWU5aEt3U0VVdFVqVzVxWEhjdGVtNUlxQ1RzTjdEdjAxalF6cDlRVUcxZTRkZG1hUFF6a2tZamRwOUlzTHVULVpRVHROX3JGamJRUQ?oc=5",
           "pubDate": "Fri, 02 Oct 2026 15:07:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQXzhLRWZhLUFJdVVORElYVGRzdmVHRXdtQklrVVFuUHBRVVZWenY2a0ZEV1N2X21YVHF6bGo3NFowdjFEOFlnc0dHSzRMZ2M4NUFpc0h5MldrcDBxcFJPQlRXY0phRDVtallfOHNjQTAzQVZ0dWVMWTZQU3RyYjM5YmtHQVVWSDlIRjI0UmZLZG9FYmFLeXNZU1M0UFlELW9NNjJfWmtMcXBrN0JIZUdQYUt6Q1B5ek16Tnc1RXpEVEJGLXpma0xGeUVB?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 14:58:10 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "US job growth slows sharply in September; unemployment rate rises to 4.2% - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 14:32:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nasdaq hits record high after softer jobs data cuts rate-hike bets - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 14:30:17 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Fed seen skipping October rate hike as job market cools - Reuters",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVRfM1dqWHpoenJab09IVXh3am1peVNMWFFPOFhOSjl1SkI5MklDUDl6VFpkSkZxUE8tU0Q4S3R3VXNxd0t5Mlc3NGxXNTBid1N4U0czdVA2b09hVmRyT0VtaEU3M243T09TQjVTSzVMYURvSkg5WjBSc2tjVnpzM29ZMHdTMC1hUGlRUzBJRXBQdWk3bG9heTJOQjQ3QQ?oc=5",
           "pubDate": "Fri, 02 Oct 2026 14:21:19 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump push to end US clock switching hits dead end - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZGpob2lBQVMzeXBmMm92bkNsWER2MGdwTjdkakFxQ0pLLXp3Z0F6TkxJd2ZtU3lUVUdsblc4MDZSdmFPSW1zbHFXRGFEbGVGRFp1R1FDLUJCekZMUGNXRTB6aElXZV8tWlltYWVhWUlEa00tQmZLSGRaTng3a1ktU0NuWUNkbDZQLWwtTndNdTZFUld5Y0Vtb2tfVGI3T2thQ2VodVZmaWg2anFoQ3hJ?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 14:17:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Europe agrees to release stocked diesel oil, Trump says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZE83bzNwWEpKSHFON2U3NTdNNzNCSTRpV3lSR1VvU2Q4c0owSmgxclF2X2U1M1ZtbVpDRTRYX1dHNkg2cm9JZWtxc3puRllFSVRLSWNYQ3NGMjdJTkRMSnJiaTgxWl82LUhiR2dhUkUyczcxNUs3cGFLSU5FTFlsUWlJNVZHWU9uRW5KU2VnQUFib2ZtQ1l0ZVpSTWEwVUE1XzhDbTNn?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 14:12:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Novartis strikes up to $7.8 billion mRNA deal with China's Abogen - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZWh5dEJ1LTdGU0pVQkdPODNVU2YybE5ielZvYkMyLTFnZWtxSU8xR21hXzVCVVhNb3NlQ3VIVnRqUFNZdjZNVjgtOHQybGNDTmlsVllPSWxoQ3B2WVN6Y3lxVHJ1ZDFKSi1jVktDbm84Zk9vSGtVVGNXUmNIektOYkN4azBxanNsbThzNTRCUGdQQ2lpbG9Zb19hSEpjbWdrVXpoSDV1b2NUNXZ6ZTA1MzhiTTN0QQ?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 14:08:17 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T15:25:17.715Z"
+      "updatedAt": "2026-10-02T15:50:15.083Z"
     }
   ]
 }
