@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-02T15:00:21.375Z",
-  "lastChecked": "2026-10-02T15:00:21.375Z",
-  "lastUpdated": "2026-10-02T15:00:21.375Z",
-  "generatedAt": "2026-10-02T15:00:21.375Z",
+  "fetchedAt": "2026-10-02T15:25:17.715Z",
+  "lastChecked": "2026-10-02T15:25:17.715Z",
+  "lastUpdated": "2026-10-02T15:25:17.715Z",
+  "generatedAt": "2026-10-02T15:25:17.715Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "What happened in the failed execution of Christa Pike - and what next?",
+          "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 02 Oct 2026 15:01:15 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
           "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 02 Oct 2026 08:46:37 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "OpenAI fires workers for 'mishandling sensitive information'",
-          "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 02 Oct 2026 08:20:32 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T15:00:20.029Z"
+      "updatedAt": "2026-10-02T15:25:16.374Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T15:00:20.319Z"
+      "updatedAt": "2026-10-02T15:25:16.730Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 14:41:46 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Iowa lawmakers to vote on raising tax incentive cap for a $15B steel plant - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUIzNGZwcmxBVDJkd25SYjhNNWcxd0ZXYnlLSE94TmJtNGh2Z3Z2cEhrX0xZR0dHT3VwSXk5ajNuY0RGSDhGaFBMMUZwR1hJQ3duMzk3b2t5aDhFX3hQc0RsTGZzNFBjMHhRRW5tcGdSZG54aGJZTV9WNXpxZG5yYU9aaHBRTEI0UFpVaWdQWExFaWFlTzg4Ylo1OVpUcUx3?oc=5",
           "pubDate": "Fri, 02 Oct 2026 14:21:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 13:17:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,32 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVJhSGVobUxHZWNqZ3FDWmd1TWtHSzBZUE12amtIVXN1anBZcDVqMzBMUllfUEJNcXRIczlyZWd5Q1Q2N3VfbWYzLWZVWEN0Q09OODdlWjdGdjVNc3E5TzUyMzV6ekd2VHBxTTRWQklOZU1aUmRTT0pQcFlfYjJoT1ZYTnlmb3QtalNnR2x4eGJrTmUxa2E1MFV3?oc=5",
           "pubDate": "Fri, 02 Oct 2026 07:14:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Households will pay more for energy because of Trump’s policy changes, think tank says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmNxeDQ3VW1wQWJaRWpWWlpCZ0pQYzg0OWpoSWo0a0hrU3g3REZMakxlQWxrenBxY0lsc0JQT3lDaHA1bkFFMUo3MkZZWXFRalUyaXM3Nl9NSjlXeDNCZF8zTTMtT1BFQ0kyd2kxY1ZwWHBqbFhNamZPejBFRE9yT1dKcjJtZ2N5T1d5MlVwVVNxaEFjSlg5TmxtMGRWUXhlbG84VWU3Tkx5a2pxR2kwUnl3?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 04:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Brazil’s leading presidential candidates snub TV debate ahead of Sunday’s election - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcDZQTTFIb3lzUVdOMGdwVVQtTjJZTFM1S2JYdEZRZjVobUdvTWIyY21xM2RrblFSd3hXUFkxWjBnNXRvMWx1bXlUM09NVGlvQUpwVndZaHdvWU1TaXl5cS1rQlFwZWlELUZzNlRQSXhFam9DUEY2TUpsX1ZqRXRvMmFUdW00ODVONkpDdE5HalJLZTBIem9HTXBXbTBfaUVMbmxEYkFTbWNDb2M?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 03:09:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T15:00:20.942Z"
+      "updatedAt": "2026-10-02T15:25:17.260Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Spain faces more fury over housing after parliament rejects decree - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYlJiNXhENlJKVGRnY2ZhRmd6b19rYi1oSTRPNW1Jdmhld0tac0pXZnByQ2FQTE96VDFCNlZKelc0NW9ZYVZ3Y2xEcXBKMWRKc1JoUllCNjBUTkV5QUhoUjl2OUV5RmlCcVRSNWU5aEt3U0VVdFVqVzVxWEhjdGVtNUlxQ1RzTjdEdjAxalF6cDlRVUcxZTRkZG1hUFF6a2tZamRwOUlzTHVULVpRVHROX3JGamJRUQ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 15:07:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "JD.com set to win EU approval for Ceconomy deal, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDdiVzduWlpSTUNVR2VORGp4b093TWNzYjB3Y2I3eW9vR1g3WmZrdmFNNlppQ0F3YkI5X2FrSWYzVjRNR1U1em9tVGUzeUpwNkNJU3dpVmt5eDVKOGtCZTNUcFdFcDQ5VTV3Y0ZHOG5QeVFXa1ZhcS16UUpjTVQ3Nkt5NHd0alRrZEZYOFNJU1N2TnZ3alBoUDdCNlprMUp4Z2VyTFczS01CRGwzeXgwR2Jn?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 14:56:56 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "David Ellison says combined Paramount and Warner Bros Discovery will be named Skydance - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc1lyajJ3VGVGVzRxcTRCcEwtMUhFWWVoMjd3d09uS3N3R3ZZSGFBckFYYXgyVkFiVUxUaUJ5LUtyeWF1LTRzVGh0WGM2WUl0Qjk5YWFqbzFFaVJIY0tRaW1LMWNqbUQzSHFNR19fZm9OU1RKeHhtbURfU2RNRk9pNUk3X09xV3FybWVPV05SbUNKU0ZUMWgwakRuMHlNb1V5em5QQ2oxSDZHLXFNbTdpSW0wLUEyUVFXUS1ZWHMwNVB5N2FEMy1MTA?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 14:40:30 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "EXCLUSIVE: Europe agrees to release diesel stocks, Trump says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnMyRFpEcDhNOHlnU2NJT3F1R2M5QkEzMjJPaGRUYlZ1S2RYYmNMZ1pERlZINEtxMkJDTktfMThYeHZ0U2FDZjVoQ3l3eHViLVkyajQ0S1RfSDJ4QS1xTEgxNVlaZzJSSkVjLTJYM04tX3ZHUEVSY0VHdjJHUU45RHBRajVxQzA3emVQNXpvRG9XRVVVZUtSdUtveUN2WUp6RzhBeVQwQ0JzVk8zWWYzS1FCVUtTZ3UtNTllVzJrbTJyUC00?oc=5",
@@ -185,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Trump push to end US clock switching hits dead end - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZGpob2lBQVMzeXBmMm92bkNsWER2MGdwTjdkakFxQ0pLLXp3Z0F6TkxJd2ZtU3lUVUdsblc4MDZSdmFPSW1zbHFXRGFEbGVGRFp1R1FDLUJCekZMUGNXRTB6aElXZV8tWlltYWVhWUlEa00tQmZLSGRaTng3a1ktU0NuWUNkbDZQLWwtTndNdTZFUld5Y0Vtb2tfVGI3T2thQ2VodVZmaWg2anFoQ3hJ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 14:17:13 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Europe agrees to release stocked diesel oil, Trump says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZE83bzNwWEpKSHFON2U3NTdNNzNCSTRpV3lSR1VvU2Q4c0owSmgxclF2X2U1M1ZtbVpDRTRYX1dHNkg2cm9JZWtxc3puRllFSVRLSWNYQ3NGMjdJTkRMSnJiaTgxWl82LUhiR2dhUkUyczcxNUs3cGFLSU5FTFlsUWlJNVZHWU9uRW5KU2VnQUFib2ZtQ1l0ZVpSTWEwVUE1XzhDbTNn?oc=5",
           "pubDate": "Fri, 02 Oct 2026 14:12:17 GMT",
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZWh5dEJ1LTdGU0pVQkdPODNVU2YybE5ielZvYkMyLTFnZWtxSU8xR21hXzVCVVhNb3NlQ3VIVnRqUFNZdjZNVjgtOHQybGNDTmlsVllPSWxoQ3B2WVN6Y3lxVHJ1ZDFKSi1jVktDbm84Zk9vSGtVVGNXUmNIektOYkN4azBxanNsbThzNTRCUGdQQ2lpbG9Zb19hSEpjbWdrVXpoSDV1b2NUNXZ6ZTA1MzhiTTN0QQ?oc=5",
           "pubDate": "Fri, 02 Oct 2026 14:08:17 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "David Ellison says combined Paramount and Warner Bros Discovery will be named Skydance - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc1lyajJ3VGVGVzRxcTRCcEwtMUhFWWVoMjd3d09uS3N3R3ZZSGFBckFYYXgyVkFiVUxUaUJ5LUtyeWF1LTRzVGh0WGM2WUl0Qjk5YWFqbzFFaVJIY0tRaW1LMWNqbUQzSHFNR19fZm9OU1RKeHhtbURfU2RNRk9pNUk3X09xV3FybWVPV05SbUNKU0ZUMWgwakRuMHlNb1V5em5QQ2oxSDZHLXFNbTdpSW0wLUEyUVFXUS1ZWHMwNVB5N2FEMy1MTA?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 13:59:29 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US job growth slows sharply in September; unemployment rate rises to 4.2% - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 13:57:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "SNAPSHOT Wall St opens higher as softer payrolls data, lower yields lift sentiment - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 13:37:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlJTYWFXYlJBZ3IyVUJ4WVNFeXhuWnpUMklldThsaE02Q1lndjFNLU1vUVh2cUp2S1FQRjVUUmVic19pX3RxRTFWZ0lCOFRpM0gtQW1oZUx6MEdpalU3WGlJeXBuMTRKRGRGTnBQa3hGdTYyd0w2bnJkWTlPVlAycEx0ZVYzZFY3dEdWTGRHZDhDbkJXQ0RiN1RTSkVkOEZrRGROMUhxTXphTHpqbmdSZDZmU3BWZWI0LUtSQ2oxdE5tR1NtNXNPS1Y2emQtRmdjbjF2S2pn?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 13:37:07 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T15:00:21.375Z"
+      "updatedAt": "2026-10-02T15:25:17.715Z"
     }
   ]
 }
