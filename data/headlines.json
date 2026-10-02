@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-02T00:25:13.796Z",
-  "lastChecked": "2026-10-02T00:25:13.796Z",
-  "lastUpdated": "2026-10-02T00:25:13.796Z",
-  "generatedAt": "2026-10-02T00:25:13.796Z",
+  "fetchedAt": "2026-10-02T00:50:14.416Z",
+  "lastChecked": "2026-10-02T00:50:14.416Z",
+  "lastUpdated": "2026-10-02T00:50:14.416Z",
+  "generatedAt": "2026-10-02T00:50:14.416Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T00:25:12.169Z"
+      "updatedAt": "2026-10-02T00:50:13.398Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T00:25:12.652Z"
+      "updatedAt": "2026-10-02T00:50:13.593Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1JEUjNsbnRKZ2tUX1RIcDczNFdTQWp6aENMM2JaLTk2WXMtbkllazZFZHg1RjhCUmJiRk9pbllEOFBJa21tYVk0cEpBY0RGM0ZieGRlcUxoaG85cmN2V2NQaDl4bnRsb19EWGY5MkZERTBpcE5aVzNmMVdyX3JyS3RLMWNCREI3UnFOOGlva3pFZXdjNTIzUlJVWnZyMENBNGpFXzBDX2p3NEkwN2c4?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 23:50:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Trump and Vance hit the campaign trail in deep-red areas where GOP candidates seek a boost - AP News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29JVnMyNXZRMUpySjhfMXNLa0RsVXVHZnhpOFBTREZYQXBONlA3ZTZGYUV2UG5vS0xWbFJFVDJSMVNiMFdyckQyUDVOTFY1a3pPLXRvZkhrYkVGT0VLRjQxa0JCS3k5aVRCa0FTU0xqeWJwbkxpc2hXT0ItS0xKbDFHUUFvSXFBd3BpMUxkN3ZUeEVUQWFFWkw4Zzg2UW9uRm5MTFpOcWVnU0R3VnNFTUVfbzVmNmZCRnc?oc=5",
           "pubDate": "Thu, 01 Oct 2026 23:42:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Nvidia unveils security platform to stop AI agents from going rogue - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 23:32:03 GMT",
           "source": "AP News"
         },
         {
@@ -142,32 +154,20 @@
           "source": "AP News"
         },
         {
+          "title": "G20 trade talks yield little progress while tensions simmer - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWNyVEFVQTg4SDA3NEh2cXlPTXBEeFdoUFhqVklJVi10aHBza2V4enU1NGlqcDJZeUpnc1RRcU1XVk9VdnVLUGhGYVhXMk9qQUFWRUFqellnX2JQcnFsZXVTTEd6UnozbHl2WWZ6TnZrNjYwWGRtd2VSOHo1V2kxNlgzWTFBSE5tbl94aA?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 21:58:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Swings in the bond market shake stock markets worldwide, as AI optimism supports Wall Street - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTEwb09rWU9TWmVQdGp3TkQ2b2MzRzU3bnoySi0tSUVGaFMzVFI2WmZHckpkTUlSV1JNejF6aFRTaWVlQ0tLUFBiTTNacEJSMHk1RGdyTHpMMndCU2Zyb1NuVXI3bUxCWG4yZ3NaUVQ1OHlCXy1CNEgyRVZsdDN5X0s3eXBKX2ZDLUFvdWFLb3BsNVduVUE?oc=5",
           "pubDate": "Thu, 01 Oct 2026 21:36:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Ethiopia expels 10 Eritrean diplomats as tensions between neighbors escalate - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVEZfT29rb2N5M0gwUHlKTktwM05iVWxZNUpndXBObkNkeHN1ZVQxWWZENkJpWllCMXNXYmt4Z0NmOUJMOFh6MDF0aUNMX0ZhS1hZaTc3OUZ3Q0I3QW5MVTRtUnA5MmdUWVFRR1BvWS1vMWt4a2JodVMtSkg2VmRCNGFMY3NJRENVRjZMNGZJOA?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 20:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Renee Good's family sues US government and immigration officials over her killing in Minneapolis - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFVwZTZRWWRIa1BmbE9Jc0xNeTZNWk95TnVtSU90UDZRQlNfSm1qVFpaeUZRR2xDXzhjc0l3TEp1WEdpZmU0dUc4VUgwaDBXekR6aGpVNnRsSTVSX2hTNkQtOFNpX010Z3JDbTAwM1JpN0xGSEF4cHlrZmlIak11VUl1WGQ?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 20:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Hedge fund CEO Ken Griffin gives record $3B to Carnegie Mellon to build Miami campus - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0Q4TFMxWkpycGtLLTJkUkhpeElKeF9kdGY4OTRnYVdxWjlNUzNJNGRaQXVMSE5IdW5ZdndZb2hBTUlacklhRWlPX25vb2xMbldmSDVrdERvektsOTdId2R2MWtkZmc4YXZwZnBxc182di1yRkdidkNMa1BWbUFPNV96MTNaa3pxU0pqNjByR3dJdVlLNkxkQlBoRV9zRmJjc3VyLWNrR05QRlpBVUZUbnZqOA?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 20:38:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T00:25:13.202Z"
+      "updatedAt": "2026-10-02T00:50:13.999Z"
     },
     {
       "name": "Reuters",
@@ -203,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Pilots of crashed Amazon cargo plane were unaware of wind conditions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX1VJNUdtWmsycU81SGxhMXh5TmhZTjNwQXJHdUFITmpMaW1xYVppb21RZ0Z4ZFVxdExXMWJuTGJCZFBWT0piUHp4U1gwbmhyWVZkWmpIUkdqaTl4SWdqMkk1LVFMTW93NEpkQm0xMXNwMWhLYS1VYkRrSVd3ZHEyMGJkb1ExcU9vbUpoc0lCWDhIMlBSX2FGNEJveE5zM1pYRUR0UmZ3WQ?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 22:53:46 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Canada to fast track oil pipeline designed to diversify economy away from US - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWtEU1lqY1h5V3phT1R1RG5tQkNJeVJYS2xPYzh4Mkh4WTNZY0F2MHVwMzVGaUpfMWFvMmVXR3RYaC11WkZkV0xpOGVZWXRVbUZPOFRubE0zSWxiX3g5Mk5IajJpQ3d0Rlc1aFRlWHZLeGJaR3ctWlR6NGIyLW56TXBvd29lNHEyWWxyVThKZEFnT05LTDBwRTRZQlQ2c2VweFpqNjZEYWU0UXJFdTZmdk8zVEtnY2pu?oc=5",
           "pubDate": "Thu, 01 Oct 2026 22:46:25 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObHJZX25QcWJGbXkxdDc3bDZxNEZvTUp3ZGpidEVUc0FKSWViNUtfY2ZTTlJnNlE3YWduWmxnQWRfZVRjUm9GbERCc1lfRWdEb0tXZE1RTGNIa2Y1M0FxTnZDTWcyZGdvQ1dlb0pKRnRGR3VxVzZGc1hxUklYa0NvMzRELTU2S3RxREhSMkgtWkJwWVNldFJNWk5hRGpxTGN3SUM0U1hlb09FajVNRW5XSW80UEJyU3VWam8tbw?oc=5",
           "pubDate": "Thu, 01 Oct 2026 22:44:53 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 22:26:30 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T00:25:13.796Z"
+      "updatedAt": "2026-10-02T00:50:14.416Z"
     }
   ]
 }
