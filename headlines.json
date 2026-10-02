@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-10-02T02:50:13.818Z",
-  "lastChecked": "2026-10-02T02:50:13.818Z",
-  "lastUpdated": "2026-10-02T02:50:13.818Z",
-  "generatedAt": "2026-10-02T02:50:13.818Z",
+  "fetchedAt": "2026-10-02T03:00:17.610Z",
+  "lastChecked": "2026-10-02T03:00:17.610Z",
+  "lastUpdated": "2026-10-02T03:00:17.610Z",
+  "generatedAt": "2026-10-02T03:00:17.610Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+          "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 02 Oct 2026 02:49:44 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+          "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 02 Oct 2026 02:29:41 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "What happened in the failed execution of Christa Pike - and what next?",
           "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
@@ -14,9 +26,21 @@
           "source": "BBC News"
         },
         {
+          "title": "OpenAI fires workers for mishandling 'sensitive information'",
+          "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 02 Oct 2026 01:34:56 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
           "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 01 Oct 2026 22:28:45 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 01 Oct 2026 22:21:16 GMT",
           "source": "BBC News"
         },
         {
@@ -30,34 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 01 Oct 2026 19:59:24 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-          "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 01 Oct 2026 19:38:30 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Fires break out at French schools as students protest nationwide",
-          "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 01 Oct 2026 19:19:00 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
-          "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 01 Oct 2026 16:31:35 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-          "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 01 Oct 2026 15:05:36 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T02:50:13.446Z"
+      "updatedAt": "2026-10-02T03:00:16.248Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T02:50:13.754Z"
+      "updatedAt": "2026-10-02T03:00:16.566Z"
     },
     {
       "name": "AP News",
@@ -148,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 22:10:31 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Christa Pike is in critical condition after Tennessee’s failed execution attempt, her lawyers say - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLW0wLTZ5T1N2WjcyMklRc3F6Wkt1Qk1FRGJWV3NqS1c1QlhiZF90eGtzOXZKWVF5dGJFWkxBNjZ4RnJ1ZkI2LUJUVFh3d3hwU0w0SFNVN1UyUEJvcXotUF9iQUdWSnJNN0hiS2FtZXZBOWdIWVlvbmxiMkR6Z3NKZUphZnYxNEFLdnNwY3hzSEZjT043dmpPMDBKNFBEQQ?oc=5",
           "pubDate": "Thu, 01 Oct 2026 22:09:00 GMT",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc3lvSVhCU3pVODNET2ZrdWNkM2FJUGJJRDRNQzkxSG90RTRhZmptbS1sMXpjMll2NjZjU1RsUWZranhfVUFzM0N0dFJza1BMRUpfUVNwQ3JpaGt4WWVvVGtWU3cxRlctQWFFakkyQzJOUFM5eHJRVVpKNFlkSHJrSnA2Y2NUQzVSQ1hudmxUbjdSMlVQbUpjaDkyNktHQQ?oc=5",
           "pubDate": "Thu, 01 Oct 2026 22:04:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Massachusetts man charged with cyberstalking podcaster and former Trump official Katie Miller - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlkteU15R3RhLUJDczR6Q1Z1NWw5R2hRME5lVWpnazMwVnp5WEdDbW1UekxjVnlMYVdZVEdNeEhpclZVSGhhUHlVU052Z3hfSjg5bFVHQXBYT2ROUzFwUWpPSU4xU0FYV1JNa3doOTJZWEYzZmF1U0hiaVl5cHN4RjVtazBBaGtQaE4zXy1sVVA0bE9HaC1RRjZteDRGVUJqXy1wcXAzWldkMjQ?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 22:00:40 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T02:50:13.804Z"
+      "updatedAt": "2026-10-02T03:00:17.139Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T02:50:13.818Z"
+      "updatedAt": "2026-10-02T03:00:17.610Z"
     }
   ]
 }
