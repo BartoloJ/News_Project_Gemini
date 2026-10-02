@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-02T06:25:13.438Z",
-  "lastChecked": "2026-10-02T06:25:13.438Z",
-  "lastUpdated": "2026-10-02T06:25:13.438Z",
-  "generatedAt": "2026-10-02T06:25:13.438Z",
+  "fetchedAt": "2026-10-02T06:50:15.281Z",
+  "lastChecked": "2026-10-02T06:50:15.281Z",
+  "lastUpdated": "2026-10-02T06:50:15.281Z",
+  "generatedAt": "2026-10-02T06:50:15.281Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T06:25:12.369Z"
+      "updatedAt": "2026-10-02T06:50:14.226Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T06:25:12.611Z"
+      "updatedAt": "2026-10-02T06:50:14.309Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,12 @@
           "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
           "pubDate": "Fri, 02 Oct 2026 04:40:19 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 02:44:11 GMT",
           "source": "AP News"
         },
         {
@@ -158,24 +164,36 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenA1VXU1aGRMUHdHXzNQTms1b1k1Wkl1V1B5YzdMRFdTVXRTVFlCVWs0cU16YkkwRlBNMF93WUJkdmNwaFktUExFZWdVODhvTk95OWtkSmI2eEdEOVRPOU5MdmkxeHJlOWVDRmZlQU1xNjcyZHBRUG5UTWRiZEp4QXdlZFpDS19HenJkbmJqZjI3X3Zy?oc=5",
           "pubDate": "Fri, 02 Oct 2026 00:07:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Rapper Rick Ross stands charged with battery after a woman alleges domestic violence - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQck5FaDZsUHNmaGxVbWRzd3VuWG95dDBRRkJCaExfSjlBa3BfdmFXd1Vrb1JWVXFqVWhrZWgyNDBwREwwT2RScDgxQ0FqdmFiOTF2dUp0TmptWE9ZUWhKY0NCRVpqdmNYNllMY0dnMExIRkZsV29pcUFsS04xYlY4bWhHZl9sZWtkRjVueDRNY2tSX0JvTlMtS1FR?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 23:32:57 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T06:25:13.052Z"
+      "updatedAt": "2026-10-02T06:50:14.873Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "EXCLUSIVE: Chinese work gathering pace on Antelope Reef in South China Sea, latest satellite images show - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS1pianEyaEVGbWJVZVgtcFZPX21QM3F3VnVnbEJmMC1rVkxRQWJGN0pUSUhmVzJ4RU5zQTNVZmZJNEVOY085c1hiOGtUMXY3OG9SdHd3TUVTc2U1RTZGYWItUjNTU2pxNG5LZlQ4VFVmT2gzTTRBY0VneldaNUpFMWo2YlJFejlJM1BhdHJiNmtSTTdhMkRKS19TV0VXcWdPSVNOZno0RzhBdWVsVHFVb1NJQ2FhNk9CWmNuRHk5Yw?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 05:56:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US congressman demands Starbucks close its first stores in China's Xinjiang - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObmV6NUtNZTNfS2E3ZXQ2VHlxZk1XQ3d3djZTQVVwZ1ZORnlhSWkyY1puamgxLUxyeW44c3ptV2V6ekl2TWhyeGFFclBGaGVrT2stNW9DM3U5eFVZQ1l2cXVJOEFtRDExUWIzWGVtM0UxQmpyMzA2VlVuSDFIY1VqNEQ4dFlxWWhLNW9fdEgzSFlHaThRNzZKc3ZZaHE5RHF3Sk5henhnY3QtQUV6bkxPaUtmZzFweG8?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 05:34:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "About 400 French schools closed as some student protests turn violent - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFQyTU1FaVBENkY3X1RkbTlmMkE5LVBkTjF3X1lMMExZb1M5anM2THFGOHVTYmJzdWFCQ0VUNU0zN2xYNUI3ZDF6aEl4WXNUcnd1MkJsQmhLako0c2NqNW5Yb3JIbjkyVHN6MWFQNjBQMm15QjA0WDlheUVnSDAxdDRGd2NKQVRyX1lxSlhSa2FuMk55RUp3QUV4RFlfLXdXU1pEQXBLU0Y0OFdG?oc=5",
           "pubDate": "Fri, 02 Oct 2026 05:21:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Foiled flydubai attack clouds regional airline revival - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckx3VkNRTklaT01xMTdlQW5sXzBSZ0lPNWNBcWpZZmJCWnNCOWxnRWRjLVhnbmZEU28zZ2hNVkExbzNpeUpyazBtT1FQNWswRGRiYUxqY3BEQzVuX2RSZ3pIa1ZyTFQ1NjJaNFlQdnpTMDJVUjNKOUdxVkdHcTVpSm5tVVp6THRWOV80bEt2ZzMtY0hFeTA5Y0xNR2k0eElNT3Z6cVlJRmsxbmZt?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 05:01:00 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "South Korea's Lee threatens action against Ukraine over transfer of North Koreans - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM245akM1RlRxVG11VW01T29OZEZfVXA1c1I2dEJoYVp4NkExNlBBLTJ2dG0tVjBBTVV5RzJudkhId3VUNWJyZVp3blVqeU9sWUkxV1ZvZ29mZjVWOFdxYmwtRFhrNjJvNzJxNDFqN0ZNZHRLbTQyd3J2ZWhJN3B0VGNFb2YwT25OdF9tUlFYb2RUT3pWRGItTjJtYkFqYko0VFZncmlHbEZtc3VGbFZGbTVka0lfWTd5RFVrZTJBRUdjU0Nva0hnVlB1RQ?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 03:00:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "New York attorney general named special prosecutor in Cornell rape probe - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVU81aWNhdWFremtYWWt3enE1VHNnYnJRZTNEWGVTQ01faWFRTDNlOV92ekxxTlZDVWlRV0habHNCUC1BZlp0X2p1bjZ0aUE0bnJFOHlkaEViaFc5OVNpX0lnd0dpX2FQYzgzVDRIVGZJNjV1cDdXY3dSangyQkVwenEtWXBhVEFta0lrU3htUkJrZmhFbC05MTI2SllXbFdxVGxDMmgya2t2cThiTzBVcjY3NzVEOXR1RDRXNDZDaw?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 02:48:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Gold steadies before US payrolls data, set for second weekly loss - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcU0zNk9Vb0hCT2pmbmJmeVE2S0tGa3NIMEdscGhEamlzdUhTUFdfLTVUX3FCTHVWMFdySmktUmdvTFIwQnpsX192VzYxdnUyTTJOWXRETzh1Z2ZFYUJpYjM3MWJJdG1XSG1tQTZCMnhBRlAzaTZEdHJEREY5cEJla2VZU3ZaZGtVOFZQMzljR3JFdUtUUlJUbzk1NzZiRzBna1JIRmdiVng?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 02:24:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Taiwan's first new F-16V fighter jets arrive to bolster defences against China - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemotSUFPaElSNFZ4OHRwM2pXYktMUzh3QmJPcVR6QkdvdVJVbENTVVo1cmxUSUxRZnhjZExnWUhYQTlXT25GWTIwTG5OMGItZlRJeV9BejdXZ3h4U0YzZFByVGE2TmtBb2REeGlNVW82OUpvOUREQktUOHFlWkl0bUVXNUZFM1FTNy1OdDgxYjFDY1hxRFhqcVNVT3Q0QmtPUktoeEZscnpYQVFDcGlGUnpjUUt3T3d5Q0wzbzlzeEcwQWFINEtPNkpMbFYtejE4OEE?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 02:22:00 GMT",
+          "title": "US job growth expected to slow in September; unemployment rate likely steady - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmpBVFdqekt5WEJQeF8zZkEzQ0prUUdiY3lzNVM3TUVXSndIazJYSmNOajZNWGViZ1ZGaUszb1JEaF92cjlDdUN3aGVyQXQ5d1VseFFINzZxMTJYbURVOFJFYmlfN29kbFItakZhczNLc3dJZks1Q1hqZ3ZwNUhucEc3ZmxCd0kxbEJFZWlHRkZVdFM1M09iUnZ4bHRLYnJBUllhOTZYNnhhVXdRM1lGbTgtc2M?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 04:01:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T06:25:13.438Z"
+      "updatedAt": "2026-10-02T06:50:15.281Z"
     }
   ]
 }
