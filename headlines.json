@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-02T13:00:21.163Z",
-  "lastChecked": "2026-10-02T13:00:21.163Z",
-  "lastUpdated": "2026-10-02T13:00:21.163Z",
-  "generatedAt": "2026-10-02T13:00:21.163Z",
+  "fetchedAt": "2026-10-02T13:25:12.997Z",
+  "lastChecked": "2026-10-02T13:25:12.997Z",
+  "lastUpdated": "2026-10-02T13:25:12.997Z",
+  "generatedAt": "2026-10-02T13:25:12.997Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "School protests send shivers down French government's spine",
+          "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 02 Oct 2026 12:43:02 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
           "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 02 Oct 2026 08:20:32 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
-          "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 02 Oct 2026 05:53:51 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T13:00:19.871Z"
+      "updatedAt": "2026-10-02T13:25:11.773Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T13:00:20.176Z"
+      "updatedAt": "2026-10-02T13:25:11.995Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "US adds disappointing 29,000 jobs and unemployment ticks up to 4.2% in September - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3JiUTV3TldIc0JJUmgwMnBSUmxYZmlfT2pqSjg3UzV3SWRWZXZBbzF6U3I5MFJjZjJmS3dObzZ0SHJXTWVZaUNoR0U3MFpqdzhRZGpSbkFWa0RiT1ZONjd5SzRSS01iLWNRWEtGeHlTRzE0Qi1rbmgtclhMd0E0X21nTzhiNVE5blFIRHkxN3Yxb2pHWmk4b2I3aw?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 13:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Walmart says it's not using personal information to set prices as it expands digital shelf labels - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm5IeVVqMlkzLWFCbm1VbXJ1YmxidUdsVDVEQjNwQmR1dHgtTXNkblRpbzJ0N0drSnRBVkNHREZiMUIyWUE1WTdEc0Y2NXhoLW8xamFtcGdSYzZBRzlmTWFMTzhfRGdsbmIyajd4TTJJN3ZURDZXb2M4Sk5LeWdyNmtteDdVekxKWFRldFl1X1ZVcnZYVEE?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 12:56:09 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Astronauts arrive at International Space Station on the quickest US express flight yet - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenA1VXU1aGRMUHdHXzNQTms1b1k1Wkl1V1B5YzdMRFdTVXRTVFlCVWs0cU16YkkwRlBNMF93WUJkdmNwaFktUExFZWdVODhvTk95OWtkSmI2eEdEOVRPOU5MdmkxeHJlOWVDRmZlQU1xNjcyZHBRUG5UTWRiZEp4QXdlZFpDS19HenJkbmJqZjI3X3Zy?oc=5",
@@ -152,36 +164,48 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWQ0bnZHZTRpU08tcW9kNURFSWpUdzlmUVF4RW1aWEcxQlJwM2paM01Sc1Q1eTZyWkxtSDNWbE1QcjNSR2N6NGtxUjNINF9HYmk2YzJib3p2V0l3NXQ5Smx6c0hhazBIU1RKc2VpcWhpTm5XdzhFckR2MnNxWENHcjlNUm1xemp0RTFQa3dqLUZaVlYzamFzMjdBTnlfUXpGMmlF?oc=5",
           "pubDate": "Fri, 02 Oct 2026 06:56:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Brazil’s leading presidential candidates snub TV debate ahead of Sunday’s election - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcDZQTTFIb3lzUVdOMGdwVVQtTjJZTFM1S2JYdEZRZjVobUdvTWIyY21xM2RrblFSd3hXUFkxWjBnNXRvMWx1bXlUM09NVGlvQUpwVndZaHdvWU1TaXl5cS1rQlFwZWlELUZzNlRQSXhFam9DUEY2TUpsX1ZqRXRvMmFUdW00ODVONkpDdE5HalJLZTBIem9HTXBXbTBfaUVMbmxEYkFTbWNDb2M?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 03:09:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump and Vance hit the campaign trail in deep-red areas where GOP candidates seek a boost - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29JVnMyNXZRMUpySjhfMXNLa0RsVXVHZnhpOFBTREZYQXBONlA3ZTZGYUV2UG5vS0xWbFJFVDJSMVNiMFdyckQyUDVOTFY1a3pPLXRvZkhrYkVGT0VLRjQxa0JCS3k5aVRCa0FTU0xqeWJwbkxpc2hXT0ItS0xKbDFHUUFvSXFBd3BpMUxkN3ZUeEVUQWFFWkw4Zzg2UW9uRm5MTFpOcWVnU0R3VnNFTUVfbzVmNmZCRnc?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 02:35:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T13:00:20.713Z"
+      "updatedAt": "2026-10-02T13:25:12.523Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "SNAPSHOT Wall St futures extend gains after non-farm payrolls data - Reuters",
+          "title": "Wall St set to open higher as jobs data dampens rate hike odds, yields fall - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 12:37:43 GMT",
+          "pubDate": "Fri, 02 Oct 2026 13:21:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Novartis strikes up to $7.8 billion mRNA deal with China's Abogen - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZWh5dEJ1LTdGU0pVQkdPODNVU2YybE5ielZvYkMyLTFnZWtxSU8xR21hXzVCVVhNb3NlQ3VIVnRqUFNZdjZNVjgtOHQybGNDTmlsVllPSWxoQ3B2WVN6Y3lxVHJ1ZDFKSi1jVktDbm84Zk9vSGtVVGNXUmNIektOYkN4azBxanNsbThzNTRCUGdQQ2lpbG9Zb19hSEpjbWdrVXpoSDV1b2NUNXZ6ZTA1MzhiTTN0QQ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 12:59:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US job growth slows sharply in September; unemployment rate rises to 4.2% - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 12:40:01 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wealthiest Russians fund 1% of Russia's state spending through 'voluntary' donations in 2026 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcXAwMV9iWk84WE5CaGxFTjNZZVd5VDNHRXRoSXhWeDdzVHpsNlFKd1JuOW03TnFMU2NHLWJkVGZYMy1TZGNTSEdjbGpjZ2pSR1o2NEhINEljNURxSHI3QWFtbTlxckFPbW1xUzVBeER2cDlQSllWSmhHWm95VnhOYjExRjhfN0FGMkdlamJSVE00SFhvd0Q3S1NDQTg2QXp3SVJHMnpqa3BRTlI2T0ZPUGhzejJsbXZ2NkI4YjQzdWxSTEQ4YVJ4X0JB?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 12:21:01 GMT",
           "source": "Reuters"
         },
         {
           "title": "EXCLUSIVE: Europe weighs new diesel stocks release after US pressure, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnMyRFpEcDhNOHlnU2NJT3F1R2M5QkEzMjJPaGRUYlZ1S2RYYmNMZ1pERlZINEtxMkJDTktfMThYeHZ0U2FDZjVoQ3l3eHViLVkyajQ0S1RfSDJ4QS1xTEgxNVlaZzJSSkVjLTJYM04tX3ZHUEVSY0VHdjJHUU45RHBRajVxQzA3emVQNXpvRG9XRVVVZUtSdUtveUN2WUp6RzhBeVQwQ0JzVk8zWWYzS1FCVUtTZ3UtNTllVzJrbTJyUC00?oc=5",
           "pubDate": "Fri, 02 Oct 2026 12:14:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ethiopian forces near Tigray capital, fears grow of wider conflict - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQazJuWGtHMHMwR1AxYjFvenY0NHFFN2VsemM3QU9LSVRkdldKd3ZyUzNtWUVIR2QtQ1E3NG9ZYm80Z2JYTktIa044ekltWVpKQzJMS3Y3Z0o4eUpqUzFZRWNLa0pZM3JfQzFCbDhhM1NUUEVrSk9OVWJTOVpPTDJHNF9qb2JadUN1Ym1UZmkyMWJmQ0U5QTdQNlBDWlltRlREYk51WTNyTzU3aC02OWNpSg?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 12:04:09 GMT",
           "source": "Reuters"
         },
         {
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSzBLR2tXQXQ2UXIzSmZhYnZ4d0xrTXJiQV95a0ZhdkItWTFLdzJUWld1Q3FvZHFtdTNOZlhWWXdkQkcxQWhfNWJjRVZpbmR0UDh3OG1BSng1U1d0X3R4ekl5T19aekNkQUl1ek45ZWdULXVsX0RaVGF2bXg3QnEtWXBMU2MxMk13LW91cTNXM2g4XzlvZnM3VWZULTFmNVFFNlZIT3A2ZkZreC12QmtGcEJxaTh0bjJKN0pnRzNEb2JONWRPM0tZdFpHdHBzUQ?oc=5",
           "pubDate": "Fri, 02 Oct 2026 11:37:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Hungary welcomes Ukraine's bill strengthening Hungarian minority rights - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMldSSGZJMW9wX3g0SXdsU0ZlSVRvRGZySlZINGh5eGc3TzgxSWUtMm4xQVFoeWNkY2h0VC1MNzlrNzhKUUVRZHRlaWx3WWM5WGQ5eVQ0Y1JDTWMyTnlaYk1UVlJ0Y2ZWbnpvNTczeXhuN25LcE1fNlBLQlNDVjg5NFo0cHlRcGZCR05GODRSOUJUZjlVMmQ5OEI2aGV6dVJMUGdQS0Q2MVRXVTJGSkp3Yy1n?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 11:33:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "COMMENTARY: Morning Bid: Yield to worst - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGx4Q3hRanBxbVJxRnh4Z0dma2tHRWR4T2Y4bm5Db0JtQ2o5NDJZdGZFR2x0VHhmTkVXVDF1bDBIdk96ZC15dEdyRzV4a0lpZU5IdUdKcU96Wm9aYU9GUzVnVDVCWl91YVZWZ2R4SXJuZG9BcGFSQlZGWnd4OVYtLVA3SDAwcENNZDNPUThNTmhZYlpVRkow?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 11:20:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYW1JN1lJT0NhMWxSTm4xY1NJWHg4UGp5SzQtUlV2UjB6ZHgzdExsbXRIckJkWWpGWW1aY3dHX2ZBLTh5LS1yME1WaWJPQXdkTVluRVpCOTU2WjVhMm9wb1VVUEdsaG5xWlFYQUdPSndwYmhYN1VzMnBBMFJkdzVMTmJrc3R4cWxlcHBRdE5lWFBVc2NMLTJDSnRGazFDeXJXbW13Vzh0Q0QySjFTVVV3VXZiOHg?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 11:17:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlJTYWFXYlJBZ3IyVUJ4WVNFeXhuWnpUMklldThsaE02Q1lndjFNLU1vUVh2cUp2S1FQRjVUUmVic19pX3RxRTFWZ0lCOFRpM0gtQW1oZUx6MEdpalU3WGlJeXBuMTRKRGRGTnBQa3hGdTYyd0w2bnJkWTlPVlAycEx0ZVYzZFY3dEdWTGRHZDhDbkJXQ0RiN1RTSkVkOEZrRGROMUhxTXphTHpqbmdSZDZmU3BWZWI0LUtSQ2oxdE5tR1NtNXNPS1Y2emQtRmdjbjF2S2pn?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 11:09:17 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T13:00:21.163Z"
+      "updatedAt": "2026-10-02T13:25:12.997Z"
     }
   ]
 }
