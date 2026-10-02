@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-02T04:00:18.449Z",
-  "lastChecked": "2026-10-02T04:00:18.449Z",
-  "lastUpdated": "2026-10-02T04:00:18.449Z",
-  "generatedAt": "2026-10-02T04:00:18.449Z",
+  "fetchedAt": "2026-10-02T04:25:13.955Z",
+  "lastChecked": "2026-10-02T04:25:13.955Z",
+  "lastUpdated": "2026-10-02T04:25:13.955Z",
+  "generatedAt": "2026-10-02T04:25:13.955Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+          "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 02 Oct 2026 04:21:31 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
           "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
           "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 02 Oct 2026 02:49:44 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
-          "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 02 Oct 2026 02:29:41 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T04:00:17.201Z"
+      "updatedAt": "2026-10-02T04:25:12.763Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T04:00:17.328Z"
+      "updatedAt": "2026-10-02T04:25:13.033Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "New York's governor removes DA in Cornell rape allegations, appoints AG Letitia James to take over - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUloWXRtQklqSW5VMDFybmQxS2o1RzRwd3RZOXZ1TTNDdnRPRFZxaUlGTzhvSVF1VUxsb1dCX2w1UkRSajRMRlQtcFU4SjJQelF3MDQ3UmZ3STJ5WHNkU09lYjlZV1pxRnlKYTZ4U3o3U0JMeVJqMTkwcjBiTGdsd1dhT2lmcG1FSFNlM3lTSF9KdjFRT19vQVVJWkphMFpzR0FZN3hMX0RkOXM?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 02:37:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump and Vance hit the campaign trail in deep-red areas where GOP candidates seek a boost - AP News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29JVnMyNXZRMUpySjhfMXNLa0RsVXVHZnhpOFBTREZYQXBONlA3ZTZGYUV2UG5vS0xWbFJFVDJSMVNiMFdyckQyUDVOTFY1a3pPLXRvZkhrYkVGT0VLRjQxa0JCS3k5aVRCa0FTU0xqeWJwbkxpc2hXT0ItS0xKbDFHUUFvSXFBd3BpMUxkN3ZUeEVUQWFFWkw4Zzg2UW9uRm5MTFpOcWVnU0R3VnNFTUVfbzVmNmZCRnc?oc=5",
@@ -136,6 +142,12 @@
           "source": "AP News"
         },
         {
+          "title": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1JEUjNsbnRKZ2tUX1RIcDczNFdTQWp6aENMM2JaLTk2WXMtbkllazZFZHg1RjhCUmJiRk9pbllEOFBJa21tYVk0cEpBY0RGM0ZieGRlcUxoaG85cmN2V2NQaDl4bnRsb19EWGY5MkZERTBpcE5aVzNmMVdyX3JyS3RLMWNCREI3UnFOOGlva3pFZXdjNTIzUlJVWnZyMENBNGpFXzBDX2p3NEkwN2c4?oc=5",
+          "pubDate": "Thu, 01 Oct 2026 23:50:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Rapper Rick Ross stands charged with battery after a woman alleges domestic violence - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQck5FaDZsUHNmaGxVbWRzd3VuWG95dDBRRkJCaExfSjlBa3BfdmFXd1Vrb1JWVXFqVWhrZWgyNDBwREwwT2RScDgxQ0FqdmFiOTF2dUp0TmptWE9ZUWhKY0NCRVpqdmNYNllMY0dnMExIRkZsV29pcUFsS04xYlY4bWhHZl9sZWtkRjVueDRNY2tSX0JvTlMtS1FR?oc=5",
           "pubDate": "Thu, 01 Oct 2026 23:32:57 GMT",
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLW0wLTZ5T1N2WjcyMklRc3F6Wkt1Qk1FRGJWV3NqS1c1QlhiZF90eGtzOXZKWVF5dGJFWkxBNjZ4RnJ1ZkI2LUJUVFh3d3hwU0w0SFNVN1UyUEJvcXotUF9iQUdWSnJNN0hiS2FtZXZBOWdIWVlvbmxiMkR6Z3NKZUphZnYxNEFLdnNwY3hzSEZjT043dmpPMDBKNFBEQQ?oc=5",
           "pubDate": "Thu, 01 Oct 2026 22:09:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Massachusetts man charged with cyberstalking podcaster and former Trump official Katie Miller - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlkteU15R3RhLUJDczR6Q1Z1NWw5R2hRME5lVWpnazMwVnp5WEdDbW1UekxjVnlMYVdZVEdNeEhpclZVSGhhUHlVU052Z3hfSjg5bFVHQXBYT2ROUzFwUWpPSU4xU0FYV1JNa3doOTJZWEYzZmF1U0hiaVl5cHN4RjVtazBBaGtQaE4zXy1sVVA0bE9HaC1RRjZteDRGVUJqXy1wcXAzWldkMjQ?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 22:00:40 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "New ICE guidance bans high-speed car chases and sets tighter rules for traffic stops, a memo shows - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnNqWXlqZ1JVMUhlUUR5SVZSejVPMFloS2QyMnkzTEtjRjNVWUpoWDlBMG9xS3k5VElPMWE3Sy1yd0J6VHZqbmRray1CRmROMFdabEJ5VjF6OHgyd0FpS2JwZldfR1YwQWJ3dVE5Y25XTUxDUUwwaGVhOHNZX1haVXNrdmV3ZlZkRnpiT28zV2R5elZRcFNXRzBueTB2a1d0eVlTdzlNcVlTUQ?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 21:59:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T04:00:17.984Z"
+      "updatedAt": "2026-10-02T04:25:13.513Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "South Korea's Lee threatens action against Ukraine over transfer of North Korean soldiers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM245akM1RlRxVG11VW01T29OZEZfVXA1c1I2dEJoYVp4NkExNlBBLTJ2dG0tVjBBTVV5RzJudkhId3VUNWJyZVp3blVqeU9sWUkxV1ZvZ29mZjVWOFdxYmwtRFhrNjJvNzJxNDFqN0ZNZHRLbTQyd3J2ZWhJN3B0VGNFb2YwT25OdF9tUlFYb2RUT3pWRGItTjJtYkFqYko0VFZncmlHbEZtc3VGbFZGbTVka0lfWTd5RFVrZTJBRUdjU0Nva0hnVlB1RQ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 03:00:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Gold slips before US payrolls data, set for second weekly loss - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcU0zNk9Vb0hCT2pmbmJmeVE2S0tGa3NIMEdscGhEamlzdUhTUFdfLTVUX3FCTHVWMFdySmktUmdvTFIwQnpsX192VzYxdnUyTTJOWXRETzh1Z2ZFYUJpYjM3MWJJdG1XSG1tQTZCMnhBRlAzaTZEdHJEREY5cEJla2VZU3ZaZGtVOFZQMzljR3JFdUtUUlJUbzk1NzZiRzBna1JIRmdiVng?oc=5",
@@ -191,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Dollar at 17-month high as global bond rout hits euro - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcDJ0MVcydW5OMDJ6dmo1YlhfXzBFN3d2Z3RsV0x2TGdJanNiX2xmejRaRnRybkdNOXNqTkw0RlhrRkxmbXAzUS1wc3JfVENRRHViZHVYbnp3TU5OVFFVQU5NY1lBaU1aVHlfMXVlZTBsWmRuNDFpZVN0SGN3cXdwWDdCYVBuVXNnT2FzNEdKMC1JX2dORE5QQURlRGZ1T01tSkpQTA?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 01:46:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Oil rises slightly as market weighs mixed supply signals - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTERINTZjYjV0dGhsWUtmMjRmNXVHN2tjaG5ZVkpldGxTRHJxOWc5N0Jtd0dhTEZLdUVpM2Z4T1J5SFYxZ2NTMm83Q1ZSXzgxUDA2Z2hXbFRKRTY1cWRWajR2SldNQ2xqTktJNDAxamcyb3V0YVZyZnh6aktvcHpUNzRobzNocWQ1ZFREbVN5OUR2MHJ3MHVQU1RveHYzYkhZZnAzc3YtNTk?oc=5",
           "pubDate": "Fri, 02 Oct 2026 01:10:00 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmRoRDA2R19zaDc4RVpPclJ2UkNVS0hqZGdfbkJobzJHR015RmhJMDh1UFhIcXdaN3gyLXpEN05xN1Q0N0tlTFZvTk1WcWM4ZHJVak10d0hFQ3oyZG50OHNPLThHR2JXWExldEVRVzVYclJYN3VpeDVXaW1ENVByNjhwYi15M3lMNnU4Ull0ZDlJUWJkMVhXSVk0dEw2ZkxKTFJFeEVtSVV5b2l2YkZOXzJLaFo2Q3FzUHhlcXFQanhhUQ?oc=5",
           "pubDate": "Thu, 01 Oct 2026 23:59:07 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Israeli passenger says he knew what to do on flydubai plane after watching TV show - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNWZnVHV0eE10U2dwMERaTTNPU0pla1NHSUllX1o4R1J6dzRaN2FiVmlWWGNyZGlRZjgwRGFzOE1nVjNvcFI1bmxuRmJVQnEzeUxaeWp4am1KbzVobndTVHVmRVRzSXlOWHVGTG1idUt2WGMtd3pBTXp6STFFN0hTTG51ajQ0VWRVRFE5Q2VCV3B5czE1VnVSSGQ5Mnp6WUhpN2k5UTJzUHVYM1hXSXZiVHNKMGFOVnhBRFNqRVVBM3JPeGZKRURJM29n?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 23:49:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaUZEajJiMkRVVE04aW5pdTJfSTZUSzFGbms1ZjNfS0dLSlNnQm1MQlZucVpaVHpwbGZ3dW9sR1cycEI1d1pPeUp0X1ZCbkdsS0NEX1FTcXFLeEQxa0JmTVdLRFhaY0dvM3o0QTQ0UmlKZ3BvV2tCZ01TOWZXNjhuWlRpQkdqR3hIMDduVUtnOWlOaXZBVExBdk0tSURvMG0yeDFrYWpfRUJJcGIzNzRGMHFReVdEWFcxbHNUbQ?oc=5",
-          "pubDate": "Thu, 01 Oct 2026 23:44:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T04:00:18.449Z"
+      "updatedAt": "2026-10-02T04:25:13.955Z"
     }
   ]
 }
