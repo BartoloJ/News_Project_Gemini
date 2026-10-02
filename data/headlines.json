@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-02T20:00:20.675Z",
-  "lastChecked": "2026-10-02T20:00:20.675Z",
-  "lastUpdated": "2026-10-02T20:00:20.675Z",
-  "generatedAt": "2026-10-02T20:00:20.675Z",
+  "fetchedAt": "2026-10-02T20:25:13.571Z",
+  "lastChecked": "2026-10-02T20:25:13.571Z",
+  "lastUpdated": "2026-10-02T20:25:13.571Z",
+  "generatedAt": "2026-10-02T20:25:13.571Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T20:00:19.448Z"
+      "updatedAt": "2026-10-02T20:25:12.305Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T20:00:19.715Z"
+      "updatedAt": "2026-10-02T20:25:12.386Z"
     },
     {
       "name": "AP News",
@@ -124,6 +124,12 @@
           "source": "AP News"
         },
         {
+          "title": "Christa Pike was on a ventilator and unconscious after failed Tennessee execution, attorneys say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGpLQ0VhZXBlWUhoRWNOTUZSVjN1eHhKS0VqYUxGbzBibGtGT3FKNTNDSk84N05WRnNxdVhPTWNuVWZGMXBYeXFMcGRQUmNITlFuVUo3cHhzMkxJR1p0NUJYWnp3ejkyLV9NcV9VZzdhOEJfQzFFeU1lVHdzaWFiVzAzRHFFQ2FEbTlEVVdqX3JOdDdMYTlYOEIxZEoybG9pUHViVGR3YTljWWNtclRr?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 18:58:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "What to know about Spain's housing protests sparked by the eviction of the 87-year-old Maricarmen - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY05JdHdoeklqeTVqbU9DU0E5a2F2alRla0l0VUZuaXdnOTRESGZBTVhFellpbEdxQjM4QkFQdFd1Rm9hcVg1Y0dBdm13b3BidkQ4dDZWbUwyTnJPMlJMdHJoMzRHdU8zRHJIV3BlTkFaQnNIRmh3TWlmbFhDbnNlY1NHbzl4eUFFOUVrOTJSRElNQ2ZaTGhoNGVmTUxwYVJLZThWeEg5M0NGT1YwdWVRbA?oc=5",
           "pubDate": "Fri, 02 Oct 2026 17:52:00 GMT",
@@ -132,13 +138,19 @@
         {
           "title": "CBS announces Tony Romo's permanent exit following arrest for operating a vehicle while intoxicated - AP News",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZW5OemxrbTNYLTlaWFdMaU1pUmtrQ3M0bWQzelBraUFmMGtzZnRDRUwwZXJpU2lXbng5QzRtMFNBeDY1a1FPakVyaldNZFFFbV9kRU9pYkdnc1hJN3NuT0xrRGlETmZYMkw1NUN4eVZRenVpcklST1o3d3lvWktDek05NFdyUk0?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 17:15:00 GMT",
+          "pubDate": "Fri, 02 Oct 2026 17:27:00 GMT",
           "source": "AP News"
         },
         {
           "title": "US hiring slows and unemployment ticks higher with a month remaining before Americans head to polls - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3JiUTV3TldIc0JJUmgwMnBSUmxYZmlfT2pqSjg3UzV3SWRWZXZBbzF6U3I5MFJjZjJmS3dObzZ0SHJXTWVZaUNoR0U3MFpqdzhRZGpSbkFWa0RiT1ZONjd5SzRSS01iLWNRWEtGeHlTRzE0Qi1rbmgtclhMd0E0X21nTzhiNVE5blFIRHkxN3Yxb2pHWmk4b2I3aw?oc=5",
           "pubDate": "Fri, 02 Oct 2026 16:33:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 15:43:46 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWElVM1dQamNnQ3REcV9ZMWM1YjM5WklpMlBIM1dYM012dG1xYi1FWXRLUTJCUFBhbkRhdHR0NlpDa3IwcURNSFdGTFBiSGZzSFZ0R1R4LTRkODU3RzQyTVpKUlg5ZEZwclVfRGpKNXFNNnBKVXFiWFpIdTBVN2pHSmlyZzhTMG9lZWJoR2JUY2pNRE5JYk9NUF9oUnRCRFo3SEpJ?oc=5",
           "pubDate": "Fri, 02 Oct 2026 14:47:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Iowa lawmakers to vote on raising tax incentive cap for a $15B steel plant - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUIzNGZwcmxBVDJkd25SYjhNNWcxd0ZXYnlLSE94TmJtNGh2Z3Z2cEhrX0xZR0dHT3VwSXk5ajNuY0RGSDhGaFBMMUZwR1hJQ3duMzk3b2t5aDhFX3hQc0RsTGZzNFBjMHhRRW5tcGdSZG54aGJZTV9WNXpxZG5yYU9aaHBRTEI0UFpVaWdQWExFaWFlTzg4Ylo1OVpUcUx3?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 14:35:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Households will pay more for energy because of federal policy changes, think tank says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmNxeDQ3VW1wQWJaRWpWWlpCZ0pQYzg0OWpoSWo0a0hrU3g3REZMakxlQWxrenBxY0lsc0JQT3lDaHA1bkFFMUo3MkZZWXFRalUyaXM3Nl9NSjlXeDNCZF8zTTMtT1BFQ0kyd2kxY1ZwWHBqbFhNamZPejBFRE9yT1dKcjJtZ2N5T1d5MlVwVVNxaEFjSlg5TmxtMGRWUXhlbG84VWU3Tkx5a2pxR2kwUnl3?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 14:35:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T20:00:20.197Z"
+      "updatedAt": "2026-10-02T20:25:13.093Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Equities close higher as softer jobs data quiets rate-hike expectations - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 20:01:21 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Man accused of ex-minister murder charged with preparing terrorist acts against Reform UK's Nigel Farage - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDRmU2dPN3RqYTA3R2RrQ3pVWkhKampXbllGckJrQUpXRTRqcmpHS2VSTFpSeEV4WXlqbWpXTG1SNFNKYU4xeVFGS0xsLU1xbmRxdVZpVTByMDR1UTFDQXF0S20yRXRZR1YyOUw1d2NMRXhGTllfa3htQWVFYUV2aWdPZUxGazdjX0R1dndxYUNmQlQ3ZU94LWtXbDVrZ0FIeEhJWFVwNG04Z01kU1N1ZExiTU81QWJNc0hiT2hlTjZPVUE?oc=5",
@@ -185,9 +191,21 @@
           "source": "Reuters"
         },
         {
+          "title": "Former US congressman sentenced to 10 years for secretly lobbying for Venezuela - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZzVJX09GUERxa1lSRjljOFJYU016bU53RXQxVkNMbjU0RHJpemlQdldUdHkxMW12Qk5YYWFpaWhSMkRfcFRZUVNIOGdacE1aUzhDaGpDSlRibDVrdFZmRmMySUpRTURxSUxLNTFOUlVuVXdFTk1BVC1qanN4OExHaDN0V2xaTVEtR2taYzJ4RGxhaXdYeWNoVjhoeVFIaGhpWjZvVWUyVlJxUXgtLUx2MU13ZWlhQ0ZDeWpncVVR?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 19:15:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Israeli officials to question co-pilot of flydubai flight, source says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGxxTlpqUHE0NEg5VG14WnhFcU54UVJnSjV4SUdEdGxUVXlUSTVUMkNRQWtDand4UmUxdWtONDlfU2Z5QW5kSVc5NTJrekxscVdoQ0hvT2UyaWdFNHA0dnozZHVHcVViZkJxZmdhTE1zMDAyQlpXOERLMm1NU2pHckFpakUwRWR0V1NfTXRfSTlaQlBjSHNJdXVueGgzd2hUSUl3ZUtSZVA2ZDJ2QzBNdTdMeXdoUDVI?oc=5",
           "pubDate": "Fri, 02 Oct 2026 19:02:22 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYW1JN1lJT0NhMWxSTm4xY1NJWHg4UGp5SzQtUlV2UjB6ZHgzdExsbXRIckJkWWpGWW1aY3dHX2ZBLTh5LS1yME1WaWJPQXdkTVluRVpCOTU2WjVhMm9wb1VVUEdsaG5xWlFYQUdPSndwYmhYN1VzMnBBMFJkdzVMTmJrc3R4cWxlcHBRdE5lWFBVc2NMLTJDSnRGazFDeXJXbW13Vzh0Q0QySjFTVVV3VXZiOHg?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 18:57:53 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5",
           "pubDate": "Fri, 02 Oct 2026 18:41:57 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Nasdaq climbs to record after softer jobs data cools rate-hike expectations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 18:37:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Italy hikes growth outlook but budget deficit to rise from next year - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQk9FMWR2VUFlZnNHVHBWUVJ6VVYxc29ZbTdtNWNUUEx1UkwzY2c2MjhvUGVwSEM5THZKV3R5RF82VHJfRGJHSF9BT0RFalJFZ3NDeVVmT3Z3V0ZDQ183YngzN3A3R2diamNBU1RBZ1BKbldoMEVRSFRoT1M5M19mVTZxNm9VN2ZEMmkxdUszYklqNmNhVlZQdW45UXV4clZYLTRKRGpGRQ?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 18:36:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chinese auto show debuts in Argentina as their sales surge - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWmZqal9zblhpMHg0a0hoQUx4UkxTZExmZktHblFjcEhaYUt2RG94Y0N2bDR6b0ZzQjRJenFmYkN0MEwwaTZ3SzVGQVk2VkhmNUk2ZnItaXBrTjdKVWNhWExZS3doU1g0dzZyV184ckZRNnBnTUNwdG9mT19KbEFmMjIzSFRvNDhuVEFDcVczVHVnamJlTXJNQmwxa1FKZkNCZWNzRHA1dVBkR0lYM0lzWDI0bnZaZktiQ1E?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 18:31:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T20:00:20.674Z"
+      "updatedAt": "2026-10-02T20:25:13.571Z"
     }
   ]
 }
