@@ -1,14 +1,14 @@
 {
-  "fetchedAt": "2026-10-02T07:50:14.067Z",
-  "lastChecked": "2026-10-02T07:50:14.067Z",
-  "lastUpdated": "2026-10-02T07:50:14.067Z",
-  "generatedAt": "2026-10-02T07:50:14.067Z",
+  "fetchedAt": "2026-10-02T08:00:17.321Z",
+  "lastChecked": "2026-10-02T08:00:17.321Z",
+  "lastUpdated": "2026-10-02T08:00:17.321Z",
+  "generatedAt": "2026-10-02T08:00:17.321Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "I wasn't going to let others die, says Indian pilot who opened cockpit door during attack",
+          "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
           "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 02 Oct 2026 07:42:09 GMT",
           "source": "BBC News"
@@ -17,6 +17,12 @@
           "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
           "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 02 Oct 2026 07:31:52 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+          "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 02 Oct 2026 05:53:51 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 02 Oct 2026 02:11:34 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "OpenAI fires workers for mishandling 'sensitive information'",
-          "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 02 Oct 2026 01:34:56 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T07:50:13.084Z"
+      "updatedAt": "2026-10-02T08:00:16.291Z"
     },
     {
       "name": "NPR",
@@ -112,66 +112,78 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T07:50:13.147Z"
+      "updatedAt": "2026-10-02T08:00:16.514Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 06:38:43 GMT",
+          "title": "Hurricane Rachel strengthens to a Category 3 storm off Mexico’s Pacific coast - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVJhSGVobUxHZWNqZ3FDWmd1TWtHSzBZUE12amtIVXN1anBZcDVqMzBMUllfUEJNcXRIczlyZWd5Q1Q2N3VfbWYzLWZVWEN0Q09OODdlWjdGdjVNc3E5TzUyMzV6ekd2VHBxTTRWQklOZU1aUmRTT0pQcFlfYjJoT1ZYTnlmb3QtalNnR2x4eGJrTmUxa2E1MFV3?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 07:14:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "New York's governor removes DA in Cornell rape allegations, appoints AG Letitia James to take over - AP News",
+          "title": "Associated Press News: Breaking News | Latest News Today - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 06:01:32 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NHL Scores, News & Stats | Latest NHL News - apnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 03:47:20 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "New York's governor removes DA in Cornell rape allegations, appoints AG Letitia James to take over - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUloWXRtQklqSW5VMDFybmQxS2o1RzRwd3RZOXZ1TTNDdnRPRFZxaUlGTzhvSVF1VUxsb1dCX2w1UkRSajRMRlQtcFU4SjJQelF3MDQ3UmZ3STJ5WHNkU09lYjlZV1pxRnlKYTZ4U3o3U0JMeVJqMTkwcjBiTGdsd1dhT2lmcG1FSFNlM3lTSF9KdjFRT19vQVVJWkphMFpzR0FZN3hMX0RkOXM?oc=5",
           "pubDate": "Fri, 02 Oct 2026 02:37:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump and Vance hit the campaign trail in deep-red areas where GOP candidates seek a boost - AP News",
+          "title": "Trump and Vance hit the campaign trail in deep-red areas where GOP candidates seek a boost - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29JVnMyNXZRMUpySjhfMXNLa0RsVXVHZnhpOFBTREZYQXBONlA3ZTZGYUV2UG5vS0xWbFJFVDJSMVNiMFdyckQyUDVOTFY1a3pPLXRvZkhrYkVGT0VLRjQxa0JCS3k5aVRCa0FTU0xqeWJwbkxpc2hXT0ItS0xKbDFHUUFvSXFBd3BpMUxkN3ZUeEVUQWFFWkw4Zzg2UW9uRm5MTFpOcWVnU0R3VnNFTUVfbzVmNmZCRnc?oc=5",
           "pubDate": "Fri, 02 Oct 2026 02:35:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 01:23:39 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "California helicopter crash kills 2 people and leaves 2 hospitalized and 1 missing - AP News",
+          "title": "California helicopter crash kills 2 people and leaves 2 hospitalized and 1 missing - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2Z4V0hpd093a2JRZEYzS1g0NzZZN2NhWTMxOV9tSElrNDFGbW16MmFtNHlIeHlwMF9CS08ydXFjSUZydkNYV05WWUJvSERFMHNpZDlldWtGSVZrX0NSLVNCZkY4ZWNSQTN4aTl5YTIxaUhJWHpRaEEwNDJPaXhUek8tY3RKbVpERW9NcVN2UGhobXNUTWY2R0tnUGN4S2R3NXlzRXdrTGlaMWZR?oc=5",
           "pubDate": "Fri, 02 Oct 2026 01:22:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Massachusetts man charged with cyberstalking podcaster and former Trump official Katie Miller - AP News",
+          "title": "Massachusetts man charged with cyberstalking podcaster and former Trump official Katie Miller - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlkteU15R3RhLUJDczR6Q1Z1NWw5R2hRME5lVWpnazMwVnp5WEdDbW1UekxjVnlMYVdZVEdNeEhpclZVSGhhUHlVU052Z3hfSjg5bFVHQXBYT2ROUzFwUWpPSU4xU0FYV1JNa3doOTJZWEYzZmF1U0hiaVl5cHN4RjVtazBBaGtQaE4zXy1sVVA0bE9HaC1RRjZteDRGVUJqXy1wcXAzWldkMjQ?oc=5",
           "pubDate": "Fri, 02 Oct 2026 00:48:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Hurricane Rachel strengthens to a Category 3 storm off Mexico’s Pacific coast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVJhSGVobUxHZWNqZ3FDWmd1TWtHSzBZUE12amtIVXN1anBZcDVqMzBMUllfUEJNcXRIczlyZWd5Q1Q2N3VfbWYzLWZVWEN0Q09OODdlWjdGdjVNc3E5TzUyMzV6ekd2VHBxTTRWQklOZU1aUmRTT0pQcFlfYjJoT1ZYTnlmb3QtalNnR2x4eGJrTmUxa2E1MFV3?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 00:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Astronauts arrive at International Space Station on the quickest US express flight yet - AP News",
+          "title": "Astronauts arrive at International Space Station on the quickest US express flight yet - apnews.com",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenA1VXU1aGRMUHdHXzNQTms1b1k1Wkl1V1B5YzdMRFdTVXRTVFlCVWs0cU16YkkwRlBNMF93WUJkdmNwaFktUExFZWdVODhvTk95OWtkSmI2eEdEOVRPOU5MdmkxeHJlOWVDRmZlQU1xNjcyZHBRUG5UTWRiZEp4QXdlZFpDS19HenJkbmJqZjI3X3Zy?oc=5",
           "pubDate": "Fri, 02 Oct 2026 00:07:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T07:50:13.615Z"
+      "updatedAt": "2026-10-02T08:00:16.928Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Why renewed fighting in Ethiopia's Tigray risks a regional war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1Vib2ZuYTBsRWNFRnR5SE16MDh0Q1RYUnRtbHBYVnA5blZ1VURmcXNuVkZkUUVnb1JMbjdpcmVaQ0E1NlYxdzczb3c4akIwV2JHcl81UGM3VHk1dHdTUFFOUVhKbzVYWDc3TzNRNEYzbnlkdHlVUEZlaXJsOGt4NzN6TXh4UXRCd0ZBQkpoRlhhbnh0MHNLZ3RYZnBiWmhVblNmbTNIYks?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 07:11:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Volvo Cars warns of weaker sales, cash flow - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYkRRenhSd05wTU5RWmgyRGZQYzBiRzl6b1JjZnd3VjJMdGF0Q3FsNUx1bVZWMmVrWW1vQ1h5RnpUTGdNMmxrMUppekZSYzVtWmdwdlRxbW5OOWxZY0hwenBaa3BqaE9JSFZoSUx5dzJEOUlXSm9HRTVSOVo1anVyeGxCSElLQmlXZ3lxTlJBdEY?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 06:43:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Yemen carried out 20 strikes on Houthi targets in Taiz province, spokesperson says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORk4tSFZmYTc1TmM0Nk9rT0QzQjBkdUJyWlFTTllHN3ZsSU5QZWd3eW42bjB4dHo4MzZoQm9yOFRBaE1fVF9nTFlxTWswMWRlZV9PZXFRZm13aUdpR1UtX2FZVzdTb21IcHFFbzBxdzlRY015TkE5bWlmNTdncGprWWZkRUMzWVR1Y3VfbnBCUlRuMTlvZ2NLTlpUaEFmUU9Ra1VoNDVKYVhJaVZQV3NCUVMzQlpjWEJlb2NzRkRySUNLUmxXQUN4Rg?oc=5",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSGFqSGhCVjh3VzBqLVBOUEp5X1FJamRkVVdIbUdITXBDNjJ6eWtGVWJYVTVTckE1b2pJLVkzX3dYcWNlVEVTcTQtZWtqU0dRYjNxWG5WWEZVaTZ3T0JiZlhJZGNMbUIwdGk4N0xkN01JUGVVT2pVbWs5NnZWd2hkenZXWQ?oc=5",
           "pubDate": "Fri, 02 Oct 2026 04:33:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Russian air strikes kill one, restrict traffic across Dnipro River in Kyiv - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSk5TTks5OXBwTG8wMk1WQ0hCaUxRenlXMnBVZlBNVklSZHBDQmg5SmNTRWE5dkFwb1VpM21IUlljMThNTkpveEZlNlJvemhSMDBuOUJRcldyRThMNUoybnE5dW51LThsNW5tODlZWUd0ZlgxcFhTb01ITVRUT05zbVpwaVJ0dnB1VU40cFVLUVlPM2VBMk8zUFpTUXEzVXg1VUdWc1EtY1ZnWlpMWkJJ?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 04:32:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India's 'cockroach' youth party, student groups to protest, demand poll chief's resignation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPekRpbGVJR0F5ZURMVElTWW96TTg2c05la2hpang1Tkd6VEtXMTRFSVl4ZHd3eExmM1dmSEFzN2hXWVJ0bFhrVHZDZUd0MzZIdkg4NGt3YmJnRVBObm9LZTlMa1lrMU4zSXlZRk1BWW9GQmEydGM5ai1JSkZqa2hvWXB5SzI4TWUtYUQ4QlR6ZmNudlR6VlhjTVBxeHJpT1lRNEJpOU1yMmVkZE1rWlkydlB5a0c0QXJWb1dZ?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 04:22:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T07:50:14.067Z"
+      "updatedAt": "2026-10-02T08:00:17.321Z"
     }
   ]
 }
