@@ -1,14 +1,20 @@
 {
-  "fetchedAt": "2026-10-02T07:00:19.223Z",
-  "lastChecked": "2026-10-02T07:00:19.223Z",
-  "lastUpdated": "2026-10-02T07:00:19.223Z",
-  "generatedAt": "2026-10-02T07:00:19.223Z",
+  "fetchedAt": "2026-10-02T07:25:27.371Z",
+  "lastChecked": "2026-10-02T07:25:27.371Z",
+  "lastUpdated": "2026-10-02T07:25:27.371Z",
+  "generatedAt": "2026-10-02T07:25:27.371Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+          "title": "I opened cockpit door of plane while being attacked, Indian pilot tells Modi",
+          "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 02 Oct 2026 07:20:25 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
           "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 02 Oct 2026 06:59:30 GMT",
           "source": "BBC News"
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 02 Oct 2026 01:34:56 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Cornell students voice frustration at public hearing over rape case",
-          "link": "https://www.bbc.co.uk/news/videos/cwe8e8jpnpy5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 02 Oct 2026 01:29:16 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T07:00:18.091Z"
+      "updatedAt": "2026-10-02T07:25:10.855Z"
     },
     {
       "name": "NPR",
@@ -99,7 +99,7 @@
           "source": "NPR"
         },
         {
-          "title": "Cornell Jane Doe's attorney says she told police in 2024: 'I was raped'",
+          "title": "New York Attorney General Letitia James made special prosecutor in Cornell rape investigation",
           "link": "https://www.npr.org/2026/10/01/nx-s1-5987703/cornell-fraternity-rape-case-updates",
           "pubDate": "Thu, 01 Oct 2026 12:43:26 -0400",
           "source": "NPR"
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-02T07:00:18.346Z"
+      "updatedAt": "2026-10-02T07:25:11.112Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-02T07:00:18.785Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-02T07:00:19.223Z"
     }
   ]
