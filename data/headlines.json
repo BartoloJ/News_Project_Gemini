@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-03T06:00:20.075Z",
-  "lastChecked": "2026-10-03T06:00:20.075Z",
-  "lastUpdated": "2026-10-03T06:00:20.075Z",
-  "generatedAt": "2026-10-03T06:00:20.075Z",
+  "fetchedAt": "2026-10-03T06:25:11.462Z",
+  "lastChecked": "2026-10-03T06:25:11.462Z",
+  "lastUpdated": "2026-10-03T06:25:11.462Z",
+  "generatedAt": "2026-10-03T06:25:11.462Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Russia strikes second major bridge in Kyiv, mayor says",
+          "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 03 Oct 2026 06:13:22 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
           "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 02 Oct 2026 22:59:05 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Riot police clash with students as education protests rage in France",
-          "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 02 Oct 2026 21:13:27 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T06:00:18.959Z"
+      "updatedAt": "2026-10-03T06:25:10.594Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T06:00:19.179Z"
+      "updatedAt": "2026-10-03T06:25:10.650Z"
     },
     {
       "name": "AP News",
@@ -160,18 +160,24 @@
           "source": "AP News"
         },
         {
-          "title": "Former GOP Rep. David Rivera sentenced to 10 years for secret Venezuela lobbying - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTDJHQVpfRUJjeFFnWm9ySHViTkYzWTNnWllhYWYyWnQwYzlQYjA0RF81T2RMSEFZNVJWQldFUHBlRnJWZlktc0dPMzFJZXFUNWdVSDVwNkdQdnIxbTJQa091SUNsVk12T1dFNWdjXzl0akRqTk1OVXhKM0FEUW9OUDBmN3hkU0RuUEhGRUlQaXlDTGNta1JsWnpGN1JmYWw3SzB6MHh5SQ?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 22:01:00 GMT",
+          "title": "Sentence tossed in Arizona case where deceased victim was depicted speaking in AI-generated video - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMi16cTNZMjkxTF9idnl4aWhCSFExUG1uRm9INEJQT2JVM3h0bGRJUk9NaUtWRl9ZMHBmTl9QOE55OTN4NzRGNXd3dUJEbzA5UThHTXg2X2Z5aTE1UXN6QjdCUkN5VWdWQlpIeG1FV01lcUljU0lzYUdmUFUybWJMV0VaTUh0SndaOXdV?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 22:56:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T06:00:19.657Z"
+      "updatedAt": "2026-10-03T06:25:11.040Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump says US to send one-time $90 payment to 20 million seniors enrolled in Medicare - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRnBVS2VSS3MzMXA2S3h6c0NZZjRkTUZaNXhFRUxpUXIta19QQXJILVFVaUl1WTNOYTNYNkhuRWQ1TGE5R2lHRjMwYVo5TmVYZW5NbHNCX040R2lzeFFYUmVUVk15Q0lMSzFQRDdkVGNIUVpVeUNOQ1lSWEhSM0JMYmRnd3JXZXI3UUNOX0dfbzlpc2lMR2l5VXlFeWFHWW1nRlZ5NE5teEdFYmhIU3N6X25KQW9QQmNC?oc=5",
+          "pubDate": "Sat, 03 Oct 2026 04:51:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "China initiates anti-dumping investigation into p-nitrotoluene from EU - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORW9ZcVdfdDduQ3E4UDVUMUlkRHZSVTlVUU94UnFtdTVGUU1QVVJnb3E2MjkxMlFMWldkY0xDa0xmdm4yWllzVWJSV3VMR3BlWjk2SFA3ZDdmaDBxN2s0WTVGOW5abmpRWkJweGFPRTVXYnRKeGhhc1dSM0NsTmkyTkU0RVM2ZV96T1FwOC1UNFlBeHJOdXZqMkd5TkVXRUJRVXE5djBxZlM2bmRGanVPMzFXNA?oc=5",
@@ -179,7 +185,7 @@
           "source": "Reuters"
         },
         {
-          "title": "Nine injured in Australia as car crashes into crowd north of Sydney - Reuters",
+          "title": "Ten injured in Australia as car crashes into crowd north of Sydney - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOHM2dkk0THRHLXppRXc3eS1mMUJCdzZZWlY0NDR2MXdzNW5SdC02eG9hd0JBR2R5OFhtZ05wcmRRVEVrdHpwSjFRRGplY0ZmZjJuOUxRWVgzMVJNUWdZYWJ5eEk2MXYxUGZ2bXg4Mi1USl9aZFhqLWFvWHRWOEJrOFFKQ1BVbnRqaVFMU205elJqZFlmcGZiakhBa3JEdEVOZjczZDBtSXNLZkJGRmU3czQtY0hkcGM?oc=5",
           "pubDate": "Sat, 03 Oct 2026 01:31:00 GMT",
           "source": "Reuters"
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWVpTYlVUQ2diYU53TUl0Y3M2QU50cWpIT0RmZE80MmJIMUNFdjRQa091TUlsUkhoT0JsNFdXcXRHa21vYU5FSlIyRmNuSXM3YWNKVndZdUtYbGMyNXFOOTY5RHJRa1VEclN1TkhQS3phSm0tQmp4OXNIMVhtUjNjTE9DMEFVazVDZkJTMlNFM21lMFBLSlNwaFd4NGxwWWx4VktHZ2NpLXJITnZzcWNDeDZaejFGRXR1ajVBRFhreGNvaWlG?oc=5",
           "pubDate": "Fri, 02 Oct 2026 23:24:01 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Equities close higher as softer jobs data quiets rate-hike expectations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 22:44:50 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T06:00:20.075Z"
+      "updatedAt": "2026-10-03T06:25:11.462Z"
     }
   ]
 }
