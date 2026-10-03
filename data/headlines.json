@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-03T02:25:14.163Z",
-  "lastChecked": "2026-10-03T02:25:14.163Z",
-  "lastUpdated": "2026-10-03T02:25:14.163Z",
-  "generatedAt": "2026-10-03T02:25:14.163Z",
+  "fetchedAt": "2026-10-03T02:50:15.444Z",
+  "lastChecked": "2026-10-03T02:50:15.444Z",
+  "lastUpdated": "2026-10-03T02:50:15.444Z",
+  "generatedAt": "2026-10-03T02:50:15.444Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T02:25:12.741Z"
+      "updatedAt": "2026-10-03T02:50:14.300Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T02:25:13.104Z"
+      "updatedAt": "2026-10-03T02:50:14.474Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Nvidia unveils security platform to stop AI agents from going rogue - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw?oc=5",
+          "pubDate": "Sat, 03 Oct 2026 02:47:35 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iowa’s governor signs bill increasing tax incentive cap for a $15B steel plant - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUIzNGZwcmxBVDJkd25SYjhNNWcxd0ZXYnlLSE94TmJtNGh2Z3Z2cEhrX0xZR0dHT3VwSXk5ajNuY0RGSDhGaFBMMUZwR1hJQ3duMzk3b2t5aDhFX3hQc0RsTGZzNFBjMHhRRW5tcGdSZG54aGJZTV9WNXpxZG5yYU9aaHBRTEI0UFpVaWdQWExFaWFlTzg4Ylo1OVpUcUx3?oc=5",
+          "pubDate": "Sat, 03 Oct 2026 02:25:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "FBI has commissioned a classified and internal ‘Patel Report’ about times when it ‘fell short’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTE9Qc2hmQmRDdUozeVRxV29sN0Mta0xRYUFSU3lCWXoyOFZiU1pwU1RwQ2tJbzJ6a2xZOEN3SFNPbjRkZUwxSWFpVHZYdkVkSXoxa2VoRXNJN0hDUHZiVmZ0QjJSc0JDeS1mRGxrenRwRWhLU0huMkRqSG5vV0p2NWVBdWxpcldXYk5abVV1SGk?oc=5",
+          "pubDate": "Sat, 03 Oct 2026 01:31:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump makes rare presidential visit to tribal land for rally - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeld3MWFSQVU5ci1kTUNmbTdvc2QwZlhlUHB0WC03TnpvU1h1SENVM3JfeDd6bEQ0a0FTUERVRGNJVWdhUktrQThTa1VKck4wVzVzcFFHQUJUMlhRXzl6bUxQQkpKdk9pRjFwMDNjMjNBaXZuWG8yMExJRktFakZGdDVncC02UWo0dUVvTTk2dw?oc=5",
@@ -130,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "Sentence tossed in Arizona case where deceased victim was depicted speaking in AI-generated video - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMi16cTNZMjkxTF9idnl4aWhCSFExUG1uRm9INEJQT2JVM3h0bGRJUk9NaUtWRl9ZMHBmTl9QOE55OTN4NzRGNXd3dUJEbzA5UThHTXg2X2Z5aTE1UXN6QjdCUkN5VWdWQlpIeG1FV01lcUljU0lzYUdmUFUybWJMV0VaTUh0SndaOXdV?oc=5",
+          "pubDate": "Fri, 02 Oct 2026 22:56:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Former GOP Rep. David Rivera sentenced to 10 years for secret Venezuela lobbying - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTDJHQVpfRUJjeFFnWm9ySHViTkYzWTNnWllhYWYyWnQwYzlQYjA0RF81T2RMSEFZNVJWQldFUHBlRnJWZlktc0dPMzFJZXFUNWdVSDVwNkdQdnIxbTJQa091SUNsVk12T1dFNWdjXzl0akRqTk1OVXhKM0FEUW9OUDBmN3hkU0RuUEhGRUlQaXlDTGNta1JsWnpGN1JmYWw3SzB6MHh5SQ?oc=5",
           "pubDate": "Fri, 02 Oct 2026 22:01:00 GMT",
@@ -140,34 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGpLQ0VhZXBlWUhoRWNOTUZSVjN1eHhKS0VqYUxGbzBibGtGT3FKNTNDSk84N05WRnNxdVhPTWNuVWZGMXBYeXFMcGRQUmNITlFuVUo3cHhzMkxJR1p0NUJYWnp3ejkyLV9NcV9VZzdhOEJfQzFFeU1lVHdzaWFiVzAzRHFFQ2FEbTlEVVdqX3JOdDdMYTlYOEIxZEoybG9pUHViVGR3YTljWWNtclRr?oc=5",
           "pubDate": "Fri, 02 Oct 2026 21:50:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "What to know about Christa Pike and her failed lethal injection execution attempt in Tennessee - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNamhKRTN5MFM0VFF3TG01R3FYZHk1YXF4NzV0TEVXVFVvQW4yZFpaaXdBY3VyZlM1SjUtak9nVGdabkkyWkNIVlFZQVpCZXFCR1Fxd3A5SUlieWNtT3VjTjM0TUxCY1Y0dnNYMkNneFpwamlraHE1eEN5Q25BQzdXLVozazBLUHVlVEFUYVVxR3pBSVV2N2pUdlNZbHdQQTZLSWw4R0dzRUI?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 21:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 21:20:04 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "G7 nations will release 100 million barrels of oil and diesel fuel after prices soar - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmdrZUxCUmk5aFZiQnpzdGRQa2kyc1dIc1hzSFpxUnNVY1U4bWhGdUxYa3hPRzVRUnZSQ3lRaWZlano1aGdUOTc4TG1LZGhYWGpXTWsxbWN0dnIxeFFxWlpSRnZaanNwdFJ4V3B6RndadE9QdVM4ZncxSm1lTjdyRmFMY2M5WnMtMTEyMV83U0dwR0theVE?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 21:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iowa lawmakers to vote on raising tax incentive cap for a $15B steel plant - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUIzNGZwcmxBVDJkd25SYjhNNWcxd0ZXYnlLSE94TmJtNGh2Z3Z2cEhrX0xZR0dHT3VwSXk5ajNuY0RGSDhGaFBMMUZwR1hJQ3duMzk3b2t5aDhFX3hQc0RsTGZzNFBjMHhRRW5tcGdSZG54aGJZTV9WNXpxZG5yYU9aaHBRTEI0UFpVaWdQWExFaWFlTzg4Ylo1OVpUcUx3?oc=5",
-          "pubDate": "Fri, 02 Oct 2026 21:17:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T02:25:13.681Z"
+      "updatedAt": "2026-10-03T02:50:14.959Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T02:25:14.163Z"
+      "updatedAt": "2026-10-03T02:50:15.444Z"
     }
   ]
 }
