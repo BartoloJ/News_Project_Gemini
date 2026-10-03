@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-10-03T10:00:18.411Z",
-  "lastChecked": "2026-10-03T10:00:18.411Z",
-  "lastUpdated": "2026-10-03T10:00:18.411Z",
-  "generatedAt": "2026-10-03T10:00:18.411Z",
+  "fetchedAt": "2026-10-03T10:25:13.252Z",
+  "lastChecked": "2026-10-03T10:25:13.252Z",
+  "lastUpdated": "2026-10-03T10:25:13.252Z",
+  "generatedAt": "2026-10-03T10:25:13.252Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Russia strikes second major bridge in Kyiv, mayor says",
-          "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 03 Oct 2026 09:53:16 GMT",
+          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 03 Oct 2026 10:00:04 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 03 Oct 2026 09:42:03 GMT",
+          "title": "Russia strikes second major bridge in Kyiv, mayor says",
+          "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 03 Oct 2026 09:53:16 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T10:00:17.177Z"
+      "updatedAt": "2026-10-03T10:25:12.069Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T10:00:17.450Z"
+      "updatedAt": "2026-10-03T10:25:12.241Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T10:00:17.951Z"
+      "updatedAt": "2026-10-03T10:25:12.825Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "High school students in Paris' deprived suburbs spark national protest movement - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1lRUU9NNzVFRk5EbFFHVnJPa25fVVZIMTFVWl9uYUpheXM5d01fWURkazFTU0RHVFc5a3otcFZHazJDQXBSNkNEemdpMVVjOXk1MHZURndvSTU4YTVPdW5sN0ZfNGJLbDBmOWQwX3NfZWktS0tBNEFOUE9hZ2JHMHhoWEhWUmt5dnFkeGQzWEhLQUJMTWNFVzd1UHRxZHJaOHctaFdZand1MnlYMGEzMDYtZFpCakM4?oc=5",
+          "pubDate": "Sat, 03 Oct 2026 10:07:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ethiopia government forces retake airport in Tigray's capital, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1hXSDFVcWhteEV4d003WkkzbTZib0ZBVTV6MWEyeDAwTEYxbmpiX09nbmpJOFZMWjFnbjdqQzJCUEg2bEdKUHNQYk10UDZHZUFUbDkwWXhocjd2QTE0bWZpaEZUR2l2djRNNmJzT0Q2SUxxZDRxTl9nWHJLM3c0Yjc1M2NwSXRIeVpVQVh2RDVnQlNhTWNyRHNJQ2pyWnRNeFpYSUFpbDRURXFhaXdCeDJXa2lUaHVyZ1E?oc=5",
+          "pubDate": "Sat, 03 Oct 2026 09:20:25 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Eleven hurt after bar collapses in Spain - Reuters",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQmZNbTljeUc2MWpZNVV3MGhkWG82U2h3SkVpeWM1dzg3SXh1a2RxVmQybTYtMjZWTms1T1hRWmVqM2RuYUNWRDdYSDBIdGxCLTdxS0d6V1BRS0dGaVNyZUJuT1dKN2UtTDhXUkk4RXRvN3ZTcGdya0VOeTlEenhIUXd2X3Y0UQ?oc=5",
@@ -185,19 +197,7 @@
           "source": "Reuters"
         },
         {
-          "title": "High school students in Paris' deprived suburbs spark national protest movement - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1lRUU9NNzVFRk5EbFFHVnJPa25fVVZIMTFVWl9uYUpheXM5d01fWURkazFTU0RHVFc5a3otcFZHazJDQXBSNkNEemdpMVVjOXk1MHZURndvSTU4YTVPdW5sN0ZfNGJLbDBmOWQwX3NfZWktS0tBNEFOUE9hZ2JHMHhoWEhWUmt5dnFkeGQzWEhLQUJMTWNFVzd1UHRxZHJaOHctaFdZand1MnlYMGEzMDYtZFpCakM4?oc=5",
-          "pubDate": "Sat, 03 Oct 2026 07:11:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Pro-government forces say they retake airport in Ethiopia's Tigray region - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1hXSDFVcWhteEV4d003WkkzbTZib0ZBVTV6MWEyeDAwTEYxbmpiX09nbmpJOFZMWjFnbjdqQzJCUEg2bEdKUHNQYk10UDZHZUFUbDkwWXhocjd2QTE0bWZpaEZUR2l2djRNNmJzT0Q2SUxxZDRxTl9nWHJLM3c0Yjc1M2NwSXRIeVpVQVh2RDVnQlNhTWNyRHNJQ2pyWnRNeFpYSUFpbDRURXFhaXdCeDJXa2lUaHVyZ1E?oc=5",
-          "pubDate": "Sat, 03 Oct 2026 07:08:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Flydubai co-pilot attacked pilot with axe, attempted 'terrorist attack', UAE says - Reuters",
+          "title": "Flydubai co-pilot attacked pilot with axe in attempted 'terrorist attack', UAE says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNHh1NEZDMzE4aE53SVNjWXVIUmRYc3Ayb2R5SzRwNWhiYXkxRnF0UWg5YVhKNFhfYzVDYk84ZGFmbVdwUVhrdURrR0lCRDdDeDJJVG5PY0xNTTZRbURjWDBybFBsdUV4N1Ywei1lMkhib2FKQXV4TVY2eFNVLU9BSGsyXzJLejZCekRSYnBwaXlZLWo2Qm9xOXdyOEJxYlgzY3oyVnMtSkhGaUZWRWdLakVWYlZyZ2dvbm5YNkRLcG9jLU1iN2c3U2gxOTVzZ3g5NkJvY2dJQQ?oc=5",
           "pubDate": "Sat, 03 Oct 2026 06:51:00 GMT",
           "source": "Reuters"
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-03T10:00:18.411Z"
+      "updatedAt": "2026-10-03T10:25:13.252Z"
     }
   ]
 }
