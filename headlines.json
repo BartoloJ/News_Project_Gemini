@@ -1,14 +1,20 @@
 {
-  "fetchedAt": "2026-10-04T20:00:18.799Z",
-  "lastChecked": "2026-10-04T20:00:18.799Z",
-  "lastUpdated": "2026-10-04T20:00:18.799Z",
-  "generatedAt": "2026-10-04T20:00:18.799Z",
+  "fetchedAt": "2026-10-04T20:25:30.134Z",
+  "lastChecked": "2026-10-04T20:25:30.134Z",
+  "lastUpdated": "2026-10-04T20:25:30.134Z",
+  "generatedAt": "2026-10-04T20:25:30.134Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Indian police accused of sexual harassment against journalists at protest",
+          "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+          "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 04 Oct 2026 20:14:49 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Indian police accused of sexually harassing journalists at protest",
           "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 04 Oct 2026 17:01:19 GMT",
           "source": "BBC News"
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 04 Oct 2026 12:09:04 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-          "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 04 Oct 2026 11:03:20 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T20:00:17.582Z"
+      "updatedAt": "2026-10-04T20:25:12.149Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T20:00:17.782Z"
+      "updatedAt": "2026-10-04T20:25:12.190Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-04T20:00:18.342Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-04T20:00:18.799Z"
     }
   ]
