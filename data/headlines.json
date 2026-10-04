@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-04T20:25:30.134Z",
-  "lastChecked": "2026-10-04T20:25:30.134Z",
-  "lastUpdated": "2026-10-04T20:25:30.134Z",
-  "generatedAt": "2026-10-04T20:25:30.134Z",
+  "fetchedAt": "2026-10-04T20:50:14.070Z",
+  "lastChecked": "2026-10-04T20:50:14.070Z",
+  "lastUpdated": "2026-10-04T20:50:14.070Z",
+  "generatedAt": "2026-10-04T20:50:14.070Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T20:25:12.149Z"
+      "updatedAt": "2026-10-04T20:50:12.780Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T20:25:12.190Z"
+      "updatedAt": "2026-10-04T20:50:13.088Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Brazilians voted for next president as Lula and Flávio Bolsonaro hope for first round victory - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 20:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Serb separatist Dodik declares victory in Bosnia vote as ethnic tensions and EU hopes collide - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZW5aeFVWYlo4bXFNSVpQQXFndld4cHRJcVk3REVzYW9oMy1ZR0taVnh4b3czcGdGZnRraVJyd0U2VmZVYWdhVzI1R2o1X281QnNsbWs0eHVuY09WRnVVSGItRHFocDJkT3cyb0VDLS1POGM5ZkE1b0UxX0htVVJ2MEdweENxWnVlbzBNM1IySWkwTW8wckRBSlJldWlnVzJseUxz?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 19:55:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "US Marine arrested for alleged killing of a woman on Okinawa, triggers outrage from Japan - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWHBqeFl4TEF0TDBuVjhVQjNieThQcXA4dGQwV20xM19mZ3JoLTRqaGV5elctWHpyYmZGT3hLZnQwMV8zSVVOY1k1Sms2eWdLeXpWdlMwWEc5WXVTeVFpYjhrSkVlTDdGMnktOW9aSmtJTEk2MUIteTJwV0dmeVZyNHN6anJRMVZGckk4dWVIdS1oUkk?oc=5",
@@ -124,9 +136,21 @@
           "source": "AP News"
         },
         {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 19:20:34 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "2 shot dead and dozens injured at neighborhood block party shooting in southern Georgia - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeU1lRFRqcWlrYjBSSmZnNzA2c1pfaWNwQnBRbVpsR0RWYzRBLVVibG1zYVVNQzNXRy1tdXVVWl8yTjUzZWlkbTBQTU9lbkloUWJoTlpKOUJ2YWpoZUtVRUM3WGt5cWxGQ1J1MVhLOEJRazhfNEI3VVY0aVFVbW9IZzNISjJnc3ZCc2FsNXowQUk?oc=5",
           "pubDate": "Sun, 04 Oct 2026 19:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 18:47:36 GMT",
           "source": "AP News"
         },
         {
@@ -140,38 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYk9JR1JabWFqWElxR2JZRWlFRlo3TjdETXNVeWpMRWkxQm5HVmFmWHVpeHV1NlFKSFBUdlVacTN6MkV2ejdpbEtTOVowMXQwbHNxSWFaM3loTS05Mnk5VllUaEMwQ1BiMUh1dzRvOUZ0UVBtM0pGdW1Ra1VWUlNLbzFfY01EVU9NcWxMZ0RQczR1QUlUSWNB?oc=5",
           "pubDate": "Sun, 04 Oct 2026 18:00:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Brazilians vote for next president as Lula and Flávio Bolsonaro hope for first round victory - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 17:48:45 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Christa Pike's lawyer says she has not regained consciousness since her failed Tennessee execution - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMjBCVFR4THVySDhCQ0x3OXpWSzdKcS00WGQzdW12eHhxenMxV1hTbjR1aWVGMkllcFpRdnlfQkZHcXpJVEUybEpxV3ZZbUkyZXp0MDlabEtKLTRyTVhIcUtubHVKa0M0Z3hPVzZlQVpaMVdGNnhrOXVCbmFiSFhTSkd1ODZ1WUJ0OGQzX0VtY05fYmtQVDBhU1BYQnlLQl9wbWRwbURTbw?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 17:29:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUk2R0lTbmk2a1QzTm5NcS05eFBCUjI1VmdxUW1lT1c5dEV1NEhqd0RWbUJXZ3VUbHhPODNYNVJvQmVzNFpGWV82XzRaUy00TWZjWUUwS2hLak92ejBKbzEzQkFxWTFfWF9qTXRQVHpyX29Eb0VkRnEybHNTY2pLOEZ3akFHMGZFM1ZYN2VRMVk0TE85RVhodm5OcDZaTm9aSldGU3p1V1ZlV3dwc203Nkln?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 17:18:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Remains of medieval king Czar Samuel arrive in Bulgaria after decades of talks with Greece - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSGN3LS12cjBsV1B0WGxXWFBteGVGdFJGQTZseHZRUkJRSWk2Z0Z0TjhQdklnUFJlTXVNaks3MXlJT1FBVjE4czdvTUVtQVEtWTU3NFlwRzdRNDRBS2JFc29Hd25od0Q3Y0RIamNjQ1hnRE5RSk5ONEhOSjZQQzRfLTdwTGJ4enV5NmY5UUtrX0U0QmFNZVh4UHlOcmJ6SXlJLWVNbGJjZGxvbVlBOS00?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 17:08:41 GMT",
-          "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-10-04T20:00:18.342Z"
+      "ok": true,
+      "updatedAt": "2026-10-04T20:50:13.637Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Polls close in Brazil as country awaits results of high-stakes election - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzYxcENTQ3M0VnFWR3h0cVF2TkRtc2Rlci13bDE5dnZXMENGLWVPTzdKX3RpRXBvZGJFcEo3d2tmelg2QmN4Q1lkNGhnN1luQ3FCdnRMeUxlTHlTeGswVzNjWVBzdVI2ZWttdm5HR3REQ3lSd3JqSUltVTRuTTY2dWdVTFVsRUNyZGVTVDBkY2E1M3poNG8tNktZMjNtNWliR2dlRkxR?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 20:23:05 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5",
@@ -179,21 +185,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Brazilians head to polls in high-stakes, polarized election - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzYxcENTQ3M0VnFWR3h0cVF2TkRtc2Rlci13bDE5dnZXMENGLWVPTzdKX3RpRXBvZGJFcEo3d2tmelg2QmN4Q1lkNGhnN1luQ3FCdnRMeUxlTHlTeGswVzNjWVBzdVI2ZWttdm5HR3REQ3lSd3JqSUltVTRuTTY2dWdVTFVsRUNyZGVTVDBkY2E1M3poNG8tNktZMjNtNWliR2dlRkxR?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 18:54:03 GMT",
+          "title": "Iran's oil minister resigns for personal reasons, state media reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHdEN1VYYjFqdkJyRThRQ2ZheFQzeElqRHRBNVR2N1UwV2lWbi1CcDdQYk9IV0ZuSURnc29jZXNDM1hmV0YzMDNRN0xlR055WlhBS0M2SVNJVW9NNE0yYlUyc3F0YVJma1JhQ0RnX096YjlGMTRiUmhVSDE4VGlOZ2MwMjljcVhNZnhER2gtYWk4QUYxZGpzZ202dVJLUQ?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 18:53:27 GMT",
           "source": "Reuters"
         },
         {
           "title": "Explainer: Who are the Houthis, Iran’s allies in Yemen? - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUERRVnN2QjBRRGRfc3ZELVlQY0FMZUhwVlJnajRWR2NSRDcxQktKQ1VWdXpTT3cxd2FoVXFwMkhGTnpOODJnWi1lSjJzUDRJbHczM1gyV3JIb0U2bHhwTWNmY1FtV2FJckpqcEw4NEVtN2VUbWU5Mi0tV2VtbjZoWFRWUnVTekJfMEVoa1NBYWxsdThWeFRBVkVJODl1OWZuMmx2cmRzYm9XYTB4?oc=5",
           "pubDate": "Sun, 04 Oct 2026 18:33:36 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran's oil minister resigns, no reason given - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHdEN1VYYjFqdkJyRThRQ2ZheFQzeElqRHRBNVR2N1UwV2lWbi1CcDdQYk9IV0ZuSURnc29jZXNDM1hmV0YzMDNRN0xlR055WlhBS0M2SVNJVW9NNE0yYlUyc3F0YVJma1JhQ0RnX096YjlGMTRiUmhVSDE4VGlOZ2MwMjljcVhNZnhER2gtYWk4QUYxZGpzZ202dVJLUQ?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 17:34:44 GMT",
           "source": "Reuters"
         },
         {
@@ -221,8 +221,8 @@
           "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-10-04T20:00:18.799Z"
+      "ok": true,
+      "updatedAt": "2026-10-04T20:50:14.070Z"
     }
   ]
 }
