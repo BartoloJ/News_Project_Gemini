@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-04T15:00:18.461Z",
-  "lastChecked": "2026-10-04T15:00:18.461Z",
-  "lastUpdated": "2026-10-04T15:00:18.461Z",
-  "generatedAt": "2026-10-04T15:00:18.461Z",
+  "fetchedAt": "2026-10-04T15:25:11.962Z",
+  "lastChecked": "2026-10-04T15:25:11.962Z",
+  "lastUpdated": "2026-10-04T15:25:11.962Z",
+  "generatedAt": "2026-10-04T15:25:11.962Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T15:00:17.287Z"
+      "updatedAt": "2026-10-04T15:25:11.006Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+          "link": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+          "pubDate": "Sun, 04 Oct 2026 11:15:09 -0400",
+          "source": "NPR"
+        },
         {
           "title": "How the Cornell case is affecting women who have experienced sexual assault",
           "link": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
           "pubDate": "Sat, 03 Oct 2026 07:47:09 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-          "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
-          "pubDate": "Sat, 03 Oct 2026 07:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T15:00:17.506Z"
+      "updatedAt": "2026-10-04T15:25:11.063Z"
     },
     {
       "name": "AP News",
@@ -126,25 +126,31 @@
         {
           "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 11:49:56 GMT",
+          "pubDate": "Sun, 04 Oct 2026 13:21:59 GMT",
           "source": "AP News"
         },
         {
-          "title": "Georgia, Notre Dame, Miami and Alabama remain unbeaten and mostly untested; Florida falters - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa0lENm1xa29QSlo3QVBwbUZFbVQ4cFZ1WVhVcjU0OWdKNnJBUEEtU1A0dXVKM2F5MkJaQUwxT253ZUFYdFFiUk5pUm5lTWFsUV9wb1RnZS1mdXVNcmptakpyVU1SN0VuQ050RGxuY3UxbHVMS19wT044b3BoSVplUHhrU25ic1pB?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 10:43:46 GMT",
+          "title": "Police say a 12-year-old girl was fatally shot at Baltimore park where youth football game was - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEp3NklpTld4RExnNktlRUVGZnowRTlBOTBwbXZ1cDBxbmxzaVFwZzc5U01VbjdoRkZ0LW5WLTdPMTUxYkNlaWtNSGtBWUU4UWxITHVKVDc3U1h0V2ZpTFZXYmJ3UDVYbzZOZ1A5enNDYXpPVlljQkNQSlNjTVJ0YW1oSGctc0M2X184Z2pZTklhUXFNV2l4emdjOA?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 13:06:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "‘Jane Doe’ solidarity posts flood social media after Cornell rape lawsuit - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQkhwc2JIU0xfano5Rm9LX3V6dXRxS2UtcmNPTktmUHExNXJ5Q2RYS2lpWDJ0V3p1NWRzZHpCcWZTeklCdC1SS1MtTC1aU0o4bnZNRDNMT1M2aDctMjhoaGNlWWlOTUFGS1dmN0YwMzB6djExeG4zWWphdnpvcWZ5ZWF5SHptcUhjMEk2ZTRyVzUyc3dUOTZaRjNZMjNoaF81d191Wg?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 10:19:00 GMT",
+          "title": "Despair over future fuels political anxiety for college students on the cusp of adulthood - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHpyWjZzRi1fQnFEUDh1QlBaVC1TQ3pGeVV3QnB1ekxtemp3SV9TRUY4bzI2UU9VZUJCa2w0MG9OTWRtOElrZmZvZEtrdDN2REQ5TU4xMmtpN2NWOXY1ckxNaWRadnNFNHBOaEpCdURtazFfdmNWelVEaWdpT1hqbjJKWGo4TDNOQ3RiTlVRdEVDc184QkxnOHdjQ0VSOUluNC1JY0VrM3diWUF2aS03WGFka2s?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 11:35:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A Black community in Louisiana faces a future without a champion in Congress after redistricting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGJrZUNLQ25FYU5MYkpCUnZOX3Z6Q3Nlb2x3Q1FjNFRrbmZ3RGx1TS1LR0Y5T3FtZzI0eG5tYTd0UXotTjJHTjJRbjFCV0c2Nkg4SnpmdlI3WERnTVAzTFZwX3EyWV9JcS1zcFBMMjNyRWZKVGlneWdPUGFuYWZ0NW9XbUhMdXcwTkIxTlA2Q09TT1lUdGE4SFZFbmtnMkM2a0JVbjlmcTZJeDBDZjJVR3ZvWEJRR1pOWUdjNl9VbGtNbGg3aWZITUs5aUZVZVBD?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 11:30:00 GMT",
           "source": "AP News"
         },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 10:12:55 GMT",
+          "pubDate": "Sun, 04 Oct 2026 10:49:07 GMT",
           "source": "AP News"
         },
         {
@@ -158,71 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNEhBTTh1d0prWUxjTjRHQU01bmRLcTYtVGVxaG95ZjFMc0J4Wk1XWE14Y1QtbjJKRjRGYVh6VlR1SnZUU0dfWlR1enZhdkNwbDd1U0lJSzdMaWNRVU5vYTFwcGl2TWtHZ3B3Y1EySWNMU3BTZDlTUXBHSzN0cVhtUVo3dHhHZHdya0ZPVkhGaUFKZXFEWWt4RlMyZGJ1ZV9jVkhLTWk5LWd1b0lPRlF0RXFwV0xKcUlhRmhz?oc=5",
           "pubDate": "Sun, 04 Oct 2026 09:07:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Brewers get a big assist from their ballpark roof to beat the Padres 3-2 in NLDS opener - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREJtbVVVQjdsZU5QWThIS1ZhVmNWUlUxV1JMSlFBWXlwTmJpR0VZQzlYVVQ3RjdEWlhHeE5MakVEMnI4ZXI5QlQyanNZNUJoaG9NY25ELXlIMWhfN1Y3MjE3SURaVEI0ckJSQkJiLUpqd0FMR0ZMWTZCb0Y3ZWl1MERIT1hiN0pIajVBeE1USmw0WFczUkFRMWdQbDhKR0pI?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 07:16:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T15:00:18.018Z"
+      "updatedAt": "2026-10-04T15:25:11.513Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Revolut's rise to become Europe's $115 billion big bank rival - Reuters",
+          "title": "Two dead in flooding in Spain's Catalonia region - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnh1WE5wbUJ2RE1EWWUtVmlITlNLSGJXZVdBYWFpYnVSWFdVVjlCeC1EYkVjcFBVbk1zak01NTB1eVBwMmZjNFo5NlhiMmxLbWh3dE53V0JCbHFYTEs2Vk54dlhHeDBHVzJSdndFRDVuZnFEOWVvR1hmSDdVVzJFOWNNXzlETUVXOGhpREl6cXY3aEhSWEVuOENuQnBOTjg?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 14:59:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Yemen leader announces major military operations against Iran-backed Houthis - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 14:25:59 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Revolut's rise to become Europe's $115 billion big bank rival - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDBEcXY1UUtrRGxIaE9neHYxeDlTWDNYaVlWdlp2UUhxSGtUV2RVZlR4Q25UUTlDTTR0QXlLYlVNZ1lMNEJfQkVmZnVtcFNaVW5mZE42d21uV1BZZzRESkxvVkxoM19FNkhoVThRWXYtUGR1eGZ6VmYtUHNrTWs5eXZfV1kxZ3ZnSHR2UWtmQWd5YVltQlNseWs0RGhXeVItVGVwQXNKbXpZVG9G?oc=5",
           "pubDate": "Sun, 04 Oct 2026 13:56:26 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Haunted by grief, Gaza's displaced still wait overseas for return - Reuters",
+          "title": "Haunted by grief, Gaza's displaced still wait overseas for return - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYVA4aW4yZm9obXNLWVl2RGItRkE4cUwxUHFucmpkQ2NzU2JzNDc1SXF1bkxtb1hQZmRYYjVxVU9aMmVRb2xBVi1oLXFKd2RDTmo3UUJ2M1I2Ym02X0lzVUVNcUh5c2hISjMwVHBQOFVrVkhhZlZNQjRrNElrNXEyYWR6blZnenpPTG5pLXpYNGFQcjZ2MmlUUklBRTg0ZlA2QWtEVlNJRHFxTXdIUjMyM0FpZw?oc=5",
           "pubDate": "Sun, 04 Oct 2026 13:55:24 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Rare police raid of Taipei gay bar sparks angry protest - Reuters",
+          "title": "Rare police raid of Taipei gay bar sparks angry protest - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMURISGFRZ3VjZ1dka1Y5alhIVHBOM2xkYVkxM0R6cXY0RTVUT2UzSFVFR3J2cm1WM1Jfb1NBQUhObmhSMVUzZ2g1Y09qY3FvZy1ReXk0ZlZKUnpLWEFacnNYZjRzdy1JYWZiR1BCRENFa0Z3dFd6TTRwVzdwX1NmXzI5OGVFN1Q3amV1Z1lud3dmMjc0S0Q1ZDRLNEpRV2gxVGxmU041U0syWG1ucjZNVg?oc=5",
           "pubDate": "Sun, 04 Oct 2026 13:22:16 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Iran says Strait of Hormuz will not reopen until conditions are met - Reuters",
+          "title": "Iran says Strait of Hormuz will not reopen until conditions are met - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEhSM2E2MkI0TDU0LXVLZl9GLWY5d3FoTU1PdS1ON0xUV1NNQ3FnUlZGRFhOYkVHTVp5RDFaN3pxZ1pVeVNJdTdhemxsNkdRaHJBTWNtRDEwWjg2cnlKb3F5VmpEN25tTHNmV2hLTnFkc1IxSEhLVGplNTJJSnBXMDFmOUN1V3NpRmxoVnJkcmRxd1hmbzBRTHZjd05rWlhUbDBfQmFCZWRkS0pHUTJNa041QlRtSkd5YUE?oc=5",
           "pubDate": "Sun, 04 Oct 2026 12:59:41 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Yemen leader announces major military operations against Iran-backed Houthis - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 12:57:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "OPEC+ agrees to keep November oil output targets steady - Reuters",
+          "title": "OPEC+ agrees to keep November oil output targets steady - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkpnNDluR1haTkdBX3RldWlkX2pySlFJWlFIdmZhaGt1NTFuYlVJS3Nkc2VNQlJ4bXN2LTc1VTF1SWViaVloM1Y4U1JndkpESXNfb2IxazBFS3RTVjRpUUhVeWNURVNtd2dKcWxRMjdoTEFiRTdwd1FrWEw2OUx4NUY5U1hkNFBqVjUxZlJyVVlQNFBEUmVPVTBYejluWWhMZF9xZlNrQmFqU0R4ZlJGc0N5QzJ0ckNfN0dYdkFQalpkVkk?oc=5",
           "pubDate": "Sun, 04 Oct 2026 12:09:48 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Latvian PM on track to lead pro-Ukraine coalition after election win - Reuters",
+          "title": "Latvian PM on track to lead pro-Ukraine coalition after election win - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFNoVUJwWFRHa2hyMjdWTnQwNWJzeEsxN004aTEwczk5Y2tDeW0wdW9od2FjUlJNVVBLTUEtRTJ3YWlQaHgyTlZxV2RBVEdsMERUdnZzU1BQeVhrTXRnR0RuSXJlUUFhWkNRanY5akk5aEE5aTdMUGxBaFFSRjlZbzd3N00yWjRIRjMyZlIyUGNCOTNaNjc1QUcwSWlUWGtOaEhyU2F2WVB4NXA1WnY2Tw?oc=5",
           "pubDate": "Sun, 04 Oct 2026 11:39:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Brazilians head to polls in high-stakes, polarized election - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzYxcENTQ3M0VnFWR3h0cVF2TkRtc2Rlci13bDE5dnZXMENGLWVPTzdKX3RpRXBvZGJFcEo3d2tmelg2QmN4Q1lkNGhnN1luQ3FCdnRMeUxlTHlTeGswVzNjWVBzdVI2ZWttdm5HR3REQ3lSd3JqSUltVTRuTTY2dWdVTFVsRUNyZGVTVDBkY2E1M3poNG8tNktZMjNtNWliR2dlRkxR?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 11:37:54 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T15:00:18.461Z"
+      "updatedAt": "2026-10-04T15:25:11.962Z"
     }
   ]
 }
