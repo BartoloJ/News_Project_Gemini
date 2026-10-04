@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-04T12:25:11.803Z",
-  "lastChecked": "2026-10-04T12:25:11.803Z",
-  "lastUpdated": "2026-10-04T12:25:11.803Z",
-  "generatedAt": "2026-10-04T12:25:11.803Z",
+  "fetchedAt": "2026-10-04T12:50:14.060Z",
+  "lastChecked": "2026-10-04T12:50:14.060Z",
+  "lastUpdated": "2026-10-04T12:50:14.060Z",
+  "generatedAt": "2026-10-04T12:50:14.060Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T12:25:10.744Z"
+      "updatedAt": "2026-10-04T12:50:12.896Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T12:25:10.906Z"
+      "updatedAt": "2026-10-04T12:50:13.221Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 11:49:56 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Brazil presidential vote pits Trump ally against Lula, who is seeking a 4th nonconsecutive term - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOazBZenNaeXhSTEp4SXJwdEJFTWU3TkZPN2pHN09fT3gzOG5WeHBmdXpYZ3NKMnI2c1JvWURnY0Z1US1qNVJFeURpV2lWZ3BOWWJZejVXaHVmajJUWk1MMW5jQ0FuU2tHb0E5dE5JbW8tcWQ5dGhJcG9jbU5ud1FXVEhsZDdCbzNQQWdJaVQ4WTU1Tl9MVG9xWi1VY1ZpLUJuSHVmZXVRU3ZmRnhpd1I5LTNJbGlka1k1Qmc?oc=5",
           "pubDate": "Sun, 04 Oct 2026 05:46:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Ax-wielding FlyDubai co-pilot had been flagged over extremism concerns - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTm53alVRRTlka3JlQllEQUdvclBOMzVxOUFvQnhkMGowdDlNeXIyTFZ3ZU1GblhLOUF2VDhTRVdzRjJfZmJRWEZMcUhaMGxXVEI0NzhFYWJ6bk1USDU2VDdzcWZ4WEcwQTd4bzMzUEcyZ0lBdFRsck8zbDZ5MTdLeFBPdEFaV2llTXViWTlleDl3SE5lTWxEMThJa09WSGdH?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 05:44:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T12:25:11.413Z"
+      "updatedAt": "2026-10-04T12:50:13.649Z"
     },
     {
       "name": "Reuters",
@@ -191,6 +191,18 @@
           "source": "Reuters"
         },
         {
+          "title": "Russia to intensify strikes on Ukraine after Zelenskiy interview - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd05oYU1XSThHUHE4WjZ1QVRwNkFXMXNzRzBfRGFnWDhZS3lNblYzbDRWd216QzlacDBwakNZakFFRk1xUVo4amZlXzlpZEJxLUhrSEp6M1dVOTBEOFFyTmc2emthMVprYnNOa2pIZUpOTVNPcnJ3NmlNY0czUmYyR3FkeWxpOVZzeXJUS1VUTExCeDh1M25vWHpGejc2cTVpdGdZSV9hbkhXa1k?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 11:16:12 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Spanish police clear migrant camp on Ceuta beach ahead of royal visit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUlYR2wzY2tZYWg1cEo5SFlaTHhXU2p6M1BmWmpwYzRWSXlBYVVOM1R5ZGNENjBLNGMtRXNyd0xpdFpRdXBKY0NuN3ozWnhhRy1zZmQteXAwMVppMDBsWFpPYVlYQ3Q1WXo3STVnaER4WnVBRjBnNnp3VmgwNXM2Y2g2LTNNdUVab3VOVEsxS0hpWm5KS3A1SEFhZHg0aGt1cVZ3eHlRWnRqNUJPT2tYV0Y0R0tLUnEwaXhENmVoQ2ktZmZI?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 11:13:44 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Two dead in flooding in Spain's Catalonia region - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnh1WE5wbUJ2RE1EWWUtVmlITlNLSGJXZVdBYWFpYnVSWFdVVjlCeC1EYkVjcFBVbk1zak01NTB1eVBwMmZjNFo5NlhiMmxLbWh3dE53V0JCbHFYTEs2Vk54dlhHeDBHVzJSdndFRDVuZnFEOWVvR1hmSDdVVzJFOWNNXzlETUVXOGhpREl6cXY3aEhSWEVuOENuQnBOTjg?oc=5",
           "pubDate": "Sun, 04 Oct 2026 10:46:16 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDBEcXY1UUtrRGxIaE9neHYxeDlTWDNYaVlWdlp2UUhxSGtUV2RVZlR4Q25UUTlDTTR0QXlLYlVNZ1lMNEJfQkVmZnVtcFNaVW5mZE42d21uV1BZZzRESkxvVkxoM19FNkhoVThRWXYtUGR1eGZ6VmYtUHNrTWs5eXZfV1kxZ3ZnSHR2UWtmQWd5YVltQlNseWs0RGhXeVItVGVwQXNKbXpZVG9G?oc=5",
           "pubDate": "Sun, 04 Oct 2026 10:29:33 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "OPEC+ agrees in principle to keep November oil output targets steady, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkpnNDluR1haTkdBX3RldWlkX2pySlFJWlFIdmZhaGt1NTFuYlVJS3Nkc2VNQlJ4bXN2LTc1VTF1SWViaVloM1Y4U1JndkpESXNfb2IxazBFS3RTVjRpUUhVeWNURVNtd2dKcWxRMjdoTEFiRTdwd1FrWEw2OUx4NUY5U1hkNFBqVjUxZlJyVVlQNFBEUmVPVTBYejluWWhMZF9xZlNrQmFqU0R4ZlJGc0N5QzJ0ckNfN0dYdkFQalpkVkk?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 10:25:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Rare police raid of Taipei gay bar sparks angry protest - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMURISGFRZ3VjZ1dka1Y5alhIVHBOM2xkYVkxM0R6cXY0RTVUT2UzSFVFR3J2cm1WM1Jfb1NBQUhObmhSMVUzZ2g1Y09qY3FvZy1ReXk0ZlZKUnpLWEFacnNYZjRzdy1JYWZiR1BCRENFa0Z3dFd6TTRwVzdwX1NmXzI5OGVFN1Q3amV1Z1lud3dmMjc0S0Q1ZDRLNEpRV2gxVGxmU041U0syWG1ucjZNVg?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 08:49:10 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T12:25:11.803Z"
+      "updatedAt": "2026-10-04T12:50:14.060Z"
     }
   ]
 }
