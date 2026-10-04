@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-04T18:25:13.821Z",
-  "lastChecked": "2026-10-04T18:25:13.821Z",
-  "lastUpdated": "2026-10-04T18:25:13.821Z",
-  "generatedAt": "2026-10-04T18:25:13.821Z",
+  "fetchedAt": "2026-10-04T18:50:19.849Z",
+  "lastChecked": "2026-10-04T18:50:19.849Z",
+  "lastUpdated": "2026-10-04T18:50:19.849Z",
+  "generatedAt": "2026-10-04T18:50:19.849Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T18:25:12.657Z"
+      "updatedAt": "2026-10-04T18:50:18.720Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+          "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+          "pubDate": "Sun, 04 Oct 2026 14:36:48 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Cornell president calls gang rape allegations 'deeply disturbing'",
           "link": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
           "pubDate": "Sat, 03 Oct 2026 17:57:34 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Opinion: A Hawk is not the same as a Hawkeye",
-          "link": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
-          "pubDate": "Sat, 03 Oct 2026 08:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T18:25:12.874Z"
+      "updatedAt": "2026-10-04T18:50:18.941Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T18:25:13.352Z"
+      "updatedAt": "2026-10-04T18:50:19.440Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5",
           "pubDate": "Sun, 04 Oct 2026 18:00:42 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran's oil minister resigns, no reason given - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHdEN1VYYjFqdkJyRThRQ2ZheFQzeElqRHRBNVR2N1UwV2lWbi1CcDdQYk9IV0ZuSURnc29jZXNDM1hmV0YzMDNRN0xlR055WlhBS0M2SVNJVW9NNE0yYlUyc3F0YVJma1JhQ0RnX096YjlGMTRiUmhVSDE4VGlOZ2MwMjljcVhNZnhER2gtYWk4QUYxZGpzZ202dVJLUQ?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 17:34:44 GMT",
           "source": "Reuters"
         },
         {
@@ -188,6 +194,12 @@
           "title": "Brazilians head to polls in high-stakes, polarized election - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzYxcENTQ3M0VnFWR3h0cVF2TkRtc2Rlci13bDE5dnZXMENGLWVPTzdKX3RpRXBvZGJFcEo3d2tmelg2QmN4Q1lkNGhnN1luQ3FCdnRMeUxlTHlTeGswVzNjWVBzdVI2ZWttdm5HR3REQ3lSd3JqSUltVTRuTTY2dWdVTFVsRUNyZGVTVDBkY2E1M3poNG8tNktZMjNtNWliR2dlRkxR?oc=5",
           "pubDate": "Sun, 04 Oct 2026 17:11:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Musk says he will rename SpaceXAI to SpaceXSI - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT1lwRkt2ZlBuMTlqLVZCbk5ZVExzN0JMd0FnT0F5SllkSGdCU2xkNUlsSHVKZTRuNklIYlY5VTU5QmpqeUdWOXpJWEdhWGhaSE11dmRpQ0taekpfUllyay16MDg3VERqRm5WSjY3bGhKSGZVcnJWOFBod1FsQzBIdjVVN1U0b0xfT3VoZDNJdFZpVDJyN1Q0NlpjeUUtM2hFbUxF?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 16:56:09 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2VheFNzRWFqbHN5T24yR1p5cXZnNjVRZHl2cnhxU3NiaDh3QWJFNEtYZlFwM3RnaHlCQlk1X25iVm1OenR0Szl5RTBmSjFnWENnUzJrbXpLQ3YydjRMTFNhdFV2cGFRT0xSX25MTzFqOFpLUGFzQ1RrZjdtdHozby1obzY5WnpLNThMZVFnVnBWMUVjZ21Md3dwNEFEaDRoaTI0bGJRZFRGYWdnVHowU2NxMA?oc=5",
           "pubDate": "Sun, 04 Oct 2026 16:33:45 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Government forces seize capital of Ethiopia's Tigray region from rebels - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXVqai1NbFo5LVhWcnM3RElRUWVwa21sQ3p6dVhFXzBwQVBtN3BGR09DOGZhaXV5Z09BQ0RXN0JfODgtS2VoeUVqV3I0OFd3cVFjMzNLSGV3QnBidDY4eTVIUzc4YThTalE0b3JNRndHbHhQdW43S3MxN25NOWRnckZKUDU2MGl3V1YtZUVaRG5IMF9PUTVWMVM3NUptZGdkaUlYSDdLcTQxMlVxMWlkcg?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 16:30:34 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2pRTER4OGtQS01WaGYxMkVLOWVnRVNlTGFKb1ZuQjVFT296TUhVSkNsSV9BTXItRVhlQUNUZG56OC1KS3B5WUVIWVIzZG1EUEUwbkt3Tm80NEc4dVloT0RLMkVZZlQ0WlFTRGVGeW1Va2NxdThBY1hSeHM2Wkg0S0hNcjFaa0ZBVm9QMVhodGxSRHVGVjduVmliTlhQQ3VLY2xWVnNLVnlZVzlKS0J2YXVRRWZIa3hIUWc?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 16:21:11 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T18:25:13.821Z"
+      "updatedAt": "2026-10-04T18:50:19.849Z"
     }
   ]
 }
