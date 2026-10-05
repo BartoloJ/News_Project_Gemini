@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-05T15:25:15.654Z",
-  "lastChecked": "2026-10-05T15:25:15.654Z",
-  "lastUpdated": "2026-10-05T15:25:15.654Z",
-  "generatedAt": "2026-10-05T15:25:15.654Z",
+  "fetchedAt": "2026-10-05T15:50:19.852Z",
+  "lastChecked": "2026-10-05T15:50:19.852Z",
+  "lastUpdated": "2026-10-05T15:50:19.852Z",
+  "generatedAt": "2026-10-05T15:50:19.852Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+          "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 05 Oct 2026 15:17:23 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Yemeni government forces say they have 'secured' Bab al-Mandab Strait",
           "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 05 Oct 2026 11:10:28 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Nobel Prize awarded for revealing inner workings of the brain",
-          "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 05 Oct 2026 11:04:37 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T15:25:14.692Z"
+      "updatedAt": "2026-10-05T15:50:18.555Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T15:25:14.752Z"
+      "updatedAt": "2026-10-05T15:50:18.762Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Ukraine claims to have taken out more than half of Russia’s oil refining capacity - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHBMQ1lhemxPY0lqY1hLcTBHRFdTV1hYcDh2STRFOVdoVndhR2dTSkFsRjczMzFMX0tIc0ZDWS1rVHI4WFJZUGRjU25nSnBLQzNYU3pJN1Fhd28wMU9PaTBqLVZaN3FDM05rQ3NzVjBvM3pPb2JpaXlHMGpBTm9aSnRJdVl2TndJVFQ4WjhYOHVrN2xS?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 15:22:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84 - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNamtxRHQ1M2M3TmxrTlVrR29oVTBWdlFzSC1rd2NCd081RWRESWlEOVhZeVJRZDlqZG52Z1gxeWV5dktUNzFGMjNmVHFsTndYMTEzekQ2VGY3SWVFbC1raXJaaEc2aHNJOTlSQkpoMEhNcGdJNDZBMDVnWXNYSFZNcVlsU3Vwcy1Bdl9tZnVsdktoZw?oc=5",
           "pubDate": "Mon, 05 Oct 2026 15:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Russia reports a worker at a Siberian plague institute got pneumonia from an unknown cause and died - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUVxck1SdlF6ZTlSV0ZpLWdmR3g5WTAtX2tqR3FieHVXdnBILWhYUTNTblU1bjkxbXdEc3lNYlN5d3AtdVR1NjVDRmIyRmt6dWEwQ1dLWjZnVDYwZTZIZkVyT2FCMWlwOUJ0M3VNVF93RHYwZ2tzMDdzd0pkbmg2dnFrc1RzMmFEbi12YWhuVk1pNXhEZkh1TWozaGZHS2c1ZjNBSQ?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 14:49:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeDlJT01BTzVxTjVzSjlabm5kbGRLSXdRWGJIaTBrUThfZTU3dHFhbkNXVnhScmkxYm1DWWxhMl96Nkh3SjBNMkhOYko5bHI5RWtZNW9KQ0JRdG1uSTdsbTFYQkpXR203bFpRVTBkVWlXZ0dJMVdDeGdmYUt6UHZ0MncxOUtTeTExU05wWWtxX2hFSUV4SXcwakN0QQ?oc=5",
           "pubDate": "Mon, 05 Oct 2026 12:50:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 12:41:43 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US futures edge lower under sustained pressure from bond markets - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeEtuQ0VBX01CSXdjRkpaTnRmUElnZFl0ZUlLdEo3YXR4NW9lcTBIRThlSmVEd3NNdGlfNkFfWkhVZnVNXzlaUU9uNFNSUEhJQXIyMWdHV1hhRWs3Vlh2QkdGMllMRkRqNEtuYWtocm9ObXBreUtMcjcyc090c0NCZDk0RkhaZHk3Q3JSRWJ3d1B4ZVJFUVFZWU90czdaR0k?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 12:40:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T15:25:15.269Z"
+      "updatedAt": "2026-10-05T15:50:19.407Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "US and German scientists win Nobel medicine prize for work on light and brain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXo2cFZNQjV2OVJOVnRDUlIzR0VJazh3WWt0MXlQXzBkWXlPRG1RVzZtVWlvbmdZMXFBM08xQzR0ZVlVdGtYVm5Dd2ptcHVhZmp1RDFxQkkxUzV4V2FLWWtaNlRWY25MbDVJSGsxNlA0LUdfNkVBOXdDTUdrNDdSR2lNSHc2c2VBMW1iejZWZ0tNN1hiVjBTdC1xcWR1SnA0cTFlVVF0RFA1SGhLWHZzR0QwbWkzYWRiM2U5dmpHdnJ3UnJV?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 15:24:37 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Brazil's currency, stocks jump after Bolsonaro scores first-round upset - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnBVVGg0X283c2E3UVFRekJud193dksxLU9RcDJSLXVoT3dpN1k0emRjS0k4RnJ2Yk1VN3lMd3Z3al94X3FreFRuWV82ei1RY21IUkFTZHB3djVIQkxlZzc1TElvY2JfNWpTOXNucTRVSFpNQ090ZnlFVEVDWnpHMy02WmQzLXRqTmRRTnFGeWhJbTV3MEh6TV9EMmhDOWpQNHBpM3JXWlJvalpm?oc=5",
@@ -191,6 +197,18 @@
           "source": "Reuters"
         },
         {
+          "title": "US services sector activity slows in September; price pressures mount - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3BlTGEwb3JGdmZ3UjQ3a1UxVUpzdDExSS1QUUdKVUFqWHlxV0ctbEZBQks1RjRXLVhWRDNGSFU5NGtBMllzMGdTa2N0RmUtWndwOVc4LVI2ZHl2Zmo3Q3kzbTVCLWxqWmc5VHN6TFlPMGdyd0M3OGVSNE4xZy1XRThLNnZjMUpva1JtRWJ6OTR5clZPaWVZamZUSGV2RmxUTVhyQVVYMjh4VU5VTVpR?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 14:45:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nigeria military helicopter crashes with 32 aboard, rescue operations ongoing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTVNcjc5Rk9CNVRSWWwtNm96QmVtNGFKQVFTOGwzVmY4d29peTJ4UGFIWEpZLWF1ODFMSkszT3YyZ3N5SFNkSXBSYmd5dnhDYmwwWjU1UGpKUEJmVWZJbldGTWhQRFlnU1RFNVhKOFBEYi1YZkdvY1B2ZnJkcXBHbEg3UWNVNkVVWWRaM2RKOC1ZOVlia0xGYU9SSmxUanFscURjRjU0RlI5bFlXYXFEcE85SC1BODRKYjVMdW5n?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 14:26:36 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US Supreme Court hears bid by oil companies to avoid climate lawsuit - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd2t4Tld4Y2hsdXplcC1OLUhMeENlQURPLXFUX0pNZWl3TGcydUZKV0xiSDdDZ0JCakNwZ2RhdVZ0dGozLUlVdEVCamQtN1ZPS29ZeXg0bzR5bGMxOV9LbU9VLVE1anpaLTVFRC1oWXE4aUx1by13ZW8tVVBJQmFzQ2ZYZ3pSLUk3azNmaEdlSmtfU3RUTHZXRmk3YTdTb1BGWU9mclJiV1R4RWUzeGNOeE5Wa3hvb2Y3NExfVExn?oc=5",
           "pubDate": "Mon, 05 Oct 2026 14:22:36 GMT",
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaTRId3g5QWpPdm5aNWh6R29udDVWRjNOd0hmV0Y4OTg1ZXR6azZIWkhXdzAzRWN1NzRfOGtBX3BjUUY4S2JJcnlYa3BwdHVqcHg1NDhTVDZIVXBLOUl1U0JvUkJqcXRxc2tHSVUzU0YyNlNYTERHTDROeTEyNlVuWkZQbV8yR2pyTUdkX01CLV9DTnhvQ3pvMktqSWZjRGN1VjZldVRXQk9OdHA3bUw2QXFZNGtKbXRlMGhNcGFsUlFxMmM?oc=5",
           "pubDate": "Mon, 05 Oct 2026 14:17:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Teenager's hand blown off as French school protests enter third week - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2hsMDFzX0Q1QTMzeEJpSHVybjh6OS1iWDN4OEVpM3RaNlRFY3FOUnRwTXdidExTVlprbzgyS09oc1FEck40bjhaWUEtdk1aYmZjZzZXQVp3U19KRjJmcWR2eHU0Q2xUcUN2d1RqWTJFaVQwSzNFS3Mxd2NjZy1JSG5FRk5GSndFekc3eWVHaWdlUDRvZzFrNWR3WFBCYmRzTkxZSU5TMnQ0Z1JoUDIyeHUyRVBZQQ?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 14:03:42 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Alector soars as Roche licenses Parkinson's therapy for up to $1.27 billion - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFIzVzd3emp4eHRpVUEtR0NSUlJnQ19ldnVlU0M5U3daYk1WRmktRy1UMTNnUWR4OFNqcktyMUR1cjR3dTJTX0trUFZhZTVjOUN3WERVMU5fcHRkaENiTk1oS3hPdFJWU21VMVQ2LU81VUVYaTVBMURIRUpXbHRyT1A1ZzFFQndNY2dmb2NQYkQtYjFIdmpQM0FxcXdKUXg5bHV5bnhzeHJjby1JNFlGdUlScnRHQQ?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 13:55:16 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Romania says two dead after fire on ship, Ukraine blames Russian drones - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNzh3OWRHN1ZFNktlZ2ZvdkxzS0Z6WWxqNUEwcVE0TEd6dHVCNmRkTllCQ0ZTR3QwaFNBQnhqSFQxT0ZhM2E0cG12anRLeDQ1M0xkSnotR3BnYXhOLVVwU3hjaE1qYXJmdmdfbHJteEhoX1FzNnNwQU5meWUwOUFFQWwzU0o4ZVF0M2lGdVBHSG05Zk5zdEUzeUpZX1VtbVVHSHhNNXl3UjhBMW9Ed0Nr?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 13:47:13 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T15:25:15.654Z"
+      "updatedAt": "2026-10-05T15:50:19.852Z"
     }
   ]
 }
