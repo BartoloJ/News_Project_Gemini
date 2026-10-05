@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-05T18:25:16.494Z",
-  "lastChecked": "2026-10-05T18:25:16.494Z",
-  "lastUpdated": "2026-10-05T18:25:16.494Z",
-  "generatedAt": "2026-10-05T18:25:16.494Z",
+  "fetchedAt": "2026-10-05T18:50:15.633Z",
+  "lastChecked": "2026-10-05T18:50:15.633Z",
+  "lastUpdated": "2026-10-05T18:50:15.633Z",
+  "generatedAt": "2026-10-05T18:50:15.633Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T18:25:15.900Z"
+      "updatedAt": "2026-10-05T18:50:14.178Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The iconic Arthur Read made his TV debut 30 years ago",
+          "link": "https://www.npr.org/2026/10/05/g-s1-146052/arthur-read-tv-debut-30-anniversary",
+          "pubDate": "Mon, 05 Oct 2026 14:26:01 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
           "link": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
           "pubDate": "Mon, 05 Oct 2026 06:11:33 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Former Prince Andrew files legal action to quash warrants that led to residence searches",
-          "link": "https://www.npr.org/2026/10/05/g-s1-146396/former-prince-andrew-legal-action",
-          "pubDate": "Mon, 05 Oct 2026 06:01:19 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T18:25:16.054Z"
+      "updatedAt": "2026-10-05T18:50:14.315Z"
     },
     {
       "name": "AP News",
@@ -142,6 +142,12 @@
           "source": "AP News"
         },
         {
+          "title": "Lack of transparency in what space weapons nations are pursuing and even on what's already in orbit - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHpDU3pOc2Jwc1Bob2R3Z21oVVFiTXFPV2FDSjhCcnVmRmVjalJGYnBBaDUtZ0RPczYwU0dWaGxpX2xCaGxHeG1lWGQ1dm9EcTh4ZFpNY19fZ1lVR2pOMVpzU1IzTl9HZTBCaktSOHl1dWwyNzlRaDAxbHItUWpaNFhlWnhCejZ5b2ZQYzFENlo?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 16:22:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Ohio Democrats’ path to the governor’s office runs through rural areas that had turned against them - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd1lnUTFnSWdYNlJQWm5nalpwcXFYZkY4c0lfb3pabUd2MHZfOVJsVmdfZkpObFFfcXFLcGdkZjRQV0RwSDM4QmVCNkFvd1FBQTZKenZ6R2V0alFNTEFGaFF2QXlBU1pyLTRDQ0NWQ1c3MnNxSVhqWGFRSmNwYkFfT1hESnM0UHRYTHMxT1RUazNKWmhYNXFCQmMwQ3VQT0s5bnJBZg?oc=5",
           "pubDate": "Mon, 05 Oct 2026 16:16:00 GMT",
@@ -154,28 +160,40 @@
           "source": "AP News"
         },
         {
-          "title": "Nobel medicine prize goes to 3 scientists for shining light on brain activity - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmJWS3hfcm0yUXVXX1dQLW1MNjhkNkhPLXVHWjc1M1RhRXJKT2hRVGlWZjV0LWtQdGtIc0hxeGFCclRMNlEwczVHTndqR21iSENZOHJtem8zeDZXQXVBenBvYWYxcVVvQmx0ck8weTV3dU16OHVyV25nX0tQUlRvdmhPZWJKX0p2aVFBajJhcHE?oc=5",
+          "title": "Russia reports a worker at a Siberian plague institute got pneumonia from an unknown cause and died - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUVxck1SdlF6ZTlSV0ZpLWdmR3g5WTAtX2tqR3FieHVXdnBILWhYUTNTblU1bjkxbXdEc3lNYlN5d3AtdVR1NjVDRmIyRmt6dWEwQ1dLWjZnVDYwZTZIZkVyT2FCMWlwOUJ0M3VNVF93RHYwZ2tzMDdzd0pkbmg2dnFrc1RzMmFEbi12YWhuVk1pNXhEZkh1TWozaGZHS2c1ZjNBSQ?oc=5",
           "pubDate": "Mon, 05 Oct 2026 16:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Ukraine claims to have taken out more than half of Russia’s oil refining capacity - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHBMQ1lhemxPY0lqY1hLcTBHRFdTV1hYcDh2STRFOVdoVndhR2dTSkFsRjczMzFMX0tIc0ZDWS1rVHI4WFJZUGRjU25nSnBLQzNYU3pJN1Fhd28wMU9PaTBqLVZaN3FDM05rQ3NzVjBvM3pPb2JpaXlHMGpBTm9aSnRJdVl2TndJVFQ4WjhYOHVrN2xS?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 15:22:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T18:25:16.099Z"
+      "updatedAt": "2026-10-05T18:50:14.906Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Nigerian military aircraft crashes, killing 32 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTVNcjc5Rk9CNVRSWWwtNm96QmVtNGFKQVFTOGwzVmY4d29peTJ4UGFIWEpZLWF1ODFMSkszT3YyZ3N5SFNkSXBSYmd5dnhDYmwwWjU1UGpKUEJmVWZJbldGTWhQRFlnU1RFNVhKOFBEYi1YZkdvY1B2ZnJkcXBHbEg3UWNVNkVVWWRaM2RKOC1ZOVlia0xGYU9SSmxUanFscURjRjU0RlI5bFlXYXFEcE85SC1BODRKYjVMdW5n?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 17:43:47 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US and German scientists win Nobel medicine prize for work on light and brain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXo2cFZNQjV2OVJOVnRDUlIzR0VJazh3WWt0MXlQXzBkWXlPRG1RVzZtVWlvbmdZMXFBM08xQzR0ZVlVdGtYVm5Dd2ptcHVhZmp1RDFxQkkxUzV4V2FLWWtaNlRWY25MbDVJSGsxNlA0LUdfNkVBOXdDTUdrNDdSR2lNSHc2c2VBMW1iejZWZ0tNN1hiVjBTdC1xcWR1SnA0cTFlVVF0RFA1SGhLWHZzR0QwbWkzYWRiM2U5dmpHdnJ3UnJV?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 17:39:44 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaTZZY2dhLWxWUXFIc0VnMTc3OHRvUWk2MzUyX3VIU0JFbW1MMjlUX3JCLUIyVGhDZm4zT3RCWTJpcGl6UTdPd2FWaTBBNC1zMkJDR29YXzRuak84cWIxeW5HLWJaTkR4anltMUUzdUpWS3ZkMWRxUTFodWs5SlhFLWU4ODBrUDJEbVVSUmp5Q1ZiWXVWZUVrMEk4VUEwb0MxM3YtNWFyVFNyN29lZEJlb0ctaV94MGxmNmJRVHZKOHhTUDlZSkxCR2xvQkVCUQ?oc=5",
           "pubDate": "Mon, 05 Oct 2026 17:37:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "French bond contagion fears are rattling the euro - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2I0a3Vldm9aWFp4WTFxOHFSR1lBMVFsYThLV1JqZnF2SWY5anFKZzVPTW9mVWNFUEJQOHRUYjNFOVFsNXBjQ253Y09QdV8tNTVsMGZfejgyb0o0Q09SMUJYQ0hjWm1PbkpHSHRja1VQeFBlZkI5YlhWR1VidVhLQWVob0RKN2ZkSUJ5VThTRTdLcGR0TXR0aXp3?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 17:27:56 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "Russian attack kills five in Ukraine's Kharkiv, shatters residences - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQWhndlZITGtvc0VrRjQ1ajNIYzlBY08yRTVDc1hnSm1vNUtmQWxXRnRtOEZnc1JzalQ0QjVickdiOFNaMTVzRjNzal9ZSFlxUk5WaERvQzdlNlRRYWVWTUxKdVEyeV92WWYydlpWLXdQdmg1TnhjQnlJQVlVRjNfbGZRSldBSDl5SnNwVEIzY21mUXV5R1RyV3NHOFlTc3FqbWlwSHBRUFRTSmdnV09ySw?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 17:11:44 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "US services sector cools in September, price pressures building - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3BlTGEwb3JGdmZ3UjQ3a1UxVUpzdDExSS1QUUdKVUFqWHlxV0ctbEZBQks1RjRXLVhWRDNGSFU5NGtBMllzMGdTa2N0RmUtWndwOVc4LVI2ZHl2Zmo3Q3kzbTVCLWxqWmc5VHN6TFlPMGdyd0M3OGVSNE4xZy1XRThLNnZjMUpva1JtRWJ6OTR5clZPaWVZamZUSGV2RmxUTVhyQVVYMjh4VU5VTVpR?oc=5",
           "pubDate": "Mon, 05 Oct 2026 17:03:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US commodities regulator proposes new federal crypto oversight rules - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSWMwYjBmbmRQV1RYQXlDczJHN0ZMdzRhSVgzTE01dzJrOXNidlBqZzg3ZjlmcjlqM0dxd3g1eGZEcGtVUVFQVmNVQVgwTnE1M2VHV2lBbU1ySTZWa05DN1kzcEFxamdEVE56UGRBNkxwWnhqSktWWkFFSjF3S1kwaEVBem10cE1QNnBUc19mdkJ2TlZqaVpaVmdjbHgwczZ6LU5RQ2loWUd5NjFPbjgw?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 16:57:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Dennis Hastert, former US House speaker and admitted child molester, dies at 84 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3FlelZuLS1VNkFzU0Q0ekF3YmtGTGFicGZwaEJQWXF4TVZYY1lJRnVZVllHM3gwSEE5cGs3S193c0ZDaUNON2pDNURHdmI3UHBhYU9VUS02QlNoMVdYLXNXU2kyQnhUMmFCRFZ1QWdkTUtZWmpfSG1GM3ItUXd5aEFkV2tsODFBZEVuZjJXYkpXUk1XUjh3M1czZXc2a2hXeTJQdVg2dXg?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 16:54:03 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Quebec heads to the polls with focus more on Trump than independence - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGpVVnRKUWRpaXI1ZnRkZ1psZWFJT1VKbE9sSVBpN0kyWUppUlh4d2hhUl9kbEdTN0pKRFhFYUJ5SGNlT2owbWFfSVltSnhKMktIWm5oaWx5SXV3M2NjUDhMRklDd3k0aUJ3QVY4REZrN1RFSmk1Xy1vWFBqWDJkVEJPM2dSTUFYTms3cDgzcHZuRUV1aXc3VVhXcEJvRTVPTDJNTWRIM09xWldhWWc?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 16:45:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: US to announce $150 million for Alaska power lines as Vance campaigns in Senate battleground - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUMxc0gwRkE3aGs4WXA2VUdRdGxjRHhXdGtVTVpiMWdQODFFaUNuYXhnUnBPS29GY2lrc0NSakJtQlBTY3FfWVVad092M0g3aE1aNzJ1M0cyZjhLYWl5UDhQVDZaWnNjTy1SQXVCcGpDS3lKSWx0QVdUSlhwdmdBZTNEUW96ak52RWdUUHNJeXc1cVVfb1l4QmNLUl8yVUtPbk9vaUE1WE4yNVhuVWFXRm84UUFQZ2V4MWFsNVhZQms3Q0h2OGFMN0hhMA?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 16:40:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US appeals court weighs Trump's block on Harvard research funding - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjJDTXMwQ3dvUGkwWU9zeFIzZHdPbGxvaHdhU09tVERQdEhPM3lScDRJTFdqaHg0N2pNbjZTX3ZHamh2dWdsdzE3bjFBUkpyMmxQWmotckNEangtV1Q0SlRuTkFMVThZX1p4TlpLa3VIRmR3YUhISWgyNXZZNk1na1BITFJOeDMzZGRGZmVUY0lkOWZGTURfc2w3ZUsyaGR3SmFkSHZGaFZSb1FZOC16R1lEemE?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 16:39:56 GMT",
+          "title": "As Iran war drives up gasoline prices in US, Trump blames Ukraine, Democrats - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbkFydDJJNnFHa29fNkJZdjJPNzB5WU13Q2Y1a3NuMEZsTjF2MTZMY3JMZE5ZMHJzMU1DMWxJd19yMGdTX2dGQjVtSU1aVmI2cndhd3p3N04xRWhrREtFTTF4akUyNHU1NXdQdUVCQ0dWVEY2Z3lySmotUEhhbGE5UktrVVNvM0xkVHRPVWVGeDk3bG0wN29rNTBibmhKTDM4TE5xZ0dBcEd2V2VyQ1VyRDl3TjZtUTlqR1kwQQ?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 17:02:52 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T18:25:16.494Z"
+      "updatedAt": "2026-10-05T18:50:15.633Z"
     }
   ]
 }
