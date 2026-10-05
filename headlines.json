@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-05T05:25:13.848Z",
-  "lastChecked": "2026-10-05T05:25:13.848Z",
-  "lastUpdated": "2026-10-05T05:25:13.848Z",
-  "generatedAt": "2026-10-05T05:25:13.848Z",
+  "fetchedAt": "2026-10-05T05:36:57.906Z",
+  "lastChecked": "2026-10-05T05:36:57.906Z",
+  "lastUpdated": "2026-10-05T05:36:57.906Z",
+  "generatedAt": "2026-10-05T05:36:57.906Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+          "link": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 05 Oct 2026 05:28:46 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "US air force removes all bombers from British military base RAF Fairford",
           "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
-          "link": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 05 Oct 2026 03:59:03 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
           "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 05 Oct 2026 03:37:41 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T05:25:12.726Z"
+      "updatedAt": "2026-10-05T05:36:42.799Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T05:25:12.939Z"
+      "updatedAt": "2026-10-05T05:36:43.061Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-05T05:25:13.416Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-05T05:25:13.848Z"
     }
   ]
