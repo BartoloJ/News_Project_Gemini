@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-04T23:50:15.602Z",
-  "lastChecked": "2026-10-04T23:50:15.602Z",
-  "lastUpdated": "2026-10-04T23:50:15.602Z",
-  "generatedAt": "2026-10-04T23:50:15.602Z",
+  "fetchedAt": "2026-10-05T00:00:18.523Z",
+  "lastChecked": "2026-10-05T00:00:18.523Z",
+  "lastUpdated": "2026-10-05T00:00:18.523Z",
+  "generatedAt": "2026-10-05T00:00:18.523Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T23:50:15.490Z"
+      "updatedAt": "2026-10-05T00:00:17.841Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T23:50:15.540Z"
+      "updatedAt": "2026-10-05T00:00:18.061Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 22:23:08 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Imran Khan supporters march on Islamabad to demand his release after talks failed - AP News",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd3RFelhPbHBaRG5HbVFrVjRkbzV4b1BscnZBTjhyVEtPcnFZQkw0S1pPWFZqMHM2Rmh0VXRuVnI5WGd1VmhzeUdHZ0pKVElGZlpFOUhEWWxWOVFfc3czMy1yQi1vWTN0VHNMT09nRzZfWWduS3drS1k4Mk1KdHN4NkRsVVNqN21xVlZBeWtKVTBZVjdxaFV3UEEtNjBPc09paXhjQ0xLVTQtYXc1bVVMX2hydw?oc=5",
@@ -130,6 +136,24 @@
           "source": "AP News"
         },
         {
+          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 21:39:41 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 21:39:23 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US Air Force removes all bombers from British air base targeted by a suspected terror attack - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVGp4WkdsREwtMEJNa255Vk13UFdFMG1aRGY2UTR0U29vQmN2TkFpb1cxT3g0QzVCUWh3NzNqV1VBb3p2YWxrLVZWWE5kQUtXbWtacmJrQjZSLS1sd0tObjhFY0xQSFR2RHlCbk45ZE1xNC0tbzZXMGp2ODBqV0kzazlfdWRqaHBYZDc1U2lB?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 20:59:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Serb separatist Dodik declares victory in Bosnia vote as ethnic tensions and EU hopes collide - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZW5aeFVWYlo4bXFNSVpQQXFndld4cHRJcVk3REVzYW9oMy1ZR0taVnh4b3czcGdGZnRraVJyd0U2VmZVYWdhVzI1R2o1X281QnNsbWs0eHVuY09WRnVVSGItRHFocDJkT3cyb0VDLS1POGM5ZkE1b0UxX0htVVJ2MEdweENxWnVlbzBNM1IySWkwTW8wckRBSlJldWlnVzJseUxz?oc=5",
           "pubDate": "Sun, 04 Oct 2026 20:54:00 GMT",
@@ -140,89 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGJrZUNLQ25FYU5MYkpCUnZOX3Z6Q3Nlb2x3Q1FjNFRrbmZ3RGx1TS1LR0Y5T3FtZzI0eG5tYTd0UXotTjJHTjJRbjFCV0c2Nkg4SnpmdlI3WERnTVAzTFZwX3EyWV9JcS1zcFBMMjNyRWZKVGlneWdPUGFuYWZ0NW9XbUhMdXcwTkIxTlA2Q09TT1lUdGE4SFZFbmtnMkM2a0JVbjlmcTZJeDBDZjJVR3ZvWEJRR1pOWUdjNl9VbGtNbGg3aWZITUs5aUZVZVBD?oc=5",
           "pubDate": "Sun, 04 Oct 2026 20:41:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "2 shot dead and dozens injured at neighborhood block party shooting in southern Georgia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeU1lRFRqcWlrYjBSSmZnNzA2c1pfaWNwQnBRbVpsR0RWYzRBLVVibG1zYVVNQzNXRy1tdXVVWl8yTjUzZWlkbTBQTU9lbkloUWJoTlpKOUJ2YWpoZUtVRUM3WGt5cWxGQ1J1MVhLOEJRazhfNEI3VVY0aVFVbW9IZzNISjJnc3ZCc2FsNXowQUk?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 20:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 20:33:39 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 20:23:43 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Photos show Spring-Summer 2027 collections at Paris Fashion Week - AP News",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDl0cjJZLWlvdkR4WDlYYkFHUnRkRm02UGFXNXptZG05ZWVRZ0oyaXVCeGNGNVJHUHVoU2NZZGZ5eW8yN0g2dVA4QTc3S29DODE4WkN6WGhhcmxCcm1WX2VGMi1jdmFic0Z1SVNsaVZaY1FhX2M0dmFYSUNUd2hyemhOaFQ0RV9qa0hHSFRWckloT2wwcF9rWjhLQjRVcDRsbnlRNEpHN3FjMlBTc1VoNzc5Z0xHNHN2WDBaQkNhbVd2TDQ4Rmc?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 20:00:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T23:50:15.591Z"
+      "updatedAt": "2026-10-05T00:00:18.095Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows - Reuters",
+          "title": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZm4yN3lGTlZFWFRCMmNTSFJSUWE4MnJqSGc5aGVKMXBWR3lrcXYtSEpTRWpncXNuUHc5QVVKeDVRa0NuTWpuXzBSRUxqXzcyUklYUlU2NUdLNTkwS2FndzlLdXBaQThKZThGT2d3cjRkN0FBVjFQcEJzR2NrbEpDa1RvSlJ3a3d2bUoxcnAwSF9jVnZXY0J4V0s4WjM5Y3hRVWlhY3dSQ0J0WkMxZ3c?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 23:51:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzYxcENTQ3M0VnFWR3h0cVF2TkRtc2Rlci13bDE5dnZXMENGLWVPTzdKX3RpRXBvZGJFcEo3d2tmelg2QmN4Q1lkNGhnN1luQ3FCdnRMeUxlTHlTeGswVzNjWVBzdVI2ZWttdm5HR3REQ3lSd3JqSUltVTRuTTY2dWdVTFVsRUNyZGVTVDBkY2E1M3poNG8tNktZMjNtNWliR2dlRkxR?oc=5",
           "pubDate": "Sun, 04 Oct 2026 22:42:48 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Brazil election results - Reuters",
+          "title": "Brazil election results - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TVVNVeXVPVXBIa01STkEzOV9NejZWNVF1UWJBaFFEdG9BVlVDaTBZbVc5azhaLU0zWGNsWEt5UEhvd3JLUDdnR3pzdWxvMmtlTTBXR1FTSHJqeTlTT3psNzJMRmNLMXY5dUdKaHY2cGQ5WV85R3RiSQ?oc=5",
           "pubDate": "Sun, 04 Oct 2026 22:25:04 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Explainer: Who are the Houthis, Iran’s allies in Yemen? - Reuters",
+          "title": "Explainer: Who are the Houthis, Iran’s allies in Yemen? - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUERRVnN2QjBRRGRfc3ZELVlQY0FMZUhwVlJnajRWR2NSRDcxQktKQ1VWdXpTT3cxd2FoVXFwMkhGTnpOODJnWi1lSjJzUDRJbHczM1gyV3JIb0U2bHhwTWNmY1FtV2FJckpqcEw4NEVtN2VUbWU5Mi0tV2VtbjZoWFRWUnVTekJfMEVoa1NBYWxsdThWeFRBVkVJODl1OWZuMmx2cmRzYm9XYTB4?oc=5",
           "pubDate": "Sun, 04 Oct 2026 22:16:21 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US removes B-1 bombers from UK base amid security concerns - Reuters",
+          "title": "US removes B-1 bombers from UK base amid security concerns - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQlFOOXowMVhwM2NXbHA2Z01IbUNKSGJIcnJHaEUybUdKZ2xCNHV0SU5sb183a1dZU3RJS0hEa2djdnZNU1hUcEhucW9HOEUxZDZoWS1UVUhrVjVtTnlEUmt2VERkMVFET3cxaUdkZjBKUUxBdVFJS3BPNndHQnVJUXloNjBQMnp0SjhqeEI4Zk1kb3QzVG5Zam5zYWdJcEk?oc=5",
           "pubDate": "Sun, 04 Oct 2026 21:23:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Britain's Green Party votes to class Zionism as a form of racism - Reuters",
+          "title": "Britain's Green Party votes to class Zionism as a form of racism - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQakVRMW8teEV5WlFoeU03VXNyU0hoSW8zSFNURk5WeTMyUXlFSGRqa2JieU1UcjZCWGd3SXp3UzVRMXFGWHZQMVJBUlFpem9iWkpGODVjZVplVFZTU1BXV1htc2FkcmNaMVREVi1WMVhQcnY2MFlCWm90LW5OcTVQZHJYLVhrY3ViYkpyRE11UkdkOExSLUtzTXAyRzRwQQ?oc=5",
           "pubDate": "Sun, 04 Oct 2026 20:55:39 GMT",
           "source": "Reuters"
         },
         {
-          "title": "France's Schneider Electric nears $20 billion deal to buy US software group PTC, FT reports - Reuters",
+          "title": "France's Schneider Electric nears $20 billion deal to buy US software group PTC, FT reports - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDYwbWo2TEdHQ1hRMWtvbWpHMGkwV1BfRmRNTUlfM0NfTFFQUzNyYXRJTEVGbHFLV28wZFl2WDF3d1JCZENIbExEZVE0SDJnelhla1V2azdUcFZSRUIyLVByMjBFRTQ4TGluUGE1N2g2MVRNeEhfX2diQ3JXTGcxOU5qM252VE5RWENadzR0SXl0bDFaUWlHbmZoOWVWXzNTOEY3cXFVQmxkMWtrU05ueHRWMG9pYlVZdG1XajZUcw?oc=5",
           "pubDate": "Sun, 04 Oct 2026 20:14:15 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Alaska LNG shipping savings justifies billions in investment, developer says - Reuters",
+          "title": "Alaska LNG shipping savings justifies billions in investment, developer says - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVFHYzRzRk12Yy1PRnBCaGppbXJNaWd2VERlUzZ2ZkIzWVRjZFJ6anV3ZUxhdzdmRXdOcFc0RlNQZ2NKajdXOWxRd2luMFU4a1p0SWExMlVCemVYQmFYclN2ZWFRZ3R3bDRqWF9mN2l5ZUlBaWVGb01NT055X1pFeTMwajhzRjRFaWJfVG15N2NkaE5iamdyd3pFZDk4MGhoOWxsZE93WEpXSWVkYkJXM19DZlZUMGtBTm1tU2RSaVFmVU0?oc=5",
           "pubDate": "Sun, 04 Oct 2026 19:52:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 19:46:37 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-04T23:50:15.602Z"
+      "updatedAt": "2026-10-05T00:00:18.523Z"
     }
   ]
 }
