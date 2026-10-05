@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-05T10:25:27.474Z",
-  "lastChecked": "2026-10-05T10:25:27.474Z",
-  "lastUpdated": "2026-10-05T10:25:27.474Z",
-  "generatedAt": "2026-10-05T10:25:27.474Z",
+  "fetchedAt": "2026-10-05T10:50:14.399Z",
+  "lastChecked": "2026-10-05T10:50:14.399Z",
+  "lastUpdated": "2026-10-05T10:50:14.399Z",
+  "generatedAt": "2026-10-05T10:50:14.399Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,19 +10,19 @@
         {
           "title": "US air force removes all bombers from British military base RAF Fairford",
           "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 05 Oct 2026 10:24:02 GMT",
+          "pubDate": "Mon, 05 Oct 2026 10:39:09 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
+          "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 05 Oct 2026 10:37:58 GMT",
           "source": "BBC News"
         },
         {
           "title": "Supporters of jailed ex-PM Imran Khan begin march in Pakistan",
           "link": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 05 Oct 2026 10:23:26 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
-          "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 05 Oct 2026 10:10:27 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T10:25:26.577Z"
+      "updatedAt": "2026-10-05T10:50:13.422Z"
     },
     {
       "name": "NPR",
@@ -78,12 +78,6 @@
           "title": "Spain's prime minister calls early elections as pressure mounts over housing crisis",
           "link": "https://www.npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections",
           "pubDate": "Mon, 05 Oct 2026 05:15:55 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Supreme Court's new term kicks off with blockbuster climate change case",
-          "link": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
-          "pubDate": "Mon, 05 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
@@ -109,10 +103,16 @@
           "link": "https://www.npr.org/2026/10/05/nx-s1-5979044/sauna-heat-therapy-mental-health-depression",
           "pubDate": "Mon, 05 Oct 2026 05:00:00 -0400",
           "source": "NPR"
+        },
+        {
+          "title": "Supreme Court's new term kicks off with blockbuster climate change case",
+          "link": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
+          "pubDate": "Mon, 05 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T10:25:26.621Z"
+      "updatedAt": "2026-10-05T10:50:13.522Z"
     },
     {
       "name": "AP News",
@@ -120,19 +120,19 @@
         {
           "title": "Nobel medicine prize goes to 3 scientists for research into brain activity - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmJWS3hfcm0yUXVXX1dQLW1MNjhkNkhPLXVHWjc1M1RhRXJKT2hRVGlWZjV0LWtQdGtIc0hxeGFCclRMNlEwczVHTndqR21iSENZOHJtem8zeDZXQXVBenBvYWYxcVVvQmx0ck8weTV3dU16OHVyV25nX0tQUlRvdmhPZWJKX0p2aVFBajJhcHE?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 09:48:00 GMT",
+          "pubDate": "Mon, 05 Oct 2026 10:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 07:04:55 GMT",
           "source": "AP News"
         },
         {
           "title": "Bolsonaro and Lula head to a runoff in Brazil’s presidential election - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
           "pubDate": "Mon, 05 Oct 2026 06:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 06:41:26 GMT",
           "source": "AP News"
         },
         {
@@ -167,62 +167,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T10:25:27.097Z"
+      "updatedAt": "2026-10-05T10:50:14.011Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Hundreds of French schools stay closed ahead of nationwide day of student protests - Reuters",
+          "title": "Hundreds of French schools stay closed ahead of nationwide day of student protests - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2hsMDFzX0Q1QTMzeEJpSHVybjh6OS1iWDN4OEVpM3RaNlRFY3FOUnRwTXdidExTVlprbzgyS09oc1FEck40bjhaWUEtdk1aYmZjZzZXQVp3U19KRjJmcWR2eHU0Q2xUcUN2d1RqWTJFaVQwSzNFS3Mxd2NjZy1JSG5FRk5GSndFekc3eWVHaWdlUDRvZzFrNWR3WFBCYmRzTkxZSU5TMnQ0Z1JoUDIyeHUyRVBZQQ?oc=5",
           "pubDate": "Mon, 05 Oct 2026 09:56:26 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Spanish PM Sanchez calls snap election for November 29 - Reuters",
+          "title": "Spanish PM Sanchez calls snap election for November 29 - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcTJjNUhPek1FdG9yOFctRVBNTThSREE1SXZmZHBWLXNWV2dRUkFWRXVTZkJBOE13dnA1Y1d4MXBQVDNDZ09hOTAtd3llaUFKb0RST054Tm9OS3JOQU5tVHhQZ1diQjRFamFmYWdNRzVHREI3UmIzdGxEbVpKLVRaVFMtTzVpRnB4WE5DbXJ3Vk0tLWttdFFZRmY2b2FkcDY0?oc=5",
           "pubDate": "Mon, 05 Oct 2026 09:09:47 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Thousands of Imran Khan supporters start march to Pakistani capital, party says - Reuters",
+          "title": "Thousands of Imran Khan supporters start march to Pakistani capital, party says - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1BEQzAtQkxVT3lWN2tLQ21vWTAyNm9qWGxkSDQxVzluQ0JxTDFkT2VqT2x6T0hmRF9pODU0MUt1Zm8xTnZaUXNyQi1hVzMtNE1fVldZTDNsYXl1X3J6WFVNQzhlY3VOUEgwNF9WS19OTWFDeEVnQnBsdFFlRTFDdnN6NUJRVVFVeFNvZV9TLUhRMnZHMEtKaTZJRDQzNDhmbHVoZXJvQ3RGeGpkZk5QSGp3dWxuUGhrS1VDanlyYnNEckNXSmhkYXVR?oc=5",
           "pubDate": "Mon, 05 Oct 2026 08:35:29 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Norway to propose temporary ban on AI glasses in some public places - Reuters",
+          "title": "Andrew Mountbatten-Windsor takes police to court over Epstein files arrest - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQmEzQlhVYmxMSmV4MURWMVlydmVLZXlHRm5KejdyYXNDT1pfUjQ2UFpkWEI4M1E4blRjdXBkcGJCQ2NfUWZPaG9Gc0szTlY3d21PM2JSNWlMMmFWb0JiNUZ6LVREbkJ5RE4xZ29mOXVjVmVLa0djdFg2SlN3RXVfeGFxbjA2UXFTMGNtcko2akFmN19jMTdVQ1BpT0cta3pzY3VNN24tbzlZSEhtV1R5NFBDZzBQM0k?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 07:55:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Goldman sees US data center growth intact despite opposition - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2ZTZDMzaGJJT2o2dGpLNE4xbzZXOFRJdzVVVm9OanBHT2tJdUhfOU1FWGdoNl9RRUpXa1pOWFo4QWJFbThDclBKTmlHVHFaQ3FFbUtHUW15bnNrRC1LTHNzcEE0djhsQmpkNUhjOENzWVdhLTZ0S3l5cUxoUHNlWHZJZlZXaEdsSmJxaEgwRFJjQ2tiRjkybE1IdFNnQzhHb09qR0ZnSFg?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 07:23:46 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Norway to propose temporary ban on AI glasses in some public places - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkUwZGktUEpVaWxnYjVfSEdtbXUzLWVUd01EOFFFYjJ4YU5NLWRnOThhX21XUGsyUlZHR3kwTW9SR1o4eE5xb2xpOEpHZFJGNjVYUndiVkoyQ1VSVXg4WjdUZ2hRempRZURJNFlsZWhIWE4wckVqa21wWm9EUkRUNFNITkhnWmZHN1QtdV9EYTVNNWs1dl9XZm9qejdJTmhaaG9XT1ZfNnk?oc=5",
           "pubDate": "Mon, 05 Oct 2026 07:04:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Death toll from Thailand floods rises to 31, interior ministry says - Reuters",
+          "title": "India's IndiGo to hike fuel charges as global jet fuel costs rise - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWtvbUtNZEJsTldzQTkxUEVvN0dHS3BjOWJCRFlHUTQtcnE1STF0eE9iS2V1dlB2ZmxzcGpGVnRFZlN1ZjJpMmFLN1BhYW9SZy1KRjdYbjhQWHo1WndFUnRDbk0yZHVoRmc1UXY0a0xra0o4YnJoYTFIOTE3TVg3VDl0ZEtwTm1IeUFZM1NzZ2ZLVDMyQkxpY1lUNlllRHo1V3A1N2JlZG9kVWpm?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 06:51:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Death toll from Thailand floods rises to 31, interior ministry says - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeS01ZXR4LXpJRzJHOUEwdGFWal9FdGhHdmRETldJVjhZVF8xSDlIam9fTW5CdG1nWnhhMkJKMHhXUlR2VDlpMTFLbjQyQjNGT0s2YnBjTHpncDNrOE9pREpSV1pQUW5MZHc5QV9VeXc5ZDl4cUxWakFDbGlWeE1rZWxDLWVGd0VvS0k3cm85YkUzRXZxdlI4OWJ5QmI4WUZ1N2dZb0E5X0NOcnFUT2NtMXo3LTl3UQ?oc=5",
           "pubDate": "Mon, 05 Oct 2026 06:43:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Co-pilot planned flydubai attack before joining airline, two Israeli officials say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVzZzNy0yYzNKSGZpaEdpT0gxWkNPV05MN01vaDBlYzNUemFCSkFvdHRUOFVMMjVWNzJjbkNzdl9ZalpzZGpja2N0UmpwdUdSZzFmdldFcHN3UmFKTEpGWmNmWHBndi1qRGI5eEIzYXZlOFN1LWR4M0tXaG5ZTkJfMGdYUE9qV2lPVDFDdHRSV3BIeWtrMXEwdkJVSnV0Wk1vanlYWTV6Qm9sYlpBX2xHVGtuZ3QtR0hCX21KQW5DNW9IVUh5a2RnTVZhUWp3dw?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 06:38:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Spanish PM Sanchez gambles on November 29 snap election to end parliament deadlock - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVhBVGZVY0xzcUZLLWZFWDNlODhjb3ZtaFowYm5WTEs5b0E0NGZ2alExMUhyU0dkY0VjdllLSkY0dVItUjlqUDU1MEhfU1kzM3lORWpWUXBPek9aXzVvNmhZcS15R1JtRDJHUktOX1BvbzcxenZoSE9YYVBFRllZbk80NXJWeWlJVDgteGJfVFp2VTJuaWNNNHNFWHpobHlIWVdRV3ljTml5U1NCaWZwU2d1Y19QODRuS19IemtmMA?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 06:26:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Cost pressures and deadlock force Honda to rework India strategy, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW9nbGp5Y1JLcnlPR0JPTXBaNlNfaWxJWDhUU0llVEZiSkZydDNiQlVSanJDRWRJNlJRY20xZEhxWnJBNnl5clJPSHVaMmVNLUZnY2RtMTR4Z1EyN0NiU3lXT3BUcG9SaXJGSEx2YkN5Ml9SYUhHc1U1X1BJVFNtR1BfNnBZUkl4MGlscFJOUm5VVjRwOE53cElUVHlmQzl5R2RsY09yUzViVVVBa3UzTWQ3RDJqdG5YeEJwTVBTeHp5Zw?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 06:16:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T10:25:27.474Z"
+      "updatedAt": "2026-10-05T10:50:14.399Z"
     }
   ]
 }
