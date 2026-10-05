@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-10-05T12:38:38.125Z",
-  "lastChecked": "2026-10-05T12:38:38.125Z",
-  "lastUpdated": "2026-10-05T12:38:38.125Z",
-  "generatedAt": "2026-10-05T12:38:38.125Z",
+  "fetchedAt": "2026-10-05T12:50:15.433Z",
+  "lastChecked": "2026-10-05T12:50:15.433Z",
+  "lastUpdated": "2026-10-05T12:50:15.433Z",
+  "generatedAt": "2026-10-05T12:50:15.433Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-          "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 05 Oct 2026 12:29:45 GMT",
+          "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+          "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 05 Oct 2026 12:48:01 GMT",
           "source": "BBC News"
         },
         {
-          "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-          "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 05 Oct 2026 12:21:32 GMT",
+          "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+          "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 05 Oct 2026 12:29:45 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T12:38:36.932Z"
+      "updatedAt": "2026-10-05T12:50:14.134Z"
     },
     {
       "name": "NPR",
@@ -87,6 +87,12 @@
           "source": "NPR"
         },
         {
+          "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, ongoing investigation finds",
+          "link": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
+          "pubDate": "Mon, 05 Oct 2026 06:53:46 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
           "link": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
           "pubDate": "Mon, 05 Oct 2026 06:11:33 -0400",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections",
           "pubDate": "Mon, 05 Oct 2026 05:15:55 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Super El Niño is here. What's so super about it?",
-          "link": "https://www.npr.org/2026/10/05/nx-s1-5981261/super-el-nino-floods-droughts",
-          "pubDate": "Mon, 05 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T12:38:37.160Z"
+      "updatedAt": "2026-10-05T12:50:14.559Z"
     },
     {
       "name": "AP News",
@@ -133,6 +133,12 @@
           "title": "Takeaways from AP report on Iranian attack in Kuwait that killed 6 US soldiers and wounded dozens - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYktlQjExTTUzSGNqWldOdEI3MHZtcFo1MV9FRnJtVmJ0MVduWWFkWmlkVjNXeDNuX0U5TWxOWG42ZFg3eFp6YXNuRkpCSWdGWGsxa051TDEwVXBQN0JYYlpUZ1UyQlAwbmprclNDV3JmS29yNHB2YURpNmRzajhZd0xxZUFoanFLYTdtNktjTm1nYVJIeGhnWHRYakwySVFSbVEtM0V5bw?oc=5",
           "pubDate": "Mon, 05 Oct 2026 11:08:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Norway seeks temporary ban on smart glasses as privacy concerns rise - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdXJpcklrMDhGQ2cwa2kzWEdlZC12R29iYlpIUm03QWE5S1lQaUxSZTdVc1lsS0o1dHJENDVrODR1S0RYU0xzWWgtTFlvUVpuR0tpSnE2ejhnNHppU3A2M202MmxfZjFVVUd2NElYaWpQQnJkWmJiaU5pd1htRlcyMm9vbjNrcjB5?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 11:04:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,20 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0w0ZVR4U0toYjViellrallFRmhET1JQaDV3azRxcGpITmhFRFQwY0h5cjlQaC0zM01ZSURLMzdDRkxTLU8zRzVBZENHRnRuYmUwbE1VR19WbWdZdzZ5SGxVMWUtUTVjdEh3UlJycDhwZG5SSVQzX3ZaeVpfbjVJM3U4eEJiU0hfcmZXTFBNbVJsWkVjeWM3MHZWNWktVFlnQ0g1bGJKTQ?oc=5",
           "pubDate": "Mon, 05 Oct 2026 10:53:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Nobel medicine prize goes to 3 scientists for research into brain activity - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmJWS3hfcm0yUXVXX1dQLW1MNjhkNkhPLXVHWjc1M1RhRXJKT2hRVGlWZjV0LWtQdGtIc0hxeGFCclRMNlEwczVHTndqR21iSENZOHJtem8zeDZXQXVBenBvYWYxcVVvQmx0ck8weTV3dU16OHVyV25nX0tQUlRvdmhPZWJKX0p2aVFBajJhcHE?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 10:14:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T12:38:37.668Z"
+      "updatedAt": "2026-10-05T12:50:15.021Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "German and US scientists win Nobel medicine prize for work on light and brain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXo2cFZNQjV2OVJOVnRDUlIzR0VJazh3WWt0MXlQXzBkWXlPRG1RVzZtVWlvbmdZMXFBM08xQzR0ZVlVdGtYVm5Dd2ptcHVhZmp1RDFxQkkxUzV4V2FLWWtaNlRWY25MbDVJSGsxNlA0LUdfNkVBOXdDTUdrNDdSR2lNSHc2c2VBMW1iejZWZ0tNN1hiVjBTdC1xcWR1SnA0cTFlVVF0RFA1SGhLWHZzR0QwbWkzYWRiM2U5dmpHdnJ3UnJV?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 12:29:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Teenager has hand blown off during French school protests, official says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbTdmMDZtaFpMSUFOZWx6azB2X1RKLWJwVFJsQ3ZKU1ZpenBMdkI5VGZVOUNOdFUtaDRDY2JFOGhxclRLZXpaN3NkcWR1cTFTbV8ycHl5TTFSdG5kY3BrLWZ2NjNfWEhzQTRrZE1mRll3UlJuTm9aT25HNzRtZHQ3NmZMdlc3ZG1rM25DR2p0RWU1WUpENHgzbWdONTR3cHlCbGxuMldKZUpzV0ZpRU9wbERfT3RKRDdQdFlWX3BB?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 11:37:42 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "EXCLUSIVE: India markets regulator to partly reverse derivative settlement rules after pushback, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTNkZnRTSmgzdlNhUVVQUU4yV3J6S3E1Y1FtSEV1UHVkZW9VeldUbURyaXQ4MHplQWl3SlM5QlF0TXdPU3lwWmZSbDdJRXJGS29QNU9ib1lEMS05QUgzNVV2VFU0RUZzc216X2FKSDlzX2p5V3o4QnJLU3JpNEw5QjFKLXVBSXEyeUwtWXRlMDB3X0RRa3dTVWNyRmhqNFV6N1ZuSFBDNjVSM1RTaHVDUVhuWHE?oc=5",
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "German and US scientists win Nobel medicine prize for work on optogenetics - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXo2cFZNQjV2OVJOVnRDUlIzR0VJazh3WWt0MXlQXzBkWXlPRG1RVzZtVWlvbmdZMXFBM08xQzR0ZVlVdGtYVm5Dd2ptcHVhZmp1RDFxQkkxUzV4V2FLWWtaNlRWY25MbDVJSGsxNlA0LUdfNkVBOXdDTUdrNDdSR2lNSHc2c2VBMW1iejZWZ0tNN1hiVjBTdC1xcWR1SnA0cTFlVVF0RFA1SGhLWHZzR0QwbWkzYWRiM2U5dmpHdnJ3UnJV?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 10:22:47 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Trump's deportation push forces dozens of LGBT migrants onto hostile terrain - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaTRId3g5QWpPdm5aNWh6R29udDVWRjNOd0hmV0Y4OTg1ZXR6azZIWkhXdzAzRWN1NzRfOGtBX3BjUUY4S2JJcnlYa3BwdHVqcHg1NDhTVDZIVXBLOUl1U0JvUkJqcXRxc2tHSVUzU0YyNlNYTERHTDROeTEyNlVuWkZQbV8yR2pyTUdkX01CLV9DTnhvQ3pvMktqSWZjRGN1VjZldVRXQk9OdHA3bUw2QXFZNGtKbXRlMGhNcGFsUlFxMmM?oc=5",
           "pubDate": "Mon, 05 Oct 2026 10:13:11 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Brazil: Investor and analyst reactions to Bolsonaro lead over Lula in election - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRzdJUDhEcjRGdGtVNkNOdkpvTFhFcHdDMUkzc1QtaEk4bjVyMW52eEJZSVFtSWQ1NFhwSGp6MTBtZjVPV3VqNUpJbnJ6b0hmcXU3UTVVWUptQWQwS3d4VnZGOERBUWtIY1Zhcmt6cDRhRkRCVFlsd0t3c0owNjBBMUtfYWpVMzhhZW9zMGs2cTRMZTY0RWxCdWZheFFfSHgtTUJqeElRZUdveVI4Mmt2eklZT1p5YVYzMEE?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 10:06:03 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T12:38:38.125Z"
+      "updatedAt": "2026-10-05T12:50:15.433Z"
     }
   ]
 }
