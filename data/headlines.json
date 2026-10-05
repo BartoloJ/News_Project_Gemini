@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-10-05T11:00:17.981Z",
-  "lastChecked": "2026-10-05T11:00:17.981Z",
-  "lastUpdated": "2026-10-05T11:00:17.981Z",
-  "generatedAt": "2026-10-05T11:00:17.981Z",
+  "fetchedAt": "2026-10-05T11:25:14.681Z",
+  "lastChecked": "2026-10-05T11:25:14.681Z",
+  "lastUpdated": "2026-10-05T11:25:14.681Z",
+  "generatedAt": "2026-10-05T11:25:14.681Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "US air force removes all bombers from British military base RAF Fairford",
-          "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 05 Oct 2026 10:39:09 GMT",
+          "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
+          "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 05 Oct 2026 11:04:37 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
-          "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 05 Oct 2026 10:37:58 GMT",
+          "title": "US air force removes all bombers from British military base RAF Fairford",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 05 Oct 2026 10:39:09 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T11:00:16.941Z"
+      "updatedAt": "2026-10-05T11:25:13.670Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
+          "link": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+          "pubDate": "Mon, 05 Oct 2026 07:07:09 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
           "link": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
@@ -103,20 +109,26 @@
           "link": "https://www.npr.org/2026/10/05/nx-s1-5979044/sauna-heat-therapy-mental-health-depression",
           "pubDate": "Mon, 05 Oct 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Supreme Court's new term kicks off with blockbuster climate change case",
-          "link": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
-          "pubDate": "Mon, 05 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T11:00:17.102Z"
+      "updatedAt": "2026-10-05T11:25:13.852Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Exclusive: Soldiers and Gold Star families press Army leadership after deadly Iranian drone strike - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOby1QWHVEVk9TLTY0blhNNUliTksyeE5WX3pld3VJMllVYmlPVEhGMk8zTjBCNkNlc2l5d2JGa1FSaGRmNW9DTGlod1RGTUNYdGdWRTRhdUQ5Vkt0QXllMVZCc3VmWllSYWROaGs3Nm16cWd6OUpMUWxKTVRCc0loVmt5UGw0OUVjaTZHbnRFbDMwOVRYZVlqYXVzSTcwQQ?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 11:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Bolsonaro and Lula head to a runoff in Brazil’s presidential election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 10:57:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Spain’s prime minister calls early elections as pressure mounts over housing crisis - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYUJUb21rRnJmOXJKSnBLSXRwLTh5ZFlUWGk0c01pODBGb0lUUXJuRmIxOHRTMTdzRGxTcFBqYXFodGM4V2RRNmlrTk1OZHR4REpqQXgxQ1ZRVnowanpnUE1hbWxzc3E5NkYxUnExVzN0bl94ZUFvUks0LTFzLTk1QUpCbXRPa2hEVHhwa01ZeTNFMDZ2?oc=5",
@@ -130,15 +142,21 @@
           "source": "AP News"
         },
         {
+          "title": "Soldiers seriously wounded in Iranian drone strike tell AP the military's medical system failed them - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGRnY25hWktmek5WXzhzdjVfdTdvUW5fcFBiUXM3MWRhTVFiTF9nb1F3ZTlqaGRRWklOMmV2eWZwRm9fYmtwalBveG1SNGNwdHdBelZjWFIyZ3IxWFhjYm91VFdYdndPM3BualYwYXVIRmkyX3JIY3NpcS0zenNLQUpzaUx6SFM5RmFMVEZHcWlrNF9NQUFLMVhkekY1MS1Fem5nTEVPMVhDNFE?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 10:48:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Nobel medicine prize goes to 3 scientists for research into brain activity - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmJWS3hfcm0yUXVXX1dQLW1MNjhkNkhPLXVHWjc1M1RhRXJKT2hRVGlWZjV0LWtQdGtIc0hxeGFCclRMNlEwczVHTndqR21iSENZOHJtem8zeDZXQXVBenBvYWYxcVVvQmx0ck8weTV3dU16OHVyV25nX0tQUlRvdmhPZWJKX0p2aVFBajJhcHE?oc=5",
           "pubDate": "Mon, 05 Oct 2026 10:14:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "What to know about Spain's housing protests sparked by the eviction of an 87-year-old woman - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY05JdHdoeklqeTVqbU9DU0E5a2F2alRla0l0VUZuaXdnOTRESGZBTVhFellpbEdxQjM4QkFQdFd1Rm9hcVg1Y0dBdm13b3BidkQ4dDZWbUwyTnJPMlJMdHJoMzRHdU8zRHJIV3BlTkFaQnNIRmh3TWlmbFhDbnNlY1NHbzl4eUFFOUVrOTJSRElNQ2ZaTGhoNGVmTUxwYVJLZThWeEg5M0NGT1YwdWVRbA?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 09:31:00 GMT",
+          "title": "World shares advance and oil prices fall as worries over inflation ease - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeEtuQ0VBX01CSXdjRkpaTnRmUElnZFl0ZUlLdEo3YXR4NW9lcTBIRThlSmVEd3NNdGlfNkFfWkhVZnVNXzlaUU9uNFNSUEhJQXIyMWdHV1hhRWs3Vlh2QkdGMllMRkRqNEtuYWtocm9ObXBreUtMcjcyc090c0NCZDk0RkhaZHk3Q3JSRWJ3d1B4ZVJFUVFZWU90czdaR0k?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 08:56:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,32 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
           "pubDate": "Mon, 05 Oct 2026 07:04:55 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Bolsonaro and Lula head to a runoff in Brazil’s presidential election - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 06:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "On a remote Greek island, empty classrooms signal a crisis across Europe - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEJRalhPTENhcHlwalp3NkVTTlpSUUtmLXJoOG9ra1ZuNkhDWURoZU1FdHN5THlNc3lDQVZNOEJ3S1pZRUFJd0JlOUItMEo3LVRUVmwzZ2ZCN0pCRzJBTTY0TDBtM0hLaDExTkRUTURjWng5OGFTNHVVdVNRRUtjaWdtQ1RFbFp6a00xeWFJQ0hsaDRGMFQzUENaLUwtSnBwRDhWUA?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 06:30:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Indian border guards kill 2 on border with Pakistan, raising tensions - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVM5SlhONzBCcXJrbWV0dWxlVF94cnZJMHFsdi1sQUtraU9uM1VUaW1uUzFMSUNpZ2NfZU9lNllQU1lfYzRwOGlpVDRJaVNPUnN2cGlNU1NNSnhRSmNMM195YmhGV3hBR2RxY3JCOEN4QlA3akNvTnVINWNrbVk2SVhLUDkyVlplT3FEYnJjRUhMVUVwS3dlWlFpR19Bdw?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 05:58:11 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T11:00:17.562Z"
+      "updatedAt": "2026-10-05T11:25:14.283Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "German and US scientists win Nobel medicine prize for work on optogenetics - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXo2cFZNQjV2OVJOVnRDUlIzR0VJazh3WWt0MXlQXzBkWXlPRG1RVzZtVWlvbmdZMXFBM08xQzR0ZVlVdGtYVm5Dd2ptcHVhZmp1RDFxQkkxUzV4V2FLWWtaNlRWY25MbDVJSGsxNlA0LUdfNkVBOXdDTUdrNDdSR2lNSHc2c2VBMW1iejZWZ0tNN1hiVjBTdC1xcWR1SnA0cTFlVVF0RFA1SGhLWHZzR0QwbWkzYWRiM2U5dmpHdnJ3UnJV?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 10:22:47 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Hundreds of French schools stay closed ahead of nationwide day of student protests - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2hsMDFzX0Q1QTMzeEJpSHVybjh6OS1iWDN4OEVpM3RaNlRFY3FOUnRwTXdidExTVlprbzgyS09oc1FEck40bjhaWUEtdk1aYmZjZzZXQVp3U19KRjJmcWR2eHU0Q2xUcUN2d1RqWTJFaVQwSzNFS3Mxd2NjZy1JSG5FRk5GSndFekc3eWVHaWdlUDRvZzFrNWR3WFBCYmRzTkxZSU5TMnQ0Z1JoUDIyeHUyRVBZQQ?oc=5",
@@ -209,20 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Andrew Mountbatten-Windsor takes police to court over Epstein files arrest - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQmEzQlhVYmxMSmV4MURWMVlydmVLZXlHRm5KejdyYXNDT1pfUjQ2UFpkWEI4M1E4blRjdXBkcGJCQ2NfUWZPaG9Gc0szTlY3d21PM2JSNWlMMmFWb0JiNUZ6LVREbkJ5RE4xZ29mOXVjVmVLa0djdFg2SlN3RXVfeGFxbjA2UXFTMGNtcko2akFmN19jMTdVQ1BpT0cta3pzY3VNN24tbzlZSEhtV1R5NFBDZzBQM0k?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 07:55:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Goldman sees US data center growth intact despite opposition - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2ZTZDMzaGJJT2o2dGpLNE4xbzZXOFRJdzVVVm9OanBHT2tJdUhfOU1FWGdoNl9RRUpXa1pOWFo4QWJFbThDclBKTmlHVHFaQ3FFbUtHUW15bnNrRC1LTHNzcEE0djhsQmpkNUhjOENzWVdhLTZ0S3l5cUxoUHNlWHZJZlZXaEdsSmJxaEgwRFJjQ2tiRjkybE1IdFNnQzhHb09qR0ZnSFg?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 07:23:46 GMT",
+          "title": "COMMENTARY: EU risks becoming sick man of the world if it doesn’t reform quickly - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYS1VMGxXLVE0OWcxc2tGZWFhUXUyd2JIbjNsV3RFektCYXc3VmloX1FuS3dqOXNzbnNybjhwN1JtYm1vYWdfRWF1V2dMcHZ1NkxsWlpkVEFJV2pWNHZNaGRZZk14eGpIbk5wMWJ4eTNMd2xKS0hSNXp1SXlZRjl3MjFheWc2LTNaSFBBWnctZ09xaEF2U1BwbC1qa0NCQ2ZlM1RBT3M2RGw0elVybXpoV3pmakcyTlRXUWhjSmtXUE5jT3ZkNTh6aWNnQmFDNTB2cXVUWTVBV2lNUQ?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 08:08:28 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T11:00:17.981Z"
+      "updatedAt": "2026-10-05T11:25:14.681Z"
     }
   ]
 }
