@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-06T12:50:16.837Z",
-  "lastChecked": "2026-10-06T12:50:16.837Z",
-  "lastUpdated": "2026-10-06T12:50:16.837Z",
-  "generatedAt": "2026-10-06T12:50:16.837Z",
+  "fetchedAt": "2026-10-06T13:00:20.404Z",
+  "lastChecked": "2026-10-06T13:00:20.404Z",
+  "lastUpdated": "2026-10-06T13:00:20.404Z",
+  "generatedAt": "2026-10-06T13:00:20.404Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 06 Oct 2026 12:51:05 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Ship sinks and crew missing after Black Sea drone attack",
           "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 06 Oct 2026 10:13:02 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Former German spy chief arrested for espionage and treason",
           "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 06 Oct 2026 10:05:42 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T12:50:15.934Z"
+      "updatedAt": "2026-10-06T13:00:19.157Z"
     },
     {
       "name": "NPR",
@@ -87,14 +87,14 @@
           "source": "NPR"
         },
         {
-          "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
-          "link": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
+          "title": "What voters in 6 key states could tell us about the 2026 midterms",
+          "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
           "pubDate": "Tue, 06 Oct 2026 07:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "What voters in 6 key states could tell us about the 2026 midterms",
-          "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
+          "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
+          "link": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
           "pubDate": "Tue, 06 Oct 2026 07:00:00 -0400",
           "source": "NPR"
         },
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T12:50:15.982Z"
+      "updatedAt": "2026-10-06T13:00:19.363Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Keelon Russell accounts for 4 TDs as No. 7 Alabama routs No. 16 Mississippi State 56-23 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDVNWGZoOGFId2pVR0F5UmhrZ0FZLTI1YU5aclhoLWllVERqOG5kS0hsV1JtcWlLRWhFQXVObXZRelVjUi1jbExzRTV6VGhDWVNSM2N5UHVuRlpvNjVnT3BINEtVeUR6MHc2Q01aZnJER3dEVjB5bm5sVnhCSG0xQ1R1a2xqM0pYbUg2WnphN0NPZmhESndqSkozZk9CYzV2c1E?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 12:44:33 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Belgian-born scientist wins Nobel in physics for work on mysterious ghost particles called neutrinos - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmJnQWlBaEFuZTZWYXBFREx3WHdNaGk4b3FpRTFuc0Y3TmxfTXBaMl9GV0tTQVVHMkxwVlBwZm15WnBubnhEdUphVlc4cTVGUndzQVctUEVTWUNJTzE3VEhwdEtBZEtGVHl0YTlUOGItOVRhQWw4cjNQVFJkVGVRYlVsYWNZbFR0Rl9qcXgwYw?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 12:20:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "How Russia and the world are responding to a possible case of pneumonic plague after lab worker dies - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHd5LXpXdGhUNXZhbEdVWVhSa2FtSUp6Zk5Yekk4UEtlQ3FmOFk4SGh3RmZkSHJmbGJpNXFlMWRTZmd1Q0dlZXo4NGxyTzYxNVk3TEZQOGpwVWE1YlFCcmNFNU5EZE41LUQ4dGh6UXB6S2MxSmhLSTVHTFh1dkpFV2R4azFfZTlpMUFwa3Q3RGZ3alRfMVE?oc=5",
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaU5DemRLSkhTVjNkckR2UjdISjRuV05vRjh3OHNUOWhTOUpQeDluSnl4QktrUHlad0VBakVfNjUzSHhnUXZvYXd4N1dydU96anliOERsckxiVWJVRXEtZXVyWGhtOEdDczl4VW41YndjczVKM0l0RnY1dGFkLTFETW4tZXhTT1R3UXI4dFVtVkd4dVltNlNiREdVRlVmSWxyVnMxYlI3enZqWHpIQVFZ?oc=5",
           "pubDate": "Tue, 06 Oct 2026 10:40:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Russia warns NATO of a possible nuclear response if Kaliningrad is cut off - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmhpckFFcjdQUFp5dW1BOERQNHRUMDZjLXlqRzJ4YnhSaDU2dGdqdlVsOGo2eUF3UVMxdXpmUGVpY3FlcVlpN3BydnR3MjdFelR2b1lXWC03M0VGRHZiVEhRZFN5ZHkwUmhRajNXRlJualE2WmQwcWJsMmNIdm1zbjJEQW85Um53LThVbVo2X2wycGExY2h2bU5pNGM3ejhEbXl2ZUNUcjBSWDQ?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 08:09:48 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos of astrophysical origin - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmJnQWlBaEFuZTZWYXBFREx3WHdNaGk4b3FpRTFuc0Y3TmxfTXBaMl9GV0tTQVVHMkxwVlBwZm15WnBubnhEdUphVlc4cTVGUndzQVctUEVTWUNJTzE3VEhwdEtBZEtGVHl0YTlUOGItOVRhQWw4cjNQVFJkVGVRYlVsYWNZbFR0Rl9qcXgwYw?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 07:58:08 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T12:50:16.427Z"
+      "updatedAt": "2026-10-06T13:00:19.910Z"
     },
     {
       "name": "Reuters",
@@ -199,7 +199,7 @@
         {
           "title": "California officials blast Trump's comment to let Iran 'take out' Los Angeles and San Diego - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTY3RjZOMDVYS2VsdWNRS0ZWR0FoRTU1V1MtQk8wLWdEMmdvTXYwVUxORXFpQXNFM25wbU9uVFFKNnhMSmlYUkFEQ0xhNnNKMk5hTjZURGhtV3piTlhieVVhb3h4N3hCYmtTQUVZZUh5dkhPaERqT0hFWXdPQl8wYVNfemd6VkZqSXVEVHQ0Q2NzWWpQUlVjVUhpdHhDWnZUMWl4RUZKTVplVWp6c3prRDhGZw?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 11:43:28 GMT",
+          "pubDate": "Tue, 06 Oct 2026 11:51:20 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T12:50:16.837Z"
+      "updatedAt": "2026-10-06T13:00:20.404Z"
     }
   ]
 }
