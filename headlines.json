@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-06T13:50:17.403Z",
-  "lastChecked": "2026-10-06T13:50:17.403Z",
-  "lastUpdated": "2026-10-06T13:50:17.403Z",
-  "generatedAt": "2026-10-06T13:50:17.403Z",
+  "fetchedAt": "2026-10-06T14:00:20.227Z",
+  "lastChecked": "2026-10-06T14:00:20.227Z",
+  "lastUpdated": "2026-10-06T14:00:20.227Z",
+  "generatedAt": "2026-10-06T14:00:20.227Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T13:50:16.053Z"
+      "updatedAt": "2026-10-06T14:00:18.745Z"
     },
     {
       "name": "NPR",
@@ -87,14 +87,14 @@
           "source": "NPR"
         },
         {
-          "title": "What voters in 6 key states could tell us about the 2026 midterms",
-          "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
+          "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
+          "link": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
           "pubDate": "Tue, 06 Oct 2026 07:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
-          "link": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
+          "title": "What voters in 6 key states could tell us about the 2026 midterms",
+          "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
           "pubDate": "Tue, 06 Oct 2026 07:00:00 -0400",
           "source": "NPR"
         },
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T13:50:16.335Z"
+      "updatedAt": "2026-10-06T14:00:19.204Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T13:50:16.993Z"
+      "updatedAt": "2026-10-06T14:00:19.752Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Norway's biggest bank DNB to lay off around 400 staff amid AI-driven changes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQXBCbF9UVEN1Y2J5bHltSlVMOUs0UDJsU0ViU1FtUGN3MTVjNVRsR3JrZWhMZjZRbm02U2FMMGV6aHdjTndDSzlSRHRpUk1ORk12STQzQjJMOGN6SldqUnlWWmVzSUV6dEZlenE0UmkxSDVoeG5MNC0zZTZ3V0VpUDFKSDEtTHA2bmFvWFFjVjdxbnNJUTlvbkxLSjhZa2pxQmdITjZycTNWeExySmlNb3YxS1pGUFJDSkhRMDBCT2VEU0pHTlhVck85WQ?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 13:49:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Americans deeply skeptical of taxpayer-funded election ads, Reuters/Ipsos poll finds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSG5zQmlvX25UOGl1ZXlsZ0tCZlZvakNtV2hxa2tvRHVodU1WRDJBbV80SHFwSC1xNG8zdlFCM2VyWVhsSmZvUFMwSngyalhaYkVSLWhwSTN1ZVlob2NIMTMzdlFHdWUtY3ZhQmxfV1JJdlRvVUdDUk52VWlXYVREUlQ3dldEcEJQWHV2Y242ZlY1eUNQbUlVTFlSMU41RlA3TEpDY29aMTQ4TlZHZnAybEtHaXdPVTBUU3owc3R3?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 13:26:56 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Britain likely to expel Israeli diplomats if Jerusalem consulate closes, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzhlTWhiblhLTHplWEU5Y2hEc1dHVWhPSmpyZFMtYkY1R3c5YzJjT183Y18zNWNnRlNKZlh0RldweGp6V2E0TUpSemxmMHdjaG5ZVWF2anFBUlNwdXp5TUgwTldPZll5ZW8tRG9WMTFMY2wyQWhTeEZKS3BIN1oydS1hTDhlYWE0RlZ3QzUwaE5yMzZGb2lMWTc3blRNNnkyeDBOdzFYSEN0aEVwQ0tleUdMTV9PeDM2SDdlb3pPUi1aWE0?oc=5",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVFRUV6ZzZmeXFiN3NIWmZwUTBGWTR3ZUx1UUhjLWRLMC0wZThtLW00a1FYNjloa3BiSTFveFdZZFkxWnd5d283Qi04MnU1UC1IUl9KdlBkX2o2X3JpQ0pUZVRZQzJ3Uk1fRzR5VnJIdGhwVGI3Q0JWc2RWOGtBZTZzek4tcWQxRTAxZnB3eWJyV2gzY2FlNjdYVk95b2lQX2UtLVNWandvMDA?oc=5",
           "pubDate": "Tue, 06 Oct 2026 13:00:42 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Police fire teargas at French protesters on biggest day of school demonstrations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmtvTm9vbkpQcVdlWl9Lall5TlIyS1g2aWpJSEh3Z0hKbzdOYmZkRUlNWVRHMkZsOFNaMkwyNjhpVEtfQW9vUjhnTV93VlRGOXVnOUg1M0loSmk1bzF2dFJldExORU9tYTdabmQtTWNMOHkxbWhLZUR4bElDYUp5bWN2RmV2bVhVYVB3WW1KLXJaRVREdVQ1WXpuMUJtUXFk?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 12:59:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Former German spy chief arrested on suspicion of attempted treason, obtaining state secrets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObU8wUVdxRFgxQzZyTGZXbHhIOEhBTHAzR2luYTFzZDkyXzhLV21OZHhtYWFFd1c4TDFTZzFURFc1SzRPRFA2NlJaYm1VbFFNMU4yT2t1NHRBYW8zZmFXVW52clZJbWJVeVZfVHlfYVk4N2hRUnRxcHN3SFhFSHBPOHBIaVRGRkdaZWd2QnpNQ21QSU0tV3FhQlg1Z2tzZzM5MTRWazcwS211bTJrM3k0N0M3MkJLNmFZczE2RkhkaVkxOEhP?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 12:54:40 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T13:50:17.402Z"
+      "updatedAt": "2026-10-06T14:00:20.226Z"
     }
   ]
 }
