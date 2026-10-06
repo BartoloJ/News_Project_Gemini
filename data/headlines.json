@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-06T00:50:20.828Z",
-  "lastChecked": "2026-10-06T00:50:20.828Z",
-  "lastUpdated": "2026-10-06T00:50:20.828Z",
-  "generatedAt": "2026-10-06T00:50:20.828Z",
+  "fetchedAt": "2026-10-06T01:00:35.631Z",
+  "lastChecked": "2026-10-06T01:00:35.631Z",
+  "lastUpdated": "2026-10-06T01:00:35.631Z",
+  "generatedAt": "2026-10-06T01:00:35.631Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Yemeni military says it has 'secured' Red Sea waterway",
+          "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 06 Oct 2026 00:51:43 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
           "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
@@ -38,12 +44,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
-          "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 05 Oct 2026 17:49:59 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
           "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 05 Oct 2026 16:13:21 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T00:50:20.192Z"
+      "updatedAt": "2026-10-06T01:00:18.740Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T00:50:20.234Z"
+      "updatedAt": "2026-10-06T01:00:18.929Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-06T00:50:20.793Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-06T00:50:20.828Z"
     }
   ]
