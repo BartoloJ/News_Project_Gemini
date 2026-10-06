@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-06T03:50:15.164Z",
-  "lastChecked": "2026-10-06T03:50:15.164Z",
-  "lastUpdated": "2026-10-06T03:50:15.164Z",
-  "generatedAt": "2026-10-06T03:50:15.164Z",
+  "fetchedAt": "2026-10-06T04:00:23.830Z",
+  "lastChecked": "2026-10-06T04:00:23.830Z",
+  "lastUpdated": "2026-10-06T04:00:23.830Z",
+  "generatedAt": "2026-10-06T04:00:23.830Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Yemeni military says it has 'secured' Red Sea waterway",
+          "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 06 Oct 2026 03:53:45 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
           "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Yemeni military says it has 'secured' Red Sea waterway",
-          "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 06 Oct 2026 01:05:00 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "A simple guide to the US midterms",
           "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 05 Oct 2026 23:40:58 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T03:50:14.196Z"
+      "updatedAt": "2026-10-06T04:00:22.802Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T03:50:14.293Z"
+      "updatedAt": "2026-10-06T04:00:22.991Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T03:50:14.776Z"
+      "updatedAt": "2026-10-06T04:00:23.439Z"
     },
     {
       "name": "Reuters",
@@ -182,6 +182,12 @@
           "title": "Euro faces political, fiscal reckoning as it hovers near 17-month low - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnpLWGdYR3FxRDFJMFVCN1NDalZucm9sOHhNeWVSSzFTNEJhUi0tQWg3NjY1VS1XbGVsMlpGNFVOQkZ0OUNEWjNCclhwLUhrQUNhaElCQWhPeDZ5Q0cwQzUzSW5EWnAwSkF3R25FVGYwR2RRZnNfYzhfNlUtbnRKN3lMNDBKREhONjFpcjlSbHFuNkJMaG9JNWlOdDVKMEVNbUlLc3o5WmNjaXJRWHhB?oc=5",
           "pubDate": "Tue, 06 Oct 2026 01:14:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US judge blocks Trump policy of fining migrants up to $1.8 million - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaldRTnlfOVRWeDRjSmhBek5qMUt3cUZmblJ0a2lNd1kwQlJsX3VnMkxYTXljeFB6SkYwTDVmb1BYeE5fSHY4d1h0OFNUXzBhdjFDX1gyb25EekVuUnNaZjZ5UHJmNVRXTmx4elhsT2Y2YVRENm9wY1BtWXlCd18zQjVmbG85aEllZExMZjR1LUZJNm1CTDR3Tk1EY0doc1UxR1lKcnRkUVNaSlRodV81aw?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 00:59:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLS16aG50Mmp4S0ozRHFHa3pleVhBRVdoSkxCd3dIYUk0eFQyVFJkY1NfY0FSeXEya1JMcXp1RldkR2hDY1NfYXNSRFRtUDRneklaRzhVSndhel9wU3B1dXV3LVhRbDlBMGt3OFFQRElyTUpaWjZyRkpubTJtaFNwdW5Yc3hoSW5Pak1BaW9pSlRKbDEtR1VCak5yckR4QjNSQXJv?oc=5",
           "pubDate": "Tue, 06 Oct 2026 00:10:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Qualcomm and Arm kick off trial, potential for huge damages in focus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1VVb0RTQ1NhSkFHMXd2RENIQ0xsSjVyTkFKYlVSUmRrOXdCRjVwR0psNEdzdjdEa1Y2bkNDcW9WUkIxampaT3JFSm9NaWJBcXF0ZkFsOUtjcjRfWmNZOU8zaXBQWDdlS2U3c1FyQklSM2NVN3N5Z1BxMjRJVjczcGE3MzdjbmtIMWk1S0s5aXE1c0xrVm5wN2FpY25laTlvSGhsbHdRM1FvODB5ZW52YjZtcjgzM3pj?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 23:58:35 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T03:50:15.164Z"
+      "updatedAt": "2026-10-06T04:00:23.830Z"
     }
   ]
 }
