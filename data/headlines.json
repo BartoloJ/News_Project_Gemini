@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-06T13:00:20.404Z",
-  "lastChecked": "2026-10-06T13:00:20.404Z",
-  "lastUpdated": "2026-10-06T13:00:20.404Z",
-  "generatedAt": "2026-10-06T13:00:20.404Z",
+  "fetchedAt": "2026-10-06T13:25:12.644Z",
+  "lastChecked": "2026-10-06T13:25:12.644Z",
+  "lastUpdated": "2026-10-06T13:25:12.644Z",
+  "generatedAt": "2026-10-06T13:25:12.644Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Kenya confirms its first Ebola death as outbreak spreads",
+          "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 06 Oct 2026 13:10:42 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Ship sinks and crew missing after Black Sea drone attack",
           "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 06 Oct 2026 11:53:21 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Kenya confirms its first Ebola death as outbreak spreads",
-          "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 06 Oct 2026 11:51:26 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T13:00:19.157Z"
+      "updatedAt": "2026-10-06T13:25:11.392Z"
     },
     {
       "name": "NPR",
@@ -87,14 +87,14 @@
           "source": "NPR"
         },
         {
-          "title": "What voters in 6 key states could tell us about the 2026 midterms",
-          "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
+          "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
+          "link": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
           "pubDate": "Tue, 06 Oct 2026 07:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
-          "link": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
+          "title": "What voters in 6 key states could tell us about the 2026 midterms",
+          "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
           "pubDate": "Tue, 06 Oct 2026 07:00:00 -0400",
           "source": "NPR"
         },
@@ -112,27 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T13:00:19.363Z"
+      "updatedAt": "2026-10-06T13:25:11.720Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Keelon Russell accounts for 4 TDs as No. 7 Alabama routs No. 16 Mississippi State 56-23 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDVNWGZoOGFId2pVR0F5UmhrZ0FZLTI1YU5aclhoLWllVERqOG5kS0hsV1JtcWlLRWhFQXVObXZRelVjUi1jbExzRTV6VGhDWVNSM2N5UHVuRlpvNjVnT3BINEtVeUR6MHc2Q01aZnJER3dEVjB5bm5sVnhCSG0xQ1R1a2xqM0pYbUg2WnphN0NPZmhESndqSkozZk9CYzV2c1E?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 12:44:33 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Belgian-born scientist wins Nobel in physics for work on mysterious ghost particles called neutrinos - AP News",
+          "title": "Scientist who hunts mysterious ghost particles in the Antarctic ice wins Nobel Prize for physics - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmJnQWlBaEFuZTZWYXBFREx3WHdNaGk4b3FpRTFuc0Y3TmxfTXBaMl9GV0tTQVVHMkxwVlBwZm15WnBubnhEdUphVlc4cTVGUndzQVctUEVTWUNJTzE3VEhwdEtBZEtGVHl0YTlUOGItOVRhQWw4cjNQVFJkVGVRYlVsYWNZbFR0Rl9qcXgwYw?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 12:20:00 GMT",
+          "pubDate": "Tue, 06 Oct 2026 13:05:00 GMT",
           "source": "AP News"
         },
         {
           "title": "How Russia and the world are responding to a possible case of pneumonic plague after lab worker dies - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHd5LXpXdGhUNXZhbEdVWVhSa2FtSUp6Zk5Yekk4UEtlQ3FmOFk4SGh3RmZkSHJmbGJpNXFlMWRTZmd1Q0dlZXo4NGxyTzYxNVk3TEZQOGpwVWE1YlFCcmNFNU5EZE41LUQ4dGh6UXB6S2MxSmhLSTVHTFh1dkpFV2R4azFfZTlpMUFwa3Q3RGZ3alRfMVE?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 12:19:44 GMT",
+          "pubDate": "Tue, 06 Oct 2026 12:16:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,65 +158,71 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaU5DemRLSkhTVjNkckR2UjdISjRuV05vRjh3OHNUOWhTOUpQeDluSnl4QktrUHlad0VBakVfNjUzSHhnUXZvYXd4N1dydU96anliOERsckxiVWJVRXEtZXVyWGhtOEdDczl4VW41YndjczVKM0l0RnY1dGFkLTFETW4tZXhTT1R3UXI4dFVtVkd4dVltNlNiREdVRlVmSWxyVnMxYlI3enZqWHpIQVFZ?oc=5",
           "pubDate": "Tue, 06 Oct 2026 10:40:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "A crowd of students protest Cornell’s response to gang rape complaint - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTERaX2dFS1lBNmdENkozTU05UTVKTGx1U3ZubWppbDBuSzEyckJ4NHV2OWNMU2NuMktNNGh3enpBRkptU1lLbFlXZTJZWTd3elVxcnljazFWSm9XeUNIVm13cElYRzExTlNLZlZGdmFYeTlRWndaWnQtcUl6dmxTSGY3UnRuZ1lVT3c2NW50WkF1dlIzdXhSWmQ5WFRNQQ?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 07:53:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T13:00:19.910Z"
+      "updatedAt": "2026-10-06T13:25:12.242Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Hungary to open Communist-era informer files in reckoning with Cold War past - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdEFPeDRfbnBwcW04aVlWbEVyR09YN3BfQzl1ZDhjcU8wRzdpUUc5X3FVMlZVVFZqM3lYemc2MHBlT1VzdGpjTkNieVdJWkdwZlg5clNrWjExck93SktBSC1lMGtxcmNKMk03QnFrVklJYmp1MXJwek9ZcVZXdGJPeDB3SzB6MkhobFNPSloyaC1tckttT0pFcThTaEJEMXdDQUtyOXhPR2tNdEwzTW5YMUZjeUtkYUttOWVydDR4NzBkUjZoS2ZnRA?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 12:08:35 GMT",
+          "title": "Oil slips as Mideast exports, G7 stockpile ease supply concerns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2pUdllqZ01ILVZhYUF3SUxMbElJVnBReFhYeE8tUXVUYlVmMVE3WkVTWjJnVTBVMEg5M2Npd0lOM1BHTGVmaVFEbEtGZ2JmVUd4WWhFUzAwdU1zOTNGVFZNaWhORU1KTlN1M0llbXlTemtiVDd2a1pEeVQ0aDRYSW5rX0xYam10ek5xVTctY1dwZW1qUlRNOHZDeUFjWl91cXR5NVRQQ0ZXT1BBcnNjV0pXYWtIbVlHbmRTanpNaUszT1Rx?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 13:10:22 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Spain approves housing decrees that triggered snap election - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPczBxRzRITXd3YlBwbXZhcTczekIzYjE2MTE0ZWh2dk8zMGFaZ1BxYTIyXzRkSWlIdDVLX0FoemZ6OU9qNkNua1BoRE4xUFk3WVltTWpqSnZlM2FvWVhFRS1SbzlvNWhPd1BmTDJzT0k3NGNsdmpua29pRkVfY0VweDV1R3FMZE1wNXRzVVk4Z2hNajNMT1hCX2w5SE5NUVpRcTVUVVBLa0hZTTFyeVRHeGY0V3BwOEE?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 12:06:54 GMT",
+          "title": "France's Mistral announces new AI model - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVFRUV6ZzZmeXFiN3NIWmZwUTBGWTR3ZUx1UUhjLWRLMC0wZThtLW00a1FYNjloa3BiSTFveFdZZFkxWnd5d283Qi04MnU1UC1IUl9KdlBkX2o2X3JpQ0pUZVRZQzJ3Uk1fRzR5VnJIdGhwVGI3Q0JWc2RWOGtBZTZzek4tcWQxRTAxZnB3eWJyV2gzY2FlNjdYVk95b2lQX2UtLVNWandvMDA?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 13:00:42 GMT",
           "source": "Reuters"
         },
         {
           "title": "Former German spy chief arrested on suspicion of attempted treason, obtaining state secrets - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObU8wUVdxRFgxQzZyTGZXbHhIOEhBTHAzR2luYTFzZDkyXzhLV21OZHhtYWFFd1c4TDFTZzFURFc1SzRPRFA2NlJaYm1VbFFNMU4yT2t1NHRBYW8zZmFXVW52clZJbWJVeVZfVHlfYVk4N2hRUnRxcHN3SFhFSHBPOHBIaVRGRkdaZWd2QnpNQ21QSU0tV3FhQlg1Z2tzZzM5MTRWazcwS211bTJrM3k0N0M3MkJLNmFZczE2RkhkaVkxOEhP?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 12:01:59 GMT",
+          "pubDate": "Tue, 06 Oct 2026 12:54:40 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia says no plague cases detected among contacts of deceased lab worker - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMWZZWVdFaGFMQnJxN3F5OUVrekJPTXAtajVzazBrMnJSejlwMWFNdVRmdExVUXE0WWNjOXJPcmlJVXBTVXhYNHM0RDVTa3ZqU1pnUlNPcXJTdk1tMFVIdU5OM3IyNG9scm85cnoxZ2stcElVaEljMGFfZ0R6TUhoZkE5VF85MlVUNjRPTVdEbmRHYkFLUldMMFNUMXozOXJQb0Q4QzNoSjdpMXNoVDducTVKWG1tQ2p6VmVaQnNBRkZYZ1lEeXNlWWhHV3dsUnBrSUJJYTFJZGl5NjlHc1h3?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 11:51:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "California officials blast Trump's comment to let Iran 'take out' Los Angeles and San Diego - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTY3RjZOMDVYS2VsdWNRS0ZWR0FoRTU1V1MtQk8wLWdEMmdvTXYwVUxORXFpQXNFM25wbU9uVFFKNnhMSmlYUkFEQ0xhNnNKMk5hTjZURGhtV3piTlhieVVhb3h4N3hCYmtTQUVZZUh5dkhPaERqT0hFWXdPQl8wYVNfemd6VkZqSXVEVHQ0Q2NzWWpQUlVjVUhpdHhDWnZUMWl4RUZKTVplVWp6c3prRDhGZw?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 11:51:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Kenya confirms first Ebola case imported from Congo - Reuters",
+          "title": "Kenya confirms first Ebola case imported from Congo after man dies in Nairobi - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWlJLbDdiRHg5YS1UZEJ1anM5UjA4S25hS0hNSnRWNHNvb2xnaGVxYkpBVWhSVC1Pdm9vZ3ltbzJsY2RwV0xYSjQ3TGRhT3hOSkxLTElLSUxqV3QxOHpzOVJPNlhyWFIwYzI4RnlkODBWU0hZR3BWMmhNdkpfZGxYVzN0Z05RcUhnYTFQdldFTFV4SzhYaTk3UDBYY1hkdHJLRHIta1JYc2g1NVhzbkxENU9SZ3RJaDVLWFh4cklWYXhLa1l1SmdtdUxCc2pKQlhz?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 11:26:59 GMT",
+          "pubDate": "Tue, 06 Oct 2026 12:49:39 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia tells WHO there are no plague cases in Siberian city - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTHR1TVUzX1lUNHNDUEJkaGJyUEFVU09YZ3pud2ZIb1lMUXdzWkFJR2I3UjRPSEtrSDF4REdpblRUMlFsMW9RVjY4QWw0SVVxMnQ0bnRWSWJFV2N6ZWJDT0pVZHhmSWZoRDBsSEtNN1piOGVjWjJ4T19UMk0wNEVrUXpSanZ1UWZRLWQtZ29xM3dvc0JERjQ5aXpYN29JSTR5VjczbmZSSW1QVzc2R1J0Z1QwSmpFZVhidVFLZnZZSFQtRDExcU14SE1lSnNBeXpxc2RTanhDZGR5d1V1bWc?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 11:25:56 GMT",
+          "title": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3FqSTVKTlVKYjhpTElEZG96U0k0V2hxWGFYNXk5emE4XzN2Ukpyb0dSakdPLWxoVnMzUE9uV3dmb3ZxM2x4ZE9ZNllUYjdKMElxdGFjSDdLYkVwdmY5R0FoQ3hEVDY0R2dySWdkNUhSUzNLZXg1QklURkQwY2RrUElRVWNUaFFhbC1HSXUxQ0Z5bERVYUdwLV9ZeHJ1X1YwY2tJM0ZhTm9WUFNoQXN6Y2FPYkxCUldRb0ZwNFNmUkNNaHJNSHhpc0lFaVVuS1l1cmdyUA?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 12:48:25 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Chinese independent refiners boost Iraqi oil purchases as Iranian flows fall, traders say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVpJd0hveEZLT295UHBsdlFzX0U5MnRpMHVrcGZYMXZmSzMzeXlfMGd3TmRBdlNwYl9lWW1EeDNWVy1ZRGppc21oSElzWG9ONVpRWjhHS1NERTFkczJTMlhWQVlVVEQyM0RKRkZTVDNHQ3lsRXBJbUs5ZmE3VHYxU1hPb09TUlR3Y1g5T3FLVWJnWEJLR2VPOFR5VFVhZi1saF9kMTNlQ2RVM0NETUthX1hBaHNHOXM2RDh5TmhaY2hwZ2s?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 11:23:43 GMT",
+          "title": "Le Pen eyes bond markets with promise of bigger spending cuts if far right wins presidency - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmlfdHVPODBnTWJnYUs2UWZ6QjU2aHRvSHRJaFFyU1dxTnFNWmdiZTQtSmZ6NXJKSm5yWmxCRjZkTXM5a2EwNDAyR1FHT0ZWMU1DdjRHMkZmekNaQ1FETFJpd3ZGb2d2YmtXZE5sR0VjNFVGZkRCWkpnTjNsRWNlbmltVjFGZldBUmJWQXhmNzFkSXhXdUVadE12RTZ2M2R4NjNGZHl6MjhFTkdZOGpMRU81aHhRSjd6c0VobWZtQQ?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 12:41:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ohio early voting begins with US Congress control on the line - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3NBVWtIOEhDaDlKenA1S0x2NUh3dDFfa1c5REw3OThWbjVzQnpwWVhQd09nYnBJU2dwMFJfZWxhcU1nb1JTR1JETm85R1lRV0RVZEViRmR0UGZJdmpSQUdNLXZhTWRleFRaMndmX283c29UY3FvZE9KSVBsRVM0ZW5rMXZYam9FeklWUTZoU3FKQ2pDcFBzc21LVFF6QndO?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 12:29:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Spain approves housing decrees that triggered snap election - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPczBxRzRITXd3YlBwbXZhcTczekIzYjE2MTE0ZWh2dk8zMGFaZ1BxYTIyXzRkSWlIdDVLX0FoemZ6OU9qNkNua1BoRE4xUFk3WVltTWpqSnZlM2FvWVhFRS1SbzlvNWhPd1BmTDJzT0k3NGNsdmpua29pRkVfY0VweDV1R3FMZE1wNXRzVVk4Z2hNajNMT1hCX2w5SE5NUVpRcTVUVVBLa0hZTTFyeVRHeGY0V3BwOEE?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 12:26:10 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T13:00:20.404Z"
+      "updatedAt": "2026-10-06T13:25:12.644Z"
     }
   ]
 }
