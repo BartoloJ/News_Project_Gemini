@@ -1,14 +1,14 @@
 {
-  "fetchedAt": "2026-10-06T14:00:20.227Z",
-  "lastChecked": "2026-10-06T14:00:20.227Z",
-  "lastUpdated": "2026-10-06T14:00:20.227Z",
-  "generatedAt": "2026-10-06T14:00:20.227Z",
+  "fetchedAt": "2026-10-06T14:25:15.337Z",
+  "lastChecked": "2026-10-06T14:25:15.337Z",
+  "lastUpdated": "2026-10-06T14:25:15.337Z",
+  "generatedAt": "2026-10-06T14:25:15.337Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Defence lawyer in Cornell University case calls for special prosecutor to be removed",
+          "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
           "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 06 Oct 2026 13:36:46 GMT",
           "source": "BBC News"
@@ -17,6 +17,12 @@
           "title": "Russia responds to US help offer after death of plague researcher",
           "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 06 Oct 2026 13:32:42 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
+          "link": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 06 Oct 2026 13:31:56 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 06 Oct 2026 11:42:52 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'Ghost particles' from space telescope wins physics Nobel",
-          "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 06 Oct 2026 11:24:19 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T14:00:18.745Z"
+      "updatedAt": "2026-10-06T14:25:14.120Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T14:00:19.204Z"
+      "updatedAt": "2026-10-06T14:25:14.208Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXNEMzJ4RGJyN0o2cUcxSE9ySl9tRWVQcXZtVXVGZGxGRVBLbHA2Q3BoUDducTJWLVNyckNLWnNtOWxwWFA4R2FrLTBiZUJsQy1OZm9tdUdlQm9KNEgxMFZxalhqemZBOXRycXhBdXlDUXBTRXlncnd0OHMwRTlWTmRadG9aVlMwMnhPY1hteVZIZGVDWFhXc3l4aF83bHJKb0JiTnkxdlc?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 13:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Paramount and Warner Bros to become one Hollywood giant: Skydance. Here's how we got here - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFA1Sm43WnNqUXFFUzdqVm5yZVF3d205aGJ5ZWVRTHNXNTJfZmZBSTlROTMwZUZjUTJJZlEwS2hWX3p5WTBqUFUzWmtudzFBSGlHRHRZdkhIMVIxMnRwV3ZwTkQybDdZcGRGcFdDdm9YaDV5eXY5al9xNHBIZjZMc01MTVRnNjdKVHN4dUxwY1pJUUdWcTlhYkNyc3dUd3Z2bS1tTEpvNks?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 13:07:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Scientist who hunts mysterious ghost particles in the Antarctic ice wins Nobel Prize for physics - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmJnQWlBaEFuZTZWYXBFREx3WHdNaGk4b3FpRTFuc0Y3TmxfTXBaMl9GV0tTQVVHMkxwVlBwZm15WnBubnhEdUphVlc4cTVGUndzQVctUEVTWUNJTzE3VEhwdEtBZEtGVHl0YTlUOGItOVRhQWw4cjNQVFJkVGVRYlVsYWNZbFR0Rl9qcXgwYw?oc=5",
@@ -152,26 +164,44 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTlQZEY1VXJCcWNMcWdqVzEwdUZkSGhTem9hUkpYdkwwaFIyVFl6UGt5N3JPVmh3Y1VPc2pOSnJOOFRFUjJySUFKQ3VPeTVObU51c2c0akp2NWtHbW5fRzJVQ3UyR3d3ZHdOUVFKeGlwMFpOU240eXJEaVE0bndBLTdGR3Zqa0VZenBXdjYxRmhVR0QzMUtHRFp2TQ?oc=5",
           "pubDate": "Tue, 06 Oct 2026 10:47:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Bulgarian PM says drone attack on 2 commercial vessels is 'blatant violation of international law' - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaU5DemRLSkhTVjNkckR2UjdISjRuV05vRjh3OHNUOWhTOUpQeDluSnl4QktrUHlad0VBakVfNjUzSHhnUXZvYXd4N1dydU96anliOERsckxiVWJVRXEtZXVyWGhtOEdDczl4VW41YndjczVKM0l0RnY1dGFkLTFETW4tZXhTT1R3UXI4dFVtVkd4dVltNlNiREdVRlVmSWxyVnMxYlI3enZqWHpIQVFZ?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 10:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Much of the world sees tragedy in Gaza. Many Israelis, scarred by Oct. 7, see only a threat - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVUZZRTQ5Z3FfeXh5bXZwYk9WdG56eHp1cS1RYnR4M0JicU83Q3FwWlNuVzJEakhiQ2lsT3hlX0tVb0pibEk2ZnBkaERubnpCNFowb21XV1BBenVqVG56Q2hIQzVHaHRFS0dpVnpkUjI5OGlwUW1OVjh2YlNUQ3ExN01VXzFpN0NTRGxyR0gwTlBBbTBfbG5JeERoSnk3VG1fNlE?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 09:58:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T14:00:19.752Z"
+      "updatedAt": "2026-10-06T14:25:14.839Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "German bank board member to leave despite clean brothel loan probe - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXk1cjRLUTk3Z1JXbTFiVndpZzlfdFRLb1lmUV9YWC1INHZpbDRycnhTYk45YU44UVFQa2szeFQ0ZmtMZElJSHlnMVNrNVctYWRCZ1p1d2stWjVBcFU5QVhBNDZabzlPbEhta2s0TGlrTlB3VTktRGZyaWlGUEVSMkdEbEtnZHhTNm0zTUlBeDQzWlU2VGg5amlkZWpJUk5BSkt0MGhyQXdCUWpWRFNnYzh5bmpadw?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 14:09:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Police fire teargas at French protesters on biggest day of school demonstrations - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmtvTm9vbkpQcVdlWl9Lall5TlIyS1g2aWpJSEh3Z0hKbzdOYmZkRUlNWVRHMkZsOFNaMkwyNjhpVEtfQW9vUjhnTV93VlRGOXVnOUg1M0loSmk1bzF2dFJldExORU9tYTdabmQtTWNMOHkxbWhLZUR4bElDYUp5bWN2RmV2bVhVYVB3WW1KLXJaRVREdVQ1WXpuMUJtUXFk?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 14:03:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "S&P 500, Nasdaq touch new peaks as Treasury yields cool, oil slips - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 14:01:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hungary to open Communist-era informer files in reckoning with Cold War past - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdEFPeDRfbnBwcW04aVlWbEVyR09YN3BfQzl1ZDhjcU8wRzdpUUc5X3FVMlZVVFZqM3lYemc2MHBlT1VzdGpjTkNieVdJWkdwZlg5clNrWjExck93SktBSC1lMGtxcmNKMk03QnFrVklJYmp1MXJwek9ZcVZXdGJPeDB3SzB6MkhobFNPSloyaC1tckttT0pFcThTaEJEMXdDQUtyOXhPR2tNdEwzTW5YMUZjeUtkYUttOWVydDR4NzBkUjZoS2ZnRA?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 13:59:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "No plague cases detected in Siberia, Russia says, and locals play down scare - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMWZZWVdFaGFMQnJxN3F5OUVrekJPTXAtajVzazBrMnJSejlwMWFNdVRmdExVUXE0WWNjOXJPcmlJVXBTVXhYNHM0RDVTa3ZqU1pnUlNPcXJTdk1tMFVIdU5OM3IyNG9scm85cnoxZ2stcElVaEljMGFfZ0R6TUhoZkE5VF85MlVUNjRPTVdEbmRHYkFLUldMMFNUMXozOXJQb0Q4QzNoSjdpMXNoVDducTVKWG1tQ2p6VmVaQnNBRkZYZ1lEeXNlWWhHV3dsUnBrSUJJYTFJZGl5NjlHc1h3?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 13:56:14 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Norway's biggest bank DNB to lay off around 400 staff amid AI-driven changes - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQXBCbF9UVEN1Y2J5bHltSlVMOUs0UDJsU0ViU1FtUGN3MTVjNVRsR3JrZWhMZjZRbm02U2FMMGV6aHdjTndDSzlSRHRpUk1ORk12STQzQjJMOGN6SldqUnlWWmVzSUV6dEZlenE0UmkxSDVoeG5MNC0zZTZ3V0VpUDFKSDEtTHA2bmFvWFFjVjdxbnNJUTlvbkxLSjhZa2pxQmdITjZycTNWeExySmlNb3YxS1pGUFJDSkhRMDBCT2VEU0pHTlhVck85WQ?oc=5",
@@ -179,50 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "Americans deeply skeptical of taxpayer-funded election ads, Reuters/Ipsos poll finds - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSG5zQmlvX25UOGl1ZXlsZ0tCZlZvakNtV2hxa2tvRHVodU1WRDJBbV80SHFwSC1xNG8zdlFCM2VyWVhsSmZvUFMwSngyalhaYkVSLWhwSTN1ZVlob2NIMTMzdlFHdWUtY3ZhQmxfV1JJdlRvVUdDUk52VWlXYVREUlQ3dldEcEJQWHV2Y242ZlY1eUNQbUlVTFlSMU41RlA3TEpDY29aMTQ4TlZHZnAybEtHaXdPVTBUU3owc3R3?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 13:26:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Britain likely to expel Israeli diplomats if Jerusalem consulate closes, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzhlTWhiblhLTHplWEU5Y2hEc1dHVWhPSmpyZFMtYkY1R3c5YzJjT183Y18zNWNnRlNKZlh0RldweGp6V2E0TUpSemxmMHdjaG5ZVWF2anFBUlNwdXp5TUgwTldPZll5ZW8tRG9WMTFMY2wyQWhTeEZKS3BIN1oydS1hTDhlYWE0RlZ3QzUwaE5yMzZGb2lMWTc3blRNNnkyeDBOdzFYSEN0aEVwQ0tleUdMTV9PeDM2SDdlb3pPUi1aWE0?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 13:16:36 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russia says no plague cases detected among contacts of deceased lab worker - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMWZZWVdFaGFMQnJxN3F5OUVrekJPTXAtajVzazBrMnJSejlwMWFNdVRmdExVUXE0WWNjOXJPcmlJVXBTVXhYNHM0RDVTa3ZqU1pnUlNPcXJTdk1tMFVIdU5OM3IyNG9scm85cnoxZ2stcElVaEljMGFfZ0R6TUhoZkE5VF85MlVUNjRPTVdEbmRHYkFLUldMMFNUMXozOXJQb0Q4QzNoSjdpMXNoVDducTVKWG1tQ2p6VmVaQnNBRkZYZ1lEeXNlWWhHV3dsUnBrSUJJYTFJZGl5NjlHc1h3?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 13:12:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil slips as Mideast exports, G7 stockpile ease supply concerns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2pUdllqZ01ILVZhYUF3SUxMbElJVnBReFhYeE8tUXVUYlVmMVE3WkVTWjJnVTBVMEg5M2Npd0lOM1BHTGVmaVFEbEtGZ2JmVUd4WWhFUzAwdU1zOTNGVFZNaWhORU1KTlN1M0llbXlTemtiVDd2a1pEeVQ0aDRYSW5rX0xYam10ek5xVTctY1dwZW1qUlRNOHZDeUFjWl91cXR5NVRQQ0ZXT1BBcnNjV0pXYWtIbVlHbmRTanpNaUszT1Rx?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 13:10:22 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "S&P 500 set to open near record highs as Treasury yields cool, oil slips - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 13:06:48 GMT",
+          "title": "PODCAST: AI runs hot - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYlBxaVV3Y05hcTBKM2hXSE9jdU5HQ2prUERIX2IxdU9XRG5oRE51S1M0QVB2dWQ3cnNMOWJaLXRCSC1iOUc5SnVHS29OZW1fTWxjSDNUalROREFHbEtpMGpUWUpwdjNRM2ZYTmpvckVTTFZLRS1uc2x5UWFIcVJSRnlB?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 13:44:18 GMT",
           "source": "Reuters"
         },
         {
           "title": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3FqSTVKTlVKYjhpTElEZG96U0k0V2hxWGFYNXk5emE4XzN2Ukpyb0dSakdPLWxoVnMzUE9uV3dmb3ZxM2x4ZE9ZNllUYjdKMElxdGFjSDdLYkVwdmY5R0FoQ3hEVDY0R2dySWdkNUhSUzNLZXg1QklURkQwY2RrUElRVWNUaFFhbC1HSXUxQ0Z5bERVYUdwLV9ZeHJ1X1YwY2tJM0ZhTm9WUFNoQXN6Y2FPYkxCUldRb0ZwNFNmUkNNaHJNSHhpc0lFaVVuS1l1cmdyUA?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 13:04:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "France's Mistral announces new AI model - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVFRUV6ZzZmeXFiN3NIWmZwUTBGWTR3ZUx1UUhjLWRLMC0wZThtLW00a1FYNjloa3BiSTFveFdZZFkxWnd5d283Qi04MnU1UC1IUl9KdlBkX2o2X3JpQ0pUZVRZQzJ3Uk1fRzR5VnJIdGhwVGI3Q0JWc2RWOGtBZTZzek4tcWQxRTAxZnB3eWJyV2gzY2FlNjdYVk95b2lQX2UtLVNWandvMDA?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 13:00:42 GMT",
+          "pubDate": "Tue, 06 Oct 2026 13:40:22 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T14:00:20.226Z"
+      "updatedAt": "2026-10-06T14:25:15.337Z"
     }
   ]
 }
