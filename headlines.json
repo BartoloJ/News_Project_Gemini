@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-05T23:50:14.083Z",
-  "lastChecked": "2026-10-05T23:50:14.083Z",
-  "lastUpdated": "2026-10-05T23:50:14.083Z",
-  "generatedAt": "2026-10-05T23:50:14.083Z",
+  "fetchedAt": "2026-10-06T00:00:21.912Z",
+  "lastChecked": "2026-10-06T00:00:21.912Z",
+  "lastUpdated": "2026-10-06T00:00:21.912Z",
+  "generatedAt": "2026-10-06T00:00:21.912Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T23:50:12.929Z"
+      "updatedAt": "2026-10-06T00:00:20.617Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T23:50:13.112Z"
+      "updatedAt": "2026-10-06T00:00:20.848Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "A crowd of students protests Cornell’s response to gang rape complaint - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTERaX2dFS1lBNmdENkozTU05UTVKTGx1U3ZubWppbDBuSzEyckJ4NHV2OWNMU2NuMktNNGh3enpBRkptU1lLbFlXZTJZWTd3elVxcnljazFWSm9XeUNIVm13cElYRzExTlNLZlZGdmFYeTlRWndaWnQtcUl6dmxTSGY3UnRuZ1lVT3c2NW50WkF1dlIzdXhSWmQ5WFRNQQ?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 22:45:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Former ‘American Idol’ singer Caleb Flynn is sentenced to life in prison for wife’s murder - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHVsb1p3OVRHaEJvU0I5RmMtM21aZzNsaEVTTFFZVTVJMzBDRkFJM3lQWENPNGdMTGtlb19iUk1QUVFXNHFiXzI3Q085Y1ZOX2tmTmR2Q1YxWU5XeG90NkNIMnN0dWFVcGpZR0NOZTNxLURZb2tUci1laWd3cFhqTU0xNl9DbFhqR29wMmdETDFvY1Y2bEJMOG5lTzdocm9vcXF1c0RFdmtwczgwT0xn?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUJwQ2l6TEw4Wnoxa1p3UmVXcGJxRjN2RWZVZ3ZCbVBSMlpmS1RWSTZWaXV4eWJlZVI0NThaRTVLM2NDOHhrM0ZfTDBDSlNSM0M1YjVnSzVpNkM0YjJkYlh1ck10Z0NwX25JVDV1alhXZDNFZGluUHNBbVRqdFB3clR1S041dmdaOEdCMjhnZUdyMWNNbkM4MENkbXphSWJSeE5fVE5DSXBBbmpNZk5aUQ?oc=5",
           "pubDate": "Mon, 05 Oct 2026 21:02:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "US stocks rise to the edge of an all-time high - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeEtuQ0VBX01CSXdjRkpaTnRmUElnZFl0ZUlLdEo3YXR4NW9lcTBIRThlSmVEd3NNdGlfNkFfWkhVZnVNXzlaUU9uNFNSUEhJQXIyMWdHV1hhRWs3Vlh2QkdGMllMRkRqNEtuYWtocm9ObXBreUtMcjcyc090c0NCZDk0RkhaZHk3Q3JSRWJ3d1B4ZVJFUVFZWU90czdaR0k?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 20:44:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T23:50:13.646Z"
+      "updatedAt": "2026-10-06T00:00:21.512Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-05T23:50:14.083Z"
+      "updatedAt": "2026-10-06T00:00:21.912Z"
     }
   ]
 }
