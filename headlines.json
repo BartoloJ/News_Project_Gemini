@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-06T08:50:15.522Z",
-  "lastChecked": "2026-10-06T08:50:15.522Z",
-  "lastUpdated": "2026-10-06T08:50:15.522Z",
-  "generatedAt": "2026-10-06T08:50:15.522Z",
+  "fetchedAt": "2026-10-06T09:00:20.744Z",
+  "lastChecked": "2026-10-06T09:00:20.744Z",
+  "lastUpdated": "2026-10-06T09:00:20.744Z",
+  "generatedAt": "2026-10-06T09:00:20.744Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Kenya confirms its first Ebola death as outbreak spreads",
+          "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 06 Oct 2026 08:49:20 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 06 Oct 2026 06:53:17 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Watch: Moment Indonesian shoe shop is torn apart by explosion",
-          "link": "https://www.bbc.co.uk/news/videos/cmkg7dx8wpygo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 06 Oct 2026 04:57:16 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T08:50:14.245Z"
+      "updatedAt": "2026-10-06T09:00:19.653Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/10/06/nx-s1-5988270/morning-news-brief",
+          "pubDate": "Tue, 06 Oct 2026 04:51:39 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Jim Bakker, who built 'PTL Club' televangelism empire, has died at 86",
           "link": "https://www.npr.org/2026/10/06/g-s1-146603/obit-jim-bakker",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
           "pubDate": "Mon, 05 Oct 2026 07:07:09 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
-          "link": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
-          "pubDate": "Mon, 05 Oct 2026 06:53:46 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T08:50:14.726Z"
+      "updatedAt": "2026-10-06T09:00:19.863Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T08:50:15.156Z"
+      "updatedAt": "2026-10-06T09:00:20.334Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Lithuania says it would pay the cost if US establishes military base - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFBpRWVGbDBPVG1FWWpSMGg0dEw4U1VzQllYTlRKenR3VUVvcVo0OGhOckhEWV96ME51MFI5YWQ0OUVDZHdoeERjSml2T1l4Z1RCTFBENGNpSWRCMjNCTXlUdHFwQ3JSREJmVEFiMV9lTmhRRFJrLWVBSHFOTVRjZHdUUUtLVFZBR2lGMmlNV0F2UmR0OW9oaWR0dlpOaTZ4OHZmWlFISFM1QQ?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 08:09:44 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "AMD plans to substantially increase supply in 2027, CEO says - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQW9IX3h3YzRRRWZrX1VNVk02dkd6UDlUUFlDMjdfU1dwUTJEWXhHRkpCZ2EwVXZqLXJqQmJfeHdaU1VLOWpOYlU3Wi1YNmljekVRcHRsZ0dMOHNrTzM3dGlRc1dRNFBhTGlrVzFJcGxtSEVuRjVfeFQzTy1WOFRHMGVROFBIQ2R3LTZkYlVzVnMwWFVCQk9RV1B1emhkRTljS3BsTW53akZwNFRx?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2EwSzZ0dnlrOEY4dFNVczAzNlBqamI4eUwzWFByN0VVZU9qOFExTGJfLXNCRS1HN0hza0JwdXJuNUNpeExJMk9IMkI5R2gzbktldlBVejF6VWp6aG5DaVdldGdGRVVUTU4zeXBETHZJQVpobGh5RlZxTS0wQWI4WXRvcGNhQmVmdXNpd3RNT2o1aENxMmhEU2FFa25oVHJpSXRoQmR1MXd1WC02ZVQ4S1NlQnA2LWdh?oc=5",
           "pubDate": "Tue, 06 Oct 2026 04:28:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Reliance sue India's food regulator over 'energy drink' label ban - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUG9vblhKbHo0cy1ocWtwU24wdHItTXpZeWNJRmRDdGUyZEdVZlVwU3N5RzJWbDJQMmNrTVlTTFBaWG83dW52TnBGd09yTUczYWVGWUxwRW1PUUpQR0VPZklNQUs5T0NPTFNyeWlEYmkzS3JBV040RHpUeEprOXNUYjh6QzBtanhrUmFYUW5mSTBKU2hkX2h2TzMtSlRCelFZb2pnQjZSR1FnelYxRENhRFRabElRNkdSWlY0NENtUjI5UGFyYzZ1emhOUEk3N2c?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 04:18:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T08:50:15.522Z"
+      "updatedAt": "2026-10-06T09:00:20.744Z"
     }
   ]
 }
