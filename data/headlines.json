@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-06T02:25:14.577Z",
-  "lastChecked": "2026-10-06T02:25:14.577Z",
-  "lastUpdated": "2026-10-06T02:25:14.577Z",
-  "generatedAt": "2026-10-06T02:25:14.577Z",
+  "fetchedAt": "2026-10-06T02:50:21.241Z",
+  "lastChecked": "2026-10-06T02:50:21.241Z",
+  "lastUpdated": "2026-10-06T02:50:21.241Z",
+  "generatedAt": "2026-10-06T02:50:21.241Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:25:13.406Z"
+      "updatedAt": "2026-10-06T02:50:20.182Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:25:13.683Z"
+      "updatedAt": "2026-10-06T02:50:20.383Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Trump signs order extending tax-free use of red-dyed diesel during midterm stop in Nebraska - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbkZLVHNEbGd3TU1UUVZIcDdBaGpuZXA3aXJidTBCMEJueTR1MzhPRTQzVDEzcVU1c3AxRndJNTg1ZENoNngtbVl0VXdVMWE2Z2c3V21PbXdra3FwRHZwSWY1anJLeW9PTU1rdDM0YXdFNDFCcGRZRmw0OU9Ed3V4TUU4M1JjVnFISzdUdDUxanpvc1FZWHBibHJLOA?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 01:24:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump says his super PAC will pay for taxpayer-funded ads that sparked backlash for glorifying him - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWNjc2pvMEFiSXY5dUpUX0JUNEdPNlZEMzhVbTc4M1FLOTN2STJOcVhQc3NWMkYwSy1aQVlodmhrdjVBV1Fqb2wyZlR1dTd2WEZleENGNHFzMU9VNkZUSzM5S25COGI4VXRzM1VuSGFwcVRfbEZ2V1BXUjJQRlo3WGJhbjZRVkhEdnc4cEhpajZ3RWZBSFdlOVI0RQ?oc=5",
@@ -124,9 +130,21 @@
           "source": "AP News"
         },
         {
+          "title": "Tennessee Republicans consider more execution options after Christa Pike lethal injection fails - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFZGbkZyS1BEYzBkMU1vQmxyV3NOUXhiUXpiU2Nvcm5QSFpOaEV6Y1g2WnhfN0F2bTNVaVVmNjRRekpHSTJKVENreGpSZThsV3RiMnBBdmoybFhXd3FNN2ZMa2drOGN6bnpWNF9fM0VWOFRaWm42ZllqdXRKYkIxempaNHRBY2d3V3o1M1l6Szh6enNNZjdxX3FwVXNsTkc3T1RaRy1oRnN6VU0?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 23:17:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "A crowd of students protests Cornell’s response to gang rape complaint - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTERaX2dFS1lBNmdENkozTU05UTVKTGx1U3ZubWppbDBuSzEyckJ4NHV2OWNMU2NuMktNNGh3enpBRkptU1lLbFlXZTJZWTd3elVxcnljazFWSm9XeUNIVm13cElYRzExTlNLZlZGdmFYeTlRWndaWnQtcUl6dmxTSGY3UnRuZ1lVT3c2NW50WkF1dlIzdXhSWmQ5WFRNQQ?oc=5",
           "pubDate": "Mon, 05 Oct 2026 22:45:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A lawsuit accuses Starbucks of mislabeling 8 ‘sugar-free’ protein drinks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWNXclluSExZSzNyQ3J2b0c2ZVpCbWRQbXZyZXlVal9MMFRUWEdkS0tteWkxZFV5RlZ0M1NkVjUzVWRVc2pEelRZSGVTajE1XzdkOThqajFTNW1zdTlJX2llT0Y1ekJpNVR4RjliaVNjeGl3OXVHSTlhZTh0RW5Mbms3VTBmaG1VVE1xdVp6YjNEQTFHYXZaT1FrcjNKMFl1bl9rYXc5WU10enBpQ2hoRlZR?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 22:37:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,36 +164,48 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0w0ZVR4U0toYjViellrallFRmhET1JQaDV3azRxcGpITmhFRFQwY0h5cjlQaC0zM01ZSURLMzdDRkxTLU8zRzVBZENHRnRuYmUwbE1VR19WbWdZdzZ5SGxVMWUtUTVjdEh3UlJycDhwZG5SSVQzX3ZaeVpfbjVJM3U4eEJiU0hfcmZXTFBNbVJsWkVjeWM3MHZWNWktVFlnQ0g1bGJKTQ?oc=5",
           "pubDate": "Mon, 05 Oct 2026 21:53:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump heads to Nebraska, where his plan to import more beef has angered ranchers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbkZLVHNEbGd3TU1UUVZIcDdBaGpuZXA3aXJidTBCMEJueTR1MzhPRTQzVDEzcVU1c3AxRndJNTg1ZENoNngtbVl0VXdVMWE2Z2c3V21PbXdra3FwRHZwSWY1anJLeW9PTU1rdDM0YXdFNDFCcGRZRmw0OU9Ed3V4TUU4M1JjVnFISzdUdDUxanpvc1FZWHBibHJLOA?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 21:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Pennsylvania’s measles outbreak is the largest in decades in the US - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVQ5WVlhNnliWVN4dUlLS0taNVhLS0ZkRGZVMGdtakhpT1BYdmtvU202RGR4S2F0WTlqekxDSzI0aHcxeTJkaXdLX2g3WUtpcEZmQTNlQzdiRUJaWFpxbXR1ZjRGZFllMTJLYnZaYVlaRzhsNDJWa1hFbks1UXExWkRQU1FTaDFKUlB1N3RIQVdFOVk?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 21:37:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NBA is experimenting with smart basketballs and official wrist wearables in select preseason games - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3ZPamNzdVJ0N3RwSE5Cdk44RldIQWg5WWZ4ZWt2NUU5azJVeDNfaEN0bUpvMy05MlJrN1k1WlJ6dER6SF9qeGVHTkJCTEpnRUNVc0pETU1lUDF5MVVER1FObVBRV1pHNlZlWGt4ZkRtTm9RYkszenE2WkVVVzhGeWQyRFp6N0NiNlBMN2dQMmxqeGhI?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 21:36:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:25:14.158Z"
+      "updatedAt": "2026-10-06T02:50:20.812Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Cornell students stage anti-rape rally - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcncxcWNuYUNzeUpJSjdMVFZsZnZ1S1VYVTlOelJFdG9ZVjBvdGdWMllHaHBfdnRlOV92WU11R0pmVFU2cV9UZm9wdTZxSUFCS0FhUHkzYVVTMDFKendlcTBIb0cwME5JN2k1b3hOQUFfeGxSUG4yLUFzYVFseF96dHdCdGhwRHFhYVVBVzBfOTNvbk1jc3c?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 00:16:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Australia's ABC rejects AI copyright carveout, believes already been scraped - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 00:15:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wikipedia operator says OpenAI's rogue agents possibly tied to data service disruption in May - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRW51ZFBsNXhuaDZnTUxzNzc5M280OVE1VmZEUGdXaFVJeGJITWRJbEpCWXV1UjlGaGZIZXQ2ZXVybU85UWZaRWx4UjZRRU1rZzV3MVB0cXo4R1JFcW4zQWpIa0tmU2FGRW16LUF5U0JPWGgybDZCZnZFckNubFRmbXBwYlV0WVM1dDZkVndtTmNCaG9oRVQ4THI4V0VtRFA2UFl0eFZrRm1nN2N1MVF0VjdGVHgwUmlRWWc?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 23:30:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Dozens quarantined in Siberia after plague institute lab worker dies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0pYa1NkY1FEdnFwUjJfYWRUQTFyNXd3NWRVNldKRFZOQ09RSHNfd2h3SXhvRnlZT0lqcVNROTBWYVhCQ0JrTkJvYlZzQVEyUk1JWVVaTE56bWwxOWRSUWZ6amdYcDRlMVRpZnhVSG5GcW1iRzZSX1A0WGd1djdrMDdMWTVMbEh0bTZxMDQ3WHZtNkZMeWJnTUlSV0NQWHhFWFZzd1JQNklMNWtHRVVGRTJSc1FqbUY0THJNQ24yS3lucDFSbWRKQWJ3ekxJYTUyNExB?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 23:19:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump says US will help Russia after Siberia plague institute death - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmE3c1IyUG1sSmhfeGszUXJtZVpab0FCcmVuOEQ4aUhvTEh1SE9GRGJVOTIzeHZwRVd0TlJDQmo3MmdIamlUMXRKaE00aEc1Z0IwcUFQOTZSX05oVDRPbmwtN3VTYUI3YWtPSWJ2RU54TTJhaXNGVFBOUkJkYTdIdnRqaEFTZUgtVmt0QjRqVTVEWFFodFl2eEFzSGpqeWI4b1dqek03SXVpQ3JBdXlzNlJR?oc=5",
           "pubDate": "Mon, 05 Oct 2026 23:17:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says taxpayers will no longer pay for TV ads that praised him - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHViRWR3UjN4UHNYUWJFUjQ2U1VQTHVvOTIta013bHRjZDVxY3UwMG5zdVd1a3BiMjJyVDZuQWJQbVMtdUVDZ2lFdjRfSEJKQVN2b1lfY0JhSWg4LUpPQklvNE40YklBbUNJUEh3Ulp3M1poQzZnelNIS1RLUG9IbFlxUWZUMzVRSW1laERZd3MyODNzbFBXNU4yUkJVZjczUEs5LTh3NTVNWktsWnBLZHBoUXdGMjdiLU5GS2FSWVo?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 22:47:00 GMT",
           "source": "Reuters"
         },
         {
@@ -189,40 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5",
           "pubDate": "Mon, 05 Oct 2026 22:23:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Jeffrey Archer, bestselling UK novelist and scandal-plagued politician, dies aged 86 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVlXcEZjUmh4TnlFb1RJM3ZQZW5yTlZhV3prMGFfc0JNLWt5cWVLVHEwU1VEcUlVYWhJVnRiaTA1Ylphd01taU54Y3RGNk9EMm80MkFVaEpiNDlvOThVN1pIb0JUYXplbmw5UThFTWE1eDFnOTlpMXFGMlVxMUFFOW9HSWNhSEp1V0lFdmFmREY1Rl9adHAxNw?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 22:18:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Spain's November snap election — what you need to know - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkxFcVJoYUdNZVFwQUNuNjI4b25Hc1FuOEN3bUNUTlhjU20tZDNWU2xRVzNBNlE5ejNRNjNzRkdHZ29Wa3ZMd2pnMXdWLXlrN09ESnhrUlhkS0g1OVU5dzFPRXozOEkzQ251U1IwY0tBU2JxTzVGdFE3VmNEeXJvc1ZnRXhxb1FKQmlqUHo5Z3lDQjJ5MDhVUU5R?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 22:09:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trading Day: Nasdaq highs, Brazil surprise - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekZHUjVfNDc1RTVWS1M2YVFlU2MtOG93UUhfWkIyTzRWRE9sWTFiY05sNWxDU2tydkNJWWdEWlNoQzUwVzh6djlETnJLRUIzQnhkNjBwOHBoSTRYLUFzMlRIdDZrTGxZQjU4UU1xUWdqM2xITHc4SG1KdElwZ2p4YXdiaW1YSV9zanZxTUM3MUp2N3R2YVpIN3JNVGozR05wNXQ4V0VB?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 22:05:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Brazil markets' Bolsonaro rally sends stock exchange to record high - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnBVVGg0X283c2E3UVFRekJud193dksxLU9RcDJSLXVoT3dpN1k0emRjS0k4RnJ2Yk1VN3lMd3Z3al94X3FreFRuWV82ei1RY21IUkFTZHB3djVIQkxlZzc1TElvY2JfNWpTOXNucTRVSFpNQ090ZnlFVEVDWnpHMy02WmQzLXRqTmRRTnFGeWhJbTV3MEh6TV9EMmhDOWpQNHBpM3JXWlJvalpm?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 21:34:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Cuba and US maintain 'channels of communication' but no negotiations, diplomat says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVg5UG5DN2dZR3lHMTBFbUIyTTVNRk9mMmlDV0xOVklrVC1RRVkwT1JndUZ1bjNST2F4SHJicnpsSExEaHBzWFhjdXJyZ1FmVERQWThObEtVUFFJM2tHMy00RWF4TG81UHBOVFIwLU1vdy14ZHl4NE1iTHVyVzFWckVEN01qVHJBV3FRZmNNWXg3Zk9hdjNiaFljWk11LWlVSmlYdHpQa3B3T1gxU2FOdDIwLVAwVjJPZTRLLQ?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 21:33:49 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-06T02:25:14.577Z"
+      "updatedAt": "2026-10-06T02:50:21.241Z"
     }
   ]
 }
