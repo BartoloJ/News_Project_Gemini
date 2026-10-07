@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-07T07:00:19.613Z",
-  "lastChecked": "2026-10-07T07:00:19.613Z",
-  "lastUpdated": "2026-10-07T07:00:19.613Z",
-  "generatedAt": "2026-10-07T07:00:19.613Z",
+  "fetchedAt": "2026-10-07T07:25:12.647Z",
+  "lastChecked": "2026-10-07T07:25:12.647Z",
+  "lastUpdated": "2026-10-07T07:25:12.647Z",
+  "generatedAt": "2026-10-07T07:25:12.647Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+          "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 07 Oct 2026 07:07:22 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
           "link": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-          "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 07 Oct 2026 00:56:59 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
           "link": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 06 Oct 2026 23:07:44 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T07:00:18.595Z"
+      "updatedAt": "2026-10-07T07:25:11.697Z"
     },
     {
       "name": "NPR",
@@ -112,17 +112,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T07:00:18.674Z"
+      "updatedAt": "2026-10-07T07:25:11.775Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 05:36:16 GMT",
-          "source": "AP News"
-        },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSDRYelBzeG91azU1X0ZuQjZvdzFBcmEwdTRhWFVZVWdPZ3NyWEVvNXVaX2duTXZmUE41X3hKNEEyMHQtS2xsZnNfNHRLRXlaUlF5aXAyQmVkeURJODBRbmRieWxyMTU0QWxjUTF1clRKQlRibFJPdjZBM0E4U012eHEwOWdiYkZnbnFDWmtUM1RIM2lfdkE?oc=5",
           "pubDate": "Wed, 07 Oct 2026 01:19:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Paramount completes its takeover of Warner Bros to become one Hollywood giant known as Skydance - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFA1Sm43WnNqUXFFUzdqVm5yZVF3d205aGJ5ZWVRTHNXNTJfZmZBSTlROTMwZUZjUTJJZlEwS2hWX3p5WTBqUFUzWmtudzFBSGlHRHRZdkhIMVIxMnRwV3ZwTkQybDdZcGRGcFdDdm9YaDV5eXY5al9xNHBIZjZMc01MTVRnNjdKVHN4dUxwY1pJUUdWcTlhYkNyc3dUd3Z2bS1tTEpvNks?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 01:06:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T07:00:19.226Z"
+      "updatedAt": "2026-10-07T07:25:12.215Z"
     },
     {
       "name": "Reuters",
@@ -197,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Shares of Japan beer makers fall after raids over cartel suspicion - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenhtWHU3RnZyOTdISkJHakFfTUd2WlZuUzNzUlZObWNNYjlkb2JYcUlTekdZZk1wNnJPalF4Y2plX0JkUnhDMURVS3dkQW1ldkxNMVJJbUdZQ1FHUEdwWjVGcGo2MDBUcHUySVNZeG5STEQzbG5Sa181bklGaXdJNUY3YTdmUTl0Z1VzUEFGRG05bHYzSGxybUxKTDc0TjV0bXRoX1NpNEhRdWxCVkQtbUVOVk1OM1hBTG5tag?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 03:30:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "South Korean megachurches probe suspected AI-linked cyberattacks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHBENnFFZExrOWJJY3plamJVNVUtU1d0bXA5RW1Va1ZBbjc0VWgzemdxZGZWakYwZW01T2lzWE9WMGpiYmc0aENrNmh6QmotUGZrQTl4THlKUzVEa1kyS1lfVlJ4V3dNSG41aXBOcEdHRTdobEhaOXgyY0RhNjBSOTFfWmFiVWdEcWF5SGN5OG9hX2pVT05VU2FZeEdlc3I0TnRZd2FPQ3RvLVBpV1ZBaGo4VWlvSmdp?oc=5",
           "pubDate": "Wed, 07 Oct 2026 03:00:00 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzVUcDNhYWtldkhtXzhGd2M3ZEpsTW53QmJvTy1Bamhybm5BYll5ZHk1bGF5czJlVE80QWc5blVjby1ycUpOTHF3N01XRng0TXRjdXJ1ZVpwTVZCN210WnpEc3M5WWl2RlE0VmVjWlJubklOZzhLVTFQekNncW90QThiMy1Uc3lWOUJJQWc2TEt2R0FnVm5tV3NaZmFPYVBhWUVFZWQwQUtnVFZqQlE?oc=5",
           "pubDate": "Wed, 07 Oct 2026 02:21:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Indian shares trim losses after hawkish RBI rate hike as financials rebound - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWI2VTJBM0hPOXBYT3lXTFZfb1lfU2xBS3l1Y2NLRkIzY2h2V2FTci1wVTNWdEZOckdjN0w1Qm1UZ0ttTlUyWHpkNUxoNGhXdVBRQ2hidGNyemZmZVRzeWhTNUROTU9hc0FSWUszMWhJZ3h3WFhCYmFScUlMNmM1b0NFajlEUGUtWDM1ckRWV0JZRmlOa0pMUnc4ck1VeXZKel9lWF93?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 02:20:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T07:00:19.613Z"
+      "updatedAt": "2026-10-07T07:25:12.647Z"
     }
   ]
 }
