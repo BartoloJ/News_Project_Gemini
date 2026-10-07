@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-07T18:00:18.359Z",
-  "lastChecked": "2026-10-07T18:00:18.359Z",
-  "lastUpdated": "2026-10-07T18:00:18.359Z",
-  "generatedAt": "2026-10-07T18:00:18.359Z",
+  "fetchedAt": "2026-10-07T18:25:14.236Z",
+  "lastChecked": "2026-10-07T18:25:14.236Z",
+  "lastUpdated": "2026-10-07T18:25:14.236Z",
+  "generatedAt": "2026-10-07T18:25:14.236Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+          "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 07 Oct 2026 18:12:58 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "France halts use of stun grenades after boy's hand blown off in student protests",
           "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Israelis demand accountability over 7 October failures three years after attacks",
           "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 07 Oct 2026 16:00:18 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
-          "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 07 Oct 2026 14:53:43 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T18:00:17.322Z"
+      "updatedAt": "2026-10-07T18:25:13.105Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Why Trump just loosened the rules on 'dyed diesel' — normally a farm fuel",
+          "link": "https://www.npr.org/2026/10/07/nx-s1-5992963/dyed-diesel-fuel-price-farmers-trucks",
+          "pubDate": "Wed, 07 Oct 2026 14:00:31 -0400",
+          "source": "NPR"
+        },
         {
           "title": "How Defense Secretary Pete Hegseth has brought the culture wars to the military",
           "link": "https://www.npr.org/2026/10/07/nx-s1-5992775/how-defense-secretary-pete-hegseth-has-brought-the-culture-wars-to-the-military",
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/sections/planet-money/2026/10/07/g-s1-146828/who-will-win-the-2026-nobel-prize-in-economics",
           "pubDate": "Wed, 07 Oct 2026 06:30:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
-          "link": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
-          "pubDate": "Wed, 07 Oct 2026 06:05:54 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T18:00:17.431Z"
+      "updatedAt": "2026-10-07T18:25:13.353Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "49ers' Kyle Juszczyk wins appeal on fine over 'Juice' celebration that NFL said imitated beer chug - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObEdnNE1kcHgtbWdRRnBzSE9BMm9ma1F0MUQ0ZWVpM2FSeHhpbnJ1ZWpKUkNqYXNKU2VydUNqWDJ4RkVBVDh2Q0hJcnF4dHJVX20wdS10ZVdidnh4SEpNeGY1c3NRNDYzMjJMOTQySUVNZzN6dE5FdVg4SEVKdDVhcldPdUZ5YzE4bUdLQURkLXJUa3dpMHp3?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 16:05:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Scientists win chemistry Nobel for discoveries about mirrored molecules that led to many drugs - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRUtiNVNxS0NHT3VOdUNUdHZkY0w1WmZJVGZyTm5Wa0l5bzZSV3JueXFXT0oxMG1BRTRxMS1LSVg3QUVFLXJDV2RYV0JUTVh1bVZiRGZWaWtZWERQUjFZMVV2bWs0d2dJMlk4TGVUMHdpbnJ3UXpGREVBX29ENGw4bGF2ZXBfQnlQQk9qOEFCNnZaUQ?oc=5",
@@ -136,21 +142,9 @@
           "source": "AP News"
         },
         {
-          "title": "Trump administration proposes a $70,000 fee for international students to work in the US - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGRFMi1hVEtZT0lSV1lDX3NReks0S0dmLTdkVjMzR2hxVlB0TXYzMW53S0VYLWZKRTJvWWhhTEJDQjVaOWlrOUJVb2RmbWJFd0tlOUhhcC1iT2xDQVprRXl5ejYwbTRaWmlyVEE2TDAzRXg1ZFZRU1lnamRwWTllQ2hneXk4bUZmSkFETEhsUmttbVdJUEFPMF8tTlZabE9VVTVMcGludHpWM1N3NDZYVFJxNA?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 15:14:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
           "pubDate": "Wed, 07 Oct 2026 14:59:22 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russian strikes on Ukrainian cities kill at least 24 in a major attack that Kyiv saw coming - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdm1KQ2ZLdTNrZ2FXVlpWRW8xV29SZ2dhcElNXzlDQkdGSnZ6RU05VThHSFhuVmtBUkRTeUdZazFDSXFUYUhQdDdON2Q3bE1DNFFSeDRUQUp4OGNzYkRHczNQOVkyQzVyVndNOUJmdGxCLUJjdjBNR01Jb2Fnc3FJSXIzeTctcnprakRZcmxFN0xJTXNN?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 14:53:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,14 +158,38 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORF9jdi1BbXJHdE81Qk45bEZjYk9RdUd1S1B6Y2tKaWRIRl9ENDJxdU4xT2ppLUUzUnBEWEs0X0tvX1d3Z3pvVnptS05RUE5RR1RXMzlPakxlNlhULXZUb1ZjSjRaYkZud0NmQ05xVlpWdTktOWVpdzUxdnBxemJjbjR4UU1lM1pfTWFoZHpLZkxjakt2Y3I0ajhRejJHT1lITEpwMkM3Uld2QQ?oc=5",
           "pubDate": "Wed, 07 Oct 2026 14:34:43 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Official says WHO doesn’t know exactly how a lab worker in Russia died in plague case - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVNxZUVSYWs2akY2NUdadlZBU1BadGtSbWx6SlpaWVY2ZVhJWG85Q0lIZlpRYWt4X3lpbzNyZG5HbDFZa3lRWFU4LXo2VG15eHlJWGhJTlBLVi1xb0dtOXV2Z3dZWVVXdlRxYmZzMkR4VUV6U2I2WFVCdWJPQVFqSVNpNFhlRTNQN01mbHNOaGR5Z2RNMkE?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 14:18:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T18:00:17.941Z"
+      "updatedAt": "2026-10-07T18:25:13.799Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Russia says plague institute worker's death does not risk an epidemic - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTludTZlWHBjdVd6VjI1LTlPQkhNWW90cDhvYjJHVnZqVElOalpNbTVBcHNoUGtIRTdhbGsxWE15WUFSRXA4b1p0bXl0cjV6R3h0RGxfMFpYM2N3cWJuZzJNenZaeVFsbFl2YzZpdzZVbEdENHRoUXdjRk1GSmRVRE50U0p1QVJaV3hFVk5zcFllOWVKSERBT0R0NmdzMW1SNFZicTZHajZ1WFRRUDE4S3d0QlZ3cjBoYzdwaGNqTWZWN1RJTHItZ0F0MlNUXzNjN2gxVTloWXkxR192c1E?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 18:11:14 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Rubio, in Athens, ties ancient values to 'America First' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQalJDOHBrVE5iWnBuQjIwam0yNmZjVWsxMGhWS0xQOVJCYW1TSU9DaUo2OThyVkdyNThMQ3RXVUdGQTZ6NldfVlR4Ynktdk0wa2J1dllzQ3BvTTItTGJkVnlieFdaZ1d0YzZLRW14MjlCbFlqN3R6MzhTeS1JRVRERkJRWkFqVWt4WU5iOWVKUzY1YVBsQ0RLZjFLMU44OXNaNGxPdWJSaw?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 17:55:46 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "France suspends use of stun grenades to police student protests - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTVdPc1QxMWRKNmx1bVo0RTVHM3h3OE5RUmdNNHQzRVIzTVlTXy1yUG4xUTBoV3c4aGZiRVpyOUI5d05yRFVIaE1GQzZYYUQzZlpGbUE2QWZqRy1UQ0JqUEpBczFBNXlwWmxaVGx3eG0tREt1a2QzbnY2aEQxTHlOVWl5WWZqX1BsLXhnOE1md2NVdHV5UnJjR1FrZk9oczVYUEROeU8xVkRSUQ?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 17:49:43 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Webull sinks after CNBC reports US House panel flagged China ties - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWFJnNzl3d3IxNHJCNkZnOWdQZFF6eWVheUpUT2tqVVBHZFYxSU0ySmdVX0FxMVhsZ01oODJNV3RDdzRXWXNBOXcwakdqNzlrQVZNRjlhX1dKM0xvSXdCQ0Y4UDZPZE9YdWVsamxOT2o3aUphejdReG84dTFCVEdReG9yY2ZPUFFWVTZuaWdENG51RTMyQ3l4UDU0dnlpVWQ2dzg5RmF5MlFwUEFYOE03TWdmOWRxOFp1SlVKRg?oc=5",
@@ -185,44 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "EXCLUSIVE: Priceline to face FTC action over deceptive hotel ads, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3J6T3RoLWRfTnRxbHlyN3FLZzl6SEFzWEpJWHY2UWZnSXBKZ3o4REE5dmdJZmhlQ0xfYlUyZVhCRVA4NXpWOU5LN0FZYUlWN1RJeG9WTkpnd25qdmJPeGFQR0Y4MTdWeXlOUS0tUVlxUE45ZGJsTi0tV25JSWRXcldqVk04M3VnSGNnTFBvZDBOS1BjdHlYM2xPRW45eERvQTh4TEFROW1LWml2UzFVRA?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 17:20:56 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Christa Pike's lawyers demand to see syringes, drug residue from botched execution - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRXVoS3dOU2VxcFlTM0JMd0Naai10NDY5XzNUY0RqV1I5UzRxWElTbkxjOE5TM04tbEhzaG00d1ZLakFQWUYwTmQyNDZtVjlPRlpCS2hZaWxRMGJpSE15SHRXOTViUEx4UnVlRm9vQjZ2T2liblNpTUIwbTlvOUJSRnhyT3FyOWNWVnRRMVVmNUhVY3lVMk02RENKaGF6WW1DSWpYUEx1MmFuYU9QZk44cWtfbEpIdUxVOGFpTFIySnNFbnM?oc=5",
           "pubDate": "Wed, 07 Oct 2026 17:11:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "IEA to accelerate oil reserve release, says 100 million barrels still to come - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWQwZFJidm90SFN2SzVMQVk2ZTZrVDI0LVhoWDloYnNCU2NuTE1ZUlZFM3dyZTFPaUptLXFZNlA2TTQtZFRFdXRDREdIZUtyWHhQbDQ4TDZOU1JpdjhENmxZLVdpU21ZaC1GcEFGT3MyZE5YX0FoZXJPUTM2TDNrTXpoTjRzUTh5V2VQdFlYTmFVTmtBYWIzR0hleXJ3RnZRNy1YTVRNQkxtSDF2OTZ1OUhYMkxFaGdNaUVSWnhxWQ?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 17:04:31 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Halozyme wins court order to block Merck's injected Keytruda in select European markets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOENfMU9mT1RqQTl2QlZBUjgzTi1ZTFZWZThEMXk5YTJRMC1jSlA4VGRQX1p0a2tmQ2ppc0M4bURDLUdJTDBkQVNOcGFrYi1rWTU3Wjk1Uk44Y2QyMEx2MmlyS2drLWRQUFRUTW1VNEZteW56VEVWQjBQTFBNQmxWMGk3ZGpGRXlFX3liNjJxd3l1ZUI0OFlFczRpRjRlekU1UUhNSnZhNks0TndBV2lCMnJnd0EyNXRaR2pRWE1lTGhxVjBUMVVMRFB0RFpKUQ?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 17:03:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bulgaria halts rescue operation for crew of sunken ship - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOajRPUjRnX2NaejlLVFQ0VGZxOWxJaHo3ei04N3lhYWhHRXk1UEs3c1hGTXVMN0puckxFOEV4MlYyd3E1ZUMxVkhSNmp2T2o2UUhZWWdRQmk1b0RMb0Z5LTV5N3o1b2piX0kwdTZvTUtWM3VkN0R4dlNUTXVNTWZRTGpWTzBzUmdSSXM4ZjRTSGVZc2NwWl9UX3l5YW1YZw?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 16:54:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Canada's Weston family to buy UK's Boots in $8.9 billion deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUG11N3dHZGxrZ1B6aTRhakp3TkRiZVFsUmtocWZwTkR6VVhQX1FPS19jR1c0aXRkSWZZUVhVbHoxUFJoZWlGbWdEWjlJT0pOMjVZZDJJRXlDSVUyaWR0dVdPTWp1bDJ4bzFhMTl4TmZEaGpjVXBKR0xHM0FvU29kVUFmZlNkZWRDQnZGNlFoSlIyZjhscXhmYWhSaXhPQ19hcExCNkVmYUs2bWQybm5sMlozWmk?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 16:53:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Belgian student protests against education costs echo France - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGgzY1o0NU95Wk4ybWJCbmt0NDhEaXVJLW1VOVNSUThfcXRsVHp5Sm9KcEZoVE9KYkpZVTFlbV8xMGk5X05MNlV5bXVPNWVQYXduVXJ4STM2ZEFTTUtvWkZWSmoyUHpoQTFnSU1HNTNRZ0dNRE5PdVNueVF2UjE5ZEtLSkxMWUw0M3huRFAxTW1WM3YxUmhzZDhOTzVmeERTdHJpNGQzaEY1RnBlX2c?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 16:53:22 GMT",
+          "title": "Pharma lobby sues Trump administration over Medicare drug price cuts - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRE5RX3Q3WU9qS0RsSUJuOTFTLW92Wi1TeWVVX21jNWk1RS12bDRDSHZvZWJVcEJnZlhSZWFUdEhnTzZTM3F6ZjhSam1xR3E1OVBiMFZwYUI5RUQwVVJUc2NJM0paaG5IcnVNZ3MyLXprTmpnQklCc0xTR2RRUmJuSHdzaVBkdWo2UV9RbDQzbTY3d0RrcUJOLUNvVXI4SlFfSkMyS2pCUFk?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 17:08:32 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T18:00:18.359Z"
+      "updatedAt": "2026-10-07T18:25:14.236Z"
     }
   ]
 }
