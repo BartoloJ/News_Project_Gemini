@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-07T04:25:15.290Z",
-  "lastChecked": "2026-10-07T04:25:15.290Z",
-  "lastUpdated": "2026-10-07T04:25:15.290Z",
-  "generatedAt": "2026-10-07T04:25:15.290Z",
+  "fetchedAt": "2026-10-07T04:50:14.700Z",
+  "lastChecked": "2026-10-07T04:50:14.700Z",
+  "lastUpdated": "2026-10-07T04:50:14.700Z",
+  "generatedAt": "2026-10-07T04:50:14.700Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Pornhub returns to Australia but only for adults with Apple devices",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 07 Oct 2026 04:39:59 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Former Australian bishop jailed for sexually abusing young men",
           "link": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 06 Oct 2026 20:15:31 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-          "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 06 Oct 2026 18:42:58 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T04:25:14.265Z"
+      "updatedAt": "2026-10-07T04:50:13.532Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T04:25:14.394Z"
+      "updatedAt": "2026-10-07T04:50:13.859Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,12 @@
           "title": "Argentina bids Messi farewell in final national team match, ending an era - AP News",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObkp2d1VDOEM4VmYwMFN3Y3VlWExPdWhFdHVZNnRCRnFSQ0pTdkFtYnJwSUxYU0lrVE90cUxnRjNOdk5iamRKQktMQjdqV012ZHVvdklPbXozWnNfclJleHhqeldJRDluWHhMQmRneHk1SVJPNHcxd1hzUzF4N1MzZ1VKWGxXQld1Q3F5NWNWSTE0ckdPNC01ZmppejNHdVdNSktrQm4tQ2c4R1J5eVg0QUVuTXNoa0gtaG9tX252RTFhd0RGOTZrNklQOA?oc=5",
           "pubDate": "Wed, 07 Oct 2026 03:24:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Washington resident conspired with Canadian school shooter before attack, officials say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjJDbTlPa3llVDNSRmFVcVRYX2FOQ1JLaFFMeWRwV0xvUFcyeWwyemRKbFFtaURRSVBzWG9haUJMWlNuRWQxREZSRDVVZi1sVDk5QUtvdkRuNGl3NFkxRDROTGdaWWRPTVVpT1FnNlZXNTZsLVhMZ1ZETk1qUmczeHNVcU9sLXFrTngtU3ZoWlZFbmtHNjVXWXdUZFItbXAtbDBYQXJOU2NzaV94RDcxb0RNNURodw?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 02:48:00 GMT",
           "source": "AP News"
         },
         {
@@ -154,28 +160,34 @@
           "source": "AP News"
         },
         {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 01:05:54 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "How Russia and the world are responding to a possible case of pneumonic plague after lab worker dies - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHd5LXpXdGhUNXZhbEdVWVhSa2FtSUp6Zk5Yekk4UEtlQ3FmOFk4SGh3RmZkSHJmbGJpNXFlMWRTZmd1Q0dlZXo4NGxyTzYxNVk3TEZQOGpwVWE1YlFCcmNFNU5EZE41LUQ4dGh6UXB6S2MxSmhLSTVHTFh1dkpFV2R4azFfZTlpMUFwa3Q3RGZ3alRfMVE?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 00:41:00 GMT",
+          "title": "Nobel Prizes - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DQ1IxVWI5WjREWndsamVteDBVVlRHUHdFRWpRcEh1bUhHNkdtX1BUWUpkNWR5cUNhalZYYjROZjNfbFlVLVU0QjdlRQ?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 00:50:17 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T04:25:14.898Z"
+      "updatedAt": "2026-10-07T04:50:14.292Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "South Korean megachurches probe suspected AI-linked cyberattacks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHBENnFFZExrOWJJY3plamJVNVUtU1d0bXA5RW1Va1ZBbjc0VWgzemdxZGZWakYwZW01T2lzWE9WMGpiYmc0aENrNmh6QmotUGZrQTl4THlKUzVEa1kyS1lfVlJ4V3dNSG41aXBOcEdHRTdobEhaOXgyY0RhNjBSOTFfWmFiVWdEcWF5SGN5OG9hX2pVT05VU2FZeEdlc3I0TnRZd2FPQ3RvLVBpV1ZBaGo4VWlvSmdp?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 03:21:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Asia shares weaker, oil up; investors weigh Saudi-Houthi escalation - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZW5YUkkzdjhfTWJXY25aWkVLeExISGkybXo1YmFoS256Qk5DclZaVVc4ODRnejkzYlBYOTBVWWp5YTVHRDVyMmtBUDVZWHlFclVhYUtIU2d0Tm1GWmRzMnhQNlg4aVVfWEZjb21nQ0tTUzc0WjQ5bEhmWVJuNzFwX25Bdw?oc=5",
           "pubDate": "Wed, 07 Oct 2026 02:40:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Messi signs off in tears after one last Argentina master class - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzVUcDNhYWtldkhtXzhGd2M3ZEpsTW53QmJvTy1Bamhybm5BYll5ZHk1bGF5czJlVE80QWc5blVjby1ycUpOTHF3N01XRng0TXRjdXJ1ZVpwTVZCN210WnpEc3M5WWl2RlE0VmVjWlJubklOZzhLVTFQekNncW90QThiMy1Uc3lWOUJJQWc2TEt2R0FnVm5tV3NaZmFPYVBhWUVFZWQwQUtnVFZqQlE?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 02:21:00 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Houthis launch missiles at Yemen's Aden airport as fighting intensifies - Reuters",
+          "title": "Houthis attack Aden airport as fighting intensifies in Yemen - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjcwdDdFSmxISzN2RWdiODU1ZjlXODFLZGRiVmxTeW94dnI1T1VsNnhlU1NJMTZXajJoVlE0VnpzVDlmMmJQUjYzN21Tamk5YWZhazdRSzd5MTJndURBTjNQTC0yd2I2ZDhIazZlNUJUYjAyZHVwZFRCMER1OGZLS2pZRmRQTjlrSlVyLUd3N1dnUUxrM2NBSERSd3VmYkJBNnpzT1I4RmhwMWhHbHQyN1ZOWkxCclZBV3c?oc=5",
           "pubDate": "Wed, 07 Oct 2026 01:21:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Vietnam's banks tap investors for $7 billion as economy runs red hot - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHo4NlJqZktPYWpaZGJOdjdzRXhwcENlTHkwZXNsVjJtbktRUklSaloxTHYxZTUtcm1oa1JId2U0QTg1SkdvVFRDdnQtLUpmUHFnZGpPVmNLRXRKcEY5UmVYblZSb3hWbGJyMTJRYkxIbThodnJNWmtlendmZFpIZjlsdUpEWGVYb1lRZUhEQnpiRlVkdmk4UWs3aUpXMnNjaGtjLXl4V2ZGY0VnRFRySTVR?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 01:02:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil prices rise as storms and air strikes threaten supply - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHYwa2g1N1NQR1ZHcFR2eVJ3cjJySlZLVlA1UjBQeU9yNl81Z2tGYTk3TVk4V3JMcXh1LVpscTVDdTdrZGFOZjd4VWNzeXNEM1lHYmV5bDFzV2ZrN3NuQUE4VXV6cE16enQzSi1ZU3l1aXVPa00yVDkxeDRYbFI5WjhOVGR0VHFUMWNkWFMtNmxDSW9YRUtHY2pKWTlxTFRPclRzTA?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 00:48:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T04:25:15.290Z"
+      "updatedAt": "2026-10-07T04:50:14.699Z"
     }
   ]
 }
