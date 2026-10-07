@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-07T00:00:19.080Z",
-  "lastChecked": "2026-10-07T00:00:19.080Z",
-  "lastUpdated": "2026-10-07T00:00:19.080Z",
-  "generatedAt": "2026-10-07T00:00:19.080Z",
+  "fetchedAt": "2026-10-07T00:25:20.331Z",
+  "lastChecked": "2026-10-07T00:25:20.331Z",
+  "lastUpdated": "2026-10-07T00:25:20.331Z",
+  "generatedAt": "2026-10-07T00:25:20.331Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T00:00:18.050Z"
+      "updatedAt": "2026-10-07T00:25:19.318Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T00:00:18.125Z"
+      "updatedAt": "2026-10-07T00:25:19.354Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Christa Pike is conscious and speaking after Tennessee failed execution, her attorneys say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlVhZDM5eFc4bnVrTjVEUGp1RWdYU2RuM3pNOFdQUWtFczMxVmRuSUZSVE00aUZrRjdKOFdqM0pBRTJYLTJVVjRHQ1cwenI0ZVNZRUZZenYzako5a2VDMHBLSUJ5NzZoVXpyRXFGMzhBTUZRRXZKei1MVWc2WXlIcW5XdU8waDQ4aGcwZmIwd1F1ZXRKLUcw?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 23:42:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "French riot police fire tear gas as more than 250,000 rally nationwide for school funding - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUnN2bXRwby0zM25GY1BlLXJKNW5CVzJ0SDNaSTdySmR6Y2pGa1o0dDJBY2NGVFNONjk2UDFqaVRlcnhKNmw5T3pncWNhMWpyYVNuMVZyRzVOYzdkZmRYeXRGUUxpSjNqdHpJQVFYcHR0WHl1RllNZGZEdEZicG5xdW1JemhvYkpSUlVSbjc0dnFYblpzbkMtUEloUy0wMGEz?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 23:37:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "California couple arrested on child abuse charges in horrifying surrogacy probe - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQkdKNmk5d0xST19tU09TWExYazNnS05RbHNfV0pzdWx0bU9PMFotXzE0Y0dIbGUwUkxHeXFrX2RSblZObmlTM2YybnZmMlk0X0VYbnJQMHgtc0wxekw4ZTlZYU1OWElKS2JYR0QycUZnQVB5bXJCOEdUMzYyRDB4ZWhtU1h2ZDJ0NjRQdXY1c2Z0UQ?oc=5",
@@ -142,12 +154,6 @@
           "source": "AP News"
         },
         {
-          "title": "Christa Pike is conscious and speaking after Tennessee failed execution, her attorneys say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlVhZDM5eFc4bnVrTjVEUGp1RWdYU2RuM3pNOFdQUWtFczMxVmRuSUZSVE00aUZrRjdKOFdqM0pBRTJYLTJVVjRHQ1cwenI0ZVNZRUZZenYzako5a2VDMHBLSUJ5NzZoVXpyRXFGMzhBTUZRRXZKei1MVWc2WXlIcW5XdU8waDQ4aGcwZmIwd1F1ZXRKLUcw?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 22:14:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Scientist who hunts mysterious ghost particles in the Antarctic ice wins Nobel Prize for physics - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmJnQWlBaEFuZTZWYXBFREx3WHdNaGk4b3FpRTFuc0Y3TmxfTXBaMl9GV0tTQVVHMkxwVlBwZm15WnBubnhEdUphVlc4cTVGUndzQVctUEVTWUNJTzE3VEhwdEtBZEtGVHl0YTlUOGItOVRhQWw4cjNQVFJkVGVRYlVsYWNZbFR0Rl9qcXgwYw?oc=5",
           "pubDate": "Tue, 06 Oct 2026 21:56:00 GMT",
@@ -158,24 +164,18 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUk11VFpRZGlmeFFzTEN0aEtxMXVseUNuY1JHN2hHcG0zeV8wb3R0bW1DaWJKYkJQLTFhQ1lxcEx1UjFSMVFJci1lcmpaRlhpQ21rV196cVNzNUpPNzk2M05FZ0ZRUW9VbVN6dXk4c2RuazFvQWNzNU80OVpCYnJ1X3hkQXdPcXNSeTFkRGRLTzloRUdQQm9DNkY4cGJoWjF5TnFz?oc=5",
           "pubDate": "Tue, 06 Oct 2026 21:48:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump says he has call scheduled with Putin to discuss possible case of pneumonic plague in Russia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTJMdE1KUnVHRjRkU1hGYThhUWkyX3JXN1dmeWw3R2prc212by13VUFyU0JVNC1xRVVOdDhobGwyOEcwdE5pdk1FOFFfTU90bWpwaFNFcnRpMS1SMTc0cUFYdHJtUkRWZTlqZW5YeVpSX2NSWjBEUklKUld2STFRTnUzcmlSdDFfMHlkLVp1ZjVlQlZwcnBKSHAxbw?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 21:31:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T00:00:18.631Z"
+      "updatedAt": "2026-10-07T00:25:19.895Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Rubio tells Russia to share more information about plague death - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR0lSVkhkNW9MdjZfdW5FaTNyS3FDSENqYTJ4enhYWDlNWWJwTFhfQlYwNFVHNHRsQ0lXUV9LYWV2emhucTJpMHFMakJKcXJjNU1DOHM3YnpmNDFiR0xDelc0cVk1ODRpUnZXSjBVOVRnNGxmNklIMXFHR0JLTm1oX2dlVXlrTDl2WUFMUTVDSEhNY1BHY29sYlVQUmlINjkweVFvaUk0QThhNlJuQUE?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 23:44:13 GMT",
+          "title": "S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 23:41:37 GMT",
           "source": "Reuters"
         },
         {
@@ -185,9 +185,27 @@
           "source": "Reuters"
         },
         {
+          "title": "SpaceX seeks $40 billion to buy Nvidia chips, FT reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjBzanVwMDltRU1WZFNTWGF3VUw0ZEdQZmlmQWRsbG5lb21pU3VxTlUtM0tZbzNWaFlXY1JhbHcxV0FXX3RpTUVUQlVGenhSYnZ1VlprMzlqdEZwa1lPbEczRnJWRWZfU19nTDdtMzM2WFlMWm0zeWliejlSRUtrdXJsRmM4VFYtbmJXLVprajJ1U2cxVUZPdGhMaUgzRUVJV2R0Q3BiTGJiOHg0ZUYw?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 23:19:20 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "'I'm getting fed up': early US midterm voters line up before dawn in Ohio - Reuters",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3NBVWtIOEhDaDlKenA1S0x2NUh3dDFfa1c5REw3OThWbjVzQnpwWVhQd09nYnBJU2dwMFJfZWxhcU1nb1JTR1JETm85R1lRV0RVZEViRmR0UGZJdmpSQUdNLXZhTWRleFRaMndmX283c29UY3FvZE9KSVBsRVM0ZW5rMXZYam9FeklWUTZoU3FKQ2pDcFBzc21LVFF6QndO?oc=5",
           "pubDate": "Tue, 06 Oct 2026 23:13:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Mali troops re-enter strategic northern town after separatists withdraw - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNakE3OGN0MnZyVXc4TzB3azJNSHN4bFlGZi1zLVBZNnhpN1lDQlhRRU9SdEFEMTJrX3R6M2NNTnJ4OWRhM1Z2WkZtNkJjdzlpVHJoWURKMEtpOHJhN2lySzRvY3NCS1dRRTZRcFlFNjU4ODdZbDVTRml1Ymk0a3NzdTNfWE5Nb0VqQWZrelpyRmFfZlVValAzSGswaUk2QzBFOEVNM21sMWhpSmc?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 23:06:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: In interview, US Vice President Vance says Iran must cut enrichment to end war - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ3R3RzJuRF9NSlo0bWNMaGY3dTdUbXRmSU1BMml2V2RLd0sxazNvVUNRdXpHa21Ebk4tVWtLeHZXMG5xM2ZUVG1aTEJDU0FRWnRHZnozTHQxdVRjeTJvbXRKNzFpNG1wR3RqVDlKMXpXY09hYlFKVlF4RW5uQjJJMXhKOEt3c0ZLWE4tbWZlQW5hUnRnckxmaU1mU0R0SWwzRGNXdGo0ZTVTUXBlSHlfakN1Yw?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 22:54:51 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmtvTm9vbkpQcVdlWl9Lall5TlIyS1g2aWpJSEh3Z0hKbzdOYmZkRUlNWVRHMkZsOFNaMkwyNjhpVEtfQW9vUjhnTV93VlRGOXVnOUg1M0loSmk1bzF2dFJldExORU9tYTdabmQtTWNMOHkxbWhLZUR4bElDYUp5bWN2RmV2bVhVYVB3WW1KLXJaRVREdVQ1WXpuMUJtUXFk?oc=5",
           "pubDate": "Tue, 06 Oct 2026 22:18:03 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "North Korea warns US over Taiwan while Kim pledges support for Russia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHg2SlpoVHlESU44TmVmZmNnNjFrYWw4bzYxVmtkWHBsdkppd2hFLVlSNFg3X19RRV9zc2tUa2tOX1BSckpvOVJnTHJabXJ4aHR3TDZJTENCOV9tV0ZPN3FYUkt2YjlVZllULUEyN0hTLXd5a3pFUmNEcXF4N1ZxTTVQX1JVdmNoaXdBcnhNUDRvZ0MtLTRhLUhmQzNTaEtiTlN1MTh3M3o4d0ZhQVFWaTZTQ2lCSHoyV3FocnhDRE4zX3FVTjJz?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 21:58:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3FqSTVKTlVKYjhpTElEZG96U0k0V2hxWGFYNXk5emE4XzN2Ukpyb0dSakdPLWxoVnMzUE9uV3dmb3ZxM2x4ZE9ZNllUYjdKMElxdGFjSDdLYkVwdmY5R0FoQ3hEVDY0R2dySWdkNUhSUzNLZXg1QklURkQwY2RrUElRVWNUaFFhbC1HSXUxQ0Z5bERVYUdwLV9ZeHJ1X1YwY2tJM0ZhTm9WUFNoQXN6Y2FPYkxCUldRb0ZwNFNmUkNNaHJNSHhpc0lFaVVuS1l1cmdyUA?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 21:42:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "New Maryland defense shipyard gets $6.6 billion commitment and Trump visit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnNtRWdSbGZ1VU9sbXBXSXlLMWQ1MmJWbjRNYllDdHhNQzFpdzdidnZBRGJhX0ZnWkJoRE1lX25lVE12dUw3cTZpV1luazdEc3MxSE81a1QwV05EUFBnWGNnMFFYQmR6R1hDSXNYV3FLZ0puTzNablBCRUlKOXZ3d1FyVm1FSldOT1VuaGZ0azAwcnk0aW1HRUhVNzZCY3RGRlE4ekwyM0VoZzBreFRrTmZVc3RkQWM3N2w4NUNsUURZUmc?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 21:14:45 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T00:00:19.080Z"
+      "updatedAt": "2026-10-07T00:25:20.331Z"
     }
   ]
 }
