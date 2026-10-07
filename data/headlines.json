@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-07T22:00:17.991Z",
-  "lastChecked": "2026-10-07T22:00:17.991Z",
-  "lastUpdated": "2026-10-07T22:00:17.991Z",
-  "generatedAt": "2026-10-07T22:00:17.991Z",
+  "fetchedAt": "2026-10-07T22:25:12.983Z",
+  "lastChecked": "2026-10-07T22:25:12.983Z",
+  "lastUpdated": "2026-10-07T22:25:12.983Z",
+  "generatedAt": "2026-10-07T22:25:12.983Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T22:00:16.723Z"
+      "updatedAt": "2026-10-07T22:25:11.584Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The WHO seeks more details on the death of a plague research lab employee in Russia",
+          "link": "https://www.npr.org/2026/10/07/nx-s1-5993873/russia-death-plague-research-institute",
+          "pubDate": "Wed, 07 Oct 2026 17:53:47 -0400",
+          "source": "NPR"
+        },
         {
           "title": "What is the pneumonic plague?",
           "link": "https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms",
           "pubDate": "Wed, 07 Oct 2026 12:15:26 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Gut microbes followed migrating humans across continents, new study suggests",
-          "link": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
-          "pubDate": "Wed, 07 Oct 2026 11:00:47 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T22:00:16.978Z"
+      "updatedAt": "2026-10-07T22:25:11.868Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,7 @@
         {
           "title": "Tropical Storm Isaias is forecast to strike the US Gulf Coast as a hurricane - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEhBWXUtdkhWTUo1bUV3ZUxIZWtVbGlVa1lmbjMwVmJBaF9XMnZER2V5WnRMaGRSejBNNUYzWExKSHV1SUNLSFdXbXNaQTlwbEdlN2tmdWxwUGNOdG5sNzB3OHNDbTEteDFTeVV1SFN3ZG4wUzFqNHktWU1mZ2QzeUJ5Zzk4Q2hJam5BQTJDempteVBBRGFyNFF4UQ?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 21:35:00 GMT",
+          "pubDate": "Wed, 07 Oct 2026 22:18:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,9 +142,21 @@
           "source": "AP News"
         },
         {
+          "title": "FCC considers allowing more political robocalls before midterms, including those created with AI - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONks5NWxRYXVEQkpDOGM0bjg4Rk5IUC1ta25EY1NZYVlZN3ZGdTdLX1ZzVTg1UnQxbzhFdmhUb09DQmU3bndneU11WjBISFRNMHpyNFRKUVd1UXJhRjlGMDl6QW9JZi1zS1JMRXhZMlR4Wm1mWWprUGE0UF9ieUhnQ0k5U2pKVWFsWFVnNHQ2aG81ZWk0MjVOY1YtbFpmdjB1bjZuMTVUcHlRQWpBWjhIMUVoWFhvdWNmSHlV?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 20:33:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "DNC sues Trump administration, alleging taxpayer-funded ads violate propaganda law - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT1ZYckFSQkR0bVpVSkNEOEhWUmxhTXplS1ZsZ0huNkRfLXVldlNwLTVFNUJBZGVPNGdsbjRBVFJNSHpZamk0Yk1TQm5Eelp5MWVuMmEwVmJNRktHVXFYdEdfMVpyNTJtV0ZIVnZYM1V5SXBRWF9qR2ltNGlUYms4YUtXUlR3bEN2TncxLUxEc1IwLUMzU0RRejdoVFR4aTlvVW1vNlVIOA?oc=5",
           "pubDate": "Wed, 07 Oct 2026 20:20:56 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Grammy-nominated R&B singer Freddie Jackson, known for '80s hits like 'You Are My Lady,' dies at 70 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTNGZXZyTWxPUUZjWl85MUlvMXJVQ21wRjFRcTEzOWVla3NwbzVTbDI3ajZNN0tzcDFIWWpreFpwa0p6UXJ0SnVGb3haYktTcG9FeWRPY25lOVMwaGx1WlZmSVdjS0VxWF9JOHV4NDA3YVRHUi1mYjdibWdDVi1oX2JEZEVJTEFsMlFZcFp3?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 20:16:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRktyUHFtWTNweUFQdVFONlpkbDdzanpDQVo2Unh1ZEZ6SlVGR28yUTljV2Q4ejVLT2M2R0czanN0anlMRi04cURwVVNlZU9XZVdocVJWSEdKclcxeWhsZUkwaDdfRUQ5UERfLUY5c1ZZZVhRSWlia0R6YnYtWWFnU0xOaTF4TjFjWjZrQ0RrenozWldmT2h4cFU4QzlzcTNTUzZDUFRLQmVFQQ?oc=5",
           "pubDate": "Wed, 07 Oct 2026 20:00:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Tropical storm threat churns planning for Georgia-Alabama game with Trump set to attend - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjRhV2dRSUhlTzdmSHE3VnNobVdPV1lLeGhZYnRsSHRRYkVhckR6MGRsOFEzY3JqVDRvUVNwSHVMLUQydjJNbGFVNzk1UHM5cjhrVnBjcnNnM09FM21sUnhwQThDNUhJdlVmSWJOVTBaa2RtZEtXRjNqRFZhLXVsWkljVF84Tk9qLUhSSXJWRnFxelE?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 19:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 18:57:54 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T22:00:17.492Z"
+      "updatedAt": "2026-10-07T22:25:12.488Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "What has been hit in Ukraine's attacks on Russian energy sites? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXZKYkF1aWRuSkZiZV8xT3R1T1pLUUQ4dFM5WGFNYW1iRS1WVXlKM1M0OEVmQjA5dDFPaVNaR0FYQk1yaEJRbW9FQ1RCQmRwanJGT0FtXzZXU2dPMXQ1ZDlqUlZsVjktOGtRSnlSaHZHZTlMM1RqWm80ZU00c3N4LTFORllVNlotWDNfdlVPUUlKcEs2X0dmQmtpbGhtTkx3RTdMLVhORmZSZw?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 22:04:41 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Spanish woman whose eviction ignited housing protests dies at 87 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVliVFhoby0zMHpXSUY0T3g0cFBYM2dqVTFOSC1xVHNlN2FTdGdXYXZBRFRJM0FBYWJydXZTVmtJZjFlYVhZQUJBVV9wT1RyMFhhZF9LNUlxNjVJNFhIUk11T0QxeUNKcE4zckxwSTR0UmVGY0c4NDg1a3FGUEc3N212NW9KT0ZaOEdUSUhzbkFDU0hSdUFkMndNLVI0T2JvZmY5eU1kZURGeFh6RWY2QWtSaTVvZkFMQW80?oc=5",
@@ -179,9 +185,21 @@
           "source": "Reuters"
         },
         {
+          "title": "Microsoft brings more AI to PCs as it challenges Apple - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 21:11:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "France suspends use of stun grenades to police student protests - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTVdPc1QxMWRKNmx1bVo0RTVHM3h3OE5RUmdNNHQzRVIzTVlTXy1yUG4xUTBoV3c4aGZiRVpyOUI5d05yRFVIaE1GQzZYYUQzZlpGbUE2QWZqRy1UQ0JqUEpBczFBNXlwWmxaVGx3eG0tREt1a2QzbnY2aEQxTHlOVWl5WWZqX1BsLXhnOE1md2NVdHV5UnJjR1FrZk9oczVYUEROeU8xVkRSUQ?oc=5",
           "pubDate": "Wed, 07 Oct 2026 21:09:30 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "AI companies run virtual drug trials, aim to improve success of human studies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzNEYVFhV3haR0RGX2RWa0FjcmxRQlFTLTYwRFc1SlowRDNpUWlwdUd6NVFJVnZha25pZV9jZDlvX21ERllna0tsT01zRE9wUjZSbzg4Zk9XZmwwUEZ3dXkwZ01TWFlKU21lVV80RkdfU0d0d2NIVjV2LTk3NExQUFpzX3JqNENQY1FnOE1sR0xQOW1SWGdRdGVmenlieWlVbnlFY3BKczVnTlBuczUzQTVHZkx0Tkx1bEh5ZVZVbGs?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 21:01:28 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "What has been hit in Ukraine's attacks on Russian energy sites? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXZKYkF1aWRuSkZiZV8xT3R1T1pLUUQ4dFM5WGFNYW1iRS1WVXlKM1M0OEVmQjA5dDFPaVNaR0FYQk1yaEJRbW9FQ1RCQmRwanJGT0FtXzZXU2dPMXQ1ZDlqUlZsVjktOGtRSnlSaHZHZTlMM1RqWm80ZU00c3N4LTFORllVNlotWDNfdlVPUUlKcEs2X0dmQmtpbGhtTkx3RTdMLVhORmZSZw?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 20:25:01 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Fed policymakers divided over rate-hike logic in September, minutes show - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVl1b0t4RWF0WnFRODUzeHAydHMzOFl1U0lKbEhOa3ZSbG1GdDdubllBRG9raTZ0VllPeWJsUEFmOUlLaGZKYkd1QXo0dEFyUzZCUjdKM0NQeHdCeUZWU1hBcTBNaGJIaVJwVkluZ3Y0elloSXRyRHJkek1VdUxJdkV0NV8xSXJxUFdOVjBJVmFRcm5Na3M2ZGlodGdtcEk2NFlnWnZXVUNQSlJBUUFUSmJiOA?oc=5",
           "pubDate": "Wed, 07 Oct 2026 20:19:51 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wall Street ends lower, off record highs, as Treasury yields climb - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlBxMHUzb2ZDaHpMY3JBZUl2Rk9XSE94bjQ2aFVndHhYeU4zS1Rwb2I1SlFJWjVpaE9sS0V4c2ZiQ2JsMzd0R0lydzlFejhJVkNYbU5ZTGVjeW9tWUJtTmUzX2VwY0N1SnpLVmdvQWRvM20xS25hRmhXRDdHVUppRk9hS2JhVExxdVUtX0hfQlNqWnd0OUhHWEpaa2w1Z3hXNVRkaw?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 20:19:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Focus: AI companies run virtual drug trials, aim to improve success of human studies - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzNEYVFhV3haR0RGX2RWa0FjcmxRQlFTLTYwRFc1SlowRDNpUWlwdUd6NVFJVnZha25pZV9jZDlvX21ERllna0tsT01zRE9wUjZSbzg4Zk9XZmwwUEZ3dXkwZ01TWFlKU21lVV80RkdfU0d0d2NIVjV2LTk3NExQUFpzX3JqNENQY1FnOE1sR0xQOW1SWGdRdGVmenlieWlVbnlFY3BKczVnTlBuczUzQTVHZkx0Tkx1bEh5ZVZVbGs?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 20:13:51 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T22:00:17.991Z"
+      "updatedAt": "2026-10-07T22:25:12.983Z"
     }
   ]
 }
