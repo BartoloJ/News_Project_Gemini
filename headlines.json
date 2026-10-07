@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-07T07:50:14.475Z",
-  "lastChecked": "2026-10-07T07:50:14.475Z",
-  "lastUpdated": "2026-10-07T07:50:14.475Z",
-  "generatedAt": "2026-10-07T07:50:14.475Z",
+  "fetchedAt": "2026-10-07T08:00:18.261Z",
+  "lastChecked": "2026-10-07T08:00:18.261Z",
+  "lastUpdated": "2026-10-07T08:00:18.261Z",
+  "generatedAt": "2026-10-07T08:00:18.261Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T07:50:13.244Z"
+      "updatedAt": "2026-10-07T08:00:17.009Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T07:50:13.578Z"
+      "updatedAt": "2026-10-07T08:00:17.346Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 04:37:36 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Nobel Prizes - AP News",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DQ1IxVWI5WjREWndsamVteDBVVlRHUHdFRWpRcEh1bUhHNkdtX1BUWUpkNWR5cUNhalZYYjROZjNfbFlVLVU0QjdlRQ?oc=5",
           "pubDate": "Wed, 07 Oct 2026 03:58:04 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 03:48:59 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T07:50:14.115Z"
+      "updatedAt": "2026-10-07T08:00:17.779Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "France does not need ECB help at present, says Bank of France head - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGxLaHh3Yk11empidnZOcmNpN2Z0NFoxazNON2xDb0xnakhYejhZSVVubE5oOXlFXy1sUXp0ODd2aFlZTmphZFlqX1RhR3FLazFkd0FkMzM0Y1FwTWdVSHNQSzU0bWhnQ240dGhKRHdFU3dNOXpVZEw5eUVQR2FqRk5xa0c0OFhFazNFQXM2aFR4N3dwb2JzMnh5dUF6MlBYUEk4TGQ0U2hQYUNYUDBXUmdB?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 06:23:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Tesla is browbeating the EU to approve its ‘Full Self-Driving’ tech. The pressure is working. - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdjBuOTVpakJxeU9NUm55Z2xWcU42ellEeUI4XzhuaGdNWWViVkFqSGJwVGg5Y3NPNmFlTFVBdVBiWGh3TmdCbjF1UnhGM00tQXFPSS1lOHB2YVk1d3ZGbnEwMkRuWGJFREdOcmFaZ3VOYm4tTHkydlZEOEJrTGNqVDZHSk5IZFkxSGFHREhFcm9ZamZNU2YxbmRfVVpmYUJwYm5Wc2Zhdm9yUnlZYW1UM2xjcXVtWGNsQlZsTjh2eXBjQWRaSm9OQg?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQlZCVTJBN0oxSFUtU3pHLXZBVzVpQVJfMXRkVnRMMWFXeUhrczVkVmRkelVJckVZOGc4QVZkVDBlSDRCVE1XMEJEUXBmWlVGaklQcDRxUTlFNVl0a3h6TlhqWmpVT1gyMmR4VTZtdmRWSTU3SUtPeGZPYndYdjlaVEsxWUdJU2U1RjhaS3Z2YU8xZ3lHbXVsaklld1hCTkRzS0lpTGJzcnJNX01TallDRQ?oc=5",
           "pubDate": "Wed, 07 Oct 2026 04:33:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Who's the boss? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pTkNXeGt4a29GamFjUnZ6UnlIdEtFZGFZSHk4UzFUWUZpcHVhNEpQNjI3OWxtZE5FbVJ5c3cteEhmOVVQUWZ6OWNmMXRNSEp4LTdaeGlIWVFESWlpSDcxcDQ1ejdPNnJqMXhLdHE1RmY2ZUhYWTJpWnFyRmhNSVU?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 04:32:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T07:50:14.475Z"
+      "updatedAt": "2026-10-07T08:00:18.261Z"
     }
   ]
 }
