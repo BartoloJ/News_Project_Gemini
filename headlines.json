@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-07T03:25:16.176Z",
-  "lastChecked": "2026-10-07T03:25:16.176Z",
-  "lastUpdated": "2026-10-07T03:25:16.176Z",
-  "generatedAt": "2026-10-07T03:25:16.176Z",
+  "fetchedAt": "2026-10-07T03:50:14.303Z",
+  "lastChecked": "2026-10-07T03:50:14.303Z",
+  "lastUpdated": "2026-10-07T03:50:14.303Z",
+  "generatedAt": "2026-10-07T03:50:14.303Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Former Australian bishop jailed for sexually abusing young men",
+          "link": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 07 Oct 2026 03:43:05 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
           "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 06 Oct 2026 18:42:58 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-          "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 06 Oct 2026 18:05:53 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T03:25:14.955Z"
+      "updatedAt": "2026-10-07T03:50:13.380Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T03:25:15.076Z"
+      "updatedAt": "2026-10-07T03:50:13.420Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Germany's former foreign intelligence chief arrested on suspicion of espionage and attempted treason - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSE1QSWgzLVNrRy1fbFdqc0FwdkctYmcyZ2UxcmxxdWdyRENwM3VKSFpqbnpxVUdpcHJISDlpVV96eDdSV3pyZ0UzZUtRZzR1UEhIQlNhaDdjRVVNWUJrN3dyRDAyMTZjcl9rbWx2QW54ZkV4V1lRNXU5bFJURmlhTG42RkxHODJPWmpOWi1hOWVMVDY1N1phMVJrZWtUSDNOcS0zWWdvZlBBNU1YOFNwWmdYaGMzcFg4ODd2c1dB?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 01:38:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Kenya confirms its first Ebola case and death in a man who traveled from Congo - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSDRYelBzeG91azU1X0ZuQjZvdzFBcmEwdTRhWFVZVWdPZ3NyWEVvNXVaX2duTXZmUE41X3hKNEEyMHQtS2xsZnNfNHRLRXlaUlF5aXAyQmVkeURJODBRbmRieWxyMTU0QWxjUTF1clRKQlRibFJPdjZBM0E4U012eHEwOWdiYkZnbnFDWmtUM1RIM2lfdkE?oc=5",
@@ -142,32 +148,26 @@
           "source": "AP News"
         },
         {
-          "title": "Nobel Prizes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DQ1IxVWI5WjREWndsamVteDBVVlRHUHdFRWpRcEh1bUhHNkdtX1BUWUpkNWR5cUNhalZYYjROZjNfbFlVLVU0QjdlRQ?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 00:50:17 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Eva Marie Saint, star of ‘North by Northwest’ and ‘On the Waterfront,’ dies at 102 - AP News",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmM0cUhNNndHUlFMSHlzVUpKQk92a1M5Q2xBWElmWXRSSTk1MkJFM1lPdFRIUWF2NHNMRkxjSGwyQndZU3dndnZBMEU5TkNtZTZRdURsOGxxYm92bjZPTlg5OW9KQnZpSFhOQ1hITEluV1ROREJzU1VsbEExcVpLMkJzZFItVkU?oc=5",
           "pubDate": "Wed, 07 Oct 2026 00:47:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "California couple arrested on child abuse charges in horrifying surrogacy probe - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQkdKNmk5d0xST19tU09TWExYazNnS05RbHNfV0pzdWx0bU9PMFotXzE0Y0dIbGUwUkxHeXFrX2RSblZObmlTM2YybnZmMlk0X0VYbnJQMHgtc0wxekw4ZTlZYU1OWElKS2JYR0QycUZnQVB5bXJCOEdUMzYyRDB4ZWhtU1h2ZDJ0NjRQdXY1c2Z0UQ?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 00:15:00 GMT",
+          "title": "How Russia and the world are responding to a possible case of pneumonic plague after lab worker dies - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHd5LXpXdGhUNXZhbEdVWVhSa2FtSUp6Zk5Yekk4UEtlQ3FmOFk4SGh3RmZkSHJmbGJpNXFlMWRTZmd1Q0dlZXo4NGxyTzYxNVk3TEZQOGpwVWE1YlFCcmNFNU5EZE41LUQ4dGh6UXB6S2MxSmhLSTVHTFh1dkpFV2R4azFfZTlpMUFwa3Q3RGZ3alRfMVE?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 00:41:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Argentina bids Messi farewell in final national team match, ending an era - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObkp2d1VDOEM4VmYwMFN3Y3VlWExPdWhFdHVZNnRCRnFSQ0pTdkFtYnJwSUxYU0lrVE90cUxnRjNOdk5iamRKQktMQjdqV012ZHVvdklPbXozWnNfclJleHhqeldJRDluWHhMQmRneHk1SVJPNHcxd1hzUzF4N1MzZ1VKWGxXQld1Q3F5NWNWSTE0ckdPNC01ZmppejNHdVdNSktrQm4tQ2c4R1J5eVg0QUVuTXNoa0gtaG9tX252RTFhd0RGOTZrNklQOA?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 00:11:00 GMT",
+          "title": "Spain approves 21 urgent housing measures after protests ahead of snap election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaGV4VDBRMy1CRm1lak9oRWxFR3gxQzBuNmQ2WktBU0Vjek5xR0hieWpVOS1wWHA4LVFGWndyaHZDTUNUSnM2d2hLb2tZazVGZE5WblF4UFBzV1JkMk5RQTJ2dFVJZzh3dkFuY29lT2FPSm9XN3M2TWNHc0Z0UlJRRktEVHduUGJjZGtmZy1JTWpwYWtBcHF5Z1gxd0VDTUt2QzBXdmJCa3A?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 00:30:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T03:25:15.728Z"
+      "updatedAt": "2026-10-07T03:50:13.861Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,24 @@
           "title": "Asia shares weaker, oil up; investors weigh Saudi-Houthi escalation - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZW5YUkkzdjhfTWJXY25aWkVLeExISGkybXo1YmFoS256Qk5DclZaVVc4ODRnejkzYlBYOTBVWWp5YTVHRDVyMmtBUDVZWHlFclVhYUtIU2d0Tm1GWmRzMnhQNlg4aVVfWEZjb21nQ0tTUzc0WjQ5bEhmWVJuNzFwX25Bdw?oc=5",
           "pubDate": "Wed, 07 Oct 2026 02:40:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Indian shares likely to open lower ahead of RBI rate decision - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWI2VTJBM0hPOXBYT3lXTFZfb1lfU2xBS3l1Y2NLRkIzY2h2V2FTci1wVTNWdEZOckdjN0w1Qm1UZ0ttTlUyWHpkNUxoNGhXdVBRQ2hidGNyemZmZVRzeWhTNUROTU9hc0FSWUszMWhJZ3h3WFhCYmFScUlMNmM1b0NFajlEUGUtWDM1ckRWV0JZRmlOa0pMUnc4ck1VeXZKel9lWF93?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 02:20:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold edges lower with focus on Fed minutes, rate path clues - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU10STF5SHNISk9FdXk3NTA2YjZhbnhWRTJlYlpBRGVhanFxWVQxVzhVek11UEp1OUJOU1Y1WjNQTDlBWmg3aEhvVWkzMUpXd3dBbm5Qa3pEcFdEeERZUDNwUHdFYVp0YmZPQVd3dDIwalp0LU1YWi1WTFZNVm5FTWxrSkR0dTJnNk9aM1BBc29MWXk5S3lOLXIxVW1Fd0xvbmhxNEpn?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 02:18:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US forces face curfew, alcohol ban in Japan's Okinawa after murder case - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXRZUG5iOFFMbnNrS0Qtc2dJSWtpMU5kRHl0dTNfanU2b3JTZFdCTnRWdjZWYmxYcTRTRjhmbG5oRlpaZmpTcG1FeVVUNEdyRi1yR3RKNTJwUU9yQVNrel9PUU85Wm0xU04tS3dzNWR4SEVFckZmdlBKME00VlR3Yng5TUp1VDVvLVg3enMyS1BtbTdGWmNRSEZ2TlhEdU5CTG1mLUxuX3p4dUdpYnVPWmVjVEw?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 01:55:00 GMT",
           "source": "Reuters"
         },
         {
@@ -191,38 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "Tennessee execution survivor Christa Pike is conscious and speaking, lawyers say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONUxFQkN4NWFDc2hwdFNtSENONkltUy1FbkVXOHdFMkVSYlRWLUxHNmkwQ1lWQnVBb2NWZDkzM2lEY0JFaFQ0MjN0S1RHcWNiUHUtQkVCUlZjX1plaTRxbEl3b2JTWFMwYThrdXc1TExKTEtvMTJhSlBiUFp2SkgxRWl6YUJvU3RsbTNUbGg0bDZBYnpoY1lSTFZZX2pQQlN1ODlFTG1hdG9qRXNzZTFKTXoyeUQ2NkE0eXhUUFU2WQ?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 23:30:54 GMT",
+          "title": "Kosovo parliament elects new president, avoiding snap election - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWjZDY05YVm45RHBWLXp1ekFlMmhyMjRYZngwMmN1MlIyQUZVRVM3eTgxN1lXcmY0dTBlQmRfcHZsVUh4UTJ6WmZoajZuUVJERmtWaW15MUNPNDZBZzRUUkdCbElsWkdTN2V2c1FQaGQwNU1ZdFc1LVJWM0g1NXAwaktVQlNoMUI4aW5RcXJnc3c5aUdDNnpKRXU0NmVXT2hJRWJQTEhB?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 00:08:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "FICO cuts workforce by 15% as part of AI-driven restructuring - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWdxR0ViNVpha0hSN251NWVfLXg2U3ZUSVZiemRfQ1ZJTXVYT2tFQnRRbG55UFJ3bkYzc2N0SDBRbjd4dUp4Y1EtTzZVaGJubmFGNEplTWh4NUt0cF9TRmFRVThUWEIwOVlCSHVkZVpjdzl5MXp1Ui02NTFMa3JNX2dVaDFvazFjcGNtNDdHdXpUbjRjSjFSRkxkNTZ0SnZmOFNLRGE2Sy01RTFy?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 23:22:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US forecasts hurricane later this week in Gulf of Mexico - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMC1vN2p1enkwcTlYR1VwSGVKdkVZOENWNjVpSkVOY09taV9Va3I2aGp4TmlzNnhMWWUwb21hQmdJNlZhME03aGVlTk1QX0FOSWZWZ1Roc2RtOXlYSjgwYVZXZFM1MjA1c3RuUndDLWFMVThKY0J4c05ubWFIS25kQXl1T01va1RqTTMwbTAyZm83czlHaktRWXJtNExZV2F3YTM3UzFnX0M0bFU?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 23:12:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU1Nta3U4VlZxT3hJYXNyVmpEb1Q4R2ZJeDc4ekU4VG1yeWwyVUYxXzVrM2JZeHVab3lacWxxVHFUM1g4bHRKV1dVREpBeFE1eDlONnBDZ1poc3dib2ZXd1k5aFlqSWFrUFY0dUV4aTlMOEFoMFhaVlhyeW5KVEg3NVdQOU84b1dIQ3huWjUwVER2MmptWFl5YUkyZXJEMzRTM0xrQUo3MDc1RGJKeVBDeEczWEU?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 23:09:55 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Californians blast Trump remark that Iran could 'take out' Los Angeles, San Diego - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTY3RjZOMDVYS2VsdWNRS0ZWR0FoRTU1V1MtQk8wLWdEMmdvTXYwVUxORXFpQXNFM25wbU9uVFFKNnhMSmlYUkFEQ0xhNnNKMk5hTjZURGhtV3piTlhieVVhb3h4N3hCYmtTQUVZZUh5dkhPaERqT0hFWXdPQl8wYVNfemd6VkZqSXVEVHQ0Q2NzWWpQUlVjVUhpdHhDWnZUMWl4RUZKTVplVWp6c3prRDhGZw?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 22:48:29 GMT",
+          "title": "Japan's $15 billion Rapidus chip bet hinges on winning customers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3RVWTVycENiQVRWbElpV0owalhoc2h6cEo2bVZhZXRWRW13dDN3azBUODhKY1ByMHh6bElCSkdNaDZSZ05qQmgwVnBtVEZocHh4OTZCNGFvck81WFBUVkNPRVVWTVMzUHdtLWlZSEtGSHdLMTVtcENWbDVmdmdVWU94OHhlaVgyWlhjRDg4MTlDc1lLVHpIMnBsT2RkN1hiNTFKOHhEdjBzZlYzdUU3UUZqTVA?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 23:57:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T03:25:16.176Z"
+      "updatedAt": "2026-10-07T03:50:14.303Z"
     }
   ]
 }
