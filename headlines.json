@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-07T13:00:24.162Z",
-  "lastChecked": "2026-10-07T13:00:24.162Z",
-  "lastUpdated": "2026-10-07T13:00:24.162Z",
-  "generatedAt": "2026-10-07T13:00:24.162Z",
+  "fetchedAt": "2026-10-07T13:25:14.655Z",
+  "lastChecked": "2026-10-07T13:25:14.655Z",
+  "lastUpdated": "2026-10-07T13:25:14.655Z",
+  "generatedAt": "2026-10-07T13:25:14.655Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
+          "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 07 Oct 2026 13:02:17 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump to speak to Putin about plague lab worker's death in Russia",
           "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
@@ -38,12 +44,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15",
-          "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 07 Oct 2026 11:05:37 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
           "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 07 Oct 2026 10:12:36 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T13:00:22.099Z"
+      "updatedAt": "2026-10-07T13:25:11.724Z"
     },
     {
       "name": "NPR",
@@ -78,12 +78,6 @@
           "title": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
           "link": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
           "pubDate": "Wed, 07 Oct 2026 06:05:54 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Here's the latest sticker shock: Borrowing for a mortgage -- or a car",
-          "link": "https://www.npr.org/2026/10/07/nx-s1-5991910/interest-rates-economy-inflation-bonds",
-          "pubDate": "Wed, 07 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
@@ -109,18 +103,36 @@
           "link": "https://www.npr.org/2026/10/07/g-s1-146776/israel-gaza-oct-7-attack-netanyahu-warning",
           "pubDate": "Wed, 07 Oct 2026 05:00:00 -0400",
           "source": "NPR"
+        },
+        {
+          "title": "Deep in Appalachia, a rail-to-trail project builds bipartisan support for a bridge",
+          "link": "https://www.npr.org/2026/10/07/nx-s1-5980349/rail-trail-bridge-ohio-river",
+          "pubDate": "Wed, 07 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T13:00:22.332Z"
+      "updatedAt": "2026-10-07T13:25:11.849Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "How Russia and the world are responding to a possible case of pneumonic plague after lab worker dies - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHd5LXpXdGhUNXZhbEdVWVhSa2FtSUp6Zk5Yekk4UEtlQ3FmOFk4SGh3RmZkSHJmbGJpNXFlMWRTZmd1Q0dlZXo4NGxyTzYxNVk3TEZQOGpwVWE1YlFCcmNFNU5EZE41LUQ4dGh6UXB6S2MxSmhLSTVHTFh1dkpFV2R4azFfZTlpMUFwa3Q3RGZ3alRfMVE?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 13:14:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Nobel Prize in chemistry awarded to Kagan and Soai for untangling mirror images in molecules - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRUtiNVNxS0NHT3VOdUNUdHZkY0w1WmZJVGZyTm5Wa0l5bzZSV3JueXFXT0oxMG1BRTRxMS1LSVg3QUVFLXJDV2RYV0JUTVh1bVZiRGZWaWtZWERQUjFZMVV2bWs0d2dJMlk4TGVUMHdpbnJ3UXpGREVBX29ENGw4bGF2ZXBfQnlQQk9qOEFCNnZaUQ?oc=5",
           "pubDate": "Wed, 07 Oct 2026 12:40:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Tropical Storm Isaias forms, is forecast to become a hurricane and hit US Gulf Coast this week - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEhBWXUtdkhWTUo1bUV3ZUxIZWtVbGlVa1lmbjMwVmJBaF9XMnZER2V5WnRMaGRSejBNNUYzWExKSHV1SUNLSFdXbXNaQTlwbEdlN2tmdWxwUGNOdG5sNzB3OHNDbTEteDFTeVV1SFN3ZG4wUzFqNHktWU1mZ2QzeUJ5Zzk4Q2hJam5BQTJDempteVBBRGFyNFF4UQ?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 12:39:00 GMT",
           "source": "AP News"
         },
         {
@@ -130,21 +142,21 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 10:47:07 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "How Russia and the world are responding to a possible case of pneumonic plague after lab worker dies - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHd5LXpXdGhUNXZhbEdVWVhSa2FtSUp6Zk5Yekk4UEtlQ3FmOFk4SGh3RmZkSHJmbGJpNXFlMWRTZmd1Q0dlZXo4NGxyTzYxNVk3TEZQOGpwVWE1YlFCcmNFNU5EZE41LUQ4dGh6UXB6S2MxSmhLSTVHTFh1dkpFV2R4azFfZTlpMUFwa3Q3RGZ3alRfMVE?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 09:58:00 GMT",
+          "title": "Grammy-nominated R&B singer Freddie Jackson, known for '80s hits like 'You Are My Lady,' dies at 70 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTNGZXZyTWxPUUZjWl85MUlvMXJVQ21wRjFRcTEzOWVla3NwbzVTbDI3ajZNN0tzcDFIWWpreFpwa0p6UXJ0SnVGb3haYktTcG9FeWRPY25lOVMwaGx1WlZmSVdjS0VxWF9JOHV4NDA3YVRHUi1mYjdibWdDVi1oX2JEZEVJTEFsMlFZcFp3?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 10:20:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Nobel Prizes - AP News",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DQ1IxVWI5WjREWndsamVteDBVVlRHUHdFRWpRcEh1bUhHNkdtX1BUWUpkNWR5cUNhalZYYjROZjNfbFlVLVU0QjdlRQ?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 08:40:02 GMT",
+          "pubDate": "Wed, 07 Oct 2026 10:01:14 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 09:32:39 GMT",
           "source": "AP News"
         },
         {
@@ -152,30 +164,36 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjJDbTlPa3llVDNSRmFVcVRYX2FOQ1JLaFFMeWRwV0xvUFcyeWwyemRKbFFtaURRSVBzWG9haUJMWlNuRWQxREZSRDVVZi1sVDk5QUtvdkRuNGl3NFkxRDROTGdaWWRPTVVpT1FnNlZXNTZsLVhMZ1ZETk1qUmczeHNVcU9sLXFrTngtU3ZoWlZFbmtHNjVXWXdUZFItbXAtbDBYQXJOU2NzaV94RDcxb0RNNURodw?oc=5",
           "pubDate": "Wed, 07 Oct 2026 02:48:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Families of some US troops killed in the Iran war's deadliest strike absent from White House event - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1VpOTVFYU5JaFIxSGZ4SFg1dTVDamJQb2xSc18zanA3Nkc3UGxJTmhXS24xTmxwbUlRb255NGtncnJpSU1fUDBzUzNSREtydzJhdFIzS1kzcEVESGw2UDY4dDN2Sll6Rzg3MlM5REhiOXJSSDYyZW02cWFsendNMGFTbTJyejRILWRMMXNOVzU4blMxQ2NIdHIwSXNTeGkxaFIzdg?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 02:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Germany's former foreign intelligence chief arrested on suspicion of espionage and attempted treason - AP News",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSE1QSWgzLVNrRy1fbFdqc0FwdkctYmcyZ2UxcmxxdWdyRENwM3VKSFpqbnpxVUdpcHJISDlpVV96eDdSV3pyZ0UzZUtRZzR1UEhIQlNhaDdjRVVNWUJrN3dyRDAyMTZjcl9rbWx2QW54ZkV4V1lRNXU5bFJURmlhTG42RkxHODJPWmpOWi1hOWVMVDY1N1phMVJrZWtUSDNOcS0zWWdvZlBBNU1YOFNwWmdYaGMzcFg4ODd2c1dB?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 01:38:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T13:00:23.695Z"
+      "updatedAt": "2026-10-07T13:25:14.230Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "What has been hit in Ukraine's attacks on Russian energy sites? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXZKYkF1aWRuSkZiZV8xT3R1T1pLUUQ4dFM5WGFNYW1iRS1WVXlKM1M0OEVmQjA5dDFPaVNaR0FYQk1yaEJRbW9FQ1RCQmRwanJGT0FtXzZXU2dPMXQ1ZDlqUlZsVjktOGtRSnlSaHZHZTlMM1RqWm80ZU00c3N4LTFORllVNlotWDNfdlVPUUlKcEs2X0dmQmtpbGhtTkx3RTdMLVhORmZSZw?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 13:02:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Five more UK rate-rigging convictions quashed as SFO prosecutions unravel - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRkIwS2tFaFpmV2lFQ1UtQjEwRTFRZXpDd2dpZVBFR3lYeU1hSXJGT2I5QURDeDF5SV94TVdZUUZsNnoxbGlhLW1VbE5LSVVTQkJxYmNCWHNuVkRCWUJ0N05Ydkc2c2VKTkpRb19JLUxBT1BiUzQzd253Y2FwSHJLdTlGckc1R3ZnTjc5b3lIN3NTM1lGblpiQnRiNFlkT3JwNVJiVW1BYVlLaWlQakdtVQ?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 12:45:16 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Nobel chemistry prize goes to pair who solved mystery of 'mirror image' molecules - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWHBIX2xmcllqcXMxOGEzOGJjMGhKT08wX2h1YkdmLXpOcXZobkVxal90dkpYMmFiQXRQRS13VWtJbE1rVklCOXljNzhUUW93bE9DMWo1YUl5OTllcFM4cHBFUnJlQXd4bURGMi1xTVFWam5UZnBCeVMza2wyVkZ5QXY1YzJhZkV2ZWpv?oc=5",
           "pubDate": "Wed, 07 Oct 2026 12:28:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Failed polygraph played role in the loss of Trump ally Kurt Olsen’s security clearance, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPelRDclIzTkRFTnNuRzhXRWdDVnVfSW01VTUzZzU3MG9QdDhnbTJBNW85cmJiNGF4ZWRzUjJUQ0tMQmlnSlZNakNfMTRROWl5bktKamdhUGZNOE5zU21jU1daM0NFQXZONlVpY3J3MjhPUlYySXRzX0RXT0hRd0JlSzF2MnpUV0UyVTdyN1VkTkNBaUlkcFlyemVyWTJlTktSbXY5QzBDb2JPc00zMnozSGw3V2tENng2Y2IyX0tYaS1rV20wRUQ0?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 12:09:04 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "More than 200,000 people displaced since fighting in Yemen began, says UN agency - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVBuYVlIVGdyckYyTHF4dXZHbFBnTC1VSjZPak91TWRLbGpiMS1nR1dkU2hPRjE1dkZNR2dMOEtyblQ5SWczSHgtNFlKMlR1R1J1NlNNLXl4MmdGbTdSOFN5VzNFY1BQNVozcmg1aXpWUTgyT0VfLU1SS2hIaGVyd1BCc2tBc3BydEhTS0FabzRyVFk1TEdHeG92cXA5ZTJJejdtd1dRZXJ0a25mbnNpOGhxYTJVS0pJbFNxQjB6djhLWXRRb2s1bg?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 11:46:27 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "EXCLUSIVE: Apollo submits non-binding bid for German energy firm Uniper, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGx1XzF0em1TZkNycEZ5cHR1MzJIZW4zMWNfOUdLTUhUaGVyenhVenZGTjdnR0VUNFFLQUhIUjBRSVZ1RFExX0ZWNjhpWWpxN3k2emFtbDZTd0V2d1ZxTjgzY0VlVnB0WGR3UEFoaW5jYjNvSXRpa2pjcVd4cU9SV25ZbWpaZE5WeWkyck8yRWNzSXdyUmhzby1mNjN1WXQ4WDR5RWZUcklMUWhJWXNjOGhZOVp6R1NVclh5a3RQbWNsdw?oc=5",
           "pubDate": "Wed, 07 Oct 2026 11:41:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "WHO presses Russia for details on plague institute worker's death, Kremlin turns on media - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTludTZlWHBjdVd6VjI1LTlPQkhNWW90cDhvYjJHVnZqVElOalpNbTVBcHNoUGtIRTdhbGsxWE15WUFSRXA4b1p0bXl0cjV6R3h0RGxfMFpYM2N3cWJuZzJNenZaeVFsbFl2YzZpdzZVbEdENHRoUXdjRk1GSmRVRE50U0p1QVJaV3hFVk5zcFllOWVKSERBT0R0NmdzMW1SNFZicTZHajZ1WFRRUDE4S3d0QlZ3cjBoYzdwaGNqTWZWN1RJTHItZ0F0MlNUXzNjN2gxVTloWXkxR192c1E?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 11:29:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "What has been hit in Ukraine's attacks on Russian energy sites? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXZKYkF1aWRuSkZiZV8xT3R1T1pLUUQ4dFM5WGFNYW1iRS1WVXlKM1M0OEVmQjA5dDFPaVNaR0FYQk1yaEJRbW9FQ1RCQmRwanJGT0FtXzZXU2dPMXQ1ZDlqUlZsVjktOGtRSnlSaHZHZTlMM1RqWm80ZU00c3N4LTFORllVNlotWDNfdlVPUUlKcEs2X0dmQmtpbGhtTkx3RTdMLVhORmZSZw?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 11:20:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "IEA to meet Wednesday over proposed release of oil, diesel stocks, two EU diplomats say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSWQwZFJidm90SFN2SzVMQVk2ZTZrVDI0LVhoWDloYnNCU2NuTE1ZUlZFM3dyZTFPaUptLXFZNlA2TTQtZFRFdXRDREdIZUtyWHhQbDQ4TDZOU1JpdjhENmxZLVdpU21ZaC1GcEFGT3MyZE5YX0FoZXJPUTM2TDNrTXpoTjRzUTh5V2VQdFlYTmFVTmtBYWIzR0hleXJ3RnZRNy1YTVRNQkxtSDF2OTZ1OUhYMkxFaGdNaUVSWnhxWQ?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 11:19:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Fed minutes could detail rate-hike decision, policy path - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaFdleVVLSGdCQUlSODJ0bVFmdlh3cl9WZFFrUG5oUHhxdGNTMUlKUW1QaDBfVXAwd2FLaE0yYk9nb1lNcGY2Z0twTXNweEtEV203X09TTUR3ai1fellVelpWUHlEWWRUYW9oVTByX0ttLXl5b1I0ZjRyQm9ZVFBldFVLR0Z3UVRScGI2b2NuVC1pblU3dzJtd1JnNHY0M1Y0SlE?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 11:14:31 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Micron Tech chipmaker union in Taiwan gets OK to strike - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNblR1QUoxNkY4VjEtRFVHbFhKQXB3THZidHU5MGtCUjFsUV9laUFSS2JDbndvS3Z1R2Uxa0NsSGpwcGhLb1R0bzlvdFllUktfNXZmei14YXZicTNTNFh4UWdpeDlCM2lCLUpaajhGUlNVbC1oQTdyZ20yTlZmc0JCYTRmQ3BCMVhGVVl4RzRXWWNkRmxua01NV0NhSm94UkpqdVhZOGg5S0ZxLXFMZkJCTlNWS2FCT0E?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 11:02:21 GMT",
+          "title": "Kremlin says France's test nuclear launch is part of 'dead end' anti-Russia strategy - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYVhyTEI5OXdMUkw0bkwwR0dhaUlpZGJCbmJZNU5IV2R6VXBscTJmLUFxUUZvb0Fnal9QM3NOWWN1UnFVbHNMYmt1RV81YnZmQUpsc1pSZ1VjSzEyb2lEYmk4ZkZ3QjBULXd1c1luS3FGN2h3MV90TFBaNXp1c0dYT1FMdkxybDMyYjdib3lKaHZPWmlvbm9IaWtuNEFLazA5RHhfVXpYZUI5RUoyR1ZrQXVLQkFZQmlFQTh4bENrb2lGeWJKZk95d1YzNFJ2S0ZaV0d0WE1XZ2Q?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 11:33:44 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-07T13:00:24.162Z"
+      "updatedAt": "2026-10-07T13:25:14.655Z"
     }
   ]
 }
