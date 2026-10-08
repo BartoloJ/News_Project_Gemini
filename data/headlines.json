@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-08T20:50:16.209Z",
-  "lastChecked": "2026-10-08T20:50:16.209Z",
-  "lastUpdated": "2026-10-08T20:50:16.209Z",
-  "generatedAt": "2026-10-08T20:50:16.209Z",
+  "fetchedAt": "2026-10-08T21:00:23.243Z",
+  "lastChecked": "2026-10-08T21:00:23.243Z",
+  "lastUpdated": "2026-10-08T21:00:23.243Z",
+  "generatedAt": "2026-10-08T21:00:23.243Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T20:50:15.157Z"
+      "updatedAt": "2026-10-08T21:00:21.981Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T20:50:15.257Z"
+      "updatedAt": "2026-10-08T21:00:22.321Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Hurricane Isaias strengthens as it takes aim on the US Gulf Coast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 20:56:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVZ6OTdhWTZlWUJFbTdTSHZOeG1lZEV3UEc2RDdhOVNqYjFWcTFwWUU5Qlk0RU5nTGlTMi1Tc1N5N3ktTGFiYUJUeWtod1lMbHJQQjcxMElFRjZHTlJtd0hlT2V5c0xVS2xqTkdsczJ2cG96NWlsMDEyZjc1TXAyUnhnTVd2RnVPQ1pHM3VXazc?oc=5",
           "pubDate": "Thu, 08 Oct 2026 20:41:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump honors Microsoft’s CEO after Vance drops an H-1B visa hammer on the company - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWko1TDVDR05nRjZMc0F5WjBMNlByZTlPZzUzS3J5RVFxa3Y5SGJBUDF1M2VjUU02TGJvRU1KUy10QXBhLVM5ZGJUWEM2dWtHdnI0Vnh6X2hXSHplZVN6QVB6UDNtSjdzMzhWdE1Yck5sWUZrM3B1WTVfVTJZNTlodE1KX0JUanM1azdNRkdmTTdqUDNEMWc?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 20:27:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,12 +154,6 @@
           "source": "AP News"
         },
         {
-          "title": "Hurricane Isaias is expected to strengthen as it barrels toward the US Gulf Coast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 19:16:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Strike on Ukrainian public buses leaves 30 dead as blackouts worsen in Kyiv - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGM3aHZDQkZDenB1TkllejNyZzlfdkRySTdKb2J6QjdhQ2phcXlhR0dfYzJyQkhaTWxOMHQ0SnpOeGZ5TDZXMm8xbC1RVUZjNUFTZFNqajFtcFI3YTllZWFFcHRjbnk4NTdLcFZfa3hObkdSbHFUU05Wdl9qYTB0RUV1OVh4aDVLTUpzTEFRaWcwVlNSM0tVSGVUWUpxVm5MR3FWSkgwTWk4aWpwR1Jz?oc=5",
           "pubDate": "Thu, 08 Oct 2026 18:58:00 GMT",
@@ -158,20 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaXpmdmZOT25ZT1RrbXRKYnRQY1VxbGR5WkFIVzMtX2hSU19MSUc1cHpJWDlJU0tkLVZOa0hNMlhXNlJxMjFlLWJiTUtlMy1nNnpwdlV3U3FYcUtBaU1OZXNxeEJjVjZxUWltUXBtX0xKME9LNjlVRDFsYWZWT2xXQW91ZlFPbDdlRlZJQzNwSjRJdHJP?oc=5",
           "pubDate": "Thu, 08 Oct 2026 18:36:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "New US indictment charges former Venezuelan President Nicolás Maduro with torture - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU01tbGJOMTBRYmRuQV94STRSQ2RYM1FWWlYtMUZfSEk5SHkxYjI4bW1yYjV1TWpGSTYtWkkwYXhRSDRzUEhwbUhwWVVlbmlEV3RXM2p5U1h1WnpYbWJXU185TFhWcFVfM1dOc2tiZk0zSl91VTNyLWRKM3ZpQlpYWnNEZXVHMUxlb1REbmQ1SWt0SUxf?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 18:33:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T20:50:15.724Z"
+      "updatedAt": "2026-10-08T21:00:22.837Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "US bonds rally after 30-year auction finds solid demand - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWpmVzQ1VWEzZnlPUWhiTld5WmYxSVZWTzlnem9razg4eFdjWVItTDJpTWx5X0FZTW1VdkdjV1RKVHdVMjJaTDBleXVqX2JKSFNFUmxlQXdaelR4cXJTdm9URy1ac2E0RVhMRzE3ZU1rNVJaakstdE9xTTNDTHkzZ3JQVEd0aHh3U2w2emtNbTVlelNqX0I2VEZ3NXZndWZKcnhoRmRSbGozdGhjNTRkVmV0U25NY1U?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 20:50:13 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "French students keep up protest pressure with some demonstrations hit by violence - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzJYR0JwU0s0NDl6aFRnVFZFTWhRNlZCZ0Z1LVREazhOdUJRcWZlb29wdlRNREEtdTNQMF9NcUxBbGhTNEVhQmR4YUJlVTl5ZzRYQ1g0RHBXbW11em12SmFuMUZLVjlkcnA3T180QVZIQXo4M3Rpcm0xRlBzOXk5c09nWm1OS3VyalpVMXVtWlJFWW9xazVVbVRzVVdNS3hqQ1FvRWh1am1EczVaa0QzTw?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdW50LWFCUWhGeXBDQTNMbHFXMU85QVN0LS1FZmg4QWQ0RG5QRnNsZ0FmWWVFU1VRZ1RiSHdhdnJlMU1vcEwyV1F6SGlvNWVyOGZUNmp0a1hTMG5YaUk5emRRTmtXd0VQdUtsVVA3UFRtT0gtVkFUVnFFOW1lZDlvYVBDdC1hUm5fOFQzT3dhQVdzMFZ3SVA1Rk1YQmdsVV9faWpjLTdHRDVwTmJFUGd0QUdR?oc=5",
           "pubDate": "Thu, 08 Oct 2026 19:56:11 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Starbucks has explored Chipotle takeover, FT reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmJ2Y2FjX1o2WTBVR2hCcExURmtYMDRzYlhrcE1OZnBqOGVXLUhOUHp1dVF3UFFnaEM5aF92dmdNcHVBRTJ5MFFwam9abTcyTlprT0J3NVhhVzRpNnpSWHRIUTI5NUZ1Q3dvOFd0RkxjeS05ZXQyaFpxYVpxcXZRUDFhczZKb2xtd1hiV1RFc0lBOUlzRjF3?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 19:17:50 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T20:50:16.208Z"
+      "updatedAt": "2026-10-08T21:00:23.242Z"
     }
   ]
 }
