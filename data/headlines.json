@@ -1,16 +1,22 @@
 {
-  "fetchedAt": "2026-10-08T08:00:19.862Z",
-  "lastChecked": "2026-10-08T08:00:19.862Z",
-  "lastUpdated": "2026-10-08T08:00:19.862Z",
-  "generatedAt": "2026-10-08T08:00:19.862Z",
+  "fetchedAt": "2026-10-08T08:25:12.349Z",
+  "lastChecked": "2026-10-08T08:25:12.349Z",
+  "lastUpdated": "2026-10-08T08:25:12.349Z",
+  "generatedAt": "2026-10-08T08:25:12.349Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "UK says 'vital services' to continue in East Jerusalem as Israel says most consulate diplomats leaving",
+          "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
           "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 07:51:06 GMT",
+          "pubDate": "Thu, 08 Oct 2026 08:18:36 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Christa Pike now walking after US execution went wrong, lawyer tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 08 Oct 2026 08:13:52 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 08 Oct 2026 03:32:35 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-          "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 03:02:06 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T08:00:18.813Z"
+      "updatedAt": "2026-10-08T08:25:11.187Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T08:00:18.965Z"
+      "updatedAt": "2026-10-08T08:25:11.326Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T08:00:19.418Z"
+      "updatedAt": "2026-10-08T08:25:11.824Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Manus raises more than $500 million after Meta exit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM19QMGxMbHEyNl9LOEZ3SEVXSzIwMjFIRjFUQnltV0NKQzFWNVVsMUxLTllTTlhxLXNiMDRhWFE3amxDckJ5b3JRQjZoTFQtT1FpNEN0NEFhLUxCWFdlMTduWUxIU1dYQnRLRER3Vkt0NTBkWDlINEpza2t6U0kteElzU2FTOTFTYmRaZjNtUmtyVTVlLWE0TVFEN05jRU0?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 07:30:35 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Drones hit Yandex data centre in first major attack on Russian data hub - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGdqRC1xeVR2ck1OOVdfT2pzaVEwa0JzX0pqU2lDOFVjT2JMUlRJcFcyYVVfbURJOWI2bnhDdXRnWFBxWThGaExuaERvRk1naFpBano0bGhzQXVhazQyTjZZLXBKaGZjRk1MYWh5VERWOFpYOU5KREVjaE9zQlQwMUpEaVMwNi1OaGhsei1VN2djTS1lZXlRcUFxQzlwTEcwOEI3dnlvaWt5YXM?oc=5",
@@ -182,6 +188,12 @@
           "title": "China's funding of development institutions is up sharply, but its power still lags, study shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdmVDbGk2NHp1NnZUd3lqMUtxTVM2YmxDYVMwaVJXbUpBUGpRa0hETG9HWkwxckxRTlVvZm40VEF4el82TEdEaElicDJVR3dxcV9BS2pxYnZzbTFqckxfdU5TQzNUZ290QlNPWnZJWFl3aFNaUGROTXdSR19vMXFQVHVBS2NybEZtSFdkZTRvSExmZ1BrNHZjbURONGdDUkRRcWcwakYzeXdIa3BFWXo4dXNzUXlLWHM1Q1c0a1pRM2FKdDhQMkM0?oc=5",
           "pubDate": "Thu, 08 Oct 2026 06:04:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China border town can't shake the blues despite promise of bridge to North Korea - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczlmTzZjejczX2tWOTFRZHBSNlFnTTUzbXRTMEhtT2ZuYjlidnFLdWctZTlXR2NNWWIwa2dDYlBmcmltM2xDLXViTTlIbVR5OFk3SmV4cmU3TGJROUlSZlVwSTN2R001REdFSkFwR0dhZFpNZFAyTW5aa1hQalFJV0JYN2p6Z1drTUJkMGZzei1aYkFhcnJwb2J4ZWN6YXlvWHVBZllZd3E4VjRRdTV6TGJxWFNiczRB?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 06:02:00 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEhaa1JlbmtzZjZfVFhHcXR0S3ZZUnRnTjBJNnl6UUQ3cjJPZ2JfQ1d5bDVpTEdvXzhwT2JrQTA5VGg4dVNweG9odGJwalF3cTd0clZUb1FJRE45NHVfS2R1bXRIQXliZkZPdFM4NGFkNkNlaTQxSU9Kd2R4WTEtX3FGMkx3YkR5X3lMaW9FOXRpemVncHlTRkZiWEdwakUzVnJ1NHVTdGhEWlRkNWIyeDJha2c?oc=5",
           "pubDate": "Thu, 08 Oct 2026 05:04:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Sovereign bonds shouldered aside as AI takes their turf - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIMmE0b3l1X1ZiY1Q2b3pfTXZLa0hGZ3k3d3BQMkF1TlcyZkI0RXhhbGdLclVQejA0bGItMjZ3RS1hMFJjR3pacnZmcHk0MFRvWjByeEhEN3NVM056NmFhb1ZSNk9BUVZqdDY4WTJ5OVZsMU9ZUEMxb2V6T09ESnM?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 04:31:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India considers delaying UPI payment fee rollout, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXQ2RUdRdjNlTzlXbUM5UDhtMWVLUXBNSVNfc2hjdlk0SDllV25Da3Radm9YeXE1bVBldFJyUTdkY3BkR1R5U3ZMbE5wcDJzRmZQcGRkQU5vWTZVTE1TTkhjVkEtWlo2Y1JyeG9ERks0MU9YRFhRR1hQdGF1LVRkQlJSdWVRZ2JUbnZTVlU3QzRLeHp0S3hPMVptbnhtLXNXdGJrUjYwTHcxVnVlb3pz?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 04:23:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T08:00:19.862Z"
+      "updatedAt": "2026-10-08T08:25:12.349Z"
     }
   ]
 }
