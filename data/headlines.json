@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-08T20:00:19.500Z",
-  "lastChecked": "2026-10-08T20:00:19.500Z",
-  "lastUpdated": "2026-10-08T20:00:19.500Z",
-  "generatedAt": "2026-10-08T20:00:19.500Z",
+  "fetchedAt": "2026-10-08T20:25:12.924Z",
+  "lastChecked": "2026-10-08T20:25:12.924Z",
+  "lastUpdated": "2026-10-08T20:25:12.924Z",
+  "generatedAt": "2026-10-08T20:25:12.924Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T20:00:18.266Z"
+      "updatedAt": "2026-10-08T20:25:12.301Z"
     },
     {
       "name": "NPR",
@@ -66,6 +66,12 @@
           "title": "Suicide is up among Black Americans. We need to talk about it.",
           "link": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis",
           "pubDate": "Thu, 08 Oct 2026 14:37:02 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "The long-deployed USS Lincoln is returning home to San Diego",
+          "link": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego",
+          "pubDate": "Thu, 08 Oct 2026 12:18:20 -0400",
           "source": "NPR"
         },
         {
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico",
           "pubDate": "Thu, 08 Oct 2026 07:35:22 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
-          "link": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
-          "pubDate": "Thu, 08 Oct 2026 07:25:28 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T20:00:18.406Z"
+      "updatedAt": "2026-10-08T20:25:12.531Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVZ6OTdhWTZlWUJFbTdTSHZOeG1lZEV3UEc2RDdhOVNqYjFWcTFwWUU5Qlk0RU5nTGlTMi1Tc1N5N3ktTGFiYUJUeWtod1lMbHJQQjcxMElFRjZHTlJtd0hlT2V5c0xVS2xqTkdsczJ2cG96NWlsMDEyZjc1TXAyUnhnTVd2RnVPQ1pHM3VXazc?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 20:18:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5",
@@ -136,9 +142,9 @@
           "source": "AP News"
         },
         {
-          "title": "Rising oil prices, falling technology stocks and reversing bond yields shake Wall Street - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVZ6OTdhWTZlWUJFbTdTSHZOeG1lZEV3UEc2RDdhOVNqYjFWcTFwWUU5Qlk0RU5nTGlTMi1Tc1N5N3ktTGFiYUJUeWtod1lMbHJQQjcxMElFRjZHTlJtd0hlT2V5c0xVS2xqTkdsczJ2cG96NWlsMDEyZjc1TXAyUnhnTVd2RnVPQ1pHM3VXazc?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 18:57:00 GMT",
+          "title": "Strike on Ukrainian public buses leaves 30 dead as blackouts worsen in Kyiv - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGM3aHZDQkZDenB1TkllejNyZzlfdkRySTdKb2J6QjdhQ2phcXlhR0dfYzJyQkhaTWxOMHQ0SnpOeGZ5TDZXMm8xbC1RVUZjNUFTZFNqajFtcFI3YTllZWFFcHRjbnk4NTdLcFZfa3hObkdSbHFUU05Wdl9qYTB0RUV1OVh4aDVLTUpzTEFRaWcwVlNSM0tVSGVUWUpxVm5MR3FWSkgwTWk4aWpwR1Jz?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 18:58:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,30 +164,36 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN0thVWlRMWtDWlpWNHJDakpfMS1oM2N0bDdKSWVNRUVUNi04aGRHYmdXdnNxQnV5d1FoLWdGRC1xS01CeHdVZnZvMkE1U1RYSXhLbkhBamhjcFBsVmhseVhlWERlVmFFNG4yNy1ZWFdpQmVsSHNBRmEzOXAxOFN2SWE1QnFmSmxsOVJ4U0h4ZnphblZN?oc=5",
           "pubDate": "Thu, 08 Oct 2026 17:34:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Man with a gun and knife is fatally shot by security at Nashville federal courthouse, police say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRHRNYm1zeFNYYmRqSjMtOWp0Ty0taEJPNldhdVlDQUFHUHdhcVlvNjM4T1ZXUk5LdkV3ZGFPVE9zU0lBc0ZHcy1IZ2tTSzBQQ1piTGpwc0ZnaHF2cThGWVkzcVJTR3dkbUNFMTBhTmhqcHpINWpwMWFxRW16UTNDRGluQnNHX3BrX2ItaUFoT19lX2c?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 16:54:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T20:00:19.052Z"
+      "updatedAt": "2026-10-08T20:25:12.584Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Thousands of Spaniards march to mark death of octogenarian at heart of housing protests - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNkRyc0lCN0dMWWk4YU1fR3lENlpRQWRUQkpHVkJSRVZsSVltajg0cFl6OXJBRnJOdXZKOEREUkhVWDJGMnBSS3Bqb3NIUGYxNUVyd2Y3cEFqT1p2R1ZfeTR6Y01vWTZPVEFlX1FhNWRaNUE2Z3pZVkx0TzZOM0tUbU9WX25wUWNGdVFpTG41QkFaWm5NVjVQX21xMjQtUzdWVG9RTjBNYnJIeDFkekZGOGRhSDVCOXFXcWV0bEVJNTZDOWthZTdJ?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 19:54:27 GMT",
+          "title": "South Africa blames disinformation as anti-migrant protests turn violent - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZi1Tb0dTam9SSWpWUXhUaTFRQVRqN2g5bjdMNmJlMFVBTjRjMjd3VGMwMkVmdjUwdHpLZjYtZ3o1SHNRRDNWTkRSeDY2OXBpcHE0RTc2M2RZUWZPbF93QVNnNEh0ZUQ1OU50NVh5YzJadWx2bDducGpUNzNzMGxNLTdmMmhMVzAwYS02VVZHVTM3S2NvM3JJX2J0aGFLdnBWYUtCcWNpdW5zc25OalY5bm1yTGNBSnI1THEwd2NHOGM4dw?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 20:05:59 GMT",
           "source": "Reuters"
         },
         {
-          "title": "South African anti-migrant protests turn violent, government blames disinformation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZi1Tb0dTam9SSWpWUXhUaTFRQVRqN2g5bjdMNmJlMFVBTjRjMjd3VGMwMkVmdjUwdHpLZjYtZ3o1SHNRRDNWTkRSeDY2OXBpcHE0RTc2M2RZUWZPbF93QVNnNEh0ZUQ1OU50NVh5YzJadWx2bDducGpUNzNzMGxNLTdmMmhMVzAwYS02VVZHVTM3S2NvM3JJX2J0aGFLdnBWYUtCcWNpdW5zc25OalY5bm1yTGNBSnI1THEwd2NHOGM4dw?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 19:01:48 GMT",
+          "title": "Thousands of Spaniards march to mark death of octogenarian at heart of housing protests - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNkRyc0lCN0dMWWk4YU1fR3lENlpRQWRUQkpHVkJSRVZsSVltajg0cFl6OXJBRnJOdXZKOEREUkhVWDJGMnBSS3Bqb3NIUGYxNUVyd2Y3cEFqT1p2R1ZfeTR6Y01vWTZPVEFlX1FhNWRaNUE2Z3pZVkx0TzZOM0tUbU9WX25wUWNGdVFpTG41QkFaWm5NVjVQX21xMjQtUzdWVG9RTjBNYnJIeDFkekZGOGRhSDVCOXFXcWV0bEVJNTZDOWthZTdJ?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 19:57:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "AI pricing lawsuit against McDonald's raises new antitrust questions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdW50LWFCUWhGeXBDQTNMbHFXMU85QVN0LS1FZmg4QWQ0RG5QRnNsZ0FmWWVFU1VRZ1RiSHdhdnJlMU1vcEwyV1F6SGlvNWVyOGZUNmp0a1hTMG5YaUk5emRRTmtXd0VQdUtsVVA3UFRtT0gtVkFUVnFFOW1lZDlvYVBDdC1hUm5fOFQzT3dhQVdzMFZ3SVA1Rk1YQmdsVV9faWpjLTdHRDVwTmJFUGd0QUdR?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 19:56:11 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Explainer: The skilled foreign tech workers' green card program under attack from Trump - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1hHTXgzeWc3WFZOUDJMdFg1dGQyNFhDSVBwZV9sTHliMzUwcjltTVNvWlowXzBfNUFwcHRMcHpjbnFOQ1NsUDd4U3hHU0d5MHNFek5HN3dIeXRZSWJqWDdvdlY2OEdMZm9La3BBUU80SVE2Y3RiMTEtZlNBSWZkMFNPdjVTQXBYWXdoZEF6dnJvbjVHcDI2WlJXS3lsem52b1dkM2c2UW1PZ1o0?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 19:00:52 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFR4cExQYWN6ZW1lM0p4Z2RYZV9IVzNCSndUUTg1ZF8xdy11al94MFh3WXh6V2JYdEJPNnc2VnBxUFY4TEtsMnJjWl9RUmswRmx3UUxTV3EyT0VTT0hvbWx4dm81T3laYl9CYnBVNjc2ZWZ4X0J5c3dNLXdBSDl4SGwyNlpmelplbEFPUGZ1SmNpS1k5NERxU3lFMW5fSmlyTjh2ZXNhSlZuanVTVVI0N3VVbWJmRE4xTE1DaklmX2FlNVRfTkI2Ymx0eU5VbWtjUHZzQllfaw?oc=5",
           "pubDate": "Thu, 08 Oct 2026 18:54:35 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Venezuela's Maduro charged in US with ordering torture of opponents, Americans - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMy0wQV9wdjdjVFg3WnoyMVR6NWg1SmZjejZaNUtLR1FtSjJ6dVF4LS0xSTBPa29KSVJFM3Q4dGF5bWtKanNpY1V3RVAwM1lpSUhBN3NoeWY1ZGpVb3BKdzJpNzh2M3RRM0lXWTBHR2JBYWJ0dmpYODFIUnBjWXBaR01YdnBrbEtwbjUwWFltR1FhQzEzMm04dmR1U2N4N3E4TWVqVV9mNUtIS3pq?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 18:53:08 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall St turns lower as crude spikes, chip stocks weigh - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 18:47:52 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T20:00:19.500Z"
+      "updatedAt": "2026-10-08T20:25:12.924Z"
     }
   ]
 }
