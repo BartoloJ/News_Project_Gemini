@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-08T07:25:20.887Z",
-  "lastChecked": "2026-10-08T07:25:20.887Z",
-  "lastUpdated": "2026-10-08T07:25:20.887Z",
-  "generatedAt": "2026-10-08T07:25:20.887Z",
+  "fetchedAt": "2026-10-08T07:50:15.483Z",
+  "lastChecked": "2026-10-08T07:50:15.483Z",
+  "lastUpdated": "2026-10-08T07:50:15.483Z",
+  "generatedAt": "2026-10-08T07:50:15.483Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T07:25:19.773Z"
+      "updatedAt": "2026-10-08T07:50:14.342Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T07:25:20.054Z"
+      "updatedAt": "2026-10-08T07:50:14.628Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T07:25:20.505Z"
+      "updatedAt": "2026-10-08T07:50:15.101Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,24 @@
           "title": "Drones hit Yandex data centre in first major attack on Russian data hub - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGdqRC1xeVR2ck1OOVdfT2pzaVEwa0JzX0pqU2lDOFVjT2JMUlRJcFcyYVVfbURJOWI2bnhDdXRnWFBxWThGaExuaERvRk1naFpBano0bGhzQXVhazQyTjZZLXBKaGZjRk1MYWh5VERWOFpYOU5KREVjaE9zQlQwMUpEaVMwNi1OaGhsei1VN2djTS1lZXlRcUFxQzlwTEcwOEI3dnlvaWt5YXM?oc=5",
           "pubDate": "Thu, 08 Oct 2026 06:19:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China's funding of development institutions is up sharply, but its power still lags, study shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdmVDbGk2NHp1NnZUd3lqMUtxTVM2YmxDYVMwaVJXbUpBUGpRa0hETG9HWkwxckxRTlVvZm40VEF4el82TEdEaElicDJVR3dxcV9BS2pxYnZzbTFqckxfdU5TQzNUZ290QlNPWnZJWFl3aFNaUGROTXdSR19vMXFQVHVBS2NybEZtSFdkZTRvSExmZ1BrNHZjbURONGdDUkRRcWcwakYzeXdIa3BFWXo4dXNzUXlLWHM1Q1c0a1pRM2FKdDhQMkM0?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 06:04:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "People in Russian-occupied Ukrainian town risk 'road of death' to get food - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1E5SlFRTWo3Q3FCRUNveHR2SGFfalhoMzJXTkdNUXhMRlc4VkhNUkpaMzRuMnNKTzNDa2FmYjRCdG5KQ0hqdm1DTGotSFJUdkhKNW9qN2tlLUhmN3pnQkhqMTlqUlBKSHBsNUZoeVZIbF85S2tIb24zVy11VVZhcXYxMlVsVVlEakJVbXNJMFBlTjVjYlNFVHlKV014X2hhUjFoVFd6dXdETDJxTU1kdTFB?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 06:01:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "TSMC's third-quarter revenue surges to record, beating market forecast - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVBYZ3dYR1hTREs5alJLQ2RsTHl3d3NMRVhKVVpQb1pYem92N1ZDdWl6MjNpWmswZWZfa1h2ak5NSjRUS0QyVHBaUDBZdmRvOTBTYjc5WktHT29IZV9KQXdiMVlnTDY5Q2VNNEJMbHZXREJxMW9xdUM5TWdna1JURW45Y2pTMlNhc1JWZ09DUWU0MXlFUlpOcDRmRWJweV9ISGNNeWh1RjdRdDNNZ3VEM0g3ZGpFd0J1U3Iw?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 05:39:00 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXQ2RUdRdjNlTzlXbUM5UDhtMWVLUXBNSVNfc2hjdlk0SDllV25Da3Radm9YeXE1bVBldFJyUTdkY3BkR1R5U3ZMbE5wcDJzRmZQcGRkQU5vWTZVTE1TTkhjVkEtWlo2Y1JyeG9ERks0MU9YRFhRR1hQdGF1LVRkQlJSdWVRZ2JUbnZTVlU3QzRLeHp0S3hPMVptbnhtLXNXdGJrUjYwTHcxVnVlb3pz?oc=5",
           "pubDate": "Thu, 08 Oct 2026 04:23:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Bollywood actor Nana Patekar dies at 75 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzhsbTRiV1k4RzB1X01kY0IzUFZPS3ZySVFLeGVTZ1pOOXB5VzlpUjZ4a1hMUmtHckJtMGN4THpXUWUtVzVKLUl4eDBtUVlvR1M1WHdJOG1TQkpjTzFXdFQwTV9yUEpOSlFrTnRJclJVVXg2bkpKMEZVV3YxLS0xOVBncEN2LVFpR2w2MGFJSEtqb3Y2R2lwTlNRZw?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 04:22:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "British diplomats to remain at renamed consulate in Jerusalem - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUg1YkxrX0dOY19KSDkyWmR0VWJWSFhkWVhvZ3FYdE1kNG5iZG9GMEdQOXpwNHkyc2FlQW1TTnRpRDhnOVhST3VJM1FZUTlJd3pUNURSNHJjMFljaWl0ak1hR0JNdzNQdDBJQk16X2VlVjVYMDlfM0JRR1doVEhUdEpreVNxSkN5WlYtbmI0NUUxMlExMmRiOEx0RjR5R1JLSDI0ZXhxeXRZOEZPdmZ0VjhJTEJjQmVDTlVlRkxuV2tPTmtBazV0ZGdoeWdfUQ?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 04:13:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: US opens direct talks with Myanmar's generals, reversing years of isolation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUxEZlpiNGZBRjlsN09mekh5ejJPUnpVYjFXckJic1FDekdBRzd6dzBxZDFKdG5xZ1dsSF9Tc1hyQ1NKRnFkeXVBNXY3REhpeEo5YlBuWFpSN2EzMTFvZ2pkYS1fMTA3dVM3clYxZnJRNldtb0pZSTFncHRVcGRNMVdiVG9RWFNoclZaSUtKYTlHR3d3Mlk2bXo1OWxxTm1ZVjQ4TWVxcEtTRHFOUjN2a3V2Tm9Sc3VHeWJmRlVpVFRDNlk?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 04:12:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T07:25:20.887Z"
+      "updatedAt": "2026-10-08T07:50:15.483Z"
     }
   ]
 }
