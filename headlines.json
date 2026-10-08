@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-08T19:50:15.384Z",
-  "lastChecked": "2026-10-08T19:50:15.384Z",
-  "lastUpdated": "2026-10-08T19:50:15.384Z",
-  "generatedAt": "2026-10-08T19:50:15.384Z",
+  "fetchedAt": "2026-10-08T20:00:19.500Z",
+  "lastChecked": "2026-10-08T20:00:19.500Z",
+  "lastUpdated": "2026-10-08T20:00:19.500Z",
+  "generatedAt": "2026-10-08T20:00:19.500Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T19:50:14.441Z"
+      "updatedAt": "2026-10-08T20:00:18.266Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T19:50:14.533Z"
+      "updatedAt": "2026-10-08T20:00:18.406Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 19:51:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Taliban firmly in control in Afghanistan 25 years after US-led invasion to oust them - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOajY2TEtyTnNWa2hjdUNMeG5nYVZEOW9RTXphdkZUcWRSSVd2Zm1lcEZGbHRNTnlVbFltTFJ0dFlmUDZ2VTg2VVo4bVBpZTJuS3drcFY5dWtaOVk1ZUhaLU1RS3pEb1FnS25RWWgwUW5kVXE4eEZyZlpiZGZiTWZpQ2tFSXYtWkdjdTNJYlU0Y3Z2YjYtLTNzbDh3Nkg3T3dsdHJ3cVRJOE5kY2M?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 19:31:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Hurricane Isaias is expected to strengthen as it barrels toward the US Gulf Coast - AP News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc?oc=5",
@@ -127,12 +139,6 @@
           "title": "Rising oil prices, falling technology stocks and reversing bond yields shake Wall Street - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVZ6OTdhWTZlWUJFbTdTSHZOeG1lZEV3UEc2RDdhOVNqYjFWcTFwWUU5Qlk0RU5nTGlTMi1Tc1N5N3ktTGFiYUJUeWtod1lMbHJQQjcxMElFRjZHTlJtd0hlT2V5c0xVS2xqTkdsczJ2cG96NWlsMDEyZjc1TXAyUnhnTVd2RnVPQ1pHM3VXazc?oc=5",
           "pubDate": "Thu, 08 Oct 2026 18:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 18:41:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,34 +154,40 @@
           "source": "AP News"
         },
         {
-          "title": "Rubio refuses to comment on Guilfoyle allegations - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDVhdEhXdjFZQUdLS216SHJpU0JiWnFZUWFsU2pfelk1d0E1c080cmxDU0pYWXJIbm9MbUczM2x6aFFYaGtvUnBRTzM2eVhOdHgwY3JGWEpESnl1SkRndnl4cUY5OXhSZnBXaGthamRmQ1ZVLWtYWHVMaThKcndiRkFURXI0Tk43blZZLWhTSTVyOThsODFRMUFCQkk0NlBsZEVSYw?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 16:49:00 GMT",
+          "title": "Trump says US will not resume military strikes on Iran before the Nov. 3 midterm elections - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN0thVWlRMWtDWlpWNHJDakpfMS1oM2N0bDdKSWVNRUVUNi04aGRHYmdXdnNxQnV5d1FoLWdGRC1xS01CeHdVZnZvMkE1U1RYSXhLbkhBamhjcFBsVmhseVhlWERlVmFFNG4yNy1ZWFdpQmVsSHNBRmEzOXAxOFN2SWE1QnFmSmxsOVJ4U0h4ZnphblZN?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 17:34:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Judge says search warrants used to seize property from former Prince Andrew were unlawful - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUpnTlNYUmV1UmFpQm9sMjQ0R0xxTmxSWjJHeERMRjVGUHRwNUFvb21KNjRPVkVRSndwZ19lcFp1ckJXcUVta201bHNEaHlCZFBPc0dHRHFKMDJuYl95dWRxRU9KVV9wcHVrX2RJYWJfX05oWWRtenBqQlM0RGstMGFmLWVUdWdIU1FVUHUzZjVZOWpTcXdiU1BhM3hfaVNSV0VJ?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 16:48:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "International Criminal Court judges say Philippine ex-President Rodrigo Duterte fit to stand trial - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUtLQ3k5M1J3dTJMY2gwVXk5T2FzTU5hLXNKckllajdPcGw2TzQ2ODBDaE9vazJydGJZNUUyc2djS3JGLUNlWUIzVGptRzV1cGhPRWtiYV9jVjdHUnB0R3RNYWs3RlR1YUxXYUNBYnpQRVhkWEFySnhnSmZzTUE4V1NjOF9kcV9qNTdXZ3BEM184ZW1KWnVYZ0QtM1dZSF8weUlyb1FxaXk?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 16:47:00 GMT",
+          "title": "Man with a gun and knife is fatally shot by security at Nashville federal courthouse, police say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRHRNYm1zeFNYYmRqSjMtOWp0Ty0taEJPNldhdVlDQUFHUHdhcVlvNjM4T1ZXUk5LdkV3ZGFPVE9zU0lBc0ZHcy1IZ2tTSzBQQ1piTGpwc0ZnaHF2cThGWVkzcVJTR3dkbUNFMTBhTmhqcHpINWpwMWFxRW16UTNDRGluQnNHX3BrX2ItaUFoT19lX2c?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 16:54:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T19:50:14.971Z"
+      "updatedAt": "2026-10-08T20:00:19.052Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Thousands of Spaniards march to mark death of octogenarian at heart of housing protests - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNkRyc0lCN0dMWWk4YU1fR3lENlpRQWRUQkpHVkJSRVZsSVltajg0cFl6OXJBRnJOdXZKOEREUkhVWDJGMnBSS3Bqb3NIUGYxNUVyd2Y3cEFqT1p2R1ZfeTR6Y01vWTZPVEFlX1FhNWRaNUE2Z3pZVkx0TzZOM0tUbU9WX25wUWNGdVFpTG41QkFaWm5NVjVQX21xMjQtUzdWVG9RTjBNYnJIeDFkekZGOGRhSDVCOXFXcWV0bEVJNTZDOWthZTdJ?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 19:54:27 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "South African anti-migrant protests turn violent, government blames disinformation - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZi1Tb0dTam9SSWpWUXhUaTFRQVRqN2g5bjdMNmJlMFVBTjRjMjd3VGMwMkVmdjUwdHpLZjYtZ3o1SHNRRDNWTkRSeDY2OXBpcHE0RTc2M2RZUWZPbF93QVNnNEh0ZUQ1OU50NVh5YzJadWx2bDducGpUNzNzMGxNLTdmMmhMVzAwYS02VVZHVTM3S2NvM3JJX2J0aGFLdnBWYUtCcWNpdW5zc25OalY5bm1yTGNBSnI1THEwd2NHOGM4dw?oc=5",
           "pubDate": "Thu, 08 Oct 2026 19:01:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Data centers' 'flexible' power usage could save the grid billions. Can they scale? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZFlHUmY3dFNOSDEtZ1c3ajk4WjBoemNnTDRycHZzZjA4LXRyWUFkcmhNakpULW9JejN5bGVQcmpLZUNhZXYwTUROUXJGRk1RdG91b2JORGlQLUVkdDUwaGxOWm5TQ0JZekg4bzNoMjVoNTVsWTNiNHliOEpnVWU3cWVqcEN2YzVKUXJIZ0hSMk5UdUpsNkEzbUV0dmtNRm9QSzh6TTJ0MUdtSVRlMkRjY0pORHROQWUwVkpDclFuLTNaOE0?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 18:57:55 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Trump AI task force leaders to meet on Thursday, vice chair says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmZPMDBxRGtiQkZEWFFYWV9LTjczVXFyNjcyd3R4WWxDQ0JPbS1KZHdTNEdNMFJUWXdOVmNwMmo3RUpHQTI2aS1peEduTzdhYU80amRIOUVBV05LMlJfMXRiYmdKUEVEY1dLelAyWFlzNU55WUhjdXBsR3lEZFVWRDQxSWtocjc4OFZ3bVhtUXh5MW1xWWo1ZGQ3UTRqVllm?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 18:52:21 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "AI pricing lawsuit against McDonald's raises new antitrust questions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdW50LWFCUWhGeXBDQTNMbHFXMU85QVN0LS1FZmg4QWQ0RG5QRnNsZ0FmWWVFU1VRZ1RiSHdhdnJlMU1vcEwyV1F6SGlvNWVyOGZUNmp0a1hTMG5YaUk5emRRTmtXd0VQdUtsVVA3UFRtT0gtVkFUVnFFOW1lZDlvYVBDdC1hUm5fOFQzT3dhQVdzMFZ3SVA1Rk1YQmdsVV9faWpjLTdHRDVwTmJFUGd0QUdR?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 18:45:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Plane damaged at Riyadh airport as Houthis escalate attacks, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS3RjWlUtbVhIS3V2UlRkMFZOT3pESFlCZGVKcVp5N1lwX1JCTGRrXzI3dXdHT3diVGZUWENHREJ3MW5zQUpRamZpbkV0dTdoNDhRUzl6OW5FT2JZSjZHaHY2T2ltMm1fNTZVNHhuQzdZTmJVRHhSbE1vYnNpZTR4SGJONWhxVWxoYmxBLW1SRkpBNlROdHBxN3VjMUtpcHFaVzgzQ1ZvcmIyVllXcjBhSTY3TlhuLXpQRExkZmYtd29TOEppUkYwOA?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 18:42:35 GMT",
+          "title": "Wall St turns lower as crude spikes, chip stocks weigh - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 18:47:52 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T19:50:15.384Z"
+      "updatedAt": "2026-10-08T20:00:19.500Z"
     }
   ]
 }
