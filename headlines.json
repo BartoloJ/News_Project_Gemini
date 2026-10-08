@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-08T19:00:19.716Z",
-  "lastChecked": "2026-10-08T19:00:19.716Z",
-  "lastUpdated": "2026-10-08T19:00:19.716Z",
-  "generatedAt": "2026-10-08T19:00:19.716Z",
+  "fetchedAt": "2026-10-08T19:25:26.848Z",
+  "lastChecked": "2026-10-08T19:25:26.848Z",
+  "lastUpdated": "2026-10-08T19:25:26.848Z",
+  "generatedAt": "2026-10-08T19:25:26.848Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+          "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 08 Oct 2026 19:10:06 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Adidas sues Australian label White Fox over four stripes design",
           "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 08 Oct 2026 16:23:09 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-          "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 15:21:46 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T19:00:18.527Z"
+      "updatedAt": "2026-10-08T19:25:12.051Z"
     },
     {
       "name": "NPR",
@@ -105,14 +105,14 @@
           "source": "NPR"
         },
         {
-          "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
+          "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
           "link": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
           "pubDate": "Thu, 08 Oct 2026 07:25:28 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T19:00:18.601Z"
+      "updatedAt": "2026-10-08T19:25:12.267Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-08T19:00:19.247Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-08T19:00:19.716Z"
     }
   ]
