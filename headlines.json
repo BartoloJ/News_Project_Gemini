@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-08T02:25:15.876Z",
-  "lastChecked": "2026-10-08T02:25:15.876Z",
-  "lastUpdated": "2026-10-08T02:25:15.876Z",
-  "generatedAt": "2026-10-08T02:25:15.876Z",
+  "fetchedAt": "2026-10-08T02:50:33.435Z",
+  "lastChecked": "2026-10-08T02:50:33.435Z",
+  "lastUpdated": "2026-10-08T02:50:33.435Z",
+  "generatedAt": "2026-10-08T02:50:33.435Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T02:25:14.850Z"
+      "updatedAt": "2026-10-08T02:50:32.250Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T02:25:14.879Z"
+      "updatedAt": "2026-10-08T02:50:32.460Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Texas carries out nation’s first execution since Christa Pike’s failed lethal injection - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcGl2SlVFaHRUOWlQUHZyQVVjT3hhUV83M1V1aC1lYWlPYXRqZUZMMWtmQ3J4aUdxdHNPakFEckExU2g0eXRuQXh6UGdJODd2QjBQYUJRUzc5djBZQmdpa3hJLW9QQ3lsOEE3WXdLMXhWXzFGeU50X18wMXhNakJQeXVCRklMM0NyTjNSMjNPTlNIUVU?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 02:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Tropical Storm Isaias is forecast to strike the US Gulf Coast as a hurricane - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEhBWXUtdkhWTUo1bUV3ZUxIZWtVbGlVa1lmbjMwVmJBaF9XMnZER2V5WnRMaGRSejBNNUYzWExKSHV1SUNLSFdXbXNaQTlwbEdlN2tmdWxwUGNOdG5sNzB3OHNDbTEteDFTeVV1SFN3ZG4wUzFqNHktWU1mZ2QzeUJ5Zzk4Q2hJam5BQTJDempteVBBRGFyNFF4UQ?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 02:22:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Christa Pike is angry and confused after surviving execution attempt, attorney says - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVWtGMUw5bm5GeHpTZlBGZC1NMmN3dkFuU2c2d2t6MURNdlljYUR1ZHVBdmI5eEZsV3p3ckRvNkxRS0tLVXFjYXM4WW95d1lrMjg5VE8xZ3NHNENhQXZjeXIyd2JINWlCN0MyUWVTcnR3TjNnUklTS0Y4R0pHT0RVWHFZeVlOeG1EQmRUWnVnMkdMUjhfU3Y1THlLc0N4Y01zWnM4ZDgwdVU?oc=5",
@@ -124,21 +136,9 @@
           "source": "AP News"
         },
         {
-          "title": "Texas carries out nation’s first execution since Christa Pike’s failed lethal injection - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcGl2SlVFaHRUOWlQUHZyQVVjT3hhUV83M1V1aC1lYWlPYXRqZUZMMWtmQ3J4aUdxdHNPakFEckExU2g0eXRuQXh6UGdJODd2QjBQYUJRUzc5djBZQmdpa3hJLW9QQ3lsOEE3WXdLMXhWXzFGeU50X18wMXhNakJQeXVCRklMM0NyTjNSMjNPTlNIUVU?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 01:39:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "The plague never went away. Cases are reported in parts of Africa and the US nearly every year - AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWTB3Umg0VjktVU9MbXhteGlQdlVmV0hQR3VQS0lsTkpqdWxYVUFDSGtxOXZWYkFfamd1SVdMSWhxQXRqcnpZUUJxTEd0WTVPS19KZ3NmMEJ6dzlQZV8tTEFmckdHUTZaSzQ1NnRpMDRuSU1PZG5ETEF3UUVfekpCc1ZLdFZnNHA1c3RTWkxhcUItanhKQ3V6YThPaURtdw?oc=5",
           "pubDate": "Thu, 08 Oct 2026 01:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Tropical Storm Isaias is forecast to strike the US Gulf Coast as a hurricane - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEhBWXUtdkhWTUo1bUV3ZUxIZWtVbGlVa1lmbjMwVmJBaF9XMnZER2V5WnRMaGRSejBNNUYzWExKSHV1SUNLSFdXbXNaQTlwbEdlN2tmdWxwUGNOdG5sNzB3OHNDbTEteDFTeVV1SFN3ZG4wUzFqNHktWU1mZ2QzeUJ5Zzk4Q2hJam5BQTJDempteVBBRGFyNFF4UQ?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 00:06:00 GMT",
           "source": "AP News"
         },
         {
@@ -154,9 +154,9 @@
           "source": "AP News"
         },
         {
-          "title": "UN health agency wants more details from Russia on suspected pneumonic plague case - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVNxZUVSYWs2akY2NUdadlZBU1BadGtSbWx6SlpaWVY2ZVhJWG85Q0lIZlpRYWt4X3lpbzNyZG5HbDFZa3lRWFU4LXo2VG15eHlJWGhJTlBLVi1xb0dtOXV2Z3dZWVVXdlRxYmZzMkR4VUV6U2I2WFVCdWJPQVFqSVNpNFhlRTNQN01mbHNOaGR5Z2RNMkE?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 21:31:00 GMT",
+          "title": "Tropical Storm Simon forms in the Pacific Ocean off the southwestern coast of Mexico - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT0FVT2l3MjJuRnQtRXlrYmJDM1dPYlUybFdRUTVxTThpeGtGN1pwSlBKMnhaUVU3bzUxcHhrWXpaRW12bDJLaGFxT2dSVlR4X1IyUm14Wm05VUtnQzJ5QWE3dGhVZC1nRWRqR0FIV29TWll6XzRRdzBWYTc3Tk1uRlhVek5DOUR3ZGdIR0g3LVJkR3Y3cVFqSUdn?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 21:28:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T02:25:15.416Z"
+      "updatedAt": "2026-10-08T02:50:32.987Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Oil rises as Middle East supply concerns persist amid shipping attacks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlloTmR5SkZfME9kcjlVcENtQzFrdmc2cnJfTWthWWJYcFIwZFFGNUs5Y2Y2TkR0MjE2STZ3WXktSXJRRmRiXzZYTnQ4clNNZlNQempZRzFPTERYUXpFM1d0SUJoUzFyN3FLRTg0d3UtckZWbWpWM01DNVJIUEdBTTkyd0dFaDgwX0llWXBtMXV1dVROdXUwVUF6VG9Ca3BReDdJTzNhT0d3RjcwUVF5TS12N1ZWNzJXdlRz?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 01:25:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Gold edges higher after hitting a two-month low - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5",
@@ -179,9 +185,21 @@
           "source": "Reuters"
         },
         {
+          "title": "Amazon makes fresh job cuts, mainly in retail division - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXBaTUxRTVRaaEh2ajRtZWxDekFLVElmbi1oVEw1eFJyUDg4NG5TNGxTZGw1eUFSTWhTbHVERXU2R2p1YlBFRnZhcUFXSG9vQWhPcVFxN21jdDJaMFRLY0lSU0x0YUtBREl3UXBYaVFXZmNtNmdfVGhkUmt5bnZJOTg3eTBOdjlUdTNaRTlFSGQ5YTdLcjVwWnVkLUREN2dLSkhoaEhlMHQ0U2YwWWc?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 01:16:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Asia shares subdued, bonds swamped by AI debt wave - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYWJkYkZhMHpnb0pNVlAyTTZGOEYtSno1YTJGRV9GYWRPSDg1WGxXNlFKUVY4VGVzc0RMLVVVVFFlamgzd3ROTjBXTndhYm5Ia0hwbDhaSXBCQWIzZDhQSGxGUWdoZndaZHV3YUgyd2NUb0FsTkNlYWRYYUFyN0tSWFlYbw?oc=5",
           "pubDate": "Thu, 08 Oct 2026 00:57:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "CrowdStrike says China-based suspect used AI tools in South Korean bank hacks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQODBzZUo1QkNGeDEyT2Q4QU5RYm1ybFpLMVdhc1E0OUtSTC15cGZuemU4Q0JsaE1lUXp0VU05WTl6bHRVUDhLNkFaOXI3TnhIcGJ0R1I1cWdnbEhNYUVvOVZvVzJLREpEMHd3VWUxQUZiLWlwUlFmNmdUbEpQNFkyaWdpTEJzVzNJNlVUYWl3ZjF4eTRha254Rm9xem9Kck15eWpWQlBIUU5hRlRIekJ6RkdvV00yV1lNZXc?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 00:04:00 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSkFPWWl4TDFnSVlQU204Q3U1TUNhUnJCc3lMWkx1eHFGMG9Mc19kVTBEODdLOHZ0SGY2QTFUN1ZTZDRENFBST0xHeVJaOWx3MnFTakJZcnVXUFNJdVJIYjBRVXhjay1BVUhjdXE2M2tvRUd2QmpMYXplWmZxZnlzZlhzNHRhYWJ6cm5Da2RUeThEVjJ0QlRWWWxjVHhrRC0tLW43U1ljQ3NWSmlfbi0zbTVNY3N6NUlvbExFUURsN0Z0Tlk?oc=5",
           "pubDate": "Wed, 07 Oct 2026 23:21:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wall Street ends lower, off record highs, as Treasury yields climb - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlBxMHUzb2ZDaHpMY3JBZUl2Rk9XSE94bjQ2aFVndHhYeU4zS1Rwb2I1SlFJWjVpaE9sS0V4c2ZiQ2JsMzd0R0lydzlFejhJVkNYbU5ZTGVjeW9tWUJtTmUzX2VwY0N1SnpLVmdvQWRvM20xS25hRmhXRDdHVUppRk9hS2JhVExxdVUtX0hfQlNqWnd0OUhHWEpaa2w1Z3hXNVRkaw?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 23:14:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Webull sinks after US House panel report flags China ties - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWFJnNzl3d3IxNHJCNkZnOWdQZFF6eWVheUpUT2tqVVBHZFYxSU0ySmdVX0FxMVhsZ01oODJNV3RDdzRXWXNBOXcwakdqNzlrQVZNRjlhX1dKM0xvSXdCQ0Y4UDZPZE9YdWVsamxOT2o3aUphejdReG84dTFCVEdReG9yY2ZPUFFWVTZuaWdENG51RTMyQ3l4UDU0dnlpVWQ2dzg5RmF5MlFwUEFYOE03TWdmOWRxOFp1SlVKRg?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 23:06:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Samsung flags $80 billion profit on AI boom, highest quarterly for any tech company - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM00tZmVPZWtsRV9qcGV1VEtMajUtWXVxZlZVdU9HblZLWHBTZjNtQ0NuZHBJRjFOX2ktN0VkUmFERDBwNnhySHNPNTZ6bmZnZ08tTTN6WlhsMi1vR1Fnb2NBa2ZCZXNlcjRPOE1SVERxYnhJeGZmN0s1V0ZWWW4wSU45Z3gxRTBXZGVwRVpDX2F5Vm1aMzhDODI5cDFXU2RhX0pBOHpfeFNqNjg?oc=5",
-          "pubDate": "Wed, 07 Oct 2026 22:48:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T02:25:15.876Z"
+      "updatedAt": "2026-10-08T02:50:33.435Z"
     }
   ]
 }
