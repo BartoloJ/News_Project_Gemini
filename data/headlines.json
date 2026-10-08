@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-10-08T07:00:27.191Z",
-  "lastChecked": "2026-10-08T07:00:27.191Z",
-  "lastUpdated": "2026-10-08T07:00:27.191Z",
-  "generatedAt": "2026-10-08T07:00:27.191Z",
+  "fetchedAt": "2026-10-08T07:25:20.887Z",
+  "lastChecked": "2026-10-08T07:25:20.887Z",
+  "lastUpdated": "2026-10-08T07:25:20.887Z",
+  "generatedAt": "2026-10-08T07:25:20.887Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
+          "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 08 Oct 2026 07:15:45 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+          "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 08 Oct 2026 07:06:15 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
           "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 08 Oct 2026 03:02:06 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Trump wants a new Camp David-like retreat at his Florida golf club",
-          "link": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 03:00:50 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Japan beer giants raided over alleged price-fixing cartel",
-          "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 08 Oct 2026 00:53:46 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T07:00:26.446Z"
+      "updatedAt": "2026-10-08T07:25:19.773Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T07:00:26.730Z"
+      "updatedAt": "2026-10-08T07:25:20.054Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T07:00:27.183Z"
+      "updatedAt": "2026-10-08T07:25:20.505Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Drones hit Yandex data centre in first major attack on Russian data hub - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGdqRC1xeVR2ck1OOVdfT2pzaVEwa0JzX0pqU2lDOFVjT2JMUlRJcFcyYVVfbURJOWI2bnhDdXRnWFBxWThGaExuaERvRk1naFpBano0bGhzQXVhazQyTjZZLXBKaGZjRk1MYWh5VERWOFpYOU5KREVjaE9zQlQwMUpEaVMwNi1OaGhsei1VN2djTS1lZXlRcUFxQzlwTEcwOEI3dnlvaWt5YXM?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 06:19:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "India denies bias in satellite internet approvals after Musk's 'oligarchs' jab - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObXdIaGpBZjFZM0lBUzM0Rm41VUFScWFBSWxhMGVwdUlxRXJXdVU2aDNXZ1pLdF9rQzRVR1pkRkZtM0lNZnBnOHdIaTEzRUhHWXN5RmM0Zk1SZ3NnYWhjNTZQMmpTSTF3anBkMklPcEFIWmkySmpFZG1XZ1NIdVpDeERiTUF5SFRpYnJOU3RHUWJKeUgweDFfcEgwNGlROW9KbDFEZzdXajVrNFkwR19FOHVuWldPODFOWmNuYlczMzBrTjE0TmpVc0FuTQ?oc=5",
@@ -203,7 +209,7 @@
           "source": "Reuters"
         },
         {
-          "title": "Britain removes East Jerusalem consulate signage as Israeli shutdown deadline expires - Reuters",
+          "title": "British diplomats to remain at renamed consulate in Jerusalem - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUg1YkxrX0dOY19KSDkyWmR0VWJWSFhkWVhvZ3FYdE1kNG5iZG9GMEdQOXpwNHkyc2FlQW1TTnRpRDhnOVhST3VJM1FZUTlJd3pUNURSNHJjMFljaWl0ak1hR0JNdzNQdDBJQk16X2VlVjVYMDlfM0JRR1doVEhUdEpreVNxSkN5WlYtbmI0NUUxMlExMmRiOEx0RjR5R1JLSDI0ZXhxeXRZOEZPdmZ0VjhJTEJjQmVDTlVlRkxuV2tPTmtBazV0ZGdoeWdfUQ?oc=5",
           "pubDate": "Thu, 08 Oct 2026 04:13:00 GMT",
           "source": "Reuters"
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUxEZlpiNGZBRjlsN09mekh5ejJPUnpVYjFXckJic1FDekdBRzd6dzBxZDFKdG5xZ1dsSF9Tc1hyQ1NKRnFkeXVBNXY3REhpeEo5YlBuWFpSN2EzMTFvZ2pkYS1fMTA3dVM3clYxZnJRNldtb0pZSTFncHRVcGRNMVdiVG9RWFNoclZaSUtKYTlHR3d3Mlk2bXo1OWxxTm1ZVjQ4TWVxcEtTRHFOUjN2a3V2Tm9Sc3VHeWJmRlVpVFRDNlk?oc=5",
           "pubDate": "Thu, 08 Oct 2026 04:12:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Hormuz transits at lowest in over two months after attacks, data shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnAtMmE4Vi10TWlqTFQ0MkFXdzJCNlQzYlFSbXBkOVg5YW9Qd0YwcG5vZnVQS21ETGdLVnllV2RxRFZmZUZyaV8xZWtzVXNLMUxVV1BhQXc3Qm4wVjFaOTB4US1mR0MwWmxoTzdvSV9tUmxvbkx6cWppUkZPMnpHaXNPWjBTMmhBN1p5NDhmSkI1VWtiNEJQcjJLbEJPa2Jhc1VqLWNhR19JcEFkZk5kTmRjaEFnUQ?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 03:39:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T07:00:27.191Z"
+      "updatedAt": "2026-10-08T07:25:20.887Z"
     }
   ]
 }
