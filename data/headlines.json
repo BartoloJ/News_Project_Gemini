@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-08T16:00:21.281Z",
-  "lastChecked": "2026-10-08T16:00:21.281Z",
-  "lastUpdated": "2026-10-08T16:00:21.281Z",
-  "generatedAt": "2026-10-08T16:00:21.281Z",
+  "fetchedAt": "2026-10-08T16:10:15.985Z",
+  "lastChecked": "2026-10-08T16:10:15.985Z",
+  "lastUpdated": "2026-10-08T16:10:15.985Z",
+  "generatedAt": "2026-10-08T16:10:15.985Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T16:00:20.456Z"
+      "updatedAt": "2026-10-08T16:10:14.507Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
+          "link": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
+          "pubDate": "Thu, 08 Oct 2026 12:05:37 -0400",
+          "source": "NPR"
+        },
         {
           "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
           "link": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/08/nx-s1-5983441/ice-warehouses-new-jersey-roxbury",
           "pubDate": "Thu, 08 Oct 2026 06:13:18 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Medical debt is crushing hospital patients in LA. Health officials may have a fix",
-          "link": "https://www.npr.org/2026/10/08/nx-s1-5991633/hospital-california-healthcare-medical-debt",
-          "pubDate": "Thu, 08 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T16:00:20.809Z"
+      "updatedAt": "2026-10-08T16:10:14.821Z"
     },
     {
       "name": "AP News",
@@ -142,12 +142,6 @@
           "source": "AP News"
         },
         {
-          "title": "Unemployment benefit claims dipped slightly last week as layoffs remain low - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUdMZ3VQLWM5T21tMHluejRucVBUNWgyeGFyMWxXODlndnp1dXowOWFpLWhtcE5uSkVWZ2ZRRUFQZm9vU3V4NzBCbEoya0NQRzhrNlZXUkVLNEZQY2pqUmlhTzRqaWJMRHg0bkxOVWR0Tm85WmpZN29uSFhaWmlXYUJPZTB6aWp4UEg1TEZTZXlOVDBJbDVlOERqLWhsNFJKRGdF?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 14:44:32 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Houthis claim new attack against airport in Saudi capital as witness reports evacuation - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3VJUmRVT2hFcmwtQjBreFFjcWdaMElxY3pqQ3MtSGVNcktPSWxTbkhHd0h5bDR1S0MydDh3a2J3bzZUNEVmRTFsc0NCMU5pT0ZpVXVkRXBKb2R4dkFEVUNYRHNuODNxYjlnYjc2c0tISzNHNmZQVHlESTB1aTVNa2lWS3lfSl84Z0pKaHNWb05tXzh2dmJaYzItUUYtSm8?oc=5",
           "pubDate": "Thu, 08 Oct 2026 13:58:00 GMT",
@@ -164,14 +158,44 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWIweW9ZRFVnQkNHYkFlWEJ0TDJ6b3dmWlFEZGNRc3hzUEZkMzFsak83MXhGVWowTHlkV2J5ZEREOS1hMUNHQ2Qyc3F3eXB0MlMwY0NmQzRIMGdSMmMxM2JfanhJVmtXQzVwcHNZZm5ibm9PaEltLXZxQmxQYzB1RzhrMURpLXgzUGdlSS01MU5lT2RMYVdxMEZLRlFsLWYxaXJVYl82aDBvSUpQTkJGYQ?oc=5",
           "pubDate": "Thu, 08 Oct 2026 13:04:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Unemployment benefit claims dipped slightly last week as layoffs remain low - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUdMZ3VQLWM5T21tMHluejRucVBUNWgyeGFyMWxXODlndnp1dXowOWFpLWhtcE5uSkVWZ2ZRRUFQZm9vU3V4NzBCbEoya0NQRzhrNlZXUkVLNEZQY2pqUmlhTzRqaWJMRHg0bkxOVWR0Tm85WmpZN29uSFhaWmlXYUJPZTB6aWp4UEg1TEZTZXlOVDBJbDVlOERqLWhsNFJKRGdF?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 12:55:47 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T16:00:20.845Z"
+      "updatedAt": "2026-10-08T16:10:15.441Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Judge weighs CNN, MS NOW, Politico bid to keep White House access - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYzQxUXhPMVRvTzBKbGNzb1BJeUMtbklmaUZ0YWxheEMwY2d5X3dXcXo0N0hBUXlWbjhfaGZQUTFXZXdVMmpRSVdNMy1aRjN2R1ZjRTRfRkJaLU50akNCcjR5Z3loZi03NmtaeHFzZDVIZVJ4YVlMc250ajU0Z1N1cFNuY1J4bUthQ1Bhc25PWW5ONVlpU1RXN1V4NGJSbGpYMk91NXRqSjRNTHNVVGRoZ3BiVDFNUQ?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 15:34:58 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Genre-defying Canadian poet Anne Carson wins 2026 Nobel Prize in Literature - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUx4U0FuVzFvSF82M1NoMW5JQ3AwNzVjaVBDRXdoNGxrRmg0NjgtZmZscTE4S1VCMUhoc0hOMHB0WFc2NENraU9iaF9ZUjZwNzNwSVFXWjNKc3NELV8wX2huMVlnV2lVYkdlRFJQQXZiTlBNYXNSSmxSNmhsZ3dqZmN3WGNZb1ZBczJfdktMT0ZyR3RwZGNuOGxXeHQ0WlJ1bU9OTGhXN01SUQ?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 15:33:59 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Fed's Waller: More hikes needed, but there is 'flexibility' about the pace - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVlJjTS1oeE1aRmVEcC05dTZkd25ONVRidzJkTlozaEE3Q0tvQ2hPd0dYemMxNWUzTUZORnFfb0FWZUdDOVp3QUVwelQ5cjJzcV9oMl9mZmpCTnJOaGh6XzZXLXlxOWJBUVhTX05oOVhwS2hhZG1WbmppWlRRRGNDOGZneGNneTRiLXBhVHd1Z3FGc1JaZC14Qm14SVRlYi1Cd3MxSjVR?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 15:33:03 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia says checks following Siberian plague lab death are complete - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFR4cExQYWN6ZW1lM0p4Z2RYZV9IVzNCSndUUTg1ZF8xdy11al94MFh3WXh6V2JYdEJPNnc2VnBxUFY4TEtsMnJjWl9RUmswRmx3UUxTV3EyT0VTT0hvbWx4dm81T3laYl9CYnBVNjc2ZWZ4X0J5c3dNLXdBSDl4SGwyNlpmelplbEFPUGZ1SmNpS1k5NERxU3lFMW5fSmlyTjh2ZXNhSlZuanVTVVI0N3VVbWJmRE4xTE1DaklmX2FlNVRfTkI2Ymx0eU5VbWtjUHZzQllfaw?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 15:31:02 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Devon sheds Eagle Ford assets for $4.2 billion to deepen Permian bet - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHBCMmYzd2RRdXRQLXRUWnhUaXhyZUUyZjRZZC16SkRIbXBiSnNKejdEd2xrdDRFUEdDVmlWZkdiNmdqMEpyRXJPMmtoRlhXRkV2M20yY010LU1td1dRakxVQ1lzT0Jpd2tlYS1TRUgyWDZSanI0WXVYLTRoZDdrT2FjODJyYWU4TmVWa0VsOVFxa3NxN25DZGNaNmJ3Vm1YcmRhQTdFX0k0djQ3MWJXUVlqbjBmMU9USVE?oc=5",
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS3RjWlUtbVhIS3V2UlRkMFZOT3pESFlCZGVKcVp5N1lwX1JCTGRrXzI3dXdHT3diVGZUWENHREJ3MW5zQUpRamZpbkV0dTdoNDhRUzl6OW5FT2JZSjZHaHY2T2ltMm1fNTZVNHhuQzdZTmJVRHhSbE1vYnNpZTR4SGJONWhxVWxoYmxBLW1SRkpBNlROdHBxN3VjMUtpcHFaVzgzQ1ZvcmIyVllXcjBhSTY3TlhuLXpQRExkZmYtd29TOEppUkYwOA?oc=5",
           "pubDate": "Thu, 08 Oct 2026 14:53:10 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Poland's second school knife attack in two days kills one, raises copycat fears - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYU5NaDZXRmkwbklNck45Nkp2NWZpbWwzTXRGd2tCbVVRVzZUc3lleHQyakx6SGVjTTFrZDhBYVpwdENrZkRDXzQzZXhDcWdTUW9WUFN6VVRvRkszZzZyTFpUSUN4U2JXYnh2NzhhRTIyN2pBR0szSjN0TjljY015dGVldG53Ym15US16dk5jcnF6T21KUmE5YUdrMWtkNmV6WkRsWGtOOXNoV1FtY0cxVlpXb25vRUU?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 14:50:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nvidia-backed Iambic Therapeutics targets up to $806 million valuation in US IPO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT2duSWZGV1gtNHhZUVRCMHQ4QTN4ZzAzOFR1QjVlbmNfdEYwRG9HRWc1ai1WUXV0TFlESmpzSnhQSW1jT2xDYmdhSXZrXzZTUFVyX1N5VFltX2VyVDZPeEUzZ0hxYnB1MmpYYVhvU3h0VlB3MjZrMThFZFhwMkk2cEw0eGdKSHdySTJEWTNsZklka25TamNFbG91UXRPSjJPYjl4d2JvREdwa2QyeTh5bHpRN3dmUXJzbXRUOFJacHpuM3M0?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 14:47:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ex-prince Andrew search warrants quashed after police accept legal error - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWNYRlVDdWZNdGxtWktidHlhOG1uLUN0TWR1UDFlMzVpazNiWWF5RkVEbE01RDQ0VmxwRW5MWEhGQmxVbUQ4cVZjQUxBVlJRbEcyUlN4VVdncVprOXptLWZfYUtQaENGNUhJSGY0RnR0d3BlNE44N3drbjdub1VLZk9HdUNtSVhMbkZUTUtiMnpDc2JrSVRWQjgyVDMwSVZCbmNCYzZjMmJKUTdpNGg1N0c0dExRVTYw?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 14:42:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "French teens march for decent schools despite government's pledge to act - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzJYR0JwU0s0NDl6aFRnVFZFTWhRNlZCZ0Z1LVREazhOdUJRcWZlb29wdlRNREEtdTNQMF9NcUxBbGhTNEVhQmR4YUJlVTl5ZzRYQ1g0RHBXbW11em12SmFuMUZLVjlkcnA3T180QVZIQXo4M3Rpcm0xRlBzOXk5c09nWm1OS3VyalpVMXVtWlJFWW9xazVVbVRzVVdNS3hqQ1FvRWh1am1EczVaa0QzTw?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 14:40:18 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T16:00:21.281Z"
+      "updatedAt": "2026-10-08T16:10:15.985Z"
     }
   ]
 }
