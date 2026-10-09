@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-09T00:00:19.385Z",
-  "lastChecked": "2026-10-09T00:00:19.385Z",
-  "lastUpdated": "2026-10-09T00:00:19.385Z",
-  "generatedAt": "2026-10-09T00:00:19.385Z",
+  "fetchedAt": "2026-10-09T00:25:13.650Z",
+  "lastChecked": "2026-10-09T00:25:13.650Z",
+  "lastUpdated": "2026-10-09T00:25:13.650Z",
+  "generatedAt": "2026-10-09T00:25:13.650Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T00:00:18.311Z"
+      "updatedAt": "2026-10-09T00:25:12.235Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
+          "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
+          "pubDate": "Thu, 08 Oct 2026 20:05:48 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Suicide is up among Black Americans. We need to talk about it.",
           "link": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis",
@@ -103,36 +109,30 @@
           "link": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
           "pubDate": "Thu, 08 Oct 2026 08:01:34 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
-          "link": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico",
-          "pubDate": "Thu, 08 Oct 2026 07:35:22 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T00:00:18.495Z"
+      "updatedAt": "2026-10-09T00:25:12.558Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Isaias strengthens into Category 2 hurricane on collision course with the US Gulf Coast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 23:53:00 GMT",
+          "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 00:07:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 23:52:00 GMT",
+          "title": "Isaias strengthens into Category 2 hurricane on collision course with the US Gulf Coast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 00:02:00 GMT",
           "source": "AP News"
         },
         {
           "title": "The long-deployed USS Lincoln returns home to San Diego Bay - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaXpmdmZOT25ZT1RrbXRKYnRQY1VxbGR5WkFIVzMtX2hSU19MSUc1cHpJWDlJU0tkLVZOa0hNMlhXNlJxMjFlLWJiTUtlMy1nNnpwdlV3U3FYcUtBaU1OZXNxeEJjVjZxUWltUXBtX0xKME9LNjlVRDFsYWZWT2xXQW91ZlFPbDdlRlZJQzNwSjRJdHJP?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 23:45:00 GMT",
+          "pubDate": "Fri, 09 Oct 2026 00:02:00 GMT",
           "source": "AP News"
         },
         {
@@ -160,18 +160,24 @@
           "source": "AP News"
         },
         {
-          "title": "Iraq rejects Syrian request to repatriate 4,000 suspected IS detainees, official says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGVyVjBjUXZMVUJVbHlSQTFySmZVTVFDdDBVZzNwSF9icFBYazRnOHVxYk1OSzFFMGF0aERhay1IZHgtU1ZxQjZ4SlpLcmNhcmJieEFNby1jU2w5RUszcGI5bmZMRHZoLVdUcXU5UC1sZGEya2tRT0kyeXg1QUFwOUotNzE1TXlqY194TEdvcXdCRHRTcjVxNzBn?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 20:52:00 GMT",
+          "title": "Houthis claim new attack against airport in Saudi capital as witness reports evacuation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3VJUmRVT2hFcmwtQjBreFFjcWdaMElxY3pqQ3MtSGVNcktPSWxTbkhHd0h5bDR1S0MydDh3a2J3bzZUNEVmRTFsc0NCMU5pT0ZpVXVkRXBKb2R4dkFEVUNYRHNuODNxYjlnYjc2c0tISzNHNmZQVHlESTB1aTVNa2lWS3lfSl84Z0pKaHNWb05tXzh2dmJaYzItUUYtSm8?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 20:57:19 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T00:00:18.961Z"
+      "updatedAt": "2026-10-09T00:25:13.185Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "New York City man shot in car with child present by ICE agents, mayor says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGstcXViclZRYnU5UEVHU3NzRzNILVJDTERtQXVyNHpwalQ1WXlTdVNjREJIYmxtNTdPSXJrSDdRNzBnUDB5am5WcEtsSjh1dXI2Zk1LQVNGOXEtUEdDaU9SWllISkNSdE5PQWoxOVRlazI1UDk0bld3V3MzOXV5d0dQMHE4bjFMczVQRTNDUVJpd2o3NjJRUTRIVDUxWUJuWlVnaUZUSEotRE5BRmkwazluS3VlMUZUSUFKWEVwUQ?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 23:50:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Starbucks declines comment on Chipotle takeover report, says laser focused on turnaround - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmJ2Y2FjX1o2WTBVR2hCcExURmtYMDRzYlhrcE1OZnBqOGVXLUhOUHp1dVF3UFFnaEM5aF92dmdNcHVBRTJ5MFFwam9abTcyTlprT0J3NVhhVzRpNnpSWHRIUTI5NUZ1Q3dvOFd0RkxjeS05ZXQyaFpxYVpxcXZRUDFhczZKb2xtd1hiV1RFc0lBOUlzRjF3?oc=5",
@@ -197,12 +203,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Person wounded in New York shooting involving US Homeland Security agents, police say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGstcXViclZRYnU5UEVHU3NzRzNILVJDTERtQXVyNHpwalQ1WXlTdVNjREJIYmxtNTdPSXJrSDdRNzBnUDB5am5WcEtsSjh1dXI2Zk1LQVNGOXEtUEdDaU9SWllISkNSdE5PQWoxOVRlazI1UDk0bld3V3MzOXV5d0dQMHE4bjFMczVQRTNDUVJpd2o3NjJRUTRIVDUxWUJuWlVnaUZUSEotRE5BRmkwazluS3VlMUZUSUFKWEVwUQ?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 22:49:43 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "SpaceX takes aim at US wireless carriers with spectrum acquisition - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlFFTHdGeXpOZ3BQRk1pSC1uV1RCVTRqdjlqLWc1RVNSTG01OTlJNkhOdmRJVDI1SHd3NHQ2WEd2czY1N2JrdXc2LUtwazF2ME1SbVhoSHpBZmpPYU5PdkRGNENXWFlDbnc0SUo2VnoxbHhFYk1xdmdFVEZxcTUwUDBhcElkcDRmSzk3bTA3M3ZBZUlMYzVCZzJUSUR3ZUFDemZpMUtsWWhzYzIxVEp2OFhmalVDUHc4Y3JnRA?oc=5",
           "pubDate": "Thu, 08 Oct 2026 22:29:46 GMT",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T00:00:19.385Z"
+      "updatedAt": "2026-10-09T00:25:13.649Z"
     }
   ]
 }
