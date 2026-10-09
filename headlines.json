@@ -1,14 +1,20 @@
 {
-  "fetchedAt": "2026-10-09T07:00:19.339Z",
-  "lastChecked": "2026-10-09T07:00:19.339Z",
-  "lastUpdated": "2026-10-09T07:00:19.339Z",
-  "generatedAt": "2026-10-09T07:00:19.339Z",
+  "fetchedAt": "2026-10-09T07:25:17.881Z",
+  "lastChecked": "2026-10-09T07:25:17.881Z",
+  "lastUpdated": "2026-10-09T07:25:17.881Z",
+  "generatedAt": "2026-10-09T07:25:17.881Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
+          "title": "Firing squad execution to be livestreamed, Pentagon says",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 09 Oct 2026 07:05:05 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee",
           "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 09 Oct 2026 04:53:50 GMT",
           "source": "BBC News"
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Firing squad execution to be livestreamed, Pentagon says",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 09 Oct 2026 03:36:12 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
           "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 08 Oct 2026 23:14:02 GMT",
@@ -50,14 +50,14 @@
           "source": "BBC News"
         },
         {
-          "title": "​​USS Lincoln docks in San Diego after 10-month mission",
+          "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
           "link": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 08 Oct 2026 22:26:10 GMT",
           "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T07:00:17.730Z"
+      "updatedAt": "2026-10-09T07:25:16.898Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T07:00:18.268Z"
+      "updatedAt": "2026-10-09T07:25:16.976Z"
     },
     {
       "name": "AP News",
@@ -124,9 +124,21 @@
           "source": "AP News"
         },
         {
+          "title": "A US charity plans to use AI to monitor its Gaza classrooms for ‘hateful’ speech - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdldvRXFLLUlXaVhvU2FPSmhWM2t2V2x3cXlLSjhOQ19xOFZra0ZoaWxyakxpaURmdk5hYWI0amZGcU5FcFZBTXBTWXQ2UTlrMEo3TTFtcUxpcEhTZHRlZDlBVGRGYjJyUDVyOC15d0JXcEE2WUZ4RXRzZ2E2UjlqcVpONFdyeWN1YXQ1ZGdXTEdXNVNXcjh4SC1vb2FoS05v?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 05:12:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Man with a gun and knife is fatally shot by security at Nashville federal courthouse, police say - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRHRNYm1zeFNYYmRqSjMtOWp0Ty0taEJPNldhdVlDQUFHUHdhcVlvNjM4T1ZXUk5LdkV3ZGFPVE9zU0lBc0ZHcy1IZ2tTSzBQQ1piTGpwc0ZnaHF2cThGWVkzcVJTR3dkbUNFMTBhTmhqcHpINWpwMWFxRW16UTNDRGluQnNHX3BrX2ItaUFoT19lX2c?oc=5",
           "pubDate": "Fri, 09 Oct 2026 01:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 01:51:34 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5",
           "pubDate": "Fri, 09 Oct 2026 00:07:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "The long-deployed USS Lincoln returns home to San Diego Bay - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaXpmdmZOT25ZT1RrbXRKYnRQY1VxbGR5WkFIVzMtX2hSU19MSUc1cHpJWDlJU0tkLVZOa0hNMlhXNlJxMjFlLWJiTUtlMy1nNnpwdlV3U3FYcUtBaU1OZXNxeEJjVjZxUWltUXBtX0xKME9LNjlVRDFsYWZWT2xXQW91ZlFPbDdlRlZJQzNwSjRJdHJP?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 00:02:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Yankees swept out of the AL Division Series by the Rays, extending their title drought to 17 years - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTUgxdDZkMFJBTnVXOUVIZU1LZlpOTk0tc2lnemlnLWZYRXQ0bUNnb2RVeG5qaktjVUdraTdqaHRHX0U1MmtHejBTQXJsd21VNDZUUkRabnVfZC1RNmZtUmp5OVVvRHpldVNPN1FEN08tS0xQdEJYYTV3a1JiQkFRN0FsY3A4SzV4QXRZ?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 23:29:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T07:00:18.909Z"
+      "updatedAt": "2026-10-09T07:25:17.450Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "India's Aditya Birla unit seeks $1.5 billion in rupee loans to buy Shell arm Solenergi, bankers say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnVZWEJRVFBzT0I4Um1xQnE4UEY0eVg4emROS3VSNm9Rc1UtWndXa3JNa2NUWXdnZ01ZMS11MnJxUS1QUW9oM3N3aHFBLVBQWXJENWJXRzFrOXl4MHdDWDBiT0hObEhiVktWa2lJUmNyUXVtdkhPRlY1ZUN6aGF4a0gyWXRWb2FROUVDMnNOWWY3RjJqM3IzMEQ3R1l3WmpvYWVYMFliZkN2dzNrWkpUaTdYSkpWNFlibldB?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 06:08:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US 10-year Treasury yield risks hitting 6% for first time since 2000, Pimco's Ivascyn tells FT - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUjhNTkZmR2Q2NmQxSkRZWDVRT2tRbW9BVld0TnI1NDdyV043dmMxeElSakg2LTJRNUNJMzFxRG5pbW1xVFFaLUNQYkRFWDBwM3NHay1wNWpsT3l4ZUFlTDVJN0tUM0FCX1lYSGtjX0JFU0pSYzF1NmtvcDY4THJtZEFCYWNDT21lWFcyd1kzUUt4LWZOWXVrME1rOWhhN2RHWjZrYVYxbnJFb3BzN3loZ0pKdFVMT3E4RXN0dEpRSjlPVTg?oc=5",
@@ -209,20 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "US announces effort to disrupt hacking infrastructure run by China's Integrity Tech Group - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGZxanZsNXJaMTdsaVdNZ1FnS2hGdXVOU0FIWFdUSHN0N2hNNW5CNUlYRHlnX0Fpc2Z4WUF4Uk5kMXZsYm1kN0pYemtYYW0wOUZQNTAyQzd0SFpFcHI1bFcyd3loUVJHUEVIaWtHVjhicWtQNHl5N1BmRENzQ3dzRjdvTnJXQWdlZk1jT3hPTDBCUEV2cFFvNUUtczhTMFRoUUVUMGFNdzBMMks2NmFCWlVIVEpDUkdwRHc3SlhFRno1WnpQ?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 04:21:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India's TCS rises on AI revenue, international business growth - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNckdwSjZhV3lYaVBsMFlkbHZqbHg3ejNwLXJRTjJCRUxvQk5jUXlyQ3NybURhWGliZE5kY0JKaml3RU9TeHlUM1E3OWZIa2tfNUIzSVdrMHVpcFpOVnBtX1Zmb3FYejBuUW1qbW1FQnFLNDZOVldPOG45aEoyZGVkaloyVmg4SF9YN3pjU3Q3Uk5QZFRZX3pGenJmYTFPNGhYem51SG9Uc3paeG9QUGU5dlk3aXRua1ZQaTNfdXZB?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 03:56:00 GMT",
+          "title": "South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb1UwNmY5enhvTG1pcjh4ZjJuWldwVXpfRjczYzE2UkFvb3BrbUdaOGlZdXhTTFhGcndBcnkyVl9GUV95bFVlSjUtSjVJMS1ub0xoY0xCeTVKWS1ud190aVU3bVRka0J2VUppYkNCNDBYdmkyUy1pbGI4Z1AtbFUwM2ZuZGpTZ1R0TU0tUHFTVkNyanJHUk1KRzNEZ3VkRWRwVHh6SHcyV0tNVjlCX21oMDg3YjhvZkNp?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 04:24:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T07:00:19.339Z"
+      "updatedAt": "2026-10-09T07:25:17.881Z"
     }
   ]
 }
