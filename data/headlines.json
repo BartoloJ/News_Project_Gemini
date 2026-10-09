@@ -1,12 +1,30 @@
 {
-  "fetchedAt": "2026-10-09T16:25:13.602Z",
-  "lastChecked": "2026-10-09T16:25:13.602Z",
-  "lastUpdated": "2026-10-09T16:25:13.602Z",
-  "generatedAt": "2026-10-09T16:25:13.602Z",
+  "fetchedAt": "2026-10-09T16:50:17.032Z",
+  "lastChecked": "2026-10-09T16:50:17.032Z",
+  "lastUpdated": "2026-10-09T16:50:17.032Z",
+  "generatedAt": "2026-10-09T16:50:17.032Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Man named Hitler Mussolini elected mayor in Peru",
+          "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 09 Oct 2026 16:32:22 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Firing squad execution to be livestreamed, Pentagon says",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 09 Oct 2026 16:29:47 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
+          "link": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 09 Oct 2026 16:19:36 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
           "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
@@ -36,32 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 09 Oct 2026 13:50:25 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Firing squad execution to be livestreamed, Pentagon says",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 09 Oct 2026 12:24:58 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "ICE agent shoots man in New York City",
-          "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 09 Oct 2026 12:18:52 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
-          "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 09 Oct 2026 11:44:49 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T16:25:12.368Z"
+      "updatedAt": "2026-10-09T16:50:15.875Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Did Russia play by the rules in reporting lab worker's death?",
+          "link": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
+          "pubDate": "Fri, 09 Oct 2026 12:43:45 -0400",
+          "source": "NPR"
+        },
         {
           "title": "How the oil industry is preparing for Hurricane Isaias",
           "link": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
@@ -81,14 +87,14 @@
           "source": "NPR"
         },
         {
-          "title": "Why we remember: One student's journey into memory",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
+          "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
           "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+          "title": "Why we remember: One student's journey into memory",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
           "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
           "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Why mailing a ballot close to Election Day may get it rejected for a late postmark",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5984981/mail-in-ballot-usps-postmark",
-          "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T16:25:12.506Z"
+      "updatedAt": "2026-10-09T16:50:16.016Z"
     },
     {
       "name": "AP News",
@@ -136,42 +136,60 @@
           "source": "AP News"
         },
         {
+          "title": "King Charles III paid $2 million to cover cost of ex-Prince Andrew's departure from Windsor estate - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWW9pUHpBRE1aNWx2Q0xSRnJNU1JwV0FvUER3WkFOeXROV21Tbkx0WjdmMFpiZ196R2d6XzRIdERvamNQcHFTUVFXMXJFcXRVSDVGbXVINklmNFlXdmc3dlNFOFNodFR1b1Z0ZzJtNjRPUUVzMlhRc1lNckR3bnBuQ1hTdGRldmZqaDhram9jZU9TdFE1TjdoSWNxeE5qRDA?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 16:02:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "South African-born jurist Navi Pillay wins Nobel Peace Prize for her work in international justice - AP News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1JaUVE4ck5QdnpKRUpKbVJWWVRDbnUxNzBCbmZXNWt1SmZJaVZzZEMwd2tWNUJSUG1WOEdLaEdxUWRwVTBXc291WTdWTlRaTWV5VVVmQV9aLV9PVy1uV3NGT1A0OS0zc2JNTUpsclJvWG11UjRKRW1jeTFYaXp0WkR5Zw?oc=5",
           "pubDate": "Fri, 09 Oct 2026 15:56:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Saudi authorities say 3 killed in Houthi-claimed attacks on Riyadh airport - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbmJMRkQ0Z1poSUd4YmFBT3JJN3RoNklMUGV3UFJSbmdPaFN3NEc4b0NxZnRBM0hBWTE1TEZPYWZtaVFXNkR1dGpYU2lyQmN1elEyQ2Q5RHdQY0UwbVVKVEVFRG1Mcmc1TXhLY3lVOEp6Q0RSbGw1dGV0OEx2amhwLVhVRUFkalR6SlQtaHFSWXQ2QQ?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 13:44:00 GMT",
+          "title": "Takeaways from AP’s report on Alaska’s growing fight over trawling and bycatch - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHRScFFfbEtYUmx5bW5OTlpjLWdzcU5ESlNIRzlGWUFraC12b1VDVjNrSW15NFhEWmRPRVItRGJxYnNFakRKd2VzQWdlelRuVEpKcUlKbjFEejZPT2lBRXdhRW5sTlNwUURWMnVxWWN6cmxpbk02RW0yWEZTeUtTakZoUnJOQlA4WUw2cUJuUWNsaDhXQTFMcE5NeXF2QVVqSnF3Uw?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 15:52:32 GMT",
           "source": "AP News"
         },
         {
-          "title": "Takeaways from AP’s report on Alaska’s growing fight over trawling and bycatch - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHRScFFfbEtYUmx5bW5OTlpjLWdzcU5ESlNIRzlGWUFraC12b1VDVjNrSW15NFhEWmRPRVItRGJxYnNFakRKd2VzQWdlelRuVEpKcUlKbjFEejZPT2lBRXdhRW5sTlNwUURWMnVxWWN6cmxpbk02RW0yWEZTeUtTakZoUnJOQlA4WUw2cUJuUWNsaDhXQTFMcE5NeXF2QVVqSnF3Uw?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 13:12:00 GMT",
+          "title": "Mike Ditka, the quintessential Chicago Bear, dies at 86 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVF0bkFNLVZ4Zk1STV9nRHRfN1dqVDZRWVNXWHNxcmRJT0FLUWJmMGFOVml2cnZSVWJqUzZqTkZhQ3NJS095dDFjbF81OFQ3NXNleTVqRWJsUXc0SUhsTnMxendfWXlOVS1GdTFaa2ZlMjBhNW1YV3VZdDRRM0F6RlJIeGFuUHZO?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 15:49:15 GMT",
           "source": "AP News"
         },
         {
           "title": "Russian strikes across Ukraine kill 3 people as Kyiv struggles to counter escalating attacks - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSVIwWnFtX3JvdXpubXd6aFNMMzlVbTlYdUdtQVc2YVBCa3UxUUZXTzh5TUNCcW9Rb2JnZmpZU2d6bW8ycV9fc0lXUXo2dlJPYW9IUUY3MGZXZm5SYUJSeWdlY1lWcFBqSkM0TlV5X3RMWFJ4czNMb0xtYS14LXlWVmwzNFhXb2hTUTVkWnNmMWY5OGVJRkU5azhqMWFBckNyUlE?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 13:02:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Police and masked protesters clash in Brussels as anti-austerity rally disrupts city - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeERWeDFpVEUxUlFoa1hDdzFRMWZrbWl5WURYQ25TTm1yU2xhLWRsUE5GendFMDJBR3RJZVM5a2tvQmVkWFh3NjRMX0dMZ0tpYllITGI1S3dITElGa2tmZ3ZZeVdhaE9wSG43cVZYdjFGeGZhelJXQVd0d0RST01wRFVIbVJSUVJBRGNuQjVpZkdKbm8?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 12:47:00 GMT",
+          "pubDate": "Fri, 09 Oct 2026 15:29:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T16:25:13.139Z"
+      "updatedAt": "2026-10-09T16:50:16.586Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 16:22:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US diesel prices remain high despite Trump's moves to boost supplies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSC1DZmo5R2daREU0YTBRSFBZTE04NW92WFQ3eXhLeGhiRlFyTEZBbHdWT2xuczBRYmtWcmlqMVJKTUo0Vk9KTEk1OU1jYUo1NlQ3Zi1KTzhmc1pmZkhQS01OajhXWHR1aWpQVEpuRTllX0RSd3ZmR3ZKMG51MlJRNGQtX3BkdUpfOHFGejVtbnhMUGlGNVdDa2lISkd5dFdmNWc3dFpRZnJuNGJ6M3duQ1pJcXo?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 16:18:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Four signs it is about to get uglier in the bond market as yields rise - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnpPbXRYRlc0T3dINmZIZnM3VEgxWWJzS2tLRVBadmJMVnQ2ekdHaTQ1NG1SZlhfTV84VjNsM3JNR0RRSTZyVWJ1ODJFZmxpa1pxckluaktPY0d6T0d3bUVUUnRGQjlCVmwxWUNGWEs2cEo1VGV4R3MxN19PakJaZ3FUZnZfMWxqUHAzNk1nOTVFT0hr?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 16:18:35 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Russian war blogger expelled from Montenegro for 'security reasons' - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTNGZXhPY2E3ekEyMDFFY3hDMlV0NExyVlByYk1mMlNOelluWXFfR2VaLWpSY0dsRk1qblRsMUlQTmVvTFFwU3JMazRrVXhhTUVDU2RuRnFoaWxzRERhS2RkZ1FQWVBlWTlKOGU2YU1XMUZCQ2VNTDhxazkwUF9qbmh1NnpETjc0TGNZZ3ljaEJ2czlBaDhZN3lyM3VidjZiczJVeDR5al85QTdkTGc?oc=5",
@@ -197,32 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 15:37:06 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Four signs it is about to get uglier in the bond market as yields rise - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnpPbXRYRlc0T3dINmZIZnM3VEgxWWJzS2tLRVBadmJMVnQ2ekdHaTQ1NG1SZlhfTV84VjNsM3JNR0RRSTZyVWJ1ODJFZmxpa1pxckluaktPY0d6T0d3bUVUUnRGQjlCVmwxWUNGWEs2cEo1VGV4R3MxN19PakJaZ3FUZnZfMWxqUHAzNk1nOTVFT0hr?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 15:36:04 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "UK's King Charles pays for younger brother Andrew's mansion repairs - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRHJ2Mm8taG9zVzZQZ0JzSzZJVXQzRnJVcXEzWnRjMGEwRmpCUFVfem8yaHM4QUhubEdmalVQdVNDRjVjZkFXazN1cFBCR2o5TEZDUFdHRWtCdmRaNVJvdjBKS3pub2VIVUdFbzhILTFtVFA1eFd4UTJSQnFZZW80WmNqNW8wdWNvWnN3cVk5VTZWMlh4dFFvWnkyaFlYb0tzNjNQWXJIOHJkTnhkVlU1Z2pRRm5rNUtSX3c?oc=5",
           "pubDate": "Fri, 09 Oct 2026 15:13:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Tesla renames 'Full Self-Driving' to 'Assisted Driving' in Europe as it chases clearance for software - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV250TWJ1ZlRmak0zTWREOUloN0VqTXBaMUFDM25yRENjSllTdHNMZ0RrSF91WTBOUVhMYkxXVkswQWJGaWhKaV8wLXdOYVJ2bXEyZkliMlpmMDlYU3I1YVFuYWw4V0N6dEpyNnoybTBXOUVFX1ktSEZxQ19IaGxEUk1PT1dQOHVBdWpyOUg2WWM3OUdPNVZMQWdRRktzYWFaR1JSZGREQXJJZGdYQnpfUGM4YkF6RTh0M1dpNkwxUUlIcDctVjhvNzV4dUxjeUdNSkJ4Mm43MDI?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 15:09:19 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T16:25:13.602Z"
+      "updatedAt": "2026-10-09T16:50:17.032Z"
     }
   ]
 }
