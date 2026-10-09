@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-09T20:00:17.571Z",
-  "lastChecked": "2026-10-09T20:00:17.571Z",
-  "lastUpdated": "2026-10-09T20:00:17.571Z",
-  "generatedAt": "2026-10-09T20:00:17.571Z",
+  "fetchedAt": "2026-10-09T20:25:13.957Z",
+  "lastChecked": "2026-10-09T20:25:13.957Z",
+  "lastUpdated": "2026-10-09T20:25:13.957Z",
+  "generatedAt": "2026-10-09T20:25:13.957Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 09 Oct 2026 20:13:23 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Commentator Katie Zacharia picked as new White House press secretary",
           "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
           "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 09 Oct 2026 19:39:52 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump announces deal with Putin to release Russian diesel",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 09 Oct 2026 19:32:07 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T20:00:16.247Z"
+      "updatedAt": "2026-10-09T20:25:12.794Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T20:00:16.470Z"
+      "updatedAt": "2026-10-09T20:25:12.968Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump says US to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWNGMlZNRlFBTHRZXzVzeUVnMnpVaDMwWU5VN2VKY1o4TXdGbmNXUk5lOTkxWVBNaUZHYTlzV044OXI4Vl95dDVral9GRVNhZ0pPS2tXYXpPSm5CZzhEV2dDM3pMMEFscWFwY3NjVFNFcmh4bmI2ck1oRGJlYWtlTVowOGZjMjZFUDI5MVFWV0VKUQ?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 19:24:00 GMT",
+          "title": "Wall Street finishes its record-setting week with gains - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2lhZk1vOEFWM0xsY2hYWHEyLXZMQmFITTR1SkpzVWk0TW1xOEJWcW1COTdMNDUwU01iUHJkWDIwOFhVeGdhVU03QW1FZHpXWjQyRENjT1FlTXJLQVp5YUJUck14b0lDQ2M1QkdRa2t1bFAzZWUwY1QtUFp1OHJOX3l1TXVZMjg4YmhVblNTMnU?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 20:14:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "US stocks rise toward the finish of a record-breaking week - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2lhZk1vOEFWM0xsY2hYWHEyLXZMQmFITTR1SkpzVWk0TW1xOEJWcW1COTdMNDUwU01iUHJkWDIwOFhVeGdhVU03QW1FZHpXWjQyRENjT1FlTXJLQVp5YUJUck14b0lDQ2M1QkdRa2t1bFAzZWUwY1QtUFp1OHJOX3l1TXVZMjg4YmhVblNTMnU?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 19:12:00 GMT",
+          "title": "A magnitude 7.7 earthquake shakes Panama, prompting evacuations - AP News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVl9TaDlyMTA4emtwWlhyemdqTUY2ak9BUzU4TWlyT3d6dEtfWGs1RWVESTZ3YlhBcmx0S1dhajROOEJjY2NvbDlHc0h0Z2s2a1RFY3dRSDJTSlFrOTVWWk5PVjBlVGtUTEtPSEpMeS1nZFE1eTFmWWJzUGd4Ym5mOE1KZw?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 20:13:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump says US to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWNGMlZNRlFBTHRZXzVzeUVnMnpVaDMwWU5VN2VKY1o4TXdGbmNXUk5lOTkxWVBNaUZHYTlzV044OXI4Vl95dDVral9GRVNhZ0pPS2tXYXpPSm5CZzhEV2dDM3pMMEFscWFwY3NjVFNFcmh4bmI2ck1oRGJlYWtlTVowOGZjMjZFUDI5MVFWV0VKUQ?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 19:24:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,12 +154,6 @@
           "source": "AP News"
         },
         {
-          "title": "A magnitude 7.6 earthquake shakes Panama, USGS reports - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVl9TaDlyMTA4emtwWlhyemdqTUY2ak9BUzU4TWlyT3d6dEtfWGs1RWVESTZ3YlhBcmx0S1dhajROOEJjY2NvbDlHc0h0Z2s2a1RFY3dRSDJTSlFrOTVWWk5PVjBlVGtUTEtPSEpMeS1nZFE1eTFmWWJzUGd4Ym5mOE1KZw?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 18:27:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Vance expresses doubts about Pentagon plan to livestream Fort Hood shooter’s execution - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMjd2dDNCOXVqMGF0eldBNDJqR0hwdGVxb2NBcm5XbGgxV2Flc3NfUGgtMGk4VDFJSXV1eDBvSXd1cjgwZmhldXVJTHNPMnhDUzRGclN2WUpoM19ZUGhhZ09FcmpzcmpUT1h6RWx4ZDZfTDl2bnkzeFdFRk9QX3dEM21UZ1ZxU1Vfd3hVQnB6M09iR1U0V1FiUQ?oc=5",
           "pubDate": "Fri, 09 Oct 2026 17:52:00 GMT",
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T20:00:17.056Z"
+      "updatedAt": "2026-10-09T20:25:13.516Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump says Russia to supply diesel to US and global market - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 20:11:02 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 19:58:50 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Katie Zacharia picked as White House press secretary - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXZfSE5tdU1qaXV4LWl1Z2hYclJVU1dVSlFWQTZQV1J6RzQydkxoZjFqTTJxc3lLNTNoaHVPOTBzbHdBUFBkcHdEWGpldVJ1Vzk1NE9EUkJfMnFNOEQxVkZfUGZmVS00M01FMGFiOENBME4xbTlZWmRBVVNNbERDNkRFSjA4dDA4LUx1MTlpZnh1VU9lWUEweld4ZG96b0QzTF9uZGhyTkxjQQ?oc=5",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0hWbFNBUlE5SFJjLVpMMnIwZzFpN2hVNEd2YkxlalYyVDRKTDZxcGJ0REJLUERXb0tlVVVreVZLMHFodlAtZlY0eDhuN2xiOHcybjM1c3gxMlBNTmZMWWdrdkhQOG9Pc2JRdTEwYXM5N181QmttRVEyRkdXTy1LT2J0ZVA4d2FXdjZZeGZwaGRaSUtDUXJUZXFjSU94cnprbTVUSXRpXzFtQzV2TWtpR1dNSjdaWVplUlE?oc=5",
           "pubDate": "Fri, 09 Oct 2026 18:34:21 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump to issue directive on diesel, sources say, after he promises 'big announcement' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 18:29:26 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Explainer: How the US plan to livestream an execution compares with global practice - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1NBZFVBVHJYejdwU3ZJTW5DdFYxMk9Yb0lwc2w5Y3VTY2IxYll1Q1E5QkpHeWhLYS13dThUQkNrNFdhTmVGVlhrM0xuQTVESDZ2OUEtYWJBWFU1QUxxMVBKSVJQMUFkVzRsSWE4QWFDYVdpc21kakFoSGEwUEhzQklFcUhlVnY1alpuUkQtcGkyYXlvYkxPSmJzQ0QxLWU0cmZlcjEzem94bDByc2cyWWdPbm02TGtyWUl5LUtjdEU2UFRDTFE?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 18:16:27 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T20:00:17.571Z"
+      "updatedAt": "2026-10-09T20:25:13.957Z"
     }
   ]
 }
