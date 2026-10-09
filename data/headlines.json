@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-09T05:50:19.954Z",
-  "lastChecked": "2026-10-09T05:50:19.954Z",
-  "lastUpdated": "2026-10-09T05:50:19.954Z",
-  "generatedAt": "2026-10-09T05:50:19.954Z",
+  "fetchedAt": "2026-10-09T06:00:20.246Z",
+  "lastChecked": "2026-10-09T06:00:20.246Z",
+  "lastUpdated": "2026-10-09T06:00:20.246Z",
+  "generatedAt": "2026-10-09T06:00:20.246Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T05:50:14.841Z"
+      "updatedAt": "2026-10-09T06:00:19.072Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Christa Pike is walking with help and eating after failed execution attempt",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5996402/christa-pike-updates",
+          "pubDate": "Fri, 09 Oct 2026 01:52:50 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Pentagon says the firing squad execution of Fort Hood shooter will be livestreamed",
           "link": "https://www.npr.org/2026/10/09/g-s1-147419/fort-hood-shooter-execution",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
           "pubDate": "Thu, 08 Oct 2026 12:05:37 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
-          "link": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
-          "pubDate": "Thu, 08 Oct 2026 11:34:39 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T05:50:19.080Z"
+      "updatedAt": "2026-10-09T06:00:19.354Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T05:50:19.575Z"
+      "updatedAt": "2026-10-09T06:00:19.818Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T05:50:19.954Z"
+      "updatedAt": "2026-10-09T06:00:20.246Z"
     }
   ]
 }
