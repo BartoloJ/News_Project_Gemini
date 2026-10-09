@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-10-09T12:00:25.313Z",
-  "lastChecked": "2026-10-09T12:00:25.313Z",
-  "lastUpdated": "2026-10-09T12:00:25.313Z",
-  "generatedAt": "2026-10-09T12:00:25.313Z",
+  "fetchedAt": "2026-10-09T12:25:14.099Z",
+  "lastChecked": "2026-10-09T12:25:14.099Z",
+  "lastUpdated": "2026-10-09T12:25:14.099Z",
+  "generatedAt": "2026-10-09T12:25:14.099Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "ICE agent shoots man in New York City",
+          "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 09 Oct 2026 12:18:52 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Two Renoir paintings stolen from French museum are recovered",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 09 Oct 2026 12:05:12 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
           "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 09 Oct 2026 09:43:22 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-          "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 09 Oct 2026 09:30:49 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Firing squad execution to be livestreamed, Pentagon says",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 09 Oct 2026 09:29:52 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T12:00:20.238Z"
+      "updatedAt": "2026-10-09T12:25:12.423Z"
     },
     {
       "name": "NPR",
@@ -93,12 +93,6 @@
           "source": "NPR"
         },
         {
-          "title": "A student hated reading for years. Her podcast explores finding the right diagnosis",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5977043/dyslexia-teenager-diagnosis-reading",
-          "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Fill in the blank in the quiz: A plague research employee in Russia died from ____",
           "link": "https://www.npr.org/2026/10/09/g-s1-147111/trump-bts-paramount-tv-el-nino-news-quiz",
           "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
@@ -109,10 +103,16 @@
           "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
           "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
           "source": "NPR"
+        },
+        {
+          "title": "Why mailing a ballot close to Election Day may get it rejected for a late postmark",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5984981/mail-in-ballot-usps-postmark",
+          "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T12:00:24.314Z"
+      "updatedAt": "2026-10-09T12:25:12.959Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,35 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T12:00:24.911Z"
+      "updatedAt": "2026-10-09T12:25:13.578Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Former ICC judge Navi Pillay wins 2026 Nobel Peace Prize - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 12:03:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St futures up as oil slips; telecoms pressured by SpaceX spectrum deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0hWbFNBUlE5SFJjLVpMMnIwZzFpN2hVNEd2YkxlalYyVDRKTDZxcGJ0REJLUERXb0tlVVVreVZLMHFodlAtZlY0eDhuN2xiOHcybjM1c3gxMlBNTmZMWWdrdkhQOG9Pc2JRdTEwYXM5N181QmttRVEyRkdXTy1LT2J0ZVA4d2FXdjZZeGZwaGRaSUtDUXJUZXFjSU94cnprbTVUSXRpXzFtQzV2TWtpR1dNSjdaWVplUlE?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 11:47:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdFAxYTlxLTNCZ3c2bHMya2hWU2VvRUNTQ1I3YllKaGtoRERCSGFwaGFsRDlpQUVsdENqMnloSVpIQlFLZzk0N0VLNEdRSDExR2ZDaU5YOFQ1ekl4Y0tHb2VyUEVGOHVvam9KeTFHU1ZabmxQVjJMRC1jVmZFOVdtdWFuM3p6VHhjU2VqOFl3MXdBUG12OXU4RlMzV0ZNZ3RaSGpidld3cDBzR2VIcjNQOUNRbHdObV9K?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 11:40:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Delta Air cuts profit forecast as $6 billion fuel-cost surge outweighs fare gains - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQl82dC1CSHRVaTJVMG1meFQ1b1lKY3hCNFJVSTJDYl9hdmRZNGwzTnE0ZTRucHN3WExWcXBYMnljMW1fUjVsZXhyelBSTGswazhULTBGZnFvSGE4X1ZDLU5HVFhBMkZrWlNMdmFIX2t5Si1hVEg5bGs4S3dSWHU2aElROGlZS3NsRGpfYjhzSUtJQWFWYk82cGNPU1V4TEtlQ0lLamxRb3JsMVBRaXR6dDNSY0NzNXlq?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 11:36:40 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "French student protesters vow to keep up their fight after scoring first win - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRG41MmxpUTdXUldjM1JDZFlVbjVyRzEwQUhHS2x5OVZvbUY4T0xiZFl6MFF4VWx6RjBwbTdFMW5CN2VwNDRvU0lkU0QtVVJGUmh5dzlnUjFmaXdJckJLUkt5Y2lKeDRLQkgzeVRSWUxOQzF0dHJjcUkyRDR5c2xIQUI4ekVNUGU5TDlfRUJFb1k5NHN0SmU4NXlVLTdoMTN1bmZzV1RBR01DNFBQekw1YW1tTElmQQ?oc=5",
@@ -185,12 +209,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Former ICC judge Navi Pillay wins 2026 Nobel Peace Prize - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 10:32:06 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Ukraine expands drone strikes on data centres owned by Russia's Yandex - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHlDTS1wNzE0M05HazRDNThpeVVFdWpRcUtuZTFYcEszTDM4TWxsa1FuZVQ1dFY1RDhDOXRjZDJFdlVtWm5tV1FwbkQ3MlZVX0VYeEpLUEZubGtBalF0UFpPTFdhNGZON0tBYjVxbC1ZRjlVUlItZ0pCVEYzLW9Qcmw2Vy1EelJNNkRzSjFzemxlNzFmbElhc1p1Vy1IUmdXYmdDSm9ET21Iek0?oc=5",
           "pubDate": "Fri, 09 Oct 2026 10:31:30 GMT",
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcHQ2OGUzbjhyS1d2Q19RRzUzQWp1cmszSEJ0OG5KVEk1OTI3ZEhYenBHenFzQTBNRTNISFdwdHV1WXlIaVdqVWptWGdkYVhaZGd5SjlwLUh5cHBqdGN2bTV6SW9jenlVZHdHWE5hOEcwQ3hXdjNpY2J4RE5IamVFR1pkV0JZNnFIUklqV1R3WUFtVmFMOGNpOFZzM2NVUVlhN1c2N2N5VEFSbkItWVJPWlRBS1N2S3RmU0Q5d0dFb1EtTVZWc1lr?oc=5",
           "pubDate": "Fri, 09 Oct 2026 10:26:04 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump's moves to boost diesel supplies have not yet lowered prices - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSC1DZmo5R2daREU0YTBRSFBZTE04NW92WFQ3eXhLeGhiRlFyTEZBbHdWT2xuczBRYmtWcmlqMVJKTUo0Vk9KTEk1OU1jYUo1NlQ3Zi1KTzhmc1pmZkhQS01OajhXWHR1aWpQVEpuRTllX0RSd3ZmR3ZKMG51MlJRNGQtX3BkdUpfOHFGejVtbnhMUGlGNVdDa2lISkd5dFdmNWc3dFpRZnJuNGJ6M3duQ1pJcXo?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 10:19:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Founder of Russian war blog Rybar arrested in Montenegro - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTNGZXhPY2E3ekEyMDFFY3hDMlV0NExyVlByYk1mMlNOelluWXFfR2VaLWpSY0dsRk1qblRsMUlQTmVvTFFwU3JMazRrVXhhTUVDU2RuRnFoaWxzRERhS2RkZ1FQWVBlWTlKOGU2YU1XMUZCQ2VNTDhxazkwUF9qbmh1NnpETjc0TGNZZ3ljaEJ2czlBaDhZN3lyM3VidjZiczJVeDR5al85QTdkTGc?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 10:11:29 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Houthi strikes on Riyadh airport killed three Saudis as war escalates - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEFCQWZhWGJXa25ZeDBOZlE3b3RWQldSSUM5MmRDd1JqdFNvbl83R19nc014ek1YTW1iQlBqbW1paUlManF3UzlNT21BTl81cG5NNGQ5MWhWOWZOMnpQamN6TmxrUFVLVXRCaTl2T0JYclhVc3dvLUpNeG5wY3JSci02OHVtWmRpemp2UExRUGRoTnpyN3lKUGlRQ3FHdS1pZDNvNVM0bWE2djAzNzNvNTg4RVdXVEhw?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 09:47:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T12:00:25.313Z"
+      "updatedAt": "2026-10-09T12:25:14.099Z"
     }
   ]
 }
