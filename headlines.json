@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-09T00:25:13.650Z",
-  "lastChecked": "2026-10-09T00:25:13.650Z",
-  "lastUpdated": "2026-10-09T00:25:13.650Z",
-  "generatedAt": "2026-10-09T00:25:13.650Z",
+  "fetchedAt": "2026-10-09T00:50:15.439Z",
+  "lastChecked": "2026-10-09T00:50:15.439Z",
+  "lastUpdated": "2026-10-09T00:50:15.439Z",
+  "generatedAt": "2026-10-09T00:50:15.439Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T00:25:12.235Z"
+      "updatedAt": "2026-10-09T00:50:14.354Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
+          "link": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
+          "pubDate": "Thu, 08 Oct 2026 20:25:15 -0400",
+          "source": "NPR"
+        },
         {
           "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
           "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
           "pubDate": "Thu, 08 Oct 2026 08:13:54 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "South Korea test-flies its first domestically developed hypersonic weapon",
-          "link": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
-          "pubDate": "Thu, 08 Oct 2026 08:01:34 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T00:25:12.558Z"
+      "updatedAt": "2026-10-09T00:50:14.501Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFlfYXBjMDRKS0YzTHZFdFBOSGE4bGxpTEt1aXcxeHlSbktpNjVPNUd4QVVOYjlCNUd5NnBBS3hldGlhYXc5ZlJFWWZCa0JqcUQ0dUZETzJTeC1idVU0eDRkNlRBLWtWNmtTSi1RWFFfb2pKVnRrQjBZTnRpZk85dWhxZi1TSXRLVm9BdHhfbVBaOWRVTVIxUTM4a1o?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 00:31:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5",
@@ -142,12 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFlfYXBjMDRKS0YzTHZFdFBOSGE4bGxpTEt1aXcxeHlSbktpNjVPNUd4QVVOYjlCNUd5NnBBS3hldGlhYXc5ZlJFWWZCa0JqcUQ0dUZETzJTeC1idVU0eDRkNlRBLWtWNmtTSi1RWFFfb2pKVnRrQjBZTnRpZk85dWhxZi1TSXRLVm9BdHhfbVBaOWRVTVIxUTM4a1o?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 23:10:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "New US indictment charges Maduro with overseeing machine of repression, torture of Americans - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU01tbGJOMTBRYmRuQV94STRSQ2RYM1FWWlYtMUZfSEk5SHkxYjI4bW1yYjV1TWpGSTYtWkkwYXhRSDRzUEhwbUhwWVVlbmlEV3RXM2p5U1h1WnpYbWJXU185TFhWcFVfM1dOc2tiZk0zSl91VTNyLWRKM3ZpQlpYWnNEZXVHMUxlb1REbmQ1SWt0SUxf?oc=5",
           "pubDate": "Thu, 08 Oct 2026 22:19:00 GMT",
@@ -160,14 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Houthis claim new attack against airport in Saudi capital as witness reports evacuation - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3VJUmRVT2hFcmwtQjBreFFjcWdaMElxY3pqQ3MtSGVNcktPSWxTbkhHd0h5bDR1S0MydDh3a2J3bzZUNEVmRTFsc0NCMU5pT0ZpVXVkRXBKb2R4dkFEVUNYRHNuODNxYjlnYjc2c0tISzNHNmZQVHlESTB1aTVNa2lWS3lfSl84Z0pKaHNWb05tXzh2dmJaYzItUUYtSm8?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 20:57:19 GMT",
+          "title": "Iraq rejects Syrian request to repatriate 4,000 suspected IS detainees, official says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGVyVjBjUXZMVUJVbHlSQTFySmZVTVFDdDBVZzNwSF9icFBYazRnOHVxYk1OSzFFMGF0aERhay1IZHgtU1ZxQjZ4SlpLcmNhcmJieEFNby1jU2w5RUszcGI5bmZMRHZoLVdUcXU5UC1sZGEya2tRT0kyeXg1QUFwOUotNzE1TXlqY194TEdvcXdCRHRTcjVxNzBn?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 20:52:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T00:25:13.185Z"
+      "updatedAt": "2026-10-09T00:50:15.005Z"
     },
     {
       "name": "Reuters",
@@ -175,13 +175,25 @@
         {
           "title": "New York City man shot in car with child present by ICE agents, mayor says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGstcXViclZRYnU5UEVHU3NzRzNILVJDTERtQXVyNHpwalQ1WXlTdVNjREJIYmxtNTdPSXJrSDdRNzBnUDB5am5WcEtsSjh1dXI2Zk1LQVNGOXEtUEdDaU9SWllISkNSdE5PQWoxOVRlazI1UDk0bld3V3MzOXV5d0dQMHE4bjFMczVQRTNDUVJpd2o3NjJRUTRIVDUxWUJuWlVnaUZUSEotRE5BRmkwazluS3VlMUZUSUFKWEVwUQ?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 23:50:00 GMT",
+          "pubDate": "Thu, 08 Oct 2026 23:57:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nvidia-backed Firmus scraps $5 billion Australian IPO on weak demand - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY21BNU1iQlJDajVWejFGYjVrM2J0cllKVmc5WEVZX2tMQnROZGFJRkRDekhCaFY0MzRnYXhYOGNaVi11cFlndVo5b1RIYUpaS25JbV92dVkwVEZpXzVaTWdtR3piN0d6SUI2OW9qaEI4eHVCV1VBQkFBWXhyemttZDlhMlFVa3hQdDhpWVZkLW95cmxNaEFzZGxWb2dzU3VPSzNlNTc4OEF5YXV1LVoxOHZuUzFsMTZfaDJuckx4UQ?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 23:47:21 GMT",
           "source": "Reuters"
         },
         {
           "title": "Starbucks declines comment on Chipotle takeover report, says laser focused on turnaround - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmJ2Y2FjX1o2WTBVR2hCcExURmtYMDRzYlhrcE1OZnBqOGVXLUhOUHp1dVF3UFFnaEM5aF92dmdNcHVBRTJ5MFFwam9abTcyTlprT0J3NVhhVzRpNnpSWHRIUTI5NUZ1Q3dvOFd0RkxjeS05ZXQyaFpxYVpxcXZRUDFhczZKb2xtd1hiV1RFc0lBOUlzRjF3?oc=5",
           "pubDate": "Thu, 08 Oct 2026 23:42:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Thousands of Spaniards march to mark death of octogenarian at heart of housing protests - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNkRyc0lCN0dMWWk4YU1fR3lENlpRQWRUQkpHVkJSRVZsSVltajg0cFl6OXJBRnJOdXZKOEREUkhVWDJGMnBSS3Bqb3NIUGYxNUVyd2Y3cEFqT1p2R1ZfeTR6Y01vWTZPVEFlX1FhNWRaNUE2Z3pZVkx0TzZOM0tUbU9WX25wUWNGdVFpTG41QkFaWm5NVjVQX21xMjQtUzdWVG9RTjBNYnJIeDFkekZGOGRhSDVCOXFXcWV0bEVJNTZDOWthZTdJ?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 23:30:33 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlFFTHdGeXpOZ3BQRk1pSC1uV1RCVTRqdjlqLWc1RVNSTG01OTlJNkhOdmRJVDI1SHd3NHQ2WEd2czY1N2JrdXc2LUtwazF2ME1SbVhoSHpBZmpPYU5PdkRGNENXWFlDbnc0SUo2VnoxbHhFYk1xdmdFVEZxcTUwUDBhcElkcDRmSzk3bTA3M3ZBZUlMYzVCZzJUSUR3ZUFDemZpMUtsWWhzYzIxVEp2OFhmalVDUHc4Y3JnRA?oc=5",
           "pubDate": "Thu, 08 Oct 2026 22:29:46 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "American Express fined $350 million for insufficient anti-money laundering program - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON19QTUN4TUw1ODhFX3VQbEY0WDdpXzdvM3lwSl9tS3Z5QWtWQnliOUhuYV9tckxFWmJVRmFxejVvUVNob19tdURJQ2xxdDEwUm1HVzFZakNDMmVrT1R5MV9xZmVIUlNiTVE0OEFMUlozZEszQi1jbjhQbHVaYU11eHBzVU9ITllPRlhVUUNTZkJJVl91VHJwbFdrOWZVNGdrQ3FLNjg2RWw1WGhLMEdValdSY3RQTFNra3U0ZG8yU2h3eWc?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 22:17:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Southwest Airlines weighs Boeing 787 for long-haul international push, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSXhxTExpbjZ2TGxEWFB4SzVMOEZxaXpwQ2ctMkk5bTh6VVFkWG5SNlViM2gzVG1OVUhuUEtxS24xNXI2NmZ6Q09telNRQ09rLVVlX28wWnFGaGxzVEZXLWIyRkhXbVRRSm5leEJmbzNkSWFQamtYR19wRHdCYWZEazhRcDRfTlBCLWE0SmN2ckVXdUZxV1YwZjRLRjYzczJPTzdkSmpyblZ4Qlc0Q01wTmFOd0s3c0VpVE5rM1Jlc1dINUFoNEJDTjVMTzRveTFqdXRHSnEzWQ?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 22:14:45 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T00:25:13.649Z"
+      "updatedAt": "2026-10-09T00:50:15.439Z"
     }
   ]
 }
