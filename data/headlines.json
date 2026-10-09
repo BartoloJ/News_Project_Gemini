@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-09T22:25:13.340Z",
-  "lastChecked": "2026-10-09T22:25:13.340Z",
-  "lastUpdated": "2026-10-09T22:25:13.340Z",
-  "generatedAt": "2026-10-09T22:25:13.340Z",
+  "fetchedAt": "2026-10-09T22:50:14.753Z",
+  "lastChecked": "2026-10-09T22:50:14.753Z",
+  "lastUpdated": "2026-10-09T22:50:14.753Z",
+  "generatedAt": "2026-10-09T22:50:14.753Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,7 @@
         {
           "title": "Commentator Katie Zacharia picked as new White House press secretary",
           "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 09 Oct 2026 22:00:21 GMT",
+          "pubDate": "Fri, 09 Oct 2026 22:41:21 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T22:25:12.348Z"
+      "updatedAt": "2026-10-09T22:50:13.589Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Kalshi taps former FBI agent to fight against money laundering",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
+          "pubDate": "Fri, 09 Oct 2026 18:23:11 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Fired OpenAI employees question the company's commitment to safety",
           "link": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
           "pubDate": "Fri, 09 Oct 2026 07:37:04 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Why American investors love European defense startups",
-          "link": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
-          "pubDate": "Fri, 09 Oct 2026 07:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T22:25:12.429Z"
+      "updatedAt": "2026-10-09T22:50:13.746Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Vance expresses doubts about Pentagon plan to livestream Fort Hood shooter’s execution - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMjd2dDNCOXVqMGF0eldBNDJqR0hwdGVxb2NBcm5XbGgxV2Flc3NfUGgtMGk4VDFJSXV1eDBvSXd1cjgwZmhldXVJTHNPMnhDUzRGclN2WUpoM19ZUGhhZ09FcmpzcmpUT1h6RWx4ZDZfTDl2bnkzeFdFRk9QX3dEM21UZ1ZxU1Vfd3hVQnB6M09iR1U0V1FiUQ?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 22:18:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Hurricane Isaias lashes the US Gulf Coast with wind and rain as it nears the Florida Panhandle - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVBiRWJSeWNWZEpGNmRjR3lPblNnZ0xDTXJ6RHRTOVdlbDJELUM1TXFOSUx4dGR5ekxhSUNFNmV3czlUYnJiV2tpTEUzRGJ6WW5qbldudTA1OVRnWEd4a1QzczJGbE80ZExTYXdhdjU2N0Exb3IzcmFKM3Mwb2k3U0x6TzJXczBSNHd5Wml0TmRERV9iQ2RRRzBfT3dhRXRUYU9TZUlhTWxPendla3gw?oc=5",
@@ -130,9 +136,9 @@
           "source": "AP News"
         },
         {
-          "title": "Vance expresses doubts about Pentagon plan to livestream Fort Hood shooter’s execution - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMjd2dDNCOXVqMGF0eldBNDJqR0hwdGVxb2NBcm5XbGgxV2Flc3NfUGgtMGk4VDFJSXV1eDBvSXd1cjgwZmhldXVJTHNPMnhDUzRGclN2WUpoM19ZUGhhZ09FcmpzcmpUT1h6RWx4ZDZfTDl2bnkzeFdFRk9QX3dEM21UZ1ZxU1Vfd3hVQnB6M09iR1U0V1FiUQ?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 21:49:00 GMT",
+          "title": "ICE officers shot a man in New York because they believed they were in danger, official says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUHBKRlVKclRQSTQzNnJIUTR0UnUzVmVoRnpyMlZjM3RjQmt6U3FJT043dmlMTjk1WGp6U0luVHBMLUZDcVdtbWhtd2lDNWVTdnVfd0h2Y1paRl8tQnVmY2IwVzFyemt4RjBJWVktS2xSZ1lCZ1RhMXJmVmp4WkVhNGZoN21EY05WOXhJU2FYOA?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 21:35:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,32 +148,26 @@
           "source": "AP News"
         },
         {
+          "title": "Mike Ditka, the quintessential Chicago Bear and a Pro Football Hall of Famer, dies at 86 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVF0bkFNLVZ4Zk1STV9nRHRfN1dqVDZRWVNXWHNxcmRJT0FLUWJmMGFOVml2cnZSVWJqUzZqTkZhQ3NJS095dDFjbF81OFQ3NXNleTVqRWJsUXc0SUhsTnMxendfWXlOVS1GdTFaa2ZlMjBhNW1YV3VZdDRRM0F6RlJIeGFuUHZO?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 21:12:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Wall Street finishes its record-setting week with gains - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2lhZk1vOEFWM0xsY2hYWHEyLXZMQmFITTR1SkpzVWk0TW1xOEJWcW1COTdMNDUwU01iUHJkWDIwOFhVeGdhVU03QW1FZHpXWjQyRENjT1FlTXJLQVp5YUJUck14b0lDQ2M1QkdRa2t1bFAzZWUwY1QtUFp1OHJOX3l1TXVZMjg4YmhVblNTMnU?oc=5",
           "pubDate": "Fri, 09 Oct 2026 20:40:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "The fish behind America’s fish sticks is fueling a fight over trawling in Alaska - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0RiU2EyeU4wU0dZWnFQQXloOHdwaGtqVzVOdXVQS3ZvYVgzV08tNkRHWXdqUmgyb3lNdll4TF92R0JoZUFLTEhGTU9vY0JJTC1JTFludi1OSTlPc3cwVnlfcHdWTXNRVFEtM1h4d0ttR0laR0lWUlI5aE1VMTQxTjYzWkhIZnZZWDRFTkhJcS1lZTlaNjlkc053?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 20:02:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Attacks on Riyadh's international airport killed 3 Saudi citizens, and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOE41bDdZUkd4WTRORVRLZWQyaTl0TGstUkFmX283ejlqR3dzRHh3MVBZNUJYaVRpWmxsUWZRdnkzOUI1NFNLLU9ZT0xWY2lsQ3VuUmJ6OC1XMjdoTnktQ0RjWlZsUmNXVHExR09UQVV1TkI2N092M0stelctd0h2MEw4d0h1SmFiQmg1cEVmNnRXZV9LSnYzeTduempPa1ljZ0dablBDRGphdHI3VE1WaA?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 19:28:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Saudi authorities say 3 killed in Houthi-claimed attacks on Riyadh airport - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbmJMRkQ0Z1poSUd4YmFBT3JJN3RoNklMUGV3UFJSbmdPaFN3NEc4b0NxZnRBM0hBWTE1TEZPYWZtaVFXNkR1dGpYU2lyQmN1elEyQ2Q5RHdQY0UwbVVKVEVFRG1Mcmc1TXhLY3lVOEp6Q0RSbGw1dGV0OEx2amhwLVhVRUFkalR6SlQtaHFSWXQ2QQ?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 18:51:00 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 20:38:08 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T22:25:12.879Z"
+      "updatedAt": "2026-10-09T22:50:14.309Z"
     },
     {
       "name": "Reuters",
@@ -175,7 +175,13 @@
         {
           "title": "Hurricane Simon rapidly strengths off Mexico's Pacific coast, threatens tourist region - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1lrVWNzOXo2NzdsUVRRelhFV28yR0FRT044TUlIRlg0T2hvYmhSSktWSm5TUUhiaEkzYUtYTmJWTVVfTjNsMGlrZmpkLWhmUzYwUzUwSGI3djVDT2xJT241M2g0T1lBcVpQUTlZSFdUazVCd2JTcEc3R3RNUHlNbnpDdTRUYUVjcjdXNE1qaDBYN2ZqQkpjSHVPalBtRnRzcThWZVF0bmdCblRwWlBreTVOTnBHMVptZGc?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 21:49:43 GMT",
+          "pubDate": "Fri, 09 Oct 2026 22:12:14 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump selects Katie Zacharia as White House press secretary - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXZfSE5tdU1qaXV4LWl1Z2hYclJVU1dVSlFWQTZQV1J6RzQydkxoZjFqTTJxc3lLNTNoaHVPOTBzbHdBUFBkcHdEWGpldVJ1Vzk1NE9EUkJfMnFNOEQxVkZfUGZmVS00M01FMGFiOENBME4xbTlZWmRBVVNNbERDNkRFSjA4dDA4LUx1MTlpZnh1VU9lWUEweld4ZG96b0QzTF9uZGhyTkxjQQ?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 21:55:57 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Wall Street posts weekly gains with earnings, inflation data on tap - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0hWbFNBUlE5SFJjLVpMMnIwZzFpN2hVNEd2YkxlalYyVDRKTDZxcGJ0REJLUERXb0tlVVVreVZLMHFodlAtZlY0eDhuN2xiOHcybjM1c3gxMlBNTmZMWWdrdkhQOG9Pc2JRdTEwYXM5N181QmttRVEyRkdXTy1LT2J0ZVA4d2FXdjZZeGZwaGRaSUtDUXJUZXFjSU94cnprbTVUSXRpXzFtQzV2TWtpR1dNSjdaWVplUlE?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 21:03:16 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Strong Panama quake damages buildings, disrupts power and air travel - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2dqa3hDUGJObnZUWGtlc1dKaUpFazdkSW9HYko3eGU2SmZJS2pRR1luT2RlWFBEZkpqWmJ1V1lzdFB0RUNHTHpmRFQ2cEphSDdnR2owdmI2U1dYZXJmTm16MVhFNXpqLXU0OXdvT29KcDkxeVRLb1lWSEJtSjZUQ08xcGhEZmw0eXBqOHoxZE9WRVVZcG82Vk5aaHlOc2lvNjVhQ1pSbw?oc=5",
           "pubDate": "Fri, 09 Oct 2026 20:43:45 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Zelenskiy says letting Russia sell diesel to US is 'investment in war' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVJCMFpxdHZyV3d5ZGpwMFJOODA4dW4wZW53NnJ4OHN0MGJWeWtZSzU1ZzhvRS1Jd2VvanVvN3Rsa2hxZHQwRWlqM2p4bV9PM2tYS09PTDZDV0pnbkNtLXJqMkV6ZVpXS05xc29JX3RraVZ0SnM5QmEza1NaeGJnRUJqbTNWZVBLSEtCb0p2SlFVMk5GRW9TTUtnc3FyQmw5RUN3ZFQ1Yl9EeUk?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 20:42:23 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says Russia to supply diesel to US and global market - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 20:40:36 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T22:25:13.340Z"
+      "updatedAt": "2026-10-09T22:50:14.753Z"
     }
   ]
 }
