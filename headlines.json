@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-09T15:00:20.104Z",
-  "lastChecked": "2026-10-09T15:00:20.104Z",
-  "lastUpdated": "2026-10-09T15:00:20.104Z",
-  "generatedAt": "2026-10-09T15:00:20.104Z",
+  "fetchedAt": "2026-10-09T15:25:14.580Z",
+  "lastChecked": "2026-10-09T15:25:14.580Z",
+  "lastUpdated": "2026-10-09T15:25:14.580Z",
+  "generatedAt": "2026-10-09T15:25:14.580Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Ethiopia and Eritrea accuse each other of starting conflict after troops cross border",
+          "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 09 Oct 2026 15:24:43 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Two Renoir paintings stolen from French museum are recovered",
           "link": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
           "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 09 Oct 2026 13:50:25 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-          "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 09 Oct 2026 13:31:07 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T15:00:18.935Z"
+      "updatedAt": "2026-10-09T15:25:13.389Z"
     },
     {
       "name": "NPR",
@@ -75,14 +75,14 @@
           "source": "NPR"
         },
         {
-          "title": "Why we remember: One student's journey into memory",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
+          "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
           "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+          "title": "Why we remember: One student's journey into memory",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
           "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T15:00:19.141Z"
+      "updatedAt": "2026-10-09T15:25:13.589Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Trump administration proposes a $70,000 fee for international students to work in the US - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGRFMi1hVEtZT0lSV1lDX3NReks0S0dmLTdkVjMzR2hxVlB0TXYzMW53S0VYLWZKRTJvWWhhTEJDQjVaOWlrOUJVb2RmbWJFd0tlOUhhcC1iT2xDQVprRXl5ejYwbTRaWmlyVEE2TDAzRXg1ZFZRU1lnamRwWTllQ2hneXk4bUZmSkFETEhsUmttbVdJUEFPMF8tTlZabE9VVTVMcGludHpWM1N3NDZYVFJxNA?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 15:19:31 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWhUWUhLVjBvQUV1WWxNZ1lHZUxWbWpoQW9jckFpa284cmRTMkloVmdYaE1nR19sc2F0NFdWenEzWWlfRTd2elQzdTczcnFYTTJMTW9hQTY3eUxyR0xqcjB6cE9CSlloUGtFcXVzVzZTUl82RFZneGFvWDcwWHRNMEtETXYySTEtVlhYUDVrbw?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 14:45:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "US stocks tiptoe toward the finish of a record-breaking week - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2lhZk1vOEFWM0xsY2hYWHEyLXZMQmFITTR1SkpzVWk0TW1xOEJWcW1COTdMNDUwU01iUHJkWDIwOFhVeGdhVU03QW1FZHpXWjQyRENjT1FlTXJLQVp5YUJUck14b0lDQ2M1QkdRa2t1bFAzZWUwY1QtUFp1OHJOX3l1TXVZMjg4YmhVblNTMnU?oc=5",
@@ -152,26 +164,32 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTVwX3pneVk1Ynhyb25Ecl9FcURqVVczNXVYWldoMUcydTZjVXNmbkFkYmlVaVEtc0xVbzhjV055NUNjZ3ZSUE9Yb183dHpGLS04Y09CWXNqa01wUk1qdDk0UVkzTGZnbkJ0Z2NkZWVKVTBXcGVjaUdrOVF6V1ZNSUNhaTN6SGU1Q1JEaFlKVV9jSkZYYzIwcDB2aw?oc=5",
           "pubDate": "Fri, 09 Oct 2026 11:18:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "2 Renoir paintings stolen from a French museum have been found, 6 arrested - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQalZsOVJ5MmowczVGYkl5dExVblBuLTkwLXlDV0syYndhZFNONHRmNnRyUEtjM0JPcE02UXFiV1BxaWVHamZuc01HbXRzcko1NHlNN2VlYkRWM2hTeGFyc2VKUXVudmU3MndHdzlJVnZEbUJEdzlRenFKSDFIOGtQRmVpVVBZaUduOFdv?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 11:14:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 08:49:55 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T15:00:19.705Z"
+      "updatedAt": "2026-10-09T15:25:14.102Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Former ICC judge Navi Pillay wins 2026 Nobel Peace Prize - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 15:04:58 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 15:04:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US, European telecom stocks slide as SpaceX spectrum deal rattles sector - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUk2RnFEbjJ3U1VMdUdwTXNrT3VNT0FpcjBDMFVLVHVzSHVlLVJjZE8tRC15Y1I0aWN5ZzJJQlJZaldBVmJ0cy1FLUVZNGVVc0k2bzg5dDlQTFlabzFrSHgtQ0dMNXg2N21BSzhsZEhyTTRTUjlBa2JhSWh5RVU1UWs4bnlhZ3M5Z3RCMTBLSXVieTBwckZNTWR0MUhkYUk1NUp6STFSaGhZb3FFTE5hVlRodXVOdE9faFlDZklPdGRlaERDR2c?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 15:01:34 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Ukraine hits second major tech site, expanding range of targets inside Russia - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHlDTS1wNzE0M05HazRDNThpeVVFdWpRcUtuZTFYcEszTDM4TWxsa1FuZVQ1dFY1RDhDOXRjZDJFdlVtWm5tV1FwbkQ3MlZVX0VYeEpLUEZubGtBalF0UFpPTFdhNGZON0tBYjVxbC1ZRjlVUlItZ0pCVEYzLW9Qcmw2Vy1EelJNNkRzSjFzemxlNzFmbElhc1p1Vy1IUmdXYmdDSm9ET21Iek0?oc=5",
@@ -179,15 +197,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Poland's 'Bloody Friday' school threats prompt huge police operation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjI1OUV4cXhJU0wwbDQtQnRENkdRbnJmZG5hOFFPWk9WUVFHLXdIOHFUeUJXMUdSTDFKSUhxazF2M25DNGRsd3lnWWZFSVQ5bGdPUFpnN050V1NjclNrdURSZElOWExvN1ltVy1tZUZkcklQWWlRVDVKQndnbS1HZEx0b2thb3BqWU9Gd3cwUkFNLUdUUFR5STdFcWZWUlI1Y3A0RmxlMFB4RjRSTFdUNHM0SGZpM3ZlRTZXRThDbDVTbzg?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 14:15:30 GMT",
+          "title": "US consumer sentiment deteriorates further in October - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTNtOTFCU2JUSDMxSExIeEJ0SlBxeWRKUlg1Y21pU1lhenlVVnRVWm1PbzJzLXZ0YVJaQi16QzdXR3Qzd3c0ZG5vOG90SE9rNXBPYUM2eFZjQXFKbHpORmVjU3dCekc5NFNuV295MkNDZm9EVUdxVnJ6TW15MnJvYzlhSXJlRjQ4M0JJOTJPaUdweDNlaXRvMnczWQ?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 14:17:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE US imposes sanctions on International Criminal Court, hours after former judge wins Nobel - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 14:14:53 GMT",
+          "title": "Poland's 'Bloody Friday' school threats prompt huge police operation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjI1OUV4cXhJU0wwbDQtQnRENkdRbnJmZG5hOFFPWk9WUVFHLXdIOHFUeUJXMUdSTDFKSUhxazF2M25DNGRsd3lnWWZFSVQ5bGdPUFpnN050V1NjclNrdURSZElOWExvN1ltVy1tZUZkcklQWWlRVDVKQndnbS1HZEx0b2thb3BqWU9Gd3cwUkFNLUdUUFR5STdFcWZWUlI1Y3A0RmxlMFB4RjRSTFdUNHM0SGZpM3ZlRTZXRThDbDVTbzg?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 14:15:30 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcC1iZ1lnRk9BNUt5bGFxTHNvU3U4bU1oczkya2MzbEJ0MFNSTGppUHZseGxiS2V1SUFXdElFdDFHcG95TzhfLXJSNENVb1JQZGtSTmFnTTFfMW41RHdoam5KRVROODZPdkw5cXhKa2JLWkc1OEdPT0t5Y19EMFJ4dHdaSW1adi1hQjVGMzI3cm5ZVGJBYV9zU2lKVHdlOTU5dlRqc2pUam5NSG80ekUw?oc=5",
           "pubDate": "Fri, 09 Oct 2026 14:05:03 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "EU aviation body widens Saudi airspace warning after Houthi strikes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObUF1S2Y0LTFHM0JDbXRLY05aMmVvUDJqOU1ZNjEtLVlDdFVMelgyTlN0d3BvY0lrLVJkZEc4VGI0eEMtWTVnbDBGQnNVSGx1bklCQkxiNEs3RzFlWklGSWtoMFpyLV9zb2N6Y1VlVjQ2b2pqMy1ld0IyZ2RQMGt3YmFRaWQyUFBrYnVua2VyWGdyQW4wU0xGWm91d2prUlRLSHZrZXNwZjl0MVBuQV9ZeFZmZi15Nmh1VGFvV25xeVJfYkNGWkE?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 14:03:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Delta Air slashes profit forecast as $6 billion fuel-cost surge outstrips fare gains - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQl82dC1CSHRVaTJVMG1meFQ1b1lKY3hCNFJVSTJDYl9hdmRZNGwzTnE0ZTRucHN3WExWcXBYMnljMW1fUjVsZXhyelBSTGswazhULTBGZnFvSGE4X1ZDLU5HVFhBMkZrWlNMdmFIX2t5Si1hVEg5bGs4S3dSWHU2aElROGlZS3NsRGpfYjhzSUtJQWFWYk82cGNPU1V4TEtlQ0lLamxRb3JsMVBRaXR6dDNSY0NzNXlq?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 13:58:33 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "French student protesters vow to keep up their fight after scoring first win - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRG41MmxpUTdXUldjM1JDZFlVbjVyRzEwQUhHS2x5OVZvbUY4T0xiZFl6MFF4VWx6RjBwbTdFMW5CN2VwNDRvU0lkU0QtVVJGUmh5dzlnUjFmaXdJckJLUkt5Y2lKeDRLQkgzeVRSWUxOQzF0dHJjcUkyRDR5c2xIQUI4ekVNUGU5TDlfRUJFb1k5NHN0SmU4NXlVLTdoMTN1bmZzV1RBR01DNFBQekw1YW1tTElmQQ?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 13:52:38 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T15:00:20.104Z"
+      "updatedAt": "2026-10-09T15:25:14.580Z"
     }
   ]
 }
