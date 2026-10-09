@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-09T09:00:22.125Z",
-  "lastChecked": "2026-10-09T09:00:22.125Z",
-  "lastUpdated": "2026-10-09T09:00:22.125Z",
-  "generatedAt": "2026-10-09T09:00:22.125Z",
+  "fetchedAt": "2026-10-09T09:25:16.031Z",
+  "lastChecked": "2026-10-09T09:25:16.031Z",
+  "lastUpdated": "2026-10-09T09:25:16.031Z",
+  "generatedAt": "2026-10-09T09:25:16.031Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Firing squad execution to be livestreamed, Pentagon says",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 09 Oct 2026 09:18:31 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
           "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Meet India's feisty Gen Z protester who is taking on Modi",
           "link": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 09 Oct 2026 07:19:24 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Firing squad execution to be livestreamed, Pentagon says",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 09 Oct 2026 07:05:05 GMT",
           "source": "BBC News"
         },
         {
@@ -57,62 +57,62 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T09:00:20.973Z"
+      "updatedAt": "2026-10-09T09:25:14.870Z"
     },
     {
       "name": "NPR",
       "items": [
         {
+          "title": "Fill in the blank in the quiz: A plague research employee in Russia died from ____",
+          "link": "https://www.npr.org/2026/10/09/g-s1-147111/trump-bts-paramount-tv-el-nino-news-quiz",
+          "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "In Central African Republic, deported immigrants find themselves in limbo",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5993805/third-country-deportations-cuba",
+          "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+          "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Why we remember: One student's journey into memory",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
+          "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Why mailing a ballot close to Election Day may get it rejected for a late postmark",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5984981/mail-in-ballot-usps-postmark",
+          "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
+          "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "A student hated reading for years. Her podcast explores finding the right diagnosis",
+          "link": "https://www.npr.org/2026/10/09/nx-s1-5977043/dyslexia-teenager-diagnosis-reading",
+          "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "NEWSBRIEF: HURRICANE ISAIAS, UKRAINE WAR LATEST, POLITICS OF IRAN WAR",
           "link": "https://www.npr.org/2026/10/09/nx-s1-5988274/newsbrief-hurricane-isaias-ukraine-war-latest-politics-of-iran-war",
           "pubDate": "Fri, 09 Oct 2026 04:28:16 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Christa Pike is walking with help and eating after failed execution attempt",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5996402/christa-pike-updates",
-          "pubDate": "Fri, 09 Oct 2026 01:52:50 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Pentagon says the firing squad execution of Fort Hood shooter will be livestreamed",
-          "link": "https://www.npr.org/2026/10/09/g-s1-147419/fort-hood-shooter-execution",
-          "pubDate": "Fri, 09 Oct 2026 01:35:41 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Isaias strengthens into Category 2 hurricane on collision course with the Gulf Coast",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates",
-          "pubDate": "Fri, 09 Oct 2026 01:20:03 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
-          "link": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
-          "pubDate": "Thu, 08 Oct 2026 20:25:15 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
-          "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
-          "pubDate": "Thu, 08 Oct 2026 20:05:48 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Suicide is up among Black Americans. We need to talk about it.",
-          "link": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis",
-          "pubDate": "Thu, 08 Oct 2026 14:37:02 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "The long-deployed USS Lincoln is returning home to San Diego",
-          "link": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego",
-          "pubDate": "Thu, 08 Oct 2026 12:18:20 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T09:00:21.136Z"
+      "updatedAt": "2026-10-09T09:25:15.168Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T09:00:21.682Z"
+      "updatedAt": "2026-10-09T09:25:15.586Z"
     },
     {
       "name": "Reuters",
@@ -175,7 +175,13 @@
         {
           "title": "Three Saudi nationals killed in attacks on Riyadh airport, aviation authority says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHNYa055VWx5WldTdndPaXJnREN3Q1BDX1hzTVE4cEdwNmM0bU9YbE1oc0Ryb2VOenROdjd3NDlaRy1hOGU1MnlxVE9nWk45Znh5Rm1iVXE3TGpjY2ZXRGhmWV9QbkhGeURIRXBDRTdLWElZeG9mRldGbE9wSnV4V1QyU0xFUFlKUXFna3RFYlpVc2JHS2RXOS1GNEkxQmZiWFZxU01VNk0yZ25ieF9ydWN4Ry1nVk54bFhR?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 08:23:57 GMT",
+          "pubDate": "Fri, 09 Oct 2026 08:39:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia's Yandex says second data centre hit by drone attack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHlDTS1wNzE0M05HazRDNThpeVVFdWpRcUtuZTFYcEszTDM4TWxsa1FuZVQ1dFY1RDhDOXRjZDJFdlVtWm5tV1FwbkQ3MlZVX0VYeEpLUEZubGtBalF0UFpPTFdhNGZON0tBYjVxbC1ZRjlVUlItZ0pCVEYzLW9Qcmw2Vy1EelJNNkRzSjFzemxlNzFmbElhc1p1Vy1IUmdXYmdDSm9ET21Iek0?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 08:25:50 GMT",
           "source": "Reuters"
         },
         {
@@ -188,6 +194,12 @@
           "title": "Malaysia plans $112.5 billion budget for 2027 ahead of possible election - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFZFaFliTE02QmVuR1ZrNy02a3pzdGRaNHBJUFQzSHNkOUh0b2NrM3V4aXA0VEhTWG9xLW1UeUZhek1QRkc0ZC1COENEeUoyVWNFRjNKRkl5RnVSWnRGLV9KanFicTdXTkJCVzdEZmZXM3FEOVpFUHItQVpZdWFSenVuaEw4SkR3M3BoWUhycVpFdzdqZzBPU3VFamo2TWVGbDJLWng0eEQxUXBXS3lkaV9aOGNXWHQ4Qnc?oc=5",
           "pubDate": "Fri, 09 Oct 2026 07:32:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Porsche's nine-month sales slide 16% on weak China demand, focus on value over volume - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeTBCRDFvMFFiZUVnWmtKbFZxNURhckFrU2YxLXVMMjB6NHNocE4wRGI0d3d6US1aUDFsM3BfM05vZnR0Qnl5MmlWSGNiSnRoVkE5ZlFnMU1YR0RGbVdFdW1pOEFpRFVWMFNWVnlvSWtqZEx2LXpsUnVwV2hiRjQ1Q01tdWpkZ09rUWF3Q05aSXFHOEpxMTJWY0I0b2ltUHl6M1VWNUtLYnppSkFlelJoT1V6eHRKZEZhaHQtMWRGeTdfamhtbGc?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 07:04:51 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWlNCOTFmTW95OS1FTXZfSHZNX3prbE9wZl8tLTlQUjhzMkhtNkY3QkZ1QzFpSE9RZTR0MlM2Umc2UWhwN1MtVG55VzdqRjg2NVhYbVBmSUZkdnpwbEtaaU1OZDNLWGszSmVUNk96YWNMNzlIVjFxZi10MTEyS1dILXI5RlRGVnFkZS1EMzVtLVNObmJGTWhYTkdEX1RmUFZ4bGctam1FdGhXV3NsdHN1cU5nZ0tZWkJQc0NCQg?oc=5",
           "pubDate": "Fri, 09 Oct 2026 06:20:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "India's Aditya Birla unit seeks $1.5 billion in rupee loans to buy Shell arm Solenergi, bankers say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnVZWEJRVFBzT0I4Um1xQnE4UEY0eVg4emROS3VSNm9Rc1UtWndXa3JNa2NUWXdnZ01ZMS11MnJxUS1QUW9oM3N3aHFBLVBQWXJENWJXRzFrOXl4MHdDWDBiT0hObEhiVktWa2lJUmNyUXVtdkhPRlY1ZUN6aGF4a0gyWXRWb2FROUVDMnNOWWY3RjJqM3IzMEQ3R1l3WmpvYWVYMFliZkN2dzNrWkpUaTdYSkpWNFlibldB?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 06:08:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Apple cuts iPhone 18 Pro orders due to soft demand, Nikkei Asia reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWxvbWdzenJKeF9PdGppTmNVeTQySGx4dzNaREdmbktzZzVUc3UtZVdXRUVxT1d6eDA0MGE5UGYxRi1rbXdEYW96ZVRRWXUtS3BialZSa0l0dWVKQzhNVVVfRUlfWk4zM2g1anhLUmpmaUg5VWR3eHcybnJsVE8yVFJWZTl4ZnpQa2xWUm1wN2k4X2llWWVoTHZoRjBnVmkwYjBzdE5ON0VSalY4ZVVrUmVGTkRsUVNHWERuZFV4Z3ZXVlgxekFr?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 06:05:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T09:00:22.125Z"
+      "updatedAt": "2026-10-09T09:25:16.031Z"
     }
   ]
 }
