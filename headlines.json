@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-09T13:00:20.055Z",
-  "lastChecked": "2026-10-09T13:00:20.055Z",
-  "lastUpdated": "2026-10-09T13:00:20.055Z",
-  "generatedAt": "2026-10-09T13:00:20.055Z",
+  "fetchedAt": "2026-10-09T13:25:14.060Z",
+  "lastChecked": "2026-10-09T13:25:14.060Z",
+  "lastUpdated": "2026-10-09T13:25:14.060Z",
+  "generatedAt": "2026-10-09T13:25:14.060Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T13:00:19.100Z"
+      "updatedAt": "2026-10-09T13:25:13.068Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T13:00:19.150Z"
+      "updatedAt": "2026-10-09T13:25:13.105Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Saudi authorities say 3 killed in Houthi-claimed attacks on Riyadh airport - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbmJMRkQ0Z1poSUd4YmFBT3JJN3RoNklMUGV3UFJSbmdPaFN3NEc4b0NxZnRBM0hBWTE1TEZPYWZtaVFXNkR1dGpYU2lyQmN1elEyQ2Q5RHdQY0UwbVVKVEVFRG1Mcmc1TXhLY3lVOEp6Q0RSbGw1dGV0OEx2amhwLVhVRUFkalR6SlQtaHFSWXQ2QQ?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 12:55:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "US futures are rising as crude prices retreat from recent gains - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2lhZk1vOEFWM0xsY2hYWHEyLXZMQmFITTR1SkpzVWk0TW1xOEJWcW1COTdMNDUwU01iUHJkWDIwOFhVeGdhVU03QW1FZHpXWjQyRENjT1FlTXJLQVp5YUJUck14b0lDQ2M1QkdRa2t1bFAzZWUwY1QtUFp1OHJOX3l1TXVZMjg4YmhVblNTMnU?oc=5",
@@ -124,9 +130,9 @@
           "source": "AP News"
         },
         {
-          "title": "Saudi authorities say 3 killed in Houthi-claimed attacks on Riyadh airport - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbmJMRkQ0Z1poSUd4YmFBT3JJN3RoNklMUGV3UFJSbmdPaFN3NEc4b0NxZnRBM0hBWTE1TEZPYWZtaVFXNkR1dGpYU2lyQmN1elEyQ2Q5RHdQY0UwbVVKVEVFRG1Mcmc1TXhLY3lVOEp6Q0RSbGw1dGV0OEx2amhwLVhVRUFkalR6SlQtaHFSWXQ2QQ?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 11:22:00 GMT",
+          "title": "Police and masked protesters clash in Brussels as anti-austerity rally disrupts city - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeERWeDFpVEUxUlFoa1hDdzFRMWZrbWl5WURYQ25TTm1yU2xhLWRsUE5GendFMDJBR3RJZVM5a2tvQmVkWFh3NjRMX0dMZ0tpYllITGI1S3dITElGa2tmZ3ZZeVdhaE9wSG43cVZYdjFGeGZhelJXQVd0d0RST01wRFVIbVJSUVJBRGNuQjVpZkdKbm8?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 10:59:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdldvRXFLLUlXaVhvU2FPSmhWM2t2V2x3cXlLSjhOQ19xOFZra0ZoaWxyakxpaURmdk5hYWI0amZGcU5FcFZBTXBTWXQ2UTlrMEo3TTFtcUxpcEhTZHRlZDlBVGRGYjJyUDVyOC15d0JXcEE2WUZ4RXRzZ2E2UjlqcVpONFdyeWN1YXQ1ZGdXTEdXNVNXcjh4SC1vb2FoS05v?oc=5",
           "pubDate": "Fri, 09 Oct 2026 05:12:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Public executions in the US were once a community spectacle and then they stopped - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNazY1Ymh2SDF4cWdEYkJsa3RYeThtNXAtRE5BUmpGSEh4amRBV2szSmtrT2lybDNMN2tVTEViNmNPWjFfUEZzNGdaLS1qSlhRSkxIN1RWaWdnbWk0N3ZPazhnNng4ODZoTzlYOXN3WnJwNkRWZEJQcGw5eTh5NDFicDRHTjNtaE5lUEtsNmZlM1lFWEtFTU1WZHRYeGpYU2RuOVRDVGRqRnM?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 03:40:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T13:00:19.623Z"
+      "updatedAt": "2026-10-09T13:25:13.592Z"
     },
     {
       "name": "Reuters",
@@ -179,9 +179,33 @@
           "source": "Reuters"
         },
         {
+          "title": "IKEA's Danish stores could become shelters as Europe boosts preparedness - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcC1iZ1lnRk9BNUt5bGFxTHNvU3U4bU1oczkya2MzbEJ0MFNSTGppUHZseGxiS2V1SUFXdElFdDFHcG95TzhfLXJSNENVb1JQZGtSTmFnTTFfMW41RHdoam5KRVROODZPdkw5cXhKa2JLWkc1OEdPT0t5Y19EMFJ4dHdaSW1adi1hQjVGMzI3cm5ZVGJBYV9zU2lKVHdlOTU5dlRqc2pUam5NSG80ekUw?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 12:27:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Lessor Avolon orders 250 Boeing, Airbus jets with option for 100 more - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdko1U3lqODlKNXRDOHBrNndRT2J1RGVFVjhUY3QyM0g0MWt0RmtxTUVMdGtNYzJFNUI0eDZxQjJ2YkFQN1ZyZlZxLW9JbnlEUHZmUHdmQ1BJLVdwVE1Vb1phd05YX2VkX0RUWWlVR0hmNGxpcG1yY0lMajE2YUF3ZGdNc2JvWGhHVnl2eElUSlh5MDJvUm1KNjNvWU9ZSUpCc2gzVk9oaGdwSWVzMWNWLVlZZndNTVNad2dpNHd1SUNqMzdqTmc?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 12:25:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Merz 'outraged' that German former Chancellor Schroeder attended Putin's birthday - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSkJPNm5tX2RPWlNIejIwMzFiSC1IVUY2RFNwNDNLS0QtbHI1TTY2UUU2U3g0V2I2LWx1RzZNUnJPS1RBaHg5b09tWTNXckNXOVo1MzRleVZrRGFmbFdSZE01NmxiS0dtWHVQOS14bHlaNktkOXNLOHNjREFXTzVCWmtQdkVTQWYyVkpMMHl0aDFkSXM5cmFHb0gxeGFGRXFJY3cyUW9mMWNqT1V3Szhzd3V1d25UNlA0R1R1Xw?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 12:17:11 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "EXCLUSIVE: Palestinians set to delay legislative elections due to worsening conditions, letter says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY2hKUXJ3X0J6eVlwM19qMFJrdk0yOXVPdmN1cTlPMG5rQTJFdThoQ0UxTjN1ME56ZzdxdWxJbkRpLWVrYS16a3ZlQ0pUVGw1dWRtWXFEbFo1Q05iakZKUGNsVzFRMkl0eGNUdlIwOVFjcjFmNjJtX01La1BlbjhiaDZNdUNoWkI1Y0V6SHlCbXJmZ3pXRWpVekY3RmQ0NnFIb2ZsQ1dLTXgxS1lVTkZQR1UtTV8tMFpTXzctcUxGYUI0NE0?oc=5",
           "pubDate": "Fri, 09 Oct 2026 12:10:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Founder of Russian war blog Rybar arrested in Montenegro - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTNGZXhPY2E3ekEyMDFFY3hDMlV0NExyVlByYk1mMlNOelluWXFfR2VaLWpSY0dsRk1qblRsMUlQTmVvTFFwU3JMazRrVXhhTUVDU2RuRnFoaWxzRERhS2RkZ1FQWVBlWTlKOGU2YU1XMUZCQ2VNTDhxazkwUF9qbmh1NnpETjc0TGNZZ3ljaEJ2czlBaDhZN3lyM3VidjZiczJVeDR5al85QTdkTGc?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 12:06:31 GMT",
           "source": "Reuters"
         },
         {
@@ -191,38 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Houthi strikes on Riyadh airport killed three Saudis as war escalates - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEFCQWZhWGJXa25ZeDBOZlE3b3RWQldSSUM5MmRDd1JqdFNvbl83R19nc014ek1YTW1iQlBqbW1paUlManF3UzlNT21BTl81cG5NNGQ5MWhWOWZOMnpQamN6TmxrUFVLVXRCaTl2T0JYclhVc3dvLUpNeG5wY3JSci02OHVtWmRpemp2UExRUGRoTnpyN3lKUGlRQ3FHdS1pZDNvNVM0bWE2djAzNzNvNTg4RVdXVEhw?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 11:57:24 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall St futures up as oil slips; telecoms pressured by SpaceX spectrum deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0hWbFNBUlE5SFJjLVpMMnIwZzFpN2hVNEd2YkxlalYyVDRKTDZxcGJ0REJLUERXb0tlVVVreVZLMHFodlAtZlY0eDhuN2xiOHcybjM1c3gxMlBNTmZMWWdrdkhQOG9Pc2JRdTEwYXM5N181QmttRVEyRkdXTy1LT2J0ZVA4d2FXdjZZeGZwaGRaSUtDUXJUZXFjSU94cnprbTVUSXRpXzFtQzV2TWtpR1dNSjdaWVplUlE?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 11:47:35 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US, European telecom stocks slide as SpaceX spectrum deal rattles sector - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUk2RnFEbjJ3U1VMdUdwTXNrT3VNT0FpcjBDMFVLVHVzSHVlLVJjZE8tRC15Y1I0aWN5ZzJJQlJZaldBVmJ0cy1FLUVZNGVVc0k2bzg5dDlQTFlabzFrSHgtQ0dMNXg2N21BSzhsZEhyTTRTUjlBa2JhSWh5RVU1UWs4bnlhZ3M5Z3RCMTBLSXVieTBwckZNTWR0MUhkYUk1NUp6STFSaGhZb3FFTE5hVlRodXVOdE9faFlDZklPdGRlaERDR2c?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 11:46:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdFAxYTlxLTNCZ3c2bHMya2hWU2VvRUNTQ1I3YllKaGtoRERCSGFwaGFsRDlpQUVsdENqMnloSVpIQlFLZzk0N0VLNEdRSDExR2ZDaU5YOFQ1ekl4Y0tHb2VyUEVGOHVvam9KeTFHU1ZabmxQVjJMRC1jVmZFOVdtdWFuM3p6VHhjU2VqOFl3MXdBUG12OXU4RlMzV0ZNZ3RaSGpidld3cDBzR2VIcjNQOUNRbHdObV9K?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 11:40:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Delta Air cuts profit forecast as $6 billion fuel-cost surge outweighs fare gains - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQl82dC1CSHRVaTJVMG1meFQ1b1lKY3hCNFJVSTJDYl9hdmRZNGwzTnE0ZTRucHN3WExWcXBYMnljMW1fUjVsZXhyelBSTGswazhULTBGZnFvSGE4X1ZDLU5HVFhBMkZrWlNMdmFIX2t5Si1hVEg5bGs4S3dSWHU2aElROGlZS3NsRGpfYjhzSUtJQWFWYk82cGNPU1V4TEtlQ0lLamxRb3JsMVBRaXR6dDNSY0NzNXlq?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 11:36:40 GMT",
+          "title": "Ukraine expands drone strikes on data centres owned by Russia's Yandex - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHlDTS1wNzE0M05HazRDNThpeVVFdWpRcUtuZTFYcEszTDM4TWxsa1FuZVQ1dFY1RDhDOXRjZDJFdlVtWm5tV1FwbkQ3MlZVX0VYeEpLUEZubGtBalF0UFpPTFdhNGZON0tBYjVxbC1ZRjlVUlItZ0pCVEYzLW9Qcmw2Vy1EelJNNkRzSjFzemxlNzFmbElhc1p1Vy1IUmdXYmdDSm9ET21Iek0?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 12:01:25 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-09T13:00:20.055Z"
+      "updatedAt": "2026-10-09T13:25:14.060Z"
     }
   ]
 }
