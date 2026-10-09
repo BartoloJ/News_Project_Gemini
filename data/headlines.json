@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-08T23:50:18.175Z",
-  "lastChecked": "2026-10-08T23:50:18.175Z",
-  "lastUpdated": "2026-10-08T23:50:18.175Z",
-  "generatedAt": "2026-10-08T23:50:18.175Z",
+  "fetchedAt": "2026-10-09T00:00:19.385Z",
+  "lastChecked": "2026-10-09T00:00:19.385Z",
+  "lastUpdated": "2026-10-09T00:00:19.385Z",
+  "generatedAt": "2026-10-09T00:00:19.385Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T23:50:17.135Z"
+      "updatedAt": "2026-10-09T00:00:18.311Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,35 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T23:50:17.239Z"
+      "updatedAt": "2026-10-09T00:00:18.495Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Isaias strengthens into Category 2 hurricane on collision course with the US Gulf Coast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 23:53:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 23:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "The long-deployed USS Lincoln returns home to San Diego Bay - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaXpmdmZOT25ZT1RrbXRKYnRQY1VxbGR5WkFIVzMtX2hSU19MSUc1cHpJWDlJU0tkLVZOa0hNMlhXNlJxMjFlLWJiTUtlMy1nNnpwdlV3U3FYcUtBaU1OZXNxeEJjVjZxUWltUXBtX0xKME9LNjlVRDFsYWZWT2xXQW91ZlFPbDdlRlZJQzNwSjRJdHJP?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 23:45:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Yankees swept out of the AL Division Series by the Rays, extending their title drought to 17 years - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTUgxdDZkMFJBTnVXOUVIZU1LZlpOTk0tc2lnemlnLWZYRXQ0bUNnb2RVeG5qaktjVUdraTdqaHRHX0U1MmtHejBTQXJsd21VNDZUUkRabnVfZC1RNmZtUmp5OVVvRHpldVNPN1FEN08tS0xQdEJYYTV3a1JiQkFRN0FsY3A4SzV4QXRZ?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 23:29:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFlfYXBjMDRKS0YzTHZFdFBOSGE4bGxpTEt1aXcxeHlSbktpNjVPNUd4QVVOYjlCNUd5NnBBS3hldGlhYXc5ZlJFWWZCa0JqcUQ0dUZETzJTeC1idVU0eDRkNlRBLWtWNmtTSi1RWFFfb2pKVnRrQjBZTnRpZk85dWhxZi1TSXRLVm9BdHhfbVBaOWRVTVIxUTM4a1o?oc=5",
@@ -130,27 +154,9 @@
           "source": "AP News"
         },
         {
-          "title": "The long-deployed USS Lincoln returns home to San Diego Bay - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaXpmdmZOT25ZT1RrbXRKYnRQY1VxbGR5WkFIVzMtX2hSU19MSUc1cHpJWDlJU0tkLVZOa0hNMlhXNlJxMjFlLWJiTUtlMy1nNnpwdlV3U3FYcUtBaU1OZXNxeEJjVjZxUWltUXBtX0xKME9LNjlVRDFsYWZWT2xXQW91ZlFPbDdlRlZJQzNwSjRJdHJP?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 22:05:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Canadian author Anne Carson wins literature Nobel for 'bold and inventive' works that blend genres - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY09mUWtpSkRXOWZETlVRbXc2UUF6VzMzYm9TSmcyLVJ6YVlKRVBKODJnMlMweDVZanJuN1V4WFFlbWJCNkROZDU2NUFTeEItbnI3Uy1uNlEwU3BHZ1JYTEViWmxEVWN5NFRCVnpTaUdWS3B6cWZiRDZuSnNBQkk5V1hKR3RXbW9CU2RDbmRkN0R4Mm5pbk1DOU15WDk2cFhYSGlFeE54SF8?oc=5",
           "pubDate": "Thu, 08 Oct 2026 22:04:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 21:43:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Isaias strengthens into Category 2 hurricane on collision course with the US Gulf Coast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 21:28:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGVyVjBjUXZMVUJVbHlSQTFySmZVTVFDdDBVZzNwSF9icFBYazRnOHVxYk1OSzFFMGF0aERhay1IZHgtU1ZxQjZ4SlpLcmNhcmJieEFNby1jU2w5RUszcGI5bmZMRHZoLVdUcXU5UC1sZGEya2tRT0kyeXg1QUFwOUotNzE1TXlqY194TEdvcXdCRHRTcjVxNzBn?oc=5",
           "pubDate": "Thu, 08 Oct 2026 20:52:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVZ6OTdhWTZlWUJFbTdTSHZOeG1lZEV3UEc2RDdhOVNqYjFWcTFwWUU5Qlk0RU5nTGlTMi1Tc1N5N3ktTGFiYUJUeWtod1lMbHJQQjcxMElFRjZHTlJtd0hlT2V5c0xVS2xqTkdsczJ2cG96NWlsMDEyZjc1TXAyUnhnTVd2RnVPQ1pHM3VXazc?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 20:41:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T23:50:17.759Z"
+      "updatedAt": "2026-10-09T00:00:18.961Z"
     },
     {
       "name": "Reuters",
@@ -182,6 +182,12 @@
           "title": "COMMENTARY: Five charts sounding the alarm for stretched US markets: McGeever - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmYzcUx2ZXViSzFiaDNseDVlb25ZVDc4bGdpdTNfeHl2bjZDQklZOTlkNFp5c3dSWDl5OVE4U3VjdW14dWFzN0Z6WFZDR3RIN09HTk92bHV1eFczczlfdjV4QlBNcHcyRHhkUXRfSUxKZ0otSXMta1NaSnhRVDJGbW5iUVlCZ1lOVTkwellNcS1na1ZKVDM1RTAyUnRFbGRrU3M3bUJOZ1F1djVPUTZXQXpONWFmXzBhQnZkMmJ1SEgxN0U?oc=5",
           "pubDate": "Thu, 08 Oct 2026 23:30:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5",
+          "pubDate": "Thu, 08 Oct 2026 23:09:38 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSXhxTExpbjZ2TGxEWFB4SzVMOEZxaXpwQ2ctMkk5bTh6VVFkWG5SNlViM2gzVG1OVUhuUEtxS24xNXI2NmZ6Q09telNRQ09rLVVlX28wWnFGaGxzVEZXLWIyRkhXbVRRSm5leEJmbzNkSWFQamtYR19wRHdCYWZEazhRcDRfTlBCLWE0SmN2ckVXdUZxV1YwZjRLRjYzczJPTzdkSmpyblZ4Qlc0Q01wTmFOd0s3c0VpVE5rM1Jlc1dINUFoNEJDTjVMTzRveTFqdXRHSnEzWQ?oc=5",
           "pubDate": "Thu, 08 Oct 2026 22:14:45 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Zelenskiy accuses US of inaction as Russian strikes kill over 70 in two days - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOREpyQzZYbFZlVDczYVA3Z1dEMGo2WFJ6WG1TZ1lMM0lCRUxBWllBVHd6VkJ0WHV3a2pRUDNnZ3o5blBmbG5aSjVCOGpXWUVBN3hqYmY2SmlhdG9sUldWVXBESjJSZWZpRjVtVHo5WXRpU1FZM3ROTm5iMHM3VU41N19FOVdYYUp0XzNzYlhqX29uZWxfMVBPMWVJSFJYRnR1OGtn?oc=5",
-          "pubDate": "Thu, 08 Oct 2026 22:14:15 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-08T23:50:18.175Z"
+      "updatedAt": "2026-10-09T00:00:19.385Z"
     }
   ]
 }
