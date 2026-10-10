@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-10T12:00:17.320Z",
-  "lastChecked": "2026-10-10T12:00:17.320Z",
-  "lastUpdated": "2026-10-10T12:00:17.320Z",
-  "generatedAt": "2026-10-10T12:00:17.320Z",
+  "fetchedAt": "2026-10-10T12:25:27.421Z",
+  "lastChecked": "2026-10-10T12:25:27.421Z",
+  "lastUpdated": "2026-10-10T12:25:27.421Z",
+  "generatedAt": "2026-10-10T12:25:27.421Z",
   "sources": [
     {
       "name": "BBC News",
@@ -11,6 +11,12 @@
           "title": "Hurricane Isaias downgraded after making landfall in Florida",
           "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 10 Oct 2026 11:55:12 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 10 Oct 2026 11:17:15 GMT",
           "source": "BBC News"
         },
         {
@@ -48,30 +54,24 @@
           "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 10 Oct 2026 04:34:55 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-          "link": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 10 Oct 2026 04:07:11 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T12:00:16.807Z"
+      "updatedAt": "2026-10-10T12:25:11.942Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
-          "link": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
-          "pubDate": "Sat, 10 Oct 2026 07:00:00 -0400",
+          "title": "Opinion: Can I keep the baseball I caught?",
+          "link": "https://www.npr.org/2026/10/10/nx-s1-5982500/opinion-can-i-keep-the-baseball-i-caught",
+          "pubDate": "Sat, 10 Oct 2026 08:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "16 cozy activities to add to your fall bucket list",
-          "link": "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list",
-          "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
+          "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
+          "link": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
+          "pubDate": "Sat, 10 Oct 2026 07:00:00 -0400",
           "source": "NPR"
         },
         {
@@ -83,6 +83,12 @@
         {
           "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
           "link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
+          "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "16 cozy activities to add to your fall bucket list",
+          "link": "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list",
           "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
           "pubDate": "Fri, 09 Oct 2026 18:23:11 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Fired OpenAI employees question the company's commitment to safety",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
-          "pubDate": "Fri, 09 Oct 2026 17:28:09 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T12:00:16.845Z"
+      "updatedAt": "2026-10-10T12:25:12.015Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-10T12:00:17.311Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-10T12:00:17.320Z"
     }
   ]
