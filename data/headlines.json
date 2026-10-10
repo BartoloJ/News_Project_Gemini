@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-10T07:25:18.245Z",
-  "lastChecked": "2026-10-10T07:25:18.245Z",
-  "lastUpdated": "2026-10-10T07:25:18.245Z",
-  "generatedAt": "2026-10-10T07:25:18.245Z",
+  "fetchedAt": "2026-10-10T07:50:15.129Z",
+  "lastChecked": "2026-10-10T07:50:15.129Z",
+  "lastUpdated": "2026-10-10T07:50:15.129Z",
+  "generatedAt": "2026-10-10T07:50:15.129Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T07:25:17.279Z"
+      "updatedAt": "2026-10-10T07:50:13.958Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T07:25:17.398Z"
+      "updatedAt": "2026-10-10T07:50:14.125Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Isaias makes landfall as hurricane, hammering US Gulf Coast with powerful winds, dangerous flooding - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVBiRWJSeWNWZEpGNmRjR3lPblNnZ0xDTXJ6RHRTOVdlbDJELUM1TXFOSUx4dGR5ekxhSUNFNmV3czlUYnJiV2tpTEUzRGJ6WW5qbldudTA1OVRnWEd4a1QzczJGbE80ZExTYXdhdjU2N0Exb3IzcmFKM3Mwb2k3U0x6TzJXczBSNHd5Wml0TmRERV9iQ2RRRzBfT3dhRXRUYU9TZUlhTWxPendla3gw?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 07:24:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "South African-born jurist Navi Pillay wins Nobel Peace Prize for her work in international justice - AP News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1JaUVE4ck5QdnpKRUpKbVJWWVRDbnUxNzBCbmZXNWt1SmZJaVZzZEMwd2tWNUJSUG1WOEdLaEdxUWRwVTBXc291WTdWTlRaTWV5VVVmQV9aLV9PVy1uV3NGT1A0OS0zc2JNTUpsclJvWG11UjRKRW1jeTFYaXp0WkR5Zw?oc=5",
@@ -124,9 +130,9 @@
           "source": "AP News"
         },
         {
-          "title": "Isaias makes landfall as hurricane, hammering US Gulf Coast with powerful winds, dangerous flooding - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVBiRWJSeWNWZEpGNmRjR3lPblNnZ0xDTXJ6RHRTOVdlbDJELUM1TXFOSUx4dGR5ekxhSUNFNmV3czlUYnJiV2tpTEUzRGJ6WW5qbldudTA1OVRnWEd4a1QzczJGbE80ZExTYXdhdjU2N0Exb3IzcmFKM3Mwb2k3U0x6TzJXczBSNHd5Wml0TmRERV9iQ2RRRzBfT3dhRXRUYU9TZUlhTWxPendla3gw?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 06:09:00 GMT",
+          "title": "Former press secretary Karoline Leavitt lands her next gig: Fox News contributor - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2dzQzJrWXVtUkU5TDNYT3R2cHp2ZXhyOXpGdnoybWNpTUc1dXhFd2dhTUtxOEU3NXFOUDFMSWMxYUlMMDZnazdXb29HNW56VGJmTk10NGdNOTAyZGlOTkxqTlM0aDY2YVIwOUNyckVKOU1oYVh2TGhiM2wwaC1hLV9qSTYwMWlzVzZhU1Nn?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 06:25:10 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcUVpUGQtZm14Zkh0MVFVbnJyZFJyOUFnWHY4M0tHRl9ZY2xka3dSWDZoRVR4ZjFHSmFQZjZXYVl4RDVoNHRNZHZZNHdOb21wTmN2VVY3OEJXc0F1VUNSWWR3NmR3TkRMZGozbWpzT2FOS0hLbzctMGxqTTE0cGZVQ1dYWFM2eGYySjB4ZHlkdnFnY0Fv?oc=5",
           "pubDate": "Sat, 10 Oct 2026 02:03:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "EU and China strike interim trade deal that could cut Chinese hybrid exports, EU envoy says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTm5ZNlVIY2tFZ2M4aFVENmNnVlBPbFJVSkplZ0x1UWZBMjEtQkR0Y0tpYjRJWEVqakZGakpvbDNvTUs5M0ZWZjZKNzQ3bXpyai1NWElyc1lEc0dxTnYzNEZTeGU1QXdIUmZzYVhtRF9IY3ZVN3VDWDk1Nl93ODhGZzdoaElXd0NOOUE?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 01:58:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T07:25:17.848Z"
+      "updatedAt": "2026-10-10T07:50:14.745Z"
     },
     {
       "name": "Reuters",
@@ -185,9 +185,27 @@
           "source": "Reuters"
         },
         {
+          "title": "Indian police detain 'cockroach' movement founder Abhijeet Dipke - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmNLNWdIS2pjUmxPejBKMXVXeHBTNDdyV211WlA0UE1mcl9qZ0xiTGhFeTlGSHdjVC1LemlpMXJNWDN2SHpuejllNzhIU3loZ2RVX2lZY24ycjQ2SXlhb0JrcVB2UWlVZy1aYjVROWNNeXU3cHgxMkpaZTRmVFlUSVQya2xTelNQSnBqUnk3S0pmZnBveFhWbFNJd0tpcThMSTRYa29Hbnhpb3NYLWJB?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 05:27:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "India unveils tough curbs on dollar demand to defend rupee - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdllQdm5CdmlVZXN1TkRYcEd3akdFcFFiMU9xSXJNUnBzbk9HNWFqbTVsYVpXMG03bldVc29lZjVfMk9seFo4LXpadURFdWhmUEVYdWViNjBPNkFiVi1HTkx1clBCc1ZsSGNOdjlweHR3V0JRa0JiRFpEZWNCMHpnTF9GX2RUeWUyTE1oT1VRNjBTSUVZVDBaa0ZkVi0yTFBpRnQ0TlcwM1d2MTc4bVd6U2ZqcDRxUWJESWY4aWpfTmdNeVpB?oc=5",
           "pubDate": "Sat, 10 Oct 2026 03:34:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Taiwan cherishes peace but will not give up freedom, president says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVV5bTZUVDZIbTlnMDVQTTZNOTc0VjdQbU01N3lMVWZtZ0FSc2tKUl9OamUxRFRPalkxUVF4My11NEJneThMZU5peG11ME02THMxampQdi1MVzhvSHJSV3NMMnpsWTdEc0ZUMzBfVWFoc1FjenQ5dFBhZEwtalBzbTFPNnZkTVJBNGw0em5xM0FVZWxTZzh1RldmZ3d3TW1GcS1GaGIzYXM1VUl6SFpTb29pMkw?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 03:13:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China adds 10.52 million urban jobs in Jan-Sept, to roll out services jobs policy - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR3JFWnhVRk5NYmtaUm5VVkExNlczY3pKdE9xVFVMVnpzNE9JbUo4OGdNbGoyaVJCa0hiTE5xSlR0aXNrLXZJR0wwM0hSX0l5YWZhYkpYRU9NaVVzaXQ1U0pPZzNsNDJILWk3a2dmcU9vMW1JdDhucF9rZExVRmhJUGZIdzNyOFkwOEgtem9pbFB0LWZEZXExRTlLRmtZZlNkaURMWHFyWUlKdzd5aWI3ODNkT3FVQ2VseVU5UnZrajllM3ZaNWVB?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 02:53:00 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR0s4c2ZUZWZHSkIyMjRaTDhwUWpKQmg2LV8zaVlUeU44ai1sblA2TzVPX3JySUx3cjc5bUVFZ1MxWjlrTG9Qa2xxclUzOHBMTDhYaFloMVlIVUFxMzBlck9jd1d0S3dnTGVSZjl6ckVNYnlXYkxUMVdpb09WVFBSb2lEcFozcjhndkJ4S0JGXzEyLUo5YkxMVmF2VTh5MDJ1czJnSXFHSGtZaDlGeEJHd2FLTERJNFhPMzVCYU5n?oc=5",
           "pubDate": "Sat, 10 Oct 2026 01:32:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US says Chinese actions off Taiwan are 'deeply destabilising' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1Z1cm9qMG82ZERURWhPaEFEbUNjNXpaNWVoUFRPd0didjIxRy1BTnBhSUdJalhQMl9DRkY3bTNjZlBfOXlOd050U1ZfaEdQN2ZHSUw4QXVBbVh0RHVPUWpLZ3ZwSWs0cjhTY25pTEFsdkYzOUFicmpUTjlHc2h4V3RJZW1SSlBLdVoxVE9DeEM0Qko1ZGp3Z0ppZi1TM3lNTENrbWhQYWJVc3c?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 01:10:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India detains youth protest leader to defuse rally against election chief - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS25NS1lVdE9BWXluTnVDMkpxeDhMdWVwOU11N0ZQRnYwZEhnOFg3Mm44aEFIRXZIc09HLVRlYWhnZmZaV0VhQWJPRnRXeU5FQlQta0szcjRuYTVUNG45VXhCU3FtcXdHVkdfT0oyeGRMTENTYm9Vb1RIa2pfWWMyeGpCVUctbXlEYnFOY2hVTUtTa0hqTlBZNDlXNFhjdzFLUXJvdmVnOTZMZjRxTDFqZzJwSWs?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 00:33:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US-Ukraine-European negotiators meet in Miami as Trump announces diesel deal with Russia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWVqVnNJdVl6QnI3QmppeUxKWlJXZXF0UHFjUDFrYVdJMTdOQnQ1ZTRreldUSl8tQ3llajdPaDVUT2dSWUFFdnhiZFJBVk5NeGZ6aXR1VGt1YUU1MzA3VEFVODBWOGVHSnoweFQxLWFPcC1lZEphNFZzdklJQUZVd2x6WXJhQmtxbEVZUUZSN3NCTkNyTHFfVkY2bFVoTWhncnFianJ5ZS1HVTZ0enNiNUtidHR6X1BqZlVkZWxxZjd3UQ?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 00:03:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T07:25:18.245Z"
+      "updatedAt": "2026-10-10T07:50:15.129Z"
     }
   ]
 }
