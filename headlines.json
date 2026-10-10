@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-10T21:25:12.028Z",
-  "lastChecked": "2026-10-10T21:25:12.028Z",
-  "lastUpdated": "2026-10-10T21:25:12.028Z",
-  "generatedAt": "2026-10-10T21:25:12.028Z",
+  "fetchedAt": "2026-10-10T21:50:13.491Z",
+  "lastChecked": "2026-10-10T21:50:13.491Z",
+  "lastUpdated": "2026-10-10T21:50:13.491Z",
+  "generatedAt": "2026-10-10T21:50:13.491Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Several injured in attack on airport in Saudi capital Riyadh",
+          "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 10 Oct 2026 21:27:10 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
           "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Several injured in attack on airport in Saudi capital Riyadh",
-          "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 10 Oct 2026 18:37:10 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
           "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 10 Oct 2026 18:22:29 GMT",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T21:25:10.754Z"
+      "updatedAt": "2026-10-10T21:50:12.436Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+          "link": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+          "pubDate": "Sat, 10 Oct 2026 17:32:53 -0400",
+          "source": "NPR"
+        },
         {
           "title": "The Kennedy Center names new artistic director, amid concerns",
           "link": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director",
@@ -103,20 +109,32 @@
           "link": "https://www.npr.org/2026/10/10/nx-s1-5920376/lee-krasner-jackson-pollock-met",
           "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Photos: What a year of ceasefire in Gaza looks like",
-          "link": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
-          "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T21:25:10.906Z"
+      "updatedAt": "2026-10-10T21:50:12.542Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Puerto Vallarta boards up as Hurricane Simon hits Category 4 strength - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcWJablM4MlJ5LUFJLXRPLThtTmhTTTRqdFJ3SDdtUFVDeUhTOU9WNnhUa2NoMXNPeUQzTnJJUnpoSkRsSkxmUFZaYkwzaGtHTi1lWGotdmRPdDFvelNXWDBxUGREM3daa0hpbVNXcDllQzJBUTRmNURJMVlVSXFGUmtBMUctRkpmeldocnByV2MzSW9vaW9MRVBvaTV2TXQ5MWJSLVZzejhHZw?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 21:27:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "4 dead from storm as Isaias brings threat of floods across the Southeast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXNjcEJjUllNRkdDOGZjZzB2WURNaVdZSHF0cWk1RGx1R1VLRVRuSHF2TElyS09ZSENaZE1DT25KWGpZX0o5SkVmM0dYYXlSREhaUl9ET3ZlQThaNUhKalFaNU9QbkZhbThFR2N4SlhCOHV1S1E3M2pJR0hURVB4YlhaTlB5Rlk3M252S1BsM0dXZERQMk1HM0tNaWVxNWFj?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 21:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 20:53:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
@@ -124,15 +142,15 @@
           "source": "AP News"
         },
         {
-          "title": "Puerto Vallarta boards up as Hurricane Simon hits Category 4 strength - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcWJablM4MlJ5LUFJLXRPLThtTmhTTTRqdFJ3SDdtUFVDeUhTOU9WNnhUa2NoMXNPeUQzTnJJUnpoSkRsSkxmUFZaYkwzaGtHTi1lWGotdmRPdDFvelNXWDBxUGREM3daa0hpbVNXcDllQzJBUTRmNURJMVlVSXFGUmtBMUctRkpmeldocnByV2MzSW9vaW9MRVBvaTV2TXQ5MWJSLVZzejhHZw?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 20:25:00 GMT",
+          "title": "ABC and Trump’s FCC battle in federal court over issues of free speech and jurisdiction - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFBCcXdHTlIxS2UwVHRmWlc3YW5RSDJQdGJnWFRqTkRWeTFVVlNMREhhcmN3SEJJNHo2TWRfcFB0bjViZnNuZXZXQUJXZmh0c3FUWGdhWEdFVVpBZ1I4ME5YeTNFQTdBLTFveW5IcnBXTjQ1SUltY2RoTzhCWGxucXhkYTFFNnM0SV84NklEU3ItT1U?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 20:28:18 GMT",
           "source": "AP News"
         },
         {
-          "title": "4 dead from storm as Isaias brings threat of floods across the Southeast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXNjcEJjUllNRkdDOGZjZzB2WURNaVdZSHF0cWk1RGx1R1VLRVRuSHF2TElyS09ZSENaZE1DT25KWGpZX0o5SkVmM0dYYXlSREhaUl9ET3ZlQThaNUhKalFaNU9QbkZhbThFR2N4SlhCOHV1S1E3M2pJR0hURVB4YlhaTlB5Rlk3M252S1BsM0dXZERQMk1HM0tNaWVxNWFj?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 20:04:00 GMT",
+          "title": "Airport in the Saudi capital is attacked again, and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbTc2anRyaUVLUU5xSFlJT3RyWE84ZENwbHhRcFVWUW5OMW53c2NVSlJtendUTlREMk5sVjV6bWRrOE52ZU5UQXJQRFZuek93UzFtcnNwbEdvcjF4N2F2Q3J5Sm9rU01OWks3emItTndwVnhMa3NIUnIzMi1zdGN1c0N3Uk8wTFE5VGkwaVVSY3lQTlRLbVlBendaRnAwbE1TMUF6Y2R3?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 19:41:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,32 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVE9mQmhMWU5BTVNON25zTDhzTlBzU2VKMDBpa3FmcTI2NE5qNWJYRUx1c2dEdk9kTjhoQm5naDZXQTJKUmRaMDJ4WVhvSklpclRXUGxZSl9USUY4SkN2WTFMaHo1bVVDWGJzS1FGWVV6YlRkNlJ5ZVdaUmp2WUd5eUZKbFZWQXdCcVNzNkZEX01YUXZxeHBXZUlTaXdYQQ?oc=5",
           "pubDate": "Sat, 10 Oct 2026 18:55:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Police in Erie, Pennsylvania, say 9 people died in connection with a shooting, including the suspect - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 18:25:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Pope Leo declares death penalty 'inadmissible' as his native US plans to livestream execution - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNldDUWZpMXVhS1JPVWp1YktEVS1Rd0tUaTZhblJuRHd3NzlPR1BBLXdPWWZ1LXZnM0RkLW1FMGctTDlVRkFvQ05oTUljbTVQSm9XTDN2cnRRckdObDNHNjktUEUzR2N6OXlVbFdjU1NYcE84Z1FBNTBFRGpiclFJcFlVbm04U1ZpSllfMDhhN1hXQzU5YnFSS0R6MDdiaGJXR2c?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 17:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Pete Hegseth - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Q0x3aDFuUlBUTDE0cWtQUzZhUzVNemxPLXU1WlNjbk15RnEyek5tUTFKY0tzZGVMRVNSYmhENTFTRG9xd2pHQUJNNA?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 17:42:54 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T21:25:11.592Z"
+      "updatedAt": "2026-10-10T21:50:13.040Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Attack on Saudi airport leaves 12 dead, dozens wounded, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 21:26:51 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Rayo-Athletic match abandoned after fans protest against club owner - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmU5dHFQdXBtUndDdjc3ZzYxOXJQSVRMMEZRQ0VrU3c0bWlHenFPdzAtNFZ4UjlTWENxX2Y5SXZhdGFWVTQwTFE0MDl2Mm5xa09WMDlEN0ltOVJVa1RfVFRMcTE0cTMtdWRxcDNwT0hRSFExVUNYVHVpRW5Sa3lKWW5QOTg3TVBuZTNLcWVwNDlJN3dPUXAya2pGdHVWaXF2dnRSdE1VQnNsVzhIa2NGZnhVTnVjZw?oc=5",
@@ -182,6 +188,12 @@
           "title": "Nine dead in Erie, Pennsylvania, mass shooting - Reuters",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMl9nRTZNVTRBQkNLeVNTSHA4Ul9ZX1lid0dwTXU3MTlUSlRWOFVONF9JU19tcklUSGNMZlpaWHVReTBkVC14SWltejE3OHVQNVhNYXoyS1lNUE81MURFV21pTnJQZUdNR254NUVYRlNUUlF1MHBQdHpMM2lSeUxyVUR1d000aEc5bGhjaVlDZw?oc=5",
           "pubDate": "Sat, 10 Oct 2026 20:02:12 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpmTnVsdlhWdUt0a0hnSUg1YUVoRWNhT2JSQ24yeHFvRWVPdG5SNzNsWkNLVS0zbng0UWZrMS1zaGtXRmNzRThMamRUNXJPUGRwX09vN2J0dXFSUW9ZSThFeGZ6bTg5bnFqVVktSk91RzBNMkN0MGFOX2FSSEFZMzZ4TXhMb1dsc1hpLUwtY1pmeERoMnE0M2llTEI0X1V2cGxRc1UtMnpYUmc?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 19:33:44 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ1QyaGlOTFk4cDFNNnB4YnNYVzE4WGx3ZDdVVVh3UTIzNVFPUFhsSzJJb3JONlp0NUVtSXhhb2lIdWFVZ2ZRdHN4Q0RXei1yMmJnYmxCZ2FINWVXN1lRNGdJLTMwbHlQdk1zcG5tU0RET2xoNF9kZ2FCRE10ckp5bWhwd0p5NXhPSE13aGJMMjEtb2QySGln?oc=5",
           "pubDate": "Sat, 10 Oct 2026 18:08:15 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "India's Infosys does not expect material impact from US PERM suspension - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXlRc2FIcm5xZVkxS3kxQk40Q1ZGZ2JIQTZRVUFiRTA2Z3BTazVob1NCUEgtekdzNHNtcXM2c0F4Zkc2N1VWTzJCTjJmSWpPUTJkVFdCQTVQVWhmMy1DX2dQcXpXMHFfOE9EQ21BNjBnUFJhZFBXWDUxS0M0Y1NzSkJOVllmOWUtMzAwUGtsLW5xb0NYblpFRmJacXZES1c5dU5sNENTckpCUkZZY19B?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 17:43:47 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Verstappen claims first Singapore win as nine retirements mar chaotic sprint - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNanhSOXNSX2NKNjJFVGRuNW1GblJ2Y0xwcFBVRUlzaHotV1FLX2wzR1l0WmFrTFc1Yl82T0lOMlNpN3pRTThETEhqT3JibGwwNWNQVUlxZVNQX3hZWWJ1Um8zT3BlaTVKenIxU3p5RjVKZ0QtT3VfczFiRUxUZmtQUXktdjNLSjRMbHViLWoxM0N6QmFVcDd1d3hBc2FJTlRyNHJyaXBMbHQ5V0FhZWdUMXlsbVVCOU1VNWow?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 17:25:35 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T21:25:12.028Z"
+      "updatedAt": "2026-10-10T21:50:13.491Z"
     }
   ]
 }
