@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-10T17:00:19.921Z",
-  "lastChecked": "2026-10-10T17:00:19.921Z",
-  "lastUpdated": "2026-10-10T17:00:19.921Z",
-  "generatedAt": "2026-10-10T17:00:19.921Z",
+  "fetchedAt": "2026-10-10T17:25:13.320Z",
+  "lastChecked": "2026-10-10T17:25:13.320Z",
+  "lastUpdated": "2026-10-10T17:25:13.320Z",
+  "generatedAt": "2026-10-10T17:25:13.320Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T17:00:18.638Z"
+      "updatedAt": "2026-10-10T17:25:12.182Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
+          "link": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
+          "pubDate": "Sat, 10 Oct 2026 13:14:03 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Opinion: Can I keep the baseball I caught?",
           "link": "https://www.npr.org/2026/10/10/nx-s1-5982500/opinion-can-i-keep-the-baseball-i-caught",
@@ -103,20 +109,32 @@
           "link": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
           "pubDate": "Sat, 10 Oct 2026 04:31:28 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Kalshi taps former FBI agent to fight against money laundering",
-          "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
-          "pubDate": "Fri, 09 Oct 2026 18:23:11 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T17:00:18.895Z"
+      "updatedAt": "2026-10-10T17:25:12.345Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "2 dead from storm as Isaias brings threat of flash floods across the Southeast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXNjcEJjUllNRkdDOGZjZzB2WURNaVdZSHF0cWk1RGx1R1VLRVRuSHF2TElyS09ZSENaZE1DT25KWGpZX0o5SkVmM0dYYXlSREhaUl9ET3ZlQThaNUhKalFaNU9QbkZhbThFR2N4SlhCOHV1S1E3M2pJR0hURVB4YlhaTlB5Rlk3M252S1BsM0dXZERQMk1HM0tNaWVxNWFj?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 17:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "8 dead after shooting in Erie, Pennsylvania, governor says. Shooter also dead - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 16:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Christa Pike is discharged from a hospital after surviving execution attempt, her attorneys say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTGtEcnkzVGp3RHNxVkRnNnFUbE1zcldsUmZ0VF9sb0ttakV5MVY1VTF5eFU1a05CT2pibTg4aE1yYXdZM0tVT0ZCQ21saGV0MFJpQy15RmxHTllaVXZUMlN1czFiU3h5d0twY1pyYklvd1JHdUNidDBqNWpMQjg2WWRCYzlUS29hOGc?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 16:07:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "A third school attack in less than a week shakes Poland - AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVV9vWmZTTlZuQkZ5ZmxKdjFfUE92YXcxSVJOQjBJbDFWNWdLY2U3SEpBcXd5b2hQcVlQa1doMmpTZ3ctdFJHWlFhX3AwbVZwQzdkSFpQMEZReVdjeVJUQmJIcEdwYUFaYk9Qb2doRmtCNlFPZXFvUktGWWhOVDJuTUpkOTBxTnBFM0Z2c096S2Jnal9YbzU0c05TNERfWUZ4alBlc0pn?oc=5",
@@ -124,9 +142,9 @@
           "source": "AP News"
         },
         {
-          "title": "Trump’s Medicaid cuts strip refugees and other legal immigrants of their health coverage - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUNWQVFhcjhHN3NHMnV5YmlIZ284dHdyUVo3NmhaaXVQQ3k2WGVSTWdEejhaZHpYYzBFRlpBc1YwWE1vazMtakw0LWVKbkhiNmsxclcxR2ZHY2Z6UlVtTUd3dTJjRzdhSkxiV2FqR29zYzByanhvRzZwZUVHV0pIcFZucnFYeHl3MG1fT2doYzdLWnhFaDJSYmlZaElRZW9lWTB2d3FMSjdpSS1nSHc?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 14:19:00 GMT",
+          "title": "Pete Hegseth - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Q0x3aDFuUlBUTDE0cWtQUzZhUzVNemxPLXU1WlNjbk15RnEyek5tUTFKY0tzZGVMRVNSYmhENTFTRG9xd2pHQUJNNA?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 15:14:19 GMT",
           "source": "AP News"
         },
         {
@@ -136,21 +154,9 @@
           "source": "AP News"
         },
         {
-          "title": "Russian attacks kill 17 in Ukraine after Trump strikes diesel deal with Putin - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVE9mQmhMWU5BTVNON25zTDhzTlBzU2VKMDBpa3FmcTI2NE5qNWJYRUx1c2dEdk9kTjhoQm5naDZXQTJKUmRaMDJ4WVhvSklpclRXUGxZSl9USUY4SkN2WTFMaHo1bVVDWGJzS1FGWVV6YlRkNlJ5ZVdaUmp2WUd5eUZKbFZWQXdCcVNzNkZEX01YUXZxeHBXZUlTaXdYQQ?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 13:38:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "The United Auto Workers tries to reassert political power in Michigan as it faces internal divisions - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDNnU2FJcG5wNEhsdVVuZU1pc2R1ai10T0s4RVB4YkpBXzlTS3YwMjdIN2JOeDROZmR6SEc4MHdaWGVfVV9raWExNjRkWGZfSTVBTlcwd0NhVXNDUFZaX2dZZEZEZWJld1dTZlBqQ0hNVWhWVVRPdlUwdlFfX3dHRGpYZEl2WTU0ZG9SVXFJMl9WYUVXZlp2OWN4YmN1VTA?oc=5",
           "pubDate": "Sat, 10 Oct 2026 12:34:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Isaias weakens but flooding threat persists as hundreds of thousands grapple with power outages - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXNjcEJjUllNRkdDOGZjZzB2WURNaVdZSHF0cWk1RGx1R1VLRVRuSHF2TElyS09ZSENaZE1DT25KWGpZX0o5SkVmM0dYYXlSREhaUl9ET3ZlQThaNUhKalFaNU9QbkZhbThFR2N4SlhCOHV1S1E3M2pJR0hURVB4YlhaTlB5Rlk3M252S1BsM0dXZERQMk1HM0tNaWVxNWFj?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 12:32:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcWJablM4MlJ5LUFJLXRPLThtTmhTTTRqdFJ3SDdtUFVDeUhTOU9WNnhUa2NoMXNPeUQzTnJJUnpoSkRsSkxmUFZaYkwzaGtHTi1lWGotdmRPdDFvelNXWDBxUGREM3daa0hpbVNXcDllQzJBUTRmNURJMVlVSXFGUmtBMUctRkpmeldocnByV2MzSW9vaW9MRVBvaTV2TXQ5MWJSLVZzejhHZw?oc=5",
           "pubDate": "Sat, 10 Oct 2026 12:28:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Isaias makes landfall as hurricane, hammering US Gulf Coast with powerful winds, dangerous flooding - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVBiRWJSeWNWZEpGNmRjR3lPblNnZ0xDTXJ6RHRTOVdlbDJELUM1TXFOSUx4dGR5ekxhSUNFNmV3czlUYnJiV2tpTEUzRGJ6WW5qbldudTA1OVRnWEd4a1QzczJGbE80ZExTYXdhdjU2N0Exb3IzcmFKM3Mwb2k3U0x6TzJXczBSNHd5Wml0TmRERV9iQ2RRRzBfT3dhRXRUYU9TZUlhTWxPendla3gw?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 07:24:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T17:00:19.468Z"
+      "updatedAt": "2026-10-10T17:25:12.830Z"
     },
     {
       "name": "Reuters",
@@ -175,13 +175,13 @@
         {
           "title": "Abbas postpones Palestinian elections, sets presidential poll for September 2027 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTc2Ujdxb3BCZGZvNncyY0hPLS0tMG5qTDdUb2JfVVZjWHJ5YkdOeWJ6RXF3dG84TU94S1NSV3NxMmVCX25tRDc2R1VWa2EyMHFNS3lVaVBpYmdRWlUxbk9RaUx4UHM5Nmx0b0h3MF9iVkRpNVcyYjcyWjI3eDM2LVBGNnZsT2ZQMkpKS0Z1bUZaWVlabWtzLTdDWjlKSlV1dVZpVmIwbmNUVEI0ZFZaZUNNanpFTl8wbkxCNWlPWEVOS09KckdDdA?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 15:54:05 GMT",
+          "pubDate": "Sat, 10 Oct 2026 16:31:01 GMT",
           "source": "Reuters"
         },
         {
           "title": "Multiple people wounded in blast at Riyadh airport, say eyewitnesses - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 15:30:21 GMT",
+          "pubDate": "Sat, 10 Oct 2026 15:47:22 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "Rayo-Bilbao match abandoned after fans' protest against club owner - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmU5dHFQdXBtUndDdjc3ZzYxOXJQSVRMMEZRQ0VrU3c0bWlHenFPdzAtNFZ4UjlTWENxX2Y5SXZhdGFWVTQwTFE0MDl2Mm5xa09WMDlEN0ltOVJVa1RfVFRMcTE0cTMtdWRxcDNwT0hRSFExVUNYVHVpRW5Sa3lKWW5QOTg3TVBuZTNLcWVwNDlJN3dPUXAya2pGdHVWaXF2dnRSdE1VQnNsVzhIa2NGZnhVTnVjZw?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 14:19:05 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Five shot dead at residence in Georgia's Douglas, police says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckZ3Y0JVVkIzV2dhODU4bGoyV2pOSXZmU1o3aXZaN0QyY3diR1FpZWZjS09zdnJWd1ZVR0FsSWJ5RGpLNlVOQ2w5QzluME93a1EwNkl1S3YtaFBORVVONmRUTEwzU09rX2xLQUhSakVkRUwwTDNGb2RwSXR5LVpSS1EzVWhQbEtfZ1c1VFpaNmxCXzQ1Yjd1UzBZNVNpNDQ?oc=5",
           "pubDate": "Sat, 10 Oct 2026 14:03:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Neither Putin nor Trump wanted to hang up first, Kremlin aide says after 'very friendly' call - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbGNZcXF1MzIzdnVYLWpLT2dwWmYwYVF2dDJDME1Cdl9HSVpfcVF0RE1XVnNEMVZuUmxBdnZFQlRqZlpraG5oaFdfbVhMSXc2OE5ZQ01ZR2JINm5FUTJCRmdOVF8zVHVUU3lRd25WWVRrRmxveGVOeUNnaG1XVDM4ZW51V0lONEtUV1NrLTFIMTZVSjFzMVpDZFVlLTh1UG9WWlhsdnJpRWVVOU1ZR0s3RVlUNlctZw?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 13:15:45 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Verstappen claims first Singapore win as nine retirements mar chaotic sprint - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNanhSOXNSX2NKNjJFVGRuNW1GblJ2Y0xwcFBVRUlzaHotV1FLX2wzR1l0WmFrTFc1Yl82T0lOMlNpN3pRTThETEhqT3JibGwwNWNQVUlxZVNQX3hZWWJ1Um8zT3BlaTVKenIxU3p5RjVKZ0QtT3VfczFiRUxUZmtQUXktdjNLSjRMbHViLWoxM0N6QmFVcDd1d3hBc2FJTlRyNHJyaXBMbHQ5V0FhZWdUMXlsbVVCOU1VNWow?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 13:05:48 GMT",
+          "title": "Ronaldo provisionally suspended after national team walkout, media reports say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3Ytc2g4OFpHTDk2aXltTlIyZFhRY0xOTlVjMTNyRXNsdndqZFFLWnNaUVM0eW9MbHpDNkQ2eE5PMzlTTnV2MzlsNklBZ2JOSF9XemdhYTNYN1dLZDhRb19JQXQ2M05vVXlWUUFaNERQdXF1bmZaS01QclBrVS1pWmVJRnd6ZHJ5MEJqd0VwcEJ6Y2VnRU9QMHQ3bXczeDgxZDIxS0R6SDBmMHd4enVSQXktakdSMVBJQl9Bb1o4eU14SmUwbkE?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 13:51:27 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T17:00:19.920Z"
+      "updatedAt": "2026-10-10T17:25:13.320Z"
     }
   ]
 }
