@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-10T05:25:11.867Z",
-  "lastChecked": "2026-10-10T05:25:11.867Z",
-  "lastUpdated": "2026-10-10T05:25:11.867Z",
-  "generatedAt": "2026-10-10T05:25:11.867Z",
+  "fetchedAt": "2026-10-10T05:50:16.929Z",
+  "lastChecked": "2026-10-10T05:50:16.929Z",
+  "lastUpdated": "2026-10-10T05:50:16.929Z",
+  "generatedAt": "2026-10-10T05:50:16.929Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 10 Oct 2026 05:25:12 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-          "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 10 Oct 2026 03:29:50 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "How the trial of two murdered Australian surfers ended in a guilty verdict",
           "link": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 10 Oct 2026 02:21:10 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T05:25:10.577Z"
+      "updatedAt": "2026-10-10T05:50:15.876Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T05:25:10.941Z"
+      "updatedAt": "2026-10-10T05:50:16.086Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T05:25:11.455Z"
+      "updatedAt": "2026-10-10T05:50:16.516Z"
     },
     {
       "name": "Reuters",
@@ -185,7 +185,7 @@
           "source": "Reuters"
         },
         {
-          "title": "Delhi sealed off ahead of youth protest against Indian election chief - Reuters",
+          "title": "India detains protesters, locks down Delhi ahead of rally against election chief - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS25NS1lVdE9BWXluTnVDMkpxeDhMdWVwOU11N0ZQRnYwZEhnOFg3Mm44aEFIRXZIc09HLVRlYWhnZmZaV0VhQWJPRnRXeU5FQlQta0szcjRuYTVUNG45VXhCU3FtcXdHVkdfT0oyeGRMTENTYm9Vb1RIa2pfWWMyeGpCVUctbXlEYnFOY2hVTUtTa0hqTlBZNDlXNFhjdzFLUXJvdmVnOTZMZjRxTDFqZzJwSWs?oc=5",
           "pubDate": "Sat, 10 Oct 2026 00:33:00 GMT",
           "source": "Reuters"
@@ -203,12 +203,6 @@
           "source": "Reuters"
         },
         {
-          "title": "UAW President Shawn Fain declares victory in race for second term - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFJUWnZ5NFRlTDc5UDFXXzZfYzQzZl8zZXBHVEItWmZzNTBoczc5NE41eGk3YTNIUnVvclJjTFdRRGQzTEUyWk1aOFAtWjc0dTFrUUt1OVZVX3VHSXBabTVhQjRwMW5CQ1NYWWVOOGlLOGZiZUduN0R2QS15OUxrWkJzZDVQcjN5WV9aOTF6RXJDcE5tVTZqS3Y5N3JsaDVEalE?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 23:48:09 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Trump takes suit against Hillary Clinton over 2016 election to Supreme Court - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDVQQ1FJc21EX0hkTWpFMm5td0didnhKT3JERTdzMUk0aVpnNGxvQ0hocVFzeVpWeFllQ25rTHU5bm8yOC1LMGZzT3BYaTZkNnRUN3JZUnNDekVuc1A2STl3YWExYTJEYjB4SWx5U2VZSk5rUzdvdWZkYV9ZaUtiOWMyRjYtRjVxZXhpRmVMeE41ekxjSE1ORTBkU0pEeWQtZ2JRV25iYlIyNl93WEh5NVB0Z3JmUQ?oc=5",
           "pubDate": "Fri, 09 Oct 2026 23:36:00 GMT",
@@ -219,10 +213,16 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0hWbFNBUlE5SFJjLVpMMnIwZzFpN2hVNEd2YkxlalYyVDRKTDZxcGJ0REJLUERXb0tlVVVreVZLMHFodlAtZlY0eDhuN2xiOHcybjM1c3gxMlBNTmZMWWdrdkhQOG9Pc2JRdTEwYXM5N181QmttRVEyRkdXTy1LT2J0ZVA4d2FXdjZZeGZwaGRaSUtDUXJUZXFjSU94cnprbTVUSXRpXzFtQzV2TWtpR1dNSjdaWVplUlE?oc=5",
           "pubDate": "Fri, 09 Oct 2026 23:33:00 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclRtS0tkNGE0bkJ3X1c0SGNIeUNibWZLVlp4VEpFdURROExjbXZmMGUtcWNKYU1uOHVBVFJqRXFKYVpwOFFzLS11Nmp3bWVGRTZCbVJvQnhPelZSMHhWMDFrdmZ4eVJaMWFtOVhRUXlhaXdjMUZneWVWbjl5U043bTVwdmVuanA2Y012S3dPMjhLbFVmOWhzM0RUazdDa3hmc0dHR0drWWt4cWk5aE5JV18xX0V3MVdaY3ZCOGJNU3NQYkpWTTZIdFlwazdCZw?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 22:43:43 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T05:25:11.867Z"
+      "updatedAt": "2026-10-10T05:50:16.929Z"
     }
   ]
 }
