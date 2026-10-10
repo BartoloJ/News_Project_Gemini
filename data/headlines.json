@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-10T02:00:17.089Z",
-  "lastChecked": "2026-10-10T02:00:17.089Z",
-  "lastUpdated": "2026-10-10T02:00:17.089Z",
-  "generatedAt": "2026-10-10T02:00:17.089Z",
+  "fetchedAt": "2026-10-10T02:25:14.869Z",
+  "lastChecked": "2026-10-10T02:25:14.869Z",
+  "lastUpdated": "2026-10-10T02:25:14.869Z",
+  "generatedAt": "2026-10-10T02:25:14.869Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+          "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 10 Oct 2026 01:58:56 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 09 Oct 2026 22:30:22 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-          "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 09 Oct 2026 21:55:51 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T02:00:15.790Z"
+      "updatedAt": "2026-10-10T02:25:13.595Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T02:00:16.048Z"
+      "updatedAt": "2026-10-10T02:25:13.807Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "South African-born jurist Navi Pillay wins Nobel Peace Prize for her work in international justice - AP News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1JaUVE4ck5QdnpKRUpKbVJWWVRDbnUxNzBCbmZXNWt1SmZJaVZzZEMwd2tWNUJSUG1WOEdLaEdxUWRwVTBXc291WTdWTlRaTWV5VVVmQV9aLV9PVy1uV3NGT1A0OS0zc2JNTUpsclJvWG11UjRKRW1jeTFYaXp0WkR5Zw?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 01:50:00 GMT",
+          "title": "Isaias makes landfall along the US Gulf Coast as a dangerous Category 2 hurricane - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVBiRWJSeWNWZEpGNmRjR3lPblNnZ0xDTXJ6RHRTOVdlbDJELUM1TXFOSUx4dGR5ekxhSUNFNmV3czlUYnJiV2tpTEUzRGJ6WW5qbldudTA1OVRnWEd4a1QzczJGbE80ZExTYXdhdjU2N0Exb3IzcmFKM3Mwb2k3U0x6TzJXczBSNHd5Wml0TmRERV9iQ2RRRzBfT3dhRXRUYU9TZUlhTWxPendla3gw?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 02:05:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Isaias makes landfall along the US Gulf Coast as a dangerous Category 2 hurricane - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVBiRWJSeWNWZEpGNmRjR3lPblNnZ0xDTXJ6RHRTOVdlbDJELUM1TXFOSUx4dGR5ekxhSUNFNmV3czlUYnJiV2tpTEUzRGJ6WW5qbldudTA1OVRnWEd4a1QzczJGbE80ZExTYXdhdjU2N0Exb3IzcmFKM3Mwb2k3U0x6TzJXczBSNHd5Wml0TmRERV9iQ2RRRzBfT3dhRXRUYU9TZUlhTWxPendla3gw?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 01:45:00 GMT",
+          "title": "South African-born jurist Navi Pillay wins Nobel Peace Prize for her work in international justice - AP News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1JaUVE4ck5QdnpKRUpKbVJWWVRDbnUxNzBCbmZXNWt1SmZJaVZzZEMwd2tWNUJSUG1WOEdLaEdxUWRwVTBXc291WTdWTlRaTWV5VVVmQV9aLV9PVy1uV3NGT1A0OS0zc2JNTUpsclJvWG11UjRKRW1jeTFYaXp0WkR5Zw?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 01:50:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T02:00:16.624Z"
+      "updatedAt": "2026-10-10T02:25:14.442Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Delhi sealed off ahead of youth protest against Indian election chief - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS25NS1lVdE9BWXluTnVDMkpxeDhMdWVwOU11N0ZQRnYwZEhnOFg3Mm44aEFIRXZIc09HLVRlYWhnZmZaV0VhQWJPRnRXeU5FQlQta0szcjRuYTVUNG45VXhCU3FtcXdHVkdfT0oyeGRMTENTYm9Vb1RIa2pfWWMyeGpCVUctbXlEYnFOY2hVTUtTa0hqTlBZNDlXNFhjdzFLUXJvdmVnOTZMZjRxTDFqZzJwSWs?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 00:33:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US-Ukraine-European negotiators meet in Miami as Trump announces diesel deal with Russia - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWVqVnNJdVl6QnI3QmppeUxKWlJXZXF0UHFjUDFrYVdJMTdOQnQ1ZTRreldUSl8tQ3llajdPaDVUT2dSWUFFdnhiZFJBVk5NeGZ6aXR1VGt1YUU1MzA3VEFVODBWOGVHSnoweFQxLWFPcC1lZEphNFZzdklJQUZVd2x6WXJhQmtxbEVZUUZSN3NCTkNyTHFfVkY2bFVoTWhncnFianJ5ZS1HVTZ0enNiNUtidHR6X1BqZlVkZWxxZjd3UQ?oc=5",
@@ -185,15 +191,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Wall Street posts weekly gains with earnings, inflation data on tap - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0hWbFNBUlE5SFJjLVpMMnIwZzFpN2hVNEd2YkxlalYyVDRKTDZxcGJ0REJLUERXb0tlVVVreVZLMHFodlAtZlY0eDhuN2xiOHcybjM1c3gxMlBNTmZMWWdrdkhQOG9Pc2JRdTEwYXM5N181QmttRVEyRkdXTy1LT2J0ZVA4d2FXdjZZeGZwaGRaSUtDUXJUZXFjSU94cnprbTVUSXRpXzFtQzV2TWtpR1dNSjdaWVplUlE?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 23:33:00 GMT",
+          "title": "Trump takes suit against Hillary Clinton over 2016 election to Supreme Court - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDVQQ1FJc21EX0hkTWpFMm5td0didnhKT3JERTdzMUk0aVpnNGxvQ0hocVFzeVpWeFllQ25rTHU5bm8yOC1LMGZzT3BYaTZkNnRUN3JZUnNDekVuc1A2STl3YWExYTJEYjB4SWx5U2VZSk5rUzdvdWZkYV9ZaUtiOWMyRjYtRjVxZXhpRmVMeE41ekxjSE1ORTBkU0pEeWQtZ2JRV25iYlIyNl93WEh5NVB0Z3JmUQ?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 23:36:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 23:18:45 GMT",
+          "title": "Wall Street posts weekly gains with earnings, inflation data on tap - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0hWbFNBUlE5SFJjLVpMMnIwZzFpN2hVNEd2YkxlalYyVDRKTDZxcGJ0REJLUERXb0tlVVVreVZLMHFodlAtZlY0eDhuN2xiOHcybjM1c3gxMlBNTmZMWWdrdkhQOG9Pc2JRdTEwYXM5N181QmttRVEyRkdXTy1LT2J0ZVA4d2FXdjZZeGZwaGRaSUtDUXJUZXFjSU94cnprbTVUSXRpXzFtQzV2TWtpR1dNSjdaWVplUlE?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 23:33:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNck12bXVNTXJIb1F0Z0tKeGlXMUtBY25WS0t6Yng5Y1hXTl9RbERlM1FxSFM0RGM2YTdfNjFodC0xMEFLR1FBVllNQ0FGQUp5blN6Vzhhc3hWRlpFYjVENXBzN1dIdkR2dDVWbXpSMUIybTdDNFJNUm1rRU5wSTZLcm5uSUloZXNXUWF4ajQ3NnMzSjdkaEFmRFh5OW5TWTFYaldWQVNRNmZQVEdJTUhGVkFWLUtnZ3g2T1hyemZaeFlFUlR1RHVv?oc=5",
           "pubDate": "Fri, 09 Oct 2026 22:33:21 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Kremlin says Putin in phone call with Trump downplays immediate Ukraine talks resumption - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa1VpS1UxU2RzcFdfQkpkUXdBQkd5cTZPdTRrU3hTSzFhOHpaN25PcHJjblJGdGQxSlBSNjZ2S0tnSlhUYmRLZmtubDJ4NU5WYXJxRHBSdy1kSHBpdGktVFpZcGVTNTJPZHlvREE1QnVuXzE5SXR1Y19KLWdmdTlKMWIwRjBGQzFFbGVUTmw3TUNaY0FjWHRCSjdWSk1kT3NHVlJGSlY3MVR6d0REZlVjdmhpX3JPOFgwZVF0UlYtb3c?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 22:04:42 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T02:00:17.088Z"
+      "updatedAt": "2026-10-10T02:25:14.869Z"
     }
   ]
 }
