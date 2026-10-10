@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-10-10T23:00:19.519Z",
-  "lastChecked": "2026-10-10T23:00:19.519Z",
-  "lastUpdated": "2026-10-10T23:00:19.519Z",
-  "generatedAt": "2026-10-10T23:00:19.519Z",
+  "fetchedAt": "2026-10-10T23:25:12.049Z",
+  "lastChecked": "2026-10-10T23:25:12.049Z",
+  "lastUpdated": "2026-10-10T23:25:12.049Z",
+  "generatedAt": "2026-10-10T23:25:12.049Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-          "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 10 Oct 2026 22:40:56 GMT",
+          "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+          "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 10 Oct 2026 23:19:55 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-          "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 10 Oct 2026 22:02:07 GMT",
+          "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+          "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 10 Oct 2026 22:40:56 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:00:18.213Z"
+      "updatedAt": "2026-10-10T23:25:11.035Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:00:18.423Z"
+      "updatedAt": "2026-10-10T23:25:11.133Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGZwcDY1YlloN3oyNzFVMFZTcExnWXZqTzVQNEFkNnBoN2xGR0FEWEVjeUU2OVFEQ21hLUtXRzF2WHVnMzFuVUoxWGQzUFBVTjV2cWNmeFhmWTVvQ19iZ0xxV1c2OXRWMjBFOURBSzc2TWlaQUxENnpCU1ptX0Rna0E4Sl8zNE5aRmpNVkhrclRWUFdIcElCMg?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 22:58:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Puerto Vallarta boards up as Hurricane Simon hits Category 4 strength - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcWJablM4MlJ5LUFJLXRPLThtTmhTTTRqdFJ3SDdtUFVDeUhTOU9WNnhUa2NoMXNPeUQzTnJJUnpoSkRsSkxmUFZaYkwzaGtHTi1lWGotdmRPdDFvelNXWDBxUGREM3daa0hpbVNXcDllQzJBUTRmNURJMVlVSXFGUmtBMUctRkpmeldocnByV2MzSW9vaW9MRVBvaTV2TXQ5MWJSLVZzejhHZw?oc=5",
           "pubDate": "Sat, 10 Oct 2026 22:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Philadelphia police officer killed, another injured after responding to reports of man with a gun - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEJZV3hGTGdXeE5WX3pJR3V0TVhkdURWWDNNTVdKbTN6UkVWenhMODFIb3NEMGhnelphWlRHZnlGYy1FUXhFZFlrSVZTNnpvSjRVRERmNFk1TnlmcWZVM3lleDRESkdmSVZlSkdCM094RmdkV2hUYTJhMEVYcXZoc2wtSjA0OHN4UmFvVDRUZDQ?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 21:58:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 21:51:31 GMT",
           "source": "AP News"
         },
         {
@@ -142,46 +160,28 @@
           "source": "AP News"
         },
         {
-          "title": "Russian strikes on Ukrainian cities kill at least 25 in a major attack that Kyiv saw coming - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdm1KQ2ZLdTNrZ2FXVlpWRW8xV29SZ2dhcElNXzlDQkdGSnZ6RU05VThHSFhuVmtBUkRTeUdZazFDSXFUYUhQdDdON2Q3bE1DNFFSeDRUQUp4OGNzYkRHczNQOVkyQzVyVndNOUJmdGxCLUJjdjBNR01Jb2Fnc3FJSXIzeTctcnprakRZcmxFN0xJTXNN?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 21:02:19 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump weighs joining the fight against Houthis after Saudi capital’s airport is struck again - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGZwcDY1YlloN3oyNzFVMFZTcExnWXZqTzVQNEFkNnBoN2xGR0FEWEVjeUU2OVFEQ21hLUtXRzF2WHVnMzFuVUoxWGQzUFBVTjV2cWNmeFhmWTVvQ19iZ0xxV1c2OXRWMjBFOURBSzc2TWlaQUxENnpCU1ptX0Rna0E4Sl8zNE5aRmpNVkhrclRWUFdIcElCMg?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 19:33:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Pete Hegseth - AP News",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Q0x3aDFuUlBUTDE0cWtQUzZhUzVNemxPLXU1WlNjbk15RnEyek5tUTFKY0tzZGVMRVNSYmhENTFTRG9xd2pHQUJNNA?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 19:20:58 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A third school attack in less than a week shakes Poland - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVV9vWmZTTlZuQkZ5ZmxKdjFfUE92YXcxSVJOQjBJbDFWNWdLY2U3SEpBcXd5b2hQcVlQa1doMmpTZ3ctdFJHWlFhX3AwbVZwQzdkSFpQMEZReVdjeVJUQmJIcEdwYUFaYk9Qb2doRmtCNlFPZXFvUktGWWhOVDJuTUpkOTBxTnBFM0Z2c096S2Jnal9YbzU0c05TNERfWUZ4alBlc0pn?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 19:04:30 GMT",
+          "pubDate": "Sat, 10 Oct 2026 19:48:18 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:00:19.050Z"
+      "updatedAt": "2026-10-10T23:25:11.592Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Erie, Pennsylvania shooter killed 8 people, then himself, police say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMl9nRTZNVTRBQkNLeVNTSHA4Ul9ZX1lid0dwTXU3MTlUSlRWOFVONF9JU19tcklUSGNMZlpaWHVReTBkVC14SWltejE3OHVQNVhNYXoyS1lNUE81MURFV21pTnJQZUdNR254NUVYRlNUUlF1MHBQdHpMM2lSeUxyVUR1d000aEc5bGhjaVlDZw?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 22:03:09 GMT",
+          "title": "Houthi attack on Saudi airport kills 12, over 300 wounded, authorities say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 22:41:03 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Attack on Saudi airport leaves 12 dead, dozens wounded, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 21:26:51 GMT",
+          "title": "Erie, Pennsylvania shooter killed 8 people, then himself, police say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMl9nRTZNVTRBQkNLeVNTSHA4Ul9ZX1lid0dwTXU3MTlUSlRWOFVONF9JU19tcklUSGNMZlpaWHVReTBkVC14SWltejE3OHVQNVhNYXoyS1lNUE81MURFV21pTnJQZUdNR254NUVYRlNUUlF1MHBQdHpMM2lSeUxyVUR1d000aEc5bGhjaVlDZw?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 22:03:09 GMT",
           "source": "Reuters"
         },
         {
@@ -203,12 +203,6 @@
           "source": "Reuters"
         },
         {
-          "title": "Ronaldo provisionally suspended after national team walkout, media reports say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3Ytc2g4OFpHTDk2aXltTlIyZFhRY0xOTlVjMTNyRXNsdndqZFFLWnNaUVM0eW9MbHpDNkQ2eE5PMzlTTnV2MzlsNklBZ2JOSF9XemdhYTNYN1dLZDhRb19JQXQ2M05vVXlWUUFaNERQdXF1bmZaS01QclBrVS1pWmVJRnd6ZHJ5MEJqd0VwcEJ6Y2VnRU9QMHQ3bXczeDgxZDIxS0R6SDBmMHd4enVSQXktakdSMVBJQl9Bb1o4eU14SmUwbkE?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 18:49:39 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Tennessee execution survivor Christa Pike released from hospital, returned to prison - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVUJqTFVhVWg5elBKcjljdHFwWXZoQzVYRjE5RHJJNFRZRXJvcFE3ODJTRk44bmY0V2NJdTlmclYxTEZ4cm1QWkdYRFl1alhfLTVPdUZaQmN6aDBfNlp2MVhLYWVVaEZfVl9HamI2QnJyak4tdmYyTTI3NVZOaS1Vd0tOUENNdkN1VFV1Sl9waFNiUnQ1N2JlQWlhVXNUZ2FxNFFwVjZjbzk3TXdKY2hTcnFmZkxvREFPdHJfYkowZGYtT29BWmVZ?oc=5",
           "pubDate": "Sat, 10 Oct 2026 18:18:39 GMT",
@@ -219,10 +213,16 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ1QyaGlOTFk4cDFNNnB4YnNYVzE4WGx3ZDdVVVh3UTIzNVFPUFhsSzJJb3JONlp0NUVtSXhhb2lIdWFVZ2ZRdHN4Q0RXei1yMmJnYmxCZ2FINWVXN1lRNGdJLTMwbHlQdk1zcG5tU0RET2xoNF9kZ2FCRE10ckp5bWhwd0p5NXhPSE13aGJMMjEtb2QySGln?oc=5",
           "pubDate": "Sat, 10 Oct 2026 18:08:15 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "India's Infosys does not expect material impact from US PERM suspension - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXlRc2FIcm5xZVkxS3kxQk40Q1ZGZ2JIQTZRVUFiRTA2Z3BTazVob1NCUEgtekdzNHNtcXM2c0F4Zkc2N1VWTzJCTjJmSWpPUTJkVFdCQTVQVWhmMy1DX2dQcXpXMHFfOE9EQ21BNjBnUFJhZFBXWDUxS0M0Y1NzSkJOVllmOWUtMzAwUGtsLW5xb0NYblpFRmJacXZES1c5dU5sNENTckpCUkZZY19B?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 17:43:47 GMT",
+          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T23:00:19.519Z"
+      "updatedAt": "2026-10-10T23:25:12.049Z"
     }
   ]
 }
