@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-10T11:50:13.650Z",
-  "lastChecked": "2026-10-10T11:50:13.650Z",
-  "lastUpdated": "2026-10-10T11:50:13.650Z",
-  "generatedAt": "2026-10-10T11:50:13.650Z",
+  "fetchedAt": "2026-10-10T12:00:17.320Z",
+  "lastChecked": "2026-10-10T12:00:17.320Z",
+  "lastUpdated": "2026-10-10T12:00:17.320Z",
+  "generatedAt": "2026-10-10T12:00:17.320Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Hurricane Isaias downgraded after making landfall in Florida",
+          "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 10 Oct 2026 11:55:12 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
           "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Public executions in the US stopped nearly a century ago -  why are they resuming now?",
           "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 10 Oct 2026 09:17:36 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Hurricane Isaias downgraded after making landfall in Florida",
-          "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 10 Oct 2026 08:29:59 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T11:50:12.451Z"
+      "updatedAt": "2026-10-10T12:00:16.807Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T11:50:12.708Z"
+      "updatedAt": "2026-10-10T12:00:16.845Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,7 @@
         {
           "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 09:07:19 GMT",
+          "pubDate": "Sat, 10 Oct 2026 10:04:49 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T11:50:13.261Z"
+      "updatedAt": "2026-10-10T12:00:17.311Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-10T11:50:13.650Z"
+      "updatedAt": "2026-10-10T12:00:17.320Z"
     }
   ]
 }
