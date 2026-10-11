@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-11T05:00:17.251Z",
-  "lastChecked": "2026-10-11T05:00:17.251Z",
-  "lastUpdated": "2026-10-11T05:00:17.251Z",
-  "generatedAt": "2026-10-11T05:00:17.251Z",
+  "fetchedAt": "2026-10-11T05:25:14.224Z",
+  "lastChecked": "2026-10-11T05:25:14.224Z",
+  "lastUpdated": "2026-10-11T05:25:14.224Z",
+  "generatedAt": "2026-10-11T05:25:14.224Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:00:16.202Z"
+      "updatedAt": "2026-10-11T05:25:13.197Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:00:16.461Z"
+      "updatedAt": "2026-10-11T05:25:13.376Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "12 killed and over 300 hurt in latest attack on Riyadh airport, Saudi authorities say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGZwcDY1YlloN3oyNzFVMFZTcExnWXZqTzVQNEFkNnBoN2xGR0FEWEVjeUU2OVFEQ21hLUtXRzF2WHVnMzFuVUoxWGQzUFBVTjV2cWNmeFhmWTVvQ19iZ0xxV1c2OXRWMjBFOURBSzc2TWlaQUxENnpCU1ptX0Rna0E4Sl8zNE5aRmpNVkhrclRWUFdIcElCMg?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 05:05:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 04:40:16 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Bulldogs rising? No. 2 Georgia poised to move up after Texas upset; LSU, Florida stunned - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHZ4MTR5N2pOcGY2TW5PSm1QTGRuNk5yZlVzdEdiVTNqOFpDTHBLcGVWSFZTQnZmRUp4TUtMc3VhTmZVMnRtTEQxLWlHcDV2eWJMdVVkbEVRa1ZXNlg0MDRuRFA4Q29Eb2pSQW9NRWlGOHRleTZkdXZyTm1VWVFCc3hB?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 03:58:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "In Silicon Valley, AI founders cheer Trump’s calls for the industry to police itself on safety - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX291RmlBcG5lT01mbXhCeFVFUGRkaVppc1FBcjEzU1J4NlVsdng1ZnZTaS04VmFIV2xRNDhzRGY2MVJhMTMzUm50bDRBYVpFSnlNMjE1R2o1Z2cxU1lxeWhiSWhIbjlrbDhQblZ6dmFLVFRhYzlVWDIyY1JoOFhaQXBqaC1xbWdKSy1kWVBGYw?oc=5",
@@ -136,21 +154,9 @@
           "source": "AP News"
         },
         {
-          "title": "College football | Latest News & Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 01:50:48 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "12 killed and over 300 hurt in latest attack on Riyadh airport, Saudi authorities say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGZwcDY1YlloN3oyNzFVMFZTcExnWXZqTzVQNEFkNnBoN2xGR0FEWEVjeUU2OVFEQ21hLUtXRzF2WHVnMzFuVUoxWGQzUFBVTjV2cWNmeFhmWTVvQ19iZ0xxV1c2OXRWMjBFOURBSzc2TWlaQUxENnpCU1ptX0Rna0E4Sl8zNE5aRmpNVkhrclRWUFdIcElCMg?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 01:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "AP Top 25 Poll - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OYllVd284SGVJbHo5QXVQempkaGlYeHlzWEZxOU5jZTktTnItaDg1X21NaEJZbHpYTUM5RXczMm5PS21YaktpREY1TU1WMzV1aXR6TkRpRmxjQVZpNkpMODQxWEM?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 23:42:10 GMT",
+          "title": "Trump urges Sen. John Fetterman to switch parties and become a Republican - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXJNempqRUhxWGNaSndjcG9ZOWJicWRsNmI3QXpXVDl0dVNTVjZEbUp3T0FrOVpKeGI0Xzcyd3BFYUo5NnoybTdWSzhFaF80UUxfalpfVDZ2QzRIcDVMZmh4OEhpbnVuRDBrNk9RMFFnTi1tWUNIT3VvYTNzX1g4NkQ4cElCOTN3bm15TjdiSjc3SzJGWkYtY3pxcFl4dWc2aDVUUw?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 01:43:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,20 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcWJablM4MlJ5LUFJLXRPLThtTmhTTTRqdFJ3SDdtUFVDeUhTOU9WNnhUa2NoMXNPeUQzTnJJUnpoSkRsSkxmUFZaYkwzaGtHTi1lWGotdmRPdDFvelNXWDBxUGREM3daa0hpbVNXcDllQzJBUTRmNURJMVlVSXFGUmtBMUctRkpmeldocnByV2MzSW9vaW9MRVBvaTV2TXQ5MWJSLVZzejhHZw?oc=5",
           "pubDate": "Sat, 10 Oct 2026 23:39:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 22:57:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:00:16.868Z"
+      "updatedAt": "2026-10-11T05:25:13.805Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Nepal urges villagers to evacuate after flood triggered by landslide - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcnllV0stREo0VDlyUHJ4RkwxX2pWZ3RSQTZnbFA5OFMwcERqSXEzSFVZVnl5a3J5NjRoaWZrX2RhOFM5ajE2RkhxYVI0VXE3czN1Wk1pbGk0RVdDMW5SUTVJUnVkbmtibVBzczM0RzVvaXVfa05sUFpJSGV3V1Fxa28xc2dYeTZJZDd6SHFIeGMtQUtmREtLQnlXckJvR25PMzZrZWhWb05TZ1BMQWpKOU1jdGdya2x5aFZKN2lCMA?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 03:40:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US military says it disabled cargo vessel trying to run Iran blockade - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaGFBbHJXSEdfVjRCbjdmbFRPWkRWMlRUdGpvc2RhRDFuR0lwY1p4UGc1S0I1eDZVNG1lbi0yTU1reWlGZmFzbFVTUW9yeEZFdEg3WDVES1VzQS0zXy1NZTBKVHRMdmlPaDdTeW9sY3d0OVNQN1dwVDBFMFlNa1hVR19ielpHOVRGd010QXBndzN6Vl9raEtaVC1sWEwzS3BIemduN2l3?oc=5",
           "pubDate": "Sat, 10 Oct 2026 19:01:52 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "WHO unsure what caused pneumonia that killed plague-lab worker in Russia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUTJRMHRZQzJnSlNVc3hSQTlWYW1MbWxuZ3ZnUkh2bEpuQXVTZ1pqdDMzWUxVY1lkMFFFS2N2NkdaZUxfdmZYS0VNclJVSXZnVlNlY085SjlRajhQNmdYbWg3amZOUTBtM19aTXd6dkhhWkNPdkNRb1R0amZqdXZ4TTFXd1NyMTE0X0hTdEwyZWVZMkFxVkUyZkxaVlhRRU5xcGExbmJHVWp1LWd3MXVNZ3FPSGlsMGFWRlpLbGxBbGtRQS05MUF1NjQ0TXdyT1Vwc05iZWg2VTQ?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 18:53:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:00:17.251Z"
+      "updatedAt": "2026-10-11T05:25:14.224Z"
     }
   ]
 }
