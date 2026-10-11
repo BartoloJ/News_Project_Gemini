@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-11T10:25:12.892Z",
-  "lastChecked": "2026-10-11T10:25:12.892Z",
-  "lastUpdated": "2026-10-11T10:25:12.892Z",
-  "generatedAt": "2026-10-11T10:25:12.892Z",
+  "fetchedAt": "2026-10-11T10:50:13.527Z",
+  "lastChecked": "2026-10-11T10:50:13.527Z",
+  "lastUpdated": "2026-10-11T10:50:13.527Z",
+  "generatedAt": "2026-10-11T10:50:13.527Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T10:25:11.834Z"
+      "updatedAt": "2026-10-11T10:50:12.522Z"
     },
     {
       "name": "NPR",
@@ -69,12 +69,6 @@
           "source": "NPR"
         },
         {
-          "title": "It's taking longer to find a new job after losing one",
-          "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
-          "pubDate": "Sun, 11 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "In one of the country's most competitive districts, a Democrat tries to keep her seat",
           "link": "https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district",
           "pubDate": "Sun, 11 Oct 2026 05:00:00 -0400",
@@ -83,6 +77,12 @@
         {
           "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
           "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
+          "pubDate": "Sun, 11 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "It's taking longer to find a new job after losing one",
+          "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
           "pubDate": "Sun, 11 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T10:25:12.039Z"
+      "updatedAt": "2026-10-11T10:50:12.692Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Tariffs and global trade - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4xaE5zb1c3N0hDYmpHMWNMazZZc2dRREQyQmw3MGROYzNDbUtFbFNVSXNGb0xWSHppYWM0cDZQbUNpZGhB?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 08:56:01 GMT",
+          "title": "Saudi Arabia extends closure of airport after 12 killed in suspected Houthi missile attack - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXk0VFduYU1ldGM0N3RTZGlUVEFiOV9GdHBJTExieVVQT0preW1GRGVHLUZHN3VyZ3pYUzdXbGYzVHdHdUsweFFUekY3Nk13LTl3dWtmdmpiMDh5ZXR3Sm9kZ1VvbFlZNFU3UXgzYlJEaml0VGNHS09ia0E3QUJERDcwRkRsd2UzNWZYWjZlUDJWYUtoZlh6Ng?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 10:23:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Villages evacuated as flash flood from Budhi Gandaki river hits northern Nepal - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHJiTE5uU0t3VjY2XzhVV09yeXR5OV9OWDdYeHpJMk15WW1ScXplQnZIRFJWT2RkdHpfRHhMZjZhUDdVcmZoUldnUXo0bEtPa1F2Q3JHWGtieFV5YkE5WDdNa29lbVNpWXBaQ2ZhQWNrRzQ1VkhkLVdaUjNOYjlpZHRVTVU2TkZPTlBvM3FSOUpBVmhXMFhYUzVBUHI4UlpUMm5HYnd3RUFSY0pt?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 09:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "A ferocious Hurricane Simon nears Mexico with 155 mph winds and flooding fears - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1JYNEFiNHpwMTFGZFVETFU1SG9OMXEzTzIzbWh1ZmxoVWY4bTNwTzlxZ1A1VWhmaFJ1bWNIbFEtc0VYVmJZZ0FIQ1JBdTkyU21wamtWdXh1azZUMnpWZ0JOVHc3emE3WVNmTlFBVXdjQ2xiX1FldkExelhnbFRJM1NBY0J6ZVJ4LUE?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 09:27:00 GMT",
           "source": "AP News"
         },
         {
@@ -132,19 +144,13 @@
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 08:19:44 GMT",
+          "pubDate": "Sun, 11 Oct 2026 08:33:48 GMT",
           "source": "AP News"
         },
         {
-          "title": "Villages evacuated as flash flood from Budhi Gandaki river hits northern Nepal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHJiTE5uU0t3VjY2XzhVV09yeXR5OV9OWDdYeHpJMk15WW1ScXplQnZIRFJWT2RkdHpfRHhMZjZhUDdVcmZoUldnUXo0bEtPa1F2Q3JHWGtieFV5YkE5WDdNa29lbVNpWXBaQ2ZhQWNrRzQ1VkhkLVdaUjNOYjlpZHRVTVU2TkZPTlBvM3FSOUpBVmhXMFhYUzVBUHI4UlpUMm5HYnd3RUFSY0pt?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 07:50:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Williams, Ramírez lead Guardians over White Sox 2-0 to cap comeback in 5-game AL Division Series - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaWRpZ0QtcUtoWTZQclQwWlFNenpUZ2Q2cGtRSWkwQlc2Ny04S1FpX0NYOWN4bWNvZTFiMU5GMDN5TmtlQ1B0UGI5MTduVzJyTmdqdGlKUmxoNi1sV0FON1c0WDJmYVQ2LXI3WVZVMnRPRU1QZTMtLUowM2VXemZ5MU85OTVhU2dqMDVMR2Y2SldmT2doM2t4TnhRcmZFUUhra2Y0aw?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 05:25:00 GMT",
+          "title": "Tariffs and global trade - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4xaE5zb1c3N0hDYmpHMWNMazZZc2dRREQyQmw3MGROYzNDbUtFbFNVSXNGb0xWSHppYWM0cDZQbUNpZGhB?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 07:55:39 GMT",
           "source": "AP News"
         },
         {
@@ -158,20 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEhDWEkwZ1dZUmlaUFQ1VlN1WlU0LVY5cHBBNVRlRjJVZU1EUDYtb2NUaEpjV2dQYWRwZ0xZb3VvLVBFR1BQaWYweVEzeGJGeUpqMHFzaDFlMzJ5RW1XbEwteEZGTFRpOWxCUkFlTWU1ZXNyM25zZ3M2VV9JcnBLNUUwREE?oc=5",
           "pubDate": "Sun, 11 Oct 2026 04:46:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Kentucky QB Minchey scores 2-point conversion in overtime to beat No. 10 LSU 35-34 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV25URm00ai0yeklZRHkwZWI5Mnc2THdjUURCWnRtM0dpTGNienVfWkRpNGZtSlduZzFOZjZ6VTI2dkRENkhyV1l2U1FjOGY0cmYwNWhwTWptQmRpdDItTEpNMUFKOTcteVYwY1hMaVRJRU4zSi1HMlE0Yi1DRExsQ05ZTkc?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 04:19:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T10:25:12.490Z"
+      "updatedAt": "2026-10-11T10:50:13.147Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Polish security services meet following threat to PM and defence minister - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3Zhb3YxM0h0Nm9Cd1E0Q3NNempnci1DZG9CMXNxdUx4TFJvSkwxRnAtZEdJT3BTTnZrMlROOE1JdjdlbXI2OGtGRlhlQXNLY0hKNnVIUHpQal9zcXF0cjd6TUFLUklFM0g5cUs5T3hWNHhPWlQ2Ni1fVkZJc1VBZ0JGX251MkV0Ty1SOTBRcl9ZeE5qOU5vbDhUUHhTMHVBVkJRZGNSMkZlVXNtSkJYMVpYX3JwRHpVRnp4VXBjanVlWFk?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 10:16:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukraine will halt strikes on refineries if Russia stops energy attacks, Zelenskiy says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEo5WEZxUk5OcWNWU1Z1Z0g4SGlFQmxKckFxbS05WFd6UUxDNE0xa0NZRzZoR004Tms3azQ3aTVfUVIwNXlTU1ljcW9HLTREUGZBVVFiWlpVWXI3V1c3Zmt2UEJ2ME43azRMb0Vlei1iQUNPbzk4bV94bkRGTzBmREMydnBCRzVSclBoVkhrWkx4TFJ2YWdsRS1COGVOWU9pRDJqSUFNRk1pUnpQM2dlQ3o0eGpYSHYzbWdDX3dtQWtYT2Zz?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 09:47:15 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Imran Khan's party's provincial government suspended by Pakistan president - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcE1nMTFTTndNQTNVc0pWZXVJNXk2SFBmN0tRNXB3WEpUMEh0QVQ4c2V2WExXczdUYVJza3VJd25ZNFl6Q2xsVzRwWm5jemFfN2Z5Q3Z3aDFHbDY5b3pFNFdPYnJNaWVzamNmQXdqSlRTeHhpTnY2STVENXYyMXZpZ29YQmNGWjlVaHYwcUh3X1huM1VoNVMwRS1ITy1Lcy1PTmFyZEhzQUhmR0xZQkpDclhGUXVoUTl6NUExTDNodGJmV0ZiNDJZRXJXak9pQQ?oc=5",
@@ -182,12 +194,6 @@
           "title": "India protest against election chief continues as 'cockroach' youth leaders released - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYXdTVG9rZnB6T0JIWTR3VHUzWWs1RmVSQkxIaGk5bTdXMG9URUtTYWNZMHl3b0tPMDlIbXpydGItZDZ3bk8xNF9xYkNVVG8xOVRUa1BIc2ZQdjlhbnVaOUUzMlpBbGdVbGpkWndEQmYtX2pkX1NXUlY4VHQybWRhaWZsSW9MN1ZESEFGaVRXcnJrc2NqeVRrOTdRcjlZUnN2TDc4dFhET0RTT2R4cG5acUxEOElrZw?oc=5",
           "pubDate": "Sun, 11 Oct 2026 09:02:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Poland says police got information about possible attack on PM and defence minister - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3Zhb3YxM0h0Nm9Cd1E0Q3NNempnci1DZG9CMXNxdUx4TFJvSkwxRnAtZEdJT3BTTnZrMlROOE1JdjdlbXI2OGtGRlhlQXNLY0hKNnVIUHpQal9zcXF0cjd6TUFLUklFM0g5cUs5T3hWNHhPWlQ2Ni1fVkZJc1VBZ0JGX251MkV0Ty1SOTBRcl9ZeE5qOU5vbDhUUHhTMHVBVkJRZGNSMkZlVXNtSkJYMVpYX3JwRHpVRnp4VXBjanVlWFk?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 08:54:10 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5",
           "pubDate": "Sun, 11 Oct 2026 07:31:04 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "World Bank in talks with dozens of countries about crisis aid, Banga says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUk05OEhXNFVFX2p1ck9TcEpMa0pFUjYzN2xqVUNhLTY1OV9PSnMtTWp6cE84cUhodjMtUUdzb3BtYjU5cEcydW1aYVNNR1AtRXhVdkpiQ1UxSnZYNkdvMHFUTkQtX3pvOW9NVG1EREZqRFl0UDdPeHhFUzJCQUoyMndqX1BXbDFaMlRUUGNDd2tjUjBJWDdvcWRRMXBmM2hXSzZWc2Vxd0VJU21GR1ZrZlpGQmpUa2JEQVNn?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 06:07:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T10:25:12.892Z"
+      "updatedAt": "2026-10-11T10:50:13.527Z"
     }
   ]
 }
