@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-11T06:00:19.636Z",
-  "lastChecked": "2026-10-11T06:00:19.636Z",
-  "lastUpdated": "2026-10-11T06:00:19.636Z",
-  "generatedAt": "2026-10-11T06:00:19.636Z",
+  "fetchedAt": "2026-10-11T06:25:12.118Z",
+  "lastChecked": "2026-10-11T06:25:12.118Z",
+  "lastUpdated": "2026-10-11T06:25:12.118Z",
+  "generatedAt": "2026-10-11T06:25:12.118Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US justice department investigates TV networks over Trump pool coverage",
+          "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 11 Oct 2026 05:05:43 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
           "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 10 Oct 2026 19:25:03 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-          "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 10 Oct 2026 18:22:29 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T06:00:18.609Z"
+      "updatedAt": "2026-10-11T06:25:11.491Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T06:00:18.684Z"
+      "updatedAt": "2026-10-11T06:25:11.548Z"
     },
     {
       "name": "AP News",
@@ -121,12 +121,6 @@
           "title": "12 killed and over 300 hurt in latest attack on Riyadh airport, Saudi authorities say - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGZwcDY1YlloN3oyNzFVMFZTcExnWXZqTzVQNEFkNnBoN2xGR0FEWEVjeUU2OVFEQ21hLUtXRzF2WHVnMzFuVUoxWGQzUFBVTjV2cWNmeFhmWTVvQ19iZ0xxV1c2OXRWMjBFOURBSzc2TWlaQUxENnpCU1ptX0Rna0E4Sl8zNE5aRmpNVkhrclRWUFdIcElCMg?oc=5",
           "pubDate": "Sun, 11 Oct 2026 05:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 04:40:16 GMT",
           "source": "AP News"
         },
         {
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcWJablM4MlJ5LUFJLXRPLThtTmhTTTRqdFJ3SDdtUFVDeUhTOU9WNnhUa2NoMXNPeUQzTnJJUnpoSkRsSkxmUFZaYkwzaGtHTi1lWGotdmRPdDFvelNXWDBxUGREM3daa0hpbVNXcDllQzJBUTRmNURJMVlVSXFGUmtBMUctRkpmeldocnByV2MzSW9vaW9MRVBvaTV2TXQ5MWJSLVZzejhHZw?oc=5",
           "pubDate": "Sat, 10 Oct 2026 23:39:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 22:57:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T06:00:19.213Z"
+      "updatedAt": "2026-10-11T06:25:12.098Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T06:00:19.636Z"
+      "updatedAt": "2026-10-11T06:25:12.117Z"
     }
   ]
 }
