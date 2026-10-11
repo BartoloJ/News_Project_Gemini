@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-11T05:25:14.224Z",
-  "lastChecked": "2026-10-11T05:25:14.224Z",
-  "lastUpdated": "2026-10-11T05:25:14.224Z",
-  "generatedAt": "2026-10-11T05:25:14.224Z",
+  "fetchedAt": "2026-10-11T05:50:13.497Z",
+  "lastChecked": "2026-10-11T05:50:13.497Z",
+  "lastUpdated": "2026-10-11T05:50:13.497Z",
+  "generatedAt": "2026-10-11T05:50:13.497Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:25:13.197Z"
+      "updatedAt": "2026-10-11T05:50:12.204Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:25:13.376Z"
+      "updatedAt": "2026-10-11T05:50:12.586Z"
     },
     {
       "name": "AP News",
@@ -127,6 +127,12 @@
           "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
           "pubDate": "Sun, 11 Oct 2026 04:40:16 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Kentucky QB Minchey scores 2-point conversion in overtime to beat No. 10 LSU 35-34 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV25URm00ai0yeklZRHkwZWI5Mnc2THdjUURCWnRtM0dpTGNienVfWkRpNGZtSlduZzFOZjZ6VTI2dkRENkhyV1l2U1FjOGY0cmYwNWhwTWptQmRpdDItTEpNMUFKOTcteVYwY1hMaVRJRU4zSi1HMlE0Yi1DRExsQ05ZTkc?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 04:19:00 GMT",
           "source": "AP News"
         },
         {
@@ -154,12 +160,6 @@
           "source": "AP News"
         },
         {
-          "title": "Trump urges Sen. John Fetterman to switch parties and become a Republican - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXJNempqRUhxWGNaSndjcG9ZOWJicWRsNmI3QXpXVDl0dVNTVjZEbUp3T0FrOVpKeGI0Xzcyd3BFYUo5NnoybTdWSzhFaF80UUxfalpfVDZ2QzRIcDVMZmh4OEhpbnVuRDBrNk9RMFFnTi1tWUNIT3VvYTNzX1g4NkQ4cElCOTN3bm15TjdiSjc3SzJGWkYtY3pxcFl4dWc2aDVUUw?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 01:43:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Puerto Vallarta boards up as Hurricane Simon hits Category 4 strength - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcWJablM4MlJ5LUFJLXRPLThtTmhTTTRqdFJ3SDdtUFVDeUhTOU9WNnhUa2NoMXNPeUQzTnJJUnpoSkRsSkxmUFZaYkwzaGtHTi1lWGotdmRPdDFvelNXWDBxUGREM3daa0hpbVNXcDllQzJBUTRmNURJMVlVSXFGUmtBMUctRkpmeldocnByV2MzSW9vaW9MRVBvaTV2TXQ5MWJSLVZzejhHZw?oc=5",
           "pubDate": "Sat, 10 Oct 2026 23:39:00 GMT",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:25:13.805Z"
+      "updatedAt": "2026-10-11T05:50:13.083Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "India's 'cockroach' movement leader released from detention, lawyer says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRW5iSkVxTzNrMkFsTDhrdkJXX1ZDNGE2QWtCbVVjZ2kxUFYwc1A1TXNBM19kSnEtMUxrMmNUZk05aUcybDc4Z01MMU9PR1ZqVThBV1dqYnp0R0RZNXFoQTNpa1N6TDlJb0htd3Zyc3gyNHRnWFBzVEFicURTaldRYVlwaTVmWW8zajhXelhJYVJxTmRZWDRjekRaRUNNTEhxNXJlanJlZWE4amdocXdfZXlVWFAySktjdXc?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 04:37:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Nepal urges villagers to evacuate after flood triggered by landslide - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcnllV0stREo0VDlyUHJ4RkwxX2pWZ3RSQTZnbFA5OFMwcERqSXEzSFVZVnl5a3J5NjRoaWZrX2RhOFM5ajE2RkhxYVI0VXE3czN1Wk1pbGk0RVdDMW5SUTVJUnVkbmtibVBzczM0RzVvaXVfa05sUFpJSGV3V1Fxa28xc2dYeTZJZDd6SHFIeGMtQUtmREtLQnlXckJvR25PMzZrZWhWb05TZ1BMQWpKOU1jdGdya2x5aFZKN2lCMA?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpmTnVsdlhWdUt0a0hnSUg1YUVoRWNhT2JSQ24yeHFvRWVPdG5SNzNsWkNLVS0zbng0UWZrMS1zaGtXRmNzRThMamRUNXJPUGRwX09vN2J0dXFSUW9ZSThFeGZ6bTg5bnFqVVktSk91RzBNMkN0MGFOX2FSSEFZMzZ4TXhMb1dsc1hpLUwtY1pmeERoMnE0M2llTEI0X1V2cGxRc1UtMnpYUmc?oc=5",
           "pubDate": "Sat, 10 Oct 2026 19:33:44 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Rubio pledges US cooperation in Okinawa murder case - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaGFBbHJXSEdfVjRCbjdmbFRPWkRWMlRUdGpvc2RhRDFuR0lwY1p4UGc1S0I1eDZVNG1lbi0yTU1reWlGZmFzbFVTUW9yeEZFdEg3WDVES1VzQS0zXy1NZTBKVHRMdmlPaDdTeW9sY3d0OVNQN1dwVDBFMFlNa1hVR19ielpHOVRGd010QXBndzN6Vl9raEtaVC1sWEwzS3BIemduN2l3?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 19:01:52 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T05:25:14.224Z"
+      "updatedAt": "2026-10-11T05:50:13.497Z"
     }
   ]
 }
