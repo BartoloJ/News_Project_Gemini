@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-11T11:00:17.484Z",
-  "lastChecked": "2026-10-11T11:00:17.484Z",
-  "lastUpdated": "2026-10-11T11:00:17.484Z",
-  "generatedAt": "2026-10-11T11:00:17.484Z",
+  "fetchedAt": "2026-10-11T11:25:28.571Z",
+  "lastChecked": "2026-10-11T11:25:28.571Z",
+  "lastUpdated": "2026-10-11T11:25:28.571Z",
+  "generatedAt": "2026-10-11T11:25:28.571Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,13 +10,13 @@
         {
           "title": "Pope Leo to have surgery after lump found on lung",
           "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 11 Oct 2026 10:53:52 GMT",
+          "pubDate": "Sun, 11 Oct 2026 11:20:49 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Delhi sees more protests as 'cockroach' group's leaders released",
+          "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
           "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 11 Oct 2026 08:50:21 GMT",
+          "pubDate": "Sun, 11 Oct 2026 11:11:42 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T11:00:16.232Z"
+      "updatedAt": "2026-10-11T11:25:14.658Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T11:00:16.429Z"
+      "updatedAt": "2026-10-11T11:25:14.884Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-11T11:00:16.978Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-11T11:00:17.484Z"
     }
   ]
