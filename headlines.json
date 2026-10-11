@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-11T16:00:18.410Z",
-  "lastChecked": "2026-10-11T16:00:18.410Z",
-  "lastUpdated": "2026-10-11T16:00:18.410Z",
-  "generatedAt": "2026-10-11T16:00:18.410Z",
+  "fetchedAt": "2026-10-11T16:25:13.245Z",
+  "lastChecked": "2026-10-11T16:25:13.245Z",
+  "lastUpdated": "2026-10-11T16:25:13.245Z",
+  "generatedAt": "2026-10-11T16:25:13.245Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T16:00:17.105Z"
+      "updatedAt": "2026-10-11T16:25:12.710Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T16:00:17.425Z"
+      "updatedAt": "2026-10-11T16:25:12.746Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Polish police arrest a man suspected of planning to attack Prime Minister Donald Tusk - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEM0SEhDMFJtcDRlUkZUWnhzT2hKMnZqQnNzS3RLb0t1Uy1TMWx4SGpqUElWYWRBNlZ5VjlibEJ3cnlYTGNLWHN2OEtJazJPQ3NYaXJHY3A5eXBCZmYyVjU5TDNDbTJwbDAwdzBYdlVrNVdteURRX3dTV3I0SEJ2RHpNaGVjeW5POHdtb0c0XzVkQWZCa0tsSEVjcDZNRTdp?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 15:18:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump says Russia and Ukraine reach ‘energy ceasefire’ but gives no details - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z?oc=5",
@@ -130,6 +136,12 @@
           "source": "AP News"
         },
         {
+          "title": "Hurricane Simon pounds resorts and vulnerable towns along Mexico’s Pacific coast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1JYNEFiNHpwMTFGZFVETFU1SG9OMXEzTzIzbWh1ZmxoVWY4bTNwTzlxZ1A1VWhmaFJ1bWNIbFEtc0VYVmJZZ0FIQ1JBdTkyU21wamtWdXh1azZUMnpWZ0JOVHc3emE3WVNmTlFBVXdjQ2xiX1FldkExelhnbFRJM1NBY0J6ZVJ4LUE?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 14:29:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "At least 38 people hurt after supermarket ceiling collapses in South Korea’s Daegu city - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYVpVQ192al9NMTF1NFd3emVRZFlSaVRlUUlaSVB1X2IyX29aR292Sm9wdmhYZVR6cEZHQUxYYVkxU1lSY003Ty1rVG9yYmgtdlBvaEE3dGk1YTJZOUU1eEszZDRCUFpiSmpNWU1POEt2VFNSYTVxM0RLRmFWaU05R2tsX0RWNEtpVm1DU2NBQVUza1JpSVlta1ZncVJZNkFF?oc=5",
           "pubDate": "Sun, 11 Oct 2026 14:17:53 GMT",
@@ -139,18 +151,6 @@
           "title": "Saudi Arabia extends airport closure and moves Riyadh schools online after deadly strike - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXk0VFduYU1ldGM0N3RTZGlUVEFiOV9GdHBJTExieVVQT0preW1GRGVHLUZHN3VyZ3pYUzdXbGYzVHdHdUsweFFUekY3Nk13LTl3dWtmdmpiMDh5ZXR3Sm9kZ1VvbFlZNFU3UXgzYlJEaml0VGNHS09ia0E3QUJERDcwRkRsd2UzNWZYWjZlUDJWYUtoZlh6Ng?oc=5",
           "pubDate": "Sun, 11 Oct 2026 13:23:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Hurricane Simon pounds resorts and vulnerable towns along Mexico’s Pacific coast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1JYNEFiNHpwMTFGZFVETFU1SG9OMXEzTzIzbWh1ZmxoVWY4bTNwTzlxZ1A1VWhmaFJ1bWNIbFEtc0VYVmJZZ0FIQ1JBdTkyU21wamtWdXh1azZUMnpWZ0JOVHc3emE3WVNmTlFBVXdjQ2xiX1FldkExelhnbFRJM1NBY0J6ZVJ4LUE?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 12:22:44 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Poland’s police warn of a possible plot to attack Prime Minister Donald Tusk - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEM0SEhDMFJtcDRlUkZUWnhzT2hKMnZqQnNzS3RLb0t1Uy1TMWx4SGpqUElWYWRBNlZ5VjlibEJ3cnlYTGNLWHN2OEtJazJPQ3NYaXJHY3A5eXBCZmYyVjU5TDNDbTJwbDAwdzBYdlVrNVdteURRX3dTV3I0SEJ2RHpNaGVjeW5POHdtb0c0XzVkQWZCa0tsSEVjcDZNRTdp?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 11:59:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T16:00:17.974Z"
+      "updatedAt": "2026-10-11T16:25:13.238Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T16:00:18.410Z"
+      "updatedAt": "2026-10-11T16:25:13.245Z"
     }
   ]
 }
