@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-11T03:00:17.667Z",
-  "lastChecked": "2026-10-11T03:00:17.667Z",
-  "lastUpdated": "2026-10-11T03:00:17.667Z",
-  "generatedAt": "2026-10-11T03:00:17.667Z",
+  "fetchedAt": "2026-10-11T03:25:11.700Z",
+  "lastChecked": "2026-10-11T03:25:11.700Z",
+  "lastUpdated": "2026-10-11T03:25:11.700Z",
+  "generatedAt": "2026-10-11T03:25:11.700Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T03:00:16.783Z"
+      "updatedAt": "2026-10-11T03:25:10.663Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T03:00:16.836Z"
+      "updatedAt": "2026-10-11T03:25:10.785Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "In Silicon Valley, AI founders cheer Trump’s calls for the industry to police itself on safety - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX291RmlBcG5lT01mbXhCeFVFUGRkaVppc1FBcjEzU1J4NlVsdng1ZnZTaS04VmFIV2xRNDhzRGY2MVJhMTMzUm50bDRBYVpFSnlNMjE1R2o1Z2cxU1lxeWhiSWhIbjlrbDhQblZ6dmFLVFRhYzlVWDIyY1JoOFhaQXBqaC1xbWdKSy1kWVBGYw?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 03:03:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "4 dead from storm as Isaias brings threat of floods across the Southeast - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXNjcEJjUllNRkdDOGZjZzB2WURNaVdZSHF0cWk1RGx1R1VLRVRuSHF2TElyS09ZSENaZE1DT25KWGpZX0o5SkVmM0dYYXlSREhaUl9ET3ZlQThaNUhKalFaNU9QbkZhbThFR2N4SlhCOHV1S1E3M2pJR0hURVB4YlhaTlB5Rlk3M252S1BsM0dXZERQMk1HM0tNaWVxNWFj?oc=5",
@@ -136,6 +142,18 @@
           "source": "AP News"
         },
         {
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 00:28:16 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "AP Top 25 Poll - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OYllVd284SGVJbHo5QXVQempkaGlYeHlzWEZxOU5jZTktTnItaDg1X21NaEJZbHpYTUM5RXczMm5PS21YaktpREY1TU1WMzV1aXR6TkRpRmxjQVZpNkpMODQxWEM?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 23:42:10 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Puerto Vallarta boards up as Hurricane Simon hits Category 4 strength - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcWJablM4MlJ5LUFJLXRPLThtTmhTTTRqdFJ3SDdtUFVDeUhTOU9WNnhUa2NoMXNPeUQzTnJJUnpoSkRsSkxmUFZaYkwzaGtHTi1lWGotdmRPdDFvelNXWDBxUGREM3daa0hpbVNXcDllQzJBUTRmNURJMVlVSXFGUmtBMUctRkpmeldocnByV2MzSW9vaW9MRVBvaTV2TXQ5MWJSLVZzejhHZw?oc=5",
           "pubDate": "Sat, 10 Oct 2026 23:39:00 GMT",
@@ -146,28 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbTc2anRyaUVLUU5xSFlJT3RyWE84ZENwbHhRcFVWUW5OMW53c2NVSlJtendUTlREMk5sVjV6bWRrOE52ZU5UQXJQRFZuek93UzFtcnNwbEdvcjF4N2F2Q3J5Sm9rU01OWks3emItTndwVnhMa3NIUnIzMi1zdGN1c0N3Uk8wTFE5VGkwaVVSY3lQTlRLbVlBendaRnAwbE1TMUF6Y2R3?oc=5",
           "pubDate": "Sat, 10 Oct 2026 23:19:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 22:57:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "A tiger kills a man who entered the big cat enclosure at an English wildlife park - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTU5Tb29pSjcyMFpHUjgtV1FybTZxSW5jT1U3dU14NWdJRmlCcmx5Y3hKNVNBUkk0QXZxWExNNGhtWnRCRVZTX1BuS01tdkNkQ2dEcG5weGpRYTc4LU9LNnZvMnpiV2x6TkF6Zm8wbUtPRmRHYVphcS1IXy00NlpIeXFiNUF4TGxUSGlIME90VXlkZUpXMGRrdTZpbXpXTDlQTGdJZXREMURaRnB6eW9wU1dZRnZvZw?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 22:29:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Philadelphia police officer killed, another injured after responding to reports of man with a gun - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEJZV3hGTGdXeE5WX3pJR3V0TVhkdURWWDNNTVdKbTN6UkVWenhMODFIb3NEMGhnelphWlRHZnlGYy1FUXhFZFlrSVZTNnpvSjRVRERmNFk1TnlmcWZVM3lleDRESkdmSVZlSkdCM094RmdkV2hUYTJhMEVYcXZoc2wtSjA0OHN4UmFvVDRUZDQ?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 21:58:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T03:00:17.260Z"
+      "updatedAt": "2026-10-11T03:25:11.255Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T03:00:17.667Z"
+      "updatedAt": "2026-10-11T03:25:11.700Z"
     }
   ]
 }
