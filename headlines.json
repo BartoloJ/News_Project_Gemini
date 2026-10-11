@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-11T01:00:35.348Z",
-  "lastChecked": "2026-10-11T01:00:35.348Z",
-  "lastUpdated": "2026-10-11T01:00:35.348Z",
-  "generatedAt": "2026-10-11T01:00:35.348Z",
+  "fetchedAt": "2026-10-11T01:25:13.631Z",
+  "lastChecked": "2026-10-11T01:25:13.631Z",
+  "lastUpdated": "2026-10-11T01:25:13.631Z",
+  "generatedAt": "2026-10-11T01:25:13.631Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T01:00:18.937Z"
+      "updatedAt": "2026-10-11T01:25:12.342Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-11T01:00:19.422Z"
+      "updatedAt": "2026-10-11T01:25:12.653Z"
     },
     {
       "name": "AP News",
@@ -130,6 +130,18 @@
           "source": "AP News"
         },
         {
+          "title": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 22:57:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 22:37:16 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Philadelphia police officer killed, another injured after responding to reports of man with a gun - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEJZV3hGTGdXeE5WX3pJR3V0TVhkdURWWDNNTVdKbTN6UkVWenhMODFIb3NEMGhnelphWlRHZnlGYy1FUXhFZFlrSVZTNnpvSjRVRERmNFk1TnlmcWZVM3lleDRESkdmSVZlSkdCM094RmdkV2hUYTJhMEVYcXZoc2wtSjA0OHN4UmFvVDRUZDQ?oc=5",
           "pubDate": "Sat, 10 Oct 2026 21:58:00 GMT",
@@ -139,18 +151,6 @@
           "title": "Pete Hegseth - AP News",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Q0x3aDFuUlBUTDE0cWtQUzZhUzVNemxPLXU1WlNjbk15RnEyek5tUTFKY0tzZGVMRVNSYmhENTFTRG9xd2pHQUJNNA?oc=5",
           "pubDate": "Sat, 10 Oct 2026 21:57:14 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 21:51:31 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 21:50:00 GMT",
           "source": "AP News"
         },
         {
@@ -166,12 +166,18 @@
           "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-10-11T00:50:13.748Z"
+      "ok": true,
+      "updatedAt": "2026-10-11T01:25:13.171Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Justice Department probes TV networks over Trump pool coverage - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTTFvTk9IcGl4dTJsZ2ZfTkdNSUNURFcxclFramhLaTUzOEw0cU05NTZPOHFWZ2N0RkdSZ1dUT3FLRTFNS0RFSXdLQWJCYzdtcUFxQTVtWDVGTmdLWXZlWXBFSHl2X3hIM1JrRDAxWllPa04zZkhUX2J6Ujd3QzFEVWdXaUlHRDBidC1zNXFEYjdNbEZ4SldnMU9rbmZxdVVHUHUtcDlIQnEycHlmOV9oOV80RFh1WlJMV3diVWdEVGc1TjNJV3c3RmtoeUR4VUVWT2c?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 23:10:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Rayo-Athletic match abandoned after fans protest against club owner - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmU5dHFQdXBtUndDdjc3ZzYxOXJQSVRMMEZRQ0VrU3c0bWlHenFPdzAtNFZ4UjlTWENxX2Y5SXZhdGFWVTQwTFE0MDl2Mm5xa09WMDlEN0ltOVJVa1RfVFRMcTE0cTMtdWRxcDNwT0hRSFExVUNYVHVpRW5Sa3lKWW5QOTg3TVBuZTNLcWVwNDlJN3dPUXAya2pGdHVWaXF2dnRSdE1VQnNsVzhIa2NGZnhVTnVjZw?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXlRc2FIcm5xZVkxS3kxQk40Q1ZGZ2JIQTZRVUFiRTA2Z3BTazVob1NCUEgtekdzNHNtcXM2c0F4Zkc2N1VWTzJCTjJmSWpPUTJkVFdCQTVQVWhmMy1DX2dQcXpXMHFfOE9EQ21BNjBnUFJhZFBXWDUxS0M0Y1NzSkJOVllmOWUtMzAwUGtsLW5xb0NYblpFRmJacXZES1c5dU5sNENTckpCUkZZY19B?oc=5",
           "pubDate": "Sat, 10 Oct 2026 17:43:47 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Verstappen claims first Singapore win as nine retirements mar chaotic sprint - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNanhSOXNSX2NKNjJFVGRuNW1GblJ2Y0xwcFBVRUlzaHotV1FLX2wzR1l0WmFrTFc1Yl82T0lOMlNpN3pRTThETEhqT3JibGwwNWNQVUlxZVNQX3hZWWJ1Um8zT3BlaTVKenIxU3p5RjVKZ0QtT3VfczFiRUxUZmtQUXktdjNLSjRMbHViLWoxM0N6QmFVcDd1d3hBc2FJTlRyNHJyaXBMbHQ5V0FhZWdUMXlsbVVCOU1VNWow?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 17:25:35 GMT",
-          "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-10-11T00:50:14.131Z"
+      "ok": true,
+      "updatedAt": "2026-10-11T01:25:13.631Z"
     }
   ]
 }
