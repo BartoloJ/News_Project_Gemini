@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-12T19:00:19.044Z",
-  "lastChecked": "2026-10-12T19:00:19.044Z",
-  "lastUpdated": "2026-10-12T19:00:19.044Z",
-  "generatedAt": "2026-10-12T19:00:19.044Z",
+  "fetchedAt": "2026-10-12T19:25:12.159Z",
+  "lastChecked": "2026-10-12T19:25:12.159Z",
+  "lastUpdated": "2026-10-12T19:25:12.159Z",
+  "generatedAt": "2026-10-12T19:25:12.159Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T19:00:17.843Z"
+      "updatedAt": "2026-10-12T19:25:10.901Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T19:00:18.010Z"
+      "updatedAt": "2026-10-12T19:25:10.970Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Saudis probe how defense systems failed to stop deadly Houthi attack on Riyadh airport - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVlFmZ0kwWmYtTnNQeVZ5dklfNXNiZlFLRDh6TEZrUEpLYmtFMk1IckdOeHBUb1YyQV9pbXRPeUpib1VXMEV3dHJtYWs5V1BDMnQzM0ZsSTk2cXVFQ0xYbGplWUlUSEhrZlpHbzZTX05xdElackFubFV0YUhudVFFNUo4cVpLazRFaUlINkcySkVVcWJFU3ZIRHVB?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 18:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced' - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjdzXzdVOVh5OVVkeXRrSlNpQXBuMTBWQzhqRDUtbG9uY1ZET0trR0xXNmlIQUhBY1hRS1BsVm8yRENMUE1MZTRxaEtsUmFoaEFUSXFuTXpqeVpqMHd5a1ZYOEtnT3ZvV1NhNmZYMUg0WnlGenFVal82aFp3c2psT25Fc0dRSUNWbkNobw?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 18:53:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "US stocks hover near their latest record in mixed trading on Wall Street - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWs0OFJBbUxDSUJpUEhoaTEwSmlNRVdmWFgwX19pUnc2YWlrdnNTUUJ1VjZsUnNJQ3Vfc0lxMVhMNkdWVjVsdzJVbFlQaHhoRlNsOWtIUHBGVUVyMUxQcmEwLWp3dEZwZkt4aGEySmNmZS1XRVhhWHB1S0dZZlRkWlVDeEVtUm95cVZpanpxNGhsUWcyZU9NRQ?oc=5",
@@ -142,36 +154,30 @@
           "source": "AP News"
         },
         {
+          "title": "Flash-flood risk lingers across the Southwest after Rachel’s remnants swamped Nevada - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3d0Y2c1elRlVnk2WlA2Y2RxWDlMb0pSSVNoeXFUdmNnWUhLd1lUWHpiZFpZUXIyRTQtNGtwaW9Vdk85dkxIMDE4d0o3aGJwVGxHY0V3ODZrUmJTcU5PTG5KNWtaYkhZaUxXWE4xM28zVndyZVJhdTBGaWphR2ZjLWYwLVNPZWRaTlV3WXQ5UEVCVVRaUFBCMGVCOFNzbnc?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 18:00:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Mamdani orders review of NYPD's use-of-force policies as progressives call for greater change - AP News",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMUoteW9IZzVmNHV3MF9YTG1mUUp6ak5zNTNjRzdjN1RNb1NxeVZZZ0UwN0VGNlgyOGxqM2FieWtpNHBGSnFydlRrSXk0X3V3Q1ZEM1QtWVJjUHAwQ05Uck9DdWJQMVFXUXJPbE1Eb3ZfNVJxeXNOYU9kZ2lFZzNoeVVXMzRFTUJmUVpB?oc=5",
           "pubDate": "Mon, 12 Oct 2026 17:46:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Suspected plot at US-run air base almost certainly directed by Iran, UK prime minister says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSGMzLTZGbTNpZ1F2azMyeFFBYmttQm1BTi11cGdha3Q2bEVHZGNNazI5aFZhUmlpWHgwOGlLbmNGSWc5eEVYcDRLWklEcjFOSlhzZVMtWGdMTkhDUnZRb1VmTkdTSk9EcEpCUi1ad284VmVzZWFOQXY2OFdMQjFnaEY0Unc2QTVIb1YxelQ3YkNWMVlDaTF3amlvWkdObWM0aHZvbVBB?oc=5",
-          "pubDate": "Mon, 12 Oct 2026 17:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The Kremlin relishes in the US-Russia diesel deal and Trump’s criticism of Zelenskyy - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2xmNXR5aWREQWFObVc0dmxtWjBKNGNyUjVTc3ItUkctbEFYajRETzVEQm9idmVsaFFnbEU0QWdFSzZFUjJlNFk5VWZBNWloekhYNE5kQ1l5LXpjbEVDMjh2OXVwSkhQbWNqQ2FZZWFRNHIwa0FTN1I1WmdoeVhvSHc4MWdrNHRydUVXX1A2RkxQSF8xeTlhbjBGZ0wyTi1GZkhmVGdPNnpuRVk?oc=5",
-          "pubDate": "Mon, 12 Oct 2026 17:31:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Pope will be admitted to hospital Tuesday for lung nodule surgery, Vatican says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWF9QY2FrZTRHcl93YXpjcF9sNTN2aGI3UVAxNzVVUS1FZmpwN2JKc244YUt2UmFENlEzWG5kWWRrbDVKRHpadFUxbGU5SFdRaF9lVXNtU2RGUkozT0pja0RLMnBIcGczbkFRVjV0aktnTHNMSnZqaHNidUVfektCV2M0aWg4aWdFaW9UaHNORjM?oc=5",
-          "pubDate": "Mon, 12 Oct 2026 16:52:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T19:00:18.539Z"
+      "updatedAt": "2026-10-12T19:25:11.639Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Wall Street mixed as oil prices surge, investors await earnings, economic data - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOck00LVRZX0lQNUw5SGlYU09FOWw1dUVTNjZTQ0p6YklVVUlRSms1eVZRcDd6VjRySF9rOEptM3Nrd19mSURMa1dmbTdIOE1VZjJKdThIR0tabGRTdjBiX0JCWkVndjJFNkZrT0w4NzZ2VWVibjlyeVZHRmszeXRraWRfT0p2SDhSQnFTY3QycG05eHpjQVVLYk9yRF9UYzZ0VmZ6Sw?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 18:40:40 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US immigration authorities raid Democratic congresswoman Ilhan Omar's home - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMDJQVmVIaFZGdTRES18xTGZOQTgtMzMyWGVOb2VxOUxpWUpQNDlhXzZIdXU0bE81bHVqZ2dRcnVqeE1NWkhtNXNQMTZHb0RtWUhibjBiVkF5MWdSTHJZLW0yNjJrWFYxRVpHQjBnZHJDWGhwVTBIanpDak5iLWc0Y1NIVjN1VmRhTVV2WXE1X0VHQ2gwZXNwb2FIQlEwaGtDWFVnMGpDTlQzLVd2SlNXcVB6dmpDYzJmMURtbUdQYmVra3dtc0ViRWl6NU4?oc=5",
@@ -197,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Austria says Ukrainian journalist's arrest on suspicion of spying was unrelated to his job - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWpVR3o2ckZjbVlEa3p4T2J3STlwNnhwdV9nTERmN2luN2VtY3ZERk9Gck4yRlFyalAyazNmY2lVeFhZbWFqRHBSMVc0VkxDRkw4WUpmcnRSdzZJdWFVU0VyOWZlQjVlOWxxTDZYS05qbTBwNmliemtSVDhIbTFTTngySVN1dTdsc0NVYngzcm5kYVVRY3k5RGJwT3JxS19MVmlZZVZyOE4ta3AwT05zNmhZcW5Pa1lqbHlBd3VyQQ?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 17:40:50 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "EXCLUSIVE: Most Americans oppose betting on elections, government events, Reuters/Ipsos poll finds - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZF81cWRKYk1neGgwZFc2T1FuZ2d5MkZGZEdtMTExMURrbmxkT0JKSTZiczloWE1rV2Z0UlJJa2dhQmtheHdaU1U4eUdEYlJYcy11aVo1TzJ6WmpnUWM5TDRtQWp4cGNkdWt5RHFGNS1KOUJsaXFFQlFncVZiRkJnWnhoeTRKdHRzQkhkcGw5WmdlR29vMWt1cDJjYnFUVUdIOTM4UFJpdHN4R3h4alV4VDZPcHc5bXc0?oc=5",
           "pubDate": "Mon, 12 Oct 2026 17:31:31 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDRBblViTjNERnBXRzN3QjNOa3Q2b2tqN1pQNEpwa21mTHVuLW1MSGg5UGFHWmRDM0ZfdV9udjhuUkVzTkJUVmxzR2NCQ3RzSFVuT2RsWFlWN1FTUUZfV1EyVElySnBZZHJnVWw2ZERITzNONmwyVDJuRmxCczY5V0o3OWpHU0pRRzFudW5YQVBPUXJMX1cxTw?oc=5",
           "pubDate": "Mon, 12 Oct 2026 17:28:08 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLU1iNVd4N0RyM29yWVFhSldLS2lsa0YydGZld3hRWTFONXlPWGhMcHVNcDB2N3JUSjdiNU1OVURBY0taUVVhMFBOTFNmZHV6dVREX2hsdjBEQ3g3RWRQa0dGLUZQUTZNTERGNlFnT1YzNUFHVVNGd3JLVDNCMnVINHo2Y285UF9sUktjblE1Sm9jcXFuZWZPUFk4cVJpZTNERzZJM2tVT2RzVWVKZXNhQ3NCYzZyeWU1LUM5UEVMRnB6V3ZpUm9IbU5PdzlvX0h2R3ZF?oc=5",
-          "pubDate": "Mon, 12 Oct 2026 17:23:08 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "UK PM Burnham says Iran's IRGC likely behind RAF Fairford incident - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWWJ0NVNWU296YXNLZ1BDNC11S1V3MW5uY1ViQ2M3VmZ4eVZVLWtTT2x4MG4zOGJncUVrOFFyZkcwekpYZXpWRWhvc0lxWkhveHU3MmV0VW03dEo1RmN4dzVhSVFWajBzMXlZVDFQWXRkQ3V3eFdVTDdadFpJNjFCVzVlQ05WMkYxZEpmelV6RDdBaWhSN19YVDJROXcySFo0anBOWTNQYk81TENDaUY4?oc=5",
-          "pubDate": "Mon, 12 Oct 2026 17:12:25 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T19:00:19.044Z"
+      "updatedAt": "2026-10-12T19:25:12.159Z"
     }
   ]
 }
