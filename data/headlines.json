@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-12T00:25:13.985Z",
-  "lastChecked": "2026-10-12T00:25:13.985Z",
-  "lastUpdated": "2026-10-12T00:25:13.985Z",
-  "generatedAt": "2026-10-12T00:25:13.985Z",
+  "fetchedAt": "2026-10-12T00:50:13.474Z",
+  "lastChecked": "2026-10-12T00:50:13.474Z",
+  "lastUpdated": "2026-10-12T00:50:13.474Z",
+  "generatedAt": "2026-10-12T00:50:13.474Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T00:25:12.871Z"
+      "updatedAt": "2026-10-12T00:50:12.194Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T00:25:13.076Z"
+      "updatedAt": "2026-10-12T00:50:12.372Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Hurricane Simon pounds resorts and vulnerable towns along Mexico’s Pacific coast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1JYNEFiNHpwMTFGZFVETFU1SG9OMXEzTzIzbWh1ZmxoVWY4bTNwTzlxZ1A1VWhmaFJ1bWNIbFEtc0VYVmJZZ0FIQ1JBdTkyU21wamtWdXh1azZUMnpWZ0JOVHc3emE3WVNmTlFBVXdjQ2xiX1FldkExelhnbFRJM1NBY0J6ZVJ4LUE?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 00:33:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "No. 21 UCLA downs turnover-plagued No. 13 Oregon 17-15 to remain undefeated - AP News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSGpqUUVLcm1NUndURjlONy1QaW5kbmFLdm9qSUdLS1QtcndXX0lJa0xIdFBVWWc2VTBJVzlWTGNyUzJ3b2hQVXBiMmpsTjR2UEd4VWMyMG9ncFgzRFdTMnlkRXU2WTlISnh5TEttNFlQNzdjbWFzWF84dzhEa1pMNkIwSQ?oc=5",
           "pubDate": "Sun, 11 Oct 2026 23:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Isaias moves north into Appalachians and mid-Atlantic; Southern California battered by Rachel - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkk3UURScHRrNDZTTndTeFhsd3JaWkZvX3ZtbDA4aWJNTGJ6MVRYdUFLRGVkWHN1ZExwUnNmdHVzdGNTZ1dGRDF2YXNNM2t3STh6bFItMENlMlJ0OVhwaGRyRlFvZEVkTnc4VVdpWE1qU01ESlBtc2h4M25HR1phX1VWbm1vd1BUdV9vUW5PdDQ0d2JCZzdCS1J1ZkU2NU5L?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 22:46:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,30 +164,36 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHFaUjhNVFltYnJUQ2NXWXRBYXNVaHVKakl4TExNT3F1OEFicDM4bUFIRU5ORGJnZ056V3BzSzZsN1E1MVZVRW45NTh2YUJaTWpJNnF1ZEV4ZmdoMzM1MnVZOTZ6UUxDcWx6cDlCU2Z1V18tYjRRQ1UwUTJsT0t5a3FfdDJBdHBGTWE2ZFk4WF9Yb1c5YUE?oc=5",
           "pubDate": "Sun, 11 Oct 2026 22:04:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Hurricane Simon pounds resorts and vulnerable towns along Mexico’s Pacific coast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1JYNEFiNHpwMTFGZFVETFU1SG9OMXEzTzIzbWh1ZmxoVWY4bTNwTzlxZ1A1VWhmaFJ1bWNIbFEtc0VYVmJZZ0FIQ1JBdTkyU21wamtWdXh1azZUMnpWZ0JOVHc3emE3WVNmTlFBVXdjQ2xiX1FldkExelhnbFRJM1NBY0J6ZVJ4LUE?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 21:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "139 migrants, including children, die after boat capsizes off Djibouti - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0xjUzJkaGZaV18ycHV3djdMZmtVakRFb2RieE5qTHRSOHZmNHVyWTU4Q1J6UDZDaDdWeURCRlJLUkttNkZ0ZlNPVWpWYXEtMWh0Skw1RmpaaVRMSXpBd1VMU3VxNlAyMjZGVlcwMnUzSWNRb0NxMlFYLXh5ZVM3ejMteHllMjNKVF9VMXJWUV9MTHNuLVdEN2c5WE5wRXZXUUNBNzlMOVI?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 21:34:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T00:25:13.575Z"
+      "updatedAt": "2026-10-12T00:50:12.988Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Oil climbs as Mideast conflict, tanker attacks persist - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0xoWVo4eTNVMU5uQXk0Rk9WeWlMaWN0TFlDbWwzX1FqNy1iWW5iUzk0REtlMGNVSnlGWkRCb0tySkQwRFZ0NzVDQzRFVk1IcWNqVFIteWpOVTRVM01xblZ0TzN1dWdlNUdYWTRMUUFBOGhwQ2xTYl9NaTF0bmk5UllSanctMGJDT1g3MnVuX1IxTWpwR193RHoyV1BEd2FqOWlDcg?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 23:28:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UK finance minister to call for big economies to get borrowing under control at IMF - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONG1DajNQSWZPY2NlRmE3amk1V3dVT1JkRXYwMm5oVTZ1cnU1V3BQY09pNjlaVk1vMDVobDBzTVY0NDZqR0x2ai1QWUtGMGswZlE3NGstVW1GMWtFTWt0M3o5cGlOTG4ydVVseUQ0ZE4yQ3RjSEFKM0pWZ2R5T3hLX1UxcS12VU9sekxheVIyZUNIbGlrdVdLbkhOYldfSlNKZm1FaUlWV1h6NlRDN3llZFBuVmlvZw?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 23:26:07 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEo0VkFTZkY2VzMzeFV0OVRVbWN4aHFzaXFjV0FBN05uaEFONHhQVTN2a3JJM09NdFBzY1R3MnRrUFZOeFZfUDItOUd1NkxiT3dfOWduTHJKTlBzSGsyN3VCYTNkWG1ZTWlZMUpzbDdrc1dOZUs3VDRwa0lHN21tNnFNdFhQYUxoNmdfN1Zyb3FMRm04RzRVei0zY3FKN0FoY2JYTGFodjYtemdITVpKVXk3NlR2QXFIMU9YMnUtX004QW1GZ0UzZA?oc=5",
           "pubDate": "Sun, 11 Oct 2026 22:45:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "FAA tells US airlines to exercise caution in Saudi Arabia flights, citing safety risks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEo2X2hOdlFVcmxza3ZQRmsxQnJlQ3JHbTN3WGZLWGhYRllIS2lOR0hUYkJwQWtJbkJFUTFWUzdiS005ZkgxR2pDY0dqQnQweGZ3Qm1qMHN3aUhCVzZxSzlyTVltbGVudkFvc2xaZFRBSzRZaFJQUlRQZWp4UlVrckxzcW9QUWlMaDN1ZjZ0UklUc1dWTi1yTjB5eFJYX19zeWdJX3lfTmZFTUh5OGZwb0Z3NnVIY1cxOE0tR1RvSE1pLUhkXzdEYV9GZUQtdw?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 22:12:34 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX3AyZ09uYTc2bWo2anlka18tNTY5eXB4MmRfeVhQR0R2MUtScC1DcUI3M0hmcFo0dTlTWXFtQmNuNzZ1OHg5cDVoUlBlSm1XaWRVbnpLNmU1VmFRUVFiaEtmVXJhdFhiNWF1YXl0MGptc0hJd1hyaFlNRVpkWFhUY1NaeW5zbVh4Mzktb0lyYXN3Q1lIQWdydkR5TURYYUlzcVI2NmFLYWgzS2hrUHlLR3ZHS3NvcEdnSHd2b1RuSE96aXRk?oc=5",
           "pubDate": "Sun, 11 Oct 2026 19:44:16 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Stellantis bets on small affordable EVs for European comeback - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3Vnc21nNnBpSEFHQW5rSEIweVpPVHU1aHNfLXhscElQQ3NZU21kOGNOMXlVVWdiTE1raXhHdjhKMDJpYUhqZURGM2NyS21MVjdzQVl1ckVJdkk2U3MzcVFLX05QU05rUG1VNWZMcDBFYmd4NVNoNzF6aVk2QVNyMjhEYk9xb0d1bnlsZkpKdFJBaGYxamd3QVB1Z25BVGFhQjM4Wkw1Y1NCUktQVHJWMWljZlVDNld3UlUyNw?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 19:42:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 19:40:37 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Pope Leo says he will undergo surgery for small growth on lung - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkdPdU5pbElCMXZwdmxCX05ENE44MGdFQ1dMTThyUGpuM0RWYjVsSGtJUERqbG9yY2hEVlZMRXZsclVwdHBSVnBmZDZoN3RwOTlKV0pJUVQxU3JkUloydGFha2dpN3hMSnpzelM4b3NFNmwtb1BSNEFUdEtRVUExQ3owb2FwOE02LXM5Wk9oX052Z2ZUNzdjWjBuVVFROXlpZFY0Mk0zd3h2T1N4WEs1NEFMZDhIQ1JDSXcwNjdsWVFldw?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 19:14:46 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T00:25:13.985Z"
+      "updatedAt": "2026-10-12T00:50:13.474Z"
     }
   ]
 }
