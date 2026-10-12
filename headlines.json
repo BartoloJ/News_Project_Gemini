@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-12T20:50:13.891Z",
-  "lastChecked": "2026-10-12T20:50:13.891Z",
-  "lastUpdated": "2026-10-12T20:50:13.891Z",
-  "generatedAt": "2026-10-12T20:50:13.891Z",
+  "fetchedAt": "2026-10-12T21:00:19.617Z",
+  "lastChecked": "2026-10-12T21:00:19.617Z",
+  "lastUpdated": "2026-10-12T21:00:19.617Z",
+  "generatedAt": "2026-10-12T21:00:19.617Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+          "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 12 Oct 2026 20:54:09 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
           "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 12 Oct 2026 15:51:30 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Thousands march to Indian Supreme Court to demand election chief resign",
-          "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 12 Oct 2026 15:19:17 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T20:50:12.975Z"
+      "updatedAt": "2026-10-12T21:00:18.601Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T20:50:13.025Z"
+      "updatedAt": "2026-10-12T21:00:18.649Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,7 @@
         {
           "title": "US stocks hover near their latest record in mixed trading on Wall Street - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWs0OFJBbUxDSUJpUEhoaTEwSmlNRVdmWFgwX19pUnc2YWlrdnNTUUJ1VjZsUnNJQ3Vfc0lxMVhMNkdWVjVsdzJVbFlQaHhoRlNsOWtIUHBGVUVyMUxQcmEwLWp3dEZwZkt4aGEySmNmZS1XRVhhWHB1S0dZZlRkWlVDeEVtUm95cVZpanpxNGhsUWcyZU9NRQ?oc=5",
-          "pubDate": "Mon, 12 Oct 2026 20:38:00 GMT",
+          "pubDate": "Mon, 12 Oct 2026 20:47:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T20:50:13.468Z"
+      "updatedAt": "2026-10-12T21:00:19.174Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "EXCLUSIVE: Most Americans oppose betting on elections, government events, Reuters/Ipsos poll finds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZF81cWRKYk1neGgwZFc2T1FuZ2d5MkZGZEdtMTExMURrbmxkT0JKSTZiczloWE1rV2Z0UlJJa2dhQmtheHdaU1U4eUdEYlJYcy11aVo1TzJ6WmpnUWM5TDRtQWp4cGNkdWt5RHFGNS1KOUJsaXFFQlFncVZiRkJnWnhoeTRKdHRzQkhkcGw5WmdlR29vMWt1cDJjYnFUVUdIOTM4UFJpdHN4R3h4alV4VDZPcHc5bXc0?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 20:51:19 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Nasdaq falls ahead of earnings, economic data while oil rallies - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOck00LVRZX0lQNUw5SGlYU09FOWw1dUVTNjZTQ0p6YklVVUlRSms1eVZRcDd6VjRySF9rOEptM3Nrd19mSURMa1dmbTdIOE1VZjJKdThIR0tabGRTdjBiX0JCWkVndjJFNkZrT0w4NzZ2VWVibjlyeVZHRmszeXRraWRfT0p2SDhSQnFTY3QycG05eHpjQVVLYk9yRF9UYzZ0VmZ6Sw?oc=5",
@@ -185,9 +191,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Focus: Citi seeks rapid resolution of its US regulatory burdens - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkg3cE00UzlJcm1KaFJvNlUtS1BMWUZSanJwNWhtTkE0aF9xSmlzbWdtd19BRGdJbl9LUWxsWGdwU2dwUFhkZ05jQlE5NUkwMzZ0b2g0Z1dNOXdxdnZGTFBEazhOUEVSMjRfQ2lSX0JGOC1Hc3BxMDgwM2czdGd5T0xMV3VkaVZlNG1ZU0NiSEtpUjR3OXZqX0xUMEJZV1ZlYW1YSmRrWXBtak9oZWc?oc=5",
-          "pubDate": "Mon, 12 Oct 2026 20:23:31 GMT",
+          "title": "Starbucks says not buying Chipotle, ends takeover speculation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnZGZEV2WklwWFV4b0FvOTI4eFpxVFgxMTNvNDUxSVh3ZVBRalVuWjJaS1JRaUpwTXp0em0yUVAxQjZqQ1dUYlo1MGNEaFlzNUxhOUgxWF9CY3dUem1ILUdqd0FxQzNGNW9CT19qc3hueWlrNlJHQm9vYzJfV2UwWkFsRWpYbzI4THFPSVVCczVVeUpDTzJKVWJaeU45OHZw?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 20:25:47 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGszbTdESk0xU0twcE1ZOHg4VFpzN2lzeWQ0ZDJseVpKczh6cE44eTNOb3ZDS3dnVnZJN3RCNE1wVDI0djVodU41LTN3WkVIemI0NWlucWpKY0tvU3JMeEM2YVN1OTBsdW5mZDVXeWhFcXdyQ1pGRjBVNTR6SmpBSXhzSXRObWtSTjlYcEJzOUxsX2Ezb28yZ1FrU083bzNpNmd2VlpjUkxnaE5PdEliNWpxeU5QNkp1V1JmcXlFdUJ1S01zcHc?oc=5",
           "pubDate": "Mon, 12 Oct 2026 19:36:35 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Dating app Bumble in advanced talks to go private at $1 billion valuation, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmQ0RUJONmRhZmdzRzV4ZlRaNkp5WFVoZnpKeEhvWUVLVHVpQmFvSjk2QXNIcDNTMHBLbl9OMDh4T3p1dFl3QS01WlZaUVZoRlplOU9VS2IzbEQ4cWdTRnNyU1Zkemp3SHVfQXpuZ3FVMnhxSDNhb3JmTnZkNERocTZRNUVlRHFvNUZvTm80SExENGtXMXE3M19QdTA5ZVBkMUxkLUNVOHpRbEtVS2VLRDM5anEwb3VwUlQtXw?oc=5",
-          "pubDate": "Mon, 12 Oct 2026 19:23:01 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T20:50:13.891Z"
+      "updatedAt": "2026-10-12T21:00:19.617Z"
     }
   ]
 }
