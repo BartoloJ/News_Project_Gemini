@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-12T02:25:14.666Z",
-  "lastChecked": "2026-10-12T02:25:14.666Z",
-  "lastUpdated": "2026-10-12T02:25:14.666Z",
-  "generatedAt": "2026-10-12T02:25:14.666Z",
+  "fetchedAt": "2026-10-12T02:50:13.516Z",
+  "lastChecked": "2026-10-12T02:50:13.516Z",
+  "lastUpdated": "2026-10-12T02:50:13.516Z",
+  "generatedAt": "2026-10-12T02:50:13.516Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T02:25:13.442Z"
+      "updatedAt": "2026-10-12T02:50:12.437Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T02:25:13.514Z"
+      "updatedAt": "2026-10-12T02:50:12.592Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "World News: Top & Breaking World News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 02:06:43 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Villages evacuated as flash flood from Budhi Gandaki River hits northern Nepal - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHJiTE5uU0t3VjY2XzhVV09yeXR5OV9OWDdYeHpJMk15WW1ScXplQnZIRFJWT2RkdHpfRHhMZjZhUDdVcmZoUldnUXo0bEtPa1F2Q3JHWGtieFV5YkE5WDdNa29lbVNpWXBaQ2ZhQWNrRzQ1VkhkLVdaUjNOYjlpZHRVTVU2TkZPTlBvM3FSOUpBVmhXMFhYUzVBUHI4UlpUMm5HYnd3RUFSY0pt?oc=5",
@@ -124,9 +130,15 @@
           "source": "AP News"
         },
         {
-          "title": "World News: Top & Breaking World News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA?oc=5",
-          "pubDate": "Mon, 12 Oct 2026 01:24:13 GMT",
+          "title": "Isaias moves north into Appalachians and mid-Atlantic; Southern California battered by Rachel - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkk3UURScHRrNDZTTndTeFhsd3JaWkZvX3ZtbDA4aWJNTGJ6MVRYdUFLRGVkWHN1ZExwUnNmdHVzdGNTZ1dGRDF2YXNNM2t3STh6bFItMENlMlJ0OVhwaGRyRlFvZEVkTnc4VVdpWE1qU01ESlBtc2h4M25HR1phX1VWbm1vd1BUdV9vUW5PdDQ0d2JCZzdCS1J1ZkU2NU5L?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 01:26:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "South Korea’s military says North Korea fired a projectile toward the sea - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ2FsdGE3YUJ5V3VpbjBDWEpDaF9FMk9IbE9ZWFRUZ0l2SEJmQi1pbFZxNzFscG5LVDJiUUxpRzZ3c2dvbzl0R3RWQmlKTTN0TDdwX1FST0IydGp5c0NwY0lpTTFOQklXZU5LZ2piMnBQRl9pcUg2M3VLTTVSU1k1NngwMkdab3BWeVFuUXh2NTBCTld2?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 00:33:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,30 +160,24 @@
           "source": "AP News"
         },
         {
-          "title": "Isaias moves north into Appalachians and mid-Atlantic; Southern California battered by Rachel - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkk3UURScHRrNDZTTndTeFhsd3JaWkZvX3ZtbDA4aWJNTGJ6MVRYdUFLRGVkWHN1ZExwUnNmdHVzdGNTZ1dGRDF2YXNNM2t3STh6bFItMENlMlJ0OVhwaGRyRlFvZEVkTnc4VVdpWE1qU01ESlBtc2h4M25HR1phX1VWbm1vd1BUdV9vUW5PdDQ0d2JCZzdCS1J1ZkU2NU5L?oc=5",
-          "pubDate": "Mon, 12 Oct 2026 00:03:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
           "pubDate": "Mon, 12 Oct 2026 00:02:32 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Jayden Daniels returns and scores twice, but overtime gaffe costs Commanders in 27-27 tie vs. Giants - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbDdtT3JNdkw0VGxzN3M1Mkw3em1ENWgxX2xEWmM3WXExaHpWcnhXTzJpT0Zsc0loeUNaZjJWa24wTkYxYmFEY0p0QzhDdFRHRE50Mk1mM2dZYlBTanVRZE5Id3YtVUh6WHU2MUxfSjJiUk1naFB1d3JFek1sbTA1Q2JIamRubF80czZz?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 23:25:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T02:25:14.140Z"
+      "updatedAt": "2026-10-12T02:50:13.062Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Indian central bank curbs to temper corporate rush to hedge against rupee weakness - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRFgtUVBuX2VnM2otaHZHc08xZEFBRmtZZHV0QWNzTU5qSUhIcHJGWTZTNmpReXBQLS1SdlRBS3hpa1Jfb2tsZjV5eFRpeUtoLV9CdHVzUUJaVEw3aURPWEVEbF9ITGdoSVBoSFF6YzllelVWODM2TzkwWEhnTDJEUEpFWnUyaFZtT0lxc01WTHFkX0xLU1BNRFE0RWJwMzZzMnZ0VEtpYlhGTndtUlR5TjlOUFBvdU5OUDVtSkctMFV3Zw?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 01:24:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "As rising waters flood homes and temples, villagers protest India's $87 billion river-linking project - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTElpdjF1UmxmZFZUSnB1c2VCVHVyTlJ0cktqZmNHbmJGVXNsRUx0aUtGNDZuUFBzU3c3VEQ3UXN6M1dkX2hSeTBnOXFIS2hIWTRRSWs5bDBWVUVkSEFQb3ZvVkZUVlFjWVhLOUEwNmgtTDVFV1d5V2hPb1VxYnBodzlyRVVhQl9YMC1wUWgtdkxlSzl2X3ItYjJvQlg2bUZraE1SSDgxVlNSR3ZmOXVjMzdvU3VrS1FQY1FuT3NqZmY5X3NlTDEwdFpkYk4?oc=5",
@@ -197,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "EXCLUSIVE: Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ1hmZzQxZmpITVlBeVpjanJJRWhDN0JGWWtSb291VDJIaTR2ZXJuVDRtanlSUDdiQllFM1RqSjBHeXp6N2JaT1FnMXB5Yk45RWhOeFoxT3RGMEdJT3N1UG1SS0E3RWFvRG1Tci0waTNYWVBKeFcwOVJ6T1dVOV84cTZHY3B1ekdOR3ZqZ1NLWFZTN1Zoc3k2dWZLU0dOTnprX0ZBcnZLRmFsdUUxQkhNUkRpN1dpUE0wSTBHRVhIY2NrcEk?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 23:38:02 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "UK finance minister to call for big economies to get borrowing under control at IMF - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONG1DajNQSWZPY2NlRmE3amk1V3dVT1JkRXYwMm5oVTZ1cnU1V3BQY09pNjlaVk1vMDVobDBzTVY0NDZqR0x2ai1QWUtGMGswZlE3NGstVW1GMWtFTWt0M3o5cGlOTG4ydVVseUQ0ZE4yQ3RjSEFKM0pWZ2R5T3hLX1UxcS12VU9sekxheVIyZUNIbGlrdVdLbkhOYldfSlNKZm1FaUlWV1h6NlRDN3llZFBuVmlvZw?oc=5",
           "pubDate": "Sun, 11 Oct 2026 23:26:07 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0xoWVo4eTNVMU5uQXk0Rk9WeWlMaWN0TFlDbWwzX1FqNy1iWW5iUzk0REtlMGNVSnlGWkRCb0tySkQwRFZ0NzVDQzRFVk1IcWNqVFIteWpOVTRVM01xblZ0TzN1dWdlNUdYWTRMUUFBOGhwQ2xTYl9NaTF0bmk5UllSanctMGJDT1g3MnVuX1IxTWpwR193RHoyV1BEd2FqOWlDcg?oc=5",
           "pubDate": "Sun, 11 Oct 2026 23:26:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Panama suffers over 200 aftershocks after Friday's 7.7-magnitude earthquake - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYmFscG9BNDlCQjE3NWR6ejJORWRuTjhOX0hrRF9aaDc4T21aNVliZEdFU1UyV0JqS0hZMmh1YTh0TkdpYlB0VDNscUlUbkF6alYtT0hnY1BwSUhsamlMTGI2UDFPbmRzclF4VHRmNDdFMFRTRFZIWTBIaThxMW1fRjEwazMzd1M4Q05GS2hiaGVUOUQ1a1RHeTYwbmptZ21LUTFuQlVPYlJKQ1ZYc3BkYm1uc21EMnNjSXNVUEhnV3lMS2tGeEw2SVlR?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 22:29:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "FAA tells US airlines to exercise caution in Saudi Arabia flights, citing safety risks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEo2X2hOdlFVcmxza3ZQRmsxQnJlQ3JHbTN3WGZLWGhYRllIS2lOR0hUYkJwQWtJbkJFUTFWUzdiS005ZkgxR2pDY0dqQnQweGZ3Qm1qMHN3aUhCVzZxSzlyTVltbGVudkFvc2xaZFRBSzRZaFJQUlRQZWp4UlVrckxzcW9QUWlMaDN1ZjZ0UklUc1dWTi1yTjB5eFJYX19zeWdJX3lfTmZFTUh5OGZwb0Z3NnVIY1cxOE0tR1RvSE1pLUhkXzdEYV9GZUQtdw?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 22:12:34 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T02:25:14.666Z"
+      "updatedAt": "2026-10-12T02:50:13.516Z"
     }
   ]
 }
