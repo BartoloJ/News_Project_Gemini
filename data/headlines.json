@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-12T22:25:13.005Z",
-  "lastChecked": "2026-10-12T22:25:13.005Z",
-  "lastUpdated": "2026-10-12T22:25:13.005Z",
-  "generatedAt": "2026-10-12T22:25:13.005Z",
+  "fetchedAt": "2026-10-12T22:50:13.116Z",
+  "lastChecked": "2026-10-12T22:50:13.116Z",
+  "lastUpdated": "2026-10-12T22:50:13.116Z",
+  "generatedAt": "2026-10-12T22:50:13.116Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T22:25:11.666Z"
+      "updatedAt": "2026-10-12T22:50:11.936Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
+          "link": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
+          "pubDate": "Mon, 12 Oct 2026 18:17:43 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
           "link": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
@@ -103,24 +109,36 @@
           "link": "https://www.npr.org/2026/10/12/nx-s1-5995584/newsbrief-trump-russia-ukraine-trump-priorities-saudi-airport-strikes",
           "pubDate": "Mon, 12 Oct 2026 04:38:03 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Texas' 15th Congressional District provides clues to state's Latino vote",
-          "link": "https://www.npr.org/2026/10/12/nx-s1-5986126/texas-15th-congressional-district-provides-clues-to-states-latino-vote",
-          "pubDate": "Mon, 12 Oct 2026 04:37:01 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T22:25:11.961Z"
+      "updatedAt": "2026-10-12T22:50:12.114Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Trump says he is 'looking at' firing US envoy to Greece after mounting reports of improper conduct - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHB3ZXFxQndiZnVzZzZMUHFNMERvWUZGSDY2WVpDa3ZfU1BYcndHUE1HY0xzYmRCbmNqZFFxdy1fTWFXdmZBc3l3Y3BhdC02WGJUUmhhLVB3ZFU3T2NRMG5NazUtMmxObnowQ0VzazJDbHJ1dV9XTWV1TTg1cHpGV1lJNFBhNUo4?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 22:20:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Federal judge orders Trump administration to halt work for a day on historic DC golf course - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcGY2MGJMTDhfTF81MTNpRHJnbnRBaXJHd2JpcHZEOWgzdXgweUVfVEVaSmFKelNaZ3RXQkU3WElNRmVySzNrbVpYUFlJa3l0ajFpZEtsQ2prU1d5UEJjeWdIOVZfLWJJT1FKYmw0Sk1GQmZlQVJBOW1yTk96R1RLeGRyOUs1TTFraHd0SFEySQ?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 22:14:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced' - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjdzXzdVOVh5OVVkeXRrSlNpQXBuMTBWQzhqRDUtbG9uY1ZET0trR0xXNmlIQUhBY1hRS1BsVm8yRENMUE1MZTRxaEtsUmFoaEFUSXFuTXpqeVpqMHd5a1ZYOEtnT3ZvV1NhNmZYMUg0WnlGenFVal82aFp3c2psT25Fc0dRSUNWbkNobw?oc=5",
           "pubDate": "Mon, 12 Oct 2026 22:06:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Selma Blair arrested in New York after an alleged assault on a Delta flight - AP News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUc5WE03aG9UWEFvWUo3NHN6YlktMDBySDVUR2JGbkN1ZDA5Z2h2RTdlaUJpbF9qV2JxMHJPRlU1TGo5QzZTeFFjeFRzOWxGZ2FiR3ZEMGYxalJFZzNaMDBZbUcxNDRCOFRBUmY0ektWZlNZUDRJMnEzZUFKZ2hjVFZzMA?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 21:59:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,32 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ0hHTVVNQzFDSlZnY0l0Tl81dmE1TVcxWmlxdkczSUZEZWRJY2tpc1N5VEhfVUxPWlBmY1RBbnRtREZyWVk4YUFFSmZlekJNczFzYzliMXRmMmg2cXlocWNtRENFRW53em1fN1kzalRyNGdHeEhEWF96Y3NEajE5c242VUdOdkh1WlFuQlp6dHhxenNaMzAzc2FRd1Q2bk0?oc=5",
           "pubDate": "Mon, 12 Oct 2026 21:10:06 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A giant pumpkin named Rocky gives a champion grower his California comeback - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2dubExqWXJqaks3MVFieTMwZEpHSTNUcC1mdzNYYjVXY25DbTQyWS1zZmhmQjgwUklGZFpYMGZCSGNZeF81SmRUWFFnbUhqc2MxNHdBa00tdkhKUWNqaFcxVGFWMHZuaVJlUm5oVWFrMkppTVpuN2c5OVluWkJKclZFQjc1TVFtMmFXLVptRlFnUGZud3ZnWHpZWDZJZUxJ?oc=5",
-          "pubDate": "Mon, 12 Oct 2026 21:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Border crisis in Spain’s Ceuta has exposed its Christian-Muslim fault lines - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUTVnWURRQkZMdGhlWmNVSFh2eC03N0w1b2k5ODJkeVE1MTVRS1RHV0owb29mVXVlcjdsRHl3OFhPMFk2a0RBbk5EbUQ5NHlDMEQyS0g1QUpQSEVwQ1ZhVU9KVFJHUEZVa1p6RUs4S1JWSURWWW9KT3l5Ymlnb1IxOFBoSktJcTAtU1BnOW84aUFvWGpLU3ZtYjRn?oc=5",
-          "pubDate": "Mon, 12 Oct 2026 20:53:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US stocks hover near their latest record in mixed trading on Wall Street - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWs0OFJBbUxDSUJpUEhoaTEwSmlNRVdmWFgwX19pUnc2YWlrdnNTUUJ1VjZsUnNJQ3Vfc0lxMVhMNkdWVjVsdzJVbFlQaHhoRlNsOWtIUHBGVUVyMUxQcmEwLWp3dEZwZkt4aGEySmNmZS1XRVhhWHB1S0dZZlRkWlVDeEVtUm95cVZpanpxNGhsUWcyZU9NRQ?oc=5",
-          "pubDate": "Mon, 12 Oct 2026 20:47:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T22:25:12.543Z"
+      "updatedAt": "2026-10-12T22:50:12.610Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Russia says its diesel exports may exceed volumes announced by Trump - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLXBaMl96X25takpKUC15RzZpMEhXT3FwMkM0a0xiZUxuV1FINXU4eXF4emoxdWl5TGZjYkNoeGhOeWdESE8yZXUyRXU2NlpoZ3hENzRoTlRaVTBUMWFTOWpQRlVYel9PbEZhdTVla2U2MS1QU3RDcXR0aEZ2cjFXMXV3ek45YWEwakhFVVBPQ1hRYjRZZk9SVXcxaFAwQ2hxOHBxTmdqTHZNWGVITUgzUWUwd0t1V3phQVBzaHR3?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 22:36:17 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Kyiv says Russia hits energy targets despite Trump ceasefire announcement - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWxLV1J6R2V3UDNKc2FwUU9oQ2dvUGVXd2FQTTNQdFM2QVVBLU54eWN0SFktR25BT0l3U3NIRldielJHYjBLY1lfMTk1OGZGVUZtOG4yMXhINzZSVDhwdXZScWtCUDdVYWxjSkF6RThTcHhyMWN3Z1hrWjNMSFJFMm04eVRKZ2luSkJjWUpKM2RYSXdXa2ZKbk94MjRjaXFDRDRtLXd3c3pMbk1Ld21LOE13WEZMUXp5YWdEcnNYMzc?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZF81cWRKYk1neGgwZFc2T1FuZ2d5MkZGZEdtMTExMURrbmxkT0JKSTZiczloWE1rV2Z0UlJJa2dhQmtheHdaU1U4eUdEYlJYcy11aVo1TzJ6WmpnUWM5TDRtQWp4cGNkdWt5RHFGNS1KOUJsaXFFQlFncVZiRkJnWnhoeTRKdHRzQkhkcGw5WmdlR29vMWt1cDJjYnFUVUdIOTM4UFJpdHN4R3h4alV4VDZPcHc5bXc0?oc=5",
           "pubDate": "Mon, 12 Oct 2026 20:51:19 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Musk has spent $276 million on midterms to help Republicans retain control of Congress - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWhUR01GVWhzbTNaQnQwQzFIczJfNFdORnVIOTl1bkV1YmtRdC1TcjJrM3ZOeU1peENNenU1SXg3c1ZERDY0T2htbXpVQW5nY2dSQzFMRDR2SzFUNl9iUTVMaG9RakYxeGVXZ1V0UTJxeE1hakJWM256M2pfWTRQNEpOam5uTE9CcEZoa2hnZENJUTdCUWhsNlVKbF84ZVI3TzZVeE1FVVpiMldxdjJYZnlFaEJHX0J1Y2FpeW1BZjYyaVVs?oc=5",
-          "pubDate": "Mon, 12 Oct 2026 20:44:29 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-12T22:25:13.005Z"
+      "updatedAt": "2026-10-12T22:50:13.115Z"
     }
   ]
 }
