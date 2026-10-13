@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-13T08:25:14.144Z",
-  "lastChecked": "2026-10-13T08:25:14.144Z",
-  "lastUpdated": "2026-10-13T08:25:14.144Z",
-  "generatedAt": "2026-10-13T08:25:14.144Z",
+  "fetchedAt": "2026-10-13T08:50:13.410Z",
+  "lastChecked": "2026-10-13T08:50:13.410Z",
+  "lastUpdated": "2026-10-13T08:50:13.410Z",
+  "generatedAt": "2026-10-13T08:50:13.410Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T08:25:12.954Z"
+      "updatedAt": "2026-10-13T08:50:12.342Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T08:25:13.227Z"
+      "updatedAt": "2026-10-13T08:50:12.395Z"
     },
     {
       "name": "AP News",
@@ -130,6 +130,12 @@
           "source": "AP News"
         },
         {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 06:17:09 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTJPTHc4YkdLRVc4S2RXZG1kVEFYRTNDR1pzdHk1anYybkY3ZFd1c0xaWS1kZ256M2hGM1dMMU84alVTbUQwVTBwUktsUWVzaXIzUnl0cnBWV3Y0aHFGQnhZZzllSjFfdjI0TjdyVGJxNXdwOFp5Y0liU3VoVE5pYXNTVjVTQTg1cUtvcE8tNzZvbzhjSUE?oc=5",
           "pubDate": "Tue, 13 Oct 2026 06:12:00 GMT",
@@ -139,12 +145,6 @@
           "title": "Six Flags closes 9 rides after 1 person dies in an incident involving a roller coaster in Georgia - AP News",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXhBNGpZX2xJNWNMNFpOZm9SeHM0ZDBWWWlwNGZIT3VkZ3c0TDF3cnhMT0tZNC1UbURkNUZVZTdWMVBkbm9HNjlEdXNlN1I3bjVrd3ZjWktRNGZhQWVldnJMY1lkTHlIdjZ5OGp5Qk5NX3JuWl9EN2lLekVvOUVZMUtqX2NDcTduRWs1N0pJMzF0Y1pM?oc=5",
           "pubDate": "Tue, 13 Oct 2026 05:55:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 05:23:32 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T08:25:13.704Z"
+      "updatedAt": "2026-10-13T08:50:12.848Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Prosecutors drop three impeachment charges against Philippine VP Duterte - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRFNOVFM5aFNEd0FOTldkbmVFOW9rZTlrM1pCYmdGQUpCUUIyci1lTncyUGdWOUkxNERRck9sYnhIeGptRkQ4MFRuUEtTR25ORHlGUWlEbm84OHZfYUUtT1FNQnk3WkEtbmJuVWowR1hzOUJvREN6aTYxa3FyTHZEc2ZFeUtJNWl2N0wzWE1ZVG5fWEVpcVJnVEw0Q0lJYURfaVZweWY1a2VQSG1vb3BBd18ycFN3dGRDSWhDaVRwR09jQzUzUlE?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 08:28:03 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Indian police detain 'cockroach' movement leaders demanding election chief's resignation - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnFsODVGYU4zR2lkQUw5R3FLUkIwY1ItcDRoUkc5NkJ3bUQ5TDRiamkyTmRDOUQ2WXRQeHlmcDZ2bUJHUVVpYjZNYjJIdmx6eDFIWWhVaUpLdV9mT29Vc2pmN3hudDVEaFRydTJEMG0tTkdSa09GdWFKQ2Fwa2V4czB4MmZLeElsWW1CNHNvMTBLXzJGNmNJaXB3R1dxOW1VZk04T0RnMWdZTm5pUEU0Rno1UV9IakVucVMyZy1B?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWx3dWppLTZjUEZibE5naEZacTRMcy1jRms4SHBpaW83TnpLUjFOOXoxeHlvYzBPdDJVREE4SzZOOTg3RHdmT3VocHRQOEVpcS10M3hCSFVMSXVoSmxVWTA4RDhhYmxWQzZZdTZ5MlNMcm1VZDdxaURONjA3c1VtVnhKZm42UmpxbUdERTh4eVpLelhxUFlGMzA0MGhFVG9Fc2k3S1BGU1NnUlp5YXpRdWpvM3JQREk?oc=5",
           "pubDate": "Tue, 13 Oct 2026 05:01:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "NASA's Perseverance rover breaks record for off-planet driving on Mars - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmQ1WnUyTnlVR1FUOF85YkNVTFJxVnRCUXAxX2ZOTUgtbUlwMFJCZF8wanVYTUQyMnNTem10TEMyMXpueEFqNDhTU3NSeVJFMHNoc0E1TnhjRE9EZ0N3Y1BVNU8teUJTQUlUZmJ2LWZWVG1OQW1CeDlYd0FUZEVXOUVvaDI0b0d2ang1bzFTNUNnVllrVUJVSGxHaUJIZnJlRXFHNTlGY044UQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 04:35:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T08:25:14.144Z"
+      "updatedAt": "2026-10-13T08:50:13.410Z"
     }
   ]
 }
