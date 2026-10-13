@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-13T04:50:15.502Z",
-  "lastChecked": "2026-10-13T04:50:15.502Z",
-  "lastUpdated": "2026-10-13T04:50:15.502Z",
-  "generatedAt": "2026-10-13T04:50:15.502Z",
+  "fetchedAt": "2026-10-13T05:00:18.269Z",
+  "lastChecked": "2026-10-13T05:00:18.269Z",
+  "lastUpdated": "2026-10-13T05:00:18.269Z",
+  "generatedAt": "2026-10-13T05:00:18.269Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T04:50:14.418Z"
+      "updatedAt": "2026-10-13T05:00:17.604Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T04:50:14.538Z"
+      "updatedAt": "2026-10-13T05:00:17.816Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 03:37:33 GMT",
+          "source": "AP News"
+        },
         {
           "title": "RJ Mitte, ‘Breaking Bad’ actor and disability rights champion, dies at 34 - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ194aXBLUGNqUVRSU093dmgwM2ZuY3lxS3BtSVgxUU1QTTJYMUhJRjJyYnZWekFDd1BhWURnSjJoRGMxSDl6cWduTkZHZTFSVzZsM2NfZ1EwcUxYMHFNOFlPeXp4UDVFOGZGZ2o0YUQ1QXpjWk5QOWstMTNCaTZJU3hzSnBkbmM5aXV6M1J0RmU?oc=5",
@@ -154,12 +160,6 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 01:43:58 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced' - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjdzXzdVOVh5OVVkeXRrSlNpQXBuMTBWQzhqRDUtbG9uY1ZET0trR0xXNmlIQUhBY1hRS1BsVm8yRENMUE1MZTRxaEtsUmFoaEFUSXFuTXpqeVpqMHd5a1ZYOEtnT3ZvV1NhNmZYMUg0WnlGenFVal82aFp3c2psT25Fc0dRSUNWbkNobw?oc=5",
           "pubDate": "Tue, 13 Oct 2026 01:30:00 GMT",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T04:50:15.080Z"
+      "updatedAt": "2026-10-13T05:00:18.249Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T04:50:15.502Z"
+      "updatedAt": "2026-10-13T05:00:18.269Z"
     }
   ]
 }
