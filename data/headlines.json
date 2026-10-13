@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-13T06:00:21.015Z",
-  "lastChecked": "2026-10-13T06:00:21.015Z",
-  "lastUpdated": "2026-10-13T06:00:21.015Z",
-  "generatedAt": "2026-10-13T06:00:21.015Z",
+  "fetchedAt": "2026-10-13T06:25:12.109Z",
+  "lastChecked": "2026-10-13T06:25:12.109Z",
+  "lastUpdated": "2026-10-13T06:25:12.109Z",
+  "generatedAt": "2026-10-13T06:25:12.109Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T06:00:20.009Z"
+      "updatedAt": "2026-10-13T06:25:11.002Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T06:00:20.059Z"
+      "updatedAt": "2026-10-13T06:25:11.167Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Six Flags closes 9 rides after 1 person dies in an incident involving a roller coaster in Georgia - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXhBNGpZX2xJNWNMNFpOZm9SeHM0ZDBWWWlwNGZIT3VkZ3c0TDF3cnhMT0tZNC1UbURkNUZVZTdWMVBkbm9HNjlEdXNlN1I3bjVrd3ZjWktRNGZhQWVldnJMY1lkTHlIdjZ5OGp5Qk5NX3JuWl9EN2lLekVvOUVZMUtqX2NDcTduRWs1N0pJMzF0Y1pM?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 05:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Storms cause 5 deaths in Mexico as flood risk eases in southwestern US - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3d0Y2c1elRlVnk2WlA2Y2RxWDlMb0pSSVNoeXFUdmNnWUhLd1lUWHpiZFpZUXIyRTQtNGtwaW9Vdk85dkxIMDE4d0o3aGJwVGxHY0V3ODZrUmJTcU5PTG5KNWtaYkhZaUxXWE4xM28zVndyZVJhdTBGaWphR2ZjLWYwLVNPZWRaTlV3WXQ5UEVCVVRaUFBCMGVCOFNzbnc?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 04:45:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 03:37:33 GMT",
+          "pubDate": "Tue, 13 Oct 2026 04:37:34 GMT",
           "source": "AP News"
         },
         {
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTVjM2U4T3VaQzM1QzdIQk9oZktVY3o3ZTk0SWQ2TzFXNkdVMk01eE5TRU9ZOGxfdkZQV1FIRmFOOGFNMXB5dGNwMjRiVmtKYm5QZEtIeWRIYzRXWnV2OUtmRUY0ZVFkTGQ2aTV1MHZsQ0hLR1RjRk9LX0NSQ3dnME5DR1Q2VExGRWZ5RlI3QXlwN1Nxc0JHSnVocXJtTFh6aDJERDJ5MFNHZw?oc=5",
           "pubDate": "Tue, 13 Oct 2026 01:56:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Colombia's new government: 2016 deal with rebel group has not brought peace — but 132,000 killings - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUUxMkZHdm9FWE13d0JnS2R2VUowOTUxbkJ2U1R0YlBSNUFkNnRLUWZIMy1vUjJiVjV4R1ladHFLbWFMMEFrT0lqc2VZa0lkNVNCbWlxMGoybmE0cEtWZmkzREdaSUxNTVBJRFVUNm5nblp6UWVYQkwwS3VDVEk3WGloS3NnWGtkZTRFTHp3cERzd1hVMlVubG5ZQXdBaVdDS3VQM3RGT3JDb0NpanY2SHlR?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 01:50:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Congo’s former President Kabila launches an anti-government front including M23 rebels - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc19GYU1FOTRFdS15QkpsUmlibEZXQkhrSkZUbDdjWXpxdWdmdENsa1gtY2ZOMW1ISTA0T2VKc0RmMnNFX0djZzNJZ3FBWGxKa1BRNjNyRDFqOERFZV9UQmtueks2WXc0NDhzN0FQVXZEUDV1YnV3X0Q3M1RqNFd2SlJYYkhDSTI5SG1zajZtNHpOdHVQSWYxRFJuNTZOaFhf?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 01:45:46 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T06:00:20.514Z"
+      "updatedAt": "2026-10-13T06:25:11.639Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "AI models may soon self-replicate without access to data centers, Anthropic warns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 05:14:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3V4aHFMSTR2WVhYZVU4NEN4WXZVYmo3WW1YWmZ1MTd1MGFjc3VyMTgwTjdiZGxPdXcyRllRakc5aWNaNVZkQzZIcVZCbjlLTG1hZUdIYk9SdHJiQkd1ejcxSkRubTZRZ25BbXRsa0xBendNSEdrZDgtTXI5end1anA4T0x4QzA3VUpWbXZCYmhUTG1pMWdpSVA1NWJkQ2lOckk2b3RnbDA1N0VJcEJwZVFrdXUzTUJ5REZvYld0d0JGdw?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2lCcTJZLWVsU3NJWjJRV2xZd0RXM1NtbWNnQUtfb1RsSjlNVmFEWnVxYVJ5Y0pXS0lWV284NlVCWkp2Qy1jbm5na2ZFeE5BYmNlWFVaVGttNElacjE1SGlaeVBOc1J5Z042bUlOS3JPbWpHcloxVDF5X3B2NG5hSEdCcHp0SGswU3d5VWNNWE02bE1KS0VyTVROTlJxUTRFUzNQM3hrbERWWWh5X21pSFg2ajBBOG02cXdzS1UyV09MY0k?oc=5",
           "pubDate": "Tue, 13 Oct 2026 02:33:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Indian shares rise, led by IT gains after strong HCLTech earnings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRUVTdlJpcHF3dEZTQlg5WWlESlo0dXpTRWJQR1lwWHl2aHR2QVlEUzI4Vkx3OTZVNFdvdnhNMm5BSC04bnNJdzZyLU9BVTVhbFFsUHhzNXlWc0VlLW5KU2k0NWFHZUlicF9zQTVMYjJTTGZoNDRMREJBQk5YU3k0OFdCX2pROWxtYWhlM0ZrREQxVTQweWJMaFdoVW1XX1FrOXpGQnBjZy01eVktY3VQSktkb1YxVEJIbmMw?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 02:29:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T06:00:21.015Z"
+      "updatedAt": "2026-10-13T06:25:12.109Z"
     }
   ]
 }
