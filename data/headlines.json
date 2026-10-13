@@ -1,22 +1,28 @@
 {
-  "fetchedAt": "2026-10-13T20:00:23.168Z",
-  "lastChecked": "2026-10-13T20:00:23.168Z",
-  "lastUpdated": "2026-10-13T20:00:23.168Z",
-  "generatedAt": "2026-10-13T20:00:23.168Z",
+  "fetchedAt": "2026-10-13T20:25:13.748Z",
+  "lastChecked": "2026-10-13T20:25:13.748Z",
+  "lastUpdated": "2026-10-13T20:25:13.748Z",
+  "generatedAt": "2026-10-13T20:25:13.748Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-          "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 19:51:14 GMT",
+          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 13 Oct 2026 20:22:23 GMT",
           "source": "BBC News"
         },
         {
           "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
           "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 19:48:36 GMT",
+          "pubDate": "Tue, 13 Oct 2026 20:02:15 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+          "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 13 Oct 2026 19:51:14 GMT",
           "source": "BBC News"
         },
         {
@@ -29,12 +35,6 @@
           "title": "Cornell bans all fraternity parties over gang sex assault allegations",
           "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 13 Oct 2026 18:25:28 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Pope's surgery to remove lump on lung 'concluded successfully', Vatican says",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 18:24:03 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T20:00:22.067Z"
+      "updatedAt": "2026-10-13T20:25:12.529Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T20:00:22.105Z"
+      "updatedAt": "2026-10-13T20:25:12.846Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "In first visit to Ceuta, Spain’s king asks for ‘good faith’ from Morocco after migration crisis - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObmozWmNldTJoa3Z6M3BpUW9QQU1BcUR1c3pVdWtfdVpXckJkUW9VMGtOYjRJdENTUnZuam80MU1MY1JEVkdubkZlRXBGQkJTMXFiMkgxeEtUbFdBY1dNNE9GNVk3SGpSRTBqOXZfdWhES2l2aGJ6aFNCT25jRThLSlExbXFadzVGQkVYTW9XRUNxOGIy?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 19:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Vatican says pope’s lung nodule surgery was successfully completed - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVV2ZHJselJuYmhnZ21lbG9LOXo1N0JhRFdKT0U1aVA2blJjRXlzcFFCanQwd2V4Um9FT3A0SGpReXY3ckp0T21RZHVFVDBUWTRXTW9fZXluQ3FDYm55WC1kVDBhalNUa3NBZUNzZXFwZDBkcnJwNnQ2ZU9RbnRJamhqYk5GbWM?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 19:24:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 19:05:51 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Duane ‘Keffe D’ Davis gets 40 years to life in prison for orchestrating the murder of Tupac Shakur - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVklEcW96WUVrS201dmkzNjV5NDFFWlpoOFl5bU9zSEg5SFd6Ylp4M2RXSFAwTC0xdHRnbGE0TnE4OThsSkhIaVBBYnB0RnYwblNQV2FyNzFCdWFUXzFGWS1JaVVaUXNKQVRPZnNjV0NjaDBORkVLVHdzQ1BGNnQ5OHhnNU1vNF9BcXRwS05qcVNNSGMxSmVRQW9ucw?oc=5",
@@ -130,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "Florida executes a prisoner who killed his cellmate in hopes of getting a death sentence - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU09YR2dHWFY0S0VDVEp3WWRSbTZSZlh1azlhMDhiRmVxcWN0RkFIcTJXenBaelhvSG1xaFVMS0tROWVFUVY1cVlMZXlsdUNTSzd1ZEN6X0dVSXBvU3hvT0pkN01kbkFaa3RndFEwNWtWTjVSYVozZW5LWExPWW5sY2VCYlZFanFrQW1acElrYW9wa0JNbEQ5Tw?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 18:31:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPak5ZbXdiNVNTR2dUSG5BaXVDZlgyWEdLYVNWU2FiTTl6QmRQTk1BcmJ4VXFNWHVtYUFBOVdlRnpaUlNnV1ZFRkJtVDRXQ3JzeEUxMVkyUVhKRF9qQ2hQdFBJcEVTVWhCempCTGZ6cmpTME5RTHU0SWdGd0s1QnQ1R2hlUEFRc3RudnlLd0ZKd2w0VDZVU0I2Ng?oc=5",
           "pubDate": "Tue, 13 Oct 2026 18:27:00 GMT",
@@ -140,34 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTJPTHc4YkdLRVc4S2RXZG1kVEFYRTNDR1pzdHk1anYybkY3ZFd1c0xaWS1kZ256M2hGM1dMMU84alVTbUQwVTBwUktsUWVzaXIzUnl0cnBWV3Y0aHFGQnhZZzllSjFfdjI0TjdyVGJxNXdwOFp5Y0liU3VoVE5pYXNTVjVTQTg1cUtvcE8tNzZvbzhjSUE?oc=5",
           "pubDate": "Tue, 13 Oct 2026 18:23:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "The first big batch of US profit reports for the summer has Wall Street mixed - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbE40VWg4MjVEMGZaTVRRbXhyNlg4czk4V0luS095VjQ2S01EU1B2bEpIdTJvZGVrUGlLUU42bVZhNW4xdk01Wmh3ZUhLRWFIamRka2pfWnlkUTRQdzVZV3FGa0VSb1Vwcmg0UFNlYmgwS0lPNnNiRF9NNDVhNmRzS3IwaUhEOGNvclVwb3B1cVd0R1V5LUdLX1Fn?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 18:13:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Man killed on a Six Flags roller coaster was thrown from the ride and hit other patrons, police say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkNtdXlMaTZnbUtyRWxELS1kWDYwRVdpbUozWnRCUWJab2NXRDF2YmxocTY5Wm9BaHp3UDdxVkFoWE9XNEUzWlNXdVJQaTFPbWpJUjlrWEl3a3JtNFBSNGp0SkFfRjJZU2F4cmZBUnRpd2VCeUxGc0FFak5jRjZ2MUd0V3NBdG9xUWtCaHZwbmx5U1ZYeHpma3lLcHQtLTA?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 18:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump's tariffs - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdnNFZTdGejNfd01TajhFLWhwUHlRU2t1Y25QUzlXeWtuLXNGT2l2OTU4dTNDSm15UzFiUjZRelFfVGVnS1VHOU5rZ1o2Y3I0d181OExFWnJoeG50Z1dreENBMEhzMi1UNFFqTzViNktVcWhneEZRdnZ4Z0VqRHVUQUFkLUo1Z3g4NXVrdkdfQkFKV2p4UUlkNVk3TVhCX1daYl84LXFlYTNRUW9HblliN1Jtd1ctS3JkS2RZ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 17:50:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Spain's royals visit Muslim cemetery in Ceuta to honor migrants who died in mass border surge - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObmozWmNldTJoa3Z6M3BpUW9QQU1BcUR1c3pVdWtfdVpXckJkUW9VMGtOYjRJdENTUnZuam80MU1MY1JEVkdubkZlRXBGQkJTMXFiMkgxeEtUbFdBY1dNNE9GNVk3SGpSRTBqOXZfdWhES2l2aGJ6aFNCT25jRThLSlExbXFadzVGQkVYTW9XRUNxOGIy?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 17:42:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T20:00:22.712Z"
+      "updatedAt": "2026-10-13T20:25:13.306Z"
     },
     {
       "name": "Reuters",
@@ -191,9 +191,21 @@
           "source": "Reuters"
         },
         {
+          "title": "DOJ arrests two, seizes 187 devices in North Korean laptop farm crackdown in Texas - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0pfLVk1Vmg4NEU1WEl2c3VGc3ROUXE4RWJiYzVncjRGLThLeGRucGoybDZxMXczVTJBMWUtX3haNjJqOEs5SS0yV19QVFZqNU14VWdKbGcydHNfVXN0bWpScnN1ZzVJZ05fRTM3WW5mUHRIQmZCbEhRT1FtSXpsTWlMdE5nMHN3bXItRFJTeHFXNHNUMFVIWW9wbXdlaEF2akt4bE9vcmx4ZkdqOEdIQ2VlcGlTazFIcXV2cDVWR0ZYQk80SFow?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 19:04:44 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Nvidia buys stakes in French tech startups Doctolib, Genesis AI - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI?oc=5",
           "pubDate": "Tue, 13 Oct 2026 18:56:57 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump fires ambassador to Greece Guilfoyle after reports of misconduct - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHIwM3RrTXplaUsyc3ZvbUhRaEVvbGNlbzFaeDdiY0tCRkpvRTQ1SlNiRU1fTXFFanljSU91NWZYVldNc19pOHNUMmR6dXZFSmRlLTBkdTctbUxZaVgyR21BT0syQVhsUjhpVTNDaUZWaUxxNHlRdkZCMHdNM2w3SUlFQ2VYVUVSdm5mZDU3QW9xSy1OMU9kTVJlSm9kS2d2R0k5blY4Ym9wTkZacTZEN1VB?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 18:54:39 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHZtMnk3dUVFWmVkT2FmZVRqNWNrUUc5YkNkWVJMOEhWMmo1dnc2S3FlUlExbjFscTdlY3NQcExPejdxUlF1clZ5S1BKQ1JLdjhzaFdXT2l1YVBmN2VVSkFOSlJNNmlTR2w5d082MDR2b3RkY1VrTTlwWFhuclBteVRaTmtMRUczY0VPaWxBeVV1RE9vUE9kRFZaUlZEX0NnOXZqVnNtNlJIcFU3cnE2VVFTNzhfNVZ0TzZiQWFtSUJCdXJXYU5rU0JB?oc=5",
           "pubDate": "Tue, 13 Oct 2026 18:50:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "'Gift to our adversary': More Republicans balk at Trump's Russia diesel deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUViSHdiMmpBMGUwOVNDWXE1bHJqRzRmMUFMT3hUeWlESnVJWHNZeVk0eTIySW1IM3VvTnhqSEFjTHdVOUhGbUptNWJSSk9GcnpSYU0wVjk2QzVuLWxBY25nQnc0cm9DbmJ3c0E2dTJIeC01RXV1QkpXZmlJb3dyWTFlODdPRFNhVEkyZUZOemJMUTZJZjVwRkRRRGpDNGVERTA4LVNXeWFkdlRBRkQ3ZXdweXMzazh4WUNB?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 18:48:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "S&P 500 flat as chipmakers fall and bank earnings roll in - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkNncVkwQU9JeFhSRFFWQ1FhcW5SUk5hY1hQMkpocmdCRlZ5b04zOGJnZ184T1lONDh1cUQwZFY3RVJxUmJzZDhpUWZ0RlhsUGluV3hoVG1TV2JWNEZtUS12R1Z0VURRQmt3SjkyUU44UkZTcmF1RnFaTm9POE9LYW5TWjY3el9jNzQwV1lOVkhaOGFDTE9Wc1NrM0RYTzJ5UFM4eF92UWV3LW03SHJ1U1I5cHF4eDNFS1liNw?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 18:28:46 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T20:00:23.168Z"
+      "updatedAt": "2026-10-13T20:25:13.748Z"
     }
   ]
 }
