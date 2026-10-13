@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-13T10:50:14.660Z",
-  "lastChecked": "2026-10-13T10:50:14.660Z",
-  "lastUpdated": "2026-10-13T10:50:14.660Z",
-  "generatedAt": "2026-10-13T10:50:14.660Z",
+  "fetchedAt": "2026-10-13T11:00:24.581Z",
+  "lastChecked": "2026-10-13T11:00:24.581Z",
+  "lastUpdated": "2026-10-13T11:00:24.581Z",
+  "generatedAt": "2026-10-13T11:00:24.581Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack",
+          "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 13 Oct 2026 10:57:17 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Immigration agents search congresswoman Ilhan Omar's home",
           "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "US emergency call records reveal confusion after failed execution of Christa Pike",
           "link": "https://www.bbc.co.uk/news/articles/ck1exg6qjdz3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 13 Oct 2026 09:11:08 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
-          "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 08:52:48 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T10:50:13.587Z"
+      "updatedAt": "2026-10-13T11:00:23.054Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T10:50:13.720Z"
+      "updatedAt": "2026-10-13T11:00:23.608Z"
     },
     {
       "name": "AP News",
@@ -130,21 +130,27 @@
           "source": "AP News"
         },
         {
+          "title": "Selma Blair accused of attacking 2 flight attendants and assaulting a police officer and nurse - AP News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUc5WE03aG9UWEFvWUo3NHN6YlktMDBySDVUR2JGbkN1ZDA5Z2h2RTdlaUJpbF9qV2JxMHJPRlU1TGo5QzZTeFFjeFRzOWxGZ2FiR3ZEMGYxalJFZzNaMDBZbUcxNDRCOFRBUmY0ektWZlNZUDRJMnEzZUFKZ2hjVFZzMA?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 09:28:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTJPTHc4YkdLRVc4S2RXZG1kVEFYRTNDR1pzdHk1anYybkY3ZFd1c0xaWS1kZ256M2hGM1dMMU84alVTbUQwVTBwUktsUWVzaXIzUnl0cnBWV3Y0aHFGQnhZZzllSjFfdjI0TjdyVGJxNXdwOFp5Y0liU3VoVE5pYXNTVjVTQTg1cUtvcE8tNzZvbzhjSUE?oc=5",
           "pubDate": "Tue, 13 Oct 2026 09:14:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 08:39:03 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "South Korea's Kospi index sinks more than 5% on semiconductor share sell-off over AI boom worries - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbE40VWg4MjVEMGZaTVRRbXhyNlg4czk4V0luS095VjQ2S01EU1B2bEpIdTJvZGVrUGlLUU42bVZhNW4xdk01Wmh3ZUhLRWFIamRka2pfWnlkUTRQdzVZV3FGa0VSb1Vwcmg0UFNlYmgwS0lPNnNiRF9NNDVhNmRzS3IwaUhEOGNvclVwb3B1cVd0R1V5LUdLX1Fn?oc=5",
           "pubDate": "Tue, 13 Oct 2026 07:48:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 07:36:01 GMT",
           "source": "AP News"
         },
         {
@@ -158,26 +164,14 @@
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWkxZaFpFR2IxZjh1WnRGeWhPU2RtdTFqUk5RVkFDZWUxRTVkOXh3SnhHNVFzbVBsLUxHSERkMVZ3WTRpcWJ2WEk2UlBvLTBKVW43UWgtYmgzZTYxcHZ4bEhwZjczMFNZRTdXUzdhcHRra3BRLXpjZ0EyTkZMZ2I4NmJJX0FnX0NQUEZfUEt3?oc=5",
           "pubDate": "Tue, 13 Oct 2026 06:36:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Pope Leo XIV is set to enter a Rome hospital for removal of a lung nodule - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVV2ZHJselJuYmhnZ21lbG9LOXo1N0JhRFdKT0U1aVA2blJjRXlzcFFCanQwd2V4Um9FT3A0SGpReXY3ckp0T21RZHVFVDBUWTRXTW9fZXluQ3FDYm55WC1kVDBhalNUa3NBZUNzZXFwZDBkcnJwNnQ2ZU9RbnRJamhqYk5GbWM?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 06:27:45 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T10:50:14.249Z"
+      "updatedAt": "2026-10-13T11:00:24.106Z"
     },
     {
       "name": "Reuters",
       "items": [
-        {
-          "title": "BMW deliveries fall 6.3% in third quarter as China sales slump - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUTRjUlM4bHpBMGFnQ2tUaGdlV0ZnbWQ4NXlHenZvems1RWhBS3ZJbWZMV1VIbVlQUUJkT2Q0S2RDbkphZm9sbnEtMFU5aXJobkhlMXd3Tm9xZklKTUJtRVN4ajJacjlQcFlPbHN1dTM3cU1FME9RTnVPa3FjbGMza0VLUkJqdWtJc1NBMnhfM0FCc3VVNWVLU2xlMEhOYUcwaVo3VEw4S3BYZWstRzNQOC1heFNwenFUbGczSQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 09:07:18 GMT",
-          "source": "Reuters"
-        },
         {
           "title": "LVMH's China letdown points to prolonged luxury industry pain - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkRPWV9SVEt2Q2R3aS1nbnVMV1U1aFlEcEtScHZqRWEyMkMxVThrbEhmWVFJRXNHOV9aZEtLNlAxYUxwSDhVRl9sU0tua3ZmWjZrdWFuR0hWam5FRFpHM3JTcVp5TmY2SXpRckV4c3pmZloyVHpIb1pwTTdhZHQ3dWV5WnhqTUlaZjF6LTFIanE3SEtWZHZXMFJLRDg2azZ5UXVWM2k3a3RKRnJDdWJURlZrVU94bnc?oc=5",
@@ -203,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "South Korea's Lee welcomes home Arctic container ship as route faces viability tests - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNG1TNUF5UDJlaURuYkFNUm1BcVBfdmd3ck9QQXhvMXRlUHFXM3hMcUo1OTZrZTNBMXNKdHpKRGJLNXJ0c2g3N1E5b0JiZWw1bmU1dkxTZktQd3VnenJmc1pJdTBNbXduQko0bTFXT3JNaTdLOVA4VTV4MWl1Q2lYV2xyeW9LSHFhSnoxVEpHVURzN21RQlNvdlJCTi1FSmRKU081UEtlby1xSUFsSllRMkdfX2c4UQ?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 08:21:38 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "BlackRock cools on US stocks, turns bullish on short-dated Treasuries - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWHlTeUJyODlNSGNJVjRKdzloTDJOZUZmb1NWN0xsRW05VkJETkJQejVsNTFVUG05N0FKZEJDaWhMb0JYMmc2dWk4QjdmRFpNUGQ1TEVmbGRPS2F2cmxjR1RsdEpoY3ZVYUFzWUtOeVpDMmxzam13X0dkNG1nZnMtWDlqNzQ1dEdxVFdNWm5Rb1F2b1loeU9JMzFzV2pFbGk0RTdRNnYzMUMtMTQ?oc=5",
           "pubDate": "Tue, 13 Oct 2026 07:55:44 GMT",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T10:50:14.660Z"
+      "updatedAt": "2026-10-13T11:00:24.581Z"
     }
   ]
 }
