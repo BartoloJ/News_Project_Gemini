@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-13T09:25:12.481Z",
-  "lastChecked": "2026-10-13T09:25:12.481Z",
-  "lastUpdated": "2026-10-13T09:25:12.481Z",
-  "generatedAt": "2026-10-13T09:25:12.481Z",
+  "fetchedAt": "2026-10-13T09:50:14.386Z",
+  "lastChecked": "2026-10-13T09:50:14.386Z",
+  "lastUpdated": "2026-10-13T09:50:14.386Z",
+  "generatedAt": "2026-10-13T09:50:14.386Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,17 +57,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T09:25:12.331Z"
+      "updatedAt": "2026-10-13T09:50:13.107Z"
     },
     {
       "name": "NPR",
       "items": [
-        {
-          "title": "One way to protect coral reefs? Bring back seabirds",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5901320/coral-reefs-palmyra-atoll-birds-restoration",
-          "pubDate": "Tue, 13 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
         {
           "title": "Win or lose, independent candidates want to meet voters in the middle",
           "link": "https://www.npr.org/2026/10/13/nx-s1-5994388/2026-elections-midterm-independent-candidates",
@@ -83,6 +77,12 @@
         {
           "title": "Should states force cities to build cheaper houses? Voters here will decide",
           "link": "https://www.npr.org/2026/10/13/nx-s1-5979839/massachusetts-starter-homes-ballot-affordability",
+          "pubDate": "Tue, 13 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "One way to protect coral reefs? Bring back seabirds",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-5901320/coral-reefs-palmyra-atoll-birds-restoration",
           "pubDate": "Tue, 13 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T09:25:12.399Z"
+      "updatedAt": "2026-10-13T09:50:13.415Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Houthi rebels say airstrikes targeted them in Yemen, and other Mideast developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZjZtVDJsR2JiRDFvUWtYR0Jvei1EVklHd2VjRGxUbTZ3MlZmME4yVWhkN1ppU2JMN3NTWFk3X1B4eElWSkhiazYwb0tvMi1NMklRemNiN0F3c21ZX0NybmtxY211bEc5MXNsVkNndjN5MjRjSTUtbUpUVEZlc1hiMkx6Y2h3Z1k2Y0VpcG1vWmEtc1lwN2pnbHhqcGYyVmhGb3FTVA?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 09:16:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTJPTHc4YkdLRVc4S2RXZG1kVEFYRTNDR1pzdHk1anYybkY3ZFd1c0xaWS1kZ256M2hGM1dMMU84alVTbUQwVTBwUktsUWVzaXIzUnl0cnBWV3Y0aHFGQnhZZzllSjFfdjI0TjdyVGJxNXdwOFp5Y0liU3VoVE5pYXNTVjVTQTg1cUtvcE8tNzZvbzhjSUE?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 09:14:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "South Korea's Kospi index sinks more than 5% on semiconductor share sell-off over AI boom worries - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbE40VWg4MjVEMGZaTVRRbXhyNlg4czk4V0luS095VjQ2S01EU1B2bEpIdTJvZGVrUGlLUU42bVZhNW4xdk01Wmh3ZUhLRWFIamRka2pfWnlkUTRQdzVZV3FGa0VSb1Vwcmg0UFNlYmgwS0lPNnNiRF9NNDVhNmRzS3IwaUhEOGNvclVwb3B1cVd0R1V5LUdLX1Fn?oc=5",
@@ -133,18 +145,6 @@
           "title": "Pope Leo XIV is set to enter a Rome hospital for removal of a lung nodule - AP News",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVV2ZHJselJuYmhnZ21lbG9LOXo1N0JhRFdKT0U1aVA2blJjRXlzcFFCanQwd2V4Um9FT3A0SGpReXY3ckp0T21RZHVFVDBUWTRXTW9fZXluQ3FDYm55WC1kVDBhalNUa3NBZUNzZXFwZDBkcnJwNnQ2ZU9RbnRJamhqYk5GbWM?oc=5",
           "pubDate": "Tue, 13 Oct 2026 06:27:45 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Houthi rebels say multiple airstrikes targeted them in Yemen, and other Mideast developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZjZtVDJsR2JiRDFvUWtYR0Jvei1EVklHd2VjRGxUbTZ3MlZmME4yVWhkN1ppU2JMN3NTWFk3X1B4eElWSkhiazYwb0tvMi1NMklRemNiN0F3c21ZX0NybmtxY211bEc5MXNsVkNndjN5MjRjSTUtbUpUVEZlc1hiMkx6Y2h3Z1k2Y0VpcG1vWmEtc1lwN2pnbHhqcGYyVmhGb3FTVA?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 06:25:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTJPTHc4YkdLRVc4S2RXZG1kVEFYRTNDR1pzdHk1anYybkY3ZFd1c0xaWS1kZ256M2hGM1dMMU84alVTbUQwVTBwUktsUWVzaXIzUnl0cnBWV3Y0aHFGQnhZZzllSjFfdjI0TjdyVGJxNXdwOFp5Y0liU3VoVE5pYXNTVjVTQTg1cUtvcE8tNzZvbzhjSUE?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 06:12:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T09:25:12.464Z"
+      "updatedAt": "2026-10-13T09:50:13.953Z"
     },
     {
       "name": "Reuters",
@@ -179,9 +179,33 @@
           "source": "Reuters"
         },
         {
+          "title": "Market turns cold on luxury after LVMH's China letdown - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkRPWV9SVEt2Q2R3aS1nbnVMV1U1aFlEcEtScHZqRWEyMkMxVThrbEhmWVFJRXNHOV9aZEtLNlAxYUxwSDhVRl9sU0tua3ZmWjZrdWFuR0hWam5FRFpHM3JTcVp5TmY2SXpRckV4c3pmZloyVHpIb1pwTTdhZHQ3dWV5WnhqTUlaZjF6LTFIanE3SEtWZHZXMFJLRDg2azZ5UXVWM2k3a3RKRnJDdWJURlZrVU94bnc?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 08:21:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "BlackRock cools on US stocks, turns bullish on short-dated Treasuries - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWHlTeUJyODlNSGNJVjRKdzloTDJOZUZmb1NWN0xsRW05VkJETkJQejVsNTFVUG05N0FKZEJDaWhMb0JYMmc2dWk4QjdmRFpNUGQ1TEVmbGRPS2F2cmxjR1RsdEpoY3ZVYUFzWUtOeVpDMmxzam13X0dkNG1nZnMtWDlqNzQ1dEdxVFdNWm5Rb1F2b1loeU9JMzFzV2pFbGk0RTdRNnYzMUMtMTQ?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 07:55:44 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Hundreds queue in Hong Kong to glimpse Van Gogh painting unseen in public for 60 years - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPckNMaHByOHFlWU56ZVBveUhhY0x1SDNQVEd0V09YWUgwSWNKNjRCRnhvay1QaXlSSHNWWXYwNGpGdkFWVUw1SjBWOTdKUGhRSm1pd3BNUjlmb2dkcloxUHBXWFNsdU9Id2p4WEx1M0VoMDZpcHNyT1YtY2tJcy1BRlRuYVRPOEdZejU0U01kR2EwOENYdnVQaW5lTmFyaUppTXdVMkRvc2ZROTg1WFdySWZzeWhuZVF4a1Nv?oc=5",
           "pubDate": "Tue, 13 Oct 2026 07:49:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Stellantis Q3 shipments fall 1%, weighed down by North America production halt - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZmxPbDhsS01DMF9zT1FjaVprRklkZUJGdTNMYUMwYk5XOTVKRzU3aXZfbW8wT2NZLUVoSVhWN3pycFBwWlgtWmdIYUNWLVAwYmNCVkIyRmF5Y0otVnZsbEU2d2VwdDZRSXRmcnhYR0tEUDlVNXFSSjhWajAxX2k1YnFVaTkwRHcyN3pyY2IyZ2V0cmJURDNyQjVjeGlqSWIxcVFPR29HUWpqMlRnXzlac1kxRlIzN2VLTHgxUUxUSENnenhfdlR2MnVHalp1Y2hQQWRjZUtUWFZkZw?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 06:38:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Mauritius temporarily closes schools after night of unrest over police shooting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR2tTbUM1c0pUdzB6QjBXcTJpZEp4Wk5hZVNNZm80MmEzZkR6bl9kT2xzTEgxUHVEb2tWdDhVUFlsWldray1WT2ZBNm5TWjRXc3VJTUF5dnlRNFU1bHhXQ3ZmaUJkeUZlSWc5ZHlQMkpTTl9GTWZoUkQ2ejdOcnVELVRySGpicjZ0SkdvT3FGZmJWdkUzNk1fSG96LVRKY1p5THZaSVhNdFZ0ajlzNGdPM3FEdHlBVGUwNnc?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 06:14:00 GMT",
           "source": "Reuters"
         },
         {
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTXB5YmkxMi15dGRGMVBZN2VVNDZUR2VTUXJoX0NLTkdnQ1Y1LUdZLUo2bGRPUmZOamd6cEZhSklGMVhPeXdoMGNjcXFNNUJfYmtSYzk2V0hMN1ExNFNOSGh0T2oxcVRiallqR3dOWFI3YS1KNE00QW1NSWd6TGxidjVhZnlWSDVGSVlrVUdJa1N1SGJTNzIzQ3JsOTNCSG9HWk5wUklzR1M1akUwU3RQVW5OX29WN290RmtxTk9mSF9LeEU?oc=5",
           "pubDate": "Tue, 13 Oct 2026 06:01:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Eight people hurt in supermarket stabbing in South Korea's Incheon, police say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORk9RWHVGNlZqZ1lNUk9BLV80Q1NJRmRxQmxlYjlhOVFna21Sbk9jVlU1VDNidllTdEJEbnhKNl9rOXdpQXJOX2l1WHU4UWMzZ1lKUXk4bzFXRkNfdm5fem9CU2RlM0JBZlAtalBBRDZiMnJjYk1NUi12dHFfVXJucjZPc3N5ckxPSjRjVkxOaUFIcWdkVmV6MVRBMy1TY2NBT1NmakN2a3Blb1ZxTVpzV0JMNDNNa0xadG45b3pNNU1MMEpQUjA1WjdsNG9icHVT?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 05:43:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "NEWSLETTER: Modi's three-pronged challenge - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb1plNXNTVWlqekpCanlwOUdXUVpmeEVnSEU1R014Y3NGalBNOFFnZWdhUWRaV2hMSkNENlZRNi1CZG1hMGlGNnFuMnhBVnFTMHZZY2hkbTZ1TjlYSzgzOHk2eXlSbElkeHN0S1VhYkF1QmpmQmdRbng2OVB6b0tZZm5YUQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 05:30:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Eleven sailors missing after drone sinks ship off Bulgaria - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ0lxazhMY3hqT0E3UUxzMUVWb2d1MUpIQzVReEQtSzI2aGtZQjBBdzNCUEI3SThQZ0J1b3ZjeExrbmFpVnZSZW83MFlrUmhGTF9rWHp0dVVRaW9wWl9vZ25wTHNvZ1RqNkY4ZDIyMmNBTzZlUWxNa3RqdC1ubHV2NTBOdWtFVWltZHhTSV9oVzdEeEdTd2xDY2Zfekcza0ZMQm5ILTFJbw?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 05:27:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nokia sells Enterprise Campus Edge business to Aurelius - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVnBOazd2M1FRenRxSEx6ODdYM3hnQTBsUUVtQVkwOGVNZ2toclhKZ04xUlY4Yi1heG5uZUtBMlo1MEw3N2dObGVIOS03Z0pBOGF4U3U3Zzl3TTJVNThWNGRodkdGZldUWUV0bFlfYW5tdW03dXVzQWVUYngwRUxqTGVJMmVIdTEtSDJjLThibmgwWVJYaW9aMGwwVG1VUQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 05:16:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T09:25:12.481Z"
+      "updatedAt": "2026-10-13T09:50:14.386Z"
     }
   ]
 }
