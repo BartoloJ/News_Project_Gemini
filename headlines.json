@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-13T04:00:16.668Z",
-  "lastChecked": "2026-10-13T04:00:16.668Z",
-  "lastUpdated": "2026-10-13T04:00:16.668Z",
-  "generatedAt": "2026-10-13T04:00:16.668Z",
+  "fetchedAt": "2026-10-13T04:25:16.655Z",
+  "lastChecked": "2026-10-13T04:25:16.655Z",
+  "lastUpdated": "2026-10-13T04:25:16.655Z",
+  "generatedAt": "2026-10-13T04:25:16.655Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T04:00:16.281Z"
+      "updatedAt": "2026-10-13T04:25:15.391Z"
     },
     {
       "name": "NPR",
@@ -72,6 +72,12 @@
           "title": "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
           "link": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
           "pubDate": "Mon, 12 Oct 2026 18:16:47 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Actor Selma Blair removed from plane by police after altercation",
+          "link": "https://www.npr.org/2026/10/12/nx-s1-5998945/actor-selma-blair-removed-from-plane-by-police-after-altercation",
+          "pubDate": "Mon, 12 Oct 2026 16:18:42 -0400",
           "source": "NPR"
         },
         {
@@ -103,24 +109,24 @@
           "link": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose",
           "pubDate": "Mon, 12 Oct 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Political strategist on how Trump's personal grievances could affect the GOP",
-          "link": "https://www.npr.org/2026/10/12/nx-s1-5996646/political-strategist-on-how-trumps-personal-grievances-could-affect-the-gop",
-          "pubDate": "Mon, 12 Oct 2026 04:39:36 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T04:00:16.601Z"
+      "updatedAt": "2026-10-13T04:25:15.694Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 02:18:58 GMT",
+          "title": "RJ Mitte, ‘Breaking Bad’ actor and disability rights champion, dies at 34 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ194aXBLUGNqUVRSU093dmgwM2ZuY3lxS3BtSVgxUU1QTTJYMUhJRjJyYnZWekFDd1BhWURnSjJoRGMxSDl6cWduTkZHZTFSVzZsM2NfZ1EwcUxYMHFNOFlPeXp4UDVFOGZGZ2o0YUQ1QXpjWk5QOWstMTNCaTZJU3hzSnBkbmM5aXV6M1J0RmU?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 03:19:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Contreras delivers and Milwaukee's bullpen shines as the Brewers top the Dodgers 7-4 in NLCS Game 2 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUGlhbnd0YTdkWXhRd0trLXk3Q1lhdl84dlJxUkZYSlEwbzQyWnhMNGRKeEE0bDY0VTA2RmlPN1VQM053bTA5NW5uU1BrWE10Z0ltSEVVcG0xSklsSW5JSEduYjFIWWM4RFlLWTRhUzlmaWtnaGR5ZXBNRnF0Q3p1TDVUN083MmZZOE9MeVNoOA?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 02:06:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 01:43:58 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced' - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjdzXzdVOVh5OVVkeXRrSlNpQXBuMTBWQzhqRDUtbG9uY1ZET0trR0xXNmlIQUhBY1hRS1BsVm8yRENMUE1MZTRxaEtsUmFoaEFUSXFuTXpqeVpqMHd5a1ZYOEtnT3ZvV1NhNmZYMUg0WnlGenFVal82aFp3c2psT25Fc0dRSUNWbkNobw?oc=5",
           "pubDate": "Tue, 13 Oct 2026 01:30:00 GMT",
@@ -152,26 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUc5WE03aG9UWEFvWUo3NHN6YlktMDBySDVUR2JGbkN1ZDA5Z2h2RTdlaUJpbF9qV2JxMHJPRlU1TGo5QzZTeFFjeFRzOWxGZ2FiR3ZEMGYxalJFZzNaMDBZbUcxNDRCOFRBUmY0ektWZlNZUDRJMnEzZUFKZ2hjVFZzMA?oc=5",
           "pubDate": "Tue, 13 Oct 2026 01:27:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Contreras delivers and Milwaukee's bullpen shines as the Brewers top the Dodgers 7-4 in NLCS Game 2 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUGlhbnd0YTdkWXhRd0trLXk3Q1lhdl84dlJxUkZYSlEwbzQyWnhMNGRKeEE0bDY0VTA2RmlPN1VQM053bTA5NW5uU1BrWE10Z0ltSEVVcG0xSklsSW5JSEduYjFIWWM4RFlLWTRhUzlmaWtnaGR5ZXBNRnF0Q3p1TDVUN083MmZZOE9MeVNoOA?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 00:44:16 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Emergency help was delayed by confusion after failed execution of Christa Pike, 911 calls reveal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ0hHTVVNQzFDSlZnY0l0Tl81dmE1TVcxWmlxdkczSUZEZWRJY2tpc1N5VEhfVUxPWlBmY1RBbnRtREZyWVk4YUFFSmZlekJNczFzYzliMXRmMmg2cXlocWNtRENFRW53em1fN1kzalRyNGdHeEhEWF96Y3NEajE5c242VUdOdkh1WlFuQlp6dHhxenNaMzAzc2FRd1Q2bk0?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 00:29:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T04:00:16.652Z"
+      "updatedAt": "2026-10-13T04:25:16.241Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "AI boom bolstered growth in global trade, benefiting China and India, IMF says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeVFzV2hGZjBlUUFETjhBYmxjM2pPNkFfS0dxTFlKUm5fRnJUQm9sYjBoNGhCNldSX2tlTGxwTWtRbG94cUdYVkhKZkZCZGRabTFtMWhyMHZfUFZmUjcwaUlTRzFCOE04MG81aWtjbHZfNGNsY1Q0M01oOFp3NFE4eFlodW1jd2tsaVNNYTgyUFlwX3d5b1hMaFU3Y19QVFVkYXZ6Q3YzMVYzZlYzV2NnLXNlZnQxREpOXzhVd1BPM2g3QQ?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 02:57:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Gold eases on firm dollar; spotlight on US inflation data - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
@@ -182,6 +188,12 @@
           "title": "AI investment props up global growth, but war and debt threaten outlook, IMF says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlNmbDdlaDUwX1pOeWRzM1FhdDNhWTNnVnk4bXZLZlR2VGwxMFRCcWdiNngwM2p1Tmp3YjZMY0FwY1puZHk3bTlEYWNyd2pYYUxPd19nZVpqQU9CQjVlck9RUGtoajF5SGY4VnYzSWpZXzY2TWZ3TVY3Yl9ucVdEWnc3b2xzT19vbzBqazJUMzlCdmpfakw4VjAzOVZ3Ui13dmlJOV90Nk9pVUxWY1htUHYtNDZhTGhyTDYwZEk3SQ?oc=5",
           "pubDate": "Tue, 13 Oct 2026 02:05:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US says it opposes Chinese 'coercion', after Belize, Paraguay ministers sanctioned - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWdfWUVKNVhxb0RRMk5KYnNTTEMtNG84Rl82Znp0Y2sxel9DckdidmQ5MGNVcW1oU2hQaFdtbFNubTUwNU1zTGJIQnZ1aFMzd1JoYXFKTzJSLW9IWmtIbVVTVEMzak1Jdk1lN3JCZ1NyRUllZUY5Ny0wVENKMGJGTHlNRU1HeUFLRXd1UGNkOF9BU2dyZ0JILU9fTHhjZzRrT3ItaW1ZWjNHTFIyQ1VBMFdadUllWTNETWdzcXpnSWJSdEtu?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 01:55:00 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Shell calls Australia's gas reserve plan a 'sledgehammer' that risks market failure - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV3o4Y181VTFwdU9mNFBnSE4xWDVfRWozOEItaU9NdVlwODBIYlQ2Q05iNWRyOGtwN2M0US1jZ2U1Z2NrRHRFTnVsZEJfbENqNzdYS1EwVUtJMnFVRG5GMlBNM2F3SllZQlBIUldWUnpGNFlWQ1VVVWFoU1BQWVR3d0R4N2g0UkpYRk9Xb2xMc0k0dzQ1QkdtdmZzRFFhQkV2QXJxVEQwRlp4cUhlenV5bmg0NmZhUkxqZHBVWi00aVRObUJXWE5TSXZ3?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 01:40:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Anthropic says new safeguards sharply reduce AI distillation attacks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZuUXZob1BWeEV1WEZOdWIwRW9ucW92UFVueWd3clAxbHNSUHh1VXFuX1dTalVxLWgyX3Y5ZmZhYzIxc1BNRGN4Y3JUOXBIQjhZUUlDMlNyZ2Q1WW4zOThMbF85R1NGZ0RrWnRLVWMyNjdFWmswb2hrMmNlQWttOUZVOGFjUnRaUzduMDVKMnI1ODlUaWJuTkZ1M3U5N3haQWIzMzNyNzNNUUt1eW5ZVk5EV1pPczA?oc=5",
           "pubDate": "Tue, 13 Oct 2026 01:07:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Japan's Omron to buy US industrial PC firm Onlogic for $675 million in physical AI push - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2FzdFBLeW5HT3V1UUYzYmN5UkxfdnNKdHI3Nzd1NnhXQkRCekFoQmJrd0hVMlVCRjRxOGpmOGRQRjJUdmJ4blZWZTZaQlJLdldhQlVrWVRmLXFJcGxSNGhwWHFZSGRUckNLZHI3QXJJZlpZNHVMcDJ4UHJMLTNJMXJWSlpBLXhTN3YxRWRqYndBR2RSakJqUzhhM0l0VjlhemN1YWZRSDJTaE1RTWpCWlBZRXYzNzFrdjh3OGNjRHM1UXRtcWh5YXFxSQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 01:04:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil ticks lower as Russia diesel supply prospects counter Gulf supply risks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2sxWTVlekZ2bXloVXNiOUltMm5iODVOMW9NTUo4Q016ZU02OFQ5TU9relFTcUZSaW8xV0c2YmNVbE5jWW5uQjhKeXNKaWxBcE92SU1fQUU0R2RVamdNUzRhTER3NzEzMFUtRVd3bzVnZ1g0ZmtRek95VHdYbVNNMmNacmlDd3dLTThmaGF2VVJDYTc4c1hQeUZfX0ZGQzZjTXlpLU52U3JuUGpjOHJjWndoS19LandSX0dtMmdUMzNKZw?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 00:25:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Japan's wholesale inflation remains elevated, keeps alive BOJ rate-hike view - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV3hkUE0tV0pBM20wbEUtQTFuM011aHFUTWVPRDI3VEJ3d2lPaTRzNW1iYl9UeGRMaVE4VjhkWEV2OF9rVkxmMFZBd0FXMElhYVNoYkN3UFBBdnJ1b0RlRmliQ1ZZYzBpcDN0ZFhnYVl3dThzRHp6aXBSdGp3M0J2bW9wa3RELWQ0RTBmeXhDVkNjV0NVMUwyYlNjUWRrdkc4YjczQVRBYXVZMmhCZEFSdFMzZmdHZFFxaS1NbTBGaXF4Z2NJcjB6Zw?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 00:07:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T04:00:16.668Z"
+      "updatedAt": "2026-10-13T04:25:16.655Z"
     }
   ]
 }
