@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-13T17:25:12.437Z",
-  "lastChecked": "2026-10-13T17:25:12.437Z",
-  "lastUpdated": "2026-10-13T17:25:12.437Z",
-  "generatedAt": "2026-10-13T17:25:12.437Z",
+  "fetchedAt": "2026-10-13T17:50:15.566Z",
+  "lastChecked": "2026-10-13T17:50:15.566Z",
+  "lastUpdated": "2026-10-13T17:50:15.566Z",
+  "generatedAt": "2026-10-13T17:50:15.566Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T17:25:11.351Z"
+      "updatedAt": "2026-10-13T17:50:14.173Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night",
+          "pubDate": "Tue, 13 Oct 2026 13:41:07 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
           "link": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
@@ -87,12 +93,6 @@
           "source": "NPR"
         },
         {
-          "title": "One way to protect coral reefs? Bring back seabirds",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5901320/coral-reefs-palmyra-atoll-birds-restoration",
-          "pubDate": "Tue, 13 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
           "link": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
           "pubDate": "Tue, 13 Oct 2026 05:00:00 -0400",
@@ -105,18 +105,30 @@
           "source": "NPR"
         },
         {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5998694/morning-news-brief",
-          "pubDate": "Tue, 13 Oct 2026 04:46:22 -0400",
+          "title": "Some of the most pristine coral reefs have a secret weapon: birds",
+          "link": "https://www.npr.org/2026/10/13/nx-s1-5901320/coral-reefs-palmyra-atoll-birds-restoration",
+          "pubDate": "Tue, 13 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T17:25:11.457Z"
+      "updatedAt": "2026-10-13T17:50:14.555Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Jury selection begins in federal death penalty trial of Buffalo, NY, supermarket mass shooter - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVXRaY3FfZnF1X0E3c0d6MlpFWmtXVDlXS2tYZEZqMlJyNFFtbWdPVTQzZXlyVXBsamttMGRkaUpwNi15ZFlTa29wbTk2XzZjZE9ZMkFESHVxRUVhUmFnYXRTZ1hkUTZKTk1PM0pjRjVSd1dSdlE2dEZQY3dyRi1WdXpnRkpVelhaTnpQT0ZLRDR5SG90UjBWcVZmemdTdVN3bV9UZVVnLXhWN1lB?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 17:34:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Man killed on a Six Flags roller coaster was thrown from the ride and hit other patrons, police say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkNtdXlMaTZnbUtyRWxELS1kWDYwRVdpbUozWnRCUWJab2NXRDF2YmxocTY5Wm9BaHp3UDdxVkFoWE9XNEUzWlNXdVJQaTFPbWpJUjlrWEl3a3JtNFBSNGp0SkFfRjJZU2F4cmZBUnRpd2VCeUxGc0FFak5jRjZ2MUd0V3NBdG9xUWtCaHZwbmx5U1ZYeHpma3lLcHQtLTA?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 16:48:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPak5ZbXdiNVNTR2dUSG5BaXVDZlgyWEdLYVNWU2FiTTl6QmRQTk1BcmJ4VXFNWHVtYUFBOVdlRnpaUlNnV1ZFRkJtVDRXQ3JzeEUxMVkyUVhKRF9qQ2hQdFBJcEVTVWhCempCTGZ6cmpTME5RTHU0SWdGd0s1QnQ1R2hlUEFRc3RudnlLd0ZKd2w0VDZVU0I2Ng?oc=5",
@@ -142,40 +154,46 @@
           "source": "AP News"
         },
         {
-          "title": "Katie Zacharia, Trump's new White House press secretary, makes a brief appearance before reporters - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTVphMjVnNkJSREp5QTNtRWRaQTVRMFUyZGRXczB2eHo5TjdHaHFIT01IcEZ2WmIySi1UYnhGRnVIRjRSOC1mczRDSkVITEVHNUVVYUVHTzczSVphQWZ0ekt0aFRjajZjRFduZzJ5WDM4SkxoeFROazhROW41Qld5U1BTUGt1VU4yVTRYcEIxcENXa29ITkxmZ2pqTnM5UjIzenNaRElwOW8?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 16:07:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Barack Obama to campaign with Ohio Democrats as he expands his outreach ahead of Election Day - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGJ4R2hVSGVjM0lMQnlObHN6TThOamY5eGQwREhvZWRiZENzQ3lyZ2xLVFZ5Q2RoTkhiUWRyck1hR3ZNOGZSaXM4a09LbTMtVmw5WkotcFFFOTYtNXZtc0tCUkRDRWY2RzN4aWl6OVVKajZvUkhMQkhqM1lHTFVqUVlSQ3VjM19JcnJlRE1sRFA5U0MyenhOb3ZyY3EzMHh3S1NB?oc=5",
           "pubDate": "Tue, 13 Oct 2026 16:04:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Man killed on a Six Flags roller coaster was thrown from the ride and hit other patrons, police say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkNtdXlMaTZnbUtyRWxELS1kWDYwRVdpbUozWnRCUWJab2NXRDF2YmxocTY5Wm9BaHp3UDdxVkFoWE9XNEUzWlNXdVJQaTFPbWpJUjlrWEl3a3JtNFBSNGp0SkFfRjJZU2F4cmZBUnRpd2VCeUxGc0FFak5jRjZ2MUd0V3NBdG9xUWtCaHZwbmx5U1ZYeHpma3lLcHQtLTA?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 15:39:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "The first big batch of US profit reports for the summer has Wall Street mixed - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbE40VWg4MjVEMGZaTVRRbXhyNlg4czk4V0luS095VjQ2S01EU1B2bEpIdTJvZGVrUGlLUU42bVZhNW4xdk01Wmh3ZUhLRWFIamRka2pfWnlkUTRQdzVZV3FGa0VSb1Vwcmg0UFNlYmgwS0lPNnNiRF9NNDVhNmRzS3IwaUhEOGNvclVwb3B1cVd0R1V5LUdLX1Fn?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 15:01:00 GMT",
+          "title": "Katie Zacharia, Trump's new White House press secretary, makes a brief appearance before reporters - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTVphMjVnNkJSREp5QTNtRWRaQTVRMFUyZGRXczB2eHo5TjdHaHFIT01IcEZ2WmIySi1UYnhGRnVIRjRSOC1mczRDSkVITEVHNUVVYUVHTzczSVphQWZ0ekt0aFRjajZjRFduZzJ5WDM4SkxoeFROazhROW41Qld5U1BTUGt1VU4yVTRYcEIxcENXa29ITkxmZ2pqTnM5UjIzenNaRElwOW8?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 15:08:10 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T17:25:11.963Z"
+      "updatedAt": "2026-10-13T17:50:15.074Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Trump fires ambassador to Greece Guilfoyle after reports of misconduct - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHIwM3RrTXplaUsyc3ZvbUhRaEVvbGNlbzFaeDdiY0tCRkpvRTQ1SlNiRU1fTXFFanljSU91NWZYVldNc19pOHNUMmR6dXZFSmRlLTBkdTctbUxZaVgyR21BT0syQVhsUjhpVTNDaUZWaUxxNHlRdkZCMHdNM2w3SUlFQ2VYVUVSdm5mZDU3QW9xSy1OMU9kTVJlSm9kS2d2R0k5blY4Ym9wTkZacTZEN1VB?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 17:13:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Explainer: Could hackers get inside my fridge? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXJ0TlBxOG5iQTZ5RzZwWUE4NHN2RkhQa3pEVHEzSERJcVo1bklxdm8xYXFzVDlaelR0b2w1UWhnQ0xMdkpDUTZWdTNhZHZKdlZBMk9lQjIyRTl0MGtjMGhyZEVmanV1U1RTQkdUTGYxakxUT2Y5VHhRNlBUQ19rbUpieGNnM1FSYlVQZEdZRWRzUDhlUnlqYQ?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 17:01:39 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Rwanda to bring F1 back to Africa for first time since 1993 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSHcxbkNjbGtTU1pqdjBnVnRpUno1aUtuRGNDcmVWQjJLV1FHdFNvcVBQcEQyc2FRZzl2a2RyazBfTkpGbkNHdWQ5WXdOXzdjZm5BMldWUjRLSnpzWjFtZGp2cUtGUzlzWFd3TTgzZ2pwOG9GaS1FT29fTXd6bXBDT0Nsczl4ZVBJODA5MTgtNDBHOTM2TGpYUmwzQ2w?oc=5",
           "pubDate": "Tue, 13 Oct 2026 16:52:30 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says Houthis trying to drive up oil prices ahead of US midterm elections - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUjJueXpwNnRLbk1Db0NkZzBZS0tqUGF4NHU3ZWYxcWRHdVU0WW9uYVZJeUlpUVR2amR3Q0dyd1ZwYTFwZjRkUXU2VWRmX2otWUh5dHBmTW1Tak1iczg5a3pzR21oZTk3S3lzN0NfWmZ4TWRFalFNLVBsdU5vVTFkSDQ4TnNGVDZOcnVTS2FWTzBTbW1pN0ZoamZrRG5fQlc2QXpZWjV3?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 16:38:26 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Trump fires ambassador to Greece Guilfoyle after reports of misconduct - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHIwM3RrTXplaUsyc3ZvbUhRaEVvbGNlbzFaeDdiY0tCRkpvRTQ1SlNiRU1fTXFFanljSU91NWZYVldNc19pOHNUMmR6dXZFSmRlLTBkdTctbUxZaVgyR21BT0syQVhsUjhpVTNDaUZWaUxxNHlRdkZCMHdNM2w3SUlFQ2VYVUVSdm5mZDU3QW9xSy1OMU9kTVJlSm9kS2d2R0k5blY4Ym9wTkZacTZEN1VB?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 16:26:31 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "J&J posts weak medical device sales, shares fall - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUdSU1RiZkRmc3g3THpDdFRzamk3X1hSZFhlTkhicGt1MlFpV24zc2RIWmM4MEk4WThZQ25aNm51RWM1ZndlSjVMQTRTZGRjRzNQSkxkb1FwU0lVSTM0b1VHRGw5WHM5YURtbWVGZXByRmVvOXdJVGlHNW1GOW05SGhIMkdKVnZvN21hTEpzMmh0bkVyRDJ4a01HdU1kQVlXQjduRkJrMW5tQXl0TDNaOEpKSjRFbFNCWmhKSmpacGRIM3E4dTM2Zg?oc=5",
           "pubDate": "Tue, 13 Oct 2026 16:18:36 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Saudi Arabia strikes Yemen capital as Houthis vow to retaliate - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHZtMnk3dUVFWmVkT2FmZVRqNWNrUUc5YkNkWVJMOEhWMmo1dnc2S3FlUlExbjFscTdlY3NQcExPejdxUlF1clZ5S1BKQ1JLdjhzaFdXT2l1YVBmN2VVSkFOSlJNNmlTR2w5d082MDR2b3RkY1VrTTlwWFhuclBteVRaTmtMRUczY0VPaWxBeVV1RE9vUE9kRFZaUlZEX0NnOXZqVnNtNlJIcFU3cnE2VVFTNzhfNVZ0TzZiQWFtSUJCdXJXYU5rU0JB?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 16:17:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Bumble swipes right on $1.3 billion go-private deal amid online dating industry reset - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWdqT0RjejJkVkRMa3B2MHFQSDJsRmgzOXZRalc5cGlqSWNlX0s5S3lyUjhobXB6VTFETGk3ZndzeHhwNFQwMGxUQ2pBOE03eUg1a05sWC1DRVBvRmJWSmpnaEJEUnJSSEdYY3RHSklEZFptcUZLWGF3VkRYSUQxRFFCRUxxRDg?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 16:17:02 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T17:25:12.437Z"
+      "updatedAt": "2026-10-13T17:50:15.566Z"
     }
   ]
 }
