@@ -1,16 +1,22 @@
 {
-  "fetchedAt": "2026-10-13T07:25:14.262Z",
-  "lastChecked": "2026-10-13T07:25:14.262Z",
-  "lastUpdated": "2026-10-13T07:25:14.262Z",
-  "generatedAt": "2026-10-13T07:25:14.262Z",
+  "fetchedAt": "2026-10-13T07:50:14.974Z",
+  "lastChecked": "2026-10-13T07:50:14.974Z",
+  "lastUpdated": "2026-10-13T07:50:14.974Z",
+  "generatedAt": "2026-10-13T07:50:14.974Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Emergency calls from botched Christa Pike execution released to US media",
+          "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 13 Oct 2026 07:49:13 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "India 'cockroach' leaders detained after entering barricaded protest site",
           "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 06:58:20 GMT",
+          "pubDate": "Tue, 13 Oct 2026 07:31:10 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 13 Oct 2026 04:27:22 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Watch: US man eyes pumpkin world record after fifth contest win",
-          "link": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 04:04:57 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T07:25:12.810Z"
+      "updatedAt": "2026-10-13T07:50:13.902Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T07:25:13.116Z"
+      "updatedAt": "2026-10-13T07:50:14.033Z"
     },
     {
       "name": "AP News",
@@ -130,6 +130,18 @@
           "source": "AP News"
         },
         {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 05:23:32 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Fear strikes Yemen’s 3rd largest city Taiz as Houthi rebels encircle it in a new siege - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSkgybWJ6OTVyd2JDcmxuMGd5VE9jNHNOZzNjeGV5bzVnVnpIVWRIaHZ3S2owZ1RhUFA4THc5SnVwZ19UTC1rRlNhMnoxeXFOWUNwWU9IY3Jfc0ZqT0otMGk1NldMcjdjZDFYY0FKQTZPZXREQ291TGpQcFZMblROS1ROdVJGaDhiM2IyWXNaaU0?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 05:02:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Pope Leo XIV is set to enter a Rome hospital for removal of a lung nodule - AP News",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVV2ZHJselJuYmhnZ21lbG9LOXo1N0JhRFdKT0U1aVA2blJjRXlzcFFCanQwd2V4Um9FT3A0SGpReXY3ckp0T21RZHVFVDBUWTRXTW9fZXluQ3FDYm55WC1kVDBhalNUa3NBZUNzZXFwZDBkcnJwNnQ2ZU9RbnRJamhqYk5GbWM?oc=5",
           "pubDate": "Tue, 13 Oct 2026 05:00:00 GMT",
@@ -142,36 +154,30 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 04:37:34 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "One dead and several injured in incident involving Six Flags rollercoaster in Georgia - AP News",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLV9FUWx1QXpSYm9IOHNRSG5GZXIxaC0taXlfY3hHQThHY2JLUEw1bUh4YkZiUV9qTE9ZejdyQjI2LTE2R1NoQjNFWm5pWVF5eWZET0taSGs2ZVB0WUdMcVhKX1RJN1VWMnFUa3NJMDJCSDl3ekZZTnlZMFE0dk1fdjFpbTFnQ19iUGFlYUR6SlFNWkZ3TVlKc0lweVNyRVpRaTFVTEZRTGxobnRyaDItUmVRZVVuZHBTVVpNVUN5aFh0WVg3RXNQVkVnYTlDYWV2cUItN0RmWTIzTzg?oc=5",
           "pubDate": "Tue, 13 Oct 2026 04:24:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "A generation of angry young Indians takes to the streets to challenge Modi - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmdKeWZRbTNtaWt0OWh3a2w2UDRlZzlZaG55YWN2bWpDZkl6S2pBX1prMzBHMG1oMVBwN1Nza2s1SVpoejUzWXJZejRLMjJIclc4YTYzaDJhNV9nVnhiWHpoV292cmEyU0ZEblN6Qm1ESnIyWm9tOWJQcktIYmVhQzVSN3lmN2pZMEpzd1ZDMXUyV0EwOXZoQk16OXVzcmpuMDhGSmZGcmxMLWc?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 03:53:21 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Pacific hurricane region sets record for big, long-lasting storms thanks to El Niño - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTVjM2U4T3VaQzM1QzdIQk9oZktVY3o3ZTk0SWQ2TzFXNkdVMk01eE5TRU9ZOGxfdkZQV1FIRmFOOGFNMXB5dGNwMjRiVmtKYm5QZEtIeWRIYzRXWnV2OUtmRUY0ZVFkTGQ2aTV1MHZsQ0hLR1RjRk9LX0NSQ3dnME5DR1Q2VExGRWZ5RlI3QXlwN1Nxc0JHSnVocXJtTFh6aDJERDJ5MFNHZw?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 03:33:00 GMT",
+          "title": "Trump is heading all the way to Alaska in a sign of just how close its Senate race may be - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZndZOXVHelR1M3hqMFp1NHAxbl9HTW9QVTRWeWZsOXhNTGRYYUp3VTFhSFdQOTluQjZSc0FoUDU5b3RWWWR1RTJPNGdmcTBJeUZqalozOFhoVTRGVnFOaE1jXzRVQUhINDFqRWVXcmVnbUN1b3d1Q0hfRmJCd1E1WmdvRm9jSEV0dHVTaXlxcTdTaFVYZ3dQcUQza1ZUUW8?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 04:04:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T07:25:13.726Z"
+      "updatedAt": "2026-10-13T07:50:14.563Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Indian police detain 'cockroach' movement leaders demanding election chief's resignation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnFsODVGYU4zR2lkQUw5R3FLUkIwY1ItcDRoUkc5NkJ3bUQ5TDRiamkyTmRDOUQ2WXRQeHlmcDZ2bUJHUVVpYjZNYjJIdmx6eDFIWWhVaUpLdV9mT29Vc2pmN3hudDVEaFRydTJEMG0tTkdSa09GdWFKQ2Fwa2V4czB4MmZLeElsWW1CNHNvMTBLXzJGNmNJaXB3R1dxOW1VZk04T0RnMWdZTm5pUEU0Rno1UV9IakVucVMyZy1B?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 06:03:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "NATO fund targets drone defence technologies as Ukraine reshapes priorities - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTXB5YmkxMi15dGRGMVBZN2VVNDZUR2VTUXJoX0NLTkdnQ1Y1LUdZLUo2bGRPUmZOamd6cEZhSklGMVhPeXdoMGNjcXFNNUJfYmtSYzk2V0hMN1ExNFNOSGh0T2oxcVRiallqR3dOWFI3YS1KNE00QW1NSWd6TGxidjVhZnlWSDVGSVlrVUdJa1N1SGJTNzIzQ3JsOTNCSG9HWk5wUklzR1M1akUwU3RQVW5OX29WN290RmtxTk9mSF9LeEU?oc=5",
@@ -179,7 +185,7 @@
           "source": "Reuters"
         },
         {
-          "title": "Up to eight people hurt in supermarket stabbing in South Korea's Incheon, media reports say - Reuters",
+          "title": "Eight people hurt in supermarket stabbing in South Korea's Incheon, police say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORk9RWHVGNlZqZ1lNUk9BLV80Q1NJRmRxQmxlYjlhOVFna21Sbk9jVlU1VDNidllTdEJEbnhKNl9rOXdpQXJOX2l1WHU4UWMzZ1lKUXk4bzFXRkNfdm5fem9CU2RlM0JBZlAtalBBRDZiMnJjYk1NUi12dHFfVXJucjZPc3N5ckxPSjRjVkxOaUFIcWdkVmV6MVRBMy1TY2NBT1NmakN2a3Blb1ZxTVpzV0JMNDNNa0xadG45b3pNNU1MMEpQUjA1WjdsNG9icHVT?oc=5",
           "pubDate": "Tue, 13 Oct 2026 05:43:00 GMT",
           "source": "Reuters"
@@ -197,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3V4aHFMSTR2WVhYZVU4NEN4WXZVYmo3WW1YWmZ1MTd1MGFjc3VyMTgwTjdiZGxPdXcyRllRakc5aWNaNVZkQzZIcVZCbjlLTG1hZUdIYk9SdHJiQkd1ejcxSkRubTZRZ25BbXRsa0xBendNSEdrZDgtTXI5end1anA4T0x4QzA3VUpWbXZCYmhUTG1pMWdpSVA1NWJkQ2lOckk2b3RnbDA1N0VJcEJwZVFrdXUzTUJ5REZvYld0d0JGdw?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 05:02:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Europe's carmakers turn back time to rival Chinese EVs - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWx3dWppLTZjUEZibE5naEZacTRMcy1jRms4SHBpaW83TnpLUjFOOXoxeHlvYzBPdDJVREE4SzZOOTg3RHdmT3VocHRQOEVpcS10M3hCSFVMSXVoSmxVWTA4RDhhYmxWQzZZdTZ5MlNMcm1VZDdxaURONjA3c1VtVnhKZm42UmpxbUdERTh4eVpLelhxUFlGMzA0MGhFVG9Fc2k3S1BGU1NnUlp5YXpRdWpvM3JQREk?oc=5",
           "pubDate": "Tue, 13 Oct 2026 05:01:00 GMT",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmQ1WnUyTnlVR1FUOF85YkNVTFJxVnRCUXAxX2ZOTUgtbUlwMFJCZF8wanVYTUQyMnNTem10TEMyMXpueEFqNDhTU3NSeVJFMHNoc0E1TnhjRE9EZ0N3Y1BVNU8teUJTQUlUZmJ2LWZWVG1OQW1CeDlYd0FUZEVXOUVvaDI0b0d2ang1bzFTNUNnVllrVUJVSGxHaUJIZnJlRXFHNTlGY044UQ?oc=5",
           "pubDate": "Tue, 13 Oct 2026 04:35:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: The fragile AI trade - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lOGFtbjYzeFZUcDJlSnNYeHNyZk01UUhCUlhIaVhtd3dpSkxhTExrNDY3U2Zmc2c3TEU4bUhXcDlLTnE5bTc5akplUWpPcUttb0ZBckNQbEZINFFhNDdjakJqd29FTVlTNHNYS3czbkxNMTdPMk1qVXZHX25zMGM?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 04:31:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Visa gets approval to prepare for domestic business in China - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDU2MUdBSi1QYVQ0Ulg2MzdqQVJpaHJWZ2NFaVZYT2VGV0xYUnZ1T1B6ZGJFbmR5eWNqajFXSFhQSTI0X1pDU29HR3o1T2VmdDZCVUJvTFdWMXRldllGc2JmTVNrM2RoUWttaHc5ZFJnX3FvYTBfbEt2RTZPR0s2OEZqMGFtYWdPdTdPSEJKUVpBT25POHR5R2VKbWl0VUk?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 04:27:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T07:25:14.262Z"
+      "updatedAt": "2026-10-13T07:50:14.974Z"
     }
   ]
 }
