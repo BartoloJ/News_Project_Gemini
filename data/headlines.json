@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-13T19:50:15.345Z",
-  "lastChecked": "2026-10-13T19:50:15.345Z",
-  "lastUpdated": "2026-10-13T19:50:15.345Z",
-  "generatedAt": "2026-10-13T19:50:15.345Z",
+  "fetchedAt": "2026-10-13T20:00:23.168Z",
+  "lastChecked": "2026-10-13T20:00:23.168Z",
+  "lastUpdated": "2026-10-13T20:00:23.168Z",
+  "generatedAt": "2026-10-13T20:00:23.168Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+          "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 13 Oct 2026 19:51:14 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
           "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
           "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 13 Oct 2026 19:23:28 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-          "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 13 Oct 2026 18:54:17 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T19:50:14.191Z"
+      "updatedAt": "2026-10-13T20:00:22.067Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
+          "link": "https://www.npr.org/2026/10/13/g-s1-147871/trump-russia-diesel-deal-congressional-response",
+          "pubDate": "Tue, 13 Oct 2026 15:52:52 -0400",
+          "source": "NPR"
+        },
         {
           "title": "A judge blocks the government's tree-clearing spree at a municipal D.C. golf course",
           "link": "https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics",
           "pubDate": "Tue, 13 Oct 2026 06:30:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
-          "pubDate": "Tue, 13 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T19:50:14.319Z"
+      "updatedAt": "2026-10-13T20:00:22.105Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T19:50:14.783Z"
+      "updatedAt": "2026-10-13T20:00:22.712Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-13T19:50:15.345Z"
+      "updatedAt": "2026-10-13T20:00:23.168Z"
     }
   ]
 }
