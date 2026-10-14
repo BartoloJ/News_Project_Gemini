@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-10-14T07:00:24.428Z",
-  "lastChecked": "2026-10-14T07:00:24.428Z",
-  "lastUpdated": "2026-10-14T07:00:24.428Z",
-  "generatedAt": "2026-10-14T07:00:24.428Z",
+  "fetchedAt": "2026-10-14T07:25:14.384Z",
+  "lastChecked": "2026-10-14T07:25:14.384Z",
+  "lastUpdated": "2026-10-14T07:25:14.384Z",
+  "generatedAt": "2026-10-14T07:25:14.384Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 07:23:46 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Russia arrests Japanese journalist on spying charges",
+          "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 07:12:37 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Turkey police raid opposition TV station, halting live broadcasts",
           "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
@@ -26,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Russia arrests Japanese journalist on alleged espionage",
-          "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 14 Oct 2026 04:10:49 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Lena Dunham's Girls to return for limited HBO run",
           "link": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 14 Oct 2026 02:09:30 GMT",
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 14 Oct 2026 00:59:16 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 14 Oct 2026 00:17:00 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T07:00:23.617Z"
+      "updatedAt": "2026-10-14T07:25:13.278Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "CNN, MS NOW and Politico prevail against White House — for now",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban",
+          "pubDate": "Wed, 14 Oct 2026 03:16:02 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
           "link": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night",
           "pubDate": "Tue, 13 Oct 2026 13:41:07 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
-          "link": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
-          "pubDate": "Tue, 13 Oct 2026 07:08:14 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T07:00:23.657Z"
+      "updatedAt": "2026-10-14T07:25:13.500Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T07:00:24.416Z"
+      "updatedAt": "2026-10-14T07:25:13.989Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "SpaceX limits Starlink operations in Ukraine, disrupting military missions, presidential aide says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2VEUDcwZ1kydUhNRmMzSjVVTEdoLUNlS3FVUjctT1JONXNOZjJzS2wwZ21kOVJwakRkbmU4Mnc0THVxMDAwejAyak90aDNWd0N5SElDRF9sbXVUVk54RGUwUko3Z1FlR0RVQlJFTG5LWVdhY2wtdEtmaFp3WEtzZDZoMTNNYnY5WEhyUXczamlWYVNHMzVTczVST2twUkZGMVI3UGZJODdCSGlfZEZzek94bjROQUc0ZnAw?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 06:34:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "China says it is willing to work with EU to boost stability of trade ties - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ1EyNEpnYmtaNHJ5TG5kM1NWZTVQNjRrTDdsREZUVTB6Y1hzNnl4R2JhTGdva1ZTTGpXWWdqUVdwRk1kQnIyLXFPbHNpLV9tZzhVTDNsRm93cndnVDVTeWNDTlU3T1ZCUElOQmxKRGh1eHNFSXBiRzAzc2dELTMtVmZnbzNaSDlKY2hzeUpCTnZnWTN2V0dXV1dxVG1PZTBicE9yTmJsMXJUM1I4Q0c2MEd3?oc=5",
@@ -191,7 +197,7 @@
           "source": "Reuters"
         },
         {
-          "title": "ASML will be unable to meet AI-driven customer demand in 2027, 2028 - Reuters",
+          "title": "Chip tool giant ASML nudges up outlook as AI-driven demand outruns supply - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFZsa19tQTZzTmpjeDVDenFPTGdxSTJVS1k5bTNrakxDWEtUelY1SWlDdnhNZDVoUmY1dkhoWXdJMWQtS1pjR3drMndqc0kxT00zVkM1bUIyRXM3X011cGhMaUNvbXdtUzVaNUhWWEMzOEN5Q0luZEQ3MzE5M2J2N2h3Mko4eUg3NkZJY2pBbG03UzRwVGs5MVl4dWxWbjNJeVN0OA?oc=5",
           "pubDate": "Wed, 14 Oct 2026 05:07:00 GMT",
           "source": "Reuters"
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZV80UGpIZ2JaYk1HTDl1MzRSc2NJT29IRDAtcm5sQXpSMzJPVXJSOXRHMG9XaEdDV0szVHZmSTZCTlVUNzJseDhrSXdBaFItbEtMdmN0Rm5WTlNtYVF6MEVuV1ltVjBQcmtKeWRTODBXbUtRSnZkVXRETDB1bklNeFliTTZ0TFBJWEs3UXJJVkZpRVRRMkZNVHcwTS02RDJkTkpuNlpQMA?oc=5",
           "pubDate": "Wed, 14 Oct 2026 04:14:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US to drop South Korea intelligence case against ex-CIA analyst - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUl5YllpcUsyWGdCQW9lenZlVFFvQ0dKTDdpQUM5VGhOdWZMNEdXbGY3dGRGUHptTEpNVzNWU054LS1BckU0RXI1QWVndktVamw3S0xtOS02cU9zdnBwUDdCclVia2dZMHlCcHBCenRKMTljWG91M1NWMklLa3B4THVONVY5SEZYMG11eXpOTE4tcU5MalpvZEtSTHo1UERYU3dLSG9DRFlCSmJVckI4dWU1OA?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 04:12:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T07:00:24.427Z"
+      "updatedAt": "2026-10-14T07:25:14.384Z"
     }
   ]
 }
