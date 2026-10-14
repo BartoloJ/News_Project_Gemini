@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-14T01:25:13.754Z",
-  "lastChecked": "2026-10-14T01:25:13.754Z",
-  "lastUpdated": "2026-10-14T01:25:13.754Z",
-  "generatedAt": "2026-10-14T01:25:13.754Z",
+  "fetchedAt": "2026-10-14T01:50:17.249Z",
+  "lastChecked": "2026-10-14T01:50:17.249Z",
+  "lastUpdated": "2026-10-14T01:50:17.249Z",
+  "generatedAt": "2026-10-14T01:50:17.249Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T01:25:12.605Z"
+      "updatedAt": "2026-10-14T01:50:16.031Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T01:25:12.821Z"
+      "updatedAt": "2026-10-14T01:50:16.334Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Six Flags closes 9 North American roller coasters after families watch man fall to his death - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkNtdXlMaTZnbUtyRWxELS1kWDYwRVdpbUozWnRCUWJab2NXRDF2YmxocTY5Wm9BaHp3UDdxVkFoWE9XNEUzWlNXdVJQaTFPbWpJUjlrWEl3a3JtNFBSNGp0SkFfRjJZU2F4cmZBUnRpd2VCeUxGc0FFak5jRjZ2MUd0V3NBdG9xUWtCaHZwbmx5U1ZYeHpma3lLcHQtLTA?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 01:39:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Saudi Ministry of Energy reports limited fire in building at Aramco compound targeted in attack - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR002VVo0b3ZvU0RXV3V5TWdvX0Jmc1NiQjBDNjljbTVWbFZnQ1hIUm5WTUNHZFZSNlV4WWoxZVBDNFhwZUEzZF9kVUlla0dZOWstVWZQQnA1TGpqeXI4Y05KbkpOay00U3NLYkZxZ1BHQWQ4ay14eEk3bHlfSzBMVzlrd2tuQ1hyaHoteGZSZ0pyYjdvYjB1QlEtOTR1YVNZZnZTRw?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 01:38:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "FBI arrests OpenAI employee accused of placing recording device in company conference room - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVl0SzhGa2IyTHliZXlVSl9jcFY4V1NmUG5YN1F3WWsyUG1jSzhlMzNwZ3M2V2hmZWhfWS1pcFFkYmwtc2RZeTdJLVpRTkwxMmE4YjZkdHV3bUlZenBxeUhUa0tIU0VGeGtyTktPSGt5Z3VnUVRudWZ0VlNzSHJjc3hsY0puM0RTanBmSkJ3?oc=5",
@@ -142,18 +154,6 @@
           "source": "AP News"
         },
         {
-          "title": "Saudi Ministry of Energy reports limited fire in building at Aramco compound targeted in attack - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR002VVo0b3ZvU0RXV3V5TWdvX0Jmc1NiQjBDNjljbTVWbFZnQ1hIUm5WTUNHZFZSNlV4WWoxZVBDNFhwZUEzZF9kVUlla0dZOWstVWZQQnA1TGpqeXI4Y05KbkpOay00U3NLYkZxZ1BHQWQ4ay14eEk3bHlfSzBMVzlrd2tuQ1hyaHoteGZSZ0pyYjdvYjB1QlEtOTR1YVNZZnZTRw?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 23:19:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Six Flags closes 9 North American roller coasters after families watch man fall to his death - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkNtdXlMaTZnbUtyRWxELS1kWDYwRVdpbUozWnRCUWJab2NXRDF2YmxocTY5Wm9BaHp3UDdxVkFoWE9XNEUzWlNXdVJQaTFPbWpJUjlrWEl3a3JtNFBSNGp0SkFfRjJZU2F4cmZBUnRpd2VCeUxGc0FFak5jRjZ2MUd0V3NBdG9xUWtCaHZwbmx5U1ZYeHpma3lLcHQtLTA?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 23:01:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHNESldQb0tHcGc2ZkN4SmFybFNDd0lpYktkdXZNRXNtN0Z3RnFwQ3FCVC1uS29uNVA4WjlFNkM4cGxreUFER0ZSdGQ1RWwxSk1VS2lNV2dmU19DV3VsWWFBYkRlejNESmp4MmpyNnRlS2gzT1hLcXAtaldYN18wZy03Y2lZeDQxMWZWOWZfZ1IzUU1IT3c?oc=5",
           "pubDate": "Tue, 13 Oct 2026 22:20:00 GMT",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T01:25:13.296Z"
+      "updatedAt": "2026-10-14T01:50:16.818Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T01:25:13.754Z"
+      "updatedAt": "2026-10-14T01:50:17.249Z"
     }
   ]
 }
