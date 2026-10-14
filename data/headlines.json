@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-14T04:25:12.522Z",
-  "lastChecked": "2026-10-14T04:25:12.522Z",
-  "lastUpdated": "2026-10-14T04:25:12.522Z",
-  "generatedAt": "2026-10-14T04:25:12.522Z",
+  "fetchedAt": "2026-10-14T04:50:14.330Z",
+  "lastChecked": "2026-10-14T04:50:14.330Z",
+  "lastUpdated": "2026-10-14T04:50:14.330Z",
+  "generatedAt": "2026-10-14T04:50:14.330Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 04:36:06 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
           "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Russia arrests Japanese journalist on alleged espionage",
           "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 14 Oct 2026 04:10:49 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 14 Oct 2026 03:54:41 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T04:25:11.932Z"
+      "updatedAt": "2026-10-14T04:50:13.769Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T04:25:12.004Z"
+      "updatedAt": "2026-10-14T04:50:13.798Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T04:25:12.077Z"
+      "updatedAt": "2026-10-14T04:50:14.321Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "EXCLUSIVE: US Justice Department threatens California over alleged noncitizen voters, letter shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV3pmdGxnSC1CZWpzZGs3d28zWXdJWGlHNzkzMEkzQm1jN281eTBpNE1CUElRODhOTVVPNTRsR1pzQ2xtcWlRQjdFS0dpaGp4dVFQSk15UEFJWGRJQkxBZ3haaElidjBFUXc2VXpDWHF1Y3NnX0llMzE3ODd0blJDOEZBRWJBeDFNUDFhd0VKYVl4clVhbUJzd1lFblpkOEZJSzl1UjlwWl9hTEdadWI2cWNnaUMtbWI1MzRmWFhuMA?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 03:49:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Taiwan must 'bear the consequences' of water cannon incident, China says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcTktd0pMaVp2SWIwWGVsektZX0RyWUFuTmVQYldCb2VMd0JjQnZLRGZmSnVjTkNoanFlQ21HOXRPMU5XMzB3TC1MY2RiRGJoV3Q1T0U2WVJBeEdhMVhqdkNmRm9NUUY2U3VVVW1aUER1UWVKVmxUbjdLbHZTaENULXRKbDNac0tOLVNnWGRYN3Y1M1RmaWUzSlJvNlNObHU1eHJtbDMzODZRaEkwdURr?oc=5",
           "pubDate": "Wed, 14 Oct 2026 03:24:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold prices hold firm ahead of US inflation data - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkM3NGdUajlORC1ZZjBNcFZtNjYwa2JRaFczS1V4OVRORGhzZG1NUGxaY3ppRjdfQlFvUmREakJQM1RGaDNZZmZFMnJrY2Rtemc2Z1dBY1pPRy1ZbnBJVzNfTG1MMGJ5TXY5VzFpaDd6UENqd1pUOVdlTm1sS241QkFzNm1kdDJXTjl5emhLV200WUI1QVh4RQ?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 03:12:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Judge extends White House access for CNN, MS NOW, Politico amid legal fight - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONGVxVVo1V0hZQmwtaUt1Y3NMUGg1VzV3cXd5YnBHTlFoeEd5MVRDQ3p3emphd3BpNWdsYmVnN3VDNFVYeDhlamE4MTZCTEsxVDhqQVcyTGI3czZZRmYtbzVIT3FWVk1JLXV1WGltMkNBb2lTaHZ5bWJ3VnI1MmcxWFF1dkNBdjdHNlB0alFTM1k3NUwtaVdFNnIzbVpueVBDMmhzd3lZRmR6MTZjcUFVMQ?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 03:12:00 GMT",
           "source": "Reuters"
         },
         {
@@ -191,38 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Indian shares off to a muted start as oil prices, foreign outflows weigh - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUDFseEc5cVpDQ2FOSndESDFUc3N6VnVMY0c0bS14N2taUmU3cU9CY09HeEVvX014STdGY1pwY05aWXVTemoycUFEbzFLeFdVa2JIZ1Nwc1BUZGxkSXEyeXJvVW5VdFBtM0E3MXVpWll5R3pKU3FMajQzODBYZjhuM1V5cDdOQmlwRmxwWUhkZ2R5a0RKM2YtaU91UkVMYUJsYVJmQVBOU1lra2R6YkZ0bXdn?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 02:25:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Asia shares edge up as chip selloff eases; US CPI awaited - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE96RkhyZDBlQ2VWRERNYlZtdm5FaVdQSXF2M3ZtR3JIOU05UExLWnZ3dmFBY1NZcndTRlozR29sdmxWaExXUmIycmZPZGk3UXI1amRxTDR6WHpSQl82ckhxZ016SnZYdGtPdC14TnZVWlpjeHl4SW5pUnJKbjl2M0pzcw?oc=5",
           "pubDate": "Wed, 14 Oct 2026 01:53:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3BORVdqSzA0ekdnTDNtVWhTUFZKd0d2eW5meFgtdkd2MHhHRG5KUWRZSGpJZ2FKemlrSzlxME5hUVBjcE5JVHZYWnBSVk5TTDBWR3o5MnFUS3JSUmRxczEyVEQtam1maTk1T0VFZHJWeko1TkZjUk1zLWpCNnBqNVRNODhna3RKdFBna1c0XzVwckt3ZnQ1Wk5Nc2JnS1VaZEp5QVlnT0pTdw?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 01:42:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil prices climb as traders weigh Saudi supply risk, Russian diesel flow - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 01:27:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Dollar languishes as focus turns to CPI, Fed speakers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTlXdFl1T0lRV3lDTk1HeDB5eEoyUkhIUERBWi02S1ZRU2tGX0hyQk9GdThWZUNUUFBKcUxqNEd1WkU4WFpyUHV6ZmU4VXl3MWRBSjN5UWM2WjVmbDl6RGhYYzV3SF8yTGwtTGJWTTR2OHN4LVVvVzlpTGs0RkFPX2dQWmNZTUF2MVFRMU5fWXZjbjlxd2NISDgyckdMQ3lYYTZv?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 01:18:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says Taiwan agrees to buy 30% of LNG from Alaska pipeline project - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUkhxakRwVWtIYkFQMFgtVExzbndLT3hSSGpUMGRWZ3dtVzhDdVR6ZFpXNmRnOWY5bDd5QjJhdFBxeGIxVnQ5bXphb0d6bjMzaW4wdFZ3eUhlMmp3cHo1SWRYVFh4bmFIV1J2QlBvWUZwdDg1NHpaMm5kcnB6U3ROMWhJbzBGUTVaSE5sVUZwaUl3UTZNWjJXemNSZjA3dU1oaXpXRi1n?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 01:04:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T04:25:12.522Z"
+      "updatedAt": "2026-10-14T04:50:14.330Z"
     }
   ]
 }
