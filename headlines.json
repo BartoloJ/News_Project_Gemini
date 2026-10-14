@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-14T08:39:03.630Z",
-  "lastChecked": "2026-10-14T08:39:03.630Z",
-  "lastUpdated": "2026-10-14T08:39:03.630Z",
-  "generatedAt": "2026-10-14T08:39:03.630Z",
+  "fetchedAt": "2026-10-14T08:50:17.877Z",
+  "lastChecked": "2026-10-14T08:50:17.877Z",
+  "lastUpdated": "2026-10-14T08:50:17.877Z",
+  "generatedAt": "2026-10-14T08:50:17.877Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T08:39:02.347Z"
+      "updatedAt": "2026-10-14T08:50:16.730Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Pope Leo has lung cancer, the Vatican says",
+          "link": "https://www.npr.org/2026/10/14/nx-s1-6000650/pope-leo-has-lung-cancer-the-vatican-says",
+          "pubDate": "Wed, 14 Oct 2026 04:43:10 -0400",
+          "source": "NPR"
+        },
         {
           "title": "CNN, MS NOW and Politico prevail against White House — for now",
           "link": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
           "pubDate": "Tue, 13 Oct 2026 14:51:55 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night",
-          "pubDate": "Tue, 13 Oct 2026 13:41:07 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T08:39:02.455Z"
+      "updatedAt": "2026-10-14T08:50:16.948Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T08:39:03.194Z"
+      "updatedAt": "2026-10-14T08:50:17.460Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T08:39:03.630Z"
+      "updatedAt": "2026-10-14T08:50:17.877Z"
     }
   ]
 }
