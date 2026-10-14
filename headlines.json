@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-10-14T08:00:22.691Z",
-  "lastChecked": "2026-10-14T08:00:22.691Z",
-  "lastUpdated": "2026-10-14T08:00:22.691Z",
-  "generatedAt": "2026-10-14T08:00:22.691Z",
+  "fetchedAt": "2026-10-14T08:25:19.734Z",
+  "lastChecked": "2026-10-14T08:25:19.734Z",
+  "lastUpdated": "2026-10-14T08:25:19.734Z",
+  "generatedAt": "2026-10-14T08:25:19.734Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Turkish police raid opposition TV station, halting live broadcasts",
+          "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 08:17:43 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Russia arrests Japanese journalist on spying charges",
+          "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 08:00:03 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
@@ -14,21 +26,9 @@
           "source": "BBC News"
         },
         {
-          "title": "Russia arrests Japanese journalist on spying charges",
-          "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 14 Oct 2026 07:12:37 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Turkey police raid opposition TV station, halting live broadcasts",
-          "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 14 Oct 2026 06:32:02 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 14 Oct 2026 04:36:06 GMT",
+          "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 07:21:50 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T08:00:17.824Z"
+      "updatedAt": "2026-10-14T08:25:18.418Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T08:00:21.877Z"
+      "updatedAt": "2026-10-14T08:25:18.598Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T08:00:22.301Z"
+      "updatedAt": "2026-10-14T08:25:19.314Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Pope Leo had peaceful night in hospital after lung cancer surgery - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZEhjR1JvdVhXeEhEaEZla2JHSkZ5bHFoeWtBTmxpcWgwS3hhMVdCMExHVzdYalFtZFp5VGhYYldPTU5MZWt1QkE3QXNrSU02ZWhkbEtfVE14RW4zZGZwa0VTUmRwUXo5VjRMVlNrc0ZqS1lhcE5QLUlsak9WODRybU5peXp2ei11N2M0M0hBdFdweEdsOU9Xb21TbTJ4T2NRMTh4UkVvSmVxbWM?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 08:10:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukrainian drones hit Russia's biggest data centre - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYlNheVdFZk5KM25CV0NxS0tHbG81dGlSTTRZaVNLbkNiQklzNmV5d0s5M2NtTlBlSTIzTk5DbXFBME5USFNYS21ZYUxpeVhuUXpkZ2hCVVVITFZ1Q2ZJOWZsWlVkWVdSX3k4Qm5vNkl4MjhGWXp0NXVIcnNHc1c5S0VwU2Q5V29FcmF1NWh1a0hZa0FycXdvRVd3Q0I2VU9sS3NB?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 07:48:06 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "SpaceX limits Starlink operations in Ukraine, disrupting military missions, presidential aide says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2VEUDcwZ1kydUhNRmMzSjVVTEdoLUNlS3FVUjctT1JONXNOZjJzS2wwZ21kOVJwakRkbmU4Mnc0THVxMDAwejAyak90aDNWd0N5SElDRF9sbXVUVk54RGUwUko3Z1FlR0RVQlJFTG5LWVdhY2wtdEtmaFp3WEtzZDZoMTNNYnY5WEhyUXczamlWYVNHMzVTczVST2twUkZGMVI3UGZJODdCSGlfZEZzek94bjROQUc0ZnAw?oc=5",
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Kamala Harris warns window closing for AI safeguards, urges US-China cooperation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV09vcW1Xbm92RkxyUlNMM0ZHcnNoTkpEWUdQclBCZVphcjNfUHh4ZVZwc0hJeWVmUVpIdnlGRzJPT3NfYl90ZFdEdWNtYmR4eHVVeVNWdVE5ZG9saEI3UXpONmhfS2pnSHIxNXROWkhoZlk1X1NjNmlqNHBuWWQtTENLZ0tSVl9OaDQ0dXA2d21qSEl6N3dsNmVhbE5xc1lYcXRsbW54U0RVT2pqemd5VzktMzE3OUlROXJQTVhOVzl2ck5yNlR3?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 05:15:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India's Bank of Baroda says it will defend interests after UAE businessman Shetty files $15 bln suit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMTZESmVsRjhVODdrejh2dmx0WkZvMnZXcmNuU1JtM3Z6b0RFMElUVTl2Q2ZBUXlyY2VJSVhFVDZXNjZXSS1vanVOLVhiQmdKSnFWamMxUEthb3BDMFBGVFdBUDZPTzloaEJ3UkVKSC04dzJsUUpCaFFDYmR2SzFmX3RjdkMtYmhhelBFalByT25zcWJpQkwwTzNYSUhNQmNycEllc2Z0VTN5dG50eENERnZveEFrdHpFMHk1QzluY0JQOUlibjJzUjZzZDdKeTBaUG5LNXdOX3g0cS00T1poNjJuTQ?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 05:09:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chip tool giant ASML nudges up outlook as AI-driven demand outruns supply - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFZsa19tQTZzTmpjeDVDenFPTGdxSTJVS1k5bTNrakxDWEtUelY1SWlDdnhNZDVoUmY1dkhoWXdJMWQtS1pjR3drMndqc0kxT00zVkM1bUIyRXM3X011cGhMaUNvbXdtUzVaNUhWWEMzOEN5Q0luZEQ3MzE5M2J2N2h3Mko4eUg3NkZJY2pBbG03UzRwVGs5MVl4dWxWbjNJeVN0OA?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 05:07:00 GMT",
+          "title": "Trump to visit Manila in November for ASEAN summit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZlB5V2Jsb0JsWi05WmppSk9JWUZyUFp5ZHBuWjZacTNKTFE2RVNwN2laRTJ2bGgwanpvLUtkSnBYVUEyZmdfeHR4QUVhOTA1NjJETXNGOG1TTzY4WDd0N3ZKbk9MVktyV3gyS0ZORnVzdk9lYkRrNnBKMjNRMW1FTnZUeTl5YThqa1MxYVF6SjYwbjEtRjljbXdybw?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 05:40:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T08:00:22.691Z"
+      "updatedAt": "2026-10-14T08:25:19.734Z"
     }
   ]
 }
