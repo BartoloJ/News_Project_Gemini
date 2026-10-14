@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-14T03:00:47.752Z",
-  "lastChecked": "2026-10-14T03:00:47.752Z",
-  "lastUpdated": "2026-10-14T03:00:47.752Z",
-  "generatedAt": "2026-10-14T03:00:47.752Z",
+  "fetchedAt": "2026-10-14T03:25:12.293Z",
+  "lastChecked": "2026-10-14T03:25:12.293Z",
+  "lastUpdated": "2026-10-14T03:25:12.293Z",
+  "generatedAt": "2026-10-14T03:25:12.293Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T03:00:46.467Z"
+      "updatedAt": "2026-10-14T03:25:10.971Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T03:00:46.762Z"
+      "updatedAt": "2026-10-14T03:25:11.265Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Pope Leo XIV diagnosed with lung cancer after surgery to remove part of right lung - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVV2ZHJselJuYmhnZ21lbG9LOXo1N0JhRFdKT0U1aVA2blJjRXlzcFFCanQwd2V4Um9FT3A0SGpReXY3ckp0T21RZHVFVDBUWTRXTW9fZXluQ3FDYm55WC1kVDBhalNUa3NBZUNzZXFwZDBkcnJwNnQ2ZU9RbnRJamhqYk5GbWM?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 03:17:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump went all the way to Alaska in a sign of just how close its Senate race may be - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZndZOXVHelR1M3hqMFp1NHAxbl9HTW9QVTRWeWZsOXhNTGRYYUp3VTFhSFdQOTluQjZSc0FoUDU5b3RWWWR1RTJPNGdmcTBJeUZqalozOFhoVTRGVnFOaE1jXzRVQUhINDFqRWVXcmVnbUN1b3d1Q0hfRmJCd1E1WmdvRm9jSEV0dHVTaXlxcTdTaFVYZ3dQcUQza1ZUUW8?oc=5",
@@ -148,12 +154,6 @@
           "source": "AP News"
         },
         {
-          "title": "Pope Leo XIV - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BXzFaTC1GN3pKdEVBTmZXQkZPamZ2Uk1icE4wVkVUdEFqY1J1SV9FRTZfal95NlB5OHQ5ZnNVSVozNlFsRU5HM0NmUQ?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 00:16:19 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Recently unsealed report on coach Brian Flores contains 'racial stereotypes,' according to lawyers - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDQ1bXFFNHdycV9rV1BrWXA0LVZWeDJwMGZxcDBaVUtWRkJ1NjNSOU83eWFlS1FJcnlWbXh2ZFhzcjFsR1dwUVBuWDAtWmo3OUpGbHl1ekpnckZZNTBYNldsaUN4OXA5R2VtNVpCUmM3QjhYc1lGRW9UREIyemR1UlRLQlAwRnhrOHBaRnVVaFlfX3hxZGQzc1ZYRQ?oc=5",
           "pubDate": "Wed, 14 Oct 2026 00:09:00 GMT",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T03:00:47.244Z"
+      "updatedAt": "2026-10-14T03:25:11.820Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3BORVdqSzA0ekdnTDNtVWhTUFZKd0d2eW5meFgtdkd2MHhHRG5KUWRZSGpJZ2FKemlrSzlxME5hUVBjcE5JVHZYWnBSVk5TTDBWR3o5MnFUS3JSUmRxczEyVEQtam1maTk1T0VFZHJWeko1TkZjUk1zLWpCNnBqNVRNODhna3RKdFBna1c0XzVwckt3ZnQ1Wk5Nc2JnS1VaZEp5QVlnT0pTdw?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 01:42:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Oil prices climb as traders weigh Saudi supply risk, Russian diesel flow - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
           "pubDate": "Tue, 13 Oct 2026 23:29:36 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Nasdaq ends down as chipmakers fall and bank earnings roll in - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkNncVkwQU9JeFhSRFFWQ1FhcW5SUk5hY1hQMkpocmdCRlZ5b04zOGJnZ184T1lONDh1cUQwZFY3RVJxUmJzZDhpUWZ0RlhsUGluV3hoVG1TV2JWNEZtUS12R1Z0VURRQmt3SjkyUU44UkZTcmF1RnFaTm9POE9LYW5TWjY3el9jNzQwV1lOVkhaOGFDTE9Wc1NrM0RYTzJ5UFM4eF92UWV3LW03SHJ1U1I5cHF4eDNFS1liNw?oc=5",
-          "pubDate": "Tue, 13 Oct 2026 23:25:08 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T03:00:47.752Z"
+      "updatedAt": "2026-10-14T03:25:12.293Z"
     }
   ]
 }
