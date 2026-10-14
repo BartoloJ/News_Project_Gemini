@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-10-14T11:00:23.497Z",
-  "lastChecked": "2026-10-14T11:00:23.497Z",
-  "lastUpdated": "2026-10-14T11:00:23.497Z",
-  "generatedAt": "2026-10-14T11:00:23.497Z",
+  "fetchedAt": "2026-10-14T11:25:12.652Z",
+  "lastChecked": "2026-10-14T11:25:12.652Z",
+  "lastUpdated": "2026-10-14T11:25:12.652Z",
+  "generatedAt": "2026-10-14T11:25:12.652Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 11:17:51 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 11:08:47 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Turkish police raid opposition TV station, halting live broadcasts",
           "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
@@ -38,26 +50,14 @@
           "source": "BBC News"
         },
         {
-          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 14 Oct 2026 08:53:40 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Russia arrests Japanese journalist on spying charges",
           "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 14 Oct 2026 08:00:03 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-          "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 14 Oct 2026 04:20:17 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T11:00:21.714Z"
+      "updatedAt": "2026-10-14T11:25:11.523Z"
     },
     {
       "name": "NPR",
@@ -99,7 +99,7 @@
           "source": "NPR"
         },
         {
-          "title": "In Kansas, a newly-competitive Senate race tests limit of Trump's unpopular policies",
+          "title": "In Kansas, a newly competitive Senate race tests limit of Trump's unpopular policies",
           "link": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
           "pubDate": "Wed, 14 Oct 2026 05:00:00 -0400",
           "source": "NPR"
@@ -112,21 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T11:00:21.897Z"
+      "updatedAt": "2026-10-14T11:25:11.674Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Kamala Harris adds stops to her final midterm campaign stretch. Her decision about 2028 comes later - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0NoRDlveTJ6QjhDY21lV0VXR0xNR0RJU2Q5LTgzMzR3Q2RaYURFYlNjQjlpa1JrZkFoS2dab0lHT0ZST1VLMllQbWlMQ0U4OHhEdkRkb2pZNlZJWVE3cnB2MDNOOGpTbUZRNU1qVG9MMVMtNmFkWkRONWtrcTQ1dHgxS1p2dG0yQmRwaGdRZmU?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 09:02:00 GMT",
+          "title": "Residents in Saudi Arabia’s capital hear new explosions as Houthis claim more attacks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 10:48:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Residents in Saudi Arabia’s capital say they have heard new explosions in Riyadh. - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 07:26:00 GMT",
+          "title": "Kamala Harris adds stops to her final midterm campaign stretch. Her decision about 2028 comes later - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0NoRDlveTJ6QjhDY21lV0VXR0xNR0RJU2Q5LTgzMzR3Q2RaYURFYlNjQjlpa1JrZkFoS2dab0lHT0ZST1VLMllQbWlMQ0U4OHhEdkRkb2pZNlZJWVE3cnB2MDNOOGpTbUZRNU1qVG9MMVMtNmFkWkRONWtrcTQ1dHgxS1p2dG0yQmRwaGdRZmU?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 09:02:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T11:00:23.068Z"
+      "updatedAt": "2026-10-14T11:25:12.193Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Singapore pollution spikes, East Timor shuts schools as Indonesia wildfire haze intensifies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbWNJbU8xUXFUUnBwakxUbEtfTURTWFlZd2xIdVJoU3RkUW1aTTBYN0ZIVmozQ2lfUVBVd2IzYlJPQnJpWDZEcGo0REpSbms1LV9pS2doZzBwdlR2cm0wOEpMZkp0NUlTS1hpN2k2akFhek1FWW8xYkYzZzNZZmloOGFjcVFmbG9yd25VVHJiZThPcThEaTJsNjBxSXE5SV9mUFBkZ3E0NHlmSEU0RHZnU3hhRWN0NXZFTEliUVRxYXlNSjJFZzlDQkROSlM?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 10:52:12 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "U.S.-Russia deal on diesel is 'very risky choice,' Italy PM Meloni says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVh1bTlFMVVSelN2MC1ndm94QjRuYm00U3RLSHNscTFuYkVYdVlobXRBMjlxSUFMY1ota0xUN0VNaVhpVWdLQ0NkV1pHLW90WFRoUHpVQUNISDZ1SEtQTEk0SzE0QzkwelVHTXpHVVVLZE1oVWhtdWNBZ3NVR3dOTjJYTjZfMGNxVzN6UHVZdld3d21pLVduc05ZbTBSRGhURmVnNXlNYVZCSzdI?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 10:43:02 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "World prays for Pope Leo after lung cancer diagnosis - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZEhjR1JvdVhXeEhEaEZla2JHSkZ5bHFoeWtBTmxpcWgwS3hhMVdCMExHVzdYalFtZFp5VGhYYldPTU5MZWt1QkE3QXNrSU02ZWhkbEtfVE14RW4zZGZwa0VTUmRwUXo5VjRMVlNrc0ZqS1lhcE5QLUlsak9WODRybU5peXp2ei11N2M0M0hBdFdweEdsOU9Xb21TbTJ4T2NRMTh4UkVvSmVxbWM?oc=5",
@@ -185,44 +197,32 @@
           "source": "Reuters"
         },
         {
-          "title": "Singapore pollution spikes, East Timor shuts schools as Indonesia wildfire haze intensifies - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbWNJbU8xUXFUUnBwakxUbEtfTURTWFlZd2xIdVJoU3RkUW1aTTBYN0ZIVmozQ2lfUVBVd2IzYlJPQnJpWDZEcGo0REpSbms1LV9pS2doZzBwdlR2cm0wOEpMZkp0NUlTS1hpN2k2akFhek1FWW8xYkYzZzNZZmloOGFjcVFmbG9yd25VVHJiZThPcThEaTJsNjBxSXE5SV9mUFBkZ3E0NHlmSEU0RHZnU3hhRWN0NXZFTEliUVRxYXlNSjJFZzlDQkROSlM?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 09:39:43 GMT",
+          "title": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 10:29:17 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Poland's Sikorski asks 'big man' Musk if he is playing politics with Starlink in Ukraine - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMkplYy1WbldnaVhQUHM3enhiYTNydWFFNnB3T2RfaXZqS01Za3ZOWmRfRjBZdl9ITUhHMEVLWGZCNVFGNWVBRm0zdGZIRy0yR3lJN2ctdUdKbDB3VnJIYm1nNmZNcHN1UlZFN2FOSnRMYTliY1o1LWxqSlVyaUtveE5XX3BIcm50OU1sZWRxTzV2X3R3MDR2TjIyV3RLampGS19nWVdkeHZUVVM0b1FUXzdGU2dTYWt4Rk5wLWRVaFU0M0hZb19PMDkzWHk2dw?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 09:36:49 GMT",
+          "title": "Inside the booming market for US midterm election bets - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamtya0FZUkVIMEc2RS1pWU1tSmtOUlhvQXdEeVR0YTNEektDdVBHVmtqRmtIZlZUVC1vREFBUFRIcTJ4X0tNZDJYczhUUzl0ajUtNDVVcm1lMEl1a01aQVRiMndtZUlQNUdWRHRYWjk3Z2hvZlJsaWE0ckcwcWlNck9HUmxMcUNZSnE0WW1vbXNseDlJeVlCM294SHNXX1Yx?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 10:13:12 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Switzerland, Norway, Vietnam to sign free trade deal on Sunday, officials say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzhxSTM1WUV4Z3RwYVE1cGRkNjBrQWx2bklDWTFOdlQwZ1lsWmxLSFYyWFQ3WDBkVU1DYkdpRnJicjJhYVl4eFRueDZncXFpMldZNGV0RzZLLVFkMXBNdE1lajVVTjV5U3EtTGJ4YlBqdFVYZ1Vab3BFR2dZRm9qVVJIbUNLWlpBMUFCUEFSNEhHRXdQWmxCdWZYWVZQZWhQdUV5MzVfTTJyNnJLU2Y2Z090RVJ6S3BFTk02MzV0akg?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 08:58:22 GMT",
+          "title": "Comedian Russell Brand was a sexual predator, UK prosecutors say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ194VkRSLUI1ZGNJcnFBQjVTc0ZsR2poX19rODV5QU5BR21rWjZlS1U4RjBEV1lZUTRjTjlvdTh6QzFfb1laRVd1ZDM5Q3JJdDhLSFJwWkdFX1hJUXRNbnZCdHh2dVkzMWFVRDdBeDU1N0N2MV9QeHpCM19TVDh3RHdwNG5JV2ZBTktJam9SdHNrcF9iTll2dGJzbms5YWF1YkZhVjVPQUhtUQ?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 10:05:24 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: China buys 8-10 US soybean cargoes in first deals since Trump-Xi summit, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd1B3anNONDRxeWJFd1NCZS1KU2N0Vko0M1JVRFVvNEdrS3FwbmlvTHEwU0J5UkR6M0U3ZExBTkpYRDVqZmR1dGlyT3F0Yk9zWEFTeVdMczI4YWJYSmdmQ3JTWGJLTXJtR050SXcyN1JnSDF0MkV6Z3hpSzVPTGkzSmo4Y1VJTGpXZ1V5NHdTUTBqbjhHSmRZQ25Ec2FTTDdDR1J4Ry10MHpuaFl4cC1aaVRZZlVVY3d2ZGJnbVk3NGRxUmotVHBn?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 08:41:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "U.S.-Russia deal on diesel is 'very risky choice,' Italy PM Meloni says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVh1bTlFMVVSelN2MC1ndm94QjRuYm00U3RLSHNscTFuYkVYdVlobXRBMjlxSUFMY1ota0xUN0VNaVhpVWdLQ0NkV1pHLW90WFRoUHpVQUNISDZ1SEtQTEk0SzE0QzkwelVHTXpHVVVLZE1oVWhtdWNBZ3NVR3dOTjJYTjZfMGNxVzN6UHVZdld3d21pLVduc05ZbTBSRGhURmVnNXlNYVZCSzdI?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 08:39:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "ASML CFO says US Match Act limiting DUV sales to China would be counterproductive - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa3FUUDFSN0ZoX0xlZ09TamlVeURBQkZtUHV6NlBkNG1Gc1hLODN5SENaclg1UjByalVNemQ2QzVrSTc2WjJUenZMT0IwRTY2dXRZeERhV2owSXVkNjdIZUhiU0VlZkpDZEtRcXp4akJjVlNfUzZzVmFiTmI5ZVcyNkNSY3F2SWxqbm5oWkJ4ZUJpaUt6N3NVMnNVN2Vra0JNS2F4bC1Cd2JNYUp4WjZUOHB0NmRwQ1lQTnU5YkctN3E3T0E?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 08:31:06 GMT",
+          "title": "Space startups secure record $20.8 billion funding as infrastructure bets surge, report shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb3hwbGNIcVZMVVFNQlIzMFdpamdXN3diVWJoUTNfbkhJT05Od1RHT2t4eGN6OTktZHZIS1ZtMjR0YWU1Q0Z1WTJBa01vVGJyUVBiUnN4MER0bk92NDR6UFVfMF9xOG9RRUY4M2dwdUl4UWJZOGVXbmJvYUNrVmE4bXU0Y0hXOTJSaXJHX1R6XzNNRzN1cXBOY240ZkFFYjVnNmpuQzZBRVpkQTNMUnJDOGtFQUhpbU42RXFJYS1IeVVLaVNyWDcxc2NR?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 09:55:56 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T11:00:23.497Z"
+      "updatedAt": "2026-10-14T11:25:12.652Z"
     }
   ]
 }
