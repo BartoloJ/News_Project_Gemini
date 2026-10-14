@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-10-14T15:00:21.965Z",
-  "lastChecked": "2026-10-14T15:00:21.965Z",
-  "lastUpdated": "2026-10-14T15:00:21.965Z",
-  "generatedAt": "2026-10-14T15:00:21.965Z",
+  "fetchedAt": "2026-10-14T15:25:14.034Z",
+  "lastChecked": "2026-10-14T15:25:14.034Z",
+  "lastUpdated": "2026-10-14T15:25:14.034Z",
+  "generatedAt": "2026-10-14T15:25:14.034Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+          "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 15:16:21 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+          "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 14 Oct 2026 15:12:46 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
           "link": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
@@ -32,12 +44,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-          "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 14 Oct 2026 13:09:51 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "What we know about the Pope's lung cancer diagnosis",
           "link": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 14 Oct 2026 12:37:33 GMT",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 14 Oct 2026 12:26:13 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Mauritius reels from worst riots in decades after woman shot by police",
-          "link": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 14 Oct 2026 11:24:25 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T15:00:20.731Z"
+      "updatedAt": "2026-10-14T15:25:12.731Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T15:00:20.804Z"
+      "updatedAt": "2026-10-14T15:25:12.908Z"
     },
     {
       "name": "AP News",
@@ -124,9 +124,21 @@
           "source": "AP News"
         },
         {
+          "title": "Bulgaria says Russia was likely behind Black Sea drone strikes as rescue operations continue - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXRicXJvcXBsM21wZ1F1UmphdlRlTjk3Z3RROTB4MjVOTUtRcVkzUXF1T0h3QVkwNGE4UzRSUFdQbzRBeXlsaFdvQVg5d045d01GQlNJUkgwNTNmbU5YdzNvTmR6cjlwNGxQU0UzNzhwcDQyTkloeWoyU25LSVVHS01vcUc4enNEaDdLQ1N0WEw3d3NubWtSaVlJOW9VdDBZY1daT2p6b3hYRDNXTmJR?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 14:23:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Iran-backed Houthis struck Saudi oil giant Aramco’s executive offices, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
           "pubDate": "Wed, 14 Oct 2026 13:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Social Security recipients to get 3.6% cost of living boost, an average of $75 per month - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNk11UEtWMWJteERCRXJKVm80RUt5ZmFVbDlTczd1WmpjN0VyMkVfU3Q1bEtJVjk4WldrNGp1VmhoeU5HY0R5eDZwTWY5NldMc09fOUZ3VDIycFRxank3UmlvZmZoV3JuS2Z2NWhvRDZLcnZNZ2p2RjZmdkd0Uzc0V29sX2U1Z2xKRHR6Wi1JR3BUZ1FHME01aExaSzNaT0llUnBLeVNwbw?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 13:46:00 GMT",
           "source": "AP News"
         },
         {
@@ -136,15 +148,15 @@
           "source": "AP News"
         },
         {
-          "title": "Social Security recipients to get 3.6% cost of living boost, an average of $75 per month - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNk11UEtWMWJteERCRXJKVm80RUt5ZmFVbDlTczd1WmpjN0VyMkVfU3Q1bEtJVjk4WldrNGp1VmhoeU5HY0R5eDZwTWY5NldMc09fOUZ3VDIycFRxank3UmlvZmZoV3JuS2Z2NWhvRDZLcnZNZ2p2RjZmdkd0Uzc0V29sX2U1Z2xKRHR6Wi1JR3BUZ1FHME01aExaSzNaT0llUnBLeVNwbw?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 13:40:59 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Ukrainian ex-army officer’s lawyers seek dismissal as Nord Stream pipeline blast trial opens - AP News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFd4alBxQTNPSWhQYTktTjNnTk85eHczNVZWSzZaakZNM3JVaUtETVB3dERtckVlYWJzOE1yRDdEX1VDSllUbHFVTURiQzNpS2dUMlVRZlFwU0hJamdIbXhYWjNpWldmNDBzSjd0cnVVUTFreFllQ01DNUlJMjVTeXJDUGozUkRhd1pkMERkNGR4cHR0T1g1bUhwTms3ekplbEhDZHdPVkRqRkEtNlVVSkZfbkVRQllHd1E?oc=5",
           "pubDate": "Wed, 14 Oct 2026 13:40:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Kamala Harris adds stops to her final midterm campaign stretch. Her decision about 2028 comes later - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0NoRDlveTJ6QjhDY21lV0VXR0xNR0RJU2Q5LTgzMzR3Q2RaYURFYlNjQjlpa1JrZkFoS2dab0lHT0ZST1VLMllQbWlMQ0U4OHhEdkRkb2pZNlZJWVE3cnB2MDNOOGpTbUZRNU1qVG9MMVMtNmFkWkRONWtrcTQ1dHgxS1p2dG0yQmRwaGdRZmU?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 13:32:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,30 +164,36 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEdlNE9WLXlUSFJzbHBZV3A2OVp2bXZvYzdhYWhldE1nWW5LeFlhTy1nTlRkcExQMWpLdUNLNDVtNzFUTE5Fcm42eHVBalE0V1JqUWhKVGJUQUxFLWFRTU5vSmJURVprdVVYMnpyU1BIWElWMV81UHktZ0c5a2EtNlNkczJnV0ozSHJkTlZFMHY?oc=5",
           "pubDate": "Wed, 14 Oct 2026 13:13:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "‘Cockroach’ movement leaders jailed for 5 days after scaling barricades at New Delhi protest - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmwwdXh2NEZMMENkMVBUQ1FOWHJCekxPODRYa1ByS0lqQjN0WU4yOGt4NFdJNkdmMlRrWkJ0YjZfdzhRQUJUNHNES0NkNkptTzNFQUpmNmllc3pkQTEwY1ctdjhhbU9sZTROQ2ItdkpwQmlCLUNZTWdfWXAtWmc3eEdSd2ctekdMSWt1LS1Pa3NZcE0tM0pHaDRjYklxb2VKalBaLXVWd2IzRHdYT2xrM1ZxX2Q?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 13:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Bulgaria says Russia was likely behind Black Sea drone strikes as rescue operations continue - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXRicXJvcXBsM21wZ1F1UmphdlRlTjk3Z3RROTB4MjVOTUtRcVkzUXF1T0h3QVkwNGE4UzRSUFdQbzRBeXlsaFdvQVg5d045d01GQlNJUkgwNTNmbU5YdzNvTmR6cjlwNGxQU0UzNzhwcDQyTkloeWoyU25LSVVHS01vcUc4enNEaDdLQ1N0WEw3d3NubWtSaVlJOW9VdDBZY1daT2p6b3hYRDNXTmJR?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 11:46:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T15:00:21.944Z"
+      "updatedAt": "2026-10-14T15:25:13.499Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Lufthansa wins race for €1.2 billion stake in Portuguese carrier TAP - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWUtaE11VFBUVzl6LTZPZENsMk5sSkM3SG1zTkt1M2JXN1JQXzlRczlDQ05PN1JMYVhCMWZXcFBqUHJrUTQySnRldVh4MG05dkxBNE5ROHE5MHBKUHZ3VVkwQVhycWoxdGU0bjk1TkVPTHlIQm4zdmRFTGc4M2k2amF4cmRrWEtQM2F2OHRrcUNEMVVPLTNWQQ?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 15:01:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Netflix cuts about 6% of jobs in biggest layoff since 2022 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRC1BUjluV18xQWN2ZDUtd3NOcEJRaTRPNlVQeC1SR1NRNm8xdHBpY2dycmlDM1I2b0R0QUFuS0RPX25DLXotaE9WODYwdUF2UE00Qno1ejBCeFhfZVdrcFdheFVHU0J6MjNMcXU4SUVzeTVxUUUyc3gyTzdTT29kZXlyZ2EyR3FtM1pJUjBDMjZiNVFteUFZaXBMUDA?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 14:50:12 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "GSK plans to cut up to 1,217 jobs in Belgium as it begins three-year restructuring plan - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT2xlQkdqRUlNQkU2UTRoMHpzQVNEcE9Za1dVY1hVVl9hWmhTVXREWHJTVmd5TUpEVVBvb3B2bVE5MGNUZGJWcUxkZFBXY00xVThVZEloZ2xEOW5UdkRGR0dNbXFjU2hpT1NaNXM5QVpVV3RMSDdsUUEzVWhRbDROMzZjaE5qT1JXSFlJZmRMRUpILU03S0YwSUJZU3RWMW8?oc=5",
           "pubDate": "Wed, 14 Oct 2026 14:48:46 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Putin convenes top Russian officials to discuss cybersecurity - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdk50S3J1dnBCeVMxMXd4T1kxTWtEZUIzcTlHYm5YaTFUY0hvYlFpUHQ0QnBmeWo0VGFaXzN6VWNvWU9odUU4SVRQSjVOT1hNWHQzNUpfRW5seWFxTFE5VmdLd2EtbXRPZVp5Ry1KWkNKSkV6c1JWWUNTaGNCdEhPX29QOUtBbTMtOFlGVnJIMFVzZWFSaktBM205d1JHbXhZT1QteFRUd2NaSUE?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 14:35:43 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "BofA misses profit estimates on trading weakness, books $1.2 billion charge - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSERjcDdENDA2c180cFVhdW01WTVBaEdQdjRvejB6eGpkNklKUE8xM05mX1YybXZmMExUUXVkVDhMZUxGS0g5MWN0S3NtOHk1TjBISzBTWHB6VElZSjFjTHFUdU5sZXZtcHFxa0VybC1qR2Y2R0doZThnbGJoQVE5LVg5bHBDZmFvUm9ONGVUdUszODFvWV9aWlROdnE4NWs5R0FYZmJIVFAxaHZCQlJVRmtidS1IUlhVM1ZIM09MeEk?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 14:31:48 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Pope Leo back on his feet after shock cancer diagnosis - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZEhjR1JvdVhXeEhEaEZla2JHSkZ5bHFoeWtBTmxpcWgwS3hhMVdCMExHVzdYalFtZFp5VGhYYldPTU5MZWt1QkE3QXNrSU02ZWhkbEtfVE14RW4zZGZwa0VTUmRwUXo5VjRMVlNrc0ZqS1lhcE5QLUlsak9WODRybU5peXp2ei11N2M0M0hBdFdweEdsOU9Xb21TbTJ4T2NRMTh4UkVvSmVxbWM?oc=5",
           "pubDate": "Wed, 14 Oct 2026 14:31:21 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Berkshire raises Bending Spoons stake to 4% with fresh $330 million bet - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd0ZaMTJ1V3FHVGlTQWNRaVRwS1pvaEZJZjMtdkFWM1llcDA4VVMzejI1YzhUbUk4WXBsRTdMZGZJWGx3azJZVTZIWG5YQ0twUEx2RzNzMGJpa2Nqc2NaQTFHUU01UVF4YjlPcTlPVVJTVXlyRi0wSXZUYmprUTAwZHJvd1Bzem9DdjI2OGM0Qk1pdVBLUGY1Um1iV2syTHVIYVJEMkVqdE1oajdiMnhjLVcyLWl5bUR2U094UW1Gbw?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 14:13:33 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US inflation heats up in September; Fed rate hike this month back on table - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 14:04:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukrainian drones hit Russia's top data centre in attack on AI ambitions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYlNheVdFZk5KM25CV0NxS0tHbG81dGlSTTRZaVNLbkNiQklzNmV5d0s5M2NtTlBlSTIzTk5DbXFBME5USFNYS21ZYUxpeVhuUXpkZ2hCVVVITFZ1Q2ZJOWZsWlVkWVdSX3k4Qm5vNkl4MjhGWXp0NXVIcnNHc1c5S0VwU2Q5V29FcmF1NWh1a0hZa0FycXdvRVd3Q0I2VU9sS3NB?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 14:03:24 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Yemen fighting overwhelms hospitals, cuts aid to 800,000 people, relief agencies say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVpzVDN0cmNMQUVHNkJaYWM0V2pOdXgzTGFrYWY3V1ZKNTd2WGhkY2JvdU1Vd2tOanRlRDdzY2JOTHZoLTlfcTdtcndRUGNFUlhqWFF6TWNhclZVeTcxY1pqX00ycm5Pb1JHaFQ2ekR6bEhsWTItbzJBOElETVZFMU9hdnVOc1BoQkgtMkVUNnRzUUJvQmlhR1puTk1COEZBSDYtODFYWVVUc0FTQ1IzWlBBNlFOeUFYSnZTYU5B?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 13:45:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall St opens lower after hot CPI data fuels rate-hike bets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 13:35:43 GMT",
+          "title": "Fed rate hike call seen tight as inflation heats up - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjl1ZWZGd2lIRXg1US1hUjNacTVDN2o5S2lIcXpCdnZ1VHBXcEpqOHV5SzJJZHJrT3RxYjdrRjRrRU03eHNGTTFRMnVCVEdZa0VfLU9BeFdSeTE1aFRrc3ZRampyOFVTczZRbWk0azFBakVndUJ1X0NjVmJmV1JmeXNXSlFkNzF0NUZKTUUyUnlHWi1sOXFpVHV5NnVvcDA?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 14:22:26 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-14T15:00:21.965Z"
+      "updatedAt": "2026-10-14T15:25:14.034Z"
     }
   ]
 }
