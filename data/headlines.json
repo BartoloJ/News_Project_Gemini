@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-15T03:25:13.133Z",
-  "lastChecked": "2026-10-15T03:25:13.133Z",
-  "lastUpdated": "2026-10-15T03:25:13.133Z",
-  "generatedAt": "2026-10-15T03:25:13.133Z",
+  "fetchedAt": "2026-10-15T03:50:15.210Z",
+  "lastChecked": "2026-10-15T03:50:15.210Z",
+  "lastUpdated": "2026-10-15T03:50:15.210Z",
+  "generatedAt": "2026-10-15T03:50:15.210Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T03:25:12.115Z"
+      "updatedAt": "2026-10-15T03:50:14.174Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T03:25:12.177Z"
+      "updatedAt": "2026-10-15T03:50:14.249Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "North Korea says it tested cruise missiles designed to be fired from submarines - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjBMMFpHMHM4MzVCcWlvdjk1eXdqOGFDekxUSUlraEVSOUNvNnlMYjd4THhwak0xMDd6MTB4c2QycVlYRXFhaVFyNmF2VXdxajVRdkdOVFh6NG1NSldTbTRQMWhOSTljX3RhNUNfR3VhNUM0RDdSVmQzakRmUEFTbF91NnlibktSYjJPd1VhSEpyaGNZTUlYaEVfbWUzMzEzQzEtYmFR?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 01:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "‘Cockroach’ movement leaders jailed for 5 days after scaling barricades at New Delhi protest - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmwwdXh2NEZMMENkMVBUQ1FOWHJCekxPODRYa1ByS0lqQjN0WU4yOGt4NFdJNkdmMlRrWkJ0YjZfdzhRQUJUNHNES0NkNkptTzNFQUpmNmllc3pkQTEwY1ctdjhhbU9sZTROQ2ItdkpwQmlCLUNZTWdfWXAtWmc3eEdSd2ctekdMSWt1LS1Pa3NZcE0tM0pHaDRjYklxb2VKalBaLXVWd2IzRHdYT2xrM1ZxX2Q?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 01:36:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Teen accused of plotting mass shooting at Chicago-area Hindu temple - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOG5NMkp1aHFwWmtqUXJXUTZIeVZITWFMNkJDenpJeEYtWnRaT0ljOUdQVnVKNEpJUjNzLWJIRHRuYWZKNlB6ZnRNbU1vTjE5UnNHZ1RUZ2prRXg2Zzd6cVptSkd6RnRWRDRYeGxIMXR0S1VkSUp5NDB3aXlhY25GQ3pWdVp5VWEzY2l2cFVxOWUtQlVNRkpKLWV2NkVJWGlJVVVENzNaOA?oc=5",
@@ -136,12 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "North Korea says it tested cruise missiles designed to be fired from submarines - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjBMMFpHMHM4MzVCcWlvdjk1eXdqOGFDekxUSUlraEVSOUNvNnlMYjd4THhwak0xMDd6MTB4c2QycVlYRXFhaVFyNmF2VXdxajVRdkdOVFh6NG1NSldTbTRQMWhOSTljX3RhNUNfR3VhNUM0RDdSVmQzakRmUEFTbF91NnlibktSYjJPd1VhSEpyaGNZTUlYaEVfbWUzMzEzQzEtYmFR?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 22:25:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWVXV2QyVkppUjcxckt2dEhUbHBLMnVKbXl1VFJLdFU2Y2Fkd0Y0WGlaY21QNnY0QzRnT1g1VTVoOUhPNkdVWlRQOEh2UDA3SEpmWXVNUG9WOEVsTzRMSXh0bk40YUJfWDFPbkVvYWJkbXIwMHBCQ2pKR3ltSmpJbHJCVEZRMlJzcG9sTnlVcmI0N1RpX1E?oc=5",
           "pubDate": "Wed, 14 Oct 2026 21:57:00 GMT",
@@ -154,28 +160,34 @@
           "source": "AP News"
         },
         {
-          "title": "Ukrainian drones are forced to slow down by sudden restrictions on use of Starlink - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWRmRG9DZUlZX3NNS19fcHRySUhIMlZadTN2YjVTdkdOQl9NT0lhSmJtdHM3ai1xMU9oQU1PVVRtMmdVbEFndlVWSXFJX2Y5RVEyRXlTQTFJclFBSHN3eVo2NlpMSlNrOWZfZ2hLR0VKZms1enQ1VjdicVdsN1R1RFVDVkJMLW5tQmUtbGpUN1JMMG5YWDNQSG9GVURLVmVZOVlzOFF1elAxR0w0?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 21:02:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US stocks drop to their worst day since July as inflation worsens - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0pMamlGY0kzT3haV2dhdGc2UlQwNVo5dS11TzZNNFJlcEZhb0dmNWJRZE95aXY0N3FUc3I4SlNqVC1tVjlOcWswTHJqREI4OHFNWnpScU94UGk5ajJUMkZyRVlNLWZsWFhad2ptaHlrcnBEckN5ekxIZ21PLXhKbmg0aFY2b0UzZm5xTG95ZnhMVUE1WTVEQU1yWWdOaVlfZzlFUkJMSi1pbTl3UFR1Qk9B?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 20:45:00 GMT",
+          "title": "Texas prosecutor says ICE officer appeared to intentionally strike a man with a vehicle in Houston - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGZ0elkwbTRKYmowMFNBcnJOUk5VX19GZVp2QmdVOTh2RG9HbXJZODRmcU5JckxpaUwwUFBSSGZpN1BXLTNWX2lWcFhOREJfT3R1N2dWWmFxd2draFgxcS1OaGlaMUVVU0pDX0duTDIwN3hBOEMwUDRTX0dudjFITTZJLVI5ZHRtY1liM0tXanJBV28?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 21:06:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T03:25:12.691Z"
+      "updatedAt": "2026-10-15T03:50:14.751Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "China's top prosecutor arrests former Chengdu mayor suspected of bribery - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVZoREFlcnctR053bmRhcDF1aUMteUQ4TzJsS0g1eWRESERXcUlKYlFtQ09fSUpVTWVlUnUtSWQ4UjVqYzBrcmt6Q1hwYVJBbkJYZ0xDem03YkJHQU4tUDZZMW9lMFdUTE1vOEQ1cXhQZ19IQ1ZXRnA1VnZ0SjRGYnBfdHB6bTdFQnhHYnFtTERXcV81eENnVGg0OU5GTllxUFJwTFdwSkVPb3pZajRqeWM5dWZCLWc?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 02:24:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "EXCLUSIVE: SK Hynix conditions new US factory on more US chip equipment exports to China, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZExZLWRBZUo2NlJPaFhzSWxERFdkcGl1bklYWTFfQ1NrRG01WWtmQjhlT3g5OEtvT3c2SjNlbHVlcEhVelBtVk5RVHR2ckU4VFZTV1J1S3ZpOENaT1dibXQ3cXdsbFd3Rk43N1lFWEZBVC00NFJiSlU5TlpEbEVsWi1RakhQYmpwN2xlMGRlakZqdFRnaEJpQkZaRllTMFVhbUJmaWt3d2NRclJvRFZ1VG5jNWpSZ2dWZ3l1bEhHUnBWajR4YVB6S3hEamlMMzA?oc=5",
           "pubDate": "Thu, 15 Oct 2026 02:02:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "New Zealand to help Fiji overhaul intelligence agencies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTk9TcVBHSmt4LTV0UEdldVZLZUs3OXNjeVlaWm5uZlNBQjNTUjFlVlhzTXV4UjR5VTNiZjBJOHlLSzVnYVQyT0cwalhGb3FMM2g1VjRza0o3bW9zVlBGLW5FOU9pcGI0bTRQWWZlWERLTDFCYmVrVTJvNGxJdlE1NU5LaXVSclRnbi01ekVmMVI5RnRwUS1rVmtqNjV4eXNNY2c?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 01:50:00 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVUR0WGY3VjJNQTVXM2tVVVh3TTNIZjNxd0c0TldqMV9ONlk4VVJseG1RSGFHUDlCZmZqbmZPVms1Y2RhOVlIczRleUZtaTlhUXg2Ym5aUXhBMHN2UmE4RXpzTlFzUFdCRUtwaFVwc0NVdURVMGZ5X3k1UUNyU2ZRM092eEVWNldTQ2J3bTdnMnk1bDlpV0FPcERVaEdEbzdUb1h3U0pTX0xvdDd0SzBoUVZNNl9tUnhHd3lLLXVBcHBKNjJud2JPUG1Jdw?oc=5",
           "pubDate": "Thu, 15 Oct 2026 00:27:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US considers easing sanctions on shadow fleet vessels to cut freight rates, official says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 00:06:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 23:33:39 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T03:25:13.133Z"
+      "updatedAt": "2026-10-15T03:50:15.210Z"
     }
   ]
 }
