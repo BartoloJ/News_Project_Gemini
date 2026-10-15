@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-15T03:00:18.217Z",
-  "lastChecked": "2026-10-15T03:00:18.217Z",
-  "lastUpdated": "2026-10-15T03:00:18.217Z",
-  "generatedAt": "2026-10-15T03:00:18.217Z",
+  "fetchedAt": "2026-10-15T03:25:13.133Z",
+  "lastChecked": "2026-10-15T03:25:13.133Z",
+  "lastUpdated": "2026-10-15T03:25:13.133Z",
+  "generatedAt": "2026-10-15T03:25:13.133Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T03:00:16.943Z"
+      "updatedAt": "2026-10-15T03:25:12.115Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T03:00:17.066Z"
+      "updatedAt": "2026-10-15T03:25:12.177Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Teen accused of plotting mass shooting at Chicago-area Hindu temple - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOG5NMkp1aHFwWmtqUXJXUTZIeVZITWFMNkJDenpJeEYtWnRaT0ljOUdQVnVKNEpJUjNzLWJIRHRuYWZKNlB6ZnRNbU1vTjE5UnNHZ1RUZ2prRXg2Zzd6cVptSkd6RnRWRDRYeGxIMXR0S1VkSUp5NDB3aXlhY25GQ3pWdVp5VWEzY2l2cFVxOWUtQlVNRkpKLWV2NkVJWGlJVVVENzNaOA?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 01:29:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Pope Leo is eating, celebrating Mass and walking after cancer surgery, but trip is in question - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2xLYi1GaG84eGZndEJRLXpCS0JWUTZjeTU4N3drUTVxVzFGLUlLSHg2b1ZXU3M2SG44NVFhYnh4MzlsaW1EaEtTQVBaeEJHcTZ5ejVOY2NpQzVNcURpY0taa1V6di1DN1M0RlMyR2pibHlTbWFRaDg5SUJFQWNMWUlaRXNvd0stV3dYY2J6Q0t3YjlKaDNOaW9RbWw?oc=5",
@@ -127,18 +133,6 @@
           "title": "Iran-backed Houthis strike Saudi oil company Aramco’s headquarters, officials say - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
           "pubDate": "Thu, 15 Oct 2026 00:45:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Luna, a small dog missing for over a month in Yellowstone, is reunited with her owners - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXpxSDdubVpzSUZOdU9UZEdybkZNV1JPTV9WWVZmTERSVVE3dldOMUVTU21fUXQxbTRyaWFoWVlzVVdjb0pPa1k1eFQza0VuUHVFOFlEVThHOEN3eldkNzJSLWRjOW5tOGpJY29HMGtiQVIyX3NXRHFzWk1tTTRoVzVFeDcyZjhZczl5M1llTGt2VENnNVY3LURfVQ?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 00:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Rays and Guardians to play ALCS Game 3 in afternoon to beat rain. NLCS game also moved up - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeENobWUtYXd4OGVpVWFXbWdBNlZGbXRRTXZOd3luQllYcFV5WnRsbUZHMlBLcktTQ3lSX2F6VDFPTS0xZUZENVBoRC10cUw1Tm1SUTRxLTk5Y1BKd0UyeXhWNXJnM1dUNHpOZl9jZVlyM0NwcHQ5YjlDUjJmM1RUelY3aUVtbjZMek9iOEZtbw?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 23:36:00 GMT",
           "source": "AP News"
         },
         {
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWRmRG9DZUlZX3NNS19fcHRySUhIMlZadTN2YjVTdkdOQl9NT0lhSmJtdHM3ai1xMU9oQU1PVVRtMmdVbEFndlVWSXFJX2Y5RVEyRXlTQTFJclFBSHN3eVo2NlpMSlNrOWZfZ2hLR0VKZms1enQ1VjdicVdsN1R1RFVDVkJMLW5tQmUtbGpUN1JMMG5YWDNQSG9GVURLVmVZOVlzOFF1elAxR0w0?oc=5",
           "pubDate": "Wed, 14 Oct 2026 21:02:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "US stocks drop to their worst day since July as inflation worsens - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0pMamlGY0kzT3haV2dhdGc2UlQwNVo5dS11TzZNNFJlcEZhb0dmNWJRZE95aXY0N3FUc3I4SlNqVC1tVjlOcWswTHJqREI4OHFNWnpScU94UGk5ajJUMkZyRVlNLWZsWFhad2ptaHlrcnBEckN5ekxIZ21PLXhKbmg0aFY2b0UzZm5xTG95ZnhMVUE1WTVEQU1yWWdOaVlfZzlFUkJMSi1pbTl3UFR1Qk9B?oc=5",
+          "pubDate": "Wed, 14 Oct 2026 20:45:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T03:00:17.788Z"
+      "updatedAt": "2026-10-15T03:25:12.691Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "EXCLUSIVE: SK Hynix conditions new US factory on more US chip equipment exports to China, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZExZLWRBZUo2NlJPaFhzSWxERFdkcGl1bklYWTFfQ1NrRG01WWtmQjhlT3g5OEtvT3c2SjNlbHVlcEhVelBtVk5RVHR2ckU4VFZTV1J1S3ZpOENaT1dibXQ3cXdsbFd3Rk43N1lFWEZBVC00NFJiSlU5TlpEbEVsWi1RakhQYmpwN2xlMGRlakZqdFRnaEJpQkZaRllTMFVhbUJmaWt3d2NRclJvRFZ1VG5jNWpSZ2dWZ3l1bEhHUnBWajR4YVB6S3hEamlMMzA?oc=5",
           "pubDate": "Thu, 15 Oct 2026 02:02:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Dollar retreats from 18-month high despite hot CPI as Fed officials temper hike bets - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDE0ZWJRMm1PNWhpVzUwaDhHb2o1YkVXVExaeFVQWWFwcnJtemVfakY3WHV0aFFQWHR3dkR4eVN1OTZ3dXVqb0QzQ0ZuNkNhek1IbFRhVEtBXzNKcVpSQ1dHQm16ZGMxZHF1Z0txU2xHVUVsb0txUzhxLVljb0NXWWZzX2ZETk9QbHF1dm5XdmMybWFYRzl4d1VuS3J0NlU4enJvQVFuYTYydDNYUVVHM3pjandDUHdHbHhLT2otUU1HQk1PTVpReHpmTQ?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 01:49:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
           "pubDate": "Wed, 14 Oct 2026 23:33:39 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "US floats unfreezing some Russian assets to restart Ukraine peace talks, FT reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMDhpdEc0TWhaVDlRTWtUb040ZTNkY1hVd2EwQ1pISWRDQUY5OFdRRlpTVnF5TVdwMnFmQkpUQ2N1ZTBsbVBsX2NHTWN5bmdXZ09Kc2JzTlhwOTQ4WVljT09Za1NFRmhmYXJScGcyMExLalFXNUhRRktlbElhcnV4QnhWMmdBWFVVRGw5VDZiLXVzQ3dWMUFoSkZYTi1mTUVjc0U3czdjdl8wUU54ZUpLS2VidzJ5V2lET0dZMV9HNW45b2VCWEtB?oc=5",
-          "pubDate": "Wed, 14 Oct 2026 23:23:25 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T03:00:18.217Z"
+      "updatedAt": "2026-10-15T03:25:13.133Z"
     }
   ]
 }
