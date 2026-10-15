@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-15T18:00:19.928Z",
-  "lastChecked": "2026-10-15T18:00:19.928Z",
-  "lastUpdated": "2026-10-15T18:00:19.928Z",
-  "generatedAt": "2026-10-15T18:00:19.928Z",
+  "fetchedAt": "2026-10-15T18:25:17.124Z",
+  "lastChecked": "2026-10-15T18:25:17.124Z",
+  "lastUpdated": "2026-10-15T18:25:17.124Z",
+  "generatedAt": "2026-10-15T18:25:17.124Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
+          "link": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 15 Oct 2026 18:09:58 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
           "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 15 Oct 2026 14:51:30 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-          "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 15 Oct 2026 11:25:19 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T18:00:18.782Z"
+      "updatedAt": "2026-10-15T18:25:15.868Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T18:00:18.844Z"
+      "updatedAt": "2026-10-15T18:25:16.149Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "FBI agents and analysts fired for roles in Trump classified files probe sue to get their jobs back - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmE1VUNZYjBrTWE1TXdwTUNCY3Z4MExEcnJoRnBsOWVPMDd4aDAzV282RS14Y2xhMXVsdElCLVU4YmFXMV9RWF81eF9idWc0Tl9keEFiUEhGYlF1OGJxRUk0dTNETmVCVlpfcGRFU3hFWkFKaDFQUDRNV2YyYW1ubk9JcUpHOXQ3eVo4M0JTS0NXX3U4X2FyeURaZ1J6MlFMNzh2YzNJbXM?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 17:47:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Wall Street steadies following jarring drops for AI stocks worldwide - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWhsa2ZhTGZKbFhXckYzcXZGbDZoeUxRZXZlbEtSU1ZkOHZndkpDSWdqQUZZTmJDdHNHUlFHSXlRRm1zVUNKVFlXVEFSNW50Qk9vR29MazU0a3laNlJUR1ZBMlFlUGlWTl9VSk9CSnRUQTZvWV9INUNOLXdOeUtBdGpWaGo0YzNSeVVlMDlZQlRLQzV3TEE?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 17:26:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump, after bipartisan backlash, says Pentagon won't livestream execution of Fort Hood shooter - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzNuVjFfdUxtUEJVU1J2MVVFNmRGTDBCM0E5a2ZwWk03bVNSMndsSHFySWtKUkdDdWtNdlRKQ1lWYW1sVlNQTzBwd043dDVlTEJUQ3dHT3pUVVVFVC1Mc0wwLWFjeHM1U24wXzZzYWR0WEY3ZThpOWRvOU1ENElFakNMZ2lmRy1obVpLYkN3?oc=5",
@@ -148,34 +160,40 @@
           "source": "AP News"
         },
         {
-          "title": "More drops for AI stocks drag Wall Street lower after whipping around the world - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWhsa2ZhTGZKbFhXckYzcXZGbDZoeUxRZXZlbEtSU1ZkOHZndkpDSWdqQUZZTmJDdHNHUlFHSXlRRm1zVUNKVFlXVEFSNW50Qk9vR29MazU0a3laNlJUR1ZBMlFlUGlWTl9VSk9CSnRUQTZvWV9INUNOLXdOeUtBdGpWaGo0YzNSeVVlMDlZQlRLQzV3TEE?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 14:30:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Artificial intelligence - AP News",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 13:44:47 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Retail sales up 0.8% in September, but a big chunk of spending went to paying gasoline bills - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcERfQVlYaXdFLUJoR1BlenBSM3hmTHQxTDJ3MjJKUUw2NzZTRndQMFNBYV9IcWhleGZHRzhvcVFuX1FuVjRBNXNVZVFEQTNKRjNHWEhrSk12Q1NDWmR3aklaNVFCdVlPck45cmZiVjNmRXpxRkEtRmc3MGdSWFRnUXRDQjlOTG43VGliR3VlX2VDeWVmS2xBRFVzUDdvZThhY1hrUU1WNA?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 13:40:00 GMT",
+          "pubDate": "Thu, 15 Oct 2026 14:18:04 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T18:00:19.432Z"
+      "updatedAt": "2026-10-15T18:25:16.673Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "India's top court voids Yes Bank's $880 million AT-1 bond write-off - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzFfQ2pjUjd1eUVySlhZZlFrZHNJaWdTako1Qmp0UWZuUFhxSHBhVEdNeXVJWGZvR1k1Nm1vdlBtVnFUZm1PNHRHUm8ySHdySFY0T3hMX2dwVnhRNXBMT3NEeTQtTlRfNVMtbURneUNhRmRibU9vRjE0MGQwZl9DZV85UERLTGpJZFdqZTI2SUYwRjJQZmU4a0E3NXo1Y2F1c1Utc0NfNzFZSFVOYk1R?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 18:09:04 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODZXb0UtbHJiTHdmLTZhUENYcXNNeVptZDFGV1pUUEpuS3A0RzROVlBWSGw2V2tvdjNabmlnX1llVmh1Tno5TW5jUjhLWm5BY3VOREdYTnd5Q2RpdmdyVnVzR0lFTlp4SDV4a3JzNWo0US1xdER1eUkybkRtOHlBT2U4RE43NFI2dGVnb29fSmdPVmVPaDY3NG5fNXRabFR5dkJBU0pwNDFZSkN0NkxaU2lEd2c1Mk9HbUNUYTROV3BJUnh3TEE?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 17:46:44 GMT",
+          "pubDate": "Thu, 15 Oct 2026 17:50:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "CoreWeave's slump spotlights growing burden of debt behind AI boom - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckxhLTlLMHVuWl93dlRGWngzUjBqY0wxaU85Q2lPNGxaMzg0ZjJhT0ZGd210N1N5SDVpV1lLNl9GOXlNazFrN193TFNFREg1dU5OTkpadm9LVHRxU0ZzQWVWbFV1MnNHY2RGZHVsajI5UWRlWDE5NmtGaDctV0o5ME85dkV3RU5LSEFWdTlNUW5RWXZ5S1BXelNMZkI5ZEZfR05kd1UwNnBZQlQ0MHkyQVN3?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 17:48:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGVvZWRvRzA4MGlxRTRTLU95S2ZWTnB2LVZ1ZDBPQTdxbW53SmViQk96X3FpTlVXNEtZaTRvMld4akRJUm9vOU56NjJfSnROV3pCeURHQ3BCcTBYbW1KVVZyLVBaT0VXaE55WGc0WGI5c2RRdC1RaVZiT092ZU9RaTBRdmluamFTQ0JuRWRWNTNYdzhOa1dfNWVBNV9RcVMydFZoaHpFMlJnSHhrckl2cnRyZC0xc0xMcW5Idw?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 17:42:36 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "CNN signs multi-year AI partnership with Google - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnM2QWR6ZVFBcTRKb1MxbGgwXzBYMkt5aldWd2Q0UHRBbklWZTBYQVdEeFE4QnRDY09rR1hnX1BSam41NVRRS0d6dTdaSkU3c3NsbFMyYS1sN1pqRnA1dl94bXRxdk01WTJaNnFWVVJzRk5xUjdTRDBocnlzbkVxZWdNaUwxRExrU1RrVkd3ZXJpM3djTVFBSGZZRE0wRWVKaHpGRER4d2hXUQ?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 17:09:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israeli firm used online ads to run vast spy operation, researchers say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEJrbGVXVGZlSEYzZnNuUVJYQVJKTHY4R2xJcWo4aVdGMERyS3p3YzQtNXFNbmUzMk1seXAydGtmZzhDeFNiWjBuWkpxa25PdUlpeU92bkdnZnFETDFGQ1VGMjR0S0J0RnZ3dE9sa1BCOU1FRlBSZ1h2R3BOeUJLT3JMc29Ib05BeC1FV0FxdUQyS3ZNajcxNXZ3ZVF1bmNWdkhqMElBMDNNa2dNVUM4NVRQeWl2dDkzLWJrSg?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 17:02:51 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "How Aramco learned to keep pumping oil under fire - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMEo4RHMzbGVMLUpQcnFqT28tSlU2Q0FBUlZtc2MzaUZSLXpsd3o3X1VGQXplLWJUaUJuQ1BCbFdVbzZwZUk0OURuZ0dmcWVkaWNaclNBcHBlRGR1bWViNWROR21UV2pSRTdqNDZfUVFDdHR2TG9lUDd5eDlNRzVtWHRVNFI5d3I4MUtQdG04SVA1OURzQzI5WXk3N3ItUEE?oc=5",
           "pubDate": "Thu, 15 Oct 2026 16:57:37 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump donor leading Caucasus fund has major Armenia holdings, Russia business history - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaXotR2IyVjRqX3YzMldEVkFSWE5ibF9fNndPZWdYRVk2cEczX1lyd2dSTlFwVGVZQm5ST0FxakNfS1hFdWhuTndkMnotRUFNVmFvQ1BmTy1hdl9rd2NUaUNmdlBHZE0tWjFvWjdJcDhlVlBJV0dOck02MTktUHUzU0lEekN5N2tpcll6VHZlQUNyMkpZUWpJRkgtYjhEdXlXN0x4OHpGTTNYcndZUWNVZmdNVGNuZnlObVdaRUFIWDNUaXFDNUhMeG5zTWxwejY5?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 16:45:10 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGVvZWRvRzA4MGlxRTRTLU95S2ZWTnB2LVZ1ZDBPQTdxbW53SmViQk96X3FpTlVXNEtZaTRvMld4akRJUm9vOU56NjJfSnROV3pCeURHQ3BCcTBYbW1KVVZyLVBaT0VXaE55WGc0WGI5c2RRdC1RaVZiT092ZU9RaTBRdmluamFTQ0JuRWRWNTNYdzhOa1dfNWVBNV9RcVMydFZoaHpFMlJnSHhrckl2cnRyZC0xc0xMcW5Idw?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 16:40:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall St banks caught in capital markets lull after a strong first half of 2026 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb29DeVJTNUVLRVV2LWFBdlBoTEMxOWdMWElmRTlGNm5HR2RXWUdobVdoZk55X3pqU1cwZUtpZno2RkZ3RU1TXzllSGc4emxJS3VMakU1ZkNLYWJLbDBUSF9kQkY5OENramlRZjVGbWVPckxsaGFzOU9sSnhMbWVUNk5uRGo4LU1BakdIZWZxZlZqcGl0QzFiMGdaT1QwWW1vLWh5VUtlUldiMmFxMENQMl9DNEx3YlZKeXlqSVRnUlI?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 16:39:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "India's top court voids Yes Bank's $880 million AT-1 bond write-off - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzFfQ2pjUjd1eUVySlhZZlFrZHNJaWdTako1Qmp0UWZuUFhxSHBhVEdNeXVJWGZvR1k1Nm1vdlBtVnFUZm1PNHRHUm8ySHdySFY0T3hMX2dwVnhRNXBMT3NEeTQtTlRfNVMtbURneUNhRmRibU9vRjE0MGQwZl9DZV85UERLTGpJZFdqZTI2SUYwRjJQZmU4a0E3NXo1Y2F1c1Utc0NfNzFZSFVOYk1R?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 16:38:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Northern Ireland's Donaldson sentenced to 15 years in jail for child sex offences - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcVlXZTlLLWxVZDFyZmtyeGtTZHpmRDRHUVNIYl9IOEdvOHVnT2REY1AxTVZ6aVk1Z3lYV0VXQTRpa0w3bFpReWN3VWhKX2hxNk5GNmJQYjFWZVM2eWdVZ2dGTWtxZ0dvOWhzNUpKenpXd3ZjdWk5eW1sTFp2UnRVZlREbW9JVGQ1aTZZTlNmZEF5RTZZQ1NrZzZEQjFvSXNqMXBmSFFGVXVYNTA?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 16:38:13 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T18:00:19.928Z"
+      "updatedAt": "2026-10-15T18:25:17.124Z"
     }
   ]
 }
