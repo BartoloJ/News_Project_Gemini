@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-15T13:25:13.503Z",
-  "lastChecked": "2026-10-15T13:25:13.503Z",
-  "lastUpdated": "2026-10-15T13:25:13.503Z",
-  "generatedAt": "2026-10-15T13:25:13.503Z",
+  "fetchedAt": "2026-10-15T13:50:19.074Z",
+  "lastChecked": "2026-10-15T13:50:19.074Z",
+  "lastUpdated": "2026-10-15T13:50:19.074Z",
+  "generatedAt": "2026-10-15T13:50:19.074Z",
   "sources": [
     {
       "name": "BBC News",
@@ -32,12 +32,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Watch: Harry and Meghan at first joint engagement since UK return",
-          "link": "https://www.bbc.co.uk/news/videos/cme8r0eexr3yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 15 Oct 2026 11:10:59 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Obama says drift towards extremism 'not inevitable'",
           "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 15 Oct 2026 10:51:53 GMT",
@@ -54,10 +48,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 15 Oct 2026 10:05:17 GMT",
           "source": "BBC News"
+        },
+        {
+          "title": "White House defends new press secretary over her legal credentials",
+          "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 15 Oct 2026 08:41:04 GMT",
+          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T13:25:12.096Z"
+      "updatedAt": "2026-10-15T13:50:17.812Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T13:25:12.379Z"
+      "updatedAt": "2026-10-15T13:50:18.087Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Wholesale inflation jumped last month by most in four years as gas prices soared - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNExzSHEyWDFGWnpSTkR2V3NndkhQTmU1dzE3M2pTWENyU3RPRTAyb0JQQXNqbENPTjJneHRsYWpMMXFPUXg3dnZfekhEM1VoSFNIRTM4U29QR1l0TGhzeVd6WkZIamdXWDkwcmdlR3k5eExLZFd3SUc0MHFQc1NoQlIwRWw5MzM5OVpndWJKa3NIZFNJRGx5YQ?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 13:06:58 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Inflation anxiety drags on AI stocks for a second day as markets point to a mixed open - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWhsa2ZhTGZKbFhXckYzcXZGbDZoeUxRZXZlbEtSU1ZkOHZndkpDSWdqQUZZTmJDdHNHUlFHSXlRRm1zVUNKVFlXVEFSNW50Qk9vR29MazU0a3laNlJUR1ZBMlFlUGlWTl9VSk9CSnRUQTZvWV9INUNOLXdOeUtBdGpWaGo0YzNSeVVlMDlZQlRLQzV3TEE?oc=5",
@@ -126,12 +132,6 @@
         {
           "title": "Police seize robot that groped 16-year-old girl, investigate whether young men were at the controls - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1VNdWRPZEZJT1pVUlp2RHhDb0ZYd2hDaGpDd2ZZQnNJMUhzZnNNeXAtWlhjQVY1UldISXd4MG9CT2p4M3BlSVB3Sms1VDZpRTdha2Vzcm81S1RHSXVmSlIwc05KOUZ6Z3V1NW1oMFJxWVVaOS01V0VDRWVJMFV2VFNvOHBMSjQxMzNrWXVxZk01dnpoR3FqeVctaTY?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 12:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Frustrated with Trump, voters overwhelmingly want change in Washington, an AP-NORC poll finds - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdndXeVQyVzJEOXJDTlRFOFRrV29pa3g0eVBGRnozOVJIRTZpQl9DN3laakhTV1lXMTdXQS1vNjdJTXl1dEZQa05uT3N3UUVQUkgzZFVaUG5oMTlIZnd0OFkwc2NWWU85SUVlQkIybkozT1d0cHNpUFRITmxwUlFGZmc3R2tJOWxLOHhCSGtEc251aWZvTmN4YmxCT1BIaENDTFhjMW5oRzNmelBZeExGbDJ3?oc=5",
           "pubDate": "Thu, 15 Oct 2026 12:06:00 GMT",
           "source": "AP News"
         },
@@ -167,11 +167,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T13:25:12.926Z"
+      "updatedAt": "2026-10-15T13:50:18.597Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Just over half of candidates in key US Senate races say they will accept results, others hedge - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbkx3Y2ZQNjVuMjhITGZoWTRPdUJxaE00cWdLR3ZuRllkaWtFdzFkWXlwTjRZWmRxbEJtVXZ1dTc3X3Q4NXlzdzlBcXdZS1FkemJMR2IzNzQteW0wQS05bVZ6U0NGN2FRWTlDWjUza2V2bkRfUTJyS25QYThSVGpEMXdrWXo4VE5GR2JEVUxZTWVTbl9kSGp1WEt1ekQtS1B1c1NmY29DazZGbzktbHZYdkZzc1hUUG9lNGhaaEphMzFJYmVScmc?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 13:35:17 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: WEF could appoint Lagarde as early as November, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNExHamNuVlEwYUJMR1pmbjhxVFpNYURJVDNqU2wydDRMSDV3WkNSajkweDMzTU9FRGpsclhFLWFJVVRzcWxpMWlZN0VkYkNyUVlOWmhoZ1BNNXA5M2s4WU1EUEZVMDRWM3ktWUtaTmM2UkhfMEdSZ29oXzBZMFJyUngxN05NYjYzUUVQVksxaHBjSzFyVjNHLVpaaFZweTVlUkMtNnQ3dUI?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 13:11:11 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Cohere moves to buy AI cybersecurity startup AISLE - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUE9DbHl3UklEenZpVjFtNVpCb1RXY0ljendQMVZudHZGSFRiYk4tT2hsNk5KMjJIVDhjbDVyVXNxSkVXS0JmaTFUSml1XzNsdDdpQjBJNDd1MFlEdmdPNFE5VDMwbEc3dWhUTWdGT2ZzbVdScGJtTkFjNkdMT19KYVRXUTI4b1d0eE9KVHhPWUhFbTFPQlRsVWVTdC1EbEMyODlkc2FR?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 13:01:59 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Venezuela's Maduro due in court over new US torture charge - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVZ3VzZsQTJMSnlVV1QwemJZSjRBY0JrWTdBbGg4VmhMbG8tZzRDOHhRU01NOWJCV25Iem05S1BqanZjbDdray1rNUFYOTBKZS0xT2R5UTVUeHE3N0FvVmppUU5Dem5SUXZQb3hYYXhNekdPRjVMVEdEMFpMUGk1MjZJZGZtNlUwSzgtN25FM0ZtRG9NVzJUWGtWU0djQTBiYkY1Q20xSzA?oc=5",
@@ -185,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Seven subpoenas engulf Nevada election chief in key midterm battle - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM3RRM0NxQnF4QURwYWR2RG9xMWxUTFl6Q0RuYlRYUmhhX25GZFJDdzBMaXhsWVJoUDRCTTY5TkdDTWpNN0V3Mjg0MkpaUmdnaUZWVmxhZ2ZXWWQ0b1ZFZ29BelpiNGl4ZUFvdVZjWkp3eVpBeEVjeDdnN0VIZF9YWFVScnBaaHFDTHVMOFZvUDJ0S0RTcXpQMFRfcDBkcFFNeW5XR0ZFbS01Zkp6TDN1bzZhOUVEa00?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 12:47:41 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Albania's leader defies calls to resign as student protesters rampage in capital - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzR2R3ctV19YUFlJRy1QM3RoT0wyV2d1dTlfZHVEanNDcDFJMzZjM2Zyck45b3NMTktPWVVLYl9NUFBmZmRYRGw5YnI0Z3RLbDQ5MVZKck1PNF8yRTAtdlhFUWF5N0R5Z1psX0ZGN2k5ZUZ0RjFtWU9Sblg0MTZmbGxkcjFUeHlHdDd3em44UlY3cGRuUmdjOUtJQmstNFVCX3c?oc=5",
           "pubDate": "Thu, 15 Oct 2026 12:40:07 GMT",
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDhRZ0FsM05ZWGFISWtLaXVIam1VcVlxWUY0YlF6NUR1SF9FSnFKQnJwMU5pa2hZUG1ZalVtb1RmY19adW5LSnZhQ1pmNzhtX2tTeE9Lal9LX29iRkZsbHVlcWlLWEw2NW9iaGlrS19odFpadHRSak5VYXFfTWRaaUpjUVp0SEVlb0ZvdTBZLThVcVB0V0JSdEZyZnBrQk05dzgzWUR4Yi0?oc=5",
           "pubDate": "Thu, 15 Oct 2026 12:35:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Prince Harry and wife Meghan make first joint appearance since UK return - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWRpS29iTXprM2w3Z19wY0xITWVabHJwYi1qclpkU085VHQ3eGhlM0xscWRTVVNLLUJuN1pxazRiS05HM25oTThUXzE5eEV1RkZVcllpRHVpcVg2QjY3MWI1QXYySnI4ZjdzQWJoWlFxQk9SSTFTRFJmN21YWHFtc0UwV0ZmYUtxbFB4OW5QbGNoTTRoOXNmMzRZeHBlWUJ0MHhyeW1kUXE2RW5PM216THJOaw?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 12:04:01 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Warsh's quest for quiet Fed gets vocal pushback - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGZfUDY0VWFGY3BYQXAwTW5aZU1lUTl1bldnbk54UG9VTi1KRFlIeHpWdW1wRVRqNVJpTHoyZFF6R0lvejcxOEdQb3Z6dDVQckNPR2k4WFBWSWN5eUItNFNWZFUyTmJvNnhranNqZkpMN1RkSDhValZ0T0xkcXdUdEh0Y2drbm12TVFIUGxTUlN6WVE?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 12:01:34 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Cartier-owner Richemont in talks to join bid for diamond giant De Beers, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVWVQU3FmM05zRFJmS3o3ZW9OanpSNWV1X2Z0SllMSEtZTTdLYXBFLW5pNl9iN1FvOXF1MUgyM1ZVMXg4Vlk5RFVjaENmaXJvb3Uxb1M0Mm81a0E1RkVDTHRRSi1Ta0FUWTlvTGVPR19Sa0NadEVkc2J5UWNlR2c4SUFMMnU3ZVNsX1NKd1RFcEdxUmpZWUdoU3hjNUVySDNpdGt3MlltYXdzenVXdk9kT1VoYmRLQk15MUJSQTBFSUJRbzB5?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 11:53:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Two ships ablaze off Romanian Black Sea coast, 7 sailors missing - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWTNEdUVjS3dseHk5amh0VGlyX180YWx6MEZobS1ySVhHSnFzbVYtSFFRTUtqRU12M3pGTnRPOEIyOTg0VnRiUkoyRkJxMmJiYlpZamFOLTVYVXJXbmhCa2J0a1BxbmlaUDF4X1hsNW5rOWVpaEtzTUo5dGZSclVwWUpBSHdOdXZFa2h6TWp6b1piY1VqN18wVlY0dFFNOUtLcFlJcA?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 11:49:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T13:25:13.503Z"
+      "updatedAt": "2026-10-15T13:50:19.074Z"
     }
   ]
 }
