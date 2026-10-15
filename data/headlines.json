@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-15T08:50:15.059Z",
-  "lastChecked": "2026-10-15T08:50:15.059Z",
-  "lastUpdated": "2026-10-15T08:50:15.059Z",
-  "generatedAt": "2026-10-15T08:50:15.059Z",
+  "fetchedAt": "2026-10-15T09:00:22.166Z",
+  "lastChecked": "2026-10-15T09:00:22.166Z",
+  "lastUpdated": "2026-10-15T09:00:22.166Z",
+  "generatedAt": "2026-10-15T09:00:22.166Z",
   "sources": [
     {
       "name": "BBC News",
@@ -11,6 +11,12 @@
           "title": "White House defends new press secretary amid questions about her legal credentials",
           "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 15 Oct 2026 08:41:04 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "What's going on between Kelly Clarkson and a Brooklyn store bird?",
+          "link": "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 15 Oct 2026 08:19:00 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 14 Oct 2026 22:19:13 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Why Zelensky's meeting with Burnham matters",
-          "link": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 14 Oct 2026 20:41:03 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T08:50:14.045Z"
+      "updatedAt": "2026-10-15T09:00:20.545Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T08:50:14.183Z"
+      "updatedAt": "2026-10-15T09:00:20.741Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T08:50:14.657Z"
+      "updatedAt": "2026-10-15T09:00:21.690Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Two ships ablaze in Romanian Black Sea waters, 8 sailors missing - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWTNEdUVjS3dseHk5amh0VGlyX180YWx6MEZobS1ySVhHSnFzbVYtSFFRTUtqRU12M3pGTnRPOEIyOTg0VnRiUkoyRkJxMmJiYlpZamFOLTVYVXJXbmhCa2J0a1BxbmlaUDF4X1hsNW5rOWVpaEtzTUo5dGZSclVwWUpBSHdOdXZFa2h6TWp6b1piY1VqN18wVlY0dFFNOUtLcFlJcA?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 08:34:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Chinese startup DexForce trains humanoid robots using virtual data to slash costs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3RWbl9HdXVzVGdQMGl2SFFKU05DYW5TbXBHOGF3WDFnQWJOa2NHalNlc3JjeXB6b1FMbmgzY1RPOTI3b3hNUU8xb0lDb0pEeVdpQjBRaEl6aWZfSERLbUNHLUc5U0NkTkJTMjJtY3Bab2NnNWo1MDh4WXpOMWNnc3lZdHlmUjNyZmlSaVNjeHJqMHd1aXNFaVZkdGVTOXdyc3UybE5RVDg2ZWVYdnNFSC15WFVRNldielZzRFJ5Yk01OFU?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 07:47:25 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Drone attack causes fire at Russia's Ryazan refinery, regional governor says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0pBZjduSzRvUXQtRkNsY2RuSldmSVlKSThDLVhvbFYwOHlFclo3Ymt1VFptaERXV3h6Xy1ROHVMWWthTDluc1JzQTFHYk40MlNqSjBfSHBYSnVLbWhUWXAxbjJUTHdFZEhxdkRZdnhjbjBld2tSMXN2WDY4YVdxWmZVVkpuZF9IWERVQktOS0JkVkJDQl9XU1RNSDZ3WW0yZEJpNlQySXJtUG1NTGR1WGpQMA?oc=5",
@@ -191,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Lufthansa tells jets to carry extra fuel into Frankfurt as supplies tighten - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUF9RaHNLTExKRWZmQUdQTFNIMTBRLVJjOWhqdTJ0NUNESFRZb0dMOGVDMWhuWjlRaWtkMzR0WnNxMWJIeDVGeXVncFEzU0hCZjZpV01FLVhuMkdqOEw2Y29KVTRvcTBSWFlrbXEyaUNvRmRCNGxhMDBOWEthRTRodHhuRUN1ZlllV1BibVFUc0pZcFJJc3JNYjVpSXhQUllpX3Z5U3JpWmJDd1FoR2RiVkR1OHhiZmd3Rnc?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 06:29:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Pakistan school roof collapse kills 27 students, one teacher - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPei15OEJPSlpiaEF6a1V6MzN5dWFvNmQzZnFaZUVIbEpWREFXSG5kQzlpTDVyS3lST1g3Tk9XdXFzbTd2UEV5THZMcWdBSUw3LWpWX25mcW95Ui0tYk01RWxNNl85a01TRUdVUnpxV3g5WlA1MEU1eGZ1bGQ1eUl1WnRUaGhyRDd1UC1DcWhOcjQxcGMwZHhGb2hzTGpuQ3dmcTNkcGhmZkdxQlplQndkYm5hdGVEalFEMkFYSkJNYw?oc=5",
           "pubDate": "Thu, 15 Oct 2026 06:10:00 GMT",
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQclVJOWlaQURzRjZZVzhibFpUTnpjc2F3enRTT1NKZUotUjF2WUpCWjhFT0lzSlY0SXpoZ3ZlZDhMYkMtN1Vfa3Y1UGtZemFmV3N6WVVPQ3p2dld0N3ZubDUzVndDRE52dWdVbmpwOEFYY0UxbzYwR3dGcTNxSG9UcmNxd2ZhSzJVT2FRUTRrbnNldjg?oc=5",
           "pubDate": "Thu, 15 Oct 2026 06:06:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Ukraine resumes strikes on Russian refineries as Zelenskiy says 'we're done' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmt3MmNHZWJGNkVUMEV6MS00VmdnZ3U4LXpGVE5PUk1ZYXA2TjhQWm9lMUtObEVyZTlqejdpeDhKZlV5QVI0dWV6VUE3cXFtSmd3WUQyTldneXBQZjB0dU5lRTItQTc3YWZJRXB6NjRfOGZaVzhYUjExQmhYQ2lWUFlkXzc0TkdNWUl6S0xrMkZBZmNCYWpLUldwVDdsTGh5ZnkxSlFPWEdKWXhzZ2FLRVI3LWk?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 06:03:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Is the AI rout making bonds safe again? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc2pzbXo0U2otM1p2TXYwRHZRUjNuWFRfLV9ob0l1ZjB3Sk55TGVETVZsSHRhUkZDMUFFbkVPSWNGQnc2eVBlUTNDLXJfMUJXQ0VsM3gwM1dGSGRrN29HMWF2dW9aOTFyRFNQSmJ1RnN5bmtBWGVsODJmd3BGSXk1aG5uWmFxWFVORkNQVlJ4UzBueWc1?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 05:54:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indonesia blames peatland degradation for raging fires, vows restoration - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWFA0NzVueWF5d1dvd1VGY3ZqaEN5YTdGWnBPYTBVVmhxcktyc3hudDU4R2xqeF96ZGptVW9Oc3FJQU5lQThYQUpMR3d4TEVjRFFrQURwTlpvWVd1Tmhjb21icTRId2lfZGNmWmpBNFFfLWRyOGFEdVk1S0RGSUk4cjRkbDJrVzg3U3dkQlhfOU5zc0dST2hBbU0yVEZDbHhaT1pQTlEtRlNsMlVESlVnaERPSjEwSHc2czZZOGk3RzBLUQ?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 05:51:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T08:50:15.059Z"
+      "updatedAt": "2026-10-15T09:00:22.166Z"
     }
   ]
 }
