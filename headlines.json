@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-15T06:50:15.748Z",
-  "lastChecked": "2026-10-15T06:50:15.748Z",
-  "lastUpdated": "2026-10-15T06:50:15.748Z",
-  "generatedAt": "2026-10-15T06:50:15.748Z",
+  "fetchedAt": "2026-10-15T07:00:18.756Z",
+  "lastChecked": "2026-10-15T07:00:18.756Z",
+  "lastUpdated": "2026-10-15T07:00:18.756Z",
+  "generatedAt": "2026-10-15T07:00:18.756Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T06:50:14.119Z"
+      "updatedAt": "2026-10-15T07:00:17.555Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T06:50:14.259Z"
+      "updatedAt": "2026-10-15T07:00:17.832Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 05:55:24 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Cornell president pressed by faculty frustrated by his handling of fraternity rape allegations - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRUFJa2JRSUE5M0ZwN1FXX3dkR2V4NUQyMzFZWXZ6Q2tHaHp1anQ1ajBSd0lOVXdwZWxBSHVIM1FIYVFoaXIwSHRBRDBFOFVyZGx5d2c1Z1dOZi11Mk96Y1d4X2tLcFVMR3J6bWpTM0FXbDJ1amQzdWhTRUI1QksxenpRZ0M3bUhKSk9FemtheVFraV93SE5jcHJWYThMV2QydGJ4VThKMVVSUQ?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOG5NMkp1aHFwWmtqUXJXUTZIeVZITWFMNkJDenpJeEYtWnRaT0ljOUdQVnVKNEpJUjNzLWJIRHRuYWZKNlB6ZnRNbU1vTjE5UnNHZ1RUZ2prRXg2Zzd6cVptSkd6RnRWRDRYeGxIMXR0S1VkSUp5NDB3aXlhY25GQ3pWdVp5VWEzY2l2cFVxOWUtQlVNRkpKLWV2NkVJWGlJVVVENzNaOA?oc=5",
           "pubDate": "Thu, 15 Oct 2026 01:29:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Pope Leo is eating, celebrating Mass and walking after cancer surgery, but trip is in question - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2xLYi1GaG84eGZndEJRLXpCS0JWUTZjeTU4N3drUTVxVzFGLUlLSHg2b1ZXU3M2SG44NVFhYnh4MzlsaW1EaEtTQVBaeEJHcTZ5ejVOY2NpQzVNcURpY0taa1V6di1DN1M0RlMyR2pibHlTbWFRaDg5SUJFQWNMWUlaRXNvd0stV3dYY2J6Q0t3YjlKaDNOaW9RbWw?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 00:46:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T06:50:15.333Z"
+      "updatedAt": "2026-10-15T07:00:18.291Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T06:50:15.748Z"
+      "updatedAt": "2026-10-15T07:00:18.756Z"
     }
   ]
 }
