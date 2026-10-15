@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-15T21:25:12.882Z",
-  "lastChecked": "2026-10-15T21:25:12.882Z",
-  "lastUpdated": "2026-10-15T21:25:12.882Z",
-  "generatedAt": "2026-10-15T21:25:12.882Z",
+  "fetchedAt": "2026-10-15T21:37:29.266Z",
+  "lastChecked": "2026-10-15T21:37:29.266Z",
+  "lastUpdated": "2026-10-15T21:37:29.266Z",
+  "generatedAt": "2026-10-15T21:37:29.266Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T21:25:11.661Z"
+      "updatedAt": "2026-10-15T21:37:27.848Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
+          "link": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide",
+          "pubDate": "Thu, 15 Oct 2026 16:50:53 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Suspicious mailings to election officials, congressional offices under investigation",
           "link": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
           "pubDate": "Thu, 15 Oct 2026 06:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Make a 'sick day' kit for cold and flu season before your household gets hit",
-          "link": "https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season",
-          "pubDate": "Thu, 15 Oct 2026 05:02:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T21:25:11.806Z"
+      "updatedAt": "2026-10-15T21:37:27.891Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T21:25:12.431Z"
+      "updatedAt": "2026-10-15T21:37:28.787Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 21:15:18 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Congo Ebola outbreak spreads to new province bordering Central African Republic - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkNiUlNXdnRrOERCOFFKUF9WYzd5d2F5UVdLeHpUWWhyMHVkZmJXb3dydnVYNW1Ja0NUWG5TclBNc09GLVVuLVFZcDFLbGF4S2xjN2ZGVHJjUF80NkxtV1VCSTctS1Bmal94OVh3ZktsZ1VkWkRDLTJiQkFneDVGRjh1UlJ5M01ubmRyUVI0M3IySlJ4VV9GUkdmYUFIZnpySTVubUhzMmZXVkltT2dQM3M0Y2VCb0FtejFrVzdB?oc=5",
           "pubDate": "Thu, 15 Oct 2026 21:12:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Volvo Cars expands automated driving partnership with Nvidia - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLWtIdFNOaHNvOGk3ZDB4eHM3LWhYaWhNX3hDdE16S3RIMW1PanNrX0RDdWthRDV1ZGxaUVlQQXRuN2RsZ3Z2WkMzUWx5amJSdDdiOEFqaEo1Z3JsV0s0UkttS3I3dTJWYUtzR3hlRjl2WmM2enZkNGM3bGwtYzVyVWdGNFZOUzFuYW5MSFpiOUlxQmNKTlBfTVdZRUlaUU1nVC1rRVBUY2RoSUh4NV90WDF6Zjc5MlpneTZVWFB5RmFNZkFG?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 21:06:47 GMT",
           "source": "Reuters"
         },
         {
@@ -191,6 +203,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Thoma Bravo's Proofpoint to buy Varonis Systems in $6.3 billion all-cash deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQl9UYUpXclBGS0xwOG95WXBEYmVNM2Y1Q1NGX3FfbDBiNEdSdXJHb0stcl9HV3RiZVJpSzVZTW9wMnBpMnJHQU05SVdLVHlmNFBXTm9Vb2xJZE9qR1VKTmpGRTlNbVNnM3Y3eGxMNWF3QUtrdGRlQldObk9ZMDRIRkV4OEUtY1psT1AzbFlUdHpld0pOWGVYOGlQZW9mMExodmxIQXVsNTJDS1FlaUVFUw?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 20:33:02 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1poWEFKa01FenF2THNycHFFMFNaeklhc2JGSVJqa21nTGo1cFpyMFR5cGFwMHN1cVdjdWM5NjhiaU9Zakg2ZUJDVG1aeVBPRHVNYm95NEItUlFGNndZQnhVQUE3bE1rZE52bHgxM3Jmd1RCVm9FNy1LNFlFb1RXQ0ZXRG9CRXNUUE9PUG1rbHdqSE5XT3FOSzBlUFdoTUoxZmwxbUFoY01ZMG85cG5INDg2ZmdycTdUaHc?oc=5",
           "pubDate": "Thu, 15 Oct 2026 20:27:35 GMT",
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnVzZy1POU04ODNmdEVoelpMNHUxRmJiN1BmUF9Pa0FrSlg0dGh5TlpBd1hUOGdIemRZbWUtVjFJbjRpQ3dyNFZfYzZDVFBvYVVaUmEyazE0T1lfVXpmcG9qRTFpZ1BUNDNkMUUzWGdUTklzNnJ6UUhOcl9rQklsNFo0TkU1dWlKejlNTlUyYjBpMEYxSklEckYwN0ZNZUFGV1hFX0R1Y2k?oc=5",
           "pubDate": "Thu, 15 Oct 2026 20:26:03 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "S&P 500 ends higher as traders shift from AI to healthcare - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTRob0s4X3hCYkZQZzFfeUxuU1ZlN0tPT2hvelcwcW9QdU9yeVN1ZUZfR253ZUNoN3NjUlRHbG9aS0wzMmVGLUpNOVcyTUlHOWo3WERDX1psTXlmWGthb0JPN19GMGxnT2pkYkRWQ0R1THEyODhoWnZTd1NIQjdZbm5fLXNYb0M2c1g2YU02TENSSi1xSFZMQzRuUTc?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 20:14:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Crucial to give Ukraine all means needed to defend population, infrastructure, France's Macron says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOamZncHQ5cTV5d0NaZ1c5QUFtVlpKOGhkQ1lXU21nb0pYMm85dmR6Nll6cnkxdVMxSWExUVNLUkJsdFNScW1Dd015UGluSVNkSnRHczB6OVJlTTkyY0lMX3RsbmFGOXJoalljVlVOWnE2bGtkT29vck5TZGdQckZZN1U5UFoxTEI5Ry1OOERIaFQxdDJSZTJWOE9FSi0waHhnTkNIQ3k4dV8wN0FnYjBlekEwelpQSWlHdWZ6ekNSLWZWRGhqTkNOa1NidDhZSFFrY1RIMW1PQlE?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 20:09:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nineteen hurt after minibus hits train at French channel tunnel terminal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ3VYQmxYV1FHM0VFR0M0LTVYT05uRDdkSFA2cVdPNl9vdy1RNEE0ekdTYTlQejA0N3p5aGxmbnBIdXd3Y1laUTFOenZDeGFVMEV4b0dFMVJkM2lNX204TmJCZVZEMmRYWFhGTWgtSVExbG9yQkhnVXN4TUdaT2pfemlsUlpzalpzblJrSHhzYTlEaUJXaFBpbVZWWVpoc3FvTndnMHdvY0JTVkd5UUV2eWJmOA?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 20:05:14 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T21:25:12.882Z"
+      "updatedAt": "2026-10-15T21:37:29.266Z"
     }
   ]
 }
