@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-16T17:25:15.341Z",
-  "lastChecked": "2026-10-16T17:25:15.341Z",
-  "lastUpdated": "2026-10-16T17:25:15.341Z",
-  "generatedAt": "2026-10-16T17:25:15.341Z",
+  "fetchedAt": "2026-10-16T17:50:19.361Z",
+  "lastChecked": "2026-10-16T17:50:19.361Z",
+  "lastUpdated": "2026-10-16T17:50:19.361Z",
+  "generatedAt": "2026-10-16T17:50:19.361Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T17:25:14.355Z"
+      "updatedAt": "2026-10-16T17:50:18.309Z"
     },
     {
       "name": "NPR",
@@ -99,24 +99,42 @@
           "source": "NPR"
         },
         {
-          "title": "Remembering Oscar-winning actor Eva Marie Saint",
-          "link": "https://www.npr.org/2026/10/16/nx-s1-6003516/remembering-oscar-winning-actor-eva-marie-saint",
+          "title": "How much money has Musk given to Republican groups since July? The quiz knows",
+          "link": "https://www.npr.org/2026/10/16/g-s1-148041/pope-leo-musk-mamdani-trump-guilfoyle-news-quiz",
           "pubDate": "Fri, 16 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "How much money has Musk given to Republican groups since July? The quiz knows",
-          "link": "https://www.npr.org/2026/10/16/g-s1-148041/pope-leo-musk-mamdani-trump-guilfoyle-news-quiz",
+          "title": "Do Americans own the president's papers? Appeals court to weigh in",
+          "link": "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court",
           "pubDate": "Fri, 16 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T17:25:14.396Z"
+      "updatedAt": "2026-10-16T17:50:18.348Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Israeli settlers attack Palestinians during olive harvest, and other Middle East developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTFXVEx4VzRPN1IydkVnbXpuS2dDUHRTZlA2b2w0WEJxa2tTUG9wZTc0SVJRSU9RbTk4cEpGSERTRzNPeFZLTWdMVU12ZkJkd0ZvTmhJWlVXNHB6MjY2d0dhekp2bGNUaVFXUHNTQVlaT2hjQjkwWllETzFzY2tabGg3RzJDcC1mLS1XYXVxZnhkcjcwbk40Q1lkVlFmdm9jSzQwOTJ5amNxd2t4azdmdA?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 17:31:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NCAA sues Ohio governor over his executive order allowing schools to ignore new eligibility rule - AP News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcVFabERVR1NJcnFIZFFmQlVaWE9YMklxMy1fM2RFaVdrZllXMVRwRzhVQTZhZTRrYlBGQzI1MGlycDZLZVNPazdVTEFZcGs0LWJJTlFvTF9CQWRrT1NHLWZYQVZhLWJHMjhaLU1qTEpieXNyRlRaQ25VOWZaU2NUMUEydw?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 16:18:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "MLB | Latest News, Stats, and Scores - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 15:53:52 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Tesla’s new Roadster car can thrust itself in the air. But don’t expect to drive it anytime soon - AP News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX195aDdJcFhmZnVFYWFLZDFLX0Nudkp5VGh2Q2VVRm5neVVibXFwYzIzQUpiM09VZ0UxUWhfUU5tcllJdGlGckZEWEloeTRwMVhLRDBua1p2UlVMS0FXS09leHZXYmxBMkVVSTg0enRtOE94bk9BYXdYYUhSVjZaZUlCcFpRb002bDJkOGdBWQ?oc=5",
@@ -127,12 +145,6 @@
           "title": "Russia strikes 9 Ukrainian regions as a new report shows a spike in civilian casualties - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkhGZ3BTcW9RNmZaUXE3TVR3czBVeGlhS3NuYXlyZ1NxU1BpXy16emxHOGRPQ3BKZGM0cVFCWDdFeWpsRnVydHI3dFRYaThlSXI4VVVuMGVLa2xCZnJDdUxxbDNrT1gzd3ZYQUV3VERhZl9fWFlhRHo4N2VEYUUwWldBUGlzcWlxc1FhVWFNdnNsb2xVOS1JbU5EV2QtUXhET2VWT0ozeXU?oc=5",
           "pubDate": "Fri, 16 Oct 2026 15:38:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 15:14:07 GMT",
           "source": "AP News"
         },
         {
@@ -148,34 +160,52 @@
           "source": "AP News"
         },
         {
-          "title": "Israeli settlers attack Palestinians during olive harvest, and other Middle East developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTFXVEx4VzRPN1IydkVnbXpuS2dDUHRTZlA2b2w0WEJxa2tTUG9wZTc0SVJRSU9RbTk4cEpGSERTRzNPeFZLTWdMVU12ZkJkd0ZvTmhJWlVXNHB6MjY2d0dhekp2bGNUaVFXUHNTQVlaT2hjQjkwWllETzFzY2tabGg3RzJDcC1mLS1XYXVxZnhkcjcwbk40Q1lkVlFmdm9jSzQwOTJ5amNxd2t4azdmdA?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 14:02:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Qatar pledges a lifeline for Lebanon’s economy, power grid and reconstruction in the south - AP News",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRnhuWDVBV2xUMmpRRnVmV09WT2dkaTBqMm9KVHl3enBCQVFEc0I4U2VNRlpJQ0J2dmN3dUNnaGM0Q1h3MjJncjB2QlFEZkgxdEtJVk1xQzAwNW5kWDIySnA5ak5JLTVyV1JLVk1hVVNBOFROZFFaQUZ1c1JTaTV2blVKNkUzdmgwTlR0OUpUOUphYmtvRGJRS3VNLUFPTVRDQUdrTy1uVkN3bjFZanBDVE1HQkZrb2t4UXE0emM1R3FsQQ?oc=5",
           "pubDate": "Fri, 16 Oct 2026 13:25:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Alaska’s Sullivan and Peltola clash over Iran and high prices in testy Senate debate - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX3dWeldjQ2NLejdSeFd4WmIzaWN0NXV2ZmlucFVObTl2WDBEemxDNm9hQzRkYmV6eFBzSHhoRHQ1ajN4WjlHNldEX0pfUVdxYTlERk95RXJIbGhnSFdWVTRGbng5SDR5OFQxY0w2TTFLNk9KQUphQVl6QjZYTVdNbGcyeUxtN3U4aUdzTlItMjl4ZEJsdnZsanVrZ3Y?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 11:30:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T17:25:14.889Z"
+      "updatedAt": "2026-10-16T17:50:18.899Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Trump says Zacharia should reconsider White House spokeswoman role - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEYwN214QVdKVU9iMHZiY2YxWTBnSndMc0tycE5xSDItUXJJQ0Nja01Ld2trdjdtaldWVXh5QnhKT3JjWkdzNDNIRWN1a0hHZ2h3SUdjNDVGRXlkc243dE5vRUo0QTBmRzZtUG9Hc2Nnc2NFaW5RalJEbjRPaE1MMTQtRHVXVVNmWUJYZTYzX0ZIdkJTSGJEQms4NWc5YWlNQVZjYmhfVlVCeHQ2?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 17:43:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "S&P 500, Nasdaq set for steep weekly losses as AI jitters rattle investors - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 17:31:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "CDC reports 4,410 measles cases as outbreak grows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzl2SmNXdEQteTVnOXpBOXJhMWdzZkVJbTRxdk1SZWJYZUIwRHNPZzVSV2VyNmxLT1JLdjBZOG1Pb2dIWGJNVS11azNhZEZFQVQwQUx3UmwySnhaYldMWVNWc0JFdGJvRzNRVjUzTFhSNHpTb0E1RGRPcW5jelhzVDJfeXdkZ2txV2Z0QklIZDcyQ1Y3cnlIcVktQ2RUVlk?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 17:27:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Starlink disruptions are being felt on the front lines of Ukraine - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczZyd2RmczlnYjJ3SnM2TVZuSlNCdXk2YUdETXprMGVBM1JRVGRUZ1VVRjZWbU9Oel9SekRCLUFLU2Q1bTNyVmNYdTNBTUZGdjl5Z0xZZElKLXBjM2dzU3YybU5OdkRjTTBMZEFtaTdwenVhd1ZLQURhNFRrVUl1a3FxbWE3N0lLVmUxYmZXSFMxcjBtNDJKUjk5bGZVSk9NcE9FVDN3S1dJblNfeXpUdVFjNS1yNHJuWVE?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 17:15:19 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "CoreWeave stock, bond set for weekly plunge as rate-hike fears hit AI bet - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2NPeFhDRXRadVpwTmIwYlN0MlBfU2tLdWJfcHRKRHFvU3NuXzY1WW5RVEgyZThFbmdVajVEZnpQUklNbjFlbmRDcUVQNTZJWDJOZ253eHVHeGlNMkk0Vm9VQk1xZGVJNEs0cFV2WUxTei1FNW5oNGZOZXBxWWhZcDh2T25EQl9OUDYtM0dEdEFFa1ZkZ2hHcGtveVRKeEFrd0tDeHB4eXEzeEFxLUw1VWo1RHQ2WUs0ODBITVJvZw?oc=5",
           "pubDate": "Fri, 16 Oct 2026 16:57:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "CoreWeave bond rout tests market's math on AI buildout - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdm5VTll1VmRrVEdWNm9HMmh4dUtxaDN2alV3YnJxUmtZdVJjZV9obW5Kc2tOYTNEQVdQNE1XMnFNbk1PaFBTTHZqcWxFZklDOVRtYm9IOWhnMjRuZTYyM2U0NVA1WmY0a3ZGQTFJbFp5cU1ha3h2WXBwLVFBSmtjRnVmZm8xdUtCMWlaX1YyUkpCSDhZamRzRG9UV3paVU9MalVpa0FFbzRBZw?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 16:48:32 GMT",
           "source": "Reuters"
         },
         {
@@ -185,44 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "CoreWeave bond rout tests market's math on AI buildout - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdm5VTll1VmRrVEdWNm9HMmh4dUtxaDN2alV3YnJxUmtZdVJjZV9obW5Kc2tOYTNEQVdQNE1XMnFNbk1PaFBTTHZqcWxFZklDOVRtYm9IOWhnMjRuZTYyM2U0NVA1WmY0a3ZGQTFJbFp5cU1ha3h2WXBwLVFBSmtjRnVmZm8xdUtCMWlaX1YyUkpCSDhZamRzRG9UV3paVU9MalVpa0FFbzRBZw?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 16:37:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Putin says Russia is building non-negotiable 'security zone' in Ukraine along border - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVphQXp1WHJBUlFhekxrSzFTVGJfSGlqWFFmSktKcEVzV0REMU1faWt6UGVSWkVXNFNqQm9maVUzemNRVVVteUhhNklocGVZN2loVW5HTzY0ZFhYWW9vVW0xbUlabEE0YTZzaU9OSEtwOXR2d3k4MU1RZm1acXRaYVJSZnNTaTZsQTVYWTdqRE1aVW1UOFIwWVlSWmJidExOUHFLdTBlS2E3OUxMUHNQVS1neEw2akRBZzAyNVZR?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 16:23:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Meta employees said Lula's accounts were hindered during Brazil election, Folha reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0p1V2xfQXVzaVlPdVhQdWxra2NPSWtJRGZoZ3ZqdHd1Z1NZOVFpQUhxY2RKU2g0VVo3T280MW9rSXhJZW83TTk3M2hXSDFJcWs2LVhoblM5eTdOQV94NVk1b1YwWVBRN2hOcXB2enRBY3haQVpZd2tNZjExZGVWOTlFZDA1VkFINU5Nb1RIZWpISjVpc3pSN0MxWGxkbG9saDVWNmI5cWVVak0tTWNhZXBraGxwTXl4LWF0cUdHMFFOLVI2c3BV?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 16:21:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Shell agrees proposed sale of French fuel stations to DCC Energy, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRG9EQVA1ZUNPX2ljSkw4NUNLTWtaem1MU3ZGSlNRZ3MwOHE0ZTZiaFdvWFVxdHlXRFRRNXMyU1ppdDZLX2RLNVUyMzZqOG1WUDdQXzlDR2IyUktXYkROUmR6bXE3aDZDejVjLTR5eU9YVUV6UGgxTUZsMDQyRWl4THhjb0E5SnJmVVFxTjN4NnNLV1pJajRoVzRpRFR0QldjMzRrdjhoR2MtajEwUzdKamx5SQ?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 16:17:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Thousands march in Albanian capital as anti-government protests spread - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd21PeVpqQ0xHTVI0dkNaWTIwYWxBNzhJUXVsRVZQa0t4NDNuczNHLTJzWkRlLUZ6ZTFKdjBoazdsSjl5Y0M1QUR6d1FlZWRRM3paZWxZZWRtZFRiMjRyc3kwQVpIQWZvSGVoaXBUQm55XzJpS2loWGNvZTBRTzdsaDJNalRKNTZMUk4xelhBZ3c3TEwwcjhhSEF2YTl6RzNLMGF0N2NCT0VLTTJ1SFVyZzg2ZVphU1E?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 16:07:25 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US solicits exchange of up to 17 million barrels of oil from strategic reserve - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFNXdnRkamV3Q2plZzU5UHl3LUlPa2hxTVY1VTA5dXU2UXUxWG5DekxOY0ZrWlNobFBDNTRQR2xrTHRZbEJMZUd1dzRQSUd0ZmQ1TDRtTE9YcmRoRVEzUkhrQjhUX01DVk8zdU5saFJEc1NDUWFXcFhsbmFZRlQ0b1FGdm9nTnFGSDAwWUxVMDVJeHZXalROYmNNdlVJLWxxaEloOWtLWUsxOWlzbTFmSWhHMHVaRGM?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 16:02:12 GMT",
+          "title": "Central bankers eye higher rates as AI boom fuels scramble for cash - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUtKN0pzRWNldm1acUxBY0o2M0h6UWlxVHNpT0pWcmQ4c1VQdG8wVE5iaTM2RWVocXN3MDFKMUZwblpDTWNFcTZiUFhNSkpYdlRwMGZhc0Q1UUNCZENPVm5CcDZjYXFZQ2FLaDV0eG5lak1qZ1hlSDZXT05leFQtZ2FubWhKbXlrNWNqbTEybGo5V0dESzk3U2VhbTl4WWNQdHBRc3luM3F4cGIyMEI2RjFYVQ?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 16:38:28 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T17:25:15.341Z"
+      "updatedAt": "2026-10-16T17:50:19.361Z"
     }
   ]
 }
