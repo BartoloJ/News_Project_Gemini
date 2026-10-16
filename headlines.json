@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-10-16T12:00:19.999Z",
-  "lastChecked": "2026-10-16T12:00:19.999Z",
-  "lastUpdated": "2026-10-16T12:00:19.999Z",
-  "generatedAt": "2026-10-16T12:00:19.999Z",
+  "fetchedAt": "2026-10-16T12:25:16.002Z",
+  "lastChecked": "2026-10-16T12:25:16.002Z",
+  "lastUpdated": "2026-10-16T12:25:16.002Z",
+  "generatedAt": "2026-10-16T12:25:16.002Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+          "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 16 Oct 2026 12:16:42 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+          "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 16 Oct 2026 12:14:12 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
           "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
@@ -14,15 +26,15 @@
           "source": "BBC News"
         },
         {
-          "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-          "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 16 Oct 2026 10:37:47 GMT",
+          "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+          "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 16 Oct 2026 11:40:41 GMT",
           "source": "BBC News"
         },
         {
-          "title": "Dad fined after son, 2, died in Cyprus hotel fall",
-          "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 16 Oct 2026 10:28:56 GMT",
+          "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 16 Oct 2026 10:37:47 GMT",
           "source": "BBC News"
         },
         {
@@ -42,28 +54,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 16 Oct 2026 05:00:17 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "They fled Russia, but the West sent them back",
-          "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 16 Oct 2026 04:57:28 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 15 Oct 2026 23:38:46 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T12:00:19.045Z"
+      "updatedAt": "2026-10-16T12:25:14.690Z"
     },
     {
       "name": "NPR",
       "items": [
         {
-          "title": "Sally Rooney's books will no longer be sold in UK after Palestinian Action support",
+          "title": "Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support",
           "link": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
           "pubDate": "Fri, 16 Oct 2026 07:30:31 -0400",
           "source": "NPR"
@@ -87,12 +87,6 @@
           "source": "NPR"
         },
         {
-          "title": "Why some Gen Z voters who backed Trump now regret their decision",
-          "link": "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support",
-          "pubDate": "Fri, 16 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "How much money has Musk given to Republican groups since July? The quiz knows",
           "link": "https://www.npr.org/2026/10/16/g-s1-148041/pope-leo-musk-mamdani-trump-guilfoyle-news-quiz",
           "pubDate": "Fri, 16 Oct 2026 05:00:00 -0400",
@@ -105,6 +99,12 @@
           "source": "NPR"
         },
         {
+          "title": "Why some Gen Z voters who backed Trump now regret their decision",
+          "link": "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support",
+          "pubDate": "Fri, 16 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Morning news brief",
           "link": "https://www.npr.org/2026/10/16/nx-s1-5998699/morning-news-brief",
           "pubDate": "Fri, 16 Oct 2026 04:58:56 -0400",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T12:00:19.087Z"
+      "updatedAt": "2026-10-16T12:25:15.042Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T12:00:19.550Z"
+      "updatedAt": "2026-10-16T12:25:15.565Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW43alBLT1ZtZE5UZF9VNEY2ZDhBNjNOdk93dG1BZTNBZWZkQ050OVZGQmxUWURPdG16Q1pwTmRtNkFfQTNNWDJEazN2aHBRY1UwLW1MbGRSWXpLdVZRenB6SGY2cFhVcmFlRzRQZkhzV24xeTVtWnJfRTdfUHlIbktueERWSGNCLUw2bzIwdUw1a3FpQ3pMdEk4NE9HaVppTnlvaWNLV19xMy1pOEc0bw?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 12:03:27 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "EU leaders rally around Zelenskiy as Trump calls Ukrainian strikes on Russia a 'disgrace' - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY0hRTnFuN3FTNE1pY1cyNVRLbEJ3MmZ0UWZzUDhWbEhIU3R1RjY4dENuVi12U0hpeXRXM25vQTBOSWFjUFRrYlgxSWo0Y2tZVTU0bk9FQmlJRW9zcjhCMzRiNFNod1RuSWdoUUJwbDVaMmtNYi1peWgwMFhpQnVlbkZRUFZvSXliM3FYRW9IeXpzaUdGdW11Y2pNWlZwUGh2ZWdyRGZ3blhqUW9lUkcwNnI1UVk5OUJ4bk5PUEJLYVRkNVh5aHVV?oc=5",
@@ -182,12 +188,6 @@
           "title": "Romania resumes search for seven missing sailors from drone-hit ship - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlZhRnVFYUtGUGRnTHJ5c0d3V2R0SlFoUXVKd0t2RHEybzBubG9iRHlzWmVxU1FnRHV1RHlxSDZram9rUDR5ZEk2TU1yVnNCcVhRWXFLR2d3UVFOSWptUGItUEtwVFhSN25hOXZFOEFLVTFWNi13Mlo3a281SjJQQ0lXU0tXRGJsTGJxY2VCaTdQVm83b0FsNXlvM1dBcjFPM2RB?oc=5",
           "pubDate": "Fri, 16 Oct 2026 10:55:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW43alBLT1ZtZE5UZF9VNEY2ZDhBNjNOdk93dG1BZTNBZWZkQ050OVZGQmxUWURPdG16Q1pwTmRtNkFfQTNNWDJEazN2aHBRY1UwLW1MbGRSWXpLdVZRenB6SGY2cFhVcmFlRzRQZkhzV24xeTVtWnJfRTdfUHlIbktueERWSGNCLUw2bzIwdUw1a3FpQ3pMdEk4NE9HaVppTnlvaWNLV19xMy1pOEc0bw?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 10:51:27 GMT",
           "source": "Reuters"
         },
         {
@@ -215,14 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "IMF chief says AI risks may exceed opportunities without safeguards and ethical framework - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2IzOWJIRFRrNjFuc3M5M1RRQUNUS1dQcGVaSVhPa2lZVzd2a0JKamxsTFR4dU5QMThydUVyTks4bXhjM29fOE1oVWltNkVKcnk3ZFZEZmlmWXl5UlZDZXRfSmRfRTltdGU5dGdUbF9hSEI1Qi02R05ScVNvZVJ0V0xvelkxTmFsbXVvM1VjNWRCQU5FZUJXbnFQSUgtYlpxclUtbkV3ejNiVGs2V2pQOS1LNTN5TzZVb00xbGlBVQ?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 09:30:22 GMT",
+          "title": "Chinese automakers make tech-led pitch for Europe's premium car market - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWThYSzgwSG5kZ3ZmUEJMamwyN3NJOVJJaVRTMXV5UVM4YkwzTkFSdkxFcENtTU52cGVSY2JmRFpJSUxjQ1hGQTk5akZVdHJ6Z2l2dl9pc0dJV092dGxxa3NFX3BZQmxSQUF6SnUzOG9XM2czTE5OUGEwYUlYblpWdW50MkNWZG5qZ191ZXZXVjlBelExMWRHMDY3cXhmWTNxbnlmS2p4X1duX1NZaVF4aHRYQ1hRcXNVWDVwYlZVbmFVTk1TdWlqbkNqUQ?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 09:31:48 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T12:00:19.999Z"
+      "updatedAt": "2026-10-16T12:25:16.002Z"
     }
   ]
 }
