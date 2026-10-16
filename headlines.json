@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-16T02:00:19.091Z",
-  "lastChecked": "2026-10-16T02:00:19.091Z",
-  "lastUpdated": "2026-10-16T02:00:19.091Z",
-  "generatedAt": "2026-10-16T02:00:19.091Z",
+  "fetchedAt": "2026-10-16T02:25:14.093Z",
+  "lastChecked": "2026-10-16T02:25:14.093Z",
+  "lastUpdated": "2026-10-16T02:25:14.093Z",
+  "generatedAt": "2026-10-16T02:25:14.093Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T02:00:17.899Z"
+      "updatedAt": "2026-10-16T02:25:12.635Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T02:00:18.252Z"
+      "updatedAt": "2026-10-16T02:25:12.854Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjh3dFJwbXhHZm1Zc0lXc0o3amZfcHdZUWQtYmZRbU1pdnUxSkk2VkVNVUYyLXJxdTR0eTl1ZW83aDlRR0hwT1FFMzNEV05kYi04ZUNiOGNuUEZudXhGV0IzTzBJUmdSSlVYZU9lNmNrOE9uNEJjc0dpNWN2LUFyYmdrdzByYk1OWHJCQzJlNkZ4b0ozejNEUmdRNVcxYW5feUluLUJOZDY4RW8y?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 02:12:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOanVvOXBrUl9qVzlNb3ljaFNMclJtU0JkcGMwOHg3WngxQnJhSUc4VzZGV0hvRDBBek9DejBaaTNwWVVSd0thaUt4dXJWZGVEVHdaeXNHQXVpV3pmZVJwN2o2ZDFrTXNGTVdaLTcwY1haLXBlWTRRNnpZSXFFSmllQ0xEdTZHLVRhREJCU3Q3WHlycGhCcEdTSXpjX0VDb1BXYXFiaGp5VjBXQQ?oc=5",
@@ -136,46 +142,70 @@
           "source": "AP News"
         },
         {
-          "title": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans' help - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakxhTkhvNnpjY3RyMk02MHhWWlllc2xDOFQ5U25GekpZOWZPcG9PMVp0RjFXM3k3YUZRcmM2Z2dzMkI5Skhxa1J2S19ndVFzRmJua2VHZUJIclJCM2pOeG1VYmV5QkdzR21uQTJLMkppdVprNEZsYkFHejhNak9fN3p1NmphUjVBMGtVXzQzNEdrNDZzU3RDRWxOOHMzMkN4Z2tjT3FzOFdVWld5SWpiak1uQQ?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 22:43:00 GMT",
+          "title": "A New York City college student died after being drugged and raped in her dorm, prosecutors say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSW1IdEo1X29qUGthMHFCeFdEQjRLU211V2wwX2VJaXZlZmhJX2FXUzBITnlFUFhZOVVOTG5zUnhySjZRak91R2JZSHlCcEsxN3Nfd2xhMUJxcVNTUk9oczBXTm1FMklrUTVwcHk4WEh3LU9TNGZjSlNrVTRuTHNQenJZWlA1UDRHYkE?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 23:21:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdjdXQjZTSnNCWmdZVmw4Mk5ydFlXRV9tbFltdkVId3l4TDR6YWw0RGFicmlQQU9EM0l3YXlzR3Z4eFY0WDlRa2RQa0o3UGN0TnFQdXBnME83enZWX2NlaEU4S2l6TU0wcXp0TnBvMWJPY3lVLVVBQTg0emE2OFNfWVdGOXU1ZDI4cnhCaHpaVUZYOU1QaGJ3UmtFYWtKQklmYTBMSlFoZ093YWtOVTF6RDNIenFlZGZKZnpZUnBqaw?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 23:16:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Hot weather and winds raise California wildfire threat as power shutoffs start - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWdKRjBxSDZhbV84bFU1VmtQazJoSGs3VV9ncVhjM2t2NHlFSHZZd0w0X0U5RjFNXzNiMEZwT1Z0RFVobGt6dEF0cHhTLWlCOF9hWTBPblVEaGNMV0FXZ3J0Z2RaMW9rVXJpNzF4ZVpTN0ZMRXlHWDJ6OGZQc0lxUUVVaFRNSGIzM1dYamJ1X1VHdmpOX3dUWWFuM20?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 22:40:00 GMT",
+          "pubDate": "Thu, 15 Oct 2026 22:45:42 GMT",
           "source": "AP News"
         },
         {
-          "title": "Canada’s Prime Minister Mark Carney says Alberta separation vote comes at ‘worst time’ - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjh3dFJwbXhHZm1Zc0lXc0o3amZfcHdZUWQtYmZRbU1pdnUxSkk2VkVNVUYyLXJxdTR0eTl1ZW83aDlRR0hwT1FFMzNEV05kYi04ZUNiOGNuUEZudXhGV0IzTzBJUmdSSlVYZU9lNmNrOE9uNEJjc0dpNWN2LUFyYmdrdzByYk1OWHJCQzJlNkZ4b0ozejNEUmdRNVcxYW5feUluLUJOZDY4RW8y?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 22:17:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump administration sues California to block state from counting alleged noncitizen mail-in ballots - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVl9JMnNTOHhmLXl3M2FDU1MtVWNlbGtvVER2MXdSa19zWGMxS0doa0RUbzZ4UWh1UlU1XzRyNWZ2UW56NXdXVUlpVjRvYmR0NXFGTzdxRUlpOGtJRmNPMnZrc1B0Tk9sNkZ5bjBrajM3cEo0dXI3QTVlZl9CWm1LbGxmaHhaSEdqZDBnOVNXdEQ0NmpXNmZBYUtScjAxa21xTHZFanFEZ3RkSmJ6RXFFYklXdlphZGc?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 21:22:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "2 killed in explosions near palace used by Yemen’s government in latest Houthi attack - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWFBY3V0N0h0Q3B2eEFNN3RSNzh0d0d5T1k1Um04UVY2R0ExekZiNFN2RFFNSUhobXlOUmNma3FfRmU3TjBQSEFjNG0tQVQ3Qk5EX0RoaEZmYUpsMnBnR0dRb1hfTFg2THB2emYwZmZZUTRfaEVrTU1VUDFWM2lCVTBXa0ltbC1DMmtvcjdBR3l4TVB3eGdmUWFnSG1UaF9VYjVWRG9naw?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 21:21:00 GMT",
+          "title": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans' help - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakxhTkhvNnpjY3RyMk02MHhWWlllc2xDOFQ5U25GekpZOWZPcG9PMVp0RjFXM3k3YUZRcmM2Z2dzMkI5Skhxa1J2S19ndVFzRmJua2VHZUJIclJCM2pOeG1VYmV5QkdzR21uQTJLMkppdVprNEZsYkFHejhNak9fN3p1NmphUjVBMGtVXzQzNEdrNDZzU3RDRWxOOHMzMkN4Z2tjT3FzOFdVWld5SWpiak1uQQ?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 22:43:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T02:00:18.689Z"
+      "updatedAt": "2026-10-16T02:25:13.579Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Trump says he is talking to Russia and China about denuclearization - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUW1idXlSVm1fUVQtdFk1T0pYTU8tcEx2YTBiQnQ4M0ZmeDFDeGpXUUpqMEZRbC0zT0g4dkoySTlXM05fbkNRZE5RbzFZcEktTHpBYlJxcklTaHpkRHgzRnAyakp4cGVIQjRITGtWZG1XZTlNdF9LcmlVRjJIaDQweHRxR0NUQS1jeUYtc0NsWWlEMTNTcEd3dUhFZjZMYnhWbU9CZVNKWS1TTjBz?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 01:04:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Oil edges down as investors weigh possible US sanctions on 'shadow fleet' - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ?oc=5",
           "pubDate": "Fri, 16 Oct 2026 00:57:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "North Korea missile chief questions South Korea hypersonic glide vehicle test - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUERoS2FYZmpIa2RhMlQ0WVBtbEFWU1Fzc3VvdV96V1ZHekUwM3pUQjgyUzJmNG1XMENrM3R1RDJLeXllS0JDUmRxUDV6M2x1cjYyOHJBa1pCSzlmRlljSlhiTjNXdGlwTDVyZzNGTnBwNkc4M0xkMnZST21uM3ktN19kb1VkLWExNTl4ZElnU0FCUkFSdmQxSFRsWmU5VXRKQ0FDZlBxNEZaSWdiZmNpV3RhUXlhYnNJQ1dFLWgwWGFxejgyaF9ISXJrUV8?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 00:41:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Taiwan tells its people to shun Chinese anniversary events for revolutionary hero - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWJmMGZvT3RIdVNaNi00RkxXUmxSOU1kOG9PamhXa2JuWG9ScW9IZFNBZVprTTF4SndBanA0UEpoS2ItelRQOEZIamZBOTd0cC03XzNEd0x4SWdQOGhRUTQzZEtDVnlXOTlVSU1ldXg4ejlULXlYYkVmVVNvTWgxM2lYZHhxVUMzYk45bjBnalFzOS0wVlY3SVdwYnpGa0paUFRkbHA1OF9TZlF0Rk0wNTkwQmVFNVh0UzVPd3B2SQ?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 00:32:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US probes Omar's decades-old immigration paperwork with eye toward deportation, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMDZHM1EzQW5QdTktTDd6d3dPVmxYS1RNQS1VX3BndVFFeV84emhxYkdWSHZQWUo1ZVhqemdFNGdNOS1rcHRCME52UGdnakk1WTdDc3ctcU1vLXZrdnlHWXhKcWZEYVQ2YnBVSVRZdDRoQnl6NklVeGJSeGJyby1VTklsOGhSRUl0ZWR5Nml4d1l5UmhWNnVJVm9GWF9UcXFkM0NJeS1UVHJWZ2ZzZi01dzNUalF0MEdmUVRpcnJxbHBPd0lzMVNaU3Nn?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 00:23:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Progress toward a US-Mexico tariff deal has stalled, WSJ reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVGNhSXNCbUFqT0t4bkRCWTJfaWJOSkxLSXJpSkczTHhDdjlGdXhDam9DdmNOV0drSVlqT3U1eTUwVFZuRFJNQU9rSVZBUkJKOXBZQkJjb21DYkhHNDdXNFFpWFVtTDlMQ3RoTFZaQkdGYUpSWDZPOTNJVUQxQi1VWHlDVkdzM1F1S09Xelh5X1NfaVhqS0NESGxYVGJkOUZ1V0cyb1ZyVlhwRWxqOWFrYVNseHhMMkQxX29ROUN3MXF4bHQ3U3c?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 00:11:00 GMT",
           "source": "Reuters"
         },
         {
@@ -189,40 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHd1ajYtSlJSUlVmUWxyYnZJZTF3M0tsd19yb0NQRDB5NFFIY2tjUnNhNU5ZeW9aQzloNXJhV0RPMy1IekRsYWRUS0twUzc3N2ladk9vOFF6UjJPOHhLR013N0pEbFFycWpIY1NwQWNNUXozSjBKeGJvUkU2a1h3MGZvNi1aT3N0Rmd4NC1BSTA0dmhQM19JYmZiQ0psVDBQRnpLTWdSZjFYS1ZNaXh5bVNzQ0Z5YVlFd3ZfNGpB?oc=5",
           "pubDate": "Thu, 15 Oct 2026 23:38:42 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "S&P 500 ends higher as traders shift from AI to healthcare - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTRob0s4X3hCYkZQZzFfeUxuU1ZlN0tPT2hvelcwcW9QdU9yeVN1ZUZfR253ZUNoN3NjUlRHbG9aS0wzMmVGLUpNOVcyTUlHOWo3WERDX1psTXlmWGthb0JPN19GMGxnT2pkYkRWQ0R1THEyODhoWnZTd1NIQjdZbm5fLXNYb0M2c1g2YU02TENSSi1xSFZMQzRuUTc?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 23:24:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFVmdXZNRHVvVzZhYTJWZTRETDgtRElBT0RibUJvX2VfUkI1NGt6Q1lTVmdON21mNjdXTjFNcXBkZlJ5X0NFYkMzOVQwWjZZTjNPN3hlY09Ta3ZUMUVoRm9lWWV4N29rWXV6dXpQNTNCRUhXTHVySUlUZTNaR2dORUVPd3l0SEJOTmJFaTJURnNyTi1icE5qZmsxSDNuNFRKTEd5Q21iSEdtUXJCWEI0UWNwOGZDdw?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 23:12:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Global EV sales fall 2% in September, ending six-month growth streak - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSnFsRGxPYUJuM2xaVVIzMUhWRGF6cFdicXdqVnE1Qm9XYU96NTZBTGFSaXRJVjU0LXFhN3UxYUktcUkxZnJIVUREM2hKdlVCaVF2c2htc01vM1o3RWhiaVVvT2ZONUUzMUk4TWVkU240ZV9UYVQ5N0IzbzI2VHpHQmd0Q19BOFNQVHlBRTlWc2FxbDZ0TTU5YUY1REVkU1pWcm1Ta202akNkX0FTTC00d0NMUjlUUTVTZFRkTDVSc2o0aTN2VTR0Zg?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 23:08:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "AstraZeneca strikes $40 million AI drug discovery deal with insitro - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGhDYkZMZ0F5S0ZlU3NudjgxN1Mzb2NQeVFNQ2FCN253aFI4Vzdlb0JMSHZfUm9KaUYxam9Ga01rbUJod29GS3FycDhmQkRSeUNBa3dWZERBbGhmLTlscllTSkR3ajU4MF9zOFJZTFhYX1VnR3N2bVZwSHVnRTVPZWFpd3gtd2NtN2Y5b1ZtTFBqbEJjaEFTeTlIUFRPOGJGUXZCVElUMjVXRmRMNG1uU2NMMERidDIxUFVn?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 22:55:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "3 children, 1 adult killed in shooting at school in Oregon, US media reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdzFMUW1qazF6RjFvU0pOMXVhZHo5aG96MlBKMmVSbkhDZ01XWk5ySV84TFJYQ3dKVmVtdzRKdV85b1VCMWhHWWlYV3B5V0szaFJXbDQzb3VIY0lUT1NwbVZES1R5bnZjMGttaThYYUZxRHU0ZjhuTjI4Q2JGNFZWc0llMVNoUXJWUFRzX1FUbWhsX1pFYXdfMDI0Mm5ocFAxLThOcnRuQ0RJRzQ?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 22:42:11 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T02:00:19.091Z"
+      "updatedAt": "2026-10-16T02:25:14.093Z"
     }
   ]
 }
