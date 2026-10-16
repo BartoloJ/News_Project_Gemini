@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-16T04:25:14.458Z",
-  "lastChecked": "2026-10-16T04:25:14.458Z",
-  "lastUpdated": "2026-10-16T04:25:14.458Z",
-  "generatedAt": "2026-10-16T04:25:14.458Z",
+  "fetchedAt": "2026-10-16T04:50:15.325Z",
+  "lastChecked": "2026-10-16T04:50:15.325Z",
+  "lastUpdated": "2026-10-16T04:50:15.325Z",
+  "generatedAt": "2026-10-16T04:50:15.325Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T04:25:13.128Z"
+      "updatedAt": "2026-10-16T04:50:14.203Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T04:25:13.498Z"
+      "updatedAt": "2026-10-16T04:50:14.442Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Brewers sweep the Dodgers in the NLCS to reach the World Series for the first time since 1982 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGhBMzhBUUxiOE1SYzFtV2NDTWtZemt4UUs4S0dOSElMdVZGWURJOExPa21SSkJpYTdPUC1hNk50dnRmOVEyNkhmZFlBTnpUbWtBM2FMbXJSUEozQjIxOHFJcWhTYnZidUs0VnQ4aGtFSnU4SFpCWEMtT3VxS1V1eFQwNVRRRkdIcXowMXJzMA?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 03:41:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Teen shooter kills 4 at Oregon elementary school before being shot by a witness - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm53TEZKeGNjZ21QOGcxMWJ6V0xQSExrNXN4dU9zY0l2dWVZLXR4THBGRXJOclp3aUNQcDhjRHVsOXdNY1hjSnhyc0NzTS1Da1ZEcW5MS19ON0JySE4wNkNDMHF0R2tDM1JsbnF5R05HbEhhYlRHX0ZoWGM5SUZDei1PMUFUSEx4OUFzV05VNWtuWVBMdE9QWnNlci1sQWJpQWVSN0xrVEc?oc=5",
@@ -124,15 +130,15 @@
           "source": "AP News"
         },
         {
-          "title": "Talarico compares his campaign to the biblical David after GOP invests over $158M against him - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX25wY0NDS2VPQm96MWVmNUJqdGlkSFNYU3J4YUJleXZ0d0g4bUwwOGR4NUUxNmsxZ3dOVVpmajR3a3d1UnE2czJFQU5nZnF2TXFaY0gzLWY4aGdBcXJPWFRnZnFVMkR0cW1xLV9qSWtMS2tZODRheWtLMzJnQXpfVE85Z0dJLTV3TEdHVHNxUFNOTHE4STl0UUxn?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 02:56:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjh3dFJwbXhHZm1Zc0lXc0o3amZfcHdZUWQtYmZRbU1pdnUxSkk2VkVNVUYyLXJxdTR0eTl1ZW83aDlRR0hwT1FFMzNEV05kYi04ZUNiOGNuUEZudXhGV0IzTzBJUmdSSlVYZU9lNmNrOE9uNEJjc0dpNWN2LUFyYmdrdzByYk1OWHJCQzJlNkZ4b0ozejNEUmdRNVcxYW5feUluLUJOZDY4RW8y?oc=5",
           "pubDate": "Fri, 16 Oct 2026 02:12:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Shohei Ohtani back in the leadoff spot and launches a 3-run homer for the Dodgers in NLCS Game 4 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdF9xTldXcEZ3VjRQREpUMXpNU1psSElpZE9RN1hKaFA4bXR6djBQSFhiTWUtajhNZ0k1Tk1YRjNNM2pNbWlETm5EVnVjVHBXUlZQMG9ELXhzV1pFOWQwd1FGVEtzdVdLcExfVE16cUUwaFd0Y1UwSkZod3JmZE1KeWM5Rk9udw?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 01:51:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUTRtZU92Wl9VQVV1elM1UUxySmd4SF9UNGVjV29MSk5tdVFFQWd6eDRKOUJPZGxCaUlpVE5oazh3V18tZjR6aURqRWVrWC1ITGU5ekw4UnFhVDhISm1YQTNTam5lM2JJMnVMOE5aa0djRkN3c1dXN2w5R0ZuazI4SnZzMFFWUDA?oc=5",
           "pubDate": "Fri, 16 Oct 2026 00:41:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Ex-Venezuelan President Nicolás Maduro says new torture allegations are ‘false’ - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ0NNbTVUQ2hYN3doNGNjQjZHblo1MlNhR2h2MmNGbjdGNmRONEVDbVVPZ0FoSFVzTHE3VkJvcFpJd21CbzAxc3RwbDRHX1lqNUtIZGVrOV96em1nSG9GRmFXUV83eU5neEpNaVZlZjZrNzY3a29adHRJNnFPZkZPRTlpZDZFWnMyRUNSNjJ1M2lwYmpW?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 00:07:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T04:25:14.004Z"
+      "updatedAt": "2026-10-16T04:50:14.882Z"
     },
     {
       "name": "Reuters",
@@ -182,6 +182,12 @@
           "title": "Earthquake of magnitude 7 strikes Russia's Kamchatka Peninsula, EMSC says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQzJGRXBGQV9tSWo1S3NWenFNRG5MbVZ5dUhUeXE5TjN0NjFqVEZLN1FNVkdzMV9FUi1TRjNIU1lLOGhBR3kyRzJjb1p2dG9ucnUzX2dZM3djWFRqcmlzODFsNjluRWQxR3RvWGdhN2hTNHoxUDVRTjk4azVzQVJ2QTB1S1ZCLTI5dDA3TkJ4Z0V4c0o5RnRVWmM3Y0dIem4zbWdnaF8waU1Ecng4Y3VTa0h2a1JSTlY0X19WMG9WU21NU2c?oc=5",
           "pubDate": "Fri, 16 Oct 2026 03:50:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Philippines hits back at Chinese envoy over 'thinly veiled threat' of force - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2tlX3dZcElfRjZUcE1UaXAyWEZ5T2k5R1lXeHNnVUU4TUxlNDNJckdzTnFVRk9nMmc2SVk0UFdTdkItQ29OZ25sNDhzR1VkcFNmTldhVWJadXVnMnhicmJOU2xCaGhVU3VjbFFxd3M3YTJXTkt5ZF84UGFVaW1NYjdpMzNjSFBBTm5kUWtlUllVQTZKMmd6bTJ5cEZUT2VBLVpFTE5qUVRXMFVpZHFaV1RwZnpFZw?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 03:14:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUW1idXlSVm1fUVQtdFk1T0pYTU8tcEx2YTBiQnQ4M0ZmeDFDeGpXUUpqMEZRbC0zT0g4dkoySTlXM05fbkNRZE5RbzFZcEktTHpBYlJxcklTaHpkRHgzRnAyakp4cGVIQjRITGtWZG1XZTlNdF9LcmlVRjJIaDQweHRxR0NUQS1jeUYtc0NsWWlEMTNTcEd3dUhFZjZMYnhWbU9CZVNKWS1TTjBz?oc=5",
           "pubDate": "Fri, 16 Oct 2026 01:04:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Oil edges down as investors weigh possible US sanctions on 'shadow fleet' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 00:57:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T04:25:14.458Z"
+      "updatedAt": "2026-10-16T04:50:15.325Z"
     }
   ]
 }
