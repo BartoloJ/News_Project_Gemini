@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-15T23:51:30.095Z",
-  "lastChecked": "2026-10-15T23:51:30.095Z",
-  "lastUpdated": "2026-10-15T23:51:30.095Z",
-  "generatedAt": "2026-10-15T23:51:30.095Z",
+  "fetchedAt": "2026-10-16T00:00:18.896Z",
+  "lastChecked": "2026-10-16T00:00:18.896Z",
+  "lastUpdated": "2026-10-16T00:00:18.896Z",
+  "generatedAt": "2026-10-16T00:00:18.896Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:51:28.725Z"
+      "updatedAt": "2026-10-16T00:00:17.591Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:51:28.984Z"
+      "updatedAt": "2026-10-16T00:00:17.893Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "5 people believed dead following shooting at Oregon elementary school, 2 officials tell AP - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm53TEZKeGNjZ21QOGcxMWJ6V0xQSExrNXN4dU9zY0l2dWVZLXR4THBGRXJOclp3aUNQcDhjRHVsOXdNY1hjSnhyc0NzTS1Da1ZEcW5MS19ON0JySE4wNkNDMHF0R2tDM1JsbnF5R05HbEhhYlRHX0ZoWGM5SUZDei1PMUFUSEx4OUFzV05VNWtuWVBMdE9QWnNlci1sQWJpQWVSN0xrVEc?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 23:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices - AP News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdjdXQjZTSnNCWmdZVmw4Mk5ydFlXRV9tbFltdkVId3l4TDR6YWw0RGFicmlQQU9EM0l3YXlzR3Z4eFY0WDlRa2RQa0o3UGN0TnFQdXBnME83enZWX2NlaEU4S2l6TU0wcXp0TnBvMWJPY3lVLVVBQTg0emE2OFNfWVdGOXU1ZDI4cnhCaHpaVUZYOU1QaGJ3UmtFYWtKQklmYTBMSlFoZ093YWtOVTF6RDNIenFlZGZKZnpZUnBqaw?oc=5",
+          "pubDate": "Thu, 15 Oct 2026 23:16:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans' help - AP News",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakxhTkhvNnpjY3RyMk02MHhWWlllc2xDOFQ5U25GekpZOWZPcG9PMVp0RjFXM3k3YUZRcmM2Z2dzMkI5Skhxa1J2S19ndVFzRmJua2VHZUJIclJCM2pOeG1VYmV5QkdzR21uQTJLMkppdVprNEZsYkFHejhNak9fN3p1NmphUjVBMGtVXzQzNEdrNDZzU3RDRWxOOHMzMkN4Z2tjT3FzOFdVWld5SWpiak1uQQ?oc=5",
@@ -127,12 +139,6 @@
           "title": "Hot weather and winds raise California wildfire threat as power shutoffs start - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWdKRjBxSDZhbV84bFU1VmtQazJoSGs3VV9ncVhjM2t2NHlFSHZZd0w0X0U5RjFNXzNiMEZwT1Z0RFVobGt6dEF0cHhTLWlCOF9hWTBPblVEaGNMV0FXZ3J0Z2RaMW9rVXJpNzF4ZVpTN0ZMRXlHWDJ6OGZQc0lxUUVVaFRNSGIzM1dYamJ1X1VHdmpOX3dUWWFuM20?oc=5",
           "pubDate": "Thu, 15 Oct 2026 22:40:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Police say at least 2 were hospitalized after shooting at elementary school, and the shooter is dead - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm53TEZKeGNjZ21QOGcxMWJ6V0xQSExrNXN4dU9zY0l2dWVZLXR4THBGRXJOclp3aUNQcDhjRHVsOXdNY1hjSnhyc0NzTS1Da1ZEcW5MS19ON0JySE4wNkNDMHF0R2tDM1JsbnF5R05HbEhhYlRHX0ZoWGM5SUZDei1PMUFUSEx4OUFzV05VNWtuWVBMdE9QWnNlci1sQWJpQWVSN0xrVEc?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 21:35:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUTRtZU92Wl9VQVV1elM1UUxySmd4SF9UNGVjV29MSk5tdVFFQWd6eDRKOUJPZGxCaUlpVE5oazh3V18tZjR6aURqRWVrWC1ITGU5ekw4UnFhVDhISm1YQTNTam5lM2JJMnVMOE5aa0djRkN3c1dXN2w5R0ZuazI4SnZzMFFWUDA?oc=5",
           "pubDate": "Thu, 15 Oct 2026 21:01:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Youths clash with police for a 3rd day in Albania’s anti-government protests - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2pDMS0xQnJkMTlfUHBfTVp1S202TFkzR244S25sTVlpZFJ1RjM1dVN3QjZUQTZBdmxNQzNrR2F4bXlOSGZ1dGJIMFJDd3MwZVdQM19ITzVHanJOSjRmV1N4RVBENkVpYUNTMjljQUtKQkwwWUNEY1dvOXg1WGpxN1VTUnNWd2Y2dkltQXI3QlBuV1BPM3NKdnpjcUVLZW8?oc=5",
-          "pubDate": "Thu, 15 Oct 2026 20:35:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:51:29.599Z"
+      "updatedAt": "2026-10-16T00:00:18.486Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-15T23:51:30.095Z"
+      "updatedAt": "2026-10-16T00:00:18.896Z"
     }
   ]
 }
