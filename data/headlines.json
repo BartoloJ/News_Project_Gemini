@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-16T07:00:19.394Z",
-  "lastChecked": "2026-10-16T07:00:19.394Z",
-  "lastUpdated": "2026-10-16T07:00:19.394Z",
-  "generatedAt": "2026-10-16T07:00:19.394Z",
+  "fetchedAt": "2026-10-16T07:25:13.477Z",
+  "lastChecked": "2026-10-16T07:25:13.477Z",
+  "lastUpdated": "2026-10-16T07:25:13.477Z",
+  "generatedAt": "2026-10-16T07:25:13.477Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:00:17.858Z"
+      "updatedAt": "2026-10-16T07:25:12.359Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:00:18.425Z"
+      "updatedAt": "2026-10-16T07:25:12.654Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:00:18.980Z"
+      "updatedAt": "2026-10-16T07:25:13.082Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Russia moves on more European firms ahead of Zelenskiy's appearance at EU summit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTDMtenFMRWlxMERtR0Q4QVFNUUFtXzBqM1p3U1VSQ256Vkxod1o2Q09kSDZLamxiWUtIanlPM25KOS13eWxCMm00REhXNWVhbjlYUUxHTjB0MHZKVUpXNlBCNDduQnI1czdUR05jMzdibWVSMGlFMmlxOHdTdnB3WXlnVkh3ZGE2T2ZWdl9Jd3lGYi1scjFULUU5S29jMG15ZkZhVE1uQ3pWYWswQWwtLWFDdWwtU010ZTBJUzJZNGR4Qm1TVFBwUlJ3bw?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 05:46:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Schneider Electric raises 2026 targets again on booming data centre demand - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVEZLQW16bU1UV1ZPTjFUNzZkOWp4bkw2QkRkRGVxZktlU1NpbWpEaXBWT0c0cmROS3FKUlh1dk9FZk9PN3kyRElfQ0hKeDR2cW1WcEpaUWkzZ24yOV9kTmYxMDZFdjYxd1pZcHVUVGZ3VkFsbWI5dFFPQ2NQbjZUWVFTaHJSSGIzdnNWc2ljTFlScFFBNDJha2dlLWNPYm4wc0FwRW94X2c2Mk1QLUY4LUc1RklFTjg?oc=5",
           "pubDate": "Fri, 16 Oct 2026 05:31:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "How Healey's first UK budget could ripple through markets - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzdqOHBldnlRU2ZTLXFjY2EyMVdjQ2hfMmJWWkg0M1hpU2ZwY2J6YU5GTHRfMUR2TE96NzJrdHlJMGFsZW1YYzhzZEFfRXFfTjFfRWctQXZuWlQxRU85czFUT0w5eDJPcWZrXzFZc3N4RjJ0MWJkd2tzdkpqTFpQNFFSM3VXd3dyektwSHJaaF9BaXI5ZDY4NTNXODhLV0prdHMzTTlmYU1QUjlSZkE?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 05:01:00 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUpNSUtZSU1FYnJCSDNWNnJRMmF3bmQ1QkdEaVhZb3I3c0lpYWhyQjNSemVVdGttRHE3UTFNOXg0enZ6eHAzcDY3UXBmQUJJRzl1T3gtMEZad0Z0Xy12TTlFcVRGeVdNYmVkZ3NPQThlUWRLUTh5c2J0UHFPVVRKT0hpR2RyU2tlRnJhVnBZZkxxUFhaTzRBVUlkbWFUUQ?oc=5",
           "pubDate": "Fri, 16 Oct 2026 03:57:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Earthquake of magnitude 7 strikes Russia's Kamchatka Peninsula, EMSC says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQzJGRXBGQV9tSWo1S3NWenFNRG5MbVZ5dUhUeXE5TjN0NjFqVEZLN1FNVkdzMV9FUi1TRjNIU1lLOGhBR3kyRzJjb1p2dG9ucnUzX2dZM3djWFRqcmlzODFsNjluRWQxR3RvWGdhN2hTNHoxUDVRTjk4azVzQVJ2QTB1S1ZCLTI5dDA3TkJ4Z0V4c0o5RnRVWmM3Y0dIem4zbWdnaF8waU1Ecng4Y3VTa0h2a1JSTlY0X19WMG9WU21NU2c?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 03:50:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Philippines hits back at Chinese envoy over 'thinly veiled threat' of force - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2tlX3dZcElfRjZUcE1UaXAyWEZ5T2k5R1lXeHNnVUU4TUxlNDNJckdzTnFVRk9nMmc2SVk0UFdTdkItQ29OZ25sNDhzR1VkcFNmTldhVWJadXVnMnhicmJOU2xCaGhVU3VjbFFxd3M3YTJXTkt5ZF84UGFVaW1NYjdpMzNjSFBBTm5kUWtlUllVQTZKMmd6bTJ5cEZUT2VBLVpFTE5qUVRXMFVpZHFaV1RwZnpFZw?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 03:14:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T07:00:19.394Z"
+      "updatedAt": "2026-10-16T07:25:13.477Z"
     }
   ]
 }
