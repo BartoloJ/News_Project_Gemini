@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-16T12:25:16.002Z",
-  "lastChecked": "2026-10-16T12:25:16.002Z",
-  "lastUpdated": "2026-10-16T12:25:16.002Z",
-  "generatedAt": "2026-10-16T12:25:16.002Z",
+  "fetchedAt": "2026-10-16T12:43:58.641Z",
+  "lastChecked": "2026-10-16T12:43:58.641Z",
+  "lastUpdated": "2026-10-16T12:43:58.641Z",
+  "generatedAt": "2026-10-16T12:43:58.641Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Watch: Did Tesla really just unveil a flying car?",
+          "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 16 Oct 2026 12:32:31 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "US senators call for investigation into Ukraine's Starlink restrictions",
           "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 16 Oct 2026 08:27:16 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 16 Oct 2026 05:00:17 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T12:25:14.690Z"
+      "updatedAt": "2026-10-16T12:43:57.635Z"
     },
     {
       "name": "NPR",
@@ -99,7 +99,7 @@
           "source": "NPR"
         },
         {
-          "title": "Why some Gen Z voters who backed Trump now regret their decision",
+          "title": "'Everything got worse': Gen Z express frustration, regret after Trump vote",
           "link": "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support",
           "pubDate": "Fri, 16 Oct 2026 05:00:00 -0400",
           "source": "NPR"
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T12:25:15.042Z"
+      "updatedAt": "2026-10-16T12:43:57.740Z"
     },
     {
       "name": "AP News",
@@ -148,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "Brush fires spark in Southern California as hot weather and winds raise wildfire risk - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWdKRjBxSDZhbV84bFU1VmtQazJoSGs3VV9ncVhjM2t2NHlFSHZZd0w0X0U5RjFNXzNiMEZwT1Z0RFVobGt6dEF0cHhTLWlCOF9hWTBPblVEaGNMV0FXZ3J0Z2RaMW9rVXJpNzF4ZVpTN0ZMRXlHWDJ6OGZQc0lxUUVVaFRNSGIzM1dYamJ1X1VHdmpOX3dUWWFuM20?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 05:08:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjh3dFJwbXhHZm1Zc0lXc0o3amZfcHdZUWQtYmZRbU1pdnUxSkk2VkVNVUYyLXJxdTR0eTl1ZW83aDlRR0hwT1FFMzNEV05kYi04ZUNiOGNuUEZudXhGV0IzTzBJUmdSSlVYZU9lNmNrOE9uNEJjc0dpNWN2LUFyYmdrdzByYk1OWHJCQzJlNkZ4b0ozejNEUmdRNVcxYW5feUluLUJOZDY4RW8y?oc=5",
           "pubDate": "Fri, 16 Oct 2026 03:32:00 GMT",
@@ -158,24 +164,36 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTVdJTTJHaHg2ZGo0U2tob2dFdG5JX3p2OGY3MkpEbjZ0LU00Tk1jWEFmSTliR01PWHVTVGdjV1FMc1BTYVZ4U29vUlF0TVZFaUd2aURGVXZnaU5tUXZCT0lHTFVOLVhBejFlN3N0b0pjMU8zcnotWkppYkpMN250S0VDUnI3bzJ4NGY4SzllSS00X19XZnlWaVEtUlg?oc=5",
           "pubDate": "Fri, 16 Oct 2026 03:30:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Youths clash with police for a 3rd day in Albania’s anti-government protests - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2pDMS0xQnJkMTlfUHBfTVp1S202TFkzR244S25sTVlpZFJ1RjM1dVN3QjZUQTZBdmxNQzNrR2F4bXlOSGZ1dGJIMFJDd3MwZVdQM19ITzVHanJOSjRmV1N4RVBENkVpYUNTMjljQUtKQkwwWUNEY1dvOXg1WGpxN1VTUnNWd2Y2dkltQXI3QlBuV1BPM3NKdnpjcUVLZW8?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 02:35:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T12:25:15.565Z"
+      "updatedAt": "2026-10-16T12:43:58.232Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Israeli settlers burn olive trees, injure journalist in West Bank attack - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkU1bHk0ei02ZkZRZndPemRvNGZFQnM5ODdrR2EyTU9WRjBUN3MwcGdtLXY2NnZnWld0UkM2MjBUMDUzWVV6ak1vcGNSV05KMllWVWotQS1TdGNLQnVFOERMRElid09YaVB2bUhGLXE4TlFJelBfRFg3QS1vOVBSLXVJWTV3R01CQ3FSZzVZMHlub3V1ZjFtYlJYNGwwRDRFeUxTeWFzNlJjS1dwSGo1a0xOaXRMc0tiWnlrbVBtMA?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 12:12:01 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Beijing seeks tighter grip on AI exports amid US rivalry - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 12:05:53 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW43alBLT1ZtZE5UZF9VNEY2ZDhBNjNOdk93dG1BZTNBZWZkQ050OVZGQmxUWURPdG16Q1pwTmRtNkFfQTNNWDJEazN2aHBRY1UwLW1MbGRSWXpLdVZRenB6SGY2cFhVcmFlRzRQZkhzV24xeTVtWnJfRTdfUHlIbktueERWSGNCLUw2bzIwdUw1a3FpQ3pMdEk4NE9HaVppTnlvaWNLV19xMy1pOEc0bw?oc=5",
           "pubDate": "Fri, 16 Oct 2026 12:03:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Romania resumes search for seven missing sailors from drone-hit ship - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlZhRnVFYUtGUGRnTHJ5c0d3V2R0SlFoUXVKd0t2RHEybzBubG9iRHlzWmVxU1FnRHV1RHlxSDZram9rUDR5ZEk2TU1yVnNCcVhRWXFLR2d3UVFOSWptUGItUEtwVFhSN25hOXZFOEFLVTFWNi13Mlo3a281SjJQQ0lXU0tXRGJsTGJxY2VCaTdQVm83b0FsNXlvM1dBcjFPM2RB?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 11:53:13 GMT",
           "source": "Reuters"
         },
         {
@@ -185,9 +203,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Romania resumes search for seven missing sailors from drone-hit ship - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlZhRnVFYUtGUGRnTHJ5c0d3V2R0SlFoUXVKd0t2RHEybzBubG9iRHlzWmVxU1FnRHV1RHlxSDZram9rUDR5ZEk2TU1yVnNCcVhRWXFLR2d3UVFOSWptUGItUEtwVFhSN25hOXZFOEFLVTFWNi13Mlo3a281SjJQQ0lXU0tXRGJsTGJxY2VCaTdQVm83b0FsNXlvM1dBcjFPM2RB?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 10:55:02 GMT",
+          "title": "Germany to unveil Nvidia AI agreement next week, government sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFhxVEl6YXFpRm9YZDJ5akl5YjBZQ0lnSzNrZ2xvRXVpQ1JvR2NybkMzRk4zdnRjQzNHNGFpZk0yZzBPM25wbDdYdWZuVGRSanNfdzM2STZxQ2hNbndENWtBd1lQemVEcVljSUJCbVU0ZEhBZVdKN2hQRkg4WUpVSjFIdlg2TlkwLXdDUzR1ZG04Z1VzVkloSHpvb2p4Z0JUeDg1MUZYd2NuQzlvWk43emh3Y184RDQ?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 11:06:50 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Beijing seeks tighter grip on AI exports amid US rivalry - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 10:39:31 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Israeli settlers burn olive trees, injure journalist in West Bank attack - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkU1bHk0ei02ZkZRZndPemRvNGZFQnM5ODdrR2EyTU9WRjBUN3MwcGdtLXY2NnZnWld0UkM2MjBUMDUzWVV6ak1vcGNSV05KMllWVWotQS1TdGNLQnVFOERMRElid09YaVB2bUhGLXE4TlFJelBfRFg3QS1vOVBSLXVJWTV3R01CQ3FSZzVZMHlub3V1ZjFtYlJYNGwwRDRFeUxTeWFzNlJjS1dwSGo1a0xOaXRMc0tiWnlrbVBtMA?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 10:36:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Turtles offer early warning from a warming Mediterranean ahead of COP31 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUVHa3NaY1M1dkFCRXJvc2wwQXVNVGVmRmZTanBQLUUyVjN6Vlc3Z2R1TXlYdTFZdkROS1pfZ1RoRlFkcl9pb2IwakcwUW9JcFh6cXk5azhiYUk3UWdsOVN3QmZuLVNMYm5qWVdrQ0NQQktEeDJEMXAyemJITklQeXVKZXk2MW9laC0xYU44bGxNb05zLWpwM0ZHRnlreUphWElSOW56MmRvcVQxOFRJLURTdHpWT28?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 10:03:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Chinese automakers make tech-led pitch for Europe's premium car market - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWThYSzgwSG5kZ3ZmUEJMamwyN3NJOVJJaVRTMXV5UVM4YkwzTkFSdkxFcENtTU52cGVSY2JmRFpJSUxjQ1hGQTk5akZVdHJ6Z2l2dl9pc0dJV092dGxxa3NFX3BZQmxSQUF6SnUzOG9XM2czTE5OUGEwYUlYblpWdW50MkNWZG5qZ191ZXZXVjlBelExMWRHMDY3cXhmWTNxbnlmS2p4X1duX1NZaVF4aHRYQ1hRcXNVWDVwYlZVbmFVTk1TdWlqbkNqUQ?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 09:31:48 GMT",
+          "title": "Ethiopia's Abiy names new Tigray government, wants polls in six months - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNW1Eb1FZTGsxZ3htdm1jYk1CNG9DSzY3aHFQVkRtX056d0hhbTFpcHZzZGdjOEN5eE0zVkVhYlVxYWdUdGVxSnIyS1dTOFVvUzRmeWRRcGJKYnB6cWZ4Z2U0RWlLWVNEVjBzajRmZjZTaUVidWxSTEhYcFNQcXB0MGdZZnBNN1prTmpXQmlVVEJqaEdSLWx0RVFfdFk3ZExsV1E3OGNZdjEwbDFRMnJOdXVpRlE?oc=5",
+          "pubDate": "Fri, 16 Oct 2026 10:13:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-16T12:25:16.002Z"
+      "updatedAt": "2026-10-16T12:43:58.641Z"
     }
   ]
 }
