@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-17T15:50:13.494Z",
-  "lastChecked": "2026-10-17T15:50:13.494Z",
-  "lastUpdated": "2026-10-17T15:50:13.494Z",
-  "generatedAt": "2026-10-17T15:50:13.494Z",
+  "fetchedAt": "2026-10-17T16:00:21.989Z",
+  "lastChecked": "2026-10-17T16:00:21.989Z",
+  "lastUpdated": "2026-10-17T16:00:21.989Z",
+  "generatedAt": "2026-10-17T16:00:21.989Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T15:50:12.288Z"
+      "updatedAt": "2026-10-17T16:00:20.924Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Scuffles and fires break out as protesters rally across France, joining students",
+          "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
+          "pubDate": "Sat, 17 Oct 2026 11:57:40 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
           "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
           "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
-          "link": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
-          "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T15:50:12.543Z"
+      "updatedAt": "2026-10-17T16:00:20.990Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGNSbDZNbm5wY2VNaTRTRDZiMHFqMW9rbnpvNk1tU0JBdjlTQng0YXhGQTN4bWtRaUNPUUdxY0dHVEhOajRFem5jUFdSVm5QYnkyU1QtcGZuM3BBQnBqTnFYdlBrTHYyampsUEtDMDB5RUdIYVpJZVY5eHBlank0T1BhLW1OSWo5bnNNVUdCR0FJQjRRLVEtNVFqeHlZQjc2Mm1n?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 15:13:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Pope Leo returns to the Vatican 4 days after lung cancer surgery - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFA3aml3ZXJlRXJ4MkFBeHNZYkZvNGJGempQWkJpZDJxQTlnbFFPb1Nkb3RvNUZCR2JCNWZPT2tqNFQ1Y3NJWHNqWm5WcEtHWkJrMzN3cTdjQVV2ZmhnSUF6Y2tjWXZ0TVp1bnJrVURyYzdTU0psdXpDNFRTQjgwQUNybXphRW93NFYwa3JVdUJHRjYzUE8xTUphLVdLZDg?oc=5",
@@ -127,12 +133,6 @@
           "title": "U.S. News: Top U.S. News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
           "pubDate": "Sat, 17 Oct 2026 13:44:05 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGNSbDZNbm5wY2VNaTRTRDZiMHFqMW9rbnpvNk1tU0JBdjlTQng0YXhGQTN4bWtRaUNPUUdxY0dHVEhOajRFem5jUFdSVm5QYnkyU1QtcGZuM3BBQnBqTnFYdlBrTHYyampsUEtDMDB5RUdIYVpJZVY5eHBlank0T1BhLW1OSWo5bnNNVUdCR0FJQjRRLVEtNVFqeHlZQjc2Mm1n?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 12:41:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T15:50:13.060Z"
+      "updatedAt": "2026-10-17T16:00:21.443Z"
     },
     {
       "name": "Reuters",
@@ -191,9 +191,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Pope Leo leaves hospital four days after lung cancer surgery - Reuters",
+          "title": "Pope Leo returns to Vatican four days after lung cancer surgery - Reuters",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEhiTWpBVEdDa1JjQmtQUDBZR1RGVHF4VmxwaTEzRHhtczZOcHlJZE9idHNKOFpxdnpndFYwLUk5Zy1lZFRFWTUtaHlEdW44aVZKZjlXenBveTRvN29sRzI1RG1JVm0wMGlRcFpoeS1hX0dCZE1WVGdVc3plR3FZay0xeUtSYjg2dk9SZVpUSEJUdw?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 14:11:43 GMT",
+          "pubDate": "Sat, 17 Oct 2026 14:41:45 GMT",
           "source": "Reuters"
         },
         {
@@ -209,20 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 14:03:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump faults aides as Republican midterm prospects dim - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTNjQm5xUlNLTTVIZHJ5eXBnMUZlY211OWQzdjJSLWFqMDRrMVZlaXFjUmUtVDFkVXYyVUwzajB4TXNQNE1NblU4RFhGeDNyak4tX1FsZXZtTXpYamZValBXUHc0RXNhc2J6Vk4wZEFNV2FxNHBlYmNvOFVEdThjakZ5Q0g3UXpySk9maHZhYTFXSzVMeXdxMXZ5c1M?oc=5",
           "pubDate": "Sat, 17 Oct 2026 13:58:21 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Iran's Guards say two tankers hit mines in Strait of Hormuz - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWFxZjNZNnY5cVR3VDhKUnNnV1JOcG1vOVB5dEZGdWRybEtqdE9YRWgwY0ZVSXZ0bHYzTWRpX2duSkxpTENtY0s0WW5jMzFUZlZIME16d0FpUXluV2ZGbFJ3alNZaDh0VVVSVFhOMWVIbEZTNVgyTVdwaXNLNXRrMjE4SjZvQXZtblNUNVVHSjFIUmlIaU41TGRHYmIzOUxoa25BODFKaG1FZw?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 13:36:11 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T15:50:13.494Z"
+      "updatedAt": "2026-10-17T16:00:21.989Z"
     }
   ]
 }
