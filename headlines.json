@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-17T22:50:17.023Z",
-  "lastChecked": "2026-10-17T22:50:17.023Z",
-  "lastUpdated": "2026-10-17T22:50:17.023Z",
-  "generatedAt": "2026-10-17T22:50:17.023Z",
+  "fetchedAt": "2026-10-17T23:00:18.592Z",
+  "lastChecked": "2026-10-17T23:00:18.592Z",
+  "lastUpdated": "2026-10-17T23:00:18.592Z",
+  "generatedAt": "2026-10-17T23:00:18.592Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T22:50:15.730Z"
+      "updatedAt": "2026-10-17T23:00:17.395Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
+          "link": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
+          "pubDate": "Sat, 17 Oct 2026 18:45:25 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Scuffles and fires break out as protesters rally across France, joining students",
           "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
           "pubDate": "Sat, 17 Oct 2026 07:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
-          "link": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
-          "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T22:50:15.983Z"
+      "updatedAt": "2026-10-17T23:00:17.719Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T22:50:16.594Z"
+      "updatedAt": "2026-10-17T23:00:18.180Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T22:50:17.022Z"
+      "updatedAt": "2026-10-17T23:00:18.592Z"
     }
   ]
 }
