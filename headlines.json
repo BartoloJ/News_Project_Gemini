@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-17T02:25:14.740Z",
-  "lastChecked": "2026-10-17T02:25:14.740Z",
-  "lastUpdated": "2026-10-17T02:25:14.740Z",
-  "generatedAt": "2026-10-17T02:25:14.740Z",
+  "fetchedAt": "2026-10-17T02:50:14.174Z",
+  "lastChecked": "2026-10-17T02:50:14.174Z",
+  "lastUpdated": "2026-10-17T02:50:14.174Z",
+  "generatedAt": "2026-10-17T02:50:14.174Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 17 Oct 2026 02:33:09 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
           "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 16 Oct 2026 21:05:05 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Trump denies limiting Ukraine access to Starlink network",
-          "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 16 Oct 2026 19:33:48 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T02:25:13.495Z"
+      "updatedAt": "2026-10-17T02:50:13.104Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T02:25:13.684Z"
+      "updatedAt": "2026-10-17T02:50:13.253Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Coastal homes burn as hot winds fuel Southern California fires - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmJmSmdlU0NrdkN0LTJXMGYtbHdsTTk1dTFhY2tGbHVtRENWSUtGWVFHbk02ZVJsWnZwZDJQTGdVbm5xOUpCanFtMXhOUlh1VVdXWVFkQjVkQ29OeFRqWExBdXgzQWFGSXNsWjA1V3lHdjdHNGhfNFpINGlpenlpVHlIRHhvTTdoclNZOUlORk5BakdtMXJXLVNlQkI?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 02:30:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlcwLW12UDlEZm1YNlAzTHVxTUJ0Zmh3OFZnZ0h5bmpmSUZzalllbG9XREtXYTZQUjNkYUNzWXpRTTFXWExjLV9vb1VpTVZCX1pBTFdZNGhoeE9lb0lGdTY1a0kwdldpNFE2c3VvUEx2b0JpTTBhc096THIwbWJGdVc2U0diMnhSNlgxZFVhR3pDeGxLc2J6US1tWG1MUElueFNxdGFvUTE?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 02:09:00 GMT",
+          "pubDate": "Sat, 17 Oct 2026 02:23:00 GMT",
           "source": "AP News"
         },
         {
@@ -133,12 +139,6 @@
           "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
           "pubDate": "Sat, 17 Oct 2026 01:52:30 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Coastal homes burn as hot winds fuel Southern California fires - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmJmSmdlU0NrdkN0LTJXMGYtbHdsTTk1dTFhY2tGbHVtRENWSUtGWVFHbk02ZVJsWnZwZDJQTGdVbm5xOUpCanFtMXhOUlh1VVdXWVFkQjVkQ29OeFRqWExBdXgzQWFGSXNsWjA1V3lHdjdHNGhfNFpINGlpenlpVHlIRHhvTTdoclNZOUlORk5BakdtMXJXLVNlQkI?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 01:18:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T02:25:14.187Z"
+      "updatedAt": "2026-10-17T02:50:13.765Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T02:25:14.740Z"
+      "updatedAt": "2026-10-17T02:50:14.174Z"
     }
   ]
 }
