@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-17T15:00:19.146Z",
-  "lastChecked": "2026-10-17T15:00:19.146Z",
-  "lastUpdated": "2026-10-17T15:00:19.146Z",
-  "generatedAt": "2026-10-17T15:00:19.146Z",
+  "fetchedAt": "2026-10-17T15:25:12.731Z",
+  "lastChecked": "2026-10-17T15:25:12.731Z",
+  "lastUpdated": "2026-10-17T15:25:12.731Z",
+  "generatedAt": "2026-10-17T15:25:12.731Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T15:00:17.754Z"
+      "updatedAt": "2026-10-17T15:25:11.587Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+          "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+          "pubDate": "Sat, 17 Oct 2026 11:10:14 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
           "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
           "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump promised a swing district blitz. He's going to a lot of very red states",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
-          "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T15:00:18.195Z"
+      "updatedAt": "2026-10-17T15:25:11.708Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T15:00:18.719Z"
+      "updatedAt": "2026-10-17T15:25:12.237Z"
     },
     {
       "name": "Reuters",
@@ -182,6 +182,12 @@
           "title": "Trump faults aides as Republican midterm prospects dim - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTNjQm5xUlNLTTVIZHJ5eXBnMUZlY211OWQzdjJSLWFqMDRrMVZlaXFjUmUtVDFkVXYyVUwzajB4TXNQNE1NblU4RFhGeDNyak4tX1FsZXZtTXpYamZValBXUHc0RXNhc2J6Vk4wZEFNV2FxNHBlYmNvOFVEdThjakZ5Q0g3UXpySk9maHZhYTFXSzVMeXdxMXZ5c1M?oc=5",
           "pubDate": "Sat, 17 Oct 2026 13:58:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran's Guards say two tankers hit mines in Strait of Hormuz - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWFxZjNZNnY5cVR3VDhKUnNnV1JOcG1vOVB5dEZGdWRybEtqdE9YRWgwY0ZVSXZ0bHYzTWRpX2duSkxpTENtY0s0WW5jMzFUZlZIME16d0FpUXluV2ZGbFJ3alNZaDh0VVVSVFhOMWVIbEZTNVgyTVdwaXNLNXRrMjE4SjZvQXZtblNUNVVHSjFIUmlIaU41TGRHYmIzOUxoa25BODFKaG1FZw?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 13:36:11 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbF9Kd1c5TUJmMmdwdnhCeWFOYXp2UWhDeWwxaXdWQ0htYng4WWFwN1ZMMFhBV0JoM1kyazlGSjhwMklDdWxTLXhuMnc5LWY2blR5ZDdXQVRlWkFFUngya1AtVFFMS1N6Q0Raa0Y1RzJhSmx1ZmI2WU50elNkb0k1WEZ0RnhybEQ0VC1mUG83dnpBWTV3TzJTaW91ODB1X0VKU0pucE5IR3BIaE43aWVjdnktZW9kb1pnbHlwRnk4MW1lUzJ3UExFNg?oc=5",
           "pubDate": "Sat, 17 Oct 2026 12:56:15 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "'Our land, our Albania': young lawmaker demands new future as protests rage - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbC1qYWlqcW1qUTM3TllqMnBDSmRaRFJiaW03WDZJOU5KNUx4U1U5US1iMktLZmVlMEctLWR2WC1NbkJTMHN3LWQ0RDRtY3FFZkV6aGFvWkNIRC1qLXQwQUtjYVk3aW9jZ3g2bHdNOFBPSk1TRTZ6RUJUbW5vTlBOWERCc0VEdmlSUnI5UXUwaEhTaGRvZ2hpMzJtdFpvMnlFMjIxR2pfTFQ3UEJLbzVKTi1ac1ZyNnFS?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 12:54:53 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T15:00:19.146Z"
+      "updatedAt": "2026-10-17T15:25:12.731Z"
     }
   ]
 }
