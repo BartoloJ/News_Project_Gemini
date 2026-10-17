@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-17T12:25:13.533Z",
-  "lastChecked": "2026-10-17T12:25:13.533Z",
-  "lastUpdated": "2026-10-17T12:25:13.533Z",
-  "generatedAt": "2026-10-17T12:25:13.533Z",
+  "fetchedAt": "2026-10-17T12:50:14.313Z",
+  "lastChecked": "2026-10-17T12:50:14.313Z",
+  "lastUpdated": "2026-10-17T12:50:14.313Z",
+  "generatedAt": "2026-10-17T12:50:14.313Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Pope to be discharged days after lung cancer surgery",
+          "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 17 Oct 2026 12:37:26 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
           "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 17 Oct 2026 03:11:10 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-          "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 17 Oct 2026 02:33:09 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T12:25:12.713Z"
+      "updatedAt": "2026-10-17T12:50:13.094Z"
     },
     {
       "name": "NPR",
@@ -112,21 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T12:25:13.016Z"
+      "updatedAt": "2026-10-17T12:50:13.286Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Vatican says Pope Leo to be released from the hospital Saturday, 4 days after lung cancer surgery - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFA3aml3ZXJlRXJ4MkFBeHNZYkZvNGJGempQWkJpZDJxQTlnbFFPb1Nkb3RvNUZCR2JCNWZPT2tqNFQ1Y3NJWHNqWm5WcEtHWkJrMzN3cTdjQVV2ZmhnSUF6Y2tjWXZ0TVp1bnJrVURyYzdTU0psdXpDNFRTQjgwQUNybXphRW93NFYwa3JVdUJHRjYzUE8xTUphLVdLZDg?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 09:54:00 GMT",
+          "title": "U.S. News: Top U.S. News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 10:44:24 GMT",
           "source": "AP News"
         },
         {
-          "title": "U.S. News: Top U.S. News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 09:48:35 GMT",
+          "title": "Vatican says Pope Leo to be released from the hospital Saturday, 4 days after lung cancer surgery - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFA3aml3ZXJlRXJ4MkFBeHNZYkZvNGJGempQWkJpZDJxQTlnbFFPb1Nkb3RvNUZCR2JCNWZPT2tqNFQ1Y3NJWHNqWm5WcEtHWkJrMzN3cTdjQVV2ZmhnSUF6Y2tjWXZ0TVp1bnJrVURyYzdTU0psdXpDNFRTQjgwQUNybXphRW93NFYwa3JVdUJHRjYzUE8xTUphLVdLZDg?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 09:54:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T12:25:13.094Z"
+      "updatedAt": "2026-10-17T12:50:13.836Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "India's HDFC Bank Q2 profit rises 4.7%; deputy MD Bharucha to step down - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjB0SmpGMldtSUxlMXY3eWtUX0pBeTluNVRXUVRmVjJqOUxMUG9QcDBsZFBLcU1aRzRLaEh5N2VOTkRJZDh0RENUMFZqd1JITGFpOWo0UWtQejJkQ2RKMS10S1N5X09jZVNzX0c4dkMzVDlONDJHMlREZXBTNGtDVXFQM2NHNElrLWlnNUEtN2c4RHJuUHJjWEUwaGVBQ0NqYURxVHBrbzhhaDV6WjBxeEZqcEhEbFc3UVc5SmtDdU5mOGM?oc=5",
           "pubDate": "Sat, 17 Oct 2026 11:20:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tunisians stage biggest protest in years against President Saied - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGtlSEpxTllGcXRnWVFBMmRwX1VYX3dackZjTzFGTlRXOXdRQXhuOXZDdGw1YTl0aGt4X25UTWk1V2VoLVdpMFp3eTNOdGdSSE84QklxZXYwek5YVW4tamtMYXdOd0dvMVlfX1czQ2xZc2ozR0pDMVFaNElGbWdSczFrc0JqaTNyUS1UQlJqMm5nUXQ1WVpNU29xdTNRZEVqSy04cnBORzF6V2xoX0dhb1Y2S0dWZnB1bjFMZA?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 11:17:43 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbC1qYWlqcW1qUTM3TllqMnBDSmRaRFJiaW03WDZJOU5KNUx4U1U5US1iMktLZmVlMEctLWR2WC1NbkJTMHN3LWQ0RDRtY3FFZkV6aGFvWkNIRC1qLXQwQUtjYVk3aW9jZ3g2bHdNOFBPSk1TRTZ6RUJUbW5vTlBOWERCc0VEdmlSUnI5UXUwaEhTaGRvZ2hpMzJtdFpvMnlFMjIxR2pfTFQ3UEJLbzVKTi1ac1ZyNnFS?oc=5",
           "pubDate": "Sat, 17 Oct 2026 08:43:31 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 08:19:38 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T12:25:13.533Z"
+      "updatedAt": "2026-10-17T12:50:14.313Z"
     }
   ]
 }
