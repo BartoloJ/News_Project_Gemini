@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-17T08:00:19.318Z",
-  "lastChecked": "2026-10-17T08:00:19.318Z",
-  "lastUpdated": "2026-10-17T08:00:19.318Z",
-  "generatedAt": "2026-10-17T08:00:19.318Z",
+  "fetchedAt": "2026-10-17T08:25:12.174Z",
+  "lastChecked": "2026-10-17T08:25:12.174Z",
+  "lastUpdated": "2026-10-17T08:25:12.174Z",
+  "generatedAt": "2026-10-17T08:25:12.174Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T08:00:18.301Z"
+      "updatedAt": "2026-10-17T08:25:11.278Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Coastal homes burn as hot winds fuel California fires",
+          "link": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
+          "pubDate": "Sat, 17 Oct 2026 04:20:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Katie Zacharia is out as press secretary, White House says",
           "link": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
           "pubDate": "Fri, 16 Oct 2026 07:30:31 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
-          "link": "https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers",
-          "pubDate": "Fri, 16 Oct 2026 07:03:57 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T08:00:18.341Z"
+      "updatedAt": "2026-10-17T08:25:11.376Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T08:00:18.837Z"
+      "updatedAt": "2026-10-17T08:25:11.769Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T08:00:19.318Z"
+      "updatedAt": "2026-10-17T08:25:12.173Z"
     }
   ]
 }
