@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-17T11:50:14.765Z",
-  "lastChecked": "2026-10-17T11:50:14.765Z",
-  "lastUpdated": "2026-10-17T11:50:14.765Z",
-  "generatedAt": "2026-10-17T11:50:14.765Z",
+  "fetchedAt": "2026-10-17T12:00:25.079Z",
+  "lastChecked": "2026-10-17T12:00:25.079Z",
+  "lastUpdated": "2026-10-17T12:00:25.079Z",
+  "generatedAt": "2026-10-17T12:00:25.079Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 17 Oct 2026 11:56:06 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
           "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
           "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 17 Oct 2026 09:58:17 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 17 Oct 2026 09:42:13 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T11:50:13.603Z"
+      "updatedAt": "2026-10-17T12:00:23.707Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
+          "link": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
+          "pubDate": "Sat, 17 Oct 2026 07:43:14 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
           "link": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says",
           "pubDate": "Fri, 16 Oct 2026 16:29:40 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
-          "link": "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future",
-          "pubDate": "Fri, 16 Oct 2026 14:08:33 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T11:50:13.904Z"
+      "updatedAt": "2026-10-17T12:00:23.996Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T11:50:14.364Z"
+      "updatedAt": "2026-10-17T12:00:24.568Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump faults aides as Republican midterm prospects dim - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTNjQm5xUlNLTTVIZHJ5eXBnMUZlY211OWQzdjJSLWFqMDRrMVZlaXFjUmUtVDFkVXYyVUwzajB4TXNQNE1NblU4RFhGeDNyak4tX1FsZXZtTXpYamZValBXUHc0RXNhc2J6Vk4wZEFNV2FxNHBlYmNvOFVEdThjakZ5Q0g3UXpySk9maHZhYTFXSzVMeXdxMXZ5c1M?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 11:09:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump-Zelenskiy rift threatens vital support for Kyiv - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOS1zSXlGaS1sbWV1RHJiN2s1S1o5WWQxY01nZmh0ZVA2ZHo3cEZ0NUhERFZFT2kzT0FPQXgxVmFqNzhlNUNtNFB1WkFENHZEU2xKdWRuYmt5ZUhTcUJrY1ktbXEtSU1mOGUyZkxYOVF6Y1hqYkFZSGJuZ2s4MWZ1NmRZY09kQThIZXlndE1GRFlIVkNvTWFzbUxhaDJaNEE?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 10:50:35 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Pope Leo to leave hospital on Saturday, four days after lung cancer surgery - Reuters",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEhiTWpBVEdDa1JjQmtQUDBZR1RGVHF4VmxwaTEzRHhtczZOcHlJZE9idHNKOFpxdnpndFYwLUk5Zy1lZFRFWTUtaHlEdW44aVZKZjlXenBveTRvN29sRzI1RG1JVm0wMGlRcFpoeS1hX0dCZE1WVGdVc3plR3FZay0xeUtSYjg2dk9SZVpUSEJUdw?oc=5",
@@ -182,12 +194,6 @@
           "title": "Indian state food safety authority names Blinkit, Reliance executives in expired food probe - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbF9Kd1c5TUJmMmdwdnhCeWFOYXp2UWhDeWwxaXdWQ0htYng4WWFwN1ZMMFhBV0JoM1kyazlGSjhwMklDdWxTLXhuMnc5LWY2blR5ZDdXQVRlWkFFUngya1AtVFFMS1N6Q0Raa0Y1RzJhSmx1ZmI2WU50elNkb0k1WEZ0RnhybEQ0VC1mUG83dnpBWTV3TzJTaW91ODB1X0VKU0pucE5IR3BIaE43aWVjdnktZW9kb1pnbHlwRnk4MW1lUzJ3UExFNg?oc=5",
           "pubDate": "Sat, 17 Oct 2026 10:23:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump faults aides as Republican midterm prospects dim - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTNjQm5xUlNLTTVIZHJ5eXBnMUZlY211OWQzdjJSLWFqMDRrMVZlaXFjUmUtVDFkVXYyVUwzajB4TXNQNE1NblU4RFhGeDNyak4tX1FsZXZtTXpYamZValBXUHc0RXNhc2J6Vk4wZEFNV2FxNHBlYmNvOFVEdThjakZ5Q0g3UXpySk9maHZhYTFXSzVMeXdxMXZ5c1M?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 10:10:09 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw?oc=5",
           "pubDate": "Sat, 17 Oct 2026 08:19:38 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Russian defence ministry says it hit Ukrainian steel plants, power infrastructure overnight - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFVaMHlsTTJLMm1FdGE0VlhXN0JmRGhQSzk3SzNNRzBaN3ZmTWV6VmEzeFMzNTJSY3FrcWwyQ1ZSNjVSUGdBOGNoc0ZkZW9Fcldrem1TOGk5Z1hQOUYzNlBmaTNtWUhTU1JEN3M5cXFCRUdzSllIeWZoMDBOOWxIU3NQdUZqNWlibnFEQ0puME9Cenp1bU11aS1tWko4a0JrTnJLSVBSWVQzaUZsbG52cWlrbnlQUi1kQmxSVWpldw?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 08:03:53 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T11:50:14.765Z"
+      "updatedAt": "2026-10-17T12:00:25.079Z"
     }
   ]
 }
