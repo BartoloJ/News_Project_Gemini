@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-17T14:25:12.597Z",
-  "lastChecked": "2026-10-17T14:25:12.597Z",
-  "lastUpdated": "2026-10-17T14:25:12.597Z",
-  "generatedAt": "2026-10-17T14:25:12.597Z",
+  "fetchedAt": "2026-10-17T14:50:21.188Z",
+  "lastChecked": "2026-10-17T14:50:21.188Z",
+  "lastUpdated": "2026-10-17T14:50:21.188Z",
+  "generatedAt": "2026-10-17T14:50:21.188Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T14:25:11.553Z"
+      "updatedAt": "2026-10-17T14:50:18.306Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+          "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+          "pubDate": "Sat, 17 Oct 2026 10:25:10 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Perspective: Midterm money madness",
           "link": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/17/nx-s1-5976921/grocery-store-wedding-cakes",
           "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Coastal homes burn as hot winds fuel California fires",
-          "link": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
-          "pubDate": "Sat, 17 Oct 2026 04:20:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T14:25:11.687Z"
+      "updatedAt": "2026-10-17T14:50:20.163Z"
     },
     {
       "name": "AP News",
@@ -124,9 +124,21 @@
           "source": "AP News"
         },
         {
+          "title": "House Speaker Mike Johnson draws on faith as he fights to hold the Republican majority - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcExxQUNwdWt3cTdJNVhNdGpNR0wxN01ERnJ0XzFKaXhhX2g3Z1YzTlVHSUNCaDZNMzBjbURBY2tvaDBPZ0piNGZKOU1JN2w2MmZGOUdXSU84WVM3ZFdJd09ndHJ6ajgyejFBSlJLb2ZEWTZ3VU5pWUNzbjY5LVk5VVVEdFR2WmtzbXhDVEtFNXJkWEVyaVNlWGRkNE5TWEU0WWFlQlZfaHVCQ0xUUndJTnpPcw?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 12:26:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "U.S. News: Top U.S. News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
           "pubDate": "Sat, 17 Oct 2026 11:30:48 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Oregon father is the latest armed civilian to confront a gunman in a US mass shooting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFpQdl9rRFV5NXpScnNPbzFlNEdsb3BWX0c0OGJZR2pFZm1POWJlczZoOFpXQUlzX1lkM05WSnVDa28tby1ObWtNaVBMdmxiV1l5ajJwU1had0ZfZDVBSHJ5akM1UEtKanB1eDlwTm5MQmMyVFljQWxfNm1tU1hONnktaGlqSWt3ZUYtRzJOUHdsQUt6Zy1lcmM2Z0FITW5ETmJsMDdiM0d6U3BTWU9B?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 11:14:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,30 +164,24 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTJwQVFSckQyTG8welFNdElXZkNVRVc5VFI5VnY0OHlLekpPNklCczhobEVMTDNaRDI2TGlPTGNma2U2cXg2YXRWMVpPczV5eS1HdHBIN3I5bE1oSGVZZXRYVWlidmdldVlaQVRRU1JGNDNGSEJKSTdkY0NkeGtiNFVuclZ1NFJiZmVnWkZNbHNNMkpaWFN2WjdjU0g5aEt3WGN0Vg?oc=5",
           "pubDate": "Sat, 17 Oct 2026 03:56:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnJQRmxjVThxTzVHd0pFZ1kwcWtlM0Z1SWUxNVBnRDFFNzBsZmp0TmNFYkEwai0xSW8xcDNvbXpMRU5rU2hoZk1DZ2FuemtfdGVYTlpXN3QwZjV5emVoQlhZa0tDQ0tXM2d1emJRNjJvSHFJYTkwc0pBc1NYc2VyaVVrb2tEb0VEUW9Ka0dhRjM1WER1?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 03:18:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlcwLW12UDlEZm1YNlAzTHVxTUJ0Zmh3OFZnZ0h5bmpmSUZzalllbG9XREtXYTZQUjNkYUNzWXpRTTFXWExjLV9vb1VpTVZCX1pBTFdZNGhoeE9lb0lGdTY1a0kwdldpNFE2c3VvUEx2b0JpTTBhc096THIwbWJGdVc2U0diMnhSNlgxZFVhR3pDeGxLc2J6US1tWG1MUElueFNxdGFvUTE?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 02:23:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T14:25:12.218Z"
+      "updatedAt": "2026-10-17T14:50:20.714Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Pope Leo to leave hospital on Saturday, four days after lung cancer surgery - Reuters",
+          "title": "Pope Leo leaves hospital four days after lung cancer surgery - Reuters",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEhiTWpBVEdDa1JjQmtQUDBZR1RGVHF4VmxwaTEzRHhtczZOcHlJZE9idHNKOFpxdnpndFYwLUk5Zy1lZFRFWTUtaHlEdW44aVZKZjlXenBveTRvN29sRzI1RG1JVm0wMGlRcFpoeS1hX0dCZE1WVGdVc3plR3FZay0xeUtSYjg2dk9SZVpUSEJUdw?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 13:24:22 GMT",
+          "pubDate": "Sat, 17 Oct 2026 14:11:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump faults aides as Republican midterm prospects dim - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTNjQm5xUlNLTTVIZHJ5eXBnMUZlY211OWQzdjJSLWFqMDRrMVZlaXFjUmUtVDFkVXYyVUwzajB4TXNQNE1NblU4RFhGeDNyak4tX1FsZXZtTXpYamZValBXUHc0RXNhc2J6Vk4wZEFNV2FxNHBlYmNvOFVEdThjakZ5Q0g3UXpySk9maHZhYTFXSzVMeXdxMXZ5c1M?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 13:58:21 GMT",
           "source": "Reuters"
         },
         {
@@ -188,6 +194,12 @@
           "title": "Egypt's Sisi says his presidency will end in 2030, outlines plan to prepare future leaders - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3NvbzVWSnc2ZlZISTRVY1BTaXo5ejd4dHJXTXZ2UlBxTkZzSWx3ZWlRY0hfeHlsLXJIR3M0aEVHcVBTckJDUk43TktZUHYwblZCX0xkNmdVSTZsTnA4bW1fQ3JJYVRwaWJHdTZ3TE4tbzRDQWoxcWJ3ZUVVZ3A5a1VnVVEyNEdXZ2E2UnFGb2hnVmJSQ2s2a1p3?oc=5",
           "pubDate": "Sat, 17 Oct 2026 13:13:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Zelenskiy hopes for meeting with US and Russia during G20 summit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDM2a0NkRFJYMExTcDFiNXZseFl3dXd3MHRMNU1ISjhoZDNieUZ2MTJaY1FvZFlqS190cEhpOTRsR2hqLUF5cFhadjF4MGptZlExUWJORDFHSlR1anN1ZmhBa2NXdXV2c0VDSHFpR0hMa09FS1BNT283X1VHLVJkN05GcHU1VlBYQlNJTVFQUVFCeVBDT09hYm90VWlyRlJaLXlKR2dlZnI?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 13:07:09 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbC1qYWlqcW1qUTM3TllqMnBDSmRaRFJiaW03WDZJOU5KNUx4U1U5US1iMktLZmVlMEctLWR2WC1NbkJTMHN3LWQ0RDRtY3FFZkV6aGFvWkNIRC1qLXQwQUtjYVk3aW9jZ3g2bHdNOFBPSk1TRTZ6RUJUbW5vTlBOWERCc0VEdmlSUnI5UXUwaEhTaGRvZ2hpMzJtdFpvMnlFMjIxR2pfTFQ3UEJLbzVKTi1ac1ZyNnFS?oc=5",
           "pubDate": "Sat, 17 Oct 2026 12:54:53 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Tunisians stage biggest protest in years against President Saied - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGtlSEpxTllGcXRnWVFBMmRwX1VYX3dackZjTzFGTlRXOXdRQXhuOXZDdGw1YTl0aGt4X25UTWk1V2VoLVdpMFp3eTNOdGdSSE84QklxZXYwek5YVW4tamtMYXdOd0dvMVlfX1czQ2xZc2ozR0pDMVFaNElGbWdSczFrc0JqaTNyUS1UQlJqMm5nUXQ1WVpNU29xdTNRZEVqSy04cnBORzF6V2xoX0dhb1Y2S0dWZnB1bjFMZA?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 12:33:39 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Albanian anti-government protesters clash with police in Tirana - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlJCekoweVlrYktkQmJZZ2V4aFFnRFpHdnRBMlYzZDlJS0xFS1JWQVMtOVNvbURNdUNHU09BTnBkNjBwdi0yaFVNR2Nqbm9sTUxHTFZQQk1PWkU2ZzdVeC04UVdLb2lJNFoxWHVsSWJJQTlrNXBYZ0NfNWJ4YTdENjlBYmwtdDlOMHhMOWtJY2NxUDJHRlJ1emtpa2h4UmFwZlBOQ0dEQlBORTREQ0E?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 12:19:46 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T14:25:12.597Z"
+      "updatedAt": "2026-10-17T14:50:21.188Z"
     }
   ]
 }
