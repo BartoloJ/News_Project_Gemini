@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-17T07:00:19.388Z",
-  "lastChecked": "2026-10-17T07:00:19.388Z",
-  "lastUpdated": "2026-10-17T07:00:19.388Z",
-  "generatedAt": "2026-10-17T07:00:19.388Z",
+  "fetchedAt": "2026-10-17T07:25:12.539Z",
+  "lastChecked": "2026-10-17T07:25:12.539Z",
+  "lastUpdated": "2026-10-17T07:25:12.539Z",
+  "generatedAt": "2026-10-17T07:25:12.539Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T07:00:18.377Z"
+      "updatedAt": "2026-10-17T07:25:11.427Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T07:00:18.524Z"
+      "updatedAt": "2026-10-17T07:25:11.651Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "U.S. News: Top U.S. News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 05:37:28 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Coastal homes burn as hot winds fuel Southern California fires - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmJmSmdlU0NrdkN0LTJXMGYtbHdsTTk1dTFhY2tGbHVtRENWSUtGWVFHbk02ZVJsWnZwZDJQTGdVbm5xOUpCanFtMXhOUlh1VVdXWVFkQjVkQ29OeFRqWExBdXgzQWFGSXNsWjA1V3lHdjdHNGhfNFpINGlpenlpVHlIRHhvTTdoclNZOUlORk5BakdtMXJXLVNlQkI?oc=5",
           "pubDate": "Sat, 17 Oct 2026 05:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "How a driver, a dad and a teacher tried to stop the Oregon school shooter - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNm04WEhBY2d5Z3RvUnh6X0V1U2FBTzJfT2lZR21FLWtHWjZpSWNTR0R2QUJibHFidzhMcjVVZUFyd3RJX2h4NTNFTkNJM0pwb25iUERMSk1XVlo4cWlVY2pxd3QydUVZNTVVbE9LWlN3ZDBvUG9EeFZCdjExenZFcUZyWHpXUEdteUdEQVUtVi1wVlo2TFQ2R2xqanRTdC13T0gwWE53bjduaUVvRnRz?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 04:00:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSy1nY1ctYXVCVmRaVk5XZTRUUHFMQ2NqZnVKelNUZF9EWW9uLXFzZGpxcGgyZU9zUWlLVzJJRWI0ZnhmbERlNC1UcVBsUGNOWmtGYWo3dERET3l3QXAtOXV2NkFnR0h6Wm10cmhYR3JhcklabDdpZ1llX2dpaU5GbnBLVXYtcjFOU0JpVHNNZ1k5UUhhNzlOcnhnd0MwNHNaMlRtcEhtQWNGZw?oc=5",
           "pubDate": "Sat, 17 Oct 2026 01:46:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Painting Eisenhower Building would diminish historic character of White House complex, report says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmtnQmJhZUdYenI5NG1feE1iZnZTYjFiYTRaSm1mdlNORXlYRlpTMzJNaExzRERwejJzQTZYWnlQMzl5d1lYaFhMUThuMWlWTnktcHczOWkzYlZKdnctMTA5UFIxOVBHWEJxOG13cjhLLU1hTXc2TEo4YW8xUWFjam5SaUtXMnFodUNFRUFFQV9ybG9QNTBTMm1hYUt4bHZNbW8wNE1hNFlBR2gw?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 23:07:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump rallies with top Republicans in critical battleground state of Georgia - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeG9neF9UWU8xalFMQThHbW1Hb2o3Z29WeGtuem1Dc1hVWGhCOXdHMENnTHZmcWEzODBVQnBmSV9HZnRHYVVJZ3FpdXVwM0tGSk5hd1hnVFlfSG1FclBQWWd4YTkybGRuLVl5SFhzeWNnX2V4NkY2cGlNYVJ0eUhSc1A0WUR1djM1dHhCcHk2Qnp4WDJxYVhnMi1seEszX3pkVzJBTVR6dE5oWlNS?oc=5",
-          "pubDate": "Fri, 16 Oct 2026 22:34:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T07:00:18.995Z"
+      "updatedAt": "2026-10-17T07:25:12.134Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-17T07:00:19.387Z"
+      "updatedAt": "2026-10-17T07:25:12.538Z"
     }
   ]
 }
