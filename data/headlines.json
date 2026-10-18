@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-18T15:25:13.386Z",
-  "lastChecked": "2026-10-18T15:25:13.386Z",
-  "lastUpdated": "2026-10-18T15:25:13.386Z",
-  "generatedAt": "2026-10-18T15:25:13.386Z",
+  "fetchedAt": "2026-10-18T15:50:14.587Z",
+  "lastChecked": "2026-10-18T15:50:14.587Z",
+  "lastUpdated": "2026-10-18T15:50:14.587Z",
+  "generatedAt": "2026-10-18T15:50:14.587Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+          "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 18 Oct 2026 15:46:10 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Search for Amelia Earhart's plane resumes after stormy weather",
           "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
           "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 18 Oct 2026 12:07:31 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-          "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 18 Oct 2026 11:57:49 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T15:25:12.112Z"
+      "updatedAt": "2026-10-18T15:50:13.481Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,21 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T15:25:12.315Z"
+      "updatedAt": "2026-10-18T15:50:13.713Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Airstrike kills at least 9 in rebel-held Yemen, and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTVQOXY5eWJtZXExSXpLYk9CMWUycWRQTEREeEtlUUtlQkRTR3laVnZQTEFIVjN6S1BpbXVkU3N1Nm1Vb09POV8xVGRncFFBMlp6RUR6QVJTTXBwcnZ4M2kzcmVXYVJVM3FaWkZyVlRsNGs2aml5UWdBM0Nuc3oyblpMS1hrdnVjcFZnNkx4bjJTVGJ3OEM0S1piZnFtbHZ1VnlUdEZvMjVHcGtZaGNSVg?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 14:43:00 GMT",
+          "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ001MUlHYUhFLTdzTlZPTWdsOG12UXhpTFdKOFQ1REFaUFVhWGZJTXk1V0Y3cGNhTTR3d1hnclJVamdMRFJlZ213WjVsblNIODZ6cUstbVp6U1o1STRyUVNMUXRPUkVFUlZJWWppUWo3VWpZOXB2WDlTck4yUXFQXy0wQktGczRPbkVkZ1dheURZcGp1dFA2WXVlaXpLeTNLVzAyVnhGWlRrUVNH?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 15:01:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Nellis Air Force Base: Service member dies after rappelling fall at a UT San Antonio game - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSENrWmpZclZ3MTdpUkhZNmRULTFQN2VjS3lvVThlYzJvWW0zUTA5eVR5OTFxUjRqYjJ6aGdINW9QbkstNXB5dWczYXZONGFoLXliMVBMV1NOVXFqZlBjaHV2aHc3RlVzZWRBblBneWszWnMzamVteE0tQm9mQmhZZTJfNnE2UDQ3UHAtVm1qZGZqdFM1OHNXRnVaRjc4S2tsTXZaOUs5RDF2Zw?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 14:30:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,12 +154,6 @@
           "source": "AP News"
         },
         {
-          "title": "Nellis Air Force Base: Service member dies after incident at a UT San Antonio game - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSENrWmpZclZ3MTdpUkhZNmRULTFQN2VjS3lvVThlYzJvWW0zUTA5eVR5OTFxUjRqYjJ6aGdINW9QbkstNXB5dWczYXZONGFoLXliMVBMV1NOVXFqZlBjaHV2aHc3RlVzZWRBblBneWszWnMzamVteE0tQm9mQmhZZTJfNnE2UDQ3UHAtVm1qZGZqdFM1OHNXRnVaRjc4S2tsTXZaOUs5RDF2Zw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 12:23:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Analysis: For Trump, results have often revealed the art of no deal - AP News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTBJSzVrNXJCbFlqdll6ZDhGakxQaVZJWVFoQmYwaXpTTXZMQWI4X252VHZkbGt5amxQMGEwdDNZY1M4YXZrY1dKNERRNE90aEI1ZGtyalpPUmk5YVNua2xDRHd3aFB1TEFQZ19zeVJPTmFEX0lpcGVBVk9DdUhaQUdGT1ZoVWxEYnRUOGhIeFhXNk9FNi1KSWlOcVFuS1d2XzRHVXNVWXVtc3VfM0R3emhn?oc=5",
           "pubDate": "Sun, 18 Oct 2026 11:57:00 GMT",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T15:25:12.917Z"
+      "updatedAt": "2026-10-18T15:50:14.179Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T15:25:13.386Z"
+      "updatedAt": "2026-10-18T15:50:14.587Z"
     }
   ]
 }
