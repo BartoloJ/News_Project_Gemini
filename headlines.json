@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-18T17:25:13.416Z",
-  "lastChecked": "2026-10-18T17:25:13.416Z",
-  "lastUpdated": "2026-10-18T17:25:13.416Z",
-  "generatedAt": "2026-10-18T17:25:13.416Z",
+  "fetchedAt": "2026-10-18T17:50:14.482Z",
+  "lastChecked": "2026-10-18T17:50:14.482Z",
+  "lastUpdated": "2026-10-18T17:50:14.482Z",
+  "generatedAt": "2026-10-18T17:50:14.482Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T17:25:12.154Z"
+      "updatedAt": "2026-10-18T17:50:13.133Z"
     },
     {
       "name": "NPR",
@@ -75,6 +75,12 @@
           "source": "NPR"
         },
         {
+          "title": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings",
+          "pubDate": "Sun, 18 Oct 2026 08:00:57 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "If you have the scratch, they have the scares",
           "link": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
           "pubDate": "Sun, 18 Oct 2026 08:00:00 -0400",
@@ -87,7 +93,7 @@
           "source": "NPR"
         },
         {
-          "title": "Major fire breaks out in Alberta after deadly incident at military base",
+          "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
           "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
           "pubDate": "Sun, 18 Oct 2026 03:56:08 -0400",
           "source": "NPR"
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
           "pubDate": "Sat, 17 Oct 2026 11:57:40 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
-          "pubDate": "Sat, 17 Oct 2026 11:10:14 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T17:25:12.420Z"
+      "updatedAt": "2026-10-18T17:50:13.500Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Shakeup Saturday: 5 of the top 7 teams in the Top 25 lost in the regular season for the first time - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUTF2UlFIOWVHOTloUEc0MVVLeC1VTWctWFhjRWdxaE9INDU0d3VoTElSdk5kNjZ4ak43bFJaeE1rSndiSjBOZHkyeWg1U01hZ3g1ckEyR21CTDNxa0RiREJIREJ4SmlxMk4wUmpJMHlSd01LUDBzcFI2TTFiYjV5MHJR?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 17:32:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
@@ -158,20 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGxoemZ1SU5mT0NtVU56WWxPclZWWXZ3Vlc2TkpJOVlIaUw5T3luaDlkVVE0YlJqOXRTUmJ5anI3eHdqTEdJemtKRGtxUmNaN2U3Z21CWUQ0UEVLSUdZX3UtZVlFRzBQSHZmTWRQTFJtWmNrcHg2NDkxX1RBRy1BVkRMZEtnU3BfR0dYSWk3M01RZlowenZCT0QwZw?oc=5",
           "pubDate": "Sun, 18 Oct 2026 14:36:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Nellis Air Force Base: Service member dies after rappelling fall at a UT San Antonio game - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSENrWmpZclZ3MTdpUkhZNmRULTFQN2VjS3lvVThlYzJvWW0zUTA5eVR5OTFxUjRqYjJ6aGdINW9QbkstNXB5dWczYXZONGFoLXliMVBMV1NOVXFqZlBjaHV2aHc3RlVzZWRBblBneWszWnMzamVteE0tQm9mQmhZZTJfNnE2UDQ3UHAtVm1qZGZqdFM1OHNXRnVaRjc4S2tsTXZaOUs5RDF2Zw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 14:30:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T17:25:12.935Z"
+      "updatedAt": "2026-10-18T17:50:14.013Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmVDUVQyZjhnbFN2MHQ1MHVPMHVpLVVsUFE1aU44Y2QzMUx2a25MRXR5OWtkTGd5RkViaG9fM3lZcnFHblYyT2xMeGZ3MHI3NkFjQ0FhdWFVRWlmdHlPRDRFRVRsclFpbUExakpiN3Z4aGMtODdDb09Mb0xXbnIxdU04ZmQ3UTEyTkhQd2EyMFhDNzQzYVgzZG9FeDlNYTJTanNOOThVSGRTb2RnRWdCajBVXzFMcDB4MWZpbXR1STMzZ1JaOXRr?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 17:19:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JXcTFReXJpR0UyNGM1UVFfMTVMRlJHbGpmRlh2Wk1HQ3ZQZ0Q0YUNadThFXy1IcTZXdHJMOGxNU0FqM1NTQkVaOHpOX2NaWGNMTXJaRzJnYUVmald2UmVvTExRVVdqajR0ZmVBNE8tVHhkMXFhQ3FQQmhUVGdEMmUwcXA3RHFPN2ZUOTZ6SzBqNVlpQkZGSnlOb3FjV0gyT1JIUzEtYnBwbjBySGlVcjRUaHJnN3dDb2hRMW8zbExBZw?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 17:19:02 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "France counts the cost of worst unrest in years as tensions flare again in Paris - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
@@ -182,6 +194,12 @@
           "title": "Davidovich Fokina overcomes Jodar to claim Shanghai crown - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlJ1TFIyWXlJclFycGpaSmZ4ckpFcDJ0MU9wS1Ryb3FWX1NYSlEzZ3JfS202THFRRTczMWhqemE4XzRMbDB3UV9hOENkOTlRRHZEMm9xZjFrMHI0Vm9PbVFhOFh4aUNiYkIyanZLUm1NdV9GVWJSV1lBejFQTEk2Qk5XeDFzc2FmZXUzc3FUbFZ2bnFRRnNwVnhNeHUyWmctVWcydE8tc3dadlM5YTJyTjJB?oc=5",
           "pubDate": "Sun, 18 Oct 2026 17:08:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Captain of flydubai plane describes blocking axe blows as co-pilot attacked - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRlNJNGV2RU1JbHotN25MRXNHQVZIeDJJU3I5eGYzT0pkUjdaSnZqbUpNZzRJY1U2cW1yUUViUjVuTVlvb184VjZsaEF5dnNBdEFBTVhtemRBalZRbG1SdlNhdHFoVkZHTHZ3SzlTMTRWaFhJaTMyVzJxc01qWmp6aUlpa2k5dGJuVTNkeU5mWXZUZ1F6SUlrMzlESGJ4cmRkajZwcF8ybEhoZXRITXQyMVFFTkxKdnZjS0t6WFNBSWQ3M0s3WS14VzhObFM?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 16:50:50 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFZiZFozb1RWTzVBbk4wZU8xMHlSeHhuSmhkMi1FSVhqTTZ5U3BMbF9aaU5fVjRpWnI1MkJTMTZscVcxTWM0YnVFRXFWdXQ2SnpSdVNPVm5LR1QzbVhpQjliR3VNZFl4WXhjODUzbjNZRXg0S0l0al80ZDlwdjc5ejFRU0E3NlJBZm1iOWg3VjhybzNLbWpOelQ4ZDZBWTkxS3Y4Rm9MUm9vTjdfYk9iaVRJd29DSDhMUi1KOGZMcDhzZGs?oc=5",
           "pubDate": "Sun, 18 Oct 2026 15:54:36 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Lithuania says attempted Starlink arson was Russia-linked sabotage - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0FMbVJmdl80MGprYjdwckNocW1aRTVXa3RSazdUZzZxTDBrRWVuQ2tXWGNYcEhmYUdSOGRzWTUzaklVSllyNllRLTlKMlBOaFc5OEpHQVJDRGxndHo3V1V4LWM2Tl80cURPcTBlSVluOURBZmZzVkRtXzVZbVdoUXNWRHdBd0xROE54WHBxclBYQVJjM0tfWWRFLWItSHRMODFBSmVPQkRUcXlyZzVoZkNRRjVRSkxpVm96eU1sU0d1d00?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 15:06:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmVDUVQyZjhnbFN2MHQ1MHVPMHVpLVVsUFE1aU44Y2QzMUx2a25MRXR5OWtkTGd5RkViaG9fM3lZcnFHblYyT2xMeGZ3MHI3NkFjQ0FhdWFVRWlmdHlPRDRFRVRsclFpbUExakpiN3Z4aGMtODdDb09Mb0xXbnIxdU04ZmQ3UTEyTkhQd2EyMFhDNzQzYVgzZG9FeDlNYTJTanNOOThVSGRTb2RnRWdCajBVXzFMcDB4MWZpbXR1STMzZ1JaOXRr?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 15:03:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUsxbVVqQ0FFUl81U25IbG1NaXhrNzFqZzIzaFpRUVhKbF9rYlZoMXg1Z3NzYjR1TEtkeHNCU1BrOWs4ZXR5VHFqMTBoX3VjSV9FRV9neGVDSkdUNWIxMlNhZWRJbldocDM5Q2hiMXYxUXpHVUJqWkkyOEF5OGNBNWduQXFPMXp6VXhYRjUyNmsxaV9pbXJhS29uVGh6Tm51emp4S3YtdmI5c21HZE9HeFkycENlNGxHRUlJd29YWkxwRF85eXc?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 14:31:31 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T17:25:13.416Z"
+      "updatedAt": "2026-10-18T17:50:14.482Z"
     }
   ]
 }
