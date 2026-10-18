@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-18T01:25:13.568Z",
-  "lastChecked": "2026-10-18T01:25:13.568Z",
-  "lastUpdated": "2026-10-18T01:25:13.568Z",
-  "generatedAt": "2026-10-18T01:25:13.568Z",
+  "fetchedAt": "2026-10-18T01:50:14.505Z",
+  "lastChecked": "2026-10-18T01:50:14.505Z",
+  "lastUpdated": "2026-10-18T01:50:14.505Z",
+  "generatedAt": "2026-10-18T01:50:14.505Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T01:25:12.244Z"
+      "updatedAt": "2026-10-18T01:50:13.311Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T01:25:12.569Z"
+      "updatedAt": "2026-10-18T01:50:13.583Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSlJRdElHVjVoLTVtTE01UWdmVjRrNkh4TnllLXNhNXZ1Y1c1RDRyWXVQUlBPQTJLZmVkM0RlNkhHdk1KMXRsZ2pnY05RZ19EdTVrNWZVbVJBNThZVmxPSkRlaGJ3T1RtMk0zY3lxQ3ItVHNWOTFndnpQLWRJTEVLX2VFRmtjekpRZkxfMmx0dzlhb2xkZlVWY0lPczFwVC1OX2poZw?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 01:22:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzV3OUN4YUtURHoxVG1sTV9uMjVTdFU0Tmlqc2hod0trU1hzQnMzUTc5UE12TGJsMVJmOVU1VEFxWXVSOEJxOU5sR3FwUFc2OFY0b2NKczZOR3pjX0xTWlJacDZSdWk1SmgxVjJvVTRWQVZyckd3MW14dFRiM0RJb3F6bG15MGNyTFJtOU1IVDVLeTNHSjZsMzl2aFB1azZZRG5TajhNTUVGUQ?oc=5",
@@ -136,6 +142,12 @@
           "source": "AP News"
         },
         {
+          "title": "Diplomats attacked in the occupied West Bank, and other Middle East developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0tPUGhacDNCd3h5U1ktMS1xbVJUZHhjc1RSU0VwZEN1WThvNDNrc0F3SWFhRHRrRWt5NlBSUFhqc3FOa3VFd2V0RVUxTzZNakJBVXhSZHRvV0tmS3RRZG9pY0lqNGxxcmlTZWk4Ylp2MF8zNlh5OUtMS3AzSmdLWmhYYTByR2VyS21QODB2eV9Mb0FmbVlISE5qaGVtWEU2UG5tanR4dUd0ZlJHb05iWQ?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 00:02:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Gabby Williams scores 26 points, sends Valkyries to 68-64 Game 1 win in defensive WNBA Finals opener - AP News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkNNdkxkQ04xemJHa2FjbkZMWGU0dmRYQkV3WjZGNWMtbGFQemtsRE1KLUk5ZWFQT3VqWlhUT0M3bW5FZUVnMWFjWHE1OFpzOE9vYUNRTVpraDJzb0Q5UnZQNUhhdnN2SXNnS2ExS3MxWUZRUC1RM0YwSUNqZEZObFFGbEJDdllibzBEeEhJMU8tbWIwRTJZODJPa0Q4N2Q4LXc?oc=5",
           "pubDate": "Sat, 17 Oct 2026 23:49:00 GMT",
@@ -150,24 +162,12 @@
         {
           "title": "U.S. News: Top U.S. News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 22:04:16 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Daily life around the world, in photos - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY2UyZHkyUzYxbS1IdlBMVVhJdTUySVVGbUtkVTc2ak4yTWEzX21GX3FOUWtmMS1GRXlhaGJsVkdSME8ydGxHTEFTLW9jQXJhLTdHTE5IU210MjM2Y0tkLWMxM3h1ZjJGX2RVemxRLVRnUTZ1eW9nTmFSZ2tscC15VDlKSGY3TTBEU2pQSWNDYklDc2M4b2tUUGRlTmY?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 22:01:37 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSlJRdElHVjVoLTVtTE01UWdmVjRrNkh4TnllLXNhNXZ1Y1c1RDRyWXVQUlBPQTJLZmVkM0RlNkhHdk1KMXRsZ2pnY05RZ19EdTVrNWZVbVJBNThZVmxPSkRlaGJ3T1RtMk0zY3lxQ3ItVHNWOTFndnpQLWRJTEVLX2VFRmtjekpRZkxfMmx0dzlhb2xkZlVWY0lPczFwVC1OX2poZw?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 21:55:00 GMT",
+          "pubDate": "Sat, 17 Oct 2026 22:54:49 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T01:25:13.145Z"
+      "updatedAt": "2026-10-18T01:50:14.075Z"
     },
     {
       "name": "Reuters",
@@ -191,15 +191,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Vehicle drives through Kansas soccer game, killing two, including a child, police say - Reuters",
+          "title": "Two dead, 11 injured in Kansas after truck drives through soccer game, police say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXduZ3p6ZDh4VG5wY05HRmxTR2lvak9YbnNwN0FaYTlCMzE5enY5S3BpcmxNdk96V0dueGs1dWkzTkEzMmIyZnhFLTd3NW5VQUFVMFpRX2tNYWVaVWhQMmlWSHNCWVRhTUdhYVVzRGVPOU1oT0tlenFIRzdwR2RVU1pTclpfdmNqbHJiNXJ4MGpuaTFMaVJ0dzlzeE5NMG9PcHRHdUdjZENTdEotdkwtRzBjNzNuX1ZydDhjdTBxX1U?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 22:10:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukrainian foreign minister says Russian-held town is a 'death trap' with starving residents - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1Q1WlkxYTlaMElEckVoRThQaWdiQmU4QWtzQ2g0OU9HMzY0OVZ0UUlKNUFHZW90VXZFX3JYaXplQmxyb2pscFd4NWxndnFVZmg0bTEtUnRhSWVNd21jQko4R1ZEbGNkcWFWSnBtS2pSTmVEZUtUVzZvQ0JvRjNpSWp3MTRkRXdmeElWaDgxLXE2a18xWlNCR0s3bi1faDNWVFZzRXlhUUZUaXNqS2ZXYm9UTnNoR1AyVXlN?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 21:31:57 GMT",
+          "pubDate": "Sat, 17 Oct 2026 22:10:00 GMT",
           "source": "Reuters"
         },
         {
@@ -209,20 +203,26 @@
           "source": "Reuters"
         },
         {
+          "title": "Prominent Guatemalan anti-corruption lawyer killed in shooting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0t3bFVkTnk1U1BqQXZkQTBlM3NmU1FmNmtaV0xOMmlVTVpIanIxcnBHWjhCNGdnS0Y3T3ctRHJWNDhHdVJEVS1KOFdicHJDeDZXMVdVbjlkbDlicVB1TjNhUXYzaVB0My03NzROeWhXVHhieTNuNkZvNklPaW9Sa0poZjcwUmpRM3JJa05DSE1sV2J1dnhGOWc0SDNGOGN3b0tYM2ZTS3FpU1dpS0pJ?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 20:42:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ukrainian foreign minister says Russian-held town is a 'death trap' with starving residents - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1Q1WlkxYTlaMElEckVoRThQaWdiQmU4QWtzQ2g0OU9HMzY0OVZ0UUlKNUFHZW90VXZFX3JYaXplQmxyb2pscFd4NWxndnFVZmg0bTEtUnRhSWVNd21jQko4R1ZEbGNkcWFWSnBtS2pSTmVEZUtUVzZvQ0JvRjNpSWp3MTRkRXdmeElWaDgxLXE2a18xWlNCR0s3bi1faDNWVFZzRXlhUUZUaXNqS2ZXYm9UTnNoR1AyVXlN?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 19:29:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Barcelona keep perfect LaLiga record with five-goal romp at Betis - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQckt2WWZZa0VKRENrRmIxYjhNNXl6UExvYnJ4dnhWX0ZTa2J1amhNX0FXeV91YUNBV2l3emJIM0liZjFabzB2eGhoQks2dDdEOENKLXZyLVVjdm5XRzc2Y0tCYVI3MGZ5Z0dMX3RWNUlTbThwN1czUVhteXJLa3R4UExtdmxhT2hNQ2V3V0lNdkNWOWlva2lCVG5YdkFGeHdjNzlBYXp4WjBQbHFE?oc=5",
           "pubDate": "Sat, 17 Oct 2026 19:11:53 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Festival crush in Indian city of Kolkata kills at least 17, local media say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUVjcERQUE83S1lFTVA1Q2tOMXJya3BMZXZPbWRkMk9wS21FRTBDcGdoN3BHRFhLUHd3dGNRcE9ackxXRm1QaHcyZE1oVVYxTzhjNkJHTVRUYUFIOTdUVUpkQnJneDRpNEdFSF9hc0NsRUx5Ti14RklDYm5DVzZEakxIRjBheWtlYXN2S25lcGloZmFXOGFRWk9kTld4ZXFzZ0VHUm0zVjcwQW9nRFZyMVJXS0hJcWtZUFpB?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 19:05:10 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T01:25:13.568Z"
+      "updatedAt": "2026-10-18T01:50:14.505Z"
     }
   ]
 }
