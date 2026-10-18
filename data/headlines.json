@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-18T16:25:12.105Z",
-  "lastChecked": "2026-10-18T16:25:12.105Z",
-  "lastUpdated": "2026-10-18T16:25:12.105Z",
-  "generatedAt": "2026-10-18T16:25:12.105Z",
+  "fetchedAt": "2026-10-18T16:50:13.979Z",
+  "lastChecked": "2026-10-18T16:50:13.979Z",
+  "lastUpdated": "2026-10-18T16:50:13.979Z",
+  "generatedAt": "2026-10-18T16:50:13.979Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T16:25:11.062Z"
+      "updatedAt": "2026-10-18T16:50:12.661Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died",
+          "pubDate": "Sun, 18 Oct 2026 12:30:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Pope Leo says he will gradually resume duties after cancer surgery",
           "link": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
           "pubDate": "Sat, 17 Oct 2026 11:10:14 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
-          "pubDate": "Sat, 17 Oct 2026 10:25:10 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T16:25:11.136Z"
+      "updatedAt": "2026-10-18T16:50:12.956Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 16:07:18 GMT",
+          "source": "AP News"
+        },
         {
           "title": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0JsZHhVNVNkaUhpSndSUTRqNjBFN2dpaktfTUZ4dWxBTkxzQ3I1LW5CRlBQNnR3UmJ5R0JzWGFaenZ5TDg3Qkt2bC05cmpYTlAwZkRSRjBoYlN1elkwelNDNmhPbkhhV1BDT05fWm96V3oxbk5YN09nUkQ2VzlvbTR1YV81Zl9wdzU5WEU1UXN3STc0ZHJlUnhiWUc2dUk?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
           "pubDate": "Sun, 18 Oct 2026 13:54:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Analysis: For Trump, results have often revealed the art of no deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTBJSzVrNXJCbFlqdll6ZDhGakxQaVZJWVFoQmYwaXpTTXZMQWI4X252VHZkbGt5amxQMGEwdDNZY1M4YXZrY1dKNERRNE90aEI1ZGtyalpPUmk5YVNua2xDRHd3aFB1TEFQZ19zeVJPTmFEX0lpcGVBVk9DdUhaQUdGT1ZoVWxEYnRUOGhIeFhXNk9FNi1KSWlOcVFuS1d2XzRHVXNVWXVtc3VfM0R3emhn?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 11:57:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T16:25:11.661Z"
+      "updatedAt": "2026-10-18T16:50:13.564Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T16:25:12.105Z"
+      "updatedAt": "2026-10-18T16:50:13.979Z"
     }
   ]
 }
