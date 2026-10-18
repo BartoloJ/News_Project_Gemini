@@ -1,18 +1,12 @@
 {
-  "fetchedAt": "2026-10-18T14:25:13.464Z",
-  "lastChecked": "2026-10-18T14:25:13.464Z",
-  "lastUpdated": "2026-10-18T14:25:13.464Z",
-  "generatedAt": "2026-10-18T14:25:13.464Z",
+  "fetchedAt": "2026-10-18T14:50:16.527Z",
+  "lastChecked": "2026-10-18T14:50:16.527Z",
+  "lastUpdated": "2026-10-18T14:50:16.527Z",
+  "generatedAt": "2026-10-18T14:50:16.527Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
-        {
-          "title": "Several dead or injured in major fire at Canada military base",
-          "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 18 Oct 2026 14:07:20 GMT",
-          "source": "BBC News"
-        },
         {
           "title": "European diplomats attacked by Israeli settlers in West Bank",
           "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
@@ -54,10 +48,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 18 Oct 2026 01:10:25 GMT",
           "source": "BBC News"
+        },
+        {
+          "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+          "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 17 Oct 2026 22:09:50 GMT",
+          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T14:25:12.583Z"
+      "updatedAt": "2026-10-18T14:50:15.260Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T14:25:12.618Z"
+      "updatedAt": "2026-10-18T14:50:15.472Z"
     },
     {
       "name": "AP News",
@@ -142,6 +142,18 @@
           "source": "AP News"
         },
         {
+          "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 12:21:03 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Blaze at St Petersburg oil sites as Kyiv launches more than 1,000 drones at Russia - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0JsZHhVNVNkaUhpSndSUTRqNjBFN2dpaktfTUZ4dWxBTkxzQ3I1LW5CRlBQNnR3UmJ5R0JzWGFaenZ5TDg3Qkt2bC05cmpYTlAwZkRSRjBoYlN1elkwelNDNmhPbkhhV1BDT05fWm96V3oxbk5YN09nUkQ2VzlvbTR1YV81Zl9wdzU5WEU1UXN3STc0ZHJlUnhiWUc2dUk?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 10:34:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Hurricane warning: Miami poised for No. 1 after 5 of the top 7 teams lose in historic Top 25 day - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2F4WENEbFdBV05OTUZmY1ZTVklTbmx6eE1RUVRRemFHVGpmNVdieHN3cmZSNlF6d1J3b3Q5dkN4ZlpBblN5T0tuVmxvNm55M2x1QlN1MXV6MlAyMlExYk1zalE2NldGWEU0MkptSDBYZE5FQVFRdTgzYUVaWFhQN0labnVfTXlpamdtbC1B?oc=5",
           "pubDate": "Sun, 18 Oct 2026 10:10:00 GMT",
@@ -152,30 +164,42 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN21KT3N5VjVzVFVna0lUMTJSdUJXek83VmRmS3pzcEpST2gtXzVlMzJicjBQTnQ3Ym05cmhzSFpqNHFpWDNISnNFeFdrdERlWlkzb1lTaFlseWJPREVGeUpibV9iNkpLdklpY1llNjlyWHVZcDhyWDBMS3pHbXJta0hMOWJzQXZnVHhhUnVYX0toRDNkOFJucy1uaUVTRWY4Vlhj?oc=5",
           "pubDate": "Sun, 18 Oct 2026 07:22:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Japan to launch spacecraft on a mission to get samples from a Martian moon - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0JWSWU4S3JaTElScFlOdnhEZml0TkVISkFVWURZaS02TzR3eGNhMG5QbGI2UUVVSmx3ajBCZXpFNVJNSVQ5eHliRGVmOU9VRjZ0V2l6R1JqVC1xSjVINTBpajhLejg0bUQ2Mkx0dERJTFdzd0pLVGdaSGJ3RUU1MGVBeVo5ellXVXJndGdnYlNoUmczcnpHdVcyVnJXa01lQUk0NEVn?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 06:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Diplomats attacked in the occupied West Bank, and other Middle East developments - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0tPUGhacDNCd3h5U1ktMS1xbVJUZHhjc1RSU0VwZEN1WThvNDNrc0F3SWFhRHRrRWt5NlBSUFhqc3FOa3VFd2V0RVUxTzZNakJBVXhSZHRvV0tmS3RRZG9pY0lqNGxxcmlTZWk4Ylp2MF8zNlh5OUtMS3AzSmdLWmhYYTByR2VyS21QODB2eV9Mb0FmbVlISE5qaGVtWEU2UG5tanR4dUd0ZlJHb05iWQ?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 04:08:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T14:25:13.077Z"
+      "updatedAt": "2026-10-18T14:50:15.999Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "France counts cost of worst unrest in years - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 14:12:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Pope Leo pledges gradual return to duties in first event since cancer surgery - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 14:09:12 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JXcTFReXJpR0UyNGM1UVFfMTVMRlJHbGpmRlh2Wk1HQ3ZQZ0Q0YUNadThFXy1IcTZXdHJMOGxNU0FqM1NTQkVaOHpOX2NaWGNMTXJaRzJnYUVmald2UmVvTExRVVdqajR0ZmVBNE8tVHhkMXFhQ3FQQmhUVGdEMmUwcXA3RHFPN2ZUOTZ6SzBqNVlpQkZGSnlOb3FjV0gyT1JIUzEtYnBwbjBySGlVcjRUaHJnN3dDb2hRMW8zbExBZw?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 14:03:42 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Albanian PM says protests pose threat to EU membership, not government - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlc3R0V2SVhwYWpQcDQzVnptVkptdkQtWHdGZUU0SUlYdUozS3ZFQmN2bmNTQUFKbUZ5UUNWR3RWQmlFVDZSU2daT0FMcXNVM0ZIaGtYbXFTTThzWjFqV3JkWkgzbWRxZWsyTGhhYU5wVTFRc01IV3ZRSkRlTlBlZ0p1YVQzMlZYUUxTSEV6WjUxMGNQb1R6Y3k0b0dZSDZIQlo3c1l2RUpTR0o3?oc=5",
           "pubDate": "Sun, 18 Oct 2026 13:47:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "IMF/World Bank meetings leave developing countries with more questions than answers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOek14dnVaSHRfckw2SkxnWUlJb0ZXSmcyeTJuNlpXMjR6bS1WRExZejg4dUFweG5sUmVUTndpeXQ4X0EwVHFwVzIxU24xME1OaHVUeHdqYjJpSGJ3SDB4aVFWcmlNVEZVMHFDbndVSC1aQ0NhY09odHctV2xKWFpwNEtvaDYwakF1WHVOTHJzbVEwRkx6Z214RGk2U0tGUE0xcDNBenZGZU5KSnZLRkVKVUxuTjNYdzhyczBn?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 13:12:16 GMT",
           "source": "Reuters"
         },
         {
@@ -191,38 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "France counts cost of worst unrest in years - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 12:34:05 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Pope Leo pledges gradual return to duties in first event since cancer surgery - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 12:32:35 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Davidovich Fokina overcomes Jodar to claim Shanghai crown - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlJ1TFIyWXlJclFycGpaSmZ4ckpFcDJ0MU9wS1Ryb3FWX1NYSlEzZ3JfS202THFRRTczMWhqemE4XzRMbDB3UV9hOENkOTlRRHZEMm9xZjFrMHI0Vm9PbVFhOFh4aUNiYkIyanZLUm1NdV9GVWJSV1lBejFQTEk2Qk5XeDFzc2FmZXUzc3FUbFZ2bnFRRnNwVnhNeHUyWmctVWcydE8tc3dadlM5YTJyTjJB?oc=5",
           "pubDate": "Sun, 18 Oct 2026 12:06:51 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Turkey will get some diesel from US-Russia supply deal, energy minister says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjdhZ0V0TGxFRVBoQWVSMVBlOXFvdm1rcFlmWm45dVdYS3FJdm5ZdExGM2xRd3hhb1hvWUJYdnVlRG50bm1CbjJubjRnM2JtVFp3UkdiU0QxcVJEbnZyNC1HSDhOYUM1THhiTm9heG9tTV9FTHpwMW1BOEhxN0Q0WjlocVJMZV9TSUlIN0RMZDdkQmpPQUhUQk40bkNDdzdMSVhEa3U5eUZKd2R1OVBqajZYTDI5cDhTT3FaUk5uZw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 11:51:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "One killed, 15 injured in Ukrainian drone attack on St Petersburg and Leningrad region - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORkdkNk9DVENGZU50OHVsbHF4Z3ZWbnBxcHVqaDJSa1JEWXZ5aFVqbTQwWmwzUGpvZUJsTUFzSnZHd2laVHpqd05XaF9KM2YxdUNUSVV0YUp1SFVKbTBRVHNzcVc0ek84cTY5TTVmZGhPbnhzMVJiejFXaDdXV3pBcTZYeEI3QkZrNDlOOWllWFk3ejFfMVdVd3lQUGJMeXBhNW5xTjZJQnBINTVSTjVDUnZKSm1laDdKaEE3eGdoSUtaQQ?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 11:17:23 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T14:25:13.464Z"
+      "updatedAt": "2026-10-18T14:50:16.527Z"
     }
   ]
 }
