@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-18T12:25:12.958Z",
-  "lastChecked": "2026-10-18T12:25:12.958Z",
-  "lastUpdated": "2026-10-18T12:25:12.958Z",
-  "generatedAt": "2026-10-18T12:25:12.958Z",
+  "fetchedAt": "2026-10-18T12:50:15.379Z",
+  "lastChecked": "2026-10-18T12:50:15.379Z",
+  "lastUpdated": "2026-10-18T12:50:15.379Z",
+  "generatedAt": "2026-10-18T12:50:15.379Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Several dead or injured in major fire at Canada military base",
+          "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 18 Oct 2026 12:41:59 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "European diplomats attacked by Israeli settlers in West Bank",
           "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
@@ -38,12 +44,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Several dead or injured in major fire at Canada military base",
-          "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 18 Oct 2026 08:52:41 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
           "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 18 Oct 2026 05:04:31 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T12:25:12.251Z"
+      "updatedAt": "2026-10-18T12:50:14.363Z"
     },
     {
       "name": "NPR",
@@ -112,17 +112,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T12:25:12.457Z"
+      "updatedAt": "2026-10-18T12:50:14.421Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 10:59:12 GMT",
-          "source": "AP News"
-        },
         {
           "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
@@ -132,6 +126,12 @@
         {
           "title": "Hurricane warning: Miami poised for No. 1 after 5 of the top 7 teams lose in historic Top 25 day - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2F4WENEbFdBV05OTUZmY1ZTVklTbmx6eE1RUVRRemFHVGpmNVdieHN3cmZSNlF6d1J3b3Q5dkN4ZlpBblN5T0tuVmxvNm55M2x1QlN1MXV6MlAyMlExYk1zalE2NldGWEU0MkptSDBYZE5FQVFRdTgzYUVaWFhQN0labnVfTXlpamdtbC1B?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 10:10:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Paris police report 855 arrests after violent clashes and looting during protests - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHU2Y3QzdlRfOERXUU8tdkVReVV5clJIYkZNNk1USGh5R2Zmci05YUZqTHpVUDhqZ0NIMURCTTN3SWFLNUY5bmdfdDhfcmJVQWFpZkpRd3FoVEtva0pSRTljX25iYlRLUmxUV2d4c3dhN0dMZFJiaURLRnFsT3poeE5KOHdyZGRJTUdubkVaYno0alVYMzJz?oc=5",
           "pubDate": "Sun, 18 Oct 2026 10:10:00 GMT",
           "source": "AP News"
         },
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T12:25:12.950Z"
+      "updatedAt": "2026-10-18T12:50:14.893Z"
     },
     {
       "name": "Reuters",
@@ -179,9 +179,27 @@
           "source": "Reuters"
         },
         {
+          "title": "One killed, 15 injured in Ukrainian drone attack on St Petersburg and Leningrad region - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORkdkNk9DVENGZU50OHVsbHF4Z3ZWbnBxcHVqaDJSa1JEWXZ5aFVqbTQwWmwzUGpvZUJsTUFzSnZHd2laVHpqd05XaF9KM2YxdUNUSVV0YUp1SFVKbTBRVHNzcVc0ek84cTY5TTVmZGhPbnhzMVJiejFXaDdXV3pBcTZYeEI3QkZrNDlOOWllWFk3ejFfMVdVd3lQUGJMeXBhNW5xTjZJQnBINTVSTjVDUnZKSm1laDdKaEE3eGdoSUtaQQ?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 11:17:23 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "France faces aftermath of worst unrest in years - Reuters",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
           "pubDate": "Sun, 18 Oct 2026 11:14:58 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEtubmtfLWRIRC0xYjJxNnpzbkdOSzJPakNObmdUZ1EyRnB4cThXMjdRY3FWb1padzJMVVdoSG80Nk5lTmFMUU56dHdIU3kxcl9BYlVzOUROZzg5Y1lnTTdSS3h1YkJqdzJFaTB6b1JoV2h3dWxiUHRMNU1zMEpfcWx6b2pHQlJVXzJZLU1EdDVXXzd5X19DUW5memxWTHlPdTdqYl9YT0lrWndI?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 10:54:34 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EU condemns attacks by violent settlers, including on diplomats, spokesperson says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcG5pYTJCRkVpNVoxOTVPTVRoNUtwcTBYX2lhZ3ZmMVYxQjRjeG5kMHBHRnlpS1otNzZjWVNyaGJCNjhnU0ROclhuOWYwVGltT19POUY1Z0lOT2pJNDNCSUN0LTFHSkFxUW5iWW91T0ZiOVVTTm42TUpINVc2c1JVbEszT0hBQmhEUU5kemNPbFdqZndpTl9wTG1XeFRxd0JfTXhyam1zSDEzV2hXdWZ3X25xOXY4TkZwWThkLWVXTTBXREpWVFp0eC1XRQ?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 10:52:10 GMT",
           "source": "Reuters"
         },
         {
@@ -191,38 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Iran urges US to accept proposal to reopen Strait of Hormuz - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUh3Z1JyMmU4SkJ4ZXQ4Y0VaN3RMS1Vtcmg4S1lDMGlvUG1GeVY3Q1pkaWltSG5yOWhmcTBnNkk4U0ZiTVREVzd3RVRZNjZJTjhaTkg5bTFGX0J2Q0JzTUI4UlZIWmxHMmRDeVRRODZRYU1mbkNrVzFRX3piTnpDbllfUGc3NnJkSl9hWWRCQzlxZjFBYnE5bXJQMVBjMzNBUFlNcmRtcw?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 10:29:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUsxbVVqQ0FFUl81U25IbG1NaXhrNzFqZzIzaFpRUVhKbF9rYlZoMXg1Z3NzYjR1TEtkeHNCU1BrOWs4ZXR5VHFqMTBoX3VjSV9FRV9neGVDSkdUNWIxMlNhZWRJbldocDM5Q2hiMXYxUXpHVUJqWkkyOEF5OGNBNWduQXFPMXp6VXhYRjUyNmsxaV9pbXJhS29uVGh6Tm51emp4S3YtdmI5c21HZE9HeFkycENlNGxHRUlJd29YWkxwRF85eXc?oc=5",
           "pubDate": "Sun, 18 Oct 2026 10:17:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Polish airports in Lublin, Rzeszow resume operations after temporary closure - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVXphbXpOcENfUVd1eFByZTlQYzloaGxuTF9Mb2F6M1pwQlZMSlVNVTlYRWE0MFhkaWI4ckh5QTVLaDJoOGFiQ0pQck9TUkhCckNBby00bjFiRDl6dmNwMWpPbG9wX3lZZ3FKZUc0RVFyb1JKam4xSkdsTGNQcWR4RXViWVN0bW52SmI4NzcxNkxQV2hsMFY1MDliVTlUNkQ3bTVkRnVRNHRWbkZnMGxtOHgxY2lkendZWFVqU2pMREQ3cGN5V1VqUHZTRUZaSWpxWEczbWpJdWw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 09:28:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iran's parliament approves Mehrdad Akhlaqi as minister of defence - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUllscVFHdi1ER1I5djNzUWkwbXpXUGVTRkRVLUNWSWRBUU9lek5waWFCVjJwMXphLXFHaV9EUkF0SjdXVGMwNnpLYl9xZ2xrWDFvZzlrN2RwV2J4QUt1UUtiLTlzZTA1Qms2eTMtTjMyRXRGblJXVkF5NV9nTzEzTE1rbDFLUDdNOWRuQlhrS1BIVXFRdVJiQUtuT0lmODVRcVZ1dTRMeU11SkJuWlJvNGNJUjJhY1RBVGN1WWJGQ0JyZw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 09:08:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Saudi-led coalition says helicopter crash in Najran kills two crew members - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFZiZFozb1RWTzVBbk4wZU8xMHlSeHhuSmhkMi1FSVhqTTZ5U3BMbF9aaU5fVjRpWnI1MkJTMTZscVcxTWM0YnVFRXFWdXQ2SnpSdVNPVm5LR1QzbVhpQjliR3VNZFl4WXhjODUzbjNZRXg0S0l0al80ZDlwdjc5ejFRU0E3NlJBZm1iOWg3VjhybzNLbWpOelQ4ZDZBWTkxS3Y4Rm9MUm9vTjdfYk9iaVRJd29DSDhMUi1KOGZMcDhzZGs?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 09:07:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Zelenskiy says Russia attacked Ukrainian energy sector 76 times in past week - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONHpkelZ3dVpCdWF5d2JkVGE3TmZGUzJXLUtsQWUxQnZWVXBtNWJQY1dQOVZJakRiaWRrYlZBQVhsX0JJZ2FKM3AtTW0zRWN3TGNtY2NERnRNckJFU2s1LWNVUUVDb1d3XzVFSHJwT0VOMGVieVBiZHhTbk8ta3A0MkFQeUxUeGhtTnU0aHl0OG0taVh0VU45Y25HNkhwQ2RKWGEwa2w5d0o5RVJPNURXUXRoajdReG5ZbG1YbU1hVQ?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 08:31:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T12:25:12.958Z"
+      "updatedAt": "2026-10-18T12:50:15.379Z"
     }
   ]
 }
