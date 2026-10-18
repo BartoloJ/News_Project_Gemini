@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-18T09:00:17.172Z",
-  "lastChecked": "2026-10-18T09:00:17.172Z",
-  "lastUpdated": "2026-10-18T09:00:17.172Z",
-  "generatedAt": "2026-10-18T09:00:17.172Z",
+  "fetchedAt": "2026-10-18T09:25:11.884Z",
+  "lastChecked": "2026-10-18T09:25:11.884Z",
+  "lastUpdated": "2026-10-18T09:25:11.884Z",
+  "generatedAt": "2026-10-18T09:25:11.884Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T09:00:16.068Z"
+      "updatedAt": "2026-10-18T09:25:10.826Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
+          "link": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
+          "pubDate": "Sun, 18 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Major fire breaks out in Alberta after deadly incident at military base",
           "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
@@ -103,26 +109,14 @@
           "link": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
           "pubDate": "Sat, 17 Oct 2026 07:43:14 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Dozens of critically endangered orangutans rescued from Indonesian wildfires",
-          "link": "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires",
-          "pubDate": "Sat, 17 Oct 2026 07:43:13 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T09:00:16.305Z"
+      "updatedAt": "2026-10-18T09:25:11.028Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "MLB | Latest News, Stats, and Scores - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 08:01:21 GMT",
-          "source": "AP News"
-        },
         {
           "title": "Major fire breaks out in Alberta after deadly incident at Canadian military base - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
@@ -154,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "No. 3 Miami hangs on to beat Florida State, 43-35 in a double-overtime thriller - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXcxbkpNMC1ZckEzWjR1UTBGQ3RkbkQ0Y2RBRmxVNXR1SmdhdDVZNVh5ZW85WHpBcHdKbXNCWjVRYjJvSUFyN1NQNjQ2M1VZRTh3WW9KZXJOSWp6MUpiX0NObEVqTGdwZ3UwRTVyOGx5b2NpUnZTVUFzRWd6Qll1em5fdk9wWmo5NllPT19R?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 04:01:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSlJRdElHVjVoLTVtTE01UWdmVjRrNkh4TnllLXNhNXZ1Y1c1RDRyWXVQUlBPQTJLZmVkM0RlNkhHdk1KMXRsZ2pnY05RZ19EdTVrNWZVbVJBNThZVmxPSkRlaGJ3T1RtMk0zY3lxQ3ItVHNWOTFndnpQLWRJTEVLX2VFRmtjekpRZkxfMmx0dzlhb2xkZlVWY0lPczFwVC1OX2poZw?oc=5",
           "pubDate": "Sun, 18 Oct 2026 03:38:00 GMT",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T09:00:16.761Z"
+      "updatedAt": "2026-10-18T09:25:11.455Z"
     },
     {
       "name": "Reuters",
@@ -197,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Vietnam signs free-trade pact with European countries including Norway, Switzerland - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXJUYmVON2MyaDNUd3JSbXFwUmZ3ODRXVW05RTVSZ0cwQzRSSjF3OGkzNWMxQjVobFU3emI3a3FJVVRMQnRxSnFNWXF5QXQzVTZTZmlxNHdUd1hseVliMEJwZ0FEYm5FN1pPYVlfazVxaXpIRkRhZXhJaU1FSTlxRnNScThrMjlkQUhJVmZ6cHpkVF90bjZES2dYNEYtSWZDcXFYNGpsWFVEejdrSnJ5czJhQ0I2TTgzRW1keEw5dFk1Z3M?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 05:30:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Rubio heads to Central Asia while other US officials hit foreign policy hot spots - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMmFpc0NDcHNWM0tpSVFxYURNSGY4OTFCRlhISGVnLUZqUGtaWEpJUXhsTVpyNzZaRmV3R1JhRnRIdjJjS21DaVFjTDRHaEtIUXEySXNwd0U3el93cmNJeEtHblpNc2VhZERoMXliOUFxXzFMVHhnTUNpY1dRVHJEMGxVR1Uxb0ctRThOeGNxN0ZxaW8wQjhJVTJpSG5sSWVNWndGWWRTOW40TjFEa0d3MDVYcU1Id2tRekxlbURxS2gxcDQ5dlZYUnJ4UWlRUQ?oc=5",
           "pubDate": "Sun, 18 Oct 2026 05:03:00 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUh4OFhPTjJFUlBSaGNWU3JVXzZPendVYjVLR1lIM1VKTjB3dlQ4NU5qdmRjS0s0WEYzbXh1TGlMTThlbE0teWJZMWpVWDZrV24zTFZaZnM4WGVzZWVRSTZyYWtyRTNSUTg2UGxWRWlwQXNSUEE3U1ZjMnpwMzJVVUtuMzdySEhsLWk0T2pPbnhsN2JTVUlIS2hvNDd1V1lUV19wMkZKYjBZVEtQTDV2dU01bVFRckxwVXdQVHhiVHJTOFpwcHc?oc=5",
           "pubDate": "Sun, 18 Oct 2026 03:58:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRkQlBQYXFvck1VQUYxcVpwM2dEVDMwQThIY3ZHRldBd0M0dmV5NXFnZlBXMnpuUnozQlhLbkg4ZjZCT3kzVW5mcnl3RVEwUXRpdUJsZGViRlE1MFdJbHZWZ3pRTXNOUDQtOTRsQU5nSzd4a3d5Z3c2dTkzZWZSNlZsbXZBamFSMS1qVEVnaHc2MTZJUHZ4YU1zS0hfNVM4eVE?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 03:38:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T09:00:17.172Z"
+      "updatedAt": "2026-10-18T09:25:11.884Z"
     }
   ]
 }
