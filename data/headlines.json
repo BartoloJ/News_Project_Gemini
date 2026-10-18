@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-18T02:25:14.001Z",
-  "lastChecked": "2026-10-18T02:25:14.001Z",
-  "lastUpdated": "2026-10-18T02:25:14.001Z",
-  "generatedAt": "2026-10-18T02:25:14.001Z",
+  "fetchedAt": "2026-10-18T02:50:14.250Z",
+  "lastChecked": "2026-10-18T02:50:14.250Z",
+  "lastUpdated": "2026-10-18T02:50:14.250Z",
+  "generatedAt": "2026-10-18T02:50:14.250Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T02:25:12.918Z"
+      "updatedAt": "2026-10-18T02:50:12.897Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T02:25:13.081Z"
+      "updatedAt": "2026-10-18T02:50:13.182Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "AP Top 25 Poll - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OYllVd284SGVJbHo5QXVQempkaGlYeHlzWEZxOU5jZTktTnItaDg1X21NaEJZbHpYTUM5RXczMm5PS21YaktpREY1TU1WMzV1aXR6TkRpRmxjQVZpNkpMODQxWEM?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 02:01:32 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Canada's prime minister says 'serious incident' caused a major fire at a military base in Alberta - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
@@ -127,6 +133,12 @@
           "title": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSlJRdElHVjVoLTVtTE01UWdmVjRrNkh4TnllLXNhNXZ1Y1c1RDRyWXVQUlBPQTJLZmVkM0RlNkhHdk1KMXRsZ2pnY05RZ19EdTVrNWZVbVJBNThZVmxPSkRlaGJ3T1RtMk0zY3lxQ3ItVHNWOTFndnpQLWRJTEVLX2VFRmtjekpRZkxfMmx0dzlhb2xkZlVWY0lPczFwVC1OX2poZw?oc=5",
           "pubDate": "Sun, 18 Oct 2026 01:22:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Alex McPherson kicks 34-yard field goal as time expires to lift Auburn over No. 1 Georgia 27-24 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVVZPOFFna2RGMDRuYW1yRHNrb0w2bVFpdjhpY1ZjcTB0TE9CYWxxUXo3MGNuQjJsZmNMSkVLS2hhZDlialVjaWQwZ2liS01pem5Kc3N1bVZzN25PeUhLWkpTczhmb2YydloyRndfTVQzX0Z3WTUyUHphWU5Oc2pIY2JnX1pzVTQ?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 00:38:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,26 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Gabby Williams scores 26 points, sends Valkyries to 68-64 Game 1 win in defensive WNBA Finals opener - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkNNdkxkQ04xemJHa2FjbkZMWGU0dmRYQkV3WjZGNWMtbGFQemtsRE1KLUk5ZWFQT3VqWlhUT0M3bW5FZUVnMWFjWHE1OFpzOE9vYUNRTVpraDJzb0Q5UnZQNUhhdnN2SXNnS2ExS3MxWUZRUC1RM0YwSUNqZEZObFFGbEJDdllibzBEeEhJMU8tbWIwRTJZODJPa0Q4N2Q4LXc?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 23:49:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "U.S. News: Top U.S. News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 23:36:40 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Alex McPherson kicks 34-yard field goal as time expires to lift Auburn over No. 1 Georgia 27-24 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVVZPOFFna2RGMDRuYW1yRHNrb0w2bVFpdjhpY1ZjcTB0TE9CYWxxUXo3MGNuQjJsZmNMSkVLS2hhZDlialVjaWQwZ2liS01pem5Kc3N1bVZzN25PeUhLWkpTczhmb2YydloyRndfTVQzX0Z3WTUyUHphWU5Oc2pIY2JnX1pzVTQ?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 23:10:00 GMT",
+          "title": "Diplomats attacked in the occupied West Bank, and other Middle East developments - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0tPUGhacDNCd3h5U1ktMS1xbVJUZHhjc1RSU0VwZEN1WThvNDNrc0F3SWFhRHRrRWt5NlBSUFhqc3FOa3VFd2V0RVUxTzZNakJBVXhSZHRvV0tmS3RRZG9pY0lqNGxxcmlTZWk4Ylp2MF8zNlh5OUtMS3AzSmdLWmhYYTByR2VyS21QODB2eV9Mb0FmbVlISE5qaGVtWEU2UG5tanR4dUd0ZlJHb05iWQ?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 00:02:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T02:25:13.552Z"
+      "updatedAt": "2026-10-18T02:50:13.818Z"
     },
     {
       "name": "Reuters",
@@ -205,7 +205,7 @@
         {
           "title": "Prominent Guatemalan anti-corruption lawyer killed in shooting - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0t3bFVkTnk1U1BqQXZkQTBlM3NmU1FmNmtaV0xOMmlVTVpIanIxcnBHWjhCNGdnS0Y3T3ctRHJWNDhHdVJEVS1KOFdicHJDeDZXMVdVbjlkbDlicVB1TjNhUXYzaVB0My03NzROeWhXVHhieTNuNkZvNklPaW9Sa0poZjcwUmpRM3JJa05DSE1sV2J1dnhGOWc0SDNGOGN3b0tYM2ZTS3FpU1dpS0pJ?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 20:42:09 GMT",
+          "pubDate": "Sat, 17 Oct 2026 20:41:00 GMT",
           "source": "Reuters"
         },
         {
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T02:25:14.000Z"
+      "updatedAt": "2026-10-18T02:50:14.250Z"
     }
   ]
 }
