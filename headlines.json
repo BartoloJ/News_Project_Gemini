@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-18T06:25:11.698Z",
-  "lastChecked": "2026-10-18T06:25:11.698Z",
-  "lastUpdated": "2026-10-18T06:25:11.698Z",
-  "generatedAt": "2026-10-18T06:25:11.698Z",
+  "fetchedAt": "2026-10-18T06:50:13.645Z",
+  "lastChecked": "2026-10-18T06:50:13.645Z",
+  "lastUpdated": "2026-10-18T06:50:13.645Z",
+  "generatedAt": "2026-10-18T06:50:13.645Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Several dead or injured in major fire at Canada military base",
+          "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 18 Oct 2026 06:47:57 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
           "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
           "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 18 Oct 2026 05:04:31 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Deaths confirmed in major fire at Canada military base",
-          "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 18 Oct 2026 04:00:50 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T06:25:10.454Z"
+      "updatedAt": "2026-10-18T06:50:12.599Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T06:25:10.752Z"
+      "updatedAt": "2026-10-18T06:50:12.686Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,12 @@
           "title": "Shakeup Saturday: 5 of the top 7 teams in the Top 25 lost in the regular season for the first time - AP News",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUTF2UlFIOWVHOTloUEc0MVVLeC1VTWctWFhjRWdxaE9INDU0d3VoTElSdk5kNjZ4ak43bFJaeE1rSndiSjBOZHkyeWg1U01hZ3g1ckEyR21CTDNxa0RiREJIREJ4SmlxMk4wUmpJMHlSd01LUDBzcFI2TTFiYjV5MHJR?oc=5",
           "pubDate": "Sun, 18 Oct 2026 05:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 04:11:43 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN21KT3N5VjVzVFVna0lUMTJSdUJXek83VmRmS3pzcEpST2gtXzVlMzJicjBQTnQ3Ym05cmhzSFpqNHFpWDNISnNFeFdrdERlWlkzb1lTaFlseWJPREVGeUpibV9iNkpLdklpY1llNjlyWHVZcDhyWDBMS3pHbXJta0hMOWJzQXZnVHhhUnVYX0toRDNkOFJucy1uaUVTRWY4Vlhj?oc=5",
           "pubDate": "Sun, 18 Oct 2026 01:45:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Alex McPherson kicks 34-yard field goal as time expires to lift Auburn over No. 1 Georgia 27-24 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVVZPOFFna2RGMDRuYW1yRHNrb0w2bVFpdjhpY1ZjcTB0TE9CYWxxUXo3MGNuQjJsZmNMSkVLS2hhZDlialVjaWQwZ2liS01pem5Kc3N1bVZzN25PeUhLWkpTczhmb2YydloyRndfTVQzX0Z3WTUyUHphWU5Oc2pIY2JnX1pzVTQ?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 00:38:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T06:25:11.285Z"
+      "updatedAt": "2026-10-18T06:50:13.160Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T06:25:11.698Z"
+      "updatedAt": "2026-10-18T06:50:13.645Z"
     }
   ]
 }
