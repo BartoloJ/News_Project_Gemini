@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-18T03:25:13.807Z",
-  "lastChecked": "2026-10-18T03:25:13.807Z",
-  "lastUpdated": "2026-10-18T03:25:13.807Z",
-  "generatedAt": "2026-10-18T03:25:13.807Z",
+  "fetchedAt": "2026-10-18T03:50:14.206Z",
+  "lastChecked": "2026-10-18T03:50:14.206Z",
+  "lastUpdated": "2026-10-18T03:50:14.206Z",
+  "generatedAt": "2026-10-18T03:50:14.206Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Deadly fire breaks out at Canada military base",
+          "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 18 Oct 2026 03:23:08 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
           "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 17 Oct 2026 19:19:16 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Pope discharged from hospital days after lung cancer surgery",
-          "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 17 Oct 2026 13:51:36 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T03:25:12.851Z"
+      "updatedAt": "2026-10-18T03:50:12.986Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T03:25:12.909Z"
+      "updatedAt": "2026-10-18T03:50:13.170Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T03:25:13.351Z"
+      "updatedAt": "2026-10-18T03:50:13.743Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Serious incident at Canada military base in Alberta causes major fire, Carney says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2FXR2gxVGRZLXlocTZDQnduRHpvT3JVUHotdTZsTmczb1B4TDE0OWktQmlDNm1WcGdqcEE2Zm9HTmtpN19Pb29YNnVyVHI4d1hXUG1lb0U2ejg2cDF4VGE5Wng0TGdrVDRaSU85WnNQVmw2WmpOaHhMNlpnTFo0cC1tRkRjTDZJVllKdDJIaUhmM1laR01KS2FrQTRKb1lpQThJZlRIeVd0OVZQUnlFX2tnamx6bHladV95MWZHNUVsSldx?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 02:13:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Woodside natural gas project unit paused after Greenpeace protest off Western Australia - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcEtSYkpzYzU2WUhsb0V2bGwyamh6Z3dVYzZnaThBanotNU0wakx2RHdsLURpNWlTWXpDZllDZUQ1ZktNUThWXzVKWkZ4LVVWSWk2bXBwREd3MGRDelpPRHAtTmxfclh0WG1MQXBZQ01tbWxZa0VhZEFyWWJfdTV6cWpXWDFHb0syMFdTb3NfWl9TcjhzUm9pYUlTbDNVQ0t4RDEwb1RTRi1vVXpIeXh4YmZmN05zNVpHZkNiUi00ZUVheWcwazBhNw?oc=5",
+          "pubDate": "Sat, 17 Oct 2026 23:57:44 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "US wants Israel to 'crack down' on settler violence in West Bank, Rubio says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2RPSkdZZ0xrcm1MRkYySnVIVFRmRFN0UXBfV21jVlcxZ2xrUDloZlFYWE1Za0JnRXNHVXdRbWkzSVljckpwSmpUSzFsWHpCcV9YM2RTSGZZNEprQlNkSmFPQlgtYUZCejI3a3BuS2RmUEgwS3JmUUNIbkxvSzJoNUg3ckdsRUxvVE9BdTFBX0NUR3pYcThTQjBUb05tQ1V2QzlUR3JneGU5ZTB2Z0xPTGdUM2lSemFsQmc?oc=5",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlJCekoweVlrYktkQmJZZ2V4aFFnRFpHdnRBMlYzZDlJS0xFS1JWQVMtOVNvbURNdUNHU09BTnBkNjBwdi0yaFVNR2Nqbm9sTUxHTFZQQk1PWkU2ZzdVeC04UVdLb2lJNFoxWHVsSWJJQTlrNXBYZ0NfNWJ4YTdENjlBYmwtdDlOMHhMOWtJY2NxUDJHRlJ1emtpa2h4UmFwZlBOQ0dEQlBORTREQ0E?oc=5",
           "pubDate": "Sat, 17 Oct 2026 21:04:25 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Prominent Guatemalan anti-corruption lawyer killed in shooting - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0t3bFVkTnk1U1BqQXZkQTBlM3NmU1FmNmtaV0xOMmlVTVpIanIxcnBHWjhCNGdnS0Y3T3ctRHJWNDhHdVJEVS1KOFdicHJDeDZXMVdVbjlkbDlicVB1TjNhUXYzaVB0My03NzROeWhXVHhieTNuNkZvNklPaW9Sa0poZjcwUmpRM3JJa05DSE1sV2J1dnhGOWc0SDNGOGN3b0tYM2ZTS3FpU1dpS0pJ?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 20:41:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Lebanon says military delegation will press for halt to Israeli attacks at US talks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSVBXRnY2dGJybHo5d2JiMTlEbnE2SGNfX3FBbVIyazh3dFFPWjB6eWpQaTZwZGwxT3dKQTRfVHlTQ0hZaGJfWmZtOFZYSERiV1Q1QWNTeWdDcWpSMkdtci0zOHBvelNXYW9XaFB0ZHRadFN5Sy1Vb25PNU8yeXV5Q01IdEZIX1o2TEpXNS15ZDcxX0MxQ1JJeEJZQ3laeGpvZURhYVpkajZrTmcwQzZzLW9EUnhaOUlaRmd5WGxaVEhpdElCQVE?oc=5",
-          "pubDate": "Sat, 17 Oct 2026 20:31:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-18T03:25:13.807Z"
+      "updatedAt": "2026-10-18T03:50:14.206Z"
     }
   ]
 }
