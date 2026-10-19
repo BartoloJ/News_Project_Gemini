@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-19T04:25:13.981Z",
-  "lastChecked": "2026-10-19T04:25:13.981Z",
-  "lastUpdated": "2026-10-19T04:25:13.981Z",
-  "generatedAt": "2026-10-19T04:25:13.981Z",
+  "fetchedAt": "2026-10-19T04:50:13.686Z",
+  "lastChecked": "2026-10-19T04:50:13.686Z",
+  "lastUpdated": "2026-10-19T04:50:13.686Z",
+  "generatedAt": "2026-10-19T04:50:13.686Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 19 Oct 2026 04:30:59 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "France's government under pressure after weekend of widespread violence",
           "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Threat forces Israel to Austria flight into emergency landing",
           "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 19 Oct 2026 02:41:50 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 19 Oct 2026 02:41:41 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T04:25:12.935Z"
+      "updatedAt": "2026-10-19T04:50:12.397Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T04:25:13.006Z"
+      "updatedAt": "2026-10-19T04:50:12.735Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Albertans vote on path to independence as Carney fights to keep Canada united - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEF6b1VtZEhfTjVRbnJ2WGFBUUVVaU1BYnJndVVSOVp2R1NValFBX2JnVGk1TVNLYkZTaTc0NTQwSkItZlpUUlRpLTVtMS1PeTFHbDZBeVpTeDhXbmxDSzdkZ3VyLXg4Q2xLNWluZ2hJVDVHZlU3U29KVjExNGJiOENTNG81RnJwelJZcmR6elNGMWtHdDJLM1BFMURpYTZ5ZFMzeDM0bm96dGowOFRB?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 04:02:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHU2Y3QzdlRfOERXUU8tdkVReVV5clJIYkZNNk1USGh5R2Zmci05YUZqTHpVUDhqZ0NIMURCTTN3SWFLNUY5bmdfdDhfcmJVQWFpZkpRd3FoVEtva0pSRTljX25iYlRLUmxUV2d4c3dhN0dMZFJiaURLRnFsT3poeE5KOHdyZGRJTUdubkVaYno0alVYMzJz?oc=5",
@@ -142,21 +148,15 @@
           "source": "AP News"
         },
         {
-          "title": "Jeffries likes Democrats’ chances in race for the House as he campaigns in Ohio - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlVVd3I3ekczTzk5SFdKM1FSQy01SHE3QURiaFpjekdpbVhHMlZqNlQyMm5kcmwyMjRSZUFTMFJzUGFoRjlDWGI2VGkzUkVQVG51WmZUZ0NPMUR1cGF3X3VjeGE0aVlVb1g1LTVJYklSY3NOZUI4ZGhDWUtHamlmb0hnVkxXQVFTZlRNQ3l0Si1oY0FIMlBBY1pBd29YdWpiNWE0NF9OS3dGMVFDZVh3SGdSdw?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 01:54:46 GMT",
+          "title": "Russia-Ukraine | Breaking News & Live Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 01:34:24 GMT",
           "source": "AP News"
         },
         {
           "title": "Kenya’s Ebola cases hit 8, with no community transmission yet - AP News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0k3VVN5WnZGWmEzTjFyRFg4eXFVWllSd1RiR1p4WnpxV2ZJSXJ4R0JnQ0hWQVhIaGpCZnphTF8xd3E0Zi1Tb1RlTG1ZWU5mRE5DdkVEeWFVQTI4LWprUkkwaUhUVnZsNHNXeXU1QjBzMVhOaHNjVEg5ZmlLdFN2REhvWEd0eHpuQU05eA?oc=5",
           "pubDate": "Mon, 19 Oct 2026 00:46:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Russia-Ukraine | Breaking News & Live Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 00:37:10 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T04:25:13.570Z"
+      "updatedAt": "2026-10-19T04:50:13.260Z"
     },
     {
       "name": "Reuters",
@@ -185,9 +185,21 @@
           "source": "Reuters"
         },
         {
+          "title": "Indian shares muted as investors assess key earnings against elevated oil prices - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcW54YlY3d0RSd1ZZRVhTejMtMGtOWDVCclNUalp3RW1qLV9KaG1uR09VbUdMbnZCbWFoS2d0a1Y1X3FjSnhJUFVTdUNnSjlOM1pQTElIZ1F4MG0tQ0VNdExkbXZGZVV3bjd6MmhhcTQ2Ty1oQ0E5eGVUT3JNVVVnYlBOclQ1UC00Z09OTUVWVnFQQWlqbGl5Q255V0RNS0dZdDYwNnd5dlFpU1k?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 02:25:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "China's economy picks up pace in Q3 as exports power uneven recovery - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelFIVGVwcy1oY2RvRVlaQTl5REpEc1hfS0ZUb1lTeWN0M2tBbTctTWo4NzVXeWthQVNab2p1eUFYQ2xtejBoc1ktQlZFQXh1U3hOSWdNdlBzTzNvcThPMFVyNnIzSTgyQ3lXbW8taGQtTV92Vl9uUGZOWjc1cGp6NTJBTDNpcWpEUnRCMjhXcVRYNkVXSFNwaHF3UGFGU0NqZTZWZzJXc0FyX3BnUkxhVWVSNzI?oc=5",
           "pubDate": "Mon, 19 Oct 2026 02:22:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oil, foreign flows in focus for rupee; bond traders eye rate-hike bets - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVZOMUNTX2d1WHkyZTJ5TVZBNFBVQjAySjAwOXFyS2tIQ0lZbFlPdmhqLU5GcEpQUFZ3N241Q245MzBtUlk2QUZDbHRjSE9HQ3R4NlctbjdWajRZNHg3dV80S2lPMUQ0N2l5NVdVdXJHaVZhVTAzY09QNkNOeDlFc0VEY1EzV2NhaEVZb01pdjh6b2ZWSGY2cFBQTS14TTRJS0J2MGhJZzBucFdqLUE?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 01:33:00 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVENrZjN1bWNpcm9wV3FwOUdWOEF4TU9zd09hSURoY0MtQmZGcW9Db0hHUjhtOGZhTGE5ejVGUE90ak53Y013Z3FPRW10YVJvcGo2V18xZDdsU05XUXhKamZTdWc3VEF2ZlpjaGMtczNVRXRTQWFpczdUR0swOURaU1F4V3IyX2hlYm1hc0VMUFFYRWxBcnZfaU44cUhEWFZvSGlpTjB3bmdtSkxnQjM3QVlicXV1VV82YnJXcVpUOFhsZ2dhQWVIOWFGeG9Ddw?oc=5",
           "pubDate": "Mon, 19 Oct 2026 01:04:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Asian stocks slip, Wall St and bonds benefit from oil skid - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 00:38:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Australia's Cleanaway agrees to $6.5 billion EQT takeover, shares surge - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ3BnTkYwbTF0X3R2ZUpDMy00Tk9ITWR6RjZlODdWWkdhQ0t5eVh1NWdlZmFxWVluT3hvSUZ4cHhJaTR1WEtZdU5NWEYtTk1rNVVvWU0xbXp2YjQ5ejliaHUwSEFYSDBocmc0X3lmNUN2SUVscVFSNF9XVF83VkVrVzVGdHhTQzA3dzhPU2liT1REY3dteWFaUENGWDRDMnBlZzltcTdzeFZ0T2dCUmdNRFowZEdmdjZNRl9veg?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 23:44:01 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T04:25:13.981Z"
+      "updatedAt": "2026-10-19T04:50:13.686Z"
     }
   ]
 }
