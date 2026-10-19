@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-19T03:25:15.841Z",
-  "lastChecked": "2026-10-19T03:25:15.841Z",
-  "lastUpdated": "2026-10-19T03:25:15.841Z",
-  "generatedAt": "2026-10-19T03:25:15.841Z",
+  "fetchedAt": "2026-10-19T03:50:13.687Z",
+  "lastChecked": "2026-10-19T03:50:13.687Z",
+  "lastUpdated": "2026-10-19T03:50:13.687Z",
+  "generatedAt": "2026-10-19T03:50:13.687Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T03:25:14.596Z"
+      "updatedAt": "2026-10-19T03:50:12.579Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T03:25:14.877Z"
+      "updatedAt": "2026-10-19T03:50:12.827Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "China’s economy grew 4.5% in the previous quarter, better than forecasts - AP News",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0ybUNYYmVXU0VLLUUyQXM2UEFiLXhzWFF2YmZYZ3QwUWdiSkdBdHJIOXhTVGVEemNnYWNaWFU2TEJKcnpqOTY5WS1WekJBXzU5ek1zQVg0Uy0yQ0ktV1ZfSmMybVB6VFY3ZVNCeDhjcllNUG9BZUFRTWFuaHM0dw?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 02:14:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Jeffries likes Democrats’ chances in race for the House as he campaigns in Ohio - AP News",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlVVd3I3ekczTzk5SFdKM1FSQy01SHE3QURiaFpjekdpbVhHMlZqNlQyMm5kcmwyMjRSZUFTMFJzUGFoRjlDWGI2VGkzUkVQVG51WmZUZ0NPMUR1cGF3X3VjeGE0aVlVb1g1LTVJYklSY3NOZUI4ZGhDWUtHamlmb0hnVkxXQVFTZlRNQ3l0Si1oY0FIMlBBY1pBd29YdWpiNWE0NF9OS3dGMVFDZVh3SGdSdw?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
           "pubDate": "Sun, 18 Oct 2026 23:26:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Cam Skattebo has no carries and plays just 6 snaps in the Giants’ loss to the Saints - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSzVuTFhxaEJxNVZVdnFDZ09LT2lOcEsxWEtQSVZKT3NWZ3BmUVVFTTRmYnRjOEl6UWEyaFJmTnBJakdhdXR5ZU9OWVpBY2hKamJpWkZfVWVHd3prbC10WExMTURCeDBhQTI3TXA1bl9kSk1ZaEFxYko4RzVGVnNKcG1qSEpQU1E1aE1GM25yQmJGVk1NZElKN3k5emMtZw?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 23:25:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T03:25:15.423Z"
+      "updatedAt": "2026-10-19T03:50:13.271Z"
     },
     {
       "name": "Reuters",
@@ -191,7 +191,7 @@
           "source": "Reuters"
         },
         {
-          "title": "Asian stocks skid, Wall Street and bonds aided by oil slip - Reuters",
+          "title": "Asian stocks slip, Wall St and bonds benefit from oil skid - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ?oc=5",
           "pubDate": "Mon, 19 Oct 2026 00:38:00 GMT",
           "source": "Reuters"
@@ -215,14 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Anthropic to commit 5% stake to new 'public benefit fund' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5",
-          "pubDate": "Sun, 18 Oct 2026 23:06:18 GMT",
+          "title": "UK housing market showing signs of mortgage rates impact, Rightmove says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaWFjYmdlWlpxc2JxSGc1YnZhM3ptTFp2bHdQbUUwVS1XTnoyeFpMVXh5TjNINy0tWm5hMmViQ2xpdzRFZWRHZjRyMHF4TkhDY0l0ZXhjS2FUTWpaNlpGRjl0ZEFUTm9qR1B2bUpYTnpWQjVNWXhwZDR0OFo0V2RheDdobm5jMGFCNWZuXzQ5WUdzM20xQ2dkd3JkUW9PWFh3Z1JrREVxcnJyNG1UR0M5ZXM0SQ?oc=5",
+          "pubDate": "Sun, 18 Oct 2026 23:06:08 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T03:25:15.841Z"
+      "updatedAt": "2026-10-19T03:50:13.687Z"
     }
   ]
 }
