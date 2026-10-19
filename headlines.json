@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-19T08:50:18.528Z",
-  "lastChecked": "2026-10-19T08:50:18.528Z",
-  "lastUpdated": "2026-10-19T08:50:18.528Z",
-  "generatedAt": "2026-10-19T08:50:18.528Z",
+  "fetchedAt": "2026-10-19T09:00:17.648Z",
+  "lastChecked": "2026-10-19T09:00:17.648Z",
+  "lastUpdated": "2026-10-19T09:00:17.648Z",
+  "generatedAt": "2026-10-19T09:00:17.648Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T08:50:17.089Z"
+      "updatedAt": "2026-10-19T09:00:17.089Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/10/19/nx-s1-6003499/morning-news-brief",
+          "pubDate": "Mon, 19 Oct 2026 04:46:44 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
           "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings",
           "pubDate": "Sun, 18 Oct 2026 08:00:57 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "If you have the scratch, they have the scares",
-          "link": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
-          "pubDate": "Sun, 18 Oct 2026 08:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T08:50:17.585Z"
+      "updatedAt": "2026-10-19T09:00:17.228Z"
     },
     {
       "name": "AP News",
@@ -120,19 +120,13 @@
         {
           "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 08:44:47 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 07:26:15 GMT",
+          "pubDate": "Mon, 19 Oct 2026 08:52:38 GMT",
           "source": "AP News"
         },
         {
           "title": "Associated Press News: Breaking News | Latest News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 07:11:35 GMT",
+          "pubDate": "Mon, 19 Oct 2026 07:32:48 GMT",
           "source": "AP News"
         },
         {
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemlCWEgwZHBDRUVrTzFXaWN5MHlqN0t4ZVJSeGZCaGFBcGVzZDBhQVRJN3AzeHR2YlNuUDVmejRuWXdKS0ctWF9fZ0ZYTjdvaHllQ0RpSjhTMHgtdzRvWmFxb0c0Y09FbmN4LUpsTHRyZFF4YlpVRUt2eXk0amJPM082ZF9LQXlYbnJlT3NpcHN5czBJaDU0YlpwWWVSOGZJZlowNHRhMktZdEJkRTJVOUZ6QmFfWmgzNEZ2cV9xS2lRZw?oc=5",
           "pubDate": "Mon, 19 Oct 2026 04:06:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Albertans vote on path to independence as Carney fights to keep Canada united - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEF6b1VtZEhfTjVRbnJ2WGFBUUVVaU1BYnJndVVSOVp2R1NValFBX2JnVGk1TVNLYkZTaTc0NTQwSkItZlpUUlRpLTVtMS1PeTFHbDZBeVpTeDhXbmxDSzdkZ3VyLXg4Q2xLNWluZ2hJVDVHZlU3U29KVjExNGJiOENTNG81RnJwelJZcmR6elNGMWtHdDJLM1BFMURpYTZ5ZFMzeDM0bm96dGowOFRB?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 04:02:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T08:50:18.076Z"
+      "updatedAt": "2026-10-19T09:00:17.262Z"
     },
     {
       "name": "Reuters",
@@ -209,20 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "China set to leave benchmark lending rates unchanged for 17th month - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0dSY2gyXzJ6LVdfTmNQQWFzZUJodXg0N09QQ0VEQXFvUVc4SXRIY3Z5U1JCOFZSV1Rmc0h6QWFJcGoxRzRxTkU0TVQwS1A2V09jVnJ4YmNYaF80T2h5b0xtM1ZpRHA2clQtWmdGVHhNaWJHYjQ5M3FiNl9kREpWMFJ4MDNmRGh6YTluTTBialgxcEd6T3BLdzBPWDh6X0ZuYjZ3ZS1seUgyV1hE?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 07:14:09 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Putin approves minor Russian government reshuffle - Reuters",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORXFIbEpxSmkybWNGczBUYVEyMnFKYm1GN1BwVTBkaWZDREF1Sk5WcEVFOHVwaTF4YXc2Z0RQcnB2TlNGdTY3bHFMODUtckcwMWdXWUV0eWtLWndTc1A0TTNlcUQ2S2ptUVFYN2hSRWVpMmdyNG1kbk43U0NaOHNYc1BzSHEzck0?oc=5",
           "pubDate": "Mon, 19 Oct 2026 06:53:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Six migrants, including infant, die after boat collision off Greece's Lesvos - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWhhQkVUejRES3pkQXhFRDVYY052T1hEOG9RajA0a2ttSDduRFk2VDh6eHotN1k4bTk3ZUN0RmtINzNic2U2ZHJDM3lUeGJEQ19BQzljcER1cG1UUlFHLUU4UGpVSzBobzhrS2gzX0ZNNmxOMmNybVdRX0wyaHhDUmp5aWV2bFR3SWZwNi04QTNPYkV4VWR0LTUtVUxKQm5sakQ0OHBsdkVaYzhieDI2ek8yUzRsUQ?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 06:29:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T08:50:18.528Z"
+      "updatedAt": "2026-10-19T09:00:17.648Z"
     }
   ]
 }
