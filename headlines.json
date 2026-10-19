@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-10-19T08:25:13.155Z",
-  "lastChecked": "2026-10-19T08:25:13.155Z",
-  "lastUpdated": "2026-10-19T08:25:13.155Z",
-  "generatedAt": "2026-10-19T08:25:13.155Z",
+  "fetchedAt": "2026-10-19T08:50:18.528Z",
+  "lastChecked": "2026-10-19T08:50:18.528Z",
+  "lastUpdated": "2026-10-19T08:50:18.528Z",
+  "generatedAt": "2026-10-19T08:50:18.528Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 19 Oct 2026 08:31:32 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+          "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 19 Oct 2026 08:17:19 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
           "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 19 Oct 2026 04:54:25 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 19 Oct 2026 04:30:59 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-          "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 19 Oct 2026 03:44:02 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T08:25:12.065Z"
+      "updatedAt": "2026-10-19T08:50:17.089Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T08:25:12.271Z"
+      "updatedAt": "2026-10-19T08:50:17.585Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,13 @@
         {
           "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 08:22:29 GMT",
+          "pubDate": "Mon, 19 Oct 2026 08:44:47 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 07:26:15 GMT",
           "source": "AP News"
         },
         {
@@ -136,15 +142,21 @@
           "source": "AP News"
         },
         {
-          "title": "Hurricane Trudy weakens off Mexico and Typhoon Champi moves away from land - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQk1CaFJzdndtbXhWVTJOMGt5WlZ5RDlzSDVEeklqU3ZuMzJPOThZOTV2cG5IWDVIMi1lSFJXWkhVdVg4OGdoajdEb0hhWWlxbVVuNkc2bGc2RlJZZTN5MDEyM2oxRU9UdkVYcWhGRHQzLUt6NktVemhJYnpTMG9MRUtJMXFSTzA3REFkcEhOTHd5ZEZBUndfZHVrR1BoeFFsRXJ1aA?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 04:55:00 GMT",
+          "title": "Asian shares are mixed with tech stocks volatile, and oil falls on Trump's Russian sanctions waiver - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXpsQTBIVTFZNVR4LVdWd2pmbHBUa18tWGRnZmFqVXFvN1dCaW9vTmRxcXNOVVZFNENxTjl2d3lTTXV3TU9aRkxhUzJSNWI5SlFyY1ZoazVBakQwN2VWVzdvYnQ3RU0zQWFjYzA5ZFJ2bFFQeHhYQTRHUTBxcFlHUXQzMV8xMEpTMmR6bA?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 05:48:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Russia-Ukraine | Breaking News & Live Updates - AP News",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 04:11:34 GMT",
+          "pubDate": "Mon, 19 Oct 2026 05:40:16 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Hurricane Trudy weakens off Mexico and Typhoon Champi moves away from land - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQk1CaFJzdndtbXhWVTJOMGt5WlZ5RDlzSDVEeklqU3ZuMzJPOThZOTV2cG5IWDVIMi1lSFJXWkhVdVg4OGdoajdEb0hhWWlxbVVuNkc2bGc2RlJZZTN5MDEyM2oxRU9UdkVYcWhGRHQzLUt6NktVemhJYnpTMG9MRUtJMXFSTzA3REFkcEhOTHd5ZEZBUndfZHVrR1BoeFFsRXJ1aA?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 04:55:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,36 +164,36 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemlCWEgwZHBDRUVrTzFXaWN5MHlqN0t4ZVJSeGZCaGFBcGVzZDBhQVRJN3AzeHR2YlNuUDVmejRuWXdKS0ctWF9fZ0ZYTjdvaHllQ0RpSjhTMHgtdzRvWmFxb0c0Y09FbmN4LUpsTHRyZFF4YlpVRUt2eXk0amJPM082ZF9LQXlYbnJlT3NpcHN5czBJaDU0YlpwWWVSOGZJZlowNHRhMktZdEJkRTJVOUZ6QmFfWmgzNEZ2cV9xS2lRZw?oc=5",
           "pubDate": "Mon, 19 Oct 2026 04:06:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Albertans vote on path to independence as Carney fights to keep Canada united - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEF6b1VtZEhfTjVRbnJ2WGFBUUVVaU1BYnJndVVSOVp2R1NValFBX2JnVGk1TVNLYkZTaTc0NTQwSkItZlpUUlRpLTVtMS1PeTFHbDZBeVpTeDhXbmxDSzdkZ3VyLXg4Q2xLNWluZ2hJVDVHZlU3U29KVjExNGJiOENTNG81RnJwelJZcmR6elNGMWtHdDJLM1BFMURpYTZ5ZFMzeDM0bm96dGowOFRB?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 04:02:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHU2Y3QzdlRfOERXUU8tdkVReVV5clJIYkZNNk1USGh5R2Zmci05YUZqTHpVUDhqZ0NIMURCTTN3SWFLNUY5bmdfdDhfcmJVQWFpZkpRd3FoVEtva0pSRTljX25iYlRLUmxUV2d4c3dhN0dMZFJiaURLRnFsT3poeE5KOHdyZGRJTUdubkVaYno0alVYMzJz?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 03:44:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T08:25:12.770Z"
+      "updatedAt": "2026-10-19T08:50:18.076Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Spain's rush to clear Ceuta migrant backlog raises rights concerns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHhVRndKQndRWEM0aUtFR1FmbU9HRDRmNFlwWkZtVE9ZdWR6UWp2Z2ZsOGw3b3JDXzZXOVJoelRQa1NIRUFPVmlySWRDTTJfT0theUFWOXFiZGdfLWtRelM3OHNSLVB3SUtvLWZSNVZIaUZkNFN3d3JkbHQxMDRXX19ZT0xkNVd6MmxKQ3kyWV95TWVhcy1qdnVMMWdoblUyaFg5NC14WjB5d1NOZUV1UQ?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 07:53:13 GMT",
+          "title": "Cherry or tabasco? Perfumers test weight-loss drug users' appetite for food-inspired scents - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbnpyZUxyMk1YNWg3QmZscE1xc3A0Z3V3OXFRajhLUmF6NFV6UjU0UzFvMFhtRXRlMEt2MGZpcjFBWGYzX1ZLLXpGb1QxWVM3Vl83ekRJTGY2VnpXNXhQeG9CVGxfQk45MVpaTVRGTVM4NkNXemx3VlJYMDZ2b2JROFN0WFJFdDBTVU5TZ0tWa2VhTzJjS0tJN1k4ZGRvODV2c0pKU3pZZ29jRWJDeGFFSzVsMFpCd0czcU1BclVrTk1rRWp6Y0J5bmRFejJ6WlozMzl4dHdn?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 08:27:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Cherry or tabasco? Perfumers test weight-loss drug users' appetite for food-inspired scents - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbnpyZUxyMk1YNWg3QmZscE1xc3A0Z3V3OXFRajhLUmF6NFV6UjU0UzFvMFhtRXRlMEt2MGZpcjFBWGYzX1ZLLXpGb1QxWVM3Vl83ekRJTGY2VnpXNXhQeG9CVGxfQk45MVpaTVRGTVM4NkNXemx3VlJYMDZ2b2JROFN0WFJFdDBTVU5TZ0tWa2VhTzJjS0tJN1k4ZGRvODV2c0pKU3pZZ29jRWJDeGFFSzVsMFpCd0czcU1BclVrTk1rRWp6Y0J5bmRFejJ6WlozMzl4dHdn?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 07:34:33 GMT",
+          "title": "Spain's rush to clear Ceuta migrant backlog raises rights concerns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHhVRndKQndRWEM0aUtFR1FmbU9HRDRmNFlwWkZtVE9ZdWR6UWp2Z2ZsOGw3b3JDXzZXOVJoelRQa1NIRUFPVmlySWRDTTJfT0theUFWOXFiZGdfLWtRelM3OHNSLVB3SUtvLWZSNVZIaUZkNFN3d3JkbHQxMDRXX19ZT0xkNVd6MmxKQ3kyWV95TWVhcy1qdnVMMWdoblUyaFg5NC14WjB5d1NOZUV1UQ?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 08:10:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Philippines summons China's envoy over remarks conveying 'threat' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3FaTkFtc3lTTUZRVGV2WlV4elBHTVlNb2JlcGVIbDEwd29YNlk2Sm1CR043SG1EYmFlT1F6d3Fwb0g2SFl5RHA2c2hkTVZ4TXpnYldWOUZ0N1pvbW90dDlkejFxaUtvRHNfOWJqOGt6Y1Q2Q295c3MtMDJvVlpZVDlFZ3RmQW5nZ2JIUjQwbWl6UDI2cG12YXBhQ0JDR0xEUHlmRDc3eUtKMVRFMENJ?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 08:09:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Rubio denies US paused intelligence sharing with Ukraine - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQThGcWlldmI5ZTh2U19DekhJRzZuR0Z3OEVjQ21nZmJPSjdYV2ZXZ1dVMmZGa0F6RkUzYlhCUnlQd013Tnh1UE1jVEhveDFsN2Z6VERWVjRUWXF2WmlNNmZESEU2Z3ZoZmVhV2F3NG1YVVI3OFc0TGlDWDJmdzVkVnJRZDFDT1o4dzBGUzJTeG9aS3BieGFtVHhDZEhRWmt2dUlhNU5pMzgwQWJQOWduRg?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 07:40:15 GMT",
           "source": "Reuters"
         },
         {
@@ -191,25 +203,13 @@
           "source": "Reuters"
         },
         {
-          "title": "Rubio denies US paused intelligence sharing with Ukraine - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQThGcWlldmI5ZTh2U19DekhJRzZuR0Z3OEVjQ21nZmJPSjdYV2ZXZ1dVMmZGa0F6RkUzYlhCUnlQd013Tnh1UE1jVEhveDFsN2Z6VERWVjRUWXF2WmlNNmZESEU2Z3ZoZmVhV2F3NG1YVVI3OFc0TGlDWDJmdzVkVnJRZDFDT1o4dzBGUzJTeG9aS3BieGFtVHhDZEhRWmt2dUlhNU5pMzgwQWJQOWduRg?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 07:15:43 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Arab voter turnout could make or break Netanyahu in Israeli election - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUWlScDFIcENiRk5OaDRHRHNzNjlrdnNxM0VobjJKbWhKcWpfaTNvM2J5U256QV9ZNEY3bGpMWUxhZ29idThSajljTXlpUnZ3Mmp2SmZEVE9hVURJTGxmMkNwUWpZMk85VWFxMGJpcWZEa2dRTVg5WHdNeGZLT1QyOU5CaXpUUnZIOG5MZVF2TUZtREJHSkpYTU13NlZmNGdBRk8yTGhvUWpUQThjUzBCRHA5Nms4Q2RqT0k4?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 07:07:43 GMT",
+          "pubDate": "Mon, 19 Oct 2026 07:21:19 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Philippines summons China's envoy over remarks conveying 'threat' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3FaTkFtc3lTTUZRVGV2WlV4elBHTVlNb2JlcGVIbDEwd29YNlk2Sm1CR043SG1EYmFlT1F6d3Fwb0g2SFl5RHA2c2hkTVZ4TXpnYldWOUZ0N1pvbW90dDlkejFxaUtvRHNfOWJqOGt6Y1Q2Q295c3MtMDJvVlpZVDlFZ3RmQW5nZ2JIUjQwbWl6UDI2cG12YXBhQ0JDR0xEUHlmRDc3eUtKMVRFMENJ?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 07:01:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Putin approves Russian government reshuffle after parliamentary election, state media report - Reuters",
+          "title": "Putin approves minor Russian government reshuffle - Reuters",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORXFIbEpxSmkybWNGczBUYVEyMnFKYm1GN1BwVTBkaWZDREF1Sk5WcEVFOHVwaTF4YXc2Z0RQcnB2TlNGdTY3bHFMODUtckcwMWdXWUV0eWtLWndTc1A0TTNlcUQ2S2ptUVFYN2hSRWVpMmdyNG1kbk43U0NaOHNYc1BzSHEzck0?oc=5",
           "pubDate": "Mon, 19 Oct 2026 06:53:00 GMT",
           "source": "Reuters"
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T08:25:13.154Z"
+      "updatedAt": "2026-10-19T08:50:18.528Z"
     }
   ]
 }
