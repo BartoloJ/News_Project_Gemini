@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-19T05:50:15.782Z",
-  "lastChecked": "2026-10-19T05:50:15.782Z",
-  "lastUpdated": "2026-10-19T05:50:15.782Z",
-  "generatedAt": "2026-10-19T05:50:15.782Z",
+  "fetchedAt": "2026-10-19T06:00:18.406Z",
+  "lastChecked": "2026-10-19T06:00:18.406Z",
+  "lastUpdated": "2026-10-19T06:00:18.406Z",
+  "generatedAt": "2026-10-19T06:00:18.406Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T05:50:15.272Z"
+      "updatedAt": "2026-10-19T06:00:17.285Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T05:50:15.312Z"
+      "updatedAt": "2026-10-19T06:00:17.445Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Democrats gain ground with AAPI adults as trust in Republicans fades, AP-NORC/AAPI Data poll finds - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemlCWEgwZHBDRUVrTzFXaWN5MHlqN0t4ZVJSeGZCaGFBcGVzZDBhQVRJN3AzeHR2YlNuUDVmejRuWXdKS0ctWF9fZ0ZYTjdvaHllQ0RpSjhTMHgtdzRvWmFxb0c0Y09FbmN4LUpsTHRyZFF4YlpVRUt2eXk0amJPM082ZF9LQXlYbnJlT3NpcHN5czBJaDU0YlpwWWVSOGZJZlowNHRhMktZdEJkRTJVOUZ6QmFfWmgzNEZ2cV9xS2lRZw?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 04:06:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHU2Y3QzdlRfOERXUU8tdkVReVV5clJIYkZNNk1USGh5R2Zmci05YUZqTHpVUDhqZ0NIMURCTTN3SWFLNUY5bmdfdDhfcmJVQWFpZkpRd3FoVEtva0pSRTljX25iYlRLUmxUV2d4c3dhN0dMZFJiaURLRnFsT3poeE5KOHdyZGRJTUdubkVaYno0alVYMzJz?oc=5",
@@ -136,15 +142,15 @@
           "source": "AP News"
         },
         {
-          "title": "Grass fire at Canadian military base kills 4 soldiers and critically injures 19 other people - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 02:00:00 GMT",
+          "title": "Russia-Ukraine | Breaking News & Live Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 02:10:13 GMT",
           "source": "AP News"
         },
         {
-          "title": "Russia-Ukraine | Breaking News & Live Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 01:56:36 GMT",
+          "title": "Grass fire at Canadian military base kills 4 soldiers and critically injures 19 other people - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 02:00:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0k3VVN5WnZGWmEzTjFyRFg4eXFVWllSd1RiR1p4WnpxV2ZJSXJ4R0JnQ0hWQVhIaGpCZnphTF8xd3E0Zi1Tb1RlTG1ZWU5mRE5DdkVEeWFVQTI4LWprUkkwaUhUVnZsNHNXeXU1QjBzMVhOaHNjVEg5ZmlLdFN2REhvWEd0eHpuQU05eA?oc=5",
           "pubDate": "Mon, 19 Oct 2026 00:46:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Trump says he will close historic DC golf course for 15 months of renovations - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEJLUHBtM3VzdFoybW9zSjNaMnR5ZmY1dkFxdTRmeFM1TUxyV0hWNEMzcE1RMFpWUlQtQVpiY0JrUk5xSXR5SDZDNVZYb2tWNVkzTDlwRkZ2UkVzc21XdnRLSnBsUVZJNGN3ZVo3c2VieG4zd1VBZW9XMW5VQlRSZnhYaTRpWDhHQUE2YzQ5ZzhVNGhl?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 00:23:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T05:50:15.773Z"
+      "updatedAt": "2026-10-19T06:00:18.018Z"
     },
     {
       "name": "Reuters",
@@ -197,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "China's new home prices fall again in September as recovery stays elusive - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndWUGt0d00tOWNGS2lsS3c3WmZTcWFaeVZwNUJVZC0tNkpaR295ZkJpc3FiWGgyeEVUYkgwUi1OUXpiUUo3WG5xeDN3WnpXNlIzc3hSdWxPdkpPcVd4QjI0eTNtR19KX25FcmNRYjlBX2h1R2twRzlPeW1wb0t5QnJ6Q091bnpSMVpLa3cycXAxS2JlTU13YWw5TGhqREx2NGJ3bG5GTi16d0dNVmpzSkVfR3RqclJFd0J0MzdB?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 02:46:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "VIEW China's economic growth accelerates to 4.5% in third quarter - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcXFNS245X3pBcV9XTmxwQVljcVRHRW9YWER5N3EtUlo3UnBXVm9WaE5VbUdDTTBMczJnY0hQeEpEYUdackhNb1g4VGhIcUM4VGl5UnlwOEJCT1ZqREhRZXMwVUFMVzlmT3lneGZROGR0STFaeGNuVmlCTnNEaFNjYlRta3RSd2tXVEJyOHJWNkgtSjdqZnZtanRYOUNDckZ4RUtfeTgzOTV5b3RYX0hFTg?oc=5",
           "pubDate": "Mon, 19 Oct 2026 02:40:00 GMT",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelFIVGVwcy1oY2RvRVlaQTl5REpEc1hfS0ZUb1lTeWN0M2tBbTctTWo4NzVXeWthQVNab2p1eUFYQ2xtejBoc1ktQlZFQXh1U3hOSWdNdlBzTzNvcThPMFVyNnIzSTgyQ3lXbW8taGQtTV92Vl9uUGZOWjc1cGp6NTJBTDNpcWpEUnRCMjhXcVRYNkVXSFNwaHF3UGFGU0NqZTZWZzJXc0FyX3BnUkxhVWVSNzI?oc=5",
           "pubDate": "Mon, 19 Oct 2026 02:22:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Dollar firmer, euro weakens as French protests turn violent - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUGwwZHd2R1h3Q1BiZkdpNVVzRFpXZTJEd19TT2tyelhtb21VX0ZOSzN2RVpURkdHMWl5REpraUVJTVRjeFlSQmU4T3V4XzhWV2g0bU1fd0Q0cmhRMFRFbVg5Snhld1owT2IwbmR2d0RwNGNpWEVGWHhYaDRzN3N1UWJwNjhuTXoyc3hsLXIybEt0VEl4VlJOS2JUZTB5TnV2OVFWU2NLYjRiWU5kYnA4?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 01:35:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T05:50:15.782Z"
+      "updatedAt": "2026-10-19T06:00:18.406Z"
     }
   ]
 }
