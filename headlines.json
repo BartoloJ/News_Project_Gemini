@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-19T13:50:14.633Z",
-  "lastChecked": "2026-10-19T13:50:14.633Z",
-  "lastUpdated": "2026-10-19T13:50:14.633Z",
-  "generatedAt": "2026-10-19T13:50:14.633Z",
+  "fetchedAt": "2026-10-19T14:00:18.911Z",
+  "lastChecked": "2026-10-19T14:00:18.911Z",
+  "lastUpdated": "2026-10-19T14:00:18.911Z",
+  "generatedAt": "2026-10-19T14:00:18.911Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T13:50:13.554Z"
+      "updatedAt": "2026-10-19T14:00:17.435Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T13:50:13.634Z"
+      "updatedAt": "2026-10-19T14:00:17.644Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 13:51:41 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
           "pubDate": "Mon, 19 Oct 2026 13:45:55 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Zelenskyy says Ukraine got no early warning from partners as Russia hits the power grid again - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYm9Fd0ZUSUJudF9abExqQ1dsTEFBbS1nLXRRai1VQk5GRDlXNnFQbHlXM1kzVU41YnRJT3Y5d256eGZzU1lQeFAwamJxQlJKUkFMNkt0RG9lb29SMTJMMEVJSVdreEF6QTdseWI0VzUzTG9oUWtoVEh4UmdTNE44X0tWckx6M2VtZzZNcWRwV0JKMzEy?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 12:32:00 GMT",
           "source": "AP News"
         },
         {
@@ -148,26 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "North Korea threatens to restart propaganda broadcasts and deploy more weapons at border with South - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUDZOUW9aSXNRTTUtWWl0RVJPWWVENkVBUzBVYkV1QVFaNWhNNU12Vk4yNFRLVW9Md18tYmlNblpLUmJqY2xXVUxmaWxCRFFPczlGdHZKZzc5RzdsUGdpS2Y5QnVZVFhRU2gtbklya2pCQkE3N2s3T3prR3dMZ2k1enNhMDhkUENNaWQ3OFFIY3kxaUlBaGlNcFBuc0lQamViVVp0eEhWTmEtVVVNNVBVMA?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 11:24:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Saudi Arabia executes 2 Bangladeshis over ‘indecent acts,’ and other Mideast news - AP News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVpZRGhZT3Y1emJqaU5GbHdkLXM2ckdNLU5ZQ0N6SmU0VVQydW4wMndGb2V1ZzMzRHViTVBtWlNlN0kxclFURFFobVQ2TDFySldKNGF5TktyT3ZpLU54Q1pUMk9qYjM2dWVweW9vdTFvV2NGQ0ZkR00zMmdXWkxlMkZ1ZE5ReFhjM0wybG9mT0dfMGtPZTczaGJINEp5LXJrbEFDWEpjd2h5OHpHdmZFNlk2UUpxQnc?oc=5",
           "pubDate": "Mon, 19 Oct 2026 11:04:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Ironworker challenges Rep. Max Miller as the Ohio congressman fights to hold seat amid abuse claims - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQemNJU3ZUamZUVzVoSVBXYnhHZE42T1F5Q2F1T2M4TGc1NzZES0lMSWdCa1F0dnFwOFlERjJlUU04M3Q2SE9odGV0eVd3WDhjRXpVbDZWVmVGWjZrRTlIc2VWSzY1eHdfbnlsdUlRcHk2cnZvdEh6a0FmbUNXOXd5TTA4S0lHSGNSeENUUV96Y1dQQUhQbExqd0JkU3pkZW1QdUNEUg?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 10:59:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T13:50:14.143Z"
+      "updatedAt": "2026-10-19T14:00:18.446Z"
     },
     {
       "name": "Reuters",
@@ -188,6 +188,12 @@
           "title": "S&P 500, Nasdaq set to open higher as AI stocks rebound ahead of earnings rush - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX21SVVhfUjZRQ255YlFzVWVEZ3BFMmt3aWlDdkVPVENFOExuRE9KOXZ6WjNqbzdHelUwdzZudy02TjlyNkxVZWcxQmFzZF9NaUE0SFZYaWI3dmxlYTBVdjdULWhLMkNQNnlMUXFaM1J5T1dPMEo3ajhkb0RQLUM3M0pkYlFqbHNKQ1U1c3k5WlUtdjR1UkNCV0JkdjJZTzdIa2c?oc=5",
           "pubDate": "Mon, 19 Oct 2026 13:04:21 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Senator urges FCC to reject conservative group's bid to use political AI-generated robocalls - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS1M2Q2tEN19xQWVpZng0TEVrSENheEJCSE9MakNUZWVPdHh5dG9SX0ZzU3d4Z0dNWjk5UDU2cXBWQ3plSk90dXdzdG1zOVdfR0xHLU5IVmZNVG1QLXI0NGRwSlVxcWRid21uZk1vQU51MTFFX2tiQjlBRnJmUHA4U3lncHh5dzFkUlJiVUV1RkJybU1tVXBKYUFnVzJoUVJBWEg1eVRtTEZ1TGhNb1VtNmlMU3BBV0dCajdkMg?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 12:55:51 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
           "pubDate": "Mon, 19 Oct 2026 12:31:36 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "SpaceX, Tesla earnings to test Musk's AI spending ambitions as merger talk grows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdi1oa1VDTm0wMUJualVQRU5ieHFCQmFCejlxdEx1cEM3am1WaEV4LVJwRGVab29QU05IUl9fYzhsaFFFSk5hVGtTZFFLNGNOUVNFMjJ4RkE2b2RCdVJmN0t5UmVBeWpPb2ZwMThLcVRkVENsdFhRc0JOUml0Z3F3MFg5bDhsNmZrX2tuS1ZkRFl2elAzd0p0ZDlFb0E1MF9malVCZXhEZnJqRUFYMUxFNDV5ZmRrZkYxZndkWGthUEpPQVdOTHAtMHBVTQ?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 12:27:14 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T13:50:14.633Z"
+      "updatedAt": "2026-10-19T14:00:18.911Z"
     }
   ]
 }
