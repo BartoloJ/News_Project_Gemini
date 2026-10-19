@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-19T17:25:15.066Z",
-  "lastChecked": "2026-10-19T17:25:15.066Z",
-  "lastUpdated": "2026-10-19T17:25:15.066Z",
-  "generatedAt": "2026-10-19T17:25:15.066Z",
+  "fetchedAt": "2026-10-19T17:50:15.244Z",
+  "lastChecked": "2026-10-19T17:50:15.244Z",
+  "lastUpdated": "2026-10-19T17:50:15.244Z",
+  "generatedAt": "2026-10-19T17:50:15.244Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T17:25:14.048Z"
+      "updatedAt": "2026-10-19T17:50:13.855Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T17:25:14.111Z"
+      "updatedAt": "2026-10-19T17:50:14.050Z"
     },
     {
       "name": "AP News",
@@ -120,19 +120,25 @@
         {
           "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 17:18:33 GMT",
+          "pubDate": "Mon, 19 Oct 2026 17:42:28 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Zelenskyy says Ukraine got no early warning from partners as Russia hits the power grid again - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYm9Fd0ZUSUJudF9abExqQ1dsTEFBbS1nLXRRai1VQk5GRDlXNnFQbHlXM1kzVU41YnRJT3Y5d256eGZzU1lQeFAwamJxQlJKUkFMNkt0RG9lb29SMTJMMEVJSVdreEF6QTdseWI0VzUzTG9oUWtoVEh4UmdTNE44X0tWckx6M2VtZzZNcWRwV0JKMzEy?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 17:03:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NCAA College Basketball Rankings: AP Top 25 Basketball Poll - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiclRXTGdGRmhNSVBZOEhVMjdaWTFWdXIwOFA4UTd6T0plQTJ0UmZlSUE2WEMwQmYzQ0NJam1KcWhVLVZXY1cwYWNKTU9GRjY4MXJacTlKX3BUdnlCYW1TdnVVX3pHcTQ?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 16:29:03 GMT",
           "source": "AP News"
         },
         {
           "title": "Albertans vote on path to independence as Carney fights to keep Canada united - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEF6b1VtZEhfTjVRbnJ2WGFBUUVVaU1BYnJndVVSOVp2R1NValFBX2JnVGk1TVNLYkZTaTc0NTQwSkItZlpUUlRpLTVtMS1PeTFHbDZBeVpTeDhXbmxDSzdkZ3VyLXg4Q2xLNWluZ2hJVDVHZlU3U29KVjExNGJiOENTNG81RnJwelJZcmR6elNGMWtHdDJLM1BFMURpYTZ5ZFMzeDM0bm96dGowOFRB?oc=5",
           "pubDate": "Mon, 19 Oct 2026 16:27:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NCAA College Basketball Rankings: AP Top 25 Basketball Poll - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiclRXTGdGRmhNSVBZOEhVMjdaWTFWdXIwOFA4UTd6T0plQTJ0UmZlSUE2WEMwQmYzQ0NJam1KcWhVLVZXY1cwYWNKTU9GRjY4MXJacTlKX3BUdnlCYW1TdnVVX3pHcTQ?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 16:22:39 GMT",
           "source": "AP News"
         },
         {
@@ -154,24 +160,36 @@
           "source": "AP News"
         },
         {
-          "title": "Eagles QB Jalen Hurts expected to miss the rest of the season with blood clots, AP source says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2hFdE0wTGx0bDQ0NEJLVVFERER4bExSTzBXYkFyMURvQXViUWZ3NUFiWms2dEFNYjhmdDZwQldtX2ZaVE1WemktU2w0WlhoSDlxa0ZrNE44dEc1dzFJLUp0ZFJ6MXZ1N0lOb3NFSVB6LUpuR0JLX242MHVVSkRlUUdEX01sS1QxUzJEWmp3c3ZtZG9q?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 15:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Houthi rebels strike Yemen’s government forces with ballistic missiles, killing at least 53 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON01aUDFyR0hVZ3ZyLTRLNFpxbGJ4SlBTM0ZyMEpfRFRsZU9UOFZlR0l5TnY2WVBwVmd2TTNVT21pc3FBdVlrd04zRndnNmZoWDFKRUJjWFB0RG5qcllhY2U4bEhVakg5ZHNTQWxRVnE2RjlydXFCb3hmMk5VamV1cmpOYXI5elB4el9NV2ZES1FHdw?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 15:17:00 GMT",
+          "title": "AI agents are only as good as the personal information you share. That raises privacy concerns - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGphS2ZSQS1YeGlhbnF0WDZXZFpMNG5hUmxnOWdBYVRVZ0hjeld1NGxEbTJ3ME1ZMXg3MDZ4blBVOE5fM3pLTUlwQVRYSEJaMlJFel9YdE5yQXU4VTFzWlZQVnMwRllTWFY2TU1Fc3JEV1lYSTBtbDAzOXVZOEcwOWJGTnN1SlZvTFhUY2E0UkR4TnB6eVE?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 15:40:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T17:25:14.619Z"
+      "updatedAt": "2026-10-19T17:50:14.620Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, US prosecutors say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1EyODdFMHdNVDVJVW5YVW1rWE5YX042MFNLWldLeVJ1UFlydXJYQnB5YlNldDhNdURMRlRGYVZicEp3SkhEaEZ0eXQ2VUhkanA5QVhZeUIyRVg4dW4wbzhmblZvU01PX0hlUUp5YzJZZHBzT0FSemhVN2k1eXVycG1PcnR6TXBUSDZSUERsc3pEamlDR1FCUnRXZk5vaWJVZDVGd2VmNEd6MThaZ3FvcS13MXRIYlo5d1p4S2JYOA?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 17:25:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US Supreme Court snubs bid to revive plea deal for accused 9/11 mastermind - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOHNyVDVadGRwOWRZUFo0Z2lqYmZrRjlIdmJoTlBvNU9SUjNmcEhEUjVUTzFieWQ0WXVGR0syMXJKZE94VF9JWkRVVlZyNUdrSGZrOUtLbVVnVlBGTkJfZ2tlUWw2bzJZNTBkbUtFNUNfT0VlMS1XYm1LeHNQVVBUQldLSGdFbmFjMl9SNDdGVFBNejQwTDJPSVBFV0tnamxfQUR5dFVZVFJ2ODNV?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 17:24:22 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "French Prime Minister calls for partial curfews after weekend riots - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS05IaFlBa0paMExacEp0cGpsM0JDeGF2RmZTR3JDZWxxRUZ4TGF4TVMtV09yay1PQjFhMnJRT3UteEtWQV9nUU9DMHFfaU1Kd054UlF3aFh1WGtuaUlFWTQ0RXExNVNfT3RwRFhLLW82XzhpNEFNdjd6X2RmVXNETzVsYTR5TjBFWTFrbHZ5NVhpcnNpbDF6UGVaSU9sMnR4d1hxZlVSLTY?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 17:24:18 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Every look from the Victoria's Secret Fashion Show - Reuters",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2lPVEdrVzBfenM5SXI3MVNXTDdLQ1R5Si12OHFWQzF1TUtJaUZYdjl6SmZjSkdZeS1FSWV2a2JzeXc5TEFGdkliY09WTFE2SWYwRUQwVUJaWWsxV2dSNGZwYWlOMFMyd0kzaTZoN0xJZmJTRm9NUjdmdmhPeG9sYlJ5d05PVDREcWlFbF9YZ0U?oc=5",
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZWNGMGIzTEZwQjVYM1BNU3lmemRQZTk3OGtQTnhXTWM0UXRFNXhqTTg3WFFQYXdQWVZZTUphR3FGZDd3SE5RaGZlTWdWZ1owRklLYnQzSWN5RlotVjY2OEdjMUtsUGpMZ1RxRk5QS1djT3hnbDZwR0lUSmVwZjlYX243eGIyRHpKLV80NkltM3NmZkk2ZEl0WGNGVEpGRHZUei1LRGJYMnRoME0?oc=5",
           "pubDate": "Mon, 19 Oct 2026 16:23:27 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Myanmar authorities release rare images of Aung San Suu Kyi - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVFdXV3JSQk1EQ1VxSWRjU3M0WU9OWHBRaVBtN3I5NDVQdnpJYzJaRHVlTmJpRUlCcVJVZUU2aFlEZ1U4UmVMRmkydTRQWUs5SUlOalVtX3dZUkpBaXYwRG9uT2FIVU5XV1hDZUpiRWcwMkx1SUppcWt0Wl9YUnluM2R0MGwzYzJuRlN4WXhUTkhKMWp0aVBBb0V1ajktU2hqejdFY1VjMUlCbXFRYlNKZQ?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 16:20:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Google, McKinsey strike Brazil carbon removal deal with silvopasture project - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ3dueURyYnIwanJiVVIyLXdGYnJhTzRVMTV6bnc4WnZtRjhIWmQ3X0JyOHhjX1l3c0JpV1dqcTlBQ2RYdUE2NlIzYkFWcVljMGJGa25uUTFJMU81YXFQdDVrREtMeThDa3djVlcycWZxZW54dFpZOGhWNWhfZDYyWm5uVkNnV2pNZ0RRbmxkYmZGV0JjdFFDbXlhRnN2WUdjQ0NBN2podGdJcmhidkJTMVo5blVST0N3dV9JWjM3TDdFaVF2RWlKMzIwQ3E?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 16:18:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nasdaq climbs over 1% as AI-linked stocks recover ahead of key earnings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX21SVVhfUjZRQ255YlFzVWVEZ3BFMmt3aWlDdkVPVENFOExuRE9KOXZ6WjNqbzdHelUwdzZudy02TjlyNkxVZWcxQmFzZF9NaUE0SFZYaWI3dmxlYTBVdjdULWhLMkNQNnlMUXFaM1J5T1dPMEo3ajhkb0RQLUM3M0pkYlFqbHNKQ1U1c3k5WlUtdjR1UkNCV0JkdjJZTzdIa2c?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 16:17:44 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T17:25:15.066Z"
+      "updatedAt": "2026-10-19T17:50:15.244Z"
     }
   ]
 }
