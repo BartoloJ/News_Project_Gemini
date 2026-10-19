@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-19T05:00:18.119Z",
-  "lastChecked": "2026-10-19T05:00:18.119Z",
-  "lastUpdated": "2026-10-19T05:00:18.119Z",
-  "generatedAt": "2026-10-19T05:00:18.119Z",
+  "fetchedAt": "2026-10-19T05:25:13.051Z",
+  "lastChecked": "2026-10-19T05:25:13.051Z",
+  "lastUpdated": "2026-10-19T05:25:13.051Z",
+  "generatedAt": "2026-10-19T05:25:13.051Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Macron calls for 'calm and order' after riots across France",
+          "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 19 Oct 2026 05:07:21 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Australian Greens senator denies claims of misconduct towards women",
           "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
@@ -32,7 +38,7 @@
           "source": "BBC News"
         },
         {
-          "title": "Threat forces Israel to Austria flight into emergency landing",
+          "title": "Bomb threat forces Israel to Austria flight into emergency landing",
           "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 19 Oct 2026 02:41:50 GMT",
           "source": "BBC News"
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 19 Oct 2026 00:06:25 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-          "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 18 Oct 2026 23:28:45 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T05:00:16.988Z"
+      "updatedAt": "2026-10-19T05:25:11.931Z"
     },
     {
       "name": "NPR",
@@ -112,17 +112,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T05:00:17.199Z"
+      "updatedAt": "2026-10-19T05:25:12.104Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "Albertans vote on path to independence as Carney fights to keep Canada united - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEF6b1VtZEhfTjVRbnJ2WGFBUUVVaU1BYnJndVVSOVp2R1NValFBX2JnVGk1TVNLYkZTaTc0NTQwSkItZlpUUlRpLTVtMS1PeTFHbDZBeVpTeDhXbmxDSzdkZ3VyLXg4Q2xLNWluZ2hJVDVHZlU3U29KVjExNGJiOENTNG81RnJwelJZcmR6elNGMWtHdDJLM1BFMURpYTZ5ZFMzeDM0bm96dGowOFRB?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 04:02:00 GMT",
-          "source": "AP News"
-        },
         {
           "title": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHU2Y3QzdlRfOERXUU8tdkVReVV5clJIYkZNNk1USGh5R2Zmci05YUZqTHpVUDhqZ0NIMURCTTN3SWFLNUY5bmdfdDhfcmJVQWFpZkpRd3FoVEtva0pSRTljX25iYlRLUmxUV2d4c3dhN0dMZFJiaURLRnFsT3poeE5KOHdyZGRJTUdubkVaYno0alVYMzJz?oc=5",
@@ -148,9 +142,15 @@
           "source": "AP News"
         },
         {
+          "title": "Bills’ C.J. Gardner-Johnson apologizes after his ejection for spitting at a Raiders player - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSTE2WlQ5a0FpNTRxWm5sUmgyXzY5blN1YTdOdEtjLXhpM0pyTnBXLU5OMWJZT2dsS3NHQ3NJZG1Vemp4aG43YU5vSDhfNVkwbEZTRmRKWURLUE9tS2l2VUFBUGZ5RWRqT1R3LWlQMWdWNElndU01Nkg1S05VU19zRGd0M1JpcXJlS1NkcHozc25BRzhjbkZadjZ3aWVENWFkaUpz?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 01:55:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Russia-Ukraine | Breaking News & Live Updates - AP News",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 01:56:36 GMT",
+          "pubDate": "Mon, 19 Oct 2026 01:34:24 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T05:00:17.762Z"
+      "updatedAt": "2026-10-19T05:25:12.634Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Morning Bid: Markets left to figure out sanctions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Zk9kSXZkOVBJMWZjbXNlSmI2a2F6VG5EUFFfcHlMUjhaX25qaW1qWGNCVFpRaUlMN042UHdTNEh1eHY0MUFmS2RLZTJOd2VLRTlkX082UFNjTHdSZjBlQTB4b0hpeXlzY2UzZXlTNWoyX1pOVi1RTVV6UEhtOG8?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 04:31:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Global food inflation is expected to intensify as supply shocks pile up - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVRkb2hsTDU1SE9pWjNla2I5RTYxUFJQZndkWkVIQ05EbzhUOWlfbGp5X2J2SHA0bTJpMGptenRDdXdWZ3E2VkthVVdBY2YxTFQ0SjhPc2xadGJWRFR2dENBZ1luZ1lEOUlsVTFxYnJxYmJ4ck9kZmtaQlg1bzFjemN5Rk1WdFhSb0tpT2c2OVVGd2lRenlBVnRud2E5S2ZsMlRucENKZ0hpLWJBd1dCX0R5VG10YkU?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 04:04:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Gold edges higher on softer oil; Fed rate outlook in focus - Reuters",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHBoaXFtRmhELVpxR3BOYzNDX3IzS1Y1UHZaZUlWRnBiY0Y3WWxwa19vSlVRUENyTGtpZVJFSEFSLW9hVWhEaktYRTVhVWpObTFOYThBVXNRX19VY0phaUJjSkdSMjFZQ19FUFZGMm44UnNpZkZGSnNCeUc2SFZ4c1ZZUU9lV2tiUk1odm44Wmc2WGVjSG5pYUU3QnE2NGYx?oc=5",
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Oil, foreign flows in focus for rupee; bond traders eye rate-hike bets - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVZOMUNTX2d1WHkyZTJ5TVZBNFBVQjAySjAwOXFyS2tIQ0lZbFlPdmhqLU5GcEpQUFZ3N241Q245MzBtUlk2QUZDbHRjSE9HQ3R4NlctbjdWajRZNHg3dV80S2lPMUQ0N2l5NVdVdXJHaVZhVTAzY09QNkNOeDlFc0VEY1EzV2NhaEVZb01pdjh6b2ZWSGY2cFBQTS14TTRJS0J2MGhJZzBucFdqLUE?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 01:33:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russian strike kills woman, hits Kyiv subway station, mayor says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVWI4ZTdFVmJ0YTg2Qm1fS3FhRFJCTEp1a1B3UlpSVW00T2dUR2NPZVg3VlZyUldmZmx4U1dKMUU0RDU5Q1N4anFadmVGTHYtYnF2bGhqWjlSRnpTRU9ra21uNklqMlFCZFBuRHRNYXQ4Wk1RNXBoMjRkTHVhZWVHWTBqVXFvcXBWRmk4bHh4b3Y1bFVpZ2FGbWdBaDZTQTNaZWdudzdoYXhsS1JITWpPcA?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 01:11:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Beijing's population expected to become super-aged by 2035 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOamIzVHVwV0dlRnd2U0IyNHJUdXg5TzQxaDMzVXZkNC1RQ1czVHNxTTRNVWgwMkd2X0J1djlBMGEzNldubWhacFhnREFEa1VXN2poLUp4aVFzbGhIVGRhX21jZGQ3dHdwV09sZDk1TUdDQUJDS0s3UDRETFlQNDhNdDNrSWg1RnNucVpQb0l6XzlwSGxQSU9RY3FhdExfQ2lLcUptTA?oc=5",
-          "pubDate": "Mon, 19 Oct 2026 01:06:00 GMT",
+          "title": "Dollar firmer, euro weakens as French protests turn violent - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUGwwZHd2R1h3Q1BiZkdpNVVzRFpXZTJEd19TT2tyelhtb21VX0ZOSzN2RVpURkdHMWl5REpraUVJTVRjeFlSQmU4T3V4XzhWV2g0bU1fd0Q0cmhRMFRFbVg5Snhld1owT2IwbmR2d0RwNGNpWEVGWHhYaDRzN3N1UWJwNjhuTXoyc3hsLXIybEt0VEl4VlJOS2JUZTB5TnV2OVFWU2NLYjRiWU5kYnA4?oc=5",
+          "pubDate": "Mon, 19 Oct 2026 01:35:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-19T05:00:18.119Z"
+      "updatedAt": "2026-10-19T05:25:13.051Z"
     }
   ]
 }
