@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-20T20:25:12.242Z",
-  "lastChecked": "2026-10-20T20:25:12.242Z",
-  "lastUpdated": "2026-10-20T20:25:12.242Z",
-  "generatedAt": "2026-10-20T20:25:12.242Z",
+  "fetchedAt": "2026-10-20T20:50:18.041Z",
+  "lastChecked": "2026-10-20T20:50:18.041Z",
+  "lastUpdated": "2026-10-20T20:50:18.041Z",
+  "generatedAt": "2026-10-20T20:50:18.041Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T20:25:11.093Z"
+      "updatedAt": "2026-10-20T20:50:17.000Z"
     },
     {
       "name": "NPR",
@@ -87,12 +87,6 @@
           "source": "NPR"
         },
         {
-          "title": "Can the new federal voucher program help public schools? Democrats are torn",
-          "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
-          "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Why these 5 everyday items fluctuate in price at the grocery store",
           "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
           "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
@@ -105,6 +99,12 @@
           "source": "NPR"
         },
         {
+          "title": "Can the new federal voucher program help public schools? Democrats are torn",
+          "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
+          "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "Morning news brief",
           "link": "https://www.npr.org/2026/10/20/nx-s1-6003501/morning-news-brief",
           "pubDate": "Tue, 20 Oct 2026 04:50:27 -0400",
@@ -112,15 +112,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T20:25:11.154Z"
+      "updatedAt": "2026-10-20T20:50:17.098Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Houthis attack besieged city in Yemen that UN says is at ‘grave risk’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVWhUMVdSQUxmTWt2cWRQZndBeHU4MnlxMkJ1d3dhb2U3LUctcUNzLXR0OGJ6STFtalFnS3JhRTc4bE9PMXI2emZoakN6LWxLc3k5Z2NvRzV2amItdmhkek01ZDlBMWJDZ01iUWZGNjdnbjdIR3JHOXc5LTVnR3hlU3c2NU1SVEIxSW5UY0JQRWRUdw?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 20:44:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 20:17:03 GMT",
+          "pubDate": "Tue, 20 Oct 2026 20:43:02 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump and Vance announce $25M whistleblower program to encourage public to report alleged fraud - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlhMbk5tdzk4Z2ZaMUxTOUc2LW1rYXVxbWtWYl9UX2I0cTFmUkc5QkRjY01XRDkxc3ZJZ0JVMmlJcHR0TEpSajhkTmFtSHRTYzdDd3BpZ1NFWkh5VXJPNGduc1J3MDVCM1EzbG1DM3ZsaGhFMnBWNWF2UlF5am1mS3hPZGNMaVpwQmFzdW1hbDFVNi02ekE?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 20:14:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "US stocks rise after companies deliver strong profits and oil prices retreat - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUxwUkw1R0I4c0hwa0lfVGdUQ3ZoMlVlZzZBa1RBTU9hMEZtSTFQY3d3NzVYRlFiN1hubTFWX3JXVnZBbnUxSmFsM05CZ1lyVVVOamlWOXlxUzdaMTcxdFBzY3gzZVdmNjZaTXNPNWtBeTNvMTVETWtwcGxaaE5CQWFUOS0tM1NpS2FkT1pocUlYWGZkX2wyd0d3OTg?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 20:05:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Eagles are not being punished for handling of Jalen Hurts’ blood clots, AP source says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVC1kYUkyb2czeXdCR2h3TTMwNERObThlUGtya1BQRlZuS0pkMlp5YV85VWJDSFN2TVJUNVdoNjJiX21yN3Z3ZkpDMUpwSEdaUlBQdVRheU1jVlYyT25DWFBwMGFPVkhmLUZqekZZN0ZCcUFXczl2N1p6eVRvNEwxUi16MFREdzY0Mmx1NmcwdnFyTGR3Ym9lUERR?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 19:50:00 GMT",
           "source": "AP News"
         },
         {
@@ -140,89 +164,65 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZjBGZWQwSjlYd2Zrc1lncjhvcG5uOGpZOTI2aVhhVHY4YzhDTlNRRWJWTnIzdnk4V1FfVUpTbzNkX3gtOGdwU3VNTTZCdFN3Z055akhaMjNKSDVqY3hXNzM4bmpaU0lQQ0dwTlhIQ0prUUVyRkNtbzhyN3BDOWlIWk02YUItdkI4Nnc3cTJZancxRTk3b2ZSWjd6TlMyN21IUWtXWFUtRjBmaUItQjRGZA?oc=5",
           "pubDate": "Tue, 20 Oct 2026 18:35:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Houthis attack besieged city in Yemen that UN says is at ‘grave risk’ - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVWhUMVdSQUxmTWt2cWRQZndBeHU4MnlxMkJ1d3dhb2U3LUctcUNzLXR0OGJ6STFtalFnS3JhRTc4bE9PMXI2emZoakN6LWxLc3k5Z2NvRzV2amItdmhkek01ZDlBMWJDZ01iUWZGNjdnbjdIR3JHOXc5LTVnR3hlU3c2NU1SVEIxSW5UY0JQRWRUdw?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 18:33:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Senate Democrats launch first ad in Mississippi as their midterm optimism spreads in the South - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3hJVEEzZW1yanRxZUpSNlFsM2h1RjVGOW1DZlpsQ2JNTHhTcG1qQ2NVMjVpaTdzenJqTzhZd1YzejMxa0xiV3A1bE41MjFubEtyREJteFpWVUdzcEtNQ3EtZGwzcGJYSnpKOGFDVHFwTlJSQWxGTlFvYlU1ek0zbWtPRC1rcXhjejNwWGptczVXUzJjTDlkZFZXYWJMZw?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 18:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "With France embroiled in protest, a look at the nation’s economic standing by the numbers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjJfX1NXbWZtM1Z3WEJqRWVHS0Q2aExKRnk0dmtLTlpOZkhXR2pQbXN4SGFDOU4xYUpwYmRtTFV6UHRLVWRXdXlmaWFnU2VGWWtDSElpYTBNLXBGalhGZDRWV0ZxdGdBV0JrUTQ5VHBzMDFFcmc1cUJlbk1HTlRzSmROLXdwZEltNWxF?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 17:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "2 men rearrested in UK on suspicion of assisting Iran over suspected plot at a US-run air base - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVJSnlXYzBBWko0QVp2YkVtWXFxUk5zc3AtUEtGalhoMmh3OEx4SWsySTRuSnZ6NDk2X3RWZnFra0lVWnU5Z2xEM2NHVmlzSUFOOWwxaGVXeDRWMTh3U1RyeWlfMVB0dDdiWEtjR3EzdGRvZUdtblhGNUtiTU5oX05WUFU1WDY5U2o0NkgyZnB3M1ZtMDlDTi10TlpSbkk?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 17:43:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T20:25:11.763Z"
+      "updatedAt": "2026-10-20T20:50:17.586Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Brazil’s love affair with cellphones turns theft into an election flashpoint - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWFRwNFpvcXBQUEZCZHJxMHlzQzN4ZG5sQ3dIdnVzZFZ4VlhqZERwdVFVNGJ4TjhuMWdoVDE2cngxRlJuVUstTjNxQ3hXdktjOWhQZ2c2QjMwQzZWUkdyN0hfb1F1WGwxR3lMbVNuSVJVY0pfczBNTEl1WUFseWJNU3NFS2EwQW83VjEwT0lOcEthOTNRY3hZNUpTdUd1WDJGaDB1cEctUk5aYXlmeHNQckFjaDdIRjN5d0VnTUhGTlNWeWhw?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 19:21:17 GMT",
+          "title": "SpaceX quarterly revenue jumps, beats estimates as AI business surges - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 20:27:22 GMT",
           "source": "Reuters"
         },
         {
-          "title": "As weight-loss drug users turn to dietary supplements, doctors and regulators raise flags - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdmVEQzU5MERjQjV6REw2M3MzbUNZZVlmWmpQdkx6RWh5cm5TbVZiSEpXT1ZuNHhKTzBjZW5QYkJ4SWp0M2xJU1pyU1NxZktrSHJUT01GUmo4TmF1VVhJREtQY0tkYWF3UGZOT2dnOC1qNmxQX29ZYjFEN1g3cV9vc2lwdXZCVjdicGtaeWZYeGxNZ0VfdmM3UWJ5SXJLLThfaTdZM0luN2lmSXVxV2tMSWxPVVVUa204RG1jbGU0RG5ERjJXdDB2b1VrUQ?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 19:18:28 GMT",
+          "title": "Netflix issues weak fourth-quarter forecast as company seeks to kick-start growth - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQmJuWl84Zk9TanlERndybWRsaTVoaF95bUgzbldjVzJKNzcwZEFEUFh4Z0xVa2o0aGFSSEVJT3d2WENIeURzMWV3VUFTY2NxRWF2WHBjTVRjZURraFVHMkZ6M0pkOXJOb01FYW5OWTdkcmM3WkVFcXR5UC1QbDVqOFRIYWpsc1VxaUdhMENKa0I1S1ZWSk1BZ3BrYmRYVVQ5Q1FpRHBlY1NZbndHMVZnYjBfRnQ3cGktWkcwZ28tVDVQSFNqR1dZaFJGSTJ0b0U?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 20:11:04 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Could disillusioned Kansas voters send their first Democrat to the US Senate in 94 years? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcEJELWFtUTE0T2VDN01rLWlrOWRYTHN6WVNqQ1JORFVhM0FDd2FpRG8zdWUzbjRJSktYaFhJc2ZUaFFBdHZyaldRZGExdGx2dXEzS0pLeERlWG5EM04xWmhnMWlkLTVjclBWbjRvZjluc3d6ZUVRYTJRSDVhNVRTWjBVc3VaaE53TV9YSjhkNEZEeFp1YTRSbUY2MzJRcnZIZXk0MzdGLThBMEoyRlhsZHFRZkVDQWlsSDJRd1dYRTY?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 19:14:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Explainer: Three issues defining the 2026 US midterm elections - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWRpTF93cTF0cl9YYWU4bDBNcHRtSmlaR21FemFtZ3BFZkFOWng3NjhtTHhQNWhtSnRUbm5TZTNld3ZUTmxWSDFRVXRzQTNHUElfU0pibVAtQWxPc3NIcjNjWkVnNG5kb24tN0NvU0VCbDl4OFpxRjc3VC1pTlRXb2hrbkVpaGJjRTFSS1p3TTdSclhVX2NF?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 19:13:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nigeria confirms Ebola case in patient who arrived from Uganda - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOczRmaE4xM1NBWWl0dkZiUFNWc3gyR2pPU05ick11alhPNFpfanVNb3dJLWRCQmFNcDlyU1ZmTi1GQVBHN1VjdVprQ0pvMG8yNC1fYWF6QkpoRnFQY1ZSMlpaa2RZN1liNlJzbWFWNTA5MV9PTFF2RXpSTUFBRDJxaWhxcTNySWFEMnNhRXhHVWVGSldjZGcwOHdPWkJ2QUMtNk1VWTZTSV91VG9tMWo1cFQzd2ZtMVMwUDA0Rg?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 18:59:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall Street rises with investors rotating into healthcare and value stocks - Reuters",
+          "title": "Dow leads Wall Street higher, investors focus on healthcare stocks - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 18:53:28 GMT",
+          "pubDate": "Tue, 20 Oct 2026 20:01:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump, Bloomberg ramp up spending ahead of midterms - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0tlOUZjcnFsUU9SS2hFTWtLaFA2Y2NVakM0alMwWEc5a1B0dVZETGNFckF0NWR3cTJsR0c3WDRyYVE4U0ZpWnF6Qjh1cEt2MkZNQ0lzaXRBWDIxNjBzbjBOZzdPZHA1cFoyYkVzdkZqZVpGdkstcVBnZTBpcFRfZUxwUTdveDhzSlFWX2ZqYlUta2xkbFdn?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 18:39:45 GMT",
+          "title": "Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDd1N2Q1aDhCMXdIcnhsNC1meEdkVGlZdGJBR1dabnotaThiMGF5R2NvTVluM3NTY2dFMEJfT21EeF9OR3d6cFE1eVpsZnVZeU82aVlOUVQ0ZElXVlVGMTJ0NzM0a2R0Z2hrQk1RRGJlWFB1VmMzS1djQ3ZpVkc2SmR3MlRBQXRGN1E1aXlJX1pOOEc0bFF6OFhBYTRSamFtR1pmNGhMbFpzS25keENuR1IyMkljTG1lUHE2TVh3?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 20:00:42 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US health agency confirms third measles-related death this year - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3pvTHhNNHB4SDFDNGdUeHBfUTV1VS1ZUTFYakFRUnZsUjVybGRyLTBXMmVMTWlNV2VXY2w5R1FxWTdHRGhVR21FZTZ3MWlrS3JRYzhYb1FiNDlNMHo1SkRRSTZyRi1SN3BpcktIUkFLakQ0UTNmNzBVYzNaaFpuNVI3MzZKY1FGWDVQclpCc0lnQWRTX1NKLWFHUmJSM2F3QXdkbTBEc1FDamxXQzY2c2VUSERKemZMaUhhUTBn?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 18:39:34 GMT",
+          "title": "US envoy Witkoff to meet Russians, Trump presses Kyiv to settle - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkRPR0Z1dlo4V3Fhb3J5MGZpRnVlSEluZk93Q1dFWXZaZ0pZc0EtMnowX0xYQmNoQ2lYWnVOTGtreXNKQUtpcElYLVpNZFNtelpTOVV2V0FiM0dGNFdIUDhDUkQyc0RRaTdVWkRrbkJJbFpzbVlYS2FyeEVSRFRpSk9BNFB6Vkp6N2UyMDhvWXg3VDNEbm5KLUUyZEpBN25QQl9iVXdEV1VBQUpvOHN4NEhRc2E0OEFuQ2c?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 19:54:31 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Food importer files new lawsuit to block Trump's Canada tariffs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGlkdEs5VHlKSDJTdC1BVmNvVWd0MWVwMy0xQ0tMblBZTFBZYUg4NnN2Z1RZR0QwQmt4a1pzdWRCOHJUdFVmM3ZtMGQtVmEtNm9vWG5LTHUtUHdSS0pIUllwYURYOTJWcjZjck9FaHo1ZDJHbGY4cHZaUmJfRXRJSnFWZVRrZGJLRGZPWmQ2WF9jNU12bmFVV3RCZGpYbUxBcnFHeXUwSlBlZlJkTGs4?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 19:53:47 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "FAA certifies Boeing's 737 MAX 10, clearing way for deliveries - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYzBIbDI0eW5lNzFQYWJEODBXZkQ3MXpXZlJQdVY5X3Z6TGdwQjE1S0NnS0JFQ1RZUkZldjFUbjdndmpEejdtZkxtSDhHZi1VMTc2SGppcWMtTlE5U1haRlJXSEdrT2Rsc28zVGdMQzg5ZUJicW1IY3VwRTdqaC1yeEFqNDBSVkJiNS1wZjFtOUpvSi1ENlRhRncxMDI4bzZlTzJPYlFsNjZnYWx5U3JXRzd1M3ozVEo3RUtJ?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 19:41:59 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says he asked Putin to release American Stephen Hubbard - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMGhyM09wZ1l5S3NNU1JXanVibmYwN0h2S3hCNUltdDR6ZTk1T2FfdUlhd0dpOE05ZTZsNXA3eDJWTkVyRDNxc3Y0SWV1Wk1FMXMwVVVCd3FjaG1fMXplc2RVS3RKRE5EQTBQUjRocUZ1SVppRFN4c1dRY2VvN3kyQUNSeTQtdEFKTTROVjVDZlA?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 19:31:27 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T20:25:12.242Z"
+      "updatedAt": "2026-10-20T20:50:18.041Z"
     }
   ]
 }
