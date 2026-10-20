@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-20T17:33:43.616Z",
-  "lastChecked": "2026-10-20T17:33:43.616Z",
-  "lastUpdated": "2026-10-20T17:33:43.616Z",
-  "generatedAt": "2026-10-20T17:33:43.616Z",
+  "fetchedAt": "2026-10-20T17:50:16.879Z",
+  "lastChecked": "2026-10-20T17:50:16.879Z",
+  "lastUpdated": "2026-10-20T17:50:16.879Z",
+  "generatedAt": "2026-10-20T17:50:16.879Z",
   "sources": [
     {
       "name": "BBC News",
@@ -17,12 +17,6 @@
           "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
           "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 20 Oct 2026 16:59:06 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-          "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 20 Oct 2026 16:11:56 GMT",
           "source": "BBC News"
         },
         {
@@ -54,10 +48,16 @@
           "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 20 Oct 2026 13:23:32 GMT",
           "source": "BBC News"
+        },
+        {
+          "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 20 Oct 2026 12:08:06 GMT",
+          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T17:33:42.606Z"
+      "updatedAt": "2026-10-20T17:50:15.818Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T17:33:42.641Z"
+      "updatedAt": "2026-10-20T17:50:15.912Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,7 @@
         {
           "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 17:29:01 GMT",
+          "pubDate": "Tue, 20 Oct 2026 17:40:57 GMT",
           "source": "AP News"
         },
         {
@@ -148,6 +148,12 @@
           "source": "AP News"
         },
         {
+          "title": "Google Cloud outage hits UK banks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa19yZHNPSUxKdDBqd2FfTDNXbThvRC1nRWdsLWVzd2htZDhQTE1YT3BPRnFXOEZNdFZKbnJhUlUyZnFldnBIRnhkalRrVmNmazB6U2lEdjNzSGMyMURLYTFYNldpYlBTQk45VWF3UVhlVUpTbHluUHZWVDZxZzczcVRGUjNVX2ludFBOODYySGJHVF9X?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 15:57:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "UK expands military support for Saudi Arabia against Houthis with ‘defensive’ air patrols - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFpJQjVaX2pPYVMybXM3OEQ4ZzRzNEdpc2FVMldTRTVWaVFNQXZQVkZrRmdLNVpKc1RVeS1sbGIzSDJlNE12QkRMR2UxcC1PZWIwcnJXY0Z4T0hEQkxmWnBrNHpkSFZxaWgzZU5pRGM1cGJVUWRISHFraGJaUFFzRnlHYko4UlJpMmFvMVZLc1lFdw?oc=5",
           "pubDate": "Tue, 20 Oct 2026 15:56:00 GMT",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnpMVVNrczd5MGhiZWpEZDhiZG1RTXE5bFJZVUkzSmlLdkV2ZEh2TTB1QVZlelNkOHIwVl9ZQ0M3MkJwTDlxaWlTQjBIZlU5ZklMVW41bW12cjVjR1FDdDh6eTJORVFDSnRsOXZiWEhNV2ViU2pSa1NodWZKMFcwYzBlMGd1U01IcVB2ajNLVFJ1VHdIMi1SUlg2ZGNNbHFtZnJtX21ZS3ZPYV9t?oc=5",
           "pubDate": "Tue, 20 Oct 2026 15:56:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 15:28:08 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T17:33:43.183Z"
+      "updatedAt": "2026-10-20T17:50:16.413Z"
     },
     {
       "name": "Reuters",
@@ -179,15 +179,21 @@
           "source": "Reuters"
         },
         {
-          "title": "Trump drops threats against Canadian jet maker Bombardier, citing US jobs - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT205ak0wVV9EYllxdHlsNFR6Q19wSVBXMWZjN2NxdmtYd2hYUGFKNklCZjZ2ajdwY0ZURkFodW9Fa1E1ZTFuSFJQV3RRMUpmSy1DWXpCaTZidmNicTh6S2ZSS0E2X2JYTThJNG13OEdNRU9Qelk2Tmgwd3dXLTdNalNnWXlaTDFhT3lSbHY3Mmp5Tmp0Z1NFOTYwMA?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 16:40:55 GMT",
+          "title": "Israel's Ben-Gvir poised for election gains as young voters turn to far right - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRG9Wc1hmTWh4V3JfNXMxV3FjbVI1WTJ6Vy1JY1p5ZUdXa2wxbFQ3V2VyMmhFTm9NaG5LMm5NdjJNQ08zbksyODZtd1NFQS03V0x1MGtrZ3JmTGg1Z3lWc0JnNjVjZ1NUUEU1clZLS0g5Y1JqQlpvRTlheG1LQkxrTHY1TUIzQVAzcDh2dVdpMVU5ekUwbFdRTC1wWHBLTFRUY0FuMUhpdDJ0by1OTmp1akRtbTFvT3l1YjczXw?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 17:01:47 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Prudential sheds Brazil, Mexico units to CNP for $4 billion as it narrows its focus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcGJjUVpjbU03UDQ0V1dOVzdVbUVwblN5eElhUGFSQ3RoMExQYjNndkJWeGhrWklQZmNMNno1OTMzRmNocFVCZDlSVHVhS3FpRWk2MEo4T3VFMXdoRXpBc2xQR0RHYXh3cTNMQXlvRDVyMEFzbDV2VVFlcUV4eEZtOHdqaHpld3dlQ29EVUxlSnhyR21kQ2ZZQ1JteVNUS0N6VmxUdWlUNXd0dw?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 16:39:18 GMT",
+          "title": "UK police arrest pair on suspicion of helping Iranian intelligence over RAF Fairford incident - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOWtHNEd1UkNWcGVXUE1HOW96YUlFbUQtRE8xdGstc1FlMTFSR0plZjc0Z21kR3lGczUwaEprd3pUcUtvX0x1VE5Cb28xSWNOd0R2UTM1TklYUFZjZVlJalVuZjRHZ0RpZVJHYVNuREdGeHJDdU9zLTRfTnRuOHNsellBOXBhLTAwSWxMV2g2d3FTa1c1dFNUM1o2c3Q4RWo5bjNpOVN3N25MaW9KZEpHQl9KRDlydlNP?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 16:57:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump drops threats against Canadian jet maker Bombardier, citing US jobs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT205ak0wVV9EYllxdHlsNFR6Q19wSVBXMWZjN2NxdmtYd2hYUGFKNklCZjZ2ajdwY0ZURkFodW9Fa1E1ZTFuSFJQV3RRMUpmSy1DWXpCaTZidmNicTh6S2ZSS0E2X2JYTThJNG13OEdNRU9Qelk2Tmgwd3dXLTdNalNnWXlaTDFhT3lSbHY3Mmp5Tmp0Z1NFOTYwMA?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 16:40:55 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDY3aUczblRQd2RfekVBRVo0aDFzaFl5RDctZlRTekUxV21hUTQ3a19qLTlwUVBCemRjSVl6Mk1INjRrQXNtWmc4N1FmVllhbTVvVkw4TGdfR1FrOVNfOEFjcVN6VEYtNjcxR1FLT0xRdDl1THhMc05ORDRkSDUtLXhMeWFiZkZrWHJqY05IQ1VGNjRpeEtn?oc=5",
           "pubDate": "Tue, 20 Oct 2026 16:29:56 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUndSd0N2Um9RWGtEUDU1MHBGUm1LU3RkT2RpRFVDbVNzRHdNTGVGYnk1MU1pSUFCQklWMnZERzc0bEJ0VDVUWUp5N3JHV3M0eVFMaGRFOEdwcjU0WlUxOG55enFWb09Id3AySlhLenVTT0k4Zk51WUhuQ05oVlBSWmg3d3NmLTFzOVBJTHVsc3RSN21WaGdwYjNCa19RSTRGWUhIXzQ1a25mSDhxQ0JwdzNJRUZiaHdXZTREOQ?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 16:29:10 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T17:33:43.615Z"
+      "updatedAt": "2026-10-20T17:50:16.878Z"
     }
   ]
 }
