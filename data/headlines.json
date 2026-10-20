@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-20T09:50:14.617Z",
-  "lastChecked": "2026-10-20T09:50:14.617Z",
-  "lastUpdated": "2026-10-20T09:50:14.617Z",
-  "generatedAt": "2026-10-20T09:50:14.617Z",
+  "fetchedAt": "2026-10-20T10:00:19.107Z",
+  "lastChecked": "2026-10-20T10:00:19.107Z",
+  "lastUpdated": "2026-10-20T10:00:19.107Z",
+  "generatedAt": "2026-10-20T10:00:19.107Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T09:50:13.460Z"
+      "updatedAt": "2026-10-20T10:00:18.151Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Can the new federal voucher program help public schools? Democrats are torn",
+          "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
+          "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Why are some food prices up and others down? Here are the stories of 5 items",
           "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
@@ -71,12 +77,6 @@
         {
           "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
           "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
-          "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Can the new federal voucher program help public schools? Democrats are torn",
-          "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
           "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T09:50:13.755Z"
+      "updatedAt": "2026-10-20T10:00:18.235Z"
     },
     {
       "name": "AP News",
@@ -120,19 +120,19 @@
         {
           "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 09:42:55 GMT",
+          "pubDate": "Tue, 20 Oct 2026 09:53:17 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 08:57:39 GMT",
           "source": "AP News"
         },
         {
           "title": "Infantino set to take his FIFA re-election campaign to Japan to court Asian soccer federations - AP News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVTIxQ3FBUUlwY1Y3Y04xaWdwaXRyb1RsaGdya3E3VVdlTU93VEZSZDVOWmllSVlDOXoyUHA2Mmc3dEk3QnBMRzNmSmo1c19HZ1Y0MVRhdDZQSEI3Rl9fbkNmMDVmVmkxNmhWd3RGcWR0VEgyNEpDaG90MGl3bGhCTUhXdVJRb3pvQUxnM25B?oc=5",
           "pubDate": "Tue, 20 Oct 2026 08:16:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 07:36:38 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T09:50:14.200Z"
+      "updatedAt": "2026-10-20T10:00:18.689Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
           "pubDate": "Tue, 20 Oct 2026 09:19:15 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Google Cloud services experience outage in Europe - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0VTdUFWc1FhZzJaWWZDMkN3dkl0RzdnMU84OHNOS1g0eDdGZ0RNWDVJcVd1MXZzMHU2Unp0QXBXN0tvc3ZZcW1iRlg1Y1h4TFl3Yi1oM2pWRW5KLUNTT0M1NU1YMGdrUjY2MkZTNW82U2FOX0VYRkRVaTlmckJ0ZElGcjJYNzlhSnVCQzA3X0tiVTZ2Z092U2haTQ?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 09:13:43 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Malaysia de-registers main opposition bloc as elections loom - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXJhdklRSEUwTWdWSkF3UjlTWC0wZks1NWJnVk00QjlfaGw0b0U4WjhRZXpvdERDTVVYWjVKTEE1eEh1enV2VTF1aUI5UzE2ZHVTUVJCU091Q1hoSWdOVGFuSW9YaGZtTUdkYXluNXQ1TzQyZ015T3pQMmNjMmh3SXpQeVA3S1RoSjhxdWp5UThzLTF3SVZfZUVqLWx2NGl5am5kWHdMSnFEcl82aHF6dWhB?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 06:49:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Hormuz could be 'redundant' in five years, replaced by new routes, HSBC CEO says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkVTcjIwVzllN1R2X0UtNUdya0l1Y1pNWnc4eTItVF9lSVphdC1tMVRHZXdxbEV5dFZ2RjBDZm51Y1NVbU54Q0pHaGpuVTVha1F4ajg2NEY1Y3U1dnZxYTBJVjlTazNObkJnZF94dHRKTkRrazlEMzBSeklRMmlESWNwUk1jTC00YjJhRXFQYXUzMzVjTnVxTVI5V1VfRkNOOENGaHdkWEFZOG9MY0ZLVUU1M2Zib00xc3BHQkFHWUh4ZWNMZUNpcEtR?oc=5",
           "pubDate": "Tue, 20 Oct 2026 06:14:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "The fake commute: How China's unemployed save face - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOGNrUFg3d1QxV2UtNVFtdjY3SUhSdnF3Q29tbEljbmZqUlFIeFB3QmowcEMtbWNWTHFYRXBKLWQwSk1PYmJrbGxiTFZ1c004VTF4SnJLZ1J2MGdwclZxQzNobmdjR2Q1RHE1SVpDWmllRzlzNXlNWmZmalBQN21nRHQtN2dCTXRxNGNKeUZja0d1Z3g4U3JLZjFaa1p6X2VYUFgzc2dB?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 06:05:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil majors face spending test from Iran war windfall cash - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemV5ZWpZWkdhUzlRTmJsLXMyNVFMa0EzLTYxSGJubDVlSkVWMGVuckZDRVZOOS05eGc1aHlSOGJva3A5d2R2SENNNVBNeTM5eXNEeWJWTDlDbzBUdlZTTDdFZDRlT3dkVWtSWmJJekhvc3BSQk5KbnlTcjR2Q1otUEFlS0JYSUVZclR1d0NGRzJJaHBXbFdBS1RPZWZqOVNXemZtVmlRQQ?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 06:04:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T09:50:14.617Z"
+      "updatedAt": "2026-10-20T10:00:19.106Z"
     }
   ]
 }
