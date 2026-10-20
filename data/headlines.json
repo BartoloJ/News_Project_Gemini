@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-20T04:25:14.106Z",
-  "lastChecked": "2026-10-20T04:25:14.106Z",
-  "lastUpdated": "2026-10-20T04:25:14.106Z",
-  "generatedAt": "2026-10-20T04:25:14.106Z",
+  "fetchedAt": "2026-10-20T04:50:25.688Z",
+  "lastChecked": "2026-10-20T04:50:25.688Z",
+  "lastUpdated": "2026-10-20T04:50:25.688Z",
+  "generatedAt": "2026-10-20T04:50:25.688Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T04:25:13.036Z"
+      "updatedAt": "2026-10-20T04:50:13.763Z"
     },
     {
       "name": "NPR",
@@ -93,14 +93,14 @@
           "source": "NPR"
         },
         {
-          "title": "The real reason it's going to take a while to know who won in some midterm races",
-          "link": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
+          "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+          "link": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
           "pubDate": "Mon, 19 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
-          "link": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
+          "title": "The real reason it's going to take a while to know who won in some midterm races",
+          "link": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
           "pubDate": "Mon, 19 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T04:25:13.214Z"
+      "updatedAt": "2026-10-20T04:50:13.796Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-20T04:25:13.669Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-20T04:25:14.106Z"
     }
   ]
