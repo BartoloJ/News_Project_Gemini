@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-20T10:25:13.855Z",
-  "lastChecked": "2026-10-20T10:25:13.855Z",
-  "lastUpdated": "2026-10-20T10:25:13.855Z",
-  "generatedAt": "2026-10-20T10:25:13.855Z",
+  "fetchedAt": "2026-10-20T10:50:19.389Z",
+  "lastChecked": "2026-10-20T10:50:19.389Z",
+  "lastUpdated": "2026-10-20T10:50:19.389Z",
+  "generatedAt": "2026-10-20T10:50:19.389Z",
   "sources": [
     {
       "name": "BBC News",
@@ -11,6 +11,12 @@
           "title": "Suspect arrested after historic town hall set alight during disorder - French media",
           "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 20 Oct 2026 08:58:26 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Why Israeli Gen Z voters are drawn to the far right",
+          "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 20 Oct 2026 08:53:06 GMT",
           "source": "BBC News"
         },
         {
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 20 Oct 2026 00:02:32 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
-          "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 19 Oct 2026 23:30:03 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T10:25:12.737Z"
+      "updatedAt": "2026-10-20T10:50:17.564Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "What if an AI bubble bursts — and that accelerates AI job losses?",
+          "link": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+          "pubDate": "Tue, 20 Oct 2026 06:30:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Can the new federal voucher program help public schools? Democrats are torn",
           "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/19/nx-s1-6007908/election-tensions-escalate-in-california-as-doj-charges-28-people-with-voting-crimes",
           "pubDate": "Mon, 19 Oct 2026 18:10:06 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
-          "link": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal",
-          "pubDate": "Mon, 19 Oct 2026 17:56:37 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T10:25:12.959Z"
+      "updatedAt": "2026-10-20T10:50:18.335Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,19 @@
         {
           "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 10:17:05 GMT",
+          "pubDate": "Tue, 20 Oct 2026 10:46:20 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 08:57:39 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "From France to Albania, social unrest is setting Europe’s streets ablaze - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSlZieGhTM2g4aU5Rc0pvNExoczBPVzN1NUdCZEJ1SHhpVjVlZWhtcHowVDlMamNpT0FkRVZEZnQ2WTNKQzh1cHdDX3lDS0dEd3FHMHcxd3BDRmFsZV9wMU5uc3ZDRWJNb0ZhWWhHS1ItcVVYbnJMRHZvdC1DYVd1QlpNZ1Bsc0l0Mm5jRmppN3N6UDd0OTZ4dmVGdjJiYTh6RXNoQ1FkT3BPUV9INUl2dmt1eUtIaE9KNHVhcG5yNTFjMEJHNkR5VEhB?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 08:18:00 GMT",
           "source": "AP News"
         },
         {
@@ -136,15 +148,15 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 07:36:38 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "South Korea to withdraw some Kyiv embassy staff as row over POW transfer deepens - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVlB6aGswUExUU1YyOWU1a0Y1WW05RGYtcXF5LTRVaEZfeldlQk92NjZOaFhXWUV2UUo3LVRNSDFxem1ZSTFtbE9YOEdJekJ0S2FzcjZONE5saXRlX2pMUTBDY2lhSjFGTE12dFFlb2p3bkk0dmtveE03c3VIb2drY0duS1R4SXRnNlVqMGo1RkFnWVBIZDVZaQ?oc=5",
           "pubDate": "Tue, 20 Oct 2026 07:34:14 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Saudi Arabia - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12VXhMYm1uTGxmeUo1WHZNRUJHb1MzQW1CZ1ktVEV3V29saXhhaHVMZnMwcE1OWHhCSVQ0b1ktQTZ6WUhpYUFQNnptWQ?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 07:00:43 GMT",
           "source": "AP News"
         },
         {
@@ -152,36 +164,30 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFFOVnVHa0tBUGhjMHRSUTlkTlQ4clhTSmVkNmpnTXFFRVpsZFprTEplajRtX1hmYmZtVWRLRjdZZXB6ZzVseWtHeG51Q1Rxb21YTUZmOUh3aGpBOGQzYWlpRGhiVXJWZjhwTkJ4STFfbWxZWnRpN0t2a3hxQzNsN0pKMEVsZnBkV085TWNvRkV2VlR2azRaMTB6OTM1ZHlhWGZEYzV3?oc=5",
           "pubDate": "Tue, 20 Oct 2026 06:13:33 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Díaz, Caminero and Peralta lead Rays to 7-3 win over Guardians and a trip to the World Series - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQmhPQUtnUktuUzRYUmllNGxLS0RfczNwWHdQbG0xVzRrYXZNRXZvd3VDd3d1ZkRNU2VoWWdZQmpQOHNMOGxOSWJhY0lBeXpfY2QxSlo2azFsMWNFRWZCNlBENHNxalZVd1BrZlRlQTVidmFEVlRDOXAxNEtWb2o0MXpmVHc2NWFIX190VGVySjloQ19pQjdn?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 05:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Gangs in Haiti target foreign troops in the biggest attack since a new force began operations - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2Z4eF9VQkszcjYzUUF1S2tZYWdRcGpuWGZjLUY0ejVwMGRYdlJWUkMyVmxzdmEtdGhnaC0zZHlWTENFeFdsbm9YLVFqVVcxd2dPMmpzS1FiNU9fYy1FS2ZDSjNIdnJzcXNSX3pCbTVhZ1BMRGZ5UUtUVnF3SnhMdFBHVWw1UUdEd1hNQ3J2WVVYQWNQSDFzazNDTUo?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 05:18:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T10:25:13.471Z"
+      "updatedAt": "2026-10-20T10:50:18.974Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 09:19:15 GMT",
+          "title": "Google Cloud services face outage in London, Revolut services down too - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0VTdUFWc1FhZzJaWWZDMkN3dkl0RzdnMU84OHNOS1g0eDdGZ0RNWDVJcVd1MXZzMHU2Unp0QXBXN0tvc3ZZcW1iRlg1Y1h4TFl3Yi1oM2pWRW5KLUNTT0M1NU1YMGdrUjY2MkZTNW82U2FOX0VYRkRVaTlmckJ0ZElGcjJYNzlhSnVCQzA3X0tiVTZ2Z092U2haTQ?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 10:32:06 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Google Cloud services experience outage in Europe - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0VTdUFWc1FhZzJaWWZDMkN3dkl0RzdnMU84OHNOS1g0eDdGZ0RNWDVJcVd1MXZzMHU2Unp0QXBXN0tvc3ZZcW1iRlg1Y1h4TFl3Yi1oM2pWRW5KLUNTT0M1NU1YMGdrUjY2MkZTNW82U2FOX0VYRkRVaTlmckJ0ZElGcjJYNzlhSnVCQzA3X0tiVTZ2Z092U2haTQ?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 09:13:43 GMT",
+          "title": "Amazon to invest over €16 billion in Germany next year - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX1ljLXJEWXRnVXhfTW9Qb0FSd1VITXZIemhtY2U1amxEQ09zMnJHQzVMQzFSc3RSNjRZS0puaE1FWW00QVF3NTcyZmJYQVVQMjlHYnFfSWN0R3hFMVBlTFBaVm9QblJNTmxJcVlTZ3ZaZjZTMW1fWDVsc2RFREl1cEpsaEhYZkVfd01KSUFVcGc2TEhSdzJLM2x0RzZwUkU3V3NDV0RhczFHR0R0?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 09:41:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 09:19:15 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "Asian refiners use smaller tankers, buy delivered crude as freight rates soar - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2ZqUG1VeDQwZ1U1Vmc2NDFHWU1KUEdiMmhXVFhjX0FleHIwdnJyRHliLTJWb0FaWDAwbFBMaEdMdHdfemljUEdFX3lpcUdYSmdKcjRUZHhiNjNTMUhobzNFWkpTSEhtZUN1RUxMeHY5b0RJaFJuc2wwRDFJT3hkYUxLS1BycXZMeFVWVExXcGpqMUxVdE1qWUxyRVN1emZ3UGhONmZ1NWJYVWUyMmJRLUZSN29Ib0J5WmNsQ2Vrb1VmOEk?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 07:09:44 GMT",
+          "title": "Most Gulf bourses retreat after Houthis claim attacks on Saudi energy, airport sites - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcXpWQlZUSjN2cnJReUppaUEyRldXVWpqOVNvVFpMZ0xMc09WanRpdEhEeE9iZmpMUnIyWmlGeVdNVTczOWIxYUd5VnZ2Mk80VGFheGlPVTdyM1NWS1pCdmhHekh1ZlhKbHdfNnRObnQyNVhycjFtdGQ5RmgydVhHRkthWDlBYWhkQnlsOUlsV0wzNzg2bGZqWGNVcURLMVBpNFZRaWZ6b2NBaGNCMGpuLWFndTRqd21mZzNUSVJ0Q3gzUFlnWGdLN0xQUUdOcHM?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 08:16:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Malaysia de-registers main opposition bloc as elections loom - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXJhdklRSEUwTWdWSkF3UjlTWC0wZks1NWJnVk00QjlfaGw0b0U4WjhRZXpvdERDTVVYWjVKTEE1eEh1enV2VTF1aUI5UzE2ZHVTUVJCU091Q1hoSWdOVGFuSW9YaGZtTUdkYXluNXQ1TzQyZ015T3pQMmNjMmh3SXpQeVA3S1RoSjhxdWp5UThzLTF3SVZfZUVqLWx2NGl5am5kWHdMSnFEcl82aHF6dWhB?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 06:49:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hormuz could be 'redundant' in five years, replaced by new routes, HSBC CEO says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkVTcjIwVzllN1R2X0UtNUdya0l1Y1pNWnc4eTItVF9lSVphdC1tMVRHZXdxbEV5dFZ2RjBDZm51Y1NVbU54Q0pHaGpuVTVha1F4ajg2NEY1Y3U1dnZxYTBJVjlTazNObkJnZF94dHRKTkRrazlEMzBSeklRMmlESWNwUk1jTC00YjJhRXFQYXUzMzVjTnVxTVI5V1VfRkNOOENGaHdkWEFZOG9MY0ZLVUU1M2Zib00xc3BHQkFHWUh4ZWNMZUNpcEtR?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 06:14:00 GMT",
+          "title": "AstraZeneca partners with Oracle for AI-driven clinical trials - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWXlaZTY2Vmg3T3c4NVV4STEtUS05REdfNG5IU0tsczFpSHJpOHlWbExOU2dQQmxDSkdBOFh2aFVLMmdISEFjeVFYdXBOX0w0Z0ZRMVEyYTFkcC1ybTVUOVFwZElvT29kaS1DVlFBRVc4c21Yd0hFUEt5TlhpT1ZsTXA0OVpINmVsZ0lUZmt2bEw3ZnF0RFVYZUxKMExPNEJ3RDFodUhlXzROalNfOTAyRQ?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 07:37:51 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T10:25:13.855Z"
+      "updatedAt": "2026-10-20T10:50:19.389Z"
     }
   ]
 }
