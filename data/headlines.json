@@ -1,16 +1,28 @@
 {
-  "fetchedAt": "2026-10-20T05:00:17.919Z",
-  "lastChecked": "2026-10-20T05:00:17.919Z",
-  "lastUpdated": "2026-10-20T05:00:17.919Z",
-  "generatedAt": "2026-10-20T05:00:17.919Z",
+  "fetchedAt": "2026-10-20T05:25:12.588Z",
+  "lastChecked": "2026-10-20T05:25:12.588Z",
+  "lastUpdated": "2026-10-20T05:25:12.588Z",
+  "generatedAt": "2026-10-20T05:25:12.588Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "How is the US economy really doing under President Trump?",
+          "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 20 Oct 2026 05:00:45 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
           "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 20 Oct 2026 02:54:05 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Seventh day of violent clashes between Albanian protesters and police",
+          "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 20 Oct 2026 02:45:05 GMT",
           "source": "BBC News"
         },
         {
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 19 Oct 2026 23:04:08 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Clean up begins after French riots but police remain",
-          "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 19 Oct 2026 21:30:08 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-          "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 19 Oct 2026 21:14:53 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T05:00:16.876Z"
+      "updatedAt": "2026-10-20T05:25:11.439Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T05:00:17.034Z"
+      "updatedAt": "2026-10-20T05:25:11.701Z"
     },
     {
       "name": "AP News",
@@ -120,13 +120,31 @@
         {
           "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 04:55:31 GMT",
+          "pubDate": "Tue, 20 Oct 2026 05:18:08 GMT",
           "source": "AP News"
         },
         {
           "title": "Paris police issue overnight curfew in 2 areas of French capital to try to prevent further disorder - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTgxVjJGeG9KQlNaNkVXRVV2RzFVdDlSMUJMdjNVbTQ5MnpHZkMtOEdTM0JONUxrRldZU1Jna2l3WkZrM2wxM2VsazJjSVdVX1QxZm1kU2JTNTNwOXFndFdMYXRscEJFYnFQMTZTWWFxUlRod1pUR2dBUThwZllkb2lNTThrZzk4YmtNYWJuaVdPd00?oc=5",
           "pubDate": "Tue, 20 Oct 2026 04:36:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 04:35:34 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbThaWjFtd3FZVjVKb2hIcEpITUZlclloelM2TE51a094eTlCQlF4RDllSzM5bjNmejZuNGxZUnVMNjhuMFVEXzFITkxNblNQaUV2M3F6NmJOWnE2NWlZcUVYNU11dEFmS0l1LTFjUi1sR09ydHVsY0YyZkxlamk2OHhOTEo5QURpNGpr?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 04:20:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Parents of Bend, Oregon, shooting victim hire attorneys to investigate school plans and gun purchase - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHpXeUNIUVUyWncxa08zOW5sc3FBWVpwcmwxMDZwMWtlc0dLV2J4UnAzdFdFOG04SlRvYm1fdGpKLUJSc2lWVHdfeHIyNWktSEdFeUMzc3Atb0I2TWw2cmpyLVFyc1pPODdGdEExWDNteklrZndSbDlQYVk0VEFfdmROU093b0ZQa0czUEdDdHVzZW1DazRIQ2lHaVBzT2cySGNnUWV4TQ?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 03:59:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,46 +160,28 @@
           "source": "AP News"
         },
         {
-          "title": "Brewers-Rays will produce a first-time champion, and maybe the first all-indoor World Series - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGd2c2VleXhvVWE4V1VJVUV0QVlmMjRtOU5yLTdRTnpuSEk2cDFVTlVVMExDZjlRdDdTcjV1cWRncWZ6SGpmd2F3MGVJd0JIR0JKSzQ3UnJzUWFaRWhjTlVvWVllWThRMVJTQ3E1QUppN0tTMGZTZnlRaW9VU29JS19zb0tIYUgyZENFUHZn?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 03:10:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "North Korea threatens to restart propaganda broadcasts and deploy more weapons at border with South - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUDZOUW9aSXNRTTUtWWl0RVJPWWVENkVBUzBVYkV1QVFaNWhNNU12Vk4yNFRLVW9Md18tYmlNblpLUmJqY2xXVUxmaWxCRFFPczlGdHZKZzc5RzdsUGdpS2Y5QnVZVFhRU2gtbklya2pCQkE3N2s3T3prR3dMZ2k1enNhMDhkUENNaWQ3OFFIY3kxaUlBaGlNcFBuc0lQamViVVp0eEhWTmEtVVVNNVBVMA?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 02:04:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump rallies in Kansas as rising farm costs fuel Republican concerns about voter turnout - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa0ZvV294YXVvajRQZ25PRG4yd09oczduQUNDTkVWVXY5dzZoWXBsZS1nbDBWNkYwNHJzajVFdzliYXZuMXhiMDlYNEFSVElNS3NEVXpIMGVBUGp4b0FXLUJEQUdoOFJpdUVuSnE0RVF2Sll3TVBaSlFCcmN0MzN0eW9qR0RKalNEUXkzVUpVQ2IyclhfVF81cS1QdTNON2ZlRlpleGdtRV9YSFozSUNnRUplOURlNmhN?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 01:50:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Hegseth makes unannounced trip and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVpZRGhZT3Y1emJqaU5GbHdkLXM2ckdNLU5ZQ0N6SmU0VVQydW4wMndGb2V1ZzMzRHViTVBtWlNlN0kxclFURFFobVQ2TDFySldKNGF5TktyT3ZpLU54Q1pUMk9qYjM2dWVweW9vdTFvV2NGQ0ZkR00zMmdXWkxlMkZ1ZE5ReFhjM0wybG9mT0dfMGtPZTczaGJINEp5LXJrbEFDWEpjd2h5OHpHdmZFNlk2UUpxQnc?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 01:39:00 GMT",
+          "title": "Angel Reese has 30 points, 16 rebounds as Dream beat Valkyries 79-65 to even WNBA Finals at 1-1 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTU02U05GZzQ4MWE4OWFSRk1sa1VTSjYySE9Va003M1V2ak1CYThYSUxCelFlbGhVR3V3OTVnNGxBSjgzbS1aQ01NcWI4VUJHRmtBblFxVEwtbUgzN0tLdm1kazY3VjMyLW5nOUhVU1NsYXZaeWg2S3RUcHRHOEwyWlhPdDhnMk1jQ0pMX1dJZjZOQ2JVVmd6MXRlaVRnZmkxMFE?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 03:36:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T05:00:17.500Z"
+      "updatedAt": "2026-10-20T05:25:12.197Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Seoul vows 'resolute punishment' after North Korea threatens new border measures - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZWdtaW1Yc0NpcFhkcEVtMndXS1F4bnlXUUJaSzRLQ3B2ZE5GbjdxMV9IYzB3U1BhMk5LdGtDUlFhVTdDeW9iNXZ3RGp2Ums5dUVlZTFPeDdzTU96WjI3MzlIcWtSTzFQRFNqOU0xMVdUWGJObzJLQXhNTVlXS29lcWdhX3BTWjJvRm5PblVZMDV1b3FwN3YtXzJQdS1mZGlOY0xPd2pFZE1nQ1lLd242amRZcTV1dVRJbjJIUjA5U3VSem5mNUZCeFRDcVd0QQ?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 02:53:00 GMT",
+          "title": "Every look from the Victoria's Secret Fashion Show - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2lPVEdrVzBfenM5SXI3MVNXTDdLQ1R5Si12OHFWQzF1TUtJaUZYdjl6SmZjSkdZeS1FSWV2a2JzeXc5TEFGdkliY09WTFE2SWYwRUQwVUJaWWsxV2dSNGZwYWlOMFMyd0kzaTZoN0xJZmJTRm9NUjdmdmhPeG9sYlJ5d05PVDREcWlFbF9YZ0U?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 05:23:49 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Every look from the Victoria's Secret Fashion Show - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2lPVEdrVzBfenM5SXI3MVNXTDdLQ1R5Si12OHFWQzF1TUtJaUZYdjl6SmZjSkdZeS1FSWV2a2JzeXc5TEFGdkliY09WTFE2SWYwRUQwVUJaWWsxV2dSNGZwYWlOMFMyd0kzaTZoN0xJZmJTRm9NUjdmdmhPeG9sYlJ5d05PVDREcWlFbF9YZ0U?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 02:21:34 GMT",
+          "title": "Seoul vows 'resolute punishment' after North Korea threatens new border measures - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZWdtaW1Yc0NpcFhkcEVtMndXS1F4bnlXUUJaSzRLQ3B2ZE5GbjdxMV9IYzB3U1BhMk5LdGtDUlFhVTdDeW9iNXZ3RGp2Ums5dUVlZTFPeDdzTU96WjI3MzlIcWtSTzFQRFNqOU0xMVdUWGJObzJLQXhNTVlXS29lcWdhX3BTWjJvRm5PblVZMDV1b3FwN3YtXzJQdS1mZGlOY0xPd2pFZE1nQ1lLd242amRZcTV1dVRJbjJIUjA5U3VSem5mNUZCeFRDcVd0QQ?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 02:53:00 GMT",
           "source": "Reuters"
         },
         {
@@ -191,7 +191,7 @@
           "source": "Reuters"
         },
         {
-          "title": "Asian shares tumble, oil rises as markets await AI sector results - Reuters",
+          "title": "Shares stumble, oil rises as investors await AI sector earnings - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdteV9meHVjc2dvbmd1WjNPa1FHR2lwTFlEcmJPWE5zZnhHSFNjQndCeHptVW1NaEpsbms3QS1oSHRiTmZyUVp2ZVR0SlMwT1kxVnM2UFdyenVSblJHVW4ySjA3aTFUcGxvbV9iaHZZMzJVZTRQV1ZtM3BZMVd4RHFsaw?oc=5",
           "pubDate": "Tue, 20 Oct 2026 02:09:00 GMT",
           "source": "Reuters"
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-20T05:00:17.919Z"
+      "updatedAt": "2026-10-20T05:25:12.588Z"
     }
   ]
 }
