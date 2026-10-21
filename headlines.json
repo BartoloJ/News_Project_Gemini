@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-21T06:00:18.617Z",
-  "lastChecked": "2026-10-21T06:00:18.617Z",
-  "lastUpdated": "2026-10-21T06:00:18.617Z",
-  "generatedAt": "2026-10-21T06:00:18.617Z",
+  "fetchedAt": "2026-10-21T06:25:13.570Z",
+  "lastChecked": "2026-10-21T06:25:13.570Z",
+  "lastUpdated": "2026-10-21T06:25:13.570Z",
+  "generatedAt": "2026-10-21T06:25:13.570Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T06:00:17.497Z"
+      "updatedAt": "2026-10-21T06:25:12.301Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "LeBron James talks smack with Knicks fans in victorious 76ers debut",
+          "link": "https://www.npr.org/2026/10/21/nx-s1-6010350/lebron-knicks-76ers",
+          "pubDate": "Wed, 21 Oct 2026 02:07:16 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service",
+          "link": "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10",
+          "pubDate": "Wed, 21 Oct 2026 02:05:18 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
           "link": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
@@ -97,36 +109,30 @@
           "link": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization",
           "pubDate": "Tue, 20 Oct 2026 12:27:01 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
-          "link": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
-          "pubDate": "Tue, 20 Oct 2026 07:04:49 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "What if an AI bubble bursts — and that accelerates AI job losses?",
-          "link": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
-          "pubDate": "Tue, 20 Oct 2026 06:30:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T06:00:17.672Z"
+      "updatedAt": "2026-10-21T06:25:12.634Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "NBA champion Knicks celebrate 2 titles on a banner night in Madison Square Garden - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNW5nZzFQcERSa3ZfeTNmdWY4WWVib0lQanBob3Q3NzM3VWJzZ294MHU3clNvZ3E1YXFVZ1Zmem8yaFhtV295MDZ3bklQVFdiRkhWNG84b1ZXaE84cXJodkxMN01leGlSZ050bTZMRUt4R2RmaGVWZlVlSkJUS1NOVmkzS0ZNM2RkdTVsTGFkQnQ0cGNmQ1Rrc0hMV3c?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 03:19:00 GMT",
+          "title": "FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckdWX2JkZWpxZFMyak5XSnVpeGN2VUlPMldvNkFJaWUycFI4RlljLU5ZazNRNy1DYWFpdHYxRUlndU1PQ3RCRFRwUnlEdms1ZVc3dW9pWjMxQVNfTm9JbzE3V0M2SnJDV29yZ1p3UUlGVVlZajV3T0xwVExxX2hLRzZ0VXFaczlVdExkaERPZHlDQWswUUFhd0t5NDBuQQ?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 05:34:00 GMT",
           "source": "AP News"
         },
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 02:54:46 GMT",
+          "pubDate": "Wed, 21 Oct 2026 04:24:12 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NBA champion Knicks celebrate 2 titles on a banner night in Madison Square Garden - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNW5nZzFQcERSa3ZfeTNmdWY4WWVib0lQanBob3Q3NzM3VWJzZ294MHU3clNvZ3E1YXFVZ1Zmem8yaFhtV295MDZ3bklQVFdiRkhWNG84b1ZXaE84cXJodkxMN01leGlSZ050bTZMRUt4R2RmaGVWZlVlSkJUS1NOVmkzS0ZNM2RkdTVsTGFkQnQ0cGNmQ1Rrc0hMV3c?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 03:19:00 GMT",
           "source": "AP News"
         },
         {
@@ -154,12 +160,6 @@
           "source": "AP News"
         },
         {
-          "title": "FAA clears the way for airlines to put Boeing’s long-delayed 737 Max 10 into service - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWh5TEc3UFM1REZCazFzeGJpZTFXblJEdE9wWWFrU2RzbnFKVnRYQTV6MS10V21tVElVaW9jLTlMc3d2YnRSU0drVlR0RWxvam1SUUdHWGRaMG01OUZaM2RFd2lsZmFnc2NLVHBwbm5KOVhSa3ZiZjJfd2NycXRZdFF4SExsWXFlcGQ2NUdCMTIzMmlndlpISHd2RElFVk1nelNV?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 23:44:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Florida puts 77-year-old man to death for a deputy’s killing in its 18th execution this year - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa0dWcWFpdldmcjVmMEJrVjI4YldCbTJ3TS1YNG9uMm11Vm9MTmdSd1lqZnotdGNjX1l3cUlzRm5hU2ptbU1Cb3hmMlZmWGE0MHRpazdHQllQelR5ZWFYWVNOQ19xRUw5dmozSDdTWmcxSERjNkJKOUZWRXVVc3Fobl9KcnJJSzUxbHNuTVF2VXVFSHpKOXFF?oc=5",
           "pubDate": "Tue, 20 Oct 2026 23:33:00 GMT",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T06:00:18.151Z"
+      "updatedAt": "2026-10-21T06:25:13.232Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "EXCLUSIVE: Samsung, SK Hynix upgrading China plants to make more advanced chips, people say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmZxYjhQQjhXcUZzRnh3dHJIMWQzWUxyNDFMLTM1b1R3d3NFMEFycFpkQkx5NW5sQjBNdVJldDNhakRYcUMxRERYRnR3ZWdoVDBZUmljM2VENTdmRzFVdVY4eUMxTDk3VmtCWk1jQ1dvZmY0cnVCQ1FpTl9uZ3lrWWU4MGp0aDRsbG9jNTBvUDBadXpoZVAwOUFYRUlITXVUMUMxakpMVGc3QXJmQjJxeWZoWWJlTHNDSHNmZGprUVY?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 04:49:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Morning Bid: Tesla may get rocket boosters for real this time - Reuters",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sck41bW5HT3otVjRUNXlwN0FZbHZSUXhxeklEdG1Dc1VHVEhPYTltVlZYbFIwWko2S1lQS0c2eE1MWUpkR3RoY3pnRklISm50WHBCUHVSVk45SnY0S0dTaXJ6WXVjcDZ5MFk1a1RMNTJJS3pIZHpTUGFyMXc4aTA?oc=5",
@@ -182,6 +188,12 @@
           "title": "Bangladesh yet to receive Saudi response on execution of two nationals - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0h1UHUxMTlhdjg5T3hlQTRrLWhueTVDRmtCWmt6TzF2U2Jib3RweXNUZmQwVEZKQkN4RnR4ejYxcnYxR0xSZ3ZYaU9Cb2d4VlhrQlU1OWhmRlBUZWwxNlB6THVwWHdKaUZsS1dBcUxsR2E2SmZvdktIdzVnSW14N1pIQk00VC16Y3l3dHN4SGh3c19ZVFMyYkZsQ3NQTEN1ZWxjVFVqWFlRV1NCLXhLX0ZBUEMxS0U?oc=5",
           "pubDate": "Wed, 21 Oct 2026 04:20:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Japan envoy Sasakawa meets Myanmar's Min Aung Hlaing, state media says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYkd3TFJpcjVVOHhyNGhGODVnZzZtNlc5VEFLcVIyMFEyVzY2aGhSOHVKUy1nTTZ0ektqc0ZmN2V6QzZPTjR4SFhTVk9jNWVMY3NhYTdRMjVfZHBGSUNTb0g4ZGN4NWZNMUFNN0oxSm1ZTEhEcEpsSlJpX1M1a1NVYWc3elAwZ1RLcDZpZ3pSZlFlOExxdFUwYzVyMHU4ZVUwc01NZmtiekd6OXBVUmJkTm1vWGd2YUhqaG5XdzlORlA?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 04:14:00 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNVNjS1MtbF9RQzltYk5VeXRfRVFQUkxBeFZyQjZlaWxDeGpQSTlQUGpZNnE3MHRfN1VQUkp0Rl9HcjZDSkZ6OTRIQlhqLUZNNnVNRXJFaUNOREY3ZUFOcDhqT0NnWGtySjZ1UVpDd1hhSVB5LUhYZlF3cXhfRm0tOEpiOG9zRzJWcnFNQWNRZklfRmlESDRMT2ZVdEgyTnAwSUJLM1hDNHhPWHU2X01rSXlqSjZfc1ptd0dIcVUwRDdDTnZfN2hQWDd3?oc=5",
           "pubDate": "Wed, 21 Oct 2026 03:15:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "OpenAI says its AI agents weakened internal monitoring system - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2hxMmVsMXJ3Qzg3cDFjTWc4d2s1eTlxMUpUd3FtZVhzX3p6UEJyaGFfdF9pazEzeXJmRVFoRnMxaWZMTThxaUMzLTdOejlXc1dmZl9LVE1PMTZqWW9YdmxTM1FfYlJxXzBrWlFmZ1lQRjFmUjFEQzJJZW1OMG1oeUl5T3FIRlBsTU5KanZ4b3lFeVh3dDFqb3NJU1hlcWw0VUk1bVM3YVdyc0paOXd2OHpEQXQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 02:37:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "A possible SpaceX-Tesla merger? Here's what people are saying - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaWRxNkpTVm40U0R4RURyQVBpbXZKNVNDZU9OV3UtRUZNaTJRMWRFd00tVHBXSzhWdzZvbG12U3htRlBhZHMxQ1M2UFp5Q2U1UXdJaF9zS1BLLVFjTG50bXVfWVdacEFNNEtVNkhDdHJnVW4tRlh3YzdVeFowR3A0eTdoZ2pXdmN6MHhTNE13OF9IUWNid19HdVFlcV9sN1NvVkhjZmdxaVdMOUxta3NPREd6Zw?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 02:27:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T06:00:18.617Z"
+      "updatedAt": "2026-10-21T06:25:13.570Z"
     }
   ]
 }
