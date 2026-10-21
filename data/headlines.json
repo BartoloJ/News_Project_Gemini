@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-21T11:00:19.356Z",
-  "lastChecked": "2026-10-21T11:00:19.356Z",
-  "lastUpdated": "2026-10-21T11:00:19.356Z",
-  "generatedAt": "2026-10-21T11:00:19.356Z",
+  "fetchedAt": "2026-10-21T11:25:16.324Z",
+  "lastChecked": "2026-10-21T11:25:16.324Z",
+  "lastUpdated": "2026-10-21T11:25:16.324Z",
+  "generatedAt": "2026-10-21T11:25:16.324Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T11:00:19.178Z"
+      "updatedAt": "2026-10-21T11:25:15.219Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T11:00:19.285Z"
+      "updatedAt": "2026-10-21T11:25:15.278Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "AP Exclusive: Hungary’s Magyar vows accountability for Orbán era while holding firm on migration - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeTk4dEVDd1Y1enN6MDktbXMyOHZLbVNZYlU2OHl5SDRKb09DcEZvdWZ2bWRLWHlEV0VlaVNtdGFaMVh5X1NKTk1QY1Z1UkQ1SjQwaTJBRnZUazFkRGNfMEl4QU9tZVpVZFZDR1lPYk9lRFZuZHhndnpkTFNpVktrNDVJYmhsTVctVWZSSHAxQ2taRzkxaVNmaDlRNThQVXJoeEs5QlhZQ3pycmg4aUNCVGUwOV9qT0hHMGlYMXNkTHo?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 10:35:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Russia releases detained American Stephen Hubbard during a visit by Trump administration envoy - AP News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2pKWm5lTVpmeW5RRHktWU5US2dTSS1fTDhuVjhVUjYyd3I5b3h2QzVfd0pDcm9WM1BFaFpQZENlZVMtdEoyNUQwTEJwTVhyckl0bVBYYzIxcVl1UW5FSzRUVXdIWUV3a214QnVhb1FJSkNjTFFEU0lfTGhtVTdWQ1RDVFpFQmhneWk1UVFBRHlHX3lmY0xTYU5HOTFYdmxYd09meDFTNkg4cmJ2Tlh6UnRFZGoxRlE?oc=5",
@@ -142,40 +148,58 @@
           "source": "AP News"
         },
         {
+          "title": "North Korean leader’s sister inspects border fortifications as tensions rise with the South - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWdMcXlGTHpkM1pJUzJvYUpMWVFvV1d1T2lzUC1BdmJKR0l3alFvdzhWVDdHczJOalN3Z3l2SkV2bm1jb0JySlc0ZWtfWEU2azZwTXZXRE5WU1BLVEZjQVhFSV91ZEhuN01GMktOTVYyMUZtWU11UDVtZDVGS054aHV5Yk9KNEhKOTZBdVlXUWpHeXlDdXVDT2xKLUowVmo4UHJiMA?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 08:29:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "The history behind France’s proud tradition of protests - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOTJ2UlZLX3F6OVNISDJLYUZNV2hJZG9zZHNYcVRqNHNCeEFjQ0ZBS1BIOW9GZWhaSmRLTzJBWVZBRkktTUJwc0pkRnBscW5TOGR4U2Nxd3BNQkt2RlE0RlNFYVcxTmYtVkQ2UERNdHBGUG1OYUpTMWZjNnJaTEI3UE9PZHNEMFhvSmJLa0RzazNwOXpSeWUxa2trRlpheVFZRV9IblNQXzY?oc=5",
           "pubDate": "Wed, 21 Oct 2026 08:26:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 08:11:01 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Florida puts 77-year-old man to death for a deputy’s killing in its 18th execution this year - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa0dWcWFpdldmcjVmMEJrVjI4YldCbTJ3TS1YNG9uMm11Vm9MTmdSd1lqZnotdGNjX1l3cUlzRm5hU2ptbU1Cb3hmMlZmWGE0MHRpazdHQllQelR5ZWFYWVNOQ19xRUw5dmozSDdTWmcxSERjNkJKOUZWRXVVc3Fobl9KcnJJSzUxbHNuTVF2VXVFSHpKOXFF?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 05:43:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "UN projections say world is losing ground in fight to curb climate change, faulting US a bit - AP News",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2xCVHRIU3RaUHdqNFRacVRWV2ktX0QxNjc0dlF2WEs5ZDAxaWZRMzkzelg3dmhybzRwNkxsQlJUbGh1eWxuMHdxTTVoT1ItV0tXOHJkYzVOWk1vNV9tVlFERmxCVVJDT1lsMlo5QmREekFYQ0dZUzh6bUtITVhVZFdzM042S3RPcjVhd2VoOFkwdVE1NjhEeW5ETklZTHFyZVZDRHhpZ1V4cE9tV1R2Q0N5MkN1QQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 05:37:41 GMT",
+          "pubDate": "Wed, 21 Oct 2026 08:03:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T11:00:19.340Z"
+      "updatedAt": "2026-10-21T11:25:15.830Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Russia frees retired US schoolteacher Stephen Hubbard as Putin meets Witkoff - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkxUQko3N0dBZi16LUd2SHZUNjB2bjYyeGtBX3lHdnVpMC1mRzJYSE03OUJlQ091TXNrWnB6UG5RQ0wxLVlkV0V6OUttRHIzWUFMb1F1eGlidlNaUm9XOE10NjZpdlYwWTBkQWcxVDdjYktLTTlUbUxteXUzejhUcGV4UDVuN0J1WTdYU3ZkOHNpZDV1WUYwZGpNVVBvSjBuYm9mRlcxTTQzSjg?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 11:03:14 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia says it will send first diesel cargo to US on Thursday - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcEtvRkhRd0FvaVprWHFsY2E0cUpBNGhvcmktbFdQZldPREgwbURQQjMyc1hSWmNBMG1rUExVNUFKdVpOeXY3Z3dYUFhCc2g3VzBtaUM1M3lBWTdHOGZYLWRLTWJ3TDhvdW93S0ZzMjFqaVhFdFpmVzczQ2lJc3RGNFM0aGc3QjRxa1dWb3N5cmNmUVJ6M213SnN4NUdDSWpxaDRvVUJ4OXFma0E?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 10:38:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Putin hosts Trump envoy for new Ukraine peace talks, frees US citizen held in Russia - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 10:33:19 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Pope Leo takes to popemobile for first time since cancer surgery - Reuters",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0otRjdPc25BWWNLd016ZWVvaUZJb2hUXzJ4T1FCbHY1YWxKbUF2TC0wTlBzMFZzVWhveTQ2S28zVnBYU1RsZVJxZmRKY1VaSHNjTFZwM1M4cEZpN1BONXROMWIxWlBYV216VFRiRlZ4RGllaFpaUnl5dmJUaU9rczdVMmxJcXlZcF85ZEFVZ0l3VF9EckpVQXlETmN5d0hr?oc=5",
           "pubDate": "Wed, 21 Oct 2026 10:21:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ghana president: anybody committed to fighting terrorism is welcome in West Africa - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbTBFQTBwLTVWbnhJRFZzbVFsX2hsaUZxYzBOZVJvZVpKOVAxTWZlNEFvM1JnM0NCRVY1Z3Iwenp1LXhqSnBlY0lKMmJ0UDRmQ3pldGdqUDFOMTFWd3dnekEtOGRsVUR5bVNsSndHb0RGWkpKNHN2YkVSeTFOSk1Ubm5wRUVRTUF0NWhjd0xWUlhRMHQ0QUo2anR1Z2IwOFJkUDR3a1Y4dTI3ZlpaOGdKSEthb1lwbDMxMDZxSERB?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 10:19:09 GMT",
           "source": "Reuters"
         },
         {
@@ -185,9 +209,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Putin says Russia has freed US citizen Stephen Hubbard - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkxUQko3N0dBZi16LUd2SHZUNjB2bjYyeGtBX3lHdnVpMC1mRzJYSE03OUJlQ091TXNrWnB6UG5RQ0wxLVlkV0V6OUttRHIzWUFMb1F1eGlidlNaUm9XOE10NjZpdlYwWTBkQWcxVDdjYktLTTlUbUxteXUzejhUcGV4UDVuN0J1WTdYU3ZkOHNpZDV1WUYwZGpNVVBvSjBuYm9mRlcxTTQzSjg?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 09:39:42 GMT",
+          "title": "French 10-year bond yields hit 5%, highest since 2002 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYXc5VF91b3J6TjJpdkR6VFR1SUtTX1VUY1ZTUFBTNXFIT3ZZQ3RBMTVPaDNjMVNZbzRqcGdqRjRXcFhEQjRZd0V6R2ZRZVJwOHdmeHl5LWhva0Y3c285ZUNuaG80bWxBNUMyczhxWWdPd0NZZlNUTVJmUEszM1dCMzU2dU43ZzJ0bHNMQVF5cjgzZWZMUWViWE5aeWc3NUYwSkE?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 09:44:40 GMT",
           "source": "Reuters"
         },
         {
@@ -195,34 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1lJYlZtR2hRMGcwc0R2b2JXSjZvaHpoXzdROHdQc0dHREx3RGJITzB2U0RhRG1MWEtYUldfQk55MV9sNGR3QWVHRjhMQ1RWRlFfYVFqQmh5Zjg0UHZZX3ZXVlZ3SGFZUk5zdmw0Y0phSGdPeVpLdmVKZklfZHJyVEtYMkN4YVNlSEJfNTFQcjNwTExmbnVHN19HRUxNakhxNnBtdkFsRjVUMGtPeHVhNFVzdnI3UUplblB3?oc=5",
           "pubDate": "Wed, 21 Oct 2026 09:31:16 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Putin hosts Trump envoy for new Ukraine peace talks, frees US citizen held in Russia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 09:28:19 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "French 10-year bond yields hit 5%, highest since 2002 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYXc5VF91b3J6TjJpdkR6VFR1SUtTX1VUY1ZTUFBTNXFIT3ZZQ3RBMTVPaDNjMVNZbzRqcGdqRjRXcFhEQjRZd0V6R2ZRZVJwOHdmeHl5LWhva0Y3c285ZUNuaG80bWxBNUMyczhxWWdPd0NZZlNUTVJmUEszM1dCMzU2dU43ZzJ0bHNMQVF5cjgzZWZMUWViWE5aeWc3NUYwSkE?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 09:25:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Cyber agency warns websites may go dark as PHP prepares critical fix - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 09:18:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Former Hungarian central bank chief Matolcsy detained in foundations probe - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMkxqQkdiOXBuOUE1R0tpenMtMFdRM2lDRzkweHB5cm93clBRM2h4dEI3M1pFZ0V4QlVyNXA1dzZPWGFiOThtbUVGQTBNVmJfZ2F0UXQyOTRXa3FiS0RMSGxpZ1duMVdGQW84cEd3NkxRQ25IajVnbTdmakFJUnFPb0ZwOWRLZTl6VmVFWVp6OXc0RlhYZFRxcEpvN1N5clJKTzAtNUtrNGJ5bVRPNm1nczgtbDJxQVlQWVFNOXRmbDVTckVDN0E?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 09:02:46 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T11:00:19.356Z"
+      "updatedAt": "2026-10-21T11:25:16.324Z"
     }
   ]
 }
