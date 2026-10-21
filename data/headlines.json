@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-21T23:00:20.344Z",
-  "lastChecked": "2026-10-21T23:00:20.344Z",
-  "lastUpdated": "2026-10-21T23:00:20.344Z",
-  "generatedAt": "2026-10-21T23:00:20.344Z",
+  "fetchedAt": "2026-10-21T23:25:13.610Z",
+  "lastChecked": "2026-10-21T23:25:13.610Z",
+  "lastUpdated": "2026-10-21T23:25:13.610Z",
+  "generatedAt": "2026-10-21T23:25:13.610Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+          "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 21 Oct 2026 23:04:03 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
           "link": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 21 Oct 2026 20:09:10 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-          "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 21 Oct 2026 19:58:06 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T23:00:19.585Z"
+      "updatedAt": "2026-10-21T23:25:12.396Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T23:00:19.865Z"
+      "updatedAt": "2026-10-21T23:25:12.589Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "NFL welcomes a review of how Eagles handled Jalen Hurts' blood clots, Roger Goodell says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTGRDMU1kaTZabndjWWU1N2E5OFo3NEJrYlMtUFFVUzFwMGpUbXRxSE9TTC1HTW5ZRGVlMnNENmRUOGpqRWZhUmdSakpveTVZeUI3TjNqZTZkVGRnUFdzc1NWdURxc1UxcEZtS1N4VlBaYl9wampfVXVUdlR0ZGxTenR3ajRVRGhyRVNTU2dR?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 22:31:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Russia frees American Stephen Hubbard after over 4 years behind bars - AP News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2pKWm5lTVpmeW5RRHktWU5US2dTSS1fTDhuVjhVUjYyd3I5b3h2QzVfd0pDcm9WM1BFaFpQZENlZVMtdEoyNUQwTEJwTVhyckl0bVBYYzIxcVl1UW5FSzRUVXdIWUV3a214QnVhb1FJSkNjTFFEU0lfTGhtVTdWQ1RDVFpFQmhneWk1UVFBRHlHX3lmY0xTYU5HOTFYdmxYd09meDFTNkg4cmJ2Tlh6UnRFZGoxRlE?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVTJvYlRkcXVBTnJYV1VuNnNCNnN0RHhjXzhVQTdWMDN5MGgwajQ3M0tjU1YzWlpnVnRfcVZaWkJWemg3Q2VpbGs0RXN4b0tkb1JXZi0tZFdJUXNNSTM2a0RGb2Z1MXppZGVDZllIUUgyZkpTbENRSXlXZmdIeEJXUUk2bHhIa0J4REJZdFNkUnlXU0JGZjVkTV9mYmdSUzJITkJGcQ?oc=5",
           "pubDate": "Wed, 21 Oct 2026 20:59:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 20:31:35 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T23:00:20.334Z"
+      "updatedAt": "2026-10-21T23:25:13.195Z"
     },
     {
       "name": "Reuters",
@@ -175,7 +175,43 @@
         {
           "title": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 22:55:41 GMT",
+          "pubDate": "Wed, 21 Oct 2026 23:14:41 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 23:12:29 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFFieGdGQjNVTEpWeTlmUG5ZOW5rRjgwSmpnV1RWdTUzRG5fZW1BQmxBdElRdEtfOVYzcWlaMjR1SGJqZWdPR200RzJuV2JZajJMYmhiSmh4VFdYVjdLQXNxRWo1ZEprRWpKQW1vQkhoMm5jT1RKNzJVczV4aUxHdDNWQ0JoSXVOYzN0WDhFMmh4cjg5RWNmZFhtaHlQTlJ0NmVnRlNpQjg?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 23:00:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nestle, Zydus, Abbott face India scrutiny over claims on children's products - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUDB5clBUN3BkeGJlODk4azl4UVdWSjZDQUpaemFReXFiSmNsd3h2ajBsbXhJaGZIS2J5OWhqWkd5VzAwSHlEMEtQX1BRd0tSMWJwazBUTFBlQk5kZXVBaUNjSDRJY0RxM2M5VjZraE9VMUZtOE1UallieEcxWHA0R3JlaUxHR0tJa3FVN3l3eEp1VFpOOHJtLXhHWnpjRFM3TG1qUHowYjkxVFZIZVJvWUtQRXBKTGk1VjZJeGF2T2Y?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 22:55:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Tesla posts surprise positive cash flow on lower-than-expected AI spending - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3hNUU9fZGR5WUQ1NElPSE9qdjdWSmtWSmVodXRzWENUMzFnVDZVYUlvckprUGFOSXljOE5DSVJOTWw1b1FlTTkwV0NJY0NyWEd5bFdGUDJrZVBqNWNFMHR6TUFMVERfenZyNTgwQmFJSU9OR3dKdl9EY1ZiS2doUlhjbmYyUEI0c2c4NGhQX3VxOHNCQ185V05xdUVkMTQtZVJHbTYybUV1U0NWQmFfZlN6enNtR2poWnpvOFBaQmo1TU9yd0xn?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 22:33:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "New Mexico sues to stop payouts to Jeffrey Epstein's lawyer, accountant - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlFNc2V2YVRPNHBBM0xYLUxXdjd2MnFjVV9NUnA1Vk5QODV5Z2tiMEVJV1drUXZSMFdzOUFGYV8yQkx3WUYwejRYM2FyNzFTc0E0SVV6UFd3TEh5MlpNQWxrNWJXMHc1OXhfb2k4VUlBamgtS0lwdGY4TVU2dWdDVHAxT0dNYkEwalhsVjNlUUlJNGwySUoyRmQ0NmtfY2lIX3hCYzFZd2FrVnlFNGRn?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 22:31:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGZVb0JBZXNEbHJDcHFKVjkxal90OGdZZm11Ukswb0YweE9WZzVHUzFrWnM2dy1PNzBzV0NBOEI1OWFHc2JXR2RxX1p0NkhSeG5PRW5ROVlFQ1JpZVlVTHhreFgwYUFWTDkyM2R2S29ld2l4U0RscTU0bVdGc0tad0V0aTJCMlczc0lyajBLZXJMdUtaNDhDVTM5enFhbFl2Q0lQUUVkVkJmY2lpbXRXVHRIbnFsWmNkMGVRVF9RbFV4S1VYZ0xDTl9zbw?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 21:52:50 GMT",
           "source": "Reuters"
         },
         {
@@ -183,46 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1R4TWFDN2k5T1RwZjQ4dUxmeF9QY2x6SWdzYmhnRFhLY3hwVWUxN1pUcFVEd0tKSS13MUVPRTRCU0RKeUlKcFBZWGFUWjN1VW5fYzBMWGhhclo4QmZOaV94SmtXRGlVRUExS1BkaFRNZk45TDAwbjVfM1Uwd0V2cUtVa2ZLTHlyVHdhWWRtbEwwSWNvdmxTbUs4UQ?oc=5",
           "pubDate": "Wed, 21 Oct 2026 21:45:24 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Six injured in Russian missile attack on Ukrainian capital - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGRlYThKZW5JNEE0N2pYaVZRaVozOGRaTjhpeHRaVWFEQVZXLWcxc2hNY0VqT0JlcW5ZQUVZLTgyenltX1h0NXR5cmcxN1VjSjNkcm9vbk1DTkR6bVVKNmljX0xMOWRncVY4UEc2VUNhRmw0eHJnTklSZGlzYzdDSi1RRkhZTVhVSVIzeFRJRW1tTmhmM194QkZPeFppQzliNDVQQ3Y5SEJsdHdOQmtVeVNFWm91bWhvOXRHMzhrQQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 21:41:23 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trading Day: Tech it away - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaGtBMzlERGNvMGp0eE5yQlN5NEVyYVI5UWpld1hmWmZYLXVqQW9USVp0YVBMTEVmTEZmY1dqc1JEcFNvSlpBQTkzeVpqaktWQXl6RGN4eVR2V0lUU2RhV2lnMGVRZ2xkQUFZN2pWaU5OSzBZd3diZkFaOHVEUFFTakhrRW1FdjhxaEhTVmVCenJQRU5sZzJVTUE4YnpQUGtEQ084T3dB?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 21:34:53 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Meta's Muse AI agent achieves strong growth, company introduces new shares to power investments - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFFieGdGQjNVTEpWeTlmUG5ZOW5rRjgwSmpnV1RWdTUzRG5fZW1BQmxBdElRdEtfOVYzcWlaMjR1SGJqZWdPR200RzJuV2JZajJMYmhiSmh4VFdYVjdLQXNxRWo1ZEprRWpKQW1vQkhoMm5jT1RKNzJVczV4aUxHdDNWQ0JoSXVOYzN0WDhFMmh4cjg5RWNmZFhtaHlQTlJ0NmVnRlNpQjg?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 21:23:34 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 21:19:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Tesla posts surprise positive cash flow on lower-than-expected AI spending - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3hNUU9fZGR5WUQ1NElPSE9qdjdWSmtWSmVodXRzWENUMzFnVDZVYUlvckprUGFOSXljOE5DSVJOTWw1b1FlTTkwV0NJY0NyWEd5bFdGUDJrZVBqNWNFMHR6TUFMVERfenZyNTgwQmFJSU9OR3dKdl9EY1ZiS2doUlhjbmYyUEI0c2c4NGhQX3VxOHNCQ185V05xdUVkMTQtZVJHbTYybUV1U0NWQmFfZlN6enNtR2poWnpvOFBaQmo1TU9yd0xn?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 21:15:33 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Vance defends Ramaswamy's explosive attack ad in Ohio governor race - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenZtcmNXNUNYYnl6Q3dpVVktZjhlcVQtWkI4ODhaUHBjTVdKNjBuRTl6Qy1tZ2ZFSVlzV0FlVU1HMmYxLU9La2prbkNUamgzcGk1VV9OTFV4aDRTbUptTDFaN2ZnS2w0SE5qQnk3RUJqaTRPXzlXN1dCcTE1c1NUVnVxUkV5VTJOdkExVy1nQko1MDJheEZCSjhLSmZsc2JQdy0tRVlPeWJJSVNfSk1tOHJqaUZsellUX1JRa0p0VQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 21:11:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T23:00:20.344Z"
+      "updatedAt": "2026-10-21T23:25:13.610Z"
     }
   ]
 }
