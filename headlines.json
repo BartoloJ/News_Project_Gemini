@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-21T15:00:23.389Z",
-  "lastChecked": "2026-10-21T15:00:23.389Z",
-  "lastUpdated": "2026-10-21T15:00:23.389Z",
-  "generatedAt": "2026-10-21T15:00:23.389Z",
+  "fetchedAt": "2026-10-21T15:25:14.548Z",
+  "lastChecked": "2026-10-21T15:25:14.548Z",
+  "lastUpdated": "2026-10-21T15:25:14.548Z",
+  "generatedAt": "2026-10-21T15:25:14.548Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T15:00:18.508Z"
+      "updatedAt": "2026-10-21T15:25:13.402Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T15:00:22.259Z"
+      "updatedAt": "2026-10-21T15:25:13.604Z"
     },
     {
       "name": "AP News",
@@ -154,28 +154,46 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 12:13:28 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "North Korea says it will restart border propaganda broadcasts as tensions rise with the South - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWdMcXlGTHpkM1pJUzJvYUpMWVFvV1d1T2lzUC1BdmJKR0l3alFvdzhWVDdHczJOalN3Z3l2SkV2bm1jb0JySlc0ZWtfWEU2azZwTXZXRE5WU1BLVEZjQVhFSV91ZEhuN01GMktOTVYyMUZtWU11UDVtZDVGS054aHV5Yk9KNEhKOTZBdVlXUWpHeXlDdXVDT2xKLUowVmo4UHJiMA?oc=5",
           "pubDate": "Wed, 21 Oct 2026 12:07:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "US futures mostly higher as Wall Street digests earnings from SpaceX, Netflix - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGV1X1dKd0F3eTZSZ0F5ellKQVJuc3B1cEFzVGl4dFlSbVU3eFRJZm9lOXJjNDFHN1g4VGpZZlczQUdVR3ZRQ2h0VlpqaW0zU05LelZEb0I4eGJoVC1oZ0M5WktyVGJUZTZrbVBtdnRuNmpud1Y3WkF4bUI4R2xXQ3lTZnZMX09zOVZHOFhndWh0dWtyQ0VDakh0X24?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 11:44:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T15:00:22.738Z"
+      "updatedAt": "2026-10-21T15:25:14.101Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "EXCLUSIVE: EBay to lay off 9% of workforce in push to simplify operations, internal memo shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjJweng2MDFieU9Oc3VoYUJoaGhoeWRYaXZhU1FzRVpZcTZ3by1tRzJnQWtTQ0pMUm00UHdycGdxd014WEw5ZDg5c3pIX2FoQWxvblJfM2hsOGVPdV9uVklXWk02a0RrMDlXekNaclgtaEVTTENoU1J0QUlTeGQ2a2lMd1l3QWlnS05xRzNNd2ZRTVNZa080V3JPamJnQlN5b2s5dFVDbkVZVUxYQk9IR2lGaEx0dVc0S09wQldRRHFXNERPQjRF?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 15:07:15 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Government websites go dark as software flaw sparks security scramble - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 14:59:37 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "PHP developers issue new version to fix critical vulnerabilities - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMC1UZmVrbUN1RzZ3Y0lqdG5KWnBvamhfX25rU3Itai12dkxlVnJOVXpYS2ZMcTIycWo4UHN0bW9qTFVZTG8td01ZYWtsOVpGelh2QTZVX3BFU1NQOVEzWDhFTG5SNnczOTNhQ1VaQl9DRHNaMTlYaDk4TE50SlZPYVFPOWVRcnduNDJaVkxtN05XVURtbkVaRWI2QkVHUVJqbkY4Y2FNNzlnTHhEeDdoREJCdDI?oc=5",
           "pubDate": "Wed, 21 Oct 2026 14:46:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "France's Macron vows order, calls foreign criticism of unrest 'stupid' - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVk5czJqc091UDJSd2lQbGNRYXlyQXBBd2RxTUZkQXcyU0M4QzI0TE8tQ3FaU0xaa3NwWWlXNWU2OGg2NjBzZktLTTE0Uy10QnFyRDJvZzFiQ0xiaWdNVEdObEpuU2dvMnRkV2NRLTdHX0lWaE56cDlpRlZxcjdrWUpjbU12ZF9WV0psc2Y3bkVMYkRkNU5WMzBJcGRIaVNGN1pUY21mYS0?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 14:40:07 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMmU2eWgtaS16RkowaUc4X1NDSVNrT3IzLXhaZW9LUEVFcGFFakNrWnJidjU4NEdnYW9LdzhvYnh2aFdiTGNQMEYwMWRHLXV3ZFZ1R0V5N3RSVi1IYk5JcklvYmpxVXhHZWdBMGgwSjQzMkVydUJWUjIzdzl6MVpGZEZSeTJWeEtzQjVKb29QMjlQd1BhOHh5SWs4Y1dXWFJ4eVcySjRHaWRpWDJkWkphRWZyMEl0bHU3?oc=5",
           "pubDate": "Wed, 21 Oct 2026 14:31:51 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "OpenAI president urges AI safeguards as group he funds opposes regulation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmVlY3NlaE8xWXA4OUdBTUlKOEhtdWh4UEwwVVlfUDczNjczeXV1aUtLek42UjQ4b3I5NHZaRU5xYjFlVVhNWXV3Sm1rRkgxRkR0b1VWazFaT195cG5GUlF4S0FEcERoTzJJVXktUVdYOTN1ZldXREx5ZmllMVgyRG1sT0pRMF9hNF9JLVhTcnA2M3o3Qy1FS0FLS3QyMTFQVXloYU9ibmw2VWVMRzJuT3Z4dkQ1V2VyUTAxclhQdHY?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 14:31:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Hungary considers replacing Russia's Rosatom in nuclear project - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3Z1M0hIWmMwVzhzMjdpX3Zxd3Vmenpidl9vXzNxc3RyOXV4ZGpQTFdGLUNMRFpZMkV6ZDY5SUpPTUotenN0N1VGS01RNGxaQUlROGoyV3dRN1YwWHR6YzdRdzdLSzdJdlR4alRzcHVOdkRrb2JmdzRsOEFDMXB0Wk5SQjg5ZkczMF8yVjB3VktXbWduaGEwbFZaOHgyejBsOUVWWXhTVm9uSUZiX3dIVw?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 14:13:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russia is willing in principle to join new Ukraine peace talks in November, Kremlin says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2lXUVRRUFYxUk52Z1V0bVdLaWdydE8zV0ZfQnFxSEVjakhMNUZHNlVIaXBsZzdWUXkzRkhYX3gzTm9RbWFCQlRoWl80YUlyQWJrMVBQRUNxc0lCWWZQY2lmeGVyZDJMdEJQakFEVWMzd1BPNDRzdUtuMjh5Rkh2S3VfSzY0MFROT2dWRS1pU1RBaVY5UGlFMVMtTk10SXl6V0c0RThHd3czZ1JnLURhX1VwRHJPS0I5QmItbA?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 14:05:53 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T15:00:23.389Z"
+      "updatedAt": "2026-10-21T15:25:14.548Z"
     }
   ]
 }
