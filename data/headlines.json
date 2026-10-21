@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-21T09:25:12.710Z",
-  "lastChecked": "2026-10-21T09:25:12.710Z",
-  "lastUpdated": "2026-10-21T09:25:12.710Z",
-  "generatedAt": "2026-10-21T09:25:12.710Z",
+  "fetchedAt": "2026-10-21T09:50:14.375Z",
+  "lastChecked": "2026-10-21T09:50:14.375Z",
+  "lastUpdated": "2026-10-21T09:50:14.375Z",
+  "generatedAt": "2026-10-21T09:50:14.375Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+          "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 21 Oct 2026 09:22:23 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
           "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 21 Oct 2026 05:46:33 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
-          "link": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 21 Oct 2026 03:58:16 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T09:25:11.707Z"
+      "updatedAt": "2026-10-21T09:50:13.327Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T09:25:11.873Z"
+      "updatedAt": "2026-10-21T09:50:13.461Z"
     },
     {
       "name": "AP News",
@@ -136,15 +136,15 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 05:24:23 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Drone strike on a market in disputed African region of Abyei kills at least 153 - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0RoXzlpbUpReTJGMHFMdkZyRzd0NzlLRkNZdGRqQWk5ZmZLQ0pMSWhIUUlmWTE0TGE3Nm5oQWVGOVBrYlVnbnh2UVVpR0s5LUdSSWc3MnVPNDRmOGVBTkpNcUp3U1RKWnVrUU1UQjB4NUNEVlB5X2lMNnU3N0NjQmd1QU1TSDdXOU1vQXJoSkRzTnBiOHE2dFNITGhwNHhVbWdMUw?oc=5",
           "pubDate": "Wed, 21 Oct 2026 04:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "France has a proud tradition of protesting, and sometimes people lose their heads - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOTJ2UlZLX3F6OVNISDJLYUZNV2hJZG9zZHNYcVRqNHNCeEFjQ0ZBS1BIOW9GZWhaSmRLTzJBWVZBRkktTUJwc0pkRnBscW5TOGR4U2Nxd3BNQkt2RlE0RlNFYVcxTmYtVkQ2UERNdHBGUG1OYUpTMWZjNnJaTEI3UE9PZHNEMFhvSmJLa0RzazNwOXpSeWUxa2trRlpheVFZRV9IblNQXzY?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 04:05:00 GMT",
           "source": "AP News"
         },
         {
@@ -160,18 +160,36 @@
           "source": "AP News"
         },
         {
-          "title": "Driver accused of intentionally driving into Australian lawmaker was not a known threat, police say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFFOVnVHa0tBUGhjMHRSUTlkTlQ4clhTSmVkNmpnTXFFRVpsZFprTEplajRtX1hmYmZtVWRLRjdZZXB6ZzVseWtHeG51Q1Rxb21YTUZmOUh3aGpBOGQzYWlpRGhiVXJWZjhwTkJ4STFfbWxZWnRpN0t2a3hxQzNsN0pKMEVsZnBkV085TWNvRkV2VlR2azRaMTB6OTM1ZHlhWGZEYzV3?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 01:55:00 GMT",
+          "title": "With France embroiled in protest, a look at the nation’s economic standing by the numbers - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjJfX1NXbWZtM1Z3WEJqRWVHS0Q2aExKRnk0dmtLTlpOZkhXR2pQbXN4SGFDOU4xYUpwYmRtTFV6UHRLVWRXdXlmaWFnU2VGWWtDSElpYTBNLXBGalhGZDRWV0ZxdGdBV0JrUTQ5VHBzMDFFcmc1cUJlbk1HTlRzSmROLXdwZEltNWxF?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 01:57:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T09:25:12.320Z"
+      "updatedAt": "2026-10-21T09:50:13.996Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Former Hungarian central bank chief Matolcsy detained in foundations probe - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMkxqQkdiOXBuOUE1R0tpenMtMFdRM2lDRzkweHB5cm93clBRM2h4dEI3M1pFZ0V4QlVyNXA1dzZPWGFiOThtbUVGQTBNVmJfZ2F0UXQyOTRXa3FiS0RMSGxpZ1duMVdGQW84cEd3NkxRQ25IajVnbTdmakFJUnFPb0ZwOWRLZTl6VmVFWVp6OXc0RlhYZFRxcEpvN1N5clJKTzAtNUtrNGJ5bVRPNm1nczgtbDJxQVlQWVFNOXRmbDVTckVDN0E?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 09:02:46 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China's Chery open to partnering with US automakers, executive says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTkZvb0VIU2FQdjlnaGFHYktwUGo4SlNvOE5fbmFjNUVrTTBFR0tTMXhNYWdvUlFCM3VjSG9GZlZvdFVTTzVpdzZaTk1OQUlqSFNuT2R3U2lVY2xxWEVodTJvdndaRFZrSDlZNGZaWkJFX09OUkxqOWFFMDE3OTRySG5UYVl2dG81T0dfeUFfQkNDcUhVYVdoVVJKSW5OblZZX1hwRzR5dUJVejBiMlkyNkU3MWNjbXpFRUE?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 08:59:54 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russian strikes kill elderly Ukrainians after Trump urges Kyiv to agree terms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1VpcUFrQ2VwNVlieXZQaWZROUhiV2VKd09xMkZnR0xYeGw2aFV2RGxZZlQtQUZVS3hDRG92N1hReE11cWJ1NHFlNEV6X1h4YnVTbnZJSm4waXBiSEdsQ0J4ajdqdDI2V3Fod1BIXzdoYmoxNWZDQnYzaWJSQXJGOXFuMWpJTGxsSWVrLVBYd2xUSlF1aFJZeUh6ckFFb2JVekIwdFNYdw?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 08:52:55 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Cyber agency warns websites may go dark as PHP prepares critical fix - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
@@ -179,9 +197,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaVNCYXpqVkgtQlVQZm14SGYyV3g2X1RhVVY1U3UtYW1lT2E0bkM0aUFySmZTbFItNmZwOXpxTWZyR2lqMVZrMVhaaGNQN0M5Zk02ekJ1bzMwMG4zYnVFR2ljNzBXRzNhb1ZOdG5PalE5eHRPaWdhYWtfNzZJV2hpVEJZbEY0Ym9jSHFmR2Q0Uk5rNk5ST2YwZDY4SDRiaVVBVFFNR3FEZVd3UGdEaEVVVUJKMkExSlZvUEpRdi1tTjQ2NWk2U1ZqcTBrYm1YYU1qR1FkbXAzWWQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 08:43:50 GMT",
+          "title": "Russia's 'Native Toy' contest pushes patriotic play - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdGRxVkJGakFSMm5NWU5wTXpZQU45MTBUV1MzRHpmSVh3czJnMFpaWm1lNy1RVjhzMUo4VFNvSlNlUzMtTmZoTnBlVndiT3JreDFDajNSNnFRU2dQeHQtMzBHUkE3N0FXbkw3QXhwS25zdlhDT1ZoZXVXd0dvSEtGLWViWXZkWnc5R0xWXy13cklNNGVnZmhJdEt3?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 08:06:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Taiwan indicts 5 for attack on comedian who satirized China's Xi - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSC1WZGItelVhMzZQcG14d2p1eGtkU1VuZTdxMG9paXJ0WFZkTmRZTjdsS1p4OHp6UEhRaWlSMHhRNjBSX2ZycHZWanFCbGtSazByR1JiNzZtT3pwMjM0UERtMkRneTM3RG5Qck9PWjNUdkg3M3FwWGZyWWZsaEtqRk9ua0JVY2xCM0dwSjlkZVBuSFN3aUd2UHhhSy1fc2VTYTRVRWZFYw?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 08:00:58 GMT",
           "source": "Reuters"
         },
         {
@@ -191,38 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "China's Chery open to US automaker tech partnerships, executive says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTkZvb0VIU2FQdjlnaGFHYktwUGo4SlNvOE5fbmFjNUVrTTBFR0tTMXhNYWdvUlFCM3VjSG9GZlZvdFVTTzVpdzZaTk1OQUlqSFNuT2R3U2lVY2xxWEVodTJvdndaRFZrSDlZNGZaWkJFX09OUkxqOWFFMDE3OTRySG5UYVl2dG81T0dfeUFfQkNDcUhVYVdoVVJKSW5OblZZX1hwRzR5dUJVejBiMlkyNkU3MWNjbXpFRUE?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 07:45:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Namibia's disputed petroleum bill clears second reading in parliament - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVEtfYTRqbTFCUG1sbEJSTlBwSlVGRG0wZVZyN2Nncmplb3JPZ2t0aElTeEhkUDRncllGQ1dHVWpzVUo3QzA5WHpGVmRKQW5DeVdrX0tOMnFjS2YzcVplUjlvZ3VEdk9uSXBYdlI2emdnQVJpRVRNYTcwcVVnNDNEWXJDQU5hZDVubi0tZ090ZEZQSlN0bHBjaU1ZMkJXbXhjOFpSbkl6T3lkSzN2UUI3MHl6QVd3eDBp?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 07:11:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Fighter jet crashes in northeast France, at least one person dead - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjRieTdHWUNzMHlHelpvbDNtSE91c1Z2LWVjNlN5djlBQWVraHByNkRRSEpZOE5raDloOE40ZWxUWXNDMmRoQXFEZVNwYzBmSEliSmo0eWxfam5SZ1FpdWFGZXpTWGRRMlJRZDlpRnBaUkdCTVExeXNFaFQtRkhBUS1aY0xGR3dBdjBJdFF2OEVnNGxZcGVkMlpwYnBhblF1YWRMOQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 06:53:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Iraq closes Sheeb border crossing with Iran to check security, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSXVnY3hDdkhUd05mS1J1MFR3RHdnX09veTI2UXB3a0ZlOVNPU1NDa184ZXhWMmpFMTFmYjFYb1ZORGlzb2FtZWdET2txWUtUUEZhTHc5MWp0YUY0ck1jcVlWc21RTWt0a0hHd1VfOG5fdVZLNmV2NmpVQzJWY0UwaHQ2c2NhUlZFMVpTejI4aE84OUNNUmNsLURqMVcyVEtJNEJOdGpxbWV6UGtJYU0wMnFvMWhVdDl3M2ZrWFRtdDItSTlvbGJLaGVqZ2xOUQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 06:41:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Getty Images files for US bankruptcy, advances restructuring plan - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUQyNW9MZlpIR09iUFlQTktqRGVEa2txRDdMVEVQU2RBbWdOaE56Y21GSDdiVmRkbEw2Um9IYmVxNjRyZUtxUUZQYmR6MmptR19HRWZWNEt2cU8tZjAteFJQX1RRQU1YNEVqY085X3I2Wm5ObzVkQU81cVZ2MlM1TENtYzBidFozMEpPUHVBbHhTVEtjM2J0NjkwQlp6TUhieFY3ZGZQUUpibTVGWVZHTWZBQQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 06:39:00 GMT",
+          "title": "Toyota to recall about 105,800 US vehicles over fire risk, NHTSA says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMmU2eWgtaS16RkowaUc4X1NDSVNrT3IzLXhaZW9LUEVFcGFFakNrWnJidjU4NEdnYW9LdzhvYnh2aFdiTGNQMEYwMWRHLXV3ZFZ1R0V5N3RSVi1IYk5JcklvYmpxVXhHZWdBMGgwSjQzMkVydUJWUjIzdzl6MVpGZEZSeTJWeEtzQjVKb29QMjlQd1BhOHh5SWs4Y1dXWFJ4eVcySjRHaWRpWDJkWkphRWZyMEl0bHU3?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 07:51:49 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T09:25:12.710Z"
+      "updatedAt": "2026-10-21T09:50:14.375Z"
     }
   ]
 }
