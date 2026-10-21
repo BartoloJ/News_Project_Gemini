@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-21T02:01:20.629Z",
-  "lastChecked": "2026-10-21T02:01:20.629Z",
-  "lastUpdated": "2026-10-21T02:01:20.629Z",
-  "generatedAt": "2026-10-21T02:01:20.629Z",
+  "fetchedAt": "2026-10-21T02:25:13.967Z",
+  "lastChecked": "2026-10-21T02:25:13.967Z",
+  "lastUpdated": "2026-10-21T02:25:13.967Z",
+  "generatedAt": "2026-10-21T02:25:13.967Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T02:01:15.688Z"
+      "updatedAt": "2026-10-21T02:25:12.931Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Some on DOJ's 20,000 \"likely\" noncitizen list in Calif. appear to be U.S.-born",
+          "link": "https://www.npr.org/2026/10/20/nx-s1-6009873/california-doj-voter-rolls-noncitizens",
+          "pubDate": "Tue, 20 Oct 2026 22:15:50 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
           "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
           "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/10/20/nx-s1-6003501/morning-news-brief",
-          "pubDate": "Tue, 20 Oct 2026 04:50:27 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T02:01:19.738Z"
+      "updatedAt": "2026-10-21T02:25:12.981Z"
     },
     {
       "name": "AP News",
@@ -124,15 +124,21 @@
           "source": "AP News"
         },
         {
-          "title": "Driver accused of intentionally driving into Australian lawmaker was not a known threat, police say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFFOVnVHa0tBUGhjMHRSUTlkTlQ4clhTSmVkNmpnTXFFRVpsZFprTEplajRtX1hmYmZtVWRLRjdZZXB6ZzVseWtHeG51Q1Rxb21YTUZmOUh3aGpBOGQzYWlpRGhiVXJWZjhwTkJ4STFfbWxZWnRpN0t2a3hxQzNsN0pKMEVsZnBkV085TWNvRkV2VlR2azRaMTB6OTM1ZHlhWGZEYzV3?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 23:56:00 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 00:15:42 GMT",
           "source": "AP News"
         },
         {
           "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 23:46:15 GMT",
+          "pubDate": "Wed, 21 Oct 2026 00:12:16 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Driver accused of intentionally driving into Australian lawmaker was not a known threat, police say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFFOVnVHa0tBUGhjMHRSUTlkTlQ4clhTSmVkNmpnTXFFRVpsZFprTEplajRtX1hmYmZtVWRLRjdZZXB6ZzVseWtHeG51Q1Rxb21YTUZmOUh3aGpBOGQzYWlpRGhiVXJWZjhwTkJ4STFfbWxZWnRpN0t2a3hxQzNsN0pKMEVsZnBkV085TWNvRkV2VlR2azRaMTB6OTM1ZHlhWGZEYzV3?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 23:56:00 GMT",
           "source": "AP News"
         },
         {
@@ -154,12 +160,6 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 23:05:55 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Elon Musk’s SpaceX reports a profit and he hints at a possible merger with Tesla - AP News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlJVZExxcE9vRWtKZWQwc3pCMHQ3SUdoaC15bW1qam9DNFVRYzliR05EZk9rVm1yeEhOVnEwQm0zVndrVjhPTlZmVncweWtrZlFmUEtJdGxwbFlDMFZyaFU1MmIwYmtoQW1xRHJOMmZnbG1tYkdGWlRyVWViWGFMcVl1T0N6U09yb3I0ZHdUaVZhWHcyM0E?oc=5",
           "pubDate": "Tue, 20 Oct 2026 23:05:00 GMT",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T02:01:20.253Z"
+      "updatedAt": "2026-10-21T02:25:13.512Z"
     },
     {
       "name": "Reuters",
@@ -209,20 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "US coaxing refiners to produce more diesel as prices surge, energy officials say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQczBsMElXTmU3MHktOU91QkR4MWE3TkFnNjZ2OWNZakp6bFIzY1NGZk1nQWJ6T1h0VjExcUlBOUVHSW9KekVmVW54X25HNjBZM1oxOWUxN05pLXRZOENWOG53QnBqTEwwODlIWGVseU1PQjlHU1VzdERwclZGS0JxSi1PdFlmd2RjbE56c0E1RER2VzhYTExoY0gzaFdZUmdsb1REMHRCNTBERFYyT1NDNlZJWFg2enJvaV9rOEtoeDZqSXl6a2JRX3hR?oc=5",
+          "pubDate": "Tue, 20 Oct 2026 22:38:22 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Trump administration says it has revoked over 300,000 visas - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVC0zNk5XaGVtcW5ncTQ1ckpKTHJVOFZQQks4Qll4QU8xSlE0ZmIzT3k3Z3pLZ2lmR1FRVk1VUVI0MlM0VjVnTkxjVndYYTd1Z1ptUGdUN05JNEpaMHpXRFRuN2dfT1lHVHZpMHVLYUlxQkJLODN5UUlvNzFKazh3ZXJpSFgyaHFGSXdxN2pTRVpLc2c5Qk5qaUZrcGZRYXFVZjA0ejM2aGhySEwyd3p0Yw?oc=5",
           "pubDate": "Tue, 20 Oct 2026 22:35:44 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "WWE, McMahons must face sex abuse claims by former 'ring boys' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmtScVEydDBkR1pKcXVER1RHMlo4QUFxemNBT1VyaF84MF9pWEFUajB1TmZiNG5Xanh5YjkyN29WVmpadV84Nm9vaGdBNEhnNEZOdm9oZVFxTjJvNjVNX2I0V0JaeXBKaXY4eTRrTTlCOHhTTV9UbHlnakdwbHpBZ2IzSnY4b3hLRFMzRjVsLWdkN2Rkbk9USWxCRm5DX1VDQXVCTERCVmFwcGR0THBKc21R?oc=5",
-          "pubDate": "Tue, 20 Oct 2026 22:31:12 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T02:01:20.629Z"
+      "updatedAt": "2026-10-21T02:25:13.967Z"
     }
   ]
 }
