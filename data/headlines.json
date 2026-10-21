@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-21T05:50:14.424Z",
-  "lastChecked": "2026-10-21T05:50:14.424Z",
-  "lastUpdated": "2026-10-21T05:50:14.424Z",
-  "generatedAt": "2026-10-21T05:50:14.424Z",
+  "fetchedAt": "2026-10-21T06:00:18.617Z",
+  "lastChecked": "2026-10-21T06:00:18.617Z",
+  "lastUpdated": "2026-10-21T06:00:18.617Z",
+  "generatedAt": "2026-10-21T06:00:18.617Z",
   "sources": [
     {
       "name": "BBC News",
@@ -11,6 +11,12 @@
           "title": "Elon Musk considering Tesla-SpaceX merger",
           "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 21 Oct 2026 05:48:46 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Pakistan arrests man hunted by US over $126m postage fraud case",
+          "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 21 Oct 2026 05:46:33 GMT",
           "source": "BBC News"
         },
         {
@@ -48,20 +54,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 21 Oct 2026 01:22:51 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
-          "link": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 20 Oct 2026 23:51:43 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T05:50:13.257Z"
+      "updatedAt": "2026-10-21T06:00:17.497Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
+          "link": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
+          "pubDate": "Wed, 21 Oct 2026 01:43:24 -0400",
+          "source": "NPR"
+        },
         {
           "title": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
           "link": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
           "pubDate": "Tue, 20 Oct 2026 06:30:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Can the new federal voucher program help public schools? Democrats are torn",
-          "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
-          "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T05:50:13.560Z"
+      "updatedAt": "2026-10-21T06:00:17.672Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T05:50:13.994Z"
+      "updatedAt": "2026-10-21T06:00:18.151Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Morning Bid: Tesla may get rocket boosters for real this time - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sck41bW5HT3otVjRUNXlwN0FZbHZSUXhxeklEdG1Dc1VHVEhPYTltVlZYbFIwWko2S1lQS0c2eE1MWUpkR3RoY3pnRklISm50WHBCUHVSVk45SnY0S0dTaXJ6WXVjcDZ5MFk1a1RMNTJJS3pIZHpTUGFyMXc4aTA?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 04:37:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Bangladesh yet to receive Saudi response on execution of two nationals - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0h1UHUxMTlhdjg5T3hlQTRrLWhueTVDRmtCWmt6TzF2U2Jib3RweXNUZmQwVEZKQkN4RnR4ejYxcnYxR0xSZ3ZYaU9Cb2d4VlhrQlU1OWhmRlBUZWwxNlB6THVwWHdKaUZsS1dBcUxsR2E2SmZvdktIdzVnSW14N1pIQk00VC16Y3l3dHN4SGh3c19ZVFMyYkZsQ3NQTEN1ZWxjVFVqWFlRV1NCLXhLX0ZBUEMxS0U?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaWRxNkpTVm40U0R4RURyQVBpbXZKNVNDZU9OV3UtRUZNaTJRMWRFd00tVHBXSzhWdzZvbG12U3htRlBhZHMxQ1M2UFp5Q2U1UXdJaF9zS1BLLVFjTG50bXVfWVdacEFNNEtVNkhDdHJnVW4tRlh3YzdVeFowR3A0eTdoZ2pXdmN6MHhTNE13OF9IUWNid19HdVFlcV9sN1NvVkhjZmdxaVdMOUxta3NPREd6Zw?oc=5",
           "pubDate": "Wed, 21 Oct 2026 02:27:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Asian stocks climb as strong earnings buoy Wall Street - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXhrSmpaMk8tc0RERnBieWlyRThFeDE5X25hNy1JYTZxX2o5Q0wyMlJ0RFZheXM0S1VPUUVVcTBobHlJR3hSa3prRjhjaUVGdXBNcGNybmU5anZLOU0zdXg2TmFoYXNqSnVuRXpxQ2dwTnBYTWpOZEdIQUtVVEVqN0h6TQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 02:10:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T05:50:14.424Z"
+      "updatedAt": "2026-10-21T06:00:18.617Z"
     }
   ]
 }
