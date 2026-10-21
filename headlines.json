@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-21T07:34:12.099Z",
-  "lastChecked": "2026-10-21T07:34:12.099Z",
-  "lastUpdated": "2026-10-21T07:34:12.099Z",
-  "generatedAt": "2026-10-21T07:34:12.099Z",
+  "fetchedAt": "2026-10-21T07:50:15.262Z",
+  "lastChecked": "2026-10-21T07:50:15.262Z",
+  "lastUpdated": "2026-10-21T07:50:15.262Z",
+  "generatedAt": "2026-10-21T07:50:15.262Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T07:34:10.843Z"
+      "updatedAt": "2026-10-21T07:50:14.035Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T07:34:11.096Z"
+      "updatedAt": "2026-10-21T07:50:14.253Z"
     },
     {
       "name": "AP News",
@@ -124,15 +124,15 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 05:24:23 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Drone strike on a market in disputed African region of Abyei kills at least 153 - AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0RoXzlpbUpReTJGMHFMdkZyRzd0NzlLRkNZdGRqQWk5ZmZLQ0pMSWhIUUlmWTE0TGE3Nm5oQWVGOVBrYlVnbnh2UVVpR0s5LUdSSWc3MnVPNDRmOGVBTkpNcUp3U1RKWnVrUU1UQjB4NUNEVlB5X2lMNnU3N0NjQmd1QU1TSDdXOU1vQXJoSkRzTnBiOHE2dFNITGhwNHhVbWdMUw?oc=5",
           "pubDate": "Wed, 21 Oct 2026 04:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 04:24:12 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T07:34:11.635Z"
+      "updatedAt": "2026-10-21T07:50:14.764Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Getty Images files for US bankruptcy, advances restructuring plan - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUQyNW9MZlpIR09iUFlQTktqRGVEa2txRDdMVEVQU2RBbWdOaE56Y21GSDdiVmRkbEw2Um9IYmVxNjRyZUtxUUZQYmR6MmptR19HRWZWNEt2cU8tZjAteFJQX1RRQU1YNEVqY085X3I2Wm5ObzVkQU81cVZ2MlM1TENtYzBidFozMEpPUHVBbHhTVEtjM2J0NjkwQlp6TUhieFY3ZGZQUUpibTVGWVZHTWZBQQ?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 06:39:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "North Korean Army chief inspects border with South Korea, says troops must act if enemy provokes - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdHllSVpuQVItNDhYcW9GeTVrUkJHVngxel9VR20xQnZVLUlJcHYxYktzQjFoNEpMWkFLcmlWZS1HU2dFMTFSaDZjX3NrNlNQT2ZFS0JqeGJkZ25lREY0ZUZNbVp6clBlbmg4Y1dDMUlyT0RxajZYMTdZU1VUaW9NbjFURGtPbjB0X09ScFJ4UWVnMFRxMFd6VGRFdTBMeDJlQV83NE94SUFFZzJVeGRuVzlndEpMNUIydDRZcXQ0OVlPTFIwQ2RIV1lpeWxZbzB3?oc=5",
@@ -203,26 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "Insight: Europe weighs giving utilities, infrastructure companies more powers to bring down drones - Reuters",
+          "title": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones - Reuters",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaVNCYXpqVkgtQlVQZm14SGYyV3g2X1RhVVY1U3UtYW1lT2E0bkM0aUFySmZTbFItNmZwOXpxTWZyR2lqMVZrMVhaaGNQN0M5Zk02ekJ1bzMwMG4zYnVFR2ljNzBXRzNhb1ZOdG5PalE5eHRPaWdhYWtfNzZJV2hpVEJZbEY0Ym9jSHFmR2Q0Uk5rNk5ST2YwZDY4SDRiaVVBVFFNR3FEZVd3UGdEaEVVVUJKMkExSlZvUEpRdi1tTjQ2NWk2U1ZqcTBrYm1YYU1qR1FkbXAzWWQ?oc=5",
           "pubDate": "Wed, 21 Oct 2026 06:03:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Focus: Beauty giants target 'Ozempic face' as boom in obesity drugs opens new market - Reuters",
+          "title": "Beauty giants target 'Ozempic face' as boom in obesity drugs opens new market - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzBscFc1bVNobHJsZmJJNHE4dmlON3Viekp4ZDd1R2QwdlZaZkZJc1QyTW9aQmhnOGxmUW14NnFWbFlkSWVDbkJiRjdzdjhLODlSMmd1T2hETGxfbXRnaFo2NFE5UG5vbVNWZ21Zd0tWTDM2NExxaVI4bU5zNTlrbHM2dmhiT1ZOVkwzWVItdHlYeTFESEFSMVRla0hPUzFueUdGVl80NS1IbHJlQWhsakRqN0lsbjF3cF9TODFrMA?oc=5",
           "pubDate": "Wed, 21 Oct 2026 06:02:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "UK approves long-delayed Jackdaw gas field - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVhqQWZMc3FMQ2lhTXRCMm92QVlKRlk3Y2lNenRKRTJmWWxHUlNWc3pTZWJyOU92aHlVTmtwLXVTeE01WFZxU3NpQ19Eazh6TkM5VWZaaUpqRFo5SFZJbmRHeFVvYkRiZGJUYUpza0ZyMWZ1NThlMFpEM1U5dlRZeUNJQVBqN0VpbTFscWViMFNHdm84T1FhMWxB?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 05:58:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-21T07:34:12.099Z"
+      "updatedAt": "2026-10-21T07:50:15.262Z"
     }
   ]
 }
