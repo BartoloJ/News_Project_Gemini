@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-22T06:25:15.528Z",
-  "lastChecked": "2026-10-22T06:25:15.528Z",
-  "lastUpdated": "2026-10-22T06:25:15.528Z",
-  "generatedAt": "2026-10-22T06:25:15.528Z",
+  "fetchedAt": "2026-10-22T06:50:15.788Z",
+  "lastChecked": "2026-10-22T06:50:15.788Z",
+  "lastUpdated": "2026-10-22T06:50:15.788Z",
+  "generatedAt": "2026-10-22T06:50:15.788Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "What is PHP and why did it spark a global cyber-security scramble?",
+          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 22 Oct 2026 06:24:59 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "How Arab parties could hold critical balance of power in Israeli election",
           "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "No order, no seat: Starbucks China rolls out new store policy",
           "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 22 Oct 2026 04:02:29 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "What is PHP and why did it spark a global cyber-security scramble?",
-          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 22 Oct 2026 03:48:50 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T06:25:14.353Z"
+      "updatedAt": "2026-10-22T06:50:14.676Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "North Korea says it will resume propaganda broadcasts across border into South Korea",
+          "link": "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts",
+          "pubDate": "Thu, 22 Oct 2026 02:36:07 -0400",
+          "source": "NPR"
+        },
         {
           "title": "AIPAC halts endorsements and direct contributions to candidates",
           "link": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches",
           "pubDate": "Wed, 21 Oct 2026 12:01:17 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
-          "link": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy",
-          "pubDate": "Wed, 21 Oct 2026 11:46:27 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T06:25:14.600Z"
+      "updatedAt": "2026-10-22T06:50:14.829Z"
     },
     {
       "name": "AP News",
@@ -120,7 +120,7 @@
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 04:28:28 GMT",
+          "pubDate": "Thu, 22 Oct 2026 05:07:56 GMT",
           "source": "AP News"
         },
         {
@@ -130,15 +130,15 @@
           "source": "AP News"
         },
         {
-          "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 03:01:59 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Russia frees American Stephen Hubbard after over 4 years behind bars - AP News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2pKWm5lTVpmeW5RRHktWU5US2dTSS1fTDhuVjhVUjYyd3I5b3h2QzVfd0pDcm9WM1BFaFpQZENlZVMtdEoyNUQwTEJwTVhyckl0bVBYYzIxcVl1UW5FSzRUVXdIWUV3a214QnVhb1FJSkNjTFFEU0lfTGhtVTdWQ1RDVFpFQmhneWk1UVFBRHlHX3lmY0xTYU5HOTFYdmxYd09meDFTNkg4cmJ2Tlh6UnRFZGoxRlE?oc=5",
           "pubDate": "Thu, 22 Oct 2026 02:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 02:24:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,33 +167,15 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T06:25:15.126Z"
+      "updatedAt": "2026-10-22T06:50:15.357Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Nokia third-quarter profit beats expectations - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVJKZzR0bmhsQlBZTnVkcjV6VmVjU1lXeTFGQUl0NzkwLVNJbWN5NF9iOG54ODJhSlhaTUg3cU9vZUxscGk5RjhEMUV5NHhwZXBVVXZfc3RBelNtSWg2R1dYZW5iSDB2U2VOT1hXMk5EbXpzTHdTNEdIeGlUbXR0eG9wREdBbUJCTUZBM2V3b0VoUnJt?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 05:05:00 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Iran's IRGC Navy says seven vessels hit, warns US of wider response - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjlJZ1lSN1BZWFJWdDlKUWh3LWRselVrNHpobGthcDVzdnZ6bjJfM1dZcTJONUtTdURHc0ZaQkk0cUhzTlp0NVZocWlTNEhIWTB4TkN6VVZPMHdfN2ZsYXVmY2NISEN6dnRERW01T2dXbXNsb2dMNHl1UFdiTW1LVzJsZU1KYThwVDZ5OHdvYzZQMEZ6djduOERMNEI4YVVVTDFqVHBNZlpOcmJiNnppOVNJVjVzbUU?oc=5",
           "pubDate": "Thu, 22 Oct 2026 04:40:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: France's debt strains, AI in focus - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iY1JOSkkwSHo0X2pQdzhWZFJuX2JIdGZEaWxKQy1oWlFJcHFuMXFhOFBoVHk4MHdRWTN6V09XOHVQZWw5d2tWMHIyRHVYcURiZmEzY1BGaFliTlJNcTJkUlZJZ0M0U19HbVJfX3BYakVkZExGNUZPYTRzOFBKT1U?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 04:33:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Musk’s public endorsement of SpaceX-Tesla deal may throw a wrench in talks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMElybkJjbnJVcng0S3ZMdGFraU9qazdTRS1sU05ScEU3YWpHTlJYRS1TTVVRa0FvR3Q5aFNjeG1TRWJPQU00clFvbmtSYlVMMEhrcE1MRUxXcG5Uamo4emRadjI5LTU1eENCX1Z4MnRPd2ZJYlJPVzZNSnNzQ1lLRGJiaUxxbVRucWNjdXUxWTlmcDEtM0VMazROblJvLXJGTXZmcG01RkxRaXRuUEVHdlBVOEJMMndJYVE?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 04:24:00 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +185,44 @@
           "source": "Reuters"
         },
         {
-          "title": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWF1N1NOek9pQi1IYkRUMll1bHRXOFluVmtuYm9LR1dtMThlWlZDYXB5RlVwYko2MVFRS01SSnIwRGhMRnFULTZvdURKV0MxOHk1clF4NW1wTkJUOWkyMng4b2J5QjI4X2tLRkVMSGxDcTIxV0xXTThnZkxvQjVUajZBMmY4RURVTzQtcFN1T2gybVJWRkMwX0RCdkxGTVpLbUdlT0paVU80cWc0VS0xenk0QnZRYS1B?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 04:03:00 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "DeepSeek wrapping up $15 billion fundraising to fuel AI race - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkI4b1B0WkYzUnhGdTF6b0VTRnBCWjRxelF3Q2g4VlRjTzNUOFFTZUhrM3VHSWs2M1VpWkZqN0FleF9JREgzdXpEWFNHM0VvSXhhNm5pdHRXZkRrNUR0UGFJVUMzRjNDWWRwZ0ZtOEsyMm93VU82Rno1R3FxQTNxMllyeWh2YnJRY19hUjZMbExjank3YUg5anFYdjRHRUdnSlN3cFMwMU9TLVBDSldIYUpUdy1vYTdtS3RHTnphNU1KYTdtYWVzNFFR?oc=5",
           "pubDate": "Thu, 22 Oct 2026 02:46:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Australian TV reporter rescues man from sinking car during floods - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWGdzeDZIcFF6aEN0cy1xTWo4T0tXWkI2RHg4UFFDQlM4WFFyMGJSVXpiazI2aklQdjd0OTVDVVVZUFp1bjlnSGZaY0EzMk5WYkthRWdsU3RUdW80dHZHUzV0VDBVck1zTE9remduZTMyV1M2NHZZZ0N0M3VjV0lTNm1TYXczMU1FcUd2ZnBXZnFhTTNjZkFDTExWQUNhMkdYeEFLamxHbWNQWTU3anFwc1pLV2FLclhw?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 02:36:00 GMT",
+          "title": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBEdGVKYmZ3VVpJajg0TW5DN2VHVEM2aDVTcFJKQVduMnVMTU5NbVcyMGxBanBHY3VvMzJQR1VrQWM4b0hLeG1YaTFWcldTeU9yTlBXc3FiR1FtcUp0SmxhRkJkWmpmZ2x6X3VGZHZEUDNLTE9LTFZNSlBWWjNJVGtaV3YwWkc4QVhxbHozYkx5THpZMVlYVDAtd0dqbUMyOUcyVk91NEYxaFFCZklRWWhjQm5qN2NvVHdWdnZIQVJSMk0?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 00:46:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUJTOXdaa0JmVzZubm12MGt4VnNSemsyOW1fQXpCMnhEc25HSVJRZk93d2NYUXQ3eHBuQklaNE1FT1QyQ1NqdTFkdExDbmoxY2JtOWhLQkVtYXczMHh3a3VsZmhub1JFc0FIZHN1eEcwc3FRZVZWQnBoSjFjekFYTUN6X2d5WHJUWGpDU2paekhhU24zenhNbWpXUmtfdmo5cTFIZVZwTXdiRzZoeUtiazhHWkJEWEVZLTVmQmRMcw?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 23:11:13 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Who is Stephen Hubbard, the US citizen released by Russia? - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFh5SkZ6WDhTdzNGNmFvZV9hd3JLalBDVG1Jd19VenBJMm1WSWRwQ3VHaDNyWll2Tl9qcFFBSlZLcFYtUTI4UXlqclpQLWVnU2tXeG5kdXlDMVBjbmc1dFFNOWlrWmxibmk3UGZOYlRSTkg2cGJRbFVtQ0J2aWc5ZzFTb2MxcnBfU0ROVHlES21VRk8wUXlscXZ3?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 22:26:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGZVb0JBZXNEbHJDcHFKVjkxal90OGdZZm11Ukswb0YweE9WZzVHUzFrWnM2dy1PNzBzV0NBOEI1OWFHc2JXR2RxX1p0NkhSeG5PRW5ROVlFQ1JpZVlVTHhreFgwYUFWTDkyM2R2S29ld2l4U0RscTU0bVdGc0tad0V0aTJCMlczc0lyajBLZXJMdUtaNDhDVTM5enFhbFl2Q0lQUUVkVkJmY2lpbXRXVHRIbnFsWmNkMGVRVF9RbFV4S1VYZ0xDTl9zbw?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 21:51:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says fraud investigations make 'very big dent' in overseas scams - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1R4TWFDN2k5T1RwZjQ4dUxmeF9QY2x6SWdzYmhnRFhLY3hwVWUxN1pUcFVEd0tKSS13MUVPRTRCU0RKeUlKcFBZWGFUWjN1VW5fYzBMWGhhclo4QmZOaV94SmtXRGlVRUExS1BkaFRNZk45TDAwbjVfM1Uwd0V2cUtVa2ZLTHlyVHdhWWRtbEwwSWNvdmxTbUs4UQ?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 21:45:24 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T06:25:15.528Z"
+      "updatedAt": "2026-10-22T06:50:15.788Z"
     }
   ]
 }
