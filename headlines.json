@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-22T02:25:12.158Z",
-  "lastChecked": "2026-10-22T02:25:12.158Z",
-  "lastUpdated": "2026-10-22T02:25:12.158Z",
-  "generatedAt": "2026-10-22T02:25:12.158Z",
+  "fetchedAt": "2026-10-22T02:50:18.071Z",
+  "lastChecked": "2026-10-22T02:50:18.071Z",
+  "lastUpdated": "2026-10-22T02:50:18.071Z",
+  "generatedAt": "2026-10-22T02:50:18.071Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:25:10.894Z"
+      "updatedAt": "2026-10-22T02:50:16.852Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:25:11.194Z"
+      "updatedAt": "2026-10-22T02:50:17.059Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:25:11.684Z"
+      "updatedAt": "2026-10-22T02:50:17.567Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Tesla aims to sell Cybercab robotaxis by end of year despite federal probe - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUzlnbTF6RWxvZ0Nnb2hjaW9IdnBKemRlb3JhR28xOHBEWEtWY0hHVWladXlOYUVfUnpQS2FVUXpnMUlBTHEyRlo1LWtQUEdfQWp1TXliazBoWVNfUTEtUXhwX1VuTlI2NWF4bDNON2ZuQldudllLdlVCcGRPYjdCeGZJWkp4QUsxQ3lwSEE5VzRUUHNpMTNNQThYMVl6TU8zdks1MTZzY05BWVZocExLNE1uNTRLS0Z2QWZFcUxLY0xVd2h4dHppNm5Ha0wyV3c?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 01:36:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBEdGVKYmZ3VVpJajg0TW5DN2VHVEM2aDVTcFJKQVduMnVMTU5NbVcyMGxBanBHY3VvMzJQR1VrQWM4b0hLeG1YaTFWcldTeU9yTlBXc3FiR1FtcUp0SmxhRkJkWmpmZ2x6X3VGZHZEUDNLTE9LTFZNSlBWWjNJVGtaV3YwWkc4QVhxbHozYkx5THpZMVlYVDAtd0dqbUMyOUcyVk91NEYxaFFCZklRWWhjQm5qN2NvVHdWdnZIQVJSMk0?oc=5",
@@ -182,6 +188,12 @@
           "title": "Rice rescues Arsenal at Bayern as Real Madrid hit four - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb09la3N4TmRueFNxaWtlU1Y4eHMwTWxpU1RPbVVNY2pMQVY3QXYwTFVGNTlqOTVudXhvU1c0UFVhMjVRdHRPQnFMQTFiU1dvUFJaSE9jNVlkMm5SNWU1R1JTRHlITWlBOFlFaVEzYjY3VGNVd09VN1o1UnlkZTN0YzZBbWhFc1I4S3YzdEFnX0I4cElXb2lGRWt0VQ?oc=5",
           "pubDate": "Wed, 21 Oct 2026 23:43:47 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ohio State University disputes DOJ finding that medical school discriminates in admissions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzJTZy1ySkluU015LWQxS193ZEM2NDdxa2xJVUN5eV9MMmRjZGNld05LTXN0djBGWXpLMUJ1al9XUXpPakdwcHZac01MdHVmbmtJWHpOOGNZY3BiV1YzazYtWkFVUjNid3BwSzNseGh0LXEzNkV6YnJVUlFSYUlNOUlFQU01a3hKVU5IYXZWNUpzVEdSaDhwa05YZGZjel9EclpGM05HMmJTSUNHRS1FZDVrOGdFVTk0UmZ6U2VMRkFmM2pnb3FyYQ?oc=5",
+          "pubDate": "Wed, 21 Oct 2026 23:29:34 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUGpqanV4cTNtMHFsWkNwb2lXeUVRTFJWLXZBai03ZXpLTC1HRnR3VkRjTE40UWRwMDljdE5tTHp4NFJFZWZHNHFoOE56UHRqTUJ1c2UtZVpjbmYzQ25zWmNzcFZsSGREYkxwanljelhaZ2NlWGRMYXNyZVVhRnAySVdpWHltcDNfaXVrLS1UYVN2Z0pYZ0UyeWdQSEp6YnJtY3p3T0Z6Xy1ydklxWUR3N2xlYUtGcDcwd0d6b010WDhGaDdxYVBaU3ZnWmVGdw?oc=5",
           "pubDate": "Wed, 21 Oct 2026 23:06:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Philippines exploring deeper cooperation with Taiwan to protect cables - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXI3SFRVTXFrMURWSExwd01uY0lFUVZ4M3J2amc4XzE3QVBidmZZOU9qVUFkQ3c3U1RSMG8wOTZ1M1M5Q1RXM0RwUzN5MkpILTEwQ3hjdjlQRU1jWVUyb1JXT3BFdzRWdFdyZzcxLXNoUk5hWDlTY2I3LWRpYkpZUkg1bmJtamZRYnMtdTJvOG5VX21RQ05fRkJCY082Ql90ME1zYllHZ1MyS211WWdDd2l3WFJ0dw?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 23:05:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFFieGdGQjNVTEpWeTlmUG5ZOW5rRjgwSmpnV1RWdTUzRG5fZW1BQmxBdElRdEtfOVYzcWlaMjR1SGJqZWdPR200RzJuV2JZajJMYmhiSmh4VFdYVjdLQXNxRWo1ZEprRWpKQW1vQkhoMm5jT1RKNzJVczV4aUxHdDNWQ0JoSXVOYzN0WDhFMmh4cjg5RWNmZFhtaHlQTlJ0NmVnRlNpQjg?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 23:00:05 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T02:25:12.158Z"
+      "updatedAt": "2026-10-22T02:50:18.071Z"
     }
   ]
 }
