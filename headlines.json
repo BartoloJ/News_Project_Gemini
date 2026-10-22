@@ -1,18 +1,12 @@
 {
-  "fetchedAt": "2026-10-22T06:00:20.788Z",
-  "lastChecked": "2026-10-22T06:00:20.788Z",
-  "lastUpdated": "2026-10-22T06:00:20.788Z",
-  "generatedAt": "2026-10-22T06:00:20.788Z",
+  "fetchedAt": "2026-10-22T06:25:15.528Z",
+  "lastChecked": "2026-10-22T06:25:15.528Z",
+  "lastUpdated": "2026-10-22T06:25:15.528Z",
+  "generatedAt": "2026-10-22T06:25:15.528Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
-        {
-          "title": "Governments working to identify exposure after global cyber-security warning",
-          "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 22 Oct 2026 05:37:53 GMT",
-          "source": "BBC News"
-        },
         {
           "title": "How Arab parties could hold critical balance of power in Israeli election",
           "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
@@ -54,10 +48,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 21 Oct 2026 23:06:37 GMT",
           "source": "BBC News"
+        },
+        {
+          "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+          "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 21 Oct 2026 23:04:03 GMT",
+          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T06:00:19.547Z"
+      "updatedAt": "2026-10-22T06:25:14.353Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T06:00:19.758Z"
+      "updatedAt": "2026-10-22T06:25:14.600Z"
     },
     {
       "name": "AP News",
@@ -120,25 +120,25 @@
         {
           "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 03:11:12 GMT",
+          "pubDate": "Thu, 22 Oct 2026 04:28:28 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Kansas Sen. Roger Marshall says the Ukraine war, not the Iran war, has caused high diesel prices - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFlwUEhrRzY3LVNyRkJaZkdfb04wYURuSFpOV21ZMXhnM2poTjI4T0dtdjJNdEE2cXZvRm02N01JS2x2RzFzMzUxc1JCc2E4V0FjcVR2TTU5WTREV1BGbndhMS12czc3ZkY1S2dyRUowZ18tUGtNXzdzZ3JEYTZlTkZ5eUgycHBIRTNwaVZSMlNFaDI2TUlIYWZtMGp3ZTFmN3lFeU9SNmFjMm54UmwzWA?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 04:13:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 03:01:59 GMT",
           "source": "AP News"
         },
         {
           "title": "Russia frees American Stephen Hubbard after over 4 years behind bars - AP News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2pKWm5lTVpmeW5RRHktWU5US2dTSS1fTDhuVjhVUjYyd3I5b3h2QzVfd0pDcm9WM1BFaFpQZENlZVMtdEoyNUQwTEJwTVhyckl0bVBYYzIxcVl1UW5FSzRUVXdIWUV3a214QnVhb1FJSkNjTFFEU0lfTGhtVTdWQ1RDVFpFQmhneWk1UVFBRHlHX3lmY0xTYU5HOTFYdmxYd09meDFTNkg4cmJ2Tlh6UnRFZGoxRlE?oc=5",
           "pubDate": "Thu, 22 Oct 2026 02:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Kansas Sen. Roger Marshall says the Ukraine war, not the Iran war, has caused high diesel prices - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFlwUEhrRzY3LVNyRkJaZkdfb04wYURuSFpOV21ZMXhnM2poTjI4T0dtdjJNdEE2cXZvRm02N01JS2x2RzFzMzUxc1JCc2E4V0FjcVR2TTU5WTREV1BGbndhMS12czc3ZkY1S2dyRUowZ18tUGtNXzdzZ3JEYTZlTkZ5eUgycHBIRTNwaVZSMlNFaDI2TUlIYWZtMGp3ZTFmN3lFeU9SNmFjMm54UmwzWA?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 02:42:52 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 02:35:58 GMT",
           "source": "AP News"
         },
         {
@@ -167,11 +167,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T06:00:20.332Z"
+      "updatedAt": "2026-10-22T06:25:15.126Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Nokia third-quarter profit beats expectations - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVJKZzR0bmhsQlBZTnVkcjV6VmVjU1lXeTFGQUl0NzkwLVNJbWN5NF9iOG54ODJhSlhaTUg3cU9vZUxscGk5RjhEMUV5NHhwZXBVVXZfc3RBelNtSWg2R1dYZW5iSDB2U2VOT1hXMk5EbXpzTHdTNEdIeGlUbXR0eG9wREdBbUJCTUZBM2V3b0VoUnJt?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 05:05:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Iran's IRGC Navy says seven vessels hit, warns US of wider response - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjlJZ1lSN1BZWFJWdDlKUWh3LWRselVrNHpobGthcDVzdnZ6bjJfM1dZcTJONUtTdURHc0ZaQkk0cUhzTlp0NVZocWlTNEhIWTB4TkN6VVZPMHdfN2ZsYXVmY2NISEN6dnRERW01T2dXbXNsb2dMNHl1UFdiTW1LVzJsZU1KYThwVDZ5OHdvYzZQMEZ6djduOERMNEI4YVVVTDFqVHBNZlpOcmJiNnppOVNJVjVzbUU?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWGdzeDZIcFF6aEN0cy1xTWo4T0tXWkI2RHg4UFFDQlM4WFFyMGJSVXpiazI2aklQdjd0OTVDVVVZUFp1bjlnSGZaY0EzMk5WYkthRWdsU3RUdW80dHZHUzV0VDBVck1zTE9remduZTMyV1M2NHZZZ0N0M3VjV0lTNm1TYXczMU1FcUd2ZnBXZnFhTTNjZkFDTExWQUNhMkdYeEFLamxHbWNQWTU3anFwc1pLV2FLclhw?oc=5",
           "pubDate": "Thu, 22 Oct 2026 02:36:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Taiwan probes organised crime links to China's 'transnational repression' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNejRPNmlvaDhHZDJQYlloWDU5cnZpTHZEOU0yWHotRTRsX3Q0TGs4V1F3ZzRBLVNqMnhSVUtNS3ZlWGFTVEU1VUJodkdZMUR0aFUxVnhqU1lVdWEyTlI0dVp1VmRncVIzVDU0WmtxcmI1TXo4cHh0SDhGWXJHY1lSMG8wSnJuUWRrbkI3VXhqWXlUajNuSjYwTFRyNWtOSzlDNnZkamRWRFBUdjVkQUFaTlhSNHZGQQ?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 02:32:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T06:00:20.788Z"
+      "updatedAt": "2026-10-22T06:25:15.528Z"
     }
   ]
 }
