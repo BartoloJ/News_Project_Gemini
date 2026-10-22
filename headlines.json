@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-22T14:00:33.309Z",
-  "lastChecked": "2026-10-22T14:00:33.309Z",
-  "lastUpdated": "2026-10-22T14:00:33.309Z",
-  "generatedAt": "2026-10-22T14:00:33.309Z",
+  "fetchedAt": "2026-10-22T14:25:17.594Z",
+  "lastChecked": "2026-10-22T14:25:17.594Z",
+  "lastUpdated": "2026-10-22T14:25:17.594Z",
+  "generatedAt": "2026-10-22T14:25:17.594Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
+          "link": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 22 Oct 2026 14:09:54 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "First human case of Shamonda virus detected in France, officials say",
           "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 22 Oct 2026 11:23:16 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "What is PHP and why did it spark a global cyber-security scramble?",
-          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 22 Oct 2026 11:15:58 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T14:00:22.842Z"
+      "updatedAt": "2026-10-22T14:25:16.402Z"
     },
     {
       "name": "NPR",
@@ -81,18 +81,6 @@
           "source": "NPR"
         },
         {
-          "title": "Farm country has beef with Trump as midterms approach",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6011214/farm-country-has-beef-with-trump-as-midterms-approach",
-          "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Trump merchandise stores are closing: 'He has peaked'",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
-          "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
           "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
           "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
@@ -109,10 +97,22 @@
           "link": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
           "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
           "source": "NPR"
+        },
+        {
+          "title": "Trump merchandise stores are closing: 'He has peaked'",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
+          "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "Farm country has beef with Trump as midterms approach",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6011214/farm-country-has-beef-with-trump-as-midterms-approach",
+          "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T14:00:23.006Z"
+      "updatedAt": "2026-10-22T14:25:16.606Z"
     },
     {
       "name": "AP News",
@@ -130,6 +130,12 @@
           "source": "AP News"
         },
         {
+          "title": "European Union awards top rights prize to International Criminal Court days after Trump sanctions - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeUlQcXVrZnNtRVFtb0d0VldXeG1ya1htcVJyMXVjVklUYTZIZ0p6NXRORTdhY3dtLVRJbDdkSXN3Zm1NUnNTbkFrRVlnWng4VUJ6NVFselBpS0ZrNkhJdTlONVVnbVhYQnhrQ0thRW9oYmk3S1lEQmJaLTJadmhOdV9fSmwzN2diNVU0M0NwWFRITUxuTGlmQjhMdlNFOVZVbks4Wk9jZ2Z6Q1hE?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 12:48:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "US jobless claims fell to 194,000 last week, lowest since July - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVMxRFAzb3Zub0ZNSEgwc09QUENPdTcwUDlaNTl3cEJEMm05R3NENi1sdkk5bE5scXA0MWIzYVdIVjFZVUNNTUlsRk9Qd2tYQk55WHdfODJpcU5WZmZaaDNmbDdOaUdhaGlCU3MxLTd2S1M3S0JDX3RGdklJcFNCQnhhcG5mZFpnNGdBSkxQWExMU0NKaTlpNnJRSlM?oc=5",
           "pubDate": "Thu, 22 Oct 2026 12:41:00 GMT",
@@ -142,15 +148,9 @@
           "source": "AP News"
         },
         {
-          "title": "European Union awards top rights prize to International Criminal Court days after Trump sanctions - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeUlQcXVrZnNtRVFtb0d0VldXeG1ya1htcVJyMXVjVklUYTZIZ0p6NXRORTdhY3dtLVRJbDdkSXN3Zm1NUnNTbkFrRVlnWng4VUJ6NVFselBpS0ZrNkhJdTlONVVnbVhYQnhrQ0thRW9oYmk3S1lEQmJaLTJadmhOdV9fSmwzN2diNVU0M0NwWFRITUxuTGlmQjhMdlNFOVZVbks4Wk9jZ2Z6Q1hE?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 11:05:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 10:31:24 GMT",
+          "title": "Ukraine’s strikes on Russian data centers disrupt key services and derail AI research - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWpTNEFPQ2s1OU5QRS1HMzBDVExXeFRlOWUxRzNWamxYTjREcENTMmw1VWlrNkRpdnFNRUFXLVZTUjI3SkZqRlhIZVVXc2hhampybC1pbHVkT2Nhd290ZVlOWEt1TDA4YzgwUUxOM2k1OEE2UFZGWi1DRkU2ckwxVHNZR3pQb2tVN3I2MjFfQlhMZjhqSDdXTTFyRUJCUlFueGlF?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 11:44:00 GMT",
           "source": "AP News"
         },
         {
@@ -166,22 +166,34 @@
           "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-10-22T13:50:14.702Z"
+      "ok": true,
+      "updatedAt": "2026-10-22T14:25:17.095Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Shark nicknamed 'Bukangi' foils rescue attempts, returns to South Korean canal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYk5SM3F0V19jU1E3aTNUbnNDekdBN3ZhMHJDemdUUUd0R1hrRVc5N2VUeHNDdVZtelZCMk8wOW12N3FQWE82ekxKemU3dExCc0stTURFMnllZ1NiakxsNVZjZU9TRTJKaUVTWnZiLUF1LVFPbHdKOTNJaHpyQ0tkUmszekt2dC15M2l1MUlwY1lDaWg4cUFEbkZaY2lBZFFxZmxnMTc4Q1llRHp3M0lIUEljQVZlWVVrelREN0ZaR3ZkUFN4OXc?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 13:15:59 GMT",
+          "title": "Micron introduces quarterly employee bonus tied to profits - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlEycHNab0phSmxYTXY3VWgzbTZFSUF3akxUTlNGVVZMWWYtVW0tRG5KM0t2cVpTSDZUYWZIVldBUFF1dUVEZjZZRHl0YWQ4eTd0Y0t5Y2Z3azN2c0hJQURsRW9Ha0kyVTUya1VHXzhUdFlZbjBZd1lacWJWaWhKWWZrRVBROWt5OG9hSWZXZ2NwNTRUMzBINDJHVXFaSnNlRFlNZw?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 14:11:25 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wall St set for lower open as AI jitters rekindle, oil gains - Reuters",
+          "title": "US weekly jobless claims near 57-year lows amid low layoffs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1lNaWxpcFZmNGx5cEFsQ25QUUNuM0ZkVzJXaGdxdDRFdXNpNGVyYlhhV3JLcnpoMHJKLTZhMWduY0hQYXFPM2xBRjl5TF8xaXAyNU40UUtnTl94TDl3eUVjSHlleXBtenZHVDNpUmw5LUxRMDJNNzF2VVlxYmVodVpWUE5PWEdtVHRSZmdzR2w?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 13:58:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Wall St opens lower as AI jitters return, oil rises - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 13:05:43 GMT",
+          "pubDate": "Thu, 22 Oct 2026 13:36:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Shark nicknamed 'Bukangi' foils rescue attempts, returns to South Korean canal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYk5SM3F0V19jU1E3aTNUbnNDekdBN3ZhMHJDemdUUUd0R1hrRVc5N2VUeHNDdVZtelZCMk8wOW12N3FQWE82ekxKemU3dExCc0stTURFMnllZ1NiakxsNVZjZU9TRTJKaUVTWnZiLUF1LVFPbHdKOTNJaHpyQ0tkUmszekt2dC15M2l1MUlwY1lDaWg4cUFEbkZaY2lBZFFxZmxnMTc4Q1llRHp3M0lIUEljQVZlWVVrelREN0ZaR3ZkUFN4OXc?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 13:15:59 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejBUXzcxOHI0Z0dYUTBSeHdDcWdKQTc5WDlnVk4xeml4UTJpTjViR19hc1JtWTJ4WjVfMXV6RDhxemYwOW94Z2xwdXJ3U19NR2NCV3NpMWYyanUzS0E0aVpXZ29pbTNleWk3Zkk4SmtacUJkM0g4enBRdGYydWVKS0QxUDNndG96WUduR1ltNHljZEotallkRXlYM1J2bmZscmRWVXh5NThHWUdlVmR6ZGlhMmRIUXMxd1E?oc=5",
           "pubDate": "Thu, 22 Oct 2026 12:51:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Saudi Aramco tells staff to evacuate Dhahran headquarters, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNDNYdWIxY2pGbkhqRTlJNmJRMUE4N1RsclJwWklRYzdQUy04Wi1ObjlQNm1JaER4QVpRREs1NkdOeVNzYi1wd3lURFQ0S29OYkdJOERlQUdlSlBQMU1Mb2VzRDVaZlpUbWt0UGdpODc3a0FjWkVoUDIyWEZCeHlSd2JfZkIzLVNNVV9LSFcyVGpNaFU0S3JOV19wc29qWU90SGJrV04xRlQ5cjlBMUp0dFZ5UlgzR3F0MEdJXw?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 12:51:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US weekly jobless claims near 57-year lows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1lNaWxpcFZmNGx5cEFsQ25QUUNuM0ZkVzJXaGdxdDRFdXNpNGVyYlhhV3JLcnpoMHJKLTZhMWduY0hQYXFPM2xBRjl5TF8xaXAyNU40UUtnTl94TDl3eUVjSHlleXBtenZHVDNpUmw5LUxRMDJNNzF2VVlxYmVodVpWUE5PWEdtVHRSZmdzR2w?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 12:41:43 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T14:00:33.309Z"
+      "updatedAt": "2026-10-22T14:25:17.594Z"
     }
   ]
 }
