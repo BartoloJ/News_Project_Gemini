@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-10-22T15:00:22.911Z",
-  "lastChecked": "2026-10-22T15:00:22.911Z",
-  "lastUpdated": "2026-10-22T15:00:22.911Z",
-  "generatedAt": "2026-10-22T15:00:22.911Z",
+  "fetchedAt": "2026-10-22T15:25:23.860Z",
+  "lastChecked": "2026-10-22T15:25:23.860Z",
+  "lastUpdated": "2026-10-22T15:25:23.860Z",
+  "generatedAt": "2026-10-22T15:25:23.860Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "French weekend protests to be limited to union demos only, says Macron",
+          "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 22 Oct 2026 15:22:48 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Damaging hail pelts Phoenix in rare storm",
+          "link": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 22 Oct 2026 15:11:49 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
           "link": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 22 Oct 2026 13:36:21 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Two European women held captive for more than a year in Niger freed in Libya",
-          "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 22 Oct 2026 13:22:39 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "AI discovered a massive cyber-security flaw - here's what happened",
-          "link": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 22 Oct 2026 12:17:44 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T15:00:21.588Z"
+      "updatedAt": "2026-10-22T15:25:22.386Z"
     },
     {
       "name": "NPR",
@@ -81,6 +81,12 @@
           "source": "NPR"
         },
         {
+          "title": "Trump merchandise stores are closing: 'He has peaked'",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
+          "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
           "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
           "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
@@ -99,12 +105,6 @@
           "source": "NPR"
         },
         {
-          "title": "Trump merchandise stores are closing: 'He has peaked'",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
-          "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "See how Big Tech is transforming Spain's landscape",
           "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
           "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
@@ -112,15 +112,45 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T15:00:21.976Z"
+      "updatedAt": "2026-10-22T15:25:23.312Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "AI stocks undercut markets worldwide as oil climbs to its highest price since May - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbG9Bb3haUmhvOWFmQ0t6bWoyLThHN0pFV21XNjVOVXpsVmFBUEFhSk9HcC1ZYkV3eFhqT2d1SEFSQldtdm16YVM5UW1nRU5yc1JGRVkteEhNZmx0eEpOck1HdnNXNW1TSnh4YmRHU3dyeGdXdzdUZ3JsdFNHVUZwWEZrQVRXUWtrbHlJbDh1eDBSVU9iOUJScQ?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 15:02:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iran says 7 tankers damaged in Strait of Hormuz, and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmxkSUw3N3BIRncxYTA1MkE4Y1JuX0dKaG1kSU1jZElzcFVoWFk4REluNnd2VjZZMFo2S0c4U1k4VG9QaC03RF9zakxFQWpZQURfRTdLazEyaXFETmtNS2Q0TjJHamY2cTVPQ3JaRlBZZHhoRS11ZHFLblp3am05aGpaT2hUcW5UZDQ5bFJ4SGpjd0k0NVpiLTZFQlA2RVpFaHJZMA?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 14:59:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Powerful Democratic Virginia lawmaker Lucas is accused of leading a marijuana criminal conspiracy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWV9EN19IUDB3X3ROUy1MNUhvTnh1cUdDMHJQeWhhLVBWTnpiNXhSQkV6a24xdWF5SXVmN184c3UwZFVzc3pOMWpOb25PZkZFbzY4LThoamJBSXJZRFBnR0hUWFBBMk5pOTUzLVFkc3BDcFhUVS1JcHROdmUtN0Q4RFh3cDVPNjRFNHM5WHFUYkZzdE9jTWt0ZW5KMTY5MXRpVms1cDluQ3Y2b19j?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 14:55:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Rush is on to patch a software vulnerability that could impact 70% of websites worldwide - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXNid0stVGgtZWpqaVMyd01mNVgzZndaWHhnUTlFT3FKQW1PZ0daVDBfMWxSbThxUzdCSnFNT2U3YWFnMjZvMDVnVFVyUW1DZENvWnFZZU5jRFNCUnlsRE4zU25FZzNpUEUxcDhUYUs3Um1ZZW5tUEc1Z2FwdUF1d2lqVXZ1Z0JyVVkxR1FrZVJ4QTZVX3J4cGZRN2ZiUQ?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 14:55:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Ukraine’s strikes on Russian data centers disrupt key services and derail AI research - AP News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWpTNEFPQ2s1OU5QRS1HMzBDVExXeFRlOWUxRzNWamxYTjREcENTMmw1VWlrNkRpdnFNRUFXLVZTUjI3SkZqRlhIZVVXc2hhampybC1pbHVkT2Nhd290ZVlOWEt1TDA4YzgwUUxOM2k1OEE2UFZGWi1DRkU2ckwxVHNZR3pQb2tVN3I2MjFfQlhMZjhqSDdXTTFyRUJCUlFueGlF?oc=5",
           "pubDate": "Thu, 22 Oct 2026 14:44:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Republican Gov. Mike DeWine denounces Ramaswamy ad featuring Democrat Amy Acton's estranged mother - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHJha3luejFTWGJTeDZwUWtqN1F5WE90REVnTEhhSzhSZnkxUXJTMU5DMVRYX2hMajJjMU9BcU1aY05tUE1yVldGdXY4Mk5nTnRnWU5NUC1STmMwWnB2SDlpWjR6MEhkWk5ISlF4dmxuWkJJUXBrR1NuWjQ2eVptcm1HdXI0WWxrVlZ2blBRd1A5T3pKTFl6Ri1ndU9vVVgzS1Zrc0xycHk3cF9POVow?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 14:33:00 GMT",
           "source": "AP News"
         },
         {
@@ -130,44 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Rush is on to patch AI-discovered software vulnerability that could impact 70% of websites worldwide - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXNid0stVGgtZWpqaVMyd01mNVgzZndaWHhnUTlFT3FKQW1PZ0daVDBfMWxSbThxUzdCSnFNT2U3YWFnMjZvMDVnVFVyUW1DZENvWnFZZU5jRFNCUnlsRE4zU25FZzNpUEUxcDhUYUs3Um1ZZW5tUEc1Z2FwdUF1d2lqVXZ1Z0JyVVkxR1FrZVJ4QTZVX3J4cGZRN2ZiUQ?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 13:29:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iran says 7 tankers were damaged in the Strait of Hormuz, and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmxkSUw3N3BIRncxYTA1MkE4Y1JuX0dKaG1kSU1jZElzcFVoWFk4REluNnd2VjZZMFo2S0c4U1k4VG9QaC03RF9zakxFQWpZQURfRTdLazEyaXFETmtNS2Q0TjJHamY2cTVPQ3JaRlBZZHhoRS11ZHFLblp3am05aGpaT2hUcW5UZDQ5bFJ4SGpjd0k0NVpiLTZFQlA2RVpFaHJZMA?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 13:13:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "European Union awards top rights prize to International Criminal Court days after Trump sanctions - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeUlQcXVrZnNtRVFtb0d0VldXeG1ya1htcVJyMXVjVklUYTZIZ0p6NXRORTdhY3dtLVRJbDdkSXN3Zm1NUnNTbkFrRVlnWng4VUJ6NVFselBpS0ZrNkhJdTlONVVnbVhYQnhrQ0thRW9oYmk3S1lEQmJaLTJadmhOdV9fSmwzN2diNVU0M0NwWFRITUxuTGlmQjhMdlNFOVZVbks4Wk9jZ2Z6Q1hE?oc=5",
           "pubDate": "Thu, 22 Oct 2026 12:48:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "US jobless claims fell to 194,000 last week, lowest since July - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVMxRFAzb3Zub0ZNSEgwc09QUENPdTcwUDlaNTl3cEJEMm05R3NENi1sdkk5bE5scXA0MWIzYVdIVjFZVUNNTUlsRk9Qd2tYQk55WHdfODJpcU5WZmZaaDNmbDdOaUdhaGlCU3MxLTd2S1M3S0JDX3RGdklJcFNCQnhhcG5mZFpnNGdBSkxQWExMU0NKaTlpNnJRSlM?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 12:41:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "An Austrian and a Swiss woman freed in Niger after a year and half in captivity - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDhvR2ZULUl5RXRHSXF1YWFWWC1SY2pHNURnak9wdF9sVUkxakMxX0JNYlY4Q3kyZmVzcktoRVlTRTlnODJSdkRWNVRDTEZTTkVadlpETEpqekNMaUFhdXdXcEltUW9EZTM5bmFUVl9fODI4d0Nubi0yQTQ3QnBYYkkxWVZXMnczb05oc1BGdXJ5Tk5GVDZjOQ?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 12:03:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 10:31:24 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T15:00:22.486Z"
+      "updatedAt": "2026-10-22T15:25:23.839Z"
     },
     {
       "name": "Reuters",
@@ -182,6 +182,12 @@
           "title": "Comcast flags over $1 billion in restructuring charges in fourth quarter - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjJ2dV85cGc3bEF1UU1idGVnc1NnTC1tcUsyY3dnSkNXT3dEbFpURzVHS2N4c2gwcmpqWjVYTktNdUJKM3NvbjNJbHQtclg4QllDNDVrOXJJZUpJVWdiNnZnZDJ4dXBNRVZjamJ6MDltMXh0VlZTX0RJeXhuRTdUa0tHaVRobHpRbWMxQjY3bEx5SmF3cEFRSENMY0tseGw3OFB1alMzRUlwQlYwOW1TdDNoMmFWSmxYOEwtNlNwclVCdUU?oc=5",
           "pubDate": "Thu, 22 Oct 2026 14:27:59 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Meta falls as investors balance Muse growth with rising AI costs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnFibXQ2bEZfUWFpTEoxYTNPQ3dHTlMwMjZRaFcxZlphTlplUlNFWkgta2xwdVBvU0l5OWNkMEctQmNrM2s1UDRpSW5jNFhpLW9TQUlzYlpmZFZudjhvM0RtcC1hQ24xSmVOMDYwbUIzNDQ3NlAwTEpILTc4akh1czlRcThIUnU3Y2VkbWJJWE9jdXJzbWtzclVfeUh5RzN6UzdaTlZjRWlMQQ?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 14:15:11 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
           "pubDate": "Thu, 22 Oct 2026 13:36:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Anthropic IPO stands alone as AI market jitters sideline others - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2RHNFI2M0VmLTVfUGwyWjBzTFZwcHBoNlFwZEttM3NHOHBVQzJmZmp0YV81V1lyX2VCWFZGMENVZzRhV3lPbVYzQWE1cHIwejVtbzlGR1hmMWpPTUlhM2pObDMyM1ZBMmEtbm14QXVnMUkzRnZvY25sTHlXM0hmTnNwbGx4SjNGaVhseGNHUVVQb0VzaVFVWTdVTUVMWkRVMS1JaFZWbDkzNmF5UEtWWWs2TEZxdjA?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 13:26:38 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T15:00:22.911Z"
+      "updatedAt": "2026-10-22T15:25:23.860Z"
     }
   ]
 }
