@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-22T19:00:24.596Z",
-  "lastChecked": "2026-10-22T19:00:24.596Z",
-  "lastUpdated": "2026-10-22T19:00:24.596Z",
-  "generatedAt": "2026-10-22T19:00:24.596Z",
+  "fetchedAt": "2026-10-22T19:25:12.426Z",
+  "lastChecked": "2026-10-22T19:25:12.426Z",
+  "lastUpdated": "2026-10-22T19:25:12.426Z",
+  "generatedAt": "2026-10-22T19:25:12.426Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T19:00:23.264Z"
+      "updatedAt": "2026-10-22T19:25:11.948Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Federal judge restricts DHS field operations looking for noncitizen voters",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6012682/judge-dhs-noncitizen-voting-operations",
+          "pubDate": "Thu, 22 Oct 2026 15:16:20 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
           "link": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
@@ -75,7 +81,7 @@
           "source": "NPR"
         },
         {
-          "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+          "title": "Achy from sitting at a desk all day? Try doing this",
           "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
           "pubDate": "Thu, 22 Oct 2026 05:01:00 -0400",
           "source": "NPR"
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
           "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "See how Big Tech is transforming Spain's landscape",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
-          "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T19:00:23.430Z"
+      "updatedAt": "2026-10-22T19:25:11.987Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Iran says 7 tankers damaged in Strait of Hormuz, and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmxkSUw3N3BIRncxYTA1MkE4Y1JuX0dKaG1kSU1jZElzcFVoWFk4REluNnd2VjZZMFo2S0c4U1k4VG9QaC03RF9zakxFQWpZQURfRTdLazEyaXFETmtNS2Q0TjJHamY2cTVPQ3JaRlBZZHhoRS11ZHFLblp3am05aGpaT2hUcW5UZDQ5bFJ4SGpjd0k0NVpiLTZFQlA2RVpFaHJZMA?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 19:06:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Almost all coral reef ecosystems face risk of collapse in 50 years, study warns - AP News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVRnT1BVWjV3ZnYwR0Z5d0tOb2xkRjNsT2pKRVF2a0lnbmcwSzN6YkRDc2sySU1fN09FRW93cUlhQVhjSE1nQXBhYS03WEVMUGZRQWRabHUycHVIbUJXQVpjYnA0czlPZTVSOHdFVl9jcXgxTkhvM2d5OTNybDFaTldtQ29TUERmYzJYbDlZWjJFaktTMnZfR1dnMUJDYjRNc3E5aklGb0NwcjQ?oc=5",
@@ -158,24 +164,48 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTlBGb1hNeDZkYm1CcjFjcloyQ3lNVjZhQWVLb2tSNTRUSXd1VDMweHl1RnYtdy1aSHNiekJZaFQtd2RETllQVWU1MmNvWGlWYTlEUVJNY2dJbXlsdzhsNmt5SGl2UERSdmlnVy04RlhtUUU2S01CTGgwWWlQc2VrbWlxUkRkempWaWp2TWRJcFVTeGNIcXJET2d5RV90dw?oc=5",
           "pubDate": "Thu, 22 Oct 2026 16:19:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTE5OWjZqUUw1RlBFbXM0Z1N2R1dqNVo0YkF1U3diZFhJeHZxdWZuZHJNTlZNQzBVY0ZHdkVoWW5nUGVxdTJGYmxncUlYbnM0YU9UR0ZtSllZM1otYTNWS2cyM0lDTlA2U3hYYVNpTVU0MmFIendPOVBJaW4tcDRnTElVeEdmdHppaTRPNHZfTQ?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 16:14:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T19:00:24.090Z"
+      "updatedAt": "2026-10-22T19:25:12.417Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejBUXzcxOHI0Z0dYUTBSeHdDcWdKQTc5WDlnVk4xeml4UTJpTjViR19hc1JtWTJ4WjVfMXV6RDhxemYwOW94Z2xwdXJ3U19NR2NCV3NpMWYyanUzS0E0aVpXZ29pbTNleWk3Zkk4SmtacUJkM0g4enBRdGYydWVKS0QxUDNndG96WUduR1ltNHljZEotallkRXlYM1J2bmZscmRWVXh5NThHWUdlVmR6ZGlhMmRIUXMxd1E?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 18:58:52 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
           "pubDate": "Thu, 22 Oct 2026 18:36:19 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China Evergrande liquidators recover 1% of debt claims after 2-1/2 years - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVzN0dTBZMTZadGROV3h5d2NiTjRQUXoxTHdVOGJ3OE5sR2g0Z1lYYV9nWDZPUlk0d241ZDJuMlVxbXk0bDUyR0ZVQklaT18yVHFicnYwNlZrdmVsMkQ0YkNXOUhqajlPN2c4QnFmOGhXQ1VMc25rZ28wT0xmTGlVZ0FYQTh3dWt0cWFZeTRhaTJLTVhreXB2TU5aRDMwT2pFbUhZMEkwbHp4VU1WdDlTUWJWRFpxd2hDaHQ2RA?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 18:33:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Steep bill for AI buildout punishes Meta, other tech favorites - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG4yYUM1ZzJnZmtpWnhIUVEzU01PRmxZM1BDRDJLazA1dkdaX3k0Z2pPMHJJUi1HUEM2OF9oV1JzSFh3d1dEU0dzc3JMQWRCeDhRa2JvNGVBbVluUlY4UGY3REoyWVZkTFBZT3BGa0swX2s1RzY3MDM5ZWlBTm1wYVBYNEt5M2VlTFoyRVNTTXJUaUVVYzVNcUtQQ2hfUW9nalZGbQ?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 18:33:24 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Polymarket, Kalshi expand political donations as firms face state, federal scrutiny - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZUpLOGU2QlRJRU1nX19LbkdpWi1na25SREFKSTFhVGNONk1wTThtZGdVeDlCeWtUbndrYjM3S0xNUXowZ0FiY01Ka1FsemRWOE5PQVkwNWZueThKNnN0djExRkw0VEhJczdBckJLRHhlZG5NNXlMR0xyM09RLTk2STVjaVQxZWdtelZjdmg5WTBrMjBINEsxenRoWWNSMjFSejU1Y254NUh1NnVjcEEtaHRycmtaQl94WU1iaGI5LTR3Yk1vQkR4YW5CNA?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 18:27:27 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0FDN3RkbzZGdXBNaHpWZHZRd2h5dUVnSzlYQlNDU3dCN0RsUUhqblZXcjVzLUJzNTJtZjJGRjNRY0NwejZyc0Y4MG84cUxaUTNjc0djN3gwa3ZYaGN6d20yWkFmS09sUW94TGo3WGpTTGNLQW9YejI3Y3hMbDJjbXA4dEd5dGphRzlNdkF6T0ZMMjRycm1CWUxRLWd6QUUyYmtYcHRKY21KSzl1bmRJZmNBS0trMVgzcVJnVkQxTURqR1FuRzJjeFJ2ZEx3ak9FTDRBX2NlbzlPWVg4SW93?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 18:27:10 GMT",
           "source": "Reuters"
         },
         {
@@ -189,40 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc0xFbHRnZ0VNY3ZGOXExUkVOWGM0TG8tanhZSjduQzkxc181cGllQWdRMngyeUF3SGJrWkMxd0lFOW5sTTBxVngzeTFRR1ktY0lvQmpEakxKaTZvYmJ6Q1pvVGpWUUR3bHpCS0g2bGIwRHRrbmo5MnY0bGZFWEluTnhmYzQ0NTlvMERBd0FhN0ZQeG5Qc0MxV1ExbV9BQVJ2TmN1OVN1dldDNlNwM1lyQ1d6T1o1cjlfM1V1dFJWTUFWdzd3SzhNd3Vn?oc=5",
           "pubDate": "Thu, 22 Oct 2026 18:20:37 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Lockheed lands Pentagon deal for 850 F-35 jets, lifts annual forecast - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3pGWDJ1R0tqbTE0bjZKUWJpYzNBUTRWQ0R6aldubkxSbURhSEVmQmVyUmt4WTBUajVCaGNINDQ1QV8wQkRqVXp1a1JKV1FlUDVnRkNHUkwxa0ZneGwzenNOYzdmSXhRTVN5RGVDbURXTEp5eURJMXkxUUNkZDY3RGk4SGt0b1hHaVpWUnc1UjVZSXhud1VteFBhWWhtSld6MUhsMm1HSjROS09ZNHpPdlF2V1RkSEdyOTBfQkEzRHJCWlE?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 17:53:29 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Rhode Island sues Meta over alleged tolerance for scam advertising - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUNSb1JoQzhZT0lZU3FBLVo2VW1wczU2ZkdCV2kxMnNhSkVueFpYbnJkaTROaEduMkd0aEd3RkFTdHJReTFwSkpqTWdxM0taeUFOdUxaQ0RkZFppNHFjNnpwZU1JWXVSVGJLX2MxZUQ4LWZvaXVyUTlnUTRHS1N2RUh5UjNZd3dNT0hNc0tIbVV1MGtRaE1RS1lRY0xqM3diblM3ZXYtWQ?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 17:50:25 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejBUXzcxOHI0Z0dYUTBSeHdDcWdKQTc5WDlnVk4xeml4UTJpTjViR19hc1JtWTJ4WjVfMXV6RDhxemYwOW94Z2xwdXJ3U19NR2NCV3NpMWYyanUzS0E0aVpXZ29pbTNleWk3Zkk4SmtacUJkM0g4enBRdGYydWVKS0QxUDNndG96WUduR1ltNHljZEotallkRXlYM1J2bmZscmRWVXh5NThHWUdlVmR6ZGlhMmRIUXMxd1E?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 17:36:31 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Meta shares slide, default insurance hits record as AI spending alarms investors - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnFibXQ2bEZfUWFpTEoxYTNPQ3dHTlMwMjZRaFcxZlphTlplUlNFWkgta2xwdVBvU0l5OWNkMEctQmNrM2s1UDRpSW5jNFhpLW9TQUlzYlpmZFZudjhvM0RtcC1hQ24xSmVOMDYwbUIzNDQ3NlAwTEpILTc4akh1czlRcThIUnU3Y2VkbWJJWE9jdXJzbWtzclVfeUh5RzN6UzdaTlZjRWlMQQ?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 17:21:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US airlines struggle to offset soaring fuel costs with big fare hikes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalVWOWpxTXAwZ1M0cmFmTFRxZ2dMRzU0SEIxcVhPVVR4T1I1OUd3MGVtb0d6alVyd2pJakpUUUQxQ1FlMVc2eWVtWHVTQWlIaW84RUhBU0twdnpmTkZfUkxiQlVJWE1TeDNVMk90ZjI2NGNpU2F2Um1TSVJEck91cXZ1OHZmVnpLdWR3SnVicVJNMklNRGdLaXZybHRZYTFTTTNZak9IZEtKRGxPQTFVQUF3?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 17:19:51 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T19:00:24.596Z"
+      "updatedAt": "2026-10-22T19:25:12.426Z"
     }
   ]
 }
