@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-22T04:25:15.075Z",
-  "lastChecked": "2026-10-22T04:25:15.075Z",
-  "lastUpdated": "2026-10-22T04:25:15.075Z",
-  "generatedAt": "2026-10-22T04:25:15.075Z",
+  "fetchedAt": "2026-10-22T04:47:02.035Z",
+  "lastChecked": "2026-10-22T04:47:02.035Z",
+  "lastUpdated": "2026-10-22T04:47:02.035Z",
+  "generatedAt": "2026-10-22T04:47:02.035Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T04:25:14.115Z"
+      "updatedAt": "2026-10-22T04:47:01.376Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T04:25:14.223Z"
+      "updatedAt": "2026-10-22T04:47:01.611Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 04:12:05 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 03:11:12 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Russia frees American Stephen Hubbard after over 4 years behind bars - AP News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2pKWm5lTVpmeW5RRHktWU5US2dTSS1fTDhuVjhVUjYyd3I5b3h2QzVfd0pDcm9WM1BFaFpQZENlZVMtdEoyNUQwTEJwTVhyckl0bVBYYzIxcVl1UW5FSzRUVXdIWUV3a214QnVhb1FJSkNjTFFEU0lfTGhtVTdWQ1RDVFpFQmhneWk1UVFBRHlHX3lmY0xTYU5HOTFYdmxYd09meDFTNkg4cmJ2Tlh6UnRFZGoxRlE?oc=5",
@@ -136,12 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 01:28:28 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFRhSTJyT3RrVXFVUzRQRnpqUndyLTduTjdsVGdNdFQzandyVk5DRU1tcUZaX0xWWW4ycmxYSmpzcmN6UjJ1Mk0ycGpSOHVtZlJOaWo1b1J0RVlnelJJa3dTYWg2M1RYN3M3UVk2MHU1cUM3TUpETkpfWUI2eDl2amNLQzBJWDVxa1lxZEtBWlJYNFBrRDM1V3ZUQ29NTmRI?oc=5",
           "pubDate": "Thu, 22 Oct 2026 01:13:00 GMT",
@@ -158,20 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYi15bDZyMlRaQ3h6RHViWGZmM2tOdGZTLWgtaHFEYVBRdnlScXRMNVA3TnpuVTBZNWNMaThmREI2eUJCLVdFSnpEOTVfU2R0M3M5OHpLS2VqZWdkaWE5b0dQcnFmTERFR25SelVXNG91UXJSSTFRYkVXb2d1OFNqTEstMTA0Z0ZhYk16enEwYU1lY2xuSWxVZTdUdmpWV0tDVld3dlRR?oc=5",
           "pubDate": "Wed, 21 Oct 2026 23:30:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "New Mexico attorney general accuses Epstein attorney, accountant of abuse cover-up at ranch - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3NydUNob1RqQVYxNUhyZHhCcFlsV2txQ3pMVWxCT0oyWEJHT2JkbzV0WHRFYVF6OWRnVU1KaVZsNV9oY25IU19SZWNEUWJ6T1A5aXJaZlZVUDBjNDVnTEJDdy1yU3JFbkdBX2EwZ2RudzRMc0VxbEpSTGI3Xy1LSGVJUXVNaDBtMktSYXdQcnJlQjNnUmFR?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 23:27:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T04:25:14.638Z"
+      "updatedAt": "2026-10-22T04:47:01.652Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Australian TV reporter rescues man from sinking car during floods - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWGdzeDZIcFF6aEN0cy1xTWo4T0tXWkI2RHg4UFFDQlM4WFFyMGJSVXpiazI2aklQdjd0OTVDVVVZUFp1bjlnSGZaY0EzMk5WYkthRWdsU3RUdW80dHZHUzV0VDBVck1zTE9remduZTMyV1M2NHZZZ0N0M3VjV0lTNm1TYXczMU1FcUd2ZnBXZnFhTTNjZkFDTExWQUNhMkdYeEFLamxHbWNQWTU3anFwc1pLV2FLclhw?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 02:36:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Taiwan probes organised crime links to China's 'transnational repression' - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNejRPNmlvaDhHZDJQYlloWDU5cnZpTHZEOU0yWHotRTRsX3Q0TGs4V1F3ZzRBLVNqMnhSVUtNS3ZlWGFTVEU1VUJodkdZMUR0aFUxVnhqU1lVdWEyTlI0dVp1VmRncVIzVDU0WmtxcmI1TXo4cHh0SDhGWXJHY1lSMG8wSnJuUWRrbkI3VXhqWXlUajNuSjYwTFRyNWtOSzlDNnZkamRWRFBUdjVkQUFaTlhSNHZGQQ?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBEdGVKYmZ3VVpJajg0TW5DN2VHVEM2aDVTcFJKQVduMnVMTU5NbVcyMGxBanBHY3VvMzJQR1VrQWM4b0hLeG1YaTFWcldTeU9yTlBXc3FiR1FtcUp0SmxhRkJkWmpmZ2x6X3VGZHZEUDNLTE9LTFZNSlBWWjNJVGtaV3YwWkc4QVhxbHozYkx5THpZMVlYVDAtd0dqbUMyOUcyVk91NEYxaFFCZklRWWhjQm5qN2NvVHdWdnZIQVJSMk0?oc=5",
           "pubDate": "Thu, 22 Oct 2026 00:46:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "China, Djibouti say all countries should enjoy freedom of navigation in Red Sea - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3l2ZmtzUVhITGFNRFEzdmNhN3NLUkZJcTdoZHpXYklPc2NYYU4zN1lTandfbnFqZllHR2FnamxwbTBpd1k5R0xnSG0tYktwWDJMbGZqMl9fbHlnN3Vjb1oxQWJBYjJNdHFrSEJ5Mm1iU1R4MV9VSG80UHZEWG1uMzRrckxUVDE2SlJpdU5nSmktaVJpdkhrN2VIb1hHSlpxQ1RMSFd5Tk8xNFVOUEhqdTJtbWYzYU9MNnV0Sg?oc=5",
-          "pubDate": "Wed, 21 Oct 2026 23:58:50 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T04:25:15.075Z"
+      "updatedAt": "2026-10-22T04:47:02.034Z"
     }
   ]
 }
