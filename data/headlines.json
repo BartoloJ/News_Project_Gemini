@@ -1,12 +1,24 @@
 {
-  "fetchedAt": "2026-10-22T08:00:19.653Z",
-  "lastChecked": "2026-10-22T08:00:19.653Z",
-  "lastUpdated": "2026-10-22T08:00:19.653Z",
-  "generatedAt": "2026-10-22T08:00:19.653Z",
+  "fetchedAt": "2026-10-22T08:25:13.634Z",
+  "lastChecked": "2026-10-22T08:25:13.634Z",
+  "lastUpdated": "2026-10-22T08:25:13.634Z",
+  "generatedAt": "2026-10-22T08:25:13.634Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Two European women held captive for more than a year in Niger freed in Libya",
+          "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 22 Oct 2026 08:21:13 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+          "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Thu, 22 Oct 2026 08:15:48 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "What is PHP and why did it spark a global cyber-security scramble?",
           "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 21 Oct 2026 23:52:12 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Trump's green card curbs test Indian tech workers' American dream",
-          "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 21 Oct 2026 23:06:37 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-          "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 21 Oct 2026 23:04:03 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T08:00:18.686Z"
+      "updatedAt": "2026-10-22T08:25:12.412Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T08:00:18.738Z"
+      "updatedAt": "2026-10-22T08:25:12.782Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T08:00:19.243Z"
+      "updatedAt": "2026-10-22T08:25:13.223Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Barclays to cut 5,000 jobs this year - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNnpycDlZTWVVLTN4MW5nX2gydHZsVU5iZXlqdVktS3J0d1A2Slp3U1VOWng3bGdla19QV1FQbnpOZVdpV3FLUFh5UUx3dldxR3dLZEhPcWlRZG1qQjZJb2FBQXZINlFHbUE0MjB2Z0lvbjlyUGNXSUdfNG9VdVc0d1I4dHFaZXFjeHF6RVZwYW5hZFl4aWc?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 07:41:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdTVKdGwtT1Q1eW9NVV8zZG9kakgxTk5vendNTS1NcEZYMEZGNE5ERVNCRkM3Qk5XMlZaY0xMeXIwQlYwMzJvQmpxc2M5SVlMbEVKYWpCMEsxSjA1Y1k5b1RkcXRKSFRSeUhQSmVhV2JvZ2V4STZzdmg2YURIOXd2dUVkTDdLQllVTmlNYjB3b0xkY09YMmd0b2ZNcTZSb00xc0R0VW5yZ1l6UkdTREIyTk1zZnVCS3RqcDE4Q0llaGF1UFEtanVTc1VLcF9XVVJyQ0wycmUzbnJZRTQ?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 07:37:51 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Israeli settlers steal Palestinians' olives as attacks on harvest grow more violent - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVhDZXVHTEtXNnJyeEx0a1ZvUS1iU3lGNV9Ia2dNTmljcm5PaVNvYUZ6ZkJsUGtoTjF6NDktS0FYeEstZEhOVkxvWUZmNU9VV05IUElNbTlHZk1iZGFNUVdzNXBXX01MVW03LXhnRTNVbzZRYlBKdExpeU5ZbHk3aldOVktTT2NRQmJ3Yjd4OEM4Q21JZU5GejMzRUhBbmxBamtBVmEzRGQtb1VnZ0E5dXJ5RUlfa1M2bHJvLTdWcDBjeWl0aFhSVzVn?oc=5",
@@ -182,6 +194,12 @@
           "title": "Love affair to staged arrest: how a Romanian from England was jailed in Russia as a spy - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhoaWxKeDNRbGdTZjZ2SlJvZHRVaG95WkpFQWZndWlnRjk1UFhNVGlEN1plakN3TFNxT1dRanFFa3dJQUNDaG1BalJkUWxnUjdBeTQ2VC1QalFUWC1NbTktR094VTZHMUpXMklISUJreWNoaEExX1BUMTg3T0I5VEVXTHBlX0lmYmYzV2M5VmJfR0s3ZmRmenJMZDNBUnViZFU3MFA4bWhFekJ4NHRj?oc=5",
           "pubDate": "Thu, 22 Oct 2026 07:10:35 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Beatings, cyberattacks and threats darken Vucic's Serbia ahead of elections - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWi1Ua0t6Rk5DTGx5YmJYb1ZRTzVMQVJYbGxiUWhpXy15Y0dIckVwRWdFVEtNQXVsUGduYnNncFBHM3lDVHRCLVNZT1BXUW9SWkduLUlxbm91TUdvb09kMHdhMTcwaERRQUVYQlViRmNaeG56UUFESGtWSWNQZGJ6RFdYU3owQWJBUkNyMHFuVUlYWGp2elQ4cFBDQ0gxRWh4R2hsYzdUa3AtSm9vRkd5akZRNThWUQ?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 07:09:43 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGZRdGl6WGVvRzVoeHJYZ051V25FN1lYV0Vna0dHaEctcHROaFFvSEVlWVd1RHptaTJfc2dkV1dOU1FPeUxfTFhFcDMybGthazVhcXo2WXB0N1liR1Y5OWk0cEYyb2ZFMXM2VGljUFV6SWM4Wm1ITUhGY0t4WHFjanJ2b0Q5RG9OUmNzYkJtLXRzNDFXVlRfWGpuQUhwQjRiYS03cFVOZ3dhUTZmN0JJ?oc=5",
           "pubDate": "Thu, 22 Oct 2026 06:08:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Ozempic wave boosts US cobblers and tailors as Americans tighten their belts - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVWszWTlwV01lN2w3amlwNklEUW1falNzYmxhUjZCWFljU1NIR24ycFU1Y3podmg0bHFoSEp3Z3VBM05BeHZJeXJJWGZLYzBPcDVYcTVRREdrZlc2VHVUOUdNakNjN2xsRzZqQ0I2dTJEWVJoZ290QzBQeHFFLXJabGlQcjZ4eVZZcGRjdzFDTWQ1WWZfQlRVOTU2Z2wtbFgzcE95RFpaemQ0eFh0c0NkQjZjV0w5eEpNcFhuNDlyajZFc0Z1N2pfWGU0azVNVHpJSG5KTU9iSW4?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 06:07:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "LSEG to buy Octus in $3.5 billion mega data analytics deal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlhBWjdBekVLajlGM3MwN1ZnWjRRMGR5OWxkalNveEVuNEJrUTBVOFBNM0x1dENhckFRUzFzMnh6VHVJd2dHMXFLa1ZGdkU4Qk1hUTRuYU9MRGJmcnJXNjRnOWEzdW83cktMemxLYUdyX0F5bTJfSTZFOU1wclRsWlkwRkdodHBEeG1qVW5GUFRsVXBsV05ScEdjbTJHNDg?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 06:05:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Palantir says it cannot shut off NATO AI system as Europeans fear US tech dependence - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDFzczJud3pHcEZobURrNEhua1BVYm43Q2FSbFF5N2Jzc2gta1FnTm1wcVRseGVvSHhUSEZ0SnlHSXlsR0VKRW9rRGszYzRwLW5mQWdLZk9FVnMxVU12ZjBKZ21yT0lYNXZVTW1lRlBWWWV5d0g2U2F6MDRwajYtbXdOMDBXNjducVgtbWMwZmpBT3cyb1VqRTVPbjNsMk9OTnpqOTJUUFZMRkJWMW40V3lCLWpuOUREWU5sejd5UGdraHJGWWM4Nw?oc=5",
-          "pubDate": "Thu, 22 Oct 2026 06:04:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-22T08:00:19.653Z"
+      "updatedAt": "2026-10-22T08:25:13.634Z"
     }
   ]
 }
