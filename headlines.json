@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-23T05:25:15.053Z",
-  "lastChecked": "2026-10-23T05:25:15.053Z",
-  "lastUpdated": "2026-10-23T05:25:15.053Z",
-  "generatedAt": "2026-10-23T05:25:15.053Z",
+  "fetchedAt": "2026-10-23T05:50:24.999Z",
+  "lastChecked": "2026-10-23T05:50:24.999Z",
+  "lastUpdated": "2026-10-23T05:50:24.999Z",
+  "generatedAt": "2026-10-23T05:50:24.999Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 23 Oct 2026 05:16:37 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
           "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 22 Oct 2026 20:49:12 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-          "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 22 Oct 2026 19:27:57 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T05:25:14.067Z"
+      "updatedAt": "2026-10-23T05:50:13.220Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T05:25:14.149Z"
+      "updatedAt": "2026-10-23T05:50:13.367Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-23T05:25:14.645Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-23T05:25:15.053Z"
     }
   ]
