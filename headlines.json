@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-23T08:25:12.108Z",
-  "lastChecked": "2026-10-23T08:25:12.108Z",
-  "lastUpdated": "2026-10-23T08:25:12.108Z",
-  "generatedAt": "2026-10-23T08:25:12.108Z",
+  "fetchedAt": "2026-10-23T08:50:14.284Z",
+  "lastChecked": "2026-10-23T08:50:14.284Z",
+  "lastUpdated": "2026-10-23T08:50:14.284Z",
+  "generatedAt": "2026-10-23T08:50:14.284Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+          "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 23 Oct 2026 08:36:32 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
           "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 22 Oct 2026 23:16:20 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-          "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 22 Oct 2026 22:27:53 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T08:25:11.134Z"
+      "updatedAt": "2026-10-23T08:50:13.250Z"
     },
     {
       "name": "NPR",
@@ -99,20 +99,20 @@
           "source": "NPR"
         },
         {
-          "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
+          "title": "Trump merchandise stores are closing: 'He has peaked'",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
           "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         },
         {
-          "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
+          "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
           "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T08:25:11.193Z"
+      "updatedAt": "2026-10-23T08:50:13.411Z"
     },
     {
       "name": "AP News",
@@ -126,7 +126,7 @@
         {
           "title": "U.S. Department of Justice - AP News",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 04:59:09 GMT",
+          "pubDate": "Fri, 23 Oct 2026 04:04:11 GMT",
           "source": "AP News"
         },
         {
@@ -167,15 +167,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T08:25:11.675Z"
+      "updatedAt": "2026-10-23T08:50:13.868Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Eisenkot offers hawkish alternative to Netanyahu for Israeli PM - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORnVtbXdVNGp0NmpKbTE1MzdLbnRRTEZOLXJmWXRqdTRBSTZ5OVM2SF85V1FwbzA2VlJWYWpGUjRqeURkRVM3X2lPbDJxWFkyUHRGeFFTNmRDMk11SVNTSVVzVjBhUTBCeFgzMGZMeEUwNVdYWW5nYWZnelQxMGtqQk5DY1lPdmR1ajVjVGp0NGloaWFOTC1wdklGVGFEOWs?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 07:18:31 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Saudi Arabia postpones UN data forum, Saudi statistical event to 2027 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV1JfaFBoQWFtRjRJcWNCenJUVmExWEpVSHhFUjlpYm1YR3FWX1V4clhRX1F1dWxjRHc2M3dtbmtreWtVc1lDenk0VUhIX2xja0pvZk8tN29lbWRkbDU1S2l0OTlFSzYzZl80RHlqSGJWZVMtOVp5YllQRHl4SC1qcERtclFRTGhPMjg3d3pHRjZWUS1vNS01cGVQUkk3dkN3LTRKc2ZQcFJjNjVXTEJrNHVKd2N3bHIwcGRz?oc=5",
           "pubDate": "Fri, 23 Oct 2026 07:03:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "China's DeepSeek, MiniMax win approval for AI global use, state media-affiliated entity says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUDVGa0hCU3ppVlo3amtaT1l4T18zcHNWWlFkV3Nveks4TDI5RGxkMzE1TFpEZjIxWFBZNl9ILU9SRVdzMEtCX2JKai1FbXlYTTFFX1Y0U3NfRGZuRGttQ0ZKYVhRS3NaUTlEWldxNzVIQUdzamNVMTE1cVg0N1VpLUlweVZlU3lpOGFRajJ6eHItM3NHTGlLVldsVWxnbTcwQncxekJITDJfWUxWUGt1OWx1Zm4zLXdEdm5ja0VPbXNlNmFxWWstT0lfVkZOQXNTNlRYcktB?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 06:59:00 GMT",
           "source": "Reuters"
         },
         {
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Heineken document reveals worries over weight-loss drugs and beer sales - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkxjUl8zRFdLRXdOR1Z3SVFsSEc1WElSMG9OZHRJYW52a3hvN3BVOEJBMHk4YnZpQkRwYnRzWF9qeXhRZjF6M0o5c09xVzZ5a0dwOG1aQ2thYlpKV1RlTFBsVWNGcHdpZ2F4Sld3UWFoY1htZDVld1UwZ0x1MnJ0bnZOdVpMZDlEZ3JmRDhQa3Fsam9UZkl0TnB2eHF3eU1CNGZTWlV4Smt4NDJLbXBzQ1ExekxtWm5uTGtCRg?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 06:01:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Japan to simulate cyberattacks as PHP flaws roil global internet - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT19TUUQ4aFFTY0ZlcnIwcTJ6OWpqY0pyOTBIdXd3LXJUUkxPSE5JM29VVHBSM25STGFqQ09HVGNVYVUyTXNRVHdlN0FHZ1U0TFdkNWs5RllxTVdUeDVQdmhHT01ybzkyQ3VkWW5Ec1pWSEZyaUhzX2xJMlg3SF9BdVlNbzVfcGgwbGQtd2NaZklHWXRNdEQyNHJ1WC1GWVhnd3dOSkw0NVBWbVFFSE0wWVVvM3R4dXc1?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 05:15:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Volvo Cars shares slump on big loss, 2,500 more jobs to go - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjE0Qml6Mkw5WkFyRXlUcjZ3QTE3LWtGVF9kckI3cExBa0dsaHM2S1dyY1IzZnk0aFlYOGc4M1RoYzd0TVQ0aVNWM1I1RmVCRTNDcURBeHluNDFOOEJaMXVaOUo5ZGN0U0RoTFNuUmJHSjVSdFQzcHdCbHdyNHU1cUFaU290VVhzbV9HbVJjeDJrNGV1TGJOdmNzaHdmR29H?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 05:07:00 GMT",
+          "title": "UK retail sales fall as consumer confidence tumbles - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNckFVa0FaaUZEOFJOMG9JSEV2alFUT0NZTDEyRWNPOENoZThvcXVOSEZ2Z0hfWnRvanJjVVNDRUFubXJQUkNhSXIxbXV1dmkwZWI4dHV5VzRBTWV5X05EZUFVRGFTR3F1MVNkTGJST2tnYnFSMkZRVTlOLUVIZkxnUVpORGo2YUNQMkFQbXpKQQ?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 06:04:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T08:25:12.107Z"
+      "updatedAt": "2026-10-23T08:50:14.284Z"
     }
   ]
 }
