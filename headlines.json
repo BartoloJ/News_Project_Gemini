@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-23T08:00:22.191Z",
-  "lastChecked": "2026-10-23T08:00:22.191Z",
-  "lastUpdated": "2026-10-23T08:00:22.191Z",
-  "generatedAt": "2026-10-23T08:00:22.191Z",
+  "fetchedAt": "2026-10-23T08:25:12.108Z",
+  "lastChecked": "2026-10-23T08:25:12.108Z",
+  "lastUpdated": "2026-10-23T08:25:12.108Z",
+  "generatedAt": "2026-10-23T08:25:12.108Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 23 Oct 2026 08:00:07 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
           "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
           "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 23 Oct 2026 05:16:37 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 23 Oct 2026 04:54:25 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T08:00:21.189Z"
+      "updatedAt": "2026-10-23T08:25:11.134Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+          "link": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
+          "pubDate": "Fri, 23 Oct 2026 04:17:06 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
           "link": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
           "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump merchandise stores are closing: 'He has peaked'",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
-          "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T08:00:21.384Z"
+      "updatedAt": "2026-10-23T08:25:11.193Z"
     },
     {
       "name": "AP News",
@@ -126,7 +126,7 @@
         {
           "title": "U.S. Department of Justice - AP News",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 03:01:02 GMT",
+          "pubDate": "Fri, 23 Oct 2026 04:59:09 GMT",
           "source": "AP News"
         },
         {
@@ -167,15 +167,39 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T08:00:21.792Z"
+      "updatedAt": "2026-10-23T08:25:11.675Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Saudi Arabia postpones UN data forum, Saudi statistical event to 2027 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV1JfaFBoQWFtRjRJcWNCenJUVmExWEpVSHhFUjlpYm1YR3FWX1V4clhRX1F1dWxjRHc2M3dtbmtreWtVc1lDenk0VUhIX2xja0pvZk8tN29lbWRkbDU1S2l0OTlFSzYzZl80RHlqSGJWZVMtOVp5YllQRHl4SC1qcERtclFRTGhPMjg3d3pHRjZWUS1vNS01cGVQUkk3dkN3LTRKc2ZQcFJjNjVXTEJrNHVKd2N3bHIwcGRz?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 07:03:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Taiwan says China using militia boats to expand 'battlefield preparation' in western Pacific - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLXNRcVk0YUdENnhwWFpVVWlWSmEwSi0zVEhxVDNQdE5yTGFzRngya0k1eFZIaGNpaDgyMHcwOHk5TnVkbVZZWWMwVnJ6NFVBYjJpWDJ0c1pZZWQxZmVKcUFJU0FZdjNpaGZ2N2ZZeWVVV1RPMk9EN2NKZzBJcVNXZ2dWcGtUX0JkS3JvY0ZqQWtFWGtpRTFqRER1b2NmRU1EVUZpS1h6emlhTjVjU2hZcEtIVHltemdCTHk2SHBwVldqZw?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 06:30:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "EXCLUSIVE: Russian diesel heads to US after Putin-Trump deal, data shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb3Zka2dCZ1RzeXJfN1BWOGlIbHpxODVFbTdvdjFuengzUlVHTkpLVGlOa05wUXNvdWpyNl9MTGRVMTJmWFdMTTFyU3pka3FrZ0hzMGhHVEJTRGpVQXV1TEhPYXBsSjU2UllWZHlfVzBCMnBvT01NbVNUdkJiMER4YWhKZDljRUVMY2N1REdxMEpZVkg1RFhOMGFkT3NnNWljS29Jd05ZLXdNMnhmaUlUZXJWY3hGTzN4b3hEM2ExUGxNcDRLMDVr?oc=5",
           "pubDate": "Fri, 23 Oct 2026 06:27:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "OpenAI and Poland’s NASK collaborate on AI safety research - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXlMRjNfSEdNVUNrX29ZdW16eE9Ra1ZIbFZhTDFGSXNfSTlNSHZFc3k5MW5FbFdiVHU3Y0NzYkhrSTY0SDFKWXBaT1FXY1pXeDQ1SXZZTUFLMnRxbDhJWFJQWUlHOE1QWXRRei1QM19ySm9udl9FR2ZIQTJVZ014RHd5eDVDYjhnWDFQdDVrQ3pCSXllRmZURzU0UTZfSmJzZTVtM0Vn?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 06:25:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Greece passes social media ban for children under 15 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOek1pWHNVaXhQa0ZCNnZBTnNfUEtQR0U4ZEktWjE4YXVubXB4b0p6NUtZRnZPamdIYVZrcVJYVkJRNk1ibi1HRE9uQzk1MXhObjc0dnpRU2g1N0RfUnhFZjg2Z3dNTW1ZUzBIdTRPVWZtMkpVNHhWcldmUHo5Mm9oME1RbDhfOWlYTm1KUXFkSlRhMzVSTVkwMHVGVUZMeTdSQ1lN?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 06:17:00 GMT",
           "source": "Reuters"
         },
         {
@@ -191,38 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Volvo Cars to cut 2,500 jobs as third quarter swings to loss - Reuters",
+          "title": "Volvo Cars shares slump on big loss, 2,500 more jobs to go - Reuters",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjE0Qml6Mkw5WkFyRXlUcjZ3QTE3LWtGVF9kckI3cExBa0dsaHM2S1dyY1IzZnk0aFlYOGc4M1RoYzd0TVQ0aVNWM1I1RmVCRTNDcURBeHluNDFOOEJaMXVaOUo5ZGN0U0RoTFNuUmJHSjVSdFQzcHdCbHdyNHU1cUFaU290VVhzbV9HbVJjeDJrNGV1TGJOdmNzaHdmR29H?oc=5",
           "pubDate": "Fri, 23 Oct 2026 05:07:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "A Ukrainian soldier severed his own foot to survive. Then came a dramatic rescue. - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZdnBkRE5yNGl4RGRWRDJMQnJOcklzRllWbWJwcE0tWmlwcTZpVllfRXpyZzZnR3BXRzZrZjE2NEUxUXFFRlpGbHNaNkx3T3RNOTFVVk1rN3NHanBVWU1uVWdsVmRBNTAwXzdSNFVtX0FEQzlQQ0xxNklCakdUZw?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 05:00:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "North Korean internet was hit by DDoS cyberattack, network monitoring firm says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdjBybXdvb01FSWlDRkY2NmViemhIVVVmN2FXZEhPU1BJLTZBaWhKSFYxclY3c0ptQ2hxLTFVQmdNSmt6NU9Fa2NtWllwVjU2OHFCalFWc09idGNaUkVtbzdsajB1bnpkWERiYTlfbnVRMjlra3drNUNYWjhFZXg0R2VrSHg1MjJoeDNURDZleHdraXhqM3VSUjk5elY0dExvNkE0RjhOSXltTVRjZmhxSTJiSFBDUFF6NHNSWXVKeVJDLTNQ?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 04:54:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Wake up! The long bond's up two points! - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPbWpxYWRaeEZMMmxqeERaQ1Y3TGpaNHFBMFFoR3hydFNvQnFRVzV4UXNUZTFxb0hwU2ktVTRtUjVoX2Fqc2dSMGR4VnRtdEJibFdMU1NoOC1jOUdRbTZkcHU5YmRWSFU5R2pVUkozQS1mc0R0UURmRm1GOGRGNkU?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 04:31:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 04:14:00 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T08:00:22.191Z"
+      "updatedAt": "2026-10-23T08:25:12.107Z"
     }
   ]
 }
