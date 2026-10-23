@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-23T07:25:13.937Z",
-  "lastChecked": "2026-10-23T07:25:13.937Z",
-  "lastUpdated": "2026-10-23T07:25:13.937Z",
-  "generatedAt": "2026-10-23T07:25:13.937Z",
+  "fetchedAt": "2026-10-23T07:50:16.057Z",
+  "lastChecked": "2026-10-23T07:50:16.057Z",
+  "lastUpdated": "2026-10-23T07:50:16.057Z",
+  "generatedAt": "2026-10-23T07:50:16.057Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T07:25:12.758Z"
+      "updatedAt": "2026-10-23T07:50:15.051Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T07:25:12.816Z"
+      "updatedAt": "2026-10-23T07:50:15.162Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 05:25:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "U.S. News: Top U.S. News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
@@ -127,12 +133,6 @@
           "title": "U.S. Department of Justice - AP News",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5",
           "pubDate": "Fri, 23 Oct 2026 04:27:39 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 03:41:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T07:25:13.455Z"
+      "updatedAt": "2026-10-23T07:50:15.636Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,12 @@
           "title": "EXCLUSIVE: Tanker carrying 40,000 T of Russian diesel heads to New York after Putin-Trump deal, data shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb3Zka2dCZ1RzeXJfN1BWOGlIbHpxODVFbTdvdjFuengzUlVHTkpLVGlOa05wUXNvdWpyNl9MTGRVMTJmWFdMTTFyU3pka3FrZ0hzMGhHVEJTRGpVQXV1TEhPYXBsSjU2UllWZHlfVzBCMnBvT01NbVNUdkJiMER4YWhKZDljRUVMY2N1REdxMEpZVkg1RFhOMGFkT3NnNWljS29Jd05ZLXdNMnhmaUlUZXJWY3hGTzN4b3hEM2ExUGxNcDRLMDVr?oc=5",
           "pubDate": "Fri, 23 Oct 2026 06:27:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Heineken document reveals worries over weight-loss drugs and beer sales - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkxjUl8zRFdLRXdOR1Z3SVFsSEc1WElSMG9OZHRJYW52a3hvN3BVOEJBMHk4YnZpQkRwYnRzWF9qeXhRZjF6M0o5c09xVzZ5a0dwOG1aQ2thYlpKV1RlTFBsVWNGcHdpZ2F4Sld3UWFoY1htZDVld1UwZ0x1MnJ0bnZOdVpMZDlEZ3JmRDhQa3Fsam9UZkl0TnB2eHF3eU1CNGZTWlV4Smt4NDJLbXBzQ1ExekxtWm5uTGtCRg?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 06:01:00 GMT",
           "source": "Reuters"
         },
         {
@@ -191,6 +197,18 @@
           "source": "Reuters"
         },
         {
+          "title": "A Ukrainian soldier severed his own foot to survive. Then came a dramatic rescue. - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZdnBkRE5yNGl4RGRWRDJMQnJOcklzRllWbWJwcE0tWmlwcTZpVllfRXpyZzZnR3BXRzZrZjE2NEUxUXFFRlpGbHNaNkx3T3RNOTFVVk1rN3NHanBVWU1uVWdsVmRBNTAwXzdSNFVtX0FEQzlQQ0xxNklCakdUZw?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 05:00:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "North Korean internet was hit by DDoS cyberattack, network monitoring firm says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdjBybXdvb01FSWlDRkY2NmViemhIVVVmN2FXZEhPU1BJLTZBaWhKSFYxclY3c0ptQ2hxLTFVQmdNSmt6NU9Fa2NtWllwVjU2OHFCalFWc09idGNaUkVtbzdsajB1bnpkWERiYTlfbnVRMjlra3drNUNYWjhFZXg0R2VrSHg1MjJoeDNURDZleHdraXhqM3VSUjk5elY0dExvNkE0RjhOSXltTVRjZmhxSTJiSFBDUFF6NHNSWXVKeVJDLTNQ?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 04:54:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Morning Bid: Wake up! The long bond's up two points! - Reuters",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPbWpxYWRaeEZMMmxqeERaQ1Y3TGpaNHFBMFFoR3hydFNvQnFRVzV4UXNUZTFxb0hwU2ktVTRtUjVoX2Fqc2dSMGR4VnRtdEJibFdMU1NoOC1jOUdRbTZkcHU5YmRWSFU5R2pVUkozQS1mc0R0UURmRm1GOGRGNkU?oc=5",
           "pubDate": "Fri, 23 Oct 2026 04:31:00 GMT",
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
           "pubDate": "Fri, 23 Oct 2026 04:14:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Trump says Bombardier to invest $270 million in the US - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEVoaGZaajQxZ05vNXdVS0tQX0JWZ01uTmQxZHNuR24yWDctUXJwMHNmNU9CRkdKR1dxZkdxQnYwcTc2bWM4ZXhIbUFSZ0h5ZGZtTl9OY3dUMXhjTFotaXYwdmtETlN6ZUdSSlgydElvVU80cWdMTmZWTlVEcnRtWVlFWmRlVEs3ZF9JSDRLamlBVUl4WG1ZUXB6SmtjWTVQdEZwc1RKTDZxUQ?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 04:11:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: US, South Korean officials see little chance of Trump-Kim meeting this year - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkw3ZXVpd3NUV2JqelBpckw5WnBRUUJuNE5fcDZJZ1VtVDlBTmI0Uk5paGdNZWV5ZjlnTWQxeVVwZktyeTF3TER5bzdGUWpNOEpfeGNjVWQyazM5dEVqRDYyd19PUHg1ajU1cjNIUFg1VHJKT3ROdkp3V0FBY0FNVENxbldkMlNaa1BfYnVXcVFmTzZTcDQ2VWZKWmVoaWNuT2x0Tk53WDJ5aWdCaGVTRWVrNXpjMUxBMW44?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 04:07:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "New Zealand's top military officer resigns over 'inappropriate relationship' - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOekZkb1pyMXY1c1Z0MXZWWWNpS2x2SjdZWGJFQUpyZGN4Sm9iTkRKSE8zTHYxM0x0RVZEbW5ic3hYS212STFGZGhXb29HQ1VhMndyRVVyLWJlN2t5Z0xNMnlCVEtFTVBSMW80WndFTDAxSUxobWVhYVNTY2hRS1NVaFkwVDJPa2FZZ2dhd3ZPR21QX1F1RDVzSU10eWt4LWZCN2NEZmdfLTRQcWJQYjEzU1NVUE1udFMwellTeDA1QTk1dHpSb3hj?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 03:49:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T07:25:13.937Z"
+      "updatedAt": "2026-10-23T07:50:16.057Z"
     }
   ]
 }
