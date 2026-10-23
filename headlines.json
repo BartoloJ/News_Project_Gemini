@@ -1,34 +1,34 @@
 {
-  "fetchedAt": "2026-10-23T19:25:15.940Z",
-  "lastChecked": "2026-10-23T19:25:15.940Z",
-  "lastUpdated": "2026-10-23T19:25:15.940Z",
-  "generatedAt": "2026-10-23T19:25:15.940Z",
+  "fetchedAt": "2026-10-23T19:50:14.928Z",
+  "lastChecked": "2026-10-23T19:50:14.928Z",
+  "lastUpdated": "2026-10-23T19:50:14.928Z",
+  "generatedAt": "2026-10-23T19:50:14.928Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
+          "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 23 Oct 2026 19:46:30 GMT",
+          "source": "BBC News"
+        },
+        {
           "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
           "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 23 Oct 2026 19:20:41 GMT",
+          "pubDate": "Fri, 23 Oct 2026 19:42:08 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 23 Oct 2026 19:30:19 GMT",
           "source": "BBC News"
         },
         {
           "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
           "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 23 Oct 2026 18:52:17 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 23 Oct 2026 18:10:56 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 23 Oct 2026 16:59:51 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T19:25:14.669Z"
+      "updatedAt": "2026-10-23T19:50:13.828Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
+          "pubDate": "Fri, 23 Oct 2026 15:31:15 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
           "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
@@ -103,20 +109,26 @@
           "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
           "pubDate": "Fri, 23 Oct 2026 07:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
-          "pubDate": "Fri, 23 Oct 2026 05:40:32 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T19:25:14.942Z"
+      "updatedAt": "2026-10-23T19:50:13.968Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "A shooting in the Paris suburbs kills 1 and wounds five in a suspected racist attack - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnZ3Y2dPX1lNWkprR3Nnc3FZQjdWRW5aNzYwRGZJbmFfNlZfcE8xQWxmUlZ6U0ZQQlhpem1IM0VnZ2N4M3B0dHlQeVFqZ1M3V1JlLUpxczJ3TVM5RmZlemxfMkFSQzdUMGpxX2J5dGctTURuUnNhX1V3Tkx4ME1TRTFQaHpnTXNrb2d0QlMtelJFcEd0?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 19:32:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Senior Ukrainian negotiator says local humanitarian ceasefire with Russia will start on Oct. 27 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 19:22:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40 - AP News",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXJlUlhXa2k4Z0t0c0FMNGlNNWZyM2Y2QkdXeFhqeEFMcmduN2JZZVUwelo1aU41bHZtTUMyamxGUVB5YTVQLVQ1S2p3ZnRtVzU5ZXNsaGd1NXctODdmeEZJbTFpN0l2MlE0MFlVSHZDbWtKaVBJeTd1bkNEeF9sTVRTZVZ2VmFxT0E1X2lrOVpybnlLUHJrUTRUWjl6a1VpNGpDRm5OZ0xqRTA5?oc=5",
@@ -127,6 +139,12 @@
           "title": "Trump says he ordered the Justice Department’s lawsuit over Alaska’s US Senate race - AP News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2lwdVh1SXlFeWVFaFRvNGN6a0dUaVV1b0diS0ZvaXhmYWJRR3JVYmRudTdhRmg0V18wYVVvenVWaUJJLTRBRkFkZXhIbEdYcHFGOXZiQ1JUMGRadHRMclMxdG9GTE5rTnBlVVoxbUdNM3VuZ0pkN2REZ2hKYWxVcDNubW9ESVMyQmVtS3doVUNLRTk4a1ZBT1hKTVNoT1Qta2U4V28tMW9KaTdpcUI3bDhPYjk?oc=5",
           "pubDate": "Fri, 23 Oct 2026 18:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "UAE diplomat running for UN chief faces questions over her country's support for Sudan rebels - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGF3WGNKbzBxVUFCNldNUHJMVmpBQ3FxS2tCYVhqWmZ0emdGMk5BQUtjWXdydWlNWXJOQ1lGd2xSUWVwdzJrUThlY2FIZ3VQZm1DcUxDX0JaODhqWmpvTVVwc3UySVdfOUFTTlNNUllGWG1McG1iandqY1FfY1ZPbWRySGhwUGdRWDdEckR5c0kzWm1hSUptdUlOT19XOU0yUGR1Y3pGUkVFNkhvYVhhb1VteVNtcFU?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 17:42:00 GMT",
           "source": "AP News"
         },
         {
@@ -146,32 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWpGTk1fbkF2SWY0S1Q2MHN6WjRqQ1R3VWp4WXFKd3VQUG5WSlI1ZXFDY1pSUGJyampWMGtwZ3dRQmxGRzlTbERHSnlraUZ4WmFCSXM4U3J1Z1VSdV81eTB2ck1lWElpSnR2Qi1FbWUwUmJBT1l5enVZLVpsYmMySnBhZ0FDWHZBTElJVEhGYl9tN2tXblE?oc=5",
           "pubDate": "Fri, 23 Oct 2026 16:50:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "2 ex-FBI officials charged with lying about involvement in investigation into Hunter Biden's laptop - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlRnSld1V19HTDd1N3l5NzlIcXhBN1ktV3J0UlZJeUx0cEFQUVhQVFNSSmpHbzVUY3V4WWE3eHFHNXpFUmlUSDNCV0ZnQnQyTlRhdmFYbUJJdWVHQ0pJaEdYWTlHOUxpdFY0VjV4TXhYVTBtTzE1U1JyNW42a3R4a1FTNXhxSHZEc3FWMmk4N1FjejNBcVV4Vw?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 16:48:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Israeli military says 2 soldiers were killed in West Bank attack that also left 2 gunmen dead - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUU10ZzZIODMwNWxTQWN0dm55NUVrYV94T2tlajc3OGlSR1luUlBlZUh5djZiclJWMkdmcHAtSWViYkJSZHJrU0N5TFBkdEZhdTJCRWxlNkFLQlJ6RTRUZTM3ZU1RR3hUUzg4bTh4dkptQ3RoakJSVWJzTmVtWHk0WU1iUGdPdk9nV0NWVGt1aGdWVmJ3bUc4UHVB?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 16:35:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Melania Trump helps forge a ceasefire deal in a Russian-occupied Ukrainian city, White House says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 16:24:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T19:25:15.460Z"
+      "updatedAt": "2026-10-23T19:50:14.488Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Seven killed as gunmen open fire at church in Jordan, authorities say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2lOTkU3cVRlN2NTOWxzMWZYZnZUSjBZeWV6VHprNk44Q0pWLXdaMjF6QU1iS1JjV2RLdkFkM2NyVUtTOXpDdHg3SThHN2tFZFozTGZIdlVaVzBqUFV2STZCMXcwbjMycDNTNWppUDdSTVZBaWxqTTR4dk5kWkFrTDM2TzVkYi1oNTNwTjluU2NmTmY5cHkxbEhhWGR4VUt5QTJub2hkalo1WExtNVc2MEoybC1YWkQxbnNoZ3l6QzB6c1lOdGJhZTdB?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 19:38:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Ex-FBI officials charged with lying to Congress about Hunter Biden probes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTdPQ3dYU0R5ODhPalRCbE5Cd1FvcTI4aUl5YUJsR2NLM2ROZVNfT2VUS1dKUWtROW9TQkhkQUtFOEtndlUzRElrcWVfU0lHUU0xTFpGTUFLQWlwNklldWVZZDRsWHE3RGF4YUVjU2F0bDR0M0pfMktZRjItX0Q0cVhMLV9RWUpZbkhBYkp5VnZqUW0yUXJWeXdfQ0xBV3ZTdll4bW5jT1ZZOGVCcTdRX09NeUtkZGdxcW9KNFZ4ZWc?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 19:21:43 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Macron says Paris suburb shooting that killed one person was terrorist and racist act - Reuters",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRWRWa2ZyY2MySVU3NVpEWElTQXlveTJMWjlZaXBHTUphcTlTekxveFBQY2ppTFF4enFSWHRrZDVHTDlpMXYwVWlTZ1h3M2dkNEpfTFNmSWc2STFaUVpNRHhrU0hZVnVHSExaMDF0blpEYXNDaThEbWxKeV91UEdGVm1Uc25GSnR6U3R0QS0xbVpZLU9tWC1oN2N4ZkJsZEU?oc=5",
@@ -179,9 +191,15 @@
           "source": "Reuters"
         },
         {
-          "title": "Seven killed as gunmen open fire at church in Jordan, authorities say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2lOTkU3cVRlN2NTOWxzMWZYZnZUSjBZeWV6VHprNk44Q0pWLXdaMjF6QU1iS1JjV2RLdkFkM2NyVUtTOXpDdHg3SThHN2tFZFozTGZIdlVaVzBqUFV2STZCMXcwbjMycDNTNWppUDdSTVZBaWxqTTR4dk5kWkFrTDM2TzVkYi1oNTNwTjluU2NmTmY5cHkxbEhhWGR4VUt5QTJub2hkalo1WExtNVc2MEoybC1YWkQxbnNoZ3l6QzB6c1lOdGJhZTdB?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 18:54:17 GMT",
+          "title": "US Justice Dept sues to block possible Alaska election of Democrat to Senate - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmhoNXZfaEZSVXU4cVh3dW9tMm54alE4THRoUWNBSzc4QTFvNHl6eE9mOElIeXE1S0pkQlV4Yld6U0t5RjZnbEpjSzVyMkMzQ01MM1hSclViSHVmRDZGTndKTm9GZHZaRUFIZnAxVnM2V0hDMGhUOHVKemxQcFdxc0hmLTJDTTFQWTFTRFhRalM1Y1I3Y0dRTEF6UldFdHg3OVVxd0hkdUFyNTdUN0dDZVRwbTFqbVVyT2FtSw?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 19:04:23 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "POLL Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXBVcldURXc1c3hRcmpNWXdhcWRVR1hibkVqNF9YM1V4NzIzdmlDUzlGZHpjaVJWQlp3M1N2ckpRMzlSdlZZRTRJcVloUTNnR0l4UE1fSXlhTXpZWFlqVGdYWEljWG9DdWpXRGQyaUlvVkdyNUlhZjF0TS1iRWNLYTZjZjNZZXc0Zi1fUzdvWm0xYWk4VmNiaU9WdHhVUno5WTBxMGhkNWpkZWVJUXA4bVdtYw?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 18:54:28 GMT",
           "source": "Reuters"
         },
         {
@@ -191,38 +209,20 @@
           "source": "Reuters"
         },
         {
-          "title": "Ex-FBI officials charged with lying to Congress about Hunter Biden probes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTdPQ3dYU0R5ODhPalRCbE5Cd1FvcTI4aUl5YUJsR2NLM2ROZVNfT2VUS1dKUWtROW9TQkhkQUtFOEtndlUzRElrcWVfU0lHUU0xTFpGTUFLQWlwNklldWVZZDRsWHE3RGF4YUVjU2F0bDR0M0pfMktZRjItX0Q0cVhMLV9RWUpZbkhBYkp5VnZqUW0yUXJWeXdfQ0xBV3ZTdll4bW5jT1ZZOGVCcTdRX09NeUtkZGdxcW9KNFZ4ZWc?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 18:30:22 GMT",
+          "title": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUFpsT3JCZlkwblU1WFVQanptYWxJWHZTWnBkZHQyanA4bGd0ZWtyalhGYk13OVdiSmd6eDRyZHU0T1A3UXVYd21TMUpyQmFlelltOUpBVkxNVjRYaTNiWHpaYnBsT3libjhLSFZZY0J6LWpWd1JZX2RlcWtZVE9pcVhWbktFTVg5SDZQZnRzM1h6U3YxeEVwZVg5Nkg0WDUyeFJyWVItZFpEUEpkLUg5MVpXV0Q5SVdhUk1wQll3UlJjV0FH?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 18:26:54 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 18:19:51 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says he will fix any Starlink access problem in Ukraine - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLUNicm5qVG13YWt5UVlLcXVWRmMwY2dfX2pkaU5EblVBbVh5WG1EMXZEVzM5NWZCRHVHYTJjcFRLYVhUcVpnSnJrdTlxOHlaRnZwU2htMVJ4cXBjRjAwWWhvOVNVbjlPR0Y1MUFLdmhYRG85by1QSHRLTHhSRmRDWk80aDl1YXZVbFEwOFh5QXhicGFKMndmYmZxbmR4TFVFMWVYNjFMN2JoX1k?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 18:19:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil spill off UAE coast prompts beach closures, cleanup effort - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDVzb2o2bVZpMzFTRjc2dENKTUhpalRtLTA2bkprdkwxdWRBdXVVU0xWTHNYcmJLeEJTeV82SXhtN24wWUstUm9QV09Qcm5OSWF3dk5BVU93RmkyeWVuVVJnYloxNTZzajBhanlNNmZvUDJaRXdWbTFia1MycXpJTUtsUDRRSFVHcUJLSmlaNUY1Tk1qXy14SFRxczBUUTVJcGlaZk5FSzRvLUlJdWtWNTJB?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 18:16:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Justice Dept sues to block possible Alaska election of Democrat to Senate - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmhoNXZfaEZSVXU4cVh3dW9tMm54alE4THRoUWNBSzc4QTFvNHl6eE9mOElIeXE1S0pkQlV4Yld6U0t5RjZnbEpjSzVyMkMzQ01MM1hSclViSHVmRDZGTndKTm9GZHZaRUFIZnAxVnM2V0hDMGhUOHVKemxQcFdxc0hmLTJDTTFQWTFTRFhRalM1Y1I3Y0dRTEF6UldFdHg3OVVxd0hkdUFyNTdUN0dDZVRwbTFqbVVyT2FtSw?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 18:15:20 GMT",
+          "title": "US to remove 50% tariffs on some Canadian goods to help Republicans in midterms, WSJ reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWdrcmlzeVVGU0lLY2lmdVZHQ094Uk80eXhLb25UQkVoYjhXX3lXSERuOW1pVzNpRGEzQWMtMUVfVEp5bERnM2hqM0hFZFNrb1B5Y1QxRG9tMDUtTFNQSFFoMFZodXFPbmtDUUhpYXVIOXhNRTdkNU9RcDkzRW8xTkM0REpYZ0k3TlhDOGx6WEhYSUJIWG5WSE1Ia1FLWHVTVHN5UFhjVmhtb1J4TkpDTU90LVp4eWR0MnBxaA?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 18:26:50 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T19:25:15.940Z"
+      "updatedAt": "2026-10-23T19:50:14.928Z"
     }
   ]
 }
