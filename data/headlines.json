@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-23T17:25:12.348Z",
-  "lastChecked": "2026-10-23T17:25:12.348Z",
-  "lastUpdated": "2026-10-23T17:25:12.348Z",
-  "generatedAt": "2026-10-23T17:25:12.348Z",
+  "fetchedAt": "2026-10-23T17:50:15.997Z",
+  "lastChecked": "2026-10-23T17:50:15.997Z",
+  "lastUpdated": "2026-10-23T17:50:15.997Z",
+  "generatedAt": "2026-10-23T17:50:15.997Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T17:25:11.334Z"
+      "updatedAt": "2026-10-23T17:50:15.181Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
+          "pubDate": "Fri, 23 Oct 2026 13:35:14 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
           "link": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
@@ -103,20 +109,20 @@
           "link": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
           "pubDate": "Fri, 23 Oct 2026 05:37:38 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Amid Trump's assaults on DEI, how one university is elevating Black students",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
-          "pubDate": "Fri, 23 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T17:25:11.391Z"
+      "updatedAt": "2026-10-23T17:50:15.443Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Trump's administration sues to block a possible Democratic win in the Alaska US Senate race - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2lwdVh1SXlFeWVFaFRvNGN6a0dUaVV1b0diS0ZvaXhmYWJRR3JVYmRudTdhRmg0V18wYVVvenVWaUJJLTRBRkFkZXhIbEdYcHFGOXZiQ1JUMGRadHRMclMxdG9GTE5rTnBlVVoxbUdNM3VuZ0pkN2REZ2hKYWxVcDNubW9ESVMyQmVtS3doVUNLRTk4a1ZBT1hKTVNoT1Qta2U4V28tMW9KaTdpcUI3bDhPYjk?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 17:31:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump administration offers mixed messages on limits to Ukraine’s Starshield access - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0ZDU3ctZms3MzcyT3liSW5NSXV4SXpvUVRyZ3YzTm9SWXFaRkhIRFN1NFlRN2RlaG9OcDluTDh1Z3RkTzVGN3JKSlozNHdWZW9ORGVDSlZfcDViMGFGRl9mVDlaT3c1VVlRUjV3NFFjWkFPSFZUWEhpQzktaHZiQTk1WGhpRFNXZ2QyN25OTDNnUWhWb043RHJmaEtqaWNaZV8zaHdYMTNpbXdWYUJldw?oc=5",
@@ -154,28 +160,52 @@
           "source": "AP News"
         },
         {
-          "title": "Suspect arrested after 1 killed in Paris-area shooting that is called a ‘terrorist crime’ - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnZ3Y2dPX1lNWkprR3Nnc3FZQjdWRW5aNzYwRGZJbmFfNlZfcE8xQWxmUlZ6U0ZQQlhpem1IM0VnZ2N4M3B0dHlQeVFqZ1M3V1JlLUpxczJ3TVM5RmZlemxfMkFSQzdUMGpxX2J5dGctTURuUnNhX1V3Tkx4ME1TRTFQaHpnTXNrb2d0QlMtelJFcEd0?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 15:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Vance could be a major Category 3 hurricane Friday as it nears Mexico - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTVZOWTFKeWc0bWo4eF9Bd1BYeVpPUkVZUnF4V2FSWDUwUTM0QWpGX05wV0ZjV19kcFNkckRKZ2kxX3MyckMyZ09yVVI5ZkJHbGxlaFJFakN0aHhDOFdfMlRYRi1PZHN6NXhUQ1V4bnlBcmhkTmhMZzNaOWVvNGttbDB6c3hGMjNYV0E?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 15:21:00 GMT",
+          "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 34 others - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXJlUlhXa2k4Z0t0c0FMNGlNNWZyM2Y2QkdXeFhqeEFMcmduN2JZZVUwelo1aU41bHZtTUMyamxGUVB5YTVQLVQ1S2p3ZnRtVzU5ZXNsaGd1NXctODdmeEZJbTFpN0l2MlE0MFlVSHZDbWtKaVBJeTd1bkNEeF9sTVRTZVZ2VmFxT0E1X2lrOVpybnlLUHJrUTRUWjl6a1VpNGpDRm5OZ0xqRTA5?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 15:56:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T17:25:11.884Z"
+      "updatedAt": "2026-10-23T17:50:15.978Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "France boosts police presence, hoping to prevent repeat of riots - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkg2U21rX0FPY3pMbWlwRW5TYmJ1OEVLUUFpWGE0NG1ud3JCTkEzSzVaaGJDOGs3UFdOcDFnX0NBMTI3YWtQLXRrWjFkV3YxdWlGNnI2LVNoLWpkQ0Z6QjBoNUVXYkNRcG9KWm0tcmJKbExKaWtXYTNuSGdMZ0l4MzQxQlZmcGhiVWxpOG1lX0t1c2wzUUpYd0QzbXl3RkxZbDl5cWI4Ry16dmZYbHhqZHVUaEIyUQ?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 17:42:17 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc28yS2Z0aVExaE1CeEZtYURTUG5NMDBhZnVidVctdjJZak1tMk5oQy1aU0dlQzBJbEV2SWlUdUdxNC1YMngyZEhLM0l3ZmI5dEliUjRPNVdsSnV2QWV2TS1TNVhaN2RTYlpSaEFCMjFHRGs5Z29Cek10c1BfUEZROHpjd2NIRHFfNEhLUGdhbDBXQ2hfXzUtc0daeHZPRlpoTXo5TjlvTVZuWXgwVmtEbG5jemZUWDRvRDJvWVQxb3VKdzZucnBlUEhPZw?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 17:27:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Health officials race to trace source of Nigeria's Ebola infection - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR2VLQlZPa3RzLUR1M3hnR1J6LXAwLXFrUGlvVlI0SlliYjlieGNhQ1RveEtwOTJnLUhBWHFuSTFyaE5MYXNKRlNsZmc2SWREdG9JWnU3V2gycmpXY1h4VEhscVFfbGg4RGxjRmk2TnNjSHcxR0N5V0VmRFRvSHpuNGpyYV9NLVZRd295RzVhWmlvVUNzb1RYYUNFN2lBbWNQbDRSSmdjdm9lZDROTmpCajlUVQ?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 17:19:17 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Building collapses in Kenyan capital, rescuers on the scene - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVpLTzd4NkFaVmRUa3lENmlHdGxvZmJuWHN0TG1DeXVNbXhlSkVDc3RxeV91MkNLYjJtdUlQY1BlUXo0TlFuOXZNTGpFd1JoWVRFMERXTVlYZEpqb2Y5WTFqd1ptMVd0ZmVjM0hWLWxtWmMtQWpyd0dhYVpaTlJZbDVfS0VQY1hMTTdZWXdtUjdmc0tENjFUMUlWNHY3QQ?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 17:17:50 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "EXCLUSIVE: Saudi missile plant expansion may produce more powerful missiles, study says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUTNudHNub01PQk1mQ1pIc3I0d2N5TGJPTG5lSlkwSWZKc05VMHpaNGtRTmpmd1pDblNPYjZGbEw3d05QeThxdjNJWDhYX09KMDdPeTlOeWxhX0txVTVrVzRvdWwzMEFfN01jYUNoN1dEVkRQMjlrUENUNVcxMkNuZDlyTnVQMlBkNmhJRzRjRkRESDVJZmdWYzJFMUtzUzBMdFpXVWNoM0hzOTBaajZhRDJtQ0U5ZFlzMkdaZ3BZa2ZPN0RwUHR6cQ?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 16:58:26 GMT",
+          "pubDate": "Fri, 23 Oct 2026 17:08:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Smith & Nephew talks with J&J on orthopaedics deal fail over CEO role, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEFJUEg3ZF9EUDdXNENKUTFJOWdDZHFTVkIzd0VTckhBQk1yTzl3dlpKSFExMFg5RUp4NGJLby0xQzFxVWhOeVJGN3JDRU1hM2RnNlUtcDV5d1JBQkh5dk9lUndabzZ3NGlHaGdwY1hnTGEwcW9kRG5aT2NhRzNuYTRfTVFtOGJlSlZRcHhNdnVEQlJXODJOTVBQUTI3S3pPNmdMVmd5NmNxR1RkYkxnUmpYYzhRTEZTWkZUSkpZNDBXa2tsM296YmkyMUdfQQ?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 17:04:17 GMT",
           "source": "Reuters"
         },
         {
@@ -189,40 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNckp2UlFlZU55ZWd2WS1QR3NMSklGSUMwOThxSl9CX1ZrT1FobWZLYm83TXR6enIwMHpHY1BVd3R5akIzTkk4QjVFQ3F3cmhyQnlucFVCM1ZhejByT25sU0JpYUpsSDR3YjlMRnZXQ1I5eVhGSjRLY3pkLTNVdEt4OWxGQksxR2ROYVYzMFRmbmg0bmd3WUVBYldmUmFvQTFPcS1yeWFIbmhBeUhENmpRWlNvTDJUNTk1RGh0MDJEZlUwUnYyaFJB?oc=5",
           "pubDate": "Fri, 23 Oct 2026 16:51:56 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 16:50:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "France mounts major security operation for fresh wave of protests - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkg2U21rX0FPY3pMbWlwRW5TYmJ1OEVLUUFpWGE0NG1ud3JCTkEzSzVaaGJDOGs3UFdOcDFnX0NBMTI3YWtQLXRrWjFkV3YxdWlGNnI2LVNoLWpkQ0Z6QjBoNUVXYkNRcG9KWm0tcmJKbExKaWtXYTNuSGdMZ0l4MzQxQlZmcGhiVWxpOG1lX0t1c2wzUUpYd0QzbXl3RkxZbDl5cWI4Ry16dmZYbHhqZHVUaEIyUQ?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 16:31:29 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US Justice Dept sues to block possible Alaska election of Democrat to Senate - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmhoNXZfaEZSVXU4cVh3dW9tMm54alE4THRoUWNBSzc4QTFvNHl6eE9mOElIeXE1S0pkQlV4Yld6U0t5RjZnbEpjSzVyMkMzQ01MM1hSclViSHVmRDZGTndKTm9GZHZaRUFIZnAxVnM2V0hDMGhUOHVKemxQcFdxc0hmLTJDTTFQWTFTRFhRalM1Y1I3Y0dRTEF6UldFdHg3OVVxd0hkdUFyNTdUN0dDZVRwbTFqbVVyT2FtSw?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 16:29:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nasdaq ticks up as tech stocks steady; SpaceX worries hit telecoms - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 16:29:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Dr Reddy's rolls out new generic Ozempic brands to ease Obeda supply hit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamN2bklfMW9ZWXk0RXFURHpGeHBSVkxGUThTeExyekY4ejdyX1ExQ09DNTFPMEVXOTBkazc1eTVRWGI2V0xkWXZBZWlySUJKYUpsUE1UU1diQzlGUTZoLWUtUTdid25lYzJtSDNiemotRnItYWc5WGRNR2o4YnhJZEdobXJXTFJiQ3QyVnpKRzZ6Xzd2WC1NakJTal9yQUE5cHd0NTM1RGU1dGU1WHUwUG43QlRSc0hBUVdOSmUwa2ZFMjJjaWdv?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 16:28:03 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T17:25:12.347Z"
+      "updatedAt": "2026-10-23T17:50:15.997Z"
     }
   ]
 }
