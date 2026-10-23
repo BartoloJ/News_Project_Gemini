@@ -1,12 +1,30 @@
 {
-  "fetchedAt": "2026-10-23T16:00:20.524Z",
-  "lastChecked": "2026-10-23T16:00:20.524Z",
-  "lastUpdated": "2026-10-23T16:00:20.524Z",
-  "generatedAt": "2026-10-23T16:00:20.524Z",
+  "fetchedAt": "2026-10-23T16:25:30.668Z",
+  "lastChecked": "2026-10-23T16:25:30.668Z",
+  "lastUpdated": "2026-10-23T16:25:30.668Z",
+  "generatedAt": "2026-10-23T16:25:30.668Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+          "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 23 Oct 2026 16:19:36 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+          "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 23 Oct 2026 16:17:02 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 23 Oct 2026 16:11:00 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
           "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
@@ -26,12 +44,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 23 Oct 2026 15:15:18 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "US justice department investigating Corey Lewandowski over DHS role",
           "link": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 23 Oct 2026 14:58:19 GMT",
@@ -42,22 +54,10 @@
           "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 23 Oct 2026 14:18:41 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
-          "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 23 Oct 2026 14:15:23 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Denmark to ban mink farming in government U-turn",
-          "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 23 Oct 2026 12:17:45 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T16:00:19.325Z"
+      "updatedAt": "2026-10-23T16:25:14.389Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T16:00:19.540Z"
+      "updatedAt": "2026-10-23T16:25:14.857Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-23T16:00:20.006Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-23T16:00:20.524Z"
     }
   ]
