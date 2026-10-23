@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-23T06:25:13.783Z",
-  "lastChecked": "2026-10-23T06:25:13.783Z",
-  "lastUpdated": "2026-10-23T06:25:13.783Z",
-  "generatedAt": "2026-10-23T06:25:13.783Z",
+  "fetchedAt": "2026-10-23T06:50:17.826Z",
+  "lastChecked": "2026-10-23T06:50:17.826Z",
+  "lastUpdated": "2026-10-23T06:50:17.826Z",
+  "generatedAt": "2026-10-23T06:50:17.826Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+          "link": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 23 Oct 2026 06:26:25 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
           "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Thu, 22 Oct 2026 21:42:39 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-          "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Thu, 22 Oct 2026 20:49:12 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T06:25:12.463Z"
+      "updatedAt": "2026-10-23T06:50:16.573Z"
     },
     {
       "name": "NPR",
@@ -93,6 +93,12 @@
           "source": "NPR"
         },
         {
+          "title": "Trump merchandise stores are closing: 'He has peaked'",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
+          "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
+          "source": "NPR"
+        },
+        {
           "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
           "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
           "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
@@ -103,26 +109,14 @@
           "link": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
           "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Trump merchandise stores are closing: 'He has peaked'",
-          "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
-          "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T06:25:12.729Z"
+      "updatedAt": "2026-10-23T06:50:16.938Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "U.S. News: Top U.S. News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 05:22:36 GMT",
-          "source": "AP News"
-        },
         {
           "title": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people - AP News",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc?oc=5",
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFRLNG50TnRVZ0t2T0h3M3AxR0s2SkJXbWxabnBWQU43dlY5dTNrdGZhdi1XUkxwMTc0OVBlV0NnVkNLaGhKY3k0YUJWQW03ZEJfemJPZVpkVG5sa1FZcTc5QUtFQWVDUHY1RFJZSDB2ck4wSGxUcGxaMmo1SlN2bW9xMzlPRmpMRlFGMG15bkhuUjhtV2FZcU1xcUw5OWs?oc=5",
           "pubDate": "Fri, 23 Oct 2026 00:51:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Europe's killer heat this summer claims 50,000 lives. Climate change blamed for two-thirds of deaths - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON2Y3SGtTSE5PWlZPdlBnMkUyck9CY3FyUTR6bGx2aHVJQmY3a3kwU0xTSEVHNDB0UE9mdDFjZlJzNVFDaWtkc3ZCcExFOXYwWm4yYXNsblJGeFlZN3pzcVFuN3VzZ3hqVG1zZk1EakhJZ1VJcHh2eloxYlFlRmZXUFphcUc1Y2hZZDdISUUwdHVFdE1TMjVlX0NkLWdqYWhwZmc?oc=5",
+          "pubDate": "Thu, 22 Oct 2026 23:28:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T06:25:13.325Z"
+      "updatedAt": "2026-10-23T06:50:17.410Z"
     },
     {
       "name": "Reuters",
@@ -182,6 +182,12 @@
           "title": "Japan to simulate cyberattacks as PHP flaws roil global internet - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT19TUUQ4aFFTY0ZlcnIwcTJ6OWpqY0pyOTBIdXd3LXJUUkxPSE5JM29VVHBSM25STGFqQ09HVGNVYVUyTXNRVHdlN0FHZ1U0TFdkNWs5RllxTVdUeDVQdmhHT01ybzkyQ3VkWW5Ec1pWSEZyaUhzX2xJMlg3SF9BdVlNbzVfcGgwbGQtd2NaZklHWXRNdEQyNHJ1WC1GWVhnd3dOSkw0NVBWbVFFSE0wWVVvM3R4dXc1?oc=5",
           "pubDate": "Fri, 23 Oct 2026 05:15:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Volvo Cars to cut 2,500 jobs as third quarter swings to loss - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjE0Qml6Mkw5WkFyRXlUcjZ3QTE3LWtGVF9kckI3cExBa0dsaHM2S1dyY1IzZnk0aFlYOGc4M1RoYzd0TVQ0aVNWM1I1RmVCRTNDcURBeHluNDFOOEJaMXVaOUo5ZGN0U0RoTFNuUmJHSjVSdFQzcHdCbHdyNHU1cUFaU290VVhzbV9HbVJjeDJrNGV1TGJOdmNzaHdmR29H?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 05:07:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOekZkb1pyMXY1c1Z0MXZWWWNpS2x2SjdZWGJFQUpyZGN4Sm9iTkRKSE8zTHYxM0x0RVZEbW5ic3hYS212STFGZGhXb29HQ1VhMndyRVVyLWJlN2t5Z0xNMnlCVEtFTVBSMW80WndFTDAxSUxobWVhYVNTY2hRS1NVaFkwVDJPa2FZZ2dhd3ZPR21QX1F1RDVzSU10eWt4LWZCN2NEZmdfLTRQcWJQYjEzU1NVUE1udFMwellTeDA1QTk1dHpSb3hj?oc=5",
           "pubDate": "Fri, 23 Oct 2026 03:49:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Injuries in China's Tibet rise to 65 after earthquake, death toll remains at 16 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3RUZTBjRENZY1ZLS2FfZzJIWUN6QVdCcnYzQXVtc25yZFJMZTg0UVpSMlAzM2ZqQzVzSVBvclp0NFZDb1drQ29zZTlnakRnNXc3aE42R2ZId3RqSll2Q0dBamdNdzFUUnVTX19vWC11XzVJTTZ0QmxIazVPcDY2S3pFeDduc2oxaWlTQ2k4b1pQbXo5RjdNb0Q1TFBUbHh4UjZfcU9laE5sdVc1Vk1PUmRkOVZqZkk?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 03:18:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T06:25:13.783Z"
+      "updatedAt": "2026-10-23T06:50:17.826Z"
     }
   ]
 }
