@@ -1,22 +1,28 @@
 {
-  "fetchedAt": "2026-10-23T12:25:13.611Z",
-  "lastChecked": "2026-10-23T12:25:13.611Z",
-  "lastUpdated": "2026-10-23T12:25:13.611Z",
-  "generatedAt": "2026-10-23T12:25:13.611Z",
+  "fetchedAt": "2026-10-23T12:50:20.167Z",
+  "lastChecked": "2026-10-23T12:50:20.167Z",
+  "lastUpdated": "2026-10-23T12:50:20.167Z",
+  "generatedAt": "2026-10-23T12:50:20.167Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Denmark to ban mink farming in government U-turn",
-          "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 23 Oct 2026 12:17:45 GMT",
+          "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+          "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 23 Oct 2026 12:48:52 GMT",
           "source": "BBC News"
         },
         {
-          "title": "At least one dead and four injured in Paris suburb shooting",
+          "title": "Anti-terror police investigate as one person killed in shooting near Paris",
           "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 23 Oct 2026 12:06:50 GMT",
+          "pubDate": "Fri, 23 Oct 2026 12:47:01 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Denmark to ban mink farming in government U-turn",
+          "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 23 Oct 2026 12:17:45 GMT",
           "source": "BBC News"
         },
         {
@@ -38,12 +44,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-          "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 23 Oct 2026 10:26:06 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
           "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 23 Oct 2026 10:23:07 GMT",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T12:25:12.494Z"
+      "updatedAt": "2026-10-23T12:50:18.580Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Authorities investigating whether first Kenyan and Nigerian Ebola cases crossed paths",
+          "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
+          "pubDate": "Fri, 23 Oct 2026 08:41:39 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
           "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
           "pubDate": "Fri, 23 Oct 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
-          "pubDate": "Fri, 23 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T12:25:12.702Z"
+      "updatedAt": "2026-10-23T12:50:18.853Z"
     },
     {
       "name": "AP News",
@@ -132,7 +132,7 @@
         {
           "title": "U.S. Department of Justice - AP News",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 08:41:50 GMT",
+          "pubDate": "Fri, 23 Oct 2026 08:51:45 GMT",
           "source": "AP News"
         },
         {
@@ -167,15 +167,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T12:25:13.210Z"
+      "updatedAt": "2026-10-23T12:50:19.492Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "France mounts major security operation for fresh wave of protests - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkg2U21rX0FPY3pMbWlwRW5TYmJ1OEVLUUFpWGE0NG1ud3JCTkEzSzVaaGJDOGs3UFdOcDFnX0NBMTI3YWtQLXRrWjFkV3YxdWlGNnI2LVNoLWpkQ0Z6QjBoNUVXYkNRcG9KWm0tcmJKbExKaWtXYTNuSGdMZ0l4MzQxQlZmcGhiVWxpOG1lX0t1c2wzUUpYd0QzbXl3RkxZbDl5cWI4Ry16dmZYbHhqZHVUaEIyUQ?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 12:37:17 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Unidentified gunmen open fire at church in Jordan, causing deaths and injuries, state TV says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2lOTkU3cVRlN2NTOWxzMWZYZnZUSjBZeWV6VHprNk44Q0pWLXdaMjF6QU1iS1JjV2RLdkFkM2NyVUtTOXpDdHg3SThHN2tFZFozTGZIdlVaVzBqUFV2STZCMXcwbjMycDNTNWppUDdSTVZBaWxqTTR4dk5kWkFrTDM2TzVkYi1oNTNwTjluU2NmTmY5cHkxbEhhWGR4VUt5QTJub2hkalo1WExtNVc2MEoybC1YWkQxbnNoZ3l6QzB6c1lOdGJhZTdB?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 12:22:18 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Oil spill off UAE coast prompts beach closures, cleanup effort - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDVzb2o2bVZpMzFTRjc2dENKTUhpalRtLTA2bkprdkwxdWRBdXVVU0xWTHNYcmJLeEJTeV82SXhtN24wWUstUm9QV09Qcm5OSWF3dk5BVU93RmkyeWVuVVJnYloxNTZzajBhanlNNmZvUDJaRXdWbTFia1MycXpJTUtsUDRRSFVHcUJLSmlaNUY1Tk1qXy14SFRxczBUUTVJcGlaZk5FSzRvLUlJdWtWNTJB?oc=5",
           "pubDate": "Fri, 23 Oct 2026 12:11:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Weight-loss drugs fuel protein boom, but with more consumer scrutiny - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUU2WGdpVGc5WnlxS3dBSUNOOXB4TUFzRkduVll0ZzFMWlBsTnc4YlZILXVxMURldzZTSUo3UE4wcUw2bXpXWlQ2Nk5vYWFQV0YtNnljUVdUNlVSaFJLZHIwS1lLMC1SRVBuZ0ZpenRUS2VOa2c1Z2lkNDhlbUtRNFFPMjBxR3l1d1B0Z1VGQVNvYllJQV81eFJrMUFOdkozRVRjTXBITV9HYnpNRXBEMTdnRjhmdnc?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 12:06:48 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejUxWUdfTnA1dERLbFdHM21QSnA0cTl2NVhpeUo1cTRlWElBOHBCazM3cFNxQ3MyQUZuR3BUdTFteHVTeWFqWE1LZWxUa2UtQWxZWmxETUl3c1RJblFobnNUbXFfUkQ5eEpGNkhFUkp2c1NnYnRoaEVyclpmS21kbldqM1dOOHFlSHFtcF9FR3JRRnU5eVhmSUM0U2lOTm05X2d5Vk1HekphdUw5UmtsN25Icks0X0dVVXVGb1BVVElnXzQxcXc?oc=5",
           "pubDate": "Fri, 23 Oct 2026 11:26:02 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Eisenkot offers hawkish alternative to Netanyahu for Israeli PM - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORnVtbXdVNGp0NmpKbTE1MzdLbnRRTEZOLXJmWXRqdTRBSTZ5OVM2SF85V1FwbzA2VlJWYWpGUjRqeURkRVM3X2lPbDJxWFkyUHRGeFFTNmRDMk11SVNTSVVzVjBhUTBCeFgzMGZMeEUwNVdYWW5nYWZnelQxMGtqQk5DY1lPdmR1ajVjVGp0NGloaWFOTC1wdklGVGFEOWs?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 11:25:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV05wYl91MmowMUlxMjZkLXZBU25XR1h4ZWE5dnptMktPMDdkUnpWMkxpUFZrUUl6ajg2NjNlcVBaOTYwWEtqUkRTVlVIUGc1a3FoZjVwendXdm1DUTZxN05fNWkzblg2TEVFRkpKNnlTdjlpaWIzYkljMFFSYkRVa29uQkFWZWJOaWpFRV9ZWUJhSXBUa1NaLS1WZjJxcDQ4NmpHaXpFT2xLb1VYZWtSWElyT2xmTEg1V1FnMjE3NE5wQQ?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 11:23:15 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "AI trade meets the Fed - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWlIdzFDR0xNQ01RZzhsaXVtMXYtbWU3U3RvejE4NzV3TFZPXzI5SUpGTG9jLUxxbEhiNGFVMTZyUU84MVhTZGJaWkxtZ2cwaG9OTlJiYmFLTzFLLXZFQURzNUE5M05Lcjc5UXQ4Q1RIaVNWOFZlSlA2MTBLUFYtSVdLcGI3V3lCN216QQ?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 11:05:01 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T12:25:13.611Z"
+      "updatedAt": "2026-10-23T12:50:20.167Z"
     }
   ]
 }
