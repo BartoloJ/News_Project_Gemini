@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-23T16:25:30.668Z",
-  "lastChecked": "2026-10-23T16:25:30.668Z",
-  "lastUpdated": "2026-10-23T16:25:30.668Z",
-  "generatedAt": "2026-10-23T16:25:30.668Z",
+  "fetchedAt": "2026-10-23T16:50:15.463Z",
+  "lastChecked": "2026-10-23T16:50:15.463Z",
+  "lastUpdated": "2026-10-23T16:50:15.463Z",
+  "generatedAt": "2026-10-23T16:50:15.463Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 23 Oct 2026 16:33:11 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
           "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
@@ -20,9 +26,9 @@
           "source": "BBC News"
         },
         {
-          "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 23 Oct 2026 16:11:00 GMT",
+          "title": "Watch: CCTV footage appears to show gunmen near church in Jordan",
+          "link": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 23 Oct 2026 15:59:36 GMT",
           "source": "BBC News"
         },
         {
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Fri, 23 Oct 2026 14:58:19 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "PSG v Lyon moved as Paris prepares for more protests",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 23 Oct 2026 14:18:41 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T16:25:14.389Z"
+      "updatedAt": "2026-10-23T16:50:14.140Z"
     },
     {
       "name": "NPR",
@@ -105,28 +105,40 @@
           "source": "NPR"
         },
         {
-          "title": "Amid Trump's assaults on DEI, how one university is elevating Black students",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
+          "title": "Why going on a 'say no' retreat is a gift to your future self",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
           "pubDate": "Fri, 23 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T16:25:14.857Z"
+      "updatedAt": "2026-10-23T16:50:14.360Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump administration sues to block possible Democratic win in Alaska Senate race - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2lwdVh1SXlFeWVFaFRvNGN6a0dUaVV1b0diS0ZvaXhmYWJRR3JVYmRudTdhRmg0V18wYVVvenVWaUJJLTRBRkFkZXhIbEdYcHFGOXZiQ1JUMGRadHRMclMxdG9GTE5rTnBlVVoxbUdNM3VuZ0pkN2REZ2hKYWxVcDNubW9ESVMyQmVtS3doVUNLRTk4a1ZBT1hKTVNoT1Qta2U4V28tMW9KaTdpcUI3bDhPYjk?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 15:49:00 GMT",
+          "title": "Trump administration offers mixed messages on limits to Ukraine’s Starshield access - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0ZDU3ctZms3MzcyT3liSW5NSXV4SXpvUVRyZ3YzTm9SWXFaRkhIRFN1NFlRN2RlaG9OcDluTDh1Z3RkTzVGN3JKSlozNHdWZW9ORGVDSlZfcDViMGFGRl9mVDlaT3c1VVlRUjV3NFFjWkFPSFZUWEhpQzktaHZiQTk1WGhpRFNXZ2QyN25OTDNnUWhWb043RHJmaEtqaWNaZV8zaHdYMTNpbXdWYUJldw?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 16:36:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Trump administration offers mixed messages on limits to Ukraine’s Starshield access - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0ZDU3ctZms3MzcyT3liSW5NSXV4SXpvUVRyZ3YzTm9SWXFaRkhIRFN1NFlRN2RlaG9OcDluTDh1Z3RkTzVGN3JKSlozNHdWZW9ORGVDSlZfcDViMGFGRl9mVDlaT3c1VVlRUjV3NFFjWkFPSFZUWEhpQzktaHZiQTk1WGhpRFNXZ2QyN25OTDNnUWhWb043RHJmaEtqaWNaZV8zaHdYMTNpbXdWYUJldw?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 15:34:00 GMT",
+          "title": "Israeli military says 2 soldiers were killed in West Bank attack that also left 2 gunmen dead - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUU10ZzZIODMwNWxTQWN0dm55NUVrYV94T2tlajc3OGlSR1luUlBlZUh5djZiclJWMkdmcHAtSWViYkJSZHJrU0N5TFBkdEZhdTJCRWxlNkFLQlJ6RTRUZTM3ZU1RR3hUUzg4bTh4dkptQ3RoakJSVWJzTmVtWHk0WU1iUGdPdk9nV0NWVGt1aGdWVmJ3bUc4UHVB?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 16:35:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Suspect arrested after 1 killed in Paris-area shooting that is called a ‘terrorist crime’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnZ3Y2dPX1lNWkprR3Nnc3FZQjdWRW5aNzYwRGZJbmFfNlZfcE8xQWxmUlZ6U0ZQQlhpem1IM0VnZ2N4M3B0dHlQeVFqZ1M3V1JlLUpxczJ3TVM5RmZlemxfMkFSQzdUMGpxX2J5dGctTURuUnNhX1V3Tkx4ME1TRTFQaHpnTXNrb2d0QlMtelJFcEd0?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 15:52:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Wall Street mostly loses ground under pressure from rising oil prices - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWpGTk1fbkF2SWY0S1Q2MHN6WjRqQ1R3VWp4WXFKd3VQUG5WSlI1ZXFDY1pSUGJyampWMGtwZ3dRQmxGRzlTbERHSnlraUZ4WmFCSXM4U3J1Z1VSdV81eTB2ck1lWElpSnR2Qi1FbWUwUmJBT1l5enVZLVpsYmMySnBhZ0FDWHZBTElJVEhGYl9tN2tXblE?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 15:31:00 GMT",
           "source": "AP News"
         },
         {
@@ -136,93 +148,81 @@
           "source": "AP News"
         },
         {
+          "title": "US designates helium as a critical material, citing its importance for semiconductors - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjM5SGFuUzRrVGZkRXl5NWJtQkYzQTVub3FLQ2MzZEd3eTRiU2RHYldFOXpUdmhNYnkwaVh1Q1pHNXNfQjdCRXhqVjZxUDZDVW5RWXFFMTU0NXZFT2tGY1FOcWdhV1ZhRG9pY2xORGdkbTdBZG5yekNOdnpJYW01cEpQU1lnOFVMY2xKZm5sY21ZQ3h6UG9TMUtQZEZ4a05WVS1Z?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 15:19:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "A drone hit and sank a cargo vessel in new Black Sea attack near Romania, killing 1 - AP News",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWpJaVFWeFdvT0NpdU9ZQnVuQ3BhNjJ4dG0tVkZ3cm1UWXhtbVlXb1N4eTN1SG9adUVybERkSFJNbkVBbE9tWmh5ekxaMjcySVotYTZkSGFoRGpkVjJvbmhySF9CdFZRNlhfSEdXaFNSOWNkMEpYTTJoeElDeUhadGlTelZZWkxCZkE?oc=5",
           "pubDate": "Fri, 23 Oct 2026 15:19:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Ex-FBI official who briefed Congress on 2020 foreign interference is charged, her lawyers say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlRnSld1V19HTDd1N3l5NzlIcXhBN1ktV3J0UlZJeUx0cEFQUVhQVFNSSmpHbzVUY3V4WWE3eHFHNXpFUmlUSDNCV0ZnQnQyTlRhdmFYbUJJdWVHQ0pJaEdYWTlHOUxpdFY0VjV4TXhYVTBtTzE1U1JyNW42a3R4a1FTNXhxSHZEc3FWMmk4N1FjejNBcVV4Vw?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 14:29:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "US designates helium as a critical material, citing its importance for semiconductors - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjM5SGFuUzRrVGZkRXl5NWJtQkYzQTVub3FLQ2MzZEd3eTRiU2RHYldFOXpUdmhNYnkwaVh1Q1pHNXNfQjdCRXhqVjZxUDZDVW5RWXFFMTU0NXZFT2tGY1FOcWdhV1ZhRG9pY2xORGdkbTdBZG5yekNOdnpJYW01cEpQU1lnOFVMY2xKZm5sY21ZQ3h6UG9TMUtQZEZ4a05WVS1Z?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 14:01:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Europe's killer heat this summer claims 50,000 lives. Climate change blamed for two-thirds of deaths - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON2Y3SGtTSE5PWlZPdlBnMkUyck9CY3FyUTR6bGx2aHVJQmY3a3kwU0xTSEVHNDB0UE9mdDFjZlJzNVFDaWtkc3ZCcExFOXYwWm4yYXNsblJGeFlZN3pzcVFuN3VzZ3hqVG1zZk1EakhJZ1VJcHh2eloxYlFlRmZXUFphcUc1Y2hZZDdISUUwdHVFdE1TMjVlX0NkLWdqYWhwZmc?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 14:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Melania Trump helps forge ceasefire deal in Russian-occupied Oleshky, the White House says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 13:47:00 GMT",
+          "title": "Trump administration sues to block possible Democratic win in Alaska Senate race - AP News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2lwdVh1SXlFeWVFaFRvNGN6a0dUaVV1b0diS0ZvaXhmYWJRR3JVYmRudTdhRmg0V18wYVVvenVWaUJJLTRBRkFkZXhIbEdYcHFGOXZiQ1JUMGRadHRMclMxdG9GTE5rTnBlVVoxbUdNM3VuZ0pkN2REZ2hKYWxVcDNubW9ESVMyQmVtS3doVUNLRTk4a1ZBT1hKTVNoT1Qta2U4V28tMW9KaTdpcUI3bDhPYjk?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 14:57:12 GMT",
           "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-10-23T16:00:20.006Z"
+      "ok": true,
+      "updatedAt": "2026-10-23T16:50:15.015Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Trump administration sues to block Senate race certification in Alaska if Republican loses - Reuters",
+          "title": "US Justice Dept sues to block possible Alaska election of Democrat to Senate - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmhoNXZfaEZSVXU4cVh3dW9tMm54alE4THRoUWNBSzc4QTFvNHl6eE9mOElIeXE1S0pkQlV4Yld6U0t5RjZnbEpjSzVyMkMzQ01MM1hSclViSHVmRDZGTndKTm9GZHZaRUFIZnAxVnM2V0hDMGhUOHVKemxQcFdxc0hmLTJDTTFQWTFTRFhRalM1Y1I3Y0dRTEF6UldFdHg3OVVxd0hkdUFyNTdUN0dDZVRwbTFqbVVyT2FtSw?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 15:21:49 GMT",
+          "pubDate": "Fri, 23 Oct 2026 16:29:56 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkey - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDVaTVBUN2djLWhIejhzYlNpOGtWU0hoUEQxN1g0Q0M2UldpcFhud2pIc2s3LWpfOWdIVm1hZU4tSzFmVDRzLUJxSzFHcFNybURZTnY0R3liU1QtSE51S1F3TDJXdFJ6dzNUd2tjQUxScWpIYWt6ZXVPQnFqUjdVWkRENWRncnhoMFp2NDdMVWZrMFdUWThFcU9FbUdNOWplcWUxNXdRelc1cHN2RWJ3OEl6RXV4VkNpQUYxRDE1cTdFUQ?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 15:11:26 GMT",
+          "title": "Nasdaq ticks up as tech stocks steady; SpaceX worries hit telecoms - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 16:29:02 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Gucci owner Kering drops 16% as luxury braces for tough winter - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjViY2d2dzEyOUtlSUNpSXVuUVJUaVlXWXJLUjFpSEM3eVZ0VkhLRkFYLXROeWllcVVGNWpCc25FeldveVQ3b19GaVNQVWNwWDFRb3c1bWVXZl81c0VOeU1manlmZU8yOWNyc3pDWl80MTdqZ1NYVnFON2JfS2tDZ3YwQ2d1Y1BnY3pmaVlTbWpHTFlrUGhJU3VlOHlXX25wMnc?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 15:09:07 GMT",
+          "title": "Trump's diesel price relief efforts grow costlier as election nears - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3AwOWFSMUtfNXFVU01WekJVSDBWbHlRSC1CLS1GOGZJak5qeXRXclpHMF8xM2pzNVpXaGthMkRXMEZidWFuRU5UTVY5d3BvNjZHTUxIdzB1RnZWbnNFWXlMWHFFX1JrZllMNjN2dDZfZ1pNaDZmNkpxckRFRFdLOUlnZGt6X3FQaGs3VGRrZllULXdtVHB4SlpzYzlIdktfbW8xTy1UeVVTdjk5LWxLOUpkTURodw?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 16:25:39 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says - Reuters",
+          "title": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 14:53:53 GMT",
+          "pubDate": "Fri, 23 Oct 2026 16:19:24 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Fast-fashion group Shein agrees to pay $100 million to settle US FTC probe - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNckp2UlFlZU55ZWd2WS1QR3NMSklGSUMwOThxSl9CX1ZrT1FobWZLYm83TXR6enIwMHpHY1BVd3R5akIzTkk4QjVFQ3F3cmhyQnlucFVCM1ZhejByT25sU0JpYUpsSDR3YjlMRnZXQ1I5eVhGSjRLY3pkLTNVdEt4OWxGQksxR2ROYVYzMFRmbmg0bmd3WUVBYldmUmFvQTFPcS1yeWFIbmhBeUhENmpRWlNvTDJUNTk1RGh0MDJEZlUwUnYyaFJB?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 14:51:03 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Six killed in attack at church in Jordan, authorities say - Reuters",
+          "title": "Seven killed as gunmen open fire at church in Jordan, authorities say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2lOTkU3cVRlN2NTOWxzMWZYZnZUSjBZeWV6VHprNk44Q0pWLXdaMjF6QU1iS1JjV2RLdkFkM2NyVUtTOXpDdHg3SThHN2tFZFozTGZIdlVaVzBqUFV2STZCMXcwbjMycDNTNWppUDdSTVZBaWxqTTR4dk5kWkFrTDM2TzVkYi1oNTNwTjluU2NmTmY5cHkxbEhhWGR4VUt5QTJub2hkalo1WExtNVc2MEoybC1YWkQxbnNoZ3l6QzB6c1lOdGJhZTdB?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 14:49:43 GMT",
+          "pubDate": "Fri, 23 Oct 2026 16:07:06 GMT",
           "source": "Reuters"
         },
         {
-          "title": "France mounts major security operation for fresh wave of protests - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkg2U21rX0FPY3pMbWlwRW5TYmJ1OEVLUUFpWGE0NG1ud3JCTkEzSzVaaGJDOGs3UFdOcDFnX0NBMTI3YWtQLXRrWjFkV3YxdWlGNnI2LVNoLWpkQ0Z6QjBoNUVXYkNRcG9KWm0tcmJKbExKaWtXYTNuSGdMZ0l4MzQxQlZmcGhiVWxpOG1lX0t1c2wzUUpYd0QzbXl3RkxZbDl5cWI4Ry16dmZYbHhqZHVUaEIyUQ?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 14:44:39 GMT",
+          "title": "EXCLUSIVE: US, South Korean officials see little chance of Trump-Kim meeting this year - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkw3ZXVpd3NUV2JqelBpckw5WnBRUUJuNE5fcDZJZ1VtVDlBTmI0Uk5paGdNZWV5ZjlnTWQxeVVwZktyeTF3TER5bzdGUWpNOEpfeGNjVWQyazM5dEVqRDYyd19PUHg1ajU1cjNIUFg1VHJKT3ROdkp3V0FBY0FNVENxbldkMlNaa1BfYnVXcVFmTzZTcDQ2VWZKWmVoaWNuT2x0Tk53WDJ5aWdCaGVTRWVrNXpjMUxBMW44?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 16:05:28 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Focus: AI-discovered bugs may soon trigger fresh disruptions, cyber experts say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV05wYl91MmowMUlxMjZkLXZBU25XR1h4ZWE5dnptMktPMDdkUnpWMkxpUFZrUUl6ajg2NjNlcVBaOTYwWEtqUkRTVlVIUGc1a3FoZjVwendXdm1DUTZxN05fNWkzblg2TEVFRkpKNnlTdjlpaWIzYkljMFFSYkRVa29uQkFWZWJOaWpFRV9ZWUJhSXBUa1NaLS1WZjJxcDQ4NmpHaXpFT2xLb1VYZWtSWElyT2xmTEg1V1FnMjE3NE5wQQ?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 14:41:41 GMT",
+          "title": "Storm causes power outages and traffic disruptions in France and Britain - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXJWdmhrbzhRV0ptdXBNUXNuSThoX19sYUpyanBOcUw1U2YxcTd0eS1abmxyelUyWmhfSVBkU2lpTjBrOXZYb2ZqRGRSMTJMX05yd3IyM3c5bV9XRUtzRDZFSmRMQ2RVREY3QWxnblh5NUxFZDJGMVl5U1lKdmpnOHloUmtEUjZYRzBoekxZODJXdVFsWFF0UFd2OUthN1V0RmJCQ251ZU14Tl85cm1RUkRkOA?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 15:59:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "UK tells public to keep three days' emergency supplies at home - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmRBVlhXaFdmTFBac29hb2o0NWNXRlJsYWRNYUJKeWtPLWN1c3FqcVh6RWhsemJPeFFzZThhM0dUWnNRTVFoWlNxemgtcGVfTnNBYy1vNlF1aEc0QU44Zy1KdVhiNGstRFFOU0JqVk1XMzFrQ1RTcUJvNmcwYVo5RUI1bkZBTFFDUERMYlRLdXh0VFU1Z0p0UlRySjk2QkxhX2Mya3NPaEw5TFR2b0o0T0VpWlRJRjJZTUE?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 15:48:51 GMT",
           "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-10-23T16:00:20.524Z"
+      "ok": true,
+      "updatedAt": "2026-10-23T16:50:15.463Z"
     }
   ]
 }
