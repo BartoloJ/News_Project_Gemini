@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-23T18:25:14.932Z",
-  "lastChecked": "2026-10-23T18:25:14.932Z",
-  "lastUpdated": "2026-10-23T18:25:14.932Z",
-  "generatedAt": "2026-10-23T18:25:14.932Z",
+  "fetchedAt": "2026-10-23T18:50:16.229Z",
+  "lastChecked": "2026-10-23T18:50:16.229Z",
+  "lastUpdated": "2026-10-23T18:50:16.229Z",
+  "generatedAt": "2026-10-23T18:50:16.229Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T18:25:14.002Z"
+      "updatedAt": "2026-10-23T18:50:15.214Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
+          "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
+          "pubDate": "Fri, 23 Oct 2026 14:30:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
           "link": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
@@ -103,24 +109,18 @@
           "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
           "pubDate": "Fri, 23 Oct 2026 05:40:32 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Hacking attempts rise after flaws found in program affecting 70% of websites",
-          "link": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
-          "pubDate": "Fri, 23 Oct 2026 05:37:38 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T18:25:14.046Z"
+      "updatedAt": "2026-10-23T18:50:15.345Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Trump says he ordered the Justice Department lawsuit over Alaska’s US Senate race - AP News",
+          "title": "Trump says he ordered the Justice Department’s lawsuit over Alaska’s US Senate race - AP News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2lwdVh1SXlFeWVFaFRvNGN6a0dUaVV1b0diS0ZvaXhmYWJRR3JVYmRudTdhRmg0V18wYVVvenVWaUJJLTRBRkFkZXhIbEdYcHFGOXZiQ1JUMGRadHRMclMxdG9GTE5rTnBlVVoxbUdNM3VuZ0pkN2REZ2hKYWxVcDNubW9ESVMyQmVtS3doVUNLRTk4a1ZBT1hKTVNoT1Qta2U4V28tMW9KaTdpcUI3bDhPYjk?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 18:18:00 GMT",
+          "pubDate": "Fri, 23 Oct 2026 18:35:00 GMT",
           "source": "AP News"
         },
         {
@@ -167,15 +167,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T18:25:14.497Z"
+      "updatedAt": "2026-10-23T18:50:15.778Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Ex-FBI officials charged with lying to Congress about Hunter Biden probes - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTdPQ3dYU0R5ODhPalRCbE5Cd1FvcTI4aUl5YUJsR2NLM2ROZVNfT2VUS1dKUWtROW9TQkhkQUtFOEtndlUzRElrcWVfU0lHUU0xTFpGTUFLQWlwNklldWVZZDRsWHE3RGF4YUVjU2F0bDR0M0pfMktZRjItX0Q0cVhMLV9RWUpZbkhBYkp5VnZqUW0yUXJWeXdfQ0xBV3ZTdll4bW5jT1ZZOGVCcTdRX09NeUtkZGdxcW9KNFZ4ZWc?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 18:30:22 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5",
           "pubDate": "Fri, 23 Oct 2026 18:19:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oil spill off UAE coast prompts beach closures, cleanup effort - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDVzb2o2bVZpMzFTRjc2dENKTUhpalRtLTA2bkprdkwxdWRBdXVVU0xWTHNYcmJLeEJTeV82SXhtN24wWUstUm9QV09Qcm5OSWF3dk5BVU93RmkyeWVuVVJnYloxNTZzajBhanlNNmZvUDJaRXdWbTFia1MycXpJTUtsUDRRSFVHcUJLSmlaNUY1Tk1qXy14SFRxczBUUTVJcGlaZk5FSzRvLUlJdWtWNTJB?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 18:16:13 GMT",
           "source": "Reuters"
         },
         {
@@ -197,32 +209,20 @@
           "source": "Reuters"
         },
         {
+          "title": "Germany secures extra winter gas supplies as storage levels lag - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcU5wNWhZZFdPM1dQUUNFSmt0WDd2WDIyTmlvN3dueERMelY5V3VTNDVabnBjRmVEUG5ycDg0aWN2aFFKRTg3bmVQTXUxSmxfMUlDYXhQZTFRUUdNMXBMSWdkek0zcGpZcWhTN09XTVdNNGJRcHZBTHpUaFgyRzg4NFY3S0xSaldOTkZ1d1h5eXQzeUJFUEVYc1Q3UGE2MWw2M3RDSmluUVRsTkl5U2JtR1B3?oc=5",
+          "pubDate": "Fri, 23 Oct 2026 17:43:43 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "France boosts police presence, hoping to prevent repeat of riots - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkg2U21rX0FPY3pMbWlwRW5TYmJ1OEVLUUFpWGE0NG1ud3JCTkEzSzVaaGJDOGs3UFdOcDFnX0NBMTI3YWtQLXRrWjFkV3YxdWlGNnI2LVNoLWpkQ0Z6QjBoNUVXYkNRcG9KWm0tcmJKbExKaWtXYTNuSGdMZ0l4MzQxQlZmcGhiVWxpOG1lX0t1c2wzUUpYd0QzbXl3RkxZbDl5cWI4Ry16dmZYbHhqZHVUaEIyUQ?oc=5",
           "pubDate": "Fri, 23 Oct 2026 17:42:17 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wells Fargo, Intuit latest companies to object to their shares being tokenized, document shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY1IyYVRJX1Vlemd2UTZ5OHpUS2ZYU3A2eHpIel9JOHdrUy1sNG40Mlp6M3h4dDhiZmRnMFR0UU5fSGx0SkdPdTVYU2t4NUxFOW9uZTBEbTNZN1RvZVdfajRXbzRrc2xiVXlZRzNvYVdqWjBtd1NaNjVwVzZnQ1QzVVk3aFhGdk9EWkJZcjdndVlIZXNBd1ZUeWlQVEo0S3NwUzdmOVdmNUxlMnRxSHE2TXA4cm00V29Nc01PVktZbFIzZ2c?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 17:23:26 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Health officials race to trace source of Nigeria's Ebola infection - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR2VLQlZPa3RzLUR1M3hnR1J6LXAwLXFrUGlvVlI0SlliYjlieGNhQ1RveEtwOTJnLUhBWHFuSTFyaE5MYXNKRlNsZmc2SWREdG9JWnU3V2gycmpXY1h4VEhscVFfbGg4RGxjRmk2TnNjSHcxR0N5V0VmRFRvSHpuNGpyYV9NLVZRd295RzVhWmlvVUNzb1RYYUNFN2lBbWNQbDRSSmdjdm9lZDROTmpCajlUVQ?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 17:19:17 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Building collapses in Kenyan capital, rescuers on the scene - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVpLTzd4NkFaVmRUa3lENmlHdGxvZmJuWHN0TG1DeXVNbXhlSkVDc3RxeV91MkNLYjJtdUlQY1BlUXo0TlFuOXZNTGpFd1JoWVRFMERXTVlYZEpqb2Y5WTFqd1ptMVd0ZmVjM0hWLWxtWmMtQWpyd0dhYVpaTlJZbDVfS0VQY1hMTTdZWXdtUjdmc0tENjFUMUlWNHY3QQ?oc=5",
-          "pubDate": "Fri, 23 Oct 2026 17:17:50 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-23T18:25:14.932Z"
+      "updatedAt": "2026-10-23T18:50:16.229Z"
     }
   ]
 }
