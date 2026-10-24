@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-24T23:43:48.871Z",
-  "lastChecked": "2026-10-24T23:43:48.871Z",
-  "lastUpdated": "2026-10-24T23:43:48.871Z",
-  "generatedAt": "2026-10-24T23:43:48.871Z",
+  "fetchedAt": "2026-10-24T23:50:15.637Z",
+  "lastChecked": "2026-10-24T23:50:15.637Z",
+  "lastUpdated": "2026-10-24T23:50:15.637Z",
+  "generatedAt": "2026-10-24T23:50:15.637Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T23:43:47.748Z"
+      "updatedAt": "2026-10-24T23:50:14.226Z"
     },
     {
       "name": "NPR",
@@ -112,23 +112,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T23:43:47.981Z"
+      "updatedAt": "2026-10-24T23:50:14.600Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 21:31:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "LeBron James - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuX19iS3NmRUxTOTI2MEdsQ0g1YUVkWmV3OTRpQ0dZNnYtcnlTWUhEOUdpYkxIUFFYOTFCejhmR255Z3pIZk4teHNvdw?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 20:47:17 GMT",
-          "source": "AP News"
-        },
         {
           "title": "Survivor of deadly attack on Jordan church describes people crawling for their lives - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbTZQajdITldrSGluNnR2YkxmRUdzNzZXU05MaUtkcFJhWC1CdU1fSXVzR2lJRHdIYm9kTm9XTDZhbjdjRTg2RFgzZ2hZUFVZalRHeWk1ZjZZNkFmNEhsbFQwVkpBbVdxMGhhVmduNnR3RGVPaElyNl9CSFVLU29sNWd4czNrbTRqZWFJXzBiZzFPWXhwaE1jalp1bFdSNGU0?oc=5",
@@ -164,10 +152,22 @@
           "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
           "pubDate": "Sat, 24 Oct 2026 19:31:10 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Israelis hold final rally against Netanyahu before election, and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPem0xR3lFdmx3SDVUQTVqZXhRZUlSWkk5NU1PUWpoVkI0TXo0N3ZyeDRtYjZoV3phMjdwZnhaRVc4dkdibUhEcU5jd2F1RVNqQjV1ZDJHbC1UWEJsSnRLdi0xTWFUSFNEbWVuY2F4M0M4QWxVdnh2dUw4OVJCUFhJcXVpcDVWUFBNZGZtTjRoSnBHUQ?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 19:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "LeBron James - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuX19iS3NmRUxTOTI2MEdsQ0g1YUVkWmV3OTRpQ0dZNnYtcnlTWUhEOUdpYkxIUFFYOTFCejhmR255Z3pIZk4teHNvdw?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 18:45:24 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T23:43:48.465Z"
+      "updatedAt": "2026-10-24T23:50:15.205Z"
     },
     {
       "name": "Reuters",
@@ -188,6 +188,12 @@
           "title": "Trump set to announce Audi plan to build US factory in Georgia, source says - Reuters",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5",
           "pubDate": "Sat, 24 Oct 2026 22:52:30 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nigeria's Tinubu launches re-election campaign as economic pain tests support - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2pnT1VmVHRrU1I2MHl3cGFQQk51cUx2S0NhUHBydDBnQWtpbndGWm54NDl0OGhhRUVIUlJCN0hLcWNvVmROQjJ5VGYyekhPNEVTTU5oMVRiM2VQbFBmaWwwTkhSUjFUQ3N3d016YlZZdFdfaGx4WmwtVjNlZkNqOGhPNVpLRFVCRmZITU10X3hhOHJ0bU5NUUN1aU5TLW8tOFNxRnloS3ZDM2xxQU9qaWJWVmowRkJRQjV1d3Viaw?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 22:49:12 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnBGckdpTkdaSnNZeFIyenI0MVVDMHd6R2ZDcTlUX3I4OWNNMlRjd0FTXzhCY09zakU1MWx2RzBpRW1QYTRxY2M3UWpBZHR3S1JlNjQ0WlIyRlh3ZnhNaVZ0OVcwU21YMjUyVVF0RXB0VXFLMWpGdEVtak1DUktTdUdLWmQyWGRFQ0xmb2Z3WG1nSHdfVUxlbUlsc2RJRmNmWVRHS1Qtd0RCVU92d2t1S19HbjlFVzdoREJONTRNYk1iZw?oc=5",
           "pubDate": "Sat, 24 Oct 2026 22:06:52 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Violence flares in Paris after largely peaceful protests across France - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 21:27:22 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T23:43:48.870Z"
+      "updatedAt": "2026-10-24T23:50:15.636Z"
     }
   ]
 }
