@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-24T19:16:40.225Z",
-  "lastChecked": "2026-10-24T19:16:40.225Z",
-  "lastUpdated": "2026-10-24T19:16:40.225Z",
-  "generatedAt": "2026-10-24T19:16:40.225Z",
+  "fetchedAt": "2026-10-24T19:25:13.196Z",
+  "lastChecked": "2026-10-24T19:25:13.196Z",
+  "lastUpdated": "2026-10-24T19:25:13.196Z",
+  "generatedAt": "2026-10-24T19:25:13.196Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:16:22.786Z"
+      "updatedAt": "2026-10-24T19:25:12.029Z"
     },
     {
       "name": "NPR",
@@ -112,17 +112,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:16:23.085Z"
+      "updatedAt": "2026-10-24T19:25:12.293Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 18:30:00 GMT",
-          "source": "AP News"
-        },
         {
           "title": "Israel imposes closures across a West Bank city after attacks, and other Mideast news - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPem0xR3lFdmx3SDVUQTVqZXhRZUlSWkk5NU1PUWpoVkI0TXo0N3ZyeDRtYjZoV3phMjdwZnhaRVc4dkdibUhEcU5jd2F1RVNqQjV1ZDJHbC1UWEJsSnRLdi0xTWFUSFNEbWVuY2F4M0M4QWxVdnh2dUw4OVJCUFhJcXVpcDVWUFBNZGZtTjRoSnBHUQ?oc=5",
@@ -164,14 +158,32 @@
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuX19iS3NmRUxTOTI2MEdsQ0g1YUVkWmV3OTRpQ0dZNnYtcnlTWUhEOUdpYkxIUFFYOTFCejhmR255Z3pIZk4teHNvdw?oc=5",
           "pubDate": "Sat, 24 Oct 2026 14:54:24 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXJEbXYtVm45V3lUY3NuMmNFSUxHcjNYdzhENFJ1SXhCRjJyU0dGYnROb3BWVjA0S0NFa1FHSHkwOVJZODRsalpSSXFGQk9vNDE4NDkxTDFOaDFDX3ZrSmtFbjJOUnBPMU1ZN0RHV0o4UWxpUE0yZjBodDFWMWZ6c3FBWVpZSFhheDViTDJ6MkRaei1R?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 14:06:00 GMT",
+          "source": "AP News"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-10-24T19:00:18.371Z"
+      "ok": true,
+      "updatedAt": "2026-10-24T19:25:12.743Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Nigeria's Tinubu launches re-election campaign as economic pain tests support - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2pnT1VmVHRrU1I2MHl3cGFQQk51cUx2S0NhUHBydDBnQWtpbndGWm54NDl0OGhhRUVIUlJCN0hLcWNvVmROQjJ5VGYyekhPNEVTTU5oMVRiM2VQbFBmaWwwTkhSUjFUQ3N3d016YlZZdFdfaGx4WmwtVjNlZkNqOGhPNVpLRFVCRmZITU10X3hhOHJ0bU5NUUN1aU5TLW8tOFNxRnloS3ZDM2xxQU9qaWJWVmowRkJRQjV1d3Viaw?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 19:08:10 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Amgen drug combined with immunotherapy extends survival in lung cancer trial - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkp5SkpQWTcySnpWVEtXVGN2azJZYnFERjh6WHJBR3NPcEE0TDNGWUVuQ0Q0WF91VnFFVkRYZjF1NFJ3N01XdzVTZzNXQ0F4NlVMMzVZY0JUNldtZW1CS0hSX3d4TUZVZ3lfX2xjeVF6UElWanluMXNOV05ybUdFb2YwbUJ2eGY3NkR0ZUhabWhaMGp5SERfajdZMzlUcGZsX3RULXNZMlI1eTMwbjFxWTlweW5uNHpNTWlVbmVKS2libTlG?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 18:47:08 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Violence flares in Paris after largely peaceful protests across France - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX21BMWozRzgtZFdWcVVVc3o5dHh3bUIzSzZjcTdZTnNzcFdXN2lVYVpXTmY0OHB0UWdFbjdmQ0FKV0hxOVUxeVJGNEhxTGdhQW9tZWtuTGoxTDNKZWplYjBkLWd4Q2sxdlhXdElFaVo1a0pWbm9walRONWoxRVZCU2VFTEUwMlZfNEZZeWpsVGJPMnF6MW9ZNW11WHlKRGEtVjNoRlFsMTIxT0pvQkU5UnRhT3RxTThD?oc=5",
           "pubDate": "Sat, 24 Oct 2026 17:11:44 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Belgian protesters and police skirmish at anti-government demonstrations in Brussels - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWRmTGozX08xMlVRbHEtbWNESTBRVUg5eVNVR2dJTnh2UTNoU1F1aktWc2FYZVh6N0hkcFJxN05OS1hmNmQzLWZZODBIVFRBYlQ1SG5BUzJvUUdxMmFsRWJlcFdlR3pSRTdJT0pDWk1XYUl6UENiTzNja0ExT0VFbWZvU01iTmpjY0R4bnF1RmRscUtDSnJUQTFJeUtLeF9BZ2kzcWxQOGlOZUhyUThmY29IOTY5eWc?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 16:06:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Libya's Dbeibah says ready to address Egypt's maritime concerns - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmxsRWg3NGtsREw4YWtPYlZUcjJVN0FJcDJkbzY1ZjdycTZzVzNjVFpwajFzTk9pT1V5QW5JdmQyMWNaOTIxU1pGdHRQQ2ZXcnh2UnFFQTJjUUlrSlpTZVBkNHBvaGpVY3JZMjZoSkliSWYxWm44dEpaQTdsNmNrb0RMV1FfX0p5eUpSQWFCYkpQRWE4WXllX1FYTW1IbE01SDk2bjVpNHVLOHI5RnllbE93?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 16:04:09 GMT",
-          "source": "Reuters"
         }
       ],
-      "ok": false,
-      "updatedAt": "2026-10-24T19:00:18.795Z"
+      "ok": true,
+      "updatedAt": "2026-10-24T19:25:13.196Z"
     }
   ]
 }
