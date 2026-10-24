@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-24T06:00:19.267Z",
-  "lastChecked": "2026-10-24T06:00:19.267Z",
-  "lastUpdated": "2026-10-24T06:00:19.267Z",
-  "generatedAt": "2026-10-24T06:00:19.267Z",
+  "fetchedAt": "2026-10-24T06:25:15.267Z",
+  "lastChecked": "2026-10-24T06:25:15.267Z",
+  "lastUpdated": "2026-10-24T06:25:15.267Z",
+  "generatedAt": "2026-10-24T06:25:15.267Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "France prepares for day of protest a week after nationwide riots",
+          "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Oct 2026 06:19:46 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "How Brazil's changing working class is reshaping the presidential race",
           "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "The rise of AI election ads in US midterms campaign",
           "link": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Oct 2026 05:03:44 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "France prepares for day of protest a week after nationwide riots",
-          "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Oct 2026 04:03:46 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:00:18.150Z"
+      "updatedAt": "2026-10-24T06:25:14.261Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:00:18.383Z"
+      "updatedAt": "2026-10-24T06:25:14.346Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:00:18.812Z"
+      "updatedAt": "2026-10-24T06:25:14.802Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T06:00:19.267Z"
+      "updatedAt": "2026-10-24T06:25:15.266Z"
     }
   ]
 }
