@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-24T10:00:19.891Z",
-  "lastChecked": "2026-10-24T10:00:19.891Z",
-  "lastUpdated": "2026-10-24T10:00:19.891Z",
-  "generatedAt": "2026-10-24T10:00:19.891Z",
+  "fetchedAt": "2026-10-24T10:25:13.806Z",
+  "lastChecked": "2026-10-24T10:25:13.806Z",
+  "lastUpdated": "2026-10-24T10:25:13.806Z",
+  "generatedAt": "2026-10-24T10:25:13.806Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Oct 2026 10:22:34 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
           "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
@@ -17,18 +23,6 @@
           "title": "Seven missing after multi-storey building collapses in Kenya's capital",
           "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Oct 2026 09:44:01 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "France prepares for day of protest a week after nationwide riots",
-          "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Oct 2026 09:34:32 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Oct 2026 09:03:15 GMT",
           "source": "BBC News"
         },
         {
@@ -54,14 +48,32 @@
           "link": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Oct 2026 05:03:44 GMT",
           "source": "BBC News"
+        },
+        {
+          "title": "Australian MP's condition improves after alleged car attack",
+          "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Oct 2026 01:55:15 GMT",
+          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T10:00:18.742Z"
+      "updatedAt": "2026-10-24T10:25:12.632Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+          "pubDate": "Sat, 24 Oct 2026 06:00:00 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "U.S. birth rate drops to record low, but older women are having more babies",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+          "pubDate": "Sat, 24 Oct 2026 06:00:00 -0400",
+          "source": "NPR"
+        },
         {
           "title": "This decade has been missing its big-impact midterm",
           "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
@@ -97,36 +109,30 @@
           "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
           "pubDate": "Fri, 23 Oct 2026 14:30:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
-          "pubDate": "Fri, 23 Oct 2026 13:35:14 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
-          "link": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
-          "pubDate": "Fri, 23 Oct 2026 11:51:04 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T10:00:18.915Z"
+      "updatedAt": "2026-10-24T10:25:12.920Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Fire breaks out at Alpine retreat built for Hitler in Germany. A person is detained - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3ZLRkl4Y2Jla2ZCdW90UzZ1aHJuTl9xVjZpSGdQb2xzTDdsRFVEeURDTUJvaVQwbGU2bEFNQ21oMlJqMVFZYWc0dUZiQy1yMWQzUnBhWmZXNzFHWUdpVU1ndHdBTHZIUDFybWNZbGx2QWdRQ2VrNlgwZlMtNWxQc2dCa2U4bmxUdXl1bXhGaUlVZW5OU3RmZnFFVW5LdnpsQUdxZGZkTEpqMm54TVpB?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 08:36:00 GMT",
+          "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXJlUlhXa2k4Z0t0c0FMNGlNNWZyM2Y2QkdXeFhqeEFMcmduN2JZZVUwelo1aU41bHZtTUMyamxGUVB5YTVQLVQ1S2p3ZnRtVzU5ZXNsaGd1NXctODdmeEZJbTFpN0l2MlE0MFlVSHZDbWtKaVBJeTd1bkNEeF9sTVRTZVZ2VmFxT0E1X2lrOVpybnlLUHJrUTRUWjl6a1VpNGpDRm5OZ0xqRTA5?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 10:18:00 GMT",
           "source": "AP News"
         },
         {
           "title": "North Korean leader Kim Jong Un visits China, South Korean news agency reports - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 06:44:00 GMT",
+          "pubDate": "Sat, 24 Oct 2026 09:00:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Fire breaks out at Alpine retreat built for Hitler in Germany. A person is detained - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3ZLRkl4Y2Jla2ZCdW90UzZ1aHJuTl9xVjZpSGdQb2xzTDdsRFVEeURDTUJvaVQwbGU2bEFNQ21oMlJqMVFZYWc0dUZiQy1yMWQzUnBhWmZXNzFHWUdpVU1ndHdBTHZIUDFybWNZbGx2QWdRQ2VrNlgwZlMtNWxQc2dCa2U4bmxUdXl1bXhGaUlVZW5OU3RmZnFFVW5LdnpsQUdxZGZkTEpqMm54TVpB?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 08:36:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTVZOWTFKeWc0bWo4eF9Bd1BYeVpPUkVZUnF4V2FSWDUwUTM0QWpGX05wV0ZjV19kcFNkckRKZ2kxX3MyckMyZ09yVVI5ZkJHbGxlaFJFakN0aHhDOFdfMlRYRi1PZHN6NXhUQ1V4bnlBcmhkTmhMZzNaOWVvNGttbDB6c3hGMjNYV0E?oc=5",
           "pubDate": "Sat, 24 Oct 2026 03:08:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "A shooting in the Paris suburbs kills 1 and wounds five in a suspected racist attack - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnZ3Y2dPX1lNWkprR3Nnc3FZQjdWRW5aNzYwRGZJbmFfNlZfcE8xQWxmUlZ6U0ZQQlhpem1IM0VnZ2N4M3B0dHlQeVFqZ1M3V1JlLUpxczJ3TVM5RmZlemxfMkFSQzdUMGpxX2J5dGctTURuUnNhX1V3Tkx4ME1TRTFQaHpnTXNrb2d0QlMtelJFcEd0?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 02:45:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T10:00:19.539Z"
+      "updatedAt": "2026-10-24T10:25:13.413Z"
     },
     {
       "name": "Reuters",
@@ -182,6 +182,12 @@
           "title": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
           "pubDate": "Sat, 24 Oct 2026 09:11:16 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Johnson & Johnson's prostate cancer drug shrinks tumors in early-stage trial - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeWNyU043aUVYSUNOanI5QkZfcjFOc2FET3BDNFh5RXdORFFNcFY4ZVFWNlUzV1gwaFpDNXkzeENNSFlFZVljZzNHdWtuZDlIc1ZJeGhocVpnTjN4QmVJcms4blBfZVpSMm5NWUgzb1NqejhfVnV5MV82Qi1Bakg1R19aVzBFWTZhOURPckU0Z2FHVkxOZVRIa2tMajVmaGlYd3Mwd3ZOXzVjbEp1YWVRXzVLZjdPTTdlZ19laS1MTm5vRlNhYUl1YUdDcXlwaEo5RDNkT2M0Tm9jUQ?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 08:18:18 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRzVIOWVqX0Jia3JrVmo5YkZuTGFOTlo1YVpMcFFwRHFtMEFaQVhYMjdZbGdYYXhaSTFLcTNiZzVNRzRCaTZIcWtmVktJTEhVTDl5dHNMcW9fMEp0WGxnazE1TnUzcEdXZUg1M3gyVUF4XzV1c1BmeGZKM2R1dm9USFljVldzUXdQWVk3bnFJMi1ZUDk5QjQ2TEozNUlXMXJ0bnkxYndOUFZVa042YlJlYnlzZVIzb2dJZzlReA?oc=5",
           "pubDate": "Sat, 24 Oct 2026 05:05:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Bolsonaro and Lula clash on living costs, corruption in final Brazil election debate - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjFLWHVLdnk5bU5NR3ZxUExTUnJNanRROGszakNPbVlram1hSUUzZHF5SV9obXFDVzhMRnRjZ2xKcjZRNDRBMzRnYTF3ZmpEYXpsVzd4QWdpWTAyTDZVZ0Q3TTIwMGtlOF9mSS1IM2tCa01wTld2Q3cxT01WS18zRmJDLTk1RFBVY2hZb2ZjOGIxUGZoOElvY1BmQXpmS0J2TEVvQi15ZzBNdDNFalRzWGdHa255RVpQNlRvQ04yV1lwaF9kSHBpNnMxTDk?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 04:43:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T10:00:19.891Z"
+      "updatedAt": "2026-10-24T10:25:13.806Z"
     }
   ]
 }
