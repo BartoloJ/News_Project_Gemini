@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-24T09:25:14.098Z",
-  "lastChecked": "2026-10-24T09:25:14.098Z",
-  "lastUpdated": "2026-10-24T09:25:14.098Z",
-  "generatedAt": "2026-10-24T09:25:14.098Z",
+  "fetchedAt": "2026-10-24T09:41:16.077Z",
+  "lastChecked": "2026-10-24T09:41:16.077Z",
+  "lastUpdated": "2026-10-24T09:41:16.077Z",
+  "generatedAt": "2026-10-24T09:41:16.077Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "France prepares for day of protest a week after nationwide riots",
+          "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Oct 2026 09:34:32 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
           "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
           "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Oct 2026 07:17:44 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "France prepares for day of protest a week after nationwide riots",
-          "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Oct 2026 06:19:46 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T09:25:12.807Z"
+      "updatedAt": "2026-10-24T09:41:14.881Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T09:25:13.063Z"
+      "updatedAt": "2026-10-24T09:41:15.180Z"
     },
     {
       "name": "AP News",
@@ -121,6 +121,12 @@
           "title": "North Korean leader Kim Jong Un visits China, South Korean news agency reports - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
           "pubDate": "Sat, 24 Oct 2026 06:44:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "LeBron James - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuX19iS3NmRUxTOTI2MEdsQ0g1YUVkWmV3OTRpQ0dZNnYtcnlTWUhEOUdpYkxIUFFYOTFCejhmR255Z3pIZk4teHNvdw?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 06:42:56 GMT",
           "source": "AP News"
         },
         {
@@ -142,12 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "LeBron James - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuX19iS3NmRUxTOTI2MEdsQ0g1YUVkWmV3OTRpQ0dZNnYtcnlTWUhEOUdpYkxIUFFYOTFCejhmR255Z3pIZk4teHNvdw?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 03:57:47 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Vance intensifies rapidly and could become a major Category 3 hurricane off Mexico's Pacific Coast - AP News",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTVZOWTFKeWc0bWo4eF9Bd1BYeVpPUkVZUnF4V2FSWDUwUTM0QWpGX05wV0ZjV19kcFNkckRKZ2kxX3MyckMyZ09yVVI5ZkJHbGxlaFJFakN0aHhDOFdfMlRYRi1PZHN6NXhUQ1V4bnlBcmhkTmhMZzNaOWVvNGttbDB6c3hGMjNYV0E?oc=5",
           "pubDate": "Sat, 24 Oct 2026 03:08:00 GMT",
@@ -160,18 +160,24 @@
           "source": "AP News"
         },
         {
-          "title": "Trump says he ordered the Justice Department’s lawsuit over Alaska’s US Senate race - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2lwdVh1SXlFeWVFaFRvNGN6a0dUaVV1b0diS0ZvaXhmYWJRR3JVYmRudTdhRmg0V18wYVVvenVWaUJJLTRBRkFkZXhIbEdYcHFGOXZiQ1JUMGRadHRMclMxdG9GTE5rTnBlVVoxbUdNM3VuZ0pkN2REZ2hKYWxVcDNubW9ESVMyQmVtS3doVUNLRTk4a1ZBT1hKTVNoT1Qta2U4V28tMW9KaTdpcUI3bDhPYjk?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 02:44:00 GMT",
+          "title": "Kenya announces 2nd Ebola death, a close relative of the first patient - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkl0UEdpTXV6OFBma24xNHpldWI4Yk1lT2xjX0tlbElGMjZCSkNUNlZCQ1lhWUZYYVFCVHlvT01WZVRGRTVQVFg5U3hwM3B5SjNkNURfLW1QV1lOSUZfVWJheVc0dWlvdGNoU3dHc0owU1BzU0ZsMy1CLXVFcGVtZXB1MmJwV2Fma3otN21jUzhKVlBOMHMw?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 02:07:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T09:25:13.633Z"
+      "updatedAt": "2026-10-24T09:41:15.677Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Saudi civil defense says danger passed after brief alerts for Mecca, Jeddah, Taif and Yanbu - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 08:34:52 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Four Philippine Air Force pilots killed in training accident - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkZPOHk1VnhKNVhxNUVsNzg1VGdBWG1lYUFmLUptalZfVlJkMjJfVWU5MTh5TmhaZmZvRmZDbVNnRjZSb01GcV8tZWg1YlY2OVhZanBoV0NRMTZQbnd6eUhoOGlVekhkTkVrbXFCN1ZWTTF3UHVFRWdWZXdsWGkxUXhybVBhMlV6VDhGZ1JjcG5HNHRoWGhvRGxQSWYyVklyUkVsS01ZMGxyY0t6UlpkT3J3?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS181X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF?oc=5",
           "pubDate": "Sat, 24 Oct 2026 04:25:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Suspect arrested as fire engulfs Nazi guest house 'Eagle's Nest', German police say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVZ0LWhGcGF5OWJmMVlpUndFTFgtVGhySFg3aUpZSDk1MGVGOWpvNmozNzR5SVg0eU1lbExKaGJtTmk0VGtDWEFZSnNpMFZTd0xFUU85cmk0RFFuWDVJTDVseVJsRm5ZeWtzNmFMZENRWDJSOGJrT1lUTDV3Y2NKMS1QRzBEWGhMWDZfaTVsVlRqb2pEWWZvMndSaV9HU3gwbHh5b1JBVFhMRHZ4RTE0cy1zNGptUEVtTThaY003bFctUQ?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 03:28:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T09:25:14.098Z"
+      "updatedAt": "2026-10-24T09:41:16.077Z"
     }
   ]
 }
