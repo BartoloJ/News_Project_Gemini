@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-24T18:50:15.014Z",
-  "lastChecked": "2026-10-24T18:50:15.014Z",
-  "lastUpdated": "2026-10-24T18:50:15.014Z",
-  "generatedAt": "2026-10-24T18:50:15.014Z",
+  "fetchedAt": "2026-10-24T19:00:18.795Z",
+  "lastChecked": "2026-10-24T19:00:18.795Z",
+  "lastUpdated": "2026-10-24T19:00:18.795Z",
+  "generatedAt": "2026-10-24T19:00:18.795Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T18:50:13.834Z"
+      "updatedAt": "2026-10-24T19:00:17.636Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T18:50:14.099Z"
+      "updatedAt": "2026-10-24T19:00:17.841Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T18:50:14.567Z"
+      "updatedAt": "2026-10-24T19:00:18.371Z"
     },
     {
       "name": "Reuters",
@@ -176,6 +176,18 @@
           "title": "Violence flares in Paris after largely peaceful protests across France - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
           "pubDate": "Sat, 24 Oct 2026 18:34:05 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Protests sweep Italian cities amid heavy security presence, some violence reported - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVjV19ld3VNNFRlLXZaOFh2aUhReW5lUXgyblRhTHJPWEM4bUg0QU5XeFVXd0tKelV5LVFhSGJKMndmNjg1aFJLcmtITDNjTVpFVFU3YUFtcGdSc3ZGTDQzMHJTN05nZldOVkM0WDZyS3Y1TF9RbUVtMFh5MENrajRfRFRlOTR6Vlc5MWV4aklwMi1ielVIUEVmelIzMkVKaDAyT09wWWs2NXU2QVJwNUp0bXM?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 18:23:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Flavio Bolsonaro, Lula about even ahead of Brazil election runoff, CNT/MDA poll shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOW9aaS1WT2hUWE5VTjd3U19BR0VxZ0xtUXd5QjQ5V3EzMkxsYWs2X0lHYm11TzU5YTY3RDQ2dGlnblllZklkV1AySElHOVF6a0RKZmNZZHpJMlVCaE82QjBXN1lHeFNFSGE4VlBjUGVwWlBSWkRQOTE0dzNRZ2NMQm9tWWRzN1FBaHhfbWVqcDl5Qkw5OW5wNlNDMEJjZXVmUkQ3NE5CSmdfci1IMkVVQktUdElSSEd2ZEs2VjRBQktYM3dXc2pvMmFR?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 18:06:33 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmxsRWg3NGtsREw4YWtPYlZUcjJVN0FJcDJkbzY1ZjdycTZzVzNjVFpwajFzTk9pT1V5QW5JdmQyMWNaOTIxU1pGdHRQQ2ZXcnh2UnFFQTJjUUlrSlpTZVBkNHBvaGpVY3JZMjZoSkliSWYxWm44dEpaQTdsNmNrb0RMV1FfX0p5eUpSQWFCYkpQRWE4WXllX1FYTW1IbE01SDk2bjVpNHVLOHI5RnllbE93?oc=5",
           "pubDate": "Sat, 24 Oct 2026 16:04:09 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 16:02:08 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Starlink in Ukraine back to normal after week of throttling - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 15:13:55 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T18:50:15.014Z"
+      "updatedAt": "2026-10-24T19:00:18.795Z"
     }
   ]
 }
