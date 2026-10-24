@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-24T19:00:18.795Z",
-  "lastChecked": "2026-10-24T19:00:18.795Z",
-  "lastUpdated": "2026-10-24T19:00:18.795Z",
-  "generatedAt": "2026-10-24T19:00:18.795Z",
+  "fetchedAt": "2026-10-24T19:16:40.225Z",
+  "lastChecked": "2026-10-24T19:16:40.225Z",
+  "lastUpdated": "2026-10-24T19:16:40.225Z",
+  "generatedAt": "2026-10-24T19:16:40.225Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 24 Oct 2026 19:12:51 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Two rescued after Nairobi building collapse with five still missing",
           "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
@@ -38,12 +44,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Oct 2026 14:45:30 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Ukraine says Starlink connection 'now stable' after network limits",
           "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Oct 2026 12:12:40 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:00:17.636Z"
+      "updatedAt": "2026-10-24T19:16:22.786Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T19:00:17.841Z"
+      "updatedAt": "2026-10-24T19:16:23.085Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-24T19:00:18.371Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-24T19:00:18.795Z"
     }
   ]
