@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-24T13:00:22.135Z",
-  "lastChecked": "2026-10-24T13:00:22.135Z",
-  "lastUpdated": "2026-10-24T13:00:22.135Z",
-  "generatedAt": "2026-10-24T13:00:22.135Z",
+  "fetchedAt": "2026-10-24T13:25:13.585Z",
+  "lastChecked": "2026-10-24T13:25:13.585Z",
+  "lastUpdated": "2026-10-24T13:25:13.585Z",
+  "generatedAt": "2026-10-24T13:25:13.585Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T13:00:20.967Z"
+      "updatedAt": "2026-10-24T13:25:13.439Z"
     },
     {
       "name": "NPR",
@@ -112,27 +112,15 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T13:00:21.189Z"
+      "updatedAt": "2026-10-24T13:25:13.490Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 12:16:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "2 ex-FBI officials charged with lying about involvement in investigation into Hunter Biden's laptop - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlRnSld1V19HTDd1N3l5NzlIcXhBN1ktV3J0UlZJeUx0cEFQUVhQVFNSSmpHbzVUY3V4WWE3eHFHNXpFUmlUSDNCV0ZnQnQyTlRhdmFYbUJJdWVHQ0pJaEdYWTlHOUxpdFY0VjV4TXhYVTBtTzE1U1JyNW42a3R4a1FTNXhxSHZEc3FWMmk4N1FjejNBcVV4Vw?oc=5",
           "pubDate": "Sat, 24 Oct 2026 10:52:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXJlUlhXa2k4Z0t0c0FMNGlNNWZyM2Y2QkdXeFhqeEFMcmduN2JZZVUwelo1aU41bHZtTUMyamxGUVB5YTVQLVQ1S2p3ZnRtVzU5ZXNsaGd1NXctODdmeEZJbTFpN0l2MlE0MFlVSHZDbWtKaVBJeTd1bkNEeF9sTVRTZVZ2VmFxT0E1X2lrOVpybnlLUHJrUTRUWjl6a1VpNGpDRm5OZ0xqRTA5?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 10:18:00 GMT",
           "source": "AP News"
         },
         {
@@ -145,6 +133,12 @@
           "title": "2 Philippine air force planes collide during a training flight, killing all 4 pilots - AP News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEo5akhfQVNkRlRuUUNZV1U3dVhlZThEclBrbmRhamp3MGJPem1MNl9XZ2lSWUtDUUt3bWZ0S2E0SWdxQ2lfZUk1djVBREN6VU5PRDlqcFVvd1RCQVktSVhuZWRWOHdEZFNwckVUdDVZQk5KVHJYdlJNeGpwX0V6V3N3R18wdUlGTE4tQ2pYTzc1YXVnMEVvTGcwT0VTbmp2UVE2NXdZZ3Vla3oxMmc?oc=5",
           "pubDate": "Sat, 24 Oct 2026 09:46:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 09:33:45 GMT",
           "source": "AP News"
         },
         {
@@ -164,10 +158,16 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbnRqb3RYTGxrcUs4M0p2Mk11b2JjQmdVZmdsS2lILTlnNmctY2JfRjQzNnU3akxwOUxKQy1maVlKeXNhTXV3ZXMyWi10NlRYNlVTNUl6ZVh0TVVYVXpJUlBNZmlHTTJKV1RaLUhBQmxQZENmcndpbV9KWFNKSVNMNVlUWWFEb1BQdElBOHhOVGhTLTlZYkRB?oc=5",
           "pubDate": "Sat, 24 Oct 2026 05:34:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "A preliminary magnitude 6.9 earthquake hits off the coast of Vanuatu - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRGNFRlVtTXd1WEY5R1VKLU9MeElnSzJhZC1Yb2RfaWF6dEVBem9uLWlWSXItYXp3a2hMOVZPWmwyT2x6bnFTRDhlcWM0QzFMNVNVS2JrRTdfR0Ewd1puWTBQdEo1c3MyTVdLal9lVV9KWDlaSUV6cnRyUmcydFRPQUxxX2lfYjdwUDNzQTlvaGxldURWVVE?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 04:46:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T13:00:21.694Z"
+      "updatedAt": "2026-10-24T13:25:13.567Z"
     },
     {
       "name": "Reuters",
@@ -197,6 +197,12 @@
           "source": "Reuters"
         },
         {
+          "title": "Key dates in the latest slump in US-Ukrainian ties - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2NsV1BZWVl6YU9rR2NSWUtsNFBLNzljT0dBdUJHRjNsWTN2T1FyNnZTSEkxSFRFNmh3RHd6SFJIMDVzQ3Z6SFFsX2FKZkx2Sm1TaURKa3FlYU9ZRFlVeUJVRHBqREtybzBhaW1nSUdQb216cGFwSG9qN1psYnJldTItcXlEU2dPT1o3aEItNnZPYzdUUkdueA?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 10:13:52 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "As winter nears, heating oil emerges as hurdle for Republicans in US Senate races - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWk5FamNJdG52SWx6b2FvaS1zcEFZZUJkbl9Kdl9DS2g2bGZadUJTcUZoMy03VWNrRlMtVFNnc2Q5clJJNVZ5eldDendydEU5b1lndTQ5TXViQW9uN2tTN185S1FkWnV3UHZxZkwtZE5zb0hZYm43ZG5sMHpIYWNGejQ3OWFNSjBjYUZfeEVoN1FvNk9zMmNDdEFrczJ1OEpadEM2U2RmdmtMMy1xUl9DWTkwVWd1ZFNIZjZ2Wg?oc=5",
           "pubDate": "Sat, 24 Oct 2026 10:13:43 GMT",
@@ -209,20 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Indonesia cuts pipeline gas exports to Singapore by about 9% - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVVkTFlZc0hWcDVneTJjckZnXy1kYjhtX1BYaUlZR1JwTlBJMTRzbU1jWm1yQTVqQUZ5Rl92QndOdk1wTFhoUVZUTHU5NTQ1WjFXd1YwcHJZb21JWEw1MmJVUlZRTDc2VTEzU0VyNlVIeXN2cUNOVWlKV3h3dm9Ud21RQU9ZbmdnU2lFaVU5SDMyUG9pcEI5aGF1NEo1TGZCUkxuUjQ2YjdQX0Vj?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 08:57:11 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Johnson & Johnson's prostate cancer drug shrinks tumors in early-stage trial - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeWNyU043aUVYSUNOanI5QkZfcjFOc2FET3BDNFh5RXdORFFNcFY4ZVFWNlUzV1gwaFpDNXkzeENNSFlFZVljZzNHdWtuZDlIc1ZJeGhocVpnTjN4QmVJcms4blBfZVpSMm5NWUgzb1NqejhfVnV5MV82Qi1Bakg1R19aVzBFWTZhOURPckU0Z2FHVkxOZVRIa2tMajVmaGlYd3Mwd3ZOXzVjbEp1YWVRXzVLZjdPTTdlZ19laS1MTm5vRlNhYUl1YUdDcXlwaEo5RDNkT2M0Tm9jUQ?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 08:18:18 GMT",
+          "title": "Five takeaways from Trump's midterm campaign rallies - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWRrT1lOLWc2TVVFRWZhbENyYUE4ZVlBWHBLLXFHNHhjczlTellOcG9GdUpCaVNZNk9mMFdkSzJqMjdXcFhOSGJGWDJ5Njd6NDhOYkRzYzRzaF9UVE95X0IyR28xbHd2WW1VTXBCV1FrTDdwR092bm9jTHJlMm9acmEzQUJSQ1VaVFBiWW1SWWdwZ1Zna3c?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 10:07:44 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T13:00:22.135Z"
+      "updatedAt": "2026-10-24T13:25:13.585Z"
     }
   ]
 }
