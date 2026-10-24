@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-24T22:25:13.877Z",
-  "lastChecked": "2026-10-24T22:25:13.877Z",
-  "lastUpdated": "2026-10-24T22:25:13.877Z",
-  "generatedAt": "2026-10-24T22:25:13.877Z",
+  "fetchedAt": "2026-10-24T22:50:16.308Z",
+  "lastChecked": "2026-10-24T22:50:16.308Z",
+  "lastUpdated": "2026-10-24T22:50:16.308Z",
+  "generatedAt": "2026-10-24T22:50:16.308Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:25:12.710Z"
+      "updatedAt": "2026-10-24T22:50:15.003Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trade tariffs cause whiplash at Port Milwaukee",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
+          "pubDate": "Sat, 24 Oct 2026 17:20:55 -0400",
+          "source": "NPR"
+        },
+        {
+          "title": "How data centers became a bipartisan political issue in Wisconsin",
+          "link": "https://www.npr.org/2026/10/24/nx-s1-6011182/how-data-centers-became-a-bipartisan-political-issue-in-wisconsin",
+          "pubDate": "Sat, 24 Oct 2026 17:20:53 -0400",
+          "source": "NPR"
+        },
         {
           "title": "Ukraine says Starlink is back to normal after disruptions",
           "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
@@ -97,32 +109,14 @@
           "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
           "pubDate": "Sat, 24 Oct 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-          "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-          "pubDate": "Sat, 24 Oct 2026 03:04:13 -0400",
-          "source": "NPR"
-        },
-        {
-          "title": "Flooding in Four Corners region displaces residents, as storms move southeast",
-          "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
-          "pubDate": "Fri, 23 Oct 2026 20:40:42 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:25:13.010Z"
+      "updatedAt": "2026-10-24T22:50:15.213Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 21:31:00 GMT",
-          "source": "AP News"
-        },
         {
           "title": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained - AP News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3ZLRkl4Y2Jla2ZCdW90UzZ1aHJuTl9xVjZpSGdQb2xzTDdsRFVEeURDTUJvaVQwbGU2bEFNQ21oMlJqMVFZYWc0dUZiQy1yMWQzUnBhWmZXNzFHWUdpVU1ndHdBTHZIUDFybWNZbGx2QWdRQ2VrNlgwZlMtNWxQc2dCa2U4bmxUdXl1bXhGaUlVZW5OU3RmZnFFVW5LdnpsQUdxZGZkTEpqMm54TVpB?oc=5",
@@ -164,14 +158,38 @@
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuX19iS3NmRUxTOTI2MEdsQ0g1YUVkWmV3OTRpQ0dZNnYtcnlTWUhEOUdpYkxIUFFYOTFCejhmR255Z3pIZk4teHNvdw?oc=5",
           "pubDate": "Sat, 24 Oct 2026 18:45:24 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "Knicks try to clear up ‘misinformation’ about rings, say employees will get them in 4-6 weeks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUy1mcG5uQlg1VWZmd05IanlNckFvVEFTZU8wQnBCcFB3em9hMzNoOGJNQUpJTGpxV0R6RTBCQkZYUG9CX3FUYmJUUEJfbEQzUGltOXBoMmJ5c2pZSHVRTEgtRGk0Y25JQkE2ZUt1MGJScE5lSXNwU1N1cUIycUtfYUVpVW85NUdIUFZsakRjMU14VVFkbnc?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 17:22:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:25:13.489Z"
+      "updatedAt": "2026-10-24T22:50:15.766Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Iran has ramped up efforts to target US personnel, intelligence memo warns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnBGckdpTkdaSnNZeFIyenI0MVVDMHd6R2ZDcTlUX3I4OWNNMlRjd0FTXzhCY09zakU1MWx2RzBpRW1QYTRxY2M3UWpBZHR3S1JlNjQ0WlIyRlh3ZnhNaVZ0OVcwU21YMjUyVVF0RXB0VXFLMWpGdEVtak1DUktTdUdLWmQyWGRFQ0xmb2Z3WG1nSHdfVUxlbUlsc2RJRmNmWVRHS1Qtd0RCVU92d2t1S19HbjlFVzdoREJONTRNYk1iZw?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 22:06:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump administration demands county election officials identify noncitizen voters in California - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmlFSUIxOVVNeTdTRWJLSGVWYUQzS3FGNEk4SVU2dmM5aS1MZThUYUc5cG85WXFnd2V6bDBFOF9zd09EREduV2lGbWJTTUhURER2R3RISWxWT3pvSWhRTVNHcFRtTUFRX0E2OU1QQjdHS2hBZ1ZnZzRYLXFLdTZTX2w2dUFQRGRZVDh1aHJuSkxSQzliZ2pqaWQ2blpEdXp5b0sxUlQyTHpPZVFGOVpQdkRmMHhtS1BiUDhYei14V04zX2s2OHc?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 21:57:51 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump set to announce plan by Audi to build US factory in Georgia, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 21:33:43 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Violence flares in Paris after largely peaceful protests across France - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
@@ -197,32 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Protests sweep Italian cities amid heavy security presence, some violence reported - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVjV19ld3VNNFRlLXZaOFh2aUhReW5lUXgyblRhTHJPWEM4bUg0QU5XeFVXd0tKelV5LVFhSGJKMndmNjg1aFJLcmtITDNjTVpFVFU3YUFtcGdSc3ZGTDQzMHJTN05nZldOVkM0WDZyS3Y1TF9RbUVtMFh5MENrajRfRFRlOTR6Vlc5MWV4aklwMi1ielVIUEVmelIzMkVKaDAyT09wWWs2NXU2QVJwNUp0bXM?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 18:23:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Five takeaways from Trump's midterm campaign rallies - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWRrT1lOLWc2TVVFRWZhbENyYUE4ZVlBWHBLLXFHNHhjczlTellOcG9GdUpCaVNZNk9mMFdkSzJqMjdXcFhOSGJGWDJ5Njd6NDhOYkRzYzRzaF9UVE95X0IyR28xbHd2WW1VTXBCV1FrTDdwR092bm9jTHJlMm9acmEzQUJSQ1VaVFBiWW1SWWdwZ1Zna3c?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 17:41:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Albanian police fire tear gas as anti-government student protests turn violent - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX21BMWozRzgtZFdWcVVVc3o5dHh3bUIzSzZjcTdZTnNzcFdXN2lVYVpXTmY0OHB0UWdFbjdmQ0FKV0hxOVUxeVJGNEhxTGdhQW9tZWtuTGoxTDNKZWplYjBkLWd4Q2sxdlhXdElFaVo1a0pWbm9walRONWoxRVZCU2VFTEUwMlZfNEZZeWpsVGJPMnF6MW9ZNW11WHlKRGEtVjNoRlFsMTIxT0pvQkU5UnRhT3RxTThD?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 17:11:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Belgian protesters and police skirmish at anti-government demonstrations in Brussels - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWRmTGozX08xMlVRbHEtbWNESTBRVUg5eVNVR2dJTnh2UTNoU1F1aktWc2FYZVh6N0hkcFJxN05OS1hmNmQzLWZZODBIVFRBYlQ1SG5BUzJvUUdxMmFsRWJlcFdlR3pSRTdJT0pDWk1XYUl6UENiTzNja0ExT0VFbWZvU01iTmpjY0R4bnF1RmRscUtDSnJUQTFJeUtLeF9BZ2kzcWxQOGlOZUhyUThmY29IOTY5eWc?oc=5",
-          "pubDate": "Sat, 24 Oct 2026 16:06:20 GMT",
+          "title": "Nigeria's Tinubu launches re-election campaign as economic pain tests support - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2pnT1VmVHRrU1I2MHl3cGFQQk51cUx2S0NhUHBydDBnQWtpbndGWm54NDl0OGhhRUVIUlJCN0hLcWNvVmROQjJ5VGYyekhPNEVTTU5oMVRiM2VQbFBmaWwwTkhSUjFUQ3N3d016YlZZdFdfaGx4WmwtVjNlZkNqOGhPNVpLRFVCRmZITU10X3hhOHJ0bU5NUUN1aU5TLW8tOFNxRnloS3ZDM2xxQU9qaWJWVmowRkJRQjV1d3Viaw?oc=5",
+          "pubDate": "Sat, 24 Oct 2026 19:08:10 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-24T22:25:13.877Z"
+      "updatedAt": "2026-10-24T22:50:16.307Z"
     }
   ]
 }
