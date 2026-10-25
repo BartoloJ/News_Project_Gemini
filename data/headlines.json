@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-25T08:50:14.314Z",
-  "lastChecked": "2026-10-25T08:50:14.314Z",
-  "lastUpdated": "2026-10-25T08:50:14.314Z",
-  "generatedAt": "2026-10-25T08:50:14.314Z",
+  "fetchedAt": "2026-10-25T09:00:20.444Z",
+  "lastChecked": "2026-10-25T09:00:20.444Z",
+  "lastUpdated": "2026-10-25T09:00:20.444Z",
+  "generatedAt": "2026-10-25T09:00:20.444Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T08:50:13.402Z"
+      "updatedAt": "2026-10-25T09:00:19.452Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T08:50:13.501Z"
+      "updatedAt": "2026-10-25T09:00:19.525Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Weather, Hurricanes and Storms | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GMXV4dG1uemVFQU4tR1liSktIVXRORUNuQkRUbnl1TTZGdmJqaUpMYlVHMmxad1otUDhrU0RmRURzWWxY?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 07:21:36 GMT",
+          "source": "AP News"
+        },
         {
           "title": "College football | Latest News & Updates - AP News",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUV9xQTg4SlhqSXJkZEM3YXRLVGhsdFpYM0xRZU1yWHdMUGNxZ1BfU2NVb3BrUnVSZ29oYU5PUHpOTHRnaVd3U2RyZHozNUJLZHh5WU9leDRDc3BpT0tQY1FxX1lFNThkYzViNl9CeUtGaU1qcVdXQmRMR1lLblhFZnFRNzJuZHBLWWdROWhVTQ?oc=5",
           "pubDate": "Sun, 25 Oct 2026 02:20:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Israelis hold final rally against Netanyahu before election, and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPem0xR3lFdmx3SDVUQTVqZXhRZUlSWkk5NU1PUWpoVkI0TXo0N3ZyeDRtYjZoV3phMjdwZnhaRVc4dkdibUhEcU5jd2F1RVNqQjV1ZDJHbC1UWEJsSnRLdi0xTWFUSFNEbWVuY2F4M0M4QWxVdnh2dUw4OVJCUFhJcXVpcDVWUFBNZGZtTjRoSnBHUQ?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 01:37:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T08:50:13.953Z"
+      "updatedAt": "2026-10-25T09:00:20.010Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T08:50:14.314Z"
+      "updatedAt": "2026-10-25T09:00:20.444Z"
     }
   ]
 }
