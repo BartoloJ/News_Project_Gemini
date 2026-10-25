@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-25T18:25:15.006Z",
-  "lastChecked": "2026-10-25T18:25:15.006Z",
-  "lastUpdated": "2026-10-25T18:25:15.006Z",
-  "generatedAt": "2026-10-25T18:25:15.006Z",
+  "fetchedAt": "2026-10-25T18:50:17.598Z",
+  "lastChecked": "2026-10-25T18:50:17.598Z",
+  "lastUpdated": "2026-10-25T18:50:17.598Z",
+  "generatedAt": "2026-10-25T18:50:17.598Z",
   "sources": [
     {
       "name": "BBC News",
@@ -10,7 +10,7 @@
         {
           "title": "Venezuelan opposition leader María Machado returns after months in exile",
           "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Oct 2026 16:21:40 GMT",
+          "pubDate": "Sun, 25 Oct 2026 18:29:00 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T18:25:13.962Z"
+      "updatedAt": "2026-10-25T18:50:15.759Z"
     },
     {
       "name": "NPR",
@@ -112,15 +112,27 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T18:25:14.047Z"
+      "updatedAt": "2026-10-25T18:50:15.961Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Ohio State replaces BYU at No. 2 in AP Top 25; No. 1 Miami only team to hold its spot in poll - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSF9wUHhudWswUTBOOXg4X3lBRHhHVlJhNVpxQnBEWERPYThjaEV3dFhVRnVidXFsWE4xYi1nNlBJZWF6eENieG8zRXduNHJudDU4cXNRVDdoZW11aE4zREhDdXRoa2tNdTg4TEh2Y1lvRzRhV0h1c0ZUVDlEZndvZ2NfMVlCUU9pZWRFNjVR?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 18:11:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Drew Rasmussen can't make it through 4th inning as Rays blow 4-0 lead in Game 2 loss to Brewers - AP News",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVktkaDJ2OWhZcXZmV2VPZzdfdlVSVkdDMkEyMWFVRU1FUTVtZWxkMEpOQWp5Y05TWUVBZzlUVkVJdTlKRlZ1NlNFTEF0ejQ1b3VtUVVmZkFTZ25XbDYtcHM5Ym13ZldrNmZLQng4ZWRqU3NOUmtPbHZqc2FFUUU2MVhxcVFYMEk3VjVROGFqMkZadUNHSFhYUmpwdw?oc=5",
           "pubDate": "Sun, 25 Oct 2026 17:54:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iranians fear a possible return to all-out war as US and Israeli elections approach - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVERVeGhKVnFuNV82YUV2SEFmNEF6SUIwSWszbi00MC1ObThxa1dtQVY3ZG1JcUFjZlRzWmhTT0Jwbk5IV3VJMlVlNE9wSTlOZ3B1bGU1aFpldmtMei1TckZBemhNckxUdXVZNjkwWlBNWjhHSncxdVRhOTIwNDZPem1uNXN0YmI2bUdBNmJNYjVSTTg?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 17:45:00 GMT",
           "source": "AP News"
         },
         {
@@ -152,30 +164,30 @@
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
           "pubDate": "Sun, 25 Oct 2026 15:30:05 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 15:20:32 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Iranians fear a possible return to all-out war as US and Israeli elections approach - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVERVeGhKVnFuNV82YUV2SEFmNEF6SUIwSWszbi00MC1ObThxa1dtQVY3ZG1JcUFjZlRzWmhTT0Jwbk5IV3VJMlVlNE9wSTlOZ3B1bGU1aFpldmtMei1TckZBemhNckxUdXVZNjkwWlBNWjhHSncxdVRhOTIwNDZPem1uNXN0YmI2bUdBNmJNYjVSTTg?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 15:01:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T18:25:14.581Z"
+      "updatedAt": "2026-10-25T18:50:17.185Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "AstraZeneca's stomach cancer drug extends overall survival, late-stage trial data finds - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQWE1d0RDaXR0T1dzS004NG1pSU9IVjEtNGF5VEVlY3hoVDh2eVYyLUZMZl93ckdRbnpkOVgyXzFXYzlyRmdZbWtaWnJXS2tuUWtNN2R6LXI3STllOWtwX2RVUTc2RUVPTmZhYlRsYWIwcWppeDVHdkRtUlVpRjB1QlVYUTNXSks3SDh4bGJsUkhjN2c0ZkpyNWlOcW0xbWFWSzZmQmpOYXBEYW5SY01CdWVjSEZMVXBtNUpRZjFLb0Z4T1ZCWmRB?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 18:16:31 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Brazil votes in tight runoff between Lula and Bolsonaro - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
           "pubDate": "Sun, 25 Oct 2026 17:13:38 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump has no designs on taking over state elections, US attorney general says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR19Yc2l5X25vdWYzZlFqeGxlOU1sMElDSFBGVmcyNXhjY2VjR0tDWFEwdE5jZGx5LWladUd4Z2FVaENKaTl3bW5jdkppT1o0SWdCcUhWcGJoMHY5eWFvQmhrMng2TzY2Y0ViZW9UMHZDbG9Kems4bTFSLU9LSnkwNVItaWE5Qmp5b3BxUmxud1ptdTZmMHJFRlRBSThfRU9YdUZvdkdKWk1Edm9lTTM4eFFsT2otVzktaHZYcTM1Vjc3LUlz?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 17:07:43 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5",
           "pubDate": "Sun, 25 Oct 2026 16:11:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Fresh protests in Tirana, despite new measures to curb unrest - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmxpeUR1eDhSRi12WWFqNjJpTWNpWll5NVVqQTFHQ2x1b3hMRE13WGhvTFFDdWJfU3lFVGlkSF9yMjhlMFY1eWFfX05Sa08wQ0NUMnpRQW81aGZ1NktFc21jNThEUU80R3BKZGExZGFlVFNwcWZtU1VSMzUydWtSZ3V2TTJKbEx3TktrVE5STUxGWmRQcXVSVHlhb3o?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 16:03:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Four killed in two drone attacks in Russia's Belgorod region - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHRUX2c1M1VjUTdxb1pfekVNSTlXNlpIQzFJRkZjSXhCVEZyaXZ3MHk0RWlKalZhVjhwTHNQYWU1V0pWRHAzZ3A5UkR5TXpPVzYyblFTcDFKNmdDNmh2NEU0T1lZMy1BSllDck9UeU5JbEpWeUdmdlhBTDNDZnpUaEx5M3hCS0lXVUUwblRWaU9TWS0xaGRnNUNVb0ZTS1BZU29KaDc0cnphWEJWVXJ4Y0dyWDg?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 15:56:13 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T18:25:15.006Z"
+      "updatedAt": "2026-10-25T18:50:17.598Z"
     }
   ]
 }
