@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-25T08:00:20.586Z",
-  "lastChecked": "2026-10-25T08:00:20.586Z",
-  "lastUpdated": "2026-10-25T08:00:20.586Z",
-  "generatedAt": "2026-10-25T08:00:20.586Z",
+  "fetchedAt": "2026-10-25T08:25:13.208Z",
+  "lastChecked": "2026-10-25T08:25:13.208Z",
+  "lastUpdated": "2026-10-25T08:25:13.208Z",
+  "generatedAt": "2026-10-25T08:25:13.208Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+          "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Oct 2026 08:15:24 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
           "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 24 Oct 2026 23:03:21 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-          "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Oct 2026 23:03:09 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T08:00:19.305Z"
+      "updatedAt": "2026-10-25T08:25:12.164Z"
     },
     {
       "name": "NPR",
@@ -112,17 +112,11 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T08:00:19.635Z"
+      "updatedAt": "2026-10-25T08:25:12.389Z"
     },
     {
       "name": "AP News",
       "items": [
-        {
-          "title": "College football | Latest News & Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 05:45:53 GMT",
-          "source": "AP News"
-        },
         {
           "title": "As the US and China form AI blocs, countries are increasingly torn between them - AP News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPakhwUzlHbnJOemg0S0x1WlNQSUZIaEtpZlNSd0JtZmszRlg2S3QtTzZla3o2WjdDdTlhUFk0M0UteG84UTA4TndIbUgycFJrTFhlTG4yRXQ2STNDOFBuWE10eDhfcVRuLTNJbWRTRkhMSDZzSXVrcGdCZmpkVG9jS3loUQ?oc=5",
@@ -164,14 +158,26 @@
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPem0xR3lFdmx3SDVUQTVqZXhRZUlSWkk5NU1PUWpoVkI0TXo0N3ZyeDRtYjZoV3phMjdwZnhaRVc4dkdibUhEcU5jd2F1RVNqQjV1ZDJHbC1UWEJsSnRLdi0xTWFUSFNEbWVuY2F4M0M4QWxVdnh2dUw4OVJCUFhJcXVpcDVWUFBNZGZtTjRoSnBHUQ?oc=5",
           "pubDate": "Sun, 25 Oct 2026 01:37:00 GMT",
           "source": "AP News"
+        },
+        {
+          "title": "AOC can draw a crowd. The midterms will test whether her politics can win before 2028 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmV4SEw3dldwbVFJVDc3Q1JjcHlxYXhTY3dtUDZPbFlma0hfbWtGZTVjN1JtNGJYOFNEYXpsaDljcUxiZ25WbS1iR0g5b19MaHFoelNhSUhpcUZncDgzVlRJbFRhVVRmWXNQTnhnZXlPMUk5Yl9sSUpOOXp3V3Z1YVcxRTlLTmJ1dTQwY0dGNjBxRVVpclpZSi1EZDNQd2NsX18xY0xJM2t0LWhhb0pUMWZ3?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 01:06:00 GMT",
+          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T08:00:20.185Z"
+      "updatedAt": "2026-10-25T08:25:12.856Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Iranian army says it shot down US drone over Bandar Abbas, Tasnim reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjlxWUNjczg2SHFQamFEZDV0SVhZaHA5bFdqaVQzT1oxSjd0b2ZQQjd6MldHeEhKcUstbGJEa1QxMmFBMFhad2VnREVIa2xoT0tPWlFXVW5lcXVEYjMwdUd5NTRIYm0zTFpabXUxY2pCakRGM3JnWE1iNHc3MmtlbWduRno3ZWVGVWVpa2JtRjF4VDh5TEFHN21hUV9sQUhxOWpJMVVPNlhFMDd5SkJMekZkTFdtQzlnYnBQNkd2MG1TNzZy?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 07:22:39 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Borr Drilling rig sinks offshore Gabon, five personnel missing - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0syTVctQjBVNERoUW43ei1PUjIxVmJ0aENNdDFtaEwzQXZBZF9IaGNpdU1fX3VNQVZaVE96c3pURGhiSDdZVHFnU01TZF9uelpTRnFkcVZxQ0hzUG8zS05CMHFpRTg3NXc0SE5zSWdWbnNqLUM5Rm1Qd0g3bDJkNzZpQW45RDg2VTJNek1vcEptWUtJRlhkUW5jRXRLUjBZT2d0cHhVTi1TNDRCYnYw?oc=5",
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUdEaVdfMFowR19ySTVVTVhyUkxlV2d0VDB5VFlxLS10TzJzRTV4ajZDV1F6UjVTUW5RYVVCTEhSVy0wdGdfRGdYWVpqMWxiTkd2NVhtV0lZRkpYTWhSMUY3aE5KTUcxN1VxNEJ2djlPbjFxY1ZhYVZpYmxRVUlya2tvUGdWLUhsMGlDakYwX3YzTnJNUlBrMlNZbng5WVhvRnZnMm05Sm45N3VuVUNqLU9n?oc=5",
           "pubDate": "Sun, 25 Oct 2026 02:40:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Serbia votes as students seek to unseat Vucic in snap election - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjJPNVlseUpvOWt6LUd1UlBrYnBhY3dDUks3Z2VEZHZFcExyQzBfWHZSdUxrLWVSY09DWHc4bEoybF9jVjBxaDFuR2ZuVW9LcDVhYkNHSGZIaUh5cTFGTlB2ajhva1dWM1ZSTUl4WDdFQjhXdjdOZFJ2LTYtMFRHR2w5ZHVIakxEVVRidDQ2bHRZQ2ZkaXBoRXdEQlUtdHozMTZpNA?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 01:03:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T08:00:20.586Z"
+      "updatedAt": "2026-10-25T08:25:13.208Z"
     }
   ]
 }
