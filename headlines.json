@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-25T16:25:13.449Z",
-  "lastChecked": "2026-10-25T16:25:13.449Z",
-  "lastUpdated": "2026-10-25T16:25:13.449Z",
-  "generatedAt": "2026-10-25T16:25:13.449Z",
+  "fetchedAt": "2026-10-25T16:38:26.725Z",
+  "lastChecked": "2026-10-25T16:38:26.725Z",
+  "lastUpdated": "2026-10-25T16:38:26.725Z",
+  "generatedAt": "2026-10-25T16:38:26.725Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Oct 2026 16:21:40 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Early reports suggest record high turnout in Serbia elections",
           "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Oct 2026 08:36:47 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-          "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Oct 2026 05:45:31 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T16:25:12.457Z"
+      "updatedAt": "2026-10-25T16:38:25.649Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T16:25:12.557Z"
+      "updatedAt": "2026-10-25T16:38:25.711Z"
     },
     {
       "name": "AP News",
@@ -167,7 +167,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T16:25:13.033Z"
+      "updatedAt": "2026-10-25T16:38:26.225Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T16:25:13.449Z"
+      "updatedAt": "2026-10-25T16:38:26.725Z"
     }
   ]
 }
