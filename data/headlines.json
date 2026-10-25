@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-25T16:38:26.725Z",
-  "lastChecked": "2026-10-25T16:38:26.725Z",
-  "lastUpdated": "2026-10-25T16:38:26.725Z",
-  "generatedAt": "2026-10-25T16:38:26.725Z",
+  "fetchedAt": "2026-10-25T16:50:20.498Z",
+  "lastChecked": "2026-10-25T16:50:20.498Z",
+  "lastUpdated": "2026-10-25T16:50:20.498Z",
+  "generatedAt": "2026-10-25T16:50:20.498Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T16:38:25.649Z"
+      "updatedAt": "2026-10-25T16:50:19.233Z"
     },
     {
       "name": "NPR",
@@ -81,7 +81,7 @@
           "source": "NPR"
         },
         {
-          "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+          "title": "This College of Magic turns ordinary kids into cool magicians",
           "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
           "pubDate": "Sun, 25 Oct 2026 07:24:58 -0400",
           "source": "NPR"
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T16:38:25.711Z"
+      "updatedAt": "2026-10-25T16:50:19.377Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 15:30:05 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Iranians fear a possible return to all-out war as US and Israeli elections approach - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVERVeGhKVnFuNV82YUV2SEFmNEF6SUIwSWszbi00MC1ObThxa1dtQVY3ZG1JcUFjZlRzWmhTT0Jwbk5IV3VJMlVlNE9wSTlOZ3B1bGU1aFpldmtMei1TckZBemhNckxUdXVZNjkwWlBNWjhHSncxdVRhOTIwNDZPem1uNXN0YmI2bUdBNmJNYjVSTTg?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 15:01:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Brazil votes in a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake - AP News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSElINHZmYXlEYkdaa0FvWkZVOVU3Tm4yQmdjZ2tXMXJveURKTkt6TVJDN2lEc2ozZTM5M0F3cWZsamgwa2ZtVFRKajJuU1NXd21kVGdad2hBdnJwdlZLOXFrNjhTbFZIZE5QX2tzYUhrendRVTFuSHpjcU85NEotX29VdjJvd3hvZmlfaUlHSnl0Ym9IYjROMm5tblBjbXNTYzAxLTdRTjJqcDlQTU0yZUlB?oc=5",
@@ -136,12 +148,6 @@
           "source": "AP News"
         },
         {
-          "title": "College football | Latest News & Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 12:09:50 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "Saudi Arabia reopens airport as attacks by Houthi rebels persist, and other Mideast news - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeDUtVElsazdRYlBXZDhiR2lBRF9VMVFCaEVDSTQ2THNuTlpGM1BOUkF1amNpbE12eHBkNTBlV1IwMmlYRWJLWE5RcEF2Zm0yTXJnazVsV1pMbERNNl8tekRrOHdVNlBUSEVYRURPQXhpakw2aTVtX3VUSnc2aXdndVZyREsxZGF6TUdDdHhrZEQ4UQ?oc=5",
           "pubDate": "Sun, 25 Oct 2026 12:01:00 GMT",
@@ -158,20 +164,26 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXBhUVVyVGdmdjJJVDc0ZHR2QVlwSV9CZWpaSS1PWWpSN2VXZThCTW1VdXVoNGJTQWFpbVZOZjg5WjczQ083cFhEMmNRZ0YxWXNDel9QWnJQVlJVeFRJenF6OTZBVEtoRjA4dVpCMzJoYXNIT0pGZ1VGUklVWVRvTmJ4R3lRNFpXTlFtV0RkUGRfX0J3SmxGbkJ0WVpVZTdaTk5GMVc4QmpGT1pH?oc=5",
           "pubDate": "Sun, 25 Oct 2026 10:57:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Losses by No. 2 BYU, 6 other ranked teams should lead to more big changes in AP Top 25 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSF9wUHhudWswUTBOOXg4X3lBRHhHVlJhNVpxQnBEWERPYThjaEV3dFhVRnVidXFsWE4xYi1nNlBJZWF6eENieG8zRXduNHJudDU4cXNRVDdoZW11aE4zREhDdXRoa2tNdTg4TEh2Y1lvRzRhV0h1c0ZUVDlEZndvZ2NfMVlCUU9pZWRFNjVR?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 10:56:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T16:38:26.225Z"
+      "updatedAt": "2026-10-25T16:50:20.061Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Brazil votes in tight runoff between leftist Lula and Bolsonaro Jr. - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 16:32:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Billionaire Trump backer says Ben-Gvir, Smotrich should not serve in next Israeli government - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSlk2VkFXVkdJWWhnUXFnSFNuN25YOHpiSHdWczV3X3BHQURLcVhtVzdIVXlRbE5CWU9KSG45dkNqemxwZXBSRHpMR2hkdmhRSFhrNkpHU2dZa2RNbm1hQ3dMTUQtWGlIbElrNHhrb2Zsem4xY19hOHoxNmNlMjJPb3BUd2YybklKZXREeVNKZVNBRGJHTW5jcG5LaVdzZUhLTExFT3ZBV0Nwc29NRXhZXzJFbkRQTjR5UDQ5dVo4b2Jhcm5oVzF3ekt0MA?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 16:12:50 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Serbia votes in historic election as students seek to end Vucic's long grip on power - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjJPNVlseUpvOWt6LUd1UlBrYnBhY3dDUks3Z2VEZHZFcExyQzBfWHZSdUxrLWVSY09DWHc4bEoybF9jVjBxaDFuR2ZuVW9LcDVhYkNHSGZIaUh5cTFGTlB2ajhva1dWM1ZSTUl4WDdFQjhXdjdOZFJ2LTYtMFRHR2w5ZHVIakxEVVRidDQ2bHRZQ2ZkaXBoRXdEQlUtdHozMTZpNA?oc=5",
@@ -203,26 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Brazil votes in tight runoff between leftist Lula and Bolsonaro Jr. - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 14:36:13 GMT",
-          "source": "Reuters"
-        },
-        {
           "title": "Paris NFL game set to kick off in calm atmosphere after fresh demonstrations - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODlPemRDNnlZRnl1Zk40aUFGVE5kSzZvSWl0ZnZJTzN2eGpyNTgxZGVhU0FscUhudktnejh4VVgwVGVyR3kwRzlhY0lRUFEtS2YxYzFKWGd2aGllWU1tekdXVDFUSDBoa1RKWE5pc0tRZ1ZSc1ZJeEF1dm85aWdwWmRWNE8zQ1BjaG8wdElGanNmZS1PNHI4RDJNaE5RM0FtS05XUWFIT193SDJoVEE?oc=5",
           "pubDate": "Sun, 25 Oct 2026 13:27:56 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Pope Leo calls for Yemen violence to end, in address two weeks after surgery - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSm9KdHRnaFRJSjgtZkhLWUVqU213bG9fcUphT25zWEhCU29hd0FtdEgzeVRHaWJzZkxDYjZCQUVVMDlxZ2RCUlViUDBySU05QVM1T3hhQmtfbGc5a2JHcTB5VTdGdnlkTEFvQ29RVko4UlcxNGplNERHMU1yNllmNzNvZlhBMWM3N3pGejZ2MmpNNDgtMlBDeFV3c3FmeWFxemRwN1NIc0QyakNmWk55NUp6NVowZjNYLTdr?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 13:21:23 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T16:38:26.725Z"
+      "updatedAt": "2026-10-25T16:50:20.498Z"
     }
   ]
 }
