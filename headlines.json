@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-25T13:25:13.336Z",
-  "lastChecked": "2026-10-25T13:25:13.336Z",
-  "lastUpdated": "2026-10-25T13:25:13.336Z",
-  "generatedAt": "2026-10-25T13:25:13.336Z",
+  "fetchedAt": "2026-10-25T13:50:15.948Z",
+  "lastChecked": "2026-10-25T13:50:15.948Z",
+  "lastUpdated": "2026-10-25T13:50:15.948Z",
+  "generatedAt": "2026-10-25T13:50:15.948Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T13:25:12.209Z"
+      "updatedAt": "2026-10-25T13:50:14.819Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T13:25:12.447Z"
+      "updatedAt": "2026-10-25T13:50:14.902Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Saudi Arabia reopens airport as attacks by Houthi rebels persist, and other Mideast news - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeDUtVElsazdRYlBXZDhiR2lBRF9VMVFCaEVDSTQ2THNuTlpGM1BOUkF1amNpbE12eHBkNTBlV1IwMmlYRWJLWE5RcEF2Zm0yTXJnazVsV1pMbERNNl8tekRrOHdVNlBUSEVYRURPQXhpakw2aTVtX3VUSnc2aXdndVZyREsxZGF6TUdDdHhrZEQ4UQ?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 12:01:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
@@ -124,21 +130,15 @@
           "source": "AP News"
         },
         {
+          "title": "Losses by No. 2 BYU, 6 other ranked teams should lead to more big changes in AP Top 25 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSF9wUHhudWswUTBOOXg4X3lBRHhHVlJhNVpxQnBEWERPYThjaEV3dFhVRnVidXFsWE4xYi1nNlBJZWF6eENieG8zRXduNHJudDU4cXNRVDdoZW11aE4zREhDdXRoa2tNdTg4TEh2Y1lvRzRhV0h1c0ZUVDlEZndvZ2NfMVlCUU9pZWRFNjVR?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 10:56:00 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Weather, Hurricanes and Storms | Latest News & Updates - AP News",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GMXV4dG1uemVFQU4tR1liSktIVXRORUNuQkRUbnl1TTZGdmJqaUpMYlVHMmxad1otUDhrU0RmRURzWWxY?oc=5",
           "pubDate": "Sun, 25 Oct 2026 10:50:29 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Losses by No. 2 BYU, 6 other ranked teams should lead to more big changes in AP Top 25 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSF9wUHhudWswUTBOOXg4X3lBRHhHVlJhNVpxQnBEWERPYThjaEV3dFhVRnVidXFsWE4xYi1nNlBJZWF6eENieG8zRXduNHJudDU4cXNRVDdoZW11aE4zREhDdXRoa2tNdTg4TEh2Y1lvRzRhV0h1c0ZUVDlEZndvZ2NfMVlCUU9pZWRFNjVR?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 10:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Saudi Arabia reopens airport as attacks by Houthi rebels persist, and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeDUtVElsazdRYlBXZDhiR2lBRF9VMVFCaEVDSTQ2THNuTlpGM1BOUkF1amNpbE12eHBkNTBlV1IwMmlYRWJLWE5RcEF2Zm0yTXJnazVsV1pMbERNNl8tekRrOHdVNlBUSEVYRURPQXhpakw2aTVtX3VUSnc2aXdndVZyREsxZGF6TUdDdHhrZEQ4UQ?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 09:51:00 GMT",
           "source": "AP News"
         },
         {
@@ -162,16 +162,28 @@
         {
           "title": "Benjamin Netanyahu - AP News",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTllFQUh1RklaanJvME5aZjcyVWdOMW5tM0xxcV9pQTBWbExzaDJWYmdSUmZYeEpfcjQzdGhjTGlVRTZaWWcxTlRvVXZTWHJmX3g4?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 06:31:07 GMT",
+          "pubDate": "Sun, 25 Oct 2026 06:13:39 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T13:25:12.919Z"
+      "updatedAt": "2026-10-25T13:50:15.418Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Most Gulf shares close lower as Saudi-Houthi fighting rages on - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3ZBWG5tbkZvcXJFc2xkcEs1SmhEcHAybDM1ZGN0T0ZCN3BIcTFyaF9laXlEYVA2N2ZsUmJjcmgxaS1aVW5jdFZSOFZrc2JnUWFJaFRwR25QS0pob0RTT0lONlJldzVxOFlidThrdm8zTVU4X1l4dFRPVUY5R0ZuX05aX2pibWg2VlNLUmlaVmFaWDg5bDlMQUVFWTh2bnZ3WFJ4MzA1RWVDMEtKOEE?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 13:20:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump campaigns in Michigan a day after Obama rallies Democrats - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbW50b2RKQnYxQ3pEY21lOWdDMTNwTmN6cDFsS1lKVmpWcDZ2U25TVGlELXpFMkZoOXJhU1R4WUF5NHNISmNKejJ2VnFnckRaUWlrVi04SFQxT2xOS19qQWM0ZkZsVmlpOFBjUVlNN3gxU2Y4aTRsZGtLRXZfWlVSV0xoSXd1em0xUUlfZzlIVDJGOElMdlpvVVY3ZGFDcjRGaDRQMlVR?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 13:17:11 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Beirut's $13 chicken sandwich becomes symbol of Lebanon divide - Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWERrNDJCWllyTDNzSWZjUVB2dHh5bGtoaU82c0tEWGUxclNVWm9MdVVSMTg2M1Z3eHdHdjJaNjRXd0FVdExMR3ktanhTNlF3MlRTbGhuelhQYzM2RWtwYWNiTmUwQWpUYWJzTlRiMGwxMFlpMWU5RUxQeldFTFlhdDJZR0tPeVAteXN5SC00VHJkQTdMbWYzdGhXaWJqT3QxTHFyVDBVb3kyQWVfclZKXw?oc=5",
@@ -182,12 +194,6 @@
           "title": "Jordan church attack survivor says her cousin died before her eyes - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTFxbDBEOEdFZFEwX29PZzd0QTNuYm11VXE5ekQ1bUgtQjVGeU1lbHdjVG9BR21DcENBLU5BeWFCeERYd2Y4bWp4OHFEclBuWlRUQ3ltUkduNFlQOXNwSTV6ZHJ4Qi02ZGQyakE1a0lfNldTM2RBQ3dVbEJHcWpSWE96b3FKUWstUjh6aExqcTdPMmdhMkRpbEhjcEtpak5YMmFfOThiTmh4ZGd5Z2lGMk1Ucjh0U2lDQjlRZQ?oc=5",
           "pubDate": "Sun, 25 Oct 2026 12:45:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump campaigns in Michigan a day after Obama rallies Democrats - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbW50b2RKQnYxQ3pEY21lOWdDMTNwTmN6cDFsS1lKVmpWcDZ2U25TVGlELXpFMkZoOXJhU1R4WUF5NHNISmNKejJ2VnFnckRaUWlrVi04SFQxT2xOS19qQWM0ZkZsVmlpOFBjUVlNN3gxU2Y4aTRsZGtLRXZfWlVSV0xoSXd1em0xUUlfZzlIVDJGOElMdlpvVVY3ZGFDcjRGaDRQMlVR?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 12:40:15 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjlweEtvMXdZVE1kLTMtS25BTVdLc3d5akE2RG4yMnVCQTZtT3hmM1NtQ3Z5WkF3aEF6eUlnUFZpWDBjdHpOWFVyY2lRYTFIVm14MHJ0LTRIZVUzUEU3M1FoaFU5SGJkcTBMN2wyRWVIbjBMd2VsQ0I4ZzU4Q1c3X3VfU3pMVk1vbzNiMHRKVE1OUlY5bG5yalBBLW90Q2Fobzdaag?oc=5",
           "pubDate": "Sun, 25 Oct 2026 12:02:21 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Brazil votes in tight runoff between leftist Lula and Bolsonaro Jr. - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 12:01:34 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T13:25:13.336Z"
+      "updatedAt": "2026-10-25T13:50:15.948Z"
     }
   ]
 }
