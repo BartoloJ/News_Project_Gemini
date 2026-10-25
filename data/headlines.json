@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-25T10:50:17.903Z",
-  "lastChecked": "2026-10-25T10:50:17.903Z",
-  "lastUpdated": "2026-10-25T10:50:17.903Z",
-  "generatedAt": "2026-10-25T10:50:17.903Z",
+  "fetchedAt": "2026-10-25T11:00:19.235Z",
+  "lastChecked": "2026-10-25T11:00:19.235Z",
+  "lastUpdated": "2026-10-25T11:00:19.235Z",
+  "generatedAt": "2026-10-25T11:00:19.235Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Oct 2026 10:55:33 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
           "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Oct 2026 02:27:15 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
-          "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 24 Oct 2026 23:50:02 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T10:50:16.784Z"
+      "updatedAt": "2026-10-25T11:00:18.153Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T10:50:17.060Z"
+      "updatedAt": "2026-10-25T11:00:18.368Z"
     },
     {
       "name": "AP News",
@@ -127,6 +127,12 @@
           "title": "U.S. Department of Justice - AP News",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5",
           "pubDate": "Sun, 25 Oct 2026 08:13:24 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Brewers lefty Aaron Ashby nears postseason scoreless relief record with World Series save - AP News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnpTMlo5TXNLTml3Z0ZQenA0bXdQUldENlNMMWY4TXR1VWVRTXlMdGF0MVZ0WFIyS3JZZlFfMnRyQU9Sc0xYZGp3YkRFa2c3aE9XaWw0WnZ3Qzc1bWQ2YmVhY05JeEVKRjRNNGhDbHllNW1PYl9oTWVjSGd3bFlZLWZ2WmdoNmRfN0hFajE0TQ?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 06:58:00 GMT",
           "source": "AP News"
         },
         {
@@ -150,7 +156,7 @@
         {
           "title": "Benjamin Netanyahu - AP News",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTllFQUh1RklaanJvME5aZjcyVWdOMW5tM0xxcV9pQTBWbExzaDJWYmdSUmZYeEpfcjQzdGhjTGlVRTZaWWcxTlRvVXZTWHJmX3g4?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 03:54:47 GMT",
+          "pubDate": "Sun, 25 Oct 2026 03:48:50 GMT",
           "source": "AP News"
         },
         {
@@ -158,16 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
           "pubDate": "Sun, 25 Oct 2026 03:36:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkp6bHg5OWk2TXZXZndoNmVFcGlkRmktbEtieHpmckduS1BiSFB6dHN4N3dnamM2YUc0OVQ1d2VMSGZOUS1qQzRmRFZuZV9sQ0d5cjBwS1JJemtkRFBIZGdBSFpKVDd0bzdCWEpXSkJkZWE2ek9Pd1E1MXpSN0NVNUQ0enlqcEV6bFFhT1dJNWVjeUlxZHRjZFhtazV5TnpCZlBlUEc0eXA3SGZzQkdn?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 02:45:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T10:50:17.521Z"
+      "updatedAt": "2026-10-25T11:00:18.811Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T10:50:17.903Z"
+      "updatedAt": "2026-10-25T11:00:19.235Z"
     }
   ]
 }
