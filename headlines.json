@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-25T23:25:16.906Z",
-  "lastChecked": "2026-10-25T23:25:16.906Z",
-  "lastUpdated": "2026-10-25T23:25:16.906Z",
-  "generatedAt": "2026-10-25T23:25:16.906Z",
+  "fetchedAt": "2026-10-25T23:42:14.608Z",
+  "lastChecked": "2026-10-25T23:42:14.608Z",
+  "lastUpdated": "2026-10-25T23:42:14.608Z",
+  "generatedAt": "2026-10-25T23:42:14.608Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sun, 25 Oct 2026 23:33:14 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
           "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
@@ -32,12 +38,6 @@
           "source": "BBC News"
         },
         {
-          "title": "Venezuelan opposition leader María Machado returns after months in exile",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Oct 2026 18:29:00 GMT",
-          "source": "BBC News"
-        },
-        {
           "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
           "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sun, 25 Oct 2026 15:32:51 GMT",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T23:25:15.762Z"
+      "updatedAt": "2026-10-25T23:42:00.130Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T23:25:15.960Z"
+      "updatedAt": "2026-10-25T23:42:00.214Z"
     },
     {
       "name": "AP News",
@@ -166,7 +166,7 @@
           "source": "AP News"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-25T23:25:16.464Z"
     },
     {
@@ -221,7 +221,7 @@
           "source": "Reuters"
         }
       ],
-      "ok": true,
+      "ok": false,
       "updatedAt": "2026-10-25T23:25:16.906Z"
     }
   ]
