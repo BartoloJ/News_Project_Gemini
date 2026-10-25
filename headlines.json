@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-25T23:00:22.474Z",
-  "lastChecked": "2026-10-25T23:00:22.474Z",
-  "lastUpdated": "2026-10-25T23:00:22.474Z",
-  "generatedAt": "2026-10-25T23:00:22.474Z",
+  "fetchedAt": "2026-10-25T23:25:16.906Z",
+  "lastChecked": "2026-10-25T23:25:16.906Z",
+  "lastUpdated": "2026-10-25T23:25:16.906Z",
+  "generatedAt": "2026-10-25T23:25:16.906Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T23:00:21.172Z"
+      "updatedAt": "2026-10-25T23:25:15.762Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T23:00:21.535Z"
+      "updatedAt": "2026-10-25T23:25:15.960Z"
     },
     {
       "name": "AP News",
@@ -154,24 +154,30 @@
           "source": "AP News"
         },
         {
+          "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 20:39:28 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen - AP News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzc4d3hfVTk4Q0w5QlFPbV9hSTlxdTBKMkxkX0x0bU9DZ3FOdUFyNnZDN2pPXzNRQjloaVRPd1BZZnVJY0ZhQVVoczlCUTBzbUx2cFh0NWZPX1JULV9QODF4YjRjSGVlb3NvZVkyQWo5dGtTam40NDR0VWFubEFtNW5BQ080Wk10T05hVjRya1NDWVhzbnY3Z2xQdWVCN1k4QTZaS1FkeTZIUVVYakNsUHVScFE?oc=5",
           "pubDate": "Sun, 25 Oct 2026 20:12:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "College football | Latest News & Updates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 19:55:21 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T23:00:22.088Z"
+      "updatedAt": "2026-10-25T23:25:16.464Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 22:39:23 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed - Reuters",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbW50b2RKQnYxQ3pEY21lOWdDMTNwTmN6cDFsS1lKVmpWcDZ2U25TVGlELXpFMkZoOXJhU1R4WUF5NHNISmNKejJ2VnFnckRaUWlrVi04SFQxT2xOS19qQWM0ZkZsVmlpOFBjUVlNN3gxU2Y4aTRsZGtLRXZfWlVSV0xoSXd1em0xUUlfZzlIVDJGOElMdlpvVVY3ZGFDcjRGaDRQMlVR?oc=5",
@@ -197,9 +203,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Serbia's Vucic concedes defeat in historic election win for student protest movement - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjJPNVlseUpvOWt6LUd1UlBrYnBhY3dDUks3Z2VEZHZFcExyQzBfWHZSdUxrLWVSY09DWHc4bEoybF9jVjBxaDFuR2ZuVW9LcDVhYkNHSGZIaUh5cTFGTlB2ajhva1dWM1ZSTUl4WDdFQjhXdjdOZFJ2LTYtMFRHR2w5ZHVIakxEVVRidDQ2bHRZQ2ZkaXBoRXdEQlUtdHozMTZpNA?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 22:04:20 GMT",
+          "title": "Uganda imposes 21-day quarantine on citizens returning from Congo - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaWEweDRwbzhDSUxWMmNkVVFsa2w4M1dxODllY0tBYW9XU0ZsRkdrWklIU2tSWEhwMW9WT29NenFUMTlWNHBkbl9xdTl3U3hON1Z2MURncExuZWpYN09sUHBGVF9HSkVZb3VqUVUzd3RBYmdwMEVDWnNWQzhpM0QwUGVJNk1XMUxSWFhoSy1La0hvUHQ2UXJMWXBVZWFvV21xZUJTRDhubGNaNFVhaVY2TjUtcHJ4bGQxYl9NMUMyczdGcHZFRkhfcnI4czE4RXAyTjFtU1VkUWR2WFZ5bk9KcElR?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 22:19:43 GMT",
           "source": "Reuters"
         },
         {
@@ -209,20 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "French protest groups demand more rallies as Macron faces tough choices - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 21:27:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Musk says SpaceX raised $40 billion in debt for GPUs - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR?oc=5",
-          "pubDate": "Sun, 25 Oct 2026 20:56:52 GMT",
+          "title": "United leave Carrick hanging by a thread after Bournemouth loss - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQkx2MGJ2SHllSl9YWkJBTGxJaVdSRTNEN0YtS2c4VG9DNFN0VTN2YzNuVUFxWWhYeWlJb1A5MFBteW5RNmhjU2lxQ3hvX3A3dk1YOEVKR2kwVnFTWUU2RTJLTXprQmhTSHlSQWszOVhKMVdEVTktdW1XOHlMRHV6amlFZy1uQ0lsT1pjZy1JYXk2OGtQckQ5Vl9MZ0xlZ1RKbXVJZERIUng5cjI2SHlHQmFlWWNWSEhxcnc4?oc=5",
+          "pubDate": "Sun, 25 Oct 2026 21:32:58 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-25T23:00:22.474Z"
+      "updatedAt": "2026-10-25T23:25:16.906Z"
     }
   ]
 }
