@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-26T23:00:21.722Z",
-  "lastChecked": "2026-10-26T23:00:21.722Z",
-  "lastUpdated": "2026-10-26T23:00:21.722Z",
-  "generatedAt": "2026-10-26T23:00:21.722Z",
+  "fetchedAt": "2026-10-26T23:25:14.633Z",
+  "lastChecked": "2026-10-26T23:25:14.633Z",
+  "lastUpdated": "2026-10-26T23:25:14.633Z",
+  "generatedAt": "2026-10-26T23:25:14.633Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T23:00:20.620Z"
+      "updatedAt": "2026-10-26T23:25:13.376Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T23:00:20.764Z"
+      "updatedAt": "2026-10-26T23:25:13.616Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "A wounded Ukrainian soldier waited 2 days to be rescued. Then a drone flew him to safety - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUs0eDh0RzAtVDBrbkdSQ215ZmNTcGpBWUI5R0tVUTVWMlRVYXFwSzNKb1V6OVlxemdfcTlONTd3R3NmUXZ3TFJtV1VOMXR4STRaUHhZYVE4Vmx6Z0tuN202VG84aWxXTF8yeFpkeklyb1RZYUpXUHlLNHdOcVJTU1lxTHNzZU5PM0k5M21ldDc4bS1peU9Xa0xzamhyeks2?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 22:05:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Lula mobilized millions to win Brazil's election, while Bolsonaro contests loss and Trump cries foul - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWDd1SUhWZmlrNUdQMU92ZFk5R19pNEJBRTI5eWJMYUpvY0x0V3dCb25TRWhIbHJYM3VQMFhkZlp2WDVzY3hmMG5Ub1IyZW5zQmVfclg1WEd0ZjVZWGcyNE1DaE40aE9mTHpKOEl3QTE1Z1NxcEVTUUx6eHkyX2hkcHAxMzBORi04OEJXWUhvMm1WeF81Tm9NZGRmT1hkR1pvZ0xSYzFOaHU5LUNzUWc0QjFCSQ?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 21:41:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Trump administration attempting to prosecute former FBI Director James Comey again - AP News",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFhiQXJoSHJjeFJsN3VtWEpEbTEzcktHWnRFU0ZpSW02MXJQcVpWaUEyMW81U19Ea2lBQnA2Nk10QlI5cTlMUGhuZG9ZSDlQVWh3OEV4STB2WXYwc2FCelZRak5PV1hCYmNHWGFCLWhMSUt4WFRKVFlaeldwdExWaXlHR210NllvNFR3ekxNakxOWVVuR08xU0lSSUo?oc=5",
@@ -127,6 +139,12 @@
           "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI - AP News",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5",
           "pubDate": "Mon, 26 Oct 2026 21:31:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Jordan says it attacks militants in Syria tied to last week’s church attack - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMFZuQkxtWGYzR1lVa1pka0JWN3dZYmFCMWQ2TEJneXFwWVdfWlc2eE5OLUUyT2kyNnhfUm5aWWdTNlRYY2YyeEFkeW1ZQmZHdmtNVVZLTDdKNGZNX0ZUOHlWR2ZPY1p6czZKb043WG1wdkt0NWNyeDdadHZaWEJIWk1GZWlXQkp4alNmZXFyUThQQmlHTjA1aWx6LWg?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 21:29:00 GMT",
           "source": "AP News"
         },
         {
@@ -142,36 +160,30 @@
           "source": "AP News"
         },
         {
-          "title": "In their words: Global leaders congratulate Trump critic Lula on reelection in Brazil - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3VnWlhRY1dHY1lyZkpVUjRWaXZDdnl5OC1zVkM5RVdrTHNTenkxMFdfWmsyZ1VYaGlvTXBpeGNHNTRyc3VPRkN5RjREVWRoQ2lBckNHUzFybXpERTU0Nk5DNmxIWFFYUm11Z3hMMm5UVE9OaG9oLVRfQ0FjZk5nZzlDOUtjZEhUWmRYcHk4ZGwwTHlVOEJ2R2lBS0pKM0ti?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 20:15:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 20:02:31 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTldBUWstVmdxYTcxUVFWbWVEazFJU01MLUZJQzdKNkhDeWxnM01KVmVGQzZ0MnhCZFZUeURFR3c3NHJiU19CUGJFSXlWcUlhRkphS0hENkRRT2d4aUVaVTFCTDBXYmpHd3A3MEJMeC1ucl93MlEyTldwNzRENjZLVUI1MmwyRkxKMHpWTE5rNFZHRGd6NlE?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 19:44:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Dollar General is sued by the FTC and 20 states for what's being described as deceptive pricing - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWmpQaTNYNEIzQUVMOFlpZk5iZjR6WTZFOVZjalUwYXlkTjdJVHZyWkFBeG1IaVZkTzd1NTN1Q0JyLU1MSkIxUFhPNUI0UmUxLWNfdnR0VHVRSHFZWmd5LTltU1g1ek1YYVpqOVBnUDMwcU04N2s0QUJvUEFqLVVXU1oyWDZUaEExNU56QTJLR3N2dVoxZ29VZzhPd3cwUFdvNmxQaHQ1bWQzdw?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 18:32:00 GMT",
+          "title": "Walter Koenig, Ensign Chekov on the original ‘Star Trek’ series, dies at 90 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMS1BeGw4NUJxU3p5YnFWUlB3aEE4QlZrbFBQVE9xNGx4eTc3aUpfZWxmUEhlVlV4OGt6Z2h6V3d2ZWkzSm5abzlpM216cWQ2NDI4eHJBMFlTU2ZnM0lEVTdweTZLRlB2UF9rck1SdlN0cEtQOHp0XzN3cFg0Sk5BTmNSUzI?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 20:24:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T23:00:21.270Z"
+      "updatedAt": "2026-10-26T23:25:14.193Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Trump administration loses push to block California votes from alleged noncitizens - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTW01WVRuSHIxWnkzWXd6czZLd3cwc1ZIRUFvTEt6VFNnNndPT2pNeFg1NXk0SXFiMXlGU0w2TWt0Z2d2b2tfcGNqUFdWRVdvenI5eHN0OTAxM01feU5BYjk1WU5EYjFheGFFbzBmN2FtOU5fYnprc21Iejl3VzA2MmN5aHl6NEZmbS0yZlNvYW91TjF1Y2VvYmQzRl9tYml5YU5JMGg3VmIzcXdZNDlUUGVpVWNqc3c?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 22:51:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Merck drug extends survival in endometrial cancer trial, wins US priority review - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEdIZ0VwaGxubUJfcXBfUGhJTnliUTV0ZUU0SFNKdmlqd0VKdFBOSUdqZUFmLWRvT3N3Q0ZGZGd2a2FoejlrLXZXX3NOaThwX2RnbzFTcUREQ2FjOTdnQ2dlQzZQWUg0R1U3ejZJSTBudGNOWWxWY2pEanpuYllLZUlDNXlmX0VqLXJyZnBHSF9kRTktZlpVbmpMUk5zNzA3ZlBrZkZiaHVvYko0YTJGWl9iV0NLVWhhRkZMWDYtS0gwODhkV3NFYU13UWVhNEdwT1AzQkxxTEw?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 22:37:25 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1JXYWUtZ2l1TGNtSDlwbkN6SkxUR1RxaWZjQnFpNk8yTzBuLTR5OEUxQ296SmZEd3dDS25tMjh1eW5hRGg4X1gtVUpVQi1UbWIyYXpJQmh6NGxpX011WWlEYWh0Z3FKRm55UUl6UnpKUTZmM3lhUElLNUVIb0tkWDBYVkI1LXI2aWxwT1Q2aUpSZjhOcUVxaTByX21WVlExQVE?oc=5",
@@ -179,50 +191,38 @@
           "source": "Reuters"
         },
         {
-          "title": "Microsoft offers buyouts to around 60,000 employees to contain costs - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3V6RnhJNUdQRC1uU19vNFk4YUR3MVlHbmpOdnUxMGo4R2RoWVhvXzAzTGczekw4akxaVjB3VzF4bHRhRFZFTFJ5eGY0ZGFOZ2NtcTBQa0RqZlgzVHlQb0pUcVJjN3RBM3lZTFhjaTNCM3JXLWxzR1F3NTZDLU0teHZyb2FpX2xzajM1UlpVVFRDTmhTRFhpeVR1WWxaT1dva0E0TEVoTjllb3hMSDVFVkRYTnpaQXRhZ0w3ZU9vR1hhQQ?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 21:44:09 GMT",
+          "title": "US judge refuses to block Eli Lilly weight-loss drug ads, rules against Novo Nordisk - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmpNcDhCbWpETXNLU0hDNDVmbGh6Y1l3d0NJWXAyUHJKdTNCam1RSmxmU3N5M2ExemdvTlJfYUtfaDhlQlp1RGg2Q2Y1OGpxSWF6WEV5TTdyWmlxXzBsNjVHbmhBQ0M1SUEzYWRsV28xZ05GWVE1QmFvUTVtcGw0QzhsZlViWlN3WjJhZzdvQWdldGdncWVvZTFvV3U3UDRVRTZRR0piQjZHWHNfUUhIZ3lSTFJXdw?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 22:27:02 GMT",
           "source": "Reuters"
         },
         {
-          "title": "After Vucic defeat, Serbia waits to learn how student-backed leaders will govern - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDBXeHFlUjhKM2poLUxJVXp5S1RtbEYzVzdqeEU1d2YzNFpraU02SVhwTzVPUU9ERno4bElMZzdGQ1JJY2NraXMtRExidHpOOEtUZkVBaFk3Z2RxVjJhSHJELTFqdUx0SThqV3N5cGcwWUl2cUcxbTZrcHZBS0dXRU56MzNFTExhc0VzT1VvQUV1ejBQZlpONTgtcEFwNXRScTJVcXdGSHpmZkpXdVBsRDFGcy1wVzg?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 21:43:02 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ex-FBI chief James Comey charged again by Trump administration's DOJ - Reuters",
+          "title": "Ex-FBI chief Comey faces third prosecution attempt by Trump Justice Department - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjhLRWY2TklCLUNVM1FrTnE3emllZURtQlRkb1VRQmtESF9PNk4tbmlyU1ppYjZaZVo2d3Y4MjhjTFcwOFFnZi14TUljaEhKUmk3alpJcXNlSUN1RFVLQnl6ajdja2tvcUk4cXczVzdDSXRkbms4bHlTLXNfQzRIN29zdklUUjZwODhWd002SW5Ub0s3NTdKQ2JhVTBrbXhfWTBZc29RenpXVlBlUFhpQTJPaVFmQ0k1b0pZ?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 21:38:13 GMT",
+          "pubDate": "Mon, 26 Oct 2026 22:26:58 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump says Brazil election looked 'rigged' as Bolsonaro refuses to recognize Lula win - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTcxYXBQdWxiZ1dwSGEteEw4Z2FtSFF1Nk5jUkdiUXRBMkxTeGhuekNtZFMtSFNTRnhMTG5XbzRNcm80U2ltMEpFNlhuOURXMkprOXYyVWFTWnZLd0NodzUyNGJZVE51N1BWSF9rU0FvUmJEZmJ2a0ktM3hYa1ptaGx1ekllZ2ZqbHZwdThDOXJneHZlTC1qa2VvRnNJX2luWGRROTItMW05ZUhZVVhOdEgzejhBSHktNXB3?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 21:16:28 GMT",
+          "title": "Machete-wielding mob attack health workers responding to Ebola in Congo - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORVF6VmdLdHFYM0cwNjlRZGY0a0VjTkpjQUJwa05yUGhvNWF0ODZ6YmptRkxWeXRucmN1UmpFZkJpdGhUWGlKRHhZWlduMTVRWExXQnNSb1FtaHgzdkNMcUd2ZkM3TW16YlVMbS1SMDhxbUxkWkhWbDVZaHh5VU0zcDZVOUoySG0xeHM1N3REbGRnYU5oVnpfNDBYYjItQjdHUmYxUHVEU0diZm5mS1E?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 22:18:50 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Anthropic's soaring sales, steep losses put AI frenzy to IPO test - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 20:56:05 GMT",
+          "title": "Trading Day: AI light, Brazil flight - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGtjajJzcHA3THZRdGdBS1B0Tm9tZFhzU2ZhdE1ETng2dU1BdDFrckpuYng5YnhHT0g3UkwtWnR5U2RpMWt6OXlMTW53c2MteHZPMHhiNEZ5TnFwbGg4TFU4M3VIME5haDI1dTZSMkdNNzdRUFZSSXJ3Qmt3U3JsRTVmYjVkNGJYNU5Qcmo4VExKSzJac1J3MUl2aXIzSzhDalJaTWtB?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 21:52:23 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 20:41:59 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Flavio Bolsonaro says Brazil federal police asked for his passports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1NCbTlmNmZLNExNcGpTbFJUdWt6TGdHOTlhUkt1c0YxN21DajR3Q1FZM1pBWjRhMGVROGZsZlNnMFVrRlowWF80YkNmU291N084eUw1NGtFUy1WbTBnemxUZUtyVDVFSXAtWFh2YUlWTGZuUzVyR3VOSTVCcnVVb3ZzN0lIOUpxVl82Sl9KQ2lyVzJsSTk5Qzd0S1lFclhWRXI4UmVTbFVRZmEwSTVtTHB0TEg?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 20:38:03 GMT",
+          "title": "DoorDash in talks to buy Instacart in roughly $17 billion deal, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkI1dVc1WGVsRGwyMkZtNFFfR3NpaFR2M2JTQ05POTBkZ29lSVpuelFJVWFCTC1tNEJ3Y0F6YUxHWUJkWjJqcm1KWnhNajVxNk5iUFZuck9ZV0tOVEdxYjlxcG0ycUk5UUlyU3l6bnpJY0NFMDJqcXJ4cWJGeUJRbTV5YTVtQy1CSXlTUmZn?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 21:47:43 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T23:00:21.722Z"
+      "updatedAt": "2026-10-26T23:25:14.633Z"
     }
   ]
 }
