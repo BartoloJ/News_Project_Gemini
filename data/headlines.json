@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-26T19:50:18.819Z",
-  "lastChecked": "2026-10-26T19:50:18.819Z",
-  "lastUpdated": "2026-10-26T19:50:18.819Z",
-  "generatedAt": "2026-10-26T19:50:18.819Z",
+  "fetchedAt": "2026-10-26T19:57:10.829Z",
+  "lastChecked": "2026-10-26T19:57:10.829Z",
+  "lastUpdated": "2026-10-26T19:57:10.829Z",
+  "generatedAt": "2026-10-26T19:57:10.829Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T19:50:17.723Z"
+      "updatedAt": "2026-10-26T19:57:09.679Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T19:50:17.766Z"
+      "updatedAt": "2026-10-26T19:57:09.752Z"
     },
     {
       "name": "AP News",
@@ -160,14 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "Soccer - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 17:13:51 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 17:12:16 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T19:50:18.355Z"
+      "updatedAt": "2026-10-26T19:57:10.380Z"
     },
     {
       "name": "Reuters",
@@ -188,6 +188,12 @@
           "title": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFIxVXVVYl90WFZodTB6bHpqOWN3aktZSHNDYTlaM3I5S1FoeU14U1NRVE1mVTJtSDV3ZHk1cHRiWDh6elBNamVIeE5tN2VvRDEyWXBPT1dyNW5KSXFyaE5PVEFOS1NyQW1CNkVVblN6SW1PeVg3aHQxY3B6WmhHU3cxM0gtdTNRLTY1NWo0R284RzQtSmVtTnRxVnR6MTVkNWVsU3djY1d2SURPNmo0N05CUFJZekpIUklNTmRxazZHVTNrbEFN?oc=5",
           "pubDate": "Mon, 26 Oct 2026 19:18:06 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Instant View: Anthropic IPO filing to put AI investment boom to the test - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlJETmo1Z21kOWpEaXF5T25sQTVFTHE3Y3FRMWtHMEVyNlpNMXU0OVllN3dnRTlhRS1kMUx2T3JLZ0psUVJPQ29UMmNDREpWWGFpVUFEcHgxWjFzSFoydHgwR3o2R01sTVJaQjh6NlZHSV9sbFZTQ0RTSXhsSnNIV3Uxc1NVQUJla1ZZb3I2aDdiQ0x3Mm1wOUxvamE5a1k5dFRxRW5rWEVRZEpoZmc?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 19:03:41 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5",
           "pubDate": "Mon, 26 Oct 2026 18:37:31 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Audi CEO faces backlash after joining Trump at midterm campaign rally - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaC1sRVBIdlJKRXRwLVp2Y2RtYjVoUFRoSU00anpHOHdsMzR0ZUJfcmoybHF5UG5PRW1uZVc0VTdIV1hJWVR3R0t0cGljZDlkNGppY0VjaXVmRlBQMWs3alMxS2NCbjRpakVTbzVoOTRZYVdxbmRJVmE0NnZ6MGdHM1VYUmhCMmlERHFrX3BnR1lhSjJFY1htZlhvbWxUWERzWWJCVGh1WEhJeUF2UW8xVm50ME1rNDJ1Y2pjQVp1dG1UTVd4dEp2aHZPdE5jMWI0ekNPNzhnY1V0UQ?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 18:16:33 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T19:50:18.819Z"
+      "updatedAt": "2026-10-26T19:57:10.829Z"
     }
   ]
 }
