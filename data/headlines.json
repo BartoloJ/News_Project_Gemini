@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-26T12:00:25.488Z",
-  "lastChecked": "2026-10-26T12:00:25.488Z",
-  "lastUpdated": "2026-10-26T12:00:25.488Z",
-  "generatedAt": "2026-10-26T12:00:25.488Z",
+  "fetchedAt": "2026-10-26T12:25:15.155Z",
+  "lastChecked": "2026-10-26T12:25:15.155Z",
+  "lastUpdated": "2026-10-26T12:25:15.155Z",
+  "generatedAt": "2026-10-26T12:25:15.155Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T12:00:24.208Z"
+      "updatedAt": "2026-10-26T12:25:13.960Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T12:00:24.509Z"
+      "updatedAt": "2026-10-26T12:25:14.232Z"
     },
     {
       "name": "AP News",
@@ -167,11 +167,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T12:00:25.007Z"
+      "updatedAt": "2026-10-26T12:25:14.741Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Audi CEO faces backlash after joining Trump at midterm campaign rally - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaC1sRVBIdlJKRXRwLVp2Y2RtYjVoUFRoSU00anpHOHdsMzR0ZUJfcmoybHF5UG5PRW1uZVc0VTdIV1hJWVR3R0t0cGljZDlkNGppY0VjaXVmRlBQMWs3alMxS2NCbjRpakVTbzVoOTRZYVdxbmRJVmE0NnZ6MGdHM1VYUmhCMmlERHFrX3BnR1lhSjJFY1htZlhvbWxUWERzWWJCVGh1WEhJeUF2UW8xVm50ME1rNDJ1Y2pjQVp1dG1UTVd4dEp2aHZPdE5jMWI0ekNPNzhnY1V0UQ?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 11:49:56 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US futures steady as oil retreats ahead of earnings deluge, Fed decision - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 11:39:32 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Galp tie-up talks with Moeve collapse, sending its shares tumbling - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUdmRHBJcVJmcko1NVpEVHRETC1hVFI2NFhYLXdvcFBuVFJxRFA3X0FmWWR2ZWFEelRWbHJfdDc5b3RhNFI4SzB1OXBLWkcwbnF0amRmTXJYVXFKa1Z1eFV5T3FZSzV6SWlxUUpMenZ1WG5hbzAybGFWb1luMU10NjVFbHBrM0d3UlEwVWVqanVfLThBTXRNbWxhZ0ZodjZRZHFsTXhkMUVaMVVaaS1xdzJQNXY?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 11:36:36 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula win - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTcxYXBQdWxiZ1dwSGEteEw4Z2FtSFF1Nk5jUkdiUXRBMkxTeGhuekNtZFMtSFNTRnhMTG5XbzRNcm80U2ltMEpFNlhuOURXMkprOXYyVWFTWnZLd0NodzUyNGJZVE51N1BWSF9rU0FvUmJEZmJ2a0ktM3hYa1ptaGx1ekllZ2ZqbHZwdThDOXJneHZlTC1qa2VvRnNJX2luWGRROTItMW05ZUhZVVhOdEgzejhBSHktNXB3?oc=5",
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDBXeHFlUjhKM2poLUxJVXp5S1RtbEYzVzdqeEU1d2YzNFpraU02SVhwTzVPUU9ERno4bElMZzdGQ1JJY2NraXMtRExidHpOOEtUZkVBaFk3Z2RxVjJhSHJELTFqdUx0SThqV3N5cGcwWUl2cUcxbTZrcHZBS0dXRU56MzNFTExhc0VzT1VvQUV1ejBQZlpONTgtcEFwNXRScTJVcXdGSHpmZkpXdVBsRDFGcy1wVzg?oc=5",
           "pubDate": "Mon, 26 Oct 2026 10:57:53 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 10:26:30 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Asia-focused banks face capital squeeze due to inflation, bond turbulence - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ3c0Nl9IZUxGNGlIRFlNSW0xRUIzUTkxZlZJYVhtWjI5NXlGNFVJcm1IMnNMNVFWZVV4c0toYkxQYjB5Z3VXanB2ZE5ycUxERkRObDhkYUw3RGlrbFlzMVM3OXpyRVZhLTNnMkZhMkhHRU9oeGpuOHBDUWtkNkprSkZuQWVlSWtxYllmX1NlWkdqOHVWZzlubGs0WExDR29iVl95S1paMEhzOEFob1JkQWxpeTlGcnZO?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 10:26:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Audi CEO faces backlash after joining Trump at midterm campaign rally - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaC1sRVBIdlJKRXRwLVp2Y2RtYjVoUFRoSU00anpHOHdsMzR0ZUJfcmoybHF5UG5PRW1uZVc0VTdIV1hJWVR3R0t0cGljZDlkNGppY0VjaXVmRlBQMWs3alMxS2NCbjRpakVTbzVoOTRZYVdxbmRJVmE0NnZ6MGdHM1VYUmhCMmlERHFrX3BnR1lhSjJFY1htZlhvbWxUWERzWWJCVGh1WEhJeUF2UW8xVm50ME1rNDJ1Y2pjQVp1dG1UTVd4dEp2aHZPdE5jMWI0ekNPNzhnY1V0UQ?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 10:22:16 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T12:00:25.488Z"
+      "updatedAt": "2026-10-26T12:25:15.155Z"
     }
   ]
 }
