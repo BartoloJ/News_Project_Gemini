@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-26T19:25:13.553Z",
-  "lastChecked": "2026-10-26T19:25:13.553Z",
-  "lastUpdated": "2026-10-26T19:25:13.553Z",
-  "generatedAt": "2026-10-26T19:25:13.553Z",
+  "fetchedAt": "2026-10-26T19:50:18.819Z",
+  "lastChecked": "2026-10-26T19:50:18.819Z",
+  "lastUpdated": "2026-10-26T19:50:18.819Z",
+  "generatedAt": "2026-10-26T19:50:18.819Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+          "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Oct 2026 19:27:21 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "'Maxxing' selected as Dictionary.com word of the year",
           "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 26 Oct 2026 16:27:17 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-          "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Mon, 26 Oct 2026 15:46:31 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T19:25:12.419Z"
+      "updatedAt": "2026-10-26T19:50:17.723Z"
     },
     {
       "name": "NPR",
@@ -105,18 +105,24 @@
           "source": "NPR"
         },
         {
-          "title": "Republicans are spending millions and still may not win districts drawn to favor them",
-          "link": "https://www.npr.org/2026/10/26/nx-s1-6008167/republican-redistricting-midterms-competitive-map",
+          "title": "How AI is transforming hurricane forecasts",
+          "link": "https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias",
           "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
           "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T19:25:12.584Z"
+      "updatedAt": "2026-10-26T19:50:17.766Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 19:11:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Judge: Trump DOJ illegally fired ex-FBI director's daughter, Maurene Comey, as a federal prosecutor - AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlRQeTlsV0JqcVB1Wm9YcWhFMFBmX3lOdXVwUnJyMm1LQjlrbndRMDBMZTBEeFdJNDUxUG1XS1dqaEVaRlJhUm93WWNyenYtZTNDelJnc01vaHJoeUZUUFAyRTBTdUZoZlI3TGNMMkJpR2pzUFhYdEFmRy1ZR1lqNU9rR1VXYTkwbGJrYlN2V25fbDJObkJTa1Nva0RFcTg?oc=5",
@@ -130,9 +136,9 @@
           "source": "AP News"
         },
         {
-          "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 18:07:00 GMT",
+          "title": "Anthropic expands AI support for nonprofits as it files to sell shares to the public - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjdfTUE5cGVOWkJiS0VWSEs5eW1ETHhUUWhWYzVTS3phaDlEMXZJN1dKay1OcGFsMUVwUlZFVjM4N0FGMENPam1qRzRTdFRVU1ZjbEZndFNuRHlQTEcyZl9fX3ZkQmRFX3N6X3RtLUNycmprcjZHV1VMbld3N0RlMnBWVFhtc3ZKZ0lkSktrY1lFY09Q?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 18:00:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,20 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
           "pubDate": "Mon, 26 Oct 2026 17:13:51 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 17:12:16 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T19:25:13.154Z"
+      "updatedAt": "2026-10-26T19:50:18.355Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1UzRjJ6M0VaSXoydWlIZ2pzc2tGcUZtMjlzR1JhUE9UR0llUERrRWRJNUdTRWNNQU9IUUEycmZUVk40cEtCSjZ5TzRqZVRWT1JvMEtmQmlENklzd19LLWlDREZZakJ0MWdTOTZleEdBN1FVRFJGMGxHWnpkY2owdVFSQ0FWWHNFcWlPTUtpb1ZDRkZrY0tUMkZrdHRJMnFJZEZveXVQaG41OHFibWFyMWpfNG9jTlR0aTM1enNKT18?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 19:19:44 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Microsoft offers buyouts to around 60,000 employees to contain costs - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3V6RnhJNUdQRC1uU19vNFk4YUR3MVlHbmpOdnUxMGo4R2RoWVhvXzAzTGczekw4akxaVjB3VzF4bHRhRFZFTFJ5eGY0ZGFOZ2NtcTBQa0RqZlgzVHlQb0pUcVJjN3RBM3lZTFhjaTNCM3JXLWxzR1F3NTZDLU0teHZyb2FpX2xzajM1UlpVVFRDTmhTRFhpeVR1WWxaT1dva0E0TEVoTjllb3hMSDVFVkRYTnpaQXRhZ0w3ZU9vR1hhQQ?oc=5",
@@ -181,7 +187,7 @@
         {
           "title": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFIxVXVVYl90WFZodTB6bHpqOWN3aktZSHNDYTlaM3I5S1FoeU14U1NRVE1mVTJtSDV3ZHk1cHRiWDh6elBNamVIeE5tN2VvRDEyWXBPT1dyNW5KSXFyaE5PVEFOS1NyQW1CNkVVblN6SW1PeVg3aHQxY3B6WmhHU3cxM0gtdTNRLTY1NWo0R284RzQtSmVtTnRxVnR6MTVkNWVsU3djY1d2SURPNmo0N05CUFJZekpIUklNTmRxazZHVTNrbEFN?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 19:07:29 GMT",
+          "pubDate": "Mon, 26 Oct 2026 19:18:06 GMT",
           "source": "Reuters"
         },
         {
@@ -209,20 +215,14 @@
           "source": "Reuters"
         },
         {
-          "title": "Average price of gasoline during Trump's term now exceeds Biden's, as midterms loom - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRHRWSHRWQUxUU1NzMl9hMEl1YkZQNFUzVlc0MklmZEtfSjZOeFV6UnNuT0ZMdGlQVHBYQmp3RkQ3UHh6MWNSNnJPXzR2VnQ2MU1feEFTa1pKLTdnSmlnQ1d5NVduSUpVbFRBMWNoendaM0tEajRHc3hJbHN2a2h0VHJ4SjlJYmxwYTBtYmVCa1VjZzRsUWFtTHVsMFVlM0JZTFF5X3o4VDJwM2tYT2RaLW1yX2lLd3hZMmdLTHdpQjRhTjVyQ2c?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 18:06:14 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Brazil's Lula hangs on, but his final term promises to be toughest yet - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTJmVnc5RVQwTTN5eXdXcTQtY0k2cEJCNzNrcWs1REpXZTZOUlJZdUxtcG1KMGRKNFdveXJsbFhUdjFhTkFUNFdvQnVNNzA4aVRHWDNzUTM0U09kcnVfQm9yTlJob2lhZ2YtOGt0b2tCdXc4Qk1VWDZUQUdTWmVZQ0M1WjdwTGx3WFpPeW85Z0Z6M0dsYlpzSDlReHZHZmpYRG1SWmlBR0JocEdOX2c?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 18:02:48 GMT",
+          "title": "Audi CEO faces backlash after joining Trump at midterm campaign rally - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaC1sRVBIdlJKRXRwLVp2Y2RtYjVoUFRoSU00anpHOHdsMzR0ZUJfcmoybHF5UG5PRW1uZVc0VTdIV1hJWVR3R0t0cGljZDlkNGppY0VjaXVmRlBQMWs3alMxS2NCbjRpakVTbzVoOTRZYVdxbmRJVmE0NnZ6MGdHM1VYUmhCMmlERHFrX3BnR1lhSjJFY1htZlhvbWxUWERzWWJCVGh1WEhJeUF2UW8xVm50ME1rNDJ1Y2pjQVp1dG1UTVd4dEp2aHZPdE5jMWI0ekNPNzhnY1V0UQ?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 18:16:33 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T19:25:13.553Z"
+      "updatedAt": "2026-10-26T19:50:18.819Z"
     }
   ]
 }
