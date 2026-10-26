@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-26T08:50:16.133Z",
-  "lastChecked": "2026-10-26T08:50:16.133Z",
-  "lastUpdated": "2026-10-26T08:50:16.133Z",
-  "generatedAt": "2026-10-26T08:50:16.133Z",
+  "fetchedAt": "2026-10-26T09:00:23.367Z",
+  "lastChecked": "2026-10-26T09:00:23.367Z",
+  "lastUpdated": "2026-10-26T09:00:23.367Z",
+  "generatedAt": "2026-10-26T09:00:23.367Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
+          "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Mon, 26 Oct 2026 08:18:22 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "China's big political meeting could see Xi 'tighten discipline' in Party",
           "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
@@ -48,16 +54,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Mon, 26 Oct 2026 01:07:05 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-          "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sun, 25 Oct 2026 23:44:34 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T08:50:15.273Z"
+      "updatedAt": "2026-10-26T09:00:23.005Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T08:50:15.304Z"
+      "updatedAt": "2026-10-26T09:00:23.273Z"
     },
     {
       "name": "AP News",
@@ -124,15 +124,33 @@
           "source": "AP News"
         },
         {
+          "title": "Auto Racing - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qekN5SGJkSzNLUkszajRtNDl4MTVkWWlqc3JqbTl6VmIwdTFuRUZxQ29xOVhJY3gtOUJxLVFQTm1RZVI2a3kyMVdn?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 07:33:25 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "College football | Latest News & Updates - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 07:29:17 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results - AP News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSElINHZmYXlEYkdaa0FvWkZVOVU3Tm4yQmdjZ2tXMXJveURKTkt6TVJDN2lEc2ozZTM5M0F3cWZsamgwa2ZtVFRKajJuU1NXd21kVGdad2hBdnJwdlZLOXFrNjhTbFZIZE5QX2tzYUhrendRVTFuSHpjcU85NEotX29VdjJvd3hvZmlfaUlHSnl0Ym9IYjROMm5tblBjbXNTYzAxLTdRTjJqcDlQTU0yZUlB?oc=5",
           "pubDate": "Mon, 26 Oct 2026 06:56:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Baby orangutans in India expose illegal wildlife trade as experts question a billionaire’s zoo - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYW5kNnNBUl81by05dE9FREZPNFhlUGduU1k5RmRyUEhERml5cG5yX0Q4TFAyV1lNaWFhOGt5MkJ2Vmlac2QxRmpEWERNLWJNRTMyTVViX1FVWWNSdFhrSWRzZ2ZNMnB5MS15LVRPT2JMYkZZWTQ4SUVDeC1WeEw0Q1VkZ1dYUHJFUWt4Z3dDM3V3U25GaDVsLUdyZzFJS1k?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 06:30:00 GMT",
+          "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 06:41:08 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Mon, 26 Oct 2026 05:26:56 GMT",
           "source": "AP News"
         },
         {
@@ -142,32 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 05:06:41 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "NHL Scores, News & Stats | Latest NHL News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 05:03:13 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "What to know about China’s plenum as Xi seeks stronger Communist Party discipline - AP News",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWE9NbzRMSEY4YkVVMHhZWkVVTWJ5a3RESm1IdUZfelkyNDF4TVBkWjl3eTlPcWh2Y3JWdnZzMk13cTIta01EWGg4VXlmX0NuRE1peE1iSnJqQnAwdlNodHByYk9yclR6QTFfNThwdXVIbGRvalBaMFpVYUtkMV93WVJobV9Za2NGRl85dzlyU1RLTlc2NHhkcHU0MnBOcWJl?oc=5",
           "pubDate": "Mon, 26 Oct 2026 04:54:00 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "In their words: Left-leaning leaders in the Americas welcome Lula’s victory in Brazil - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3VnWlhRY1dHY1lyZkpVUjRWaXZDdnl5OC1zVkM5RVdrTHNTenkxMFdfWmsyZ1VYaGlvTXBpeGNHNTRyc3VPRkN5RjREVWRoQ2lBckNHUzFybXpERTU0Nk5DNmxIWFFYUm11Z3hMMm5UVE9OaG9oLVRfQ0FjZk5nZzlDOUtjZEhUWmRYcHk4ZGwwTHlVOEJ2R2lBS0pKM0ti?oc=5",
-          "pubDate": "Mon, 26 Oct 2026 03:32:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T08:50:15.747Z"
+      "updatedAt": "2026-10-26T09:00:23.349Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-26T08:50:16.133Z"
+      "updatedAt": "2026-10-26T09:00:23.367Z"
     }
   ]
 }
