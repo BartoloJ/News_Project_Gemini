@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-27T08:00:24.703Z",
-  "lastChecked": "2026-10-27T08:00:24.703Z",
-  "lastUpdated": "2026-10-27T08:00:24.703Z",
-  "generatedAt": "2026-10-27T08:00:24.703Z",
+  "fetchedAt": "2026-10-27T08:07:45.287Z",
+  "lastChecked": "2026-10-27T08:07:45.287Z",
+  "lastUpdated": "2026-10-27T08:07:45.287Z",
+  "generatedAt": "2026-10-27T08:07:45.287Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+          "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Tue, 27 Oct 2026 08:01:22 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
           "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
@@ -23,12 +29,6 @@
           "title": "Meghan to co-host Junior MasterChef Australia",
           "link": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Tue, 27 Oct 2026 04:43:56 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Truce begins in wartorn Ukraine city after it was announced by Melania Trump",
-          "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Tue, 27 Oct 2026 02:58:48 GMT",
           "source": "BBC News"
         },
         {
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T08:00:23.435Z"
+      "updatedAt": "2026-10-27T08:07:44.379Z"
     },
     {
       "name": "NPR",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T08:00:23.759Z"
+      "updatedAt": "2026-10-27T08:07:44.422Z"
     },
     {
       "name": "AP News",
@@ -130,15 +130,15 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 27 Oct 2026 05:01:33 GMT",
+          "title": "Brewers rout the Rays 10-1 to move within a win of their first World Series title - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPblFfUWRtTXFSeEx3S09mOWF6NElOZkd3SC1fWVRCN0FuTXZtNjRpWl9sTVRaNGdSOGt6UXpTZ3lKRUlTT1pwOTlYRkpjbDQweXEtVkFCMWVfRlFITTRwYmtLZDZtX3ZaSGY3b0xrbkZzLXpSNEJxV1RSZ294cC1RODVJNUF2bUs4ZjJuTzBXRHlCREM5VWFV?oc=5",
+          "pubDate": "Tue, 27 Oct 2026 05:46:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Brewers rout the Rays 10-1 to move within a win of their first World Series title - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPblFfUWRtTXFSeEx3S09mOWF6NElOZkd3SC1fWVRCN0FuTXZtNjRpWl9sTVRaNGdSOGt6UXpTZ3lKRUlTT1pwOTlYRkpjbDQweXEtVkFCMWVfRlFITTRwYmtLZDZtX3ZaSGY3b0xrbkZzLXpSNEJxV1RSZ294cC1RODVJNUF2bUs4ZjJuTzBXRHlCREM5VWFV?oc=5",
-          "pubDate": "Tue, 27 Oct 2026 04:02:20 GMT",
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 27 Oct 2026 05:01:33 GMT",
           "source": "AP News"
         },
         {
@@ -160,18 +160,24 @@
           "source": "AP News"
         },
         {
-          "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine as Russia attacks other areas - AP News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
-          "pubDate": "Tue, 27 Oct 2026 02:57:00 GMT",
+          "title": "Jay-Z picks himself to headline the Super Bowl halftime show at SoFi Stadium in Southern California - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEtiSHNjSXZUdTdNVm5pNE0wdEJoZ1d3eURQd3AzbTVDYnVlNEVmUDhwOWZrWHdiUXN0dnViSjZ1Y2FIR0ZUYTUwTnMwRElMMkwzWmE0ZTA2dXR0aXFQQ3pmZmtXTl85LXlRTUFiSmJzVDQyN2pIaVZCRFowZzU0VU1vU3Q5Z1dPNmc5amxQTTZqbHoy?oc=5",
+          "pubDate": "Tue, 27 Oct 2026 02:27:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T08:00:24.318Z"
+      "updatedAt": "2026-10-27T08:07:44.884Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "King Charles heads to Caribbean as calls for slavery reparations grow - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSldOOVRaS0FjRlZiQTh4eFhkTHlZdGx3U20zX3oxcUo2N2VxNnZNV2ZReDdRbVFvUFNfbVpUaEVYRms4dUJfUEFLNG1pS1Z1V3hRT0tsVi1YV29fb21nLTM4OUxFSk1BUjJ3YTFlMnZZZmJEVWI0QTRQZnRWbkdyWEJuOWFoQ1F1bFRQdW91aU5TT293RjViREE5Ump4WkN0OE0teHIxVQ?oc=5",
+          "pubDate": "Tue, 27 Oct 2026 07:19:43 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Several injured in car ramming in northern Germany, suspects at large - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGNpSXFlWUtPc3poUC1jaFpLTk1MOXlLTE9OSnNIT1BrS3BtX2Racy1rUGd0a21UcUJYcmoybGVQWWZZb2pVTmRhV2QxNndBNi1IeDg4OHhsMTFwTVFTbWozS0h2VmxsMG4wTTdmcFp2TUdVZEM5a0NFMklHeWN6TkN0QUVHVU54S2IwZWxxSU8zQVZGZFVqNVZLMWh5endBVFV3?oc=5",
@@ -203,9 +209,9 @@
           "source": "Reuters"
         },
         {
-          "title": "Morning Bid: All eyes on AI - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1FTNEdiYXRpWS1wOU9OM1d6S0ZSZHNXc2p1RDYxRHJHR3dvTTR6QUhPb0ROYUNyeWpTaW1Hb1BUYUlpSnR3NHJ4OGh2eXRYSDFIN0VRVzhoRlRGSC1pUTZWdUdTbDJiNEtaVzBQZmF0R3ZfcThBWnU3OGppcWdGV1QwX2NwMm9JenZKQm1R?oc=5",
-          "pubDate": "Tue, 27 Oct 2026 04:40:00 GMT",
+          "title": "Bank of England orders review of Revolut product approvals, FT reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFBGeDY4NHNQMjVXTHVXdl9QVnlObUNSQ25wSnBZM2NpTTdxWHdjX012QzNpOTFkQXRHRTVLTHBocUtZT2xabWtSRGFjdnVGY09kb3FJc01BLXo3LWdRdzJzeXB0RmR1X1dpX0stdmFkQzdlUDl5TjJsVF9iOUEyRDkzNjk1d1hndnRfclNxNEFZZ3cwRGV2RU1CYzhicWZmb1hDWE5xM000X1lxempQX3Zad0ZDUEU?oc=5",
+          "pubDate": "Tue, 27 Oct 2026 05:19:00 GMT",
           "source": "Reuters"
         },
         {
@@ -213,16 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkZSOUw3U0tLdEdHZUF4ckFzWXBYOTVzSThCRFU4a1B5dWFXSG9jLTNZanJGOXo1Q0ktS3FFeUpJMEpUMkhPOVl0RTVPalVrYlZOS0hGM09ISWxyMmZuVUE0dmp6RTEzZHA1N3BiUHRYbUw4eUw5WTdOZm9ZdWo3ZjBoQ1B4WlVqbVdMYW85TkFSSFY2SFI4MHA1OS1ZX0t6Z191MGEwRUkwOHRxQmtlYQ?oc=5",
           "pubDate": "Tue, 27 Oct 2026 04:07:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "HSBC quarterly profit jumps but shares slide after flat revenue for wealth business - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVZVOUw4UjhITVVsZ1psYmQ4Tkwta1lJSGl1OVRkemlLQzJZZWNRXzBEV1NDU0FNR3VyWGh5eE1SR1QyOUlKcWJpSHdRdDltYmxzc0NUX3dEZktFWVY2eUhWcDl4Y2JLUDhtdTJwbUFIckNnUjhiTDR3ZGVBS2VmZXFrenQ5SW1QOTFNUUVhaEdOck9fNml1R05HRkJiOVppV2cxWWxjX21wM2hr?oc=5",
-          "pubDate": "Tue, 27 Oct 2026 04:04:00 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T08:00:24.703Z"
+      "updatedAt": "2026-10-27T08:07:45.287Z"
     }
   ]
 }
