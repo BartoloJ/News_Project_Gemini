@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-27T19:50:17.569Z",
-  "lastChecked": "2026-10-27T19:50:17.569Z",
-  "lastUpdated": "2026-10-27T19:50:17.569Z",
-  "generatedAt": "2026-10-27T19:50:17.569Z",
+  "fetchedAt": "2026-10-27T20:00:27.513Z",
+  "lastChecked": "2026-10-27T20:00:27.513Z",
+  "lastUpdated": "2026-10-27T20:00:27.513Z",
+  "generatedAt": "2026-10-27T20:00:27.513Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T19:50:16.423Z"
+      "updatedAt": "2026-10-27T20:00:26.326Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
+          "link": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
+          "pubDate": "Tue, 27 Oct 2026 15:53:12 -0400",
+          "source": "NPR"
+        },
         {
           "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
           "link": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
@@ -99,12 +105,6 @@
           "source": "NPR"
         },
         {
-          "title": "Polymarket has investigated 'dozens' of election-related cases",
-          "link": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
-          "pubDate": "Tue, 27 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
-        },
-        {
           "title": "Can Black voting power and Trump fatigue break Mississippi's red wall?",
           "link": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
           "pubDate": "Tue, 27 Oct 2026 05:00:00 -0400",
@@ -112,7 +112,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T19:50:16.695Z"
+      "updatedAt": "2026-10-27T20:00:26.581Z"
     },
     {
       "name": "AP News",
@@ -127,6 +127,12 @@
           "title": "Israelis vote in a pivotal election centered on Netanyahu's leadership, Oct. 7 and its aftermath - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
           "pubDate": "Tue, 27 Oct 2026 19:03:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 27 Oct 2026 18:01:33 GMT",
           "source": "AP News"
         },
         {
@@ -148,9 +154,9 @@
           "source": "AP News"
         },
         {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 27 Oct 2026 16:11:07 GMT",
+          "title": "Serbia’s victorious student movement faces tough challenges as it prepares to take power - AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSTVVdW1YVkU2WGt3eXBiYjJHU0NmNUNmSmZxM3ZyWlQ3OEFyV25SZDUwdTA4ckxFc2k0eWhfbUh4ODZkWjVHa3NkWnNqcGpmMVBkZldXWUE1djMxYlUtVlEzcUR5SWYwWEZoRGROaVIzdWQ2R1prWXViVDh5NmVLMUFYakRTem5rbDB5ZTZPMEJmUjRtcWZQaGFSTQ?oc=5",
+          "pubDate": "Tue, 27 Oct 2026 16:27:00 GMT",
           "source": "AP News"
         },
         {
@@ -158,20 +164,20 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE4ybTBpY3ItMkNXQTVVZFJsMW0zYWt6aTUtdnJRVWNqVzlEMTZtLTVPTmx5REVUT2ZFWmRISV9BSFVuWjNGSDc4Y3JXbldvWnJPamdObkJqbjFTTTdaRms2YWdoX2J4YzRYUi1NUl9aeE9FNVFVcW5tcHV2NGlIU2kxd0xvTXhqSFRjQUdMWG1kdkNhRjFmV2djVQ?oc=5",
           "pubDate": "Tue, 27 Oct 2026 15:48:13 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "Ukraine's military debuts aerial rescue drones hoping to cut evacuation times from hours to minutes - AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUs0eDh0RzAtVDBrbkdSQ215ZmNTcGpBWUI5R0tVUTVWMlRVYXFwSzNKb1V6OVlxemdfcTlONTd3R3NmUXZ3TFJtV1VOMXR4STRaUHhZYVE4Vmx6Z0tuN202VG84aWxXTF8yeFpkeklyb1RZYUpXUHlLNHdOcVJTU1lxTHNzZU5PM0k5M21ldDc4bS1peU9Xa0xzamhyeks2?oc=5",
-          "pubDate": "Tue, 27 Oct 2026 15:30:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T19:50:17.165Z"
+      "updatedAt": "2026-10-27T20:00:27.090Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Bond investors are thinking less about the Fed and more about AI, deficits - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZDTFViUjF0VS1rM2FQX1ZjYmpIQncyQi1pMldoZ1N2U2JXUjIydVFJUGN1dXV4STlvYlVEM3FPSEZaSEt3Rnkxc0R5c3JrOEg2b0g2d2pUemFMbXpKNjZ6M1NabkwxcmJrbE5sdWtnU2pDd3R0X3ZkakhTNTZraUU0ejJKdDVRR0NheWhzcXBLUnU2dGxGUXFURnJZaExIM1hTRW9LWE5KbkNJN2RZ?oc=5",
+          "pubDate": "Tue, 27 Oct 2026 19:35:36 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Mbappe seeks to defuse China anger after 'ill-judged' Mao comments - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdUEtRWJxSk5SSk1MQUh1TXhtZlNxa0VwOHFZaWNaMEVHZlpneEJza25scXpwaE5tSFo0MkxDVWwtSzZXWVp1X05EaUpHTFFJQ1JWMXVmdjhTc29ldVF6d081emZhYlduWS1fYXVzMmdLOEdhN3RXemYzR0J6amN1MXRyRHNyZ205dWxqaXcwZXJRaG1IQlR2RkJTUGJIZjJWUEpLVkZEWVBfTWd6c21zdlFBLUJaeVZKekpkZWhMWQ?oc=5",
@@ -182,6 +188,12 @@
           "title": "China hands former security regulator anti-graft official suspended death sentence - Reuters",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQREFlOHg3dHlOSU1aQmo1akw2RDZMclRUQmZFMk5Hb3N6alVMUWFnMWQ5ZW00Rk82V1FuVTNOdXp4eF9DZ0ZZdkUxY08tTmtXR0hOSXp4Qnc3Y0xPN3F4SXV2R0Y0Q201S2tib2ZhSU1RQk5tVnp4LWdVRGljcU1PWnJ5WVNLaWxFV09LYzJvQkpLMHNtOUVNeUZxZldoQkdmTEFrZzlSZGpVbnhLYUlVTTZFM0lRdGtHOElwVDd3?oc=5",
           "pubDate": "Tue, 27 Oct 2026 19:09:45 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "NYSE moves to bring all-or-nothing options to stocks and company earnings - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGhCS0RLa1ctTWJndGN2ZmVuX09pTTV0LXQxcnF1T2ZLUGZUTndKS19vYTZ2NFExT09tODNiX1pYZnlHUGxrZU9OQ2ItMXFUbVhORnVid3BhQjFScFk5S2VsWWNxYl8xVDg1RlBLaHdHM1loRm9zemRwVUtLamNhSkhVTTlyalQ3aERaS0RwUXZkZTVUSTBjVnRmaGh5WVk0SmJ4VlhlY3Y4QTM3RVpPNUhYOEMtdUE?oc=5",
+          "pubDate": "Tue, 27 Oct 2026 19:07:42 GMT",
           "source": "Reuters"
         },
         {
@@ -207,22 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUpaNGJkUU9FeDRxVTFGcVljX3VfUHhKM1p2bm82UjZ3bW5aUUprejByam9oWGpoeWllcC0wRUlNZi1yRlV2YVcwY2tYODVJWXZ0ZVZvMm85eEN4VC00NmJKTTk5enF1TTRZZmZRelpUMzhmY0NiUzNQRVVFdmc3amptbjZFWHJuUHdRSDZkZVlNakZWQks2WWRIVXhWdw?oc=5",
           "pubDate": "Tue, 27 Oct 2026 18:47:26 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Wall Street rises on revived AI momentum as earnings season picks up - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5",
-          "pubDate": "Tue, 27 Oct 2026 18:41:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US agency approves Amazon Leo’s $11.5 billion acquisition of Globalstar - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2pZY3J4T2Fvd0hub09FM2RkaHJQc21pOWRWal80cHpZMXN2RS1La2M2WmpVY1hnbzlnUHNBZG5rQ3hWTFZPdmh0cmFPMHVHV0ttRlhzXzZ2SVdFOTd5ZU42YWFTblZtQnRPQUZNcENPSWJUeEF2TE5JRFFXaUdCRlZmLUFCT1JhT0wxWGpKNlZXYnowUG52dlBqc1JYS2EwcE1PS3gwVzhhYWZ4RkJURTh0LWl6SWxEOVIzT3RXbG1EZw?oc=5",
-          "pubDate": "Tue, 27 Oct 2026 18:30:08 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T19:50:17.569Z"
+      "updatedAt": "2026-10-27T20:00:27.513Z"
     }
   ]
 }
