@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-27T09:25:14.035Z",
-  "lastChecked": "2026-10-27T09:25:14.035Z",
-  "lastUpdated": "2026-10-27T09:25:14.035Z",
-  "generatedAt": "2026-10-27T09:25:14.035Z",
+  "fetchedAt": "2026-10-27T09:50:15.958Z",
+  "lastChecked": "2026-10-27T09:50:15.958Z",
+  "lastUpdated": "2026-10-27T09:50:15.958Z",
+  "generatedAt": "2026-10-27T09:50:15.958Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T09:25:13.157Z"
+      "updatedAt": "2026-10-27T09:50:14.880Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T09:25:13.269Z"
+      "updatedAt": "2026-10-27T09:50:15.055Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+          "pubDate": "Tue, 27 Oct 2026 07:51:18 GMT",
+          "source": "AP News"
+        },
         {
           "title": "Voters in Israel are deciding whether to oust Netanyahu after 3 years of war - AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
@@ -127,6 +133,12 @@
           "title": "Chinese brands cut ties with French soccer star Mbappé over ‘Chinese dictator’ remark - AP News",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTQ4UjVlWS1MVlhxNUFHOVlZSk1IWHk2ai1tRGdfRkNxQ2RBUmd1eDZKMXkxTTR5cjJYTDRxem5CXzRrQ0lUd3VkMFlTVUhHVlVReEk5MWZna1NPempEXzA2UUlqREZzNGNPazdRQlNWdWJqdUZxMTktZHBBV0xkNHAzcHFBbmVhVEY0NHNaYTZmdWpTaHViMg?oc=5",
           "pubDate": "Tue, 27 Oct 2026 07:27:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+          "pubDate": "Tue, 27 Oct 2026 06:49:53 GMT",
           "source": "AP News"
         },
         {
@@ -152,22 +164,10 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVElOWThRbVk5RUdwZlE5RFlPUUFTSERwNXRyQmpERUdDY2xPb2sxSFkzVnVMM0x6RVJZbnJlWnZUOHhIV0JFbU9uMjB1d3o2MXF0ZmZValVtNGRlUEsxVE9feFFQaTRJano4aElvWnlXcE9SQTZiNFE2aDdKQ3dVRnk3UTE3ZVVZQ09YRXFDS24waWl4dExPeUMwcThvX0R3MWJrb3J1WGNjdnF1MmV0TkNOWi0?oc=5",
           "pubDate": "Tue, 27 Oct 2026 05:19:13 GMT",
           "source": "AP News"
-        },
-        {
-          "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-          "pubDate": "Tue, 27 Oct 2026 05:01:33 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Judge extends court-ordered block on Trump’s renovation plans for public golf course in Washington - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0EyQnBGR2diemlHNFhYQXNlelZIRmRZeW13MjhVZFRwX2prOUtIenZvSXdZOF9RbEtOUHZicExLUnFSd0pwX2VBRVd2YzRZZDBaSjVjc2ttVUlsTUxJbHk3c213OTdrM01XODJaSnRVenJUS2R6M2Zvbm1PX3YxNHZ0dUJPOTNud2VqSEVqdDVUOGR3?oc=5",
-          "pubDate": "Tue, 27 Oct 2026 04:02:00 GMT",
-          "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T09:25:13.668Z"
+      "updatedAt": "2026-10-27T09:50:15.577Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-27T09:25:14.035Z"
+      "updatedAt": "2026-10-27T09:50:15.958Z"
     }
   ]
 }
