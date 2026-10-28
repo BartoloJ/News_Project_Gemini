@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-28T03:00:20.722Z",
-  "lastChecked": "2026-10-28T03:00:20.722Z",
-  "lastUpdated": "2026-10-28T03:00:20.722Z",
-  "generatedAt": "2026-10-28T03:00:20.722Z",
+  "fetchedAt": "2026-10-28T03:25:14.810Z",
+  "lastChecked": "2026-10-28T03:25:14.810Z",
+  "lastUpdated": "2026-10-28T03:25:14.810Z",
+  "generatedAt": "2026-10-28T03:25:14.810Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T03:00:19.498Z"
+      "updatedAt": "2026-10-28T03:25:13.843Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Partnerships between ICE and local police surge, report finds",
+          "link": "https://www.npr.org/2026/10/27/nx-s1-6014746/287g-local-police-immigration-ice",
+          "pubDate": "Tue, 27 Oct 2026 23:19:32 -0400",
+          "source": "NPR"
+        },
         {
           "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
           "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
@@ -103,16 +109,10 @@
           "link": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
           "pubDate": "Tue, 27 Oct 2026 10:15:21 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "A 'Green Army' is out to thwart El Niño flooding",
-          "link": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
-          "pubDate": "Tue, 27 Oct 2026 10:12:35 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T03:00:19.814Z"
+      "updatedAt": "2026-10-28T03:25:13.880Z"
     },
     {
       "name": "AP News",
@@ -167,15 +167,33 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T03:00:20.302Z"
+      "updatedAt": "2026-10-28T03:25:14.392Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
+          "title": "Nearly 90% of businesses are turning to tokenised money, DBS survey shows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMERINlphR2lkbEQ5OE1lVy1UX3RXYnhidFQ2bzJGQmYxZnZqNzd0eS1JQUlVdDRIU0Z0Yld6TG0tWFdCdG5RNEtsLTJaWGRzUmlZOFlIZTFrenFlZkdPcnVQMExMcVRCdmR4VmNBUWMwMVl4NnBJQ0ZXYjlXX1FaVzRnUV9ZeS1YM1kxMmw1bEltY1Q4cE9rWHEwdGVUZ3otMXNNWHNxazROdG1RR3VuYnNwVy1mREd3V0VLWVNB?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 02:06:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Oil prices rise after attack on Saudi Arabian refinery reignites supply concerns - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 01:49:00 GMT",
+          "source": "Reuters"
+        },
+        {
           "title": "Stocks get AI lift, dollar holds steady ahead of Fed decision - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZl9HX1lrU1RCazV4ZHJxc1o3YkwyUXcyWmtXUVZwUjE1X2ZWQ0tCY3hkckptWlRUbVJ5RVB4ZUd3bUtxdktMVXpsSnU2MDlzVmQ0TDhWU0ZyeE1FN1dDSzBFckpNbm1OZVJjWHRZeE1mN1RPOUJXME1UcFNpQVhmSkVRbw?oc=5",
           "pubDate": "Wed, 28 Oct 2026 01:40:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "OpenAI plans to buy Google's AI chips, The Information reports - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNElvX2Y3Ym5FZFdxRGVFMHpwNTRIc3lQUXRzNFNST0xVY2FjR2xoMmFCaDNMWFhtQnZuSXlSSF9zamY1aUY1a2JIX3hBWUFhQ19hb2w4a0JIQmtKRmJoNjRadWJnWmprNE50V2ZQSFRQWTI5aUhXRzkwMlhRNktVOWJwbjJnUk9EVVpiVEo1UjhwMWpvek9EYWpFNkRMTzA?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 01:23:00 GMT",
           "source": "Reuters"
         },
         {
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRE96SkVILWZEWGsxdTRORUJsWlJ4YmNlclNadUxmdGpHRlNONHllVDY5eTBiZHBsbndwSEtBeDI0STFqdDhsNUxLVVhhVmZrWFdGUVFCaDNGd25VVENDcDdmT1ZUMHFFRWN2enRXeXk1ZUNfNHp5OE8wam94MktvQlNzazVNRG1Ed2lXYTFMVjNCY2JPckJRWlIyQ2ZvVzVqOEsw?oc=5",
           "pubDate": "Wed, 28 Oct 2026 00:22:00 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "SK Hynix unveils $75 billion shareholder return plan after posting record profit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcy1XMnJsZEJsNUwxOVB1LWhGV2dXellEM1dVVmYxc0ZKYk9oMEs2WEJGcmZsLWFiUUQxREdWOFFvUXYwV2VUWHF6M2NBbURtWVJqWHd2clVISmdKVGEzQzdJRngwcUFPYUlBZFJndG5WRTBUcENrUG9Hci1NMGxpSFV5X3hRWXdmZ05ISkpwZUpaRmdTemFrYXk5Qk1BbWN2dEZXY05hTS1lWHc2QTQtZ1NB?oc=5",
-          "pubDate": "Tue, 27 Oct 2026 23:49:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "King Charles says Commonwealth to confront slavery's injustices, as calls for reparations grow - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSldOOVRaS0FjRlZiQTh4eFhkTHlZdGx3U20zX3oxcUo2N2VxNnZNV2ZReDdRbVFvUFNfbVpUaEVYRms4dUJfUEFLNG1pS1Z1V3hRT0tsVi1YV29fb21nLTM4OUxFSk1BUjJ3YTFlMnZZZmJEVWI0QTRQZnRWbkdyWEJuOWFoQ1F1bFRQdW91aU5TT293RjViREE5Ump4WkN0OE0teHIxVQ?oc=5",
-          "pubDate": "Tue, 27 Oct 2026 23:33:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Rights monitors raise concerns over senior UAE diplomat bid for next UN boss - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVEo2NDgyNjdJcHpxNTlUcGpCRURGc2JWTjhjSUx0aHBYUEhCcVlTajg1QjRhczNUeVBRS0JURTlMYU9VMGtUVks5MnBCal8wOWI5TTA1eFA4SU8xZDBHanZ2eUZSTVMwbWVVQTRpS2VWNW5STjRVYjBsVHBKRGZEaG1nRERnS1ExTGxad1NfUllEc28tc2k2NnpiU0l6V0h5dF83WmswWUV5YWpaM1Z0UENqTlpFVFFRanI0Z21aaFZ5cGpD?oc=5",
-          "pubDate": "Tue, 27 Oct 2026 23:26:50 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T03:00:20.722Z"
+      "updatedAt": "2026-10-28T03:25:14.810Z"
     }
   ]
 }
