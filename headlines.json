@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-28T07:00:21.060Z",
-  "lastChecked": "2026-10-28T07:00:21.060Z",
-  "lastUpdated": "2026-10-28T07:00:21.060Z",
-  "generatedAt": "2026-10-28T07:00:21.060Z",
+  "fetchedAt": "2026-10-28T07:25:17.266Z",
+  "lastChecked": "2026-10-28T07:25:17.266Z",
+  "lastUpdated": "2026-10-28T07:25:17.266Z",
+  "generatedAt": "2026-10-28T07:25:17.266Z",
   "sources": [
     {
       "name": "BBC News",
@@ -57,7 +57,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T07:00:19.827Z"
+      "updatedAt": "2026-10-28T07:25:16.262Z"
     },
     {
       "name": "NPR",
@@ -112,11 +112,23 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T07:00:20.103Z"
+      "updatedAt": "2026-10-28T07:25:16.366Z"
     },
     {
       "name": "AP News",
       "items": [
+        {
+          "title": "Serbian police say assailant killed after attacking a guard outside the Israeli Embassy in Belgrade - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1hja3hGcG1XTFEyajJxMVdPaUZZdkVnd1hMOUlEUDU1Z091NHlvR3FmelozWjhFc2Z6YjVsZWJBR1FoS3F2OU1QU0g0T3ZkWmVqSkFkYXhhMEludXdlaTJNdnU1bE5zNVFVYTZLeURJWUtNY0hSTWJ3ZUt4cWJ1dlVjMi1nWGtNc3Q1RlNJSGFjdw?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 06:58:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Israelis await final election results as Netanyahu remains far from defeated - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 06:52:00 GMT",
+          "source": "AP News"
+        },
         {
           "title": "King Charles III arrives in Bahamas for official Caribbean trip as slavery reparation demands grow - AP News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkotV3h0WGxNZkd3ZDliRzFVLTJ4cGhNVXNsMk1XS1lPLXZyOVp1bFEwSUJPV0tJcGVVakh1dFNxTEM4cjI4ejA2T0NPT3lIdDNqZUJnNl9ITTR0dno0YzdaQkJiNVkyb3A4MlVlb0RGUUhWRFY3cU1kV3FpT0NGaWt1SHdxc1doZDhwektLRGdPYWpyYjZKUEZMZGo5YVF4a013Y3VLMjRCZEp1ZW9PVA?oc=5",
@@ -148,26 +160,14 @@
           "source": "AP News"
         },
         {
-          "title": "FACT FOCUS: Kennedy's claim that Arabs 'don't produce science' meets a Nobel Prize reality check - AP News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3FzN2hmU2pzMWV4aE9ZNUZ3aGxWanQzRTZwUGpGRkNnVVhHOURnLTltR2tvWlM5WkR0c19ueWFMejBWY25WWDNBbC1pN24yS19DaWJKTUE2bF8tV1hDSGpUMDQ4MFdsVFF1b3Q1TXVMeHFMazQtbDRMM1hRN0ZoQjAwSXJFMHVsbnR4eDdnclZWanBCYWZyVkROYVlzdw?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 02:06:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnBPa2VzUUoxM3RCb0cyd0Fmem05T0lHMVJrejNkdGdGLU1xRmZGQ0g4UDA5N2g2NVRSU0QyTkVWUTFaYXYxUVhDVUZuZElEaDA3dkNZTW9nM3VjXzlyR2R0LXA5a0doNmh5SF9WVVd0UDlYb3hRRHVnalJuZjdGSkNxYWVmUnVLZlJVMXFzX0tReVV0MnVDQ2Jodw?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 02:02:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "U.S. Department of Justice - AP News",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 01:36:58 GMT",
+          "pubDate": "Wed, 28 Oct 2026 02:22:17 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T07:00:20.640Z"
+      "updatedAt": "2026-10-28T07:25:16.803Z"
     },
     {
       "name": "Reuters",
@@ -222,7 +222,7 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T07:00:21.060Z"
+      "updatedAt": "2026-10-28T07:25:17.266Z"
     }
   ]
 }
