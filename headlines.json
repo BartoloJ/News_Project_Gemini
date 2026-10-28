@@ -1,12 +1,18 @@
 {
-  "fetchedAt": "2026-10-28T21:00:21.663Z",
-  "lastChecked": "2026-10-28T21:00:21.663Z",
-  "lastUpdated": "2026-10-28T21:00:21.663Z",
-  "generatedAt": "2026-10-28T21:00:21.663Z",
+  "fetchedAt": "2026-10-28T21:25:15.438Z",
+  "lastChecked": "2026-10-28T21:25:15.438Z",
+  "lastUpdated": "2026-10-28T21:25:15.438Z",
+  "generatedAt": "2026-10-28T21:25:15.438Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
+        {
+          "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+          "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Wed, 28 Oct 2026 21:07:06 GMT",
+          "source": "BBC News"
+        },
         {
           "title": "Israel's election deadlock is a sign of the country's deep divisions",
           "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
           "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
           "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Wed, 28 Oct 2026 20:24:39 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-          "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Wed, 28 Oct 2026 20:22:49 GMT",
           "source": "BBC News"
         },
         {
@@ -57,11 +57,17 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T21:00:20.601Z"
+      "updatedAt": "2026-10-28T21:25:14.452Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Trump administration wants to remove regulations on a super planet-heating gas",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
+          "pubDate": "Wed, 28 Oct 2026 17:15:09 -0400",
+          "source": "NPR"
+        },
         {
           "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
           "link": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
@@ -103,36 +109,36 @@
           "link": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
           "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
           "source": "NPR"
-        },
-        {
-          "title": "Partnerships between ICE and local police surge, report finds",
-          "link": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice",
-          "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T21:00:20.686Z"
+      "updatedAt": "2026-10-28T21:25:14.499Z"
     },
     {
       "name": "AP News",
       "items": [
         {
-          "title": "Federal Reserve keeps rates unchanged despite elevated inflation - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 20:15:00 GMT",
+          "title": "Report: Peltola's campaign involved in effort to recruit second Dan Sullivan for Alaska Senate race - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 21:13:00 GMT",
           "source": "AP News"
         },
         {
           "title": "Netanyahu and top rival face postelection choices that could redefine Israeli politics - AP News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 19:49:00 GMT",
+          "pubDate": "Wed, 28 Oct 2026 21:06:00 GMT",
           "source": "AP News"
         },
         {
-          "title": "Report: Peltola's campaign involved in effort to recruit second Dan Sullivan for Alaska Senate race - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 19:36:00 GMT",
+          "title": "Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDM3hOQUxUMmVMYTJUeWxDVXAyRnh6Y0xSaFR0cTdHeDY0aW9LNnFDdUxXczNGenlLM2FpbXhrLWpnbFVVYkRUUFJfUDdMX3Y2YktHa1prTi1TRE9NSndVWjQtbkIybHRJdTZxUmYtR00wMHE0ZnZvcTFUSnRNMHY5OFJCbUE5dVVseExuVHNOUG53bXVfbmpZYThFSmlwQkpERnV4YnR4TjhZLUhV?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 20:49:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "Federal Reserve keeps rates unchanged despite elevated inflation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 20:15:00 GMT",
           "source": "AP News"
         },
         {
@@ -154,12 +160,6 @@
           "source": "AP News"
         },
         {
-          "title": "Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDM3hOQUxUMmVMYTJUeWxDVXAyRnh6Y0xSaFR0cTdHeDY0aW9LNnFDdUxXczNGenlLM2FpbXhrLWpnbFVVYkRUUFJfUDdMX3Y2YktHa1prTi1TRE9NSndVWjQtbkIybHRJdTZxUmYtR00wMHE0ZnZvcTFUSnRNMHY5OFJCbUE5dVVseExuVHNOUG53bXVfbmpZYThFSmlwQkpERnV4YnR4TjhZLUhV?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 18:20:00 GMT",
-          "source": "AP News"
-        },
-        {
           "title": "FDA scientists opposed the Trump administration’s move to ease peptides access - AP News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOanQ5LWFuekk1QTdOVThIM2R2TXYxSzdXTlZpWGdDcTFLeDdNR2U0NjRSWVpxV2hRQ3FObVdnNFFwR1BTYjNhVGNTeDl5N0VfYnYxMGVSdmlpZElVYnBUU0lORzhPZDFaZHlWTmR2aDVOV1dyTUI4WFhVazdtbENGeXZ0MEN6QnRpenM3cFVDa01zUQ?oc=5",
           "pubDate": "Wed, 28 Oct 2026 18:00:00 GMT",
@@ -167,11 +167,29 @@
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T21:00:21.178Z"
+      "updatedAt": "2026-10-28T21:25:15.059Z"
     },
     {
       "name": "Reuters",
       "items": [
+        {
+          "title": "Flavio Bolsonaro, from US, declares himself rightful president-elect of Brazil - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTXM0WlJ4eWFnOU96alFqZTd5VklwV1pETlVBNjdhejYzX0hXUHQzZFczWkxRMzhxOGhzOWJqSGdwRTlubFRqMTJQckJ5NXljSFFqYzB2UXRReTVCc0lDR3BvOVlhcERydVBUU3duZFA3THNRZmt1OGZseURzeDAwX2ZCSE5tX3pRUUJ0elpaMU5odHFkcmhJQVU5OS1yRGp4N0FPVVVEWWJQMXFWNHQyOExkVWVjVFQtVDl3SGcybkt3ZzRE?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 21:14:39 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "A timeline of Brazilian Senator Flavio Bolsonaro's wild journey to the United States - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1NELWo0YlVqWmdjbkZpYU5zTHB3NlNMQ19zek1rZ1FyLU9ta0hoZ2NNc1kzSlJBSWFDejRPVThqck5BWlUxU1JGMkFZOGRmQjlkMFNJQnBPTjIzTUc3SDVJeThmT3lMdU8ycVpWc2huanE4alJXa3ZSal9vNUtVWnZURkJlNHhCbUE4d18xZ0NwN19kbEZpYUEyaWk1V09oU2NsWkZuTXV0OVRxNEg2MzB6SFIxblFtZTQzWHN5QQ?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 21:01:30 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran sees only unacceptable ideas in latest mediation to end war, official says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
+          "pubDate": "Wed, 28 Oct 2026 20:37:00 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Dolores Huerta, US labor leader and force for human rights, dies at 96 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONzV6Vl9La1pvN1dMdUF1bmV0Qy0tc1l1VkJ3N1Q0bmNzLS1oaThhTWZkSXVGWUIxTTVmTFd4eHgzTk93dzhnZXozRVI2ODBiMC1tRGF2ZHdFYkd3MFBFa3M1c0l3ZmhYVlk3eW1RNXpXUHJNYkd1dmQwYm5VRjFrTmFyVUJxR0RpT3hyY24wUE53eWJxeVhTaFN0NEczekFlbHBpb3B5ZlFaMWNvYlRJ?oc=5",
@@ -201,28 +219,10 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
           "pubDate": "Wed, 28 Oct 2026 20:03:43 GMT",
           "source": "Reuters"
-        },
-        {
-          "title": "Flavio Bolsonaro declares himself rightful president-elect of Brazil - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYWxyOENKWVdrbnhkd21SeEw1WmtqanpZUU5OQ1ctZ0xWamdfYnQyUC00N1VzYkF1akNBR2dHSVJEWmhSbFppV3ZndC1rWmZ5R2cyR1BYeS1OZDlkdkY4T3I3V1hBR240eWUtd2dUdERQZURYa0hPNkFfTEFfV1hmVTV2MHlsQloxSEN6VHEzSTRQWFFhME1UeUIzdzd0Zk95b1R6c21nNUtQYk05SGRST2t2Sy1DZUU?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 20:03:32 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 20:01:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oracle eases AI spending worries with plan to turn cash flow positive - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWxPZy11QV9mWTN3NnBKTlNXVWhVQ3ZsSzA5bGRwZnRrNXZsQW83NWVreGhVbmhkNE1VeDc4V0VVamtQb0lCaFU3SEYzcG1paGJ3WWt1cHB2YnlUQ0VvTWNHcEdyalZMenkxSVo5Vm5MTlowcGR4UDZGcnZOcmhqM285amVvTmhLX2xIWTVUM0hXbUJsWlhfT2RWMUV6U2ZIeldYUkRXUzlNTVk?oc=5",
-          "pubDate": "Wed, 28 Oct 2026 20:00:22 GMT",
-          "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-10-28T21:00:21.663Z"
+      "updatedAt": "2026-10-28T21:25:15.438Z"
     }
   ]
 }
