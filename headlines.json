@@ -1,14 +1,38 @@
 {
-  "fetchedAt": "2026-11-14T07:15:04.494Z",
-  "lastChecked": "2026-11-14T07:15:04.494Z",
-  "lastUpdated": "2026-11-14T07:15:04.494Z",
-  "generatedAt": "2026-11-14T07:15:04.494Z",
+  "fetchedAt": "2026-11-14T14:11:19.883Z",
+  "lastChecked": "2026-11-14T14:11:19.883Z",
+  "lastUpdated": "2026-11-14T14:11:19.883Z",
+  "generatedAt": "2026-11-14T14:11:19.883Z",
   "sources": [
     {
       "name": "BBC News",
       "items": [
         {
-          "title": "Microsoft says services fully restored after for day-long global outage",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 14 Nov 2026 11:41:20 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+          "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 14 Nov 2026 11:30:10 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+          "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 14 Nov 2026 10:42:20 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "What we know about the ground stop and what to do if you're affected",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Sat, 14 Nov 2026 07:42:11 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Microsoft says services fully restored after day-long global outage",
           "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 14 Nov 2026 06:42:27 GMT",
           "source": "BBC News"
@@ -17,12 +41,6 @@
           "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
           "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 14 Nov 2026 05:52:31 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "What we know about the longest ground stop since 9/11",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 14 Nov 2026 03:45:21 GMT",
           "source": "BBC News"
         },
         {
@@ -36,32 +54,44 @@
           "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
           "pubDate": "Sat, 14 Nov 2026 00:03:56 GMT",
           "source": "BBC News"
-        },
-        {
-          "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-          "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 14 Nov 2026 00:03:52 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "Setback for SpaceX Starship rocket's double-catch test",
-          "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Sat, 14 Nov 2026 00:01:01 GMT",
-          "source": "BBC News"
-        },
-        {
-          "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-          "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-          "pubDate": "Fri, 13 Nov 2026 23:40:45 GMT",
-          "source": "BBC News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T07:15:04.261Z"
+      "updatedAt": "2026-11-14T14:11:18.803Z"
     },
     {
       "name": "NPR",
       "items": [
+        {
+          "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+          "pubDate": "Sat, 14 Nov 2026 08:08:05 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Perspective: A new kind of White House press secretary",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
+          "pubDate": "Sat, 14 Nov 2026 08:00:00 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
+          "pubDate": "Sat, 14 Nov 2026 05:00:00 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "An organ transplant controversy tests 'the dead donor rule'",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
+          "pubDate": "Sat, 14 Nov 2026 05:00:00 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+          "pubDate": "Sat, 14 Nov 2026 05:00:00 -0500",
+          "source": "NPR"
+        },
         {
           "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
           "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
@@ -79,150 +109,120 @@
           "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
           "pubDate": "Fri, 13 Nov 2026 17:36:45 -0500",
           "source": "NPR"
-        },
-        {
-          "title": "What we know about the FAA nationwide ground stop",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
-          "pubDate": "Fri, 13 Nov 2026 17:27:38 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
-          "pubDate": "Fri, 13 Nov 2026 17:18:55 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
-          "pubDate": "Fri, 13 Nov 2026 16:55:13 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
-          "pubDate": "Fri, 13 Nov 2026 16:06:09 -0500",
-          "source": "NPR"
-        },
-        {
-          "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
-          "pubDate": "Fri, 13 Nov 2026 16:06:05 -0500",
-          "source": "NPR"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T07:15:04.395Z"
+      "updatedAt": "2026-11-14T14:11:19.020Z"
     },
     {
       "name": "AP News",
       "items": [
         {
+          "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzlDRHBLSTNHTHRtbnpudnNXdXZpYnpEQ1hhLVNrU3ZRM0xRNm9NcUx2NjRIVFVOQVJKWXZGZzZCZ0hTcEdjd1ppTkFIelBlc282aU05SS1YYU45WTNwRUx1RzBCX3hwNW9Ed20wQ1JmQ3hHVmFSUktDSjM1eklkYTFPN3FkWUR0V1pUSjRIMHk3MjJjX0VrSm8zaFJ6a2paSnRwNzVrQlZpZw?oc=5",
+          "pubDate": "Sat, 14 Nov 2026 12:43:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "French-speaking nations hold a summit in Cambodia as a conflict in Africa threatens a rift - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSFF4emZuN20xb2VrOFVEVmRWbEppdFl4UDRGN040eTlPZjZCcm9Rb3AtNGxhWU91YjQ5UlI3VmxPTFlsa0hoMTZRY1M4Y3V6ZFpJdkJKaVBpQVNQdm56MHdyZHB3R1ItaUdVUktkSkRuUlJRaHQydFVZSmZoTWZoUHNyZkVVVUxmZk1GZGFuVFZOWFNUX1ZoN2liMlJ1eEVkM3pLejdxdlIzQQ?oc=5",
+          "pubDate": "Sat, 14 Nov 2026 12:25:00 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "2026 Washington Measure 638 Election Live Results - AP News",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tTFBxck1yQUZOejFWdUk0TUxZcDBlYjlRbnJIUWVXZ2YxZWUza2hIZUtHeFhzdkxyYU5ZcGcxZHl0RzdjYU1kYl9UeTZTY1ZybVJHU2xCcTJPVDJhel9VRDhpLVZjMUU0Q2RPRXVkYTRwOTBQNkc5YmE2UVJoS28?oc=5",
+          "pubDate": "Sat, 14 Nov 2026 11:53:27 GMT",
+          "source": "AP News"
+        },
+        {
+          "title": "2026 U.S. House Election Results - AP News",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+          "pubDate": "Sat, 14 Nov 2026 11:47:12 GMT",
+          "source": "AP News"
+        },
+        {
           "title": "2026 U.S. Senate Election Results - AP News",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 07:12:59 GMT",
+          "pubDate": "Sat, 14 Nov 2026 11:39:15 GMT",
           "source": "AP News"
         },
         {
-          "title": "FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVUkzUkUtOXFKRWc1dS14cHgwQzhLclZFZjNzZFJkb3R2X0JDSlJaYnR5bE1QbHhtZjhtWDZVN3VaNkNISUtqdkFtUktDMHJ3RHdEajZFLUF4RFdfTm5MaXZzRjJFRXR6UTBYcXVndGtwOGlVbHlLYXd5eFc0THc2d0ZWSUhSaGVjekE?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 07:00:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Colorado U.S. House Election Live Results 2026 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HLVhOYUhxMDBrY2F6eUNZNkF3bDItVUNXUjRzZzhva3RBYmdhZmd4TU5McmtONnNjS3hnZ3BIU045MWN6SThBNnd4Vmttd3c5WUlaVzFacFg0V3FmcEJEQUIxaFp3WVFYRHc3MnlzbHhCMlVTVVhjeA?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 06:30:25 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHZxR0tjdTY5VnFOYTNrR2pnTENGQnZ5NUVQNDlSYmVuU1lOU2xwZllqRVVFUVI2Q181NFFpU3hjNEtNNHlGRFg3TUhabGJoX2k2VUJ4SmNldjBYNTdidlpjbGM0bklGZUk1S0dEVDN6U3VGRWpvMnZSX2ZzUHF5cEFqOEpmOEcydGliRnpjMjJMeVVkT044WHJJZWw?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 05:14:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 04:57:00 GMT",
+          "title": "Appeals court says US wrongly withheld highway funds to NY over immigrant licenses - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUZ0Z2FBQXd1dE1DYzFpN1Z6U2ZfRENHZmQyVk4zR0FqNldXSlh3SDZBbGRSODgxZEExOHJnOVNTaHZ6UlhnS090Qld0OW00bmE2aGR2bjd2aXVfdVJpakswV00zalVGQXJ0ZWs2VEQxTUhVVElIQUhnTnhVd3IxZnVDTjkxWTUxRVlvbjRFdnM4djNJR1FyUlhsRFdnNnNXWWxHUGoxVXY5c0dTRkVMeEdB?oc=5",
+          "pubDate": "Sat, 14 Nov 2026 10:00:00 GMT",
           "source": "AP News"
         },
         {
           "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 02:00:32 GMT",
+          "pubDate": "Sat, 14 Nov 2026 09:51:25 GMT",
           "source": "AP News"
         },
         {
-          "title": "SpaceX’s Starship soars into orbit after booster explosion prevents an unprecedented double catch - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbEJSd3lrcThXUUdyRWY1M1JSVzRrdG9OcFVQTUVRRXItcjlnN19uSFdqV1BJdEVFelI3anBNZm9lZkpsREYyTXNUVG5ndU5tZmlGY0ZtaGs5RHpQX0pVSllTV0M4RnlMeTFubXBydjVqN0k1V3VpeEZ1SEtVSUwtVkNIOWw5RDU4bWpJWmdwaHR2R2s0a0hR?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 01:59:00 GMT",
-          "source": "AP News"
-        },
-        {
-          "title": "All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlM1d3RDejItNTdSdk9KWU9PaWZPanZTQmNHd3JRY1BPTGJOYWRkaWYweVVqSzUyVkFadl84SmdVT3pyVVk2RzJYZmxMZFBPazVhQ2RKbklvSnlKZHQtWnZuM0xROU1fSDlSZVAtdzg2Y1BKS3VBWlAwMGllM3pLUFkyT1lwcWgxa3YtS0hCYW5NNGFtcGNlT3AtS2YwZnJZbWowSWlXSUhCM0dJSkE?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 01:52:00 GMT",
+          "title": "Microsoft says services fully restored after hourslong global outage - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHlYRjJoX0RfREJ3UFBlQ3pacWMwMjBXeGJETGNBTFIzbHZMd1o0UFpMR00tQ25kb0x3YlBjZk4wd25hQTVoQ0FQdTVydERxenNBbkx0YVU5VGtnMUJwcW0tc2FFZ0tsMk0wbFc4TjRHWFhid01xWmljT0tZMVFicUVWRk1ueWdscFMyZXdHWGVJWjdSQ1ozLWJGdXpNMFRQdFc2Mw?oc=5",
+          "pubDate": "Sat, 14 Nov 2026 09:21:00 GMT",
           "source": "AP News"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T07:15:04.483Z"
+      "updatedAt": "2026-11-14T14:11:19.525Z"
     },
     {
       "name": "Reuters",
       "items": [
         {
-          "title": "Microsoft says consumer products services recovered; still monitoring enterprise services - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkxxbE1VclJTQkp3R3ZZR3M4b0UtTUNMMmIzb09GSzlZQU1kUDQzN3ZKRXhleXhXV1BUd1lEMXVSMnZBUDN3WEwwdUM0QVhydk5mZWwxZnRndlJHd2FEQUpWUnRaeG5raGFMY2Z2M1RHRlZYLThiVktPTVVsYVFFS0dkMHlyNmtPNWRlQ3NsYjNRY0dxZVdQaFhRUlRpMTNjdlZqbDBZcVg3Q0tRV3ZFWlQ1bTJIZHl3WXFDV2FJbFVocm8w?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 05:40:00 GMT",
+          "title": "Photos from airports after FAA grounds flights nationwide - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONzBhVVlrM3VvX3JkUnJPNkFvMENScTQ5UHl2RmVtOHlKN2VzTUpHRnVNaFFDNmtHdG1iYkJtM3FKTDhlQ0oxR3ZObG9oWnN4Qk1YUE9JdC1wWGp5YV9MbXBrM05ENlZxREg1eFlOTzVxWXpPbjFXQTFqcVRlQi1FWW9JY25NQ0NxUGdIZG0tLXVfMl9mLVFlMGFXcWk4UQ?oc=5",
+          "pubDate": "Sat, 14 Nov 2026 13:53:24 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump, other Quad leaders to meet in Manila on Tuesday, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkJpakJlUjRXbXpPc01TZFBYdXpIcGdDWldNS0J4U2kwZ2pqczhDekh3UEFraUx6bHdacG1aem1qY1k1Y1haYVpPVTROa21JOVhZaldkWUxNTE91UmJlSGZ2RFNsbGQxajBlOGlYR1ZuRmwwYkVxYU9uZmtiY2pXMHJuZlBOWFU5WkU1Sk93SnFCcHhGRGcwN1h0bnliVHlwVE0xbG9FWE9aWk15LXJFbg?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 05:36:00 GMT",
+          "title": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUy1QYS1aemtYbV8xczk0cmRVeHl2ZGNLTlFwVE1SUUZ3OHctZGRnZlpTMi1DRTFkbWlXMWRaVGliVk8xU1N1MGZ6dVdNTTJHd1BMaTVnT2JQaTAwdm1QWWh4aElDM1JlMVJvcjJNQ2pIUWlHd09qUXNuc2Q1Qnd6ZVJGTlIta3dkaHlMcWRYZC1KX0tneTJKVkNSaVdZQXlFX2Y2Z0Vwa1VmNGRzZjZYVDRRdDBNLTNF?oc=5",
+          "pubDate": "Sat, 14 Nov 2026 12:26:12 GMT",
           "source": "Reuters"
         },
         {
-          "title": "South Korea should not fear China's rise, foreign minister says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTFpNU1OeE1XUnRFajBJZDlmTll0dXZQamU1YTlIRnhMdjllNDJDVFJYYTFsaXB6YzNwQVRtRVdsMmNKd1dKbk94Ri14YjBCMFdDSzU1cWVuVTQ2SmpOb293RkhLYmtKWGlId3JJYVR3ODBCa1JrNF9pNFNIZ2ZJYmVKSlhBVXJpUFN1UzZ5SG9HcTFSV0huZnpRajBWWWpBU3daYXM3cmpLS3Vudnc?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 04:49:00 GMT",
+          "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
+          "pubDate": "Sat, 14 Nov 2026 11:41:25 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US flight shutdown exposes deepening air traffic network crisis - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjVhcU43VTJkOW9MLXR5bEkxOEMydDE0a2NTU1dsVXE3VWY2bjdhWXhpRllkUmhiYUp4VlYwOU1WWWpYeWctajkzYURrSlJXWTNvZzZIQWs4VVJWcW53aVpzajZkTExSTldjOHFEYm9feGtpZUI0UDN1ZzYzREFJM2N0NHVyREV3M01FVlhoa2ZTUUFhZ3FDazNZSENvTmtGMXp2WHlTMldVNDg4SkJhZHFhd0RGaF9WN0pLand4em1uVlZY?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 02:18:00 GMT",
+          "title": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF?oc=5",
+          "pubDate": "Sat, 14 Nov 2026 11:04:10 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Rubio assails international court in speech to conservative legal group - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblc1UEZaUHNzR0QzV051c0Nid3k2WWI3Y1RFNm00LW4wTm83X0Y5MlFRU29fZ0RvYnJFVURiMV96VS1HWmZnV1BkUW16MHJYdXdRbjJSOTJERzh5NXhiRGxjNUkwRDVwNjUxdHF3cXRKN21GNUVELWx2VHpMeHpUYjdjZWY3SFZ6QWs0MWh4cXFnUk1aMFMtT1NIMEl0VTJfcGFOalFvUG41ck5wczB3?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 01:06:00 GMT",
+          "title": "At the Supreme Court, Trump aims to cut the power of judges again - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2VIZWp1ZnhpQ09VVEdDSjhteU9qNzdxWEYtZ1d2aEs3cjZ4SUtEUVlxanBWTHlMX1JTbGdMd3A5UkZrMHFVc1ppTUVka1RTTEctN0toYkFualFicnFDNVBaSjhESmd4dlBVMDdCNERsNThVc0duRkJTc3BNdzFyVS1iczc4LXM1UzlXczlvdGlocWZjWTdMczlYak1GS1N6OWc?oc=5",
+          "pubDate": "Sat, 14 Nov 2026 11:02:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "What we know about Chinese businesswoman Alice Huang - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNVlveUI2ekRqQWdDUnE5Rk9IR0hVQWdqVmNFam5oRWZXWVQ2UHBOZjV5NFhEYUszSnNuWkhfb3ltV1NSbFdteXRaaXhTMldYNDBHeVNCSkM3d3Z0Sm1VcnU1R2FMZnBYZHhKTGZVSXlRZVhMMjZIWkNSbFpWcm9fYkpzS0xvQ3JpWnpxcmR0OXdIVU1kZzBleEhXZllNTTNOS1ViSEUxa3FXbjQ?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 01:05:00 GMT",
+          "title": "Indonesian president orders greater share of mining benefits for the state - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTU44U0puNksxb3BGUUk4anBoaVJabHBiOUVvQWUzblNJUGpLQWZMNDdyQzA2cHhoVHd6NFFXdy1aRHVyVU5MblhwR2I4NUZ5MFJscExRX3JnQWxCanNta2MwZGlMMUMwWkczcFY2NE04U0FITTVtWGwzcTlHMjV6Q18wdG1sS3dkM1Z6d1U1S1lkSnUtcHFrREpuRmUxbUJyZk9UOElZNkVsaWEwenV6ZmhLM05sX1hkR0E?oc=5",
+          "pubDate": "Sat, 14 Nov 2026 11:01:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US loses measles-free status after continued spread of the disease, WSJ reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmxORmhpLU9PVHl1bVFzT1A5QVhUVU5FWTM5Uzl3WDRJeWFvUXJVNWJxcmp1T3A5T2Z3MmlTMjJLUmVuZVRxa1VFWVFPbFZ2TnFBRlpNU3ZqOUpzczBTTzBkRXVaZ01oZEU5WGM4SzQ1ZTlBeFh0YnlMbzgzNHN4VFpTc3BiYXJMVEdkUHdFWFZKYV9vZzhHMUV4MjV6WGZjRndHSFlUczFvV2FIcFdPeHpYSQ?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 00:55:00 GMT",
+          "title": "UN climate chief urges speed as COP31 confronts fossil fuel divide - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUdMa3BVSk45alRMRFZoSmM0ZllsLVVMcEdKaDZpbzh5UW5EeGR2WHVmYTh5aE1KRnlleEIwMEVyc1o0VVVael9pMHVaa25BSmpZYUpENWxCZ09aOW1VRlJqZkhMcjVSWnlXcFNBaGFzSUkwbG85SlpZZF9jYlltMHkzRC1fSUxVSFNRQ2hfVEdUMzdXSHc4TzBzZnFFZFhtSU1fNjJVcFppZ1Z2REp6bFdDV0NGbGlRVHc?oc=5",
+          "pubDate": "Sat, 14 Nov 2026 10:39:55 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
-          "pubDate": "Sat, 14 Nov 2026 00:25:00 GMT",
+          "title": "Iran's navy says oil tanker on fire after hitting mine in Hormuz - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
+          "pubDate": "Sat, 14 Nov 2026 10:31:30 GMT",
           "source": "Reuters"
         }
       ],
       "ok": true,
-      "updatedAt": "2026-11-14T07:15:04.494Z"
+      "updatedAt": "2026-11-14T14:11:19.883Z"
     }
   ]
 }
